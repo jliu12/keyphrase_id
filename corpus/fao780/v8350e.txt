@@ -1,0 +1,1391 @@
+<title>Environmental impact assessment of irrigation and drainage projects</title>
+<section>1</section>
+Preface
+The importance of environmental protection and conservation measures has been increasingly recognized during the past two decades. It is now generally accepted that economic development strategies must be compatible with environmental goals. This requires the incorporation of environmental dimensions into the process of development. It is important to make choices and decisions that will eventually promote sound development by understanding the environment functions. The United Nations Conference on Environment and Development (UNCED) in its Agenda 21, Chapter 18: Protection of the Quality and Supply of Freshwater, underscored the importance of environmental protection and conservation of the natural resource base in the context of water resources development for agriculture and rural development.
+Much of the land currently under agriculture is deteriorating due to inappropriate planning, implementation and management. Natural resources, particularly soil and water, are being seriously affected. Soil erosion, desertification, salinization and waterlogging reduce productivity and jeopardize long-term sustainability. Agricultural expansion programmes have often encompassed marginal land in many parts of the world. Wise management of the environment requires an ability to forecast, monitor, measure and analyse environmental trends and assess the capabilities of land and water at different levels, ranging from a small irrigated plot to a catchment. Adoption of environmental impact assessments (EIAs) will enable countries to plan water and land use in an integrated manner, avoiding irreversible environmental damage. Contrary to common perceptions, this would lead to higher economic benefits and sustainable resource use.
+Irrigation and drainage projects invariably result in many far-reaching ecological changes. Some of these benefit human population, while others threaten the long-term productivity of the irrigation and drainage projects themselves as well as the natural resource base. The undesirable changes are not solely restricted to increasing pollution or loss of habitat for native plants and animals; they cover the entire range of environmental components, such as soil, water, air, energy, and the socioeconomic system.
+A increasing number of developing countries are accepting the principle of environmental screening of development projects at the planning stage and hence are looking for guidelines to environmental impact assessments. Many multi- and bilateral agencies stipulate environmental impact assessments of proposed developments as a condition for lending, technical assistance and development support. FAO has, for quite some time now, been emphasizing the environmental impacts of irrigation and drainage projects, and provided technical assistance to a few countries in evaluating environmental impacts.
+The challenge now is to provide the appropriate tools to those who wish to undertake environmental impact assessment in irrigation and drainage projects; a guide to a systematic approach to developing a basic understanding of the environmental problems and a methodology to assess the scope and magnitude of environmental damage that may be caused by irrigation and drainage. Despite many publications in recent times, it is felt that an appropriate guide is still lacking. The need for an objective EIA guide with focus on methodology that is applicable to developing countries is indeed great. It was in this context that action was taken, jointly by FAO and the Overseas Development Administration (ODA) of the United Kingdom, to develop a guide to undertake environmental impact assessment of irrigation and drainage projects in developing countries. The guide is a follow-up to the ICID environmental checklist. It takes advantage of some existing guidelines as well as country
+studies in environmental impact assessments.
+<section>2</section>
+Acknowledgements
+The authors wish to acknowledge the considerable assistance provided by Dr Arumugam Kandiah of the Land and Water Development Division of FAO, Random Dubois of the FAO Investment Centre and their colleagues at FAO. Also Robert Bos, Executive Secretary of PEEM, made a major contribution, in particular to the section Human health. Other notable contributors include Peter Furu (Danish Bilharzia Laboratory), Alfred Heuperman (Institute of Sustainable Irrigated Agriculture, Victoria, Australia), Dr A Mauderli and Martin Fritsch (Institute for Land Improvement and Water Management (ETH), Zurich, Switzerland), and Wolfram Dirksen (German National Committee of the ICID). The publication was reformatted and prepared for printing by Han Kamphuis and Chrissi Redfern. The authors wish to thank the above, and others too numerous to mention, for their contributions to this Guide.
+<section>3</section>
+List of abbreviations
+ADB
+Asian Development Bank
+AfDB
+African Development Bank
+CWC
+Central Water Commission of India
+EA, EIA
+Environmental Assessment, Environmental Impact Assessment.
+EAP/EMP
+Environmental Action/Management Plan
+EBRD
+European Bank for Reconstruction and Development
+EC
+Electrical Conductivity
+EIRR
+Economic Internal Rate of Return
+EIS
+Environmental Impact Statement
+EOP
+Effect on Production
+EPA
+Environmental Protection Agency
+ERL
+Environmental Resources Limited
+ESCAP
+Economic and Social Commission for Asia and the Pacific
+FAO
+Food and Agriculture Organization of the United Nations
+GIS
+Geographic Information System
+GTZ
+Deutsche Gesellschaft für Technische Zusammenarbeit (German development agency)
+ICID
+International Commission on Irrigation and Drainage
+ICOLD
+International Commission on Large Dams
+IEE
+Initial Environmental Examination/Evaluation
+ILO
+International Labour Organization
+IPCS
+International Programme on Chemical Safety
+IUCN
+International Union for the Conservation of Nature
+IWRA
+International Water Research Association
+NGO
+Non-Governmental Organization
+ODA
+Overseas Development Administration of the UK
+OECD
+Organization for Economic Cooperation and Development
+PEEM
+Panel of Experts on Environmental Management for vector control. (A joint activity of WHO, FAO, UNEP and UNCHS).
+PE/RC
+Preventative Expenditure/Replacement Costs
+SAR
+Sodium Adsorption Ratio
+TOR
+Terms of Reference
+UNCHS
+United Nations Centre for Human Settlements
+UNECE
+United Nations Economic Commission for Europe
+UNEP
+United Nations Environment Programme
+USA
+United States of America
+WHO
+World Health Organization
+<section>4</section>
+Chapter 1: Introduction
+The need for environmental assessment
+Objective
+Using the guide
+The need for environmental assessment
+Economic, social and environmental change is inherent to development. Whilst development aims to bring about positive change it can lead to conflicts. In the past, the promotion of economic growth as the motor for increased well-being was the main development thrust with little sensitivity to adverse social or environmental impacts. The need to avoid adverse impacts and to ensure long term benefits led to the concept of sustainability. This has become accepted as an essential feature of development if the aim of increased well-being and greater equity in fulfilling basic needs is to be met for this and future generations.
+In order to predict environmental impacts of any development activity and to provide an opportunity to mitigate against negative impacts and enhance positive impacts, the environmental impact assessment (EIA) procedure was developed in the 1970s. An EIA may be defined as:
+a formal process to predict the environmental consequences of human development activities and to plan appropriate measures to eliminate or reduce adverse effects and to augment positive effects.
+EIA thus has three main functions:
+o to predict problems,
+o to find ways to avoid them, and
+o to enhance positive effects.
+The third function is of particular importance. The EIA provides a unique opportunity to demonstrate ways in which the environment may be improved as part of the development process. The EIA also predicts the conflicts and constraints between the proposed project, programme or sectoral plan and its environment. It provides an opportunity for mitigation measures to be incorporated to minimize problems. It enables monitoring programmes to be established to assess future impacts and provide data on which managers can take informed decisions to avoid environmental damage.
+EIA is a management tool for planners and decision makers and complements other project studies on engineering and economics. Environmental assessment is now accepted as an essential part of development planning and management. It should become as familiar and important as economic analysis in project evaluation.
+The aim of any EIA should be to facilitate sustainable development. Beneficial environmental effects are maximized while adverse effects are ameliorated or avoided to the greatest extent possible. EIA will help select and design projects, programmes or plans with long term viability and therefore improve cost effectiveness.
+It is important that an EIA is not just considered as part of the approval process. Volumes of reports produced for such a purpose, which are neither read nor acted upon, will devalue the process. A key output of the EIA should be an action plan to be followed during implementation and after implementation during the monitoring phase. To enable the action plan to be effective the EIA may also recommend changes to laws and institutional structures.
+Initially EIA was seen by some project promoters as a constraint to development but this view is gradually disappearing. It can, however, be a useful constraint to unsustainable development. It is now well understood that environment and development are complementary and interdependent and EIA is a technique for ensuring that the two are mutually reinforcing. A study carried out by the Environmental Protection Agency (USA) in 1980 showed that there were significant changes to projects during the EIA process, marked improvements in environmental protection measures and net financial benefits. The costs of EIA preparation and any delays were more than covered by savings accruing from modifications, (Wathern, 1988).
+Irrigated agriculture is crucial to the economy, health and welfare of a very large part of the developing world. It is too important to be marginalized as it is vital for world food security. However, irrigated agriculture often radically changes land use and is a major consumer of freshwater. Irrigation development thus has a major impact on the environment. All new irrigation and drainage development results in some form of degradation. It is necessary to determine the acceptable level and to compensate for the degradation. This degradation may extend both upstream and downstream of the irrigated area. The impacts may be both to the natural, physical environment and to the human environment. All major donors consider large irrigation and drainage developments to be environmentally sensitive.
+An EIA is concerned both with impacts of irrigation and drainage on the environment and with the sustainability of irrigation and drainage itself. Clearly an EIA will not resolve all problems. There will be trade-offs between economic development and environmental protection as in all development activities. However, without an objective EIA, informed decision making would be impossible.
+Objective
+This guide aims to assist staff in developing countries from various disciplines and backgrounds (government officials, consultants, planners) to incorporate environmental considerations into planning, designing, implementing and regulating irrigation and drainage programmes, plans and projects, thus leading to sustainable projects. The guide aims to be of general use throughout the developing world and has three main functions:
+o to describe the methodology and output of an EIA;
+o to provide inter-disciplinary advice related to irrigation and drainage to those engaged in preparing EIAs; and,
+o to enhance institutional capacity for carrying out an EIA.
+In developing countries irrigation development is mainly the responsibility of the public sector. This document therefore concentrates on public sector irrigation projects. Whilst national irrigation authorities will not usually carry out EIAs, they will commission them, either as part of a feasibility study or separately. They must therefore be familiar with EIA in order to formulate the terms of reference and to appraise the impact statement. Private developers should also be required to demonstrate that their proposals are environmentally sound.
+The objective has been to produce a brief reference text that will be of most benefit to non-specialists in developing countries who are perhaps facing the need to carry out an environmental assessment for the first time. To ensure brevity, and accessibility to all readers, technical, scientific or engineering content has been kept to a minimum. It is assumed that this information is readily available in other textbooks or manuals and that many readers will already be familiar with some technical aspects.
+Similarly, no detailed explanation of the philosophy of EIA is given as this is available in standard general texts. Throughout the guide the terms EIA and environmental assessment have been used synonymously. A glossary of terms and abbreviations used in the text are included in Annex 1. Chapter 6 provides a guide to other publications considered of most use that are also widely available. Recommended texts, which are considered particularly useful, are reviewed at the start of Chapter 6.
+Using the guide
+Environmental assessment is appropriate for both site specific projects and wider programmes or plans covering projects or sectoral activities over a wide geographic area. In this document the term "project" is used interchangeably for both the site specific and wider meaning. Rehabilitation or modernization programmes are more common than new green field projects and raise special issues which need to be addressed by an EIA. They provide more opportunities to correct situations where the environment is adversely affected and they are usually richer in available data, (Tiffen, 1989). Also, operation and maintenance reforms for regions or basins will benefit greatly from an EIA. As this guide has been specifically prepared to address irrigation and drainage projects, plans and programmes, it is not sufficiently comprehensive to be used to carry out environmental impact assessments of other water resources projects.
+Initially EIA was used for specific, particularly large scale, projects such as dams, which have obvious long-term consequences. Now, however, greater attention is given to the wider relationship between development and the environment. The relatively insignificant actions of many individual people may cumulatively have a much greater impact on the environment than a single construction project. For example a programme to support small-holder development, through agricultural credit schemes to Water User Groups, may not warrant an EIA if each scheme is considered in isolation. However, the impact within a river basin or in the water sector in a region can be significant. A sectoral or basin-wide EIA would enable an assessment of the collective impact of the programme. In a further example from Tamil Nadu, India, a decision was made to provide free electricity to farmers to pump water for irrigation. Whilst this increased agricultural production it also led to groundwater
+mining: the reduction in the groundwater level in some areas has resulted in severe environmental and economic problems.
+To enable the EIA process to be of maximum benefit, it must be incorporated into the planning process of a country. The social, institutional and legal issues concerned with the effective use of EIA are covered in Chapter 2. Chapter 5, on how to prepare terms of reference, has been prepared to assist those who need to employ others to carry out EIAs on their behalf. The mechanics of carrying out an EIA together with a description of the possible environmental impacts of irrigation and drainage are described, respectively, in Chapters 3 and 4.
+<section>5</section>
+Chapter 2: The context of environmental analysis
+Policy framework
+Social context
+Institutional framework and EIA
+Legal framework for EIA
+Building institutional capacity
+Policy framework
+Increasingly, at the national level, new environmental policies are being introduced, perhaps including a National Environmental Action Plan or National Plan for Sustainable Development. Such policies are often supported by legislation. Government policies in areas such as water, land distribution and food production, especially if supported by legislation, are likely to be highly significant for irrigation and drainage projects. An EIA should outline the policy environment relevant to the study in question. Results are also likely to be most easily understood if they are interpreted in the light of prevailing policies.
+Policies and regulations are sometimes conflicting and can contribute to degradation. It is within the scope of an EIA to highlight such conflicts and detail their consequences in relation to the irrigation and drainage proposal under study. An example of conflicting policies would be an agricultural policy to subsidize agro-chemicals to increase production and an environmental policy to limit the availability of persistent chemicals. A totally laissez-faire policy will result in unsustainable development, for example through uncontrolled pollution and distortions in wealth. This creates problems which future generations have to resolve. On the other hand, excessive government control of market forces may also have negative environmental impacts. For example, free irrigation water leads to the inefficient use of this scarce and expensive resource, inequities between head and tail users and waterlogging and salinity problems.
+Legal and policy issues have far-reaching consequences for the environment and are included here to illustrate the complex nature of environmental issues. The FAO Legislative Study 38, "The environmental impact of economic incentives for agricultural production: a comparative law study", is a useful reference. A forthcoming FAO/World Bank/UNDP publication, "Water Sector Policy Review and Strategy Formulation: A General Framework", will address the need for environmental issues to be integrated into water policy. If a regional, sector or basin-wide EIA is needed, such issues will form an important part.
+Social context
+A project or programme and its environmental impacts exist within a social framework. The context in which an EIA is carried out will be unique and stereotype solutions to environmental assessments are therefore not possible. Cultural practices, institutional structures and legal arrangements, which form the basis of social structure, vary from country to country and sometimes, within a country, from one region to another. It is a fundamental requirement to understand the social structure of the area under study as it will have a direct impact on the project and the EIA.
+Local, regional and national regulations, laws and organizations are interlinked. The way in which they are interlinked needs to be explicitly understood as part of the EIA. An understanding of the institutional and legal framework concerning the environment and irrigation and drainage development is critical to the success of any project or programme. Indeed, it is likely that recommendations arising from the EIA will include restructuring or strengthening institutions, particularly at a local level, for example, ensuring adequate maintenance or effective monitoring of drain water quality. Recommendations for new legal controls or limits may also form part of the EIA output; for example, stipulating a particular flow regime in order to maintain a wetland.
+At a local or regional level there may be particular regulations and customary practices which will influence environmental aspects of any project and these must be understood. The participation of local groups and the direct beneficiaries, mainly farmers, is essential to successful EIA. This may best be achieved by involving district councils. At the district level there is more interaction between sectors. Consultation with local interest groups, including non-governmental organizations (NGOs), will enable local views to be taken into account and their concerns addressed. An awareness of social and cultural problems may enable solutions to be found and conflicts to be averted before project implementation commences. Ignorance of a problem will prevent a satisfactory solution being found.
+If land acquisition, economic rehabilitation (providing an alternative source of income) or resettlement of displaced people are factors in any proposed development, special care will be needed in carrying out the EIA. In most countries such issues are socially and politically sensitive and legally complex and must be identified early, during screening. They should be highlighted so that they are adequately studied by experts early in project preparation.
+Poor people often find themselves in a vicious circle. They are forced by their poverty to exploit natural resources in an unsustainable manner and suffer from increasing poverty because of environmental degradation. They often inhabit fragile, marginal eco-zones in rural and, increasingly, semi-urban areas. High population growth is linked to poverty and further contributes to the dynamics of the vicious circle as ever increasing demands are made on finite natural resources. Therefore, the needs of the poor, their influence on the project and the project's impact on vulnerable groups all require particular attention in an EIA.
+Institutional framework and EIA
+Environmental, water and land issues involve many disciplines and many government bodies. Data will therefore have to be collected and collated from a wide range of technical ministries, other government authorities and parastatals. The interests of some bodies may not initially appear to be relevant to irrigation and drainage. However, they may hold important information about the project and surrounding area on such topics as land tenure, health, ecology and demography.
+The link between different ministries and departments within ministries are often complex and the hierarchy for decision making unclear. There is a tendency for each ministry to guard "its project" and not consult or seek information from other government bodies unless forced to. This is directly contrary to the needs of an EIA. Even if formal structures exist there may be a lack of coordination between different organizations. Informal links may have been established in practice in order to overcome awkward bureaucratic structures. These issues must be understood and not oversimplified.
+There may be conflict between government organizations, particularly between the institution promoting the development and that given the mandate for environmental protection. In countries where some planning processes are undertaken at the regional or district level, the regional or district councils make it easier for affected communities to put forward their views, which may differ from those of the central authorities. They will have different agendas and approaches. The EIA process must be interactive and be sympathetic to the differing views; not biased towards a particular organization.
+One of the main conflicts arising from irrigation and drainage projects is between those responsible for agriculture and those for water. In some countries, there are several key ministries with differing responsibility, such as agriculture, public works and irrigation, plus several parastatal organizations and special authorities or commissions, some perhaps directly under the Office of the President. The institutional aspects are complex; for example in Thailand, over 15 institutions have responsibility for various aspects of soil conservation work.
+Increasingly, at the national level, new institutions are being created, or existing institutions reorganized, to address environmental issues. Often a Ministry of the Environment will be created with a mandate to prepare legislation, set standards and provide a "policing" role. In addition, an Environmental Protection Agency may also be created to coordinate environmental assessment activities and to monitor follow up actions. As well as specific environmental agencies, new units or departments concerned with environmental issues are being created in technical ministries. Such units may have narrow duties related to the responsibilities of the institution. For example, several units could be concerned with various aspects of monitoring water pollution levels and setting acceptable quality standards. The responsibilities of all the relevant institutions needs to be clearly understood.
+Institutional weakness is one of the major reasons for environmentally unsound development. The multiplicity of institutions may also mitigate against effective enforcement of environmental control measures. The EIA must cover such issues in depth and highlight contradictions, weak or impractical legislation and institutional conflicts. To overcome such problems an EIA should propose appropriate solutions. This should include institutional strengthening.
+Legal framework for EIA
+Environmental policy without appropriate legislation will be ineffective as, in turn, will be legislation without enforcement. Economic and financial pressures will tend to dominate other concerns. In many developing countries legislation on environmental issues has been in existence for many years. For example, laws exist in most countries for the prevention of water pollution, the protection of cultural heritage and for minimum compensation flows. Much of the existing legislation or regulations have not been considered "environmental". Recently, much specific new environmental legislation has been enacted. This may be as a response to major disasters, or may result from government policy, public pressure or the general increased international awareness of the environmental dangers that now exist in the world. Relevant water and land law as well as environmental protection legislation needs stating, understanding and analysing as part of an EIA.
+New legislation may include a statutory requirement for an EIA to be done in a prescribed manner for specific development activities. When carrying out an EIA it is thus essential to be fully aware of the statutory requirements and the legal responsibilities of the concerned institutions. These are best given as an annex to the terms of reference. The legal requirements of the country must be satisfied. New laws can impose an enormous burden on the responsible agencies. The statutory requirement to carry out an EIA for specific projects will, for example, require expert staff to carry out the study, as well as officials to review the EIA and approve the project.
+Laws designating what projects require EIA should, ideally, limit the statutory requirements to prevent EIA merely becoming a hurdle in the approval process. This will prevent large volumes of work being carried out for little purpose. Most legislation lists projects for which EIA is a discretionary requirement. The discretionary authority is usually the same body that approves an EIA. This arrangement allows limited resources to be allocated most effectively. However, it is essential that the discretionary authority is publicly accountable.
+When external financial support is required it will also be necessary to satisfy the obligations of the donor organization. Most major donors now require an EIA for projects relating to irrigation and drainage. Chapter 6 gives details of publications outlining the requirements of the main donors.
+The function of environmental legislation can vary. It is not easy to give a precise definition of when an EIA is needed. Therefore the statutory requirement for an EIA is not particularly well suited to law. On the other hand many of the most important environmental hazards are easily addressed by law. For example, it is straightforward to set legal limits for pollution, flow levels, compensation etc: here the problem is one of enforcement. It is normal for an EIA to assess the acceptability or severity of impacts in relation to legal limits and standards. However, it is important to highlight cases where existing standards are insufficiently stringent to prevent adverse impacts and to recommend acceptable standards. Enforcement problems can be partially addressed by changing institutional structures.
+Laws relating to irrigated lands are complex and according to an FAO study of five African countries they are not generally applied (FAO, 1992). There are conflicts between modern and customary laws: the former tend to be given prominence although the latter are usually strong locally. Traditional and customary rights have often developed in very different historical and political contexts and can vary greatly over a short distance. They may also be mainly oral and imprecise. Local participation in the preparation of the EIA will help to understand important customary rights and highlight possible weaknesses in any proposed development.
+Building institutional capacity
+To carry out an EIA
+To implement the recommendations of an EIA
+To carry out an EIA
+It may be desirable to have both a Ministry of the Environment (which will have responsibility for setting norms and new legislation) and an Environmental Protection Agency, EPA, (as a coordinating authority to orchestrate the cross-sectoral EIA activity). Whatever the institutional structure, the ministry promoting the development will usually be required to carry out an EIA or to commission others to carry it out on their behalf. The EIA will then be approved or otherwise by the central regulating authorities. To enable this process to function satisfactorily trained staff will be required in:
+o the environmental authority for commissioning and effective review and approval of EIAs;
+o the technical authority for carrying out EIAs or preparing terms of reference or guidelines for others to do the work; and,
+o Universities and the private sector, should the work be put out to contract.
+There is thus a clear need for skilled professional staff in a variety of organizations who are familiar and competent with EIAs.
+To achieve the required skills, training should cover all educational levels. Environmental studies should be introduced in schools and universities so that future expertise is nurtured. In-service training for both professional staff and technicians is important. Senior planners and decision makers also need to attend short environmental awareness programmes so that they appreciate the issues raised in EIA reports and can make enlightened decisions.
+If environmental assessment is a statutory requirement, local expertise will be needed to carry out the work that this will impose. For large projects, with external financial support, foreign expertise may be used but this would not be viable for most projects. Foreign consultants, because they are outsiders, are at a disadvantage in making recommendations that are realistic and implementable. Local expertise, for both the public and private sectors, must be developed through adequately funded training and technology transfer programmes. Training should focus on the skills needed for an intersectoral decision making process at the crucial points in the project cycle. It should not aim to make pseudo EIA specialists out of other technical specialists.
+In those countries where there is no central environmental authority and no statutory regulations for EIA the need for skilled staff will be equally important but less obvious. The pressure to carry out an EIA may come from external donors, the general public or specific pressure groups. In this case those who carry out the work may come from a small pool of academics or from external consultants. Part of their remit should be to train counterparts in government service. This situation is unsatisfactory in the long-term and will tend to restrict EIA to only the largest and most controversial projects. Governments must address this problem by appropriate policies for environmental protection and adequate resources to train skilled staff to carry out the work.
+EIA is not a subject in itself but a procedure which relies on expertise from many disciplines. Training should not therefore be solely targeted to environmental scientists or ecologists. It is important that training is provided for specialists in all disciplines involved in an EIA, from scientists to sociologists and engineers to economists, so that they can contribute to meaningful EIAs. An important, but highly specialized area of training is in the health aspects of irrigation development. The PEEM Secretariat organizes an intersectoral course on health opportunities in water resources development which is held in developing countries.
+Data are essential to an EIA and the organizations responsible for data collection and analysis, for meteorology, hydrology, water quality etc. should be strengthened (or established if not already existing). The organizations must be well funded so that the data collected are reliable and complete and the staff well trained and motivated. Inadequate and unreliable data will result in poor studies based purely on qualitative analysis which can be subjective and easily refuted.
+To implement the recommendations of an EIA
+As part of an EIA, it may be necessary to consider how existing organizations will need to be changed or new laws promulgated in order to ensure environmentally sustainable development. The implementation of mitigating measures or monitoring will often have an impact on the work of one or several institutions. It will therefore be necessary to recommend precisely the structure and role of new units within an organization or the restructuring of existing units, so that the proposed measures can be implemented effectively.
+The EIA should also give recommendations on local capacity building. Definition of such local needs may involve several national and local government authorities, NGOs or other participatory groups such as Water Users Associations and academic institutions. It is crucial that local and not just central government institutional capacity is strengthened. This will help to overcome the feeling that environmental issues are imposed from a remote central authority and are a diversion from more important development activities. It will also build into project planning the importance of environmental management.
+Once a project has been approved, responsibility for ensuring that EIA recommendations are implemented may fall to a weak unit within the executing agency. This institutional weakness can considerably devalue an EIA and render it a mere hurdle on the path to implementation to be discarded once a project starts. When preparing an EIA it is essential that the environmental authorities are identified and strengthened to ensure they are not toothless. The authority responsible for project implementation should be accountable to "watchdog" environmental agencies. One way of ensuring this would be to link budget allocations from the Ministry of Finance/Planning to satisfactory performance.
+<section>6</section>
+Chapter 3: EIA process
+Resources
+Screening
+Scoping
+Prediction and mitigation
+Management and monitoring
+Auditing
+Public participation
+Managing uncertainty
+Techniques
+Final report - Environmental impact statement
+The EIA process makes sure that environmental issues are raised when a project or plan is first discussed and that all concerns are addressed as a project gains momentum through to implementation. Recommendations made by the EIA may necessitate the redesign of some project components, require further studies, suggest changes which alter the economic viability of the project or cause a delay in project implementation. To be of most benefit it is essential that an environmental assessment is carried out to determine significant impacts early in the project cycle so that recommendations can be built into the design and cost-benefit analysis without causing major delays or increased design costs. To be effective once implementation has commenced, the EIA should lead to a mechanism whereby adequate monitoring is undertaken to realize environmental management. An important output from the EIA process should be the delineation of enabling mechanisms for such effective management.
+The way in which an EIA is carried out is not rigid: it is a process comprising a series of steps. These steps are outlined below and the techniques more commonly used in EIA are described in some detail in the section Techniques. The main steps in the EIA process are:
+o screening
+o scoping
+o prediction and mitigation
+o management and monitoring
+o audit
+Figure 1 shows a general flow diagram of the EIA process, how it fits in with parallel technical and economic studies and the role of public participation. In some cases, such as small-scale irrigation schemes, the transition from identification through to detailed design may be rapid and some steps in the EIA procedure may be omitted.
+o Screening often results in a categorization of the project and from this a decision is made on whether or not a full EIA is to be carried out.
+o Scoping is the process of determining which are the most critical issues to study and will involve community participation to some degree. It is at this early stage that EIA can most strongly influence the outline proposal.
+o Detailed prediction and mitigation studies follow scoping and are carried out in parallel with feasibility studies.
+o The main output report is called an Environmental Impact Statement, and contains a detailed plan for managing and monitoring environmental impacts both during and after implementation.
+o Finally, an audit of the EIA process is carried out some time after implementation. The audit serves a useful feedback and learning function.
+FIGURE 1 Flow diagram of the EIA process and parallel studies
+Resources
+An EIA team for an irrigation and drainage study is likely to be composed of some or all of the following: a team leader; a hydrologist; an irrigation/drainage engineer; a fisheries biologist/ecologist; an agronomist/pesticide expert; a soil conservation expert; a biological/environmental scientist; an economist, a social scientist and a health scientist (preferably a epidemiologist). The final structure of the team will vary depending on the project. Specialists may also be required for fieldwork, laboratory testing, library research, data processing, surveys and modelling. The team leader will require significant management skill to co-ordinate the work of a team with diverse skills and knowledge.
+There will be a large number of people involved in EIA apart from the full-time team members. These people will be based in a wide range of organizations, such as the project proposing and authorizing bodies, regulatory authorities and various interest groups. Such personnel would be located in various agencies and also in the private sector; a considerable number will need specific EIA training.
+The length of the EIA will obviously depend on the programme, plan or project under review. However, the process usually lasts from between 6 and 18 months from preparation through to review. It will normally be approximately the same length as the feasibility study of which it should form an integral part. It is essential that the EIA team and the team carrying out the feasibility study work together and not in isolation from each other. This often provides the only opportunity for design changes to be made and mitigation measures to be incorporated in the project design.
+The cost of the study will vary considerably and only very general estimates can be given here. Typically, costs vary from between 0.1 and 0.3 percent of the total project cost for large projects over US$ 100 million and from 0.2 to 0.5 percent for projects less than US$ 100 million. For small projects the cost could increase to between 1 and 3 percent of the project cost.
+Screening
+Screening is the process of deciding on whether an EIA is required. This may be determined by size (eg greater than a predetermined surface area of irrigated land that would be affected, more than a certain percentage or flow to be diverted or more than a certain capital expenditure). Alternatively it may be based on site-specific information. For example, the repair of a recently destroyed diversion structure is unlikely to require an EIA whilst a major new headwork structure may. Guidelines for whether or not an EIA is required will be country specific depending on the laws or norms in operation. Legislation often specifies the criteria for screening and full EIA. All major donors screen projects presented for financing to decide whether an EIA is required.
+The output from the screening process is often a document called an Initial Environmental Examination or Evaluation (IEE). The main conclusion will be a classification of the project according to its likely environmental sensitivity. This will determine whether an EIA is needed and if so to what detail.
+Scoping
+Scoping occurs early in the project cycle at the same time as outline planning and pre-feasibility studies. Scoping is the process of identifying the key environmental issues and is perhaps the most important step in an EIA. Several groups, particularly decision makers, the local population and the scientific community, have an interest in helping to deliberate the issues which should be considered, and scoping is designed to canvass their views, (Wathern 1988).
+Scoping is important for two reasons. First, so that problems can be pinpointed early allowing mitigating design changes to be made before expensive detailed work is carried out. Second, to ensure that detailed prediction work is only carried out for important issues. It is not the purpose of an EIA to carry out exhaustive studies on all environmental impacts for all projects. If key issues are identified and a full scale EIA considered necessary then the scoping should include terms of reference for these further studies.
+At this stage the option exists for cancelling or drastically revising the project should major environmental problems be identified. Equally it may be the end of the EIA process should the impacts be found to be insignificant. Once this stage has passed, the opportunity for major changes to the project is restricted.
+Before the scoping exercise can be fully started, the remit of the study needs to be defined and agreed by the relevant parties. These will vary depending on the institutional structure. At a minimum, those who should contribute to determining the remit will include those who decide whether a policy or project is implemented, those carrying out the EIA (or responsible for having it carried out by others) and those carrying out parallel engineering and economic studies relating to the proposal. Chapter 5 gives details on preparing terms of reference for an EIA. A critical issue to determine is the breadth of the study. For example, if a proposed project is to increase the area of irrigated agriculture in a region by 10%, is the remit of the EIA to study the proposal only or also to consider options that would have the same effect on production?
+A major activity of scoping is to identify key interest groups, both governmental and non-governmental, and to establish good lines of communication. People who are affected by the project need to hear about it as soon as possible. Their knowledge and perspectives may have a major bearing on the focus of the EIA. Rapid rural appraisal techniques provide a means of assessing the needs and views of the affected population.
+The main EIA techniques used in scoping are baseline studies, checklists, matrices and network diagrams. These techniques collect and present knowledge and information in a straightforward way so that logical decisions can be made about which impacts are most significant. Risk and uncertainty are discussed further in the section Managing uncertainty.
+Prediction and mitigation
+Once the scoping exercise is complete and the major impacts to be studied have been identified, prediction work can start. This stage forms the central part of an EIA. Several major options are likely to have been proposed either at the scoping stage or before and each option may require separate prediction studies. Realistic and affordable mitigating measures cannot be proposed without first estimating the scope of the impacts, which should be in monetary terms wherever possible. It then becomes important to quantify the impact of the suggested improvements by further prediction work. Clearly, options need to be discarded as soon as their unsuitability can be proved or alternatives shown to be superior in environmental or economic terms, or both. It is also important to test the "without project" scenario.
+An important outcome of this stage will be recommendations for mitigating measures. This would be contained in the Environmental Impact Statement. Clearly the aim will be to introduce measures which minimize any identified adverse impacts and enhance positive impacts. Formal and informal communication links need to be established with teams carrying out feasibility studies so that their work can take proposals into account. Similarly, feasibility studies may indicate that some options are technically or economically unacceptable and thus environmental prediction work for these options will not be required.
+Many mitigating measures do not define physical changes but require management or institutional changes or additional investment, such as for health services. Mitigating measures may also be procedural changes, for example, the introduction of, or increase in, irrigation service fees to promote efficiency and water conservation. Table 6 in Chapter 4 describes the most common adverse impacts associated with irrigation and drainage schemes and some appropriate mitigating measures.
+By the time prediction and mitigation are undertaken, the project preparation will be advanced and a decision will most likely have been made to proceed with the project. Considerable expenditure may have already been made and budgets allocated for the implementation of the project. Major changes could be disruptive to project processing and only accepted if prediction shows that impacts will be considerably worse than originally identified at the scoping stage. For example, an acceptable measure might be to alter the mode of operation of a reservoir to protect downstream fisheries, but a measure proposing an alternative to dam construction could be highly contentious at this stage. To avoid conflict it is important that the EIA process commences early in the project cycle.
+This phase of an EIA will require good management of a wide range of technical specialists with particular emphasis on:
+o prediction methods;
+o interpretation of predictions, with and without mitigating measures;
+o assessment of comparisons.
+It is important to assess the required level of accuracy of predictions. Mathematical modelling is a valuable technique, but care must be taken to choose models that suit the available data. Because of the level of available knowledge and the complexity of the systems, physical systems are modelled more successfully than ecological systems which in turn are more successfully modelled than social systems. Social studies (including institutional capacity studies) will probably produce output in non-numerical terms. Expert advice, particularly from experts familiar with the locality, can provide quantification of impacts that cannot be modelled. Various techniques are available to remove the bias of individual opinion.
+Checklists, matrices, networks diagrams, graphical comparisons and overlays, are all techniques developed to help carry out an EIA and present the results of an EIA in a format useful for comparing options. The main quantifiable methods of comparing options are by applying weightings, to environmental impacts or using economic cost-benefit analysis or a combination of the two. Numerical values, or weightings, can be applied to different environmental impacts to (subjectively) define their relative importance. Assigning economic values to all environmental impacts is not recommended as the issues are obscured by the single, final answer. However, economic techniques, can provide insight into comparative importance where different environmental impacts are to be compared, such as either losing more wetlands or resettling a greater number of people.
+When comparing a range of proposals or a variety of mitigation or enhancement activities, a number of characteristics of different impacts need to be highlighted. The relative importance of impacts needs agreeing, usually following a method of reaching a consensus but including economic considerations. The uncertainty in predicting the impact should be clearly noted. Finally, the time frame in which the impact will occur should be indicated, including whether or not the impact is irreversible.
+Management and monitoring
+The part of the EIS covering monitoring and management is often referred to as the Environmental Action Plan or Environmental Management Plan. This section not only sets out the mitigation measures needed for environmental management, both in the short and long term, but also the institutional requirements for implementation. The term 'institutional' is used here in its broadest context to encompass relationships:
+o established by law between individuals and government;
+o between individuals and groups involved in economic transactions;
+o developed to articulate legal, financial and administrative links among public agencies;
+o motivated by socio-psychological stimuli among groups and individuals (Craine, 1971).
+The above list highlights the breadth of options available for environmental management, namely: changes in law; changes in prices; changes in governmental institutions; and, changes in culture which may be influenced by education and information dissemination. All the management proposals need to be clearly defined and costed. One of the more straightforward and effective changes is to set-up a monitoring programme with clear definition as to which agencies are responsible for data collection, collation, interpretation and implementation of management measures.
+The purpose of monitoring is to compare predicted and actual impacts, particularly if the impacts are either very important or the scale of the impact cannot be very accurately predicted. The results of monitoring can be used to manage the environment, particularly to highlight problems early so that action can be taken. The range of parameters requiring monitoring may be broad or narrow and will be dictated by the 'prediction and mitigation' stage of the EIA. Typical areas of concern where monitoring is weak are: water quality, both inflow and outflow; stress in sensitive ecosystems; soil fertility, particularly salinization problems; water related health hazards; equity of water distributions; groundwater levels.
+The use of satellite imagery to monitor changes in land use and the 'health' of the land and sea is becoming more common and can prove a cost-effective tool, particularly in areas with poor access. Remotely sensed data have the advantage of not being constrained by political and administrative boundaries. They can be used as one particular overlay in a GIS. However, authorization is needed for their use, which may be linked to national security issues, and may thus be hampered by reluctant governments.
+Monitoring should not be seen as an open-ended commitment to collect data. If the need for monitoring ceases, data collection should cease. Conversely, monitoring may reveal the need for more intensive study and the institutional infrastructure must be sufficiently flexible to adapt to changing demands. The information obtained from monitoring and management can be extremely useful for future EIAs, making them both more accurate and more efficient.
+The Environmental Management Plan needs to not only include clear recommendations for action and the procedures for their implementation but must also define a programme and costs. It must be quite clear exactly how management and mitigation methods are phased with project implementation and when costs will be incurred. Mitigation and management measures will not be adopted unless they can be shown to be practicable and good value for money. The plan should also stipulate that if, during project implementation, major changes are introduced, or if the project is aborted, the EIA procedures will be re-started to evaluate the effect of such actions.
+Auditing
+In order to capitalise on the experience and knowledge gained, the last stage of an EIA is to carry out an Environmental Audit some time after completion of the project or implementation of a programme. It will therefore usually be done by a separate team of specialists to that working on the bulk of the EIA. The audit should include an analysis of the technical, procedural and decision-making aspects of the EIA. Technical aspects include: the adequacy of the baseline studies, the accuracy of predictions and the suitability of mitigation measures. Procedural aspects include: the efficiency of the procedure, the fairness of the public involvement measures and the degree of coordination of roles and responsibilities. Decision-making aspects include: the utility of the process for decision making and the implications for development, (adapted from Sadler in Wathern, 1988). The audit will determine whether recommendations and requirements made by the earlier EIA steps were
+incorporated successfully into project implementation. Lessons learnt and formally described in an audit can greatly assist in future EIAs and build up the expertise and efficiency of the concerned institutions.
+Public participation
+Projects or programmes have significant impacts on the local population. Whilst the aim is to improve the well being of the population, a lack of understanding of the people and their society may result in development that has considerable negative consequences. More significantly, there may be divergence between national economic interests and those of the local population. For example, the need to increase local rice production to satisfy increasing consumption in the urban area may differ from the needs as perceived by the local farmers. To allow for this, public participation in the planning process is essential. The EIA provides an ideal forum for checking that the affected public have been adequately consulted and their views taken into account in project preparation.
+The level of consultation will vary depending on the type of plan or project. New projects involving resettlement or displacement will require the most extensive public participation. As stated before, the purpose of an EIA is to improve projects and this, to some extent, can only be achieved by involving those people directly or indirectly affected. The value of environmental amenities is not absolute and consensus is one way of establishing values. Public consultation will reveal new information, improve understanding and enable better choices to be made. Without consultation, legitimate issues may not be heard, leading to conflict and unsustainability.
+The community should not only be consulted they should be actively involved in environmental matters. The International Union for the Conservation of Nature, IUCN promotes the concept of Primary Environmental Care whereby farmers, for example, with assistance from extension services, are directly involved in environmental management. The earlier the public are involved, the better. Ideally this will be before a development proposal is fully defined. It is an essential feature of successful scoping, at which stage feedback will have the maximum influence. Openness about uncertainty should be a significant feature of this process. As the EIA progresses, public consultation is likely to be decreased though it is important to disseminate information. The publication of the draft Environmental Impact Statement (EIS), will normally be accompanied by some sort of public hearing that needs to be chaired by a person with good communication skills. He/she may not be a member of the
+EIA team.
+There are no clear rules about how to involve the public and it is important that the process remains innovative and flexible. In practice, the views of people affected by the plan are likely to be heard through some form of representation rather than directly. It is therefore important to understand how decisions are made locally and what are the methods of communication, including available government extension services. The range of groups outside the formal structure with relevant information are likely to include: technical and scientific societies; Water User Groups; NGOs; experts on local culture; and religious groups. However, it is important to find out which groups are under-represented and which ones are responsible for access to natural resources, namely: grazing, water, fishing and forest products. The views of racial minorities, women, religious minorities, political minorities and lower cast groups are commonly overlooked, (World Bank, 1991).
+There has been an enormous increase in the number of environmental NGOs and "Green" pressure groups throughout the world. Such organizations often bring environmental issues to the attention of the local press. However, this should not deter consultation with such organizations as the approach to EIA should be open and positive with the aim of making improvements. Relevant NGOs should be identified and their experience and technical capacity put to good use.
+In some countries, open public meetings are the most common technique to enable public participation. However, the sort of open debate engendered at such meetings is often both culturally alien and unacceptable. Alternative techniques must be used. Surveys, workshops, small group meetings and interviews with key groups and individuals are all techniques that may be useful. Tools such as maps, models and posters can help to illustrate points and improve communication. Where resettlement is proposed, extensive public participation must be allowed which will, at a minimum, involve an experienced anthropologist or sociologist who speaks the local language. He/she can expect to spend months, rather than weeks, in the field.
+Information dissemination can be achieved using a number of mechanisms including the broadcasting media, in particular newspapers and radio. Posters and leaflets are also useful and need to be distributed widely to such locations as schools, clinics, post offices, community centres, religious buildings, bus stops, shops etc. The EIA process must be seen to be fair.
+The public participation/consultation and information dissemination activities need to be planned and budgeted. The social scientist team member should define how and when activities take place and also the strategy: extensive field work is expensive. It is important to note that public participation activities are often reported as a separate section of the final EIA. Where experience of managing community involvement is limited, training is highly recommended. Further reading on public participation can be obtained from: Ahmed L and G K Sammy (1988) and on Rapid Rural Appraisal from Chambers R (1981). Rapid Rural Appraisal techniques may be an appropriate and cost effective method of assessment.
+Managing uncertainty
+An EIA involves prediction and thus uncertainty is an integral part. There are two types of uncertainty associated with environmental impact assessments: that associated with the process and, that associated with predictions. With the former the uncertainty is whether the most important impacts have been identified or whether recommendations will be acted upon or ignored. For the latter the uncertainty is in the accuracy of the findings. The main types of uncertainty and the ways in which they can be minimized are discussed by de Jongh in Wathern (1988). They can be summarized as follows:
+o uncertainty of prediction: this is important at the data collection stage and the final certainty will only be resolved once implementation commences. Research can reduce the uncertainty;
+o uncertainty of values: this reflects the approach taken in the EIA process. Final certainty will be determined at the time decisions are made. Improved communications and extensive negotiations should reduce this uncertainty;
+o uncertainty of related decision: this affects the decision making element of the EIA process and final certainty will be determined by post evaluation. Improved coordination will reduce uncertainty.
+The importance of very wide consultation cannot be overemphasized in minimizing the risk of missing important impacts. The significance of impacts is subjective, but the value judgements required are best arrived at by consensus: public participation and consultation with a wide sector of the community will reduce uncertainty. One commonly recurring theme is the dilemma of whether to place greater value on short-term benefits or long-term problems.
+The accuracy of predictions is dependent on a variety of factors such as lack of data or lack of knowledge. It is important not to focus on predictions that are relatively easy to calculate at the expense of impacts that may be far more significant but difficult to analyse. Prediction capabilities are generally good in the physical and chemical sciences, moderate in ecological sciences and poor in social sciences. Surveys are the most wide-spread technique for estimating people's responses and possible future actions.
+The results of the EIA should indicate the level of uncertainty with the use of confidence limits and probability analyses wherever possible. Sensitivity analysis similar to that used in economic evaluation, could be used if adequate quantifiable data are available. A range of outcomes can be found by repeating predictions and adjusting key variables.
+EIA cannot give a precise picture of the future, much as the Economic Internal Rate of Return cannot give a precise indication of economic success. EIA enables uncertainty to be managed and, as such, is an aid to better decision making. A useful management axiom is to preserve flexibility in the face of uncertainty.
+Techniques
+Baseline studies
+The ICID Check-list
+Matrices
+Network diagrams
+Overlays
+Mathematical modelling
+Expert advice
+Economic techniques
+Baseline studies
+Baseline studies using available data and local knowledge will be required for scoping. Once key issues have been identified, the need for further in-depth studies can be clearly identified and any additional data collection initiated. The ICID Check-list will be found useful to define both coarse information required for scoping and further baseline studies required for prediction and monitoring. Specialists, preferably with local knowledge, will be needed in each key area identified. They will need to define further data collection, to ensure that it is efficient and targeted to answer specific questions, and to quantify impacts. A full year of baseline data is desirable to capture seasonal effects of many environmental phenomena. However, to avoid delay in decision making, short-term data monitoring should be undertaken in parallel with long-term collection to provide conservative estimates of environmental impacts.
+The ICID Check-list
+A comprehensive and user-friendly checklist is an invaluable aid for several activities of an EIA, particularly scoping and defining baseline studies. "The ICID Environmental Check-List to Identify Environmental Effects of Irrigation, Drainage and Flood Control Projects" (Mock and Bolton, 1993) is recommended for use in any irrigation and drainage EIA. The Check-list has been prepared for non-specialists and enables much time-consuming work to be carried out in advance of expert input. It includes extensive data collection sheets. The collected data can then be used to answer a series of questions to identify major impacts and to identify shortages of data. A matrix indicates which data are linked to which questions. Chapter 4 describes the major impacts based on the 8 Check-list topics.
+The results sheet from the Check-list is reproduced as Table 1. The very simple layout of the sheet enables an overview of impacts to be presented clearly which is of enormous value for the scoping process. Similarly, data shortages can be readily seen. The process of using the ICID Check-list may be repeated at different stages of an EIA with varying levels of detail. Once scoping has been completed, the results sheet may be modified to omit minor topics and to change the horizontal classification to provide further information about the impacts being assessed. At this point the output from the Check-list can be useful as an input to matrices. The ICID Check-list is also available as a WINDOWS based software package. This enables the rapid production of a report directly from the field study.
+<section>7</section>
+Matrices
+The major use of matrices is to indicate cause and effect by listing activities along the horizontal axis and environmental parameters along the vertical axis. In this way the impacts of both individual components of projects as well as major alternatives can be compared. The simplest matrices use a single mark to show whether an impact is predicted or not. However it is easy to increase the information level by changing the size of the mark to indicate scale, or by using a variety of symbols to indicate different attributes of the impact. An example of a matrix is given as Table 2. The choice of symbols in this example enables the reader to see at a glance whether or not there was an impact and, if so, whether the impact was beneficial or detrimental, temporary or permanent. Figure 8 is another example of a matrix, in this case used to clearly indicate the importance of a range of wetland values.
+ICOLD has prepared a large and comprehensive matrix for use in EIAs for dams. The system of symbols for each box shows: whether the impact is beneficial or detrimental; the scale of the impact; the probability of occurrence; the time-scale of occurrence; and, whether the design has taken the impact into account, (ICOLD, 1980). This comprehensive approach, however, makes the final output rather difficult to use and a maximum of three criteria is recommended per impact to maintain clarity. Ahmad and Sammy (1985) suggest that the most important criteria are: magnitude, or degree of change; geographical extent; significance; and, special sensitivity. "Significance" could be further sub-divided to indicate why an impact is significant. For example, it may be because of irreversibility, economic vulnerability, a threat to rare species etc. "Special sensitivity" refers to locally important issues. A series of matrices at all stages of the EIA process can be a particularly effective
+way of presenting information. Each matrix may be used to compare options rated against a few criteria at a time.
+The greatest drawback of matrices are that they can only effectively illustrate primary impacts. Network diagrams, described below, are a useful and complementary form of illustration to matrices as their main purpose is to illustrate higher order impacts and to indicate how impacts are inter-related.
+Matrices help to choose between alternatives by consensus. One method is to make pair-wise comparisons. It provides a simple way for a group of people to compare a large number of options and reduce them to a few choices. First a matrix is drawn with all options listed both horizontally and vertically. Each option is then compared with every other one and a score of 1 assigned to the preferred option or 0.5 to both options if no preference is agreed.
+TABLE 1 Results sheet for assessing the ICID check-list
+Project name/location: Assessment: 1st/2nd/
+Assessor's name/posit/on: Date: 
+For each environmental effect place a cross (X) in one of the columns
+Positive impact very likely
+Positive impact possible
+No impact
+Negative impact possible
+Negative impact very likely
+No judgement possible at present
+Comments
+A
+B
+C
+D
+E
+F
+Hydrology
+1-1 Low flow regime
+1-2 Flood regime
+1-3 Operation of dams
+1-4 Fall of water table
+1-5 Rise of water table
+Pollution
+2-1 Solute dispersion
+2-2 Toxic substances
+2-3 Organic pollution
+2-4 Anaerobic effects
+2-5 Gas emissions
+Soils
+3-1 Soil salinity
+3-2 Soil properties
+3-3 Saline groundwater
+3-4 Saline drainage
+3-5 Saline intrusion
+Sediments
+4-1 Local erosion
+4-2 Hinterland effect
+4-3 River morpholoqy
+4-4 Channel regime
+4-5 Sedimentation
+4-6 Estuary erosion
+Ecology
+5-1 Project lands
+5-2 Water bodies
+5-3 Surrounding area
+5-4 Valleys & shores
+5-5 Wetlands & plains
+5-6 Rare species
+5-7 Animal migration
+5-8 Natural industry
+Socio-economic
+6-1 Population change
+6-2 Income amenity
+6-3 Human migration
+6-4 Resettlement
+6-5 Women's role
+6-6 Minority groups
+6-7 Sites of value
+6-8 Regional effects
+6-9 User involvement
+6-10 Recreation
+Health
+7-1 Water & sanitation
+7-2 Habitation
+7-3 Health services
+7-4 Nutrition
+7-5 Relocation effect
+7-6 Disease ecology
+7-7 Disease hosts
+7-8 Disease control
+7-9 Other hazards
+Imbalances
+8-1 Pests & weeds
+8-2 Animal diseases
+8-3 Aquatic weeds
+8-4 Structural damage
+8-5 Animal imbalances
+Number of crosses
+(Total = 53)
+TABLE 2 Ultimate net environmental impact assessment at a glance, Feitsui reservoir
+Features likely to be affected
+Roads and trails
+Colony construction
+Blasting operation
+Borrowing of materials
+Importing of labour
+Dam construction
+Canal construction
+Evacuation and rehabilitation
+Soil conservation and landscaping
+Reservoir filling
+Irrigation
+Hydro-power generation
+Forestry/Vegetation
+-1P
++2P
+-1T
+-1P
+-1P
+-1P
++4P
+-3P
++3P
++ 1P
+Birds
+-2T
+-2T
+-1T
++3P
++4P
++2P
+Fisheries
+-1T
++4P
++2P
+Other wildlife/land animals
+-1P
+-1T
+-1T
+-1T
+-1T
+-1T
+-1P
++2P
++3P
++2P
+Sedimentation/erosion
+-1T
+-1T
+-2T
++2P
++2P
++3P
+-1P
+-1P
+Floods
+-1P
+-1P
++1P
++3P
+Historical/cultural monuments
++2P
+-2P
+Communications
++3P
++2P
++1P
++2P
+-1P
++2P
+Land/area development
+-2P
++2P
++2P
++2P
+-2P
++2P
++2P
++4P
++3P
+Agriculture
++2P
++1P
+-1P
+-1P
+-1P
++2P
+-1P
++4P
++3P
+Food production
++2P
++1P
+-2P
+-1P
+-1P
++2P
+-1P
++4P
++3P
+Public revenue/income
++2P
++2P
++3T
++2P
+-2P
++2P
+-2P
++4P
++3P
+Drinking water
++1P
+-1T
+-1T
++4P
++3P
++2P
+Water quality
+-1T
+-1T
+-2T
+-2T
+-1P
++1P
+Air quality
+-1T
+-1T
+-1T
+-1T
++1P
++2P
++1P
+Climate
++1P
++2P
++1P
+Groundwater table
++2P
++2P
+Industrialization
++2P
++1P
++3T
++2T
++2P
++3P
++3P
+Housing
++2P
++1P
++1T
++2P
+-2P
++1P
++1P
+Employment/training
++ 1T
++ 1T
++4T
++2T
++2P
++2P
++2P
+Health and safety
+-1T
+-1T
+-2T
+-1T
+-1T
+-2T
++2p
++2P
++2P
+Scenic views and vistas
++1P
++2P
+-1P
+-2T
++2P
++2P
++3P
++4P
++2P
++2P
+Tourism
++2P
++2P
++3P
++3P
++1P
++2P
+Notes: Likely effect is symbolized as follows:
+Mild
+Considerable
+High
+Very high
+Beneficial
+Detrimental
+T = temporary effect; P = permanent effect
+An example of such a matrix is given as Table 3. As can be seen, Z is the preferred option.
+A number of methods have been developed to compare impacts by applying values to them. The relative importance of impacts, eg wetlands loss versus rare species loss, or the relative importance of criteria, e.g. economic vulnerability versus probability of occurrence, will depend on the local environment and priorities. Ranking, and therefore implicitly value, can be determined by using the pair-wise comparison technique described above, except that, rather than comparing options, criteria are compared instead. This can enable a series of weightings to be developed which will be entirely site-specific and dependent upon the subjective choices of those participating in the group which develops the weightings.
+TABLE 3: Example of pair-wise comparison
+Compare alternative
+With alternative
+Sum
+W
+X
+Y
+Z
+W
+X
+Y
+Z
+A simple example would be to develop weightings for environmental versus economic acceptability. Thus, in the example illustrated in Figure 2, weightings would have to be developed to determine the preference for either option B or option C. Is more weight to be given to environmental or economic criteria?
+Reducing information about impacts to a single number should be avoided as it obscures understanding and disguises the subjective nature of the analysis. However, it can be useful to compare, for example, the degree to which different mitigating options are effective in managing water quality.
+<section>8</section>
+Network diagrams
+A network diagram is a technique for illustrating how impacts are related and what the consequences of impacts are. For example, it may be possible to fairly accurately predict the impact of increased diversions or higher irrigation efficiencies on the low flow regime of a river. However, there may be many and far reaching secondary or tertiary consequences of a change in low flow. These consequences can be illustrated using network diagrams. For example, reduced low flows are likely to reduce the production of fish which may or may not be of importance depending on the value (either ecological or economic) of the fish. If fish are an important component of diet or income, the reduction may lead to a local reduction in the health status, impoverishment and possibly migration. Also, reduced low flow coupled with increased pollution, perhaps as a result of increased agricultural industry, may further damage the fish population as well as reduce access to safe water.
+Table 4 shows an example of a network diagram for a proposed plan to increase the use of groundwater for irrigation by providing subsidies for sinking deep tube wells. This shows the primary through to quaternary impacts, as anticipated at the scoping stage. The main crop in the area is rice. Detailed prediction work following scoping would estimate the level to which the groundwater would fall and quantify the impacts which, together with economic analysis, would clarify which impacts were most important and most likely and also determine the most suitable mitigation measures.
+FIGURE 2 Graphical comparison of alternatives. The final choice of either option B or option C will depend on the 'weighting' chosen (Source: Ahmad and Sammy, 1985)
+Overlays
+Overlays provide a technique for illustrating the geographical extent of different environmental impacts. Each overlay is a map of a single impact. For example, saline effected areas, deforested areas, limit of a groundwater pollution plume etc can be analysed and clearly demonstrated to non experts. The original technique used transparencies which is somewhat cumbersome. However, the development of Geographic Information Systems (GIS) can make this technique particularly suitable for comparing options, pinpointing sensitive zones and proposing different areas or methods of land management.
+Mathematical modelling
+Mathematical modelling is one of the most useful tools for prediction work. It is the natural tool to assess both flow quantities and qualities (eg salt/water balances, pollution transport, changing flood patterns). However, it is essential to use methods with an accuracy which reflects the quality of the input data, which may be quite coarse. It should also be appreciated that model output is not necessarily an end in itself but may be an input for assessing the impact of changes in economic, social and ecological terms. Mathematical modelling was used very effectively to study the Hadejia-Jama' are region in Nigeria. In this case the modelling demonstrated the most effective method of operating upstream reservoirs in order to conserve economically and socially valuable, and ecologically important downstream wetlands. Optimal operation was found to be considerably different from the traditional method originally proposed. Under the revised regime the economic returns were
+also found to be higher.
+TABLE 4 Example of network analysis showing the impact of a policy to utilize groundwater by subsidizing tubewells
+Primary impacts
+Secondary impacts
+Tertiary impacts
+Quaternary impacts
+Mitigation
+Lowering of groundwater in dry season
+Loss of income & water from domestic hand pumps
+Use of poorer quality water
+Increased health risks
+1. Ensure that the new DTW either hold domestic water locally or feed into distributary system
+Note Effected group are poorer people
+Income diverted to buy water
+Decreased income & time
+Travel to distant source
+Reduced quality of life
+Loss of income & water from shallow tubewells for irrigation
+Income diverted to buy water
+Decreased income & time leading to possible food shortage
+1. Deepen STW
+Crop failure
+Reduced quality of life
+2. Ensure new DTWs supply STWs in dry season
+Abandonment of land & migration
+3. Provide compensation from DTW taxation
+Drawdown of surface water bodies
+Decreased fish capture/fish mortality
+Loss of protein intake
+1. Artificially stock water bodies
+Loss of income for fishermen
+2. Recharge water bodies from DTW
+Note: Fishermen are already poorer than farmers in general
+Loss of wetland
+Loss of wetland flora/fauna migratory birds, fish spawning areas
+Loss of wetland products
+1. Restrict DTW development in vulnerable areas Note Landless & Rural poor are greatest users of wetlands
+Reduced navigation possibilities
+Increased transport costs
+1. Increase navigation depth by dredging
+Agricultural intensification
+Increased fertilizer
+Groundwater contamination by nitrate
+Polluted drinking water by nitrate causes various illness, particularly in babies
+1. Control fertilizer use
+2. Educate users of groundwater as well as fertilizer users babies
+Eutrophication of surface water due to runoff
+Increased weeds in channels & surface water bodies, algal blooms
+1. Remove and control weeds
+2. Educate about dangers of algal blooms
+Increased pesticide use
+Groundwater contamination
+More expensive alternative for drinking water must be found
+1. Regulate pesticide use
+Poisoning of fish & shrimp
+Reduction in fish catches & protein availability
+2. Encourage rainwater storage
+Reduced income for fishermen
+3 Encourage integrated pest management
+Bioaccumulation of pesticide in man
+4 Subsidize non-persistent pesticides
+5. Tax undesirable pesticides
+6. Educate pesticide users & fish eaters
+Increased level of pest & diseases vectors due to loss of fallow period
+Increased pesticide use
+Bioaccumulation of pesticide in man
+1. Vaccinate to prevent epidemics
+Increase in animal & human disease due to vector
+Loss of quality of life
+2. Encourage alternative cropping patterns
+3. Educate about disease vectors
+Reduced fallow land & grassland for grazing
+Fewer livestock or poor quality livestock
+Reduced protein intake & income for landless groups
+1. Develop alternative grazing
+Reduced scrubland for fuel wood
+Alternative sources sought for fuel
+Income & time spent collecting fuel
+1. Develop fuelwood supplies
+Destruction of trees
+2. Introduce more efficient cookers
+STW = shallow tubewells
+DTW = deep tubewells
+Expert advice
+Expert advice should be sought for predictions which are inherently non-numeric and is particularly suitable for estimating social and cultural impacts. It should preferably take the form of a consensus of expert opinion. Local experience will provide invaluable insight. Expert opinions are also likely to be needed to assess the implications of any modelling predictions. For example, a model could be developed to calculate the area of wetlands no longer annually flooded due to upstream abstractions. However, the impact on wetland species or the reduction in wetland productivity resulting from the reduced flooding may not be so precisely quantifiable but require a prediction based on expert opinion.
+Economic techniques
+Economic techniques have been developed to try to value the environment and research work is continuing in environmental economics. This is a specialist subject and only a brief introduction is included here. For more detailed information the reader is advised to read Winpenny (1991) and other standard texts. It is important to stress that environmentally sound development brings long term economic benefits. Unfortunately, short term gains are often given priority.
+The most commonly used methods of project appraisal are cost-benefit and cost-effectiveness analysis. It has not been found easy to incorporate environmental impacts into traditional cost-benefit analysis, principally because of the difficulty in quantifying and valuing environmental effects. An EIA can provide information on the expected effects and quantify, to some extent, their importance. This information can be used by economists in the preparation of cost-benefit calculations. Cost effectiveness analysis can also be used to determine what is the most efficient, least-cost method of meeting a given environmental objective; with costs including forgone environmental benefits. However, defining the objective may not be straightforward.
+Valuing the environment raises complex and controversial issues. The environment is of value to the actual users (such as fishermen), to potential users (future generations or migrants), and to those who do not use it but consider its existence to have an intrinsic value (perhaps to their "quality of life"). Clearly it is difficult to quantify such values. Nevertheless, attempts have been made and the two most useful methods for irrigation projects in developing countries are "Effect on Production" (EOP) and "Preventive Expenditure and Replacement Costs" (PE/RC). The EOP method attempts to represent the value of change in output that results from the environmental impact of the development. This method is relatively easy to carry out and easily understood. An example would be the assessment of the reduced value of fish catches due to water pollution or hydrological changes. The PE/RC method makes an assessment of the value that people place on preserving their environment by
+estimating what they are prepared to pay to prevent its degradation (preventive expenditure) or to restore its original state after it has been damaged (replacement cost). Both methods have weaknesses and must be used judiciously.
+Environmental health effects present similar problems, cost-effectiveness analysis is a useful tool in the selection of mitigating or control measures, but for ex-ante project appraisal the incompatibility of human health and monetary values has forced economists to develop other techniques and indicators. A recent publication by Phillips et al. (1993) deals with the principles and methods of cost-effectiveness analysis and its application to decisions about the control of vector-borne diseases, particularly the control of disease vectors. In its World Development Report of 1993 (Investing in Health) the World Bank proposes the cost-utility analysis which expresses health status in DALYs (Disability Adjusted Life Years).
+Final report - Environmental impact statement
+The final report of an EIA is often referred to as an Environmental Impact Statement (EIS). In addition to summarizing the impacts of the alternatives under study this report must include a section on follow up action required to enable implementation of proposals and to monitor long-term impacts. The purpose of an EIA is not to reach a decision but to present the consequences of different choices of actions and to make recommendations to a decision maker. Recommendations are a crucial part of the Environmental Impact Statement. The format of the report should preferably follow a standard as recommended by the appropriate institution or required by legislation. The executive summary of the EIS should only be 2 to 5 pages long and the main report, excluding appendices should be preferably about 50 pages long and no more than 100. An exceptionally complex study might require 150 pages.
+Experts preparing an EIA must appreciate that the final report will be read by a wide range of people and the subject matter may be technically complex. Senior administrators and planners may not understand the importance of technical arguments unless they are presented carefully and clearly. The quality of the executive summary is particularly important as some decision-makers may only read this part of the report. The executive summary must include the most important impacts (particularly those that are unavoidable and irreversible), the key mitigating measures, proposed monitoring and supervision requirements, and the recommendations of the report.
+The main text should maximize the use of visual aids such as maps, drawings, photographs, tables and diagrams. Matrices, network diagrams, overlays and graphical comparisons should all be included. The main text should cover the following points (adapted from EBRD (1992) and World Bank (1991)):
+o A description of the programme, plan or project including the physical, social and ecological context as well as the time-scale of the proposals under study. Any major revisions made as a result of the scoping process should be identified here.
+o A summary of the EIA methodology, including the limits of the study and the reasons for them.
+o The policy, legal and administrative framework within which the project is situated.
+o A summary of the baseline data providing an overall picture of present conditions and physical, biological and ecological trends. The consequences of the "no-action" option should be described together with a brief description of other developments taking place and their relationship to the study proposal.
+o A description of the governmental and non-governmental participation during the EIA.
+o Environmental impacts. The most significant beneficial and adverse environmental impacts associated with the options studied need to be clearly stated. Impacts need to be quantified wherever possible and uncertainties in the results need to highlighted, whether due to a lack of knowledge, lack of data or to critical but indeterminate assumptions such as future policy. The results of economic analyses need to be presented in the same section. Mitigation and enhancement measures that are proposed may either be presented together with information on the environmental impacts or as a separate section. Impacts with no effective mitigation need to be clearly identified as such.
+o The Environmental Action Plan needs to be presented in two sections. The first part covers the implementation of proposed mitigation measures, including both costs and training, and institutional enhancements required to implement them. The second part should cover monitoring requirements to measure predicted impacts and to determine the success of mitigation measures. Again, costs and institutional requirements need to be included for each major proposal. A clear programme of implementation should be given.
+o Recommendations and guidance to the decision maker.
+o A statement of provision for auditing, who should carry it out and when.
+The appendixes should include:
+o a glossary of technical terms and units
+o a list of the team who prepared the EIA
+o records of public meetings and consultations
+o a catalogue of information, both data and written material, and their source
+o technical information too detailed for the main text.
+<section>9</section>
+Chapter 4: Major impacts of irrigation and drainage projects
+Hydrology
+Water and air quality
+Soil properties and safety erects
+Erosion and sedimentation
+Biological and ecological change
+Socio-economic impacts
+Ecological imbalances
+Human health
+When considering impacts, two perspectives must be taken into account, those of:
+o the project on the environment, and
+o external factors on the project (externalities).
+In the detailed sections below, many of the impacts described are most extreme in the case of new irrigated areas. However, rehabilitation and changes resulting from alterations to the operating infrastructure, for example, will also have environmental impacts that may not at first be anticipated. The intensification of agriculture can lead to groundwater pollution related to the increased use of pesticides and fertilizers. Improved efficiency may significantly reduce return flows which are often utilized downstream by other irrigation schemes or wildlife habitats. Similarly, upstream developments are likely to impact on an irrigation scheme either in the form of reduced water availability (surface or groundwater) or reduced water quality.
+Different types of irrigation will have different impacts and it should not be assumed that modern methods will have fewer impacts: they may significantly increase energy consumption and lead to social problems due to reduced employment in agriculture. Impacts will also vary according to the stage of implementation. For example, during the construction period there may be specific health and other social risks due to an influx of migrant workers living in temporary and unsanitary accommodation. Later, once the project has been operating for several years, cumulative impacts may begin to present serious environmental constraints to project sustainability. Such issues must be predicted by the EIA and mitigation measures prepared.
+The most common problems of, and threats to, irrigation schemes are listed in Table 5, together with potential mitigation measures. Irrigation is defined as much, if not more, by farmers and managers as by the physical infrastructure; the 'hardware'. Its sustainable operation is just as dependent on the 'soft' environment: education, institutional building, legal structures and external support services. These are all powerful tools to ensure sustainability in conjunction with well-designed and well-managed hardware and Table 5 indicates that many of the mitigation measures are 'soft'.
+The sections below describe the most common environmental impacts associated with irrigation schemes. Under each item, both positive and negative impacts are briefly described and the most usual mitigating measures outlined. The opportunity to identify positive impacts and to propose measures to enhance such impacts should not be neglected. The structure of the chapter generally follows that of the ICID Environmental Check-list and is divided into eight major sections. As a slight deviation from the Check-list, human health has been included, in order to present the human health dimensions of the environmental impacts.
+TABLE 5 Main problems resulting in the non-sustainability of irrigation and drainage schemes and appropriate mitigation measures
+Problem
+Mitigation measures
+Degradation of irrigated land:
+- Improve I & D operation to match demand both 'how much & when'.
+Salinization
+- Provide drainage including disposal of water to evaporation ponds or the sea if quality of river flow adversely affected by drainage water.
+Alkalization
+- Maintain channels to prevent seepage, and reduce inefficiencies resulting from siltation and weeds. Allow for access to channels for maintenance in design.
+Waterlogging
+- Provide water for leaching as a specific operation.
+Soil acidification
+- Set-up or adjust irrigation management infrastructure to ensure sufficient income to maintain both the irrigation and drainage systems.
+- Analyse soils and monitor changes so that potential problems can be managed.
+Reduced socio-economic conditions:
+- Manage I & D to prevent disease spread.
+Increased incidence of water related disease
+- Educate about causes of disease.
+Increased inequity
+- Improve health facilities.
+Weaker community infrastructure
+- Allow sufficient time and money for extensive public participation to ensure that plans are optimal, that all sections of affected society are considered and that local institutions are in place to sustain irrigated agriculture, particularly in respect of land and water rights.
+- Consider markets, financial services and agricultural extension in conjunction with proposed irrigation and drainage changes.
+- Ensure that agricultural intensification does not preclude other economic or subsistence activity, such as household vegetables, fodder or growing trees for firewood.
+- Provide short-term support and/or skills for an alternative livelihood if irrigation removes existing livelihood
+Poor water quality:
+- Define and enforce return water quality levels (including monitoring).
+Reduction in irrigation water quality
+- Control industrial development.
+Water quality problems for downstream users caused by irrigation return flow quality
+- Designate land for saline water disposal; build separate disposal channels.
+- Educate for pesticide or sewage contamination dangers.
+- Monitor irrigation water quality
+Ecological degradation:
+- Define ecological requirements.
+Reduced big-diversity in project area
+- Operate dams to suit downstream requirements and encourage wildlife around reservoirs (see Sections 4.1.3 and 4.5).
+Damage to downstream ecosystems due to reduced water quantity and quality
+- Designate land (in law and supported by protection institutions) for flood plains; wetlands; watersheds; drainage water disposal; river corridors.
+Ground water depletion:
+- Define and enforce abstraction regulations.
+Dry drinking & irrigation wells
+- Monitor ground water levels.
+Saline intrusion at coasts
+- Adjust abstraction charges.
+Reduced base flow/wetlands
+Hydrology
+Low flow regime
+Flood regime
+Operation of dams
+Fall of water table
+Rise of water table
+This section is concerned with the consequences of impacts resulting from a change in the flow regime of rivers, or a change in the movement of the water table, through the seasons. The consumptive nature of irrigation means that some change to the local hydrological regime will occur when new schemes are constructed and, to a lesser extent, when old schemes are rehabilitated. The ecology and uses of a river will have developed as a consequence of the existing regime and may not be able to adapt easily to major changes. It is also important to recognize the interrelationship between river flows and the water table. During high flow periods, recharge tends to occur through the river bed whereas groundwater often contributes to low flows. Figure 3 is a conceptual diagram of flow through a river-supplied irrigation scheme. Figure 4 illustrates the links between surface and groundwater.
+Low flow regime
+Changes to the low flow regime may have significant negative impacts on downstream users, whether they abstract water (irrigation schemes, drinking supplies) or use the river for transportation or hydropower. Minimum demands from both existing and potential future users need to be clearly identified and assessed in relation to current and future low flows. The quality of low flows is also important. Return flows are likely to have significant quantities of pollutants. Low flows need to be high enough to ensure sufficient dilution of pollutants discharged from irrigation schemes and other sources such as industry and urban areas. A reduction in the natural river flow together with a discharge of lower quality drainage water can have severe negative impacts on downstream users, including irrigation schemes.
+Habitats both within and alongside rivers are particularly rich, often supporting a high diversity of species. Large changes to low flows (±20%) will alter micro-habitats of which wetlands are a special case. It is particularly important to identify any endangered species and determine the impact of any changes on their survival. Such species are often endangered because of their restrictive ecological requirements. An example is the Senegal river downstream of the Manantali Dam where the extent of wetlands has been considerably reduced, fisheries have declined and recession irrigation has all but disappeared.
+The ecology of estuaries is sensitive to the salinity of the water which may be determined by the low flows. Saline intrusion into the estuary will also affect drinking water supplies and fish catches. It may also create breeding places for anopheline vectors of malaria that breed in brackish water.
+The operation of dams offers excellent opportunities to mitigate the potential negative impacts of changes to low flows.
+FIGURE 3 Conceptual diagram of the irrigation return flow system for a given reach of a river system (Utah State University Foundation, 1969)
+FIGURE 4 The interrelationship between surface water and groundwater
+Flood regime
+Uncontrolled floods cause tremendous damage and flood control is therefore often an added social and environmental benefit of reservoirs built to supply irrigation water. However, flood protection works, although achieving their purpose locally, increase flooding downstream, which needs to be taken into account.
+Radically altered flood regimes may also have negative impacts. Any disruption to flood recession agriculture needs to be studied as it is often highly productive but may have low visibility due to the migratory nature of the farmers practicing it. Flood waters are important for fisheries both in rivers and particularly in estuaries. Floods trigger spawning and migration and carry nutrients to coastal waters. Controlled floods may result in a reduction of groundwater recharge via flood plains and a loss of seasonal or permanent wetlands. Finally, changes to the river morphology may result because of changes to the sediment carrying capacity of the flood waters. This may be either a positive or negative impact.
+As with low flows, the operation of dams offers excellent opportunities to mitigate the potential negative impacts of changes to flood flows. The designation of flood plains may also be a useful measure that allows groundwater recharge and reduces peak discharges downstream. This is one of the positive functions of many areas of wetland.
+It is important that new irrigation infrastructure does not adversely effect the natural drainage pattern, thus causing localized flooding.
+Operation of dams
+The manner in which dams are operated has a significant impact on the river downstream. There is a range of measures that can be undertaken to reduce adverse environmental impacts caused by changing the hydrological regime that need not necessarily reduce the efficacy of the dam in terms of its main functions, namely irrigation, flood protection and hydropower. Multi-purpose reservoirs offer enormous scope for minimizing adverse impacts. In the case of modifying low flows, identifying downstream demands to determine minimum compensatory flows, both for the natural and human environment, is the key requirement and such demands need to be allowed for at the design stage. The ability to mimic natural flooding may require modifications to traditional dam offtake facilities. In particular, passing flood flows early in the season to enable timely recession agriculture may have the added advantage of passing flows carrying high sediment loads.
+A number of disease hazards are associated with dams some of which can be minimized, others eliminated by careful operation. They include malaria, schistosomiasis and river blindness; this is discussed more fully in the section Human health.
+Rooted aquatic weeds along the shore (or in shallow reservoirs) can be partially controlled by alternate desiccation and drowning. In some parts of the world local communities are willing to de-weed reservoirs and use the weeds as animal fodder.
+Fall of water table
+A possible advantage of reducing the water table level prior to the rainy season is that it may increase the potential for groundwater recharge. Lowering the water table by the provision of drainage to irrigation schemes with high water tables brings benefits to agriculture.
+Lowering the groundwater table by only a few metres adversely affects existing users of groundwater whether it is required for drinking water for humans and animals or to sustain plant life (particularly wetlands), especially at dry times of the year. Springs are fed by groundwater and will finally dry up if the level falls. Similarly low flows in rivers will be reduced. Any changing availability of groundwater for drinking water supply needs to be assessed in terms of the economics of viable alternatives. Poor people may be disproportionately disadvantaged. They may also be forced to use sources of water that carry health risks, particularly guinea worm infection and schistosomiasis. In parts of Asia there are indications that lowering the ground level may favour the sandfly which may be vectors for diseases such as visceral leishmaniasis.
+Saline intrusion along the coast is a problem associated with a falling groundwater level with severe environmental and economic consequences.
+A continued reduction in the water table level (groundwater mining), apart from deleting an important resource, may lead to significant land subsidence with consequent damage to structures and difficulties in operating hydraulic structures for flood defence, drainage and irrigation. Todd (1980) gives an example of a drop in ground level of over 3 m associated with a 60 m drop in groundwater level over a period of 50 years in the Central Valley, California. Vulnerable areas are those with compressible strata, such as clays and some fine-grained sediments. Any structural change in the soil is often irreversible. The ground level can fall with a lowering of the water table if the soils are organic. Peats shrink and compact significantly on draining, with consequent lowering of the ground level by several metres.
+Particular care is needed in the drainage of tropical coastal swamp regions as the FeSO[4] soils can become severely acidic resulting in the formation of "cat-clays".
+A number of negative consequences of a falling water table are irreversible and difficult to compensate for, eg salt water intrusion and land subsidence, and therefore groundwater abstraction needs controlling either by licensing, other legal interventions or economic disincentives. Over-exploitation of groundwater, or groundwater mining, will have severe consequences, both environmental and economic, and should be given particular importance in any EIA.
+Rise of water table
+In the long-term, one of the most frequent problems of irrigation schemes is the rise in the local water-table (waterlogging). Low irrigation efficiencies (as low as 20 to 30% in some areas) are one of the main causes of rise of water table. Poor water distribution systems, poor main system management and archaic in-field irrigation practices are the main reason. The ICID recommendation to increase field application efficiency to even 50% could significantly reduce the rise in the groundwater. The groundwater level rise can be spectacularly fast in flat areas where the water table has a low hydraulic gradient. The critical water table depth is between 1.5 and 2 m depending on soil characteristics, the potential evapotranspiration rate and the root depth of the vegetation/crops. Groundwater rising under capillary action will evaporate, leaving salts in the soil. The problem is of particular concern in arid and semi-arid areas with major salinity problems. A high water table
+also makes the soil difficult to work.
+FIGURE 5 Causes and impacts of reduced water quality in a river system
+Good irrigation management, closely matching irrigation demands and supply, can reduce seepage and increase irrigation efficiency, thereby reducing the groundwater recharge. The provision of drainage will alleviate the problem locally but may create problems if the disposal water is of a poor quality. Apart from measures to improve water management, two options to reduce seepage are to line canals in highly permeable areas and to design the irrigation infrastructure to reduce wastage. Waterlogging also implies increased health risks in many parts of the world.
+Water and air quality
+Solute dispersion
+Toxic substances
+Agrochemical pollution
+Anaerobic effects
+Gas emissions
+In general the purer the water, the more valuable and useful it is for riverine ecology and for abstractions to meet human demands such as irrigation, drinking and industry. Conversely, the more polluted the water, the more expensive it is to treat to satisfactory levels. The causes and impacts of reduced water quality are illustrated in Figure 5. Tables 6, 7 and 8 are generalized water quality standards for irrigation, drinking and fresh-water fisheries. As soil salinity levels rise above plant tolerance levels, both crops and natural vegetation are affected. This leads to disruption of natural food chains and the loss of agricultural production. The critical problem of salinity is covered in the section Soil properties and salinity effects.
+Solute dispersion
+The changing hydrological regime associated with irrigation schemes may alter the capacity of the environment to assimilate water soluble pollution. In particular, reductions in low flows result in increased pollutant concentrations already discharged into the water course either from point sources, such as industry, irrigation drains and urban areas, or from non-point sources, such as agrochemicals leaking into groundwater and soil erosion. Reduced flood flows may remove beneficial flushing, and reservoirs may cause further concentration of pollutants. Where low flows increase, for example as a result of hydropower releases, the effect on solute dispersion is likely to be beneficial, particularly if the solutes are not highly soluble and tend to move with sediments.
+<section>a</section>
+Toxic substances
+Dissolved salts may be present in high enough concentrations to be toxic (eg naturally occurring selenium in the soils of the Central Valley, California and boron in Southern Peru). However, pesticides are a more common source of poisons associated with irrigation schemes. They are poisonous to plants, fish, birds and mammals including humans. Persistent chemicals are a threat to aquatic systems even when not soluble, as many bond chemically to soil particles and may be transported by erosion. Persistent organochlorine insecticides (eg DDT, dieldrin and endosulfan) are particularly hazardous to aquatic systems and become rapidly concentrated in the food chain. Non-specific herbicides can rapidly affect the supply of food. Pesticide risks are likely to increase if a monoculture is practiced, so that weeds and pests are not controlled by rotation, or if the method of agricultural management requires high applications, such as low tillage methods.
+TABLE 6 Guidelines for interpretation of water quality for irrigation^1 (Source: Ayers and Westcot, 1976)
+Degree of Restriction on Use
+Potential Irrigation Problem
+Units
+None
+Slight to Moderate
+Severe
+Salinity (affects crop water availability)^2
+EC[w]
+dS/m
+(or)
+TDS
+mg/l
+Infiltration (affects infiltration rate of water into the soil. Evaluate using EC[W] and SAR together)^3
+SAR = 0-3 and
+EC[w ]=
+SAR =3-6
+EC[w ]=
+SAR =6-12
+EC[w] =
+SAR =12-20
+EC[w] =
+SAR =20-40
+EC[w] =
+Specific Ion Toxicity (affects sensitive crops)
+Sodium (Na)^4
+surface irrigation
+SAR
+sprinkler irrigation
+me/l
+Chloride (Cl)^4
+surface irrigation
+me/l
+sprinkler irrigation
+me/l
+Boron (B)
+mg/l
+Miscellaneous Effects (affects susceptible crops)
+Nitrogen (NO[3] - N)^5
+mg/l
+Bicarbonate (HCO[3]) (overhead sprinkling only)
+me/l
+pH
+Normal Range 6.5-8.4
+^1 Adapted from University of California Committee of Consultants 1974.
+^2 ECw mean electrical conductivity, a measure of the water salinity, reported in deciSiemens per metre at 25°C (dS/m) or in units millimhos per centimetre (mmho/cm). Both are equivalent. TDS means total dissolved solids, reported in milligrams per litre (mg/l).
+^3 SAR means sodium adsorption ratio. At a given SAR, infiltration rate increases as water salinity increases. Adapted from Rhoades 1977, and Oster and Schroer 1979.
+^4 For surface irrigation, most tree crops and woody plants are sensitive to sodium and chloride. Most annual crops are not sensitive. With overhead sprinkler irrigation and low humidity (<30 percent), sodium and chloride may be absorbed through the leaves of sensitive crops.
+^5 NO[3] - N means nitrate nitrogen reported in terms of elemental nitrogen (NH[4] - N and Organic -N should be included when wastewater is being tested).
+Chemicals have become an essential part of agricultural production and the benefits are enormous. However, when misused, the adverse impacts can be extensive.
+Contamination of soil by the following metals is of particular concern: aluminium, arsenic, beryllium, chromium, cadmium, mercury, nickel, antimony and tin. Other elements are of ecotoxicological importance but are also plant nutrients, namely: boron, cobalt, copper, iron, manganese, molybdenum and zinc. This is a specialist subject and local knowledge will be important.
+The use of water for irrigation containing sewage or industrial wastes should be of particular concern in an EIA and the WHO Health Guidelines for the Use of Wastewater in Agriculture and Aquaculture (1989) will be very helpful.
+The industrial processing of crops, or preparation of agricultural inputs, may involve or produce toxic substances, the safe disposal of which should fall within the remit of any EIA. The International Programme on Chemical Safety (IPCS), a joint WHO/ILO/UNEP programme, produces standards and guidelines on safety.
+Agrochemical pollution
+A high nutrient level is essential for productive agriculture. However, the use of both natural and chemical fertilizers may result in an excess of nutrients which can cause problems in water bodies and to health. Nitrates are highly soluble and therefore may quickly reach water bodies. Phosphates tend to be fixed to soil particles and therefore reach water courses when soil is eroded. Phosphate saturated soils and high phosphate level groundwater are now found in some developed countries.
+TABLE 7 Inorganic constituents for drinking water quality
+(Source: WHO, 1993)
+Characteristic
+Health-based guideline
+Antimony (mg/l)
+Arsenic (mg/l)
+Barium (mg/l)
+Boron (mg/l)
+Cadmium (mg/l)
+Chromium (mg/l)
+Copper (mg/l)
+Cyanide (mg/l)
+Fluoride (mg/l)
+Lead (mg/l)
+Manganese (mg/l)
+Mercury (mg/l)
+Molybdenum (mg/l)
+Nickel (mg/l)
+Nitrate (mg/l)
+Nitrite (mg/l)
+Selenium (mg/l)
+Uranium (µg/l)
+Consumer acceptability level
+Aluminium (mg/l)
+Chloride (mg/l)
+Hardness as CaCO[3] (mg/l)
+Hydrogen Sulphide (mg/l)
+Iron (mg/l)
+Manganese (mg/l)
+pH
+Sodium (mg/l)
+Sulphate (mg/l)
+Total dissolved solids (mg/l)
+Zinc (mg/l)
+TABLE 8 Water quality for freshwater fish (temperate zone excluding salmonids)
+Characteristic
+Level at which no stress is shown
+Dissolved oxygen
+50% of the time ³7 mg/l O[2]
+Non-ionized ammonia
+£0.025 mg/l NH[3]
+Notes:
+2 A wide range of heavy metals, industrial pollutants and agrochemicals are toxic to fish.
+3 More information may be obtained from various FAO Fisheries Technical Papers.
+Source: EC Council directive (78/659/EEC) on the quality of fresh waters needing protection or improvements in order to support fish life.
+High levels of nitrates in drinking water can cause health problems in small children. However, the transport of pathogens resulting from the use of excrete as a fertilizer or from poor sanitation causes widespread health problems from viruses, bacteria and protozoans capable of causing a range of diseases from minor stomach upsets to cholera and hepatitis.
+A high nutrient level is toxic to some aquatic life and encourage rapid rates of algae growth which tends to decrease the oxygen level of the water and thus lead to the suffocation of fish and other aquatic biota. Clear water enhances the effect as it enables increased photosynthesis to take place: reservoirs and slow-moving water are therefore most at risk. Some algae produce toxins, and if deoxygenation is severe, eutrophic conditions occur.
+Reservoirs with a high level of organic pollution, including human waste, provide an ideal habitat for the breeding of culicine mosquitos that transmit filariasis.
+Anaerobic effects
+Most anaerobic conditions in water bodies are the result of an over-supply of nutrients, as discussed above, resulting in eutrophication. In reservoirs, anaerobic conditions may occur in the deeper areas as organic material on the bed decays in an environment with progressively less oxygen. Reservoirs should be cleared of organic matter, prior to impoundment to limit anaerobic decomposition once the dam is filled. Anaerobic conditions also occur when water is so polluted as to kill most aquatic life. Anaerobic decomposition should be avoided as it produces gases such as hydrogen sulphide, methane and ammonia all of which are poisonous and some of which contribute to the greenhouse effect. The production of greenhouse gases may also be produced by irrigated rice fields and this is being investigated by the International Rice Research Institute.
+Multi-level outlets may be required for deep reservoirs to ensure that flows are sufficiently oxygenated for downstream aquatic life.
+Gas emissions
+Irrigated areas can become contaminated by emissions from industry, particularly areas that are close to urban or industrial sites.
+Soil properties and safety erects
+Soil salinity
+Soil properties
+Saline groundwater
+Saline drainage
+Saline intrusion
+On-going comprehensive soil studies are essential to the successful management of irrigated areas. A wide range of activities associated with an increased intensity of production can contribute to reduced soil fertility. Soil salinity is probably the most important issue although mono-cropping, without a fallow period, rapidly depletes the soil fertility. A reduction in organic content will contribute to a soil's erodability. The increased use of agro-chemicals, needed to retain productivity under intensification, can introduce toxic elements that occur in fertilizers and pesticides.
+Arable land is continuously going out of production at approximately 5 to 7 million hectares per year (approx 0.5%) due to soil degradation (FAO, 1992). On irrigated lands salinization is the major cause of land being lost to production and is one of the most prolific adverse environmental impacts associated with irrigation. Saline conditions severely limit the choice of crop, adversely affect crop germination and yields, and can make soils difficult to work. Careful management can reduce the rate of salinity build up and minimize the effects on crops. Management strategies include: leaching; altering irrigation methods and schedules; installing sub-surface drainage; changing tillage techniques; adjusting crop patterns; and, incorporating soil ameliorates. All such actions, which may be very costly, would require careful study to determine their local suitability. Figure 6 indicates the sensitivity of a range of important crops to soil salinity.
+It is important that all evaluation regarding irrigation water quality (see Ayers and Westcot, 1985) is linked to the evaluation of the soils to be irrigated. Low quality irrigation waters might be hazardous on heavy, clayey soils, while the same water could be used satisfactorily on sandy and/or permeable soils.
+Soil salinity
+There are four main reasons for an increase in soil salinity on an irrigation scheme:
+o salts carried in the irrigation water are liable to build up in the soil profile, as water is removed by plants and the atmosphere at a much faster rate than salts. The salt concentration of incoming flows may increase in time with development activities upstream and if rising demand leads to drain water reuse;
+o solutes applied to the soil in the form of artificial and natural fertilizers as well as some pesticides will not all be utilized by the crop;
+o salts which occur naturally in soil may move into solution or may already be in solution in the form of saline groundwater. This problem is often severe in deserts or arid areas where natural flushing of salts (leaching) does not occur. Where the groundwater level is both high and saline, water will rise by capillary action and then evaporate, leaving salts on the surface and in the upper layers of the soil; and
+o the transfer from rainfed to irrigation of a single crop, or the transfer from single to double irrigation may create a "humidity/salinity bridge" in the soil, between a deep saline groundwater and the (so far) salt-free surface layers of the soil. Careful soil monitoring is highly recommended whenever the irrigated regime is intensified, even though the saline layers might be far below the soil surface and the irrigation water applied is of high quality.
+FIGURE 6 Yield potential of selected crops as influenced by soil salinity (ECe) (Ayers and Westcot, 1985)
+Unless there is some drainage from the scheme, whether natural or artificial, salinity problems will arise with consequent adverse impacts for agriculture.
+Soil properties
+The accumulation of salts in soils can lead to irreversible damage to soil structure essential for irrigation and crop production. Effects are most extreme in clay soils where the presence of sodium can bring about soil structural collapse. This makes growing conditions very poor, makes soils very difficult to work and prevents reclamation by leaching using standard techniques. Gypsum in the irrigation water or mixed into the soil before irrigation is a practice that is used to reduce the sodium content of sodic soils.
+In certain areas, in particular in tropical coastal swamps, acid sulphate soils may be a problem. The danger of potential soil acidification needs to be considered. The transfer from rainfed to irrigated crop production, or intensification of existing irrigated crop production requires a higher level of nutrient availability in the soil profile. If this aspect is not given adequate attention, the irrigation efficiency remains low. High water losses through the profile will result and useful cations may be washed out from the soil-complex. A general lowering of pH may result in a decrease of the plants capability to take up nutrients. The decrease of pH may also result in an increased availability/release of heavy metals in the soil profile. Rectifying soil acidification problems can be very costly. For similar reasons the content of organic material in the soil may decrease. Such decrease leads to a degradation of soil structure and to a general decrease of soil fertility.
+Saline groundwater
+An increase in the salinity of the groundwater is often associated with waterlogging. An appropriate and well-maintained drainage network will mitigate against such effects. Saline groundwater can be particularly critical in coastal regions.
+Saline drainage
+Drainage may not be required initially but it should be allowed for if there is insufficient natural drainage. Areas with a flat topography or with water tables that have a low hydraulic gradient are at risk from salinization as are areas with soils of a low permeability which are difficult to leach. Groundwater drains, either pipe (tile) drains or deep ditches, carry out the dual task of controlling the water table and through leaching, counteracting the build up of salts in the soil profile. Normally water is applied in excess of the crop water requirement and soluble salts are carried away in the drainage water although in some areas leaching can be achieved during the rainy season.
+An increase in solute concentration from the applied irrigation water to the drain water cannot be prevented. Typically salt concentrations in drainage water are 2 to 10 times higher than in irrigation water, (Hoses and Pearson in Worthington E B (ed), 1977). The quantity of drainage water can be reduced by good irrigation management though this will tend to have the effect of making the quality worse. Reducing salt inputs is one way of improving drain water quality. The safe disposal of salts is of prime importance, either to the sea (using dedicated channels if river quality is threatened) or to designated areas such as evaporation ponds where the negative impacts can be contained. Leaching typically requires an extra 1020% of water.
+Saline intrusion
+The location of the boundary between fresh and salt water at the coast line is a function of the hydraulic potential of the fresh water. A lowered water table will result in the boundary moving inland as the pressure reduces. Large numbers of people may be affected by a reduction in the quality of their drinking supplies when fresh water is replaced by salty water. Moreover, people may be forced to turn to sources of water whose collection and use have important health risks. The plant life in the area may also change as only salt tolerant species survive. The environmental effects can be irreversible as reversing the movement of a salt water wedge is usually both difficult and very expensive.
+Changes to the flow regime may alter the salinity of the estuary. This is likely to have a major impact on the local ecology: a highly productive habitat which is often sensitive to salinity levels.
+Erosion and sedimentation
+Local erosion
+Hinterland effect
+River morphology
+Channel structures
+Sedimentation
+Estuary erosion
+Upstream erosion may result in the delivery of fertile sediments to delta areas. However, this gain is a measure of the loss of fertility of upstream eroded lands. A major negative impact of erosion and the associated transport of soil particles is the sedimentation of reservoirs and abstraction points downstream, such as irrigation intakes and pumping stations. Desilting intakes and irrigation canals is often the major annual maintenance cost on irrigation schemes. The increased sediment load is likely to change the river morphology which, together with the increased turbidity, will effect the downstream ecology.
+FIGURE 7 Factors affecting soil erosion (Petermann, 1993, after Morgan, 1981)
+Soil erosion rates are greatest when vegetative cover is reduced and can be 10 to 100 times higher under agriculture compared with other land uses. However, there are a wide range of management and design techniques available to minimize and control erosion. For erosion to take place, soil particles need to be first dislodged and then transported by either wind or water. Both actions can be prevented by erosion control techniques which disperse erosive energy and avoid concentrating it. For example, providing good vegetative cover will disperse the energy of rain drops and contour drainage will slow down surface runoff. See Figure 7 for factors effecting erosion potential.
+<section>b</section>
+Local erosion
+The method of irrigation profoundly affects the vulnerability of the land to erosion. Because irrigated land is wetter, it is less able to absorb rainfall and runoff will therefore be higher. Field size, stream size (drop size), slope and field layout are all difficult to change and all significantly affect erosion rates. Careful design can avoid the occurrence of erosion problems. Agricultural practices affect soil structure and therefore the soil's erosivity, or the ease with which particles are dislodged. In general land-forming for irrigation, such as land-levelling and the construction of field bunds, tends to reduce erosion.
+Archaic in-field water management practices involving poor cut and fill operations through watercourse embankments can result in serious local erosion at the head end of the irrigated field and in sedimentation at the mid or tail-end locations of the field. The micro-topography of a field will thus be disturbed. Unavoidably, this effect creates disproportionate water distribution over the irrigated field. In addition it might create disputes between water users. Improved water management practices related to surface irrigation methods (for example by using gates, siphons, checks) can reduce such hazards.
+Irrigation infrastructure needs to be designed to ensure that localized erosion, eg gully formation, does not occur. Construction activities generally expose soil to erosion. Following the completion of construction work, vegetation should be established around structures so that bare soil is not exposed to erosive forces.
+Hinterland effect
+The development of irrigation schemes in developing countries is often associated with an increase in intensity of human activity in areas surrounding the scheme. This may be due to people moving into the area as a result of the increased economic activity or may be carried out by farmers and their families who are directly engaged in irrigation activities. In either case typical activities are: more intensive rain fed agriculture; an increase in the number of livestock; and, greater use of forests, particularly for fuel wood. All these activities are liable to increase erosion in the area by decreasing vegetative cover which will have a detrimental effect on the local fertility and ecology as well as contribute to sediment related problems.
+Clearing higher non-irrigated parts of the catchment can result in a rising downstream water table. In areas where the groundwater is saline the higher recharge may cause higher salinity levels in the rivers and cause pressure levels in the lower irrigated areas to rise thus impeding leaching. This can be prevented by planting deeper rooting crops and trees in the higher lands. This phenomenon has been observed in South-eastern Australia.
+Mitigating actions can be put in place relatively easily with forethought as to problems that might arise. For example, allowance should be made for livestock, fuel wood or vegetable gardens within the layout of an irrigation scheme. Alternatively, protection of vulnerable areas maybe necessary.
+River morphology
+The capacity and shape of a river results from its flow, the river bed and bank material, and the sediment carried by the flow. A fast flowing river has more energy and is able to carry higher sediment loads (both more and larger particles) than a slow moving river. Hence, sediments settle out in reservoirs and in deltas where the flow velocity decreases. A river is said to be in regime when the amount of sediment carried by the flow is constant so that the flow is not erosive nor is sediment being deposited. The regime condition changes through the year with changing flows.
+Reductions in low flows and flood flows may significantly alter the river morphology, reducing the capacity to transport sediment and thereby causing a build up of sediments in slower moving reaches and possibly a shrinking of the main channel. Increasing flows will have the reverse effect. Where the sediment balance changes over a short distance, perhaps due to a reservoir or the flushing of a sediment control structure, major changes to the local river morphology are likely to occur. The release of clear water from reservoirs may result in scour and a general lowering of the bed level immediately downstream of the dam, the reverse of the effect that might be expected with a general reduction in flows.
+Changes to the river morphology may effect downstream uses, in particular navigation and abstraction for drinking, industry and irrigation. The river ecology may also be adversely effected.
+Channel structures
+The susceptibility of channel structures to damage is strongly related to changes in channel morphology and changes in sediment regime. Increased suspended sediment will cause problems at intake structures in the form of siltation as well as pump and filtration operation. Abstraction structures may become clogged with sediment or left some distance from the water. Degradation of the river bed is likely to threaten the structural integrity of hydraulic structures (intakes, headworks, flood protection etc.) and bridges. The construction of new structures impacts on nearby structures by changing local flow conditions.
+Sedimentation
+Irrigation schemes can fail if the sediment load of the water supply is higher than the capacity of the irrigation canals to transport sediment. Sediment excluders/extractors at the headworks can mitigate this effect to some extent. Sedimentation from within the scheme itself can also be a problem, for example, wind-blown soil filling canals. Canal desilting is an extremely costly element of irrigation maintenance and design measures should minimize sediment entry. Reservoir siltation shortens the active life of the reservoir and must be given careful consideration at the design stage. The increases in erosion due to the economic activity prompted by the reservoir and its access roads needs to be taken into account. Upstream erosion prevention, particularly within the project catchment is an important consideration of an EIA. However, this may not be sufficient to significantly reduce reservoir sedimentation, especially in view of the time delay between soil conservation
+activities and a reduction in river sediment loads.
+Estuary erosion
+Changes to the morphology of river estuaries can result from increased erosion or sedimentation. Areas of mangrove may be threatened by changes to the estuary morphology and special studies may be required to determine any adverse impacts. Navigation and fishing may also be adversely affected.
+Biological and ecological change
+Project lands
+Water bodies
+Surrounding area
+Valleys and shores
+Wetlands and plains
+This section focuses on the ecological changes brought about by the project. The most obvious ones are a consequence of the change of land use and water use in the project area but effects on the land around the project and on aquatic ecosystems that share the catchment are likely. Biological diversity, areas of special scientific interest, animal migration and natural industry are important study areas. The overall habitat as well as individual groups (mammals, birds, fish, reptiles, insects etc.) and species need to be considered. Rare and endangered species are often highly adapted to habitats with very narrow ranges of environmental gradients. Such habitats may not be of obvious economic value to man, eg arid areas, and therefore current knowledge of the biota may be poor and a special study may be required. Local knowledge is particularly important as the range of species may be very local. Thienemann's rules are useful in thinking about the ecology of the effected
+areas:
+o The greater the diversity of conditions in a locality, the larger the number of species in a biological community.
+o The more conditions in a locality deviate from the normal, and thus from the optimum for most species, the smaller the number of species and the greater the biomass of each.
+o The longer a locality has been in a stable condition, the richer its biological community. (Petermann 1993).
+Project lands
+The nature of irrigation, ie providing water to water-short land, will radically change both the agricultural and natural ecology in the project area. The creation of compensation areas or habitat enhancement outside the project area may be useful mitigation measures where the natural habitat change is assessed as detrimental. In order to predict the likely significant effects that irrigation projects have on human interests, low intensity, pre-project use of the study area needs to be assessed, such as seasonal grazing, recreation, hunting for wild meat or bee keeping and the use of the vegetation for fuel, building, medicine etc.
+Water bodies
+The creation of reservoirs and channels provides the possibility of enhanced aquatic habitats. In particular, reservoirs and channels offer the opportunity of pisciculture and aquaculture and favourable habitats for water fowl, both permanent and migrating, but may also offer favourable habitats for disease transmitting insects and snails (see the section Human health). Bird sanctuaries and wildlife parks can be created around reservoirs.
+The consumption of water for irrigated agriculture and the reduced quality of return flows is likely to adversely impact on downstream ecosystems. Reduced flows, increased salt concentrations, lower oxygen levels, higher water temperatures and increased pollution and silt loads all tend to favour vigorous, tolerant species (aquatic weeds). The demands of different ecotypes will change through the year both in quantity and quality. The needs of fowl and fish are liable to be particularly sensitive during breeding and migrating seasons: sport and commercial fish are often at risk. See Table 9 for information on water quality for freshwater fish. This table is for temperate zones and no international standards exist for tropical fish. Local standards should be studied where available. Discharges from dams can be controlled to meet ecological demands through the year and there may be scope to modify construction methods to minimize disruptions to the flow and to prevent very
+heavy sediment loads.
+FIGURE 8 Wetland values (Source: Dungan (IUCN), 1990)
+Surrounding area
+It is important to consider the biological and ecological changes that may result in areas surrounding irrigation and drainage work. Irrigation may have a positive impact, for example by settling migrant slash and burn farmers, or a negative impact, for example by raising the demand for fuel wood due to increases in the local population.
+Valleys and shores
+Water bodies tend to support environmentally-rich corridors and large human populations. Marked changes to the water environment, both in quantity and quality, are liable to have major impacts, both positive and negative eg by providing a food source for fish-eating mammals and birds around a new reservoir or by reducing suitable nesting sites at a riverside marsh. Downstream aquatic biota may be adversely affected by changes to the hydrology or morphology of a river system.
+Wetlands and plains
+The United Nations convention on Wetlands of International Importance defines wetlands as "areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed six metres". Wetlands are among the most productive ecosystems in the world. Estuaries and tidal wetlands, in particular mangroves, are important nursery areas for many species of offshore fish. Shallow waters are also, in general, rich fishing grounds. Wetlands usually support a wide range of species and are particularly important for water fowl and as staging areas for migrating birds. The other three most valuable contributions of wetlands are: as a buffer to reduce flood peaks; as a low-cost water purification system; and, as protection from coastal erosion (World Bank, 1991). Figure 8 summarizes the value of wetlands.
+Mangroves need both significant fresh water recharges and sediment rich flows in order to thrive. A reduction in flow leads to an increase in the soil salinity which favours more salt-tolerant species. Mangroves trap silt, transported by flood flows, and obtain their inorganic nutrients from it. These flushing flows also serve to keep the deltaic channels open. In the Lower Indus, which now receives no fresh water for nine months of the year, the mangroves have become stunted and reduced to one, salt-tolerant species.
+Seasonally flooded plains and deltas offer specialized and important habitats providing grazing for cattle and wildlife, and vital spawning grounds for many fish species. Flood flows trigger migration and breeding in a large number of species.
+Irrigation can have a direct impact on wetlands by either changing the hydrological conditions or by reducing water quality in downstream areas. The often high environmental and economic value of wetlands makes their study and preservation of key importance in an EIA.
+Socio-economic impacts
+Population change
+Income and amenity
+Human migration
+Resettlement
+Women's role
+Minority groups
+Sites of value
+Regional effects
+User involvement
+Recreation
+The major purpose of irrigated agriculture is to increase agricultural production and consequently improve the economic and social well-being of the area of the project. Although irrigation schemes usually achieve this objective, they could often have been more successful in developing countries if more attention had been paid to the social and economic structure of the project area. An EIA should thus equally concentrate on ways in which positive impacts can be enhanced as on negative impacts mitigated.
+Changing land-use patterns are a common cause of problems. Small plots, communal land-use rights, and conflicting traditional and legal land rights all create difficulties when land is converted to irrigated agriculture. Land tenure/ownership patterns are almost certain to be disrupted by major rehabilitation work as well as a new irrigation project. Access improvements and changes to the infrastructure are likely to require some field layout changes and a loss of some cultivated land. The 'losers' will need tailored compensation best designed with local participation. Similar problems arise as a result of changes to rights to water.
+User participation at the planning and design stages of both new schemes and the rehabilitation of existing schemes, as well as the provision of extension, marketing and credit services, can minimize negative impacts and maximize positive ones. Consultations with and the assistance of NGOs can be particularly helpful in minimizing adverse socio-economic impacts.
+Population change
+Irrigation projects tend to encourage population densities to increase either because they are part of a resettlement project or because the increased prosperity of the area attracts incomers. Major changes should be anticipated and provided for at the project planning stage through, for example, sufficient infrastructure provision. Impacts resulting from changes to the demographic/ethnic composition should also be considered. Training is an important component if new skills are expected.
+Income and amenity
+The most common socio-economic problems reducing the income generating capacity of irrigation schemes are:
+o the social organization of irrigation operation and maintenance (O&M): who will carry out the work (both operation and maintenance); when will irrigation take place (rotation schedules); how will fair delivery be determined (communication and measurement)? Poor O&M contributes significantly to long-term salinity and water-logging problems and needs to be adequately planned at the design stage.
+o reduced farming flexibility. Irrigation may only be viable with high-value crops thus reducing activities such as grazing animals, operating woodlots etc.
+o insufficient external supports such as markets, agro-chemical inputs, extension and credit facilities
+o increased inequity in opportunity, often as a result of changing land-use or water use patterns. For example, owners benefit in a greater proportion than tenants or those with communal rights to land.
+o changing labour patterns that make labour-intensive irrigation unattractive.
+Improved planning, with user involvement, has the potential to reduce if not remove the above problems for both new and rehabilitation projects. Extension services, with training and education, also offer much scope to improve the income and amenity of irrigation schemes. Farmers often choose low risk, low profit strategies rather than high risk, high profit ones.
+Human migration
+Human migration (outside of the nomadic way of life) and displacement are commensurate with a breakdown in community infrastructure which results in a degree of social unrest and may contribute to malnutrition and an increased incidence of disease. Large, new irrigation schemes attract temporary populations both during construction and during peak periods of agricultural labour demands and provision for their accommodation needs to be anticipated. The problems of displacement during project construction or rehabilitation can usually be solved by providing short-term support.
+Resettlement
+Often the most significant social issue arising from irrigation development is resettlement of people displaced by the flooding of land and homes or the construction of canals or other works. This can be particularly disruptive to communities and, in the past, insensitive project development has caused unnecessary problems by a lack of consultation at the planning stage and inadequate compensation of the affected population. Technical ministries should seek expert assistance at an early stage. Community re-establishment often includes, for example, pilot farms, extension services and credit schemes. For more detailed information see Burbridge, 1988.
+Women's role
+Changing land patterns and work loads resulting from the introduction or formalizing of irrigation are likely to affect men and women, ethnic groups and social classes unequally. Groups that use "common" land to make their living or fulfil their household duties, eg for charcoal making, hunting, grazing, collecting fuel wood, growing vegetables etc. may be disadvantaged if that same land is taken over for irrigated agriculture or for building irrigation infrastructure. Historically, it has been men from the more settled and powerful groups that have had greatest access to the benefits and increased income from irrigated agriculture. Women, migrant groups and poorer social classes have often lost access to resources and gained increased work loads. Conversely, the increased income and improved nutrition from irrigated agriculture benefit women and children in particular. Inclusion of disadvantaged groups into the planning process maybe time-consuming, but should be considered
+an important aspect of EIA.
+Minority groups
+Minority groups or tribal minorities can benefit from the increased economic development of a new irrigation area. However, they are often disadvantaged by irrigation development as they are excluded from the scheme because of uncertain land rights and may be pastoralists rather than farmers. An EIA should consider the impacts on minority groups and, after consultation, appropriate rehabilitation or compensation measures should be allowed for in the project design.
+Sites of value
+New irrigation schemes should avoid destroying or downgrading sites of value whether that value be: aesthetic, historical, religious, mineral, palaeotological or recreational. A change in water table, associated with well-established schemes, can threaten buildings.
+Regional effects
+As with ecological impacts, the socio-economic impacts of irrigation projects will be significant outside the project area. A new project will both place demands on the region (marketing, migration, physical infrastructure) and contribute to regional development. For irrigation schemes to be economically viable, they need to complement other activities in the region and the EIA should consider the effects of any other development, such as agro-industries or new roads. Industrial and urban development may adversely affect irrigation schemes by competing for water and reducing the quality of water available. A regional planning system is essential to minimize conflicts and coordinate development.
+User involvement
+Projects planned with the beneficiaries rather than for them have proved more sustainable and no more costly. However, they do take longer to plan and design because consultation is a lengthy process. Some countries have public participation in the planning process enshrined in law but many countries have a top down procedure only. Local consultation of all interested (not just well-organized, vocal groups) will improve the project and thus increase the potential for economic benefit and sustained operation. The process may take a particularly long-time if the mechanisms for consultation also have to be set up. Local NGOs can be helpful to government agencies in this work and should be brought into the planning process at an early stage in order to avoid later conflicts building up.
+Recreation
+New and rehabilitation works offer the potential for improved recreational facilities, particularly around reservoirs and the EIA should highlight such potential for enhancement.
+Ecological imbalances
+Pests and weeds
+Animal diseases
+Aquatic weeds
+Without appropriate management measures, irrigated agriculture has the potential to create serious ecological imbalances both at the project site and in adjacent areas. Excessive clearance of natural vegetation cover in the command area, for example, can affect the microclimate and expose the soil to erosion, leading to a loss of top soil and nutrient leaching. The removal of roots and vegetation disrupts the water cycle, increasing the rate at which water enters rivers and streams, thereby changing flow regimes and increasing siltation in the downstream zone. This is often to the detriment of fisheries and aquaculture activities. The destruction of natural habitats in this manner and the creation of agricultural monocultures also impacts on the local flora and fauna reducing biodiversity. The introduction of exotic species of plant or animal may oust indigenous species or introduce disease agents which may affect plants, animals and/or man. Fertilizers and pesticides are
+widely applied to correct imbalances. These can percolate through the soil and/or be carried away in the drainage water polluting both groundwater and surface waters especially in the downstream zone. The nutrients in fertilizers may give rise to eutrophication of surface water bodies and promote the growth of aquatic weeds. Pesticide residues are hazardous to the health of both man and animals.
+The above examples serve to illustrate, together with the range of biological and ecological changes described in the section Biological and ecological change, the wide variety of potential impacts which may arise. Many may be of relatively minor significance in their own right but they often interact to produce a cumulative effect over a prolonged period of time which can result in very significant long term changes to the local ecology. This cumulative effect may impair the long-term viability of both the project and economic activities in the surrounding area.
+The following sections briefly describe three imbalances that are common problems on irrigation schemes.
+Pests and weeds
+Irrigated agriculture often provides improved conditions for crop diseases to develop, particularly fungal and bacterial foliage diseases. Diseases and weeds can also spread quickly via the re-use of waste-water and drainage water.
+Any change to a more uniform environment on the project lands is likely to favour vigorous species adapted to a wide variety of conditions. Species, such as insects and rodents, are often regarded as pests. The preferred habitats of natural predators, such as snakes, birds and spiders, may be reduced by land use changes and by the increased use of pesticides. Local or newly imported varieties of weeds may thrive in the irrigated environment and reduce agricultural productivity.
+Animal diseases
+Animals are subject to a similar range of water related diseases as humans. They may also act as reservoirs for human water-based infections and infections with water-related insect vectors, see Figure 9. The promotion of animal husbandry as a secondary, income generating activity for farmers in newly irrigated areas should be carefully evaluated for its possible environmental and health risks.
+Aquatic weeds
+The main problems of aquatic weeds are that they reduce the storage and conveyance capacity of reservoirs, canals and drains and increase water loss through evapotranspiration. Most irrigation schemes suffer infestations of exotic species. They are difficult and expensive to control, though the use of linings, shade and intermittent drying out can compliment traditional techniques of mechanical removal, careful herbicide application and the introduction of weed eating fish and insects. The costs of removing weeds may be offset in some cases by using the debris for compost, big-gas and animal and fish food. Other problems of aquatic weeds are that they can provide a favourable and protected habitat for disease vectors such as snails and mosquitoes.
+FIGURE 9 Main animal hosts of vector-borne diseases (Source Birley, 1989)
+Human health
+Disease ecology
+Specific risks and counter measures
+Health opportunities
+This section concentrates on human health issues associated with irrigation and drainage. It refers to items of the ICID checklist which cover health and safety in their broadest sense, including for example human settlements and shelter, and nutrition. Relevant characteristics of diseases, whose transmission potential is a function of ecological parameters affected by irrigation development, are summarized for non-expert readership; health risks mentioned in connection with the environmental and socioeconomic changes are discussed with possible preventive and mitigating measures; and, opportunities to promote human health in an integrated approach to irrigation development are presented. Health is a complex subject and specialist expertise will be required when preparing an EIA. Only brief introductory comments are made here and for further information the reader is referred to the PEEM Guidelines listed in the references. Human health considerations may warrant a separate
+Health Impact Assessment and the Asian Development Bank have produced guidelines for this (ADB, 1992).
+Irrigated agriculture contributes substantially to conditions that favour good health: food security, an improved infrastructure allowing better access to and by health services and economic progress which permits rural households a greater purchasing power for drugs and health services. On the other hand there can be significant negative impacts and two conditions need to be met to successfully deal with the potential negative impacts on human health in the context of an EIA. Firstly, relevant departments in the Ministry of Health and other appropriate health sector institutions should be involved and consulted at the earliest stages of any project. Options for institutional arrangements are described in PEEM Guideline 1, (Tiffen, 1989). For the process of impact assessment reference is made to PEEM Guideline 2 which distinguishes three categories of parameters related to: community vulnerability; environmental susceptibility; and the capacity of health services to deal
+with the forecast situation, (Birley, 1989). This methodology ensures a comprehensive approach, including, but not restricted to, the health sector.
+The traditional classification of water-related diseases by Bradley (Feachem et al 1977) focuses on specific ecological and behavioural risk factors and these characteristics are presented in Table 9. A broad indication of the global distribution of vector-borne diseases is presented in Table 10 and for more details reference is made to WHO (1989).
+<section>c</section>
+Disease ecology
+This section covers vector-borne diseases. Ecological and demographic changes resulting from the introduction of irrigation may create new or more favourable habitats for disease vectors. There are subtle differences in the ecological requirements of a range of disease vectors and there are intricate transmission patterns in different parts of the world. Local health authorities will have this information at hand. An interdisciplinary dialogue should guide planners in the incorporation of engineering and environmental management measures in the design, construction and rehabilitation of irrigation schemes. In general terms, two key determinants can be influenced: vector density (which is, up to a saturation point, linearly related to the transmission level) and vector longevity (the longer the lifespan of an individual mosquito, the greater the chance it transmits a disease to one or more humans).
+The vector-transmitted diseases in question are listed below in order of global importance. Any disease may have major importance locally.
+o Malaria
+Global, but between 80-90% of cases in Africa, between 100 and 200 million people infected; between 1 and 2 million deaths a year.
+o Schistosomiasis (bilharzia)
+Global, but to the largest extent in Africa; a debilitating disease; an estimated 200 million people are infected.
+o Japanese encephalitis (brain fever)
+South, South-East and East Asia, closely linked to irrigated rice production; occurs in epidemic outbreaks with high mortality rates among children.
+o Lymphatic filariasis (elephantiasis)
+Global, and mainly urban, with the exception of Central Africa where it is linked to irrigation and South/South-East Asia where it is linked to weed-infested reservoirs and to latrines either in the field or in nearby communities.
+o River blindness (onchocerciasis)
+West and Central Africa and foci in Central America; the Onchocerciasis Control Programme has eliminated the disease as a public health problem in a large part of West Africa.
+TABLE 9 Main infective diseases in relation to water supplies (Adapted from Feacham et al., 1977)
+Category
+Disease
+Frequency
+Severity
+Chronicity
+% suggested reduction by water improvements
+I
+Cholera
+I
+Typhoid
+I
+Leptospirosis
+I
+Tularaemia
+I
+Paratyphoid
+I
+Infective hepatitis
+I
+Some enteroviruses
+I, II
+Bacillary dysentery
+I, II
+Amoebic dysentery
+I, II
+Gastroenteritis
+II
+Skin sepsis and ulcers
+II
+Trachoma
+II
+Conjunctivitis
+II
+Scabies
+II
+Yaws
+II
+Leprosy
+II
+Tinea
+II
+Louse-borne fevers
+II
+Diarrhoeal diseases
+II
+Ascariasis
+III a
+Schistosomiasis
+III b
+Guinea worm
+IV
+Gambian sleeping sickness
+IV
+Onchocerciasis
+IV
+Yellow fever
+Category
+Preventive strategy
+I Faecal-oral
+Improve water quality. Prevent casual use of unimproved sources
+II Water-washed
+Improve water quality. improve hygiene. Improve water accessibility
+III Water-based
+Decrease water contact. Control snails. Improve water quality
+a. Penetrating skin
+b. Ingested
+IV Water-related insect vectors
+Improve surface water management. Destroy breeding sites. Decrease human-insect contacts
+TABLE 10 A broad indication of the vector-borne diseases naturally transmitted in each zoogeographical region (Source: Birley, 1989)
+Mexico, Central and South America
+Widespread dengue and yellow fever, some bancroftian filariasis, some onchocerciasis, widespread cutaneous and restricted visceral leishmaniasis, widespread schistosomiasis (mansoni), widespread Chagas disease, widespread malaria.
+North Africa and Asia excluding India and SE Asia
+Widespread dengue, guinea worm, some bancroftian filariasis, widespread cutaneous and restricted visceral leishmaniasis, restricted schistosomiasis, malaria.
+India, SE Asia, the Indonesian and Philippine archipelago and Indian Ocean
+Widespread dengue, guinea worm, widespread bancroftian and brugian filariasis, some cutaneous and more visceral leishmaniasis, restricted schistosomiasis (japonicum), widespread malaria, Japanese encephalitis.
+New Guinea, Solomons, Vanuatu and other Islands of the Western Pacific
+Restricted dengue, widespread bancroftian filariasis, restricted schistosomiasis (japonicum), widespread malaria.
+Africa South of the Sahara, Madagascar and SW Arabia
+Widespread dengue and yellow fever, bancroftian filariasis, loiasis, widespread onchocerciasis, restricted cutaneous and visceral leishmaniasis, widespread schistosomiasis, sleeping sickness, widespread malaria, guinea worm.
+Malaria: infective larvae of the Plasmodium parasite are injected into the bloodstream when an infected anopheline mosquito takes a bloodmeal. Only female mosquitoes take blood meals. Temperature, humidity and availability of clear water bodies (standing or slow moving) are key to mosquito bionomics. They determine the spatial (North and South longitudes; altitude; desert areas) and temporal (seasonal) limits of the disease. Not all anopheline mosquitoes transmit malaria, but as a general rule irrigation development results in fauna simplification which favours vector species. Details of the breeding requirements of local vector species are needed before the effect of environmental change can be predicted and specific design and operational interventions devised (WHO, 1982).
+Schistosomiasis is caused by parasitic trematode worms which in their adult form live in the blood stream of human hosts and which, to complete their lifecycle, need to pass a larval stage in certain species of aquatic or amphibious snails. The ecological requirements of these so-called intermediate host snails are a key determinant in the distribution of the disease. Aquatic weeds provide an important substrate for the snails. Unlike mosquitoes, snails do not actively carry the disease-causing organism from one human to another; completion of the lifecycle depends on hygiene (defecation/urinating) and water contact patterns. Human behaviour is, therefore, the other key determining factor.
+Japanese encephalitis: a limited number of culicine species transmit Japanese encephalitis, the most important ones, Culex tritaeniorrhychus and Culex gelidus, breed specifically in irrigated rice agro-ecosystems. Pigs are the main amplifying host of the virus and migratory birds are suspected to play a role in the distribution of the virus over large distances. The mosquitoes prefer to take blood meals from animals (a characteristic called zoophily) and disease outbreaks are usually triggered by climatic conditions that favour rapid build-up of vector population densities to the level where a critical threshold is passed and increased human blood meals facilitate the infection to spill over into the human population.
+Lymphatic filariasis is caused by one of two species of parasitic worms: Wuchereria bancrofti, transmitted by either culicine or anopheline mosquitoes and Brugia malayi, transmitted by mosquitoes of the genus Mansonia. The association with the irrigated environment only exists where anophelines are the vectors, i.e. in Central Africa and where Mansonia mosquito larvae can develop attached to the roots of aquatic weeds, in South and South East Asia.
+Onchocerciasis: this infection with a filarial worm leads, in the long-term, to blindness, and its vector, the Simulium blackfly, needs fast-flowing, highly oxygenated water for its larval development. There is only one documented case of an irrigation scheme in West Africa where a steep canal gradient created a favourable condition for blackfly breeding. Spillways of dams are well known to create this risk, but, on the other hand, impoundments will eliminate any breeding in the inundated parts.
+Specific risks and counter measures
+This section looks at the human health risks as a discussion of the environmental impacts. Details of interventions are contained in WHO (1982) and also in Pike (1987). Environmental Action Plans and Environmental Management Plans should give clear proposals for interventions to reduce health risks.
+Hydrology: a low-flow regime may lead to ponding in the riverbed providing suitable breeding sites for malaria vectors, for instance Anopheles culifacies in Sri Lanka. Where water availability permits, periodic flushing has been successful in eliminating the risk. Periodic flushing can also be effective in dislodging aquatic snails but this is only useful if transmission sites are few in number and not more than a few hundred metres from where the water is released. Where low flow leads to salt intrusion in estuaries, anophelines breeding in brackish water may flourish, such as Anopheles sundaicus (South-East Asia), Anopheles melas (west coast of Africa) and Anopheles merus (east coast of Africa); or, temporary sandbars may be formed, creating coastal lagoons, as happened along the Pacific coast of Central America (Anopheles albimanus). Hydraulic structures with standing water in them may become foci for schistosomiasis transmission. Experience in Zimbabwe shows that their
+re-design to make them self-draining can contribute significantly to reducing this risk (Chimbale et al., 1993).
+Dams and impoundments can create a variety of health risks, in part because of ecological change (mosquito and snail propagation along shallow shorelines, associated with aquatic weeds, and blackfly breeding on spillways), and in part because of demographic changes. Depending on the ecological requirements of local vector species any of a range of interventions may be successfully applied; periodic reservoir fluctuation, steepening of the shorelines, controlling aquatic weeds, siting settlements away from the reservoir and, for the blackfly problem, constructing dams with two spillways that can be used alternately.
+A rise in the water table resulting in waterlogging creates conditions in which many mosquito vector species thrive. Proper drainage is the first thing to attempt, but better water management is another possible solution. Certain types of irrigation (surface, contour and furrow irrigation) carry greater health risks than others (sprinkler, central pivot or drip irrigation). In the case of surface irrigation, canal lining benefits environmental and health concerns alike. Water availability allowing alternate wetting and drying of paddy fields and synchronized cropping of rice may also be effective against vector-borne diseases. A fall in the water table may, in some parts of the world, favour Phlebotomine sandflies which live in semi-arid conditions and transmit leishmaniasis, in its visceral form a fatal illness. A fall in the water table may also force people to revert to polluted or infective sources of drinking water and change water contact patterns, to the detriment of
+their health.
+Water quality: organic pollution of surface waters may create favourable conditions for the breeding of culicine vectors of filariasis. Pesticide residues, a long-term environmental and health risk, may also lead to a rapid induction of resistance in disease vectors, thus rendering future emergency applications of pesticides in the fight against disease outbreaks less effective.
+Groundwater may be polluted with pesticide residues and fertilizers. As a consequence, high levels of nitrates may end up in drinking water which may lead to severe illness or even death for some bottle-fed infants.
+The eggs of intestinal helminths (roundworm, tapeworm - the latter requiring passage through cattle or pigs) are the most persistent risks of waste water for use in irrigation. They require quality control even where treatment is sufficient to eliminate bacterial risks of pathogens.
+Salinity effects: as for the fall in the water table, saline intrusion of groundwater may force people to use unsafe drinking water and change their water contact patterns. If such effects cannot be prevented or are considered an acceptable trade-off, then proper water supplies should be installed to counter the health risks involved.
+Ecological imbalances: the emergence of new agricultural pests following irrigation development will trigger pest control activities that can range from simple applications of pesticides to complex integrated pest management strategies. Such activities should be carefully assessed for their human health risks: pesticide poisoning of farm workers (to be countered by standard labelling, strict handling procedures and protective clothing); and, effects on insect populations that may favour a rapid build-up of vector densities. Managers of Integrated Pest Management programmes should attempt to include vectors in their monitoring activities and liaise with health authorities on early warning mechanisms for disease outbreaks.
+Aquatic weeds provide a refuge or even an essential habitat element for some vectors and their clearance is crucial in reducing health risks.
+Animal husbandry may imply human health risks in two ways: firstly domestic animals may act as reservoirs for human infections. The notorious pig-virus-man combination in the irrigated rice ecosystems of South and South East Asia, in connection with Japanese encephalitis has already been referred to. In the Philippines, the water buffalo is a reservoir-host for the japonicum form of schistosomiasis. Secondly, the presence of cattle may tip the balance either in favour or against disease transmission by its mere presence: with an expanded source of blood meals, vector densities may rise, but where local vectors prefer animals to humans as a source of blood, vectors may actually be diverted away from their human hosts. Strategic siting of cattle between breeding places and human settlements may enhance the latter phenomenon and is referred to as zooprophylaxis.
+Health opportunities
+Irrigation projects offer ample opportunities for health promotional measures as an integral part of development. Up to a certain level their cost may be absorbed in the overall budget, but for larger health components additional loans or bilateral grants may have to be sought.
+The provision of drinking water supply and sanitation is the single largest health promotional component that should be pursued in any irrigation project. As more water becomes available at the household level, the incidence of water washed diseases (several skin and eye diseases) will be reduced. Safe water supply, preferably in combination with adequate sanitary facilities, will reduce the risk of water-borne diseases dramatically. These include many gastro-intestinal infections which contribute significantly to infant mortality, including cholera.
+Guinea worm infection (dracunculiasis) has the special attention of the international donor community in the 1990s. The parasitic worm can only enter the human body in its larval form inside the water flea (cyclops). Safe, clean drinking water (or at least filtered drinking water) is the key to elimination of this disease.
+Strengthening of national health services, in particular primary health care capacity in the affected area, should ensure that the health risks associated with the demographic change described in the section Socio-economic impacts are dealt with effectively. Special attention is needed for new migration patterns, for instance related to the cropping cycle, and unplanned resettlement. The introduction of new infections or increased incidence of existing ones due to non-immunity of incoming groups are two likely scenarios.
+As none of the health safeguards included in project design and operation is likely to be 100% effective, and predictions have a level of uncertainty, health services should prepare to cope with the new conditions. The health sector should take responsibility for the monitoring of the health status during project construction and early operation, and for the adjustment of the health component in the Environmental Action Plan.
+<section>d</section>
+Chapter 5: Preparation of terms of reference
+Determining study requirements
+Contents of the TOR
+The need for EIAs has become increasingly important and is now a statutory requirement in many developing countries. Similarly, all major donors require some form of environmental analysis for irrigation and drainage projects. If an EIA is required, irrespective of the source of funding, the promoting agency will be required to either prepare it themselves or appoint others to do the study for them.
+If the promoter intends to prepare the EIA study using its own staff, reference should be made to the publications prepared by most donors and UN agencies outlining their requirements and procedures. The World Bank Operational Directive 4.01 (1991) is perhaps the most comprehensive and well known manual and is a useful reference text. All international organizations and bilateral agencies frequently update their procedures and it is important to obtain the current version from the organization. Many United Nations agencies publish guidelines on various themes related to environmental assessment of irrigation and drainage which could be of use to developing country staff if they are to carry out an EIA and the most useful are listed in Chapter 6.
+Usually government bodies do not employ sufficient staff to carry out EIAs. It is more cost effective to ask specialist consultants (local or foreign), universities or research institutions to carry out environmental assessments. In this case terms of reference (TOR) will have to be prepared by the project executing agency. As for any technical design or feasibility study, the terms of reference for the study will determine its ultimate value. The preparation of terms of reference can cause considerable difficulties for non-experts and a brief guide to the major issues that must be addressed in the TOR are given below.
+Determining study requirements
+There are no universal formats for terms of reference which will be suitable for every study. However, there are general rules which should be observed when preparing TOR for the EIA of irrigation and drainage proposals. The study should ensure that the consultants focus on the major issues and the most serious likely impacts. The opportunities for enhancing any positive benefits from the project should also be highlighted.
+The study should identify the relevant natural resources, the eco-system and the population likely to be affected. Direct and indirect impacts must be identified and any particularly vulnerable groups or species highlighted. In some instances views will be subjective and the consultants should give an indication of the degree of risk or confidence and the assumptions on which conclusions have been drawn. In most cases the output required will be a report examining the existing environment, the impacts of the proposed project on the environment and the affects of the environment on the project, both positive and negative, the mitigating measures to be taken and any actions needed. Interim reports, for example of baseline studies, should be phased to be of maximum value to parallel technical and economic studies.
+The timing of the study is important. Scoping prior to a full EIA will enable the major issues to be identified. The terms of reference for the full EIA can then be better focused. The study should be carried out early enough in the project cycle to enable recommendations to be incorporated into the project design.
+The requirements stated in the TOR will determine the length of time needed for the study, the geographical boundary of the EIA, its cost and the type of expertise required. Baseline data collection, if needed, can be time consuming and will have a major impact on the cost and time needed for the study. If considerable data exists, for example a good record of water quality information and hydrological statistics, the EIA may be possible without further primary data collection. If data are scarce, time must be allowed for field measurement and analysis.
+Prior to writing the TOR the following questions should be asked:
+o Is the study for an environmental scoping, a full EIA or other type of study? Before preparing the TOR the purpose must be clear.
+o Is the study to be for a site specific project or a regional or sectoral programme? The breadth of the study needs to be well defined.
+o Will the EIA team be required to collect baseline data or does this already exist? The depth of the study and the type and quality of information already available or needed must be known.
+o Who will use the final report? Different end users will often require different information. Readers may not be technical experts and careful thought should be given to the presentation of complex information.
+o What output is required from the EIA study? Is an Environmental Action Plan to be prepared? A draft contents page for the final report as an annex to the TOR will give some guidance to the team carrying out the study.
+o Is the team responsible for all issues or are other organizations (universities, government departments) responsible for some environmental studies? The TOR should clearly delimit responsibilities and give information on other work being done. If it is a requirement that the team liaise or work with other organizations, including NGOs, then this should be stated. Unabridged versions of the sub-contracted studies should be made available to the appraising authority for reference.
+o What type of experts are needed in the team and for how long? An approximate estimate is needed to prepare a budget for the study and to estimate the time period. However, the TOR should not be too rigid on the number and type of expertise to be provided as there should be some flexibility for the team to decide on the most appropriate methodology and additional staffing.
+Contents of the TOR
+The TOR should commence with a brief description of the programme or project. This should include a plan of the area that will be affected either indirectly or directly. Basic data should be given on existing and proposed irrigation and drainage in the area and the catchment characteristics. The institutions that are involved in the proposal should also be given.
+An overview of the local environment should follow the general description. This will include socio-economic information, land use, land tenure, water use in the area and any particular aspect of the flora and fauna. If other studies have been completed a list of available reports should be given.
+A brief description should be given of the most important institutions, including those responsible for the EIA, the project executing agency and future managers. This should be presented in the form of an organogram.
+A description of the work to be undertaken should give a general set of requirements for determining the potential impacts of, and impacts on, the proposed project. The TOR should require the consultants to cover the following points:
+o whether a range of proposals should be considered and if so whether they would be less environmentally damaging;
+o the main environmental effects of the proposed project, both in the project area and in the surrounding area and the timescale of the impacts;
+o the size and extent of the impacts based as much as possible on quantitative data rather than qualitative assessment. In some cases it may be necessary to highlight certain topics (such as waterlogging, resettlement etc as discussed in Chapter 4) when a particular issue is known to be of concern. In most cases, however, it may be preferable not to mention any specific topic and make the consultant responsible for a complete review of all topics;
+o those groups that will benefit and those disadvantaged by the project;
+o the impact on any rare species of plant or animal in the area;
+o the impact on human health;
+o the control and management aspects of the project to determine if they will be effective;
+o the need for further baseline data collection or other specialist studies;
+o the present policy, institutional and legislative situation and future needs;
+o the mitigating measures needed and how they should be incorporated into the project design;
+o the monitoring and evaluation activities that are required to ensure that mitigating measures are implemented and future problems are avoided.
+The TOR should give an indication of the team considered necessary for the study. Depending on the scope of the study this may include one or several of the following: an irrigation specialist, drainage specialist, rural sociologist, terrestrial ecologist (of various specializations), aquatic ecologist/fisheries expert, hydrologist, agronomist, soil chemist or physicist, economist and epidemiologist. However, as mentioned earlier the team should not be rigidly imposed on the consultant.
+It is important to make provision for technology transfer. Apart from enabling in-country expertise to be built up, this will promote more involvement and understanding of the issues raised by the study. As most EIA studies are of relatively short duration, this is probably best achieved through the attachment of government staff to the consultants during the study or an insistence on the use of local government personnel for some of the tasks.
+The expected date of commencement and time limit should be given. An environmental screening can be done quickly as part of the general project identification. In most cases scoping can be done in one to three months using checklists or other techniques assuming adequate data is readily available. Up to 12 months is needed for a full EIA for a medium or large scale project although this could be longer if the project is complex or considerable primary data have to be collected or field measurement undertaken.
+The budget limit should be given in the TOR. The type of experts, and whether foreign or local, and the duration of their inputs will usually be the deciding cost factors although a large field survey or measurement programme with laboratory analysis could significantly increase costs.
+Any assistance to be provided by the Client should be clearly stated in the TOR. Reporting requirements should be clearly stated. An annex giving a draft table of contents for the final report (the Environmental Impact Statement) is helpful as this will standardize presentation and ensure all aspects are covered by the Consultants.
+<section>e</section>
+Chapter 6: References
+Recommended texts
+Bibliography
+Recommended texts
+"Environmental Impact Assessment - Theory and Practice", edited by Wathern (1988) and "Environmental Impact Assessment for Developing Countries", edited by Biswas and Qu Geping (1987) are two of the most useful books on the general philosophy of EIA and are a good basis for those wishing to gain a more in-depth understanding of EIA techniques.
+The "ICID Checklist to Identify Environmental Effects of Irrigation, Drainage and Flood Control Projects" (Mock and Bolton, 1993) is a valuable aid to screening, scoping and defining data requirements. Indeed, the layout in Chapter 4 generally follows that of the checklist which makes it an ideal companion volume.
+The FAO series of Irrigation and Drainage Papers, currently about 50 in number, cover a wide range of topics pertinent to environmental aspects of irrigation. The information is comprehensive and technical and many volumes are available in several languages, most notably in English, French and Spanish.
+The German development agency, GTZ, have published "Irrigation and the Environment", by Petermann (1993). This is a comprehensive two volume handbook, totalling about 500 pages, which gives very detailed technical information. An information package is planned shortly following the research by Petermann. This package is planned with a number of standardized sheets that may prove useful in EIA work.
+UNEP (United Nations Environment Programme) and ESCAP (Economic and Social Commission for Asia and the Pacific) have produced several useful volumes on EIA and water resources projects. The major donors such as the World Bank, Asian Development Bank and African Development Bank have prepared their own guidelines on EIA although these tend to relate mostly to internal procedures. They are important documents for those seeking external financing.
+"The Environmental Assessment Sourcebook", World Bank Technical Paper No. 140 (1991) covers environmental issues relating to development in most sectors. It contains special sections on dams and reservoirs and on irrigation and drainage. Apart from providing information on the Bank's policies and procedures it gives general information on potential environmental impacts. Updates are issued from time to time. The Sourcebook is particularly useful if financial support is required from the World Bank. The World Bank Directive on Environmental Assessment (OD 4.01) describes the bank's policy and procedures on EIA at regional, sectoral and project levels, (1991).
+PEEM, the joint WHO/FAO/UNEP/UNCHS Panel of Experts on Environmental Management for Vector Control, published a technical guidelines series in which the following volumes are already in English, French and Spanish: Guidelines for the incorporation of health safeguards into irrigation projects (Tiffen, 1989), Guidelines for forecasting vector-borne disease implications of water resources development (Birley, 1989) and Guidelines for cost-effectiveness analysis of vector control (Phillips et al., 1993). Under preparation are Guidelines for the promotion of environmental management by agricultural extension workers and Guidelines for monitoring health status during water resources development. The PEEM Secretariat is located at WHO in Geneva.
+A number of governments and international organizations have developed guidelines or manuals on EIA. Some developing countries have produced guidelines for the EIA of water resources development (see references) which cover the irrigation sub-sector to some extent. Existing guidelines are often oriented towards local requirements but offer information which is of value to readers from all countries. A useful text of value to most Asian countries is the Guidelines for Sustainable Water Resources Development and Management by the Central Water Commission, India (1992).
+Bibliography
+ADB. Environment risk assessment: dealing with uncertainty in EIA. Environment Paper No. 7. Asian Development Bank, Manila, The Philippines.
+ADB. 1992. Guidelines for health impact assessment of development projects. Environment Paper No. 11. Asian Development Bank, Manila, The Philippines.
+ADB. 1992. Guidelines for the Health Impact Assessment of Development Projects. Asian Development Bank, Manila, The Philippines.
+ADB. 1987. Environmental Guidelines for Selected Agricultural and Natural Resources Development Projects. Asian Development Bank, Manila, The Philippines.
+AfDB. 1992. Environmental Assessment Guidelines. African Development Bank, Abidjan, Côte d'Ivoire.
+Ahmad, Y. and Sammy, G. 1988. Public Involvement: Guidelines to EIA in Developing Countries. Hodder and Stoughton, London.
+Ahmad, Y. and Sammy, G. 1985. Guidelines to Environmental Impact Assessment in Developing Countries. Hodder and Stoughton, London.
+Alhéretière, D. 1982. EIA and agricultural development. A comparative law study. Environment Paper No 2. FAO, Rome, Italy.
+Ayers, R.S. and Westcot, D.W. 1985. Water quality for agriculture. Irrigation and Drainage Paper 29 (Revised). FAO, Rome, Italy.
+Birley, M. H. 1989. Guidelines for forecasting the vector-borne disease implications of water resource development. PEEM Guidelines Series 2. WHO, Geneva, Switzerland.
+Biswas, A.K. and Qu Geping. 1987. EIA for Developing Countries. Tycooly Publishing, London.
+Biswas, A.K. and Agarwala, S. B. C. 1992. Environmental Impact Assessment for Developing Countries. Butterworth-Heinemenn, Guildford, UK.
+Blum, B. 1984. A Handbook on EIA for Public Decision Makers. UNEP, Paris, France.
+Burbridge, P.R. 1988. Environmental guidelines for resettlement projects in the humid tropics. FAO Environmental Guidelines Paper 9. Rome, Italy.
+Cernea, M. and Guggenheim, S. (eds.). 1993. Anthropological Approaches to Resettlement Policy, Practice and Theory. Westview Press, Boulder, Colorado, USA.
+Chambers, R. 1981. Rural Development - Putting the Last First. Longman, London, UK.
+Chimbale et al. 1993. Schistosomiasis Control Measures for Small Irrigation Schemes in Zimbabwe. HR Wallingford Report OD 128. Wallingford, UK.
+Craine, L.E. 1971. Institutions for managing lakes and bays. National Resources Journal II.
+CWC. 1992. Guidelines for Sustainable Water Resources Development and Management. Central Water Commission, India.
+Dugan, P.J. 1990. Wetland Conservation. A Review of Current Issues and Required Action. IUCN. The World Conservation Union, Cambridge, UK.
+DVWK. 1993. Ecologically sound resources management in irrigation. DVWK Bulletin 19. Verlag Paul Parey, Hamburg/Berlin, Germany.
+EBRD. 1992. Environmental Procedures. EBRD, London.
+ERL. 1990. Environmental Assessment Procedures in the UN System. Environmental Resources Limited, London, UK.
+ESCAP. 1987. Environmental Management for Sustainable Socio-economic Development. ESCAP, Geneva, Switzerland.
+ESCAP. 1985. EIA Guidelines for Planners and Decision Makers. ESCAP, Geneva, Switzerland.
+FAO. 1992. Les périmètres irrigués en droit comparé afraicain (Madagascar, Maroc, Niger, Sénégel, Tunisie). FAO, Rome, Italy (French only).
+Feachem, R., McGarry, M. and Mara, D. 1977. Water, Wastes and Health in Hot Climates. John Wiley, London.
+Goodland, R. and Daly, H. 1992. Environmental Assessment and Sustainability in the World Bank. World Bank, Washington D.C., USA.
+Graham Smith, L. 1993. Impact Assessment and Sustainable Resource Management. Longman Scientific and Technical, Harlow, UK.
+Holling, C.A. 1978). Adaptive Environmental Assessment and Management. John Wiley, London.
+Hunter, J.M., Ray, L., Chu, K.Y. and Adekoi-John, E.O. 1993. Parasitic Diseases in Water Resource Development - The Need for Intersectoral Negotiation. WHO, Rome, Italy.
+ICOLD. 1980. Dams and the environment. ICOLD Bulletin 35. Paris, France.
+Mather, T.H. and That, T.T. 1984. Environmental management for vector control of rice fields. Irrigation and Drainage Paper 41. FAO, Rome, Italy.
+Mekouar, M.A. 1990. The Environmental Impact of Economic Incentives for Agricultural Production: A Comparative Law Study. FAO, Rome, Italy.
+Mock, J.F. and Bolton, P. 1993. The ICID Environmental Checklist to Identify Environmental Effects of Irrigation, Drainage and Flood Control Projects. HR Wallingford, Wallingford, UK.
+Munasinghe, M. 1993. Environmental Economics and Sustainable Development. World Bank, Washington D.C., USA.
+OECD. 1986. Environmental assessment and development assistance. Environment Monographs No 4. OECD, Paris.
+Pendse, Y.D., Roa, R.V. and Sharma, P.K. 1989. Environmental impact methodologies. Shortcomings and appropriateness for water resources projects in developing countries. Water Resources Development 5(4).
+Pescod, M.B. 1992. Wastewater treatment and use in agriculture. Irrigation and Drainage Paper 47. FAO, Rome, Italy.
+Petermann, T. 1993. Irrigation and the Environment. GTZ, Eschborn, Germany.
+Phillips, M., Mill, A. and Dye, C. 1993. Guidelines for cost effectiveness analysis of vector control. PEEM Guidelines Series 3. WHO, Geneva.
+Pike, E.G. 1987. Engineering Against Schistosomiasis/Bilharzia. MacMillan, London.
+Rhoades, J.D., Kandiah, A. and Mashali, A.M. 1992. The use of saline waters for crop production. Irrigation and Drainage Paper 48. FAO, Rome, Italy.
+Tiffen, M. 1989. Guidelines for the incorporation of health safeguards into irrigation projects through intersectoral cooperation. PEEM Guidelines Series 1. WHO, Geneva.
+Todd, D.K. 1980. Groundwater Hydrology. John Wiley, London.
+UN. 1994. Trends in EIA of Energy Projects. UN, New York, USA.
+UNECE. Application of EIA principles to policies, plans and programmes. Environmental Series No 5. UNECE, New York.
+UNECE. Policies and systems of EIA. Environmental Series No 4. UNECE, New York.
+UNDP. 1992. Handbook and Guidelines for Environmental Management and Sustainable Development. UNDP, New York.
+Wathern, P. (ed.). 1988. Environmental Impact Assessment: Theory and Practice. Routledge, London.
+WHO. 1982. Manual on environmental management for mosquito control, with special emphasis on malaria vectors. Pub. No. 66. WHO, Geneva, Switzerland.
+WHO. 1989. Health guidelines for the use of wastewater in Agriculture and Aquaculture. Report of a WHO Scientific Group. Technical Report Series No 778. WHO, Geneva, Switzerland.
+WHO. 1993. Guidelines for Drinking Water Quality. Vol 1. Recommendations. WHO, Geneva, Switzerland.
+Winpenny, J.T. 1991. Values for the Environment. HMSO, London, UK.
+World Bank. 1991. Environmental assessment source book. Vol 1, Policies, procedures and cross-sectoral issues. Technical paper 139. World Bank, Washington D.C., USA.
+World Bank. 1991. Environmental assessment source book. Vol II. Sectoral guidelines. Technical paper 140. World Bank, Washington D.C., USA.
+World Bank. 1991. Operational Directive 4.01: Environmental Assessment. World Bank, Washington D.C., USA
+World Bank. 1993. World Development Report - Investing in Health. Oxford University Press, Oxford, UK.
+Worthington, E.B. 1977. Arid Lands Irrigation in Development Countries. Environmental Problems and Effects. Pergamon Press, Oxford, UK.
+Wramner, P. 1989. Procedures for EIA of FAO's field projects. FAO, Rome, Italy.
+<section>f</section>
+Annex I: Glossary
+Glossary
+Anopheline: A mosquito of the subfamily which includes the genus Anopheles. May transmit malaria.
+Arbovirus: Arthropod-borne virus.
+Arthropod: Includes insects, ticks and mites.
+Culicine: A mosquito of the subfamily which includes the genera Mansonia, Hedes and Culex, and which may transmit a number of diseases.
+Cutaneous: Of the skin.
+Ecology: The study of interrelationships of organisms to their environment (or surroundings). Ecology considers individual organisms, populations, and communities, as well as large units of landscape such as forests, estuaries and river basins. For an EIA, the ecosystem can be considered to be an appropriate unit of analysis concerned with a community and its environment, both living and non-living (eg fish community of a lake and lake pH).
+Ecosystem: A community and its environment (living and nonliving considered collectively) (may range in extent from very small to very large units).
+Environment: The total of all those physical, chemical, biological and social economic factors that impinge on an individual, a community or a population.
+Environmental audit: An analysis of the technical, procedural and decision making aspects of an EIA carried out sometime after a proposal has been implemented.
+Environmental impact: A change in effect on an environmental resource or value resulting from human activities including project development, often called an "effect".
+Environmental Impact Assessment (EIA) or Environmental Assessment: A formal process to predict the environmental consequences of human development activities and to plan appropriate measures to eliminate or reduce adverse effects and augment positive effects.
+Environmental Impact Statement (EIS): A document or report which contains the results of an EIA study. The EIA is also referred to in some countries as Environmental Statement (ES).
+Environmental management: Management and control of the environment and natural resources systems in such a way so as to ensure the sustainability of development efforts over a long-term basis.
+Environmental monitoring: Observation of effects of development projects on environmental resources and values.
+Environmental planning: All planning activities with the objective of preserving or enhancing environmental values or resources.
+Eutrophication: The process of a water body becoming anaerobic, ie without oxygen.
+Externalities: Effects on a project, individual or institution resulting from an action by a different project, individual or institution (eg market prices or pollution).
+Initial Environmental Examination (IEE): A preliminary attempt to evaluate environmental impacts in order to determine whether a full-scale environmental impact assessment is needed. Also called Initial Environmental Investigation (IEI), partial EIA or "Preliminary EIA".
+Non-Governmental Organization: Private organizations that pursue activities to relieve suffering, promote the interests of the poor, protect the environment, or undertake community development, (World Bank Operational Directive 10.70).
+Parastatal: A government owned company.
+Pathogen: An organism or substance which causes disease.
+Reservoir host: An animal species which carries a pathogen without detriment to itself and serves as a source of infection.
+Residual Environmental impact: Potential impact remaining after mitigation measures have been adopted into a project.
+Scoping: An exercise involving the preliminary identification of the environmental issues surrounding a project that requires an assessment. Scoping should take place soon after the project has passed the Initial Review. Scoping identifies the potential impacts which are to be addressed in detail by the assessment. Scoping will usually initiate the public consultation/public participation process.
+Vector: An organism which carries or transmits a pathogen.
+Visceral: Of the main organs of the body.
+FAO IRRIGATION AND DRAINAGE PAPERS
+Irrigation practice and water management, 1972 (Ar* E* F* S*)
+1 Rev.1
+Irrigation practice and water management, 1984 (E)
+Irrigation canal lining, 1971 (New edition, 1977, available in E, F and S in the FAO Land and Water Development Series, No. 1)
+Design criteria for basin irrigation systems, 1971 (E*)
+Village irrigation programmes - a new approach in water economy, 1971 (E* F)
+Automated irrigation, 1971 (E* F* S*)
+Drainage of heavy soils, 1971 (E* F S*)
+Salinity seminar, Baghdad, 1971 (E* F)
+Water and the environment, 1971 (E* F* S*)
+Drainage materials, 1972 (E* F* S*)
+Integrated farm water management, 1971 (E* F* S*)
+Planning methodology seminar, Bucharest, 1972 (E* F*)
+Farm water management seminar, Manila, 1972 (E*)
+Water use seminar, Damascus, 1972 (E* F*)
+Trickle irrigation, 1973 (E* F* S*)
+Drainage machinery, 1973 (E* F*)
+Drainage of salty soils, 1973 (C* E* F* S*)
+Man's influence on the hydrological cycle, 1973 (E* F* S*)
+Groundwater seminar, Granada, 1973 (E* F S*)
+Mathematical models in hydrology, 1973 (E)
+Water laws in Moslem countries - Vol. 1, 1973 (E* F*)
+Water laws in Moslem countries -Vol. 2, 1978 (E F)
+Groundwater models, 1973 (E)
+Water for agriculture - index, 1973 (E/F/S*)
+Simulation methods in water development, 1974 (E* F S*)
+Crop water requirements, (rev.) 1977 (C* E F S)
+Effective rainfall, 1974 (C* E* F* S*)
+Small hydraulic structures -Vol. 1, 1975 (E F* S)
+Small hydraulic structures - Vol. 2, 1975 (E F S)
+Agro-meteorological field stations, 1976 (E F* S*)
+Drainage testing, 1976 (E F S)
+Water quality for agriculture, 1976 (E* F* S*)
+29 Rev.1
+Water quality for agriculture, 1985 (C** E F S*)
+Self-help wells, 1977 (E*)
+Groundwater pollution, 1979 (C* E* S)
+Deterministic models in hydrology, 1979 (E*)
+Yield response to water, 1979 (C* E F S)
+Corrosion and encrustation in water wells, 1980 (E)
+Mechanized sprinkler irrigation, 1982 (C E F S)
+Localized irrigation, 1980 (Ar C E F S*)
+Arid zone hydrology, 1981 (C E)
+Drainage design factors, 1980 (Ar C E F S)
+Lysimeters, 1982 (C E F S)
+Organization, operation and maintenance of irrigation schemes, 1982 (C E F S*)
+Environmental management for vector control in rice fields, 1984 (E F S)
+Consultation on irrigation in Africa, 1987 (E F)
+Water lifting devices, 1986 (E F)
+Design and optimization of irrigation distribution networks, 1988 (E* F**)
+Guidelines for designing and evaluating surface irrigation systems, 1989 (E)
+CROPWAT - a computer program for irrigation planning and management, 1992 (E F S)
+Wastewater treatment and use in agriculture, 1992 (E)
+The use of saline waters for crop production, 1993 (E)
+CLIMWAT for CROPWAT, 1993 (E)
+Le pompage éolien, 1994 (F)
+Prospects for the drainage of clay soils, 1995 (E)
+Reforming water resources policy, 1995 (E)
+Environmental impact assessment of irrigation and drainage projects, 1995 (E)
+Availability: June 1995
+Ar - Arabic
+C - Chinese
+E - English
+F - French
+P - Portuguese
+S - Spanish
+Multil - Multilingual
+* Out of print
+** In preparation
+The FAO Technical Papers are available through the authorized FAO Sales Agents or directly from Distribution and Sales Section, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy.

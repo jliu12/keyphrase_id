@@ -1,0 +1,936 @@
+<title>Post-harvest deterioration of cassava - A biotechnology perspective</title>
+<section>1</section>
+Foreword
+This document is a report on the proceedings of an Expert Consultation on Biodeterioration of Cassava held at FAO Headquarters, Rome from 11 to 13 December 1991. The meeting was sponsored by FAO and cosponsored by the Rockefeller Foundation. It provided a forum for scientists to review the biochemistry associated with post-harvest deterioration of the cassava crop and to explore the possibility of applying modern molecular biology to develop varieties with superior storability.
+Cassava is a major subsistence crop for over 500 million people in developing countries. However, the rapid deterioration of fresh cassava roots after harvest is a severe problem to producers, consumers and marketers irrespective of the scale of operation. The roots begin to deteriorate as quickly as 24 hours after harvest and most cultivars deteriorate within two to three days. This situation is due to physiological deterioration which leads to substantial quantitative and qualitative post-harvest losses of the roots causing high production, processing and marketing risks.
+Current post-harvest management practices used to extend the storage life of cassava roots were reviewed and were considered either technically or economically unsuitable for most marketing needs. Although the mechanism involved in post-harvest deterioration has yet to be adequately elucidated, it was felt that the problem could be resolved considering that, when the crop is left unharvested, the roots could be "stored" on the plant successfully without deterioration for over one year.
+The genetic variability for post-harvest deterioration was reviewed and it was found that the evaluation method used was considered insufficiently precise to critically assess the trait. It was considered necessary to define and develop a screening assay to quantify post-harvest physiological deterioration in the available germplasm collection to determine genetic variability and stability.
+Conventional breeding was considered as a possibility using recurrent selection methods. However, tremendous efforts would be required for incorporating the trait into different cultivars without altering the characteristics of the parent genotypes.
+Genetic manipulation using molecular techniques was considered most appropriate in resolving the problem. Nevertheless, there is no information available on genes involved in the biochemical pathways that are associated with physiological deterioration in cassava. However, because of their implication in the process of post-harvest deterioration, the genes and gene products associated with the synthesis and degradation of phenylpropanoids were considered principal targets for study and manipulation.
+Many of the phenylpropanoids associated with wound-induced responses have been isolated and characterized from various plants. These genes could be used to isolate the corresponding genes from cassava. These studies could then provide an insight into the deterioration process and would assist in developing strategies for genetic manipulation approaches. The introduction into cassava of discrete gene constructs by genetic manipulation offers the unique advantage of adding new traits to elite genotypes without altering other desired characteristics. It was envisaged that FAO would collaborate with appropriate institutions to facilitate a comprehensive initiative in this research area.
+FAO considers that the review process and interpretation on the problem of post-harvest deterioration of cassava by the experts at the consultation merits publication as a proceedings in that it is the only document that deals with an indepth analysis of this important area.
+H. de Haen
+Assistant Director-General
+Agriculture Department
+Acknowledgements
+This document resulted from an Expert Consultation on the Biodeterioration of Cassava organized by E.A. Kueneman, Senior Officer and W.B. Charles, Root Crop Officer, Field Food crops Group (FFCG), Plant Production and Protection Division (AGP).
+The proceedings were prepared under an author's contract with Dr J.E. Wenham, National Research Institute, UK, with technical support from the FFCG, Crop and Grassland Service, AGP.
+The organizers and author would like to express gratitude to all those who participated in the meeting and in particular to Drs Richard Jefferson, Carlos Inglesias, Clair Hershey, Jorge Mayer and Mr Ulrich Kleih for their substantial contribution during the preparatory phase of the publication.
+<section>2</section>
+Welcome address
+Dr. Papasolomontos, Director, AGP, participants, ladies and gentlemen, it is indeed an honour and my distinct pleasure to welcome you on behalf of the Director-General of the Food and Agriculture Organization of the United Nations and to extend my most sincere and warm wishes for the success of this workshop on post-harvest biodeterioration of cassava.
+In the area of root crop improvement, this meeting is a very important one. It is intended to provide a forum for you as scientists to discuss what is known about the rapid post-harvest deterioration of cassava and to develop an appropriate strategy to overcome this severe problem which limits the expansion of cassava production in developing countries.
+As you are aware, root and tuber crops are of vital importance to the food security of over one billion people in developing countries. The important role of these crops was underscored by our Director-General at the Eleventh Session of the Committee on World Food Security in 1986 and the Ninth and Tenth Sessions of FAO's Committee on Agriculture (COAG) in 1987 and 1 989 respectively.
+FAO's activities on root crops and other food staples are conducted on a multidisciplinary basis involving several FAO services in allied fields in plant breeding, production, protection, post-harvest physiology, storage, processing, marketing, extension, socio-economics (the role of women), etc.
+The work programme is research and development oriented and renders assistance to developing countries in the promotion of regional networks aimed at:
+o the collation, exchange and dissemination of information on improved cultivation techniques to increase production per unit area, optimize economic return to farm families and users, maximize poverty alleviation and enhance food availability;
+o establishing greater technical cooperation with international agricultural research centres (CIP, CIAT and IITA) along with other national, international and regional institutions in the initiation of complementary activities in technology transfer to national programmes developing countries.
+In the field programme, special assistance has been given to Member Countries in the implementation of project activities to improve production, post-harvest handling, utilization and marketing within the context of sustainable cropping systems and principally through support to technology transfer, so as to reduce dependence on food imports and trade deficit and to enhance the socio-economic welfare of small farmers.
+Of the tropical root crops, cassava is one of the most important food staples in the lowland tropics' and comprises over 50 percent of the total production of root crops. World cassava production in 1991 is estimated at 161.5 million tonnes, some 3 percent more than last year, as a result of increases in nearly all producing countries.
+In Africa, cassava production has expanded by 2 percent, the equivalent of 75 million tonnes. This increase was due to favourable weather conditions, the diffusion of new high-yielding varieties and the continuation of restrictive government import policies on cereals in most countries. The improved cassava supply in 1991 is estimated to have contributed significantly to the increase in food availability in Africa, particularly in rural areas. It has also helped to alleviate shortages of cereals in many countries.
+In Latin America and the Caribbean, production has increased by 4 percent, the equivalent to 33 million tonnes. The increase in the region's cassava output reflects the development of new varieties and processing technologies, but also changes in government policies, which have favoured an increased demand for cassava products in both food and other uses. Although cassava continues to be an important food security subsistence crop, particularly in the northern parts of Brazil, the Dominican Republic and Haiti, the development of new processed products over the last decade is resulting in increased market production for food, feed and industrial uses.
+In Asia. the production increase is over 4 percent (53 million tonnes) compared to 1990, reflecting mainly a recovery in Indonesia stimulated by relatively high producer prices. In Thailand, the EU-financed programme to divert land under cassava to alternative crops, such as rubber and fruit trees, entered its second phase last year. However, little success has been achieved as cassava continues to be relatively more profitable than other crops to farmers.
+There is a large potential for creating higher yielding cultivars with improved storability through proper screening, breeding and selection procedures. For example, IITA has recently been developing, through polyploid breeding, cultivars with multiple pest and disease resistance and with higher nutritive value and consumers' acceptance. Before these improved cultivate could be extended to farmers' fields, it would be necessary to establish plant propagation tenures for the maintenance, rapid increase and distribution of healthy and improved planting material. This would help a great deal to correct the present situation in which farmers save their own planting material, which from year to year suffers severe deterioration due to the accumulation of viruses and other diseases. It would be necessary to assist Member Countries in the identification of improved cultivars adapted to different agro-ecological regions where good yield potential can be achieved. The importance of
+implementing programmes for integrated pest and disease control cannot be overemphasized.
+One of the major limitations on the expansion of the role of cassava as a food resource of the tropics is the poor post-harvest storage life of the roots, which can only be successfully stored for 48 to 72 hours after harvest. This impediment renders the roots unacceptable for both human and animal consumption and also for industrial uses.
+This workshop is intended to address this constraint to cassava production and utilization. However, more long-term donor assistance, for both recurrent and capital expenditure, will be required to support more research and development programmes directed to farmers' needs. International agricultural research centres and other agencies may need to establish more integrated activities to support national cassava research programmes in overcoming the major production and utilization constraints, such as biodeterioration. This approach will enable developing countries to achieve greater food self-sufficiency and security. However, a firm commitment and dedication of policy-makers in governments would be required to support such a programme to reduce postharvest deterioration in this crop.
+I should like to express my appreciation to all participants who have volunteered to attend this very important workshop to develop sound scientific strategies to overcome this major constraint which limits the expansion of cassava production in tropical countries.
+In closing, I should like to extend my warm welcome and wish you every success with your deliberations.
+H. De Haen
+Assistant Director-General
+Agriculture Department
+Abbreviations
+CBN Cassava Biotechnology Network
+CENARGEN Centro Nacional de Recursos de Geneticos
+CIAT Centro Internacional de Agricultura Tropical
+CIP International Potato Center
+CGIAR Consultative Group on International Agriculture Research
+COSCA Collaborative Study of Cassava in Africa
+DNA Deoxyribonucleic acid
+EC European Community
+FAO Food and Agriculture Organization of the United Nations
+GUS GusA gene from Escherichia coli, which codes for a glucuronidase, as a screenable marker
+IBPGR International Plant Genetic Resources Institute
+IITA International Institute of Tropical Agriculture
+NRI Natural Resources Institute
+PEG Polyetheleneglycol
+<section>3</section>
+Introduction
+Cassava (Manihot esculenta Crantz) is a perennial vegetatively propagated shrub that is grown throughout the lowland tropics (Figures I and 2). Cassava appears to be one of the earliest crops to have been domesticated and was widespread throughout the New World tropics by the late fifteenth century. Introduction to Africa occurred in the late sixteenth century (Jones, 1959) and to Asia probably not until the eighteenth century. Typically the crop is grown between 30° north and 30° south of the equator, in areas where the annual mean temperature is greater than 18 to 20°C. Cassava, which is believed to have originated in Latin America, has a number of attributes that have made it an attractive crop for small farmers with limited resources in marginal agricultural areas:
+o it is one of the most efficient carbohydrate-producing crops;
+o it is tolerant of low soil fertility and drought;
+o it has the ability to recover from the damage caused by most pests and diseases;
+o the roots can be left in the ground for long periods as a food reserve and, thus, provide an insurance against famine;
+o the crop is well adapted to traditional mixed cropping agricultural systems and subsistence cultivation in which farmers seek to minimize the risk of total crop failure.
+In the tropics, cassava is the most important root crop and as a source of calories for human consumption it ranks fourth after rice, sugar cane and maize. It is a major carbohydrate food for an estimated 500 million people and in tropical Africa it is the single most important source of calories in the diet (CIAT, 1992). The roots are the principle edible portion of the plant and typical ranges of composition given are; water 62 to 65 percent, total carbohydrate 32 to 35 percent, protein 0.7 to 2.6 percent, fat 0.2 to 0.5 percent, fibre 0.8 to 1.3 percent and ash 0.3 to 1.3 percent (Kay, 1987). In nutritional terms, cassava is considered primarily as a source of carbohydrate energy, most of which is derived from starch.
+Total world production has increased from 70 million tonnes in 1960 to an estimated 150 million tonnes in 1990 (Table 1). Of this total, 43 percent is produced in Africa, 35 percent in Asia and 22 percent in Latin America. In the Americas during the 1970s and early 1980s there was a decreasing trend in cassava production which, since the late 1980s, has gradually changed into one of slow growth. During the period from 1985 to 1990 cassava production increased by 9.6 percent, from 29.6 million tonnes to 33.7 million tonnes (FAO Yearbooks). Brazil, Paraguay and Colombia, which together represent 92 percent of total cassava production on the continent, have all experienced growth in production.
+Cassava production in Asia has risen, almost 1.5 percent above the annual population growth rate, from 48.5 million tonnes in 1985 to 52.0 million tonnes in 1990. The two major Asian cassava-growing countries, Thailand and Indonesia, have shown the largest increases in production. The Thai cassava industry was for several years largely based on the export of cassava pellets to the European Union (EU). Despite the introduction of quotas bythe EU during the mid-1980s, which threatened to limit growth in this market, Thailand's comparative advantages have kept the cassava industry buoyant and other export markets in Asia, Eastern Europe and the Russian Federation have been developed. Thai cassava exports have continued to experience an annual growth rate of 7 percent from 1985 to 1990 (Table 2). Although export volumes from Indonesia are only one-tenth of those from Thailand, the former has experienced an even stronger growth (17.1 percent) during this period. During the period
+1985 to 1990 increases occurred in cassava starch production and in Japan investments have been made into plants for producing modified cassava starch and other starch derived products (CIAT, 1992). The apparent decline in cassava production in the People's Republic of China (Table 1) is not substantiated by local figures, which report a significant increase (CIAT, 1992).
+TABLE 1 World cassava production (in million tonnes)
+1985 1986 1987 1988 1989 1990 Annual growth rate
+World 136.6 133.6 136.8 141.3 148.6 150.0 2.34
+Africa 58.2 58.6 58.4 59.6 62.9 64.1 2.04
+Ghana 3.1 2.9 2.7 2 8 3.3 3.0 0.95
+Madagascar 2.1 2.4 2.2 2.2 2.3 2.3 0.93
+Mozambique 3.2 3.3 3.4 3.2 3.5 3.6 2.01
+Nigeria 13.5 14.7 14.0 15.0 16.5 17.6 4.97
+Tanzania 6.8 6.2 6.0 6.1 6.2 5.5 - 2.98
+Uganda 2.7 1.9 2.8 2.5 3.1 3.2 6.30
+Zaire 15.5 16.2 16.2 16.3 16.4 17.0 1.44
+Asia 48.5 42.7 47.6 52.3 54.1 52.0 3.29
+China 3.6 3.5 3.3 3.3 3.2 3.2 -2.45
+India 5.7 4.9 4.8 5.4 4.5 4.6 -3.46
+Indonesia 14.0 13.3 14.3 15.5 17.1 16.3 4.56
+Phillippines 1.7 1.7 1.8 1.8 1.8 1.9 2.08
+Thailand 19.3 15.2 19.5 22.3 23.5 21.9 5.92
+Viet Nam 2.9 2.8 2.7 2.8 2.9 3.0 0.89
+Latin America 29.6 32.1 30.6 29.2 31.4 33.7 1.53
+Brazil 23.1 25.6 23.5 21.7 23.4 25.4 0.35
+Colombia 1.4 1.3 1.3 1.3 1.5 1.7 4.00
+Paraguay 2.9 2.9 3.5 3.9 4.0 4.0 7.60
+Note: Figures are approximations.
+Source: FAO Production Yearbooks.
+TABLE 2 World trade in cassava (in thousand tonnes)
+1985 1986 1987 1988 1989 1990 Annual rate (%)
+World exports 8130 7600 7900 10050 11930 10220 7.79
+Thailand 7 410 6 760 6 572 8 580 10 340 8 945 7.09
+Indonesia 600 425 783 1 086 1 200 1 000 17.13
+China 100 280 340 320 200 180 5.34
+Viet Nam - 50 40 20 150 30 3.00
+Others 20 85 165 44 40 45 1.35
+World imports 9000 7840 7900 10440 11950 10200 6.20
+EC 6 730 6 225 6 990 7 025 6 982 6 000 -0.60
+Taiwan, Province
+of China 470 265 192 500 960 900 23.05
+Japan 650 370 215 600 650 500 4.00
+Republic of Korea 240 260 138 40 930 900 32.80
+USA 70 70 72 75 260 245 29.26
+Russian Federation - - - 988 861 750 13.78
+Others 840 650 293 852 1 307 905 10.10
+Source: FAO Production Yearbooks.
+Notes: Figures are approximations.
+Figures include pellcts. "native'' pellets and dried cassava chips.
+Cassava production in Africa increased from 58.2 million tonnes in 1985 to 64.1 million tonnes in 1990, a growth rate of 2 percent per annum. The most significant increase in production was recorded by Uganda, with a growth rate of 6.3 percent per annum. In Nigeria the ban on wheat imports provided a stimulus to cassava production, which rose from 13.5 million tonnes in 1985 to 17.6 million tonnes in 1990.
+The crop is principally used as a human food, either fresh (boiled, baked, fried or pounded) or in numerous processed forms (Lancaster et al., 1982). Cassava is of growing importance, however, both for animal feed and as a raw material for producing starch, starch-based products and starch derivatives. Over the last 20 years, there has been mounting recognition of the contribution that cassava can make to increasing incomes and generating employment opportunities in the rural sector (CIAT, 1992).
+As a crop cassava is one of the most efficient producers of starch, which constitutes about 85 percent of the storage root tissue dry-matter content. However, cassava starch represents only a small percentage of internationally traded starch. Annual production of cassava starch for industrial uses is about 800 000 tonnes, and originates mainly from Brazil (for the national market) and Thailand (for export to Japan and the EC). Native and modified starches are important raw materials for many industrial uses such as in food processing, paper, textile and adhesive manufacturing and in the oil drilling industry. Starch is also a raw material for producing many derived sugar products, such as glucose, fructose, maltodextrins and mannitol, each of which has specific properties and uses in food, chemical or pharmaceutical industries (Balagopalan et al., 1988).
+Many small-scale cassava starch industries exist in tropical countries where the product has specific uses in traditional food industries corresponding to a specific market niche; eg krupuk in Indonesia, sago in India, pandebono in Colombia, biscoicho in Brazil and chipa in Paraguay. In Colombia and Brazil a naturally fermented starch is produced ("sour" starch) with specific functional properties that are irreplaceable in the manufacture of traditional breads. These small-scale industries have a high socio-economic importance in specific regions of these countries.
+The roots of cassava are more highly perishable compared to those of the other major temperate or tropical root crops. This may be associated with the fact that, unlike other root crop storage organs, cassava roots exhibit no endogenous dormancy, have no function in propagation and possess no bud primordia from which regrowth can occur (Coursey and Booth, 1977; Passam and Noon, 1977). It is common knowledge that cassava roots senesce and deteriorate extremely rapidly after being detached from the plant. In general, due to physiological and pathological deterioration (see Chapters Two and One respectively), cassava roots cannot be kept in a satisfactory condition for more than a few days.
+Studies on the deterioration of fresh cassava roots were conducted by the International Centre for Tropical Agriculture (CIAT) and the Natural Resources Institute (NRI) during the late 1970s. Research led to the development of a simple storage system based on root curing in polyethelene bags and treatment with a thiabendazole-based chemical to prevent the onset of deterioration (Wheatley, 1989). Thiabendazole is a permitted agent for post-harvest use in many fruits and vegetables, and residues in cassava tissues have been analysed at less than 20 percent of permitted levels. The storage system was successfully field-tested in several different ecosystems in Colombia.
+Traditionally, the problem of storage has usually been overcome by leaving the roots in the ground until they are needed and, once harvested, consuming, marketing or processing immediately. Cassava is processed into a wide variety of products with a long shelf-life, which are traditionally prepared using a number of often fairly complex and time consuming processes (Lancaster et al., 1982). The roots can be left in the ground for several months after reaching optimal root development. The disadvantages of this system are that large areas of land are unavailable for further production, the roots loose some of their starch content, palatability declines as the roots become more fibrous (Rickard and Coursey, 1981) and cooking time increases (Wheatley and Gomez, 1985).
+The post-harvest properties of cassava prohibit the holding of stocks of fresh roots at processing plants and restricts the supply area from which cassava can be obtained. The migration of rural populations to urban centres has exacerbated the problems of marketing fresh cassava by increasing the distance, and therefore time, between producers and consumers. Urbanization has been the dominant demographic force in all regions of the developing world since the 1950s (Table 3). The rapid post-harvest perishability of the fresh roots results in an inconvenient, often poor quality foodstuff for urban consumers (Wheatley and Best, 1991). Large marketing margins caused by the risks of commercializing a highly perishable product, together with the effects of subsidized imports, frequently make cassava more expensive than competing carbohydrate sources in the urban environment. These price, quality and convenience disadvantages are not relevant in rural areas, as freshly harvested
+cassava is more readily available and marketing chains shorter.
+TABLE 3 Urban population as a percentage of total population 1960 to 1990
+Urban population as percentage of total population
+Africa 18.3 25.3 34.5
+Asia 21.5 25.3 29.9
+Latin America 51.7 64.5 76.1
+Source: World Resources 1990-1991: A guide to the global environment.
+TABLE 4 Urban and rural consumption of fresh cassava in Latin America
+Annual fresh cassava consumption (kilograms per caput)
+Country Rural Urban Total
+Bolivia (1972) 17.0 5.4 15.3
+Brazil (1975) 11.2 2.7 6.3
+Colombia (1970) 35 0 16.5 20.4
+Cuba (1976) 30.0 12.4 18.8
+Dominican Republic (1975) 42.3 20.0 33.1
+Ecuador (1974) 31.0 6.0 19.9
+Paraguay(1976) 180.0 35.0 110.1
+Peru (1976) 18.3 5.6 11.0
+Venezuela (1975) 27.4 5.0 9.8
+Total 19.1 5.9 11.4
+Source: Janssen and Wheatley, 1985.
+Note: Year of estimation in parenthesis.
+In many countries, especially in Latin America, urban consumers are changing from cassava to other more stable carbohydrate sources, such as rice and wheat-based products, and consequently consumption of cassava is lower in urban than in rural areas (Table 4). The production advantages of cassava, however, justify its development as an urban food. Cassava is one of the principal crops grown by small farmers in marginal areas of the developing world. In these areas environmental growth conditions are limiting factors and in many cases cassava is the only crop that can be grown in sufficient quantities to generate income.
+Overcoming the post-harvest problems of cassava has therefore become an important factor for the small farmer. Research to make cassava more suitable for the urban consumer will provide direct benefits to the rural poor.
+<section>4</section>
+Chapter 1 Microbial deterioration of cassava: organisms involved
+Earlier publications on the subject of the deterioration of cassava simply state that cassava roots will not store well, have a short storage life, will not keep for more than a few days and are highly perishable (Rickard and Coursey, 1981 ) without giving any indication of the nature or even the symptoms of the deterioration processes involved. Other publications refer loosely to "rots" or "decay", giving the impression that the deterioration is essentially due to microbiological infection.
+The number of different species of fungi and bacteria isolated from roots stored under different conditions shows that post-harvest decay of cassava is a complex matter, involving more than a single initial organism. Two distinct specific types of rot have been described by Majumder (1955), a dry rot occurring under aerobic conditions and caused by an unidentified Rhizopus sp. and a soft rot which developed under anaerobic conditions caused by a Bacillus sp. Under West African conditions, Affran (1968) and Doku (1969) have suggested an association between post-harvest decay and preharvest infection of the roots with white thread disease, Rigidoporus lignosis (Klotzsch) Imasaki.
+A more detailed investigation (Ekundayo and Daniel, 1973) indicated that soft rot of cassava roots was caused by a complex of fungi; Lasiodiplodia theobromae (Pat.) Griff. et Maubl., Aspergillus nigervan Tieghem, Aspergillus flavus Link, Cylindrocarpon candidum (Link) Wollenw and Trichoderma harizianum Rifia, the first organism being the most important. Although these workers clearly associated the decay with invasion through wounds, they concentrated on the later stages of decay rather than on the initiation of postharvest deterioration. Wegmann ( 1970), who also worked mainly with material that was in an advanced stage of deterioration, isolated A. niger together with "Cylindrium cladostrinum " (presumably C. clandestrinium (Corda) Saccardo) and unidentified Penicillium and Cladosporium spp. Studies by Burton (1970) on cassava shipped from Puerto Rico to the United States indicated that, while Diplodia manihotis (Sacc.) was the most serious market disease, a number of
+other fungal pathogens were also isolated, including species of Fusarium, Mucor, Phomopsis, Rhizopus and Trichoderma spp.
+Booth (1976), in a more detailed study on the deterioration of cassava, isolated from the surfaces of cassava roots various species of Pythium, Mucor, Rhizopus, Penicillium, Aspergillus, Fusarium, Cladosporium, Glomerella, Gloeosporium, Rhizoctonia, Bacillus, Xanthomonas, Erwinia, Agrobacterium and many saprophytic bacteria. However, Booth was consistently unable to isolate any specific microorganism from the advancing margins of deterioration in the flesh of the rots. It was therefore concluded that the earlier stages of postharvest deterioration, manifest as discoloration of the vascular tissue, were not inherently the results of attack by pathogens and that the later stages were essentially the decay of already moribund tissue caused by a wide variety of saprophytes.
+In a later study by Noon and Booth ( 1977) a number of microorganisms, both fungi and bacteria, were isolated from severely decayed cassava roots. The pathogenicity of the organisms was tested by inoculating freshly harvested, surface-sterilized roots. Vascular streaking developed in the roots throughout the 14-days storage period under tropical ambient conditions (25°C). Within four days of harvest, over 50 percent of the roots showed symptoms of vascular streaking. Some of the isolated microorganisms proved to be pathogenic when introduced into healthy cassava roots, notably Botryodiplodia theobromae Pat. and to a lesser extent Aspergillus flavus Link, Trichoderma harizianum Rifia and Fusarium solani (Mart.) (Table5). In some cases inoculated roots developed symptoms of vascular streaking (Figure 3), but there was no evidence that this was associated with the introduced organisms. In these cases the inoculated organisms could not be recovered from the advancing fronts of
+discoloration, although they could be recovered from the margins of the grossly necrotic areas. In other cases rotting was caused by the inoculated pathogen, but no vascular streaking occurred. The findings of Noon and Booth, which concluded that vascular streaking is a physiological process, were substantiated by a detailed cytochemical study of the development of vascular streaking using light and electron microscopic techniques. Rickard, Marriott and Gahan ( 1979) were unable to detect any signs of microbial infection during the early stages of vascular discoloration and, following results obtained using Phycomycetes, Taniguchi and Data (1984) also concluded that there was no direct relationship between vascular streaking in cassava roots and microbial decay.
+TABLE 5 Microorganisms isolated from damaged cassava roots
+Organism Disease
+Bacillus sp. Minor wet rot
+Post-harvest secondary deterioration
+Corynebacterium manihot Root fermentation
+Armillanella (armillana) mellea Young root necrosis
+Minor dry rot
+Aspergillus spp. Post-harvest secondary deterioration
+Circinella sp. Post-harvest decay
+Clitocybe tabescens Root rot
+Cylindrocarpon candidum Post-harvest deterioration
+Diplodia manihotis Root rot
+Erwinia sp. Minor wet rot
+Young root necrosis
+Fusarium spp. Minor wet rot
+Ganoderma pseudoferrum Red root rot
+Geotricum candida Root fermentation
+Helicobasidium compactum Minor dry rot
+Lasiodiplodia theobromae Post-harvest secondary deterioration
+Mucor sp. Post-harvest decay
+Penicillium spp. Post-harvest decay
+Phaeolus manihotis Root rot
+Phytophthora spp. Young root necrosis
+Wet rot
+Pythium sp. Young root necrosis
+Minor wet rot
+Rhizoctonia sp. Root rot
+Rhizopus spp. Post-harvest secondary deterioration
+Rigidoporous (Fomes lignosis) White root
+Rosellinia spp. Black rot
+Scleroinia sp. Young root necrosis
+Sclerotium rolfsli Young root necrosis
+Minor dry rot
+Sphaceloma manihoticola Minor root rot
+Sphacrostilbe repens Root rot
+Syncephalastrum sp. Post-harvest decay
+Trichoderma sp. Post-harvest deterioration
+Xanthomonas manihotis Cassava bacteria blight and minor dry rot
+Unknown Frog skin disease
+On the basis of his observations, Booth (1976) made a clear distinction between primary deterioration of stored cassava roots, considered to be an endogenous physiological process (Figure 4), and secondary deterioration. Microbial activity is the most common cause of secondary deterioration although fermentation or root tissue softening can also occur. Primary deterioration is the initial and major cause of the loss of acceptability, while secondary deterioration can become more important later. On occasion secondary deterioration may be the initial cause of loss and in these instances symptoms of vascular streaking frequently occur ahead of the rots. Pre- and post-harvest root rot diseases of cassava have been reviewed by Booth (1978) and are summarized in Table 6.
+TABLE 6 Mean distance^1 of tissue decay from points of inoculation of healthy roots with icroorganisms isolated from deteriorated cassava roots^2
+Microorganism Mean distance of tissue decay (mm)^3
+Aspergillus flavus LK ex Fr 5
+Bacterial isolate 1 1
+Bacterial isolate 2 2
+Botryodiplodia theobromae Pat 26
+Fusarium solani (Mart) Sacc 7
+Mucor sp 2
+Penicillium sp, isolate 1 1
+Penicillium sp, isolate 2 1
+Rhizopus sp 1
+Trichoderma harizianum Rifai 10
+Source: Booth 1976.
+Notes:
+1 Distance measured 14 days after inoculation.
+2 Microorganism isolated 14 days after harvest of roots
+3 Mean for two experiments. each consisting of four replicates
+Secondary deterioration occurs when pathogens penetrate through wounds and bruises inflicted during harvesting and handling. Storage at high humidity encourages fungal rotting but is also necessary for effective wound healing (see Chapter Two). The use of a microbial protectant is therefore often required with preservation methods that are favourable to root curing, such as storage in plastic bags (see Introduction).
+<section>5</section>
+Chapter 2 Physiological deterioration in cassava: biochemistry of the processes involved
+The rapid development of primary or physiological deterioration in cassava has been strongly associated with mechanical damage which occurs during harvesting and handling operations (Booth 1976). Frequently the tips are broken off as the roots are pulled from the ground (Figure 5) and severance from the plant necessarily creates a further wound. In addition, transport from the field to the markets can result in further abrasion. In most cases physiological deterioration develops from sites of tissue damage and is initially observed as blue-black discoloration of the vascular tissue which is often referred to as vascular streaking (Figure 4). Initial symptoms are rapidly followed by a more general discoloration of the storage parenchyma (Figure 6).
+In most plants, tissue damage results in a cascade of wound responses (Bowles, 1990) that quickly result in the defence of the wounded tissue and the subsequent sealing of exposed tissue by regeneration of a protective barrier (periderm formation). Common wound responses directly involved in defence include Iytic enzymes (glucanase and chitinase), protease inhibitor proteins and hydroxyproline-rich glycoproteins production. Enzymes associated with the phenylpropanoid pathway, such as phenylalanine ammonia-lyase and chalcone synthase, lead to the biosynthesis of phenolics which may act directly as defence compounds (quinones, phytoalexins) or can form polymers, such as lignin, that render cell walls more resistant to water loss and attack from microbial enzymes.
+Cassava roots when stored at high relative humidities (RH) of around 80 to 90 percent show a typical wound-healing response (Figure 7) with periderm formation occurring in seven to nine days at 35 °C and 10 to 14 days at 25°C (Rickard, 1985). This response is notably slower than in the other tropical root crops, such as yam, which form a periderm in four to five days at 35°C (Passam, Read and Rickard, 1976). Booth (1976), however, demonstrated that periderm formation in cassava roots occurred around small v-shaped cuts within four to seven days at 35°C, indicating that the magnitude of the wound sustained can affect the time required for periderm formation. In cassava the formation of a wound periderm (curing) has been found to suppress the development of physiological deterioration (Booth, 1976).
+Cytochemical investigations of changes occurring at the wound surface of cut cassava held at high storage RH have shown the development of a number of common plant wound responses (Rickard, 1982; 1985). Along with the development of colourless and coloured deposits at the wound surface and in the underlying cell layers (Figure 7) associated increases were observed in responses to cytochemical tests for phenols, lipids. carbohydrates and lignin as well as in the activity of polyphenol oxidase and peroxidase. Additional changes were also observed using ultraviolet light with the development of whitish-blue fluorescence in the storage parenchyma. The cytochemical and general stains used were not, however, sufficiently specific to determine the exact identity of the material formed at the wound surfaces. However, the phenol test responses indicated the presence of flavanols (catechins and proanthocyanidins). The existence of lignin in the deposits which formed a barrier across
+the wound surface was not substantiated by either fluorescence or polarized light microscopy, indicating a polyphenolic rather than a lignified wound barrier. However, lignification of the cell walls in this area was substantiated by use of these microscopic techniques.
+In cassava roots held at low storage humidity (less than 80 percent RH) the responses to injury do not remain localized at wound surfaces and physiological deterioration generally develops throughout the storage tissue within three to four days after harvest. Respiration experiments by Marriott, Been and Perkins (1979) have indicated that the initial development of physiological deterioration is associated with stress induced by water loss from wounds. Injured cassava roots were found to have a higher respiration rate when held under low humidity storage conditions.
+Microscopic observations have shown that the initial response to injury at low storage humidity involves the development of colourless deposits in the xylem parenchyma and an increase in storage parenchyma fluorescence. Material formed in the xylem parenchyma was observed to enter subsequently and occlude the xylem vessels (Figure 8) along with the production of tyloses (Figures 9 and 10). The visual symptoms of vascular streaking were found to develop from discoloration of xylem parenchyma and vessel occlusions.
+The initial symptoms of vascular streaking are rapidly followed by a more general discoloration of the storage parenchyma. Prior to the appearance of general tissue discoloration, colourless deposits and intense fluorescence were observed to develop in the storage tissue. Increases in the activities of polyphenol oxidase and peroxidase and a decrease in response to free phenols were noted to accompany the appearance of coloured deposits. The material formed in the xylem system and storage parenchyma gave similar cytochemical test responses to those obtained at the wound surface of cured roots. The presence of phenolic compounds during the development of physiological deterioration was also visually followed by the addition of cytochemical reagents to cut root pieces. Surface test responses for flavanols were strongly associated with areas of storage parenchyma discoloration (Figure 11).
+The principal phenolic compounds associated with the development of physiological deterioration have been characterized using a variety of biochemical techniques. Phenolic compounds identified in cassava include scopoletin, scopolin, esculin, proanthocyanidins, (+)-catechin and (+) gallocatechin (Rickard, 1981; 1985;Tanakaetal., 1983;Wheatley, 1982; Wheatley and Schwabe, 1985). Maximum scopoletin content, which is mainly responsible for the strong storage parenchyma fluorescence, was found to peak within 24 hours of injury (Figure 12) and prior to the development of the visual symptoms of physiological deterioration (Wheatley and Schwabe, 1985). Increases in flavanol and proanthocyanidin content continued to increase with the development of physiological deterioration (Rickard, 1981; 1985). Fluorescence microscopy and light microscope cytochemical techniques have demonstrated that, during the development of physiological deterioration, scopoletin and flavanols can be formed
+throughout the storage parenchyma of cassava and do not involve the activity of specialized cells.
+The phenylpropanoid pathway is responsible for the biosynthesis of phenolic compounds (Figure 13) and it has been the subject of much research in different plant systems. The phenylpropanoid pathway is involved in many aspects of wound response including the production of isoflavonoid phytoalexins, flavonoid pigments, ultraviolet protectants and the generation of lignin and suberin (Hahlbrock and Scheel, 1989). Phenylalanine ammonialyase controls the key initial entry into the phenylpropanoid pathway and genes for this and other associated enzymes can begin transcription within two to three minutes of wounding or elicitor treatment (Lorenzo et al., 1987; Fritzemeier et al., 1987). Two enzymes from this pathway, phenylalanine ammonia-lyase and 4coumarate: CoA ligase, have been shown to be differentially induced by wounding (Lois and Hahlbrock, 1992).
+The activity of phenylalanine ammonia-lyase was found to increase rapidly in cassava roots along with the development of physiological deterioration (Rickard, 1982; 1985; Tanaka et al., 1983). Peak activity of phenylalanine ammonia-lyase generally occurred some two to three days after injury (Figure 14). The changes in phenolic content together with the enhanced activity of phenylalanine ammonia-lyase observed in cassava indicate that increases in phenolic compounds are at least partly due to de novo synthesis.
+In common plant wound responses, phenolic compounds from the phenylpropanoid pathway are acted upon by a range of peroxidases to produce wound-repair substances in the immediate vicinity of the site of tissue damage. The enzymes involved in these processes are synthesized in response to wounding after a time lag which is dependent on the nature of the stimulus. The walls of cells immediately beneath exposed wounds typically become impregnated with phloroglucin-positive material such as lignin and/or suberin and periderm formation occurs beneath this layer (Beeching et al., in press).
+In cassava, cytochemical tests for peroxidase gave increased staining responses during the development of a localized wound response (curing) and during the later stages of physiological deterioration (Rickard, 1982; 1985). Biochemical analysis of peroxidase in wounded cassava roots showed that increased activity occurred after a lag period of about one day and continued to increase with the development of physiological deterioration (Tanaka et al., 1983). The electrophoretic patterns of extracts from discolored cassava showed increases in the number and the staining intensities of the soluble, tonically-bound and covalently-bound bands of peroxidases activity. Polyphenol oxidase activity was also found to increase in discolored cassava tissue but, only in the covalently-bound fraction (Plumbley, Hughes and Marriott, 1981).
+FIGURE 12 Time course of changes in the amounts of coumarin components in cassava (cv. Golden Yellow) in response to cut injury. Tissues disks were 2mm thick.
+FIGURE 13 Outline of the pathway of phenylpropanoid biosynthesis
+Source: Dr M. Rhodes, AFRC Institute of Food Research, private communication.
+FIGURE 14 Timecourse of changes in activities of acid invertase, phenylalanine ammonia-lyase and peroxidase in cassava (cv. Golden Yellow) in response to cut injury. Tissue disks were 2mm thick.
+Source: Tanaka et al.,1983.
+Activation of genes for enzymes of the phenylpropanoid pathway tends to be localized and occurs only weakly at a distance from the site of excitation (Bowles, 1990). An increasing number of substances are being reported to be capable of acting as wound signals. Volatile substances, such as ethylene or the recently discovered jasmonic acid, have been shown to be important elicitors of wound and defence responses (Ecker and Davis, 1987; Farmer, Johnson and Ryan, 1992).
+The development of physiological deterioration throughout the storage tissues of cassava root after harvesting suggests the transmission of intercellular signals from the sites of damage. However, this topic has not been studied in cassava except for the production of ethylene. Like most other plant tissues (Hyodo, 1991), cassava has been found to produce ethylene in response to wounding. Ethylene production from damaged cassava roots was reported to occur after a lag period of about six hours and continued to increase over a 22hour period (Plumbley, Hughes and Marriott, 1981). Similar results were obtained by Hirose, Data and Quevedo ( 1984) after a lag phase of 16 hours with varietal differences affecting the rate of ethylene production (Figure 15). Experimental evidence to date suggests that ethylene is not directly involved in the development of physiological deterioration. Preharvest pruning, which is effective in suppressing physiological deterioration, had no
+significant influence on ethylene production following injury and the application of endogenous ethylene was not found to affect wound responses (Hirose, Data and Quevedo, 1984).
+FIGURE 15 Varietal difference in ethylene production
+Source: Hirose. Data and Quevedo, 1984.
+The maintenance of compartmentation and selective permeability are essential features of membrane function. A number of signal compounds, such as traumatic and jasmonic acid, can be formed from free fatty acids released from the enzymic breakdown of membrane phospholipids (Vick and Zimmerman, 1984). The products of membrane breakdown can also lead to further autocatalytic damage by the formation of harmful radicals or oxygen species, such as superoxide (Lynch and Thompson, 1984), singlet oxygen (Thompson et al., 1991 ) or lipid peroxy radicals. All three species are capable of inducing further membrane damage. Several enzymes, such as superoxide dismutase, ascorbate peroxidase, monodehydroascorbate reductase, catalase and peroxidase (Bowler et al., 1991; Bowler, Van Montagu and Inze, 1992), are involved in the detoxification of oxygen radicles and derivatives.
+No investigations have been carried out on this topic in cassava. However, the rapid appearance of vascular streaking in harvested cassava roots has been suggested by Tanaka et a/. (1983) to be a result of membrane disorganization resulting in a loss of cellular compartmentation. One detailed study of lipid changes in harvested cassava roots has shown a progressive decline in phospholipid content indicating membrane degradation. It was speculated that these changes indicate structural alterations to membranes which might allow the interaction of substrates and enzymes producing dark streaking (Lalaguna and Agudo, 1989).
+Overall, wound responses result in the restoration of the integrity of the damaged plant. The processes involved include; the formation and movement of signals from damaged tissues, the perception by undamaged cells of these signals, which results in the activation of pre-existing enzymes and in gene expression, and the formation of a wide range of enzymic and other proteins concerned with defence, containment and repair. Wounding also induces the biosynthesis of further signal substances which amplify and sustain the primary effects and lead to the coordinated response. Some responses to wounding occur close to the wound, others take place at a distance. Some are initiated within minutes, others take place hours or even days after the damage has been inflicted. The spatial and temporal control of the overall wound response is an important feature of its function as a defence system.
+As the normal internal environment of the plant is reinstated, wound signal formation is suppressed and the wound response processes are reduced.
+Physiological deterioration in cassava roots appears to share many of the common characteristics of plant wound responses. However, the sealing and healing aspects necessary for survival seem poorly expressed and are less localized in harvested cassava roots (Booth, 1976; Rickard and Coursey, 1981). This may be associated with the fact that cassava roots have no function in propagation, unlike other root crop storage organs (see Introduction). Normal responses to tissue injury result in wound repair, which reduces and finally eliminates the signals from damaged cells that elicit the cascade of wound reactions. In harvested cassava roots held under low humidity storage conditions (less than 80 percent RH) the cascade of wound responses is sustained and extends through the whole root, leading to physiological deterioration. It would thus appear that wound signal formation is maintained and the wound response processes are not reduced under these conditions.
+Early studies reported a limited variation in the susceptibility of cassava cultivars to physiological deterioration. More recent studies have demonstrated that environmental growth conditions have a significant effect (see Chapter Three) on the crop's development. Differences in root wound-healing properties have not been investigated in cassava or its wild relatives. It is possible that an adequate root healing response has been lost from cassava as this characteristic was not a selection priority.
+<section>6</section>
+Chapter 3 Genetic resources of cassava: potential of breeding for improving storage potential
+Assembling and characterizing existing genetic diversity
+Genetics and cytogenetics
+Creation of new genetic diversity
+Objectives in cassava breeding
+Potential for breeding for resistance to physiological deterioration
+The rapid post-harvest deterioration of cassava has been dealt with in a variety of ways by producers, processors and consumers (see Chapter Five). Because traditional management systems are well tailored to the crop's characteristics there has been little incentive historically to include reduced susceptibility to deterioration as a breeding objective. In addition, breeders have been reluctant to approach the problem because of the large influence of environmental growth conditions and associated preharvest stress (Table 7), limited genetic variability and a persistent but moderate negative correlation between low deterioration rate and high dry matter content (Kawano and Rojanaridpiched, 1983). However, with rapid urbanization occurring in all regions of the developing world and the increased potential of processed cassava products (see Introduction and Chapter Five), overcoming the post-harvest deterioration problems of cassava is becoming an important factor and has
+renewed interest in breeding for increased storage potential.
+Cassava is vegetatively propagated by lignified stem cuttings and this has important implications for its evolution and genetic improvement. Clonally propagated crops have limited genetic plasticity and variations are slow to arise under natural conditions. However, cassava has an extensive adaptive plasticity and is able to tolerate a long dry season or irregular rainfall, low fertility, acid soils and various biological stresses. Cassava has no distinct period of physiological maturity. Harvest may be from six months to two years or more with an average of about one year. As cassava roots are not organs of propagation and can be harvested as needed, selection for postharvest conservation has not been a requirement. Traditional crop cultivars were selected by farmers to tolerate environmental and biological variations and to make efficient use of limited inputs. Cassava's rusticity, harvest flexibility and high productivity have combined to make it an enduring component of
+a broad range of tropical and subtropical cropping systems (Cock, 1985).
+TABLE 7 Evaluation of susceptibility to physiological deterioration of 26 cultivars and hybrids harvested in Colombia (% deterioration)
+Cultivar Site
+ClAT-Palmira Carimagua Media-Luna Caribia Popayan
+CM 305-120 32.4 0.0 1.8 1.7 9.3
+CM 305-122 69.9 0.3 3.7 2.9 62.9
+CM 321-188 60.6 0.0 0.4 4.3 68.3
+CM 323-64 19.5 0.0 1.1 0.1 26.0
+CM 340-30 29.4 0.0 0.9 0.9 14.4
+CM 344-71 18.4 0.0 1.1 0.4 64.5
+CMC 40 1.6 0.1 1.8 1.5 8.5
+MCol 113 12.0 0.0 3.9 0.3 32.7
+MCol 1684 12.7 1.6 1.3 6.5 3.6
+MCol 72 50.2 4.0 1.4 1.1 2.3
+MPan 70 15.3 0.0 0.9 0.6 57.5
+MPan 114 2.1 0.0 0.4 1.0 5.9
+MBra 12 23.3 0.0 0.4 0.1 10.2
+Sata Dovio 12.6 0.0 2.7 0.2 72.0
+Reg. negrita 31.6 0.0 0.9 0.1 34.3
+MCol 22 90.1 0.0 1.4 1.7 3.8
+MCol 638 27.1 0.2 1.1 0.6 8.8
+MPan 19 5.7 0.1 2.5 26.9 30.9
+MEcu 82 8.4 1.1 1.8 1.8 4.1
+MVen 77 3.0 0.3 1.6 6.9 24.7
+Reg. amarilla - - 0.7 0.5 82.6
+CMC 92 24.8 - 0.1 0.6 33.3
+Secundina 58.6 - 1.9 24.0 -
+Montero 70.1 17.5 10.5 15.7 -
+Manteca 18.2 0.0 2.7 1.9 -
+Llanera 0.6 0.6 0.8 - 2.3
+Site mean: 27.9 1.1 1.8 4.1 28.8
+Source: Wheatley, 1982.
+Cassava has evolved primarily in adaptation to low input subsistence farming systems where yield per unit area was not a major concern, but, although still within essentially similar farming systems, cassava is now moving towards greater commercialization (see Chapter Five). The changes that call for new genotypes are the expectation of higher unit-area yields, increases in the pest and disease problems that result from more intensive cultivation (higher plant density, shorter rotations, monocropping) and the need for new quality traits for diversified markets (Henry, 1991). In most cassava producing areas the local cultivars are well suited to traditional markets and have the characteristics required for end product usage. These quality traits have been among those to receive major emphasis from farmer-breeders; in many cases maintaining existing quality characteristics as other traits are modified is one of the most challenging objectives to plant breeders.
+Assembling and characterizing existing genetic diversity
+The greatest genetic diversity for cassava exists in Latin America, although substantial diversification has taken place in Africa since the crop was introduced. Asia has the least diversity, with some countries such as Thailand and China producing cassava over large areas from relatively few cultivars. Most countries where cassava is a major crop have established improvement research programmes. In 1968, breeding programmes received a significant impetus with the establishment of two centres within the Consultative Group on International Agricultural Research (CGIAR) system -CIAT, founded in Cali, Colombia and the International Institute of Tropical Agriculture (IITA), established in Ibadan, Nigeria. The development of an international collection at CIAT in 1969-70 provided a wide range of genetic diversity from a single source (2 800 accessions) that could serve to augment the material available to breeding programmes. Safe and reliable long-term conservation of cassava
+germplasm has been of prime importance and CIAT's collection is maintained both in vitro and in the field.
+In the last decade, with the assistance of the International Bureau of Plant Genetic Resources (IBPGR), CIAT's germplasm collection has expanded to over 5 000 accessions. These have been characterized for morphological traits according to the IBPGR descriptors (Gulick, Hershey and Esquinas-Alcazar, 1983), which are used as a means of genotype identification. The germplasm collection has also been agronomically characterized for yield, quality, pest and disease resistance and adaptation to a range of edaphoclimatic conditions. Other specific quality traits are often complex, costly and time-consuming procedures if entire germplasm collections are to be evaluated. However, evaluation of a core group which is a fraction of the total collection (5 to 10 percent) and is representive of the total genetic diversity (Brown, 1989) can provide overall indicators of genetic diversity at a fraction of the cost. A cassava core collection was recently established at CIAT (630 accessions)
+and is being evaluated for a range of traits, including cyanic acid and starch content, photosynthetic rate and nutrient use efficiency (Hershey et al., 1993). Banding patterns for alpha beta esterase isozymes and DNA fingerprinting have also been used for varietal fingerprinting to identify duplicates and as a means of assessing and describing genetic diversity (CIAT, 1991; Ocampo et al., 1993). A highly saturated molecular and physical map of cassava is being developed using random genomic and complementary DNA libraries (Angel et al., 1993).
+Wild species of Manihot in their native habitat are restricted to Latin America where 98 species have been described (Rogers and Appan, 1973). Within the genus, only cassava is cultivated as a food crop and wild species have received little research attention. Field collections of wild species are being established and characterized at CIAT and IITA (with 29 and 33 species respectively). Isozyme patterns are being analysed to fingerprint the wild accessions and to estimate the relationships among species and between wild and cultivated germplasm (CIAT, 1993). The hypothesis that there is extensive natural introgression of wild species genes into cultivated cassava (Nasser, 1989) has yet to be confirmed, but a few cultivated genotypes show distinct wild type characteristics. Taxonomic aspects of the wild species have been studied by the Centro Nacional de Recursos Geneticos (CENARGEN) in Brasilia and crossing studies have been undertaken at IITA. A wild species native to
+northern Mexico and southwestern United States, M. walkerai, is reported to have roots with adventitious buds that can be used for propagation. The physiology of this species needs to be investigated and this characteristic confirmed.
+Evolutionary relationships among wild species of Manihot (section Parvibracteatae) from Mexico and Central America have been studied using chloroplast and ribosomal DNA analysis, complemented by biogeographical and morphological data (Bertram, 1993). From this study it appeared that several wild species, including M. carthaginesis (section Carthaginensis) and M. aesculifolia, were genetically close to cassava. In addition to being morphologically similar to cassava, DNA results show evidence that M. aesculifolia is the closest extant relative of the crop.
+Although additional input is required to evaluate wild species from South America, Bertram's studies ( 1993) already provide an informative basis for evaluating the use of wild species in cassava improvement breeding programmes. The characterization of the genetic variability in wild species will provide valuable information on cassava's evolution and help to identify new sources of specific traits. Due to their potential importance in breeding programmes expanded eftorts to collect, preserve end characterize the Manihot wild species germplasm are needed.
+Genetics and cytogenetics
+Like all wild species of Manihot studied to date, cassava has 36 chromosomes (Bai, 1987). Regular bivalent formation has been reported in the pollen mother cells, with few meiotic abnormalities. The completely paired pachytene bivalents vary in length from 19.3 to 40.0 microns. The haploid chromosomal complement has three functional nucleolar chromosomes and six chromosomal types represented in duplicate. This information has been used to suggest that the present-day cultivated types are allopolyploids of crosses between two closely related forms. Their two basic diploid parental taxa (x=9)7 while possessing six chromosomal types in common, differ in three chromosomes of their complement. Hence the present-day cultivars may be considered as segmental allopolyploids (Magoon, Krishnan and Bai, 1969). Similar pachytene studies have been carried out on M. glaziovii and a comparison with the karyotype of cassava showed many common features, including the same number and a similar
+morphology of chromosomes (Krishnan, Magoon and Bai, 1970). Studies on the genetics of cassava have been very limited and breeders have concentrated on obtaining the basic information required for effective genetic improvement of the crop. Attention is only beginning to focus on a more complete genomic characterization of the species and its relatives.
+An extensive diversity exists for most traits examined to date. This may be due to introgression of wild species germplasm and to the many environments and uses for which cassava has been selected over thousands of years. Precise genetic control has been characterized for relatively few traits in cassava. Singlegene control has been demonstrated for leaf lobe width root surface colour, albinism, stem collenchyma colour, stem growth habit, root flesh pigmentation and male sterility (Hershey and Ocampo, 1989). There are no confirmed examples of physiological specialization on a gene-for-gene basis for pests or pathogens. Abroad range of agronomically important traits have been studied for their inheritance patterns. Results to date indicate that nearly all these traits are under multigenic control, with a high proportion of additive genetic effects (Iglesias and Hershey, 1994). Genetic variability within cassava for some traits, such as resistance to postharvest deterioration
+may be limited for breeding objectives. The application of molecular techniques, such as gene tagging and the identification of gene products, will complement conventional approaches to genetic studies of agronomically important traits.
+Vegetative propagation is genetically a rather conservative strategy. New variation, resulting from natural crosses in multiclonal fields and possibly some introgression from wild species, is slow to arise. Plants originating from seed in the first generation following a cross are likely to be weak and at a distinct competitive disadvantage. New diversity for breeding programmes was initially obtained by the introduction of existing landrace cultivars from other regions, and the development of in vitro techniques has expanded the exchange of disease-free germplasm. However, superior landrace cultivars are unlikely to combine all the requirements of diverse production and market needs. Consequently, most breeding programmes look to recombination as the principal means of cultivar development.
+Creation of new genetic diversity
+The first significant large-scale creation of new diversity occurred through controlled crossing carried out by plant breeders. Most of the breeding methods applicable to outcrossing species can be used for cassava. Hybridization in cassava is relatively easy (Kawano, 1980) and open pollination schemes are extensively used to increase the amount of hybrid seed produced. In some regions the principal constraint to crossing is shy flowering and to date practical methods have not been developed to deal with non-flowering types. Flowering is controlled by the complex interaction of a range of genetic and environmental factors. In some areas cassava will flower all year long while in other locations flowering is seasonal. Cassava is monoecious, with pistillate flowers opening about two weeks before staminate flowers. Normally, few seeds are obtained (an average of I to 1.5) and acquiring large numbers of seeds is a labourintensive and tedious process. Most genotypes appear to
+suffer drastic inbreeding depression. Vegetative propagation to preserve superior heterozygotes greatly simplifies breeding and, whichever breeding method is used, heterozygocity needs either to be maintained or restored prior to subsequent vegetative propagation. Most programmes use some form of recurrent selection appropriate for the accumulation of many genes of minor effect. All existing commercial cultivars of cassava are probably highly heterozygous.
+Although difficulties occur at the time of flowering, IITA has performed extensive intercrossing among wild species and between cassava and wild species. M. glaziovii has been used as a source of African mosaic-virus resistance in early East African breeding programmes (Nichols, 1947).
+Mutation has been tried sparingly for cassava. One constraint is the need for selfing to achieve expression of recessive mutations occurring in the heterozygous state. This is very difficult for a large number of genotypes due to the asynchronous opening of staminate and pistillate flowers. Mutation could have more practical applications when haploid cells, such as microspores, can be regenerated into plantlets. Haploids and doubled haploids will be a significant research tool for cassava, with possible applications in genetics, evolution studies, expression of recessive genes and in a breeding system for true cassava seed. Experiments have been conducted on in vitro pollen germination, pollen tube growth and isolation, culture of young zygotic embryos, microsporogenesis, tetradstage microspores and microcalli formation (Cataño et al., 1993).
+Polyploid induction, through colchicine-induced tetraploids, has been a subject of considerable research in India (Graner, 1941; Magoon et al., 1969). The clones produced generally exhibited the gigas characters associated with polyploidy, such as increases in leaf breadth and thickness, stomata! size, length and girth of petiole and flower size. Pollen sterility was high, but fertile pollen grains were much larger in size ( 180 to 196 microns) compared to diploids ( 125 to 140 microns). Considerable genotypic variation was demonstrated in response to polyploidy. Some clones became weak and could not be maintained, while others were maintained easily for several generations. Improved yield potential from polyploidy has not been found to be promising in any of the programmes. In India it was reported that a 42 percent increase in protein content was achieved by polyploid induction which subsequently disappeared with continued vegetative propagation.
+At IITA work focused on changes in ploidy through inducing production of unreduced gametes, mainly through interspecific crosses. Four spontaneous tetraploids and two triploids were isolated from crosses between M. pruinosa or M. glaziovii and cassava. A majority of the interspecific crosses produced diploid pollen, but their frequencies varied with cross-combinations and with genotype within respective crosscombinations (Hahn, Bai end Asiedu, 1990). The presence of multivalents in the polyploids suggests that pairing and crossing over are taking place between cassava and its related Manihot species. There are no strong incompatibility barriers to interspecific hybridization, though considerable selection of parent cassava clones is necessary, which could indicate a highly fluid gene pool within the genus Manihot and likely widespread introgression among species.
+Virtually no somaclonal variation has been detected from extensive studies on plants propagated from meristem culture or from somatic embryos (Szabados, Hoyos and Roca, 1987). Since either of these processes may result in considerable variation in many species, this result suggests that cassava is genetically very stable at these levels of tissue organization. Regeneration of cassava from individual cells is not possible at present and it is not known whether genetic stability would be similar for regenerated single cells.
+Objectives in cassava breeding
+Cassava is a crop that prospers in difficult and variable environments and breeders are faced with the need to consider many characters, each with multigenic control (Kawano et al., 1978). Cassava has been subject to small, incremental improvements at the hands of farmer-breeders for centuries but has received limited attention from modern breeding approaches. Recently improvement of this crop has been primarily oriented towards relatively few traits, most prominently to yield and pest and disease resistance. The former is a complex trait with many individual components, each involving numerous biochemical pathways and progress has been most pronounced in those cases where objectives were relatively simple. Resistance is normally determined by fewer genes, allowing for qualitative progress in a breeding programme. Advances in yield potential have been substantial but mainly in more favourable environments. These gains are often less prominent when translated to farmers'
+conditions, but the products of steady improvement are beginning to have substantial impact (Hershey and Jennings, 1992). Improvements in cassava in terms of adaptation, resistance, productivity and other traits have not been exhausted.
+Breeding objectives for cassava have distinct regional differences that are determined by locally encountered constraints. Some of the major diseases and pests of cassava, such as bacterial blight, mealybug and green mites, were introduced into Africa from Latin America. The African mosaic virus, historically the most devastating biological constraint of cassava in Africa, is of unknown origin (Hahn, Terry and Leuschner, 1980). The importance of cassava for food security in humid tropical Africa has justified the establishment of many national programmes where crop improvement has had high priority (Hahn et al., 1979). Breeding efforts in Africa have focused on incorporating disease and pest resistance while arthropod pests have been approached mainly through biological control. In recent years, there has been sufficient progress in disease and pest resistance for other breeding objectives, such as cyanide and dry matter content and plant architecture, to be pursued. Eating
+quality continues to be a critical breeding objective in Africa. Efforts are also being directed towards expanding cassava production into the highlands and semi-arid regions of Africa, which require breeding and selection for low temperature and drought tolerance respectively.
+In recent years, breeding research has expanded significantly in Asia because of the strong economic growth associated with cassava (Bottema and Henry, 1990). As fewer biological constraints exist in Asia and a large proportion of production is destined for industrial uses, breeders are concentrating on improved unit area dry matter yield and starch content. In Latin America as cassava is grown in diverse soil and climatic conditions it is subject to a wide range of pests and diseases. Breeding goals tend to be much more regionally focused but, in general, include a broader range of factors than in either Africa or Asia. Decentralized breeding programmes are required for cassava in order to address the wide range of physical environments' regionally distinct biological constraints and diverse market requirements.
+The provision of appropriate environments for efficient germplasm selection at CIAT uses a subdivision of the cassava growing world into distinct agroecological zones based primarily on temperature and rainfall patterns. Pest and disease patterns are largely dependent on these environmental factors and gene pools have been developed for adaptation to each zone (Hershey, 1984; CIAT, 1992). Breeding for resistance to constraints is fundamental to the development of each gene pool. The basis for genetic improvement is the identification of representative environments where the principal traits of interest are consistently expressed at levels appropriate for selection (Iglesias et al., 1994). The need for extensive field testing is likely to continue for all crops.
+The tools at the disposal of plant breeders have changed dramatically along with general developments in the biological sciences. The beginnings of a theory of inheritance was the first step towards a dramatic increase in knowledge about the nature and the manipulation of inherited variation. This in turn led to the development and application of tools for more efficient breeding; assembling and characterizing genetic variation, creating new variation and selection. No set of biological tools has created greater expectations than those generated by achievements in the area of molecular, cellular and other technologies broadly described as biotechnology. The rapidly continuing development of these tools has brought about fundamental changes in crop improvement research and broadened the range of potential traits for genetic modification. In addition to traditional breeders' objectives there are challenges that are not strictly breeding in nature and that go beyond the scope
+of the established approaches. These, if achieved, would have a major impact on the utilization of cassava. Objectives such as improvement in the post-harvest storage potential of roots, the development of acyanogenic cassava and the modification of starch characteristics for specialized markets are such challenges.
+Potential for breeding for resistance to physiological deterioration
+Breeders at CIAT are re-evaluating a broad range of germplasm using a more refined technique than was previously used. In the locations evaluated to date some cassava clones had virtually no deterioration eight days after harvest. Genetic variability accounted for 52 percent of the total observed variability, indicating the possibility of progress in a selection procedure. In order to study the intrinsic biochemical processes responsible for physiological deterioration, CIAT initially proposes to build up genetic stocks by crossing clones that demonstrate the extremes of each deterioration step. The biochemical processes involved in the rapid deterioration of cassava are essentially woundhealing responses (see Chapter Two). These responses are well-known in many plant species and involve the activity of many genes. Traditional breeding approaches will therefore need to employ methods for manipulation of quantitatively inherited traits.
+It is conceived possible that conventional breeding could make significant contributions to reducing post-harvest deterioration of cassava. This is, however, likely to occur gradually in small progressive improvements.
+<section>7</section>
+Chapter 4 Genetic manipulation techniques: potential of controlling post-harvest deterioration
+Genetic transformation
+Selection of transformed cassava tissue
+Regeneration of transgenic plants
+Potential of breeding for resistance to deterioration
+Advances in biology and biotechnology have enabled scientists to dissect biochemical pathways, to isolate genes of interest from different organisms and to transfer these back into the original or alternative host plants. In agriculture this can lead to the production of plants with novel character) sties that would not be achievable through conventional breeding. The use of genetic manipulation techniques in breeding for resistance to physiological deterioration in cassava may alleviate the problems encountered by the use of conventional techniques. These problems are largely due to the highly heterozygous nature of the crop (see Chapter Three) which makes generating the parental genotype highly improbable.
+To allow the potential of genetic manipulation to be realized, techniques are needed to integrate new genes into the cassava genome through genetic transformation of individual cells or tissues and to regenerate whole plants from the transformed material.
+Genetic transformation
+The aim of transformation is to introduce foreign DNA into the plant genome without altering the desirable characteristics of the genotype that is being transformed. Several techniques have been developed for introducing DNA into plant cells and these have been adapted for use with a wide range of plant species (Figure 16). Direct methods of treating plant protoplasts (plant cells from differentiated tissue, free of their polysaccharide cell walls following enzymatic treatment) are the most efficient methodologies in terms of foreign DNA uptake by protoplast suspensions after treatment with polyetheleneglycol (PEG) or electroporation (Cabral et al., 1993). For many economically important plant species, including cassava, regeneration of plants from protoplasts is not as yet possible. The prolonged periods of tissue culture associated with this type of regeneration are prone to cause undesirable somaclonal variation of the original genotype which generally introduces
+undesirable new traits such as albinism.
+The use of organized tissues or organs with regenerative potential to grow into full plants, such as somatic embryos (embryos derived by tissue culture from non-sexual tissues), is required to avoid the above problem. In these cases, DNA must be introduced across the cell wall, using methods such as particle bombardment with DNA-coated gold particles (Klein et al., 1987) or the use of the crown gall bacterium, Agrobacterium tumefaciens. Both these methods are suitable for the delivery of DNA into somatic embryos and other organized tissues capable of regeneration. However, with particle bombardment methodology, DNA is delivered with very low efficiency to the cells as compared to DNA uptake into protoplasts. Electroporation or PEG treatment of partially digested embryogenic tissue, using cell wall degrading enzymes, is a novel process that tries to combine the advantages of both methodologies (Yang et al., 1991).
+FIGURE 16 Possible ways of introducing foreign DNA into intact cells
+A large number of plants belonging to many families have been transformed by Agrobacterium but this technique has not been successful with some important crops, such as maize, soybean and cotton. In the last few years, however, particle bombardment has demonstrated wide applicability in the transformation of these otherwise recalcitrant crops. Notably, regeneration in these crops is only possible when organized tissues are used as the starting material (Christou et al., 1990; Finer and McMullen, 1990; Gordon-Kamm et al., 1991).
+A recent improvement in transformation is the combined use of particle bombardment with Agrobacterium. This treatment produces a high number of microwounds in the plant tissue which in turn facilitate subsequent penetration by Agrobacterium (Bidney et al., 1992). Microwounded cells, into which Agrobacterium has delivered the gene construct, have a high probability of resuming multiplication after repair of the cell wall and membrane.
+The development of particle bombardment devices that can target the site of bombardment more accurately should be capable of achieving higher transformation efficiency by directing blasts of microprojectiles into meristematic tissues and specific groups of cells of only a few square millimetres (Potrykus, 1992). To prevent tissue destruction while allowing particles to enter the cells, the blast power must be controlled by careful finetuning.
+At present protocols which use organized tissues, such as somatic embryos, are the only practical regeneration methods for cassava. These embryos are thus preferentially used as recipients of DNA constructs in cassava using Agrobacterium and particle bombardment methods. Results using these protocols were reported by several groups working on cassava transformation at the International Cassava Biotechnology Network Meeting in Cartagena, Colombia, in 1992. Somatic embryos from cassava have been produced using various starting materials, such as young leaf lobes (Raemakers et al., 1993; Stamp and Henshaw, 1987b; Szabados, Hoyos and Roca, 1987), primary somatic embryos (Raemakers et al., 1991; Stamp and Henshaw, 1987a), shoot meristems and cotyledonary leaves from somatic embryos (Sarria et al., 1993) and embryos derived from the tissue of sexual embryos (Stamp and Henshaw, 1982).
+Development of a reliable and genotype-independent methodology for the transformation of cassava is particularly important because of the crop's agricultural importance in many developing countries (see Introduction). The introduction of any new trait into cassava by a transgenic approach will have to be carried out for many different genotypes that are suited to different agro-ecological zones and that fulfil diverse end uses and requirements.
+Selection of transformed cassava tissue
+The availability of a selection procedure designed to eliminate nontransformed plants or tissue and thereby reduce the number of plants to regenerate, is an important component of practically all transformation protocols. Gene constructs generally contain a marker gene in addition to the gene of interest. Screenable marker genes allow transformed cells to be visualized and therefore facilitate separation from non-transformed cells. There are two commonly used approaches to the use of marker genes. One method is to insert a gene coding for an enzyme that, with the appropriate substrate, generates a coloured product that can be visualized in transformed cells. This kind of gene is frequently used for studying transient expression. The other method of selecting marker genes is to code for antibiotic or herbicide resistance so that transformed cells can be separated by their ability to grow on media containing the corresponding antibiotic or herbicide.
+In cassava, selection has been attempted with three selectable marker genes, nptll, hyg and bar. which confer resistance to the antibiotics kanamycin and hygromycin and to the herbicide phosphinothricin, respectively. Low sensitivity of embryos to kanamycin allows higher concentrations of the antibiotic to be used in the selection process, but this might interfere with the regeneration process. Phosphinothricin is more efficient at selecting embryos, as opposed to calli (C. Schöpke, unpublished results) and less inhibitory of their development (Sarria et al., 1993). Recurrent use of the selecting agent has led to the development of chimeric plantlets that express the gene construct in only certain cells or groups of cells (Raemakers, Jacobsen and Visser, 1993; Schöpke et al., 1993).
+Studies on cassava have also been conducted utilizing the gusA gene (GUS) from Escherichia coli, which codes for a ß-glucuronidase, as a screenable marker (Jefferson, Kavanagh and Bevan, 1987). The enzymatic activity of the glucuronidase is a measure of the number of embryos expressing the marker gene and indicates transformation efficiency. This reaction results in transformed cells staining blue (Figure 17). It is also a measure of promoter strength and is very useful in the study of gene cassettes for the efficiency of the different elements of the gene construct (promoters, enhancers and regulatory regions).
+Transformation of cassava somatic embryos has been achieved using particle bombardment and several strains of Agrobacterium, including some that naturally infect cassava. Homogeneous GUS activity has been observed in only a few secondary embryos three months after excision and bombardment of the cassava meristem. Only about 1 percent of the GUSpositive embryos detected in the first few weeks displayed enzymatic activity after three months (Figure 18). However, their presence provided a strong indication of stable integration of the gene construct into the cassava genome (transformation efficiency) (Sarria et al., 1993).
+The drawback to the GUS technique is that the enzymic reaction is destructive, killing the tissues in which it is active (Jefferson, Kavanagh and Bevan, 1987; Kosugi et al., 1990). Protocols for the detection of GUS activity in the surrounding growth media of seedlings and other tissues are now available (Martin et al., 1992). However, this is not a very sensitive method and its usefulness for evaluating transformed cassava embryos/ plantlets remains to be established. The development of non-destructive screenable markers to replace the existing GUS assays would greatly enhance selection procedures and allow positive embryos to be directly selected for regeneration. To avoid embryos being destroyed during the selection procedure, developments are being made towards a secreteable GUS and a novel enzyme, aryl sulphatase, which is not produced by plants (Richard Jefferson, personal communication).
+The most commonly used promoter sequence in transgenic studies is the cauliflower mosaic caulimovirus 35S promoter. Transient expression of gene constructs containing 35S promoter has demonstrated the utility of this promoter in cassava ( Franche et al., 1991). The activity of the promoter can be increased by including enhancer sequences (Cabral et al., 1993; Franche et al., 1991). Expression in cassava has been demonstrated for mesophyll cells but the constructs were not functional in root cells. This failure may be due to different 35S promoter specificities (Benfey and Chua, 1990; Benfey, Ren and Chua, 1990a; 1990b) or DNA degradation by nucleases present in the root (Arias-Garzón and Sayre, 1993).
+In some plant species, the production of chimeric plants could lead to pollen or egg cells being transformed. However, these events do not offer a viable alternative in cassava because of its high heterozygosity, low rates of seed germination and lack of flowering in certain genotypes (see Chapter Three). In cassava, transformed patches from regenerable tissue could only give rise to solid transformants if it is possible to excise and regenerate such groups of cells.
+To date it has not proved possible to regenerate cassava plants from transformed cassava tissues. Transient gene expression in tissues that are not regenerative is, however, considered to be useful as a tool to assess the potential functionality of gene constructs. Agrobacterium transformation of cassava with constructs coding for coat proteins of cassava common mosaic virus and African cassava mosaic virus has been undertaken. High levels of expression of the viral protein coat have been detected in transformed call), thus confirming the potential of this approach. The use of such sequences to protect plants from virus infection cannot be fully assessed, however, until whole plants have been regenerated (Fauquet et al., 1993). In other plant species this technique has been found to be very successful in conferring virus resistance (Wilson, 1993).
+Regeneration of transgenic plants
+The regeneration of plants from transformed cassava cells has not as yet been achieved, although major progress has been made at the different stages of this technology. Once transformation protocols have been developed, transgenic plants could be initially multiplied through the efficient production of somatic embryos. Secondary embryos can be produced in a cyclic fashion, utilizing primary embryos as the starting material, a process called cyclic somatic embryogenesis (Raemakers et al., 1993). The development of embryonic suspension cultures might further accelerate the process and improve transformation protocols.
+Somatic embryogenesis is the only well documented regeneration method for cassava and several cultivars from South America, Africa and Indonesia have been successfully used. Some previously recalcitrant cultivars have also been regenerated after the hormonal composition of the media was adjusted (Sudarmonowati and Henshaw, 1993; Taylor, Clarke and Henshaw, 1992). The fine-tuning of the transformation, selection, embryogenesis and regeneration media is often fortuitous and one component in the wrong concentration might inhibit the success of the whole process.
+Evidence exists that cassava primary embryos are of multicellular origin, while secondary embryos are of unicellular origin (Tello, 1988). Further histological studies are being undertaken to clarify this point which indicates that solid transformants are likely to arise through secondary embryogenesis from transformed sectors of primary embryos. This fact, if correct, would facilitate the clonal propagation of cassava. Further evidence is suggested from homogeneous GUS expression from transformed secondary embryos.
+Recently a significant improvement in the regeneration of somatic embryos, which results in germination of 85 percent of the embryos, has been reported (Mathews et al., 1993). This is based on a technique that uses activated charcoal in the medium and a mild desiccation treatment of the embryos. Culture metabolites and free phytohormones, which might have an inhibitory effect on specific development, are probably absorbed by the charcoal treatment, facilitating morphogenic development. Desiccation of embryos might also trigger morphogenic responses, by mimicking seed desiccation processes, which eventually lead to embryo germination. This technique is being considered as a rapid micropropagation system for cassava because a single leaf could produce hundreds of seedlings. The technique has been demonstrated with one South American cultivar and is currently being repeated with other African and South American cassava cultivars.
+The use of Agrobacterium has been found to inhibit the production of secondary embryos and plant regeneration even when bacteria are not obviously present, such as when following antibiotic treatment with cefotaxime and carbenicillin (Sarria et al., 1993). This might be attributed to various causes, such as hormonal imbalance or the different antibiotics used for the elimination of bacteria or as a selection agent. Some improvements have recently been obtained after compositional changes to the growth media (Rodrigo Sarria, personal communication).
+Potential of breeding for resistance to deterioration
+To enhance the storage potential of cassava would have substantial impact on resolving the deterioration-related constraints associated with cassava marketing and utilization (see Chapter Five). A molecular genetic approach could envisage an increase in the storage potential of cassava roots to a minimum of two weeks' without the use of post-harvest treatments. This could be achieved by genetic manipulation to suppress the processes involved in physiological deterioration (see Chapter One) and to enhance the woundhealing response to prevent the onset of microbial deterioration (see Chapter Two).
+Physical damage is an inevitable consequence of harvesting cassava roots. This initiates the chain of events leading to physiological deterioration, which usually precedes the opportunistic invasion of the root by microorganisms. The phenylpropanoid pathway is indicated as being actively associated with localized (curing) and non-localized (physiological deterioration) wound responses in cassava (see Chapter Two). The products of the phenylpropanoid pathway are ubiquitous in flowering plants and have diverse functions related to pathogen detence (Moerschbacher et al., 1990; Taniguchi et a/., 1984), wound healing (Lagrimini, 1991) and cell wall strengthening (Dixon and Harrison, 1990). Because of their implication in the processes associated with physiological deterioration and wound healing, the genes and enzymes responsible for the synthesis of phenylpropanoids, such as coumarins, lignin, anthocyanins, flavanoids and phenolic components of suberin (see Chapter Two), are
+principal targets for study and manipulation (Hahlbrock and Scheel, 1989).
+The uncontrolled intervention of a key enzyme in the phenylpropanoid pathway, could interfere with the production of vital components of the plant. The introduction into cassava of discrete gene constructs by genetic manipulation offers the unique advantage of adding new traits to elite genotypes without altering other functional properties or desired characteristics. At present there is no conclusive information available on the genes involved in the biochemical pathways associated with physiological deterioration in cassava.
+There are well characterized wound-response model systems for other species that have been shown to be fairly universal among flowering plants. A number of the genes that encode key steps of the pathways associated with wound-induced responses have already been cloned and sequenced from several plant families (Hahlbrock and Scheel, 1989). Regulatory mechanisms of genes involved in the phenylpropanoid pathway seem to be conserved among different species (Fritze et al., 1991; Staiger, Kaulen and Schell, 1989).
+Plant wound responses are triggered by signals (see Chapter Two) that initiate different types of reactions (Trewavas and Gilroy, 1991) and responses at this level can be observed within minutes of the external stimulus without the need for de novo synthesis (Dietrich, Mayer and Hahlbrock, 1990). Identification of wound-response elicitors activated in cassava and the genes induced by these substances will need to be characterized in order to understand the processes involved in physiological deterioration. Subsequent identification and isolation of the genes involved in these processes will be necessary to enable potential genetic modification of the wound responses.
+To differentiate between desirable (localized) and undesirable (nonlocalized) post-harvest wound responses, phenylpropanoid pathway genes can be isolated from cassava using heterologous probes derived from other plants, such as petunia or tobacco. Genes being expressed de novo during the wound response can be isolated by subtracting complementary DNA (cDNA) libraries derived from wounded tissue with DNA from non-wounded tissue (Logemann et al., 1988). The cDNA libraries represent all the genes actually being expressed in the tissue from where the messenger RNA was isolated. It is possible to produce genetic libraries that represent the momentary status of expression in wounded/non-wounded tissues or localized/non-localized wound responses.
+Gene expression patterns can also be analysed by immuno-histochemistry or in situ hybridization with antisense RNA (complementary to the gene sequence). Visualization of specific proteins or transcripts at the subcellular level can be performed on tissue sections by hybridization with radioactive or fluorochrome labelled antibodies or RNAs. The spatial distribution of the ß-glucosidase transcript, which codes for an enzyme involved in cyanogenesis in cassava, has successfully been characterized using riboprobes (Pancoro and Hughes, 1992). This technique can be used to study the expression of selected genes during wound responses in cassava roots.
+Additional information on the identification of genes expressed during the development of physiological deterioration can also be obtained by analysing the chemical changes following wounding. Compounds specific to the deterioration process can be distinguished and characterized. This could lead to the identification of the genes involved in their metabolism, allowing for the synthesis of DNA probes to isolate the corresponding genes from genomic or cDNA libraries.
+The understanding of the molecular mechanisms associated with cassava wound responses will help in designing a transgenic approach to increasing the storage potential of cassava. The desired result could be obtained if the appropriate tissue-specific and temporally regulated promoters were provided. Some of the promoter genes with relevance to physiological deterioration may have to be: root specific; starchy root specific; wound specific; or spatially restricted in the xylem vessels, periderm, root tip or parenchyma. There are several tissue-specific genes that have been isolated, such as root-specific genes from tobacco (Conkling et al., 1990), tuber-specific genes from potato (Rosahl et al., 1986), genes specific to the shoot apical meristem (Medford, Elmer and Klee, 1991) and stamen-specific genes (Smith et al., 1990).
+Successful transgenic plants have been obtained with genetic modifications to the phenylpropanoid pathway. The chalcone synthase promoter from petunia has been introduced into tobacco, where it maintained its ultraviolet-light inducibility (Kaulen, Schell and Kreuzaler, 1986). The phenylpropanoid pathway of petunia has been manipulated by the introduction of the maize dihydroflavonol-4-reductase gene, producing orange-flowered transgenic plants (Meyer et al., 1987). Ripening of climacteric fruits, such as tomato, has been blocked by suppressing the synthesis of amino-cyclopoppane carboxylate synthase, thereby inhibiting the production of ethylene, the phytochrome responsible for the ripening process (Oeller et al., 1991).
+Enzymatic pathways have already been successfully manipulated in different plant species in different ways through the introduction of foreign or homologous genes. The molecular genetic approach to controlling physiological deterioration of harvested cassava roots therefore seems reasonably promising. An integrated approach directed at solving the deterioration problem of cassava will also deliver useful tools, such as gene constructs containing tissue-specific and temporally regulated promoters, for the rest of the research community. To achieve this goal, two main constraints will have to be solved, genetic transformation of cassava and the identification of key target genes for manipulation of the physiological deterioration process.
+<section>8</section>
+Chapter 5 Socio-economic importance of rapid post-harvest deterioration of cassava: quantitative and qualitative losses
+Physical post-harvest loss
+Qualitative post-harvest loss
+Implications for production
+Implications for marketing
+Implications for processing
+Implications for consumption
+Conclusions and future prospects
+The rapid post-harvest deterioration of cassava restricts the storage potential of the fresh root to a few days. In addition to direct physical loss of the crop, postharvest deterioration causes a reduction in root quality, which leads to price discounts and contributes to economic losses. This chapter examines the socioeconomic implications of post-harvest deterioration on production' marketing, processing and consumption of cassava. The numerous strategies developed by farmers, traders, processors and consumers to deal with the limited storage potential of cassava are reviewed.
+Physical post-harvest loss
+Although rapid deterioration of freshly harvested cassava is considered an important factor in poet-harvest studies, little reliable information is available on loss figures. In some documents these figures seem to be only gross estimates based on anecdotal evidence and frequently the terms waste and loss are used without clear distinction. The term loss will be used throughout this chapter since waste can be considered a voluntary disposal of unwanted material such as peel.
+Widely differing levels of post-harvest losses have been obtained in studies on cassava production and use in Asia conducted by CIAT in collaboration with national programmes (CIAT, 1987). The loss figures given were generally established on a macrolevel and do not indicate the cause of loss. The lossfigure estimates were in the range of 10 to 12 percent in India (Kerala and Tamil Nadu States), 5.3 percent for the whole of Indonesia, 6.2 percent for Java and 3 percent elsewhere. In Indonesia, however, component losses were assessed as 8 percent for marketed cassava and 15 percent for gaplek (large pieces of dried cassava).
+Loss estimates for China based on FAO figures, which have been used for every year from 1961 to 1983, are 3 percent. The only figures available for Thailand (the world's leading exporter of cassava products) are for the exports of cassava products for animal feed; for Malaysia no loss figures are available. In the Philippines loss and animal feed figures are reported together.
+A survey of consumer purchasing habits of fresh cassava and other starchy staples, undertaken in the Atlantic coast region of Colombia (CIAT, 1983), provided the following loss estimate figures: metropolitan urban areas 15 percent, intermediate urban areas 5 percent and rural areas 5 percent. Another simultaneous survey of market agents in the same area showed that deterioration accounted for 14 percent of the costs of the total marketing margin. A study on cassava commercialization in Paraguay in 1987 showed that during marketing about 15 percent of the roots were affected by deterioration, but only about 0.5 percent were completely lost (Cassava Newsletter, 1991).
+FAO data for 1985 estimate that post-harvest loss for all root crops in Ghana are of the order of 15 to 30 percent and that post-harvest loss of cassava in the Côte d'Ivoire is 27 percent. However, a recent- survey in Ghana indicated low levels of physical post-harvest loss of cassava and estimated losses unlikely to exceed 5 percent (Rickard, Wheatley and Gilling, 1992).
+The above figures focus on physical post-harvest losses which represent a direct financial loss to the producer, trader, processor or consumer. National loss figures usually do not indicate at which stage of the marketing chain the losses occurred. In addition, available data often do not differentiate between post-harvest deterioration of fresh roots and loss of processed products. The exact value of the loss is therefore difficult to calculate.
+TABLE 8 Estimates of discounts for old cassava
+Location Prices (cedes)^1 Discount %
+Accra, 2 500 (fresh) 40
+Railway Market 1 500 (three days old) 
+Accra, 2 800 (fresh) 79
+Railway Market 600 (deteriorated) 
+Kumasi 3 000-3 500 (one to two days old) 25-30
+2 800-3 000 (more than three days old) 30-40
+Sofo-li Market 4 000-5 000 (up to 24 hours old) 
+Sofo-li Market constant (up to three days old) 
+Kumasi discount (more than 3 days old) 
+Source: Rickard Wheatley and Gilling. 1992.
+Note: ^1 Prices are per hag of cassava However, prices of old and fresh produce should only be compared for one market since the size of hags can vary considerably (from 50 to 1(8) kg) depending on the location of the market.
+Qualitative post-harvest loss
+According to studies carried out in West Africa, post-harvest deterioration of cassava causes a reduction in root quality which can result in roots being sold at a discount price. Two cases of discount have been distinguished. A lower price is commanded by old cassava in comparison to fresh roots and a price difference exists between fresh roots and cassava sold in a processed form at a lower price (e.g. fermented or dried).
+It is often difficult to distinguish between the two kinds of qualitative loss since old roots can be sold both for direct consumption and for processing. The discount depends on factors such as post-harvest age, seasonality, cassava variety, supply and demand of fresh and processed cassava and storage facilities.
+In the case of Ghana, it has been suggested that the financial post-harvest loss due to quality price reductions is greater than that caused by physical loss. However, it is difficult to estimate the amount of cassava that is sold at a lower price (Rickard, Wheatley and Gilling, 1992). Discounts commanded by old cassava roots can vary in Ghanaian markets according to location of the market and position of the intermediary within the marketing chain (Table 8).
+In Ghana cassava which has visible signs of deterioration is not used for fufu production but is hand-peeled, chipped and sun-dried to produce kokonté. Although this is a time-consuming and arduous process the price of kokonté is low compared to fresh cassava. Over the period 1989 to 1991, the discount per kilogram applicable for cassava sold for kokonté has ranged from a negative 7 cedis in Accra rural markets in July 1991, to almost 80 cedis in Accra urban and Ashanti rural markets in September 1990. In 1991 the average retail price for fresh cassava in Ghana was about 80 cedis per kilogram me .
+Implications for production
+Over two-thirds of Ghanaian farmers interviewed during a recent survey said that post-harvest loss is a major risk factor in the production of cassava (NRI, 1992; COSCA Phase 1). Thus, although there are many positive factors that make cassava a well-adapted crop for small-scale agriculture in developing countries, rapid post-harvest deterioration of the fresh roots is a disadvantage that the farmers have to take into account. However, the rapid post-harvest perishability of cassava might be a major factor leading to comparative advantages for small-scale production linked to small-scale processing units.
+Traditional approaches to rapid post-harvest deterioration have been developed by producers. A common way of avoiding loss is to leave the roots in the soil past the period of optimal root development, until they can be immediately consumed, processed or marketed. The disadvantages of this practice are that land is occupied and thus unavailable for further agricultural production (opportunity cost of land), roots lose some of their starch content, palatability declines as roots become more fibrous (Rickard and Coursey, 1981) and cooking times increase (Wheatley and Gomez, 1985). In Africa, there also exist a number of traditional systems involving cassava storage in pits or clamps. The use of these rudimentary techniques is not widespread as they are considered rather labour intensive and are not always entirely effective. Storage of cassava roots under moist conditions, as encountered in soil reburial methods, can promote the healing of wounds (see Chapter Two) in roots
+damaged at harvest.
+Implications for marketing
+Harvested cassava roots that are not kept under conditions favourable for wound healing/curing (25 to 35°C, 85 to 95 percent RH) usually become unacceptable for human consumption within two to three days of harvest. This fact conditions the marketing of this root crop.
+Fresh cassava roots are traditionally marketed without post-harvest treatment or protection and therefore have to reach the consumer within a very short time before deterioration becomes visible (Janssen and Wheatley, 1985). A close integration of producer, intermediary, wholesaler, retailer and consumer becomes necessary to guarantee the rapid transfer of the produce from producer to consumer. This highly integrated marketing channel serves to prevent traders from being left with unsold, perishable produce. The result is a reverse marketing integration assuring the flow of information between consumers and producers. Often, traders arrange purchase and sale of their produce in advance to minimize their risk. Cassava is also frequently purchased in the ground and traders supply their own labour to harvest the crop when required.
+In addition, the quantities handled by cassava traders are usually low. Thus, retailers buy and sell limited volumes in order to assure a rapid turnover of the produce. Janssen and Wheatley ( 1985) observed that cassava retailers in the Atlantic coast region of Colombia trade only about 50 kg of roots per day. However, deterioration still presents a serious problem to Colombian traders; 31 percent of rural assembly agents, 70 percent of wholesalers/distributors and 66 percent of retailers reported to have frequent problems with deterioration of roots (CIAT, 1988). The negative effects of the rapid deterioration of fresh roots lead to high marketing margins.
+Cassava has a marketing margin of approximately US$0.30 per kilogram which corresponds to 60 percent or more of the crop's final retail price (Janssen and Wheatley, 1985).
+In Ghana cassava marketing chains have evolved to cope with the perishability of the root. Rapid marketing is assured through a wide range of operators including producers, itinerant traders, transporters, intermediaries, market traders and market chiefs. Sometimes it is not possible to distinguish between the different operators because some of them fulfil several functions within the marketing chain (Rickard, Wheatley and Gilling, 1992). Operators such as farmers, traders and consumers are often connected through complex systems of information flow, credit, transport, etc. Assemblers will sometimes buy standing crops in order to increase flexibility in timing fresh root deliveries to urban markets. It was noted in Ghana that woven polypropylene sacks were often used when transporting cassava over long distances, whereas jute sacks were commonly used for short distance transportation. It was also reported that cassava roots tended to have a longer storage potential when
+transported in polypropylene sacks.
+Infrastructure and distance to the final markets play a critical role in the distribution and marketing of cassava. Poor roads, inappropriate means of transport and a badly organized distribution system are factors leading to elevated marketing costs, which in turn result in high consumer prices. This particularly discourages consumption of cassava in urban areas where the roots have to compete with other foodstuffs. Fresh cassava can only be marketed over significant distances if there is a well-developed road system ensuring that the period of transportation can be kept to a minimum and the roots delivered when they are still fresh. Kinshasa, which is the major centre of consumption of the Zairian economy, is mainly supplied with fresh cassava roots from the BasZaire region with which it has become well connected in recent years through various road building projects.
+The degree of market integration needs to be higher for the supply of large urban centres and requires well organized transport over a long distance. In order to improve the existing cassava marketing system in Colombia, CIAT and NRI have developed a simple method to extend storability of fresh cassava. The technology is based on the storage of fungicide treated fresh roots in polyethelene bags (see Introduction).
+The processing of the highly perishable and bulky cassava roots into a storable and stable commodity, such as gaplek in Indonesia, facilitates more efficient marketing. This is reflected through cassava prices which are linked spatially across the country and vertically through the different forms of use.
+Implications for processing
+Avoidance of rapid post-harvest deterioration and reduction of cyanide levels are traditionally the main reasons for processing cassava into different food products. As almost every cassava-growing region in the world has developed its own traditional products there are a large number of foodstuffs based on cassava. Results of the COSCA Phase I survey in Africa show that sweet cassava varieties and non-bitter varieties are more commonly grown and used for processing (NRI, 1992).
+Traditional technologies are well adapted to processing cassava into a number of final products characterized by extended shelf-life (Miche, 1984). Traditional processing methods are often very time-consuming and laborious; this is especially the case in Africa where the roots are processed into local products such as gari.
+Cassava starch is produced for both human consumption and industrial use. In Latin America the cassava starch industry is reported to experience several limitations, including low availability of fresh roots, lack of capital, difficult access to credit, poor management and poor starch extraction efficiency (Chuzel, 1991).
+The sedimentation of starch from deteriorating cassava is considered by processors in Latin America to be less efficient than from fresh roots. These observations have not been substantiated by reported technical studies but recent results from CIAT (F. Alverez, private communication) have shown that starch extraction rates were significantly affected by post-harvest deterioration. The possible influence of deterioration on starch production is of importance considering the significant role of starch in the cassava economy of a country such as Indonesia. In 1978 about one-third of all the cassava utilized in Indonesia went into starch production (CIAT, 1987).
+In Thailand the cassava industry experienced a pattern of growth in marked contrast to that of other agricultural commodities, especially the grains. To avoid losses from root deterioration, cassava has to be processed very close to the production areas and processors have to ensure a daily supply of raw material. In the case of cassava the expansion in root production and processing has been based on linking small-scale producers to relatively small-scale processing capacity. Decentralized, small-scale processing was an important strategy to resolve the problem of minimizing transport costs and to avoid postharvest deterioration of a bulky, low value raw material (CIAT, 1987). Fresh roots are generally processed on the day they arrive at the factory and it is rare to find industries that have storage facilities (Thanh, 1974).
+Cassava processing industries that use dried raw material, such as gaplek for chip or pellet production, do not depend on rapid processing of the roots since the dried raw material can be stored for several months. Seasonal supply shortages of cassava can be avoided by drying peeled pieces of roots immediately after harvest and storing them on-farm or at the site of the processing industry until required (Falcon et al., 1984).
+In Indonesia, although cassava production does not require large labour inputs, it does generate significant employment in processing and distribution. Similar observations have been made in Viet Nam, where income was higher in villages with small-scale cassava and other root crops industries compared to villages without these industries (Bottema and Henry, 1991).
+Implications for consumption
+Cassava is one of the major subsistence crops produced in developing countries. In rural areas of many cassava growing countries the roots are mostly consumed fresh. As cassava harvesting can be staggered, rapid postharvest deterioration does not severely influence on-farm or village consumption.
+In urban areas, unless motivated by economic considerations, consumers will not generally purchase old cassava roots (three to four days after harvest) as they are assumed to have deteriorated. To demonstrate the freshness of the produce retailers often take extreme measures. In Colombia, root freshness is demonstrated by cutting the roots to show undeteriorated internal tissue (Figure 19). In markets in Ghana it has been observed that market sellers deliberately wound certain parts of the roots to cause latex exudation which is produced only by fresh cassava. Both these activities severely reduce the storage potential of the damaged roots but allow retailers to demonstrate that their produce is fresh.
+Cassava roots that exhibit visible symptoms of physiological deterioration are considered to have poor eating and processing quality. Although no survey work has been undertaken on this topic, the following observations have been made regarding cassava that has developed physiological deterioration (Rickard, Wheatley and Gilling, 1992; C.C. Wheatley, private communications):
+o it takes longer to cook, has an unpleasant bitter flavour and an unattractive off colour;
+o fulu processed in Ghana from deteriorating roots has a lower and less desirable elasticity than fufu prepared from fresh roots;
+o cooked roots are difficult to pound;
+o gari processed from deteriorating roots has lower and less desirable swelling properties than gari produced from fresh roots.
+Market access is a crucial factor influencing cassava consumption in cities (CIAT, 1988). The extreme perishability of cassava severely limits consumers' ability to store fresh roots at home. This necessitates urban consumers making frequent journeys to local markets and outlets, which can be financially prohibitive. Ownership of refrigerators and freezers, which can be used to store fresh roots, has been found to lead to increased cassava consumption. However, families where the principal shopper is employed tend to consume smaller quantities of cassava (CIAT, 1988). The urban consumer regards purchase of cassava as involving considerable effort and risk. Cereals in the form of wheat flour, rice and maize are more convenient, storable foodstuffs compared to fresh cassava roots. Thus, while cassava is well adapted for rural consumption, other major foodstuffs are preferred in urban areas.
+The combination of high marketing costs for cassava and market interventions, such as subsidized cereal prices (Lynam, 1991; Dendy and Trotter, 1988), often leads to high relative cassava prices. This can negatively affect urban demand because of the significant cross-price elasticities between cassava and major grains.
+Urbanization leads not only to reduced demand for perishable foods, such as fresh cassava, but also to an increase in the consumption of processed foods. In many cassava producing countries the roots are traditionally processed into a broad range of storable products. However, traditionally dried products such as kokonté or gaplek are often considered as inferior foods that are only consumed by the poor. Therefore these inexpensive and easy-to-store products are characterized by negative income elasticities for higher income brackets.
+Krupuk, a cracker based on cassava starch and widely consumed in Indonesia, has income elasticities of 1.56 for rural consumers and 1.35 for urban consumers (Falcon et al., 1984). This indicates potential markets for certain processed cassava products that have a positive image among consumer groups. Newly developed "modern" cassava products are apparently more acceptable to urban consumers. Food industry trials in Colombia have shown that wheat flour can be successfully substituted by cassava flour in the production of biscuits, cookies, cakes, pastas, soups and processed meat (Wheatley and Best, 1991).
+Demand for fresh cassava in urban areas depends on factors such as relative price of the product, storability, convenience and market access.
+TABLE 9 Strategies to prevent rapid post-harvest deterioration of cassava roots.
+Channel members Strategies against post-harvest deterioration of cassava
+Farmers o Delay harvest;
+o Traditional storage;
+o Processing of roots into storable products;
+o Processing of old unsold roots.
+Traders o Low quantities traded;
+o High margins to compensate for risk;
+o Buy standing crops;
+o Highly integrated markets;
+o Storage techniques (including traditional techniques and transferred technology);
+o Processing of old unsold roots.
+Processors o Production and processing are in close proximity;
+o Small-scale processing in rural areas;
+o Processing into broad range of products (deed, fermented flours, starch, etc. for human consumption, industrial use and animal feed)
+o Production for new export markets (e.g. Thailand).
+Consumers o Substitute fresh cassava with processed foods and cereals unless cheap fresh roots are readily available;
+o Improved storage techniques, such as refrigeration.
+However, it seems that increased urban consumption can only be achieved through an improved product differentiation and market segmentation which include processed foods targeted at all urban consumer groups.
+Conclusions and future prospects
+Producers, traders, processors and consumers have all developed strategies, as outlined in Table 9, to prevent post-harvest losses of cassava. However, quantitative and qualitative loss estimates can often still be high. The production advantages of cassava (see Introduction), together with its being one of the principal crops grown by small farmers in marginal areas justify its development as an urban food. New technologies to improve the marketing and facilitate the processing of fresh cassava will help to stabilize and increase the level of urban consumption and the income generation potential of small-scale farmers, particularly in marginal areas. However, the successful competition of cassava in the future with other carbohydrate sources will also depend on certain other conditions, such as the reduction of market distortions that favour imports or other locally produced staple crops. Future efforts to overcome rapid post-harvest deterioration of cassava should take
+into account the needs and constraints of the farmers, traders and processors and also the preferences of the consumer.
+<section>9</section>
+Chapter 6 General conclusions
+Cassava is one of the most reliable crops that can be grown under adverse growth conditions that are often unsuitable for other crop production. The production advantages of cassava are, however, partly offset by the rapid deterioration of the roots, which can begin as quickly as 24 hours after harvest. Most varieties of cassava deteriorate within three to four days of harvest. This rapid deterioration is due to physiological processes which are initiated at sites of mechanical damage. Physiological deterioration of cassava roots can lead to substantial quantitative and qualitative post-harvest losses causing high production and market risks. The short shelf-lite of cassava has played a major role in the evolution of cultural and post-harvest management practices.
+In many regions cassava is moving rapidly from being a subsistence crop to becoming an income-generating crop. Marketing problems are becoming exacerbated as increasing urbanization is placing both distance and time between producers and consumers. Processing of cassava is important for extending the versatility and economic viability of the crop. A continuous supply of roots is needed for efficient processing operations, especially in regions where the trend is towards larger cooperative or commercial units. Physiological deterioration places serious constraints on the crop's suitability for modern production, processing and marketing practices and consequently has an impact on all levels of income generation.
+In recognition of the important role of cassava in developing countries and the increasing need to improve its storage potential to deal with changing market needs, FAO held a workshop on post-harvest deterioration of cassava in Rome during December 1991. The meeting was under the general auspices of FAO and was cosponsored by the Rockefeller Foundation. The principal objectives of this meeting were to provide a forum for scientists to review the biochemistry and physiology associated with post-harvest deterioration of cassava and to explore the possibilities of developing cassava varieties with superior storage potential.
+Existing post-harvest management practices were discussed and their application to the changing market needs of cassava examined. Storage techniques that have been developed, such as packing in moist media, freezing, waxing and canning were reviewed. In general, these methods were considered to be either technically or economically unsuitable for most marketing needs. However, it was recognized that CIAT and NRI have developed a simple technique based on plastic-bag storage of fungicide-treated roots which increases storage time to about two weeks. This approach was considered feasible and worth pursuing in countries where sufficient infrastructure, such as market channels, farmers' cooperatives and extension services, exist. However, in many developing areas, including Africa, the plastic-bag storage approach developed in Latin America may not be either commercially viable or desired by the consumer.
+The team of scientists present at the workshop considered that solving the problem of physiological deterioration of cassava would provide very significant benefits to farmers, traders and processors, irrespective of their scale of operation, as well as providing consumers with a better quality product and enhanced food security.
+After reviewing both the current state of knowledge and the potential technology that could be applied, it was agreed that developing an alternative method for extending cassava storage should be pursued. It was emphasized that any new methods proposed should be environmentally acceptable and appropriate to a wide variety of cultivars and production systems. Storage needs were discussed in view of the existing and potential role of cassava. Increasing the storage life of cassava roots to a minimum of two weeks could have a substantial impact on cassava utilization and potentially resolve an estimated 90 percent of the deterioration constraints associated with current cassava marketing and utilization practices.
+Despite the fact that the mechanisms involved in physiological deterioration of cassava have yet to be elucidated, the group considered that this problem could be resolved. The fact that cassava can be left intact in the soil for over a year was viewed as demonstrating the long-term storage potential of the crop.
+Information available to date has demonstrated that a fairly limited range of genetic variability exists in cassava for physiological deterioration.
+Results indicated that only a very small proportion of the clones evaluated did not deteriorate one week after harvest and demonstrated a high degree of variability caused by environmental factors. Wild species evaluated showed responses similar to that of cultivated cassava. However, the evaluation method used was considered insufficiently precise to critically assess the genetic variability for physiological deterioration in cassava. For quantifying this trait, the group considered that there was a need to further define and develop a screening assay method. This method once developed could then be used to evaluate the important core germplasm collections available in Latin America and Africa to determine more fully genetic variability and stability of this trait.
+It was thought possible that conventional breeding could achieve two weeks storability, using recurrent selection methods. However, the highly heterozygous nature of cassava was considered to be a major problem in the use of conventional breeding techniques for resolving this problem. For widespread impact through conventional breeding. it was recognized that major efforts would be required for incorporating the trait into different cultivars without altering the desired characteristics of the parent genotypes. Since each of these will also have to be bred for many other traits, the effort required was not considered tenable.
+Genetic manipulation using molecular techniques was considered the most applicable method for resolving this problem. There is at present no information available on the genes involved in the biochemical pathways that are associated with physiological deterioration in cassava. However, because of their implication in the process of post-harvest deterioration, the genes and gene products associated with the synthesis and degradation of phenylpropanoids were considered principal targets for study and manipulation. A substantial literature exists to serve as a basis for this approach.
+Many of the genes of the phenylpropanoid pathway associated with woundinduced responses have been isolated and characterized from various other plants. These genes could be used to isolate the corresponding genes from cassava. Detailed genetic studies could then provide an insight into the deterioration process and would therefore be integral to developing strategies for genetic manipulation approaches. Genetic engineering has beneficially achieved repression or overexpression of these genes in a number of agriculturally important crops.
+A molecular genetic approach could in theory increase the storage potential of cassava roots to a minimum of two weeks, without the use of post-harvest treatments. This could be achieved by suppressing the development of physiological deterioration and enhancing the wound-healing responses to prevent the onset of microbial deterioration.
+The introduction into cassava of discrete gene constructs by genetic manipulation offers the unique advantage of adding new traits to elite genotypes without altering other desired characteristics.
+The development of a reliable variety-independent methodology for transformation of cassava is particularly important because it is a highly heterozygous tetraploid and regeneration of parental types by back-crossing approaches is not feasible. To develop an effective programme on cassava it was considered essential to develop a reliable genotype-independent transformation method for cassava and obtain additional data on the underlying biochemical mechanism of physiological deterioration to enable identification of target genes.
+In view of the number of related achievements with other crops, the molecular genetic approach to controlling physiological deterioration of cassava was considered the most promising research strategy. It was recommended that FAO should collaborate with appropriate institutes to facilitate a comprehensive initiative in this research area.
+The post-harvest behaviour of cassava has played a major role in the evolution of cultural and post-harvest management practices. As with any innovative intervention the socio-economic impact of extending the storage potential of cassava should be carefully evaluated to reflect the different requirements of potential beneficiaries. It is clear that innovations that affect deterioration characteristics will both cause and require major adjustments in existing practices and social structures. An evaluation and appreciation of these impacts is essential for interactively shaping any research proposed.
+<section>a</section>
+Bibliography
+Affran, D.K. 1968. Cassava and its economic importance. Ghana Farmer, 12(4): 172-178.
+Angel, F., Giraldo, F., Gomez, R., Iglesias, C., Thome, J., & Roca, W. 1993. Use of RFLPs and RAPDs in cassava genomic studies. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia, August 1992. Working Document 123. Cali, Colombia, CIAT.
+Arias-Garzon, D.I. & Sayre, R.T. 1993. Differential inhibition of transient gene expression in cassava root and leaf tissues. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia, August 1992. Working Document 123. Cali, Colombia, CIAT.
+Bai, K B.V. 1987. Recent advances in cassava genetics and cytogenetics. In: C. Hershey, ed. Cassava breeding: a multidisciplinary review pp. I -24. Cali, Colombia, CIAT.
+Balagopalan, C., Padmaja, G., Panda, S.K. & Moorthy, S.N. 1988. Cassava in food, feed and industry Boca Raton, Fl., USA, CRC Press Incorporated.
+Becker-Andre, M., Schulze-Lefert, P. & Hahlbrock, K. l 991. Structural comparison, modes of expression and putative cis-acting elements of the two 4-coumarate: coenzyme A ligase genes in potato. J. Biol. Chem., 266: 8551 -8559.
+Beeching, J., Dodge, A., Moore, K. & Rickard, J.E. 1994. Physiological deterioration in cassava: possibility for its control. Trop. Sci. (in press)
+Benfey, P.N. & Chua, N.H. 1990. The cauliflower mosaic virus 35S promoter: combinatorial regulation of transcription in plants. Sci., 250: 959-966.
+Benfey, P.N., Ren, L. & Chua, N.H. 1990a. Tissue-specific expression from CaMV 35S enhancer subdomains in early stages of plant development. European Molecular Biology Organization Journal, 9: 1677- 1684.
+Benfey, P.N., Ren, L. & Chua, N.H. 1990b. Combinatorial and synergistic properties of CaMV 35S enhancer subdomains. European Molecular Biology Organization Journal, 9: 1685- 1696.
+Bertram, R.B. 1993. Application of molecular techniques to genetic resources of cassava (Manihot esculenta Crantz-Euphorbiaceae): interspecific evolutionary relationships and intraspecific characterization. University of Maryland, USA. (Ph.D thesis)
+Bidney, D., Seelonge, C., Martich, J., Burrus, M., Sims, L. & Huffman, G. 1992. Microprojectile bombardment of plant tissues increases transformation frequency by Agrobacterium tumefaciens. Plant Molecular Biology, 18: 301-313.
+Booth, R.H. 1976. Storage of fresh cassava (Manihot esculenta) 1: post-harvest deterioration and its control. Exper. Agric., 12: 103- 111.
+Booth, R.H. 1978. A review of root rot diseases in cassava. In: T. Brekelbaum, A. Bellotii & J.C. Lozano, eds. Proceedings of the Cassava Protection Workshop, Cali, Colombia, November 1977. Cali, Colombia, CIAT.
+Bottema, J.W.T. & Henry, G. 1990. History, current status and potential of cassava use in Asia. In: R. Howeler, ed. Cassava breeding, agronomy and utilization research in Asia, pp. 3-26. Bangkok, Thailand, CIAT.
+Bottema, J.W.T. & Henry, G. 1991. Current potential of cassava products in Asia. Palawija News (Bogor, Indonesia), pp. 1-8.
+Bowler, J., Van Montagu, M. & Inze, D. 1992. Superoxide dismutase and stress tolerance: annual review plant physiology. Plant Molecular Biology, 43: 83- 116.
+Bowler, C., Slooten, L., Vanderbrandens, S., De Rycke, R., Botterman, J., Sybesma C., Van Montagu M. & Inze, D. 1991. Manganese superoxide dismutase can reduce cellular damage mediated by oxygen radicals in transgenic plants. European Molecular Biology Organization Journal, 10: 1723- 1732.
+Bowles, D.J. 1990. Defence-related proteins in higher plants. Ann. R. Biochem., 59: 873907.
+Brown, A.H.D. 1989. The case for core collections. In: A.H.D. Brown, O.H. Frankel, R.D. Marsheall and J.T. William, eds. The use of plant genetic resources, pp. 136156. Cambridge, UK, Cambridge University Press.
+Burton, C.L. 1970. Diseases of tropical vegetables in the Chicago market. Trop. Agric. (Trinidad), 47: 303-313.
+Cabral, G.B., Aragao, FJ.L., Matsumoto, K., Monte-Neshich, D.C. & Rech, E.L. 1993. Cassava tissue culture: multiple shoots and somatic embryogenesis. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia, August 1992.
+Working Document 123. Cali, Colombia, CIAT.
+Cassava Newsletter (1991). Cassava commercialization in Paraguay. Cassava Newsletter, 15(1): 6-9.
+Cataño, M.L., Mornan, K., Plazas,J. & Roca, W. 1993. Isolation and in vitro culture of immature cassava pollen. Cali, Colombia, CIAT. (in review)
+Christou, P., McCabe, D.E., Martinell, B.J. & Swain, W.F. 1990. Soybean genetic engineering: commercial production of transgenic plants. Trends in Biotechnology, 8: 145-151.
+Chuzel, G. 1991. Cassava starch: current and potential use in Latin America. Cassava Newsletter, 15(1): 9-1 1.
+CIAT. 1983. Cassava Programme, annual reports 1982/83. Cali, Colombia, CIAT.
+CIAT. 1987. Global cassava research and development. The cassava economy of Asia: adapting to economic change. Documentation of cassava demand studies conducted in Asia in collaboration with national programmes. Draft version prepared for the Technical Advisory Committee for the Nairobi meeting, June 1987. Cali, Colombia, CIAT.
+CIAT. 1988. Cassava Programme, annual report 1985. Working Document 38. Cali, Colombia, CIAT.
+CIAT. 1991. Cassava Programme, annual report 1990. Working Document 95. Cali, Colombia, CIAT.
+CIAT. 1992. Cassava Programme 1987-1991. Working Document 116. Cali, Colombia, CIAT.
+CIAT. 1993. Cassava Programme, annual report 1992. Cali, Colombia, CIAT. (in press)
+Cock, J.H. 1985. Cassava: new potential for a neglected crop. London, Westview Press.
+Conkling, M.A., Cheng, C.l., Yamamoto, Y.T. & Goodman, H.M. 1990. Isolation of transcriptionally regulated root-specific genes from tobacco. Plant Physiol., 93: 12031211.
+Coursey, D.G. & Booth, R.H. 1977. Post-harvest problems of non-grain staples. Acta Horticulturae, 53: 23-33.
+Dendy, D.A.V. & Trotter, B.W. 1988. Wheatless and composite breads: technologies awaiting adoption. Entwicklung und Laendlicher Raum (Frankfurt am Main), 88(6): 1318.
+Dietrich, A., Mayer, J.E. & Hahlbrock, K. 1990. Fungal elicitor triggers rapid, transient and specific protein phosphorylation in parsley cell suspension cultures. J. Biol. Chem., 265: 6360-6368.
+Dixon, R.A. & Harrison, M.J. I 990. Activation, structure and organization of genes involved in microbial defence in plants. Advan. Genet., 28: 165-234.
+Doku, E.V. 1969. Cassava in Ghana. Ghana Universities Press.
+Ecker, J.R. & Davis, R.W. 1987. Plant defence genes are regulated by ethylene. Proc. Nat. Acad. Sci. USA, 84: 5202-5206.
+Ekundayo, J.A. & Daniel, T.M. 1973. Cassava rot and its control. Transactions of the British Mycological Society, 61: 27-32.
+Falcon, W.O., Jones, W.O., Pearson, S.R. et al. 1984. The cassava economy of Java. Stanford, Cal, USA, Stanford University Press.
+FAO. 1980-1990. Production Yearbooks. Rome, FAO.
+Farmer, E.E., Johnson, R.R. & Ryan, C.A. 1992. Regulation of expression of proteinase inhibitor genes by methyl jasmonate and jasmonic acid. Plant Physiol., 98: 995- 1002.
+Fauquet, C., Schopke, C., Chavarriaga, P., Sangare, A. & Beachy, R.N. 1993. Genetic engineering technologies to control viruses and their application to cassava viruses. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network Cartagena, Colombia, August 1992. Working Document 123. Cali, Colombia, CIAT.
+Finer,JJ. & McMullen, M.D. 1990. Transformation of cotton (Gossypium hirsutum L) via particle bombardment. Plant Cell Reports, 8: 586-589.
+Franche, C., Bogusz, D., Schopke, C., Fauquet, C. & Beachy, R.N. 1991. Transient gene expression in cassava using high-velocity microprojectiles. Plant Molecular Biology, 17:493-498.
+Fritze, K., Staiger, D., Czaja, I., Walden, R., Schell, J. & Wing, D. 1991. Developmental and UV light regulation of the snapdragon chalcone synthase promoter. Plant Cell Reports, 3: 893-905.
+Fritzemeier, K.H., Cretin, C., Kombrink, E., Rohwer, F., Taylor, J., Scheel, D. & Hahlbrock, K. 1987. Transient induction of phenylalanine ammonia-lyase and 4coumarate:CoA ligase mRNAs in potato leaves infected with virulent or avirulent races of Phytophthora infestans. Plant Physiol., 85: 34-41.
+Gordon-Kamm, WJ., Spencer, T.M., O'Brien, J.V., Start, W.G., Daines, R.J.,
+Adams, T.R., Mangano, M.L., Chambers, S.A., Zachwieja, SJ., Willetts, N.G., Adams, J.R.W.R., Mackey, C.J., Krueger, R.W., Kausch, A.P. & Leamux, P.G. 1991 Transformation of maize using microprojectile bombardment an update and perspective In Vitro Cellular and Developmental Biology, 27P 21 -27
+Graner, E.A. 1941 Polyploid cassava induced by colchicine treatment J. Hered., 32: 281288.
+Gulick, P., Hershey, C. & Esquinas-Alcazar, J. 1983. Genetic resources of cassava and wild relatives. Rome, International Board for Plant Genetic Resources.
+Hahlbrock, K. & Scheel, D. 1989 Physiology and molecular biology of phenylpropanoid metabolism Annual Review of Plant Physiology and Plant Molecular Biology, 40: 347-369
+Hahn, S.K., Bai, K.V. & Asiedu, R. 1990. Tetraploids, triploids and 2n pollen from diploid interspecific crosses with cassava Theor. A. Gen., 79: 433-439.
+Hahn, S.K., Terry, E.R. & Leuschner, K. 1980. Breeding cassava for resistance to cassava mosaic disease Euphytica, 29: 673-683
+Hahn, S.K., Terry, E.R., Leuschner, K.,Akobundo, I.O., Okoli, C. & Lal, R. 1979. Cassava improvement in Africa Field Crops Research, 2: 193-226
+Henry, G. 1991 Adoption of cassava technologies: constraints, strategies and impact. In: G. Henry, ed. Trends in ClAT commodities 1991, pp 22-40 Working Document 93 Cali, Colombia,CIAT
+Hershey, C. 1984 Breeding cassava for adaptation to stress conditions development of a methodology In: F.S. Shideler and H. Ricon, eds. Proceedings of the Sixth Symposium of the International Society of Tropical Root Crops, Lima, Peru, February 1993, pp 303-314 Lima, Peru, International Potato Center, CIP.
+Hershey, C., Iglesias, C., Iwanaga, M. & Thome, J. 1993. Definition of a eve collection for cassava. In: C. Iglesias & M Iwanaga, eds Proceedings of the International Workshop on Cassava Genetic Resources, Rome Rome, CIAT/IITA/ IBPGR
+Hershey, C. & Jennings, D.L. 1992 Progress in breeding cassava for adaptation to stress. Pl. Breed. Abst., 62: 823-831.
+Hershey; C. & Ocampo, C. 1989. New marker genes found in cassava Cassava Newsletter, 13 1-5
+Hirose, S., Data, E.S. & Quevedo, M.A.1984 Changes in respiration and ethylene production in cassava roots in relation to post-harvest deterioration ln: 1. Uritani & E.D. Reyes. eds. Tropical root crops: post-harvest physiology and processing, pp. 83-89. Tokyo, Japan Scientific Societies Press.
+Hyodo, H. 1991. Stress/wound ethylene. In: A.K. Mattoo & J.C. Suttle, eds. The plant hormone ethylene, pp. 43-63. London, CRC Press.
+Iglesias, C. & Hershey, C. 1993. Cassava breeding at CIAT: heritability estimates and genetic progress throughout the 1980s. In: Proceedings of the Ninth Symposium of the International Society of Tropical Root Crops. IITA. Accra, Ghana. (in press)
+Iglesias, C., Calle, F., Hershey, C., Jaramillo, G., & Mesa, E. 1994. Sensitivity of cassava (Manihot esculenta Crabtz) genotypes to environmental changes. Field Crops Research. (in press)
+Janssen, W. & Wheatley, C.1985. Urban cassava markets: the impact of fresh root storage. Food Policy, 8: 265-277.
+Jefferson, R.A., Kavanagh, T.A. & Bevan, M.W. 1987. GUS fusions: -glucuronidase as a sensitive and versatile gene fusion marker in higher plants. European Molecular Biology Organization Journal, 6: 3901-3907.
+Jones, W.O. 1959. Manioc in Africa. Stanford, Cal, USA, Stanford University Press.
+Kaulen, H., Schell, J. & Kreuzaler, F. 1986. Light-induced expression of the chimeric chalcone synthase-NPTII gene in tobacco cells. European Molecular Biology Organization Journal, 5: 1-8.
+Kawano, K. 1980. Cassava. In: W.R. Fehr & H.H. Handley, eds. Hybridization of Crop Plants, pp. 225-233. Madison, Wisc., USA, American Society of Agronomy.
+Kawano, K., Amaya, A., Daza, P. & Rios, M. 1978. Factors affecting efficiency of hybridization and selection in cassava. Crop Sci., 17: 373-376.
+Kawano, K. & Rojanaridpiched, C. 1983. Genetic study on post-harvest root deterioration in cassava. Kasetsart J., 17: 14-26.
+Kay, D.E. 1987. Root crops, second edition, revised by E.G.B. Gooding, Crop and Product Digest No. 2. London, Tropical Development and Research Institute.
+Klein,T.M.,Wolf, E.D., Wu, R. & Sanford,J.C.1987. High-velocity microprojectiles for delivering nucleic acids into living cells. Nature, 327: 70-73.
+Kosugi, S., Ohashi, Y., Nakajima, K. & Arai, Y. 1990. An improved assay for glucuronidase in transformed cells: methanol almost completely suppresses a putative endogenous -glucuronidase activity. Plant Sci., 70: 133-140.
+Krishnan, R., Magoon, M.L. & Bai, K.V. 1970. The pachytene karyotype of Manihot glaziovii. Genet. Iber., 22: 177-191.
+Lagrimini, L.M. 1991. Wound-induced deposition of polyphenols in trangenic plants overexpressing peroxidase. Plant Physiol., 96: 577-583.
+Lalaguna, F. & Agudo, M. 1989. Relationship between changes in lipid with ageing of cassava roots and senescence parameters. Phytochem., 28: 2059-2062.
+Lancaster, P.A., Ingram, J.S., Lim, M.Y. & Coursey, D.G. 1982. Traditional cassavabased foods: survey of processing techniques. Econ. Bot., 36(1): 12-45.
+Logemann, J., Mayer, J.E., Schell, J. & Willmitzer, L. 1988. Differential expression of genes in potato tubers after wounding. Proc. Nat. Acad. Sci. USA, 85: 1136- 1140
+Lois, R. & Hahlbrock, K. 1992. Differential wound activation of members of the phenylalanine ammonia-lyase and 4-coumarate:CoA ligase gene families in various organs of parsley plants. Z. Naturfors. Sect. C: Biosc., 47: 90-94.
+Lorenzo, G. de, Ranucci, A., Bellinncamp, D., Salvi, G. & Cervone, F. 1987. Elicitation of phenylalanine ammonia-lyase in Daucus curota by oligogalacturonides released from sodium polypectate from homogeneous polygalacturonase. Plant Sci., 51: 147-150.
+Lynam, J.K. 1991. The development potential of root crops in Africa. Enhvicklungund Laendlicher Raum (Frankfurt am Main),91 (1): 8- 12 .
+Lynch, D.V. & Thompson, J.E.1984. Lipoxygenase-mediated production of superoxide anions in senescing plant tissue. Federation of European Biochemical Societies Letters, 173: 251 -254.
+Magoon, M.L., Jos, J.S., Vasudeman, K.N. & Nair, S.G. 1969. Cytomorphological studies on induced polyploids of cassava. Genet.. Iber., 21: 27-47.
+Magoon, M.L., Krishnan, R. & Bai, K.V. 1969. Morphology of the pachytene chromosomes and meiosis in Manihot esculenta Crantz. Cytol., 34: 612-626.
+Majumder, S.K. 1955. Some studies on the microbial rot of tapioca. Bull. Cent. Food Technol. Res. Inst. (Mysore), 4: 164.
+Marriott, J., Been, B.O. & Perkins, C. 1979. The aetiology of vascular discoloration in cassava roots after harvest: development of endogenous resistance in stored roots. Physiol. Plant., 45: 51-56.
+Martin, T., Schmidt, R., Altmann, T. & Frommer, W.B. 1992. Non-destructive assay systems for detection of -glucuronidase activity in higher plants. Plant Molecular Biology Reports, 10: 37-46.
+Mathews, H., Schoepke, C., Carcamo, R., Chavarriaga, P., Fauquet, C. & Beachy, R.N. 1993. Improvement of somatic embryogenesis and plant recovery in cassava. Plant Cell Reports, 12: 328-333.
+Medford, J.I., Elmer, J.S. & Klee, HJ. I 991. Molecular cloning and characterization of genes expressed in shoot apical meristems. Plant Cell Reports, 3: 359-370.
+Meyer, P., Heidmann, I., Forkmann, G. & Saedler, H. 1987. A new petunia flower colour generated by transformation of a mutant with a maize gene. Nature, 330: 677678.
+Miche, J.C. 1984. FAO mission on the harvesting, processing and the use of cassava in Thailand and in Africa. In: Proceedings of the Workshop on Processing Technologies for Cassava and Other Tropical Root and Tubers in Africa, hosted by the African Development Bank, Abidjan, Côte d'Ivoire, November 1983, Vol. l. Rome, FAO.
+Moerschbacher, B.M., Noll, U., Ocampo, C.A., Flott, B.E., Gotthardt, U., Wuestefeld, A. & Reisener, H.J. 1990. Hypersensitive lignification response as the mechanism of non-host resistance of wheat against oat crown rust. Physiol. Plan., 78: 609-615.
+Nassar, N.M.A. 1989. Broadening the genetic base of cassava, Manihot esculenta Crantz, by interspecific hybridization. Can. J. Plant Sci., 69: 1071-1073.
+NRI. 1992. Collaborative study of cassava in Africa (COSCA). Phase 1: processing component, COSCA Working Paper No. 7. Chatham, UK, Natural Resources Institute.
+Nichols, RJ.W. 1947. Breeding cassava for virus resistance. East African Agricultural Journal of Kenya, Tanganyika, Uganda and Zanzibar, 12: 184-194.
+Noon, R.A. & Booth, R.H. 1977. Nature of post-harvest deterioration of cassava roots. Trans. B. Mycol. Soc., 69: 287-290.
+Ocampo, C., Hershey, C., Iglesias, C. & Iwanaga, M. 1993. Esterase isozyme fingerprinting of the cassava germplasm collection held at CIAT. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia, August 1992. Working Document 123. Cali, Colombia, CIAT.
+Oeller, P.W., Min-Wong, L., Taylor, L.P., Pike, D.A. & Theologis, A. 1991. Reversible inhibition of tomato senescence by antisense RNA. Sci., 254: 437-439.
+Pancoro, A. & Hughes, M.A. 1992. In-situ localization of cyanogenic -glucosidase (linamarase) gene expression in leaves of cassava (Manihot esculenta Cranz) using nonisotopic riboprobes. Plant Journal for Cell and Molecular Biology, 2: 821-827.
+Passam, H.C. & Noon, R.A. 1977. Deterioration of yams and cassava during storage. Ann. App. Biol., 85: 436-440.
+Passam, H.C., Read, S.J. & Rickard, J.E. 1976. Wound repair in yam tuber: physiological processes during repair. New Phytol., 77: 325-331.
+Plumbley, MA., Hughes, P.A. & Marriott, J. 1981. Studies on peroxidases and vascular discoloration in cassava root tissue. J. Sci. Food Agr., 32: 723-731.
+Potrykus, I. 1992. Microtargeting of microprojectiles to target areas in the micrometre range. Nature, 355: 568-569.
+Raemakers, C.J.J.M., Amati, M., Staritsky, G., Jacobsen, E. & Visser, R.G.F. 1991. Primary and secondary somatic embryogenesis in cassava. Acta Bot. Neerl., 40: 239-241.
+Raemakers, C.J.J.M., Amati, M., Staritsky, G., Jacobsen, E. & Visser, R.G.F. 1993. Cyclic somatic embryogenesis and plant regeneration in cassava. Ann. Bot., 71.
+Raemakers, C.J.J.M., Jacobsen, E. & Visser, R.G.F. 1993. Cyclic somatic embryogenesis and plant transformation in cassava. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia, August 1992. Working Document 123. Call, Colombia, CIAT.
+Rickard, J.E. 1981. Biochemical changes involved in the post-harvest deterioration of cassava roots. Trop. Sci., 23: 235-237.
+Rickard, J.E. 1982. Investigation into post-harvest behaviour of cassava roots and their response to wounding. University of London. (Ph.D. thesis)
+Rickard, J.E. 1985. Physiological deterioration in cassava roots. J. Sci. Food Agri., 36: 167176.
+Rickard, J.E. & Coursey, D.G. 1981. Cassava storage. Part 1: storage of fresh cassava roots. Trop. Sci., 23: 1-32.
+Rickard, J.E., Marriott, J. & Gahan, P.B. 1979. Occlusions in cassava xylem vessels associated with vascular discoloration. Ann. Bot., 43: 523-527.
+Rickard, J., Wheatley, C. & Gilling, J. 1992. Report on visit to Ghana to assess potential for fresh cassava shelf-life extension technology. Chatham, UK, Natural Resources Institute. (internal document)
+Rogers, DJ. & Appan, S.G. 1973. Manihot and Manihotoides (Euphorhiaceae): a computerassisted study Monograph 13. New York, Organization for Flora Neotropica.
+Rosahl, S., Eckes, P., Schell, J. & Willmitzer, L. 1986. Organ-specific gene expression in potato: isolation and characterization of tuber-specific cDNA sequences. Mol. Gen. Genet., 202: 368-373.
+Salehuzzaman, S.N.I.M., Jacobsen, E. & Visser, R.G.F. 1992. Cloning, partial sequencing and expression of a cDNA coding for branching enzyme in cassava. Plant Molecular Biology 20: 809-819.
+Sarria, R., Gomez, A., Cataño, M., Herrera, P.V., Calderon, A., Mayer, J.E. & Roca, W.M. 1993. Towards the development of Agrobacterium tumefaciens and particle bombardment-mediated cassava transformation. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia, August 1992. Working Document 123. Cali, Colombia, CIAT.
+Schopke, C., Chavarriaga, P., Fauquet, C. & Beachy, R.N. 1993. Cassava tissue culture and transformation: improvement of culture media and the effect of different antibiotics on cassava. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia, August 1992. Working Document 123. Cali, Colombia, CIAT.
+Smith, A.G., Gasser, C.S., Budelier, K.A. & Fraley, R.T. 1990. Identification and characterization of stamen- and tapetum-specific genes from tomato. Mol. Gen. Genet, 222: 9-16.
+Staiger, D., Kaulen, H. & Schell, J. 1989. ACACGTG motif of the Antirrhinum majus chalcone synthase promoter is recognized by an evolutionarily conserved nuclear protein. Proc. Nat. Acad. Sci. USA, 86: 6930-6934.
+Stamp, J.A. & Henshaw, G.G. 1982. Somatic embryogenesis in cassava. Z. Pflanzenphysiol., 105: 183- 187.
+Stamp, J.A. & Henshaw, G.G. 1987a. Secondary somatic embryogenesis and plant regeneration in cassava. Plant Cell Tissue and Organ Culture, 10: 227-233.
+Stamp, J.A. & Henshaw, G.G. 1987b. Somatic embryogenesis from clonal leaf tissue of cassava Ann. Bot., 59: 45-50.
+Sudarmonowati, E. & Henshaw, G.G. 1993. The induction of somatic embryogenesis of recalcitrant cassavacultivars using picloram and dicamba. In: W.M. Roca&A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network Cartagena, Colombia, August 1992. Working Document 123. Cali, Colombia, CIAT.
+Szabados, L., Hoyos, R. & Roca, W.M. 1987. In vitro somatic embryogenesis and plant regeneration of cassava. Plant Cell Reports, 6: 248-251.
+Tanaka, Y., Data, E.S., Hirose, E.S., Taniguchi, T. & Uritani, 1.1983. Biochemical changes in secondary metabolites in wounded and deteriorated cassava roots. Agr. Biol. Chem., 47: 693-700.
+Taniguchi, T. & Data, E.S. 1984. The role of microorganisms in post-harvest deterioration of cassava roots. In: 1. Uritani & E.D. Reyes eds. Tropical root crops: post-harvest physiology and processing, pp. 79-81. Tokyo, Japan Scientific Societies Press.
+Tanigachi, T., Data, E.S., Burden, O.J., Gorgonio, M.A. & Umeres, E. 1984. Production of antifungal substances in cassava roots in response to physiological and microbial deterioration. In: 1. Uritani & E.D. Reyes eds. Tropical root crops: postharvest physiology and processing, pp. 145-149. Tokyo, Japan Scientific Societies Press.
+Taylor, N.J., Clarke, M. & Henshaw, G.G. 1992. The induction of somatic embryogenesis in 15 African and one South American cassava cultivars. In: W.M. Roca & A.M. Thro, eds. Proceedings of the First International Scientific Meeting of the Cassava Biotechnology Network, Cartagena, Colombia August 1992. Working Document 123. Cali, Colombia CIAT.
+Tello, L.M. 1988. An lists histológico e isoenzim tico durante la inducción de la embriogénesis somtica en yuca (Manihot esculenta Crantz). Universidad del Valle, Cali, Columbia. (Ph.D. Thesis)
+Thanh, N.C. 1974. Technology of cassava chips and pellets processing in Thailand. In: E.V. Aruello, B. Nestel & E. Campbell, eds. Cassava processing and storage. proceedings of an interdisciplinary workshop, Pattaya, Thailand, April 1974. International Development Research Centre Monographs, IRDC 031 e, pp. 113122. Ottawa, Canada, International Development Research Centre.
+Thompson, J.E., Brown, J.H., Paliyath, G., Todd, J.F. & Yao, K. 1991. Membrane phospholipid catabolism primes the production of activated oxygen in senescing tissues. In: E.J. Pell & K.L. Steffen, eds. Active oxygen/oxidative stress and plant metabolism, pp. 57-75. Rockville, Maryland, USA, American Society for Plant Physiology.
+Trewavas, A. & Gilroy,, S. 1991. Signal transduction in plant cells. Trends in Genetics, 7: 356-361.
+Vick, B.A. & Zimmerman, D.C. 1984. Biosynthesis of jasmonic acid by several plant species. Plant Physiol., 75: 458-461.
+Wegmann, K. 1970. Untersuchungen uber die ursachen des schnellen verderbens von Maniokwurzeln und due wirksamkeit von Konservierrungstoffen in Maniokmehl. Brot und Geback, 24(9): 175- 178.
+Wheatley, C.C. 1982. Studies on cassava (Manihot esculenta Crantz) root postharvest physiological deterioration. University of London. (Ph.D. Thesis)
+Wheatley, C.C. 1989. Conservation of cassava roots in polyethelene bags. CIAT Study Guide 04SC-07.06. Cali, Colombia, CIAT.
+Wheatley, C.C. & Best, R. 1991. How can traditional forms of nutrition be maintained in urban centres: the case of cassava. Entwicklung und Laendlicher Raum (Frankfurt am Main), 91(1): 13-16.
+Wheatley, C.C. & Gomez, G. 1985. Evaluation of some quality characteristics in cassava storage roots. Qual. Plant., 35: 121 - 129.
+Wheatley, C.C. & Schwabe, W.W. 1985. Scopeletin involvement in post-harvest physiological deterioration of cassava root (Manihot esculenta Crantz). J. Exper Bot, 36: 783-791.
+Wilson, T.M.A. 1993. Strategies to protect crop plants against viruses: pathogen derived resistance blossoms. Proc. Nat. Acad. Sci. USA, 90: 3134-3141.
+WRI. 1990. World resources 1990-91. New York, Oxford University Press.
+Yang, J.S., Ge, K.L., Luo, M., Wang, Y.Z., Wang, B., Hu, R.X., Qian, M., Tan, J.Z., Lee, N. & Testa, D. 1991. Introduction of foreign genes into small cell groups (partialenzymically digested) in rice and regeneration of transgenic plants. Acta Bot. Sin., 33: 825-832.
+<section>b</section>
+Annex 1 Meeting on post-harvest biodeterioration of cassava
+11-13 December 1991
+AGENDA
+WEDNESDAY 11 DECEMBER
+Session I Opening session
+09:00-09:15 Welcome address
+09:15-09:30 Opening remarks and purpose of the meeting: "Overview of the problem and workshop objectives"
+Session II Plenary session
+09:30-10:30 Review of biochemistry: June Rickard
+10:30-11:00 Coffee break
+11:00-12:30 Genetics of cassava: Clair Hershey
+12:30-14:00 Lunch
+16:00-17:00 Continuation of discussion and summary
+18:00-19:00 Cocktail
+THURSDAY 12 DECEMBER 1991
+Session III Plenary session
+09:00-10:30 Discussion of molecular genetics/breeding for resistance to biodeterioration
+10:30-11:00 Coffee break
+11:00-12:30 Continuation of discussions
+12:30-14:00 Lunch
+Session IV Drafting session
+14:00-15:30 Strategies and requirements for:
+A) Research related to biochemistry/physiology
+B) Research to application of molecular genetics/breeding
+15:30-16:00 Coffee break
+16:00-17:00 Continuation of drafting session
+FRIDAY 13 DECEMBER
+Session V Presentation of drafts
+09:00-09:30 Presentation of draft (session A)
+09:30-10:30 Presentation of draft (session B)
+10:30-11:00 Coffee break
+11:00-12:30 Follow-up discussion
+12:30-14:00 Lunch
+14:00- 17:00 Finalization of workshop document
+<section>c</section>
+Annex 2 List of participants
+Rickard Jefferson
+c/o Commonwealth Scientific and Industrial
+Research Organization, Plant Industry
+GPO Box 1600
+Camberra Act. 2601
+Australia
+Fax: 61-6-246-5303 Australia
+Cable: CAMBIA PICA.OZ.AU
+June Rickard
+Overseas Development National Resources Institute
+Central Avenue
+Chatham
+Kent ME4 4TB
+UK
+Telephone: 0634-880088
+Mike Rhodes
+AFRC Institute of Food Research
+Genetics and Microbiology Department
+Norwich Laboratory
+Colney Lane
+Norwich NR4 7UA
+UK
+Telephone: 0606-56122
+Telex: 975453
+Roger Fenwick
+AFRC Institute of Food Research
+Genetics and Microbiology Department
+Norwich Laboratory
+Colney Lane
+Norwich NR4 7UA
+UK
+Telephone: 0606-56122
+Telex: 975453
+Chris Wheatley
+Apartado aereo 6713
+CIAT Cali
+Colombia
+Fax: 57 233 647243
+Cable: CINATROP
+Telex: 396 05769 CIAT CO.
+Jeorge Meyer
+Apartado aereo 6713
+CIAT Cali
+Colombia
+Fax: 57 233 647243
+Cable: CINATROP
+Telex: 396 05769 CIAT CO.
+Clair Hershey
+Box 62
+Elm
+PA 17521
+USA
+Fax: (1717) 6644950
+M. Bokanga
+IITA
+Ibadan
+NIGERIA
+Rockefeller Foundation
+William Park
+Department of Biochemistry and Biophysics
+College of Agriculture and Life Sciences
+Texas A & M University
+College Station
+Texas 77843-2128
+USA
+Fax: (409) 845 9274
+Telephone: (409) 845 8868
+Joint FAO/lnternational Atomic Energy Agency (IAEA)
+Lesley Stich
+Joint FAD/IAEA Division
+Wagramerstr 5
+PO. Box 100
+A-1400 Vienna
+AUSTRIA
+Fax: 43 1 234564
+Telephone: (00431) 2360
+Telex: 1-012645 ATOM AU
+FAO Crop and Grassland Service
+E. Kueneman
+FAO of the United Nations
+Rome
+Italy
+Fax: 5179731152/5782610/57975155
+Telephone: 57971
+W.B. Charles
+FAO of the United Nations
+Rome
+Italy
+Fax: 5179731152/5782610/57975155
+Telephone: 57971
+Telex: 61081 FAO I
+FAO Plant Protection Service
+T. Putter
+FAO of the United Nations
+Rome
+Italy
+Fax: 5179731152/5782610/57975155
+Telephone: 57971
+Telex: 61081 FAO I
+A. Papasolomontos
+FAO of the United Nations
+Rome
+Italy
+Fax: 5179731152/5782610/57975155
+Telephone: 57971
+Telex: 61081 FAO I
+H. de Haen
+FAO of the United Nations
+Rome
+Italy
+Fax: 5179731152/5782610/57975155
+Telephone: 57971
+Telex: 61081 FAO I
+FAO TECHNICAL PAPERS
+FAO PLANT PRODUCTION AND PROTECTION PAPERS
+1 Horticulture: a select bibliography, 1976 (E)
+2 Cotton specialists and research institutions in selected countries,
+1976 (E)
+3 Food legumes: distribution, adaptability and biology of yield, 1977 (E F S)
+4 Soybean production in the tropics, 1977 (C E F S)
+4 Rev.1 Soybean production in the tropics (first revision), 1982 (E)
+5 Les systèmes pastoraux sahéliens, 1977 (F)
+6 Pest resistance to pesticides and crop loss assessment - Vol. 1, 1977 (E F S)
+6/2 Pest resistance to pesticides and crop loss assessment - Vol. 2, 1979 (E F S)
+6/3 Pest resistance to pesticides and crop loss assessment - Vol. 3, 1981 (E F S)
+7 Rodent pest biology and control - Bibliography 1970-74, 1977 (E)
+8 Tropical pasture seed production, 1979 (E F** S**)
+9 Food legume crops: improvement and production, 1977 (E)
+10 Pesticide residues in food, 1977 - Report, 1978 (E F S)
+10 Rev. Pesticide residues in food 1977 - Report, 1978 (E)
+10 Sup. Pesticide residues in food 1977 - Evaluations, 1978 (E)
+11 Pesticide residues in food 1965-78 - Index and summary, 1978 (E F S)
+12 Crop calendars, 1978 (E/F/S)
+13 The use of FAO specifications for plant protection products, 1979 (E F S)
+14 Guidelines for integrated control of rice insect pests, 1979 (Ar C E F S)
+15 Pesticide residues in food 1978 - Report, 1979 (E F S)
+15 Sup. Pesticide residues in food 1978 - Evaluations, 1979 (E)
+16 Rodenticides: analyses, specifications, formulations, 1979 (E F S)
+17 Agrometeorological crop monitoring and forecasting, 1979 (C E F S)
+18 Guidelines for integrated control of maize pests, 1979 (C E)
+19 Elements of integrated control of sorghum pests, 1979 (E F S)
+20 Pesticide residues in food 1979 - Report, 1980 (E F S)
+20 Sup. Pesticide residues in food 1979 - Evaluations, 1980 (E)
+21 Recommended methods for measurement of pest resistance to pesticides, 1980 (E F)
+22 China: multiple cropping and related crop production technology, 1980 (E)
+23 China: development of olive production, 1980 (E)
+24/1 Improvement and production of maize, sorghum and milks - Vol. 1. General principles, 1980 (E F)
+2412 Improvement and production of maize, sorghum and millet - Vol. 2. Breeding, agronomy and seed production, 1980 (E F)
+25 Prosopis tamarugo: fodder tree for arid zones, 1981 (E F S)
+26 Pesticide residues in food 1980 - Report, 1981 (E F S)
+26 Sup. Pesticide residues in food 1980 - Evaluations, 1981 (E)
+27 Small-scale cash crop farming in South Asia, 1981 (E)
+28 Second expert consultation on environmental criteria for registration of pesticides, 1981 (E F S)
+29 Sesame: status and improvement, 1981 (E)
+30 Palm tissue culture, 1981 (C E)
+31 An eco-climatic classification of intertropical Africa, 1981 (E)
+32 Weeds in tropical crops: selected abstracts, 1981 (E)
+32 Sup.1 Weeds in tropical crops: review of abstracts, 1982 (E)
+33 Plant collecting and herbarium development, 1981 (E)
+34 Improvement of nutritional quality of food crops, 1981 (C E)
+35 Date production and protection, 1982 (Ar E)
+36 El cultivo y la utilización del tarwi - Lupinus mutabilis Sweet, 1982 (S)
+37 Pesticide residues in food 1981 - Report, 1982 (E F S)
+38 Winged bean production in the tropics, 1982 (E)
+39 Seeds, 1982 (E/F/S)
+40 Rodent control in agriculture, 1982 (Ar C E F S)
+41 Rice development and rainfed rice production, 1982 (E)
+42 Pesticide residues in food 1981 - Evaluations, 1982 (E)
+43 Manual on mushroom cultivation, 1983 (E F)
+44 Improving weed management, 1984 (E F S)
+45 Pocket computers in agrometeorology, 1983 (E)
+46 Pesticide residues in food 1982 - Report, 1983 (E F S)
+47 The sago palm, 1983 (E F)
+48 Guidelines for integrated control of cotton pests, 1983 (Ar E F S)
+49 Pesticide residues in food 1982 - Evaluations, 1983 (E)
+50 International plant quarantine treatment manual, 1983 (C E)
+51 Handbook on jute, 1983 (E)
+52 The palmyrah palm: potential and perspectives, 1983 (E)
+5311 Selected medicinal plants, 1983 (E)
+54 Manual of fumigation for insect control, 1984 (C E F S)
+55 Breeding for durable disease and pest resistance, 1984 (C E)
+56 Pesticide residues in food 1983 - Report, 1984 (E F S)
+57 Coconut, tree of life, 1984 (E S)
+58 Economic guidelines for crop pest control, 1984 (E F S)
+59 Micropropagation of selected rootcrops, palms, citrus and omamental species, 1984 (E)
+60 Minimum requirements for receiving and maintaining tissue culture propagating material, 1985 (E F S)
+61 Pesticide residues in food 1983 - Evaluations, 1985 (E)
+62 Pesticide residues in food 1984 - Report, 1985 (E F S)
+63 Manual of pest control for food security reserve grain stocks, 1985 (C E)
+64 Contribution a l'écologie des aphides africains, 1985 (F)
+65 Amelioration de la culture irriguée du riz des petite fermiers, 1985 (F)
+66 Sesame and safflower: status and potentials, 1985 (E)
+67 Pesticide residues in food 1984 - Evaluations, 1985 (E)
+68 Pesticide residue in food 1985 - Report, 1986 (E F S)
+69 Breeding for horizontal resistance to wheat diseases, 1986 (E)
+70 Breeding for durable resistance in perennial crops, 1986 (E)
+71 Technical guideline on seed potato micropropagation and multiplication, 1986 (E)
+72/1 Pesticide residues in food 1985 - Evaluations - Part l: Residues, 1986 (E)
+72/2 Pesticide residues in food 1985 - Evaluations - Part Il: Toxicology, 1986 (E)
+73 Early agrometeorological crop yield assessment, 1986 (E F S)
+74 Ecology and control of perennial weeds in Latin America, 1986 (E S)
+75 Technical guidelines for field variety trials, 1993 (E F S)
+76 Guidelines for seed exchange and plant introduction in tropical crops, 1986 (E)
+77 Pesticide residues in food 1986 - Report, 1986 (E F S)
+78 Pesticide residues in food 1986 - Evaluations - Part l: Residues, 1986 (E)
+78/2 Pesticide residues in food 1986 - Evaluations - Part Il: Toxicology, 1987 (E)
+79 Tissue culture of selected tropical fruit plants, 1987 (E)
+80 Improved weed management in the Near East, 1987 (E)
+81 Weed science and weed control in Southeast Asia, 1987 (E)
+82 Hybrid seed production of selected cereal, oil and vegetable crops, 1987 (E)
+83 Litchi cultivation, 1989 (E S)
+84 Pesticide residues in food 1987 - Report, 1987 (E F S)
+85 Manual on the development and use of FAO specifications for plant protection products, 1987 (E** F S)
+86/1 Pesticide residues in food 1987 - Evaluations - Part l: Residues, 1988 (E)
+86/2 Pesticide residues in food 1987 - Evaluations - Part Il: Toxicology, 1988 (E)
+87 Root and tuber crops, plantains and bananas in developing countries - challenges and opportunities, 1988 (E)
+88 Jessenia and Oenocarpus: neotropical oil palms worthy of domestication, 1988 (E S)
+89 Vegetable production under arid and semi-arid conditions in tropical Africa, 1988 (E F)
+90 Protected cultivation in the Mediterranean climate, 1990 (E F)
+91 Pastures and cattle under coconuts, 1988 (E S)
+92 Pesticide residues in food 1988 - Report, 1988 (E F S)
+93/1 Pesticide residues in food 1988 - Evaluations - Part l: Residues, 1988 (E)
+93/2 Pesticide residues in food 1988 - Evaluations - Part Il: Toxicology, 1989 (E)
+94 Utilization of genetic resources: suitable approaches, agronomical evaluation and use, 1989 (E)
+95 Rodent pests and their control in the Near East, 1989 (E)
+96 Striga - Improved management in Africa, 1989 (E)
+97/1 Fodders for the Near East: alfalfa, 1989 (Ar E)
+97/2 Fodders for the Near East: annual medic pastures, 1989 (Ar E F)
+98 An annotated bibliography on rodent research in Latin America 1960-1985, 1989 (E)
+99 Pesticide residues in food 1989 - Report, 1989 (E F S)
+100 Pesticide residues in food 1989 - Evaluations - Part l: Residues, 1990 (E)
+100/2 Pesticide residues in food 1989 - Evaluations - Part Il: Toxicology, 1990 (E)
+101 Soilless culture for horticultural crop production, 1990 (E)
+102 Pesticide residues in food 1990 - Report, 1990 (E F S)
+103/1 Pesticide residues in food 1990 - Evaluations - Part l: Residues, 1990 (E)
+104 Major weeds of the Near East, 1991 (E)
+105 Fundamentos teorico-practicos del cultivo de tejidos vegetales, 1990 (S)
+106 Technical guidelines for mushroom growing in the tropics, 1990 (E)
+107 Gynandropsis gynandra (L.) Briq. - a tropical leafy vegetable - its cultivation and utilization, 1991 (E)
+108 Carambola cultivation, 1993 (E S)
+109 Soil solarization, 1991 (E)
+110 Potato production and consumption in developing countries, 1991 (E)
+111 Pesticide residues in food 1991 - Report, 1991 (E)
+112 Cocoa pest and disease management in Southeast Asia and Australasia, 1992 (E)
+113/1 Pesticide residues in food 1991 - Evaluations - Part l: Residues, 1991 (E)
+114 Integrated pest management for protected vegetable cultivation in the Near East, 1992 (E)
+115 Olive pests and their control in the Near East, 1992 (E)
+116 Pesticide residues in food 1992 - Report, 1993 (E F S)
+117 Quality declared seed, 1993 (E F S)
+118 Pesticide residues in food 1992 - Evaluations - Part l: Residues, 1993 (E)
+119 Quarantine for seed, 1993 (E)
+120 Weed management for developing countries, 1993 (E)
+121 Rambutan cultivation, 1993 (E)
+122 Pesticide residues in food 1993 - Report, 1993 (E F S)
+123 Rodent pest management in eastern Africa, 1994 (E)
+124 Pesticide residues in food 1993 - Evaluations - Part l: Residues, 1994 (E)
+125 Plant quarantine: theory and practice, 1994 (Ar)
+126 Tropical root and tuber crops - Production, perspectives and future prospects, 1994 (E)
+127 Pesticide residues in food 1994 - Report, 1994 (E)
+128 Manual on the development and use of FAO specifications for plant protection products Fourth edition, 1995 (E)
+129 Mangosteen cultivation, 1995 (E)
+130 Post-harvest deterioration of cassava - A biotechnology perspective, 1995 (E)
+Availability: May 1995
+Ar - Arabic
+C - Chinese
+E - English
+F - French
+P - Portuguese
+S - Spanish
+Multil - Multilingual
+* Out of print
+** In preparation
+The FAO Technical Papers are available through the authorized FAO Seles Agents or directly from Distribution and Sales Section, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy.

@@ -1,0 +1,990 @@
+<title>Plant Tissue Culture:an alternative for production of useful metabolite</title>
+<section>1</section>
+SUMMARY
+Higher plants contain a variety of substances which are useful medicines, food additives, perfumes, etc. However, decreased plant resources, increases in labour cost and other problems in obtaining these high-value added substances from natural plants have pointed toward the use of plant cell culture for production of the products. Because plant cell culture is not affected by changes in such environmental conditions such as climate or natural depredation, improved production may be available in any place or season.
+Therefore, studies on the production of useful metabolite by plant cell culture have been carried out on an increasing scale since the end of the 1950's. The large scale cultivation of tobacco and various vegetable cells was examined in the late 1950's and early 1960's in the U.S., Canada, and Europe. Their results stimulated more recent studies on the industrial application of this technology in many countries.
+Since plant cells can be cultivated in various fermentors in a similar way to microbial fermentations, many industrial companies in Japan have tried to apply this technology to commercial production of useful compounds because Japan has a highly developed fermentation technology. At present, two Japanese firms are manufacturing a plant pigment, shikonin, and ginseng cell biomass on a commercial scale and several other products including anti-cancer drugs seem to be close to commercialization.
+However, there are still a few barriers which must be overcome before commercialization of many other products can occur. The production cost of metabolites is one of the problems because of the low productivity of cultured plant cells. In order to decrease the cost, increase of production efficiency per cell is an essential factor, which means that higher amounts of products must be produced as quickly as possible. A variety of approaches to improve the productivity of the culture have been tried and some of them were very effective.
+In this review, the background of plant cell culture research, cost analysis, methods and facilities, various approaches to improve the productivity, and studies on production of a number of commercially interesting products which have currently been investigated are described.
+<section>2</section>
+CHAPTER 1
+INTRODUCTION
+Plant cell culture is viewed as a potential means of producing useful plant products such that conventional agriculture, with all its attendant problems and variables, can be circumvented. These problems include: environmental factors (drought, floods, etc.), disease, political and labour instabilities in the producing countries (often Third World countries), uncontrollable variations in the crop quality, inability of authorities to prevent crop adulteration, losses in storage and handling. Thus, the production of useful and valuable secondary metabolites in large bioreactors located in the consuming country is an attractive proposal. Additional advantages of such processes include: controlled production according to demand and a reduced and requirement.
+However, this technology is still being developed and despite the advantages outlined above, there are a variety of problems to be overcome before it can be adopted on a wide scale for the production of useful plant secondary metabolites. The success of Mitsui Petrochemical Industry Co. Ltd. in Japan in producing shikonin on a commercial scale from Lithospermum erythrorhizon cultivations and that of Nitto Denko Co. Ltd. also in Japan in mass production of Panax ginseng or ginseng cells using 20 kL tanks have demonstrated that many of the problems can be overcome with perseverance. The economic feasibility of these processes is another question and this will be dealt with in a separate section.
+In theory, it is anticipated that such large scale suspension cultures will be suitable for industrial production of useful plant chemicals such as pharmaceuticals and food additives, in a manner similar to that of microbial fermentation.
+Nevertheless, there are some significant differences between microbial and plant cell cultures that must be considered when attempting to apply plant cell cultures to the available technology. Table 1 shows a comparison of some of the characteristics of plant and microbial cultures of relevance to fermentation.
+This table serves to demonstrate some of the problems that can be encountered with plant cell cultures. The sensitivity to shear is due both to the large size of the cells and to the relatively inflexible cellulose cell wall. Thus, with normal blade impellers the cells may twist which will inhibit mitoses and, for this reason, air-lift fermentors are recommended by some researchers. The large size of the plant cell contributes to its comparatively high doubling time (12 h - several days), which thus prolongs the time required for a successful fermentation run.
+The vacuole is the major site of product accumulation, and since product secretion is uncommon, the high metabolite yields seen in microorganisms that secrete product (thereby removing product inhibition of biosynthesis) cannot be expected. There is some ongoing research on membrane permeabilization of plant cells which may serve to relieve the constraints of product inhibition by facilitation of leakage into the extracellular medium. If this would also permit recycling of the biomass (e.g. via immobilization) it would help reduce production costs (1). The low aeration requirement for plant cells is an advantage over microbial cultures in general. In addition, the high cost of running a fermentation vessel over several weeks should be considered, although media costs are much less than those of animal cell cultures.
+Table 1
+Characteristic of Microbial and Plant Cell Relevant to Fermentation
+CHARACTERISTICS
+MICROORGANISM
+PLANT CELL
+Size 2 u >10 u
+Shear stress Insensitive Sensitive
+Water content 75% >90%
+Duplication time <1 hour days
+Aeration 1-2 vvm 0.3 vvm
+Fermentation time Days Weeks
+Product accumulation Medium Vacuole
+Production phase Uncoupled Often growth-linked
+Mutation Possible Requires haploids
+Medium cost ($)
+(MS medium) 8-9/m 65-70/m
+Source: Zenk, M.H., Plant Cell Culture Conference, Oyez Sci, Tech. Serv. (1982)
+In addition to the problems outlined above, concerned with fermentation technology, there are also considerable hurdles to be overcome at the biochemical level. The two major problems concern poor expression of products and instability of cell lines.
+Cultured plant cells often produce reduced quantities and different profiles of secondary metabolites when compared with the intact plant and these quantitative and qualitative features may change with time. The poor product expression is often attributed to a lack of differentiation in cultures (2). On the other hand, there are cases of cultures that over-produce metabolites compared with the whole plant (Table 2).
+There are a number of examples of cultured cells producing metabolites not observed in the plant, eg. Lithospermum erythrorhizon cultures have been observed to synthesize rosmarinic acid (3). It has become apparent that the choice of original plant material having high yields of the desired phytochemical may be important in establishing high-yielding cultures (4). Furthermore, the need to repeatedly screen for high-producing lines (due to inherent instability of cell lines) has been emphasized, although the nutritional composition of the medium is also important (2). Thus, a variety of approaches are being investigated by many researchers to increase productivity of useful plant metabolites in plant cell cultures as seen in another section in this review.
+Table 2
+Secondary Metabolites Produced in High Levels
+by Plant Cell Cultures
+COMPOUND
+PLANT SPECIES YIELDS (% DRY WT) 
+CULTURE
+TYPE*
+CULTURE PLANT
+Shikonin Lithospermum erythrorhizon 20 1.5 s
+Ginsenoside Panax ginseng 27 4.5 c
+Anthraquinones Morinda citrifolia 18 0.3 s
+Ajmalicine Catharanthus roseus 1.0 0.3 s
+Rosmarinic acid Coleus blumeii 15 3 s
+Ubiquinone-10 Nicotiana tabacum 0.036 0.003 s
+Diosgenin Dioscorea deltoides 2 2 s
+Benzylisoquinoline Alkaloids Coptis japonica 11 5 - 10 s
+Berberine Thalictrum minor 10 0.01 s
+Berberine Coptis japonica 10 2 - 4 s
+Anthraquinones Galium verum 5.4 1.2 s
+Anthraquinones Galium aparine 3.8 0.2 s
+Nicotine Nicotiana tabacum 3.4 2.0 c
+Bisoclaurine Stephania cepharantha 2.3 0.8 s
+Tripdiolide Tripteryqium wilfordii 0.05 0.001 s
+* s = suspension; c = callus
+<section>3</section>
+CHAPTER 2
+HISTORICAL BACKGROUND
+As seen in many reviews (5-9), studies on the production of plant metabolites by callus and cell suspension cultures have been carried out on an increasing scale since the end of the 1950's. The large scale cultivation of tobacco and a variety of vegetable cells was examined from the late 1950's to early 1960's by Tulecke and Nickell at Pfizer Inc. (10), Mandels et at. at the Natick Laboratories in the U.S. Army (11), Street et al. at the University of Leicester (12) and Martin et al. at the National Research Council of Canada (13). Their results stimulated more recent studies on the industrial application of plant cell culture in many countries.
+Since Japan has a highly developed fermentation technology, many industrial companies, in collaboration with some university groups (14), have tried to apply this technology for the commercial production of useful compounds. The Japan Tobacco Inc.'s interest involved around mass-production of tobacco cells as raw materials of cigarettes; the company established 20 kL fermentors which were the largest for plant cells in 1970's. Meiji Seika in Japan also elucidated the fundamentals of production of Panax ginseng cells in large volumes. Researchers reported that cultured ginseng cells stimulated physiological activities in animals in a similar fashion as elicited by native ginseng roots. The work was followed by Nitto Denko Co. which has been manufacturing cell mass of ginseng commercially. The cells are used as health foods in Japan. Researchers of Kyowa Hakko conducted extensive pharmacological screening of numerous cell cultures and found various novel products of great
+interest, including plasmin inhibitory proteins in Scopolia japonica cells and plant virus inhibitors in cultured cells of Phytolacca americana and other species (15). The virus inhibitors of P. americana are now being studied by many research groups in the world because of their activity against AIDS and other animal viruses. Other firms such as Ajinomoto and Nippon Shin-yaku also made efforts to increase the level of accumulation of alkaloids, steroids and other secondary products in cultured cells.
+Groups in Germany outlined very interesting approaches to industrial application (16) in the meeting held in 1976 at Munich, and their excellent results encouraged researchers in other countries. For example, Zenk and his colleagues (17) presented an impressive paper in which they successfully selected high-alkaloid producing cell lines of Catharanthus roseus using a method similar to the microbial mono-colony isolation technique. A number of laboratories in industries and universities followed Zenk's approach, and in fact, some researchers could increase significantly the level of secondary products such as ubiquinone-10, biotin, and various plant pigments produced by cell cultures.
+In 1982, the 5th International Congress of Plant Tissue and Cell Cultures was held in Japan and about 70 out of 372 papers presented there related to production of secondary metabolites in cultured cells and several papers seemed to be commercially promising such as production of shikonin by Fujita et al. (19) of Mitsui Petrochemical and that of several antitumor compounds by Misawa et al. of Kyowa Hakko (20).
+At subsequent International Congress of Plant Tissue and Cell Cultures in Minneapolis in 1986 and that in Amsterdam in 1990 as well as other meetings such as the Meeting of Primary and Secondary Metabolism of Plant Cell Cultures held in Giessen, Germany and the 4th and International Congress on Phytotherapy held in Munich, Germany in September, 1992, many compounds were shown to be accumulated by plant cell cultures and many different strategies were presented to increase their productivity. Means for production of those compounds include not only de novo synthesis but also biotransformation processes. A biotransformation process to produce ß-methyl digoxin using Digitalis lanata cells studied by Reinhard and Alfermann in Germany (21) was evaluated by Boehringer Mannheim Co. using 4 kL bioreactors although it has not yet been commercialized.
+A combination of a plant cell culture process and a simple chemical coupling reaction was invented by a Canadian company, Allelix (22), to manufacture vinblastine as a commercially feasible process. The technology is now being studied by Mitsui Petrochemical in Japan for commercialization.
+Sanguinarine production was also studied by Kurz et al. (82) in Canada since this alkaloid has a market in the denatal care field.
+The recent biotechnology boom has triggered increase interest in plant cell cultures, for example, a number of firms and academic institutions in the U.S., Japan, Canada, and Europe have been investigating intensively the production of a very promising anti-tumor compound, taxol, using this technology.
+<section>4</section>
+CHAPTER 3
+COST ANALYSIS
+In spite of remarkable advances in plant cell culture technology, the production cost of metabolites is still high, as estimated by Zenk (5) and by Goldstein (1). The former calculated that the cost would be U.S. $500 per kg of isolated product when it was accumulated in 1 g/L within a period of 15 days in 100 m batch culture. It is true that the cost has decreased since his estimation in 1974, and the producing ability of 1 g/L for 15 days is achievable in the case of some compounds such as rosmarinic acid, but it is still too expensive to produce food stuffs, food additives or pharmaceuticals which can be more easily produced by alternative ways such as chemical synthesis, extraction from plants or by microbial fermentation.
+Zenk stated that industrial plant cell culture techniques would be introduced only if the plant product under consideration is produced at a price equal to or preferably lower than the field-produced product. The only factor determining the industrial realization of plant cell culture is the price by which a given product can be produced.
+A very detailed assessment of the costs entailed in theoretical processes has been made by Goldstein et al. (24). Four cases were considered:
+A (Base state of technology)
+Final biomass concentration = 200 g fresh wt./L
+One day doubling time, biomass = 0.693/day
+One day doubling time, product = 0.693/day
+Product concentration = 0.05% fresh weight
+Recycled biomass = 50%
+B As for A, but:
+One day doubling time, product = 6.93/day (10 times increase)
+Recycled biomass = 90%
+C As for B, but:
+Final biomass concentration = 500 g fresh wt./L (2.5 times increase)
+D As for C, but:
+Product concentration = 0.5% fresh weight (10 times increase).
+The final case (D) would translate into a production of 17.5 g product/L/day, which is well in excess of levels achieved with current technology. The rate of product formation is the major obstacle, but this could be compensated for by increased concentration of product. The calculated manufacturing costs and profit margin for each case assuming production of 10^4, 10^5 or 10^6 kg/yr are shown in Tables 3 and 4. Note that these figures reflect 1980 prices and will have increased since then.
+Table 3 Manufacturing Costs for Cases A - D
+Production Level
+(kg/yr) 10^4 10^5 10^6
+Cost ($/kg)
+Case:
+A.
+B.
+C.
+D.
+Table 4 Profitability of Cases A - D
+The selling price ($) and profit (%) are given for each of the three annual production levels.
+Production Level
+(kg/yr) 10^4
+Case:
+A.
+B.
+C.
+D.
+Source: Goldstein W. et al., see Table 3
+* The selling price was calculated to take into account a 5-year payment on capital and a tax rate of 50%. The formula used was: Selling price/kg = 2 x manufacturing cost/kg + 0.4 (total invested capital/kg) = depreciation/kg.
+In the case of scenario (D) with production of 10 kg/yr the selling price could be as low as $43/kg and the manufacturing cost would only be $18/kg. This assessment makes the future of commercial plant cell culture fermentation appear quite viable, but the crucial problems to be overcome are enhancing product levels, recycling the biomass (e.g. through immobilization) and raising the biomass concentration. Some encouraging advances in recent years suggest that these problems may be solved eventually, e.g. shikonin can be produced at a level of 23% of the dry weight (roughly 2.3% or more of fresh weight) and 4 g/L; rosmarinic acid can be produced at a rate of 1 g/L/day in Coleus blumei with a final concentration of 27% of the dry weight (23). A biomass concentration of 40 g dry wt./L was achieved.
+Batch fermentation processes are capital intensive, requiring a high initial investment and sophisticated technology. In comparison with microbial cultures, doubling times are long and product yields are low. Furthermore, since production is often not growth-linked, there are many cases where two stage production is necessary, thus increasing costs markedly. Table 5 shows estimated costs for a hypothetical phytochemical produced by plant cell culture fermentation.
+Table 5 Batch Fermentation Costs for a Hypothetical Plant Product
+as a Function of Product Concentration
+Product Concentration (%) 0.1 1.0 10.0
+Fixed Capital Investment ($M) 340 84 21
+Total Production Cost (%/kg) 5,900 1,045 228
+Assumptions: Annual production = 20,000 kg
+Cell doubling time = 60 hr
+Batch cycle time = 15 d
+Cell intensity = 20 g/L
+The total production cost is the sum of direct and indirect costs, including raw material, labour, utilities, capital eq;uipment depreciation over a 10 year period, maintenance, tax and insurance. Indirect costs were taken as 15% of capital investment
+Source: Sahai O. et al., Biotech.Prog., 1 . 1-9 (1985)
+It has been calculated that if rose oil were produced in cell cultures, a fermentation process with a 20% share of the market would yield a net profit of $0.5 M/yr. This assumes a rose oil concentration of 10% dry weight and a cell density of 20 g dry weight/L (24). Fowler (25) suggests that plant products valued at $250-1,500/kg are acceptable production targets for an economically viable process. An initial market penetration of the world or U.S. market has been recommended at between 10 and 20%. This will depend on the size of the market and whether a plant cell fermentation process opens up new market.
+Scragg (26) has calculated the effect of run time on productivity. Assuming a product yield of 1% dry weight, biomass yield of 20 g dry weight/L and a bioreactor volume of 1,000 L. A 300 day year was estimated, since time would be required for maintenance, contaminated runs, etc. Fig. 1 shows that as productivity decreases the requisite run time increases. Similarly, as the yield of product increases the reactor volume required decreases expotentially (Fig. 2). Under the conditions described above, a 100,000 L fermentor would be necessary to produce 300 kg/yr.
+Figure 1: The Effect of Run Time on Bioreactor volume and the production from a 1,000 L Bioreactor
+Figure 1: The Effect of Run Time on Bioreactor volume and the production from a 1,000 L Bioreactor
+Figure 2: The Effect of Yield on Bioreactor Volume and the production from a 1,000 L. Bioreactor
+Figure 2: The Effect of Yield on Bioreactor Volume and the production from a 1,000 L. Bioreactor
+Source: Scragg, A.H. In "Security Metabolsim in Plant Cell Cultures", Eds. Morris, P. et al., p. 202-207. Cambridge University Press. Source: Scragg, A.H. (see Figure 1I
+The most detailed assessment available in the literature for the production of a specific product in plant cell cultures is concerned with the production of ajmalicine from Catharanthus roseus cell cultures (27). In this case, a 20% market penetration was assumed, ie. 800 kg/yr and production was based on the use of a two-stage batch culture process. Stage two parameters include specific productivity of 0.26 mg/g/day (based on final dry weight), final product concentration of 0.06% dry weight and a maximum fresh weight concentration of 160 g/L. It was estimated that the cost of production would be $3,215/kg ajmalicine ($7.30/lb dry biomass) and this compares with $619/kg ($0.70/lb dry biomass) from the intact plant. Clearly, this 5-fold increase in costs is unacceptable from a commercial point of view. This example serves to illustrate the need to chose products that are particularly expensive to produce in the field. Shikonin is a good example, in that the long growing
+period (3-5 years) and strict climatic requirements mean that the cost of the plant raw material is high $6.80/lb. It has been suggested that a quick way to assess the attractiveness of a cell culture method vs. conventional agriculture, is to calculate a specific biosynthesis rate "based on the final dry weight and the total time of fermentation or land occupation" (27). With shikonin there is a 830-fold increase in plant cell culture, whilst with ajmalicine from C. roseus there was only a 24-fold improvement.
+<section>5</section>
+CHAPTER 4
+MATERIALS AND METHODS
+4.1. Materials
+4.1.1. Plants
+In theory, any part obtained from any plant species can be employed to induce callus tissue, however the successful production of callus depends upon plant species and their qualities. Dicotyledons are rather amenable for callus tissue induction, as compared to monocotyledons; the callus of woody plants generally grow slowly. Stems, leaves, roots, flowers, seeds and any other parts of plants are used, but younger and fresh explants are preferable as explant materials.
+Explants obtained must be sterilized using ethanol, sodium hypochlorite and/or other chemicals to remove all microorganisms from the materials and a typical sterilization procedure will be described later as an example.
+4.1.2. Media
+4.1.2.1. Inorganic Salts
+To induce a callus from an explant and to cultivate the callus and cells in suspension, various kinds of media (inorganic salt media) have been designed. Agar or its substitutes is added into the media to prepare solid medium for callus induction.
+One of the most commonly used media for plant tissue cultures is that developed by Murashige and Skoog (MS) for tobacco tissue culture (28). The significant feature of the MS medium is its very high concentration of nitrate, potassium and ammonia. The B5 medium established by Gamborg et al. (29) is also being used by many researchers. The levels of inorganic nutrients in the B5 medium are lower than in MS medium. Many other media have been developed and modified and nutrient compositions of some typical media will be described in Table 6. However, it is not always necessary to test many kinds of basal media when a callus is induced. It would be better to use only one or two kinds of basal media in combination of different kinds and concentrations of phytohormones. The most suitable medium composition should be optimized afterwards in order to obtain higher level of products as well as higher growth rate.
+4.1.2.2. Carbon Sources
+Sucrose or glucose at 2 to 4% are suitable carbon sources which are added to the basal medium. Fructose, maltose and other sugars also support the growth of various plant cells. However, the most suitable carbon source and its optimal concentration should be chosen to establish the efficient production process of useful metabolites. These factors depend on plant species and products, therefore it is necessary to optimize the medium compositions including carbon sources in each case. From an economical point of view, the use of more inexpensive carbon sources is appropriate in industry and crude sugars such as molasses have been examined.
+Table 6 - Media for Plant Tissue and Cell Cultures (mg/L)
+Components Murashige-
+Skoog
+(1962) White
+(1963 Gamborg
+(1968) Nitsch
+(1951) Heller
+(1953) Schenk -
+Hildebrandt
+(1972) Nitsch -
+Nitsch
+(1967) Kohlenbach -
+Schmidt
+(1975) Knop
+(NH[4])[2]SO[4] - - 134 - - - - - -
+MgSO[4× ]7H[2]O 370 720 500 250 250 400 125 185 250
+Na[2]SO[4] - 200 - - - - - - -
+KC1 - 65 - 1,500 750 - - - -
+CaC1[2× ]2H[2]O 440 - 150 25 75 200 - 166 -
+NaNO[3] - - - - 600 - - - -
+KNO[3] 1,900 80 3,000 2,000 - 2,500 125 950 250
+Ca(NO[3])[2× ]4H[2]O - 300 - - - - 500 - 1,000
+NH[4]NO[3] 1,650 - - - - - - 720 -
+NaH[2]PO[4× ]H[2]O - 16.5 150 250 125 - - - -
+NH[4]H[2]PO[4] - - - - - 300 - - -
+KH[2]PO[4] 170 - - - _ - 125 68 250
+FeSO[4× ]7H[2]) 27.8 - 27.8 - - 15 27.85 27.85 -
+Na[2]EDTA 37.3 - 37.3 - - 20 37.25 37.25 -
+MnSO[4× ]4H[2]O 22.3 7 10 (1 H[2]O) 3 0.1 10 25 25 -
+ZnSO[4× ]7H[2]O 8.6 3 2 0.5 1 0.1 10 10 -
+CuSO[4× ]5H[2]O 0.025 - 0.025 0.025 0.03 0.2 0.025 0.025 -
+H[2]SO[4] - - - 0.5 - - - - -
+Fe[2](SO[4])[3] - 2.5 - - - - - - -
+NiC1[2× ]6H[2]O - - - - 0.03 - - - -
+CoC1[2× ]6H[2]O 0.025 - 0.025 - - 0.1 0.025 - -
+A1C1[3] - - - - 0.03 - - - -
+FeC1[3× ]6H[2]O - - - - 1 - - - -
+FeC[6]O[5]H[7× ]5H[2]O - - - 10 - - - - -
+K1 0.83 0.75 0.75 0.5 0.01 1.0 - - -
+H[3]BO[3] 6.2 1.5 3 0.5 1 5 10 10 -
+Na[2]M[0]O[4× ]2H[2]O 0.25
+Sucrose
+Glucose 30,000
+or
+Myo-Inositol 100 - 100 - - 1,000 100 100 -
+Nicotinic Acid 0.5 0.5 1.0 - - 0.5 5 5 -
+Pyridoxine HC1 0.5 0.1 1.0 - - 0.5 0.5 0.5 -
+Thiamine HC1 0.1-1 0.1 10 1 1 5 0.5 0.5 -
+Ca-Pantothenate - 1 - - - - - - -
+Biotin - - - - - - 0.05 0.05 -
+Glycine 2 3 - - - - 2 2 -
+Cysteine HC1 - 1 - 10 - - - - -
+Folic Acid - - - - - - 0.5 0.5 -
+Glutamine - - - - - - - 14.7 -
+4.1.2.3. Vitamins
+The basal media described above such as MS medium include myo-inositol, nicotinic acid, pyridoxine HCl and thiamine HCl. Among these vitamins, thiamine is an essential one for many plant cells and other vitamins stimulate the growth of the cells in some cases. The level of myo-inositol in the medium is 100 mg/L which is very high although it is not clear whether such a high level of the vitamin is required.
+4.1.2.4. Phytohormones
+Phytohormones or growth regulators are required to induce callus tissues and to promote the growth of many cell lines. As an auxin, 2,4-dichlorophenoxyacetic acid (2,4-D) or naphthaleneaceic acid (NAA) is frequently used. The concentration of auxins in the medium is generally between 0.1 to 50 µM. Kinetin or benzyladenine as a cytokinin is occasionally required together with auxins for callus induction at concentrations of 0.1 to 10 µM. Other derivatives of auxin and kinetin are also used in some cases. Since each plant species requires different kinds and levels of phytohormones for callus induction, its growth and metabolites production, it is important to select the most appropriate growth regulators and to determine their optimal concentrations. Gibberellic acid is also added to the medium if necessary.
+4.1.2.5. Organic supplements
+In order to stimulate the growth of the cells, organic supplements are sometimes added to the medium. These supplements include casamino acid, peptone, yeast extracts, malt extracts and coconut milk. Coconut milk is also known as a supplier of growth regulators.
+4.2. Methods
+4.2.1. Preparation of Media
+To prepare the medium, many researchers mix the stock solutions which were made previously since the medium compositions are generally complicated (30).
+For example, MS medium is prepared as follows:
+a. MS-Micronutrient stock solution (store in freezer)
+Ingredient mg/100 ml
+H[3]BO[3] 620
+MnSO[4] 4H[2]O 2230
+ZnSO[4] 7H[2]O 860
+Na[2]MoO[4] 2H[2]O 25
+CuSO[4] 5H[2]O 2.5
+CoCl[2] 6H[2]O 2.5
+b. Vitamins (store in freezer)
+Vitamins mg/100 ml
+Nicotinic acid 100
+Thiamine HCl 1,000
+Pyridoxine HCl 100
+Myo-Inositol 10,000
+c. Calcium chloride
+CaCl[2] 2H[2]O 15 g/100 ml
+d. Potassium iodide (store in amber bottle in refrigerator)
+KI 75 mg/100 ml
+e. 2,4-D (2.2 mM)
+Dissolve 50 mg 2,4-D in 2 to 5 ml ethanol, heat slightly and gradually dilute to 100 ml with water. (Store in refrigerator).
+f. NAA (2.8 mM)
+Prepare the same as 2,4-D above.
+g. Kinetin (1 mM)
+Dissolve 21.5 mg of kinetin in a small volume of 0.5 N HCl by heating slightly and gradually diluting to 100 ml with distilled water. (Store in refrigerator) Similar procedures can be used for other cytokinins.
+A certain volume of each stock solution is mixed and an appropriate carbon source is added to the mixture. After pH is adjusted to around 5.5 with 0.2 N K0H or 0.2 N HCl, distilled or deionized water is added to the mixture up to the certain volume required. Agar (0.6 to 1.0% wt/vol) is added for a solid medium.
+The medium thus prepared is distributed into vessels such as Erlenmyer flasks (for example, 50 ml of the medium in a 300 ml volume Erlenmyer flask) and sterilized by using an autoclave at 120° C for 15 minutes. The sterilization conditions should be varied based on the volume of the medium and the size of the vessel.
+4.2.2. Callus Induction
+Explants are sterilized with 2% sodium hypochlorite solution and/or 70% ethanol solution. The period of time for submerging the plant materials in these solutions depends upon plant species, their parts and age. For example, a piece of stem of tobacco plant (approximately 3 cm in length) is submerged in 70% ethanal solution of 2-3 minutes and then in 1.2% sodium hypochlorite solution for 10 minutes. The explants should be rinsed with sterilized water.
+The stem or any other part of plants thus sterilized is cut to approximately 1 cm in length using a sterilized scalpel and each piece is transferred with tweezers to a solid medium in a flask or a petri-dish. The plant material is incubated aseptically at around 25° C on the solid medium for several weeks or more and a callus is produced. The callus is subcultured by transferring a small piece to fresh solid medium. After several subsequent transfers, the callus becomes soft and fragile.
+4.2.3. Suspension Culture
+The growth rate of the suspension cultured cells is generally higher than that of the solid culture. The former is more desirable particularly in production of useful metabolites in a large-scale. A piece of the callus is transferred to a liquid medium in a vessel such as an Erlenmyer flask and the vessel placed on a rotary or reciprocal shaker. The culture conditions depend on plant species and other factors, but in general, the cells are cultivated at 100 r.p.m. on a rotary shaker at 25° C; some researchers are fond of much slower, or faster speeds. By subculturing for several generations, a fine cell suspension culture containing small cell aggregates and single cells is established. The time required to establish the cell suspension culture varies greatly and depends on the tissue of the plant species and the medium composition. The cells in suspension are also used for a large-scale culture with jar-fermentors and tanks.
+4.2.4. Scaling-up
+For commercialization, it is necessary to progress through several stages increasing the volume at each stage until the requisite bioreactor size is attained. In theory, it is anticipated that such large scale suspension cultures will be suitable for industrial production of useful plant chemicals such as pharmaceuticals and food additives, in a manner similar to that of microbial fermentation. Generally speaking, the culture period in plant cell cultures is longer than that in microbial cultures, and it is crucial to protect against microbial contamination.
+<section>6</section>
+CHAPTER 5
+EQUIPMENT AND FACILITIES
+5.1 Laboratory
+There are many textbooks describing very sophisticated laboratory systems for plant cell cultures. However, it is not always necessary to design special laboratories for this technology, but general microbiology laboratories can be used, although aseptic conditions are a prerequisite for incubation of plant cells as well as microbial cultures.
+The following equipment is required:
+Laminar air flow cabinets: The cabinets are commercially available in different sizes. They are placed in the laboratory where needed. If there is a sterile room, the cabinets are not always necessary.
+Autoclave: Autoclaves in different sizes are commercially available.
+Oven for dry sterilization: Although autoclaves can be used for dry sterilization, an oven is useful for sterilization of scalpels and glass-wares such as petri-dishes, pipets and others.
+Equipment for sterilization by filtration: The medium containing carbon sources and growth regulators are simultaneously sterilized using a autoclave but sometimes aseptic filtration is favorable to avoid decomposition of unstable chemicals. The equipment is also commercially available.
+Water distillation apparatus or pure water demineralizer: To prepare media, distilled water or deionized water is generally used although tap water can be used particularly in large-scale cultivation of plant cells in a large fermentor from an economical point of view.
+Culture rooms and/or Cabinets: To cultivate the plant cells, culture rooms under different temperature or and/or cabinet-type incubators are essential facilities. Temperature and light intensity as well as a duration of lighting in the room and/or in the cabinet are controlled under the optimal conditions.
+Shelves: Shelves built from rigid wire mesh to allow maximum air movement and minimize shading should be used in the culture room.
+Shakers: A rotary shaker or a reciprocal shaker is necessary for suspension cultures.
+5.2 Fermentors or bioreactors
+In order to cultivate plant cells in a large-scale, fermentors with different sizes are useful. Various types of fermentors have been designed by many researchers since the end of 1950's as seen in Fig. 3. The most simple vessel is a carboy system described by Tulecke and Nickell in 1959 (10) which consists of a rubber-stoppered 20 L carboy fitted with four tubes (air-in, air-out, medium-in and sample-out). Filtered compressed air is employed for oxygen supply, aeration and agitation of the medium. A roller-bottled system using a round flask was used by Lamport (31) in 1964. A V-shape fermentor was proposed by Veliky and Martin (32). It is an inverted flask carrying two teflon-coated stirring bars on a glass pin situated at the bottom of the flask. A drain/sample port is also located at the bottom. The top of the flask is fitted with four standard taper penetrations.
+However, the most common types of system on the bench is a stirred-jar fermentor which is used for microbial cultivation although some minor alteration is made. For example Martin et al. (33) increased the size of each impeller blade to 1 inch with a commercially available 7.5 L New Brunswick Microferm Fermentor.
+Kato et al. (34) suggested that an agitation speed of 50 to 100 r.p.m. was most appropriate for the growth of tobacco cells in stirred-jar fermentors. It is true that cultured plant cells are more fragile than bacterial cells, however, Martin noted: "it seems obvious that cell lines differ in their resistance to shear effects and that a single optimum agitation speed cannot be designed for all lines" (35).
+Wagner et al. (36) compared a variety of fermentor types equipped with different agitation and aeration systems with various productivities of cell mass and anthraquinones using Morinda citrofolia cells, and recommended the air-lift type fermentor as the most suitable system (Fig. 4). Tanaka et al. (37) designed a rotary-drum type fermentor having an in-let and an out-let at the side of the fermentor (Fig. 5). The fermentor itself rotates slowly like as a rotary bottle. Recently, Ten Hoopen et al. (38) discussed the problems and profiles of large-scale plant cell culture. However, fermentors installed with agitators which are similar to those of microbial culture have been employed for commercial production of shikonin and ginseng cells although some modification in equipment was made to optimize physical conditions.
+A company in Germany, DIVERSA, has equipped 5 sophisticated fermentors of up to 75,000 L for plant cell cultures (39). Although detailed modifications to those fermentors has not been disclosed, the photos show that they are similar to ordinary microbial fermentors. The company has cultivated Echinacea purpurea cells for the manufacture immunobiologically active polysaccharides.
+Figure 3: Various Fermentors for Plant Cell Cultures Figure 3: Various Fermentors for Plant Cell Cultures
+Figure 3: Various Fermentors for Plant Cell Cultures Figure 3: Various Fermentors for Plant Cell Cultures
+Source: Martin, S.M., In "Plant Tissue Culture as a Source of Biochemicals" Ed. Staba, E.J. P. 151-164 (1980). CRC Press, Florida, USA
+Figure 3: Various Fermentors for Plant Cell Cultures
+Figure 3: (Continued) Various Fermentors for Plant Cell Cultures Figure 3: (Continued) Various Fermentors for Plant Cell Cultures
+Figure 3: (Continued) Various Fermentors for Plant Cell Cultures
+Figure 3: (Continued) Various Fermentors for Plant Cell Cultures
+Figure 3: (Continued) Various Fermentors for Plant Cell Cultures
+Figure 4: Comparison of Yeld and Productivity for Cell Mass and Anthraquinones in Varoius Reactor Systems 1. Shake flask; 2. flat blade turbine; 3. perforated disk impeller; 4. draft tube reactor with kaplan turbine; 5. airlift reactor
+Source: Wagner, F. In "Plant Tissue Culture and Its Bio-technological application"
+Ed. Barz, W. et al., p. 250 (1977). Springer-Verlag, Berlin Heidelberg.
+Figure4: Comparison of Yeld and Productivity for Cell Mass and Anthraquinones in Varoius Reactor Systems
+1. Shake flask; 2. flat blade turbine; 3. perforated disk impeller; 4. draft tube reactor with kaplan turbine; 5. airlift reactor
+Figure 5: Rotating Drum Fermentor Designed by Tanaka
+Figure 5: Rotating Drum Fermentor Designed by Tanaka
+Tanaka, H., et al., Biotechnol. Bioeng., 24 2359 (1983)
+<section>7</section>
+CHAPTER 6
+APPROACHES TO INCREASE PRODUCTIVITY
+Several products were found to be accumulated in cultured cells at a higher level than those in native plants through optimization of cultural conditions (Table 2). For example, ginsenosides by Panax ginseng (40), rosmarinic acid by Colleus blumei (23), shikonin by Lithospermum erythrorhizon (41), diosgenin by Dioscorea (42), ubiquinone-10 by Nicotiana tabacum (43) were accumulated in much higher levels in cultured cells than in the intact plants.
+However, many reports have described that yields of desired products were very low or sometimes not detectable in dedifferentiated cells such as callus tissues or suspension cultured cells. In order to obtain products in concentrations high enough for commercial manufacturing, therefore, many efforts have been made to stimulate or restore biosynthetic activities of cultured cells using various methods. The following are typical approaches that may increase productivity of cultured plant cells.
+6.1 Optimization of Cultural Conditions
+6.1.1 Medium
+A number of chemical and physical factors affecting cultivation have been tested extensively with various plant cells. These factors include media components, phytohormones (growth regulators), pH, temperature, aeration, agitation, light, etc. This is the most fundamental approach in plant cell culture technology. Since there are many reports and patents concerning optimization of cultural conditions in order to improve growth rates of cells and/or higher yield of desirable products, it is impossible to give detailed results in this section. Therefore, only a few typical examples will be described.
+Zenk et al. (17) tested various well-known basal media for the production of serpentine, an indole alkaloids, as summarized in Table 7. The results indicate that the amount of serpentine depends on the composition of the basal medium used. Among them, Murashige-Skoog's (MS) formulation was recognized to be the most suitable one for the production of this particular alkaloid by Catharanthus roseus suspension. This is of course not always true in other cultures.
+Table 7 - Effects of Different Media on Growth and Serpentine Production in
+Cell Suspension Cultures of Catharanthus roseus
+Basal
+Medium * Cell yield
+g dwt/1 Serpentine
+mg/1 Serpentine Content
+% dwt
+Blaydes
+Gamborg - B5; + 2,4-D: 1 mg/1
+Gamborg + 2,4 D: 2 mg/1
+Gamborg + NAA : 1.86 mg/1
+Gamborg
+Heller + IAA:O.175; BA: 1.13 mg/1
+Linsmaier and Skoog
+Murashige and Skoog
+Nitsch and Nitsch
+Velicky and Martin
+White 7.6
+* IAA = Indole-3-acetic acid
+NAA = 1-Naphthalene acetic acid
+2,4-D = 2,4-Dichlorophenoxy acetic acid
+Kin = Kinetin
+BA = Benzyladenine
+Source: Zenk, M.H., et al., Plant Tissue Culture and Its Bio-technological Application p. 27 (1977), Springer-Verland, Berlin, Heidelberg.
+Sucrose and glucose are the preferred carbon source for plant tissue cultures. The concentration of the carbon source affects cell growth and yield of secondary metabolites in many cases. The maximum yield of rosmarinic acid produced by cell suspension cultures of Salvia officinalis was 3.5 g/L when 5% of sucrose was used but it was 0.7 g/L in the medium containing 3% sucrose (44).
+Among a number of other components in the medium phytohormones such as auxins and kinetins have shown the most remarkable effects on growth and productivity of plant metabolites. In general, an increase of auxin levels, such as 2,4-D, in the medium stimulates dedifferentiation of the cells and consequently diminishes the level of secondary metabolites. This is why auxins are commonly added to the medium for callus induction, but they are added at a low concentration or omitted for production of metabolites. Decendit reported that cytokinins stimulated alkaloid synthesis which was induced by removing auxin from the medium of a cell line of C. roseus. However, productions of L-DOPA by Mucuna pruriens (45), ubiquinone-10 by N. tabacum (46) and diosgenin by Diocorea deltoidea (47) were stimulated by high levels of 2,4-D.
+Although kinetin is one of the most popular cytokinins, 4-chloro-2-diphenylurea was reported to stimulate production of an antitumor compound, tripdiolide, by Triptorygium wilfordii cell cultures (8). Gibberellic acid is also effective on plant cell cultures. DiCosmo et al. (48) recently reported that the growth of callus of a taxol-producing plant, Taxus cuspidata, was significantly promoted by addition of gibberellic acid into the solid medium.
+6.1.2 Temperature, pH, Light and Oxygen
+The effects of temperature, pH, light and oxygen are all parameters that must be examined in the studies secondary metabolites production.
+A temperature of 17- 25° C is normally used for induction of callus tissues and growth of cultured cells. But, each plant species may favor a different temperature. Toivonen (49) found that lowering the cultivation temperature increased the total fatty acid content per cell in dry weight.
+The medium pH is usually adjusted to between 5 and 6 before autoclaving and extremes of pH are avoided. The optimum pH is determined and controlled using a small scale bioreactor or a jar fermentor with pH control equipment.
+Present scale-up technology dictates the use of stainless steel tanks for growth of plant cells on an industrial scale, thus in general, eliminating the use of light. However, since there are cases of light-stimulated secondary metabolites production (2), this factor should be investigated as it could help elucidate regulatory factors. Modification of fermentors with lighting facilities have also been carried out.
+As described in the section on Facilities, various fermentors have been designed and tested by many researchers. These include modification of impellers or agitators for microbial fermentors, improvement of air-lift fermentors and use of new type reactors such as rotary-drum type fermentors. For hairy root cultures, fermentors equipped with special hangers inside the vessel are being used (50).
+Each plant species has different optimized conditions both for growth of the cells and for production of useful products, so it is necessary to optimize the conditions in each case.
+6.1.3 High Cell Density Culture
+To increase the productivity of secondary metabolites, high cell density cultures have been investigated. Using a newly designed fermentor and optimized culture medium, Coptis japonica cells were grown up to 75 g/L of cell mass. The highest yield of berberine, 3.5 g/L, was produced intracellularly in 55 g/L of the cell mass (51).
+6.1.4 Absorption of Products
+Most products are generally accumulated intracellularly by cultured plant cells, but some compounds were reported to be secreted into the media. Chinchona ledgerina cells excrete anthraquinones in the liquid medium. Robins et al. (52) reported that addition of a resin, XAD-7, into its suspension culture stimulated the production of anthraquinones up to 539 mg/L which was approximately a 15 times increase compared to the medium without resin. The pigments were mostly found to be absorbed by the resin. The yields of ajmalicine and serpentine produced by C. roseus were also increased by addition of XAD-7 and the ratio between both alkaloids produced was changed. It is of interest that production of these alkaloids which are known to accumulate inside cells were affected by the presence of resin. A similar approach was conducted by Knoop et al. (61) in which addition of active charcoal in the medium stimulated the yield of coniferyl alcohol up to 60-fold in a Maticaria chamomila
+culture.
+Becker et al. (62) recognized increases of several plant products produced using a continuous extraction process with two-phase organic solvents.
+6.2 Selection of High-Producing Strains
+The physiological characteristics of individual plant cells are not always uniform. For example, pigment producing cell aggregates typically consist of producing cells and non-producing cells. In 1976, Zenk and his colleagues in Germany obtained cell lines of Catharanthus roseus which accumulated higher levels of ajmalicine and serpentine as determined by radioimmunoassay (17). This is similar to monocolony isolation of bacteria. Following their excellent results, a number of researchers have used cell cloning methods as this is the most promising way of increasing the levels metabolites present. Some typical examples are shown in Table 8. Most of them are related to production of pigments, such as anthocyanins, as visual selection is easy because of the color.
+Table 8 - Typical examples of Cell Cloning Application
+Products Plants Factors
+Anthocyanins
+Anthocyanins
+Berberine
+Biotin
+Ubiquinone-10 Vitis hybrid
+Euphorbia milli
+Coptis japonica
+Lavendula vera
+Nicotiana tabacum 2.3-4
+Source: Misawa, M. Advances in Biochemical Engineering/Biotechnology, Vol.31, Ed. Fiechter, A. p. 70 (1985), Springer-Verlag, Berlin, Heidelberg.
+Yamakawa et al. (55) isolated a strain of Vitis hybrid using an agar plating feeder method (56); the culture produced 3.4% (dry wt.) of anthocyanins.
+A strain of Euphorbia milli was also recognized to accumulate about 7 times higher amounts of anthocyanins than that of the parent strain after 24 selections (57). Statistical and cell-pedigree analysis proved that production of the red pigments was stable.
+According to Constabel's investigation (58) with C. roseus, anther, leaf, and meristem explants, synthesis and accumulation of alkaloids in cell cultures differ significantly provided the comparison is based on individual alkaloid types. Variation of alkaloid profiles in callus tissue developed from the anther walls and fillaments of C. roseus ranged from cell lines with no detectable alkaloids to those with 12 alkaloids representing Corynanthe-, Strychnos-, Aspidosperma-, and Iboga-type alkaloids.
+Yamada et al. (59) repeated cell cloning using cell aggregates of Coptis japonica, and obtained a strain which grew faster and produced a higher amount of berberine and cultivated the strain in a 14 L bioreactor. The selected cell line increased growth about 6-fold in 3 weeks and the highest amount of the alkaloid produced was 1.2 g/L of the medium. The strain was very stable, producing a high level of berberine even after 27 generations.
+Cultured, green Lavendula vera cells grown in the light were found to accumulate a high level of free biotin by Watanabe et al. (60). To select a high-producing cell line, pimelic acid, a precursor of biotin, was used as a selecting agent. The level of biotin accumulated by a selected cell-line was 0.9 µg/L which was 10 times the amount found in the leaves.
+Selection of a high ubiquinone-10 producing Nicotiana tabacum strain has produced excellent results (61). A group in the Japan Tobacco Inc. isolated a number of strains producing high levels of ubiquinone-10 from tobacco cell cultures and analyzed the contents in the cells by HPLC and by Craven assay. Several strains producing large amounts of ubiquinone-10 in suspension culture were selected and were subjected to further cell cloning. After the 13th recloning, a strain was selected from approximately 4000 cell clones tested giving a ubiquinone-10 level of 5.2 mg per dry weight of cells. When N. tabacum BY-2, a parent strain used for the cloning, was isolated as a producer in 1976, the titer for ubiquinone-10 was only 360 µg/g dry weight, therefore the level was increased by more than 14 times by selection. It may be noted that 5.2 mg/g corresponds to 180 times the amount produced by the parent plant.
+Zieg et al. (62) reported the selection of high pyrethrin producing tissue cultures derived from Chrysanthemum cineraliaefolium and indicated that analytical screening of the tissue lines enabled the selection of a few "high yielding" strains which were derived from high yielding plant selections. A rapid assay method is crucial in the selection of a high yielding cell line. Deus and Zenk (4) reported that a procedure using fluorescence assay to select ajmalicine and other major heteroyohimbine alkaloids producing cells of C. roseus was of clear advantage even over a radioimmunoassay procedure since almost unlimited numbers of colonies could be screened in this way. However, the cell cloning is especially compatible with selection for high pigment production since selection can be achieved visually, or with the use of simple spectrophotometric analysis.
+Cell cloning is undoubtedly a very useful technique to increase the level of secondary metabolites and it should be applied as widely as possible. However, it is not obvious why cultures contain both high- and low-yielding cells. Only a few papers concerned with possible mechanisms have appeared. Bohm (63) indicates that the lack of specific enzyme(s) represents the most important reaction for the inability of plant cell cultures to produce secondary metabolites.
+Berlin et al. (64) compared the highest cinnamoyl putrescine producing, p-flurophenylalanine resistant strain TX-4 or N. tabacum L. CV Xanthi with a low producing strain for five enzymes of the biosynthetic pathway. As a result, activities of these enzymes, phenylalanine ammonia-lyase, trans-cinnamate-4-hydroxylase, 4-coumarate:CoA ligase, ornithine decarboxylase and arginine decarboxylase were found to be 3 to 10 times higher in TX4 cells.
+Protoplasts were also used for the selection of high-shikonin producing cell lines of L. erythroryzon and thiophene producing Tagetes patula cell lines (65).
+6.3 Addition of Precursors and Biotransformation
+6.3.1 Addition of Precursors
+Addition to the culture media of appropriate precursors or related compounds sometimes stimulates secondary metabolite production. This approach is advantageous if the precursors are inexpensive. Since Chan and Staba (66) initially examined the production of alkaloids with this approach in the 1960's, many similar experiments have been carried out. For example, amino acids have been added to cell suspension culture media for production of tropane alkaloids, indole alkaloids, and ephedorin and some stimulative effects have been observed. It is true that some amino acids are precursors of various alkaloids, but generally the biosynthetic steps from amino acids to alkaloids are so complicated that the author doubts whether amino acids added were incorporated into the alkaloids directly in cell culture. Perhaps, they affected not only alkaloid biosynthesis directly as precursors, but also indirectly through other metabolic pathways in the cells.
+Phenylalanine is one of the biosynthetic precursors of rosmarinic acid (67). Addition of this amino acid to Salvia officialis suspension cultures stimulated the production of rosmarinic acid and shortened the production time as well. Tabata et al. (68) reported that addition of 500 mM tropic acid to the medium of Scopolia japonica increased the amount of alkaloids by up to 14 times. The level of an anticancer compound, tripdiolide, produced by T. wilfordii cultured cells was increased by addition of 100 µg/L farnesol which is dephosphorylated farnesyl pyrophosphate, and an intermediate in the biosynthesis of terpenoids (8). Addition of phenylalanine into the agar medium of Taxus cupsidata cells was found by DiCosmo et al. to stimulate the biosynthesis of an anticancer compound, taxol (48).
+However, biotransformation using intact cells or immobilized cells is an alternative way of producing a product by adding precursors into the culture media.
+Endress et al. (70) reported that Rauwolfia serpentina formed a new indole alkaloid, 6-hydroxytaumacline, in significant amounts when the cells were cultivated in the presence of ajmalicine. Arbutin, a skin depigmentation agent, is produced by biotransformation of hydroquinone using C. roseus cells (71). Addition of the precursor into the liquid culture medium of this cell line produced arbutin efficiently. As described later, this process is being studied by Shiseido in Japan for commercial application.
+In order to produce a prodrug, Umetani et al. (72) studied the glucosylation of umebelliferone and salicylic acid using Mallotus japonicus cells and reported that the latter was converted to its o-glucoside with a yield of 90-95%. The maximum level of the product obtained was 0.9 g/L. The glucoside showed as potent an analgesic activity as salicylic acid, while its effect was more rapid and more long-lived than that of salicylic acid in mice. It is of interest that plant cells are able to form prodrugs having commercial usefulness. Dombrowski & Alfermann (73) also worked on glucosylation of salicylic acid and its derivatives. They found that cultured Salix matsudana cells glucosylated salicylic acid to 2-o-salicylic acid-ß-D-glucoside. The cells also converted salicyl alcohol to both salicin (2-o-salicyl alcohol-ß-D-glucoside and isosalicylicin (1-o-salicyl alcohol-ß-D-glucoside. However, salicylic aldehyde was converted to ß-D-glucosides of salicylic acid and salicyl
+alcohol instead of helicin.
+The conversion of geraniol and nerol to neral and geranial by Vitis vinifera cell suspension cultures is also interesting. Using plant cell culture techniques, radioactive labelled compounds can be formed from appropriate substrates as reported by Mangold et al. (74). This is a useful application of the technology because of high value of the product.
+6.3.2 Biotransformation
+Instead of the addition of a particular compound as a precursor into the culture medium of plant cells, a suitable substrate compound may be biotransformed to a desired product using plant cells. This approach has been extensively applied in the fermentation industry using microorganisms and their enzymes. For example, L-aspartic acid and L-malic acid are being manufactured commercially from fumaric acid, respectively using microorganisms (75, 76). And various steroids are also produced by microbial biotransformations.
+Biotransformation of ß-methyldigitoxin to ß-methyldigoxin using D. lanata cells has been extensively investigated by Reinhard and Alfemann (21) in Germany since 1974 because digoxin has a large market as a cardiac glycoside. About 600-700 mg of ß-methyldigoxin per litre was obtained using a 200 L reactor. This process was studied for commercialization by Boehringer Mannheim Co.
+Allelix Inc. in Canada (22) established processes for production of a very expensive antitumor drug, vinblastine, from catharanthine and vindoline using a biotransformation as well as a simple chemical synthesis which will be described in another section in this review. The process is now being developed for commercialization by Mitsui Petrochemical in Japan (77). Concerning vinblastine-related compounds production, Bede and DiCosmo (78) also reported a biotransformation of catharanthine and vindoline to anhydrovinblastine using horseradish peroxidase and glucose oxidase mediated coupling of vindoline and catharanthine.
+The author believes that biotransformation processes including addition of substrates into the cultures are one of the most commercially realistic approaches in plant tissue cultures because of economic reasons. However, the availability of inexpensive precursors is a key issue.
+6.4 Elicitor Treatment
+Microbial infections of intact plants often elicit the synthesis of specific secondary metabolites. The best understood systems are those of fungal pathogens in which case the regulatory molecules have been identified as glucan polymers, glycoproteins and low molecular weight organic acids (79). DiCosmo and Towers (88) reviewed possible correlations between stress and secondary metabolism in cultured cells.
+Examples of microbial elicitor induction include psoralen production in parsley (81) diosgenin production in the Mexican yam (42) and many others. Tyler et al. (82) described that a cell line of Papaver somniferm that synthesized and accumulated sanguinarine, a quaternary benzophenanthridine alkaloid when exposed to a homogenate of the fungas Botrytis. A portion of the sanguinarine was released into the culture medium. Sanguinarine extracted from the intact plants is being used for oral hygienic products.
+Effects of elicitors on secondary metabolism have been investigated at the enzymatic levels to determine their mode of action. Eilert and Wolters (83) added autoclaved culture homogenate of yeast, Rhodotorula rubra into the suspension culture of Ruta graveolens and found that S-adenosyl-L-methionine:anthranilic acid N-methyltransferase was elicited. A yeast polysaccharide preparation induced L-tyrosine decarboxylase in suspension cultures of Thalictrum rugosum and Eschscholtzia californica (84); the enzyme was induced after 5 hours after addition of the elicitor at 30 to 40 µg/g-cell fresh wt.
+Recently Mizukami et al. (85) reported a transient increase in rosmarinic acid, a-0-caffeoyl-3,4-dihydroxyphenyllactic acid, content in cultured cells of L. erythrorhizon after addition of yeast extract to the suspension cultures: a maximum was reached in 24 hr. When the plant cells were treated with yeast extract on the 6th day of the cultivation, the level of rosmarinic acid increased 2.5 times and the activity of phenylalanine ammonia-lyase in the cells rapidly increased before synthesis of rosmarinic acid.
+In suspension cultured cells of parsley, Petroselinum crispum, Conrath et al. (86) found that chitosan elicited a rapid deposition of the 1,3-ß-glucan, callose.
+Recent developments in phytochemical elicitation have shown that simple inorganic and organic molecules can induce product accumulation. Sodium orthovanadate (87) and vanadyl sulphate induced the accumulation of isoflavone glucosides in Vigna angularis cultures and indole alkaloid accumulation in Catharanthus roseus cultures, respectively. Other substances found to stimulate alkaloid accumulation in C. roseus include sodium chloride, potassium chloride and sorbitol (88) as well as abscisic acid (89). Processes such as these, employing simple and cheap elicitors have much promise in industrial scale plant cell cultures.
+Davis et al. (90) recognized that addition of oxalate to the medium of Gossypium hirsutum suspension culture could reduce the amount of Verticillium dahliae elicitor to be employed to stimulate metabolite synthesis. Addition of a fungal elicitor often inhibits the growth of plant cells but a combination of the elicitor and oxalate did not reduce the cell mass of the plant, therefore secondary metabolite synthesis was increased up to ten fold.
+Dunlop and Curtis (91) reported that a combination of phosphate limitation and fungal elicitation synergistically increased production of secondary metabolites. They found that either phosphate limitation or elicitation with a mycelial extract of the fungus, Rhizoctonia solani alone results in increased production of the sesquiterpene solavetivone by Agrobacterium rhizogenes-transformed hairy root cultures of Hyoscyamus muticus. However, when phosphate limitation is coupled with fungal elicitation, the productivity increase is considerably greater than that obtained with either method alone.
+Although the mechanism by which elicitors increase the productivity of secondary plant metabolites has not been elucidated, their stimulating activity is quite significant if an appropriate elicitor is chosen to stimulate synthesis of a particular product. However, the use of microbial elicitors may not be economical since an elicitor-producing microorganism should be cultivated in a fermentor separately from cultivation of plant cells using another fermentor. The fermentation cost for an elicitor-producing microorganism is not always inexpensive. In this sense, a simple and cheap compound should be employed as an elicitor.
+6.5 Application of Immobilized Cells
+Immobilization of plant cells is considered to be of importance in research and development in plant cell cultures, because of the potential benefits that could be provided (24, 92):
+a) The extended viability of cells in the stationary (and producing) stage, enabling maintenance of biomass over a prolonged time period;
+b) Simplified downstream processing (if products are secreted);
+c) The (putative) promotion of differentiation, linked with enhanced secondary metabolism;
+d) Higher cell density enabling a reduced bioreactor size, thereby reducing costs and the risk of contamination;
+e) Reduced shear sensitivity (especially with entrapped cells);
+f) Promotion of secondary metabolite secretion, in some cases;
+g) Flow-through reactors can be used enabling greater flow rates;
+h) Minimization of fluid viscosity increase, which in cell suspension causes mixing and aeration problems.
+An immobilization system which could maintain viable cells over an extended period of time and release the bulk of the product into the extracellular medium in a stable form, could dramatically reduce the costs of phytochemicals production in plant cell culture (1). However, an immobilized system also has the problems described below:
+a) Immobilization is normally limited to cases where production is decoupled from cell growth;
+b) The initial biomass must be grown in suspension;
+c) Secretion of product into the extracellularly medium is imperative;
+d) Where secretion occurs there may be problems of extracellular degradation of the products;
+e) When gel entrapment is used, the gel matrix introduces an additional diffusion barrier.
+Due to these problems, a system with commercial potential has not yet been developed in plant tissue cultures. However, various immobilization methods have been developed, ie., entrapment, adsorption and covalent coupling.
+Some preliminary results have been obtained with immobilized cells. Early work with C. roseus, showed that agar, agarose and carageenan were all suitable immobilization matrices suitable for maintenance of cell viability; but alginate was superior in terms of ajmalicine production (93). The accumulation of serpentine by C. roseus and anthraquinones by Morinda citrifolia were both enhanced in the immobilized state when compared with freely suspended cells. It should be noted however, that the possibility that alginate acts as an elicitor of secondary metabolism cannot be ruled out (94). Agar has been shown to stimulate shikonin accumulation in L. erythrorhizon cultures (95). Lambe and Rosevear (96) have successfully immobilized C. roseus cells in polyacrylamide with alginate and observed prolonged viability and increased productivity.
+Adsorption immobilization has been successfully used with a number of plant species. Capsicum frutescens cells immobilized on polyurethane foam produced 50 times as much capsaicin as suspension cells (97). Similarly, Solanum nigrum cells accumulated glycoalkaloids to levels exceeding those found in suspensions. Datura innoxia cells accumulated tropane alkaloids with a profile similar to that of the intact plant, whilst in free suspensions productivity was markedly suppressed (98). In general it appears that mild immobilization either through gel entrapment or surface adsorption enhances productivity and prolongs the viability of cultured cells.
+As described in the section on Biotransformation, immobilized cells can also be used as biocatalysts for biotransformations. Such a system compares favourably with the use of freely suspended cells since, in the case of immobilization, the catalyst is theoretically reusable and the product is easily separated from the biomass. The most appropriate example is that of the 12-hydroxylation of ß-methyldigitoxin to ß-methyldigoxin with alginate-entrapped Digitalis lanata cells (99). The enzyme activity was maintained by the immobilized cultures for a period of 61 days. Furthermore, the product was located in the extracellular medium. Mild permeabilization of the cells may enable biotransformation rates to be increased. Polyurethane-immobilized C. frutescens cells fed capsaicin precursors produced this metabolite at levels of up to 10 times those of non-fed cultures (98). DiCosmo et al. (48) found that glass fibres can be used as a carrier of plant cells to produce useful plant
+metabolites. Papaver somniforum cells were immobilized on fabric of loosely woven polyester fibres arranged in a spiral configuration on stainless steel support frame by Kurz et al. (100) to produce sanguinarine, an antibiotic in oral hygiene. The yield was 3.6 mg/g-fw. by immobilized cells and was more than twice as much as by suspension cells.
+6.6 Product Secretion
+Many plant products produced by cell cultures have been reported to be accumulated intracellularly. However, it may be possible to produce much higher level of product if it was secreted into the medium. This is because the product intracellularly accumulated sometimes inhibits its own synthesis by regulation mechanisms such as product inhibition and repression. For many immobilized plant cell systems to work it is essential that a significant amount of product is released into the medium. Two types of immobilization system with C. roseus i.e. gel entrapment in polysaccharide beads (93) and in polyacrylamide sheets (96), have both exhibited alkaloid release by mechanisms that do not appear to be associated with losses in viability. Capsicum frutescens cells immobilized on polyurethane released capsaicin entirely into the medium, although other species immobilized by the same method retained the product intracellularly (97).
+To enhance release, permeabilization of cell membranes has been attempted, but with only limited success. Brodelius (101) tested five permeabilizing agents on three different species, and although product release was achieved, cell viability dropped in most cases. The exceptions were DMSO and Triton X-100, applied to C. roseus cells. Other attempts to permealize cells have also resulted in non-viable populations and the use of electroporation has also resulted in a viability decrease (101). The release of betanin by Beta vulgaris cells ultrasonicated for 20 to 60 seconds has been reported, with no apparent effect on cell viability (102). Chenopodium rubrum cells, immobilized in alginate beads, secreted the red betacyanin pigment amaranthin into the medium (103). However, the pigment was subsequently degraded; chitosan and DMSO permitted further product release into the extracellular medium, but this was also accompanied by product degradation. Low concentrations of chitosan
+(0.01%) and DMSO (5.7%) incubated with the cultures for 96 hr did not appear to affect viability significantly, but a longer incubation period (196 hr) had a deterlerious effect.
+The lack of an appropriate means of product release is a serious problem in terms of an industrial approach particularly based on immobilization of plant cells. It is perhaps necessary to examine in vivo physiological mechanisms of release. Thus, some researchers have been investigating the factors involved in vacuolar phytochemical storage. The accumulation of indole alkaloids in C. roseus vacuoles has been attributed to an ion-trap mechanism whereby the basic indole alkaloids are trapped in the acidic vacuole due to their positive charge at low pH, preventing diffusion across the tonoplast (104, 105). This mechanism has also been demonstrated for quinoline alkaloid accumulation in Cinchona species (106).
+Active uptake mechanisms have also been reported for indole alkaloids in C. roseus vacuoles (107) and isoquinoline alkaloids in Fumaria capreolata L. (108). The physiological significance of these two possible mechanisms is not yet clear, since there is obviously strong evidence for both. In terms of product release, it is pertinent to note that in cell cultures, an efflux of alkaloids was observed under certain conditions, indicating an equilibrium between the intracellular and extracellular compartments that could be perturbed by medium acidification with subsequent product release (105, 106). The release of serpentine by C. roseus cells was observed when the cells were filtered and resuspended in fresh or conditioned medium and it was suggested that temporary membrane uncoupling was responsible (109).
+Although most plant cell culture products were shown to be accumulated intracellularly, Shuler et al. (111) recently reported that almost all of taxol produced by Taxus brevifolia cell cultures was detected in the culture filtrate. This is an exceptional case in plant tissue culture research.
+6.7 Mutagenesis
+In the fermentation industry, induction of genetic mutant strains of microorganisms is ubiquitous, and auxotrophic and/or regulatory mutants are used extensively to produce a variety of products including amino acids, nucleotides, antibiotics, etc. However, mutagenesis has limited applicability to plant cell cultures, because of their diploid genetic make-up: the chance of obtaining a double mutation in a target gene is less than 1 in 10^6 (112). Although, in principle, haploid plants can be produced from anther cultures; in practice haploid cell cultures tend to revert to the diploid state. This makes the chance of isolating over-producing cells from mutagen treatment of haploid cells very low. Furthermore, biosynthetic pathways of many secondary metabolites and their regulation mechanisms in higher plants are not always understood precisely, therefore, it is also difficult to know what kind of mutants should be induced in order to increase product synthesis.
+However, Berlin (113) induced p-fluorophenylalanine resistant cell lines of tobacco cell cultures and found that five lines of N. tabacum and five lines of N. glauca out of 31 resistant cell lines accumulated higher levels of phenolics. He and his colleagues (113) also reported that a resistant strain of N. tabacum produced 6 to 10 times higher levels of cinnamoyl putrescine than that of the parent strain. Fig. 6 shows the comparison of enzyme activities involved in the biosynthesis of cinnamoyl putrescines in a parent strain, TX1 and a resistant strain, TX4. Enzyme activities in the p-fluorophenylalanine resistant strain were much higher than those of the parent. Berlin et al. also found that a parent strain of C. roseus produced catharanthine only in the production medium but its tryptophan analog resistant mutant accumulated the same alkaloid even in the growth medium. Among several types of analogues tested, 4-fluorotryptophan was found to be the most efficient of them.
+Figure 6: Comparison of Enzyme Activities involved in the Biosynthesis of Cinnamoyl Putrescines in TX1 (filled symbols) and TX4 (open symbols) of N. tabacum
+Figure 6: Comparison of Enzyme Activities involved in the Biosynthesis of
+Cinnamoyl Putrescines in TX1 (filled symbols) and TX4 (open symbols) of N. tabacum
+Source: Misawa, M., In "Adv. in Biochem. Eng./Biotech." Ed. Fiechter, A. p. 73 (1985). Springer-Verlag, Berlin, Heidelberg, New York, Tokyo.
+Increase of metabolite levels using regulatory mutants is theoretically possible and selection of suitable analogues for this purpose could be an important factor in order to produce a variety of products. Several research groups (114-146) have used mutagens such as N-methyl-N'-nitro-N-nitrosoguanidine, ethylmethane sulfonate, N-ethyl-N-nitrosourea or X-rays to induce high yielding strains. In China (117), a fine callus strain of Anisodus acutangulus was derived through irradiation with 4000 R of X-ray, and the level of scopolamine in the cells was 0.177 mg/g d.wt., which was about 30% higher than of the parent. The productivity was stable. Deus (118) treated C. roseus with X-rays and obtained a cell line having a high producing activity of serpentine whose level was 2%.
+A cell line of Lavendula vera producing a high level of free biotin was obtained by gamma ray irradiation for 1 hr. with ^60Co (dose 10 KR h) by Watanabe et al. (60). The line was found to contain 7 times the amount, 0.425 µg/g-fresh wt., of free biotin compared with the original unselected cells, 0.061 µg/g fresh wt., and 4.5 times that found in the leaves.
+In spite of the difficulty of obtaining auxotrophic mutants in plant cells, several groups have been actively working with this approach using haploid cells or protoplasts (119, 120) although their aim is not always for plant metabolite production.
+Induction of a mutant having altered permeability could also be important, because plant cells generally accumulate their metabolites intracellularly, which is disadvantageous in commercial production because the amount of compounds produced is usually low. If the cells excreted products in large amounts, the product cost would be reduced. According to Berlin's results (121), Thuja occidentalis excreted monoterpenoids, but the levels in the medium were only 5% of those in the mother plant. The same group reported that Macleya microcarpa cells excreted nearly all the alkaloids detectable in the culture flask (121). Yamakawa et al. cultivated Tinospora rumphii cells in 14 ml medium and found 0.57 (5.3% in dry weight cells) of isoquinoline alkaloids in the cells and 0.5 mg in the culture filtrate after 7 days cultivation. By replacement of the medium with fresh medium after 3 days of cultivation, 0.50 mg of the alkaloids in the cells, and 1.02 mg in the filtrate were
+accumulated. It seems then that the products must be excreted to some extent. Unfortunately, the secretion mechanisms for secondary products in higher plant cells have not yet been elucidated and extensive fundamental studies are required before meaningful manipulation can take place.
+6.8 Morphological Differentiation and Hairy Root Culture
+6.8.1 Organ Culture
+It is desirable to use morphologically undifferentiated cells for the production of useful metabolites in ways similar to microorganisms and there are many examples which show high productive ability of such cells compared with intact plants as already described in this review. In fact, the author has a callus of Phytolacca americana which was induced from a stem tissue more than 10 years ago. This morphologically undifferentiated cells still produce a high level of an alkaloid, betanine. However, a putative link between differentiation and secondary metabolite accumulation has been proposed by many researchers in this field.
+Wienmann (122) discussed that a close correlation existed between the expression of secondary metabolism and morphological and cytological differentiation, but he concluded that it is not yet clear to what extent secondary metabolism depends on the development of specific structures, it is unknown whether these two processes are genetically and/or physiologically linked.
+The development of a certain level of differentiation is considered to be important in the successful production of phytochemicals by cell cultures. There are many examples in the literature demonstrating a relationship between differentiation and secondary metabolic accumulation. Hiraoka and Tabata (123) successively transferred the callus of Datura meteloides from a medium with auxins to one without and then cultivated continuously. As seen in Table 9, shoots, stems and roots were differentiated by turn and tropane alkaloid levels increased.
+Table 9 - Relationship between Productivity of Alkaloids and Differentiations
+Plants
+Alkaloid concentration
+(% dry wt.)
+Callus
+Shoots-forming callus
+Growing shoots
+Roots-forming shoots
+Leaf of young plant
+Leaf of matured plant 1 x 10^-2
+1.5 x 10^-2
+2 x 10^-2
+3 x 10^-2
+1 x 10^-1
+1 x 10^-1
+Source: Hiraoka, N, and Tabata, M. Phytochem. 13 1671 (1974)
+In Digitalis purpurea cultures, Hagimori et al. (124) showed stimulation of digitalis cardenolides production by organ redifferentiation in callus tissues. A similar phenomena was also found in rotenone formation using Derris elliptica (125) and morphinane alkaloid production using Papaver somniferum (126). Furuya et al. investigated the correlation between the stage of morphological differentiation and producing ability of the alkaloids using P. somniferumi, and found a green callus which differentiates epidermis or vascular bundles produced the alkaloids. A limited degree of tissue differentiation occurred and the cell contained codeine as a main alkaloid while the level of morphine increase as differentiation progressed.
+Root cultures derived from suspension cultured cells of P. bracteatum were shown to produce thebaine in 0.03% yield by Zito and Staba (62). They also reported that axenic callus and shoot cultures of Pyrethrum cinerarifolium (62) had an ability to produce pyrethrin. They isolated a few high yielding strains which were derived from high yielding plant selections. One isolate accumulated 11.3 mg total pyrethrins per 100 g dry weight but it subsequently differentiated into a shoot culture following the first analysis. Therefore, Zito and Staba concluded that differentiated culture tended to produce more pyrethrins than did callus cultures. Using an established shoot culture derived from the disc floret of the plant, 341.8 mg of pyrethrins per 100 g wt., were obtained.
+Ozeki and Komamine (127) presented interesting results on the relationship between differentiation and anthocyanin production using Daucus carota cells. The cells were fractionated by Ficoll density gradient centrifugation. In the density fraction (>14% of Ficoll) somatic embryos were formed in a medium containing 10^-7 M zeatin but anthocyanin was scarcely produced. On the other hand, the cells in the lower density fraction (>12% of Ficoll) synthesized anthocyanin in the same medium but formed few embryos. 40 to 50% of the total cells in the higher cell fraction synthesized anthocyanin at a maximum.
+The use of organs as opposed to cells or cell aggregates might necessitate an adaptation of cultured scale-up technologies, but in general these are not considered to be insurmountable. Indeed, root cultures of Panax ginseng have successfully been grown up to a volume of 20 KL and high levels of ginsenosides were obtained. A semi-continuous production system using differentiated cultures has been suggested by Fuller (128), in which a series of vats with a 10% aliquot being transferred to the next whilst still in the dividing stage, with the remainder being left to grow and accumulate product.
+6.8.2 Hairy Root Culture
+An alternative possibility is to induce biochemical differentiation, but suppress morphological differentiation. This would be difficult with an initially heterogenous population and the cells would have to be first selected for homogeneity in shape and metabolism. In fact, using a range of species, selection of regular green aggregates with a spherical shape and with cells of a regular morphology has been achieved. Such aggregates were found to enable high flow rates and easy medium removal, superior to those obtained with more dispersed cultures.
+Two reports are worth noting with respect to differentiated cell growth and phytochemical production. It has been observed that the insertion of a very fine platinum or titanium wire into a disorganized callus of Helianthus tuberousus brings about morphological differentiation, whereas control, untreated tissue remained in an undifferentiated state (129). Should this phenomenon be reproducible in other species it might well serve as a well-defined means of controlling differentiation and possibly secondary metabolism. It was suggested that a charge transfer mechanism was responsible for these observations.
+A second discovery (possibly acting by a similar mechanism) has shown that electric currents (1-2 µA) bring about shoot regeneration in callus culture at a rate five times greater than in controls (130). This has been patented as a process for the stimulation of growth and differentiation of plant tissue and for increasing the accumulation of secondary metabolites (131).
+The use of Agrobacterium rhizogenes has been receiving attention recently in secondary metabolism research. It inserts the Ri plasmid into wounded tissue, causing the growth of very fine adventitious roots, so-called "hairy-roots". These roots can be cultured in hormone-free medium and there are several examples of enhanced accumulation of secondary products, relative to non-transformed tissue (132-135).
+Flores in the U.S. is a leading scientist in hairy root culture studies, and reported in 1987 that all hairy root clones of Hyoscyamus plants grew faster than ordinary root cultures and produced the similar level of tropane alkaloids to that accumulated in the intact plants (136). Hamill et al. (137) have shown that 17 day-old cultured hairy roots of Beta vulgaris had twice as much betacyanin and three times as much betaxanthin as seedling roots. On a mg/g dry wt. basis, the concentrations of these betalains were equal to or greater than those reported for storage roots (138).
+Berlin et al. recently reported that hairy root cultures of Lupinus polyphyllus and L. hartweigii produced higher amounts of isoflavine glucosides than those of hormone-dependent cells (139). They also found that hairy root cultures of Peganum harmala synthesized higher levels of ß-carboline glucoid, ruine and serotonin (140). Valeriana officinalis var. sambucifolia hairy roots produced 44.3 mg/g-cells d.w. of valepotriates having spasmolytic and sedative activities. The productivity was 0.9 mg/g/day and the concentration was approximately 4 times higher than that of normal roots (141). Eilert and his colleague (142) transformed Ruta gaveolens leaflets using A. rhizogenes and obtained the hairy root tissue. The tissue produced psoralen, isopimpirellin (methyoxylated furanocoumarins), xanthotoxin, bergapten, dictamunine, ?-fagarine, kokusaginine, edulinine and hydroxyrutacridone epoxide. The concentration of sucrose in the medium affected the levels of these secondary
+metabolites.
+Rhodes and his colleagues in U.K. has been employing hairy root culture systems for production of various chemicals (143). The levels of nicotine in Nicotiana rustica hairy roots and of betanine in Beta vulgaris were shown by his group to be at comparable or slightly higher than their intact plants (137). They also regenerated hairy roots from protoplasts of N. rustica hairy root tissues (144). Hairy root cultures of Datura stramonium and related Datura species were reported by Rhodes et al. to produce hyoscyamine as the major tropane alkaloid and small amounts of other tropanes including atropine and hyoscine (scopolamine) (143). To cultivate hairy roots in large-scale fermentors, Rhodes et al. designed and patented a fermentor comprising a vessel defining a fermentation chamber and a space-filling wire lattice of inoculation points designed to be located within the chamber (145). At the start of the fermentation process, the fermentation vessel is inoculated with suitable
+small lengths of hairy roots which then grow to substantially fill the vessel. It has been found to be highly advantageous if the lengths of roots which form the inoculant are distributed throughout the vessel. To achieve this, a space-filling lattice of inoculation points is provided in the fermentation vessel. The inoculating lengths are suspended in a suitable medium which is then passed into the vessel. The inoculant lengths lodge at the inoculation points and thereafter grow in a conventional fashion.
+Recently, Berlin et al. (146) compared hairy root cultures with suspension cultures in production of isoflavonoids by Lupinus species and that of harmane alkaloid and serotonin by Peganum species, and concluded the hairy root cultures are the superior to suspension cultures.
+The biotechnological application of hairy root cultures is promising for a number of reasons: (1) stable, high level production; (2) fast auxin-independent growth; and, (3) the suitability for adaptation to fermentor systems. It is, therefore one of the most feasible techniques from an industrial point of view.
+<section>8</section>
+CHAPTER 7
+PRODUCTS OF INTEREST OF INDUSTRY
+7.1 Pharmaceuticals
+7.1.1 Alkaloids
+A variety of alkaloids have been used as pharmaceuticals and most of them are plant metabolites. The typical tropane alkaloids, atropine, hyoscyamine, scopolamine and cocaine, were widely used as blockers of the parasympathetic nervous system such as anodyne and antispasmodic. Research on production of these useful alkaloids by plant cell cultures has been carried out for more than 25 years, however, industrial production has not yet succeeded because of low producing ability of the cultured cells. Plants used for these studies are mainly Atropa belladonna, Hyoscyamus niger, Datura meteloids and others.
+Various approaches to increase their productivity have been tried by many researchers as briefly described in the previous section. At present, vinblastine, an antitumor alkaloid, is most likely to be produced commercially by a Japanese company using a combination process of plant cell culture and that of chemical synthesis which was initially investigated by a Canadian company, Allelix Inc.
+7.1.1.1 Morphinan Alkaloids
+Codeine is an analgesic and cough-suppressing drug and Papaver somniferum L. (opium poppy) is a traditional commercial source of codeine, and morphine which can be converted to codeine. Mature capsules of P. bracteatum accumulates up to 3.5% of thebaine which also can be converted to codeine. Although many researchers have tried to produce codeine by undifferentiated cells of these plants, little success has been achieved.
+Kamimura et al. (147) indicated that morphogenetic differentiation from cultured cells of P. bracteatum was prerequisite for producing higher levels of thebaine. Staba et al. (148), Constabel et al. (149), Furuya et al. (150), Kamo et al. (151) and other researchers also showed the similar results as Kamimura's report using P. bracteatum and P. somniferum. For example, Furuya et al. (150) reported that cells of P. somniferum produced norsanguinarine, sanguinarine, cryptopine and other various alkaloids, but not codeine and morphine.
+Concerning sanguinarine, Eilert et al. (152) showed that fungal mycelium of Botrytis sp. elicited production of sanguinarine by P. somniferum cells. The level of this alkaloid increased 26 times in the presence of the elicitor, 29% of the dry cell weight, compared to the medium without it. Since the alkaloid extracted from intact plants is added to toothpastes as an anti-plaque agent, the commercial production of sanguinarine by cell culture technology was intensively investigated by Kurz's group at the National Research Council of Canada and a company in the U.S. several years ago, but the process has not yet been commercialized.
+The efficient production of thebaine and codeine using cell culture systems by de novo synthesis was not successful, Furuya et al. (153), therefore studied the biotransformation of codeinone to codeine using immobilized cells of P. somniferum. The conversion yield was 70.4% and about 88% of codeine converted was excreted into the medium.
+7.1.1.2 Berberine
+Berberine is an isoquinoline alkaloid which is distributed in roots of Coptis japonica and cortex of Phellondendron amurense. Berberine chloride is used for intestinal disorders in the Orient and it takes 5 to 6 years to produce Coptis roots as the raw material.
+Furuya at Kitasato University (154) and Yamamoto at Nippon Paint (155) have investigated the production of berberine by Coptis japonica cell cultures since 1970's and Yamada et al. at Kyoto University (156) selected a high berberine producing cell line of C. japonica which was transferred to a Japanese company, Mitsui Petrochemical.
+Mitsui Petrochemical has improved the productivity, and Hara et al. (157) found that addition of 10^-8 M gibberellic acid into the medium stimulated berberine productivity up to 1.66 g per L of the medium. Using a cell sorter and protoplasts of C. japonica, they selected many higher alkaloid-producing cell lines. Thus, the Mitsui group produces berberine in a large scale at a level of 1.4 g per L of their optimized medium within 2 weeks. Furthermore, they established a "high-density cell culture" process to produce berberine much more efficiently. In order to achieve a cell mass of 70 g/L on a dry weight basis, stirring without damaging the cells, supply of sufficient amounts of oxygen, and that of appropriate nutrients were optimize. As a result, the yields reached 70 g per L of cell mass and 0.45 g/day of berberine. The continuous culture with high cell density was also conducted successfully.
+Addition of a polyamine, spermidine, was found to stimulate the production of berberine by Thalictrum minus cell suspension cultures by Hara et al. in Tabata's laboratory (158) although other polyamines such as cadaverine, putrescine and spermine were ineffective. They indicated that spermidine effected an increase of ethylene generation which was associated with activation of berberine synthesis. The maximum stimulative effect was obtained by addition of 2 mM spermidine.
+7.1.1.3 Tropane Alkaloids
+Scopolamine and hyoscyamine are being used commercially as anesthetic and antispasmodic drugs. These alkaloids occur in leaves of (Solanaceae) plants including D. myoporoides and D. leichhardtii. Scopolia, Atropa, Hyoscyamus and Datura also contain tropane alkaloids.
+Studies on production of tropane alkaloids by plant tissue cultures have been actively carried out by many researchers since West et al. found tropane alkaloids in an Atropa belladonna callus more than 30 years ago. However, the concentrations of scopolamine and hyoscyamine in cultured cells are generally very low in spite of many efforts to increase the yield using various approaches. Therefore, the plant cell culture has not yet been employed to manufacture these alkaloids. For example, Tabata et al. (68) added tropic acid into Scopolia japonica suspension cultures as a precursor and could increase the level of alkaloids up to 15 times. Mitsuno et al. (159) selected a high tropane alkaloid producing strain of Hyoscyamus niger which produced about 7 times more hyoscyamine (13.9X10^-3% fresh cells), than that of the parent strain. According to their results, there was no direct correlation between high producing ability and variation of chromosomal numbers.
+Endo et al. (160), Kitamura et al. (161) and many other scientists reported that roots differentiated from cultured cells accumulate scopolamine, hyoscyamine and/or nicotine. However, Kitamura indicated that the alkaloids were not accumulated in leaves of the regenerated plantlets.
+Since the alkaloids are synthesized in the root, Flores et al. (162) cultivated hairy roots transformed with Agrobacterium rhizogenes and showed the production of hyoscyamine and other alkaloids at the similar levels to the normal roots.
+7.1.2 Cardinolides
+Cardiac glycosides or cardenolides are products of Digitalis species. Some of these compounds have been employed in treatment of heart diseases. Chemical structures of the major aglycone of cardenolides are shown in Fig. 7 and various sugar residues link the 3-hydroxy group of aglycones (Table 10). For commercial production Digitalis plants are being cultivated in the fields of several countries including the Netherlands, Hungary and Argentina. A digoxin product, Lanoxin, is a brand name of a Burroughs Wellcome product and has the largest market of the company's cardiovascular drugs. The major markets of Lanoxin are in the U.S.A. and Italy, and the total sales are approximately 6000 kg a year with 50 million U.S. dollars. Other companies such as Boehringer Mannheim, Merck Darmstadt and Beiersdorf AG in Germany also sell cardiac glycosides.
+Figure 7: Principal Cardioactive Glycosides of Digitalis species: Chemical Structures
+Figure 7: Principal Cardioactive Glycosides of Digitalis species: Chemical Structures
+The studies of plant tissue and cell cultures for production of cardiac glycosides were begun more than 30 years ago and the report presented by Hildebrandt and Riker (163) in 1959 was probably the first one in this field. Staba investigated the nutritional requirements of tissue cultures of Digitalis lanata and D. purpurea in 1962 (164). These two species are being commonly used by many scientists.
+Although there are a number of papers describing production of cardiac glycosides in Digitalis tissue cultures (165), generally the yield was very low, and moreover, during the successive transfers of the cultured cells the amount of cardenolides often decreased and disappeared completely.
+Instead, many researchers indicated that morphological differentiation caused an increase in productivity. For example, Lui and Staba (166) showed that organ cultures of D. lanata leaves and roots produced cardenolides and during the cultivation the level of digoxin in the tissues rose with increasing age (167). Hirotani and Furuya (168) also found that renewed organ differentiation from callus tissues of D. purpurea led to a new formation of cardinolides.
+Nutritional factors including growth regulators, sugars, nitrogen sources, vitamins and so on in the medium affect on differentiation of shoots and other organs and the secondary metabolites such as cardiac glycosides are often synthesized. Hagimori et al. of Japan Tobacco Inc. (220) cultivated shoot-forming tissues of D. purpurea in a 3 L jar fermentor and detected high concentrations of cardiac glycosides including digitoxin. The differentiated tissue culture is prerequisite for secondary metabolites production in some cases, however in general, the method requires much longer culture time than the suspension cell culture and consequently it is not efficient.
+Various secondary metabolites other than digitoxin and digoxin have been found in callus tissues of D. lanata and D. purpurea. These include cholesterol, campesterol, stigmasterol, ß-sitosterol, 4-hydroxy-digitolutein and others. However, as described above, Kartning (169) found that the levels of those secondary products tended to decrease over several passages in cultivation.
+In contrast to the de novo synthesis, the biotransformation process with Digitalis plant cells seems to be more promising from a commercial point of view. Graves and Smith (170) reported that D. lanata and D. purpurea callus cultures rapidly transformed progesterone to pregnane. Leaf and root cultures of D. lanata and shoot-forming callus tissues of D. purpurea accumulated an increased level of digoxin and/or digitoxin when progesterone was added to the cultures (124, 167). Stohs and Staba studies on the biotransformation of cardenolides by Digitalis cells and recognized that the glycosylation reaction occurred.
+Among many studies, the biotransformation from digitoxin to digoxin using Digitalis lanata cells investigated by Reinhard and Alfermann is the most interesting approach in terms of commercial application since digoxin has a higher demand as a drug for heart diseases than digitoxin. It is advantageous that Digitalis leaves contain a larger amount of digitoxin which can be used as a substrate. It is a hydroxylation reaction at the 12 ß-position of digitoxin, and Reinhard et al. found that ß-methyldigitoxin was the most suitable substrate in this biotransformation as methyldigoxin is the major product (171). To reduce the production cost, the same group examine the use of immobilized D. lanata cells (21) and semi-continuous culture. The result of a typical biotransformation for 17 days using a 20 liter reactor is shown in Table 11. As described previously, the process was tested in large scale reactors for commercial application by Boehringer Mannheim Co. in Germany. However,
+the process, so far, has not yet been industrialized.
+Table 10 - Principal Cardioactive Glycosides of Digitalis species
+Overview of Sugar Residuals Glucosidically Linked to the 3-Hydroxy Group
+PLANTS GLYCOSIDES SUGARS
+Digitoxigenin Lanatoside A
+Glucodigifucoside
+Glucoevatromonoside
+Purpurea glycoside A
+Digitoxin Gl-Acdx-Dx-Dx-
+Gl-Fuc-
+Gl-Dx-
+Gl-Dx-Dx-Dx-
+Dx-Dx-Dx-
+Gitoxigenin Lanatoside B
+Digitalinum verum
+Glucogitoroside
+Purpurea glycoside B
+Gitoxin Gl-Acdx-Dx-Dx-
+Gl-Dtl-
+Gl-Dx-
+Gl-Dx-Dx-Dx-
+Dx-Dx-Dx-
+Digoxigenin Lanatoside C
+Digoxin Gl-Acdex-Dx-Dx-
+Dx-Dx-Dx-
+Diginatigenin Lanatoside D
+Diginatin Gl-Acdx-Dx-Dx-
+Dx-Dx-Dx-
+Gitaloxigenin Lanatoside E
+Glucoverodoxin
+Glucolanadoxin
+Glucogitaloxin
+Gitaloxin Gl-Acdx-Dx-Dx-
+Gl-Dtl-
+Gl-Dx-
+Gl-Dx-Dx-Dx-
+Dx-Dx-Dx-
+Acdx = 3-acetyl-ß-D-digitoxose; Dtl = ß-D-Digitalose; Dx = ß-D-Digitoxose; Fuc = ß-D-Fucose; Gl = ß-D-Glucose
+Table 11 - Biotransformation of ß-Methyldigitoxin to ß-Methyldigoxin by Digitalis lanata Cells in a 20 L Reactor
+ß-Methyldigitoxin added
+Unconverted ß-methyldigitoxin
+ß-Methyldigoxin formed
+By-product
+Yield 17.24 g
+2.04 g
+14.36 g
+0.28 g
+7.1.3 L-DOPA
+L-DOPA, L-3,4-dihydroxyphenylalanine, is an important intermediate of secondary metabolism in higher plants and is known as an precursor of alkaloids, betalain, melanine, and others. It is also a precursor of cathecolamines in animals and is being used as a potent drug for Parkinson's disease.
+Brain in 1976 (172) found that the callus tissue of Mucana pruriens accumulated 25 mg/L DOPA in the medium containing very high concentration of 2,4-D. Wichers et al. immobilized cells of M. pruriens within alginate and found that the cells produced DOPA from tyrosine in up to 2% of dry cell weight. The DOPA synthesized was secreted mostly into the medium.
+Teramoto and Komamine (174) induced callus tissues of Stizolobium hassjoo (Mucuna hassjoo), M. pruriens and M. deeringiana, and optimized the culture conditions. The highest concentration of DOPA was obtained when S. hassjoo cells were cultivated in MS medium containing 0.025 mg/l 2,4-D and 10 mg/l kinetin. The level of DOPA in the cells was about 80 nmol/g-f.w.
+7.1.4 Valepotriates
+Plants in the Valerianaceae have been used as folk medicines (175). For example, Nardostachys jatamansi, Valeriana wallichii and V. officinalis L. var. angustifolia have been used in India, and N. chinensis has been employed in China for hundreds of years. Partrinia plants are also being used as sedative drugs in former Soviet Union. Although the active principles in these plants have not been identified, a group of compounds having biological activities such as sedative, tranquilization, cytotoxicity and antitumor activities were named "valepotriates". Thies (176) synthesized a series of valepotriate derivatives and tested for biological activities.
+Becker et al. (175) have investigated plant tissue cultures for producing valepotriates because of their limited supply and uncertain availability. They induced callus tissues of nine different species of Valerianaceae on MS media and found that Fedia cornucopiae and V. locusta cells produced higher levels of the compounds than the intact plants. Isolation of cell lines resistant to trifluoroleucine and to nystatin, treatment with colchicine, cultivation of the cells in two-phase culture media and addition of several bioregulators were carried out intensively. As valepotriates have monoterpene skeletons, L-leucine was considered as a precursor. Baker et al. (177) isolated cell lines of V. wallichii resistant to trifluoroleucine, a leucine analog, but the yield of valepotriates in the cells was not increased although the intracellular level of leucine was increased. It was reported that fungi resistant to nystatin, a polyene antibiotic, produced a high level of steroids. One
+of the strains of V. wallichii to resistant to nystatin increased the amount of valepotriates produced up to 3 times, which was 88 mg/g-d.w. The same group (178) treated a suspension culture of V. wallichii with colchicine which was expected to induce polyploid cells. As a result, they found that the colchicine treated cells produced higher amount valepotriates than the respective untreated cultures. A two-phase culture provided by addition of RP-8(Merck) into the culture medium was effective in inducing secretion of the lipophilic compounds from the cells, and the total yield of valepotriates was substantially increased.
+Since the valepotriate skeleton is of the iridoid nature, they added some plant bioregulators such as dimethyl-morpholinium-bromide, dimethyl-piperidinium-bromide, dimethyl-piperidinium-chloride as well as 2-(3,4-dichloro-phenoxy)-triethylamine and 2-(3,5-diisopropylphenoxy)-triethylamine to cell suspension cultures of F. cornucopiae and V. wallichii. When they were employed in concentrations of 0.01 to 0.04 mmol during the early exponential growth stages of the cells, the levels of valepotriates were increased significantly.
+7.1.5. Antitumor Compounds
+The plant kingdom is one of the attractive sources of novel antitumor compounds. The National Cancer Institute in the U.S., for example, has conducted an intensive screening program since 1955 and has identified various potent compounds from higher plants (179). These antitumor compounds include maytansine, tripdiolide, homoharringtonine, bruceantin, ellipticine, thalicarpine, indicine-N-oxide, and baccharin. In addition to these compounds, some of the higher plant products such as vinblastine, vincristine, podophyllotoxin derivatives including etoposide, and camptothecin and its derivative have already been marketed as very important anticancer drugs. Taxol from Taxus brevifolia and related plants, is one of the most exiting compounds and was marketed in 1992.
+However, the concentrations of these active compounds in plants are generally low (Table 12), the growth rate of the plants is slow and the accumulation pattern of these compounds is highly susceptible to geographical or environmental conditions. Therefore, it is not an easy task to produce economically these compounds by extraction from intact plants. Furthermore, as indicated for taxol production, the exhaustion of native producing-plants is becoming a serious problem in terms of environmental preservation.
+Table 12 - Antitumor Compounds Isolated from Higher Plants
+Antitumor Compounds Plant
+(dry wt. %)
+Baccharin
+Bruceantin
+Camptothecin
+Ellipticine
+Homoharringtonine
+Maytansine
+Podophyllotoxin
+Taxol
+Tripdiolide
+Vinblastine, vincristine 2.0 x 10^-2
+1.0 x 10^-2
+5.0 x 10^-3
+3.2 x 10^-5
+1.8 x 10^-5
+2.0 x 10^-5
+6.4 x 10^-1
+5.0 x 10^-1
+1.0 x 10^-3
+5.0 x 10^-3
+Though plant tissue culture processes are still not cost-effective if targeted products could easily be manufactured by chemical, fermentative and/or extraction processes, this technology is undoubtedly one of the appropriate approaches to solving the above-described problems. And many interesting antitumor compounds isolated from higher plants have very complicated chemical structures. Therefore, the research interest has grown for over a decade and a couple of processes based on the plant tissue culture technology are likely to be applied for commercial production of antitumor drugs.
+The following are examples of the technology.
+7.1.5.1 Camptothecin
+Camptotheca acuminata, a native of North China, was found to produce a potent antitumor alkaloid, camptothecin, by Wall et al. in 1966 (183). It is highly active in Walker 256 rat carcinosarcoma and mouse leukemia, p388 and L1210. The clinical trials in patients with gastrointestinal cancer were at first very promising but subsequent trials showed toxicity.
+Sakato and Misawa (184) induced callus from the stem of C. acuminata on MS solid medium containing 0.2 mg/L 2,4-D and 1 mg/L kinetin. The callus was transferred to the liquid medium. Gibberelin, L-tryptophan and conditioned medium stimulated growth of the cells. After 15 days of cultivation in suspension, the con-centration of camptothecin in the cells was 0.0025% on a dry weight basis, which was about 1/20 of the level in the intact plant. A.J. van Hengel et al. in the Netherlands (185) established the suspension culture system of C. acuminata and detected camptothecin in the cultured cells using TLC, HPLC and GC-MS. The highest level, 0.998 mg of camptothecin per liter of the medium, was accumulated in the cells cultivated in MS medium containing 4 mg/L NAA.
+10-Hydroxycamptothecin having less toxicity is so far a promising derivative of camptothecin and is in clinical trials in the U.S.
+7.1.5.2 Homoharringtonine
+Homoharringtonine together with harringtonine and isoharringtonine, were isolated from Cephalotaxus harringtonia by Powell et al. in 1969 (186). These alkaloids are complex esters of the inactive alcohol, cephalotaxine. These compounds inhibit the growth of murine leukemias, L1210 and P388, and KB cells. Homoharringtonine also shows activity against colon tumors, melanoma and leukemia in mice.
+Since the chemical synthesis of homoharringtonine was not efficient for commercialization, studies of tissue culture were conducted by Delfel and his colleagues (187). They detected about 5-10 mg of the alkaloids per kg dry wt. of the callus tissues cultivated for 3 to 6 months. The levels were approximately 1 to 3% of the concentrations found in the parent plant. These products were cephalotaxin, homoharringtonine, harringtonine and isoharringtonine.
+MS medium containing 1 mg/L kinetin and 3 mg/L NAA was favorable to induce the callus from C. harringtonia (182, 188, 189), while the medium without growth regulators strongly promoted organogenesis. The radioimmunoassay established by the same group showed the levels of cephalotaxine and its esters were only 1/300 of the intact plant.
+7.1.5.3 Podophyllotoxin
+Podophyllum pelatatum, May apple, which is a common herb in eastern North America contains an antitumor lignan, podophyllotoxin. It is active to KB cells and is used against certain virus diseases and skin cancer (190). A semi-synthetic derivative of podophyllotoxin, etoposide (V-16), was found to be active against brain tumor, lymphosarcoma and Hodgkins' disease and was approved by the FDA in the U.S. Bristol-Myers Squibb is one of the largest manufacturers of the drug.
+Production of podophyllotoxin by P. pelatum cell cultures was first attempted by Kadkade (191) and he found that a combination of 2,4-D and kinetin in the medium supported the highest amount of its production. Red light stimulated the production.
+Sakata et al. of Nippon Oil (192) induced embryogenic roots from a callus of the plant in a liquid MS medium supplemented 1 mg/L NAA, 0.2 mg/L kinetin and 500 mg/L casein hydrolysates. The roots were then transferred to the medium without growth regulators. They detected 1.6% of podophyllotoxin in the dried tissues, which was 6 times higher level than that in a mother plant.
+To increase the yield of podophyllotoxin, Woerdenberg et al. in the Netherlands (193) added a complex of a precursor, coniferyl alcohol, and ß-cyclodextrin to Podophyllum hexandrum cell suspension cultures. Addition of 3 mM coniferyl alcohol complex gave 0.013% podophyllotoxin of the cells on a dry weight basis but the cultures without the precursor produced only 0.003%. ß-D-glucoside of coniferyl alcohol, coniferin, was a more potent precursor in terms of the yield of the anticancer compound (0.055%), but unfortunately this compound is not commercially available. The same authors reported that cell suspension cultures of Callitris drummondii (conifer) also accumulated podophyllotoxin-ß-D-glucose. In the dark, the cells produced approximately 0.02% podophyllotoxin of the dry cell mass and 85-90% of the lignans were the ß-D-glucoside form, while in the light the yield of podophyllotoxin-ß-D-glucose increased to 0.11%.
+Smooly et al. (194) reported that callus tissues and suspension culture cells of Lilium album produced podophyllotoxin. One of the cell lines produced 0.3% podophyllotoxin of dried cells together with small amounts of 5-methylpodophyllotoxin, lariciresinol and pinoresinol after 3 weeks of cultivation. The callus tissue induced from P. hexandrum was reported by Heyenga (195) to produce podophyllotoxin, 4'-demethyl-podophyllotoxin and podophyllotoxin-4-0-glucoside when the callus was incubated in B5 medium containing 2,4-D, gibberellic acid and 6-benzylaminopurine. The levels of podophyllotoxin and its derivatives were similar to those in the mother plant.
+7.1.5.4 Vinca Alkaloids
+The dimeric indole alkaloids, vinblastine and vincristine have become highly valued drugs in cancer chemotherapy due to their potent antitumor activity against various leukemias, Hodgkin's disease and solid tumors. They are currently produced commercially by extraction from Catharanthus roseus (Apocyanaceae) plants, but the process is not efficient because of very low concentrations of the alkaloids in the plant. It was reported that the concentration of both vinblastine and vincristine was only 0.0005% as a dry weight basis.
+In order to produce these useful anticancer drugs much more efficiently, many scientists have tried to apply plant tissue culture technology. In fact, a large number of papers related to this approach have been presented since the first research carried out by Carew et al. in 1966 (196). However, production of both alkaloids by de novo synthesis using the callus or the suspension cultured cell of C. roseus is so far not promising because the productivity of the cultured cells reported was so far very low.
+Misawa and his colleagues of Allelix Inc. in Canada (197-199) studied on production of vinblastine by an alternative way in collaboration with Kurz of the National Research Council of Canada and Kutney of University of British Columbia, and established an economically feasible process consisting of production of catharanthine by plant cell fermentation and a simple chemical or an enzymatic coupling.
+The vinblastine molecule is derived from two monomeric alkaloids, catharanthine and vindoline as shown in Fig. 8. The concentration of vindoline in the intact C. roseus plant is approximately 0.2% as a dry weight basis, which is much a higher level than catharanthine, and the cost of vindoline is less expensive compared to catharanthine and vinblastine. The Allelix group, therefore, investigated the production of catharanthine by a cell suspension culture process with a selected C. roseus cell line induced from anthers on Gamborg's B5 medium containing 2% sucrose, 1 mg/L 2,4-D and 0.1 mg/L kinetin. The cells were grown in 250 ml flasks containing 60 ml of MS liquid medium supplemented with 3% sucrose, 1 mg/L NAA and 0.1 mg/L kinetin under continuous diffuse light on a rotary shaker (250 r.p.m.) at 25° C. In experiments for optimization of catharanthine production, they transferred 7 day old cells to a test medium and subcultured for 3 passages. In the 4th passage, 60 ml
+cultures were harvested in triplicate after 2 or 3 weeks growth, and the cell mass and alkaloid content were determined.
+Figure 8: Chemical Structures of Catharanthine, Vindoline, Vinblastine and Vincristine
+Figure 8: Chemical Structures of Catharanthine, Vindoline, Vinblastine and Vincristine
+The results showed that the MS medium was the most favourable for catharanthine production but the optimal levels of phytohormones for the growth and the production were varied in different cell lines. For example, one line required no phytohormones but another line required 0.1 mg/L NAA and 0.1 mg/L kinetin. Addition of various chemically defined compounds to the medium as "inducers" was found to stimulate the production efficiently. Among them effects of vanadyl sulphate, abscisic acid and NaCl on the production of catharanthine were significant (200). Based on the conditions optimized by using flasks, Smart et al (201) scaled up the cultures to 10, 30 and 100 L-air lift fermentors. When abscisic acid was added to the culture as an elicitor on the 7th day of cultivation, the final titer of catharanthine was raised to 85 mg/L in a 30 L fermentor.
+The second stage in this project, the Allelix's group tried to couple enzymatically or chemically catharanthine produced by the cell culture process with commercially available vindoline. As an enzyme source for the coupling, a crude preparation obtained by 70% ammonium sulphate precipitation from the cultured cells of C. roseus was used. The reaction mixture containing both monomeric alkaloids, Tris buffer (pH 7.0) and the enzyme preparation was incubated at 30° C and for 3 hours. It was determined that the enzyme reaction gave various dimeric alkaloids including vinamidine, 3-(R)-hydroxyvinamidine and 3'4'-anhydrovinblastine. Leurosine and catharine, oxidized derivatives of anhydrovinblastine, were also detected in the early stages of the incubation. They found that MnCl[2] and either FAD or FMN stimulated the coupling. Although neither vinblastine nor vincristine was detected in the mixture, it was recognized that a substantial amount of anhydrovinblastine was formed as a
+major coupling product when an excess amount of sodium borohydride was added to the mixture after incubation.
+In order to investigate properties of the coupling enzyme(s) it was partially purified with gel filtration and isoelectric focusing and five isozymes were obtained by Endo et al. (202). One of them had MW 15,000 and the other four had the same MW (37,000). All of these isozymes were shown to have peroxidase activity. Using the partially purified enzymes, anhydrovinblastine was formed with a conversion yield of about 50%.
+Formation of vinblastine from vincristine as detected by Goodbody et al. (203) using a crude enzyme preparation obtained from suspension cultured cells of C. roseus. The highest yield of conversion obtained was 13% from 0.13 mg anhydrovinblastine in 1 ml of the reaction mixture after 3 hours incubation at 30° C, Ph 7.0.
+During the course of these studies on coupling mechanisms, they found that ferric ion catalyzed the coupling reaction significantly in the absence of the enzyme. It is of interest that the products of the chemical coupling were not only anhydrovinblastine but also vinblastine. The yields of both alkaloids were 52.8% and 12.3%, respectively after 3 hours incubation at 30° C, pH 7.0. These products including catharanthine were analyzed by high resolution mass spectrometry as further confirmation of their identification. Circular dichroism confirmed that a-coupling exists between the 2 monomeric units of both vinblastine and vincristine produced either enzymatically or chemically.
+This is a novel and an efficient process to produce an antitumor drug, vinblastine, and is likely to be applied commercially. The technology was transferred from the Canadian company to a Japanese company, Mitsui Petrochemicals Industry for further development.
+Hara et al. (204) of Mitsui Petrochemical could increase the yield of catharanthine up to 150 mg/L in the MS medium supplemented with 1 mg/L NAA and 0.1 mg/L kinetin using the best producing cell line isolated from Allelix's cell line. The stimulating activity of NaCl and KCl on alkaloid production was also confirmed. Furthermore, the scientists of Mitsui employed high-cell density cultures and reported yields of catharanthine of 230 mg/L/week (205).
+The yield of vinblastine by the chemical coupling reaction was also improved by the same group; addition of ferric chloride, oxalate, maleate and sodium borohydrate stimulated the yield of vinblastine from anhydrovinblastine up to 50% (206).
+Bede et al. (206) also investigated the production of anhydrovinblastine. They employed a two-enzyme system containing horseradish peroxidase and glucose oxidase to catalyze the formation of anhydrovinblastine from catharanthine and vindoline. Although peroxidase requires hydrogen peroxide for the coupling reaction, its presence in excess in the reaction mixture may inhibit the reaction. But addition of glucose oxidase was used to allow the controlled, continuous production of hydrogen peroxide at low levels, minimizing oxidative reactions. Both enzymes were immobilized on Euperight C beads, an oxirane matrix, and the system was shown in catalyze the coupling reaction.
+7.1.5.5 Taxol
+Under the intensive NCl screening program of antitumor compounds in the U.S., Wall et al. began to isolate an active principle against KB cells from a tree, Taxus brevifolia in 1965. In 1969 pure taxol was first isolated (207) and its chemical structure was disclosed in 1971 (208). It is a diterpene amide and has shown against B16 mouse melanoma tumor, the MX-1 human mammary xenograft and CX-1 colon xenografts. The mode of action of taxol is rather unique because it stabilizes microtubles and inhibits depolymerization (209). The clinical trials begun in 1983 have shown positive results in the treatment of advanced ovarian cancer (210) and breast cancer as well.
+The FDA in the U.S. has approved taxol (generically known as paclitaxel) at the end of 1992; Bristol-Myers Squibb produces the drug for use in the treatment of ovarian cancer in patients who have failed to respond to other chemotherapies. Taxol is now being manufactured by extraction from the bark of wild-grown T. brevifolia trees. The demand for taxol will be undoubtedly increasing since it will be applied for other cancers including breast and lung cancers in the near future, but its supply is limited (211). Other related plants such as T. canadensis and T. cuspidata also contain taxol and other related compounds. Generally the concentration of taxol in Taxus plants are very low. Therefore, harvesting Taxus trees for production of taxol commercially causes a serious problem in the U.S. from the environmental point of view.
+As alternative ways, plant tissue and cell cultures as well as chemical transformation processes from baccatin extracted from needles of the plant (212) and the total chemical syntheses (213) have been investigated in many research groups. In the U.S., Phyton Catalytic Inc. and ESCAgenetics announced a couple of years ago that they were establishing plant cell culture processes to manufacture taxol. The latter showed a photograph of a vial containing taxol powder produced by plant cell cultures (214). However, both companies have never published details of the plant cell culture procedure in scientific periodicals or at any meetings, although ESCAgenetics described some of their results using a couple of figures without any numerical values.
+A couple of patents have been published. For example, a U.S. Patent (286) filed by A.C. Christen et al. of U.S.D.A. described that the tissue of T. brevifolia had been successfully cultured to produce taxol, related alkaloids and alkaloid precursors, but the patent claims are exceedingly broad and identity of what the actual process was remains difficult to ascertain.
+Shuler et al. at Cornell University (216) showed that a cell line of T. brevifolia in suspension provided by USDA-Agriculture Research Station and Phyton Catalytic, produced 3.9 mg/L taxol in the medium after 26 days of culture. The level of taxol was determined by reverse-phase HPLC. They found that fresh cell weight increased by 4-fold after a lag phase of about 4 days and that taxol was first seen at 13 days, and increased sharply after 20 days. It is of interest that all taxol produced was secreted into the medium, which was very unusual for plant cell cultures. Wickremesinhe and Artheca of the Pennsylvania State University (217) established callus cultures and suspension cultures from T. brevifolia cv Repandens, T. cuspidata, T. media cvs. Hicksii and Densiformis. Though some cell lines grew fast and their doubling times were 9-14 days, the levels of taxol were too low for commercial production. Induction of the hairy roots of Taxus plants has been tried (218).
+DiCosmo and his colleagues of the University of Toronto in collaboration of Nippon Oil Co. Ltd. in Japan (219) described that they detected and identified taxol in the callus of T. cuspidata and its level was 0.02+0.005% in dry weight after 2 months in culture. Suspension cultures of T. cuspidata were also established from the callus cultures and subsequently immobilized onto glass fiber mats. The cells were maintained as immobilized cultures for 6 months. The level of taxol in the immobilized cells was 0.012+0.007% of the extracted dry weight.
+Taxol is one of the most suitable and desirable plant products to plant cell culture research because the shortage of its supply and its high-value. Bristol-Myers Squibb is therefore, financially supporting many research groups to establish the process of cell culture production of taxol.
+<section>9</section>
+7.1.6 Ginseng
+The root of Panax ginseng C.A. Meyer, a perennial herb, so-called "ginseng" has been widely used as a tonic and precious medicine since ancient times particularly in oriental countries including Korea and China. It is effective for gastroenteric disorders, diabetes and weak circulation, and has been used as an adjuvant to prevent various disorders, rather than a medicine to cure disorders. Thus, ginseng has been recognized as a miraculous medicine in preserving health and longevity. It has been known that the root contains various saponins and sapogenins. Among them, ginsenoside-Rb has a sedative activity, while Rg has a stimulative activities.
+Although there are several species of ginseng, the commercially important species, P. ginseng grows in an area of 30-48° north latitude such as Korea (220). The cultivation of ginseng in the field requires four to seven years, and it is impossible to plant consecutively for 20 to 50 years but the demand for the plant has increased dramatically in the world, and its price has soared. These are reasons why many researchers have tried to produce ginseng cells through plant tissue cell cultures.
+Furuya et al. at Kitasato University (221, 222) have studied P. ginseng callus tissues since the early 1970's. Meiji Seika Kaisha in Japan investigated the large-scale production of the cells established by Furuya using various types of fermentors. According to their patent published in 1973 (223), crown gall calli, callus tissues and redifferentiated roots of P. ginseng were able to accumulate saponins and sapogenins known from the intact plant. The callus tissues and roots were cultivated on both MS solid and liquid media containing vitamins, sucrose, 2,4-D and suitable natural nutrients such as soybean powder or beef extract for several weeks at 25-28° C. The concentrations of crude saponins in the callus (21.1%), in the crown gall (19.3%) and in the redifferentiated root (27.4%) were much higher than those in the natural root (4.1%). The saponins were found to contain ginsenoside-Rb and -Rg. To obtain high saponin-producing cells, mutagenesis was conducted using
+nitrosoguanidine and ?-ray as mutagens and a variant cell line of the drown gall induced by ?-ray irradiation was shown to accumulate 25.5% of saponins.
+Staba of the University of Minnesota also obtained cultured cells of P. ginseng containing ginsenosides (224). Choi of Korea Ginseng & Tobacco Research Institute (220) has investigated in vitro culture of P. ginseng extensively. He indicated that plant growth regulators such as 2,4-D and kinetin in the medium affected the levels of saponins in callus and suspension cultured cells. For example, 3.62% of total saponins was detected in the callus cultivated in MS medium containing 5 mg/L 2,4-D and 1 mg/L kinetin, while 8.78% was produced in 10 mg/L 2,4-D and 1 mg/L kinetin medium.
+After the Meiji Seika abandoned development of the ginseng project, another Japanese company, Nitto Denko Corporation, constructed a 20 KL fermentor to scale-up cultivation of ginseng cells in collaboration with Furuya in the middle of the 1980's. Ushiyama et al. (225) of the company have optimized various environmental conditions using 30 L jar fermentors for the cell line having partly differentiated tissues originally induced by Furuya et al. Glucose in the medium promoted cell growth in the initial stages of the fermentation and sucrose fed during the growth cycle stimulated the productivity of saponins. Although a higher NO[2]/NH[3] ratio was favorable to the growth, it decreased the concentration of saponins in the cells. The growth was suppressed by moderate agitation, but the yield of saponins increased. The highest cell mass, 19 g/L on a dry weight basis was obtained using a 2 KL fermentor and the production rate of the cell mass was approximately 700 mg/L/day.
+Table 13 shows a comparison of the chemical variation between mother plants of P. ginseng and its tissue cultured cells. Ushiyama indicated that their cultured cells contained basically the same constituents as those in the intact plant. Acute virulence tests, Ames tests and dietary tests with livestock feed containing 12.5% of dried cultured cells for 6 months did not show any abnormalities in animals.
+In 1988, Nitto Denko was approved by the Ministry of Welfare and Health in Japan to market the cultured ginseng cell mass as a food additive. The product has been used as an additive for wines, tonic drinks, soups, herbal liqueurs and others. The company is expecting that the cultured ginseng cells will be approved as a drug by the Ministry within a couple of years.
+Table 13 - Chemical Components of Tissue Cultured Panax ginseng
+Table 13 - Chemical Components of Tissue Cultured Panax ginseng
+Source: Ushiyama, K., In "Plant Cell Culture in Japan" p. 97 (1991). Eds. Komamine, A., C.M.C. Co. Ltd., Tokyo, Japan
+7.1.7 Rosmarinic Acid
+Rosmarinic acid, or a-0-caffeoyl-3,4-dihydroxyphenyllactic acid has been found in the families Laminaceae and Boraginaceae. Rosmarinic acid and some related compounds were reported to have physiological or pharmaceutical activities. Oxidized rosmarinic acid was reported to show antithyrotropic activity and rosmarinic acid itself has been shown to effectively suppress the complement-dependent components of endotoxin shock in rabbits (226), however these compounds have not yet been used as commercial drugs.
+Cultured cells of several plant species such as Coleus blumei (227), Anchusa officinalis (227) and Lithospermum erythrorhizon (228) were found to accumulate rosmarinic acid. It is of interest that production of the acid is stable, and high levels are produced. Ellis described that the production of rosmarinic acid appeared to be constitutively expressed in C. blumei cells, some of which had been in continuous culture for 10 years with no reduction in metabolite yield.
+Dedifferentiated cell cultures of C. blumei and A. officinalis accumulated almost exclusively rosmarinic acid with the levels higher than in the intact plants when both types of cells were cultivated in a Gamborg and Eveleigh's B5 medium. The yield of the acid, before optimization, was about 1.4 g/L for C. blumei and 0.7 g/L for A. officinalis (227). Both species grew very well and reached up to 16 g-d.w./L within 30 to 40 hours of the culture period.
+Zenk et al. (229) reported in 1977 that increasing the sucrose concentration in B5 medium up to 7.5% greatly stimulated both cell growth and rosmarinic acid formation in C. blumei cultures. The yield of the acid was approximately 3.6 g/L and the cell mass was 27 g-d.w./L. The yield shown seems to be one of the highest productivities of secondary metabolites in plant cell cultures.
+Culture conditions and correlation between cell growth and production of rosmarinic acid were investigated extensively by De-Eknamkul and Ellis (227) using both cell lines, for example NAA was the most favorable auxin to produce the product for A. officinalis cells, while 2,4-D was the most effective in C. blumei cultures.
+Alfermann and his colleagues in Germany (230) have been investigating the biosynthetic pathway of rosmarinic acid and found two new enzymes, i.e., hydroxyphenylpyruvic acid reductase which catalyses the reduction of 4-hydroxyphenyl pyruvic acid to the corresponding lactic acids, and rosmarinic acid synthetase (caffeoyl-CoenzymeA:3,4-dihydroxyphenyllactic acid caffeoyl transferase), the enzyme transferring the caffeoyl moiety from caffeoyl-CoA to 3,4-dihydroxyphenyllactic acid. This is the crucial enzyme in rosmarinic acid biosynthesis forming the ester linkage between the caffeic acid moiety and the 3,4-dihydroxyphenyllactic acid moiety.
+To confirm localization of rosmarinic acid accumulated and its biosynthetic enzymes in the cells, the same group prepared protoplasts from C. blumei cultured cells. Rosmarinic acid as well as the enzymes were mainly found in vacuoles. They also purified some of the enzymes.
+Recently Mizukami and Ellis (231) isolated three isoforms of tyrosine aminotransferase (TAT) from Anchusa officinalis cell suspension cultures and indicated two (TAT-1, TAT-4) out of three isoforms were involved in the synthesis of rosmarinic acid. They suggested that TAT-1 controls conversion of tyrosine to 4-hydroxyphenyl pyruvate and TAT-4 acts by participating in the formation of tyrosine and phenylalanine via prephenate.
+Determination of the biosynthetic pathway of secondary products will undoubtedly contribute to the further improvement of producing cells using recombinant DNA technology. This technology should be applied more extensively in the future.
+Ulbrich et al. (232) of A. Nattermann & Cie. GmbH in Germany investigated large-scale production of rosmarinic acid by a C. blumei cell culture process. In order to increase oxygen supply in the medium and to operate at high cell density, they designed a special module spiral stirrer. It was built of six modules, and a special end module each consisting of one plain metal ring (spiral blade) fixed to the stirrer shaft with two spokes and two rings. The rotation speed of the module spiral stirrer ranged between 50-100 rpm without significant cell damage. Standard rotation speed was set at 100 rpm. The inoculum of C. blumei cells was cultivated in a fed-batch process and then about 30-50% culture broth was transferred from the seed fermentor to the production fermentor with sucrose solution (50 g/L) as the production medium.
+Using this procedure the yield of rosmarinic acid increased to 5.5 g/L or 910 mg/L/day, representing 21% of the dry weight. According to Ulbrich's experiments, the process needs only 14 days to produce in total 200 g of 97% purity of rosmarinic acid in two parallel production batches from one inoculum fermentor (32 L working volume). It is not necessary to separate the cell mass from the growth medium, and they would recycle it as a part (30% v/v) of the simple and cheap production medium (sucrose 50 g/L). It is hoped that some commercial utility for rosmarinic acid will be found in the future.
+7.1.8 Arbutin
+Arbutin is widely distributed in various plants of the Ericaceae such as Arctostaphylos uva-ursi and Vaccinium vitisidaea. The level of arbutin in the bark of Pyrus communis reaches up to 28%. Arctostaphylos uva-ursi has been used as a urethal disinfectant and its major active principle, arbutin, was shown to suppress the synthesis of melanin in human skin (233). A Japanese cosmetic company, Shiseido, has developed arbutin as an additive for the company's product lines because of its preventive activity toward pigmentation of skin.
+Although arbutin is commercially available by a chemical process, researchers of Shiseido have investigated an alternative process using plant cell cultures including biotransformation (234). Tabata et al. (235) showed that cultured cells of Datura innoxia had a remarkably high capability for glucosylation of hydroquinone to form arbutin, and hydroquinone was totally converted to arbutin within 10 hours after administration. The glucosylation is catalyzed by an enzyme, uridine diphosphate glucose (UDPG)-hydroquinone glucosyltransferase. Yokoyama et al. (234) selected C. roseus cells as a producer of the enzyme since arbutin was formed efficiently when hydroquinone was added into the suspension culture.
+They have optimized various components in Linsmaier-Skoog's basal medium for production of arbutin and found that higher levels of sugars such as sucrose in the medium, up to 6%, gave higher yields of arbutin. Concerning this sugar effect, Yokoyama suggested that sucrose was a scavenger, and therefore it protected cultured cells from the damaging activity of hydroxy radicals of the substrate. This was also supported by their finding that some antioxidants such as ascorbic acid, gallic acid, cysteine, tannin and phytic acid increased the level of arbutin.
+One of the high producing cell lines, C. roseus strain B was cultivated in a 5 L jar fermentor equipped with modified paddle-type impellers and spargers of porous sintered metal which prevents to some extent the adhesion of cells to the inner surface of the fermentor. Glucose was used as a carbon source instead of sucrose for economic reasons for mass production of arbutin. In order to increase the cell density in the medium, 10 times concentration of the medium components was fed to the medium during the fermentation. It was prerequisite to keep the level of hydroquinone in the medium as low as possible to avoid damage of the cells by the substrate. Therefore, hydroquinone was fed at 6 mM in the beginning of the fermentation and after its concentration had decreased to around 0 mM in the medium, they started to feed hydroquinone continuously at 1.4 mmol per hour. Under these conditions, 9.2 g/L of arbutin which corresponded to 45% of dry cell weight was obtained in 3 to 4
+days after administration of hydroquinone. Similar yields was also obtained using larger scale fermentors.
+Since the production continued until cell death, arbutin was accumulated extracellularly and its concentration reached approximately 1% in the culture filtrate at the end of the production phase. Therefore, arbutin was easily extracted from the filtrate. The total cultivation period was approximately 18 days including 2 weeks for high density cell culture and 3 or 4 days for the biotransformation process.
+According to Yokoyama (234), the chemical synthesis of the compounds requires at least 3 step reactions and the production cost of arbutin by a plant cell culture process is comparable to the chemical process.
+As the author described previously, biotransformation is one of the most feasible processes in terms of industrial application of plant tissue and cell cultures. It is advantageous that the yield of arbutin is high and the cost of hydroquinone is inexpensive enough as a substrate, accordingly the author believes that the process will be employed for commercial manufacturing arbutin in the near future.
+7.2 Agricultural Drugs
+7.2.1 Plant Virus Inhibitors
+A large number of chemically synthesized compounds and natural molecules have been examined for their inhibitory effects on plant viruses and some of them have potent activity as protectors against virus infection (236).
+In order to screen high producing cultured cells of plant viral inhibitors, a variety of callus extracts were examined the inhibitory activity towards tobacco mosaic virus (TMV) infection using a tobacco disc method by Misawa et al. of Kyowa Hakko in Japan (237). Among these extracts Phytolacca americana callus was selected as the most potent producer of the inhibitor. The level of the inhibitor accumulated in the suspension cultured cells and reached maximum level on the 9th day of culture using MS medium containing 1 mg/l 2,4-D. The cell suspension of P. americana was homogenized and the supernatant was diluted up to 100 times with water. The diluted solution was found to inhibit TMV infection on tobacco and tomato plants significantly.
+Further studies in the same laboratory used Agrostemma githago, a more potent producer of the plant virus inhibitor (238). The growth of suspension cultured cells of A. githago was somewhat faster than P. americana.
+Active principles of P. americana and A. githago were isolated with Column-lite chromatography and electrofocusing (239). At least four basic proteins were obtained from P. americana cells whose molecular weights were 1.10X10^4 to 3.15X10^4 Among them the highest molecular weight component contained sugars in the molecule. On the other hand, only one basic protein was isolated as the principle from A. githago culture and its molecular weight was 2.5X10^4. The proteins obtained from P. americana have been widely investigated because of their activities to HIV.
+Ikeda et al. of Japan Tobacco Inc. (240) also screened various plants and selected Mirabilis jalapa as a producer of an anti-plant virus protein. The callus was induced from leaves of M. jalapa and its suspension cultured cells established were found to accumulate the protein intracellularly. Optimization of the production and the cell growth as well as selection of high producing cell lines were conducted extensively. One of the lines produced 95 mg/L of the protein in the optimized medium based on MS medium on the 7th day of the cultivation. Its molecular weight was 24 KD and the amino acid sequence was determined which had 24% homology with a ribosome-inactivating protein, ricin D-A chain.
+7.3 Food Additives
+7.3.1 Pigments
+7.3.1.1 Shikonin Compounds
+Shikonin and its derivatives such as acetyl shikonin and isobutyl shikonin accumulated in roots of Lithospermum erythrorhizon Sieb. & Zucc. are reddish purple pigments and have been used in traditional dyeing. The plant has also been used as a herbal medicine. Because of a shortage of this plant, Fujita et al. at Mitsui Petrochemical in Japan investigated mass cultivation of L. erythrorhizon cells to produce shikonin compounds (19, 241, 242). Using the cell line established by Tabata's laboratory of Kyoto University (243), they optimized its culture conditions extensively to increase the level of the products using flasks and various types of fermentors including a rotating cylindrical fermentor designed by Tanaka et al. of Tsukuba University (37).
+Fujita et al. found that L. erythrorhizon produced shikonins in White's medium but the cell growth was poor in the same medium. On the other hand, Linsmair-Skoog's (LS) medium was recognized to support the growth but not shikonin production. Therefore, they used a two-stage culture for mass production of shikonin compounds. Namely, to proliferate the cells, LS medium was used at the first stage of the fermentation, and then the cells were transferred into White's medium for production of shikonin compounds. In order to improve the yields further, optimization of components in both media was carried out extensively, and MG-5 and MG-9 media were established,
+Since most cultured cells in liquid and solid media occur as aggregates, selection of high-producing cell lines from the aggregated cells is not effective and labour-intensive. The Mitsui group prepared protoplasts from the cultured cells with appropriate enzymes and selected high shikonin compounds-producing protoplasts using a cell sorter. The selected protoplasts were generated to cell lines and cultivated in suspension. From 48 cell lines, they obtained a cell line having 1.8 fold the productivity of the parent line. The cell line showed stable production of shikonin compounds.
+To produce the compounds more efficiently, the same group attempted to employ a high-cell density culture process in the second stage of the two-stage cultures. By feeding the nutrients into M-9 medium, the level of cell mass increased and that of the compounds produced increase twice as much as without feeding. Shikonin and its derivatives are being manufactured commercially by the company. A major application of the pigment is for lipsticks.
+Shimomura et al. (244) established a hairy root culture of L. erythrorhizon with Agrobacterium rhizogenes. The hairy root culture did not produce shikonin on solid MS medium but produced the pigment in the root culture medium and also secreted it into the medium. Addition of absorbents; XAD-2, XAD-4, charcoal and so on increased the concentration of shikonin produced. The roots were cultivated in a 2 L air-lift type fermentor connected to a XAD-2 column (25 g) through a peristatic pump and 5 mg/day of shikonin was continuously produced during a period of more than 220 days.
+7.3.1.2 Anthocyanins
+Anthocyanins are the large group of water-soluble pigments responsible for many of the bright colours seen in flowers and fruit. They are composed of an aglycone (anthocyanidin) and more than one sugar moiety and normally change colour over the pH range due to the existence of four pH-dependent forms. Thus, at low pH they are red and at higher pH value (over 6) they turn blue. They are commonly used in acidic solutions in order to impart a red colour to soft drinks, sugar confectionary, jams and bakery toppings. The major source of anthocyanins for commercial purposes are grape pomaces and waste from juice and wine industries, but other potential sources have been investigated.
+Crude preparations of anthocyanins are used extensively in the food industry and it has been claimed that pure anthocyanins are priced $1,250-2,000/kg, but crude materials are rather inexpensive.
+Commercial exploration of cell cultures for anthocyanins therefore, has not been tackled seriously. Although there have been many papers describing the production of anthocyanins using cultured cells of various plant species (145-248), most of them seem to use an anthocyanin-producing cell line as a model system for secondary product production because of their colour which allows production to be easily visualized.
+Among them, Yamamoto et al. of Nippon Paint Co. in Japan have studied production of anthocyanins intensively (248). They induced callus from Euphorbia millii leaves on MS medium containing 2,4-D, NAA, natural sources such as malt extract and yeast extract. As a major component in the callus, they identified cyanidin-3-arabinoside. The callus consisted of cell aggregates was cut to small pieces and cultivated on solid agar media. High producing cell aggregates were selected visually and they were transferred to fresh agar media. This procedure was repeated 28 times and one of the cells was determined to produce 1.32% d.w. anthocyanins in the cells. The levels of the pigments in flowers and leaves were 0.28% and less than 0.01%, respectively. They also established suspension cultures of E. millii.
+Accumulation of anthocyanins was enhanced by a high osmotic potential in Vitis vinifera L. (grape) cell suspension cultures (249). They added sucrose or mannitol in the medium to increase the osmotic pressure and found the level of anthocyanins accumulated was increased to 1.5 times, 550 µg/10 cells.
+7.3.1.3 Safflower Yellow
+This yellow pigment obtained from the floret of the safflower plant (Carthamus tinctorius L.), is also known as Mexican saffron or American saffron, although it has no relation to genuine saffron (250). The major pigment is carthamin, which exists at levels of up to 30% in the flowers, and there is also a red pigment in concentrations of about 0.5%. Carthamin is the quinoid form of isocarthamin, the glucoside of 2',3',4',6'-tetrahydro-chalcone. Safflower yellow is not approved for use in the U.S. or in the E.E.C., but regulations do permit its use in Japan. It is stable to heat and light and is used in baked goods and beverages.
+The production of carthamin from safflower callus cultures has been described by Kibun Co. in Japan (251, 252). The callus was obtained from flower bud explants and could also be put into suspension. Medium optimization has been performed. The production of alpha-tocopherol (the tocopherol with the highest vitamin E activity) has been described for safflower cultures (253, 254). Selection with various media components and precursor feeding experiments have enhanced the production. Kusaka et al. (252) found that addition of cellulose, chitin or chitosan increased production of the red pigment. These polysaccharides appeared to show an eliciting activity. Addition of 1 mM D-phenylalanine and removal of Mg alone or both Mg and Ca from the culture medium also increased the production.
+Plant cell cultures cannot presently be used for the production of these metabolites, given the high cost of the technology and the low value products, ie. $50-$80 and $48 for tocopherol and carthamin respectively.
+7.3.1.4 Saffron
+Saffron is the name of the spice which is made from the stamens of Crocus sativus and are prized for their use as a flavoring and colourant. The stigma of the plant contains crocin (yellow pigment), safranal (a fragrance) and picocrocin (bitter substance). The plant is grown mainly in Spain and India and it requires about 30,000-35,000 hand-picked blooms to produce 1 lb of dry saffron.
+Crocin, being a glycoside, is water-soluble and is not soluble in oils and fats. Saffron is sensitive to pH changes and is unstable towards light and oxidative conditions, but it is moderately resistant to heat. It is used in baked goods, soups, meat and curry products, cheese, confectionary and as a condiment for the rice of Spanish and Indian foods. Saffron is also reputed to have medicinal value for stomach ailments.
+The very high value of the product is due mainly to the fact that the life of the flowers is very short, making harvesting difficult. Thus, this is an ideal target for plant tissue cultures. Ajinomoto of Japan have approached this problem through the propagation of saffron stigma-like structures in vitro (255). Further studies showed that crocin and picrocrocin were present and, after heat treatment (as done with field-grown stigmas), safranal was produced. The composition of these phytochemicals corresponded with that of similarly-treated young, intact stigmas (256).
+7.3.1.5 Madder Colorants
+Rubia tinctorum (Rubiaceae) is a perennial plant, madder, originated from the coastal regions of the Mediterranean and its roots have been used as red dyes in western Europe. The major components in the pigment are alizarin, purpurine and its glycoside, ruberythric acid. Pure alizarin is an orange crystal and is soluble at 1 part to 300 in boiling water and in other solvents. The R. tinctorum pigment, so-called madder colorant, shows a yellow color in acidic to neutral pH and tends to be reddish with increasing pH (257). It is highly resistant to heat and light which is favorable to food industry.
+The callus of R. tinctorum was induced from the root of a germ-free plant by Odake et al. (258) of San-Ei Chemical Industries in Japan and was grown on LS agar medium containing 2,4-D (10^-5 M) and 0.2% gellan gum. Through the selection of high-producing cell lines and successive transfers, yellow pigment-producing cells were obtained which were then transferred into a liquid LS medium containing 10^-6 M 2,4-D, 10^-6 M kinetin and 3% sucrose. After 21 days cultivation in a 100 L jar fermentor, approximately 1.5 g of the pigment was extracted.
+In order to remove auxins such as 2,4-D and IAA which are not desirable for food industry, a hairy root culture of R. tinctorum was established by the same group using Agrobacterium rhizogenes. They used a 5 mm diameter disc obtained from a leaf of R. tinctorum. It was incubated with cells of A. rhizogenes in suspension. After 78 hours at 25° C in the dark, the leaf disc was transplanted to a hormone-free solid LS medium containing claforan (0.05%), sucrose (3%) and gellan gum (0.2%). Fourteen days later, hairy roots were found to produce the pigment. Using a 100 L bubble-column type jar fermentor, the hairy roots were cultivated for 21 days and approximately 800 mg of the pigment was obtained.
+7.3.2 Miscellaneous
+7.3.2.1 Chicle
+Chicle is the most important raw material in chewing-gums and is made from the latex of Achras sapota Linn. Chicle contains approximately 60% of resin and 15% of rubber. The resin consists of lupeol, a-amyrin and ß-amyrin, and the rubber fraction contains cis- and trans-1,4-polyisoprene, however the biosynthetic pathway of chicle and its regulation mechanisms have not been elucidated although components of chicle are suggested to be synthesized through the mevalonic acid pathway.
+Itoh et al. of Lotte Central Laboratory Co. Ltd. (259), has tried to manufacture chicle by A. sapota tissue cultures. The callus induced from young shoots on a Linmaier-Skoog's medium was shown to produce lupeol acetate, palmitate and stearate neither a,ß-amyrin nor rubber. On the other hand, the cells cultivated in suspension produced triterpenes as well as phytosterols such as campesterol, cholesterol, ß-sitosterol and stigmasterol.
+In spite of many efforts for optimization of the culture conditions in suspension, the yield of triterpenes was not high enough for commercial application of the cell culture, therefore the researchers induced callus tissue of Dyera costulata and Couma macrocarpa Bars Rodr., both of which were known to produce latexes for chicle as well. The callus tissues of both plants produced triterpenes at higher levels than those in the intact plants, respectively, but not the rubber.
+7.3.2.2 Mucilage
+Polysaccharides produced by Astragalas gummifer have been used as additives of ice cream and edible dressings.
+Isa et al. (260) of Q.P. Corp. in Japan used a hairy-root culture technology in order to establish an alternative method of production of mucilages of A. gummifer because of high cost and unstable supply of natural gums.
+A. rhizogenes was inoculated in the stem of the in vitro plantlet of A. gummifer, which was incubated for approximately 14 days. Hairy root tips induced at the inoculated site were excised and cultivated on a hormone-free MS medium solidified with 0.2% Gelrite containing 500 mg/L Clafovan, a cefotaxim antibiotic. After successive transfers on the solid medium, the hairy roots were transferred into 30 ml of hormone-free liquid medium in a 100 ml Erlenmyer flask and cultivated at 25° C in the dark with constant agitation at 60 r.p.m.
+The cells transformed by A. rhizogenes were found to produce opines as well as several types of water soluble mucilages. The composition of monosaccharides such as glucose, arabinose, galactose and xylose in the mucilages obtained from different hairy root lines varied widely, but the chemical structure of mucilages in the mother plant is much more complicated.
+7.3.2.3 Hernandulcin
+Hernandulcin is a sesquiterpene compound having strong sweet taste isolated from Lippia dulcia (Verbenaceae), but it has not yet been approved by FDA in the U.S.A.
+Sauerwein and Shimomura (261) induced hairy roots of this plant using A. rhizogenes. The roots cultivated in MS liquid medium supplemented with 2% sucrose under 16 hr/day light accumulated 0.25 mg/g-d.w. of hernandulcin. Addition of 0.2-10 mg/L chitosan into the medium increased its level up to 5 times. The axenic shoot culture of L. dulcia on MS solid medium containing 2% sucrose was shown to produce a high concentration of hernandulcin, 2.9%-d.w. (262).
+<title>Plant Tissue Culture:an alternative for production of useful metabolite</title>
+CHAPTER 8
+CONCLUSIONS
+There are still a number of commercially important products which are being extracted from mass produced field-plants. In order to circumvent various problems caused from these processes as the author indicated in the Introduction, plant cell culture technology has been expected to be an efficient and useful tool.
+For more than 30 years, many researchers have investigated plant cell cultures for production of a variety of phytochemicals; however, in spite of their many efforts only two products such as shikonins and ginseng cells are so far being manufactured commercially. The reasons why this technology has scarcely been applied in industry are; low yield of plant metabolites, unstable producing ability of cultured cells and their slow growth rate. Therefore, at present the plant cell culture is not a cost-effective technology. In particular, any process using plant cell cultures is not favorable if the desirable products can be easily manufactured by chemical- or microbial fermentation methods.
+However, a variety of scientific strategies, as described in this review, have been investigated for improving the production ability of cultured cells and substantial progress has been made. Undoubtedly, some plant metabolites are likely to be manufactured through plant cell cultures. In addition to the approaches described in this review, several research groups have paid an attention to using recombinant DNA technology as a tool for improvement of cultured cells although it is not an easy task in secondary metabolism.
+To overcome barriers hindering industrial application of plant cell cultures, however, it is required not only to follow the approaches reviewed, but also to conduct more fundamental research, including elucidation of biosynthetic pathways of many useful secondary metabolites in plants and of the regulation mechanisms in their biosyntheses. Collaboration with a number of researchers in other scientific fields is also very helpful.
+<title>Plant Tissue Culture:an alternative for production of useful metabolite</title>
+<section>1</section>
+REFERENCES
+1. Goldstein, W. et al., In "Plant Tissue Culture as a Source of Biochemicals" Ed. Staba, E.J., 191-234 (1980) C.R.C. Press. Boca Raton, Florida.
+2. Whitaker, R.J. et al., Am. Chem. Soc. Symp. Ser. 317 347-362 (1986).
+3. Fukui, H., Yamazaki, K., Tabata, M., Phytochem. 23 2398-2399 (1984).
+4. Deus, B. and Zenk, M.H., Biotech. Bioeng., 24 1965-1974 (1982).
+5. Zenk, M.H., In "Frontiers of Plant Tissue Culture 1978", Ed. Thorpe, T.A., p.1 (1978). Univ. of Calgary.
+6. Kruz, W.G.W., Adv. Appl. Microbiol. 25 209 (1979).
+7. Fowler, M.W., In "Biotechnology of Higher Plants", Ed. Russel, G.E., 107-133 (1988) Intercept Ltd.
+8. Misawa, M., In "Adv. in Biotechem. Eng./Biotech.", Ed. Fiechter, A., 59-88 (1985) Springer-Verlag. Berlin, Heidelberg, New York.
+9. Staba, E.J., In "Proc. 5th Int'l. Cong. Plant Tissue & Cell Culture", Ed. Fujiwara, A., p. 25 (1982) Maruzen Co., Tokyo.
+10. Tulecke, W. and Nickell L.G., Science 130 863 (1959).
+11. Mandel, M., Adv. Biochem. Eng., 2 201 (1972).
+12. Street, H.E. (ed.), In "Plant Tissue and Cell Culture", Blackwell Scientific Publ., London (1973).
+13. Martin, S.M., In "Plant Tissue Culture as a Source of Biochemicals" Ed. Staba, E.J., 149-166 (1980). C.R.C. Press. Boca Raton, Florida.
+14. Misawa, M., In "Plant Tissue Culture and Its Bio-technological Application", Eds. Barz, W., Reinhard, E., Zenk, M.H., p. 17 (1977), Springer-Verlag, Berlin, Heidelberg, New York.
+15. Misawa, M. and Samejima, H., In "Frontiers of Plant Tissue Culture 1978", Ed. Thorpe, T.A., 353-362, (1978) Univ. of Calgary.
+16. Barz, W., Reinhard, E., Zenk, M.H. (Eds.), "Plant Tissue Culture and Its Bio-technological Application" Springer-Verlag, Berlin, Heidelberg, New York.
+17. Zenk, M.H., In "Plant Tissue Culture and Its Bio-technological Application", Eds. Barz, W., Reinhard, E., Zenk, M.H., p. 27 (1977), Springer-Verlag, Berlin, Heidelberg, New York.
+18. Fujiwara, A. (Ed), Proc. 5th Int'l. Cong. Plant Tissue and Cell Culture, Maruzen Co., (1982).
+19. Fujita, Y. et al., In "Proc. 5th Int'l. Cong. Plant Tissue and Cell Culture", Ed. Fujiwara, A., 399-400 (1982).
+20. Misawa, M. et al., ibid., 279-280 (1982).
+21. Alfermann, A.W. and Reinhard, E., ibid., 401-402 (1982).
+22. Misawa, M. et al., Phytochem., 27 1355 (1988).
+23. Ulbrich, B., Weisner, W., Arens, H., In "Primary and Secondary Metabolism of Plant Cell Cultures", Eds. Neumann, K.H. and Reinhard, E., p.293-303 (1985), Springer-Verlag, Berlin.
+24. Sahai, O. and Knuth, M., Biotechn. Prog., 11 9 (1985).
+25. Fowler, M.W., In "Plant Biotechnology", Eds. Mantell, S.H., and Smith, H., p.3-37 (1983), Cambridge Univ. Press, Cambridge, U.K.
+26. Scragg, A.H., in "Secondary Metabolism in Plant Cell Cultures" Eds. Morris, A.H. et al., p.202-207 (1986). Cambridge Univ. Press, Cambridge, U.K.
+27. Drapeau, D. et al., Biotech. Bioeng. 30 946-953 (1984).
+28. Murashige, T. and Skoog, F., Physiol. Plant., 15 473-497 (1962).
+29. Gamborg, O.L. et al., Exp. Cell Res., 50 151-158 (1968).
+30. Wetter, L.R. and Constabel, F., (Eds), Plant Tissue Culture Methods. (1982) Nat'l Research Council of Canada, Saskatoon.
+31. Lamport, D.T.A., Exp. Cell Res., 33 195 (1964).
+32. Veliky, I. and Martin, S.M., Can. J. Microbiol., 16 223 (1970).
+33. Martin, S.M. and Rose, D., Can. J. Bot., 54 1264 (1976).
+34. Kato, A. et al., J. Ferment. Technol., 54 82 (1976).
+35. Martin, S.M., In "Plant Tissue Culture as a Source of Biochemicals" Ed. Staba, E.J., 149-166 (1980) C.R.C. Press. Boca Raton, Florida.
+36. Wagner, F. and Vogelmann, H., In "Plant Tissue Culture and Its Bio-technological Application", Eds. Barz, W., Reinhard, E., Zenk, M.H., p.245 (1977), Springer-Verlag, Berlin, Heidelberg, New York.
+37. Tanaka, H. et al., Biotech. Bioeng., 24 2359 (1983).
+38. Ten Hoopen, H.J.G. et al., In "Prog. in Plant and Molecular Biology", Eds. Nijkamp, H.J.J. et al., 673-681 (1990). Kluwer Acad. Publ., Dordorecht, Boston, London.
+39. Westphal, K., ibid., 601-608 (1990).
+40. Ushiyama, K., In "Plant Cell Culture in Japan", Eds. Komamine, A., Misawa, M., DiCosmo, F., p.92-98 (1991). CMC Co. Ltd., Tokyo.
+41. Takahashi, S. and Fujita, Y., ibid., p.72-78 (1991). CMC Co. Ltd. Tokyo.
+42. Rokem, J.S. et al., Plant Cell Rep., 3 159-160 (1984).
+43. Matsumoto, T. et al., Agr. Biol. Chem., 84 967 (1980).
+44. Whitaker, R.J., Hashimoto, T., Evans, D.A., Ann. NY Acad. Sci., 435 364 (1984).
+45. Brain, K.R., Plant Sci. Let., 7 157 (1976).
+46. Ikeda, T., Matsumoto., T., Noguchi, M., Phytochem. 15 568 (1976).
+47. Staba, E.J. and Kaul, B., U.S. Pat. 3,628,287 (1971).
+48. DiCosmo, F. et al. 2nd National Cancer Inst. Workshop on Taxol and Taxus, Sep. 23-24, 1992 Alexandria, V.A., U.S.
+49. Toivonen, L. et al., Plant Cell Rep., 11 390-394 (1992).
+50. Rhodes, J.C. et al., Int'l Pat. WO 89/10958, 16 Nov. 1989.
+51. Rhodes, J.C., Personal communication.
+52. Robins, R.J. et al., Appl. Microbial. Biotechnol. 24 35 (1986).
+53. Knoop, B. et al., Z. Naturforsch., 38c 484-486 (1983).
+54. Becker, H. et al., Proc. 3rd Eur. Cong. Biotech., 1 209 (1984).
+55. Yamakawa, T. et al., In "Proc. 5th Int'l. Cong. Plant Tissue and Cell Culture", Ed. Fujiwara, A., 273-274 (1982).
+56. Raveh, D. et al., In Vitro, 9 216 (1973).
+57. Yamamoto, Y., Mizuguchi, R., Yamada, Y., Theor. Appl. Genet. 61 113 (1982).
+58. Constabel, F. et al., In "Proc. 5th Int'l Cong. Plant Tissue and Cell Culture", Ed. Fujiwara, A., p.301-310 (1982), Maruzen Co., Tokyo, Japan.
+59. Yamada, Y. and Sato, F., Phytochem. 20 545 (1981).
+60. Watanabe et al., ibid. 21 513 (1982).
+61. Matsumoto, T. et al., In "Proc. 5th Int'l Cong. Plant Tissue and Cell Culture", Ed. Fujiwara, A., p.275-276 (1982), Maruzen Co., Tokyo, Japan.
+62. Zieg, P.G., Zito, S.W., Staba, E.J., Planta Med. 48 88 (1983).
+63. Bohm, H., In "Proc. 5th Int'l Cong. Plant Tissue and Cell Culture", Ed. Fujiwara, A., p.325-326 (1982), Maruzen Co., Tokyo.
+64. Berlin, J. et al., ibid., p.329-330 (1982).
+65. Adamse, A., In "Prog. in Plant Cellular and Molecular Biology" Eds. Nijkamp, H.J.J., 726-731 (1990), Kluwer Acad. Publ., Dordrecht, Boston, London.
+66. Chan, W., and Staba, E.J., Lloydia 28 55 (1965).
+67. Ellis, B. and Towers, G.H.N., Biochem. J., 118 191-197 (1970).
+68. Tabata, M., Yamamoto, H., Hirakawa, N., In "Les Cultures de Tissue de Plantes, p.389 CNRS, Paris (1971).
+69. Pras, N., In "Prog. in Plant Cellular and Molecular Biology" Eds. Nijkamp, H.J.J., 640-649 (1990), Kluwer Acad. Publ., Dordrecht, Boston, London.
+70. Endress, S. et al., Planta Med., 58 410-412 (1992).
+71. Yokoyama, M., et al., Plant Cell Physiol. 31 551 (1990).
+72. Umetani, Y. et al., 8th Symp. Plant Tissue Culture, Toyama, Japan, July (1982).
+73. Dombrowski, K. and Alfermann, A.W., 40th Ann. Cong. on Medicinal Plant Res., Sep. 1-5 (1992) Trieste.
+74. Mangold, H.K. and Radwan, S.S., In "Plant Cell Cultures: Results and Prospectives, "Eds. Sala, F. et al. p.363 (1980). Elsevier and North-Holland
+Biomedical Press.
+75. Kitahara, K., Fukui, S., Misawa, M., J. Gen. Appl. Microbiol., 6 108 (1960).
+76. Kitahara, K., Fukui, S., Misawa, M., J. Gen. Appl. Microbiol., 5 74 (1959).
+77. Fujita, et al., In "Prog. in Plant Cellular and Molecular Biology", Eds. Nijkamp, H.J.J., 738-743 (1990), Kluwer Acad. Publ. Dordrecht, Boston, London.
+78. Bede, J. and DiCosmo, F., 40th Ann. Cong. on Medicinal Plant Res., Sep. 1-5 (1992) Trieste.
+79. DiCosmo, F. and Tallevi, G.S., Tibtech. 3 110-111 (1985).
+80. DiCosmo, F. and Towers, G.H.N., In "Phytochemical Adaptations to Stress" Eds. Timmermann, B.N. et al., p.91-175 (1984). Plenum Publ. Corp.
+81. Tietjen, K.J. et al., Eur. J. Biochem. 131 401-407 (1983).
+82. Tyler, T. et al., In "Primary and Secondary Metabolism of Plant and Cell Cultures" Ed. Kurz W.G.W., p.200-207 (1989). Springer Verlag, Berlin.
+83. Eilert, U. and Eolters B., Plant Cell Technol. and Organ Culture 18 1-18 (1989).
+84. Marques, I.A. and Brodelius, P.E., Plant Physiol. 88 46-51 (1992).
+85. Mizukami, H., Plant Cell Rep., 11 480-483 (1992).
+86. Conrath, U. et al., Plant Cell Rep., 81 52-55 (1989).
+87. Hattori, T. and Ohta, Y., Plant Cell Physiol. 26 1101-1110 (1985).
+88. Smith, J.I., Smart, N.J., Kurz, W.G.W., Misawa, M., Exp. Bot. 38 1501-1506 (1987).
+89. Smith, J.I., Smart, N.J., Kurz, W.G.W., Misawa, M., Planta Med., 53 470-474 (1987).
+90. Davis, D.A., Phytochem. 31 160-163 (1992).
+91. Dunlop, D.S. and Curtis, W.R., Biotechnol. Prog. 74 34 (1991).
+92. Brodelius, P., Tibtech. 3 280-285 (1985).
+93. Brodelius, P. and Nilsson, K., FEBS Lett, 122 312-316 (1980).
+94. Brodelius, P., Personal communication.
+95. Fukui, H., Yoshikawa, N., Tabata, M., Phytochem. 22 241-2453 (1983).
+96. Lambe, C.A. and Rosevear, A., U.K. Patent 2,096,169A (1982).
+97. Lindsey, K. et al., FEBS Lett. 155 143-149 (1983).
+98. Lindsey, K., In "Plant Cell Culture Technology" Ed Yeoman, M., p.228-267 (1986). Blackwell Scientific Publ., Oxford.
+99. Alfermann, A.W. et al., Planta Med., 40 218-223 (1980).
+100. Kurz, W.G.W. et al. In "Prog. in Plant Cellular and Molecular Biology", Eds. Nijkamp, H.J.J., 682-688 (1990), Kluwer Acad. Publ., Dordrecht, Boston, London.
+101. Brodelius, P., Appl. Microbial Biotechnol. 27 228-267 (1988).
+102. Kilby, N.J. and Hunter, C.S., Proc. 6th Int'l Cong. of Plant Tissue and Cell Culture. p.352 (1986), Univ. of Minnesota.
+103. Knorr, D. and Berlin, J., J. Food Sci. 52 1397-1400 (1987).
+104. Neumann, D., et al., Planta Med. 48 20-23 (1983).
+105. Renaudin, J.P. et al., Physiol. Veg. 20 533-547 (1982).
+106. Parr, A.J. et al., Physiol. Veg., 24 419-429 (1986).
+107. Deus-Neumann, B. and Zenk, M.H., Planta 162 250-260 (1984).
+108. Deus-Neumann, B. and Zenk, M.H., Planta 167 44-53 (1986).
+109. Goodbody, A.E., Lambe, C.A., Rosevear, A., Biotech. Lett. 9 629-632 (1987).
+110. Boder, G.B. et al., Lloydia 27 329-333 (1964).
+111. Shuler, M.L. and NCI Workshop on Taxol and Taxus, Sep. (1992) Alexandria, VA.
+112. Zenk, M.H., Plant Cell Culture Conference, (1982). Oyez Sci. and Technical Services Ltd. London.
+113. Berlin, J. et al., J. Nat. Prod. 45 83 (1982).
+114. Nishi, A. et al., Phytochem. 13 1653 (1974).
+115. Sung, Z.R., Genetics 84 51 (1976).
+116. Schieder, O., Mol. Gen. Genet. 149 251 (1976).
+117. Guang-Zhi, Z. et al., In "Proc. 5th Int'l Cong. Plant Tissue and Cell Culture", Ed. Fujiwara, A., p.339-340 (1982). Maruzen Co., Tokyo.
+118. Deus, B., In "Proc. Int'l Symp. Plant Cell Culture". Eds. Alfermann, A.W. et al. p.118 (1978). Munch.
+119. Nerutin, I. and Dirks, R., In "Proc. 5th Int'l Cong. Plant Tissue and Cell Culture", Ed. Fujiwara, A., p.461-462 (1982). Maruzen Co., Tokyo.
+120. Ho, C. et al., ibid. p.469-470 (1982).
+121. Franke, J. and Bohm, H., Phys. Pflanzen. 170 501 (1982).
+122. Wiermann, R., In "The Biochemistry of Plants", p.85 (1981). Academic Press.
+123. Hiraoka, N. and Tabata, M., Phytochem. 13 1671 (1974).
+124. Hagimori, M. et al., Plant and Cell Physiol. 21 1391 (1980).
+125. Kodama, T. et al., Agric. Biol. Chem. 44 2387 (1980).
+126. Furuya, T. et al., 8th Plant Tissue Culture Meeting, Toyama.
+127. Ozeki, Y. and Komamine, A., Physiol. Plant. 53 570 (1981).
+128. Fuller, K.W., Chem. Ind., Dec. 1984, 825-833.
+129. Bellamy, D. and Rowson, J.M., Cell Biol. Int. Rep. 8 276 (1984).
+130. Goldsworthy, A., Tibtech. 4 227-230 (1986).
+131. Goldsworthy, A., U.K. Patent 2,149,818A (1985).
+132. Flores, H.E., Proc. Amer. Chem. Soc. Symp. Ser. 190 (1986).
+133. Shimomura, K. et al., 5th Int'l Cong. of Plant Tissue and Cell Culture. p.250 (1986). Univ. of Minnesota.
+134. Jung, G. et al. and Tepfer, D., Plant Sci. 50 145-151 (1987).
+135. Yoshikawa, T. and Furuya, T., Plant Cell Rep. 6 449-453 (1987).
+136. Flores, H.E. et al., Tibtech. 5 64 (1987).
+137. Hamill, J.D. et al., Plant Cell. Rep. 5 111-114 (1986).
+138. Parr, A.J. and Hamill, J.D., Phytochem. 26 3241-3245 (1987).
+139. Berlin, J. et al., J. Naturforsch. 460 725-734 (1991).
+140. Berlin, J. et al., ibid. 47C 222-230 (1992).
+141. Granicher, F., 40th Ann. Cong. on Medicinal Plant Research, Sep. 1-5, (1992). Trieste.
+142. Babucke, S., 40th Ann. Cong. on Medicinal Plant Research, Sep. 1-5, (1992). Trieste.
+143. Rhodes, M.J.C. et al., In "Primary and Secondary Metabolism of Plant Cell Cultures" Ed. Kurz, W.G.W. p.58-72 (1989). Springer-Verlag, Berlin, Heidelberg.
+144. Furze, J.M. et al., J. Plant Physiol. 131 237-246 (1987).
+145. Wilson, P.D.G. et al., In "Prog. in Plant Cellular and Molecular Biology" Eds. Hijkamp, H.I.J. et al., p.738-743 (1990), Kluwer Academic Publ., Dordrecht, Boston, London.
+146. Berlin, J. et al., ibid. p.763-768 (1990).
+147. Kamimura, S., In "Plant Cell Culture in Japan", Eds., Komamine, A., Misawa, M., DiCosmo, F., p.27-38 (1991). CMC Co., Tokyo.
+148. Staba, E.J. et al., J. Nat. Prod., 45 256-262 (1982).
+149. Constabel, F., In "Chemistry and biology of isoquinoline alkaloids" Eds. Phillipson, J.D., p.257-264 (1985). Springer-Verlag.
+150. Furuya, T. et al., Phytochem., 11 3041-3044 (1972).
+151. Kamo, K.K. and Mahlberg, P.G., In "Biotechnology in Agriculture and Forestry 4" Ed. Bajaj, Y.P.S., p.251-263 (1988). Springer-Verlag, Berlin, Heidelberg, New York, Tokyo.
+152. Eilert, U. et al., J. Plant Physiol. 119 77-87 (1985).
+153. Furuya, T., Japanese Patent, Kokai Sho-59-159790 (1984).
+154. Furuya, T., Shono, K., Ikuta, A., Phytochem. 11 175 (1972).
+155. Yamamoto, H., Shoyakugaku (In Japanese), 35 15 (1981).
+156. Sato, F. and Yamada, Y., Phytochem. 23 281 (1984).
+157. Hara, Y. et al., J. Plant Physiol., 133 12 (1988).
+158. Hara, H. et al., Plant Cell Res., 10 494-497 (1991).
+159. Mitsuno, M. et al., 8th Meeting of Plant Tissue Culture, Toyama, Japan, July (1983).
+160. Endo, T. and Yamada, Y., Phytochem. 24 1233-1236 (1985).
+161. Kitamura, Y., In "Biotechnology in Agriculture and Forestry 4" Ed. Bajaj, Y.P.S., p.419-436 (1988). Springer-Verlag, Berlin, Heidelberg, New York, Tokyo.
+162. Flores, H.E. and Filner, P., In "Primary and Secondary Metabolism of Plant Cell Cultures" Ed. Kurz, W.G.W. p.174-185 (1989). Springer-Verlag, Berlin, Heidelberg.
+163. Hildebrandt, A.L. and Riker, A.J., La culture des tissus vegetaux 42 (1953).
+164. Staba, E.J., J. Pharm. Sci., 51 249-254 (1962).
+165. Rucker, W., In "Biotechnology in Agriculture and Forestry 4" Ed. Bajaj, Y.P.S., p.388-418 (1988). Springer-Verlag, Berlin, Heidelberg, New York, Tokyo.
+166. Lui, J.H.C. and Staba, E.J., Phytochem. 18 1913-1916 (1979).
+167. Lui, J.H.C. and Staba, E.J., Planta Med., 41 90-95 (1981).
+168. Hirotani, M. and Furuya, T., Phytochem., 16 610-611 (1977).
+169. Kartning, Th. et al., Planta Med., 47 247-248 (1983).
+170. Graves, J.M.H. and Smith, W.K., Nature (London) 214 1248-1249 (1967).
+171. Reinhardt, E., In "Tissue Culture and Plant Science 1974", Ed. Street, H.E., p.433 (1974). Academic Press.
+172. Brain, K.R., Plant Sci. Lett., 7 157-161 (1976).
+173. Wichers, H.J. et al., Planta, 158 482-486 (1983).
+174. Teramoto, S. and Komamine, A., In "Biotechnology in Agriculture and Forestry 4" Ed. Bajaj. Y.P.S., p.209-224 (1988). Springer-Verlag, Berlin, Heidelberg, New York, Tokyo.
+175. Becker, H. and Chavadej, S., ibid., p.294-309 (1988).
+176. Thies, P.W., Osterr Apotheker Z., 38 47-48 (1984).
+177. Becker, H. et al., In "Proc., 3rd Eur. Cong. Biotech. Vol. 1" p.203-207 (1984). Munchen.
+178. Becker, H. and Chavadej, S., J. Nat. Prod., 48 17-21 (1985).
+179. Suffness, M. and Douros, J., ibid., 45 1-14 (1982).
+180. Misawa, M. and Nakanishi, T.M., In "Biotechnol. in Agriculture and Forestry, Vol. 4, Ed. Bajaj, Y.P.S., p.192-208 (1988). Springer-Verlag, Berlin, Heidelberg.
+181. Takayama, S., In "Plant Cell Culture in Japan", Eds. Komamine, A., Misawa, M., DiCosmo, F., p.19-26 (1991).
+182. Misawa, M., Hayashi, M., Takayama, S., Planta Med., 49 115-119 (1983).
+183. Wall, M.E. et al., J. Am. Chem. Soc., 88 3888-3890 (1966).
+184. Sakato, K., Misawa, M, Agric. Biol. Chem. 38 491-497 (1974).
+185. van Hengel, A.J. et al. Plant Tissue, Cell and Organ Culture, 28 11-18 (1992).
+186. Powell, R.G. et al., Tetrahedron Lett., 46 4081-4084 (1969).
+187. Delfel, N.E. and Smith, L.J., Planta Med., 40 239-244 (1980).
+188. Misawa, M. and Endo, T., In "Genetics of Plants" Vol. 5, Ed. Constabel, F., p.553-568 (1988). Academic Press, New York.
+189. Takayama, S., In preparation.
+190. Nissen, N.I. et al., Cancer Chemother. Rep., 56 769-777 (1972).
+191. Kadkade, P.G., Plant Sci. Lett., 25 107-115 (1982).
+192. Sakata, K., Morita, E., Takezono, T., Ann. Meeting of the Soc. of Agric. Chem., Fukuoka, Japan, March 30 (1990).
+193. Woerdenberg, H.J., et al. Plant Cell Reports 9 9-100 (1990).
+194. Smootly, T. et al., 40th Ann. Cong. on Medicinal Plant Research, Trieste, Italy. Sep. 1-5, 1992.
+195. Heyenga, A.G., Plant Cell. Rep., 9 382-385 (1992).
+196. Carew, D.P., J. Pharm. Sci., 55 1153 (1966).
+197. Misawa, M. et al., Phytochem. 27 2147 (1988).
+198. Misawa, M., Abstracts in BIO '87 Japan, p.159 Oct. 12-15 (1987), Osaka Japan.
+199. Goodbody, A.E. et al., Planta Med., 54 136-140 (1988).
+200. Smith, J.I. et al., Plant Cell Rep., 6 142 (1987).
+201. Smith, J.I., Smart, N.J. et al., In "VI Int'l Cong. of Plant Tissue and Cell Culture" Eds. Somers, D.A. et al., p.248, (1986) Univ. Minnesota Press. Minneapolis, MN.
+202. Endo, T. et al., Phytochem., 27 1355 (1988).
+203. Goodbody, A.E. et al. U.S. Patent, 4,831,133 May 16 (1989).
+204. Hara, Y. et al., Ann. Meeting of the Soc. of Agr. Chem. in Japan. Fukuoka, Japan, March 30, 1990.
+205. Fujita, Y. et al., In "Progress in Plant Cellular and Molecular Biology", Eds. Nijkamp, H.J.J. et al., p.738-743 (1990), Kluwer Acad. Publ. Dordrect, Boston, London.
+206. Bede, J. and DiCosmo, F., 40th Ann. Cong. on Medicinal Plant Research, Sep. 1-5 (1992). Trieste.
+207. Suffness, M., Workshop on Taxol and Taxus, June 26 (1990). Bethesda, MD. U.S.A.
+208. Wani, M.C., Taylor, H., Wall, M.E. et al. J. Am. Chem. Soc. 93 2325 (1971).
+209. Schiff, P.B., Fant, J. Horwita, S.B., Nature 277 665 (1979).
+210. Einzig, A.I., Workshop on Taxol and Taxus, June 26 (1990). Bethesda, M.D. U.S.A.
+211. Snader, K., ibid., (1990).
+212. Gueritte-Voegelein, F. et al., Tetrahedron, 42 4451 (1986).
+213. Holton, R.A. et al., J. Am. Chem. Soc., 110 6658 (1988).
+214. Genetic Engineering News, Dec. (1992).
+215. Christen, A.A. et al., U.S. Patent 5019504 (1991).
+216. Shuler, M.L. et al., 2nd NCI Workshop in Taxol and Taxus. Sep. 23-24 (1992). Alexandria, VA, U.S.A.
+217. Wickremesinhe, et al., ibid, (1992).
+218. Han, K.-H. and Gorden, M.F. Int'l Yew Resources Conference, Mar. 12-13 (1993), Berkeley CA, U.S.A.
+219. Fett-Neto, A.G., DiCosmo, F., Raynolds, W.F. and Sakata, K., Biotechnology 10 1572-1575 (1992).
+220. Choi, K.T., In "Biotechnology in Agriculture and Forestry 4", Ed. Bajaj, Y.S.P., p.484-500 (1988). Springer-Verlag, Berlin, Heidelberg.
+221. Furuya, T. et al., Ferment. Technol. Today. 697-703 (1972).
+222. Furuya, T. et al., Planta Med., 48 83-87 (1983).
+223. Furuya, T. and Ishii, T., Japan Patent (Kokai) 73-31917 (1973).
+224. Jhang, J.J. and Staba, E.J., In Vitro, 9 253-259 (1974).
+225. Ushiyama, K., In "Plant Cell Culture in Japan". Eds. Komamine, A., Misawa, M., DiCosmo, F., p.92-98 (1991). CMC Co. Tokyo, Japan.
+226. Ellis, B.E., Can. J. Biol. 62 2912-2917 (1984).
+227. De-Eknamkul, W. and Ellis, B.E., In "Biotechnology in Agriculture and Forestry 4", Ed. Bajaj, Y.S.P., p.310-329 (1988). Springer-Verlag, Berlin, Heidelberg.
+228. Fukui, H. et al., Phytochem. 23 2389-2399 (1984).
+229. Zenk, M.H., El-Shagi, H., Ulbrich, B., Naturwis., 64 585-586 (1977).
+230. Peterson, M. and Alfermann, A.W., Z. Naturforsch. 43C 501-504 (1988).
+231. Mizukami, H. and Ellis, B.E., Plant Cell Res., 10 321 (1991).
+232. Ulbrich, B., Wiesner, W., Arens, H., In "Primary and Secondary Metabolism of Plant Cell Cultures", Eds. Neumann, K-K. et al., p.293-303 (1985), Springer-Verlag, Berlin, Heidelberg.
+233. Akiu, S. et al., Proc. Japan Soc. Invest. Dermatol., 12 138 (1988).
+234. Yokoyama, M., Yanagi, M., In "Plant Cell Culture in Japan". Eds. Komamine, A., Misawa, M, DiCosmo, F., p.79-91 (1991). CMC Co., Tokyo, Japan.
+235. Tabata, M. et al., Phytochem. 15 12-25 (1976).
+236. Matthews, R.E.E., "Plant Virology", 447-474 (1979). Academic Press, New York, London.
+237. Misawa, M., Hayashi, M., Tanaka, H., Biotech. Bioeng., 17 1335 (1975).
+238. Takayama, S. et al., Physiol. Plant., 41 313 (1977).
+239. Misawa, M. and Samejima, H., In "Frontiers of Plant Tissue Culture 1978", Ed. Thorpe, T.A., p.353-362 (1978), Univ. of Calgary.
+240. Ikeda, T., In "Plant Cell Culture in Japan". Eds. Komamine, A., Misawa, M., DiCosmo, F., p.45-57 (1991). CMC Co., Tokyo, Japan.
+241. Fujita, Y., Takahashi, S., Yamada, Y., Agric. Biol. Chem. 49 1755 (1985).
+242. Takahashi, S. and Fujita, Y., In "Plant Cell Culture in Japan". Eds. Komamine, A., Misawa, M., DiCosmo, F., p.72-78 (1991). CMC Co., Tokyo, Japan.
+243. Tabata, M. et al., Phytochem., 13 927 (1974).
+244. Shimomura, K. et al., Plant Cell Res., 10 282-285 (1991).
+245. Mathur, J.M.S. et al., Ind. J. Exp. Biol. 20 99 (1982).
+246. Yamakawa, T. et al., Agric. Biol. Chem., 47 2185 (1983).
+247. Yamamoto, Y. et al., ibid., 53 417-423 (1989).
+248. Yamamoto, Y. In "Plant Cell Culture in Japan". Eds. Komamine, A., Misawa, M., DiCosmo, F., p.114-126 (1991). CMC Co., Tokyo, Japan.
+249. Bao, C. et al., Plant Cell Rep., 9 143-146 (1991).
+250. Timberlake, C.F. and Henry, B.S., Endeavour, New Series, 10 31-36 (1986).
+251. Kibun Co., Japan Patent 87-126924 (1987).
+252. Kusaka, K. and Wakayama, S., In "Plant Cell Culture in Japan". Eds. Komamine, A., Misawa, M., DiCosmo, F., p.127-137 (1991). CMC Co., Tokyo, Japan.
+253. Yoshikawa, T. et al., In "VI Int'l Cong. of Plant Tissue and Cell Culture" Eds. Sommers, D.A. et al., p.67 (1986), University of Minnesota Press. Minneapolis, MN.
+254. Showa Denko, Japan Patent 86-288887 (1986).
+255. Sano, K. and Himeno, H., Plant Cell, Tissue and Organ Vulture. 11 159-166 (1987).
+256. Himeno, H. and Sano, K., Agric. Biol. Chem. 51 2395-2400 (1987).
+257. Ichi, T. et al., ibid., 50 2397-2399 (1986).
+258. Odake, K. et al., In "Plant Cell Culture in Japan". Eds. Komamine, A., Misawa, M., DiCosmo, F., p.138-146 (1991) CMC Co., Tokyo, Japan.
+259. Itoh, Y., Hosomi, K., ibid., p.104-113 (1991).
+260. Isa, T., ibid., p.99-103 (1991).
+261. Sauerwein, M. and Shimomura, K., Plant Cell Rep. 9 579-581 (1991).
+262. Sauerwein, M. and Shimomura, K., ibid., 9 663-669 (1991).
+The following books are particularly useful for plant cell culture research:
+Plant Tissue Culture Methods
+Eds. Wetter, L.R. and Constabel, F.
+Prairie Regional Laboratory (Plant Biotechnology Institute) of the National Research Council of Canada. (1982).
+Advances in Biochemical Engineering/Biotechnology, Vol. 31.
+Ed. Fiechter, A.
+Springer-Verlag, Berlin, Heidelberg, New York, Tokyo (1985).
+Biotanical Monographs. Vol. 23.
+Plant Cell Culture Technology.
+Ed. Yeoman, M.M.
+Blackwell Scientific Publisher, Oxford, London, Edinburgh, Boston, Palo Alto, Melbourne (1986).
+Secondary Metabolism in Plant Cell Cultures.
+Eds. Morris, P., Scragg, A.H., Stafford, A. and Fowler, M.W. Cambridge University Press. Cambridge, London, New York, New Rochelle, Melbourne,
+Sydney(1986).
+Biotechnology in Agriculture and Forestry, Vol. 4
+Medicinal and Aromatic Plants I.
+Ed. Bajaj, Y.P.S.
+Springer-Verlag, Berlin, Heidelberg, New York, London, Paris, Tokyo (1988).
+Cell Culture and Somatic Cell Genetics of Plants, Vol. 5.
+Ed. Constabel, F.
+Academic Press, Inc.
+Plant Cell Culture in Japan.
+Progress in Production of Useful Plant Metabolites by Japanese.
+Eds. Komamine, A., Misawa, M. and DiCosmo, F.
+Enterprises Using Plant Cell Culture Technology.
+CMC Co. Ltd., Tokyo, Japan (1991).

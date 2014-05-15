@@ -1,0 +1,1753 @@
+<title>Power and Heat Plants</title>
+<section>1</section>
+Units and Abbreviations
+Unit
+Explanation
+Conversion
+a
+Year
+bar
+Pressure (absolute)
+1 bar
+= 0.1 MPa
+1 bar
+= 1.02 kg/cm^2
+1 bar
+= 14.5 lb/sc in
+°C
+Degree Celsius
+t[C]
+d
+Day
+h
+Hour
+kg
+Kilogram
+1 kg
+= 2.20 lb
+kJ
+Kilojoule, Energy
+1 kJ
+= 0.24 kcal
+1 kJ
+= 0.95 Btu
+1 TJ
+= 1000 GJ
+1 TJ
+= 1 000 000 MJ
+1 TJ
+= 1 000 000 000 kJ
+kJ/kg
+Specific energy
+1 kJ/kg
+= 0.43 Btu/lb
+Heating value
+1 kJ/kg
+= 0.24 kcal/kg
+kW
+Kilowatt. Power
+1 kW
+= 0.86 Mcal/h
+1 kW
+= 1.36 hp
+1 kW
+= 1.34 BHP
+1 MW
+= 1 000 kW
+1 MW
+= 3 410 000 Btu/hr
+kWh
+Kilowatthour. Energy
+1 kWh
+= 3600 kJ
+1 kWh
+= 860 kcal
+1 kWh
+= 3400 Btu
+1 MWh
+= 1000 kWh
+m^3
+Cubic meter. Volume. m^3 refers to the solids volume. 1 solid m^3 = about 2.5 m^3 of gravity packed "loose" wood waste
+1 m^3
+= 35.3 cb ft
+MWh/m^3
+Specific energy.
+Heating value
+1 MWh/m^3
+= 860 Mcal/m^3
+1 MWh/m^3
+= 96 600 Btu/cb ft
+t
+Metric ton. Weight
+1 t
+= 1000 kg
+1 t
+= 2200 Ib
+1 t
+= 1.016 Br.t
+t/h
+Tonnes per hour.
+1 t/h
+= 0.28 kg/s
+1 t/h
+= 2200 lb/h
+USD
+US dollar.
+The term moisture indicates the water content in percent of the total weight. That means that moisture is expressed on wet basis, which is the normal way in fuel contests. On the other hand, in common forest industry vocabulary moisture often refers to the ratio between the water content and the dry weight (dry basis). The relationship between wet and dry basis moisture is shown in the following figure.
+The relationship between wet and dry basis moisture
+<section>2</section>
+PART ONE
+1. Introduction
+2. Assumptions
+3. Description of Some Forest Industry Mills
+1. Introduction
+Much attention has been paid recently to the wood wastes of the mechanical forest industry as a potential source of fuel. The rising oil price and the growing risk of disturbances in oil supply are calling for an increased utilization of wood wastes in energy production. At the present price level of fuel oil, wood based power and heat generation seems to be economically justified even in small scale forest industries.
+Compared to oil, wood combustion is not an altogether easy thing. Fuel handling is more extensive, the boiler construction is more complicated and to generate the same amount of heat from wood fuel, a bigger boiler is needed than with oil.
+As a result, a wood fired power or heat plant is generally more expensive than an oil fired one, and although the relative cheapness of the fuel may lead to considerable savings in operation costs, wood based energy generation is not always the most economical solution.
+This study will investigate the feasibility of wood waste utilization in the power and heat generation at small scale forest industry mills in developing countries. The aim is to find out the rate of self-sufficiency to be attained in the energy supply of a mill utilizing the processing wastes of its own.
+The subject is limited to concern various hot water and steam applications in generation of industrial heat and power. The energy content of wood wastes could be used in many other ways as well, for instance in flue gas heating or drying, in hot oil boilers and in running prime movers with belt drives instead of electric generators.
+These alternative methods have, however, a rather narrow range of application possibilities when compared to water and steam based systems. Therefore, they are not included in this study.
+The methodology of the study will be the following:
+First, eleven different small scale mills - four sawmills, four panel plants and three integrated plants - are examined. In selecting them the aim has been to cover as wide a range as possible both of output capacities and of different solutions in technical design.
+To satisfy the need of thermal and (or) electrical energy of these mills, in a way that makes use of the fuel of their own - i.e. their processing residues - four different basic types of wood fired power and heat plants are presented.
+The mills and the plants are all non-existent.
+Each of the eleven forest industry mills are equipped with one of the power and heat plants, the size and output of which is adjusted to correspond to the energy demand of the mill. The different combinations will be evaluated both from the technical as well as the economical point of view.
+To evaluate the economics of the energy generation based on wood wastes, the generating costs are finally compared with a fuel oil alternative.
+All mills and all power and heat plants are designed to conform with the main principle of the Portfolio, i.e. labour intensive solutions and proven technology with a low degree of automation are applied.
+The study is divided into three parts as follows:
+Part one, chapters 1...3, lists the basic assumption used in calculations and presents the eleven mechanical forest industry mills briefly.
+Part two, consisting of chapters 4 to 11, deals with wood combustion equipment. The thermal properties of different types of wood wastes are listed. Wood fired boilers are examined as well as wood gasification equipment and various types of prime movers. Such subjects as water treatment, fuel handling etc. are briefly presented.
+The last chapters of the study, making its third part, investigate the technical properties of the power and heat plants. Further the economics of energy generation are calculated case by case for the different forest industry mills.
+Calculation prices refer to a specific Far East country. Although the numerical results may not necessarily be valid for other locations, it is, however, felt that the advantage of wood waste combustion within the mechanical forest industry is of the same magnitude in most developing countries.
+2. Assumptions
+The preparation of this study is based on the following assumptions.
+2.1 Location
+The plants are non-existing but referred to as if they were located in the Philippines in South-East Asia.
+2.2 Infrastructure
+It is presumed that the development of the surrounding region has reached such a level, that a small scale forest industry mill can be erected and taken into operation without infrastructural investments.
+2.3 Water and Electrical Energy
+Fresh water and electrical energy is supplied in required amounts by the public distribution system. If power is generated at the mill and generation exceeds demand the surplus is sold to the public grid. The case of mill operation without connection to the public grid is examined as well.
+2.4 Transports
+The transport system allows regular transportation of raw material, fuel and manufactured products at reasonable costs.
+2.5 Labour
+Labour is available in abundance, but there is a lack of people with technical education.
+2.6 Production
+The industry mills operate 300 days per year. Production efficiency is 90 %, which means that a sawmill with a rated capacity of 30 000 m^3 per year actually produces 27 000 m^3 per year.
+The sawmills operate in one shift, the plywood plant in two shifts and the other panel plants in three shifts.
+2.7 Energy Demand
+The load factor of the industry plants varies between 0.5 and 0.7. This means that average demand for electrical energy is 50...70 % of the maximum power consumption.
+The maximum demand for thermal energy exceeds average demand by 20 %.
+2.8 Power and Heat Plant Design
+The aim has been a simple plant design based on proven technology but with a low degree of automatization. In this way investment costs have been reduced and the demand for highly educated maintenance personnel lessened.
+2.9 Fuel
+Power and heat plant fuel is primarily wood waste from the mills. It is assumed that there is no alternative use for these wastes and that they are available at no cost.
+Some mills have a waste yield, which is not sufficient to cover its fuel demand. In these cases cheap fuel wood, such as logging residues and small-size roundwood, is purchased to fill the demand gap. The fuel wood is hogged before combusting.
+Neither the wood used as raw material nor the fuel wood is debarked.
+In plant start-ups and shutdowns as well as in cases of high moisture of the fuel wood, light oil is used as an additional fuel. The light oil consumption is estimated at 5 % of total fuel consumption.
+2.10 Other Assumptions
+Price of
+- fuel wood
+USD/t (green)
+- light oil
+USD/t
+- heavy fuel oil
+USD/t
+- electricity (purchased)
+USD/MWh
+- electricity (sold)
+USD/MWh
+Labor costs
+USD/person, a
+Building costs
+USD/m^3
+Interest rate
+Taxes and import duties
+Price level
+Fourth quarter of 1979
+3. Description of Some Forest Industry Mills
+As mentioned in the introduction, eleven different mechanical forest industry mills are examined in this study. The mills have all some features in common. First, their production capacity is low in comparison with modern mills in industrialized countries. Further, they are designed according to labour-intensive technology, as developing countries generally are scarce in capital but possess large reserves of labour.
+When this type of technology is applied it does not only reduce plant investment costs, but has also a lessening influence upon energy consumption per unit. Taking also into account the plant location in the tropical region - reducing the need of heating - energy consumption values are lower than those of, for instance, European mechanical forest industry mills.
+In the following pages the forest mills are briefly presented.
+3.1 Sawmill, Natural Drying
+The two first plants are sawmills. The smaller one has an output capacity of 50 m^3 sawnwood per day and the bigger one is twice that large.
+After sawing and trimming, the sawnwood is piled in the open air for drying. For this reason no generation of steam or hot water is needed.
+In the following these two plants are referred to as Sawmills No. 1 and 2.
+Technical data:
+Sawmill No. 1
+Sawmill No. 2
+- production
+m^3/d
+- installed power
+kW
+- consumption of electrical energy
+kWh/m^3
+- consumption of thermal energy
+GJ/m^3
+Raw material balance:
+sawnwood
+chips and sawdust for fuel
+various losses
+log input
+with reprocessing (chips and sawdust used as raw material in panel manufacturing)
+sawnwood
+fuel chips and sawdust for
+reprocessing
+losses
+log input
+3.2 Sawmill, Kiln Drying
+The next two sawmills, referred to as Sawmills No. 3 and 4, are identical to Sawmills 1 and 2 with the exception that the sawnwood is dried in chamber-like kilns. The kilns are heated with hot water entering the kiln at a temperature of 110...120 °C. The kiln air is circulated by fans. Due to the fans the consumption of electrical energy is significantly higher than at sawmills 1 and 2.
+Technical data:
+Sawmill No. 3
+Sawmill No. 4
+- production
+m^3/d
+- installed power
+kW
+- consumption of electrical energy
+kWh/m^3
+- consumption of thermal energy
+GJ/m^3
+The raw material balance of Sawmills 3 and 4 are indentical to those of Sawmills 1 and 2.
+3.3 Plywood Plant
+Of the four panel plants to be investigated in this study the first one, a plywood plant, is presented here. It is called Panel Plant No. 1.
+In general, the panel plants consume more energy than the sawmills and the plywood plant is no exception to this rule. Its most important heat consumers are the veneer dryer, the hot press (requiring a water or steam temperature of 160...200 °C) and the steaming pits.
+Technical data:
+- production
+m^3/d
+- installed power
+kW
+- consumption of electrical energy
+kWh/m^3
+- consumption of thermal energy
+GJ/m^3
+Raw material balance:
+plywood
+fuel
+losses
+log input
+or
+plywood
+fuel
+chips for further processing
+losses
+log input
+(Source: FAO-Portfolio, Plywood Plant, Doffine-Consult GmbH.)
+3.4 Fibreboard Plant
+The fibreboard plant. Panel Plant No. 2 has considerable energy costs per output unit. Medium-pressure steam at a temperature of about 200 °C is used in three major phases of the manufacturing process. First the raw material is defibrated by steam treatment in a digester. At a further stage the wet mat is dried and pressed in the hot press, which is heated by steam. Finally the board is given heat treatment in a board dryer, the drying energy of which also is supplied by steam.
+Technical data:
+- production
+t/d
+- installed power
+kW
+- consumption of electrical energy
+kWh/t
+- consumption of thermal energy
+GJ/t
+The fuel yield is 0.16 m^3 sanding dust per every ton of produced fibreboard.
+3.5 Particle Board Plant
+Panel Plants No. 3 and 4 are producing 25 respectively 50 m^3 of particle board per day. As raw material the process uses sawmill and plywood manufacturing residues or low grade logs or both.
+Main heat consumers are the dryer and the hot press, using steam at a temperature between 140 and 200 °C.
+Technical data:
+Panel Plant No. 3
+Panel Plant No. 4
+- production
+m^3/d
+- installed power
+kW
+- consumption of electrical energy
+kWh/m^3
+- consumption of thermal energy
+GJ/m
+For every m^3 of particle board produced 0.06 m^3 of sawdust is obtained, which can be used as fuel.
+Panel Plant No. 3 is designed to be expandable at a later stage to twice its initial capacity. This leads to a rather high power consumption per output unit in the first stage.
+(Source: FAO Portfolio, Particle Board Plant, Fahrni Institut AG.)
+3.6 Sawmill Integrated with Plywood and Particle Board Plant
+As mentioned in the previous section a particle board plant can operate on the wood waste from a sawmill or a plywood plant. The following mill to be presented is an integrated unit, consisting of a sawmill, a plywood plant and a particle board plant. It is called Integrated Plant No. 1.
+The technical data is simply obtained by summing the figures of the units of which the integrated plant consists (cf. sections 3.2, 3.3 and 3.5).
+Technical data:
+- production of sawnwood
+m^3/d
+- production of plywood
+m^3/d
+- production of particle board
+m^3/d
+- installed power
+kW
+- consumption of electrical energy
+MWh/a
+- consumption of thermal energy
+TJ/a
+Raw material balance:
+sawnwood
+plywood
+particleboard
+fuel
+losses etc.
+log input
+3.7 Sawmill, Plywood Plant and Particle Board Plant Integrated with Housing Components and Door Manufacture
+The next plant. Integrated Plant No. 2, is an extension of the previous one. 20 % of the sawnwood output and some 50 % of the particle board is processed further in a housing components and door manufacturing unit. This department increases the demand of hot water (about 115 °C) by 700 kW and the consumption of electrical energy by 170 kW compared with Integrated Plant No. 1.
+Technical data:
+- production
+cf. section 3.6
+- installed power
+kW
+- consumption of electrical power
+MWh/a
+- consumption of thermal energy
+TJ/a
+Taking into consideration the further processing of part of the sawnwood and the particle board, the raw material balance is otherwise the same as in section 3.6.
+3.8 Plywood and Veneer Plant integrated with a Particle Board Plant
+The last mechanical forest industry mill in this chapter is a plywood and veneer plant combined with particle board manufacturing. The plants are identical to those presented in the Portfolio studies on Plywood Plants and Fibreboard Plants (by Doffine-Consult GmbH and Fahrni Institut AG) and are referred to as Integrated Plant No. 3.
+The veneer process differs from the plywood process by its shorter manufacturing line: the veneer is extracted immediately after the dryer, while there is a greater number of phases in the plywood process.
+Technical data:
+- production of plywood
+m^3/d
+- production of veneer
+m^3/d
+- production of particle board
+m^3/d
+- installed power
+kW
+- consumption of electrical energy
+kWh/a
+- consumption of thermal energy
+TJ/a
+The raw material balance of the plant is as follows:
+plywood
+veneer
+particle board
+fuel
+losses etc.
+log input
+3.9 Summary on the Mechanical Forest Industry Plants
+To conclude this chapter the forest industry mills are listed in table 3.1, where their technical characteristics are compared.
+The kW-columns under the headings consumption of electrical/thermal energy indicate the average consumption of electricity and heat of the industrial process.
+Table 3.2 shows the ways in which the industry mills will be combined with the various power and heat plants. The energy generation costs are calculated for these combinations.
+Note that at the present stage of technology wood based power generation at Sawmills No. 1 and 2 is not possible in an economically acceptable way. For these mills the energy costs are calculated only for the case, where the power is supplied by the public grid.
+The following abbreviations are used to indicate the different power and heat plants:
+Heat Plant A
+Warm water (120 °C) boiler plant
+Heat Plant B
+Boiler plant generating saturated steam (15 bar)
+Power Plant C
+Boiler generating superheated steam plus 250 kW steam engine set
+Power Plant D
+Boiler generating superheated steam plus 1 MW steam turbine set.
+Table 3.1. Technical Characteristics of the Industry Mills
+Production
+Installed power
+Load factor
+Consumption of electrical energy
+Consumption of thermal energy
+Number of shifts
+m^3/d
+m^3/a
+kW
+kWh/m^3
+kW
+MWh/a
+GJ/m^3
+(kWh/m^3)
+kW
+TJ/a
+(MWh/a)
+Sawmill No. 1
+Sawmill No. 2
+Sawmill No. 3
+Sawmill No. 4
+Panel Plant No. 1
+Panel Plant No. 2^1)
+Panel Plant No. 3
+Panel Plant No. 4
+Integrated Plant No. 1
+Integrated Plant No. 2
+Integrated Plant No. 3
+^1) Output given in tonnes
+Table 3.2 Examined Energy Generation Alternatives
+Heat Plant A
+Heat Plant B
+Power Plant C
+Power Plant D
+Fuel Oil + Grid
+Sawmill No. 1
+x ^1)
+Sawmill No. 2
+x ^1)
+Sawmill No. 3
+x
+x
+x
+Sawmill No. 4
+x
+x
+x
+Panel Plant No. 1
+x
+x
+Panel Plant No. 2
+x
+x
+Panel Plant No. 3
+x
+x
+Panel Plant No. 4
+x
+x
+Integrated Plant No. 1
+x
+x
+x
+Integrated Plant No. 2
+x
+x
+x
+Integrated Plant No. 3
+x
+x
+x
+^1) no boiler
+<section>3</section>
+PART TWO
+4. Thermal Properties of Wood and Wood Wastes
+5. Wood Waste Burning Equipment
+6. Boilers
+7. Prime Movers
+8. Water Treatment
+9. Fuel Handling Equipment
+10. Miscellaneous Power and Heat Plant Equipment
+11. Gas Generators
+4. Thermal Properties of Wood and Wood Wastes
+When evaluating the properties of a combustible material with respect to its applicability as a fuel, the heating value is one of the most important figures. The heating value indicates how much thermal energy is obtained by combusting one mass unit of the material.
+In the case of wood and wood wastes, the heating value depends on the species of wood in question, on the part of the tree which is used (core, bark or the tree as a whole) and on the moisture content. The upper limit of the heating value of 100 % dry wood is 18...20 MJ/kg. In practice, the moisture of wood at the moment of logging is about 50 %. Depending on transporting and storing methods and conditions it may rise to 65 % or sink to some 30 % measured at the mill. (Moisture given on wet basis Cf. p. 2)
+The moisture of the manufacturing wastes of the mill depends on at what stage of the process the waste is extracted and whether there has been any drying of the wood before this stage. For instance, sanding dust from panel manufacturing is taken from the mill after the driers and the hot presses. Hence, its moisture could be as low as 15 %.
+In table 4.1 the heating values of different types of wood fuel at different moisture contents are listed. They can be compared with the values of fuel oil at the bottom of the table.
+Table 4.1 Heating Values and Specific Weight of Various Wood Fuels
+Moisture Unit Fuel
+MJ/kg
+30 % MWh/m^3
+kg/m^3
+MJ/kg
+50 % MWh/m^3
+kg/m^3
+Hogged wood
+Sawmill waste
+Chips
+Sawdust
+Sanding dust (moisture 15 %)
+MJ/kg
+MWh/t
+Light fuel oil
+Heavy fuel oil
+In the fuel cost calculations later in this study the fuel moisture is assumed to be 50 %. When manufacturing wastes are used moisture values below this are often obtained. The calculated consumption of fuel wood is thus to be regarded as an upper limit, which hardly will be exceeded in practice.
+The following table is based on the data on waste yield of the different mechanical forest industry mills as presented in chapter 3. It indicates how much energy is received in the form of wood wastes per unit of manufactured product. Wood moisture is assumed to be 50 %.
+Table 4.2 The Energy Content of the Wood Waste Yield per Manufactured Product Unit and Percentage of Fuel Demand
+Yield of energy in wood wastes
+GJ/m^3
+MWh/m^3
+Mill output
+Mill
+Sawmill No. 1...4
+c. 300
+Sawnwood
+Panel Plant No. 1
+Plywood
+Panel Plant No. 2 ^1)
+c. 10
+Fiberboard
+Panel Plant No. 3...4
+c. 10
+Particle board
+Integrated Plant No. 1...2 ^2)
+Sawnwood, plywood and particle board
+Integrated Plant No. 3 ^2)
+Plywood, veneer and particle board
+^1) per ton 3
+^2) per m^3 of log input
+5. Wood Waste Burning Equipment
+The existing equipment for burning wood or wood is as follows:
+- fixed flat grates (Dutch ovens, underfeed stokers)
+- fixed cone grates
+- mechanical flat grates (dumping grates, vibragrates, reciprocating grates)
+- inclined and sloping grates (including step grates)
+- travelling grates
+- Z-grates
+- combined sloping and mechanical grates
+- cyclons
+- fluidized beds
+- suspension firing in the main furnace
+- combined suspension and grate combustion
+Those mentioned after the travelling grates are not dealt with here. They are either suited for capacity ranges which exceed the scope of this study, or they represent a technology which is too sophisticated (and expensive) to be recommended for operation in developing countries.
+5.1 Fixed Flat Grate
+The oldest system to burn wood or bark in industry is to burn it in a pile. The pile may stand on a grate or, on a brick floor. The pile is normally fired in a furnace which will result in stable combustion and higher combustion capacity. The furnace (which is often a Dutch oven) often works only as a gas generator, and the combustion is completed in the boiler, to which the furnace is connected.
+The following figure No. 5.1 shows a Dutch oven with a flat grate. Normally a Dutch oven consists of two compartments which are separated with a center wall so that one of the compartment may be ashed during firing of the other. Fuel is normally fed from the top of the oven and forms a pile about 1...1.5 m high.
+Figure 5.1 Flat grate in a Dutch oven.
+In modern applications of the Dutch oven the grate is replaced by a solid floor.
+Load control is performed by regulating the flow of combustion air. Maximum fuel moisture is 67 %. The Dutch oven is simple, reliable, troublefree (if designed with adequate space) and cheap. Drawbacks of the system are maintenance costs (refractory), poor response to load changes and strong ash and carbon carry over when overloaded. The Dutch oven requires continuous operation to maintain high combustion rate (continuous fuel feed).
+Figure 5.2 shows an underfeed stoker for wood or wood waste. The fuel is fed into the furnace by a screw located under the grate. Maximum fuel size is approximately 65 x 10 x 10 mm.
+Figure 5.2 Underfeed stoker with screw feeder.
+When compared with a Dutch oven the advantage of a underfeed stoker is that the top of the pile is not cooled by cold and moist fuel or by cold air. On the other hand, if the pile is tight the air cannot penetrate the pile surface causing drying problems at the centre of the pile. For this reason underfeed stokers are suited for rather dry fuel. (Max. 40...45 %.)
+Figure 5.3 A fire tube boiler equipped with a membrane screen and a plane grate in a refractory combustion chamber (Lambion).
+Modern plane grates are water cooled pinhole grates. They are constructed by turning boiler tubes to form a floor near the bottom of the furnace and by laying grate bars on top of the tubes. The bars are equipped with pinholes for inlet of combustion air. The main advantage of this type of grate is its cheapness. Its drawbacks are:
+- ashing limits grate using time to 20...22 h/d
+- auxiliary fuel is required when fuel moisture exceeds 55 %
+- plenty of maintenance is required.
+5.2 Fixed Cone Grates
+Several small grates belong to this category. The grate is normally in a refractory combustion chamber or it is part of it. The systems are basically identical to those in the previous section except the shape of the grate.
+Conical grates are suited for fuels with higher moisture than flat grates. The fuel is normally fed by an under-feed stoker (cf. figure 5.4), but dry fuel could be fed from above as well (figure 5.5).
+Figure 5.4 Refractory furnace and underfeed stoker.
+Figure 5.5 Above-fed cone grate.
+5.3 Mechanical Flat Grates
+Figure 5.6 Dumping grate.
+The dumping grate stoker is usually applied in small or medium sized units. It is a stationary grate (see figure 5.6) made up of grate bars, mechanically linked so that they can be rotated 90 degrees to dump ash. One section could be shut off for ashing while the combustion continues in the other sections.
+Figure 5.7 Vibragrate for wood waste.
+The vibragrate (figure 5.7) has been used in USA for burning wood waste. The combustion capacity is somewhat higher than with a dumping grate. The fuel bed slides down the grate as it is subjected to intermittent vibrations originating from a motor-driven eccentric drive at the front of the grate. The fuel dries and burns as it moves down the grate and the ash is discharged into a hopper at the front of the unit.
+Figure 5.8 Kablitz-grate
+A reciprocating grate is normally constructed slightly inclining. Figure 5.8 shows such a grate (Kablitz). The Kablitz grate is divided into separate sections, each of which is equipped with a drive of its own. The advantage of a reciprocating grate is its suitability in combustion of "difficult" fuels, such as bark. On the other hand its price is rather high.
+5.4 Inclined and Sloping Grates
+Sloping grates are widely used in modern bark or wood waste fired boilers. Although there exist some minor differences in design - horizontal or longitudinal grate bars, even or changing inclination etc. - the principle of operation is roughly the same for all inclined and sloped grates. The fuel is fed to the top of the grate from where it slides downwards. While sliding the fuel first dries and then ignites and burns. The ash is deposited at the bottom of the grate.
+In some designs additional grates are added after the sloped grate for completion of the combustion or for ashing purposes. These designs are, however, rather expensive.
+Maximum fuel moisture is 55...65 % depending on the grate design. Grates with horizontal bars, so-called step grates, are, however, suited only for rather dry fuels.
+The ashing of a sloped grate is done manually or automatically. Ashing is required once per shift but with modern grates the interval may be even a week.
+Figure 5.9 Underfloor furnace with a step grate and a fire tube boiler (Lambion).
+5.5 Travelling Grates
+Especially in North America wood and wood waste is often burned on travelling grate spreader stokers. The fuel is thrown into the furnace through feeders located 1...4 meters above the grate. The fuel falls onto the travelling grate, it dries, ignites and burns. The ash is conveyed to the front of the grate from where it falls into the ash pit.
+Depending on how much the combustion air is preheated the maximum fuel moisture is between 40 and 55 %.
+The main advantages of the travelling grate system is its versatility and great combustion capacity. Several different fuels may be burned on it and ash removal is continuous.
+On the other hand travelling grates are subject to mechanical problems, which cause high maintenance costs.
+Figure 5.10 Water tube boiler (Yoshimine) with spreader stoker and travelling grate.
+6. Boilers
+When wood fired boilers are compared with oil or gas fired ones, the biggest differences exist in the combustion equipment. As oil and gas can be combusted in burners of rather simple design, the previous chapter showed clearly the extensiveness of the equipment that is needed in combustion of solid fuels, such as wood and wood waste.
+In the rest of the boiler, however, there are only a few minor differences in design between boilers fired with solid fuels and those fired with oil or gas. One major difference is that generally more combustion air is needed with solid fuels than with oil, which leads to bigger amounts of flue gases and also to a bigger boiler volume. To turn it the other way round, with a given boiler a bigger output is obtained by oil firing than by wood firing, presuming that combustion of both is possible.
+There is also another difference. Wood has a bigger ash content than oil and this requires more extensive ash removal, both from the furnace and from the flue gases.
+On the whole, a wood fired boiler does not differ from an oil fired one in very many respects. For this reason, it is possible to change a boiler, that initially has been designed for oil combustion to wood combustion. As was mentioned earlier, the result will, however, be a lower boiler output.
+For the reasons listed above, this chapter provides quite a brief presentation of boilers. Two questions will be dealt with: The different heat transfer mediums and the major types of boiler designs. The presentation is limited to boilers that are suited for industrial application of small scale mills.
+6.1 Heat Transfer Medium
+In choosing the heat transfer medium of a boiler there are three main alternatives:
+- hot water
+- steam
+- hot oil
+6.1.1 Hot Water
+Because of the fact, that the boiling point of water at atmospheric pressure is 100 °C the water system of a warm water boiler must be pressurized. The needed pressure rises sharply with temperature requirements. For instance, to reach a temperature of 200 °C the water side pressure must constantly be maintained over 16 bar. The main applications of industrial water boilers are therefore at mills with low temperature requirements, roughly between 100 °C and 140 °C. One example is a sawmill with drying kilns (cf. section 3.2)
+6.1.2 Steam
+Steam is used where heat is needed at higher temperatures (150 °C...200 °C) and in applications that include steam turbines or steam engines. A steam boiler is generally more expensive than a water boiler and requires a more extensive water treatment system. On the other hand, to transfer the same amount of heat a smaller mass flow is needed with steam than with water, which could lead to savings in piping costs.
+6.1.3 Hot Oil
+To use oil as heat transfer medium instead of steam or water, will give some significant advantages. First, temperatures as high as 300 °C and over could be reached without pressurizing the system. This gives both better operation safety and simple design. Second, no water treatment is needed.
+A temperature of 200 °C could be regarded to be the lower temperature limit for economical operation with hot oil.
+In panel manufacturing the temperature requirements of the dryers and hot presses are of this magnitude. In some small scale plants, however, the equipment is designed to operate at a lower temperature level.
+Some drawbacks are connected with hot oil operation. If the boiler is not carefully designed the oil may crack (change its chemical composition) and at length cause tube failures. Further, tube leaks may lead to considerable damage while the heat transfer medium is highly combustible. Finally, hot oil has a rather low specific heat and requires wider pipes than a water or steam heat transfer system.
+6.2 Boiler Design Types
+Although there is a multitude of different boiler designs the main operation principle is common for them all. Fuel is combusted to release heat, which is transferred from the flue gases to the heat transfer medium. All boilers operate this way regardless of what fuel is applied, how and where it is combusted or what heat transfer medium is used.
+When the combustion equipment - which was presented in the previous chapter - is excluded, the boilers could be divide into two groups according to design features. These are:
+- flame-fire tube boilers
+- water tube boilers
+6.2.1 Flame-fire Tube Boilers
+In a flame-fire tube boiler the hot flue gases flow inside the boiler tubes heating (evaporating) the medium outside the tubes. Depending on tube configuration, the flue gases flow through the boiler one to four times before leaving through the stack. Correspondingly, the boilers are called one-pass boilers, two-pass boilers etc. A three-pass boiler is shown in figure 6.1.
+Flame-fire tube boilers are supplied for a wide range of capacities. Some boiler companies offer flame-fire tube boilers for water, steam and superheated steam from 170 kW to 18 000 kW or 250 kg/h to 28 t/h of output capacity. The pressure range of these boilers is 1.5...29 bar.
+6.2.2 Water Tube Boilers
+As the name indicates, the water - or whatever medium is applied - flows inside the tubes of a water tube boiler and, hence, the combustion gases on the outside. This is shown in figure 6.2.
+In steam generation with small size water tube boilers - 15 t/h of steam or below - the boiler is often equipped with one or two drums (in some boilers even three). The feed water is pumped into the upper drum by the boiler feed pump. From there the water flows through a downcomer tube into the lower drum or a header.
+On its way up back to the drum, the water is heated by the hot flue gases and turns to a mix of water and steam. The up-down circulation is maintained by the fact, that the upwards flowing water-steam mix has a higher temperature and, hence, a lower density than the water steam downwards.
+Figure 6.1 Simplified cross-section of flame fire tube steam boiler
+Figure 6.2 Simplified cross-section of water tube steam boiler
+In the upper drum the steam is separated from the water and passed on, either directly or through a superheater, to where it is needed (a prime mover, an industrial process etc). The water is recycled and part of it is blown down to remove impurities and to maintain a high quality of the boiler water.
+Water tube boilers are generally used when higher output is required. The lower capacity limit is of the magnitude of 1 t/h of steam. On the other hand, there are power boilers of water tube design with capacities of several thousands tonnes of steam per hour, but these are naturally outside the interest of this study.
+Exact rules cannot be given for the selection of either flame-fire tube boilers or water tube boilers for heat generation. In general, warm water and small capacities of saturated steam are preferably generated by the former, while bigger amounts of steam and especially superheated steam is generated by the latter. In practice, the decision must be made case by case concerning the boiler as a whole, including also the combustion equipment.
+7. Prime Movers
+The prime movers to be discussed in the following are:
+- Back-pressure steam turbines
+- Condensing steam turbines
+- Steam engines
+7.1 Back-Pressure Steam Turbines
+When steam-using prime movers are considered there is in principle no difference in how the steam is generated or what fuel is used in steam generation. The power generation equipment of a wood fired power plant does not therefore differ from that of a plant using some other fuel. For this reason the prime movers will be presented quite briefly in the following.
+Back-pressure turbines are used in connection with industrial processes where there is need for low- or medium-pressure steam. The high pressure steam enters the turbine and while it expands part of its thermal energy is converted into mechanical energy.
+The mechanical energy is used to run an electric generator or mechanical equipment, such as pumps, fans, compressors etc.
+The outlet steam leaves the turbine at overpressure and is passed onto the process for heating or drying purposes. Medium - pressure steam could be supplied through an turbine extraction if required by the process. Small scale turbines - in the power range of 2 MW and below - are however rarely equipped with extractions.
+Figure 7.1 shows the dimensions of a 1.5 MW back-pressure turbine.
+Some manufacturers offer turbine-generator sets without basement, which both makes the assembly easier and requires a smaller building volume. The economical advantage of this is obvious.
+Back-pressure steam turbines are manufactured within a range from under 100 kW to over 100 MW. This study is however concerned with the energy supply of small scale industry which sets the upper size of the turbine at 2...3 MW.
+The delivery times for these sizes are typically between six and twelve months plus time required for transportation to the plant site.
+The condition of input and output steam may vary largely. The upper limit for inlet pressure is normally at about 80 bar but proper operation is possible at pressures much below that. The back pressure varies between 2 and 10 bar.
+7.2 Condensing Steam Turbines
+In a condensing turbine the steam expands below the atmospheric pressure and condenses while heating the cooling water in a condenser. As the outlet steam is at a low pressure it is useless for industrial applications.
+Condensing turbines could however in some cases be used in industrial power plants as condensing tails connected to back-pressure turbines. In cases of low demand for process steam the steam surplus is run through the condensing tail to generate more power.
+A condensing turbine does not differ much from a back-pressure turbine in respect of dimensions, steam values (with the exception of outlet pressure), delivery time and price.
+The steam condensing equipment requires some additional investments plus the availability of cooling water. A 1 MW condensing turbine plant needs about 0.1 m^3/s of cooling water.
+Figure 7.1 Dimensions (mm) of a 1.5 MW back-pressure steam turbine.
+7.3 Steam Engines
+Modern high-speed steam engines are supplied both for back-pressure and condensing applications. In general, they serve the same purpose in an industrial power plant as steam turbines, although the principle of operation is different. The expanding steam forces a piston to move up and down between its end positions. The piston, in turn, runs a shaft to which a generator or some mechanical device is connected.
+Steam engine operation is possible on relatively poor steam values. The inlet temperature must not exceed 400 °C. Normal values of the steam pressure are 15...25 bar. The steam engine may also run on saturated steam although this leads to a rather low efficiency.
+One manufacturer offers steam engine units which can be combined to bigger sets according to the power demand. The output of one unit is 100...150 kW depending on steam conditions. In principle, there is no upper limit for the number of steam engine units to be combined in this way, but the price of the engine makes bigger sets economically disadvantageous.
+Although the per-kW price of a steam engine is considerably higher than that of a steam turbine the steam engine has some technical advantages:
+- operation is possible on poor steam values
+- maximum engine output is relatively easily increased by adding an additional unit to the set
+- the efficiency is not decreased at part-load operation to the same extent as by steam turbines.
+It seems however obvious that these advantages only in some marginal cases could outweigh the high investment costs when comparing a steam engine to a steam turbine of the same output.
+Figure 7.2 shows the main dimensions of a three-unit engine generator set. (Electrical output appr. 450 kW).
+The delivery time for a one- or two-unit set is 5 months exclusive time for freight.
+Figure 7.2 Dimensions of 1...3 unit-steam engines. (Spilling)
+7.4 Summary on Prime Movers
+To summarize, the most important properties of the prime movers are following:
+Back-pressure Turbine
+- superheated steam into electrical or mechanical energy
+- outlet steam at overpressure to industrial process
+Condensing Turbine
+- superheated steam into electrical or mechanical energy
+- outlet steam below atmospheric pressure
+- alternatively as condensing tail after back-pressure turbine to generate additional power at low heat demand
+Steam Engine
+- superheated (max 400 °C) or saturated steam into electrical or mechanical energy
+- back-pressure or condensing mode
+- enlargement possible by adding engine units
+- price-per-kW 5 to 10 times higher than for back-pressure turbines.
+8. Water Treatment
+The purpose of water treatment is to maintain favourable conditions for steam boiler operation by:
+- preventing deposit accumulation on heat surfaces
+- minimizing corrosion on equipment and piping in the water-steam cycle.
+Water treatment requirements depend heavily on boiler type, boiler pressure and raw water quality.
+The most important stages of water treatment in a power plant are presented in figure 8.1. These stages are as follows:
+8.1 Raw Water
+Depending on local conditions the raw water contains various amounts of impurities, suspended particles and gases. The raw water is filtered and aerated, in some cases also precipitated.
+8.2 Make-up Water
+There is a number of different methods of make-up water treatment. The purpose of all of them is to remove or replace such ions (salts and minerals), that might cause harm to the equipment of the water-steam cycle. This is done by:
+- various types of ionexchangers
+- evaporators
+- equipment based on reversed osmosis or by some combination of these.
+At drum pressures of 40...60 bar and upwards demineralization is generally desirable. This causes a threshold in water treatment costs when that pressure level is exceeded.
+The ionexchangers require a regular maintenance by skilled personnel, which could restrict applications in developing countries. The evaporators operate on heat, which leads to a demand for steam or hot water.
+8.3 Feed Water
+Feed water is a blend of polished condensate and treated make-up water. Before entering the boiler it is treated with additives and thermally deaerated to meet quality requirements.
+8.4 Boiler Water and Steam
+To produce as clean steam as possible the boiler water quality is controlled by means of injecting additives and by continuous blow-down from the drum.
+8.5 Condensate
+Condensate impurities are removed in mechanical filters and/or in ionexchangers.
+Figure 8.1 Block diagram on water treatment
+9. Fuel Handling Equipment
+Compared with liquid fuels the handling equipment of wood fuels is naturally much more complicated. The main difference lies in the fact that wood cannot be pumped along pipes like oil but needs a conveying system to be transported from one place to another.
+Further, to meet boiler requirements, the fuel must often be transformed from its initial shape and size into a form that is better suited for conveying and combustion.
+The fuel handling system of a wood fired power or heat plant has to be designed separately case by case. It may consist of the following types of equipment:
+- chippers to produce chips out of round wood, logging residues or wood wastes from the process,
+- belt conveyors, elevators and screw conveyors for fuel transport and feeding,
+- screw dischargers to feed a conveyor from bottom of a pile of, for instance, chips
+- silos and bins for intermediate storing,
+- reception silos for dumping from trucks or front-end loaders,
+- front-end loaders for fuel transporting as an alternative to belt conveyors.
+Most wood fired power or heat plants use fuel oil as pilot fuel and in some cases to improve load control. At these plants the fuel handling equipment consist of both the wood and the oil handling system.
+10. Miscellaneous Power and Heat Plant Equipment
+Regardless of what fuel is used the equipment of power and heat plants is to be classified as follows:
+- boiler plant
+- turbine plant (not included at pure heat plants)
+- water treatment
+- fuel handling equipment
+- auxiliary equipment
+- piping and insulation
+- instrumentation
+- electrification
+- HVAC (heating, ventilation and cooling) equipment
+The turbine plant stands for power generation in general and may include different types of prime movers.
+The first four groups have been discussed in the previous chapters. This chapter will deal with those remaining.
+10.1 Auxiliary Equipment
+This group includes the following equipment
+- pumps
+- fans
+- compressors
+- steam conditioning valves
+- cranes
+- tools for repair and maintenance
+- etc.
+The bigger the plant, the more extensive is the list of auxiliary equipment.
+10.2 Piping and insulation
+The purpose of a power or heat plant piping system is to transfer flows of water, steam or condensate from one place to another within the plant, without raising transfer losses of pressure or heat too high.
+10.3 Instrumentation
+Instrumentation consists of all the equipment used in measuring, control, protection and alarming at plant operation. It is a tool of the operating personnel and by designing an extensive instrumentation and automation system a plant is to be operated by a small operation staff.
+The reverse is also true. By lowering the level of automation investment costs are decreased but a bigger operation staff is needed.
+The most important control objects of a steam power plant are:
+- the water level of the drum,
+- steam pressure and temperature,
+- turbine-generator speed and voltage.
+The centre of control is the control room or in small plants the control panel.
+10.4 Electrification
+The purpose of the electrical installation at a power plant is to transfer the generated power to where it is needed and at the right voltage. At an industrial power plant the main consumer is the industrial process, but also the plant itself needs some of the output to run the electrical motors connected to its pumps, fans and other such equipment. If power generation exceeds the process and auxiliary demand, the surplus is transferred to the public grid.
+Diesel generators and accumulators are used to supply standby power and, if the plant is not connected to the public grid, the power needed for start-ups.
+10.5 HVAC
+To this group of equipment belong the following:
+- heating
+- ventilation
+- fresh water system
+- sewage system
+- fire protection system.
+11. Gas Generators
+One way of utilizing the energy of wood-based fuel is converting it to combustible gas (producer gas) in a gasifier. The technology of gasifying solid fuels is more than hundred years old but rising energy costs have significantly increased the research activities within this field in recent years.
+Producer gas is formed in a partial combustion process in which the chemical energy of the fuel is turned into gas, mainly carbon monoxide and hydrogen. The reaction takes place in a gas-tight gasifier retort, into which fuel and air is fed. The reaction is supported by its own heat and no external heat source is needed except for ignition. In some cases steam is introduced to prevent the reaction temperature from rising too high.
+In a fixed bed gasifier the retort is filled with fuel from the top. The fuel moves slowly downwards, passing through a number of different zones. The first one is the drying zone where the water content is reduced from its inlet value of max. 20...30 %. On the way down the temperature rises, which causes the carbonization of the fuel in the heat zone and the gasification of the carbon in the following one. The ash is removed from the bottom, for instance by a rotating grate.
+The air streams through the gasifier in the same or in the opposite direction as the fuel flow, or across the fuel bed.
+Accordingly, the fixed bed gasifiers are separated in down-draught, up-draught or cross-draught generators.
+Another type is the fluidized bed gasifier, which gasifies the fuel in a bed of sand or some other similar material. The bed is kept soaring by a high-velocity stream of air entering at the bottom of the gasifier.
+The hot gas leaving the gasifier has a heating value of 5... 10 MJ/m^3. It may contain various impurities, such as ash and vapours of tar and oil. If the gas is burned in an engine it must be cleaned and cooled first but if it is used in a boiler, this is not necessary.
+The advantage of converting the fuel wood into gas before combustion is that gas can be burned with much simpler equipment than solid fuels. Producer gas offers a possibility to turn from oil or natural gas to fuel wood in old burning facilities - boilers, kilns, dryers etc. - with rather small changers in the equipment.
+The feasibility of wood gasification in new installations compared with direct wood combustion have not been evaluated here. The reason for this is that most modern wood gasifier systems are still on a prototype or pilot plant stage. Valid price information has therefore been difficult to obtain.
+Some difficulties occur in the gasification of wood. Due to the heterogenity of the raw material the quality (and the heating value) of the gas may change during operation. This problem can be solved by first making charcoal out of the wood and then gasifying the charcoal. The result would be a producer gas of more even quality, but on the other hand, higher equipment costs and greater risks of disturbances in operation.
+Another problem is that the moisture of the fuel must not exceed 20...30 % when fed into a fixed bed gasifier. This calls for some form of fuel dryer and causes extra costs compared with direct combustion.
+The producer gas also offers a possibility of power generation with diesel sets, without having to convert the fuel energy into steam first. Especially at small capacities this would lead to savings in capital expenditure and enable small-scale on-site power generation at locations, where electricity from the public grid is expensive or not available at all.
+Many manufacturers are presently developing producer gas engine systems, but no information is available of modern sets in commercial operation. This technology cannot yet be regarded as proven.
+Considering the present research activity in the field of wood gasification it seems however possible that both technically and economically gasifiers appear in the market within a few years
+<section>4</section>
+PART THREE
+12. Power and Heat Plants in General
+13. Heat Plant A
+14. Heat Plant B
+15. Power Plant C
+16. Power Plant D
+17. Summary on Power and Heat Plants
+18. Operation Economics by Different Prices of Fuel
+19. Summary and Conclusions
+12. Power and Heat Plants in General
+In this chapter four power and heat plants will be presented. They have been designed to supply power and (or) heat for the purposes of those eleven industry mills, that were presented in chapter 3. All four power and heat plants operate on industrial wood wastes and, in case there is not enough of these to satisfy the demand, on hogged fuel wood.
+The plants are non-existent and have been designed for the purpose of this study.
+The prices of the various plant equipment have been obtained either as quotations by the manufacturens or from the cost files for similar installed equipment. The energy cost calculations are based on assumptions concerning wages, fuel prices, price of electricity etc., listed in chapter 2. These assumptions refer to the cost level of the fourth quarter of 1979 in the Philippines in South-East Asia.
+The sensitivity analysis at the end of the chapter indicates to what extent the results of the cost calculations are affected by changes in the initial cost assumptions.
+In the cases of Heat Plants A and B as well as Power Plant °C the energy costs have been calculated for various size alternatives. For instance, Power Plant C was initially designed for a power output of 250 kW and to support Sawmill No. 4 (100 m^3 sawnwood per day). In this chapter calculations have also been made for an identical power plant, but with an output reduced to 125 kW. This plant supports Sawmill No. 3 (50 m^3 sawnwood per day).
+The investment costs of these heat and power plants with alternated output capacities have been estimated rather roughly. For this reason the capital cost figures and the energy cost figures of these plants cannot be regarded as reliable as those calculated on basis of the actual investment costs.
+The energy cost tables in this chapter indicate the annual costs caused by power and heat generation by a given power or heat plant in connection with a given industry mill. In fact, they are the operation costs of the power and heat plants and they must not be confused with the operation costs of the actual manufacturing process of the industry mills.
+It must finally be pointed out that neither the solutions of technical plant design nor the stated investment costs of this chapter represent the only feasible alternative. On the contrary, there is a multitude of possible solutions in designing a wood fired power and heat plant and the investment cost of such a plant may vary considerably according to plant design and for a number of other reasons as well.
+13. Heat Plant A
+13.1 Description
+Heat Plant A is designed to operate at small sawmills with low requirements on thermal energy and heat temperature. The plant fires sawmill waste to produce warm water, which is pumped to the drying kiln of the sawmill. At the sawmill the drying of sawnwood stands for the major part of the heat demand, in many cases for all of it.
+The wood waste from the saw is conveyed to a pile. Sawdust and small-size chips are conveyed there directly but bigger wastes such as slabs and edgings are first hogged in a chipper to meet boiler requirements.
+From the pile the chips are transferred to the dumping silo next to the boiler house. This is done either by a front-end loader or by men with the aid of carts and spades.
+The volume of the dumping silo is 10 m^3. The silo serves both as a dumping retort and as an intermediate fuel storage.
+Three screws at the bottom of the silo remove the chips onto a feeding screw, which takes the chips to the feed hopper and into the boiler. The fuel combustion takes place on an inclined grate. The flue gases are passed through a cyclon where the dust is separated and onto the 20 m stack and the open air.
+The water is heated to 115...120 °C before passed over to the dryer. The temperature drop during the cycle is 20... 30 °C. To prevent the water from boiling the water-side pressure is kept at 10 bar. The boiler has a thermal output of 1 MW, which is enough to support a sawmill with an output capacity of 50 m^3/d.
+Fuel oil is used as pilot fuel and also to support combustion at high chips moisture or rapid load changes. The oil is stored in a 10 m^3 tank next to the boiler house.
+The operating personnel consists of one boilerman per shift and one cleaner per day. Depending on arrangements the fuel handling personnel varies between one man per day or two men per shift.
+Heat Plant A could be supplied as a turn-key delivery. The delivery time is 6 months plus approximately 3 months for freight. Assembly and trial run counts for 2 months which totals 11 months between contract signing and commissioning.
+The total transport weight of Heat Plant A is 15...20 t, including fuel handling equipment but not including a front-end loader.
+13.2 Investment Costs
+USD
+A. Equipment Costs (F.O.B.)
+1. Boiler plant
+1 MW warm water boiler
+10 bar, 120 °C
+Fuel feeding and combustion equipment
+Water treatment equipment
+Pumps, pipings and tanks
+Measuring and control equipment
+Electrification
+I.D. fan, dust separator and stack
+2. Fuel handling equipment
+Chips handling, incl. dumping silo and feeder screws
+Chipper 10 m^3/h
+10 m^3 oil tank
+A. Total
+B. Construction costs
+3. 220 m^3 boiler house, foundations
+B. Total
+C. Miscellaneous costs
+4. Freight and insurance (7 % A)
+5. Clearing and transport to site (2.5 % A)
+6. Assembly (20 % A)
+7. Planning and supervision (6 % A+ B)
+8. Interest during construction (8 % A+ B)
+C. Total
+Total investment costs (A+ B+ C)
+13.3 Energy Costs
+Unit
+Sawmill No. 3
+13 500 m^3/a
+Sawmill No. 4
+27 000 m^3/a
+1. Wages and salaries
+operating personnel
+3 x 3 + 1 x 1 = 10
+unit cost
+USD/a
+Total
+USD/a
+2. Maintenance, repair and insurance
+3 % of equipment costs
+Total
+USD/a
+3. Fuel
+average boiler efficiency
+fuel oil
+- share
+- price
+USD/MWh
+sawmill waste
+- share
+- price
+USD/MWh
+unit cost
+USD/MWh
+consumption of thermal energy
+MWh/a
+Total
+USD/a
+4. Auxiliary power, lubricants etc.
+auxiliary power demand
+kWh/MWh
+price of electricity
+USD/kWh
+total
+USD/MWh
+lubricants etc.
+USD/MWh
+ash removal
+USD/MWh
+total unit costs
+USD/MWh
+consumption of thermal energy
+MWh/a
+Total
+USD/a
+5. Capital costs
+investment costs
+USD
+annuity factor (10 %, 10 a)
+Total
+USD/a
+6. Electrical energy
+consumption
+MWh/a
+unit price
+USD/MWh
+Total
+USD/a
+Total energy costs
+USD/a
+Unit energy cost
+USD/m^3
+13.4 Fuel Oil Comparison
+An oil fired heat plant of the same capacity as Heat Plant A would cost 85 000 USD which is 235 000 USD less than the price of Heat Plant A. On the other hand, the energy generation based on fuel oil would cost an additional 86 000 USD per year at present oil prices and 140 000 USD more if the oil price would rise by 50 %, other prices remaining the same.
+The additional investment caused by choosing the wood fired Heat Plant A instead of the cheaper oil fired plant pays itself back in 3, 3 years at present prices and in 1.9 years in the plus 50 % case.
+Unit
+Heat Plant A
+Oil fired plant
+Oil price
+present
+present + 50 %
+Investment cost
+USD
+Annual energy cost at Sawmill no. 3 (excl. capital costs)
+USD/a
+Annual savings by Heat Plant A operation
+USD/a
+Pay-back time of investment in Heat Plant A
+a
+14. Heat Plant B
+14.1 Description
+While the drying kiln of a sawmill operates with a water temperature of 120 °C, the driers and the hot presses in panel manufacturing require at least 150 °C but often 200 °C. At these temperatures it is preferable to supply the thermal energy in the form of steam rather than warm water. Heat Plant B is designed for this purpose. Its main application is to supply the heat needed at various types of panel plants, but it could also support an integrated plant of bigger size, which has no power generation of its own. As fuel Heat Plant B uses the wood wastes of the manufacturing process and hogged wood.
+The wood handling equipment is of the same type as at Heat Plant A. For particle and fibreboard manufacturing a chipper is needed at the mill. This can be used for fuel wood hogging as well. For this reason no separate chipper is included in the heat plant delivery.
+The wood waste yield of plywood manufacturing covers 90...100 %, of the fuel demand. In the case of particle and fibreboard manufacturing the figure is 5...10 %. The remaining part of the fuel wood is made up of small-size roundwood or logging residues. These are either chipped at the site of logging or transported to the plant and chipped there.
+At full load the fuel consumption is approximately 1.5 m^3 chips per hour. The volume of the dumping silo is 20 m^3.
+For steam generation a three-pass flame - fire tube boiler is applied. A furnace is connected to the boiler, in which the chips are combusted on a sloping grate. The hot flue gases leave the furnace and pass through the boiler, warming and evaporating the water, and leave through the dust separator and the 20 m stack.
+The boiler has a capacity of 1.1 kg saturated 15 bar steam per second. The temperature of the output steam is about 200 °C, which is enough to meet the panel manufacturing requirements. The thermal output is approximately 2.5 MW.
+Fuel oil is used as pilot and supporting fuel.
+The steam is used for drying and heating in the manufacturing process. While giving off heat the steam condensates and the condensate flows back to the boiler house into the condensate tank. From there it is pumped through the deaerator into the feed water tank, from where a new cycle begins.
+To compensate losses in mass flow, filtered, softened and deaerated make-up water is pumped into the water-steam cycle at regular intervals.
+The operating personnel consists of two boilermen and two fuel handling men per shift. In addition there are three persons - a plant engineer, a water treatment technician and a cleaner-working in the day shift only. The work at the heat plant occupies the day shift personnel only part of the time and they can have parallel duties on the industry side as well.
+Heat Plant B could be delivered by turn-key arrangement. The delivery time is 10 months of which some 3 months stand for freight. An additional 2 months is to be counted for assembly and trial run.
+Total transport weight is about 40 t.
+14.2 Investment Costs
+USD
+A. Equipment costs (F.O.B.)
+1. Boiler plant
+Three pass flame-fire tube steam boiler, 1.1 kg/s, 15 bar, 200 °C Fuel feeding and combustion equipment Water treatment equipment Pumps, pipings and tanks Measuring and control equipment Electrification I.D. fan, dust separator and stack
+2. Fuel handling equipment
+Chips handling, incl. dumping silo and feeder screws 20 m^3 oil tank
+A. Total
+B. Construction costs
+3. 1300 m^3 boiler house, foundations
+B. Total
+C. Miscellaneous costs
+4. Freight and insurance (7 %a)
+5. Clearing and transport to site (2.5 % A)
+6. Assembly (20 % A)
+7. Planning and supervision (6 % A+ B)
+8. Interest during construction (8 % A+ B)
+C. Total
+Total investment costs (A+ B+ C)
+14.3 Energy Costs
+Unit
+Panel Plant
+No. 1
+No. 2
+No. 3
+No. 4
+m^3/a
+t/a
+1. Wages and Salaries
+operating personnel
+4 x 3 + 3 x 1 = 15
+unit cost
+USD/a
+Total
+USD/a
+2. Maintenance, Repair and Insurance
+2, 5 % of equipment costs
+Total
+USD/a
+3. Fuel costs
+average boiler efficiency
+fuel oil
+- share
+- price
+USD/MWh
+wood waste
+- share
+- price
+USD/MWh
+hogged wood
+- share
+- price
+USD/MWh
+unit cost
+USD/MWh
+consumption of thermal energy
+MWh/a
+Total
+USD/a
+4. Auxiliary Power, Lubricants etc.
+auxiliary power demand
+kWh/MWh
+price of electricity
+USD/kWh
+subtotal
+USD/MWh
+lubricants etc.
+USD/MWh
+ash removal
+USD/MWh
+total unit costs
+USD/MWh
+consumption of thermal energy
+MWh/a
+Total
+USD/a
+5. Capital costs
+investment costs
+USD
+annuity factor (10 %, 15 a)
+Total
+USD/a
+6. Electrical Energy
+consumption
+MWh/a
+unit price
+USD/MWh
+Total
+USD/a
+Total energy costs
+USD/a
+USD/m^3
+USD/t
+14.4 Investment and Energy Costs; Integrated Plants
+A heat plant of the same type as Heat Plant B could be connected to an integrated plant with a production mix of sawnwood, various types of panels and further refined products derived from these.
+The heat demand of an integrated plant is generally bigger than of a separate panel plant, which leads to a bigger heat generating capacity and, hence, to a more expensive heat plant than Heat Plant B.
+The investment and energy costs of such a plant are estimated as follows:
+Unit
+Integrated Plant
+No. 1
+No. 2
+No. 3
+Consumption of thermal energy
+MWh/a
+Heat plant investment cost
+USD x 10^3
+Total energy costs
+USD/a
+Unit energy costs
+- sawnwood
+USD/m^3
+- plywood
+USD/m^3
+- veneer
+USD/m^3
+- particle board
+USD/m^3
+14.5 Fuel Oil Comparison
+The economics of investing in Heat Plant B instead of in an oil fired heat plant are calculated in the table below. As operation costs are used the average costs of Panel Plants No 1...4.
+Unit
+Heat Plant B
+Oil fired plant
+Oil price
+resent
+present 50 %
+Investment cost
+USD
+Annual energy cost (excl. capital costs)
+USD/a
+Annual savings by Heat Plant B operation
+USD/a
+Pay-back time of investment in Heat Plant B
+a
+15. Power Plant C
+15.1 Description
+Power Plant C is designed to supply both heat and power for mechanical forest mills, using the residues of the mill. The power is generated by a steam engine generator set and the heat is recovered from the back-pressure steam of the engine by running it through a heat exchanger.
+Because of the low temperature of the back-pressure steam, the best applications of Power Plant C are in connection with sawmills. At a production of 100 m^3 sawnwood per day the daily waste yield is about 85 m^3, while the fuel demand is some 50 m^3 per day.
+The fuel handling equipment is of the same type as at Heat Plant B. A chipper is included in the equipment list of Power Plant D because there is no such at the sawmill and bigger size wood waste must be hogged before it is used as fuel.
+The steam is generated by a two-drum water tube boiler. At the bottom of the boiler there is a sloping grate on which the chips are combusted. The boiler output is 1.1 kg of 16 bar and 350 °C superheated steam per second. This corresponds a thermal output of 2.8 MW.
+Ash is removed from bottom of the grate and from the dust separator by a screw, which conveys it to a cart or a container. These have to be exchanged, and emptied at regular intervals. At full load operation the ash yield is roughly 5 m^3 per week.
+The output of the steam engine generator is 250 kW which-is about 75 percent of the average demand of a 100 m^3/d sawmill. The rest of the electrical energy must be generated by a diesel generator set or be purchased from public utilities.
+As a continuous steam flow is required for sawnwood drying and the steam engine thus also could run continuously, but the sawmill only operates in one shift, there is a surplus in power generation at off-operation time of the sawmill. The selling of this surplus would improve operation economics.
+The operating personnel of Power Plant °C consists of two boilermen, one engine operator and two fuel handling men per shift. In the day shift there is further a plant engineer, a water treatment technician and a cleaner working at the power plant only or alternatively at the power plant and the sawmill at the same time. The delivery time of the boiler is 7 months plus approximately 3 months for freight. Assembly and trial run takes an additional 2 months totalling 12 months between contract signing and commissioning. The corresponding time for the steam engine is 9...10 months.
+The transport weights are 40 t for the boiler and Its equipment and 5...10 t for the engine set.
+15.2 Investment Costs
+USD
+A. Equipment costs (F.O.B.)
+1. Boiler plant
+Two-drum water tube steam boiler
+1.1 kg/s, 16 bar, 350 °C
+Boiler feed pumps
+I.D. fan, dust separator and stack
+2. Steam engine plant
+Two-cylinder 250 kW back-pressure steam engine set with condensate oil removing device
+Steam-water heat exchanger
+3. Water treatment
+Filtering, softening and deaerating equipment
+Chemical feeders
+Feed water tank
+4. Fuel handling equipment
+20 m^3 dumping silo and screw feeder
+10 m^2/h chipper
+20 m^3 oil tank
+5. Auxiliary equipment
+6. Piping and insulation
+7. Instrumentation
+8. Electrical equipment
+9. HVAC
+A. Total
+B. Construction costs
+10. 900 m^3 plant building, foundations
+B. Total
+C. Miscellaneous costs
+11. Freight and insurance (7 % A)
+12. Clearing and transport to site (2.5 % A)
+13. Assembly
+14. Planning and supervision (6 % A + B)
+15. Interest during construction (8 % A + B)
+C. Total
+Total investment costs (A + B + C)
+15.3 Energy Costs
+Unit
+Sawmill No. 3
+13 500 m^3/a
+Sawmill No. 4
+27 000 m^3/a
+1. Wages and salaries
+Operating personnel
+5 x 3+ 3 x 1 = 18
+unit cost
+USD/a
+Total
+USD/a
+2. Maintenance, repair and insurance
+2.5 % of equipment costs
+Total
+USD/a
+3. Fuel
+ratio between boiler fuel input and output of industrial heat
+fuel oil
+- share
+- price
+USD/MWh
+sawmill waste
+- share
+- price
+USD/MWh
+unit cost
+USD/MWh
+consumption of industrial thermal energy
+MWh/a
+Total
+USD/a
+4. Auxiliary power, lubricants etc.
+auxiliary power demand
+kWh/MWh
+price of electricity
+USD/kWh
+subtotal
+USD/MWh
+lubricants etc.
+USD/MWh
+ash removal
+USD/MWh
+total unit costs
+USD/MWh
+consumption of industrial thermal energy
+MWh/a
+Total
+USD/a
+5. Capital costs
+investment costs
+USD
+annuity factor (15 a, 10 %)
+Total
+USD/a
+6. Electrical energy
+consumption
+MWh/a
+generation
+MWh/a
+purchased power
+MWh/a
+price of electricity
+USD/MWh
+Total
+USD/a
+Total energy costs
+USD/a
+Unit energy costs
+USD/m^3
+In case the potential power generation surplus of
+MWh/a
+was sold at
+USD/MWh
+annual savings of
+USD/a
+would be reached. This would give the unit energy cost
+USD/m^3
+15.4 Fuel Oil Comparison
+The table below shows the pay-back time of the Power Plant C investment compared with an alternative, where heat is generated by fuel oil and electrical energy is purchased from public utilities. Operation costs refer to the sawmill No. 4 case.
+Unit
+Power Plant C
+Oil fired plant
+Oil price
+present
+present + 50 %
+Investment costs
+USD
+Annual energy costs (excl. capital costs)
+USD/a
+Annual savings by Power Plant C operation
+USD/a
+Pay-back time of investment in Power Plant C
+a
+16. Power Plant D
+16.1 Description
+Power Plant D generates power and industrial heat. Power is generated by a 1 MW back-pressure steam turbine generator set and the heat is supplied in the form of medium-and low-pressure steam. With a thermal output of about 8 MW and an electrical output of 1 MW the main application of this plant is in connection with integrated units of small-size mechanical forest industry mills.
+At an integrated plant one unit often uses the residues of another as raw material in its manufacturing process. For this reason, the yield of combustible wood wastes at an integrated plant generally covers only part of the fuel demand.
+Power Plant D uses an amount of wood wastes corresponding to 25 to 60 percent of its total fuel consumption, the rest being hogged wood and small amounts of fuel oil.
+The fuel chips are stored in a pile. The wood wastes from the different units of the integrated plant are conveyed to the pile as well as the hogged fuel wood. The hogging of the fuel wood and of bigger-size wastes is done either by the chipper of the particle board plant or by a separate one.
+At the bottom of the pile there is a screw discharger, which feeds the chips onto a belt conveyor. The conveyor transports the chips into a hopper at the boiler house, from where the fuel is fed into the boiler.
+The steam boiler is of the same water tube design as at Power Plant C but with a bigger capacity. Its output is 3, 9 kg of 40 bar and 360 °C superheated steam per second.
+To meet the different temperature requirements of the integrated plant steam is supplied both from a turbine extraction at 10 bar and 200 °C as well as from after the turbine outlet at 3 bar and 150 °C.
+The generating capacity of the power plant covers approximately two thirds of the industrial power demand. The remaining part must be generated by other means or be purchased. The power output could be raised by changing the plant design. This would, however, lead to increased initial cost and a more sophisticated technology, which might not fit the conditions of developing countries.
+The operating personnel is listed in the table below:
+Chief technical engineer
+1 x 1
+Power plant engineer
+1 x 1
+Boilermen
+3 x 3
+Turbine operator
+1 x 3
+Fuel handling personnel
+4 x 3
+Maintenance technicians
+2 x 1
+Water treatment technician
+1 x 1
+Cleaners
+2 x 1
+(1 x 1= one person, day shift only; 3 x 3= three persons per shift.)
+The delivery time of both the boiler and the turbine is 15 months including 3 months of freight time. An additional 3 months is to be counted for assembly.
+The transport weight of the equipment of the boiler plant is about 200 t while the turbine set weighs some 10 t.
+16.2 Investment Costs
+USD
+A. Equipment costs (F.O.B.)
+1. Boiler plant
+Water tube steam boiler 3.9 kg/s
+40 bar, 360 °C
+Boiler feed pumps
+I.D. fan, dust separator and stack
+2. Steam turbine plant
+1 MW back-pressure turbine generator set
+Steam-water heat exchanger
+3. Water treatment
+Filtering, softening and deaerating equipment
+Chemical feeders
+Feed water tank
+4. Fuel handling equipment
+Pile discharger and belt conveyors 100 m^3 oil tank
+5. Auxiliary equipment
+Steam conditioning valves
+Crane
+6. Piping and insulation
+7. Instrumentation
+8. Electrical equipment
+9. HVAC
+A. Total
+B. Construction costs
+10. 4 500 m^3 plant building, foundations
+B. Total
+C. Miscellaneous costs
+11. Freight and insurance (7 % A)
+12. Clearing and transport to site (2.5 % A)
+13. Assembly
+14. Planning and supervision (6 % A+ B)
+15. Interest during construction (8 % A+ B)
+C. Total
+Total investment costs (A+ B+ C)
+16.3 Energy Costs
+Unit
+Integrated Plant
+No. 1
+No. 2
+No. 3
+1. Wages and salaries
+operating personnel
+8 x 3+ 7 x 1 = 31
+unit cost
+USD/a
+Total
+USD/a
+2. Maintenance, repair and insurance
+2.5 % of equipment costs
+Total
+USD/a
+3. Fuel
+ratio between boiler fuel input and output of industrial heat
+fuel oil
+- share
+- price
+USD/MWh
+wood waste
+- share
+- price
+USD/MWh
+hogged wood
+- share
+- price
+USD/MWh
+unit cost
+USD/MWh
+consumption of industrial thermal energy
+MWh/a
+Total
+USD/a
+4. Auxiliary power, lubricants etc.
+auxiliary power demand
+kWh/MWh
+price of electricity
+USD/kWh
+subtotal
+USD/MWh
+lubricants etc.
+USD/MWh
+ash removal
+USD/MWh
+total unit costs
+USD/MWh
+consumption of industrial thermal energy
+MWh/a
+Total
+USD/a
+5. Capital costs
+investments cots
+USD
+annuity factor (15 a, 10%)
+Total
+USD/a
+6. Electrical energy
+consumption
+MWh/a
+generation
+MWh/a
+purchased power
+MWh/a
+price of electricity
+USD/MWh
+Total
+USD/a
+Total energy costs
+USD/a
+Unit energy costs
+- sawnwood
+USD/m^3
+- plywood
+USD/m^3
+- veneer
+USD/m^3
+- particle board
+USD/m^3
+16.4 Fuel Oil Comparison
+The following table shows a pay-back calculation on the economics of a Power Plant D investment.
+Unit
+Power Plant D
+Oil fired plant
+Oil price
+present
+present + 50 %
+Investment costs
+USD
+Annual energy cost, Integrated Plant No. 2 (excl. capital costs)
+USD/a
+Annual savings by Power Plant D operation
+USD/a
+Pay-back time of investment in Power Plant D
+a
+17. Summary on Power and Heat Plants
+Some of the technical and economical features of Heat Plants A and B as well as Power Plants C and D are listed in the following table.
+Heat Plant
+Power Plant
+A
+B
+C
+D
+Output
+- thermal
+1 MW
+2.5 MW
+2 MW
+8 MW
+- power
+250 kW
+1 MW
+Form of energy
+hot water
+medium pressure steam
+low pressure power
+low and medium pressure steam power
+Fuel
+hogged sawmill waste
+hogged wood waste and fuel wood
+hogged sawmill waste
+hogged wood waste and fuel wood
+fuel oil
+fuel oil
+fuel oil
+fuel oil
+Boiler design
+warm water
+flame-fire tube, three-pass
+two-drum water tube
+one - drum, water tube
+Prime mover
+steam engine
+steam turbine
+Boiler output conditions
+10 bar, 120°C
+1.1 kg/s 15 bar, sat., (200°C)
+1.1 kg/s, 16 bar, 350 °C
+3.9 kg/s, 40 bar, 360 °C
+Fuel consumption (chips) at full load
+0.7 ^3/h
+1.5 m^3/h
+2.0 m^3/h
+6.3 m^3/h
+Plant building volume
+220 m^3
+1 300 m^3
+900 m^3
+4 500 m^3
+Time of delivery and assembly
+11 months
+12 months
+12 months
+18 months
+Approximate transport weight
+20 t
+40 t
+50 t
+210 t
+Total investment cost
+320 000 USD
+588 000 USD
+1 452 000 USD
+2 511 000 USD
+Pay-back time of investment compared with oil fired equipment
+3.3 years
+4.3 years,
+7.7 years
+2.7 years
+The calculation of the investment costs in the above tables is based on a number of assumptions concerning the equipment list. Some items are considered belonging to the industry mill and hence omitted in this connection. If, however, this would not be the case the revised total investment cost is obtained by adding the price of the item in question to the original investment cost. Some of these prices are listed in the following table.
+Item
+F.O.B. price
+10 m^3/d chipper
+(Plant B)
+28 000 USD
+40 m^3/d chipper
+(Plant D)
+46 000 USD
+Front-end loader with 4 m^3 bucket
+106 000 USD
+Compressed air system, incl. compressor
+18 000 USD
+Diesel generator sets for on-site power generation or for stand-by power
+100 kW
+31 500 USD
+300 kW
+60 000 USD
+In the following table a comparison is made on the unit energy costs of some mechanical forest industry products. The unit costs are listed both for different energy supply alternatives - including fuel oil heat generation - and for different production units.
+Production Unit
+Energy Supply
+Sawnwood USD/m^3
+Plywood USD/m^3
+Veneer USD/m^3
+Fibreboard USD/t
+Particle Board USD/m^3
+Sawmill No. 1
+Public grid
+Sawmill No. 2
+Public grid
+Sawmill No. 3
+Heat Plant A
+Power Plant C
+Power Plant C ^1)
+Oil I ^2)
+Oil II ^2)
+Sawmill No. 4
+Heat Plant A
+Power Plant C
+Power Plant C ^1)
+Oil I
+Oil II
+Panel Plants
+No. 1, 2, 4
+Heat Plant B
+Oil I
+Oil II
+Panel Plant
+No. 3
+Heat Plant B
+Oil I
+Oil II
+Integrated Plant
+No. 1
+Heat Plant B
+Power Plant D
+Oil I
+Oil II
+Integrated Plant
+No. 2
+Heat Plant B
+Power Plant D
+Oil I
+Oil II
+Integrated Plant
+No. 3
+Heat Plant B
+Power Plant D
+Oil I
+Oil II
+^1) Power generation surplus sold at 34 USD/MWh.
+^2) Oil I = heat generation by fuel oil, power purchased from public utilities. Present oil price
+Oil II = like oil I. Oil price 50 % above present oil price.
+18. Operation Economics by Different Prices of Fuel
+The impact of a change in the price of fuel oil on the payback time of the power and heat plants was examined in connection with the plant presentation. As it is obvions that not only the price of oil, but also the price of fuel wood and wood wastes strongly affect operation economics this question will be examined here.
+The operation economics - measured by the pay-back time - will be calculated for three different cases:
+- the price of wood wastes rises from zero to the price level of fuel wood, i.e. 8.5 USD/t,
+- the price of wood wastes as well as the price of fuel wood rise by 50 % from the previous level to 13 USD/t,
+- the price of fuel wood is 13 USD/t while the price of wood wastes are zero.
+In addition, the pay-back time figures for present and plus 50? % oil prices are presented for the sake of comparison.
+Initial price assumptions
+Oil price + 50 %
+Wood waste + fuel wood 8, 5 USD/t
+Wood waste + fuel wood 13 USD/t
+Fuel wood 3 USD/t
+Heat Plant A
+Heat Plant B
+Power Plant C
+investment not paid back
+Power Plant D
+Table 18.1 Heat and power plant pay-back times (years) by different fuel prices.
+By comparing the columns (3) and (4) with column (1) of the table above, it is clearly shown that the economics of wood based energy generation heavily depends on the prices of wood wastes and fuel wood. This means that if there is an alternative way of using wood wastes instead of power and heat generation, the economical advantage of combusting the waste is not as obvious as before. Only in the case of co-generation of power and heat (Power Plant D) the pay-back figures are not crucially worsened by the higher price of wood based fuel.
+Column (5) indicates that panel manufacturing (Plant B) will suffer economically from a rise of the fuel wood price (wood waste cost remaining zero). This is because of the low waste yield especially at particle board and fibreboard manufacturing, leading to a high dependence on purchased fuel wood.
+The conclusion to be drawn is that economical wood based energy generation is possible only if there is no alternative use for the fuel (or there is enough of it for all applications) or that the wood could be applied to generate both industrial power and heat.
+On the other hand, column (2) indicates clearly, that rising oil prices improve economics rapidly, making wood based energy generation economically feasible even at higher wood prices than those initially assumed.
+19. Summary and Conclusions
+The aim of this study was to investigate the potential rate of self-sufficiency in energy of small scale mechanical forest industry mills in developing countries. The study was performed as a case study, in which eleven (non-existent) industrial mills were examined.
+Based on the data from these mills concerning energy consumption and yield of combustible process wastes, four wood fired power and heat plants were designed. In cases where the waste yield did not cover the entire fuel demand it was assumed that hogged fuel wood, e.g. logging residues, were combusted.
+In designing the power and heat plants attention was paid to chose systems, which represent proven technology and which are suited for operation in tropical conditions. To reduce investment costs as well as the need for highly educated maintenance personnel the plants were equipped with a low level of automation.
+The operation costs of wood based heat and power generation were calculated both as annual costs and as cost per unit of manufactured end-product. The costs were compared with the costs of fuel oil based heat generation and power supply from public utilities.
+19.1 Technology
+At the present stage of technology there is no obstacle to converting manufacturing wastes into power and heat for the use of mechanical forest industries in the developing countries. The technologies of fuel wood handling and combustion, warm water and steam generation as well as steam based power generation have all reached a proven stage a long time ago.
+The flue gases from wood combustion could in some cases be used directly for heating and drying purposes instead of warm water or steam generation. It is also possible to connect a prime mover directly to some mechanical device instead of using a power generator. The suitability of these alternatives must be examined case by case. Due to their rather limited number of applications they were not dealt with in the study.
+Generation of combustible gases out of wood wastes looks a very interesting solution to power and heat generation.
+This is particularly the case in such remote areas, where industrial operation is 100 %, dependent on on-site power generation.
+Although the development in the gasification field has been rapid during the last years, the technology of gas application is not yet at a proven stage. Therefore, a producer gas engine set cannot be recommended as a supplier - at least not as the only supplier - of power for the purposes of mechanical forest industries in the developing countries.
+19.2 Economics
+In general, considerable savings could be gained by using wood waste instead of oil as fuel. At present oil prices the extra cost of an investment in wood based heat generation facilities is paid back by annual savings in operation costs in 3...4.5 years.
+By generating not only the heat, but also the power by fuel wood, the annual savings are still increased. The pay-back time of the 1 MW wood fired power plant examined in this study was 2.7 years.
+A rising oil price causes shorter pay-back times, while rising prices of wood wastes and fuel wood - indicating a lack of these or the existence of some other profitable application - leads to longer pay-back times.
+Another way of evaluating the economics of wood based power and heat generation is to study the energy unit costs. These indicate how much the energy costs, that is needed to produce one unit of some end-product.
+The energy unit cost of sawnwood is 11 USD/m^3 when fuel oil is used but only 6...7 USD/m^3 by wood-based heat or heat and power generation. At a production of 100 m^3 sawnwood per day this totals an annual sawing of about 130 000 USD.
+In panel manufacturing the difference between oil based and wood based energy costs are as significant as in the sawnwood case. By using wood based heat and power from the public grid a plywood plant manufacturing 30 m^3 per day approximately the same amount could be saved annually.
+The economics of wood based energy generation is naturally depending on the price of fuel oil. The higher the oil price gets the bigger are the savings by wood combustion and the shorter are the pay-back times of investments in wood firing power and heat plants.
+There was one exception from the rule of cheap wood based energy in this study. The heat and power generated by Power Plant C - a wood fired steam boiler connected to a steam engine set - was only slightly cheaper than the oil alternative, and in one case oil was even more economical.
+This was due to the considerably high investment cost caused by the steam engine, which in turn led to high annual capital costs. Regardless of the savings in fuel cost, the pay-back time of the investment was 7.7 years. This seems to be a high figure, considering the scarcity of capital in many developing countries.
+To summarize, wood based heat and power generation is economically feasible at today's oil prices.
+In the case of the mechanical forest industry of developing countries the main problem is to generate the funds needed for the initial investment in wood combusting equipment. Once the investment is made and the plant is in operation, the savings in fuel costs will pay back the spent money in 2...4 years, or in an even shorter time if the oil price continues to rise.
+19.3 Self-sufficiency in Energy
+When the yield of combustible wood wastes is regarded the sawmills and the plywood plant are the only industrial mills of those examined in this study, that are self-sufficient in fuel. To fill the fuel gap of the other mills fuel wood must be purchased. As the price of logging residues and small-size roundwood, due to the lack of alternative applications, generally is much below the fuel oil price, the use of hogged fuel wood does not affect operation economics to any significant extent.
+As long as there is fuel available the heat needed in the manufacturing process can be generated at the site for instance by a warm water or steam boiler. Thus, all the industry mills of this study could be regarded as self-sufficient in heat.
+Self-sufficiency in electrical energy is, however, more difficult to reach. This is because of the fact that there is a given ratio between the power output and the output of industrial heat generated by an industrial back-pressure power plant. At the plant sizes and steam pressures coming in question in this study this ratio is 0.10... 0.15. (A power plant generating 1 MW of industrial heat has a maximum power output of 150 kW.)
+The ratio between power demand and heat demand at the investigated industry mills is bigger than that, normally 0.18... 0.25.
+In this case there seem to be two principal solutions of reaching self-sufficiency in power generation. One is to design a power plant which by means of a more sophisticated technology would have a generation ratio between power and heat, that corresponds to the consumption ratio.
+Such a plant is expensive and needs a highly skilled operating personnel, which makes it poorly suited for operation in developing countries.
+The other solution could, in spite of its slightly higher cost of operation, prove quite satisfactory in the operating conditions of developing countries. It is consisting of a power plant of simple design, which covers a certain part, say two thirds, of the power demand. The rest would be generated by a diesel set. This would lead to rather low initial costs and still to reduced energy costs as only part of the power is generated by fuel oil and the rest, plus all the heat, is generated by wood.
+The diesel power could of course be replaced by power purchased from the public grid in those cases public power would be available.
+<section>5</section>
+Enclosures
+Suppliers' List
+Plants Layout (4)
+General Flow Sheet
+List of Literature; Energy Generation and Wood Based Fuels
+Suppliers' List
+The firms have been chosen for the following suppliers' list according to two main principles:
+- a large geographical coverage
+- preference has been given to firms manufacturing equipment mainly for small size plants.
+Although the list includes nearly 40 firms from 15 countries it naturally covers only a fraction of all firms manufacturing power and heat plant equipment. Especially small scale boilers and fuel handling equipment are manufactured by a multitude of firms throughout the world. Many of these are rather small, supplying only a domestic market. There has been no possibility to list them all in the following suppliers' list. The possible absence of some firm from the list must however not be regarded as an opinion about the quality or fitness of its products.
+Name and address of manufacturer
+Manufacturing program
+Selected references
+Belgium
+Lambiotte & Cie Energie s.a./n.v.
+Avenue Brugman 290, 1180 Brussels,
+Phone 02/343 01 46, Telex 61588
+Various wood conversion equipment Gas generators and producer gas engines.
+A few deliveries of gasification equipment to developing countries.
+PVBA Vyncke Warmtetechniek
+Gentsesteenweg 224, 8730 Harelbecke,
+Telex 85 416
+Wood fired water and steam boilers in the capacity range of 800... 3500 kW. Output pressure 1.5... 17 bar.
+No reference list available.
+Canada
+Foster Wheeler Limited
+P.O. Box 3007, St. Catharines, Ontario
+L2R 7B7, Phone 416 684 8321,
+Telex 061 5134
+Boilers for a wide range of capacities and fuels including wood and wood wastes.
+Several export deliveries.
+Czechoslovakia
+Skodaexport
+Vaclavska Nam. 56, Prague 1,
+Phone Prague 2131, Telex 011 428
+Steam turbines from 1 MW
+Several export deliveries to developing countries.
+German Democratic Republic
+VEB Bergmann Borsig/Görlitzer
+Maschinenbau, Technocommerz GmbH,
+Taubenstrasse 4-6, 108 Berlin,
+Phone 220271, Telex Oil 2461
+Steam turbines from 1 MW
+Several export deliveries
+Finland
+Kone Corporation, Head Office
+P.O. Box 8, SF-00331 Helsinki 33
+Phone (90) 45801, Telex 124466
+A broad range of materials handling equipment
+Subsidiaries and joint ventures in several countries
+Kymi Kymmene Metalli
+18100 Heinola, Phone 910/55270,
+Telex 16812
+Water and steam boilers for various fuels, including wood and wood wastes. Capacities from about 1 MW.
+Mainly domestic deliveries
+Oy Vapor Ab
+PL 46, 21200 Raisio,
+Phone 921/783580, Telex 62-347
+Water and steam boilers for various fuels, including wood and wood wastes. Capacities from about 1 MW.
+Mainly domestic deliveries.
+Witermo Oy
+PL 15, 20781 Kaarina,
+Phone 921/432 800, Telex 62-339
+Water and steam boilers for various fuels, including wood and wood wastes. Capacities from about 1 MW.
+A number of export deliveries to European countries.
+France
+Creusot-Loire
+15 rue Pasquier, 75383 Paris Cedex 08,
+Phone 260 36 72, Telex 65309
+Steam turbines for naval and industrial use from 250 to 30 000 kW.
+Some 40 deliveries to developing countries since 1971.
+Duvant Moteurs Diesel
+Boile Postale 2 36, 59308 Valenciennes,
+Telex Valci 1552
+Producer gas engines
+No list of references available.
+Fives Cail Baboock
+7 rue Montalivet, 75383 Paris Cedex 08,
+Phone 265 22 01, Telex 65328
+Industrial steam turbines in the range of 300...25 000 kW.
+Some 200 deliveries to developing countries in the years 1950...1977.
+Hungary
+Maschinenfabrik Lang, Transelektro
+P.O. Box 377, 1394 Budapest
+Steam turbines. Industrial units in the range of 530...41 000 kW.
+Several export deliveries.
+India
+Westerwork Engineers Ltd.
+15 Bhandup Village Road, Phandup
+Bombay 400 078, Phone 58 23 01, Telex 114947
+Steam boilers for rice husk, wood shavings and sawdust. Output capacity up to 4 t/h.
+No list of references available.
+Japan
+Kawasaki Heavy Industries, Ltd.
+World Trade Center Bldg. 4-1, 2-chome
+Hamamatsu-cho, Minato-ku, Tokyo,
+Phone Tokyo 03 (435) 2295, Telex 22672
+A large boiler program including waste wood fired boilers for saturated steam up to 25 bar. Output range 3...35 t/h.
+Domestic deliveries only.
+Shin Nippon Machinery Co., Ltd.
+Sero Blgd., 1-28. Shiba 2-chome,
+Minato-ku, Tokyo,
+Phone 03 (454) 1411, Telex 242-4302
+Steam turbines on US and German licenses. Output range 500...15 000 kW.
+Over 200 export deliveries since 1963. Most of them to developing countries.
+Takuma Co., Ltd.
+3-23, Dojima Hama 1-chome,
+Kita-ku Osaka
+Phone (06) 346-5161, Telex 0523-3672
+Steam boilers for various fuels and capacities including waste wood fired units for saturated steam at max. 20 bar. Output range 6...30 t/h.
+No list of references available.
+Malaysia
+Folin & Brothers Sdn Bhd
+Petaling Jaya, Lot 16 Jalan 223
+Telex 37570
+Fire and water tube boilers up to 18 bar. Output range 1.5... 16 t/h.
+No list of references available.
+Peru
+Metal Empresa S.A.
+Jr. V.A. Belaunde 852, 10069 Lima
+Phone 525140, Telex 25554
+Wood fired steam boilers
+No list of references available.
+Sweden
+Erjo Maskiner AB
+Vittarydsvägen, S-34014 Lagan
+Phone 0372/30880
+Chippers and shredders
+Several export deliveries
+Stal-Laval Turbin Ab
+61220 Finnspong,
+Phone 0122-81000
+A wide range of steam and gas turbines, including industrial steam turbines from 1 MW.
+Several export deliveries.
+Wennberg AB
+Fack 25101, Karlstad 1
+Different types of conveyors
+Several export deliveries
+Ånga och Wärme Ab
+Olofsdalv., Halmstad Telex 38091
+Wood waste fired boilers from 0.8 to, 15 MW.
+A number of export deliveries
+United Kingdom
+A.P.E. - Alien Limited
+Queens Engineering Works,
+Bedford, Phone Bedford (0234) 67400,
+Telex 82 486
+Steam turbines. Industrial units up to 25 MW.
+Some 100 back-pressure units exported in the years of 1960...1975. More than 50 % to developing countries.
+USA
+Babcock & Wilcox Company
+Industrial and Marine Division
+P.O. Box 2423
+North Canton, Ohio 44270
+Boilers for various capacities and fuels, including wood fired units.
+Several export deliveries.
+Biomass Corporation
+951 Live Oak Boulevard,
+Yuba City, California 95991,
+Phone (916) 674-7230
+Wood gasifiers
+No reference list available.
+CNB Tri-Fuel Boiler
+Combustion Service & Equipment Company
+2016 Babcock Blvd.
+Pittsburgh, Pennsylvania 15209
+Boilers for various capacities and fuels, including wood fired units.
+No reference list available.
+Combustion Engineering, Inc
+Industrial Boiler Operations
+Windsor, Connecticut 0605
+Boilers for various capacities and fuels, Including wood fired units.
+Several export deliveries.
+Deltak Corporation
+P.O. Box 9496
+Minneapolis, Minnesota 55440
+Boilers for various capacities and fuels, including wood fired units.
+No reference list available.
+Foster Wheeler Corporation
+666 Fifth Avenue
+New York, New York 10019
+Boilers for various capacities and fuels, including wood fired units.
+Several export deliveries.
+Wellons, Inc.
+P.O. Box 381
+Sherwood, Oregon 97140
+Boilers for various capacities and fuels, Including wood fired units.
+No reference list available.
+Zurn Industries, Inc.
+Energy Division
+1422 East Avenue
+Erie, Pennsylvania 16503
+Boilers for various capacities and fuels, including wood fired units.
+No reference list available.
+Federal Republic of Germany
+AEG-Kanis Turbinenfabrik GmbH
+Frankenstrasse 70-80, 8500 Nürnberg,
+Phone (0911) 4130-1, Telex 06-22731
+A large program of gas and steam turbines, including industrial units from 300 to 80 000 kW.
+Several export deliveries.
+Blohm + Voss AG.
+Postfach 720, 2 Hamburg 1,
+Phone 3061, Telex 0211047
+Naval and industrial steam turbines from 300 to 4500 kW.
+Several export deliveries.
+Eisenwerk Theodor Loos GmbH
+8820 Gunzenhausen,
+Phone 09831/640, Telex 61243
+Water and steam boilers for various fuels, including wood waste fired units from 1 to 28 t/h.
+No list of references available.
+Imbert Energietechnik
+Steinweg 11, 5760 Arnsberg 2,
+Phone 029 (31)-3549, Telex 84222
+Producer gas engines
+No list of references available.
+H. Jenz Maschinen - und Fahrzeugban
+Wegholm 167, 4953 Petershagen
+Phone 05704/662, Telex 097853
+Chippers and shredders
+Several export deliveries.
+Konus-Kessel Gesellschaft für Wärmetechnik mbH + Co KG
+Robert-Bosch-Strasse 3-5,
+Postfach 1509, 6830 Schwetzingen,
+Phone (06202) 4011, Telex 4-65829
+Water, steam and oil boilers for various types of waste fuels, including wood waste fired units in the range of 0.5... 7.3 MW.
+A number of deliveries to developing countries.
+Maschinenfabrik A. Lambion
+3548 Arolsen-Wetterburg,
+Telex 0994532
+Water and steam boilers for solid fuels. Output range from some 1.0 MW.
+No list of references available.
+Conrad Scholtz Aktiengesellschaft
+Postfack 10 849, 2 Hamburg 70
+Phone (040) 694 04-1, Telex 0211588
+Conveying equipment
+Several export deliveries
+Spillingwerk Hamburg GmbH
+Wertstrasse 5, 2 Hamburg 11,
+Phone 040/781335, Telex 2163419
+Steam engines. Multi-unit sets from about 50 kW.
+Several export deliveries.
+Standardkessel Duisburg
+Wilhelmshöhe 3, 4100 Duisburg,
+Phone (0203) 4521, Telex 0855850
+Water and steam boilers for various fuels, including wood wastes.
+No list of references available.
+Plants Layout (4)
+HEAT PLANT A LAY-OUT - 8009D259
+HEAT PLANT B LAY-OUT - 8009D260
+HEAT PLANT C LAY-OUT - 8009D261
+POWER PLANT D LAY-OUT - 7944D028
+General Flow Sheet
+WOOD FIRED POWER PLANT GENERAL FLOW SHEET - 8008E102
+WOOD FIRED HEAT PLANT GENERAL FLOW SHEET - 8031E032
+List of Literature; Energy Generation and Wood Based Fuels
+1. Johnson, Robert C.: "Some aspects of wood waste preparation for use as fuel". TAPPI, 58 (1975) July, pp. 102...106.
+2. Newby, W.M.: "An overview of combustion technology available to the pulp and paper industry, parts 1...3". Paper Trade Journal, 1980 May 15, pp. 30...34, May 30, pp. 33...41, June 15, pp 30...32.
+3. Ramalingam, K.K. & Ramaswami, A.: "Heat Power Engineering". Madras, Directorate of Technical Education Tamil Nadu, 1977. 258 p.
+4. Shelton, Jay & Shapiro, Andrew B.: "The woodburners encyclopedia. An information source of theory, practice and equipment relating to wood as energy". Waitsfield, Vt. 1978. 160 p.
+5. "Steam, its generation and use". Publ. by Babcock & Wilcox, New York. 1978. 550 p.
+6. Tillman, A. David, et al.: "Fuels and Energy From Renewable Resources". New York, Academic Press. 1977. 342 p.
+7. Virian, John: "Wood heat". 2. rev. ed. Emmaus, Pa. 1978. 428 p.
+8. Woodruff, Everett B. & Lammers, Herbert B.: "Steam-Plant Operation". Fourth edition. New York, Mc Graw-Hill. 1977. 630 p.

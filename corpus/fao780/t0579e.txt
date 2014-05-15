@@ -1,0 +1,1946 @@
+<section>a</section>
+APPENDICES
+APPENDIX A - Machine Cost and Work Records
+APPENDIX B - Field Production Studies
+APPENDIX C - PACE Data Collection Forms
+APPENDIX A - Machine Cost and Work Records
+Machine rates, unit costs, and machine utilization, can be compiled on a weekly basis for use in comparison and control. The weekly machine costs, accummulated over a period of time, provide estimates of the hourly machine cost or machine rate for planning and budgeting.
+The basis for the weekly report is the daily report (Figure A.1). This report records the hour meter or odometer reading at the end of the day, the amounts of materials supplied to the machine, the number of machine hours worked and any additional hours worked by the operator which are not machine hours. An estimate of the production is made. Either at the end of the day, or weekly, the unit costs of the materials consumed are added to the daily report so that the daily operating costs for the machine are complete.
+The daily machine cost and work record is kept for all machines. The weekly report can be compiled individually by machine or collectively for all machines of the same type using a form similar to the Weekly Machine Cost and Work Record (Figure A.2). Figure A. 2 column (25) is the weekly estimate of the machine hourly cost. Column (27) is the weekly unit production cost. Column (29) is the machine utilization for the week.
+DAILY MACHINE COST AND WORK RECORDS
+Machine______________________
+Machine No. ___________________
+Machine Meter Reading (end of day) _______________________________
+Total Km Traveled_____________________ Date_____________________
+ITEM
+Amount Used
+Unit Cost
+Total Cost
+Gasoline (liters)
+Oil, Motor Lube (kg)
+Oil, Hydraulic (liters)
+Diesel Fuel (liters)
+Grease (kg)
+Filters (number)
+Tires (number)
+Cost of Repair Parts
+Cost of Repair Labor
+TOTAL
+Day's Work
+Machine Hours______________
+Operator's Other Work
+Preventive
+Maintenance
+Done__________________________
+Hours_____________
+Hours_____________
+Major Delay: Cause____________
+Time__________________________
+Volume of Wood:
+Cut
+Loaded
+Transported
+Km of Road Built
+Km of Road Maintained
+REMARKS
+Table A.1 - Definitions for Daily Machine Cost and Work Record.
+Item 1
+- Equipment type
+Item 2
+- Number of machine, all machines should have numbers assigned to them, prominently displayed.
+Item 3
+- Either the engine hour meter or the odometer reading at the end of the day.
+Item 4
+- Subtract from previous day's record to get total machine hours worked or kilometers traveled.
+Item 5
+- Date
+Item 6-12
+- Consummable Items. Unit costs and total costs can be calculated at the end of each week by office personnel.
+Item 13-14
+- Repair parts and labor. These costs can be calculated at the end of each week by office personnel.
+Item 15
+- Total cost for Items 6-14.
+Item 16
+- Machine hours from Item 4.
+Item 17
+- Type of other work done by machine operator off machine.
+Item 18
+- Operator hours spent on other work.
+Item 19
+- Type of preventive maintenance done.
+Item 20
+- Hours spent on preventive maintenance
+Item 21
+- Cause of any major delays.
+Item 22
+- Hours spent in major delay.
+Item 23-27
+- Production per day, measured in volume cut, skidded, loaded or transported by machine, or miles of road built or maintained by equipment.
+Item 28
+- Any comments by the operator on the day's activities.
+Figure A.2. WEEKLY MACHINE COST AND WORK RECORD PART I
+Figure A.2. WEEKLY MACHINE COST AND WORK RECORD PART II
+Table A.2 - Definitions for Weekly Machine Cost and Work Record.
+Column
+Description
+Enter week number.
+Enter gasoline supplied and total cost summed up from the daily work sheets from the past week.
+Enter motor oil supplied and total cost summed up from the daily work sheets from the past week.
+Enter diesel fuel supplied and total cost summed up from the daily work sheets from the past week.
+Enter grease supplied and total cost summed up from the daily work sheets from the past week.
+Enter hydraulic oil supplied and total cost summed up from the daily work sheets from the past week.
+Enter the number of filters and total cost of filters summed up from the daily work sheets from the past week.
+Enter the number of tires and the total cost summed up from the daily work sheets from the past week.
+Enter amount (if applicable) and total cost of miscellaneous materials summed up from the daily work sheets from the past week.
+Enter the repair parts cost and repair labor cost from the daily work sheets from the past week.
+Enter the equipment meter reading or odometer reading from the end of the last day of the week and subtract it from the reading from the last day of the previous week to obtain a total for the week.
+Add columns 3, 5, 1, 9, 11, 13, 15, 17, 18, and 19 to obtain the total operating cost for the machine during the week.
+Add the total wages including social costs for the operators and helpers using the equipment. Do not add in the labor for repairs included in Col (19).
+Add up the total depreciation, interest, taxes, license, insurance and any other fixed costs and divide by 52 to establish the weekly ownership cost. Once calculated, it will usually not change during the year.
+To obtain the hourly machine cost during the week, add up the operating, labor, and ownership costs and divide by the number of hours worked by the machine.
+Enter the production summed up from the daily work sheets from the past week.
+Divide the total cost by the total production to determine the unit cost of production for the week.
+Enter the total number of hours the machine was scheduled to operate for the week.
+Divide the total number hours the machine worked by the number of hours it was scheduled to work and multiply by 100 to calculate the machine utilization in percent.
+The weekly cost and work report is a valuable record not only for deriving your own machine rates, but for discussions with the crew and foreman so that they are aware of the costs of machine operation.
+An additional column can be added to the form to show the importance of increased machine utilization. This additional column could be called the hourly machine cost at 100% utilization. If labor is a constant cost for the week, the hourly machine rate at 100% utilization is calculated as
+APPENDIX B - Field Production Studies
+To estimate cycle time coefficients, the observer should study the operation until he is familiar with the elements making up the activity. A flow process chart can then be prepared to describe the elements and define the beginning and ending points of each element. A data collection form is prepared, data collected and coefficients calculated.
+The observer gathering the time study data must be able to see the operation he is studying at all times. Often he must constantly move with the equipment in order to record the element times, while simultaneously keeping a safe distance from the operation.
+For example, let's design a study form to develop cycle time coefficients for a skidding operation. We would like to estimate the loaded speed, unloaded speed, load size, hook time and unhook time for a rubber-tired skidder. The flow process for the skidding activity would be
+Element
+Element Begin (B) and End (E) Point
+Skidder travels to logs
+(B) - Skidder leaves landing.
+(E) - Skidder arrives at first log pickup point.
+Position skidder
+(B) - Skidder arrives at first log pickup point.
+(E) - Begin pulling winch line from skidder.
+Lateral outhaul
+(B) - Begin pulling winch line from skidder.
+(E) - Winch line arrives at log(s)
+Hook Log
+(B) - Winch line arrives at log(s)
+(E) - Winch line starts in toward skidder.
+Lateral Inhaul
+(B) - Winch line starts in toward skidder.
+(E) - Logs arrive at skidder.
+Intermediate Move
+(B) - Logs arrive at skidder.
+(E) - Skidder moves to next pickup point.
+Position skidder
+(B) - Skidder moves to next log pickup point.
+(E) - Begin pulling winch line from skidder.
+Lateral outhaul
+(B) - Begin pulling winch line from skidder.
+(E) - Winch line arrives at log(s)
+Hook Log
+(B) - Winch line arrives at log(s)
+(E) - Winch line starts in toward skidder.
+Lateral Inhaul
+(B) - Winch line starts in toward skidder.
+(E) - Logs arrive at skidder.
+Loaded Return to Landing
+(B) - Logs arrive at skidder.
+(E) -Skidder arrives at landing.
+Unhook and deck logs
+(B) - Skidder arrives at landing.
+(E) - Skidder leaves landing.
+Using the Skidding Cycle Element Time Study Form (Table B.1), we record a sample of cycles for a rubber-tired skidder.
+For example, on cycle no. 1 a small rubber-tired skidder leaves the landing and travels 200 meters in 1.5 minutes along the skid trail to the log pickup point. The operator turns and positions the skidder in 0.2 minutes. The helper pulls out the winch line 20 meters in 0.7 minutes. Two logs are hooked in 1.2 minutes, winched to the skid trail in 1.0 minutes. The skidder returns to the landing in 3.0 minutes. The logs are unhooked and pushed into the deck and the skidder is positioned to leave the landing in 1.6 minutes. During cycle no. 3, the logs are picked up at two points during winching. During cycle no. 4, logs are picked up at two points along the skid trail.
+Summing the times for each element, our estimates for the skidding coefficients are:
+Unloaded Travel Speed = 1350 m/12.8 min = 105 m/min
+Loaded Travel Speed = (1325 + 25) m/(18.9 + .3) min = 70 m/min
+Lateral Outhaul Speed = 120 m/5.0 min = 24 m/min
+Lateral Inhaul Speed = 120 m/6.2 min = 19 m/min
+Position Skidder = 1.0 m/5 cycles = 0.20 min/trip
+Hook Time = 13.5 min/5 cycles = 2.7 min/trip
+Unhook and Deck = 8.7 min/5 cycles = 1.7 min/trip
+Average number of logs per trip = 13 logs/5 cycles = 2.6 logs/trip
+If the average log size is 0.5 cubic meters per log then the average load per trip is 2.6 logs per trip multiplied by 0.5 cubic meters per log or 1.3 cubic meters per trip.
+Table B.1 Skidding Cycle Element Time Study Form
+APPENDIX C - PACE Data Collection Forms
+MACHINE RATE CALCULATIONS
+DATA INPUT SHEET 1 of 2
+Equipment Description _______________________________________________
+Delivered equipment cost ($)
+Lines and rigging ($)
+Tires and tracks ($)
+Salvage value ($)
+Equipment life (years)
+Days worked per year
+Hours worked per day
+Interest expense (%)
+Percent of average annual investment for taxes, licenses, storage, insurance (%)
+Percent of equipment depreciation for service and repairs (%)
+Fuel consumption (liters per hour)
+Fuel cost ($/liter)
+Percent of fuel consumption for lubricants (%)
+Cost of oil and lubricants ($/liter)
+Total cost of lines ($)
+Average life of lines (hours)
+Cost of miscellaneous rigging ($)
+Average life of miscellaneous rigging (hours)
+Cost of tracks or tires ($)
+Average life of tires or tracks (hours)
+MACHINE RATE CALCULATIONS
+DATA INPUT SHEET 2 of 2
+Equipment Description
+Base wage for 1st crew position ($/hour)
+Base wage for 2nd crew position ($/hour)
+Base wage for 3rd crew position ($/hour)
+Base wage for 4th crew position ($/hour)
+Base wage for 5th crew position ($/hour)
+Base wage for 6th crew position ($/hour)
+Fringe Benefits (% of basic wage)
+Travel time per day (hours)
+Crew operating time per day (hours)
+Supervision cost (% direct labor cost)
+TRUCK RATE CALCULATIONS
+DATA INPUT SHEET 1 of 2
+Equipment Description _______________________________________________
+Delivered equipment cost ($)
+Tire cost ($)
+Salvage value ($)
+Equipment life (years)
+Days worked per year
+Hours worked per day
+Interest expense (%)
+Percent of average annual investment for taxes, licenses, storage, insurance (%)
+Percent of equipment depreciation for service and repairs (%)
+Fuel consumption (liters per hour)
+Fuel cost ($/liter)
+Percent of fuel consumption for lubricants (%)
+Cost of oil and lubricants ($/liter)
+Cost per tire ($)
+Number of tires
+Average life per tire (km)
+Number of km used per year
+TRUCK RATE CALCULATIONS
+DATA INPUT SHEET 2 of 2
+Equipment Description
+Base wage for 1st crew position ($/hour)
+Base wage for 2nd crew position ($/hour)
+Base wage for 3rd crew position ($/hour)
+Base wage for 4th crew position ($/hour)
+Base wage for 5th crew position ($/hour)
+Base wage for 6th crew position ($/hour)
+Fringe Benefits (% of basic wage)
+Travel time per day (hours)
+Crew operating time per day (hours)
+Supervision cost (% direct labor cost)
+ANIMAL RATE CALCULATIONS
+DATA INPUT SHEET 1 of 2
+Description ______________________________________________________
+Delivered animal cost ($)
+Salvage value ($)
+Working life (years)
+Delivered harness cost ($)
+Salvage value ($)
+Life of harness (years)
+Delivered miscellaneous equipment ($)
+Salvage value ($)
+Life of miscellaneous equipment (yr)
+Number of days worked per year
+Hours worked per day
+Interest Expense (%)
+Percent of average annual investment for taxes, licenses, storage, insurance (%)
+Percent of harness depreciation for service and repairs (%)
+Percent of misc equip depreciation for service and repairs (%)
+Pasture rental ($/month)
+Cost of grain ($/month)
+Cost of hay ($/month)
+Cost of supplemental vitamins ($/mth)
+Veterinarian expenses ($/month)
+Cost of shoes ($/month)
+After hours care ($/month)
+ANIMAL RATE CALCULATIONS
+DATA INPUT SHEET 2 of 2
+Equipment Description
+Base wage for 1st crew position ($/hour)
+Base wage for 2nd crew position ($/hour)
+Base wage for 3rd crew position ($/hour)
+Base wage for 4th crew position ($/hour)
+Base wage for 5th crew position ($/hour)
+Base wage for 6th crew position ($/hour)
+Fringe Benefits (% of basic wage)
+Travel time per day (hours)
+Crew operating time per day (hours)
+Supervision cost (% direct labor cost)
+STUMP TO TRUCK UNIT COSTS INCLUDING LOCAL ROADS
+DATA INPUT SHEET 1 OF 2
+Activity
+Element
+Quantity
+Units
+Fall and buck
+Machine cost^a
+$/hr
+Time to fall/buck
+min/tree
+Volume per tree
+m^3
+Delay time
+min/hr
+Skidding or Yarding
+Machine cost^a
+$/hr
+Move-in time
+hr
+Volume per cycle
+m^3
+Outhaul speed
+m/min
+Lateral outhaul
+m/min
+speed Hook time
+min
+Lateral inhaul
+m/min
+speed Inhaul speed
+m/min
+Unhook time
+min
+Delay time
+min/hr
+Loading
+Machine cost^a
+$/hr
+Cycle time
+min/trip
+Load size
+m^3/trip
+Delay time
+min/hr
+^a Complete if different from constructed data file
+STUMP TO TRUCK UNIT COSTS INCLUDING LOCAL ROADS
+DATA INPUT SHEET 2 OF 2
+Activity
+Element
+Quantity
+Units
+Transport
+Machine cost^a
+$/hr
+Distance (one-way)
+km
+Volume per load
+m^3
+Speed (unloaded)
+km/hr
+Loading time
+min
+Speed (loaded)
+km/hr
+Unloading time
+min
+Roads and Landings
+Road cost^a
+$/km
+Road spacing
+m
+Landing spacing
+m
+Removal per ha
+m^3
+Skidding weave
+Skidding direction (one or two way)
+1 or 2
+Cost per landing^a
+Removal per ha
+m^3
+^a Complete if different from constructed data file
+<section>b</section>
+FAO TECHNICAL PAPERS
+FORESTRY PAPERS:
+1. Forest utilization contracts on public land, 1977 (E* F* S*)
+2. Planning of forest roads and harvesting systems, 1977 (E* F* S*)
+3. World list of forestry schools, 1977 (E/F/S*)
+3 Rev. 1. - World list of forestry schools, 1981 (E/F/S*)
+3 Rev. 2. - World list of forestry schools, 1986 (E/F/S*)
+4. World pulp and paper demand, supply and trade
+Vol. 1, 1977 (E* F* S*)
+Vol. 2, 1978 (E* F* S*)
+5. The marketing of tropical wood in South America, 1978 (E* S*)
+6. National parks planning, 1978 (E* F* S***)
+7. Forestry for local community development, 1978 (E* F* S*)
+8. Establishment techniques for forest plantations, 1978 (Ar*** C* E** F* S*)
+9. Wood chips, 1978 (C* E* S*)
+10. Assessment of logging costs from forest inventories in the tropics, 1978
+1. Principles and methodology (E* F* S*)
+2. Data collection and calculations (E* F* S*)
+11. Savanna afforestation in Africa, 1978 (E* F*)
+12. China: forestry support for agriculture, 1978 (E*)
+13. Forest products prices, 1979 (E/F/S*)
+14. Mountain forest roads and harvesting, 1979 (E*)
+14 Rev. 1. - Logging and transport in steep terrain, 1985 (E*)
+15. AGRIS forestry: world catalogue of information and documentation services, 1979 (E/F/S*)
+16. China: integrated wood processing industries, 1979 (E* F* S***)
+17. Economic analysis of forestry projects, 1979 (E* F* S*)
+17 Sup. 1. - Economic analysis of forestry projects: case studies, 1979 (E* S*)
+17 Sup. 2. - Economic analysis of forestry projects: readings, 1980 (E*)
+18. Forest products prices 1960-1978, 1980 (E/F/S*)
+19. Pulping and paper-making properties of fast-growing plantation wood species
+Vol. 1, 1980 (E*)
+Vol. 2, 1980 (E*)
+20/1. Forest tree improvement, 1985 (E* F* S*)
+20/2. A guide to forest seed handling, 1985 (E* S*)
+21. Impact on soils of fast-growing species in lowland humid tropics, 1980 (E* F* S*)
+22/1. Forest volume estimation and yield prediction, 1980
+Vol. 1 - Volume estimation (E* F* S*)
+22/2. Forest volume estimation and yield prediction, 1980
+Vol. 2 - Yield prediction (E* F* S*)
+23. Forest products prices 1961-1980, 1981 (E/F/S*)
+24. Cable logging systems, 1981 (E*)
+25. Public forestry administration in Latin America, 1981 (E*)
+26. Forestry and rural development, 1981 (E* F* S*)
+27. Manual of forest inventory, 1981 (E* F*)
+28. Small and medium sawmills in developing countries, 1981 (E* S*)
+29. World forest products, demand and supply 1990 and 2000, 1982 (E* F* S*)
+30. Tropical forest resources, 1982 (E/F/S*)
+31. Appropriate technology in forestry, 1982 (E*)
+32. Classification and definitions of forest products, 1982 (Ar/E/F/S*)
+33. Logging of mountain forests, 1982 (E* F* S*)
+34. Fruit-bearing forest trees, 1982 (E* F* S*)
+35. Forestry in China, 1982 (E*)
+36. Basic technology in forest operations, 1982 (E* F* S*)
+37. Conservation and development of tropical forest resources, 1982 (E* F* S*)
+38. Forest products prices, 1962-1981,1982 (E/F/S*)
+39. Frame saw manual, 1982 (E*)
+40. Circular saw manual, 1983 (E*)
+41. Simple technologies for charcoal making, 1983 (E* F* S*)
+42. Fuelwood supplies in the developing countries, 1983 (Ar* E* F* S*)
+43. Forest revenue systems in developing countries, 1983 (E* F* S*)
+44/1. Food and fruit-bearing forest species, 1983 (E* F* S*)
+44/2. Food and fruit-bearing forest species, 1984 (E* F* S*)
+44/3. Food and fruit-bearing forest species, 1986 (E* S*)
+45. Establishing pulp and paper mills, 1983 (E*)
+46. Forest products prices 1963-1982, 1983 (E/F/S*)
+47. Technical forestry education design and implementation, 1984 (E* F*)
+48. Land evaluation for forestry, 1984 (E* F* S*)
+49. Wood extraction with oxen and agricultural tractors, 1986 (E* F* S*)
+50. Changes in shifting cultivation in Africa, 1984 (E* F*)
+50/1. Changes in shifting cultivation in Africa - seven case-studies, 1985 (E*)
+51/1. Studies on the volume and yield of tropical forest stands
+1. Dry forest formations, 1989 (A* F*)
+52/1. Cost estimating in sawmilling industries: guidelines, 1984 (E*)
+52/2. Field manual on cost estimation in sawmilling industries, 1985 (E*)
+53. Intensive multiple-use forest management in Kerala (India), 1984 (E* F*)
+54. Planificación del desarrollo forestal, 1985 (S*)
+55. Intensive multiple-use forest management in the tropics, 1985 (E* F* S*)
+56. Breeding poplars for disease resistance, 1985 (E*)
+57. Coconut wood, 1985 (E* S*)
+58. Sawdoctoring manual, 1985 (E*)
+59. The ecological effects of eucalyptus, 1985 (E* F* S*)
+60. Monitoring and evaluation of participatory forestry projects, 1985 (E*)
+61. Forest products prices 1965-1984, 1985 (E/F/S*)
+62. World list of institutions engaged in forestry and forest products research, 1985 (E/F/S*)
+63. Industrial charcoal making, 1985 (E*)
+64. Tree growing by rural people, 1985 (E* F* S*)
+65. Forest legislation in selected African countries, 1986 (E* F*)
+66. Forestry extension organization, 1986 (E*)
+67. Some medicinal forest plants of Africa and Latin America, 1986 (E*)
+68. Appropriate forest industries, 1986 (E*)
+69. Management of forest industries, 1986 (E*)
+70. Wildland fire management terminology, 1985 (E/F/S*)
+71. World compendium of forestry and forest products research institutions, 1986 (E/F/S*)
+72. Wood gas as engine fuel, 1986 (E*)
+73. Forest products: world outlook projections, 1986 (E/F/S*)
+74. Guidelines for forestry information processing, 1986 (E*)
+75. An operational guide to the monitoring and evaluation of social forestry in India, 1986 (E*)
+76. Wood preservation manual, 1986 (E*)
+77. Databook on endangered tree and shrub species and provenances, 1986 (E*)
+78. Appropriate wood harvesting in plantation forests, 1987 (E*)
+79. Small-scale forest-based processing enterprises, 1987 (E* F* S*)
+80. Forestry extension methods, 1987 (E*)
+81. Guidelines for forest policy formulation, 1987 (E*)
+82. Forest products prices 1967-1986, 1988 (E/F/S*)
+83. Trade in forest products: a study of the barriers faced by the developing countries, 1988 (E*)
+84. Forest products: world outlook projections (Products and country tables), 1988 (E/F/S*)
+85. Forestry extension curricula 1988 (E*)
+86. Forestry policies in Europe, 1988 (E*)
+87. Small-scale harvesting operations of wood and non-wood forest products involving rural people, 1988 (E* F*)
+88. Management of tropical moist forests in Africa, 1989 (E* F* P*)
+89. Review of forest management systems of tropical Asia, 1989 (E*)
+90. Forestry and food security, 1989 (E*)
+91. Design manual on basic wood harvesting technology, 1989 (E*). The above publication has been issued as No. 18 in the FAO Training Series
+92. Forestry policies in Europe, 1989 (E*)
+93. Energy conservation in the mechanical forest industries, 1990 (E*)
+94. Manual on sawmill operational maintenance, 1990 (E*)
+95. Forest products prices 1969-1988,1990 (E/F/S*)
+96. Planning and managing forestry research: guidelines for managers, 1990 (E*)
+97. Non-wood forest products: the way ahead, 1991 (E*)
+98. Les plantations à vocation de bois d'oeuvre en Afrique intertropicale humide, 1991 (F*)
+99. Cost control in forest harvesting and road construction, 1992 (E*)
+Availability: April 1992
+Ar - Arabic
+C - Chinese
+E - English
+F - French
+P - Portuguese
+S - Spanish
+* Available
+** Out of print
+*** In preparation
+The FAO Technical Papers can be purchased locally through the authorized FAO Sales Agents or directly from Distribution and Sales Section, FAO, Viale delle Terme di Caracalla, 00100 Rome, Italy.
+<title>Cost Control in Forest Harvesting and Road Construction</title>
+<section>1</section>
+INTRODUCTION
+In many countries, forestry and forest products constitute an important resource base. They also provide a substantial contribution to the national economy and form a significant part of the gross national product.
+There is, however, increasing concern about the rapid decrease of resources, which is particularly pronounced in the tropical zone. Much of the destruction of these resources is attributed to the desperate need for more land on which to grow food and to uncontrolled logging practices.
+In view of this situation, there is a need to intensify conservation-oriented appropriate utilization, ensuring a more responsible use of the available resources. Forests must be used without endangering their existence for future generations.
+Ways and means must be sought to increase the efficiency and productivity of environmentally sound forest harvesting operations.
+Forest operations are often of a very complex nature and need to take care of the environmental, social, economic, cultural and technical concerns in a given set of conditions.
+This manual has been designed to assist harvesting managers in calculating costs rapidly and in evaluating various options involving different combinations of harvesting machines and systems. It covers all levels of mechanization, ranging from basic to intermediate and advanced machinery.
+It is hoped that the manual will contribute to enhancing economic viability and productivity in forest operations by identifying possible cost reductions through appropriate cost control and evaluation, and optimizing harvesting, transport and road construction costs.
+The program has been designed by Dr. J. Sessions, Professor of Forest Engineering at the College of Forestry, Oregon State University, USA and programmed by J.B. Sessions.
+The project was supervised by R. Heinrich, Chief of the Forest Harvesting and Transport Branch, Forest Products Division.
+<section>2</section>
+SUMMARY
+This manual provides harvesting managers and consultants with a simple and rapid method of identifying the effects of changing key variables which may affect harvesting costs. These key variables may include local prices of equipment, local labor costs, skidding distances, skidding speeds, load size, skidding pattern, and road costs.
+The manual begins with an introduction to the principles of cost control, introduces breakeven concepts and cost equations. Then, the details of cost calculations for machine rates are presented, followed by production equations and unit cost derivations for road construction and harvesting.
+A computerized system (PACE) for calculation of machine rates, road construction costs, and harvesting costs is introduced with user instructions and examples. A disk for IBM microcomputers and compatibles is included along with example data files.
+The appendices include simplified procedures for equipment cost collection and field production studies.
+<section>3</section>
+1. PRINCIPLES OF COST CONTROL
+1.1 Introduction
+1.2 Basic Classification of Costs
+1.3 Total Cost and Unit-Cost Formulas
+1.4 Breakeven Analysis
+1.5 Minimum Cost Analyses
+1.1 Introduction
+Cost is important to all industry. Costs can be divided into two general classes; absolute costs and relative costs. Absolute cost measures the loss in value of assets. Relative cost involves a comparison between the chosen course of action and the course of action that was rejected. This cost of the alternative action - the action not taken - is often called the "opportunity cost".
+The accountant is primarily concerned with the absolute cost. However, the forest engineer, the planner, the manager needs to be concerned with the alternative cost - the cost of the lost opportunity. Management has to be able to make comparisons between the policy that should be chosen and the policy that should be rejected. Such comparisons require the ability to predict costs, rather than merely record costs.
+Cost data are, of course, essential to the technique of cost prediction. However, the form in which much cost data are recorded limits accurate cost prediction to the field of comparable situations only. This limitation of accurate cost prediction may not be serious in industries where the production environment changes little from month to month or year to year. In harvesting, however, identical production situations are the exception rather than the rule. Unless the cost data are broken down and recorded as unit costs, and correlated with the factors that control their values, they are of little use in deciding between alternative procedures. Here, the approach to the problem of useful cost data is that of identification, isolation, and control of the factors affecting cost.
+1.2 Basic Classification of Costs
+Costs are divided into two types: variable costs, and fixed costs. Variable costs vary per unit of production. For example, they may be the cost per cubic meter of wood yarded, per cubic meter of dirt excavated, etc. Fixed costs, on the other hand, are incurred only once and as additional units of production are produced, the unit costs fall. Examples of fixed costs would be equipment move-in costs and road access costs.
+1.3 Total Cost and Unit-Cost Formulas
+As harvesting operations become more complicated and involve both fixed and variable costs, there usually is more than one way to accomplish a given task. It may be possible to change the quantity of one or both types of cost, and thus to arrive at a minimum total cost. Mathematically, the relationship existing between volume of production and costs can be expressed by the following equations:
+Total cost = fixed cost + variable cost × output
+In symbols using the first letters of the cost elements and N for the output or number of units of production, these simple formulas are
+C = F + NV
+UC = F/N + V
+1.4 Breakeven Analysis
+A breakeven analysis determines the point at which one method becomes superior to another method of accomplishing some task or objective. Breakeven analysis is a common and important part of cost control.
+One illustration of a breakeven analysis would be to compare two methods of road construction for a road that involves a limited amount of cut-and-fill earthwork. It would be possible to do the earthwork by hand or by bulldozer. If the manual method were adopted, the fixed costs would be low or non-existent. Payment would be done on a daily basis and would call for direct supervision by a foreman. The cost would be calculated by estimating the time required and multiplying this time by the average wages of the men employed. The men could also be paid on a piece-work basis. Alternatively, this work could be done by a bulldozer which would have to be moved in from another site. Let us assume that the cost of the hand labor would be $0.60 per cubic meter and the bulldozer would cost $0.40 per cubic meter and would require $100 to move in from another site. The move-in cost for the bulldozer is a fixed cost, and is independent of the quantity of the earthwork handled. If the
+bulldozer is used, no economy will result unless the amount of earthwork is sufficient to carry the fixed cost plus the direct cost of the bulldozer operation.
+Figure 1.1 Breakeven Example for Excavation.
+If, on a set of coordinates, cost in dollars is plotted on the vertical axis and units of production on the horizontal axis, we can indicate fixed cost for any process by a horizontal line parallel to the x-axis. If variable cost per unit output is constant, then the total cost for any number of units of production will be the sum of the fixed cost and the variable cost multiplied by the number of units of production, or F + NV. If the cost data for two processes or methods, one of which has a higher variable cost, but lower fixed cost than the other are plotted on the same graph, the total cost lines will intersect at some point. At this point the levels of production and total cost are the same. This point is known as the "breakeven" point, since at this level one method is as economical as the other. Referring to Figure 1.1 the breakeven point at which quantity the bulldozer alternative and the manual labor alternative become equal is at 500 cubic meters. We could have
+found this same result algebraically by writing F + NV = F' + NV' where F and V are the fixed and variable costs for the manual method, and F' and V' are the corresponding values for the bulldozer method. Since all values are known except N, we can solve for N using the formula N = (F' - F) / (V - V')
+1.5 Minimum Cost Analyses
+A similar, but different problem is the determination of the point of minimum total cost. Instead of balancing two methods with different fixed and variable costs, the aim is to bring the sum of two costs to a minimum. We will assume a clearing crew of 20 men is clearing road right-of-way and the following facts are available:
+1. Men are paid at the rate of $0.40 per hour.
+2. Time is measured from the time of leaving camp to the time of return.
+3. Total walking time per man is increasing at the rate of 15 minutes per day.
+4. The cost to move the camp is $50.
+If the camp is moved each day, no time is lost walking, but the camp cost is $50 per day. If the camp is not moved, on the second day 15 crew-minutes are lost or $2.00. On the third day, the total walking time has increased 30 minutes, the fourth day, 45 minutes, and so on. How often should the camp be moved assuming all other things are equal? We could derive an algebraic expression using the sum of an arithmetic series if we wanted to solve this problem a number of times, but for demonstration purposes we can simply calculate the average total camp cost. The average total camp cost is the sum of the average daily cost of walking time plus the average daily cost of moving camp. If we moved camp each day, then average daily cost of walking time would be zero and the cost of moving camp would be $50.00. If we moved the camp every other day, the cost of walking time is $2.00 lost the second day, or an average of $1.00 per day. The average daily cost of moving camp is $50
+divided by 2 or $25.00. The average total camp cost is then $26.00. If we continued this process for various numbers of days the camp remains in location, we would obtain the results in Table 1.1.
+TABLE 1.1 Average daily total camp cost as the sum of the cost of walking time plus the cost of moving camp.
+Days camp remained in location
+Average daily cost of walking time
+Average daily cost of moving camp
+Average total camp cost
+We see the average daily cost of walking time increasing linearly and the average cost of moving camp decreasing as the number of days the camp remains in one location increases. The minimum cost is obtained for leaving the camp in location 7 days (Figure 1.2). This minimum cost point should only be used as a guideline as all other things are rarely equal. An important output of the analysis is the sensitivity of the total cost to deviations from the minimum cost point. In this example, the total cost changes slowly between 5 and 10 days. Often, other considerations which may be difficult to quantify will affect the decision. In Section 2, we discuss balancing road costs against skidding costs. Sometimes roads are spaced more closely together than that indicated by the point of minimum total cost if excess road construction capacity is available. In this case the goal may be to reduce the risk of disrupting skidding production because of poor weather or equipment
+availability. Alternatively, we may choose to space roads farther apart to reduce environmental impacts. Due to the usually flat nature of the total cost curve, the increase in total cost is often small over a wide range of road spacings.
+Figure 1.2 Costs for Camp Location Example.
+<section>4</section>
+2. UNIT COST AND COST EQUATIONS
+2.1 Introduction
+2.2 Example of Cost Equations
+2.3 Applications of Cost Equations
+2.1 Introduction
+The use of breakeven and minimum-cost-point formulas require the collection of unit costs. Unit costs can be divided into subunits, each of which measures the cost of a certain part of the total. A typical unit cost formula might be
+X = a + b + c
+where X is the cost per unit volume such as dollars per cubic meter and the subunits a, b, c will deal with distance, volume, area, or weight. Careful selection of the subunits to express the factors controlling costs is the key to success in all cost studies.
+2.2 Example of Cost Equations
+Let us suppose the cost of harvesting from felling to loading on trucks is being studied. If X is the cost per cubic meter of wood loaded on the truck, we could represent the total cost per unit as
+X = A + B + Q + L
+where A would be the cost per unit of felling, B the cost of bucking, Q the cost of skidding, and L the cost of loading.
+To determine the cost per subunit for felling, bucking, skidding, and loading, the factors which determine production and cost must be specified. Functional forms for production in road construction and harvesting are discussed in Sections 4 and 5. Examples for felling and skidding follow.
+For felling, tree diameter may be an important explanatory variable. For a given felling method, the time required to fell the tree might be expressed as
+T = a + b D^2
+where T is the time to fell the tree, b is the felling time required per cm of diameter, D is the tree diameter and "a" represents the felling time not explained by tree diameter-such as for walking between trees. The production rate is equal to the tree volume divided by the time per tree. The unit cost of felling is equal to the cost per hour of the felling operation divided by the hourly production or
+A = C/P = C/(V/T) = C (a + B D^2)/V
+where C is the cost per hour for the felling method being used, P is the production per hour, V is the volume per tree, and T is the time per tree. The hourly cost of operation is referred to as the machine rate and is the combined cost of labor and equipment required for production. (Machine rates are discussed in Section 3.)
+EXAMPLE:
+Determine the felling unit cost for a 60 cm tree if the cost per hour of a man with power saw is $5.00, the tree volume is 3 cubic meters, and the time to fell the tree is 3 minutes plus 0.005 times the square of the diameter.
+T = 3 + .005 (60) (60) = 21 min = .35 hr
+P = V/T = 3.0/.35 = 8.57 m^3/hr
+A = C/P = 5.00/8.57 = $0.58/m^3
+In skidding, for example, if logs were being skidded directly to a road (Figure 2.1), then the distance skidded is an important factor and the stump to truck unit cost might be written as
+X = A + B + Q + L
+X = A + B + F + C(D/2) + L
+where the skidding subunit Q has been replaced by symbol F representing fixed costs of skidding such as hooking, unhooking and decking and C(D/2) represents that part of the skidding cost that varies with distance. C is the cost of skidding a unit distance such as one meter and D/2 represents the average skidding distance in similar units. It is important to note that the average skidding cost occurs at the average skidding distance only when the skidding cost, C does not vary with distance. If C varies with distance, as for example, with animal skidding where the animal can become increasingly tired with distance, the average skidding cost does not occur at the average skidding distance and substantial errors in unit cost calculations can occur if the average skidding distance is used.
+If logs were being skidded to a series of secondary roads (Figure 2.1) running into a primary road, then the expression C(D/2) would be replaced by the expression C(S/4) and the cost of truck haul on the secondary roads would appear as a separate item. In the expression C(S/4), the symbol S represents the spacing of the secondary roads and the distance S/4 is the average skidding distance if skidding could take place in both directions. Therefore, the expression C(S/4) would define the variable skidding cost in terms of spacing of the secondary roads.
+Figure 2.1 Nomenclature for 2-way Skidding to Continuous Landings Among Spur Roads.
+A formula for the cost of logs on trucks at the primary road under these circumstances would be
+X = A + B + F + C(S/4) + L + H(D/2)
+where D/2 is the average hauling distance along the secondary road and H is the variable cost of hauling per unit distance.
+The formula can be extended still further to include the cost of the secondary road system by defining the road construction cost per meter R, and the volume per square meter, V. Then, the formula becomes
+X = A + B + F + C(S/4) + L + H(D/2) + R/(VS)
+2.3 Applications of Cost Equations
+In the preceding equation, we have a situation where as the spacing between skidding roads increases, skidding unit costs increase, while road unit costs decrease. With the total cost equation, we can look at the cost tradeoffs between skidding distance and road spacing. Calculus can be used to derive the formula for road spacing which minimizes costs as follows:
+dX/dS = C/4 - R/(VS^2) = 0
+or
+S = (4R/CV)^.5
+An alternative method is to compare total costs for various road spacings. The total cost method has become less laborious with the use of programmable calculators and microcomputers. It provides information on the sensitivity of total unit cost to road spacing without having to evaluate the derivative of the cost function.
+EXAMPLE:
+Given the following table of unit costs, what is the effect of alternative spur road spacings on the total cost of wood delivered to the main road if 50 m^3 per hectare is being cut and the average length of the spur road is 2 km. The cost of spur roads includes landings.
+TABLE 2.1 Table of costs by activity for the road spacing example.
+Activity
+Unit
+Cost
+Fell
+$/m^3
+Buck
+$/m^3
+Skid
+$/m^3
+2.00 (fixed cost)
+Skid
+$/m^3-km
+2.50 (variable cost)
+Load
+$/m^3
+Transport
+$/m^3-km
+Roads
+$/km
+Since only the skidding costs and spur road costs are affected by the road spacing, the total unit cost can be expressed as
+X = A + B + F + C(S/4) + L + H(D/2) + R/(VS)
+X + 0.50 + 0.20 + 2.00 + C(S/4) + 0.80 + .15 (1) + R/(VS)
+X = 3.65 + C(S/4) + R/(VS)
+To evaluate different road spacings, we vary the spur road spacing S and calculate the total unit costs (Table 2.2). It is important to use dimensionally consistent units. That is, if the left side of the equation is in $/m^3, the right side of the equation must be in $/m^3. This is most easily done if all volumes, costs and distances are expressed in meters; such as volume cut per m^2, skidding cost per m^3 per meter, and road cost per meter. For example, the total cost for a spur road spacing of 200 meters is 3.65 + (2.5/1000) (200/4) + (2000/1000)/[(50/10000) (200)] or $5.78 per m^3.
+TABLE 2.2 Total unit cost as a function of road spacing.
+Spur Road Spacing, m
+Total Unit Cost, $/m^3
+The road spacing which minimized total cost could be interpolated from the table or calculated from the formula
+S = (4R/CV) ^.5
+S = 800 m.
+When costs have been collected in a form which permits unit costs to be developed from them, not only is it possible to predict costs, it is also possible to adjust conditions so that minimum cost can be achieved. Too often, recorded costs are only "experience figures". They are usually made available in a form which can be used to predict costs only under conditions that closely conform to those existing where and when the recorded costs were collected. This is not true of unit costs, which can be fitted into the framework of many different harvesting situations and can be made to tell the story of the future as well as that of the past.
+A wide range of cost control formulas can be derived. Typical problems include:
+1. The economic location of roads and landings. - The calculation of the optimal spacing between spur roads and landings subject to one-way skidding, two-way skidding, skidding on slopes, linear and nonlinear skidding cost functions.
+2. The economic service standard for roads. - The comparison of the benefits of lower haul costs and road maintenance costs as a function of increased initial investment. The calculation of the optimal length of swing roads as a function of the tributary volume.
+3. The economic selection of equipment for road systems fixed by topography or other factors. - The identification of the breakeven points between alternative skidding methods which have different fixed and variable operating costs.
+4. The economic spacing of roads which will be served by two types of skidding machines. - For example, machines used to skid sawtimber and to relog for fuelwood.
+5. The economic spacing of roads which will be reused in future time periods.
+Another important application of unit costs is in choosing between alternative harvesting systems.
+EXAMPLE:
+A forest manager is developing an area and is trying to decide between harvesting methods. He has two choices of skidding systems (small or large), two choices of road standards (high or low), and two choices of trucks (small or large). If larger skidding equipment is selected to bring the logs to the landing, he can still choose to buck them into smaller logs on the landing. We assume that bucking on the landing will not affect log quality or yield.
+The managers staff has developed the relevant unit costs, which are summarized in Table 2.3 and Table 2.4. What should he do?
+TABLE 2.3 Unit costs for options of using small equipment and large equipment.
+Small Equipment
+$/m^3
+Large Equipment
+$/m^3
+Fall, buck
+Skid
+Load
+Transport
+Unload
+Process
+1/See Table 2.4 for transport costs as a function of road standard. Wood for large system could be bucked on landing for $0.15/m^3 and loaded on small trucks.
+2/Large logs must be bucked at mill.
+TABLE 2.4 Unit costs for road and transport options using small and large equipment.
+Small Equipment
+$/m^3
+Large Equipment
+$/m^3
+Road
+High Standard
+Low Standard
+Transport
+High Standard
+Low Standard
+These choices can be viewed as a network (Figure 2.2). You can verify that the least cost path is obtained by using the larger skidding equipment and trucks and constructing the higher standard road. The total unit cost will be $8.50 per m^3. A key point is the ease at which these problems can be analyzed, once the unit costs have been derived. In turn, the derivation of the unit costs is facilitated by having machine rates available (Section 3).
+Figure 2.2 Network Diagram for Equipment Choice
+<section>5</section>
+3. CALCULATION OF MACHINE RATES
+3.1 Introduction
+3.2 Classification of Costs
+3.3 Definitions
+3.4 Fixed Costs
+3.5 Operating Costs
+3.6 Labor Costs
+3.7 Variable Effort Cycles
+3.8 Animal Rates
+3.9 Examples
+3.1 Introduction
+The unit cost of logging or road construction is essentially derived by dividing cost by production. In its simplest case, if you rented a tractor with operator for $60 per hour - including all fuel and other costs - and you excavated 100 cubic meters per hour, your unit cost for excavation would be $0.60 per cubic meter. The hourly cost of the tractor with operator is called the machine rate. In cases where the machine and the elements of production are not rented, a calculation of the owning and operating costs is necessary to derive the machine rate. The objective in developing a machine rate should be to arrive at a figure that, as nearly as possible, represents the cost of the work done under the operating conditions encountered and the accounting system in use. Most manufacturers of machinery supply data for the cost of owning and operating their equipment that will serve as the basis of machine rates. However, such data usually need modification to meet specific
+conditions of operation, and many owners of equipment will prefer to prepare their own rates.
+3.2 Classification of Costs
+The machine rate is usually, but not always, divided into fixed costs, operating costs, and labor costs. For certain cash flow analyses only items which represent a cash flow are included. Certain fixed costs, including depreciation and sometimes interest charges, are omitted if they do not represent a cash payment. In this manual, all fixed costs discussed below are included. For some analyses, labor costs are not included in the machine rate. Instead, fixed and operating costs are calculated. Labor costs are then added separately. This is sometimes done in situations where the labor associated with the equipment works a different number of hours from the equipment. In this paper, labor is included in the calculation of the machine rate.
+3.2.1 Fixed Costs
+Fixed costs are those which can be predetermined as accumulating with the passage of time, rather than with the rate of work (Figure 3.1). They do not stop when the work stops and must be spread over the hours of work during the year. Commonly included in fixed costs are equipment depreciation, interest on investment, taxes, and storage, and insurance.
+3.2.2 Operating Costs
+Operating costs vary directly with the rate of work (Figure 3.1). These costs include the costs of fuel, lubricants, tires, equipment maintenance and repairs.
+Figure 3.1 Equipment Cost Model.
+3.2.3 Labor Costs
+Labor costs are those costs associated with employing labor including direct wages, food contributions, transport, and social costs, including payments for health and retirement. The cost of supervision may also be spread over the labor costs.
+The machine rate is the sum of the fixed plus operating plus labor costs. The division of costs in these classifications is arbitrary although accounting rules suggest a rigid classification. The key point is to separate the costs in such a way as to make the most sense in explaining the cost of operating the men and equipment. For example, if a major determinant of equipment salvage value is the rate of obsolescence such as in the computer industry, the depreciation cost is largely dependent on the passage of time, not the hours worked. For a truck, tractor, or power saw, a major determinant may be the actual hours of equipment use. The tractor's life could be viewed as the sand in an hour glass which is only permitted to flow during the hours the equipment is working.
+3.3 Definitions
+3.3.1 Purchase Price (P)
+This is the actual equipment purchase cost including the standard attachments, optional attachments, sales taxes, and delivery costs. Prices are usually quoted at the factory or delivered at the site. The factory price applies if the buyer takes title to the equipment at the factory and is responsible for shipment. On the other hand, delivered price applies if the buyer takes title to the equipment after it is delivered. The delivered price usually includes freight, packing, and insurance. Other costs such as for installation should be included in the initial investment cost. Special attachments may sometimes have a separate machine rate if their lives differ from the main equipment and form an important part of the equipment cost.
+3.3.2 Economic Life (N)
+This is the period over which the equipment can operate at an acceptable operating cost and productivity. The economic life is generally measured in terms of years, hours, or in the case of trucks and trailers in terms of kilometers. It depends upon a variety of factors, including physical deterioration, technological obsolescence or changing economic conditions. Physical deterioration can arise from factors such as corrosion, chemical decomposition, or by wear and tear due to abrasion, shock and impact. These may result from normal and proper usage, abusive and improper usage, age, inadequate or lack of maintenance, or severe environmental conditions. Changing economic conditions such as fuel prices, tax investment incentives, and the rate of interest can also affect the economic life of equipment. Examples of ownership periods for some types of skidding and road construction equipment, based upon application and operating conditions, are shown in Table 3.1. Since the lives
+are given in terms of operating hours, the life in years is obtained by working backwards by defining the number of working days per year and the estimated number of working hours per day. For equipment that works very few hours per day, the derived equipment lives may be very long and local conditions should be checked for the reasonableness of the estimate.
+3.3.3 Salvage Value (S)
+This is defined as the price that equipment can be sold for at the time of its disposal. Used equipment rates vary widely throughout the world. However, in any given used equipment market, factors which have the greatest effect on resale or trade-in value are the number of hours on the machine at the time of resale or trade-in, the type of jobs and operating conditions under which it worked, and the physical condition of the machine. Whatever the variables, however, the decline in value is greater in the first year than the second, greater the second year than the third, etc. The shorter the work life of the machine, the higher the percentage of value lost in a year. In agricultural tractors for example, as a general rule 40 to 50 percent of the value of the machine will be lost in the first quarter of the machine's life and by the halfway point of lifetime, from 70 to 75 percent of the value will be lost. The salvage value is often estimated as 10 to 20 percent of the
+initial purchase price.
+3.4 Fixed Costs
+3.4.1 Depreciation
+The objective of the depreciation charge is to recognize the decline of value of the machine as it is working at a specific task. This may differ from the accountant's depreciation schedule-which is chosen to maximize profit through the advantages of various types of tax laws and follows accounting convention. A common example of this difference is seen where equipment is still working many years after it was "written off" or has zero "book value".
+Depreciation schedules vary from the simplest approach, which is a straight line decline in value, to more sophisticated techniques which recognize the changing rate of value loss over time. The formula for the annual depreciation charge using the assumption of straight line decline in value is
+D = (P' - S)/N
+where P' is the initial purchase price less the cost of tires, wire rope, or other parts which are subjected to the greatest rate of wear and can be easily replaced without effect upon the general mechanical condition of the machine.
+Table 3.1.a - Guide for selecting ownership period based on application and operating conditions.^1/
+ZONE A
+ZONE B
+ZONE C
+TRACK-TYPE TRACTORS
+Pulling scrapers, most agricultural drawbar, stockpile, coalpile and landfill work. No impact. Intermittent full throttle operation.
+Production dozing in clays, sands, gravels. Pushloading scrapers, borrow pit ripping, most landclearing and skidding applications. Medium impact conditions.
+Heavy rock ripping. Tandem ripping. Pushloading and dozing in hard rock. Work on rock surfaces. Continuous high impact conditions.
+Small
+12,000 Hr
+10,000 Hr
+8,000 Hr
+Large
+22,000 Hr
+18,000 Hr
+15,000 Hr
+MOTORGRADERS
+Light road maintenance. Finishing. Plant and road mix work. Light snowplowing. Large amounts of traveling.
+Haul road maintenance. Road construction, ditching. Loose fill spreading. Landforming, land-leveling. Summer road maintenance with medium to heavy winter snow removal. Elevating grader use.
+Maintenance of hard pack roads with embedded rock. Heavy fill spreading. Ripping-scarifying of asphalt or concrete. Continuous high load factor. High impact.
+20,000 Hr
+15,000 Hr
+12,000 Hr
+EXCAVATORS
+Shallow depth utility construction where excavator sets pipe and digs only 3 or 4 hours/shift. Free flowing, low density material and little or no impact. Most scrap handling arrangements.
+Mass excavation or trenching where machine digs all the time in natural bed clay soils. Some traveling and steady, full throttle operation. Most log loading applications.
+Continuous trenching or truck loading in rock or shot rock soils. Large amount of travel over rough ground. Machine continuously working on rock floor with constant high load factor and high impact.
+12,000 Hr
+10,000 Hr
+8,000 Hr
+^1/Adapted from Caterpillar Performance Handbook, Caterpillar Inc.
+Table 3.1.b - Guide for selecting ownership period based on application and operating conditions.^1/
+ZONE A
+ZONE B
+ZONE C
+WHEEL SKIDDERS
+Intermittent skidding for short distances, no decking. Good underfoot conditions: level terrain, dry floor, few if any stumps.
+Continuous turning, steady skidding for medium distances with moderate decking. Good underfooting: dry floor with few stumps and gradual rolling terrain.
+Continuous turning, steady skidding for long distances with frequent decking. Poor underfloor conditions: wet floor, steep slopes and numerous stumps.
+12,000 Hr
+10,000 Hr
+8,000 Hr
+WHEEL TRACTOR SCRAPERS
+Level or favorable hauls on good haul roads. No impact. Easy-loading materials.
+Varying loading and haul road conditions. Long and short hauls. Adverse and favorable grades. Some impact. Typical road-building use on a variety of jobs.
+High impact condition, such as loading ripped rock. Overloading. Continuous high total resistance conditions. Rough haul roads.
+Small
+12,000 Hr
+10,000 Hr
+8,000 Hr
+Large
+16,000 Hr
+12,000 Hr
+8,000 Hr
+OFF HIGHWAY TRUCKS & TRACTORS
+Mine and quarry use with properly matched loading equipment. Well maintained haul roads. Also construction use under above conditions.
+Varying loading and haul road conditions. Typical road-building use on a variety of jobs.
+Consistently poor haul road conditions. Extreme overloading. Oversized loading equipment.
+25,000 Hr
+20,000 Hr
+15,000 Hr
+WHEEL TRACTORS & COMPACTORS
+Light utility work. Stockpile work. Pulling compactors. Dozing loose fill. No impact.
+Production dozing, pushloading in clays, sands, silts, loose gravels. Shovel cleanup. Compactor use.
+Production dozing in rock. Pushloading in rocky, bouldering borrow pits. High impact conditions.
+15,000 Hr
+12,000 Hr
+8,000 Hr
+^1/Adapted from Caterpillar Performance Handbook, Caterpillar Inc.
+Table 3.1.c - Guide for selecting ownership period based on application and operating conditions.^1/
+ZONE A
+ZONE B
+ZONE C
+WHEEL LOADERS
+Intermittent truck loading from stockpile, hopper charging on firm, smooth surfaces. Free flowing, low density materials. Utility work in governmental and industrial applications. Light snowplowing. Load and carry on good surface for short distances with no grades.
+Continuous truck loading from stockpile. Low to medium density materials in properly sized bucket. Hopper charging in low to medium rolling resistance. Loading from bank in good digging. Load and carry on poor surfaces and slight adverse grades.
+Loading shot rock (large loaders). Handling high density materials with counterweighted machine. Steady loading from very tight banks. Continuous work on rough or very soft surfaces. Load and carry in hard digging; travel longer distances on poor surfaces with adverse grades.
+Small
+12,000 Hr
+10,000 Hr
+8,000 Hr
+Large
+15,000 Hr
+12,000 Hr
+10,000 Hr
+TRACK-TYPE LOADERS
+Intermittent truck loading from stockpile. Minimum traveling, turning. Free flowing, low density materials with standard bucket. No impact.
+Bank excavation, intermittent ripping, basement digging of natural bed clays, sands, silts, gravels. Some traveling. Steady full throttle operation.
+Loading shot rock, cobbles, glacial till, caliche. Steel mill work. High density materials in standard bucket. Continuous work on rock surfaces. Large amount of ripping of tight, rocky materials. High impact condition.
+12,000 Hr
+10,000 Hr
+8,000 Hr
+^1/Adapted from Caterpillar Performance Handbook, Caterpillar Inc.
+3.4.2 Interest
+Interest is the cost of using funds over a period of time. Investment funds may be borrowed or taken from savings or equity. If borrowed, the interest rate is established by the lender and varies by locality and lending institution. If the money comes from savings, then opportunity cost or the rate this money would earn if invested elsewhere is used as the interest rate. The accounting practice of private firms may ignore interest on equipment on the ground that interest is a part of profits and, therefore, not a proper charge against operating equipment. Although this is sound from the point of view of the business as a whole, the exclusion of such charges may lead to the development of unrealistic comparative rates between machines of low and high initial cost. This may lead to erroneous decisions in the selection of equipment.
+Interest can be calculated by using one of two methods. The first method is to multiply the interest rate by the actual value of the remaining life of the equipment. The second simpler method is to multiply the interest rate times the average annual investment.
+For straight-line depreciation, the average annual investment, AAI, is calculated as
+AAI = (P - S) (N + 1)/(2N) + S
+Sometimes a factor of 0.6 times the delivered cost is used as an approximation of the average annual investment.
+3.4.3 Taxes
+Many equipment owners must pay property taxes or some type of usage tax on equipment. Taxes, like interest, can be calculated by either using the estimated tax rate multiplied by the actual value of the equipment or by multiplying the tax rate by the average annual investment.
+3.4.4 Insurance
+Most private equipment owners will have one or more insurance policies against damage, fire, and other destructive events. Public owners and some large owners may be self-insured. It could be argued that the cost of insurance is a real cost that reflects the risk to all owners and some allowance for destructive events should be allowed. Not anticipating the risk of destructive events is similar to not recognizing the risk of fire or insect damage in planning the returns from managing a forest. Insurance calculations are handled in the same way as interest and taxes.
+3.4.5 Storage and Protection
+Costs for equipment storage and off-duty protection are fixed costs, largely independent of the hours of use. Costs of storage and protection must be spread over the total hours of equipment use.
+3.5 Operating Costs
+Operating costs, unlike fixed costs, change in proportion to hours of operation or use. They depend upon a variety of factors, many of which are, to some extent, under the control of the operator or equipment owner.
+3.5.1 Maintenance and Repair
+This category includes everything from simple maintenance to the periodic overhaul of engine, transmission, clutch, brakes and other major equipment components, for which wear primarily occurs on a basis proportional to use. Operator use or abuse of equipment, the severity of the working conditions, maintenance and repair policies, and the basic equipment design and quality all affect maintenance and repair costs.
+The cost of periodically overhauling major components may be estimated from the owner's manual and the local cost of parts and labor, or by getting advice from the manufacturer. Another owner's experience with similar equipment and cost records under typical working conditions is a valuable source. If experienced owners or cost records are not available, the hourly maintenance and repair cost can be estimated as a percentage of hourly depreciation (Table 3.2).
+TABLE 3.2. Maintenance and repair rates as a percentage of the hourly depreciation for selected equipment.
+Machine
+Percentage Rate
+Crawler tractor
+Agricultural tractor
+Rubber-tired skidder with cable chokers
+Rubber-tired skidder with grapple
+Loader with cable grapple
+Loader with hydraulic grapple
+Power saw
+Feller-buncher
+3.5.2 Fuel
+The fuel consumption rate for a piece of equipment depends on the engine size, load factor, the condition of the equipment, operator's habit, environmental conditions, and the basic design of equipment.
+To determine the hourly fuel cost, the total fuel cost is divided by the productive time of the equipment. If fuel consumption records are not available, the following formula can be used to estimate liters of fuel used per machine hour,
+where LMPH is the liters used per machine hour, K is the kg of fuel used per brake hp/hour, GHP is the gross engine horsepower at governed engine rpm, LF is the load factor in percent, and KPL is the weight of fuel in kg/liter. Typical values are given in Table 3.3. The load factor is the ratio of the average horsepower used to gross horsepower available at the flywheel.
+TABLE 3.3. Weights, fuel consumption rates, and load factors for diesel and gasoline engines.
+Engine
+Weight
+(KPL)
+kg/liter
+Fuel Consumption
+(K)
+kg/brake hp-hour
+Load Factor
+(LF)
+Low
+Med
+High
+Gasoline
+Diesel
+3.5.3 Lubricants
+These include engine oil, transmission oil, final drive oil, grease and filters. The consumption rate varies with the type of equipment, environmental working condition (temperature), the design of the equipment and the level of maintenance. In the absence of local data, the lubricant consumption in liters per hour for skidders, tractors, and front-end loaders could be estimated as
+Q = .0006 × GHP (crankcase oil)
+Q = .0003 × GHP (transmission oil)
+Q = .0002 × GHP (final drives)
+Q = .0001 × GHP (hydraulic controls)
+These formulas include normal oil changes and no leaks. They should be increased 25 percent when operating in heavy dust, deep mud, or water. In machines with complex and high pressure hydraulic systems such as forwarders, processors, and harvesters, the consumption of hydraulic fluids can be much greater. Another rule of thumb is that lubricants and grease cost 5 to 10 percent of the cost of fuel.
+3.5.4 Tires
+Due to their shorter life, tires are considered an operating cost. Tire cost is affected by the operator's habits, vehicle speed, surface conditions, wheel position, loadings, relative amount of time spent on curves, and grades. For off-highway equipment, if local experience is not available, the following categories for tire life based upon tire failure mode could be used as guidelines with tire life given in Table 3.4.
+In Zone A, almost all tires wear through to tread from abrasion before failure. In Zone B, most tires wear out - but some fail prematurely from rock cuts, rips, and non-repairable punctures. In Zone C, few if any tires wear through the tread before failure due to cuts.
+TABLE 3.4. Guidelines for tire life for off-highway equipment
+Equipment
+Tire Life, hours
+Zone A
+Zone B
+Zone C
+Motor graders
+Wheel scrapers
+Wheel loaders
+Skidders
+Trucks
+3.6 Labor Costs
+Labor costs include direct and indirect payments such as taxes, insurance payments, food, housing subsidy, etc. Labor costs need to be carefully considered when calculating machine rates since the hours the labor works often differs from the hours the associated equipment works. What is important is that the user define his convention and then to use it consistently. For example, in felling, the power saw rarely works more than 4 hours per day, even though the cutter may work 6 or more hours and may be paid for 8 hours, including travel. If felling production rates are based upon a six-hour working day, with two hours of travel, the machine rate for an operator with power saw should consider 4 hours power saw use and eight hours labor for six hours production.
+3.7 Variable Effort Cycles
+The concept that men or equipment work at constant rates is an abstraction that facilitates measurements, record keeping, payments and analysis. However, there are some work cycles which require such variable effort that it is more useful to construct machine rates for parts of the cycle. One important case is the calculation of the machine rate for a truck. When a log truck is waiting to be loaded, is being loaded, and is being unloaded, its fuel consumption, tire wear, and other running costs are not being incurred. Or, if these costs are incurred, they are at a much reduced rate. For the standing truck, a different machine rate is often constructed using only the fixed cost and the labor cost for this part of the cycle. Part or all of the truck depreciation may be included.
+If a single machine rate were used to estimate the unit cost for truck transport and this value was converted to a ton-km cost or $/m^3-km cost without removing the "fixed" cost of loading and unloading then the "variable" cost of transport would be overestimated. This could lead to erroneous results when choosing between road standards or haul routes.
+3.8 Animal Rates
+The calculation of the animal rate is similar to the machine rate, but the types of costs differ and merit additional discussion.
+3.8.1 Fixed Cost
+The fixed cost includes the investment cost of the animal or team, harness, yoke, cart, logging chains and any other investments with a life more than one year. Other fixed costs include the upkeep of the animals.
+The purchase price of the animal may include spare animals if the working conditions require that the animal receive rest more than overnight, such as every other day. To allow for the possibility of permanent injury, the animal purchase price may be increased to include extra animals. In other cases, accidents can be allowed for in the insurance premium. The salvage cost for the animal has the same definition as for a machine rate but in the case of the animal, the salvage value is often determined by its selling value for meat. Average annual investment, interest on investment, and any taxes or licenses are treated the same as for equipment. To find the total fixed costs for the animals, the fixed costs for the animal, cart, harness, and miscellaneous investments can be calculated separately since they usually have unequal length lives and the hourly costs added together.
+Animal support costs which do not vary directly with hours worked include pasture rental, food supplements, medicine, vaccinations, veterinarian services, shoes, ferrier services and any after-hours care such as feeding, washing or guarding. It could be argued that food and care requirements are related to hours worked and some part of these costs could be included in operating costs. Pasture area (ha/animal) can be estimated by dividing the animal consumption rate (kg/animal/month) by the forage production rate (kg/ha/month). Food supplements, medicine, vaccinations, and veterinarian schedules can be obtained from local sources such as agricultural extension agents.
+3.8.2 Operating Costs
+Operating costs include repair and maintenance costs for harnesses, carts, and miscellaneous equipment.
+3.8.3 Labor Costs
+The labor cost in the animal rate is for the animal driver (and any helpers). For full year operations it is calculated as the labor cost per year including social costs divided by the average number of working days or hours for the driver (and any helpers).
+3.9 Examples
+Examples of machine rates for a power saw, a tractor, a team of oxen, and a truck are in the following tables. Although the machine rates in Tables 3.5 to 3.8 share the same general format, there is flexibility to represent costs that are specific to the machine type, particularly in the calculation of the operating costs. For the power saw (Table 3.5), major operating expenses are identified with the chain, bar, and sprocket so they have been broken out separately. For the oxen (Table 3.7), the fixed costs have been divided into major cost components specific to maintaining animals, in addition to depreciation. For the truck (Table 3.8), costs have been divided in standing costs and traveling costs to differentiate between costs when the truck is standing by, being loaded, or unloaded as compared to traveling costs.
+TABLE 3.5 Machine Rate Calculation for a Power Saw^1
+Machine:
+Description - McCulloch Pro Mac 650 Power Saw
+Motor cc
+Delivered Cost
+Life in hours
+Hours per year
+Fuel:
+Type
+Gas
+Price per liter
+Oper:
+Rate per day
+Social Costs
+Cost Component
+Cost/hour
+(a)
+Depreciation
+(b)
+Interest
+(c)
+Insurance
+(d)
+Taxes
+(e)
+Labor
+where f = social costs of labor as decimal
+SUB-TOTAL
+(f)
+Fuel
+= 0.86 l/hr × .95 × CL +0.86 l/hr × .05 × CO)
+where CL = cost of gas, CO = cost of oil
+(g)
+Lube oil for bar and chain = Fuel cons/2.5 × CO
+(h)
+Servicing and repairs = 1.0 × depreciation
+(i)
+Chain, bar, and sprocket
+(j)
+Other
+TOTAL
+^1 All costs are in US$.
+^2 Labor based on 240 days per year.
+^3 Add 0.04 if standby saw is purchased.
+TABLE 3.6 Machine Rate Calculation for a Tractor^1
+Machine:
+Description - CAT D-6D PS
+Gross hp
+Delivered cost
+Life in hrs
+Hrs per year
+Fuel:
+Type
+Diesel
+Price per liter
+Oper:
+Rate per day
+Social Costs
+Help:
+Rate per day
+Social Costs
+Cost Component
+Cost/hour
+(a)
+Depreciation
+(b)
+Interest
+(c)
+Insurance
+(d)
+Taxes
+(e)
+Labor
+where f = social costs of labor as decimal
+SUB-TOTAL
+(f)
+Fuel
+= .20 × GHP × LF × CL
+where
+GHP = gross engine horsepower
+CL = cost per liter for fuel
+LF = load factor (.54)
+(g)
+Oil and grease = 0.10 × fuel cost
+(h)
+Servicing and repairs = 1.0 × depreciation
+(i)
+Other (cable, misc)
+TOTAL
+^1 All costs are in US$.
+^2 With blade, ROPS, winch, integral arch.
+^3 Labor based upon 240 days per year.
+TABLE 3.7 Machine Rate Calculation for a Team of Oxen^1
+Description
+- Pair of oxen for skidding
+Gross hp
+Delivered cost
+Life in years
+Days per year
+Labor
+Rate per day
+Social Costs
+Cost Component
+Cost/day
+(a)
+Depreciation
+(b)
+Interest
+(c)
+Taxes
+(d)
+Pasture
+(e)
+Food supplements
+(f)
+Medicine and veterinary services
+(g)
+Driver
+where f = social costs of labor as decimal
+(h)
+After-hours feeding and care
+(i)
+Other (harness and chain)
+TOTAL
+^1 All costs are in US$.
+^2 Oxen sold for meat after 5 years.
+^3 Driver works with two pair of oxen, 250 day year.
+TABLE 3.8 Machine Rate Calculation for a Truck^1
+Machine:
+Description - Ford 8000 LTN
+Gross hp
+Delivered cost
+Life in hrs
+Hrs per year
+Fuel:
+Type
+Diesel
+Price per liter
+Tires:
+Size
+Type Radial
+Number 10
+Labor
+Rate per day
+Social Costs
+Cost Component
+Cost/hour
+(a)
+Depreciation
+(b)
+Interest
+(c)
+Insurance
+(d)
+Taxes
+(e)
+Labor
+where f = social costs of labor as decimal
+Standing Cost
+SUB-TOTAL
+(f)
+Fuel
+= .12 × GHP × CL
+where CL = cost per liter for fuel
+(g)
+Oil and grease = 0.10 × fuel cost
+(h)
+Servicing and repairs = 1.5 × depreciation
+(i)
+Tires =
+(j)
+Other (chains, tighteners)
+Traveling Cost
+TOTAL
+^1 All costs are in US$.
+^2 Labor is for 240 days plus 20% overtime
+<section>6</section>
+4. ESTIMATING ROAD CONSTRUCTION UNIT COSTS
+4.1 Introduction
+4.2 Surveying
+4.3 Clearing and Piling
+4.4 Earthwork
+4.5 Finish Grading
+4.6 Surfacing
+4.7 Drainage
+4.1 Introduction
+The unit cost of road construction in dollars per kilometer is the sum of the subunit costs of the road construction activities. Road construction unit costs are estimated by dividing the machine rates by the production rates for the various activities involved in road construction. The road construction activities considered here are surveying, clearing and grubbing, excavation, surfacing, and drainage.
+4.2 Surveying
+Surveying and staking costs vary considerably depending on type and size of the job, access, terrain, and job location. One method of estimating production is to estimate the number of stakes which can be set per hour and the number of stakes which must be set per kilometer. For example, assume about 15 stakes can be set per hour with a two-man crew with the preliminary survey line already in place. A typical five-point section consists of two reference stakes, two slope stakes, and one final centerline stake.
+The surveying production rate in km per hour is equal to the number of stakes the crew sets per hour divided by the number of stakes required per km.
+Example:
+A survey crew is setting 300 stakes per km at a rate of 15 stakes per hour. The cost of a survey crew including transport is $10 per hr.
+P = 15/300 = .05 km/hr
+UC = 10/.05 = $200/km
+4.3 Clearing and Piling
+The clearing and piling cost can be calculated by estimating the number of hectares of right-of way to be cleared and piled per kilometer of road. The clearing and piling production rate in km/hr is the hectares per hour which can be cleared and piled per hour divided by the number of hectares per km to be cleared and piled. Clearing can be accomplished in a number of ways, including men with axes or power saws. Merchantable logs may be removed by skidder or tractor and the remainder piled by tractor for burning or decay. Felling rates and skidding rates for logging can be used for determining the cost of the removal of merchantable logs.
+On gentle terrain, if a wide right-of-way is being cleared to permit sunlight to dry the road surface after frequent rains, the project might be estimated as a land clearing project. A method for estimating the total time per hectare required to clear, grub, and pile on gentle terrain with a tractor and shearing blade is shown below. Additional details can be found in the Caterpillar Performance Handbook No. 21, Caterpillar, Inc.
+4.3.1 Mechanized Clearing
+The clearing time will depend upon the size of tractor and the number and size of the trees. The clearing time, Tc, in machine hours per hectare is
+Tc = (X/60) (AB + M[1]N[1] + M[2]N[2] + M[3]N[3] + M[4]N[4] + DF)
+where X is the hardwood density factor, A is the vine density factor, B is the base minutes per hectare, M is the minutes per tree in each diameter range, N is the number of trees per hectare in each diameter range, D is the sum of the diameters of all trees per hectare larger than 180 cm, and F is the minutes per cm of diameter to cut trees with diameters greater than 180 cm.
+TABLE 4.1. Production factors for felling with Rome KG blade.
+Tractor
+Factors
+Diameter Range, cm
+Min per cm of diameter for trees
+GHP
+> 180 cm
+B
+M[1]
+M[2]
+M[3]
+M[4]
+F
+X = 1.3 if the percentage of hardwoods > 75 and X = 0.7 if percentage of hardwood is < 25, X = 1 otherwise.
+A = 2.0 if number of trees/ha > 1500 and A = 0.7 if number of trees/ha < 1000, A = 1.0 otherwise. Increase value of A by 1.0 if there are heavy vines, and by 2.0 for very heavy vines.
+For hectares which must be cleared and where stumps must be removed (grubbed), multiply the total time for clearing by a factor of 1.25.
+4.3.2 Mechanized Piling
+To compute piling time, when a rake or angled shearing blade is used, an equation to calculate the piling time per hectare, Tp, is
+Tp = (1/60) (B + M[1]N[1] + M[2]N[2] + M[3]N[3] + M[4]N[4] + DF)
+where the variables are defined as above. Table 4.2 shows the coefficients for piling when stumps have not been removed.
+TABLE 4.2. Production factors for piling in windrows.
+Tractor
+Factors
+Diameter Range, cm
+Min per cm of diameter for trees
+GHP
+> 180 cm
+B
+M[1]
+M[2]
+M[3]
+M[4]
+F
+When piling is to include piling of stumps, increase the total piling time by 25 percent.
+EXAMPLE:
+Five hectares per km of right-of-way in hardwoods are being cleared for a road (extra width is being used to help the road dry after rains). Of the five hectares, 1.2 hectares per km will need to have the stumps removed. Tractor machine rate is $80 per hour. All material will be piled for burning. Work is being done by a 335 HP bulldozer. The average number of trees per hectare less than 180 cm diameter are in Table 4.3. There is also one tree per hectare with a diameter of approximately 185 cm.
+TABLE 4.3 Data for clearing, grubbing and piling example.
+Number of trees
+Diameter Range, cm
+Sum of tree diameters for trees
+<30 cm
+> 180 cm
+N[1]
+N[2]
+N[3]
+N[4]
+D
+Tc = (X/60) (AB + M[1]N[1] + M[2]N[2] + M[3]N[3] + M[4]N[4] + DF)
+Tc = (1.3/60) [(1) (45) + (.2) (35) + (1.3) (6) + (2.2) (6) + (6) (4) + (185) (0.06)] = 2.34 hr/ha
+Tp = (1/60) (B + M[1]N[1] + M[2]N[2] + M[3]N[3] + M[4]N[4] + DF)
+Tp = (1/60) [111 + (.1) (35) + (.5) (6) + (1.8) (6) + (3.6) (4) + (185) (0.03) ] = 2.47 hr/ha
+Total tractor time/km = 3.8 (2.34 + 2.47) + 1.2(1.25) (2.34 + 2.47) = 25.5 hr/km
+P = 1/25.5 = .039 km/hr
+UC = 80 × 25.5 = $ 2039/km
+4.4 Earthwork
+The earthwork cost is calculated by estimating the number of cubic meters of common material and rock which must be moved to construct the road. The earthwork production rate is calculated as the cubic meters per hour which can be excavated and placed divided by the number of cubic meters per km to be excavated.
+Road construction superintendents can often estimate the number of meters per hour that their equipment can build road based upon local experience after looking at the topography. The engineer's method is to calculate the number of cubic meters to be excavated using formulas or tables for calculating earthwork quantities as a function of sideslope, road width, cut and fill slope ratios. Production rates for bulldozers and hydraulic excavators are available.
+For example, a 6.0 meter subgrade on a 30 percent slope with a 1.5:1 fill slope and 0.5:1 cut slope with a one foot ditch and a 20 percent shrinkage factor would be approximately 2100 bank cubic meters per km for a balanced section.
+An average production rate in common material (no rock) from an equipment performance handbook might be 150 bank cubic meters per hour for a 300 hp power-shift tractor with ripper. The tractor cost is $80/hr. The rate of excavation would be
+P = (150 m^3/hr)/(2100 m^3/km) = .07 km/hr
+UC = 80/.07 = $1143/km
+If the earthwork is not being placed or sidecast within 50 meters of the cut, the production rate for pushing the material to the placement location must be made. Scrapers or excavators and dump trucks may be used.
+Excavation rates in rock vary with the size of job, hardness of rock and other local conditions. Often there is a local market price for blasting. Estimates of blasting production can be made by knowing the size of equipment and the type of job. For example, a 10 cm track-mounted drill and 25 cubic meter per minute air-compressor may prepare 40 cubic meters per hour for small, shallow blasts and 140 cubic meters per hour for larger, deeper blasts including quarry development to produce rock surfacing. A major cost will be explosives. For example, 0.8 kg of explosive such as Tovex might be used per cubic meter of rock at a cost of approximately $2 per kg.
+4.5 Finish Grading
+Finish grading of the subgrade can be estimated by determining the number of passes a grader must make for a certain width subgrade and the speed of the grader. This number can be converted to the number of hours per hectare of subgrade. For example, a 120 hp grader may require about 10 hours of productive machine time without delays per hectare of subgrade or 0.1 hectares per hour. The production rate for final grading of a 6.0 meter subgrade would then be,
+P = (0.1 ha/hr)/(0.6 ha/km) = .17 km/hr
+If the grader cost is $30/hr, the unit cost of grading is
+UC = 30/.17 = $176/km
+Similarly, the rate of pulling ditches per kilometer can be estimated.
+4.6 Surfacing
+Surfacing costs are a function of the type of surfacing material, the quantity of surfacing material per square meter, and the length of haul. Local information is the best guide in constructing surfacing costs due to the wide range of conditions that can be encountered.
+Natural gravel from streams may require only loading with front-end loaders directly to dump trucks, transporting, spreading, and may or may not be compacted.
+Laterite may be ripped by crawler tractor, loaded by front-end loader, transported, spread and grid-rolled with a sheeps-foot roller to produce a sealed running surface.
+Rock may have to be blasted, loaded into one or more crusher(s), stockpiled, reloaded, transported, spread, and compacted.
+The costs for each of these operations can be developed by estimating the equipment production rates and machine rates.
+EXAMPLE:
+A relatively complex surfacing operation requires developing a 20,000 cubic meter solid rock source (26,400 cubic meters in the road prism) to surface 26.4 km of road including shooting and crushing rock, loading, transporting, and spreading rock as follows.
+To open up rock source, use data from clearing and common excavation:
+(a) To clear and excavate to rock:
+Equipment
+Machine Hours
+Machine Rate
+Cost
+Tractor
+Cost per cubic meter solid rock = $0.10
+(b) To drill and blast at a production rate of 140 cubic meters per hour
+Equipment
+Machine Hours
+Machine Rate
+Cost
+Drills
+Compressor
+Explosives
+0.8 kg × $2.0/kg × 140 m^3
+Cost per cubic meter solid rock = $2.42
+(c) To crush 225 tons per hour (2.6 tons/solid cubic meter):
+Equipment
+Machine Hours
+Machine Rate
+Cost
+Tractor
+Loader
+Crusher
+Stacker
+Generator
+Cost per cubic meter solid rock = $2.90
+(d) To load, transport, spread 20,000 cubic meters of rock.
+1 truck × 3 loads/hr × 20 tons/ld × m^3/2.6 ton = 23 m^3/hr
+If 4 trucks are used:
+Equipment
+Machine Hours
+Machine Rate
+Cost
+4 trucks
+Loader
+Tractor
+Grader
+Cost per cubic meter solid rock = $4.03
+The total unit cost of per cubic meter of rock spread on the road is
+Activity
+$/m^3
+solid
+$/m^3
+prism
+$/km
+Develop pit
+Drill and blast
+Crush
+Load, transport, and spread
+Equipment balancing plays an important role in obtaining the minimum cost per cubic meter for surfacing. In some areas, market prices for various types of surfacing may exist and tradeoffs between aggregate cost, aggregate quality, and hauling distance will have to be evaluated. Since surfacing is often expensive, a surveying crew is sometimes added to stake and monitor the surfacing operation.
+4.7 Drainage
+Drainage costs vary widely with the type of drainage being installed. The costs of drainage dips (water bars), culverts, and bridges are often expressed as a cost per lineal foot which can then be easily applied in road estimating. Local values for cost per lineal foot for culverts and different types of bridges are generally available. If not, constructed costs can be made by using time study data.
+EXAMPLE:
+A 45 cm culvert, 10 meters long, is being installed. Experience indicates that a small backhoe and operator, and two laborers can install 3 culverts per day. The culvert crew uses a flat-bed truck to transport themselves and the pipe each day.
+To install 3 culverts:
+Equipment
+Machine Hours
+Machine Rate
+Cost
+Backhoe
+Truck
+Pipe Cost
+30 meters × $15/meter
+Cost per lineal meter of culvert = $30.60 per meter
+Alternatively the cost could be stated as $306 per culvert or if there were an average of 4 culverts per km, then $1224 per km.
+<section>7</section>
+5. ESTIMATING LOGGING UNIT COSTS
+5.1 Introduction
+5.2 Felling and Bucking
+5.3 Skidding
+5.4 Loading
+5.5 Truck Transport
+5.6 Typical Stump to Mill Logging Systems
+5.1 Introduction
+Logging unit costs are estimated by dividing machine rates by the production rates for the various logging activities. Logging components considered here are felling, bucking, skidding, loading, and transport.
+5.2 Felling and Bucking
+The major variables in felling and bucking are the tree diameter and the number of bucking cuts after felling. An example of a formula for the time to fell and buck a tree is
+T = a + b D^2 + c B
+where T is the time per tree in minutes, b is the minutes per unit diameter and the D is the diameter, c is the time per bucking cut and B is the number of bucking cuts. The coefficient a is the time per tree that is not related to diameter such as walking between trees or preparing to cut. Sometimes terrain and brush are taken into account by using equations of the form
+T' = (1 + f) T
+where f is an adjustment factor for terrain or brush. The production rate, P, in cubic meters per hour is
+P = V/T
+where V is the volume per tree, m^3, and T is the time per tree, hr. The unit cost of felling is
+UC = C/P
+where C is the machine rate for felling and bucking and P is the production rate.
+EXAMPLE:
+A power saw and operator cost $5.00 per hour and the time to fall and buck a tree is
+T = 4.0 + .005 D^2 + 2.0 B
+For a tree with volume 6 m^3, dbh of 80 cm and 1 bucking cut
+T = 4.0 + .005 (80)(80) + 2.0 (1) = 38.0 min = 0.63 hr
+P = V/T = 6/0.63 = 9.5 m^3 per hr
+UC = 5/9.5 = $0.52 per m^3
+For a tree with volume 1.25 m^3, dbh of 40 cm and 1 bucking cut
+T = 4.0 + .005 (40) (40) + 2.0 (1) = 14.0 min = 0.23 hr
+P = V/T = 1.25/.23 = 5.4 m^3 per hr
+UC = 5/5.4 = $0.93 per m^3
+5.3 Skidding
+Skidding production is estimated by dividing the volume per load by the time per round trip. The round trip time, T, is the sum of the times for travel unloaded, hooking, travel loaded, and unhooking.
+T = a N + b[1] x[1] + b[2] x[2]
+where a is the combined time for hooking and unhooking per log, b[1] is the minutes per meter for unloaded travel, b[2] is the minutes per meter for loaded travel, x[1] is the distance from the landing to load pickup point and x[2] is the distance from the load pickup point to the landing. If the outhaul distance and inhaul distance are the same, the roundtrip time can be expressed as
+T = a N + b x
+where b is the minutes per roundtrip distance and x is the one-way distance. The coefficient b is calculated as
+where v[1] is the travel speed unloaded and v[2] is the travel speed loaded.
+EXAMPLE:
+A skidder is bringing in 3 logs with a volume of 4 m^3. The unloaded speed is 200 meters per minute and the loaded speed is 100 meters per minute. The hook time is 1.5 minutes per log and the unhook and decking time is 1.1 minutes per log. The skidding distance is 300 m. The machine rate for the skidder and crew is $40 per hour.
+T = (2.6) (3) + 300/200 + 300/100 = 12.3 min = .21 hr
+P = 4/.21 = 19.5 m^3 per hour
+UC = 40/19.5 = $2.05 per m^3
+alternatively,
+b = (200 + 100)/[(200) (100)] = .015 min/m
+T = (2.6) (3) + .015 (300) = 12.3 min
+The cost of hooking, unhooking and decking is
+UCF = (C/60) (aN)/V
+UCF = (40/60) (2.6) (3)/4 = $1.30 per m^3
+The cost per cubic meter of wood per unit distance (measured one-way), UCV, is
+UCV = (C/60) (b)/V
+UCV = (40/60) (.015)/4 = $0.0025/m^3-m
+At a skidding distance of 300 meters
+UC = UCF + UCV = 1.3 + (.0025) (300) = $2.05 per m^3
+The same method can be used to estimate the skidding costs with agricultural tractors and trailers, animals, or with cable systems.
+EXAMPLE:
+A team of oxen brings in one log with a volume of 0.8 m^3. The unloaded speed is 30 meters per minute and the loaded speed is 30 meters per minute. The hook time is 2 minutes and the unhooking and watering time is 5 minutes. The skidding distance is 100 meters. The rate for the oxen and driver is $3.00 per hour.
+T = (7) + 100/30 + 100/30 = 13.7 min = .23 hr
+P = .8/.23 = 3.48 m^3 per hour
+UC =3/3.48 = $0.86 per m^3
+5.4 Loading
+Loading production is estimated by dividing the volume per cycle by the minutes per cycle. The time per log for loading single logs is often as simple as
+T = a
+where a is the time per cycle.
+EXAMPLE:
+A truck is being loaded by hydraulic knuckleboom loader. It is loading 1.0 m^3 logs individually at an average rate of 2 per minute. To prepare for loading trucks, however, the loader spends 30 minutes per hour sorting logs. What is the loading production rate and cost?
+When the loader is actually loading logs, the production rate is
+P = (1.0)/.5 = 2.0 m^3/min = 120 m^3/hr
+but the loading production per machine hour is 60 m^3/hr.
+The cost of log sorting can either be shown as a reduced effective rate of log loading or as a separate subunit cost of the total logging unit cost. If the sorting cost is included in the loading cost, the unit cost of loading is then
+UC = 40/60 = $0.67 per m^3
+5.5 Truck Transport
+The method of estimating truck production depends upon the purpose of the analysis. If truck production is being calculated for the purpose of determining the number of trucks needed for truck haul, then the average truck load is divided by the total roundtrip time including unloaded travel time, loading time, loaded travel time, and unloading time. The calculation is similar to that for skidding with the roundtrip travel time, T expressed as
+T = a + b[1] x[1] + b[2] x[2]
+where a is the combined time for loading and unloading, b[1] is the hours per km for unloaded travel, b[2] is the hours per km for loaded travel, x[1] is the distance from the landing to load pickup point and x[2] is the distance from the load pickup point to the landing. If the outhaul distance and inhaul distance are the same, the roundtrip time can be expressed as
+T = a + b x
+where b is the hours per roundtrip km and x is the one-way distance. The coefficient b is calculated as
+where v[1] is the travel speed unloaded and v[2] is the travel speed loaded.
+EXAMPLE:
+A 22-ton truck carries an average of 30 m^3 per trip. The haul route is 35 km. The unloaded truck travels 40 km per hour and the loaded truck travels 25 km per hour. The combined waiting and loading time is 30 min per load and the combined waiting and unloading time is 20 min per load. The cost per truck standing hour is $20 and the cost per truck running hour is $30. What is the production per hour?
+T = (30 + 20)/60 + 35/40 + 35/25 = 3.11 hrs
+P = 30/3.1 = 9.65 m^3/hr
+The "fixed" unit cost of truck standby for loading and unloading is:
+UFC = ($20/hr) (30 + 20 min)/60 min/hr/30 m^3 = $0.56 per m^3
+The "variable" unit cost of truck travel is:
+UVC = ($30/hr) (35/40 hr + 35/25 hr)/30 m^3 = $2.28 per m^3
+or expressed on a ton-km basis:
+UVC = ($30/hr) (35/40 hr + 35/25 hr)/22 t/35 km = $.089 t-km
+The total unit cost of truck haul is:
+UC = UFC + UVC = 0.56 + 2.28 = 2.84 per m^3
+5.6 Typical Stump to Mill Logging Systems
+To illustrate the use of machine rates (Section 3) and the production relationships discussed in this section, stump to mill logging costs for three typical logging systems are shown. In each of these examples, the stump to mill or water harvesting activities are listed along with assumed machine rates and production data. The production data are then converted into production per hour with the conversion method depending on the form of the data. Unit costs for each activity and a stump to mill or water cost is calculated.
+5.6.1 Plantation Large Wood
+Assume clear felling of a pine plantation is being planned. An estimate is being made of the stump-to-mill harvesting costs for one possible alternative for the operation. The roads are already in place. The activities are:
+1. Fell, delimb, and cross cut with power saw.
+2. Skid to roadside using a rubber-tired skidder.
+3. Load truck trailer using a self-loading truck.
+4. Transport by truck to the mill.
+Machine rates (col 2) and production data (col 7) for this example are shown in Table 5.1. The machine rates for the various labor-equipment combinations of cutter with power saw, rubber-tired skidder with operator and helper, and truck driver with self-loading truck are developed using the techniques from Chapter 3. Production estimates are made from experience, available formulas or tables, or short time studies (Appendix B). A good source of felling, skidding and loading production for large plantation wood can be found in Planning Roads and Harvesting Systems by FAO, 1977.
+The formula used for the hourly production calculation (Table 5.2, col 8) depends upon the information available. On the following pages production calculations are shown for various harvesting activities. For the felling, delimbing and cross cutting:
+P = 4 trees/hr × 1.1 m^3 per tree = 4.4 m^3 per hour.
+For skidding the logs to the landing by rubber tired skidder:
+T = 5 + 200 m/(60 m/min) + 200 m/(100 m/min) = 10.33 min
+Assume we have observed about 10 min per hour are involved in unplanned delays so we can either increase the average time per trip to
+T = 10.33 min × (60/50) = 12.4 min per trip including delays
+or we can reduce the effective hour from 60 minutes per hour to 50 minutes per hour:
+P = 2.2 m^3/load × 50 min/10.33 min per trip = 10.6 m^3/hr
+For loading the truck trailers a short time study indicates the time per log is 30 sec with an average log size of 0.55 m^3. The loader only spends about 30 minutes per hour loading trucks and the remainder of the time decking and sorting logs. We have two choices here. We could reduce the loading rate to create a "sorting and loading production" rate or we could keep the two production rates separate. A combined sorting and loading rate is used in Table 5.1.
+P (loading only) = .55 m^3/log × 2 log/min × 60 min/hr = 66 m^3/hr
+P (sorting and loading) = 66 m^3/hr/2 = 33 m^3 per hr
+For truck transport to the mill yard:
+T (standing) = 45 min per trip = .75 hr
+P (standing) = 20 m^3/load/.75 hr = 26.7 m^3/hr
+T (traveling) = 25 km/20 km/hr + 25 km/25 km/hr = 2.25 hr
+P (traveling) = 20 m^3/load/2.25 hr = 8.9 m^3/hr
+After the machine rates and production rates have been derived, the individual unit costs can be calculated (Table 5.1, col 9). The stump-to-mill cost for this harvesting alternative is $9.58 per m^3. Road reconstruction or road maintenance costs should be added, if appropriate, using the techniques from Chapter 4.
+Table 5.1 Large Wood Plantation Harvesting Example
+Activity
+(2) Cost
+$/hr
+Inhaul Speed
+m/min
+Outhaul Speed
+m/min
+Load + Unload
+min/load
+Delay
+min/hr
+Production
+Data
+m^3/hr
+$/m^3
+Fell and cross cut
+4 trees/hr
+1.1 m^3/tree
+Skid
+200 m skid
+2.2 m^3/load
+Load
+2 logs/min
+.55 m^3/log
+Truck standing
+20 m^3/load
+Truck traveling
+20 km/h
+25 km/h
+20 m^3/load
+25 km/trip
+Total
+5.6.2 Plantation Small Wood
+Assume thinning of a young pine plantation is being planned. An estimate is being made of the stump-to-mill harvesting costs for one possible alternative for the operation. The roads are already in place. The activities are:
+1. Fell and cross cut with bowsaw.
+2. Delimb with axe.
+3. Skid to roadside using a hand-guided sulky.
+4. Manually load agricultural trailers.
+5. Forward by tractor to a transfer yard and unload using tilt-bed trailers.
+6. Load truck trailer using small hydraulic grapple.
+7. Transport by truck to the mill.
+Machine rates (col 2) and production data (col. 7) for this example are shown in Table 5.2. The machine rates for the various labor-equipment' combinations of cutter, worker with sulky, loader, tractor operator with tractor and trailer, operator with hydraulic loader, and driver with truck and trailer are developed using the techniques from Chapter 3. Production estimates are made from experience, available formulas or tables, or short time studies (Appendix B). A good source of felling, skidding and loading production rates for small plantation wood can be found in Harvesting Man-Made Forests in Developing Countries by FAO, 1976.
+The formula used for the hourly production calculation (Table 5.2, col. 8) depends upon the information available. The analyst must be flexible in the approach to converting the production data to production units per hour. Two of the production calculations are shown below.
+For the felling, delimbing and cross cutting:
+P = 5 trees × .1 m^3 per tree = 0.5 m^3 per hour.
+For the manual forwarding operation using the hand-guided sulky:
+T = 1 + 50 m/(10 m/min) + 50 m/(10 m/min) = 11.0 min/trip
+P = (45 min/hr)/(11 min/trip) × .1 m^3/trip = 0.41 m^3/hr
+Table 5.2 Small Wood Plantation Harvesting Example
+Activity
+Cost
+$/hr
+Inhaul Speed
+m/min
+Outhaul Speed
+m/min
+Load + Unload
+min/load
+Delay
+min/hr
+Production
+Data
+m^3/hr
+$/m^3
+Bowsaw fell axe delimb
+5 trees/hr
+.1 m^3/tree
+Manual sulky forward
+.1 m^3/load
+50 m skid
+Manual load
+30 logs/hr
+.033 m^3/log
+Tractor standing
+3 m^3/load
+Tractor traveling
+3 m^3/load
+1000 m forward
+Load truck
+8 load/hr
+3 m^3/load
+Truck standing
+15 m^3/load
+Truck traveling
+20 km/h
+25 km/h
+15 m^3/load
+25 km/trip
+Total
+5.6.3 Tropical High Forest
+Assume that selective harvest of tropical high forest is being planned. An estimate is being made of the stump-to-raft harvesting costs for one possible alternative for the operation. Costs for roads and unloading dock are not included. The activities are:
+1. Fell, delimb, and, cross-cut with power saw.
+2. Skid along low standard skid trails to the high standard skid trail using a crawler tractor and deck logs for later swinging by rubber-tired skidder to road side.
+3. Swing by rubber-tired skidder to road side and deck.
+4. Load by front-end loader on to truck-trailers.
+5. Transport by truck to water. Logs are unloaded by releasing the trailer stakes.
+Machine rates (col. 2) and production data (col. 7) for this example are shown in Table 5.3. The machine rates for the various labor-equipment combinations of cutter and helper with power saw, crawler tractor with operator and helper, rubber-tired skidder with operator and helper, front-end loader with helper, and truck driver with self-loading truck are developed using the techniques from Chapter 3. Production estimates are made from experience, available formulas or tables, or short time studies (Appendix B). A good source of felling, skidding, loading, and transport rates for tropical high forest can be found in Logging and Log Transport in Tropical High Forest by FAO, 1974.
+Assuming the various production data in Table 5.3 the details of converting data to hourly production rates are shown below.
+For the felling, delimbing and cross cutting we might use a formula adapted from production studies such as:
+P = 6 + .1 [DBH - 40 ] - N m^3 per hr.
+where DBH = the diameter at breast height (cm)
+N = number of cross cuts made
+If the average tree is 90 cm, has 8 m^3 of usable wood and requires 2 bucking cuts, the production per 60 min hour would be:
+P = 6 + .1 [90 - 40] - 2 = 9 m^3 per hour
+Adjusting for a 45 min effective hour we would have
+P = 9 × 45/60 = 6.75 m^3 per hour
+For breaking the logs out of their beds and skidding by crawler tractor to the main skid trail, the time is estimated as:
+T = 10 + 50 m/(40 m/min) + 50 m/(60 m/min) = 12.1 min
+Assume we have observed about 15 min per hour are involved in unplanned delays so we can either increase the average time per trip to
+T = 12.1 min × (60/45) = 16.1 min/trip
+including delays or we can reduce the effective from 60 minutes per hour to 45 minutes per hour:
+P = 4 m^3/load × 45 min/(12.1 min/trip) = 14.9 m^3/hr
+For hooking the logs and swinging by rubber-tired skidder, the time is estimated as:
+T = 3 + 500 m/(80 m/min) + 500 m/(100 m/min) = 14.25 min
+Assume we have observed about 10 min per hour are involved in unplanned delays, so we increase the average time per trip to
+T = 14.25 min × (60/50) =17.1 min per trip including delays.
+or we can reduce the effective from 60 minutes per hour to 50 minutes per hour:
+P = 4 m^3/load × 50 min/14.25 min per trip = 14.0 m^3/hr
+For loading the truck-trailers a short time study indicates the time per log is 2 minutes with an average log size of 4 m^3 and an estimated delay of 10 minutes per hour.
+P (loading) = 4 m^3/log × 1 log/2 min × 50 min/hr = 100 m^3/hr
+For transport by truck to the log dump we divide the trip into traveling time and standing time:
+T (standing) = 45 min per trip = .75 hr
+P (standing) = 30 m^3/load/.75 hr = 40.0 m^3/hr
+T (traveling) = 25 km/20 km/hr + 25 km/25 km/hr = 2.25 hr
+P (traveling) = 30 m^3/load/2.25 hr = 13.3 m^3/hr
+After the machine rates and production rates have been derived, the individual unit costs can be calculated (Table 5.3, col 9). The stump-to-water cost for this harvesting alternative is $12.17 per m^3. Skid trail, road, landing, log dump construction and road maintenance costs should be added, if appropriate, using the techniques from Chapter 4.
+Table 5.3 Tropical High Forest Harvesting Example
+Activity
+Cost
+$/hr
+Inhaul Speed
+m/min
+Outhaul Speed
+m/min
+Load + Unload
+min/load
+Delay
+min/hr
+Production
+Data
+m^3/hr
+$/m^3
+Fell and crosscut
+90 cm dbh
+8 m^3/tree
+Crawler tractor
+4 m^3/load
+50 m skid
+Rubber-tired skidder
+4 m^3/load
+500 m skid
+Front-end loader
+2 min/log
+4 m^3/log
+Truck standing
+30 m^3/load
+Truck traveling
+20 km/h
+25 km/h
+30 m^3/load
+25 km/trip
+Total
+<section>8</section>
+6. PACE - A COMPUTER PROGRAM FOR COST CALCULATIONS
+6.1 Introduction
+6.2 Starting PACE
+6.3 Machine Rate Calculations
+6.4 Road Construction Calculations
+6.5 Production and Unit Cost
+6.6 Sensitivity Analysis
+6.7 Installing the PACE Program
+6.1 Introduction
+The computer program, PACE (Production and Cost Evaluation), was developed to assist in calculating machine rates, road construction costs, and harvesting costs. It can be used to evaluate tradeoffs between road costs and harvesting costs. This section will describe the PACE program and can be used as a user guide. A computer disk with the PACE program for IBM PC/XT/AT and compatibles are provided with this manual. See Section 6.7 for installation instructions.
+PACE is divided into three parts: (1) machine rate calculations, (2) road construction calculations, and (3) harvesting production and unit cost calculations. Analysis begins with the preparation of machine rates for combinations of equipment and labor which will be used in road construction and harvesting. Next, road construction costs are developed using the machine rates from (1). And last, machine rates, road costs, and harvesting production rates are combined to develop production and unit cost estimates (Figure 6.1).
+Figure 6.1 Information flow for PACE program.
+PACE is easily learned through a tutorial example. The tutorial includes calculation of a machine rate, a road construction cost, and a harvesting production and cost estimate Copies of the computer monitor displays are included along with the formulas used to make the calculations.
+6.2 Starting PACE
+PACE consists of six programs linked together by an executive program with the main menu. Type PACE and press <enter>. The monitor will display the main menu (Figure 6.2). You are now ready to begin.
+Figure 6.2 PACE Master Menu.
+6.3 Machine Rate Calculations
+Let's begin by preparing a machine rate for an operator with a power saw. To reach the machine rate program menu (Figure 6.3), use the cursor control arrows to highlight the machine rate program, MAC-COST.EXE and press <enter>. The MAC-COST menu (Figure 6.3) will appear.
+Figure 6.3 Menu for MAC-COST program.
+Follow the key strokes below to enter the data and refer to the formulas in Table 6.1 to understand how PACE is making the calculation.
+Key stroke
+Explanation
+Branches to equipment ownership cost screen (Figure 6.4).
+Type in 550 and either press <enter> or press the down arrow key to enter the data and move to the next line.
+[continue with input as shown in Figure 6.4]
+<esc>
+Returns to the main menu of the machine cost program.
+Figure 6.4 Ownership Cost screen.
+Table 6.1 Machine Rate Ownership Cost Formulas
+Row
+Description
+Delivered equipment cost
+Line and rigging cost
+Tire or track replacement cost
+Residual value
+Equipment life
+Days equipment works per year
+Hours equipment works per day
+Interest rate
+Blank
+Tax, lic, insur, storage rate
+Depreciable value
+Annual depreciation
+Average annual investment
+Annual interest expense
+Annual cost tax, lic, insur, storage
+Annual ownership cost
+Annual hours utilization
+Hourly ownership cost
+Rows (1) - (10) are input data.
+Row (11) = Row (1) - Row (4)
+Row (12) = Row (11) / Row (5)
+Row (13) = [Row (1) - Row (4)] [Row (5) +1] / [2 * Row (5)] + Row (4)
+Row (14) = Row (8) * Row (13) / 100
+Row (15) = Row (10) * Row (13) / 100
+Row (16) = Row (12) + Row (14) + Row (15)
+Row (17) = Row (6) * Row (7)
+Row (18) = Row (16) / Row (17)
+Key stroke
+Explanation
+Selects the operating cost screen.
+Enter the operating costs as shown in Figure 6.5.
+[continue with input as shown in Figure 6.5]
+<esc>
+Returns to the main menu.
+Figure 6.5 Machine Operating Cost screen.
+Table 6.2 Machine Rate Operating Cost Formulas
+Row
+Description
+Repairs as % of equip depreciation
+Fuel consumption rate
+Fuel cost
+Lubricants as % of fuel consumption
+Cost of oil and lubricants
+Cost of lines
+Life of lines
+Cost of rigging
+Life of rigging
+Cost of tires or tracks
+Life of tires or tracks
+Hourly cost of repairs and maint
+Hourly cost of fuel
+Hourly cost of oil and lubricants
+Hourly cost of lines
+Hourly cost of rigging
+Hourly cost of tires or tracks
+Hourly total operating cost
+Rows (1) - (11) are input data.
+Row (12) = Row (1) * Row (12)^1 / Row (17)^1 / 100
+Row (13) = Row (2) / Row (3)
+Row (14) = Row (2) * Row (4) * Row (5) / 100
+Row (15) = Row (6) / Row (7)
+Row (16) = Row (8) / Row (9)
+Row (17) = Row (10) / Row (11)
+Row (18) = Row (12) + Row (13) + Row (14) + Row (15) + Row (16) + Row (17)
+^1 Refers to row numbers and values from table 6.1.
+Key stroke
+Explanation
+Selects the labor cost screen.
+Enter the labor costs as shown in Figure 6.6
+[continue with input as shown in Figure 6.6]
+<esc>
+Returns to the main menu.
+Figure 6.6 Labor Cost screen.
+Table 6.3 Machine Rate Labor Cost Formulas
+Row
+Description
+Base wage for 1st crew position
+Base wage for 2nd crew position
+Base wage for 3rd crew position
+Base wage for 4th crew position
+Base wage for 5th crew position
+Base wage for 6th crew position
+Fringe benefits
+Non-machine operating hours per day
+Machine operating hours per day
+Supervision as % of direct labor
+Total number of workers
+Hourly crew wage
+Hourly direct labor cost per machine operating hour
+Hourly supervision cost per machine operating hour
+Hourly total labor cost per machine operating hour
+Hourly operating cost (equip + labor) per machine operating hour
+Rows (1) - (10) are input data.
+Row (11) = Sum of workers
+Row (12) = Row (1) + Row (2) + Row (3) + Row (4) + Row (5) + Row (6)
+Row (13) = Row (12) * [ 1 + Row (7) / 100 ] * [ Row (8) + Row (9) ] / Row (9)
+Row (14) = Row (13) * Row (10) / 100
+Row (15) = Row (13) + Row (14)
+Row (16) = Row (15) + Row (18)^1
+^1 Refers to Row (18) from Table 6.2.
+Key stroke
+Explanation
+Selects the summary cost screen. This screen should appear as Figure 6.7.
+Displays the summary of the ownership, operating, and labor costs on the monitor. The equipment description appears at the top of the summary sheet. This was added using option 7 from Figure 6.3.
+<esc>
+Returns to main menu.
+Figure 6.7 Machine Rate Summary Cost screen.
+Key stroke
+Explanation
+Selects the save-data option.
+70CCSAW
+Enter file name. Name must not be more than 8 characters with no decimal point.
+<enter>
+Stores the information from screens 1, 2, 3, and 4 to the disk.
+We have now completed all information for the machine rate example. Let's try some other options.
+Displays all machine rate files which have been made with the MAC-COST program and stored on disk. This option is used to recall files.
+Note an extension .MAC has been assigned by the program for use in later file manipulations.
+To load a file, highlight the desired file using the cursor control arrows and press <enter>. The file will be loaded and the program returns to the main menu.
+Erases the information currently on the 1, 2, 3, and 4 screens.
+Returns to the executive program. (Figure 6.2)
+This completes the machine cost file preparation. Machine rates for trucks and animals are prepared similarly. The logic is identical with only slightly different questions being asked which are specific to the machine/labor combination being evaluated. Remember, the machine rates are the basic building blocks of any cost analysis and should represent the labor and cost combinations which you will use in later programs. A machine rate could a machine without crew, a machine with crew or a crew without machine. Typical applications might be a power saw with operator, a tractor with operator and helpers, a survey crew with pickup, etc.
+6.4 Road Construction Calculations
+To prepare a road construction cost estimate for a typical road section we use the CONST.EXE program. The objective of the Road Construction Program (CONST.EXE) is to allow you to develop road construction costs for typical sections of roads or typical road standards. The road costs can then be used in the UNIT.EXE program to develop stump-to-mill harvesting costs and to evaluate the sensitivity of harvesting costs to road spacing alternatives. The CONST.EXE program allows you to specify which equipment/labor combinations you will use for road construction and retrieves the files from your disk. You then estimate the production rates for the equipment/labor combinations for each road construction activity (Figure 6.8). An example follows.
+Figure 6.8 Menu for Road Construction program.
+Key stroke
+Explanation
+PACE
+Loads executive program. The screen output should look as Figure 6.2. This assumes that you have not yet loaded the program. If the executive program is still in memory, then skip this step and highlight the CONST.EXE program and press <enter>. The Road Construction Menu should appear as shown in Figure 6.8.
+R
+Branches to load machine rates for road construction calculations.
+Figure 6.9 Machine rates available for road construction.
+Key stroke
+Explanation
+H
+Switches to manual machine selection mode. You can identify a maximum of 12 machine rates. Use the cursor to highlight the desired machine rate file and press the space bar. You will see a "#" sign appear to the left of the file name to indicate it has been selected. Repeat until you have identified the 5 machine rate files shown in Figure 6.9. Then, press <return> to begin loading the files.
+Alternatively, you could automatically select the first 12 machine rate files on your data disk for use as machine/labor combinations for road construction by pressing [A].
+Next, select the road construction activity you want to evaluate. Let's start with surveying.
+Branches to the survey window. This should appear as Figure 6.10.
+Move the cursor to the equipment/labor combination you want and enter the production rate. The activity totals will appear in the lower box.
+<esc>
+Escape returns to the menu.
+Alternatively, you can press <pg dn> or <pg up> to move through the other construction activity screens.
+Repeat this procedure for road construction activities 2 through 7.
+Skip any activities you do not need.
+At any time you can view the road cost summary sheet by pressing <esc> to return to the menu and entering (8).
+An example of a summary screen is in Figure 6.11. If you move the cursor to highlight any activity, the equipment mix for that activity is indicated by arrows to the left of the appropriate equipment/labor combinations in the lower window.
+<esc>
+Returns to the main menu.
+Figure 6.10 Surveying screen.
+Key stroke
+Explanation
+Branches to the landings menu (Figure 6.12). The results from this menu do not appear in the road cost summary. The cost for landing construction however, will be used in the UNIT.EXE program. It is saved along with the road costs when you select the save mode.
+<esc>
+Returns to the main menu.
+Figure 6.11 Road construction cost summary screen.
+Key stroke
+Explanation
+S
+Selects the save data mode. The save data mode has three purposes. First, it provides data for Production and Unit Cost program (UNIT.EXE); second, it provides a way of updating road cost estimates, and third, it is an easy way to create costs for other road standards by modifying production rates in existing files.
+Y
+Indicates you want to continue with the save option. If you do not want to do this, press <N>.
+Low-std
+File name under which the data is to be saved.
+Figure 6.12 Landing construction cost menu.
+6.5 Production and Unit Cost
+Harvesting production and unit costs are calculated in the UNIT.EXE program. An example of the UNIT.EXE program follows using sample files from the disk.
+Key stroke
+Explanation
+PACE
+Loads executive program. The screen output should look as Figure 6.2. This assumes that you have not yet loaded the program. If the executive program is still in memory, then skip this step and select the UNIT.EXE program. (Figure 6.13)
+Figure 6.13 Unit cost program menu.
+Key stroke
+Explanation
+R
+Reads all machine rates and road costs on the disk. A maximum number of 40 machine rates and 10 road standard files (.RCS) which can be considered at one time.
+The machine rates to be used in calculating the felling, yarding, loading, transport, and the road cost are now entered. This is done in two steps: (1) use the tab key to highlight the harvesting activity and (2) use the cursor control arrows to highlight the appropriate machine rate or road construction rate and press <enter>. Select the machine rates and road standard shown in Figure 6.14.
+C
+Press <C> when you have completed selection of the machine files for the harvesting activities and the road file for the road standard.
+Figure 6.14 Machine rate and road standard selection
+Key stroke
+Explanation
+Selects the felling production and cost window (Figure 6.15).
+Note the machine costs already appear from the previous step. Complete the information by using the cursor arrow to identify the location, enter the data and then move the cursor to the next data entry location.
+Figure 6.15. Falling and bucking screen.
+Table 6.4 Falling and Bucking Screen Formulas
+Row
+Description
+Machine Cost (.MAC, .AML, or .TRK file)
+Machine minutes to fell and buck tree
+Volume per tree
+Delay time (minutes per hour that machine is working, but not doing planned work)
+5a
+Felling and bucking production per machine hour
+5b
+Ownership part of felling and bucking unit cost
+5c
+Operating part of felling and bucking unit cost
+5d
+Labor part of felling and bucking unit cost
+5e
+Total unit cost for felling and bucking
+Rows (1) - (4) are input data.
+Row (5a) = Row (3) * [ 60 - Row (4) ] / Row (2)
+Row (5b) = Row (18)^a / Row (5a)
+Row (5c) = Row (18)^b / Row (5a)
+Row (5d) = Row (15)^c / Row (5a)
+Row (5e) = Row (5b) + Row (5c) + Row (5d)
+^a Refers to Row (18) of Table 6.1
+^b Refers to Row (18) of Table 6.2
+^c Refers to Row (15) of Table 6.3
+Key stroke
+Explanation
+The hourly production adjusted for operating delays and unit costs are shown on the lower screen.
+<esc>
+Returns to menu or you can move to the next screen by using the <pg dn> key.
+Complete the skidding activity screen similarly using the test data in Figure 6.16.
+The skidding production and costs will not appear until after the road and landing data window has been completed because the road spacing information is needed and is not available at this point.
+Figure 6.16 Skidding screen.
+Table 6.5 Skidding Screen Formulas
+Row
+Description
+Machine cost (.MAC, .AML, or .TRK file)
+Move-in time (machine time landing to landing)
+Volume per cycle (trip)
+Outhaul velocity (empty)
+Lateral outhaul velocity
+Hook time
+Lateral inhaul velocity
+Inhaul velocity (loaded)
+Unhook time
+Delay time (machine time the equipment is involved in working delays, i.e. meter is running)
+Not applicable
+12a
+Skidding production per machine hour
+12b
+Ownership part of skidding unit cost
+12c
+Operating part of skidding unit cost
+12d
+Labor part of skidding unit cost
+12e
+Total unit cost for skidding
+Rows (1) - (10) are input data.
+Row (12a)^a = (Volume per landing) / (Trips × Effec Cycle Time / 60 + Move-in)
+Row (12b) = Row (18)^b / Row (12a)
+Row (12c) = Row (18)^c / Row (12a)
+Row (12d) = Row (15)^d / Row (12a)
+Row (12e) = Row (12b) + Row (12c) + Row (12d)
+^a Volume per landing calculated from information in the Roads / Landings screen. Trips is equal to volume per landing divided by volume per trip.
+^b Refers to Row (18) of Table 6.1
+^c Refers to Row (18) of Table 6.2
+^d Refers to Row (15) of Table 6.3
+L-shaped Skidding Pattern
+If Row (5) and Row (7) are not zero then calculations are for lateral skidding to a corridor, and then skidding along the corridor to the landing
+Cycle Time = [ K * D1 / Row (4) + .25 * D2 / Row (5) + Row (6) + K * D1 / Row (7) + .25 * D2 / Row (8) + Row (9) ] * W
+where
+K = 0.5 / Row (6) from Table 6.8
+D1 = Row (2) from Table 6.8
+D2 = Row (3) from Table 6.8
+W = Row (5) from Table 6.8
+Radial Skidding Pattern
+If Row (5) and Row (7) are zero then calculations are for radial skidding to a central landing. The average skidding distance is approximately,
+AYD = { .333 * SQR [ (F*D1) * (F*D1) + (D2) * (D2) ] + .333 * SQR [ (.5*F*D1) * (.5*F*D1) + (.5*D2) * (.5*D2) ] } * W
+where
+F = 1.0 / Row (6) from Table 6.8
+D1 = Row (2) from Table 6.8
+D2 = Row (3) from Table 6.8
+W = Row (5) from Table 6.8
+Cycle Time = AYD / Row (4) + Row (6) + AYD / Row (8) + Row (9)
+Effective Cycle Time = Cycle Time × 60 / [60 - Row (10)]
+Key stroke
+Explanation
+If lateral inhaul and lateral outhaul are left as zero the timber is assumed to be skidded to a central landing by the shortest path. This can be adjusted by using a weave factor in the Roads/Landing screen. Using the <pg dn> key, go to the roads/landing screen to look at the data needed.
+Complete the other screens shown in Figures 6.17 through 6.19.
+Figure 6.17 Loading screen.
+Table 6.6 Loading Screen Formulas
+Row
+Description
+Machine cost (.MAC, .AML, or .TRK file)
+Machine minutes per cycle
+Volume per grapple (or other) load
+Delay time (minutes per hour that machine is working, but not loading, i.e. sorting)
+Not applicable
+7a
+Loading production per machine hour
+7b
+Ownership part of loading unit cost
+7c
+Operating part of loading unit cost
+7d
+Labor part of loading unit cost
+7e
+Total unit cost for loading
+Rows (1) - (4) are input data.
+Row (7a) = Row (3) * [ 60 - Row (4) ] / Row (2)
+Row (7b) = Row (18)^a / Row (7a)
+Row (7c) = Row (18)^b / Row (7a)
+Row (7d) = Row (15)^c / Row (7a)
+Row (7e) = Row (7b) + Row (7c) + Row (7d)
+^a Refers to Row (18) of Table 6.1
+^b Refers to Row (18) of Table 6.2
+^c Refers to Row (15) of Table 6.3
+Key stroke
+Explanation
+<esc>
+Returns to the menu.
+S
+Selects the save mode if you want to keep the parameters and results of this analysis.
+Study-1
+Creates a file (Study-1 .UCD) for later recall using the (L) option.
+Q
+Quit. Returns to main menu.
+<esc>
+Leaves the PACE program.
+Figure 6.18 Truck Transport screen.
+Table 6.7 Truck Transport Screen Formulas
+Row
+Description
+Truck cost (.TRK file)
+Distance (one way)
+Volume per truck load
+Speed unloaded
+Loading time
+Speed loaded
+Unloading time
+Not applicable
+11a
+Truck transport per machine hour
+11b
+Ownership part of truck transport unit cost
+11c
+Operating part of truck transport unit cost
+11d
+Labor part of truck transport unit cost
+11e
+Total unit cost for truck transport
+Rows (1) - (7) are input data.
+Row (11a) = Row (3) * 60 / [Row (2) / Row (4) + Row (5) + Row (2) / Row (6) + Row (7)
+Row (11b) = Row (18)^a / Row (11a)
+Row (11c) = Row (18)^b { Row (3) * 60 / [Row (2) / Row (4) + Row (2) / Row (6) ] }
+Row (11d) = Row (15)^c / Row (11a)
+Row (11e) = Row (11b) + Row (11e) + Row (11d)
+^a Refers to Row (18) of Table 6.1
+^b Refers to Row (18) of Table 6.2
+^c Refers to Row (15) of Table 6.3
+6.6 Sensitivity Analysis
+The sensitivity of production and costs to changes in the skidding or road cost variables can be examined at any time by paging to the appropriate screen and changing the data. If the machine rate or road standard is changed in this way, the percentage in ownership, operating, and labor remains the same with the new rate. To change to a different machine rate or road file, return to the menu <esc> and read the new machine rate files (R). Then, use the cursor and tab keys as before. The UNIT.EXE program will read the new cost files and your other data will still be available. Remember to save your Unit Cost file before you exit the UNIT.EXE program.
+Figure 6.19 Roads and Landing screen.
+Table 6.8 Roads/Landings Screen Formulas
+Row
+Description
+Road cost (.RCS file)
+Road spacing
+Landing spacing
+Harvest removal per unit area
+Skidding weave factor
+One way or two way skidding factor
+Cost per landing
+Near optimal road spacing
+Near optimal landing spacing
+Not applicable
+15a
+Not applicable
+15b
+Ownership part of road unit cost
+15c
+Operating part of road unit cost
+15d
+Labor part of road unit cost
+15e
+Total unit cost for roads/landings
+Rows (1) - (7) are input data.
+Rows (8) and (9) are calculated using calculus and / or numerical approximation techniques beyond the scope of this manual. You can verify their goodness by substituting the values displayed in Row (8) and Row (9) into Row (2) and Row (3) and observing the change in TOTAL COST, Row (15e).
+Row (15b) = [ Row (1)^a * Row (3) / 1000 + Row (7) ] / [ Row (4) * Row (2) * Row (3) / 10000 ]
+Row (15c) = [ Row (1)^b * Row (3) / 1000 + Row (7) ] / [ Row (4) * Row (2) * Row (3) / 10000 ]
+Row (15d) = [ Row (1)^c * Row (3) / 1000 + Row (7) ] / [ Row (4) * Row (2) * Row (3) / 10000 ]
+Row (15e) = Row (15b) + Row (15c) + Row (15d)
+^a Ownership component of Row (1) from (.RCS) file.
+^b Operating component of Row (1) from (.RCS) file.
+^c Labor component of Row (1) from (.RCS) file.
+The near optimal road and landing spacing is shown on the Road/Landings screen (Figure 6.19). To find the cost associated with this road and landing spacing, enter the road spacing and landing spacing indicated. The results are shown in Figure 6.20. A reduction of $0.17 per cubic meter is achieved by reducing the road spacing to 459 m and the landing spacing to 250 meters. Although the road cost increases to $1.39 per cubic meter, the reduced skidding cost more than compensates for this increase.
+The UNIT.EXE program is not designed to have zero landing spacing. A default value of 10 meters is used. If you want to analyze continuous landings, the default value of 10 meters will not appreciably increase the skidding distance or affect the unit costs.
+Figure 6.20 Roads and Landing screen revised.
+6.7 Installing the PACE Program
+The PACE program is designed to reside in a directory of your hard disk. Create a subdirectory on your hard disk and copy the PACE program disk contents into it. Also copy any example data files into the same subdirectory as the PACE program.
+When the PACE program loads data files or saves data files, it will always do so to the subdirectory that the PACE program is in. The Delete Utility on the PACE Master Menu can be used to erase files that you no longer want.
+<section>9</section>
+7. ADVANCED APPLICATIONS OF PACE
+7.1 Introduction
+7.2 Shortcuts
+7.3 Combining Road Sections
+7.4 Combining Skidding Systems
+7.1 Introduction
+The standard applications of PACE were discussed in Chapter 6. Occasionally, you may want to model other situations. In this section we present several advanced applications of PACE. These applications will assist you in thinking up additional ways to model situations you are interested in studying.
+7.2 Shortcuts
+The PACE program is designed to build upon machine rates so that the analyst can trace back a harvesting cost-road cost analysis to the set of underlying assumptions. Occasionally you might want to get unit costs quickly without making a number of machine rate files and road cost files. In this situation, it may be useful to keep a .UCD file on your disk. You only need to build this file once and save it. When you recall this dummy file, it satisfies the input requirements for PACE. You can then change machine costs in the various screens. The only thing you need to remember is that PACE uses the proportions derived in the original machine rate files to divide any revised machine rates between ownership, operating, and labor costs. If all you are interested in is the total unit cost for any activity, it does not matter.
+7.3 Combining Road Sections
+Often the road from the landing to the mill may have two or more road standards or other factors which affect the travel speed of the truck. PACE only permits entry of one truck speed.
+If you want to calculate a truck transport cost which includes the total route you will need to derive the average loaded and average unloaded speed outside of PACE and use these average speeds in PACE. The example below shows how to do this for a road divided into three sections.
+The speed on section 1 is V1, on section 2 is V2 and on section is V3. The length of the sections are L1, L2, and L3 respectively.
+The average speed is calculated by dividing the total travel distance by the total travel time, or
+This calculation would be repeated for the loaded and unloaded direction.
+7.4 Combining Skidding Systems
+In some cases, PACE can be used to combine two skidding systems. The Unit Cost program can then be used to solve for the optimal skidding distance for each system simultaneously. For example, consider a situation where oxen are being used to skid along trails perpendicular to tractor skid trails, and the tractors swing the wood to truck roads. If we consider the oxen to be the "lateral skidding cycle" for the tractor skidding system we can model this system in PACE by deriving an equivalent lateral skidding speed and equivalent hook and unhook time which takes into account the difference in machine rates for the oxen relative to the tractor. The formulas for the equivalent skidding speed and equivalent hooking time are given below:
+where,
+V = equivalent speed for lateral yarding to be used in Skidding Screen with tractor machine rate in Row (1) and V in Row (5) or Row (7).
+C1 = machine rate for tractor
+L1 = load for tractor
+C2 = machine rate for oxen
+L2 = load for oxen
+V2 = speed for oxen
+and,
+T = equivalent hook or unhook time to be used in Skidding Screen with tractor machine rate in Row (1) and T in Row (6) or Row (9).
+T1 = hook or unhook time for tractor.
+T2 = hook or unhook time for oxen.
+Other skidding combinations which could be modeled in this way are (1) skidding by tractors and forwarding by rubber tired skidders and (2) manual forwarding and swinging by skyline.

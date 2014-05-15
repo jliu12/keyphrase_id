@@ -1,0 +1,767 @@
+<title>Irrigation Water Management: Irrigation Scheduling</title>
+<section>1</section>
+PREFACE
+This is one in a series of training manuals on subjects related to irrigation that will be Issued in the period from 1985 to 1990.
+The papers are intended for use by field assistants in agricultural extension services and irrigation technicians at the village and district levels who want to increase their ability to deal with farm-level irrigation issues.
+The papers contain material that is intended to provide support for irrigation training courses and to facilitate their conduct. Thus, taken together, they do not present a complete course in themselves, but Instructors may find it helpful to use those papers or sections that are relevant to the specific irrigation conditions under discussion. The material may also be useful to individual students who want to review a particular subject without a teacher.
+Following an introductory discussion of various aspects of irrigation in the first paper, subsequent subjects discussed will be:
+· topographic surveying
+· crop water needs
+· irrigation scheduling
+· irrigation methods
+· irrigation system design
+· land grading and levelling
+· canals and structures
+· drainage
+· salinity
+· irrigation management
+At this stage, all the papers will be marked provisional because experience with the preparation of irrigation training material for use at the village level is limited. After a trial period of a few years, when there has been time to evaluate the information and the use of methods outlined in the draft papers, a definitive version can then be issued.
+For further information and any comments you may wish to make please write to:
+Water Resources, Development and Management Service
+Land and Water Development Division
+FAO
+Via delle Terme di Caracalla
+00100 Rome
+Italy
+<section>2</section>
+ABOUT THIS PAPER
+Irrigation scheduling is the fourth in a series of training manuals on irrigation. The manual describes briefly the influence of water shortages on the yields of various crops. It provides some simple methods to determine the irrigation schedule of field crops. A separate chapter is devoted to the determination of the irrigation schedule for paddy rice.
+This manual is partially based on FAO Irrigation and Drainage Papers 24 "Crop water requirements" and 33 "Yield response to water". Details of both publications are provided in the section "Suggested Further Reading".
+<section>3</section>
+ACKNOWLEDGEMENTS
+Much appreciation is expressed to the Board of Specialists of the Irrigation Water Management Training Manuals for their valuable comments and suggestions. The Board consists of Messrs. J.F. Alfaro, J. Berengena, J. Dula-Navarrete, H.M. Horning, L. Horst, M.E. Jensen, M. Kay, J.L. Millo, S. Pazvakavambwa and I. Sewrajsing.
+<section>4</section>
+CHAPTER 1: INTRODUCTION
+In this Volume the determination of the irrigation schedule is explained. The irrigation schedule indicates how much irrigation water has to be given to the crop, and how often or when this water is given.
+How much and how often water has to be given depends on the irrigation water need of the crop. How to determine the irrigation water need has been discussed in Volume 3. The irrigation water need is defined as the crop water need minus the effective rainfall. It is usually expressed in mm/day or mm/month. When, for example, the irrigation water need of a certain crop, grown in a hot, dry climate is 8 mm/day (see Figure 1), this means that each day the crop needs a water layer of 8 mm over the whole area on which the crop is grown. This water has to be supplied by means of irrigation.
+Figure 1. Irrigation water need of 8 mm/day
+An irrigation water need of 8 mm/day, however, does not mean that this 8 mm has to be supplied by irrigation every day. In theory, water could be given daily. But, as this would be very time and labour consuming, it is preferable to have a longer irrigation interval (see Figure 2). It is, for example, possible to supply 24 mm every 3 days or 40 mm every 5 days. The irrigation water will then be stored in the root zone and gradually be used by the plants: every day 8 mm. The irrigation interval has to be chosen in such a way that the crop will not suffer from water shortage. This is shown in the example on page 2.
+Figure 2. When to irrigate?
+IN SUMMARY:
+How often to irrigate?
+Often enough to prevent the plants suffering from drought.
+How much to irrigate?
+As much as the plants have used since the previous irrigation.
+EXAMPLE
+If it is assumed that the soil is wet (e.g. at field capacity) on day 1 (see Figure 3), the crop will have no difficulty in taking up the water for the first couple of days. When, however, more and more days pass - and no irrigation is given - the crop will have more and more difficulty in taking up the water.
+Figure 3. In the absence of rainfall and if no irrigation water is applied, the plants eventually die
+In Figure 3 it can be seen that, on this soil, the plants start to suffer after approximately one week. Irrigation water should be given before this happens, in order to allow for optimal production. In general this means that irrigation should at the latest take place when approximately half of the available water content of the root zone (see Volume 1, section 2.3) has been used by the plants. When, for example (Figure 4), irrigation water is given on day 5, on day 9, on day 13, etc., the plants will not suffer from water shortage.
+Figure 4. If irrigation water is applied regularly, the plants do not suffer from water shortage
+In principle, the amount of irrigation water given in one irrigation application (irrigation depth) is the amount of water used by the plants since the previous irrigation.
+The amount of irrigation water which can be given during one irrigation application is however limited. The maximum amount which can be given has to be determined and may be influenced by:
+- the soil type
+- the root depth
+- the irrigation method.
+The soil type influences the maximum amount of water which can be stored in the soil per metre depth (see also Volume 1: Section 2.4: Available Water Content). Sand can store only a little water or, in other words, sand has a low available water content. On sandy soils it will thus be necessary to irrigate frequently with a small amount of water. Clay has a high available water content. Thus on clayey soils larger amounts can be given, less frequently.
+The root depth of a crop also influences the maximum amount of water which can be stored in the root zone (see Figure 5). If the root system of a crop is shallow, little water can be stored in the root zone and frequent - but small - irrigation applications are needed. With deep rooting crops more water can be taken up and more water can be applied, less frequently. Young plants have shallow roots compared to fully grown plants. Thus, just after planting or sowing, the crop needs smaller and more frequent water applications than when it is fully developed.
+Figure 5. Plants with deep roots take up water over a greater depth than shallow rooting plants
+How much water can be infiltrated into the soil with the locally used irrigation method has to be checked in the field. For instance, when using basin irrigation, more water can be infiltrated during one irrigation application than when using furrow irrigation. In particular, with small-scale irrigation (small water flows and small fields) it is often the irrigation method which is the most limiting factor when determining the maximum irrigation application.
+All these issues, which are important for irrigation scheduling, are explained in more detail in the following chapters.
+Chapter 2 deals with the influence of water shortages on yields. This is an important issue, especially for water saving practices. In Chapter 3 various methods to determine the irrigation schedule are discussed. As rice is grown under different conditions than other crops, the determination of the irrigation schedule for rice is dealt with separately in Chapter 4.
+<section>5</section>
+CHAPTER 2: THE INFLUENCE OF WATER SHORTAGES ON YIELDS
+2.1 Which Crops are Sensitive to Water Shortages
+2.2 Which Growth Stages are Sensitive to Water Shortages
+In irrigation schemes, crops, ideally, do not suffer from water shortages: irrigation water is applied before the crops are under drought stress.
+However, it may not be possible to apply the irrigation water exactly when it would be best; for example, in a dry year the river may not have enough water to irrigate all the fields on time; the farmers may be badly organized and lose too much water at the upstream end of the scheme, thus causing problems downstream; the scheme management may decide to spread the available water over a large area, thus allowing more farmers to irrigate, although less than the optimal amount.
+In such cases of unexpected - or sometimes even planned - water shortages, it is good to know:
+· the crops which suffer most from water shortages; i.e. crops that will have severe yield reductions when the water is in short supply;
+· growth stages during which the various crops suffer most from water shortages.
+Of course, also other factors, such as, for example, the economic value of the crops, may influence the decision on how best to divide the scarce water. Here only water-related factors will be discussed.
+2.1 Which Crops are Sensitive to Water Shortages
+In general, crops grown for their fresh leaves or fruits are more sensitive to water shortages than those grown for their dry seeds or fruits. Table 1 shows four categories of crops; the categories are based on the sensitivity of the specific crops to drought.
+Table 1. SENSITIVITY OF VARIOUS FIELD CROPS TO WATER SHORTAGES
+Sensitivity
+Low
+Low-Medium
+Medium-High
+High
+Crops
+cassava
+alfalfa
+beans
+banana
+cotton
+citrus
+cabbage
+fresh green
+millet
+grape
+maize
+vegetables
+pigeon pea
+groundnuts
+onion
+paddy rice
+sorghum
+soybean
+peas
+potato
+sugarbeet
+pepper
+sugarcane
+sunflower
+tomato
+wheat
+(water) melon
+As can be seen from the above table, crops like paddy rice, banana, potato and sugarcane are very sensitive to water shortages. This means that if they suffer - even little - water shortages, their yields will be reduced considerably; such water shortages must be avoided.
+Crops like millet and sorghum, on the other hand, are only slightly sensitive to drought; they are drought resistant. If the water shortage does not last too long, the effect on the yield will be minimal.
+If various crops are grown on an irrigation scheme, e.g. groundnuts and lettuce (fresh green vegetables), and water is short in supply, it is advisable to give priority to irrigating the most drought sensitive crop; in this case lettuce.
+2.2 Which Growth Stages are Sensitive to Water Shortages
+The total growing season of an annual crop can be divided into four growth stages (see also Volume 3):
+· the initial stage; from sowing to 10% ground cover
+· the crop development stage; from 10% to 70% ground cover
+· the mid-season stage; including flowering and grain setting or yield formation
+· the late season stage; including ripening and harvest.
+In general it can be stated that of the four growth stages, the mid-season stage is most sensitive to water shortages. This is mainly because it is the period of the highest crop water needs. If water shortages occur during the mid-season stage, the negative effect on the yield will be pronounced.
+The least sensitive to water shortages is the late season stage. This stage includes ripening and harvest. Water shortages in this stage have - especially if the crop is harvested dry - only a slight effect on the yield. Care should, however, be taken even during this stage with crops which are harvested fresh, such as lettuce. Fresh harvested crops are also sensitive to water shortages during the late season stage.
+The initial and crop development stages are between the mid-season and late season stages with respect to sensitivity to water shortages. Some crops react favourably to water shortage during the crop development stage: they react by developing a deeper root system, which is helpful during the later stages. Table 2 indicates the growth stages most sensitive to water shortages for various important field crops.
+On an irrigation project, if only one crop is grown, but not all fields have been planted at the same time (staggered planting), and water is in short supply, it is advisable to give priority to irrigating those fields on which the crop has reached the mid-season stage (flowering and yield formation).
+Figure 6. Irrigation water should not be withheld during those stages sensitive to water shortages
+Table 2. PERIODS SENSITIVE TO WATER SHORTAGES
+Crop
+Sensitive period
+Alfalfa
+just after cutting
+Alfalfa (for seed prod.)
+flowering
+Banana
+throughout
+Bean
+flowering and pod filling
+Cabbage
+head enlargement and ripening
+Citrus
+flowering and fruit setting more than fruit enlargement
+Cotton
+flowering and boll formation
+Grape
+vegetative period and flowering more than fruit filling
+Groundnut
+flowering and pod setting
+Maize
+flowering and grain filling
+Olive
+just prior to flowering and yield formation
+Onion
+bulb enlargement
+Onion (for seed prod.)
+flowering
+Pea/fresh
+flowering and yield formation
+Pea/dry
+ripening
+Pepper
+throughout
+Pineapple
+vegetative period
+Potato
+stolonization and tuber initiation
+Rice
+head development and flowering
+Sorghum
+flowering and yield formation
+Soybean
+flowering and yield formation
+Sugarbeet
+first month after emergence
+Sugarcane
+vegetative period (tillering and stem elongation)
+Sunflower
+flowering more than yield formation
+Tobacco
+period of rapid growth
+Tomato
+flowering more than yield formation
+Watermelon
+flowering and fruit filling
+Wheat
+flowering more than yield formation
+Figure 7. Potatoes are highly sensitive to water shortages, in particular during stolonization and tuber initiation
+<section>6</section>
+CHAPTER 3: DETERMINATION OF THE IRRIGATION SCHEDULE FOR CROPS OTHER THAN RICE
+3.1 Plant Observation Method
+3.2 Estimation Method
+3.3 Simple Calculation Method
+3.4 Conversion of mm/day into litres/sec.ha
+3.5 Adjusting the irrigation schedule to actual rainfall
+The accurate determination of an irrigation schedule is a time-consuming and complicated process. The introduction of computer programs, however, has made it easier and it is possible to schedule the irrigation water supply exactly according to the water needs of the crops. Ideally, at the beginning of the growing season, the amount of water given per irrigation application, also called the irrigation depth, is small and given frequently. This is due to the low evapotranspiration of the young plants and their shallow root depth. During the mid season, the irrigation depth should be larger and given less frequently due to high evapotranspiration and maximum root depth. Thus, ideally, the irrigation depth and/or the irrigation interval (or frequency) vary with the crop development (Figure 8).
+Figure 8 In the early stages of crop development small and frequent irrigation applications are needed
+When sprinkler and drip irrigation methods are used, it may be possible and practical to vary both the irrigation depth and interval during the growing season. With these methods it is just a matter of turning on the tap longer/shorter or less/more frequently.
+When surface irrigation methods are used, however, it is not very practical to vary the irrigation depth and frequency too much. With, in particular, surface irrigation, variations in irrigation depth are only possible within limits. It is also very confusing for the farmers to change the schedule all the time. Therefore, it is often sufficient to estimate or roughly calculate the irrigation schedule and to fix the most suitable depth and interval; in other words, to keep the irrigation depth and the interval constant over the growing season. In this Chapter, three simple methods to determine the irrigation schedule are briefly described: plant observation method, estimation method and simple calculation method. In the last section of this chapter, some remarks are made about taking into account actual rainfall in irrigation scheduling.
+The plant observation method is the method which is normally used by farmers in the field to estimate "when" to irrigate. The method is based on observing changes in plant characteristics, such as changes in colour of the plants, curling of the leaves and ultimately plant wilting.
+In the estimation method section, a table is provided with irrigation schedules for the major field crops grown under various climatic conditions.
+The simple calculation method is based on the estimated depth (in mm) of the irrigation application, and the calculated irrigation water need of the crop during the growing season.
+3.1 Plant Observation Method
+The plant observation method determines "when" the plants have to be irrigated and is based on observing changes in the plant characteristics, such as changes in colour of the plants, curling of the leaves and ultimately plant wilting. The changes can often only be detected by looking at the crop as a whole rather than at the individual plants. When the crop comes under water stress the appearance changes from vigorous growth (many young leaves which are light green) to slow or even no growth (fewer young leaves, darker in colour, and sometimes greyish and dull).
+Some crops (such as cassava) react to water stress by changing their leaf orientation: with adequate water available, the leaves are perpendicular to the sun (thus allowing optimal transpiration and production). However, when little water is available, the leaves turn away from the sun (thus reducing the transpiration and production).
+To use the plant observation method successfully, experience is required as well as a good knowledge of the local circumstances. A farmer will, for example, know where the sandy spots in the field are, which is where the plants will first show stress characteristics: the colour changes and wilting are more pronounced on the sandy spots.
+An example of the plant observation method is given in Figures 9 and 10. The sugarcane in Figure 9 suffers heavily from water shortage: the leaves are stiff (bent towards the centre) and curled. Figure 10 shows the same sugarcane when enough moisture is available: the lower leaves are hanging, thus exposing them fully to the sunlight and allowing maximum evapotranspiration (water use of the plants) and crop production.
+Figure 9. Sugarcane suffering from water shortage
+Figure 10. The same sugarcane when enough moisture is available
+The disadvantage of the plant observation method is that by the time the symptoms are evident, the irrigation water has already been withheld too long for most crops and yield losses are already inevitable. It is important to note that it is not advisable to wait for the symptoms. Especially in the early stages of crop growth (the initial and crop development stages), irrigation water has to be applied before the symptoms are evident (see Chapter 1).
+Another indicator of water availability is the leaf temperature. If the leaves are cool during the hot part of the day (Figure 11), the plants do not suffer from water stress. However, if the leaves are warm, irrigation is needed. Special devices (infra-red thermometers) have been developed to measure the leaf temperature in relation to the air temperature. However, they must be calibrated for specific conditions before being used to determine the irrigation schedule.
+Figure 11. Leaf temperature
+Another method used to determine the irrigation schedule involves soil moisture measurements in the field. When the soil moisture content has dropped to a certain critical level, irrigation water is applied. Instruments to measure the soil moisture include gypsum blocks, tensiometers and neutron probes. Their use, however, is beyond the scope of this manual.
+3.2 Estimation Method
+3.2.1 Estimating the Irrigation Schedule
+3.2.2 Adjusting the Irrigation Schedule
+Section 3.2.1 includes a table to estimate irrigation schedules of field crops for various soil types and climates. Section 3.2.2 explains how the values thus found can be adjusted when used under different circumstances.
+3.2.1 Estimating the Irrigation Schedule
+In this section, a table is provided to estimate the irrigation schedule for the major field crops during the period of peak water demand; the schedules are given for three different soil types and three different climates. The table is based on calculated crop water needs and an estimated root depth for each of the crops under consideration. The table assumes that with the irrigation method used the maximum possible net application depth is 70 mm.
+With respect to soil types, a distinction has been made between sand, loam, and clay, which have, respectively, a low, a medium and a high available water content. With respect to climate, a distinction is made between three different climates.
+Shallow and/or sandy soil
+In a sandy soil or a shallow soil (with a hard pan or impermeable layer close to the soil surface), little water can be stored; irrigation will thus have to take place frequently but little water is given per application.
+Loamy soil
+In a loamy soil more water can be stored than in a sandy or shallow soil. Irrigation water is applied less frequently and more water is given per application.
+Clayey soil
+In a clayey soil even more water can be stored than in a medium soil. Irrigation water is applied even less frequently and again more water is given per application.
+Climate 1
+Represents a situation where the reference crop evapotranspiration ETo = 4 - 5 mm/day.
+Climate 2
+Represents an ETo = 6 - 7 mm/day.
+Climate 3
+Represents an ETo = 8 - 9 mm/day.
+An overview indicating in which climatic zones these ETo values can be found is given below:
+REFERENCE CROP EVAPOTRANSPIRATION (mm/day)
+Climatic zone
+Mean daily temperature
+low
+(less than 15°C)
+medium
+(15-25ºC)
+high
+(more than 25ºC)
+Desert/arid
+Semi-arid
+Sub-humid
+Humid
+It is important to note that the irrigation schedules given in Table 3 are based on the crop water needs in the peak period. It is further assumed Chat little or no rainfall occurs during the growing season. Some examples on the use of Table 3 are given below.
+Figure 12. Sorghum
+EXAMPLES
+1. Estimate the irrigation schedule for groundnuts grown on a deep, clayey soil, in a hoc and dry climate.
+Firstly, the climatic class has to be identified: climate 3 (ETo = 8-9 mm/day) represents a hot climate. Table 3 shows that for climate 3 the interval for groundnuts grown on a clayey soil is 6 days and the net irrigation depth is 50 mm. This means that every 6 days the groundnuts should receive a net irrigation application of 50 mm.
+2. Estimate the irrigation schedule for spinach grown on a loamy soil, in an area with an average temperature of 12º C during the growing season.
+The average temperature is low: climate 1 (ETo = 4-5 mm/day). Table 3 shows, with climate 1, for spinach, grown on a loamy soil an interval of 4 days and a net irrigation depth of 20 mm.
+3. Estimate the irrigation schedule of sorghum grown on a sandy soil, in an area with a temperature range of 15-25º C during the growing season (Figure 12).
+The average temperature is medium: climate 2 (ETo = 6-7 mm/day). Table 3 shows, with climate 2 for sorghum grown on a sandy soil, an irrigation interval of 6 days and a net irrigation depth of 40 mm.
+Table 3. ESTIMATED IRRIGATION SCHEDULES FOR THE MAJOR FIELD CROPS DURING PEAK WATER USE PERIODS
+3.2.2 Adjusting the Irrigation Schedule
+a. Adjustments for the non-peak periods
+The irrigation schedule, which is obtained using Table 3, is valid for the peak period; in other words, for the mid-season stage of the crop.
+During the early growth stages, when the plants are small, the crop water need is less than during the mid-season stage. Therefore, it may be possible to irrigate during the early stages of crop growth, with the same frequency as during the mid-season, but with smaller irrigation applications. It is risky to give the same irrigation application as during the mid-season, but less frequently; the young plants may suffer from water shortage as their roots are not able to take up water from the lower layers of the root zone.
+Dry harvested crops or crops which are allowed to die before harvest (for example grain maize) need less water during the late season stage than during the mid-season stage (the peak period). During the late season stage, the roots of the crops are fully developed and therefore the same amount of water can be stored in the root zone as during the mid-season stage. It is thus possible to irrigate during the late season stage less frequently but with the same irrigation depth as during the peak period.
+In summary, in order to save water, it may be feasible to irrigate, during the early stages of the crop development, with smaller irrigation applications than during the peak period. During the late season stage it may be feasible to irrigate less frequently, in particular if the crop is harvested dry.
+When adjusting the irrigation schedule for the non-peak periods, it should always be kept in mind that the irrigation schedules must be simple, in particular in surface irrigation schemes where many farmers are involved. It will often be necessary to discuss with the farmers, before implementing the irrigation schedule, the various alternatives and come to an agreement which best satisfies all parties involved (Figure 13).
+Figure 13.Discussing the irrigation schedule with the farmers
+b. Adjustment for climates with considerable rainfall daring the growing season
+The schedules obtained from Table 3 are based on the assumption that little or no rainfall occurs during the growing season. If the contribution from the rainfall is considerable during the growing season, the schedules need to be adjusted: usually by making the interval longer. It may also be possible to reduce the net irrigation depth. It is difficult to estimate to which values the interval and the irrigation depth should be adjusted. It is therefore suggested to use the simple calculation method (section 3.3), instead of the estimation method, in the case of significant rainfall during the growing season. Alternatively it is possible to adjust the irrigation schedule to the actual rainfall; this is further discussed in section 3.5.
+c. Adjustment for local irrigation practices or irrigation method used
+It may happen that the net irrigation depth obtained from Table 3 is not suitable for the local conditions. It may not be possible, for example, to infiltrate 70 mm with the irrigation method used locally. Tests may have shown that it is only possible to infiltrate some 50 mm per application.
+In such cases, both the net irrigation depth and the interval must be adjusted simultaneously. For example, suppose that maize is grown on a clayey soil in a moderately warm climate. According to Table 3, the Interval is 10 days and the net irrigation depth is 70 mm. This corresponds to an irrigation water need of 70/10 = 7 mm/day.
+Instead of giving 70 mm every 10 days, it is also possible to give:
+63 mm every 9 days
+56 mm every 8 days
+49 mm every 7 days
+42 mm every 6 days etc.
+This means that in the above example an interval of seven days is chosen with a net application depth of 49 mm.
+d. Adjustment for shallow soils
+A soil which is shallow can only store a little water, even if the soil is clayey. For shallow soils - sandy, loamy or clayey - the column "shallow and/or sandy soil" of Table 3 should be used.
+e. Adjustment for salt-affected soils
+In the case of irrigating salt-affected soils, special attention needs to be given to the determination of the irrigation schedule. This topic will be dealt with in a separate training manual (Drainage and Salinity) in this series.
+Figure 14. Appropriate irrigation schedules help to produce good crops
+3.3 Simple Calculation Method
+3.3.1 Application of the Simple Calculation Method
+3.3.2 Adjusting the Simple Calculation Method for the Peak Period
+3.3.3 Calculation Example Irrigation Scheduling
+Section 3.3.1 gives a simple calculation method for the irrigation schedule; this schedule is based on the entire growing season. Section 3.3.2 explains how to adjust the schedule to the period of peak water demand. In section 3.3.3 a calculation example is given.
+3.3.1 Application of the Simple Calculation Method
+The simple calculation method to determine the irrigation schedule is based on the estimated depth (in mm) of the irrigation applications, and the calculated irrigation water need of the crop over the growing season.
+Unlike the estimation method (see section 3.2), the simple calculation method is based on calculated irrigation water needs. Thus, the influence of the climate, i.e. temperature and rainfall, is more accurately taken into account. The result of the simple calculation method will therefore be more accurate than the result of the estimation method.
+The simple calculation method to determine the irrigation schedule involves the following steps that are explained in detail below:
+Step 1:
+Estimate the net and gross irrigation depth (d) in mm.
+Step 2:
+Calculate the irrigation water need (IN) in mm, over the total growing season.
+Step 3:
+Calculate the number of irrigation applications over the total growing season.
+Step 4:
+Calculate the irrigation interval in days.
+Step 1: Estimate the net and gross irrigation depth (d) in mm
+The net irrigation depth is best determined locally by checking how much water is given per irrigation application with the local irrigation method and practice. If no local data are easily available, Table 4 can be used to estimate the net irrigation depth (d net), in mm. As can be seen from the table, the net irrigation depth is assumed to depend only on the root depth of the crop and on the soil type. It must be noted that the d net values in the table are approximate values only. Also the root depth is best determined locally. If no data are available, Table 5 can be used which gives an indication of the root depth of the major field crops.
+Table 4. APPROXIMATE NET IRRIGATION DEPTHS, IN mm
+Shallow rooting crops
+Medium rooting crops
+Deep rooting crops
+Shallow and/or sandy soil
+Loamy soil
+Clayey soil
+Table 5. APPROXIMATE ROOT DEPTH OF THE MAJOR FIELD CROPS
+Shallow rooting crops (30-60 cm):
+Crucifers (cabbage, cauliflower, etc.), celery, lettuce, onions, pineapple, potatoes, spinach, other vegetables except beets, carrots, cucumber.
+Medium rooting crops (50-100 cm):
+Bananas, beans, beets, carrots, clover, cacao, cucumber, groundnuts, palm trees, peas, pepper, sisal, soybeans, sugarbeet, sunflower, tobacco, tomatoes.
+Deep rooting crops (90-150 cm):
+Alfalfa, barley, citrus, cotton, dates, deciduous orchards, flax, grapes, maize, melons, oats, olives, safflower, sorghum, sugarcane, sweet potatoes, wheat.
+Not all water which is applied to the field can indeed be used by the plants. Part of the water is lost through deep percolation and runoff. To reflect this water loss, the field application efficiency (ea) is used. For more detail on irrigation efficiencies, see Annex 1. The gross irrigation depth (d gross), in mm, takes into account the water loss during the irrigation application and is determined using the following formula:
+d gross = gross irrigation depth in mm
+d net = net irrigation depth in mm
+ea = field application efficiency in percent
+If reliable local data are available on the field application efficiency, these should be used. If such data are not available, the following values for the field application efficiency can be used:
+- for surface irrigation
+: ea = 60%
+- for sprinkler irrigation
+: ea = 75%
+- for drip irrigation
+: ea = 90%
+If, for example, tomatoes are grown on a loamy soil, Tables 4 and 5 show that the estimated net irrigation depth is 40 mm. If furrow irrigation is used, the field application efficiency is 60% and the gross irrigation depth is determined as follows:
+Step 2: Calculate the irrigation water need (IN) in - over the total growing season
+This has been discussed in detail in Volume 3. Assume that the irrigation water need (in mm/month) for tomatoes, planted 1 February and harvested 30 June, is as follows:
+Feb.
+Mar.
+Apr.
+May
+June
+IN (mm/month)
+The irrigation water need of tomatoes for the total growing season (Feb-June) is thus (67 + 110 + 166 + 195 + 180 =) 718 mm. This means that over the total growing season a net water layer of 718 mm has to be brought onto the field.
+If no data on irrigation water needs are available, the estimation method (section 3.2) should be used.
+Step 3: Calculate the number of irrigation applications over the total growing season
+The number of irrigation applications over the total growing season can be obtained by dividing the irrigation water need over the growing season (Step 2) by the net irrigation depth per application (Step 1).
+If the net depth of each irrigation application is 40 mm (d net = 40 mm; Step 1), and the irrigation water need over the growing season is 718 mm (Step 2), then a total of (718/40 =) 18 applications are required.
+Step 4: Calculate the irrigation interval (INT) in days
+Thus a total of 18 applications is required. The total growing season for tomatoes is 5 months (Feb-June) or 5 x 30 = 150 days. Eighteen applications in 150 days corresponds to one application every 150/18 = 8.3 days.
+In other words, the interval between two irrigation applications is 8 days. To be on the safe side, the interval is always rounded off to the lower whole figure: for example 7.6 days becomes 7 days; 3.2 days becomes 3 days.
+CONCLUSION
+In this example, the irrigation schedule for tomatoes is as follows:
+d net = 40 mm
+d gross = 65 mm
+interval = 8 days
+3.3.2 Adjusting the Simple Calculation Method for the Peak Period
+When using the simple calculation method to determine the irrigation schedule, it is advisable to ensure that the crop does not suffer from undue water shortage in the months of peak irrigation water need.
+For instance, in the above example the interval is 8 days, while the net irrigation depth is 40 mm. Thus every 30 days (or each month): 30/8 x 40 mm = 150 mm water is applied. The amount of water given during each month (d net) should be compared with the amount of irrigation water needed during that month (IN).
+The result is shown below. The "IN" values represents the irrigation water needs, while the "d net" values represent the amount of water applied. The "d net - IN" values show whether too much or too little water has been applied:
+Feb
+Mar
+Apr
+May
+June
+Total
+IN (mm/month)
+d net (mm/month)
+d net - IN (mm/month)
+The total net amount of irrigation water applied (750 mm) is more than sufficient to cover the total irrigation water need (718 mm). However, in February and March too much water has been applied, while in April, May and June, too little water has been applied.
+Care should be taken with under-irrigation (too little irrigation) in the peak period as this period normally coincides with the growth stages of the crops that are most sensitive to water shortages (see Chapter 2).
+Figure 15. Check if enough water is given during the peak months
+To overcome the risk of water shortages in the peak months, it is possible to refine the simple calculation method by looking only at the months of peak irrigation water need and basing the determination of the interval on the peak period only.
+In the example given above for tomatoes, this means looking at the months April, May and June:
+Months of peak irrigation water need
+Apr
+May
+June
+Sub-total
+IN (mm/month)
+The total irrigation water need from April to June (90 days) is 541 mm, while the net irrigation depth is 40 mm. Thus 541/40 = 13.5 (rounded 14) applications are needed. Fourteen applications in 90 days means one application every 6.4 (rounded 6) days. Calculated this way the irrigation schedule for the tomatoes would be:
+d net = 40 mm
+d gross = 65 mm
+interval = 6 days
+Over the total growing period of 150 days, this means 150/6 = 25 applications, each 40 mm net and thus in total 25 x 40 = 1000 mm.
+The overall result of adjusting the irrigation schedule to the months of peak irrigation water demand is shown below:
+Feb
+Mar
+Apr
+May
+June
+Total
+IN (mm/month)
+d net (mm/month)
+d net - IN (mm/month)
+This way of determining the irrigation schedule avoids water shortages in the month of peak water needs but on the other hand also results in a higher seasonal irrigation water application.
+It is possible to combine the two schedules. In this way some water is saved, and there are no water shortages in the peak period, but it is a bit more complicated for the farmers.
+The result of the combined irrigation schedule for the whole growing season is as follows:
+Feb
+Mar
+Apr
+May
+June
+Total
+IN (mm/month)
+d net (mm/month)
+d net - IN (mm/month)
+In summary:
+Feb-March
+d net = 40 mm
+d gross = 65 mm
+Interval = 8 days
+April-May-June
+d net = 40 mm
+d gross = 65 mm
+Interval = 6 days
+Figure 16. Groundnuts
+3.3.3 Calculation Example Irrigation Scheduling
+QUESTION: Determine the irrigation schedule for groundnuts:
+1. Based on the total growing period.
+2. Based on the months of peak irrigation water need.
+3. Based on a combination of the two schedules above (1 and 2).
+GIVEN:
+Crop
+: groundnuts
+Soil type
+: loam
+Irration method
+: furrow irrigation
+Field application efficiency
+Total growing period
+: 130 days
+Planting date
+: 15 July
+Irrigation water need (IN)
+July*
+Aug
+Sept
+Oct
+Nov**
+Total
+IN (mm/month)
+* as of 15 July
+** up to 25 November
+ANSWER 1: irrigation schedule for groundnuts, based on the total growing period
+Step 1: Determine the net and gross depth (d) in mm of the irrigation applications
+Table 5 shows that groundnuts have a medium root depth. Grown on a loamy soil, the net irrigation depth (d net) will thus be approximately 40 mm (Table 4).
+The gross irrigation depth (d gross) can be calculated using the following formula:
+The field application efficiency (ea) is 60% and the net irrigation depth (d net) is 40 mm.
+Thus:
+Step 2: Calculate the irrigation water need (IN) in mm over the total growing season
+The irrigation water need over the total growing season of 130 days (15 July - 25 November) is 38 + 115 + 159 + 170 + 45 = 527 mm (see data).
+Step 3: Calculate the number of irrigation applications over the total growing season
+The number of applications equals the seasonal irrigation water need (Step 2) divided by the net irrigation depth (Step 1). Thus the number of applications is 527/40 = 13.2 = rounded 13 applications.
+Step 4: Calculate the irrigation interval in days
+A total of 13 applications is given during the total growing period of 130 days. The interval is thus 130/13 = 10 days.
+IN SUMMARY:
+The irrigation schedule for groundnuts, based on the total growing period is:
+d net = 40 mm
+d gross = 65
+Interval = 10 days
+The comparison of the irrigation water required (IN) and the irrigation water applied (d net) is given below:
+July*
+Aug
+Sept
+Oct
+Nov**
+Total
+IN (mm/month)
+d net (mm/month)
+d net - IN (mm/month)
+* July: 15 days only, as the planting date is 15 July
+** Nov.: 25 days only, as the last day of the harvest is 25 November
+ANSWER 2: Irrigation schedule for groundnuts based on months of peak irrigation water need
+As can be seen from the table above, the months of peak Irrigation water need are September and October. In this example the irrigation schedule will be based on these two months.
+Step 1: Estimate the net and gross depth (d) in mm of the Irrigation applications. The net and gross depth (d) are calculated in the same way as in Answer 1.
+Thus:
+d net = 40 mm
+d gross = 65 mm (rounded)
+Step 2: Calculate the irrigation water need over the months of peak irrigation water need
+The months of peak irrigation water need are September and October, and during these two months the IN (159 + 170) = 329 mm.
+Sept
+Oct
+Total
+IN (mm/month)
+Step 3: Calculate the number of irrigation applications during the peak months
+The number of applications is 329/40 = 8.2, rounded 8 applications.
+Step 4: Calculate the irrigation interval in days
+8 applications are given during the peak months September and October i.e. during 60 days: the interval = 60/8 = 7.5 = rounded 7 days.
+IN SUMMARY:
+The irrigation schedule for groundnuts, based on the months of peak irrigation water need is:
+d net = 40 mm
+d gross = 65 mm
+Interval = 7 days
+The comparison of the irrigation water required (IN) and the irrigation water applied (d net) is given below:
+July*
+Aug
+Sept
+Oct
+Nov**
+Total
+IN (mm/month)
+d net (mm/month) approx.
+d net - IN (mm/month)
+* July: 15 days only, as the planting date is 15 July
+** Nov.: 25 days only, as the last day of the harvest is 25 November
+There are no water shortages in the peak months, but the total amount of water applied is high.
+ANSWER 3: Irrigation schedule for groundnuts combining the two previous schedules
+It is possible to combine the two schedules obtained in answer 1 and answer 2. For the non-peak period, the Answer 1 schedule is used. For the peak period, Answer 2 is used. The result is shown below.
+July*
+Aug
+Sept
+Oct
+Nov**
+Total
+IN (mm/month)
+d net (mm/month) approx.
+d net - IN (mm/month)
+July, August, November
+d net = 40 mm
+d gross = 65 mm
+interval = 10 days
+September, October
+d net = 40 mm
+d gross = 65 mm
+interval = 7 days
+Similarly, other schedules can be determined by trial and error. The objective should be to best match the required amount of water with the amount actually given. The schedules thus obtained, however, should not be too difficult for the farmer to implement.
+3.4 Conversion of mm/day into litres/sec.ha
+In the previous sections it has been explained how to determine the irrigation depth of each irrigation application (in mm) and the interval between two irrigation applications (in days). From these figures it is, however, not easy to visualize what the flow of Irrigation water to a block of, for example, one hectare would be. Below a "rule of thumb" is given on how to convert an irrigation depth and interval into a continuous water flow.
+8.64 mm/day = 1.0 litre/sec.hectare
+In other words, an irrigation application of 8.64 mm per day corresponds to a continuous water flow of 1.0 litre per second per hectare. Further details of the conversion are given in the Scheme Irrigation Supply Training Manual. Table 6 may assist with the conversion of mm/day into l/sec.ha.
+EXAMPLE: Determine the continuous water flow when the gross irrigation depth is 64 mm and the interval is 8 days, for an area of 50 ha.
+ANSWER: 64 mm every 8 days is 64/8 = 8 mm/day; 8 mm/day corresponds to 0.93 l/sec.ha. For an area of 50 ha the net continuous flow would be: 50 x 0.93 = 46.5 l/sec.
+Table 6. CONVERSION OF MM/DAY INTO L/SEC.HA
+mm/day
+l/sec.ha
+l/sec.ha
+mm/day
+3.5 Adjusting the irrigation schedule to actual rainfall
+The estimation method (section 3.2) to determine the irrigation schedule can only be used when no significant rainfall occurs during the growing season. The simple calculation method (section 3.3) is based on the average irrigation water need of the crop which is the average crop water need minus the average effective rainfall. This method is used when designing and implementing an irrigation system with a "rotational" water supply: each field receives a certain amount of water on dates that are already fixed in advance. The rotational supply takes into account the average rainfall only and thus does not take into account the actual rainfall; this results in over-irrigation in wetter than average years and under-irrigation in drier than average years. In surface irrigation systems the rotational water supply method is most commonly used.
+There are also water supply methods which allow the irrigation water to be distributed "on demand". The farmer can take water whenever necessary. In this case it is possible to take the actual rainfall into account and thus give the correct amount of irrigation water even in drier or wetter years. With this method of irrigation scheduling, however, the rainfall has to be measured on a daily basis (for details see Annex II). The net irrigation depth (d net) has to be determined in accordance with the irrigation method used (see section 3.3.1). In addition, the crop water need has to be known on a daily basis for each month of the growing season (see Volume 3). As soon as the accumulated water deficit exceeds the value of the net irrigation depth, irrigation water is supplied.
+An example is given below for a situation with a crop water need (CWN) of 8 am/day and a net irrigation depth (d net) of 45 mm. As soon as the accumulated deficit exceeds the d net (= 45 mm), irrigation water is supplied. Note that the "deficit" can never be positive; maximum zero.
+day
+CWN
+(mm/day)
+Rain
+(mm)
+d net
+(mm)
+Accumulated deficit
+(mm)
+etc.
+In the above example of adjusting the irrigation schedule to the actual rainfall, irrigation takes place on day 6, on day 16, etc. with on each occasion a net irrigation depth of 45 mm.
+<section>7</section>
+CHAPTER 4: DETERMINATION OF THE IRRIGATION SCHEDULE FOR PADDY RICE
+4.1 Introduction
+4.2 Growing Paddy Rice
+4.3 Rice Growth Stages
+4.4 Irrigation water need of paddy rice
+4.5 Irrigation scheduling of paddy rice
+4.1 Introduction
+Paddy rice is usually grown in level basins (Figure 17) which are flooded with water throughout most of the growing season.
+Figure 17. Paddy rice, at various growth stages, grown in level basins
+The main reason for flooding the rice fields is that most rice varieties maintain better growth and produce higher yields when grown in flooded soils, than when grown in dry soils. The water layer also helps to suppress the weeds.
+4.2 Growing Paddy Rice
+To grow a paddy rice crop, the following activities are usually carried out:
+i. Preparation of the rice nursery
+The nursery is usually 5 - 10% of the size of the total area to be planted; for example, if the total field size is 1200 m^2, then the nursery should be between (0.05 x 1200 =) 60m^2 and (0.10 x 1200 =) 120 m^2.
+Preparation of the nursery starts one month before sowing the nursery. The soil of the nursery should be loose, without weeds, moist and fertile. When sowing the nursery, it is very important to select good rice seeds.
+ii. Preparation of the rice fields
+Preparation of the rice fields starts about one, or sometimes two, months before the rice is transplanted. The fields are usually first flooded. A few days after flooding, the field is ploughed. Ploughing is the initial breaking and turning over of the soil. Flooding makes ploughing easier. Ploughing is done by hand (with a hoe), by animal traction (with oxen or buffaloes, see Figure 18) or mechanically.
+Figure 18. Ploughing the rice field
+It is also possible to plough the dry soil; this is, however, much heavier and is in practice only done if tractors are available. Ploughing the dry soil does save some water.
+After ploughing, the soil is puddled. During puddling, the big soil clods are broken. Puddling reduces the permeability of the soil and therefore also reduces the percolation losses.
+After puddling, the soil is levelled; that is, the soil is made flat (Figure 19). To facilitate the levelling, the soil is flooded with a shallow water layer. This way it is possible to see where the high spots are. Levelling can be done with a shovel, a rake, a levelling board, etc.
+Figure 19. Levelling the rice field
+iii. Transplanting of the seedlings
+The seedlings should be transplanted approximately one month after sowing the nursery. The seedlings will then have four to five leaves. Only strong seedlings are transplanted (Figure 20). The seedlings must be transplanted into the very wet rice field. The seedlings are planted in straight rows with proper spacing between them.
+Figure 20. Transplanting the seedlings
+iv. Water control
+This is discussed separately in section 4.4 and 4.5.
+v. Weeding
+Weeds prevent rice from growing and tillering well. Weeding usually starts two weeks after transplanting and continues as necessary throughout the growing season.
+vi. Fertilization
+Fertilizers are usually applied just before transplanting, one month after transplanting and one month before flowering.
+vii. Pest control
+Rats, birds and insects often do much damage to the rice crop. Ask the extension service how best to control them.
+viii. Harvest
+The rice is cut when the heads are yellow. Cutting is usually done with a sickle.
+4.3 Rice Growth Stages
+Usually a distinction is made between the four growth stages of rice (Figure 21).
+Figure 21 Rice growth stages
+Nursery:
+from sowing to transplanting; duration approximately one month.
+Vegetative stage:
+from transplant to panicle initiation; duration varies from 1½ to 3 months. Vegetative stage includes the tillering. Tillering means that several stems develop on one plant (Figure 22).
+If the rice is sown directly (broadcast), the two stages combined are called the vegetative stage.
+Mid season or reproductive stage:
+from panicle initiation to flowering; duration approximately one month. This stage includes stem elongation, panicle extension and flowering. Late tillers may die.
+Late season or ripening stage:
+from flowering to full maturity; duration approximately one month. This stage includes grain growth.
+Figure 22. The vegetative stage includes tillering
+4.4 Irrigation water need of paddy rice
+The determination of the irrigation water need of rice has been explained in Volume 3. The steps involved are briefly repeated below; the datasheet to determine the Irrigation water need of paddy rice is given in Annex III.
+Step 1: Determine the reference crop evapotranspiration: ETo
+Step 2: Determine the crop factors: Kc
+Step 3: Calculate the crop water need: ET crop = ETo x Kc
+Step 4: Determine the amount of water needed for land preparation: SAT
+In the month before sowing or transplanting, water is needed to saturate the root zone. The amount of water needed depends on the soil type and rooting depth. For the purpose of this manual it is however assumed that the amount of water needed to saturate the root zone is 200 mm. Thus:
+SAT = 200 mm
+Step 5: Determine the amount of percolation and seepage losses: PERC
+The percolation and seepage losses depend on the type of soil. They will be low in very heavy, well-puddled clay soils and high in the case of more sandy soils. They can best be determined locally. If no local data can be obtained, the following values may be used:
+for heavy clay
+: PERC = 2 mm/day = 60 mm/month
+for more sandy soils
+: PERC = 8 mm/day = 240 mm/month
+on average
+: PERC = 5 mm/day = 150 mm/month
+Step 6: Determine the amount of water needed to establish a water layer: WL
+A water layer is established after transplanting. The amount of water needed for maintaining the water layer has already been taken into account with the determination of the percolation and seepage losses. The amount of water needed to establish the water layer, however, still has to be considered. Various approaches are being used with respect to the depth of the water layer. Sometimes a water layer of 100 mm is established after transplant and maintained throughout the growing season. In other cases the water layer is reduced to 20 to 50 mm during the latter part of the vegetative stage and brought back to 100 mm during the mid-season stage (see Figure 23).
+Figure 23. The depth of the water layer may vary during the growing season
+Also a common practice is to drain all the water from the field before applying fertilizers and to re-establish the water layer after the fertilizer application. This, of course, has a significant effect on the total irrigation water need of the paddy rice.
+Step 7: Determine the effective rainfall: Pe
+The effective rainfall is calculated using the following formulae:
+Pe = 0.8 P - 25
+if
+P > 75
+mm/month
+Pe = 0.6 P - 10
+if
+P < 75
+mm/month
+Step 8: Calculate the irrigation water need: IN
+The irrigation water need is calculated using the following formula:
+IN = ET crop + SAT + PERC + WL - Pe
+4.5 Irrigation scheduling of paddy rice
+It has to be decided if the irrigation water is to be supplied to the field continuously or if it is to be given in rotation (see also Volume 5, section 2.4 Irrigating basins).
+To determine the size of the flow to be used with continuous irrigation, the irrigation water need is multiplied by the area to be irrigated, which gives a volume of irrigation water needed per unit of time. This is the net flow of irrigation water which has to be supplied to the field continuously. This quantity of course varies over the growing season as the irrigation water need varies.
+If, for example, the Irrigation water need during the month of June is 15 mm/day and the area is 1.6 ha, then the continuous net flow would be:
+Another way of calculating the continuous flow is using the "rule of thumb" indicated in section 3.4 and multiplying the flow per hectare with the area to be irrigated.
+For an area of 1.6 ha, the continuous flow would be: 1.6 x 1.74 = 2.8 l/sec.
+If water is supplied to the same field on a rotational basis the net irrigation flow has to be increased. If, for example, irrigation water is supplied during one day out of every 7 days and during 12 hours out of 24 hours then the flow should be: 24 hours/12 hours x 7 x 2.8 l/sec = 39.2 l/sec. If water would be supplied every 5 days during 8 hours, then the flow should be: 24 hours/8 hours x 5 x 2.8 = 42 l/sec.
+<section>8</section>
+Annex I: Irrigation efficiencies
+Not all water taken from a source (river, well) reaches the root zone of the plants. Part of the water is lost during transport through the canals and in the fields. The remaining part is stored in the root zone and eventually used by the plants. In other words, only part of the water is used efficiently, the rest of the water is lost for the crops on the fields that were to be irrigated.
+Figure 24 shows the irrigation water losses in canals; these are due to:
+1. Evaporation from the water surface
+2. Deep percolation to soil layers underneath the canals
+3. Seepage through the bunds of the canals
+4. Overtopping the bunds
+5. Bund breaks
+6. Runoff in the drain
+7. Rat holes in the canal bunds
+Figure 24. Irrigation water losses in canals
+Figure 25 shows the irrigation water losses in the field; these are due to:
+1. Surface runoff, whereby water ends up in the drain
+2. Deep percolation to soil layers below the root zone
+Figure 25. Irrigation water losses in the field
+To express which percentage of irrigation water is used efficiently and which percentage is lost, the term irrigation efficiency is used.
+The scheme irrigation efficiency (e in %) is that part of the water pumped or diverted through the scheme inlet which is used effectively by the plants. The scheme irrigation efficiency can be sub-divided into:
+- the conveyance efficiency (ec) which represents the efficiency of water transport in canals, and
+- the field application efficiency (ea) which represents the efficiency of water application in the field.
+The conveyance efficiency (ec) mainly depends on the length of the canals, the soil type or permeability of the canal banks and the condition of the canals.
+In large irrigation schemes more water is lost than in small schemes, due to a longer canal system. From canals in sandy soils more water is lost than from canals in heavy clay soils. When canals are lined with bricks, plastic or concrete, only very little water is lost. If canals are badly maintained, bund breaks are not repaired properly and rats dig holes, a lot of water is lost.
+Table 7 provides some indicative values of the conveyance efficiency (ec), considering the length of the canals and the soil type in which the canals are dug. The level of maintenance is not taken into consideration: bad maintenance may lower the values of Table 7 by as much as 50%.
+Table 7. INDICATIVE VALUES OF THE CONVEYANCE EFFICIENCY (ec) FOR ADEQUATELY MAINTAINED CANALS
+Earthen canals
+Lined canals
+Soil type
+Sand
+Loam
+Clay
+Canal length
+Long (> 2000m)
+Medium (200-2000m)
+Short (< 200m)
+The field application efficiency (ea) mainly depends on the irrigation method and the level of farmer discipline. Some indicative values of the average field application efficiency (ea) are given in Table 8. Lack of discipline may lower the values found in Table 8.
+Table 8. INDICATIVE VALUES OF THE FIELD APPLICATION EFFICIENCY (ea)
+Irrigation methods
+Field application efficiency
+Surface irrigation (border, furrow, basin)
+Sprinkler irrigation
+Drip irrigation
+Once the conveyance and field application efficiency have been determined, the scheme irrigation efficiency (e) can be calculated, using the following formula:
+with
+e = scheme irrigation efficiency (%)
+ec = conveyance efficiency (%)
+ea = field application efficiency (%)
+A scheme irrigation efficiency of 50-60% is good; 40% is reasonable, while a scheme Irrigation efficiency of 20-30% is poor.
+It should be kept in mind that the values mentioned above are only indicative values.
+EXAMPLE
+QUESTION:
+Determine the project irrigation efficiency for a scheme with a long canal system. The canals are constructed in heavy clay and the irrigation method is furrow irrigation. Maintenance of the canals is adequate.
+ANSWER:
+Estimate the conveyance efficiency, using Table 7: ec = 80%.
+Determine the field application efficiency, using Table 8: ea = 60%.
+Thus, the scheme irrigation efficiency e = 80 x 60/100 = 48% or approximately 50%. This is considered a fairly good scheme Irrigation efficiency, for a surface Irrigation system.
+<section>9</section>
+Annex II: Rainfall measurement*
+* The information in this Annex has been obtained from FAO irrigation and Drainage Paper 27, Agrometeorological Field Stations, Chapter 6.
+The total amount of rainfall over a given period is expressed as the depth of water which would cover a horizontal area if there is no runoff, infiltration and evaporation. This depth is generally expressed in millimetres.
+Accuracy of rainfall measurement is mainly affected by wind, by the height of the gauge and exposure. Wind and exposure errors can be very large, even more than 50 percent. The catch of rainfall is a function of the height of the gauge; the more open the location the greater will be the difference in catch with height.
+RAINGAUGES
+Raingauges have a cylindrical form. The leakproof collector rim is placed above a funnel which leads to a receiver. The receiver should have a narrow neck into which the funnel fits to reduce evaporation loss.
+The collector should have a receiving area of 200 to 500 cm^2. The rim of the collector should have a sharp edge which falls away vertically inside. The collector is designed so that rain cannot splash out; the walls should therefore be sufficiently deep and the slope of the funnel sufficiently steep (more than 45°).
+Raingauges are made of non-corrosive metal, fibreglass or plastic. Since type, diameter of the collector, height and manner in which the gauge is exposed vary considerably from country to country, it is important that the type selected and method of installation should be similar to any other raingauge in the area in order to obtain comparable data. Normal height of exposure is usually 30 cm above ground level. At greater height wind affects the accuracy of measurement. Where the raingauge placement and particularly the siting are very different from local practice, a side by side comparison between the two raingauges may be needed. The graduation of the gauging device (jar or rod) must, however, always be consistent with the size of the collecting area of the raingauge. A number of raingauge types are shown below.
+SITING
+The site must be level and the surrounding ground should be uniform. The ground should preferably be grassed or loose earth. No object such as another instrument, building or trees should be closer than four times their height. Very exposed sites, such as on the top of a hill, should be avoided. For very exposed sites without any natural shelter raingauge shields are sometimes used. The raingauge should be firmly mounted on a concrete base. The rim of the raingauge must always be horizontal.
+MEASUREMENTS
+Measurements should be taken at the same time each morning. A graduated measuring cylinder or a graduated dipstick or rod should be used. The former is preferred. If it is raining at time of observation, measurements should be taken quickly to avoid loss of catch.
+A measuring cylinder, standard for the instrument in use, should be of clear glass or plastic. The diameter of the measuring cylinder should not be more than one third of the diameter of the rim of the gauge. Graduations should be clearly engraved in 0.2 mm graduations. The measuring procedure is to pour the rain water from the storage contained into the measure and to read the value from the graduations. If there has been considerable rainfall, this may have to be done in two or more stages. The bottom of the water meniscus should be taken as the defining line. When reading, the cylinder should be held vertically. The empty storage vessel is then returned to the gauge and the collector replaced.
+If no special graduated measure adapted to the raingauge in use is available, a measure graduated in cm^3 can be used. The procedure is the same but the observed volume should be divided by the surface area of the collector of the gauge in cm^2 to find the cm of rainfall. Errors using this type of measurement can be greater.
+MEASURING CYLINDERS
+OBSERVATIONS
+Rainfall should be observed in units of 0.1 mm. Readings of less than 0.05 mm should be recorded as a "trace". A "trace" is also recorded when there is no sign of precipitation in the gauge but it is known for certain that slight rainfall has occurred since the last raingauge reading.
+It is conventional to allocate the 24 hours catch observed in the raingauge before or at 09.00 hours to the previous day. For example, the catch measured at 08.00 hours on 1 December will be shown in the record dated 30 November and be included in the November totals. The hour of observation should, however, still coincide with local practice.
+MAINTENANCE
+Raingauges should be checked for leakage; dust and leaves should be removed from the collector. The inside should be cleaned but should not be polished. The measuring cylinder should be clean, and should not be dented. A spare measuring cylinder should be available. Plant growth around and above the raingauge should be kept out.
+<section>a</section>
+Annex III: Datasheet: determination of irrigation water need of paddy rice
+Crop number:.....................
+Planting date:....................
+Months
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ETo (mm/day)
+Growth stages
+Kc per gr. st.
+Kc per month
+ET crop (mm/d)
+ET crop (mm/m)
+SAT (mm)
+PERC (mm/mo)
+WL (mm)
+P (mm/mo)
+Pe (mm/mo)
+IN (mm/mo)
+IN (mm/day)
+Crop number:.....................
+Planting date:....................
+Months
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ETo (mm/day)
+Growth stages
+Kc per gr. st.
+Kc per month
+ET crop (mm/d)
+ET crop (mm/m)
+SAT (mm)
+PERC (mm/mo)
+WL (mm)
+P (mm/mo)
+Pe (mm/mo)
+IN (mm/mo)
+IN (mm/day)
+Note:
+IN (mm/mo) = ET crop (mm/mo) + SAT (mm) + PERC (mm/mo) + WL (mm) - Pe (mm/mo)
+<section>b</section>
+Suggested further reading
+FAO 1977. Crop water requirements (revised). Irrigation and Drainage Paper 24. J. Doorenbos and W.O. Pruitt. Rome.
+FAO 1976. Agro-meteorological field stations. Irrigation and Drainage Paper 27. J. Doorenbos. Rome.
+FAO 1979. Yield response to water. Irrigation and Drainage Paper 33. J. Doorenbos and A.H. Kassam. Rome.
+Stern P. 1979. Small Scale Irrigation. Intermediate Technology Publications, London, and International Irrigation Information Center, Bet Dagan.
+Withers B. and Vipond S. 1974. Irrigation Design and Practice. Batsford, London.

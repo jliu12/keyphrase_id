@@ -1,0 +1,2621 @@
+<title>Introduction to Tropical Fish Stock Assessment - Part 2: Exercises. Introduction to tropical fish stock assessment - Part 2: Excercises</title>
+<section>1</section>
+PREPARATION OF THIS DOCUMENT
+The first edition of the manual "Introduction to tropical fish stock assessment" was prepared by the FAO/DANIDA project "Training in fish stock assessment and fisheries research planning" (GCP/INT/392/DEN) for use in a series of regional and national training courses on fish stock assessment.
+In 1984 the author, Per Sparre, was asked to write it on the basis of lecture notes and case studies prepared by the team of lecturers engaged in the courses. The first edition was printed in July 1985 in Manila, the Philippines, and distributed by the project through the Network of Tropical Fisheries Scientists of the International Center for Living Aquatic Resources Management (ICLARM) and training courses.
+In 1989 the manual underwent a thorough revision by Mr. P. Sparre, Dr. E. Ursin, former Director of the Danish Institute for Fisheries and Marine Research, and Mr. S.C. Venema. This version was published in 1989 as FAO Fisheries Technical Paper 306.1 (Manual) and 306.2 (Exercises).
+In 1991, when the stock was nearly exhausted, it was decided to undertake another thorough revision, placing emphasis on didactical aspects, correction of errors and at the same time, cross referencing with the computer program FiSAT (FAO/ICLARM Stock Assessment Tools) that had been developed in the meantime.
+In 1994 Dr. Ursin prepared new texts to replace sections that had proven to be inadequate and partly to add new examples and some extensions to the methods contained in the manual. These new texts can be found in Section 2.6: Bhattacharya method, Section 3.4: Comparison of growth curves, phi prime, Section 5.2: Cohort analysis with several fleets, Section 6.2: Estimation of gill net selection, Section 8.3: Mean age and size in the yield, Section 8.6: Short and long-term prediction and parts of Section 8.7: Length-based Thompson and Bell model.
+The opportunity was used to revise the documents again, at the same time correcting errors pointed out by translators and users, whose contributions are gratefully acknowledged.
+It should be noted that new figures, tables and formulas have been assigned new unique numbers, which do not overlap with any of the deleted numbers used in previous versions. The figures were partly revised in Chile by Messrs. P. Arana and A. Nuñez. Typing and word processing was taken care of by Ms. Jane Ugilt in Denmark.
+Similar versions have already appeared in Portuguese and Spanish and will appear in Indonesian and Thai.
+Earlier versions have been translated into Chinese, French and Vietnamese.
+Sparre, P.; Venema, S.C.
+Introduction to tropical fish stock assessment. Part 2. Exercises.
+FAO Fisheries Technical Paper. No. 306/2, Rev. 2. Rome, FAO. 1999. 94 p.
+ABSTRACT
+In Part 1, Manual, a selection of methods on fish stock assessment is described in detail, with examples of calculations. Special emphasis is placed on methods based on the analysis of length-frequencies. After a short introduction to statistics, it covers the estimation of growth parameters and mortality rates, virtual population methods, including age-based and length-based cohort analysis, gear selectivity, sampling, prediction models, including Beverton and Holt's yield per recruit model and Thompson and Bell's model, surplus production models, multispecies and multifleet problems, the assessment of migratory stocks, a discussion on stock/recruitment relationships and demersal trawl surveys, including the swept-area method. The manual is completed with a review of stock assessment, where an indication is given of methods to be applied at different levels of availability of input data, a review of relevant computer programs produced by or in cooperation with FAO, and a
+list of references, including material for further reading.
+In Part 2, Exercises, a number of exercises is given with solutions. The exercises are directly related to the various chapters and sections of the manual.
+Distribution:
+DANIDA
+Participants at courses on Fish Stock Assessment organized by projects GCP/INT/392/DEN and GCP/INT/575/DEN
+New members of ICLARM's Network of Tropical Fisheries Scientists
+Institutes specialised in Tropical Fish Stock Assessment
+Institutes of Fisheries Education
+Marine and Inland Selectors
+FAO Regional Offices and Representatives
+<section>2</section>
+LIST OF SYMBOLS
+A. Symbols used in formulas for fish stock assessment
+A
+attrition rate
+a
+swept area (effective path swept by a trawl)
+ASP
+available sum of peaks (ELEFAN)
+b
+constant in length-weight relationship W = q * L^b
+B
+biomass
+Bv
+virgin (unexploited) biomass
+B/R
+biomass per recruit
+C
+catch in numbers (VPA)
+C(t, ¥)
+cumulated catch (from age t to maximum age)
+C
+amplitude (0-1) (ELEFAN)
+C[0]
+fixed costs of a sampling programme
+CPUA
+catch per unit of area
+CPUE
+catch per unit of effort
+D
+number of natural deaths (VPA)
+D50%
+deselection, length at which 50% is not caught
+dL
+interval size of length
+E
+fishing effort
+E
+exploitation rate (F/Z)
+ESP
+explained sum of peaks (ELEFAN)
+f
+fishing effort
+F
+fishing mortality coefficient or instantaneous rate (per time unit)
+Fm
+maximum fishing mortality
+F-array
+array of F-at-age, fishing pattern
+F-factor
+multiplication factor of F (Thompson and Bell), X
+G
+natural mortality factor in Pope's cohort analysis
+H
+natural mortality factor in Jones' length-based cohort analysis
+I
+separation index
+K
+curvature parameter
+KO
+index of metabolic rate
+L
+length
+general
+L1 - L2
+length class
+general
+L1, L2
+from length L1 to length L2
+general
+L[¥ ]or L¥
+L infinity, asymptotic length (mean length of very old fish)
+L'
+some length for which all fish of that length and larger are under full exploitation (lower limit of corresponding length interval)
+average length of the entire catch
+Lc or L50%
+length at which 50% of the fish is retained by the gear and 50% escape
+L75% or L75
+length at which 75 % of the fish is retained in the gear
+Lm
+optimum length for being caught
+m
+= K/Z
+M
+natural mortality coefficient or instantaneous rate of natural mortality or natural mortality rate (per time unit)
+MSE
+Maximum Sustainable Economic Yield
+MSY
+Maximum Sustainable Yield
+N
+number of survivors (VPA)
+N(t)
+number of survivors of a cohort attaining age t
+N(Tr)
+number of recruits to the fishery
+average numbers of survivors of a cohort
+f '
+(phi prime), ln K + 2 * ln L[¥ ]
+q
+condition factor, constant in length-weight relationship
+q
+catchability coefficient
+R
+recruitment, number of recruits, N(Tr)
+S
+survival rate
+SF
+selection factor
+S[L] or S(L)
+logistic curve (length-based gear selectivity)
+S[t] or S(t)
+logistic curve (age-based gear selectivity)
+S1 and S2
+constants in the formula for the length-based logistic curve
+SR
+reversed logistic curve
+S/R
+stock recruitment relationship
+t
+time (usually in years)
+general
+t'
+some age for which all fish of that age and older are under full exploitation
+mean age of all fish of age t' and older
+T
+ambient temperature in °C
+Tc
+age-at-first-capture (start of exploited phase)
+Tm
+longevity (maximum age)
+Tm50%
+age of massive maturation (50% of population mature)
+t[0]
+t-zero, initial condition parameter (in years)
+Tr
+age-at-recruitment to the fishery
+ts
+summerpoint (0-1) (ELEFAN)
+tw
+winterpoint (0-1) (ELEFAN)
+t50%
+age at which 50% of the fish is retained in the gear (Thompson and Bell)
+T1 and T2
+constants in the formula for the age-based logistic curve
+U
+1 - Lc/L[¥ ]
+average price (Thompson and Bell)
+V
+value (Thompson and Bell)
+VPA
+Virtual Population Analysis
+w
+weight (usually of one specimen)
+general
+W[¥ ]or W¥
+weight infinity, asymptotic weight (W infinity, mean weight of very old fish)
+X
+multiplication factor of F (Thompson and Bell)
+y
+year (usually as an index)
+Y
+yield (catch in weight)
+Y/R
+yield per recruit (Beverton and Holt)
+(Y/R)'
+relative yield per recruit (Beverton and Holt)
+Z
+total mortality coefficient, instantaneous rate of total mortality or total mortality rate (per time unit)
+B: Mathematical notation (general)
+multiplication sign
+division sign
+ln
+natural logarithm (base e = 2.7182818)
+log
+10 based logarithm
+exp(x) or e^x
+exponential function, exp(x) = e^x
+sum of all values of X(i), for i from 1 to n; the sum X(l) + X(2) +... + X(n)
+square root
+infinity
+D x
+delta x, a small increment of the variable x
+MAX {X(j)}
+j
+maximum value among the elements in the set {X(j)} = {X(l), X(2),... X(j),...}
+mean value of x
+x(i, j)
+i, j indices of x (usually printed as x[i, j])
+p
+pi = 3.14159
+a < b
+a smaller than b
+a > b
+a greater than b
+a => b
+a greater than or equal to b
+tanh
+hyperbolic tangent
+C. Statistical notation
+y = a + b * x
+linear regression
+a
+intercept of ordinary regression
+a'
+intercept of functional regression
+b
+slope of ordinary regression
+b'
+slope of functional regression
+e
+(epsilon) maximum relative error
+f
+degrees of freedom
+F
+observed frequency
+Fc
+calculated or theoretical frequency
+n
+number of observation
+r
+correlation coefficient
+s/Ö n
+standard error
+s
+standard deviation
+s^2
+variance
+sa
+standard deviation of the intercept (a)
+sa^2
+variance of the intercept (a)
+sb
+Standard deviation of the slope (b)
+sb^2
+variance of the slope (b)
+sx
+standard deviation of the independent variable (x)
+sx^2
+variance of the independent variable (x)
+sxy
+covariance
+relative standard deviation or coefficient of variation
+sy
+standard deviation of the dependent variable (y)
+sy^2
+variance deviation of the dependent variable (y)
+t[f]
+quantil of t distribution (Student's) for f degrees of freedom
+x
+independent variable
+mean value of x
+y
+dependent variable
+<section>3</section>
+17. EXERCISES
+The exercises are numbered according to the numbers of the relevant sections of the manual.
+Exercise 2.1 Mean value and variance
+In this exercise we use part of the length-frequency data of the coral trout (Plectropomus leopardus) presented in Fig. 3.4.0.2, namely those in the length interval 23-29 cm. These fish are assumed to belong to one cohort. The length-frequencies are presented in Fig. 17.2.1.
+Tasks:
+Read the frequencies, F(j) from Fig. 17.2.1 and complete the worksheet. Calculate mean, variance and standard deviation.
+Worksheet 2.1
+j
+L(j) - L(j) + dL
+F(j)
+sums
+S F(j)
+s^2 =
+s =
+Fig. 17.2.1 Length-frequency sample
+Exercise 2.2 The normal distribution
+This exercise consists of fitting a normal distribution to the length-frequency sample of Exercise 2.1, by using the expression:
+for a sufficient number of x-values allowing you to draw the bell-shaped curve.
+For your convenience introduce the auxiliary symbols:
+so that the formula above can be written
+Since A and B do not depend on L and as they are going to be used many times, it is convenient to calculate them separately before-hand.
+Tasks:
+1) Calculate A and B
+B = -1/(2s^2) =
+2) Calculate Fc(x) for the following values of x:
+Worksheet 2.2
+x
+Fc(x)
+x
+Fc(x)
+3) Draw the bell-shaped curve on Fig. 17.2.1
+Exercise 2.3 Confidence limits
+Tasks:
+Calculate the 95% confidence interval for the mean value estimated in Exercise 2.1.
+Exercise 2.4 Ordinary linear regression analysis
+It is often observed that the more boats participate in a fishery the lower the catch per boat will be. This is not surprising when one considers the fish stock as a limited resource which all boats have to share. In Chapter 9 we shall deal with the fisheries theory behind this model.
+The data shown below in the worksheet are from the Pakistan shrimp fishery (Van Zalinge and Sparre, 1986).
+Tasks:
+1) Draw the scatter diagram.
+2) Calculate intercept and slope (use the worksheet).
+3) Draw the regression line in the scatter diagram.
+4) Calculate the 95% confidence limits of a and b.
+Worksheet 2.4
+number of boats
+catch per boat per year
+year
+i
+x(i)
+x(i)^2
+y(i)
+y(i)^2
+x(i) * y(i)
+Total
+sx =
+sy =
+variance of b:
+sb =
+variance of a:
+sa =
+Student's distribution: t[n-2] =
+confidence limits of b and a:
+b - sb * t[n-2], b + sb * t[n-2] = [________________,________________]
+a - sa * t[n-2], a + sa * t[n-2] = [________________,________________]
+Exercise 2.5 The correlation coefficient
+Refer to Exercise 2.4. Does the correlation coefficient make sense in the example of catch per boat regressed on number of boats? Consider which of the variables is the natural candidate as independent variable. Can we (in principle) decide in advance on the values of one of them?
+Tasks:
+Irrespective of your findings in the first part of the exercise carry out the calculation of the 95% confidence limits of r.
+Exercise 2.6 Linear transformations of normal distributions, used as a tool to separate two overlapping normal distributions (the Bhattacharya method)
+Fig. 17.2.6A shows a frequency distribution which is the result of two overlapping normal distributions "a" and "b". We assume that the length-frequencies presented in Fig. 17.2.6B are also a combination of two normal distributions. The aim of the exercise is to separate these two components. The total sample size is 398. Assume that each component has 50% of the total or 199. Further assume that the frequencies at the left somewhat below the top are fully representative for component "a", while those at the bottom of the right side are fully representative for component "b".
+Fig. 17.2.6A Combined distribution of two overlapping normal distributions
+Fig. 17.2.6B Length-frequency sample (assumed to consist of two normal distributions
+Tasks:
+1) Complete Worksheet 2.6a.
+2) Plot D ln F(z) = y' against x + dL/2 = z and decide which points lie on straight lines with negative slopes (see Fig. 2.6.5).
+3) On the basis of the plot select the points to be used for the linear regressions. (Avoid the area of overlap and points based on very few observations). Do the two linear regressions and determine a and b.
+5) Draw the two plots which represent each distribution in linear form.
+6) We now want to convert the straight lines into the corresponding theoretical (calculated) normal distributions. Using Eq. 2.2.1 calculate Fc(x) for both normal distributions for a sufficient number of x-values to allow you to draw the two bell-shaped curves superimposed on Fig. 17.2.6B. Assume n = 199 for both components. (Use the same method as presented in Exercise 2.2). Complete Worksheet 2.6b.
+Worksheet 2.6a
+interval
+x
+F(x)
+ln F(x)
+D ln F(z)
+z = x + dL/2
+Worksheet 2.6b
+First component
+Second component
+B =
+B =
+x
+Fc(x)
+first
+Fc(x)
+second
+x
+Fc(x)
+first
+Fc(x)
+second
+Exercise 3.1 The von Bertalanffy growth equation
+The growth parameters of the Malabar blood snapper (Lutjanus malabaricus) in the Arafura Sea were reported by Edwards (1985) as:
+K = 0.168 per year
+L[¥ ]= 70.7 cm (standard length)
+t[0] = 0.418 years
+Edwards also estimated the standard length/weight relationship for Lutjanus malabaricus:
+w = 0.041 * L^2.842 (weight in g and standard length in cm)
+as well as the relationship between standard length (S.L.) and total length (T.L.):
+T.L. = 0.21 + 1.18 * S.L.
+Tasks:
+Complete the worksheet and draw the following three curves:
+1) Standard length as a function of age
+2) Total length as a function of age
+3) Weight as a function of age
+Worksheet 3.1
+age
+standard length
+total length
+body weight
+age
+standard length
+total length
+body weight
+years
+cm
+cm
+g
+years
+cm
+cm
+g
+(do not use ages above 16 in the graph)
+Exercise 3.1.2 The weight-based von Bertalanffy growth equation
+Pauly (1980) determined the following parameters for the pony fish or slipmouth (Leiognathus splendens) from western Indonesia:
+L[¥ ]= 14 cm
+q = 0.02332
+K = 1.0 per year
+t[0] = -0.2 year
+Tasks:
+Complete the worksheet and draw the length and the weight-converted von Bertalanffy growth curves.
+Worksheet 3.1.2
+age
+t
+length
+L(t)
+weight
+w(t)
+age
+t
+length
+L(t)
+weight
+w(t)
+Exercise 3.2.1 Data from age readings and length compositions (age/length key)
+Consider Table 3.2.1.1 (age/length key) and suppose we caught a total of 2400 fish of the species in question during the cruise from which this age/length key was obtained and that only 439 specimens of Table 3.2.1.1 were aged. The remaining fish were all measured for length. To reduce the computational work of the exercise only a part (386 fish) of this length-frequency sample is used. This part is shown in the worksheet.
+Tasks:
+Estimate how many of these 386 fish belonged to each of the four cohorts listed in Table 3.2.1.1, by completing the worksheet.
+Worksheet 3.2.1
+cohort
+S
+A
+S
+A
+S
+A
+S
+A
+length interval
+key
+number in length sample
+numbers per cohort
+total
+Exercise 3.3.1 The Gulland and Holt plot
+Randall (1962) tagged, released and recaptured ocean surgeon fish (Acanthurus bahianus) near the Virgin Islands. Data of 11 of the recaptured fish are shown in the worksheet, in the form of their length at release (column B) and at recapture (column C) and the length of the time between release and recapture (column D).
+Tasks:
+1) Estimate K and L for the ocean surgeon fish using the Gulland and Holt plot.
+2) Calculate the 95% confidence limits of the estimate of K.
+Worksheet 3.3.1
+A
+B
+C
+D
+E
+F
+fish
+no.
+L(t)
+L(t + D t)
+D t
+cm
+cm
+days
+cm/year
+cm
+(y)
+(x)
+a (intercept) =
+b (slope) =
+K =
+L[¥ ]=
+sb =
+t[n-2] =
+confidence interval of K =
+Exercise 3.3.2 The Ford-Walford plot and Chapman's method
+Postel (1955) reports the following length/age relationship for Atlantic yellowfin tuna (Thunnus albacares) off Senegal:
+age
+(years)
+fork length
+(cm)
+Tasks:
+Estimate K and L[¥ ]using the Ford-Walford plot and Chapman's method.
+Worksheet 3.3.2
+Plot
+FORD-WALFORD
+CHAPMAN
+t
+L(t)
+(x)
+L(t + D t)
+(y)
+L(t)
+(x)
+L(t + D t) - L(t)
+(y)
+a (intercept)
+b (slope)
+t[n-2]
+confidence limits of b
+K
+L[¥ ]
+Exercise 3.3.3 The von Bertalanffy plot
+Cassie (1954) presented the length-frequency sample of 256 seabreams (Chrysophrys auratus) shown in the figure. He resolved this sample into normally distributed components (similar to Fig. 3.2.2.2) using the Cassie method (cf. Section 3.4.3) and found the following mean lengths for four age groups (cf. Fig. 17.3.3.3):
+A
+B
+C
+D
+age group
+mean length
+(inches)
+D L/D t
+Note: a Gulland and Holt plot gives (cf. Columns C and D): K = -0.002 and L[¥ ]= -950 inches, which makes no sense whatsoever.
+Tasks:
+1) Estimate K from the von Bertalanffy plot.
+2) Why does it not make sense to ask you to estimate t[0]?
+Fig. 17.3.3.3 Length-frequency distribution of 256 sea breams. Arrows indicate mean lengths of age groups as determined by Cassie (1954)
+Exercise 3.4.1 Bhattacharya's method
+Weber and Jothy (1977) presented the length-frequency sample of 1069 threadfin breams (Nemipterus nematophorus) shown in Fig. 17.3.4.1A. These fish were caught during a survey from 29 March to 1 May 1972, in the South China Sea bordering Sarawak. The lengths measured are total lengths from the snout to the tip of the lower lobe of the caudal fin.
+Figs. 17.3.4.1B and 17.3.4.1C show the Bhattacharya plots for the data in Fig. 17.3.4.1A, where B is based on the original data in 5 mm length intervals and C on the same data regrouped in 1 cm intervals. You should proceed with Fig. C for two reasons: 1) because it appears easier to see a structure in Fig. C than in Fig. B and 2) because the number of calculations is much lower.
+Tasks:
+1) Resolve the length-frequency sample (1 cm groups, Fig. C) into normally distributed components and estimate thereby mean length and standard deviations for each component. Use the four worksheets and plot the regression lines.
+2) Estimate L[¥ ]and K using a Gulland and Holt plot. Draw the plot.
+3) Do you think the analysis could have been improved by using Fig. B (5 mm length groups) instead of Fig. C (1 cm groups)?
+Fig. 17.3.4.1A Length-frequency sample of threadfin breams. Data source: Weber and Jothy, 1977
+Fig. 17.3.4.1B Bhattacharya plot for data in Fig. 17.3.4.1A based on original data, length interval 5 mm
+Fig. 17.3.4.1C Bhattacharya plot for data in Fig. 17.3.4.1A based on date regrouped in length intervals of 1 cm (used in the exercise)
+Worksheet 3.4.1a
+A
+B
+C
+D
+E
+F
+G
+H
+I
+length interval
+(cm)
+N1+
+ln N1+
+D ln N1+
+(y)
+L
+(x)
+D ln N1
+ln N1
+N1
+N2+
+Total
+a (intercept) =
+b (slope) =
+Worksheet 3.4.1b
+A
+B
+C
+D
+E
+F
+G
+H
+I
+interval
+N2+
+ln N2+
+D ln N2+
+L
+D ln N2
+ln N2
+N2
+N3+
+Total
+a (intercept) =
+b (slope) =
+Worksheet 3.4.1c
+A
+B
+C
+D
+E
+P
+G
+H
+I
+interval
+N3+
+ln N3+
+D ln N3+
+L
+D ln N3
+ln N3
+N3
+N4+
+Total
+a (intercept) =
+b (slope) =
+Worksheet 3.4.1d
+A
+B
+C
+D
+E
+F
+G
+H
+I
+interval
+N4+
+ln N4+
+D ln N4+
+L
+D ln N4
+ln N4
+N4
+N5+
+Total
+a (intercept) =
+b (slope) =
+Exercise 3.4.2 Modal progression analysis
+Fig. 17.3.4.2A shows a time series over twelve months of ponyfish (Leiognathus splendens) from Manila Bay, Philippines, 1957-58. (Data from Tiews and Caces-Borja, 1965; figure redrawn from Ingles and Pauly, 1984). The numbers at the right hand side of the bar diagram indicate the sample sizes, while the height of the bars represents the percentages of the total number per length group.
+Fig. 17.3.4.2B shows a time series of six samples of mackerel, (Rastrelliger kanagurta) from Palawan, Philippines, 1965. (Data from Research Division, BFAR, Manila; figure redrawn from Ingles and Pauly, 1984).
+Tasks:
+1) Fit by eye growth curves to these two time series, trying to follow the modal progression (as was done in Fig. 3.4.2.6). Start by fitting a straight line and then add some curvature to it, but do not be too particular about it. (Actually one should have carried out a Bhattacharya or similar analysis for each sample, but because of the amount of work involved in that approach, we take the easier, but less dependable, eye-fit. This exercise aims at illustrating only the principles of modal progression analysis - not the exact procedure).
+2) Read from the eye-fitted growth curves pairs of (t, L) = (time of sampling, length), and use the Gulland and Holt plot to estimate K and L[¥ ]. Assume that the samples were taken on the first day of the month. Read for Leiognathus splendens only the length for the samples indicated by "*" in Fig. A, as the figure is too small for a precise reading of each month. Use the worksheet.
+3) Use the von Bertalanffy plot to estimate t[0].
+Worksheet 3.4.2
+A. Leiognathus splendens:
+GULLAND AND HOLT PLOT
+VON BERTALANFFY PLOT
+time of sampling
+L(t)
+D L/D t
+t
+- ln (1 - L/L[¥ ])
+1 June
+1 Sep.
+1 Dec.
+1 March
+a (intercept)
+(slope, -K or K)
+L[¥ ]= - a/b =
+t[0] = - a/b =
+L(t) = ___________ [1 - exp (- _______ (t - _________ ))]
+Fig. 17.3.4.2A Time series of length-frequencies of ponyfish. Data source: Tiews and Caces-Borja, 1965
+B. Rastrelliger kanagurta:
+GULLAND AND HOLT PLOT
+VON BERTALANFFY PLOT
+time of sampling
+L(t)
+D L/D t
+t
+- ln (1 - L/L[¥ ])
+1 Feb
+1 March
+1 May
+1 June
+1 July
+1 August
+a (intercept)
+(slope, -K or K)
+L[¥ ]= - a/b =
+t[0] = - a/b =
+L(t) = ___________ [1 - exp (- _______ (t - _________ ))]
+Fig. 17.3.4.2B Time series of length-frequencies of Indian mackerel. Data source: BFAR, Manila
+Exercise 3.5.1 ELEFAN I
+This exercise aims at explaining the details of the length-frequency restructuring process. Fig. 17.3.5.1A shows a (hypothetical) length-frequency sample, where the line shows the moving average. The worksheet table shows the calculation procedure and some results. Further explanations are given below for each step of the procedure.
+Tasks:
+1) Fill in the missing figures in the worksheet table.
+2) Draw the bar diagram of the restructured data on the worksheet figure (B).
+Worksheet 3.5.1
+RESTRUCTURING OF LENGTH FREQUENCY SAMPLE
+STEP
+STEP
+STEP
+STEP
+4a
+STEP
+4b
+STEP
+STEP
+mid-length
+L
+orig. freq.
+FRQ (L)
+MA (L)
+FRQ/MA
+zeroes
+de-emphasized
+points
+highest positive points
+4.6 a)
+- 0.197 h)
+-0.109 p)
+0.966 k)
+0.966 s)
+4.8 b)
+1.250 e)
+0.123 l)
+-0.341 i)
+1.0 c)
+0 f)
+1.770 j)
+1.062 m)
+-0.127 q)
+0 r)
+0.4 d)
+0.523 n)
+S =
+SP =
+(S /12) = M = 1.083 g)
+SN =
+ASP =
+- SP/SN = R = 0.552 o)
+Fig. 17.3.5.1A Hypothetical length-frequency sample. Line indicates moving average over 5 neighbours
+Step 1: Calculate the moving average, MA(L) over 5 neighbours.
+Examples: (see Fig. 17.3.5.1 A and worksheet table)
+MA (5) = (0 + 0 + 4 + 13 + 6)/5 = 4.6 a)
+(two zeroes added at start of the sample)
+MA (15) = (4 + 13 + 6 + 0 + 1)/5 = 4.8 b)
+MA (35) = (1 + 0 + 0 + 1 + 3)/5 = 1.0 c)
+MA (60) = (1 + 0 + 1 + 0 + 0)/5 = 0.4 d)
+Step 2: Divide the original frequencies, FRQ(L), by the moving average (MA) and calculate their mean value, M:
+Examples:
+6/4.8 = 1.25 e)
+0/1 = 0 f)
+(12 = number of length intervals)
+Step 3: Divide FRQ/MA by M and subtract 1
+Examples:
+0.870/1.083 - 1 = -0.197 h)
+0.714/1.083 - 1 = -0.341 i)
+3.000/1.083 - 1 = 1.770 j)
+Step 4a: Count numbers of "zero neighbours" among the four neighbours (two zeroes added to each end of the sample).
+Step 4b: De-emphasize positive isolated values: For each "zero-neighbour" the isolated point is reduced by 20%:
+and if there are "zero-neighbours" then multiply this value by [1 - 0.2 * (no. of zeroes)]
+Examples:
+1.610 * (1 - 0.2 * 2) = 0.966 k)
+0.154 * (1 - 0.2 * 1) = 0.123 l)
+1.770 * (1 - 0.2 * 2) = 1.062 m)
+1.308 * (1 - 0.2 * 3) = 0.523 n)
+Note: In the most recent version (Gayanilo, Soriano and Pauly, 1988) the de-emphasizing has been made more pronounced by using the factor:
+Step 4c: Calculate sum, SP, of positive (restructured) FRQs and calculate sum, SN, of negative (restructured) FRQs and calculate the ratio R = - SP/SN
+Example:
+SP = 0.966 + 0.123 + 1.062 + 0.523 = 2.674
+SN = -0.197 - 1 - 0.340 - 1 - 1 - 0.076 - 0.230 - 1 = -4.845
+R = - SP/SN = 2.674/4.845 = 0.552 o)
+then multiply this value by R. Values > 0 are not changed.
+Examples:
+-0.197 * 0.552 = -0.109 p)
+-0.231 * 0.552 = -0.123 q)
+FRQ (55) = 0 r)
+Plot the points in the diagram (Fig. 17.3.5.1B).
+Step 6: Calculate ASP (available sum of peaks). Identify the highest point in each sequence of intervals with positive points (a "sequence" may consist of a single interval)
+Examples:
+0.966 is the highest point in the positive sequence 10-15 cm s)
+1.062 is the highest point in the positive sequence 45-45 cm
+0.523 is the highest point in the positive sequence 60-60 cm
+ASP = 0.966 + 1.062 + 0.523 = 2.551
+Fig. 17.3.5.1B Diagram for plotting points obtained after Step 5 (see text)
+Exercise 3.5.1a ELEFAN I, continued
+This exercise aims at illustrating the importance of the choice of the size of the length interval (cf. Exercise 3.4.1).
+Fig. 17.3.5.1C1 shows a length-frequency sample (from Macdonald and Pitcher, 1979) of 523 pike from Heming Lake, Canada, grouped in 2 cm length intervals. There are five cohorts, determined on the basis of age reading of scales with the mean lengths shown in the following table:
+age
+years
+mean length
+cm
+standard deviation
+cm
+These data put us in a position to test ELEFAN I.
+Fig. 17.3.5.1C2 shows the normally distributed components derived from scale readings, and Fig. C3 shows the restructured data.
+Except for the largest fish ELEFAN I manages to place the ASPs (indicated by arrows) close to where the "true" mean lengths of the cohorts are, but like all other methods ELEFAN I has difficulties in handling the largest (oldest) fish.
+Tasks:
+Repeat the restructuring using Worksheet 3.5.1a on the basis of 4 cm intervals (see worksheet figure) instead of 2 cm intervals. Compare the results with those presented in Figs. 17.3.5.1C1 and C2.
+Fig. 17.3.5.1C Length-frequency sample of 523 pike (C1), cohorts as derived from age readings (C2) and restructured data of ELEFAN I (C3) for length intervals of 2 cm. Data source: Macdonald and Pitcher, 1979
+Fig. 17.3.5.1D Regrouped length-frequency data, 4 cm length intervals (see Fig. 17.3.5.1C)
+Worksheet 3.5.1a
+RESTRUCTURING OF LENGTH FREQUENCY SAMPLE
+STEP
+STEP
+STEP
+STEP
+4a
+STEP
+4b
+STEP
+STEP
+mid-length
+L
+orig. freq.
+FRQ(L)
+MA(L)
+FRQ/MA
+zeroes
+de-emphasized
+points
+highest positive points
+S =
+SP =
+(S /15) = M =
+SN =
+ASP =
+-SP/SN = R =
+Fig. 17.3.5.1E Diagram for plotting points obtained after Step 5 using data from Fig. 17.3.5.1D
+Exercise 4.2 The dynamics of a cohort (exponential decay model with variable Z)
+Consider a cohort of a demersal fish species recruiting at an age t, which is arbitrarily put to zero. Recruitment is N (0) = 10000.
+Tasks:
+1) Calculate, using the worksheet, for the first ten half year periods the number of survivors at the beginning of each period and the numbers caught when mortality rates are as shown below:
+age group
+(years)
+natural mortality
+fishing mortality
+Comments
+t1 - t2
+M
+F
+Cohort still on the nursery ground and exposed to heavy predation due to small size
+Cohort under migration to fishing ground. Some fish escape through meshes
+Cohort under full exploitation
+Predation pressure reduced
+Recruitment: N (0) = 10000
+2) Give a graphical presentation of the results.
+Worksheet 4.2
+t1 - t2
+M
+F
+Z
+e^-0.5Z
+N(t1)
+N(t2)
+N(t1) - N(t2)
+F/Z
+C(t1, t2)
+Exercise 4.2a The dynamics of a cohort (the formula for average number of survivors, Eq. 4.2.9)
+Tasks:
+Calculate the average number of survivors during the last 3 years for the cohort dealt with in Exercise 4.2 using the exact expression (Eq. 4.2.9) and the approximation demonstrated in Fig. 4.2.3, i.e. calculate N(2.0, 5.0).
+Exercise 4.3 Estimation of Z from CPUE data
+Assume that in Table 3.2.1.2 the numbers observed are the numbers caught of each cohort per hour trawling on 15 October 1983.
+Tasks:
+Estimate the total mortality for the stock under the assumption of constant recruitment, using Eq. 4.3.0.3:
+Worksheet 4.3
+cohort
+1982 A
+1982 S
+1981 A
+1981 S
+1980 A 1)
+age t2
+CPUE
+cohort
+age t1
+CPUE
+1983 S
+1982 A
+1982 S
+1981 A
+1981 S
+1) A = autumn, S = spring
+Exercise 4.4.3 The linearized catch curve based on age composition data
+Use the data presented in Table 4.4.3.1 of North Sea whiting (1974-1980).
+Tasks:
+Estimate Z from the catches of the 1974-cohort after plotting the catch curve. Calculate the confidence limits of the estimate of Z.
+Worksheet 4.4.3
+age
+(years)
+t
+year
+y
+C(y, t, t+1)
+ln C(y, t, t+1)
+remarks
+(x)
+(y)
+slope: b =
+sb^2 = [(sy/sx)^2 - b^2]/(n-2) =
+sb =
+sb * t[n-2] = ________________ z = _______ ± _______
+Exercise 4.4.5 The linearized catch curve based on length composition data
+Length-frequency data from Ziegler (1979) for the threadfin bream (Nemipterus japonicus) from Manila Bay are given in the worksheet below, L[¥ ]= 29.2 cm, K = 0.607 per year.
+Tasks:
+1) Carry out the length-converted catch curve analysis, using the worksheet.
+2) Draw the catch curve.
+3) Calculate the confidence limits for each estimate of Z.
+Worksheet 4.4.5
+L1 - L2
+C (L1, L2)
+t(L1)
+D t
+z
+(slope)
+remarks
+a)
+b)
+c)
+(y)
+not used, not under full exploitation
+too close to L[¥ ]
+Formulas to be used:
+a) Eq. 3.3.3.2
+b) Eq. 4.4.5.1
+c) Eq. 4.4.5.2
+Details of the regression analyses:
+length group
+slope
+number of obs.
+Student's distrib.
+variance of slope
+stand. dev. of slope
+confidence limits of Z
+L1 - L2
+Z
+n
+t[n-2]
+sb^2
+sb
+Z ± t[n-2] * sb
+Exercise 4.4.6 The cumulated catch curve based on length composition data (Jones and van Zalinge method)
+Length-frequency data from Ziegler (1979) for the threadfin bream (Nemipterus japonicus) from Manila Bay are given in the worksheet below,
+L[¥ ]= 29.2 cm, K = 0.607 per year.
+Tasks:
+1) Determine Z/K by the Jones and van Zalinge method, using the worksheet. (Start cumulation at largest length group).
+2) Plot the "catch curve".
+3) Calculate the 95% confidence limits for each estimate of Z (worksheet).
+Worksheet 4.4.6
+L1 - L2
+C(L1, L2)
+S C (L1, L[¥ ]) cumulated
+ln S C (L1, L[¥ ])
+ln (L[¥ ]- L1)
+Z/K
+remarks
+(y)
+(x)
+(slope)
+not used, not under full exploitation
+too close to L[¥ ]
+Details of the regression analyses
+length group
+slope
+* K
+number of obs.
+Student's distrib.
+variance of slope
+stand. dev. of slope
+confidence limits of Z
+L1 - L2
+Z
+n
+t[n-2]
+sb^2
+sb
+Z ± K * t[n-2 ]* sb
+Exercise 4.4.6a The Jones and van Zalinge method applied to shrimp
+Carapace length-frequency data for female shrimp (Penaeus semisulcatus) from Kuwait waters, 1974-1975, from Jones and van Zalinge (1981), are presented in the worksheet below. L[¥ ]= 47.5 mm (carapace length). Input data are total landings in millions of shrimps per year by the Kuwait industrial shrimp fishery.
+Note: In this case the length intervals have different sizes, because the length groups have been derived from commercial size groups, which are given in number of tails per pound (1 kg = 2.2 pounds).
+Tasks:
+1) Determine Z/K by the Jones and van Zalinge method using the worksheet.
+2) Plot the "catch curve".
+3) Calculate the 95 % confidence limits for each estimate of Z/K.
+Worksheet 4.4.6a
+carapace length
+mm
+numbers landed/year
+(millions)
+cumulated numbers/year
+(millions)
+remarks
+L1 - L2
+C(L1, L2)
+S C(L1, L[¥ ])
+ln S C(L1, L[¥ ])
+ln (L[¥ ]- L1)
+Z/K
+(y)
+(x)
+(slope)
+Details of the regression analyses:
+lower length
+slope
+number of obs.
+Student's distrib.
+variance of slope
+stand. dev. of slope
+confidence limits of slope
+L1
+Z/K
+n
+t[n-2]
+sb^2
+sb
+Z/K ± t[n-2] * sb
+Exercise 4.5.1 Beverton and Holt's Z-equation based on length data (applied to shrimp)
+The same data as for Exercise 4.4.6a (from Jones and van Zalinge, 1981) on Penaeus semisulcatus are given in the worksheet below. L[¥ ]= 47.5 mm (carapace length).
+Tasks:
+Estimate Z/K using Beverton and Holt's Z-equation (Eq. 4.5.1.1) and the worksheet (start cumulations at largest length group).
+Worksheet 4.5.1
+A
+B
+C
+D
+E
+F
+G
+H
+carapace length group
+mm
+numbers landed/year
+(millions)
+cumulated catch
+mid-length
+L' (L1) - L2
+C(L1, L2)
+S C(L1, L[¥ ])
+Z/K
+*) Column E: catch per length group * mid length
+Column F: cumulation of column E
+Column G: column F divided by column C
+Exercise 4.5.4 The Powell-Wetherall method
+Fork-length distribution (in %) of the blue-striped grunt (Haemulon sciurus) caught in traps at the Port Royal reefs off Jamaica during surveys in 1969-1973, are given in the worksheet below (from Munro, 1983, Table 10.35 p. 137).
+Tasks:
+1) Complete the worksheet, from the bottom.
+2) Make the Powell-Wetherall plot and decide on the points to be included in the regression analysis.
+3) Estimate Z/K and L (in fork-length).
+4) What are the basic assumptions underlying the method?
+Worksheet 4.5.4
+A
+B
+C
+D *)
+E *)
+F *)
+G *)
+H *)
+L1 - L2
+(L' = L1)
+C(L1, L2) (% catch)
+S C(L',¥)
+(% cumulated)
+(x)
+(y)
+*) Column D: sum column B (from the bottom)
+Column E: column B * column C
+Column F: sum column E (from bottom)
+Column G: divide column F by column D
+Column H: column G - column A (L' = L1)
+Exercise 4.6 Plot of Z on effort (estimation of M and q)
+For the trawl fishery in the Gulf of Thailand the effort (in millions of trawling hours) and the mean lengths of bulls eye (Priacanthus tayenus) over the years 1966-1974 were taken from Boonyubol and Hongskul (1978) and South China Sea Fisheries Development Programme (1978) and presented in the worksheet below (L[¥ ]= 29.0 cm, K = 1.2 per year, Lc = 7.6 cm).
+Tasks:
+1) Calculate Z, using the worksheet.
+2) Plot Z against effort and determine M (intercept) and q (slope).
+3) Calculate the 95% confidence limits for the estimates of M and q.
+Use the following two sets of input data (years):
+a) The years 1966-1970
+b) The years 1966-1974 and comment on the results.
+Worksheet 4.6
+year
+effort a)
+mean length
+no data
+no data
+a) in millions of trawling hours
+Exercise 5.2 Age-based cohort analysis (Pope's cohort analysis)
+Catch data by age group of the North Sea whiting (from ICES, 1981a) are presented in Tables 5.1.1 and 4.4.3.1.
+Tasks:
+1) Calculate fishing mortalities for the 1974 cohort (catch numbers given in Table 5.1.1 and M = 0.2 per year) by Pope's cohort analysis under the two different assumptions on the F for the oldest age group:
+F6 = 1.0 per year
+F6 = 2.0 per year
+2) Plot F against age for the two cases above as well as for the case of Table 5.1.1, where
+F6 = 0.5 per year
+3) Discuss the significance of the choice of the terminal F (F6). Which of the three alternatives do you prefer? (Base your decision on the solution to Exercise 4.4.3, which deals with the same data set).
+Exercise 5.3 Jones' length-based cohort analysis
+As in Exercises 4.4.6a and 4.5.1 we use the landings of female Penaeus semisulcatus of the 74/75-cohort from Kuwait waters (from Jones and van Zalinge, 1981). These data were derived from the total number of processed prawns in each of ten market categories (cf. Worksheet 5.3).
+Tasks:
+1) Using Worksheet 5.3 and the formulas given below, estimate fishing mortalities and stock numbers by means of Jones' length-based cohort analysis, using the parameters:
+K = 2.6 per year
+M = 3.9 per year
+L[¥ ]= 47.5 mm (carapace length)
+2) Give your opinion on our choice of terminal F/Z (= 0.1).
+3) Is the cohort analysis a dependable method in this case? (The value of M is a "guesstimate").
+Worksheet 5.3
+length group
+nat. mort. factor
+number caught
+(mill.)
+number of survivors
+exploitation rate
+fishing mort.
+total mort.
+g)
+a)
+b)
+c)
+d)
+e)
+L1 - L2
+H(L1, L2)
+C(L1, L2)
+N(L1)
+F/Z
+F
+Z
+0.63 f)
+a)
+b)
+N(L1) = [N(L2) * H(L1, L2) + C(L1, L2)] * H(L1, L2)
+c)
+F/Z = C(L1, L2)/[N(L1) - N(L2)]
+d)
+F = M * (F/Z)/(1 - F/Z)
+e)
+Z = F + M
+f)
+N(last L1) = C(last L1, L[¥ ])/(F/Z)
+g)
+carapace lengths in mm corresponding to the market categories (in units of number of tails per pound):
+no/lb:
+L1:
+L2:
+Exercise 6.1 A mathematical model for the selection ogive
+Tasks:
+Draw a selection curve using the parameters:
+L50% = 13.6 cm and L75% = 14.6 cm
+Use the logistic curve S[L] = 1/[1 + exp(S1 - S2 * L)]
+Exercise 6.5 Estimation of the selection ogive from a catch curve
+Data on catch by length group of Upeneus vittatus were taken from Table 4.4.5.1. K = 0.59 per year, L[¥ ]= 23.1 cm, t[0] = -0.08 year
+Tasks:
+1) Estimate the logistic curve S[t] = 1/[1 + exp(T1 - T2 * t)]
+2) Estimate L50% = L[¥ ]* [1 - exp(K * (t[0] - t50%))] and L75%
+3) Evaluate the choice of first length interval given in Table 4.4.5.1.
+Worksheet 6.5
+A
+B
+C
+D
+E
+F
+G
+H
+I
+length group
+L1 - L2
+t
+a)
+D t
+C(L1, L2)
+ln (C/D t)
+b)
+S[t ]obs.
+c)
+ln (1/S - 1)
+d)
+est.
+e)
+remarks
+(x)
+(y)
+(not used)
+613f)
+used for the analysis to estimate Z (see Table 4.4.5.1)
+493 f)
+278 f)
+93 f)
+73 f)
+7 f)
+2 f)
+a) t [(L1 + L2)/2], age corresponding to interval mid-length
+b) ln(C/D t), dependent variable in catch curve regression analysis
+c) S(t) obs. = C/[D t * exp(a - Z * t)], observed selection ogive
+Z = 4.19 and a = 14.8 (from Table 4.4.5.1)
+d) ln(1/S - 1), dependent variable in regression
+e) S(t) est. = 1/[1 + exp(T1 - T2 * t)], theoretical (estimated) selection ogive
+f) points used in the catch curve analysis (cf. Table 4.4.5.1)
+Exercise 6.7 Using a selection curve to adjust catch samples
+Tasks:
+1) Adjust the length-frequencies for Upeneus vittatus (from the data given in Table 4.4.5.1) using the results of Exercise 6.5:
+L50% = 13.6 cm and L75% = 14.6 cm
+S1 =
+S2 =
+S[L ]=
+2) Draw a histogram of the original and the adjusted frequencies excluding the raised (estimated unbiased) frequencies which you think are not safely estimated.
+Worksheet 6.7
+length group
+L1 - L2
+midpoint
+observed biased sample
+selection ogive
+S[L]
+estimated unbiased sample
+Exercise 7.2 Stratified random sampling versus simple random sampling and proportional sampling
+This exercise illustrates the gain in precision obtained from stratification. Use Table 7.2.2.
+Tasks:
+1) Estimate the variance of the mean landing Y from three different sampling methods, when the total sample size is n = 20, using the worksheets.
+a) Simple random sampling
+b) Proportional sampling: a sample of 20% from each stratum
+Worksheet 7.2 for a) and b)
+stratum
+j
+s(j)
+s(j)^2
+N(j)
+1 large
+2 medium
+3 small
+total
+as defined by Eq. 2.1.3.
+a) Simple random sampling
+b) Proportional sampling
+Worksheet 7.2 for c)
+stratum
+s(j) * N(j)
+1 large
+2 medium
+3 small
+total
+n = 20
+c) Optimum stratified sampling
+2) Calculate the standard deviations and compare the allocations per stratum.
+random
+proportional
+optimum
+allocation per stratum
+1 large
+2 medium
+3 small
+Exercise 8.3 The yield per recruit model of Beverton and Holt (yield per recruit, biomass per recruit as a function of F)
+Pauly (1980) determined the following parameters for Leiognathus splendens (cf. Exercise 3.1.2). W[¥ ]= 64 g, K = 1.0 per year, t[0] = -0.2 year, Tr = 0.2 year, M = 1.8 per year.
+Tasks:
+1) Draw the Y/R and the B/R curves, for three different values of Tc: Tc = Tr = 0.2 year, Tc = 0.3 year and Tc = 1.0 year.
+Worksheet 8.3
+Tc = Tr = 0.2
+Tc = 0.3
+Tc = 1.0
+F
+Y/R
+B/R
+Y/R
+B/R
+Y/R
+B/R
+2) Try to explain why MSY increases when Tc increases (without the use of mathematics). Is the above statement a general rule, i.e. does it hold for any increase of Tc?
+3) Read the (approximate) values of F[MSY] and MSY/R from the worksheet. Comment on your findings under the assumption that the present level of F is 1.0.
+Exercise 8.4 Beverton and Holt's relative yield per recruit concept
+For the swordfish (Xiphias gladius) off Florida, Berkeley and Houde (1980) determined the parameters:
+L[¥ ]= 309 cm, K = 0.0949 per year and M = 0.18 per year
+Tasks:
+Draw the relative yield per recruit curve, (Y/R') as a function of E, for two different values of the 50% retention length:
+Lc = 118 cm and Lc = 150 cm.
+Worksheet 8.4
+Lc = 118 cm
+Lc = 150 cm
+E
+(Y/R)'
+(Y/R)'
+(F)
+M = 0.180
+Exercise 8.6 A predictive age-based model (Thompson and Bell analysis)
+In the (hypothetical example) given in the table below a fish stock is exploited by two different gears, viz. beach seines and gill nets. These gears account for the total catch from the stock. A sampling programme for estimation of total numbers caught by age group and by gear has been running for the years 1975-1985.
+Based on the total numbers caught a VPA has been made and the estimated F values for the last data year (1985) have been separated into a beach seine component, FB and a gill net component FG (cf. Eq. 8.6.1). The average recruitment (number of 0-group fish) for the years 1975 to 1985 has been estimated from VPA to be 1000000 fish. The natural mortalities are assumed to take the age-specific values. These data are presented in part a of the worksheet.
+Tasks:
+Use Worksheet 8.6a to solve the following problems:
+1) Under the assumption that fishing mortality remains the same as in 1985 and that the recruitment is of average size, predict (based on the assumption of equilibrium):
+1.1) The number of survivors (stock numbers) by age group.
+1.2) Numbers caught by age group for each gear.
+1.3) Yield of each gear.
+Use Worksheet 8.6b to solve the following problems:
+2) Under the assumption that the gill net effort remains the same as in 1985 but that the beach seine fishery is closed (and that the recruitment is of average size) predict as 1.1, 1.2 and 1.3 above.
+3) Would you, based on the results of 1) and 2) recommend a closure of the beach seine fishery?
+Worksheet 8.6
+a. No change in fishing effort:
+age group
+mean weight (g)
+beach seine mortality
+gill net mortality
+natural mortality
+total mortality
+stock number
+beach seine catch
+gill net catch
+beach seine yield
+gill net yield
+total yield
+t
+w
+FB
+FG
+M
+Z
+CB
+CG
+YB
+YG
+YB + YG
+total
+Z = FB + FG + M
+N(t + 1) = N(t) * exp(-Z)
+CB = FB * N * (1 - exp(-Z))/Z
+CG = FG * N * (1 - exp(-Z))/Z
+b. Closure of the beach seine fishery:
+age group
+mean weight (g)
+beach seine mortality
+gill net mortality
+natural mortality
+total mortality
+stock number
+beach seine catch
+gill net catch
+beach seine yield
+gill net yield
+total yield
+t
+w
+FB
+FG
+M
+Z
+CB
+CG
+YB
+YG
+YB + YG
+total
+Exercise 8.7 A predictive length-based model (Thompson and Bell analysis)
+For this exercise a hypothetical example is used:
+M = 0.3 per year, K = 0.3 per year, L[¥ ]= 60.0 cm
+Recruitment, N(10, 15) = 1000
+length class
+fishing mortality
+mean body weight g
+price per kg
+natural mortality factor
+L1 - L2
+F (L1, L2)
+(L1, L2)
+H (L2, L2) a)
+40-L[¥ ]
+a) H(L1, L2) = ((L[¥ ]- L1)/(L[¥ ]- L2))^M/2K
+Tasks:
+Do the length-converted Thompson and Bell analysis on the example.
+Worksheet 8.7
+length class
+L1-L2
+P(L1, L2)
+N(L1)
+a)
+N(L2)
+a)
+mean biomass
+*D t
+b)
+catch
+C(L1, L2)
+c)
+yield
+(L1, L2)
+d)
+value
+(L1, L2)
+e)
+40-L[¥ ]
+f)
+Total
+a) N(L1) of a length group is equivalent to the N(L2) of the previous length group
+N(L2) = N(L1) * [1/H(L1, L2) - E(L1, L2)]/[H(L1, L2) - E(L1, L2)]
+where E(L1, L2) = F(L1, L2)/Z(L1. L2)
+where Nmean(L1, L2) * Dt = [N(L1) - N(L2)]/Z(L1, L2)
+c) C(L1, L2) = F(L1, L2) * Nmean(L1, L2) * D t
+e) value(L1, L2) = yield(L1, L2) * price(L1, L2)
+Exercise 8.7a A predictive length-based model (yield curve, Thompson and Bell analysis)
+Tasks:
+1) Do the same exercise as in Exercise 8.7 but under the assumption of a 100% increase in fishing effort (Worksheet 8.7a).
+Worksheet 8.7a
+length class
+L1-L2
+F(L1, L2)
+N(L1)
+a)
+N(L2)
+a)
+mean biomass
+*D t
+b)
+catch
+C(L1, L2)
+c)
+yield
+(L1, L2)
+d)
+value
+(L1, L2)
+e)
+40-L[¥ ]
+f)
+Total
+a) N(L1) of a length group is equivalent to the N(L2) of the previous length group
+N(L2) = N(L1) * [1/H(L1, L2) - E(L1, L2)]/[H(L1, L2) - E(L1, L2)]
+where E(L1, L2) = F(L1, L2)/Z(L1. L2)
+where Nmean(L1, L2) * Dt = [N(L1) - N(L2)]/Z(L1, L2)
+c) C(L1, L2) = F(L1, L2) * Nmean(L1, L2) * D t
+e) value(L1, L2) = yield(L1, L2) * price(L1, L2)
+2) Use the result of 1) combined with the solution to Exercise 8.7 and the results given in the table below to draw the yield, the mean biomass and the value curves.
+F-factor
+yield
+mean biomass
+value
+x
+* D t
+MSY = 165.8 at X = 0.69 biomass at MSY = 378.8
+MSE = 312.9 at X = 0.61 biomass at MSE = 405.7
+Exercise 9.1 The Schaefer model and the Fox model
+In Worksheet 9.1 are given total catch and total effort in standard boat days for the years 1969 through 1978 for the shrimp fishery in the Arafura Sea. Catches are mainly composed of the five species Penaeus merguiensis, Penaeus semisulcatus, Penaeus monodon, Metapenaeus ensis and Parapenaeopsis sculptilis (from Naamin and Noer, 1980).
+Tasks:
+1) Calculate Y/f (kg per boat day) and ln (Y/f) and plot them against effort.
+2) Estimate MSY and f[MSY] by the Schaefer model.
+3) Estimate MSY and f[MSY] by the Fox model.
+4) Plot yield against effort and draw the yield curves estimated by the two methods.
+Worksheet 9.1
+year
+yield (tonnes)
+headless
+effort
+f(i)
+boat days
+Schaefer
+Y/f
+kg/boat day
+Fox
+ln (Y/f)
+ln(kg/boat day)
+i
+Y(i)
+(x)
+(y)
+(y)
+mean values
+standard deviations
+intercept (Schaefer: a, Fox: c) *)
+slope (Schaefer: b. Fox: d) *)
+*) a, b replaced by c, d for the Fox model
+continuation of Worksheet 9.1
+Schaefer
+Fox
+variance of slope
+sb^2 = [(sy/sx)^2 - b^2]/(10-2)
+standard deviation of slope, sb
+confidence limits of slope,
+upper limit, b + t[n-2] * sb
+lower limit, b - t[n-2] * sb
+variance of intercept
+standard deviation of intercept
+Student's distribution, t[n-2]
+confidence limits of intercept
+upper limit, a + t[n-2]* sa
+lower limit, a - t[n-2] * sa
+MSY
+- a^2/(4b) =
+-(1/d) * exp(c - 1) =
+fMSY
+- a/(2b) =
+- 1/d =
+Worksheet 9.1a (for drawing the yield curves)
+f
+boat days
+Schaefer
+yield (tonnes)
+Fox
+yield (tonnes)
+f[MSY]
+f[MSY]
+Exercise 13.8 The swept area method, precision of the estimate of biomass, estimation of MSY and optimal allocation of hauls
+The data for this exercise were taken from report no. 8 of Project KEN/74/023: "Offshore trawling survey", which deals with the stock assessment of Kenyan demersal resources from surveys in the period 1979-81. The data used here are a modified set on the catch of the small-spotted grunt, Pomadasys opercularis. The data are given as catch in weight per unit time (Cw/t) in kg per hour trawling for 23 hauls covering two strata (in Worksheet 13.8). The vessel speed, current speed, both in knots (nautical mile per hour) and trawl wing spread (hr * X2) are also given.
+Tasks:
+1) Apply Eq. 13.5.3 to calculate the distance, D, covered per hour and Eq. 13.5.1 to calculate the area swept per hour, a, for each haul. Calculate the yield, Cw, per unit of area for each haul using Eq. 13.6.2 (data in the worksheet, 1 nautical mile (nm) = 1852 m).
+2) Calculate for each stratum the estimate of mean catch per unit area Ca and the confidence limits of the estimates (using Eq. 2.3.1). Calculate using Eqs. 13.7.5 and 13.6.3 an estimate of the mean biomass for the total area, when A1 = 24 square nautical miles (sq.nm), A2 = 53 sq.nm and X1 (catchability) is assigned the value 0.5.
+3) Estimate MSY using Gulland's formula, with M = Z = 0.6 per year (i.e. we assume a virgin stock).
+4) Construct a graph showing the maximum relative error for the mean catch per area against the number of hauls for each of the two strata. We define (cf. Section 7.1, Fig. 7.1.1)
+where s is the standard deviation of the estimate of the catch in weight per unit area:
+5) Assume that you have financial resources to make 200 hauls. Allocate these 200 hauls between the two strata for optimum stratified sampling (cf. Section 7.2).
+Worksheet 13.8
+STRATUM 1:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+HAUL
+CPUE
+VESSEL
+CURRENT
+TRAWL
+AREA
+CPUA
+no.
+i
+Cw/h
+kg/h
+speed
+VS
+knots
+course
+dir V
+degrees
+speed
+CS
+knots
+direction
+dir C
+degrees
+spread
+hr * X2
+m
+distance
+D
+nm
+swept
+a
+sq.nm
+Cw/a = Ca
+kg/sq.nm
+STRATUM 2:
+stratum
+number of hauls
+standard deviation
+Student's distr.
+n
+s
+s/Ö n
+t[n-1]
+Worksheet 13.8a (for plotting graph maximum relative error)
+number of hauls
+Student's distribution
+stratum 1
+stratum 2
+n
+t[n-1]
+e a)
+e a)
+Worksheet 13.8b (optimum allocation)
+stratum
+standard deviation of Ca
+area of stratum
+s
+A
+A * s
+A * s/S A * s
+200 * A * s/S A * s
+Total
+<section>4</section>
+18. SOLUTIONS TO EXERCISES
+Exercise 2.1 Mean value and variance
+Worksheet 2.1
+j
+L(j) - L(j) + dL
+F(j)
+sums
+s^2 = 1.6489
+s = 1.2841
+Exercise 2.2 The normal distribution
+Worksheet 2.2
+x
+Fc(x)
+x
+Fc(x)
+Fig. 18.2.2 Bell-shaped curve determined for length-frequency sample of Fig. 17.2.1
+Fig. 18.2.4 Ordinary regression analysis, regression line and scatter diagram (see Worksheet 2.4)
+Exercise 2.3 Confidence limits
+L - t[30] * s/Ö n = 26.22 - 2.04 * 1. 284/Ö 31 = 25.75
+L + t[30] * s/Ö n = 26.22 - 2.04 * 1. 284/Ö 31 = 26.69
+Exercise 2.4 Ordinary linear regression analysis
+Worksheet 2.4
+year
+i
+number of boats
+catch per boat per year
+x(i)
+x(i)^2
+y(i)
+y(i)^2
+x(i) * y(i)
+Total
+sx = 165.99
+sy = 8.307
+variance of b:
+sb = 0.01034
+variance of a:
+sa = 7.568
+Student's distribution: t[n-2] = 2.31
+confidence limits:
+b - sb * t[n-2], b + sb * t[n-2] = [-0.0645, -0-0167]
+a - sa * t[n-2], a + sa * t[n-2] = [42.5,77.4]
+Exercise 2.5 The correlation coefficient
+In principle the number of boats can be measured with any accuracy, so this is the natural independent variable. The correlation coefficient is not considered useful in the present context. Nevertheless, as an exercise we calculate the confidence limits, using Eqs. 2.5.3 in sections called A and B:
+A = 0.5 * ln[(1 + r)/(1 - r)] = 0.5 * ln[(1 - 0.811)/(1 + 0.811)] = -1.130
+r1 = tanh(A - B) = -0.95
+r2 = tanh(A + B) = -0.37
+Exercise 2.6a Linear transformations, the Bhattacharya plot Worksheet 2.6a
+x
+F(x)
+ln F(x)
+D ln F(z)
+x + dL/2
+remarks
+(y)
+(z)
+not used
+not used contaminated
+not used
+First component
+Second component
+intercept (a)
+slope (b)
+s^2 = - 1/b
+s
+Worksheet 2.6b
+First component
+Second component
+B = -1/(2 * 2.04^2) = -0.120
+B = -1/(2 * 1.50^2) = -0.222
+x
+Fc(x)
+first
+Fc(x)
+second
+x
+Fc(x)
+first
+Fc(x)
+second
+Fig. 18.2.6A Bhattacharya plots (linear transformations) (see Worksheet 2.6a)
+Fig. 18.2.6B The two normal distributions as determined by the Bhattacharya method superimposed on Fig. 17.2.6B (see Worksheet 2.6b)
+Exercise 3.1 The von Bertalanffy growth equation Worksheet 3.1
+age
+years
+standard length
+cm
+total length
+cm
+body weight
+g
+Fig. 18.3.1 Growth curves based on von Bertalanffy growth equations
+Exercise 3.1.2 The weight-based von Bertalanffy growth equation Worksheet 3.1.2
+age
+t
+length
+L (t)
+weight
+w (t)
+age
+t
+length
+L (t)
+weight
+w (t)
+Fig. 18.3.1.2 Growth curves for ponyfish
+Exercise 3.2.1 Data from age readings and length compositions (age/length key) Worksheet 3.2.1
+cohort
+S
+A
+S
+A
+number in length sample
+S
+A
+S
+A
+length interval
+key
+numbers per cohort
+total
+Exercise 3.3.1 The Gulland and Holt plot
+Worksheet 3.3.1
+A
+B
+C
+D
+E
+F
+fish
+no.
+L(t)
+cm
+L(t + D t)
+cm
+D t
+days
+cm/year
+(y)
+cm
+(x)
+a (intercept) = 8.77
+b (slope) = -0.431
+K = -b = 0.43 per year
+L[¥ ]= -a/b = 20.3 cm
+sb = 0.145
+t[9] = 2.26
+confidence interval of K = [0.10, 0.76]
+Fig. 18.3.3.1 Gulland and Holt plot (see Worksheet 3.3.1)
+Exercise 3.3.2 The Ford-Walford plot and Chapman's method
+Worksheet 3.3.2
+Plot
+FORD-WALFORD
+CHAPMAN
+t
+L(t)
+(x)
+L(t + D t)
+(y)
+L(t)
+(x)
+L(t + D t) - L(t)
+(y)
+a (intercept)
+b (slope)
+t[n-2]
+confidence limits of b
+K
+- ln b/D t = 0.15
+-(1/1) * ln (1 + b) = 0.15
+L[¥ ]
+1/(1 - b) = 185 cm
+-a/b = 185 cm
+Fig. 18.3.3.2 Ford-Walford and Chapman plots for yellowfin tuna off Senegal. Data source: Postel, 1955, (see Worksheet 3.3.2)
+Ford-Walford plot
+Chapman's method
+Exercise 3.3.3 The von Bertalanffy plot
+We choose 11 inches as estimate for L[¥ ], because very few (1.5%) of the seabreams are longer than 11 inches.
+We assign the arbitrary ages of 1,2,3 and 4 years to the four age groups.
+age
+L
+-ln (1 - L/L[¥ ])
+b (slope) = K = 0.60 per year
+At least, K has now got the correct sign.
+sb^2 = 0.0119, sb = 0.109, t[2] = 4.3
+confidence interval of K= [0.13, 1.07]
+t[0] cannot be estimated because the absolute age is not known.
+Fig. 18.3.3.3 Von Bertalanffy and Gulland and Holt plots for sea breams. Data source: Cassie, 1954
+von Bertalanffy plot
+Gulland and Holt plot
+Exercise 3.4.1 Bhattacharya's method
+There is no "correct" solution to this exercise. The following is a "suggestion for a solution". It is not the same result as the one obtained by Weber and Jothy (1977) by using the Cassie method.
+Fig. 18.3.4.1A Bhattacharya plots for threadfin bream. (See Worksheets 3.4.1a, b and c)
+Worksheet 3.4.1a
+A
+B
+C
+D
+E
+F
+G
+H
+I
+length interval
+N1+
+ln N1+
+D ln N1+
+(y)
+L
+(x)
+D ln N1
+ln N1
+N1
+N2+
+Total
+a (intercept) = 7.391
+b (slope) = -0.908
+*) points used in the regression analysis
+# clean starting point
+Worksheet 3.4.1b
+A
+B
+C
+D
+E
+F
+G
+H
+I
+interval
+N2+
+ln N2+
+D ln N2+
+L
+D ln N2
+ln N2
+N2
+N3+
+Total
+a (intercept) = 7.11
+b (slope) = -0.500
+Worksheet 3.4. 1c
+A
+B
+C
+D
+E
+F
+G
+H
+I
+interval
+N3+
+ln N3+
+D ln N3+
+L
+D ln N3
+ln N3
+N3
+N4+
+Total
+a (intercept) = 3.13
+b (slope) = -0.179
+Worksheet 3.4.1d
+A
+B
+C
+D
+E
+F
+G
+H
+I
+interval
+N2+
+ln N2+
+D ln N2+
+L
+D ln N2
+ln N2
+N2
+N3+
+too few observations
+Gulland and Holt plot:
+age
+D L/D t
+L
+a (intercept) = 12.7
+K = -b = 0.60 per year
+b (slope) = -0.60
+L[¥ ]= -a/b = 21.4 cm
+Fig. 18.3.4.1B Gulland and Holt plot of mean lengths of cohorts obtained by the Bhattacharya method (see Worksheets 3.4.1a, b, and c and Fig. 18.3.4.1A)
+Exercise 3.4.2 Modal progression analysis
+A. Leiognathus splendens:
+Worksheet 3.4.2
+GULLAND AND HOLT PLOT
+VON BERTALANFFY PLOT
+time of sampling
+L (t)
+D L/D t
+L
+t
+-ln (1 - L/L[¥ ])
+1 June
+1 Sep.
+1 Dec.
+1 March
+a (intercept)
+b (slope, -K or K)
+-a/b
+L[¥ ]= 10.1
+t[0] = 0.11
+L (t) = 10.1 * [1 - exp(-1.1 * (t - 0.11))]
+Fig. 18.3.4.2A Modal progression in time series of length-frequencies of ponyfish. (See Worksheet 3.4.2)
+B. Rastrelliger kanagurta:
+GULLAND AND HOLT PLOT
+VON BERTALANFFY PLOT
+time of sampling
+L (t)
+D L/D t
+L
+t
+-ln (1 - L/L[¥ ])
+1 Feb
+1 March
+1 May
+1 June
+1 July
+1 August
+a (intercept)
+b (slope, -K or K)
+-a/b
+L[¥ ]= 27.9
+t[0] = -0.32
+L(t) = 27.9 * [1 - exp(-1.6 * (t + 0.32))]
+Fig. 18.3.4.2B Modal progression in time series of length-frequencies of Indian mackerel. (See Worksheet 3.4.2)
+Exercise 3.5.1 ELEFAN I
+Worksheet 3.5.1
+RESTRUCTURING OF LENGTH FREQUENCY SAMPLE
+STEP
+STEP
+STEP
+STEP
+4a
+STEP
+4b
+STEP
+STEP
+mid-length
+L
+orig. freq.
+FRQ(L)
+MA(L)
+FRQ/MA
+zeroes
+deemphasized
+points
+highest positive points
+S = 12.993
+SP = 2.674
+(S /12) = M = 1.083
+SN = -4.845
+ASP = 2.551
+-SP/SN = R = 0.552
+Fig. 18.3.5.1 ELEFAN I, restructured data and highest positive points (see Worksheet 3.5.1, step 5)
+Exercise 3.5.1a ELEFAN I, continued
+Worksheet 3.5.1a
+RESTRUCTURING OF LENGTH FREQUENCY SAMPLE
+STEP
+STEP
+STEP
+STEP
+4a
+STEP
+4b
+STEP
+STEP
+mid-length
+L
+orig. freq.
+FRQ(L)
+MA(L)
+FRQ/MA
+zeroes
+deemphasized
+points
+highest positive points
+S = 14.320
+SP = 1.975
+(S /15) = M = 0.9547
+SN = -2.413
+ASP = 1.383
+-SP/SN = R = 0.818
+Fig 18.3.5.1A Regrouped length-frequency data of 523 pike (4 cm length intervals), ELEFAN I restructured data and highest positive points and mean lengths as determined from age reading (low arrow). (See Worksheet 3.5.1a, cf. Fig 17.3.5.1C)
+Exercise 4.2 The dynamics of a cohort (exponential decay model with variable Z)
+Worksheet 4.2
+age group
+t1 - t2
+M
+F
+Z
+e^-0.5z
+N(t1)
+N(t2)
+N(t1) - N(t2)
+F/Z
+C(t1, t2)
+Fig. 18.4.2 Exponential decay of a cohort with variable Z
+Exercise 4.2a The dynamics of a cohort (the formula for average number of survivors, Eq. 4.2.9)
+The formula for average number of survivors (Eq. 4.2.9).
+Exact value:
+Approximation:
+Exercise 4.3 Estimation of Z from CPUE data
+Worksheet 4.3
+cohort
+1982 A
+1982 S
+1981 A
+1981 S
+1980 A
+age
+t2
+CPUE
+cohort
+age
+t1
+CPUE
+1983 S
+1982 A
+1982 S
+1981 A
+1981 S
+Exercise 4.4.3 The linearized catch curve based on age composition data
+Worksheet 4.4.3
+age
+t
+(x)
+year
+y
+C(y, t, t + 1)
+ln C(y, t, t + 1)
+(y)
+remarks
+not used
+used in the analysis
+slope: b = -1.16
+sb^2 = [(sy/sx)^2 - b^2]/(n - 2) = 0.002330
+sb = 0.0483
+sb * t[n-2] = 0.0483 * 4.30 = 0.21 Z = 1.16 ± 0.21
+Fig. 18.4.4.3 The linearized catch curve based on age composition data (see Worksheet 4.4.3)
+Exercise 4.4.5 The linearized catch curve based on length composition data Worksheet 4.4.5
+L1 - L2
+C(L1, L2)
+t(L1)
+D t
+(x)
+(y)
+z
+(slope)
+remarks
+not used
+used in analysis
+too close to L[¥ ]
+Details of the regression analyses:
+length group
+slope
+number of observations
+Student's distrib.
+variance of slope
+stand. dev. of slope
+confidence limits of Z
+L1 - L2
+Z
+n
+t[n-2]
+sb^2
+sb
+Z ± t[n-2] * sb
+Fig. 18.4.4.5 The linearized catch curve based on length composition data (see Worksheet 4.4.5)
+Fig. 18.4.4.6 The cumulated catch curve based on length composition data (Jones and van Zalinge method) (see Worksheet 4.4.6)
+Exercise 4.4.6 The cumulated catch curve based on length composition data (the Jones and van Zalinge method)
+Worksheet 4.4.6
+L1 - L2
+C(L1, L2)
+S C (L1, L[¥ ]) cumulated
+ln S C (L1, L[¥ ])
+(y)
+ln (L[¥ ]- L1)
+(x)
+Z/K
+(slope)
+remarks
+not used, not under full exploitation
+used in analysis
+too close to L[¥ ]
+Details of the regression analyses:
+length group
+slope
+* K
+number of obs.
+Student's distrib.
+variance of slope
+stand. dev. of slope
+confidence limits of Z
+L1 - L2
+Z
+n
+t[n-2]
+sb^2
+sb
+Z ± K * t[n-2 ]* sb
+Exercise 4.4.6a The Jones and van Zalinge method applied to shrimp
+Worksheet 4.4.6a
+carapace length mm
+numbers landed/year
+(millions)
+cumulated numbers/year
+(millions)
+remarks
+L1 - L2
+C (L1, L2)
+S C (L1, L[¥ ])
+ln S C (L1, L[¥ ])
+(y)
+ln (L[¥ ]- L1)
+(X)
+Z/K
+(slope)
+not used
+used in analysis
+too close to L[¥ ]
+Details of the regression analysis:
+lower length
+slope
+number of obs.
+Student's distrib.
+variance of slope
+stand. dev. of slope
+confidence limits of slope
+L1
+Z/K
+n
+t[n-2]
+sb^2
+sb
+Z/K ± t[n-2] * sb
+Fig. 18.4.4.6A Cumulated catch curve based on industrial shrimp fisheries in Kuwait. Data source: Jones and van Zalinge, 1981 (see Worksheet 4.4.6a)
+Exercise 4.5.1 Beverton and Holt's Z-equation based on length data (applied to shrimp)
+Worksheet 4.5.1
+A
+B
+C
+D
+E
+F
+G
+H
+carapace length group
+mm
+numbers landed/year
+(millions)
+cumulated catch
+mid-length
+remarks
+L' (L1) - L2
+C (L1, L2)
+S C (L1, L[¥ ])
+Z/K
+not used
+numbers too low
+Fig. 18.4.5.4 Powell-Wetherall plot based on trap catches of Haemulon sciurus in Jamaica (see Worksheet 4.5.4). Data source: Munro, 1983
+Exercise 4.5.4 The Powell-Wetherall method
+Worksheet 4.5.4
+A
+B
+C
+D *)
+E *)
+F *)
+G *)
+H *)
+L' (L1) - L2
+C (L1, L2) (% catch)
+S C(L',¥)
+(% cumulated)
+(x)
+(y)
+b (slope) = -0.2997
+a (intercept) = 8.795
+Z/K = -(1 +b)/b = 2.337
+L[¥ ]= -a/b = 29.35
+*) Considered fully recruited (n = 9)
+Steady state with constant parameter system.
+Comment:
+Back in 1974, when Munro (1983) reported on the grunts, it was not easy to estimate L[¥ ](ELEFAN etc. was not available). The Ford-Walford plot resulted in almost parallel lines for all species and, consequently, could not produce reliable estimates of their L[¥ ]. Based on modal progression analysis, Munro instead, obtained by trial-and-error, the value of L[¥ ]which seemed to produce a straight line in the von Bertalanffy plot. The result was L[¥ ]= 40 cm producing K = 0.26 per year. Using L' = 20 cm he then obtained Z/K = (40 - 22.772)/2.772 = 6.2 from Beverton and Holt's formula. (This estimate represents the straight line on the plot that connects the L' = 20 cm point with an x-intercept of L[¥ ]= 40 cm, i.e. a line with slope b = -(1 + Z/K)^-1 = -0.14.) Thus, Munro obtained Z = 6.2 * 0.26 = 1.6 per year. However, a L[¥ ]» 30 cm changes Munro's MPA somewhat and using his procedure one cannot reject L[¥ ]» 30 cm and K » 0.5 per year. Using our results we then obtain Z =
+2.34 * 0.5 = 1.17 per year.
+Exercise 4.6 Plot of Z on effort (estimation of M and q)
+Worksheet 4.6
+year
+effort
+mean length
+no data
+no data
+*) in millions of trawling hours
+L[¥ ]= 29.0 cm
+K = 1.2 per year
+Lc = 7.6 cm
+a) Based on data for the years 1966-1970:
+slope: q = 0.23 ± 0.66
+sq^2 = 0.0424
+sq = 0.206
+t[3] * sq = 3.18 * 0.206 = 0.66
+intercept: M = 1.41 ± 2.11
+sM^2 = 0.439
+sM = 0.663
+t[3] * sM = 3.18 * 0.663 = 2.11
+Both confidence intervals contain 0 and negative values which makes no biological sense. The variation in effort is too small to support a dependable regression analysis.
+b) Based on data for the years 1966-1974:
+slope: q = 0.27 ± 0.17
+sq^2 = 0.00429
+sq = 0.0655
+t[5] * sq = 2.57 * 0.0655 = 0.17
+intercept: M = 1.39 ± 0.87
+sM^2 = 0.115
+sM = 0.339
+t[5] * sM = 2.57 * 0.339 = 0.87
+Fig. 18.4.6 Plot of Z on effort, to estimate M and q of Priacanthus sp. Data source: Boonyubol and Hongskul, 1978 (see Worksheet 4.6)
+Exercise 5.2 Age-based cohort analysis (Pope's cohort analysis)
+a) terminal
+F = F6 = 1.0
+C6 = 8
+C5 = 25
+N5 = 44.4
+F5 = 0.97
+C4 = 69
+N4 = 130.4
+F4 = 0.88
+C3 = 269
+N3 = 456.6
+F3 = 1.05
+C2 = 1071
+N2 = 1741.3
+F2 = 1.14
+C1 = 860
+N1 = 3077.3
+F1 = 0.37
+C0 = 599
+N0 = 4420.7
+F0 = 0.16
+b) terminal
+F = F6 = 2.0
+C6 = 8
+C5 = 25
+N5 = 39.7
+F5 = 1.18
+C4 = 69
+N4 = 124.8
+F4 = 0.94
+C3 = 269
+N3 = 449.7
+F3 = 1.08
+C2 = 1071
+N2 = 1732.9
+F2 = 1.15
+C1 = 860
+N1 = 3067.3
+F1 = 0.37
+C0 = 599
+N0 = 4408.0
+F0 = 0.16
+Fig. 18.5.2 Pope's (age-based) cohort analysis of whiting, with different values of terminal F, to demonstrate VPA convergence. Data source: ICES, 1981
+Exercise 5.3 Jones' length-based cohort analysis
+Worksheet 5.3
+length group
+natural mortality factor
+number caught (mill.)
+number of survivors
+exploitation rate
+fishing mortality
+total mortality
+L1 - L2
+H(L1, L2)
+C(L1, L2)
+N(L1)
+F/Z
+F
+Z
+*) F (40.50 - 47.50) = 3.9 * 0.1/(1 - 0.1) = 0.43
+The cumulated catch curve (Exercise 4.4.6a) gave a Z/K value of about 3.
+From this we have Z = 3 * 2.6 = 7.8; F = Z-M = 7.8-3.9 = 3.9; exploitation rate, F/Z = 3.9/7.8 = 0.5
+Exercise 6.1 A mathematical model for the selection ogive
+L50% = 13.6 cm
+S1 = 13.6 * ln (3)/(14.6 - 13.6) = 14.941
+L75% = 14.6 cm
+S2 = ln (3)/(14.6 - 13.6) = 1.0986
+S (L) = 1/[1 + exp(14.941 - 1.0986 * L)]
+L
+S(L)
+Fig. 18.6.1 Length-based selection ogive
+Exercise 6.5 Estimation of the selection ogive from a catch curve
+Worksheet 6.5
+A
+B
+C
+D
+E
+F
+G
+H
+I
+length group
+L1 - L2
+t
+a)
+D t
+C(L1, L2)
+ln (C/D t)
+b)
+S[t ]obs.
+c)
+ln (1/S - 1)
+d)
+est.
+e)
+remarks
+(x)
+(y)
+not used
+used to estimate S[t]
+used to estimate Z (see Table 4.4.5.1)
+not used too close to L[¥ ]
+K = 0.59 per year,
+L[¥ ]= 23.1 cm,
+t[0] = -0.08 year
+Selection regression:
+a = T1 = 8.7111
+-b = T2 = 6.0829
+t50% = 8.7111/6.0829 = 1.432
+t75% = (ln (3) + 8.7111)/6.0829 = 1.613
+L50% = 23.1 * [1 - exp(0.59 * (-0.08 - 1.432))] = 13.6 cm
+L75% = 23.1 * [1 - exp(0.59 * (-0.08 - 1.613))] = 14.6 cm
+S[t] est. = 1/[1 + exp (8.7111 - 6.0829 * t)]
+Exercise 6.7 Using a selection curve to adjust catch samples
+L50% = 13.6 cm
+S1 = 13.6 * ln (3)/(14.6 - 13.6) = 14.941
+L75% = 14.6 cm
+S2 = ln (3)/(14.6 - 13.6) = 1.0986
+S[L] = 1/[1 + exp (14.941 - 1.0986 * L)]
+Worksheet 6.7
+length group
+L1 - L2
+mid point
+observed biased sample
+selection ogive
+S[L]
+estimated unbiased sample
+7326a)
+a) 3/0.00041 = 7326
+Fig. 18.6.7 Biased sample of goatfish and estimated unbiased sample, corrected for selectivity. Data source: Ziegler, 1979. (see Worksheet 6.7)
+Exercise 7.2 Stratified random sampling versus simple random sampling and proportional sampling
+Worksheet 7.2
+stratum
+j
+s (j)
+s (j)^2
+N (j)
+1 large
+2 medium
+3 small
+total
+a) Simple random sampling
+b) Proportional sampling
+c) Optimum stratified sampling
+stratum
+j
+s(j) * N(j)
+1 large
+2 medium
+3 small
+Total
+n = 20
+Comparison of results
+random
+proportional
+optimum
+allocation per stratum
+1 large
+2 medium
+3 small
+Exercise 8.3 The yield per recruit model of Beverton and Holt (yield per recruit, biomass per recruit as a function of F)
+Worksheet 8.3
+Tc = Tr = 0.2
+Tc = 0.3
+Tc = 1.0
+F
+Y/R
+B/R
+Y/R
+B/R
+Y/R
+B/R
+*) MSY/R
+MSY increases when Tc increases, because more fish survive to a large size before they are caught. From age 0.2 years to age 1.0 years the biomass production caused by individual growth exceeds the loss caused by the death process. This, of course, is not true for any high value of Tc. If, for example, Tc would be larger than the lifespan of the species in question, no fish would be caught.
+curve A: (Tc = 0.2) MSY/R = 4.15 (indicated by "*" in the Table)
+curve B: (Tc = 0.3) MSY/R = 4.54
+curve C: (Tc = 1.0) MSY/R = 5.15
+For F = 1 the Y/R is 3.64 (curve A), 3.73 (curve B) or 2.60 (curve C).
+Thus, irrespective of the actual mesh size in use an increased yield is expected for an increase of effort (F).
+The smaller the actual mesh size the smaller the gain in yield from an effort increment.
+Exercise 8.4 Beverton and Holt's relative yield per recruit concept
+Worksheet 8.4
+Lc = 118 cm
+Lc = 150 cm
+E
+(Y/R)'
+(Y/R)'
+(F)
+0.180 = M
+*) relative MSY/R
+Fig. 18.8.3 Yield per recruit and biomass per recruit curves as a function of F at different ages of first capture of ponyfish. Data source: Pauly, 1980
+Fig. 18.8.4 Relative yield per recruit curves a a function of exploitation rate (E) for two different values of 50% retention length of swordfish. Data source: Berkeley and Houde, 1980
+Exercise 8.6 A predictive age-based model (Thompson and Bell analysis)
+Worksheet 8.6
+a. No change in fishing effort:
+age group
+mean weight (g)
+beach seine mortality
+gill net mortality
+natural mortality
+total mortality
+stock number
+beach seine catch
+gill net catch
+beach seine yield
+gill net yield
+total yield
+t
+FB
+FG
+M
+Z
+CB
+CG
+YB
+YG
+YB + YG
+total
+b. Closure of the beach seine fishery:
+age group
+mean weight (g)
+beach seine mortality
+gill net mortality
+natural mortality
+total mortality
+stock number
+beach seine catch
+gill net catch
+beach seine yield
+gill net yield
+total yield
+t
+FB
+FG
+M
+Z
+CB
+CG
+YB
+YG
+YB + YG
+total
+Although total yield increased in the case of closure of the beach seine fishery, a closure of this fishery without considering the socio-economic aspects is not recommended.
+Exercise 8.7 A predictive length-based model (Thompson and Bell analysis)
+Worksheet 8.7
+length class
+mean biomass
+catch
+yield
+value
+L1 - L2
+F(L1, L2)
+N(L1)
+* D t
+C(L1, L2)
+(L1, L2)
+(L1, L2)
+40 - L[¥ ]
+Totals
+Exercise 8.7a A predictive length-based model (Yield curve, Thompson and Bell analysis)
+Worksheet 8.7a
+length class
+mean biomass
+catch
+yield
+value
+L1 - L2
+F(L1, L2)
+N(L1)
+* D t
+C(L1, L2)
+(L1, L2)
+(L1, L2)
+40 - L[¥ ]
+Totals
+Fig. 18.8.7A Thompson and Bell analysis, prediction of mean biomass, yield and value (values for X = 1 and X = 2 correspond to those calculated on Worksheets 8.7 and 8.7a respectively)
+Exercise 9.1 The Schaefer model and the Fox model *)
+Worksheet 9.1
+year
+yield (tonnes) headless
+effort
+Schaefer
+Fox
+i
+Y(i)
+f(i)
+(x)
+Y/f
+(y)
+ln (Y/f)
+(y)
+mean value
+standard deviation
+intercept (Schaefer: a, Fox: c)
+slope (Schaefer: b, Fox: d)
+variance of slope:
+sb^2 = [(sy/sx)^2 - b^2]/(10 - 2)
+standard deviation of slope, sb
+Student's distribution t[10-2]
+confidence limits of slope:
+b + t[n-2] * sb
+upper
+b - t[n-2] * sb
+lower
+variance of intercept:
+standard deviation of intercept
+confidence limits of intercept:
+a + t[n-2] * sa
+upper
+a - t[n-2] * sa
+lower
+MSY Schaefer: -a^2/(4b)
+6128 tonnes
+MSY Fox: -(1/d) * exp (c - 1)
+6154 tonnes
+f[MSY] Schaefer: -a/(2b)
+27565 boat days
+f[MSY] FOX: -1/d
+35660 boat days
+*) a, b replaced by c, d for the Fox-model
+Worksheet 9.1a
+f
+boat days
+Schaefer
+yield (tonnes)
+Fox
+yield (tonnes)
+f[MSY]
+6128 = MSY
+f[MSY]
+6154 = MSY
+Fig. 18.9.1 Combined presentation of Schaefer and Fox models of a shrimp fishery. Top: yield against effort. Bottom: CPUE respectively In CPUE against effort. Data source: Naamin and Noer, 1980. (See Worksheets 9.1 and 9.1a)
+Exercise 13.8 The swept area method, precision of the estimate of biomass, estimation of MSY and optimal allocation of hauls
+Worksheet 13.8
+STRATUM 1:
+CPUE
+VESSEL
+TRAWL
+CURRENT
+DIST
+AREA
+CPUA
+haul no.
+Cw/t
+kg/h
+speed
+knots
+course
+deg.
+w. spr.
+m
+speed
+knots
+dir. deg.
+nm.
+swept
+sq.nm.
+Cw/a = Ca
+kg/sq.nm.
+i
+VS
+dir V
+h * X2
+CS
+dir C
+D
+a
+STRATUM 2:
+CPUE
+VESSEL
+TRAWL
+CURRENT
+DIST
+AREA
+CPUA
+haul no.
+Cw/t
+kg/h
+speed
+knots
+course
+deg.
+w. spr.
+m
+speed
+knots
+dir. deg.
+nm.
+swept
+sq.nm.
+Cw/a = Ca
+kg/sq.nm.
+i
+VS
+dir V
+h * X2
+CS
+dir C
+D
+a
+stratum
+number of hauls
+n
+s
+s/Ö n
+Student's distr.
+t (n - 1)
+Mean biomass for total area:
+Area of stratum 1 and 2 combined: A = A1 + A2 = 24 + 53 = 77 sq.nm.
+Total biomass of whole area: B(A) = 1317.0 * 77/0.5 = 202818 kg, say 203 tons
+From Eq. 9.3.1: MSY = 0.5 * 0.6 * 203 = 61 tons/year.
+Worksheet 13.8a (for plotting graph maximum relative error)
+number of hauls
+t[n-1]
+stratum 1
+stratum 2
+n
+e a)
+e b)
+Worksheet 13.8b (optimum allocation)
+stratum
+s
+A
+A * s
+A * s/S A * s
+200*A*s\S A*s
+8 hauls
+192 hauls
+Total
+200 hauls
+Fig. 18.13.8 Maximum relative error in the average catch per area of small-spotted grunt against number of trawl hauls. Topline: stratum 2, line below: stratum 1. Data source: Project KEN/74/023 (see Worksheet 13.8a)
+In Part 1: Manual, a selection of methods for fish stock assessment are described in detail, with examples of calculations. Special emphasis is placed on methods based on the analysis of length frequencies. After a short introduction to statistics, the manual covers the estimation of growth parameters and mortality rates; virtual population methods, including age-based and length-based cohort analysis; gear selectivity; sampling; prediction models, including Beverton and Holt's yield-per-recruit model and Thompson and Bell's model; surplus production models; multispecies and multifleet problems; the assessment of migratory stocks; plus a discussion on stock/recruitment relationships and demersal trawl surveys, including the swept-area method. The manual ends with a review of stock assessment, giving an indication of methods to be applied at different levels of availability of input data, a review of relevant computer programs produced by or in cooperation with FAO, and a
+list of references. In Part 2: Exercises, a number of exercises are given with solutions. These exercises are directly related to the various chapters and sections of the manual.

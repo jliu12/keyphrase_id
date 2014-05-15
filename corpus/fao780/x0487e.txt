@@ -1,0 +1,777 @@
+<title>Fuel and financial savings for operators of small fishing vessels</title>
+<section>1</section>
+PREPARATION OF THIS DOCUMENT
+This guide is not a result of new original fieldwork but draws on much of the research and experience of the past two decades, updated where possible to include new technical developments. The author is indebted to many people who have helped in one way or another in the writing of this publication. They are too many to mention individually but suffice it to say that, without their guidance and assistance, the task would have been infinitely more difficult.
+The collection of reference material proved particularly challenging, and I am very grateful for the help offered by the following individuals, whose patience I may often have stretched to the limit:
+Joan Baron - Head Librarian CEMARE, Portsmouth, UK
+Bundit Chokesanguan - Training Division Head, Southeast Asian Fisheries Development Centre, Samuprakan Thailand
+Jean Collins - FAO Fisheries Department Librarian, Rome, Italy
+Michael Martin - Westfair Limited, Yeovil, UK
+Tony Molland and Phil Wilson - Department of Ship Science, Southampton University, UK
+Gowan MacAlister, MacAlister Elliott & Partners, Lymington, UK
+Brian O'Riordan - Intermediate Technology Development Group, Rugby, UK Dr K. Ravindran - Director, Central Institute of Fisheries Technology, Cochin, India Linda Temprosa - Librarian, ICLARM, the Phillippines Jeremy Turner - FAO Fisheries Department, Rome, Italy
+Finally, I owe particular thanks to my father, Robin Wilson, for his patience with the fax machine and the many volumes of documents.
+Explanatory note
+Nomenclature
+RPM revolutions per minute
+SHP shaft horsepower
+MCR maximum continuous rating
+nm nautical mile
+HP horsepower
+kt knot (1 nautical mile per hour)
+Rules of thumb, guidelines and quick approximations are presented in highlighted boxes:
+* The gearbox should be chosen to give a maximum of 1 000 RPM or less at the propeller
+Distribution:
+* FAO Fisheries Department
+* FAO Regional Representatives
+* FAO Regional Fisheries Officers
+* FAO Fisheries Projects
+Wilson, J.D.K.
+Fuel and financial savings for operators of small fishing vessels
+FAO Fisheries Technical Paper No. 383. Rome, FAO. 1999. 46 pp.
+ABSTRACT
+Fishing continues to be the most energy-intensive food production method in the world today, and it depends almost completely upon oil fuel-based internal combustion engines. There are as yet no signs of any other energy source that could substitute the internal combustion engine in either the medium or short term. The industry continues to be exposed to global fuel prices and it cannot be assumed that these will remain stable indefinitely.
+Small-scale fisheries account for nearly half of the world's fish production and, although they are generally more labour-intensive than larger industrial fisheries, they are increasingly affected by energy costs. In developing countries, in spite of the energy conservation initiatives of the 1980s (subsequent to the dramatic rise in the cost of fossil fuels), mechanization continues to increase. Fuel costs have ever more influence not only on consumer prices but also on fishermen's and boat owners' net incomes. When levels of employment and cost-sharing systems are considered, it becomes even more important from a social perspective to improve and maintain energy efficiency within small-scale fisheries.
+This guide presents information on the key technical areas that affect energy efficiency, but only part of the information presented herein will be applicable to any particular fishing situation. The guide is not a result of new original fieldwork but draws on much of the research and experience of the past two decades, updated where possible to include new technical developments.
+The guide is divided into two major sections: the first relates to changes in operational techniques rather than changes in technology; the second presents information of relevance to vessel operators who are either considering the construction of a new vessel or overhauling and re-equipping an existing vessel.
+<section>2</section>
+Introduction
+BACKGROUND
+Fishing continues to be the most energy-intensive food production method in the world today, and depends almost completely on internal combustion engines based on oil fuels. There are as yet no signs of any other energy source that could substitute the internal combustion engine in either the medium or short term. The industry continues to be exposed to global fuel prices and it cannot be assumed that these will remain stable indefinitely. Indeed, with the current rate of consumption of fossil fuels, some analysts predict dramatic energy cost increases in the next 15 to 50 years.
+Small-scale fisheries account for nearly half of the world's fish production and, although they are generally more labour-intensive than larger industrial fisheries, they are increasingly affected by energy costs. In developing countries, in spite of the energy conservation initiatives of the 1980s (subsequent to the dramatic rise in the cost of fossil fuels), mechanization continues to increase. Fuel costs have ever more influence, not only on consumer prices but also on the fishers' and boatowners' net incomes. When levels of employment and cost-sharing systems are considered, it becomes even more important from a social perspective to improve and maintain energy efficiency within small-scale fisheries.
+The significance of energy costs within a particular fishery is determined principally by the technology in use and the local economic conditions, including taxes, subsidies, labour and operational costs. Typical figures put energy costs in the region of a little under 10 percent of gross earnings for a trawl fishery down to as little as 5 percent of gross earnings for passive methods such as gillnetting.
+It must be recognized from the outset that there are considerable differences in energy optimization needs between fisheries, reflecting local economic conditions, available technology and the cultural context.
+AIM OF THIS GUIDE
+This guide is not a result of new fieldwork; instead it draws on much of the research and experience of the past two decades, updated where possible to include new technical developments. It presents information on the key technical areas affecting energy efficiency, but only part of the material presented is applicable to any particular fishing situation.
+The guide aims to assist owners and operators of fishing vessels of up to about 16 m in improving and maintaining the energy efficiency of their vessels. The basis is technical but, where possible, indications have been given as to possible fuel and financial savings to be gained through improved techniques, technologies and operating practices. Also covered are some aspects of hull design and engine installation for energy efficiency, which should be of interest to marine mechanical engineers and boatbuilders. Fisheries department officials and fieldworkers should also be able to use this guide to assist them in both advising private sector operators and prioritizing intervention activities.
+The focus of the guide is exclusively on slower speed displacement vessels, which dominate small-scale fisheries throughout the world, and no attempt has been made to cover technical and operational issues related to higher-speed planing craft. However, in many cases, the basic principles outlined are applicable to both low- and high-speed vessels.
+The contents comprises two main parts, Operational measures and Technical measures. The first deals with changes that can be made to improve energy efficiency without changing the vessel or equipment. The topics discussed are related to changes in operational techniques rather than changes in technology. The second is more relevant to vessel operators considering the construction of a new vessel or overhauling and re-equipping an existing vessel.
+No attempt has been made to propose complete technical solutions - because of the scope and variation of fishing vessels within the size category, any attempt to do so would be meaningless. The main areas where energy efficiency gains can be made are highlighted and, where possible, the likely magnitude of such gains are indicated. The significance of these gains will be determined primarily by how much energy is used in the fishery as well as by the cost of that energy.
+The guide should be considered as part of a decision-making process, and it is inevitable that owners and operators of fishing vessels will have to seek more specialized assistance before implementing many of the ideas presented here. A basic mechanical knowledge is assumed throughout and, while dealing with several quantitative issues, some mathematical ability is also required.
+The fuel savings outlined in this publication must be taken as guidance figures only, and neither the author nor the Food and Agriculture Organization (FAO) accept responsibility for the accuracy of these claims or their applicability to particular fishing situations.
+SOURCES OF ENERGY INEFFICIENCY
+In addressing the problem of energy efficiency it is useful to understand just where the energy is expended in a fishing vessel and what aspects of this can be influenced by the operator, boatbuilder or mechanic.
+In a small slow-speed vessel, the approximate distribution of energy created from the burning of fuel is shown in Figure 1. Only about one-third of the energy generated by the engine reaches the propeller and, in the case of a small trawler, only one-third of this is actually spent on useful work such as pulling the net.
+In a vessel that does not pull a net or dredge, of the energy that reaches the propeller:
+* 35 percent is used to turn the propeller;
+* 27 percent to overcome wave resistance;
+* 18 percent to overcome skin friction;
+* 17 percent to overcome resistance from the wake and propeller wash against the hull; and
+* 3 percent to overcome air resistance.
+So where can gains be made, or at least losses minimized?
+Figure 1: Energy losses in a small trawler
+Engine. Most of the energy generated by the fuel burnt in the engine is lost as heat via the exhaust and cooling system, and unfortunately there is not a lot which the operator can do to usefully recuperate this energy. In certain cases, some of this can be regained through the use of a turbocharger (see the section Engines) but, in general, the thermal efficiency of small higher-speed diesel engines is low and little can be done to improve this. However, some engines are significantly more fuel-efficient than others (especially among different types of outboard motors). Engine choice is detailed in the section Choice of engine type.
+Propeller. The energy lost in turning the propeller is controlled by two principle factors - the design of the propeller (how well suited it is to the engine, gearbox, hull and fishing application) and its condition. These factors can be influenced by the vessel operator and are dealt with in the section The propeller.
+Mode of operation. The effect of wave resistance, although determined principally by the dimensions and form of the vessel (section Hull form), increases dramatically with speed. Significant fuel savings can be made by maintaining a reasonable speed for the hull, irrespective of vessel type. The factors determining the choice of an optimum operating speed is described in the section Engine operation and in Annex 3.
+Fishing operations also influence energy consumption and efficiency through gear technology and operating patterns, particularly trip length. Neither of these are particularly easy to change in practice and are discussed in the section Fishing operations.
+Hull maintenance. The significance of skin friction is controlled principally by the quality of the hull's finish - hull roughness as well as the amount of weed and marine growth that is allowed to accumulate on the hull. Both of these factors are under the direct influence of the operator's maintenance programme but, depending on the type of vessel and fishery, a significant expenditure on hull finish is not always worthwhile. This is discussed further in the section Hull condition.
+When trying to prioritize what can be most easily done to improve fuel efficiency, it is worth considering the results of related research work carried out in New Zealand (Gilbert, 1983). The results indicate that the major causes of fuel inefficiency, in order of priority, are:
+* people - principally the vessel operator!;
+* propellers - incorrect diameter or pitch;
+* engines - mismatched to the gearbox and/or propeller;
+* engine unsuitability or misapplication.
+The operator is the most significant factor in the system - technical improvements for fuel efficiency are effectively meaningless without corresponding changes to operational practices. A technical development that allows a vessel to consume less energy at an operating speed can often also be used to increase operating speed, therefore cancelling any gain. In order to make an effective energy gain, this must be kept apart as the savings.
+* If the surplus energy created as a result of technical or operational changes is used to go faster (or to do more work), then there will be no savings - control over energy utilization invariably depends on the decisions and judgement of the ship's master on the day.
+<section>3</section>
+Operational measures
+This section discusses fuel efficiency measures that can be taken without investment in new capital equipment.
+It is important to note that this does not imply that the measures are cost-free - in every case there is some penalty to be paid for energy efficiency, either in terms of higher operational costs or longer periods at sea. The crucial issue is whether the penalty incurred is offset by savings in fuel. Unfortunately, it is impossible to generalize about the validity of energy efficiency measures - this will vary considerably from vessel to vessel and fishery to fishery. It is up to the vessel owners/operators to evaluate whether these measures are applicable in their particular situation.
+ENGINE OPERATION
+Slowing down
+Speed is the singular most important factor to influence fuel consumption. Its effect is so significant that, although they may be well known by many vessel operators, the underlying principles are worth repeating once again. As a vessel is pushed through the water by the propeller, a certain amount of energy is expended in making surface waves alongside and behind the boat. The effort expended in creating these waves is known as the wave-making resistance. As the vessel's speed increases, the amount of effort spent making waves increases very rapidly - disproportionately to the increase in speed. To double the speed of a vessel, it is necessary to burn much more than double the amount of fuel. At higher vessel speeds, not only is more fuel lost to counteract wave resistance, but also the engine itself may not be operating at its most efficient, particularly at engine speeds approaching the maximum number of revolutions per minute (RPM). These two effects combine to give a
+relatively poor fuel consumption rate at higher speeds and, conversely, significant fuel savings through speed reduction.
+The choice of operating speed (particularly while in transit) is usually under direct control of the skipper. Fuel savings that can be made by slowing down require no additional direct costs. Vessel speed during fishing may be constrained by other parameters such as optimum trawling or trolling speeds and may not be so freely altered.
+Saving fuel through speed reduction requires two principle conditions:
+* Knowledge. The skipper must be aware of what could be gained by slowing down.
+* Restraint. The skipper must be prepared to go more slowly in spite of the fact that the vessel could go faster.
+So what can be saved by slowing down? The actual savings made by slowing down are almost impossible to predict due to the many factors involved. As engine speed is reduced from the maximum RPM:
+* the vessel slows down and the journey takes longer;
+* the efficiency of the engine will change, but it will consume less fuel per hour;
+* the resistance of the hull in the water drops very rapidly;
+* the efficiency of the propeller changes.
+Engine performance
+Diesel engines. The amount of fuel that a diesel engine consumes to make each horsepower changes slightly according to the engine speed. A normally aspirated diesel engine (one which does not have a turbocharger) tends to use more fuel per horsepower of output at lower engine speed, as illustrated in Figure 2. At a lower RPM the engine may actually be working less efficiently.
+Figure 2: Typical fuel consumption curve for a normally aspirated diesel engine
+A turbocharged diesel engine that is fitted with a small compressor to force more air into the engine has slightly different characteristics. This type of engine may work more efficiently at slightly lower speeds, but efficiency may drop rapidly as the speed is further decreased. The example graph in Figure 3 shows the engine working most efficiently at about 80 percent of the maximum RPM. Note that, in both of these figures, the scale of change in fuel efficiency is actually very small - in the order of a few percent for a 20 percent reduction in the engine's RPM.
+The characteristics of the fuel consumption curve vary from engine to engine, especially among smaller-capacity motors, but as a rule of thumb:
+Figure 3: Typical fuel consumption curve for a turbocharged diesel engine
+* A small diesel engine should be operated at about 80 percent of maximum RPM.
+Temperature. Diesel engines are also sensitive to fuel temperature changes. During a long voyage, the fuel in the tank of a trawler slowly heats up because of the temperature of the fuel entering the tank via the return. This results in a small loss of power, about 1 percent per 6°C (10°F) above 65°C (150°F). The effect is more noticeable on vessels operating in tropical climates.
+Outboard motors. A conventional gasoline 2-stroke outboard motor may have some particularly unexpected fuel consumption characteristics. The amount of fuel used to generate each horsepower of output increases rapidly as the load is reduced (Aegisson and Endal, 1992). This is due to a breakdown in the flow of fuel mixture and exhaust gases in the engine, resulting in significantly less efficient combustion. It is important to note that as with the normally aspirated diesel engine, an outboard still burns less fuel per hour at lower speeds, but will do so inefficiently - the amount of power produced is disproportionately smaller than the savings in fuel. There is still some benefit from operating at reduced engine speeds, but this is less than might be expected.
+Kerosene powered outboard motors are even less suited to fuel savings through a reduction in engine speed. As the throttle opening is reduced, the motor draws proportionately more petrol than kerosene, the cost of which will further diminish savings from reduced fuel consumption per hour. Although fuel can be saved by operating 2-stroke outboard motors at reduced throttle openings, it should be noted that:
+* It is more fuel-efficient to achieve reduced operating speeds through the use of a smaller outboard engine than by operating at reduced throttle opening.
+This, however, leaves the vessel operator with a reduced power margin to use when speed is necessary for safety reasons (e.g. to avoid bad weather) or when the penalty price paid for increased fuel consumption is likely to be compensated by better market prices for the catch.
+Hull resistance. As mentioned above, the resistance of the hull in the water increases rapidly as speed increases, principally due to the rapid build-up of wave-making resistance. The change in resistance of the hull is much more significant than the change in efficiency of the engine. Figure 4 shows how the typical power requirement of a small fishing vessel varies with speed. At faster speeds, note that:
+* the curve becomes steeper;
+* a large increase in power is required to achieve a small increase in speed; and a small decrease in speed can result in a large decrease in the power requirement.
+The exact form of the power/speed diagram will vary from vessel to vessel, but Figure 4 presents a reasonable approximation of a general form for a vessel with an inboard diesel engine. An outboard powered vessel will require approximately 50 percent more power, primarily on account of the low efficiency of outboard motor propellers. It is important to realize that the fuel consumption of both a diesel engine and a petrol outboard motor is approximately proportional to the rated power output, and high horsepower requirement equates directly to high fuel consumption.
+Combined effects. When considering the combined effects of speed reduction on the fuel consumption of a fishing vessel, it is very important to remember that the change in the engine's fuel consumption per hour is not of real interest. Almost all fishing operations require the vessel to travel from a port or landing site to a known fishing ground. Therefore, the important factor the quantity of fuel used to travel a fixed distance, or the fuel consumption per nautical mile (nm). The fuel consumption per nautical mile shows, not only how engine performance changes with speed, but also propeller and hull interactions that are not evident from per-hour fuel consumption data.
+Figure 4: Power/speed diagram
+For small changes in speed, an approximation of the change in fuel consumption per nautical mile can be made using the following equation:
+Table 1
+Fuel consumption of a 10 m trawler (free-running)
+Speed (kt)
+Reduction in speed
+Reduction in fuel consumption in (litres/nm)
+Source: Aegisson and Endal, 1992.
+As a worked example, a vessel running at 9 knots (kt) uses 19 litres of fuel per hour. The fuel consumption per nautical mile is therefore:
+If the vessel speed were reduced to 8.5 kt, the new fuel consumption is estimated using the equation above:
+That is to say that a 6 percent reduction in speed (from 9 to 8.5 kt) results in a fuel savings of approximately 11 percent. The above method is only valid for a quick estimate, as it may conceal several propeller and hull interactions that affect fuel consumption. These are best revealed by performing simple measured trials with the fishing boat in question (see Annex 3, A guide to optimum speed). Trials with speed reduction of free-running trawlers (Aegisson and Endal, 1992; Hollin and Windh, 1984) show that fuel savings can be considerably larger than those indicated by the equation above.
+Figures 5 and 6 show typical fuel consumption curves taken from trial data. Figure 5 also illustrates the very large difference in fuel economy between gasoline outboard motor power and inboard diesel power (this is discussed further in the section Engines). The data for the outboard motor propulsion indicate that a 1kt reduction in speed from 9 to 8 kt (11 percent) results in fuel savings of about 25 percent.
+Figure 5: Comparative fuel consumption curves for a 13 m canoe
+Figure 6: Fuel consumption curve for a 13.1 m purse seiner
+The exact magnitude of the fuel savings is closely linked to the original speed of the vessel. The maximum speed of a displacement hull (measured in knots) is about 2.43 x Öwaterline length (measured in metres) after which it starts to plane and pass over, rather than through, the water. The nearer the vessel is to this maximum displacement speed, the larger the gain to be made from slowing down.
+Towards an optimum speed. Saving fuel by reducing speed is all very well but, as stated in the introduction to this section, nothing is gained without penalty. In this case the cost to the vessel operator is time, and a difficult decision has to be made as to whether it is worth slowing down. A reduced speed could imply less time for fishing, less free time between fishing trips or even lower market prices owing to late arrival.
+Considering only the resistance of a vessel in the water, maximum operating speeds can be recommended as follows:
+These guidelines result in the maximum operating speeds recommended in Table 2.
+Table 2 may serve as a first estimate in the selection of a reasonable operating speed, but this is not necessarily the optimum speed. The estimation of an optimum speed requires the vessel operator to strike a balance between savings made from slowing down and the costs incurred by spending either more time at sea or less time fishing. Clearly, if late arrival at the port or landing station means that the market will be closed and the catch unsellable, it is worth travelling as fast as possible to ensure a market. Similarly, if the market is always open and prices do not fluctuate, then it may well be worth saving fuel and returning home at a slower rate. The question is, how much slower?
+Table 2
+Recommended maximum operating speeds
+Waterline length (m)
+Maximum operating speed (kt)
+Long thin vessels
+Short fat vessels
+* The optimum speed for a particular situation would be that at which the fuel saved by travelling more slowly compensates the exact amount "lost" by arriving later.
+An important part of this decision is determined by an evaluation of the skipper's time. Such an evaluation will be, at best, a subjective judgement according to individual priorities. How much would a skipper gain by arriving an hour earlier and how much would be lost by arriving an hour later? These gains and losses may not always be quantifiable. For example, the crew will want to spend time with their families between fishing trips, yet this has no definite value and cannot be readily identified as a cost, should it be lost through late arrival.
+It is very important to recognize that the individuals involved in the management and operation of a fishing vessel have different valuations of time. Decision-making is easier if the owner of the vessel is also the skipper. However, when the owner is not on board, a conflict of interests may arise, which does not encourage fuel savings.
+For example, the skipper (who makes the decision on board to go slower or not) may be tired and want to return home as early as possible. The vessel's owner, on the other hand, may have already secured a market for the catch and be more interested in reducing operating costs (including fuel) rather than bringing the vessel back to port hastily. The crucial issue is how the person who makes the decision about vessel speed is involved in the cost sharing of the vessel. If the fuel costs are always paid from the owner's revenue, the crew of the vessel may not be motivated to go at a slower rate for the sake of fuel economy.
+Based on Lundgren (1985), a quantitative method for estimating optimum speed is laid out in Annex 3. Although the determination of an optimum speed is dependent on the uncertain process of estimating the skipper's valuation of time, the method outlines relatively straightforward measures that can easily identify speeds at which the vessel should not travel, regardless of the human aspects of the decision.
+Engine maintenance
+Careful initial running-in and regular maintenance are extremely important for ensuring the reliability as well as the performance (including fuel consumption) of any engine. This applies equally to inboard and outboard marine engines. Every engine manufacturer recommends service intervals and these should be adhered to rigorously, especially for basic services such oil changes and filter and separator replacement.
+* A new or reconditioned engine needs to be run in carefully.
+* The engine manufacturer's maintenance programme must be followed.
+* Complicated mechanical work should be entrusted to a qualified mechanic.
+Summary Table 1
+Slowing down
+Advantages
+Disadvantages
+3No incremental direct costs
+8 Requires restraint to reduce speed
+3Fuel savings can be very significant
+8 Crew and owner may have different interests
+3Very easy to put into effect
+8 Less convenient
+8 If speed is reduced through the installation of a smaller engine, safety margin may be reduced
+The consequences of not adhering to running-in and maintenance guidelines may lead to an irrecoverable decline in the performance of an engine. This is best illustrated by an example: a study regarding energy efficiency in small-scale fisheries in India (Aegisson and Endal, 1992) tested two identical engines on the same canoe. One of the engines had been very poorly maintained, and it consumed twice as much fuel but achieved only 85 percent of the speed as the other.
+Summary Table 2
+Hull condition
+Advantages
+Disadvantages
+3 Fuel savings can be significant
+8 Vessel must be taken out of service to improve hull condition
+3 Relatively easy to put into effect vessels
+8 Requires dry-docking of larger (expensive)
+3 Use of antifouling paint protects wooden-hulled vessels from marine borers
+8 Paint and labour costs can be significant
+The requirement for careful preventative maintenance is all the more acute in areas with low-quality fuel. This can lead to high carbon deposits, low engine temperatures and a significant loss of power. With diesel engines, the high sulphur content in low-quality fuel requires the early substitution of injectors. The first sign of the need for substituting injectors is increased fuel consumption (or a drop in power) and black exhaust smoke. The following list outlines the potential causes of heavy exhaust smoke in diesel engines (Gilbert, 1983):
+Black exhaust smoke:
+- an overloaded engine;
+- a shortage of air;
+- worn injectors.
+White exhaust smoke:
+- mistimed injectors/valves;
+- leaking inlet or burnt exhaust valves;
+- damaged/worn piston rings;
+- low compression;
+- exhaust back pressure;
+Blue exhaust smoke:
+- oil in the combustion chamber (normally in aspirated engines), owing to worn valve guides or worn/ broken piston rings;
+- in turbocharged engines, either the above or oil in the exhaust side of the turbocharger following seal failure.
+Summary Table 3
+Fishing operations
+Advantages
+Disadvantages
+3 Fuel savings can be significant
+8 May require considerable investment to increase vessel autonomy
+8 Often very difficult to change operational routines in an established fishery
+8 Both new operational routines and increased navigational awareness require training and knowledge
+HULL CONDITION
+Frictional resistance, or skin friction, is the second most significant form of resistance following wave-making resistance. In simple terms it is a measure of the energy expended as the water passes over the wet surface of the hull. Like wave-making resistance, its effect is felt most on faster vessels or vessels that travel longer distances between the port and fishing grounds. It is possible to reduce frictional resistance by operating at slower speeds.
+Unlike wave-making resistance, however, frictional resistance is partially controllable by the vessel operator because it depends on the smoothness of the underwater surface of the hull. The more attention paid to the surface finish of the vessel during construction and maintenance, the less energy will be wasted overcoming skin friction. This applies equally to fishing vessels of all sizes.
+Constructing a vessel with a very smooth underwater surface, as well as the maintenance of such a surface, is not necessarily easy to achieve. Both of these require increased expenditure on labour costs, materials and (in the case of larger vessels) dock or slipway time.
+There are some general pointers that can assist a vessel operator in deciding how much time and money is worth spending on achieving and maintaining a smooth finish. It is both difficult and expensive to improve a severely degraded hull finish - if the vessel was originally launched with a very rough hull it will require a lot of effort to improve this at a later date.
+The actual benefit resulting from efforts to improve hull condition depends on the operational pattern. A slow-speed vessel, such as a trawler, operating very near to port does not benefit greatly from an improved hull condition. In one test (Billington, 1985), fouling was found to reduce the free-running speed of a trawler by just under 3 kt. At the same time, it had no noticeable effect on trawling speed or fuel consumption during fishing. In this case the vessel operated very close to its home port, and the significant expenditure made to keep the hull in smooth condition did not prove worthwhile.
+* It is better to expend effort on ensuring that the hull condition is good prior to the vessel's first launch. It is difficult to go back and achieve a good finish if it was poor to begin with.
+Any vessel that travels significant distances to the fishing ground or is involved in a fishing method that requires steaming, such as trolling, should stand to benefit from maintenance of the hull condition.
+The amount of effort spent on hull maintenance should be commensurate with:
+* the speed of the vessel (the faster the vessel the more important the surface condition of its hull);
+* the rate of growth of fouling or deterioration of hull surface;
+* the cost of fuel;
+* the cost of maintenance.
+All of these are dependent on the local conditions and the fishery. However, the nature of the flow of water around the hull makes the condition of the forward part of the hull and the propeller more important in reducing skin friction. As a guide (Towsin et al., 1981):
+* Treating the forward quarter of the hull yields one-third of the benefit gained from treating the whole hull.
+* Cleaning the propeller requires a relatively small amount of effort but can result in very significant savings.
+In United States naval trials (Woods Hole Oceanographic Institute, n.d.), the fouling that had accumulated over 7.5 months on the propeller, alone, was found to result in a 10 percent increase in fuel consumption in order to maintain a given speed.
+The causes of increased skin friction can be placed in two categories:
+* hull roughness, resulting from age deterioration of the shell of the hull or poor surface finish prior to painting; and marine fouling, resulting from the growth of seaweed, barnacles etc. on the hull underwater surface.
+Summary Table 4
+Sail-assisted propulsion
+Advantages
+Disadvantages
+3Fuel savings can be significant
+8 To be most effective the vessel needs to be designed and constructed from the outset with sails in mind. It is often very difficult to retrofit sails to an existing motorized fishing vessel.
+3Can improve vessel comfort
+8 Requires crew to have knowledge of or be trained in the use of sails
+3Improves vessel safety
+8 Sails are an additional maintenance item 8 Sail can require substantial additional crew effort, and it is invariably easier to motor.
+Fouling
+The loss of speed or the increase in fuel consumption owing to the growth of marine weed and small molluscs on the hull is a more significant problem for fishing vessel operators than hull roughness. The rate of weed and mollusc growth depends on:
+* the mode of operation of the vessel;
+* the effectiveness of any antifouling paint that has been applied; and
+* local environmental conditions, especially water temperature - the warmer the water, the faster weed grow.
+Estimates indicate that fouling can contribute to an increase in fuel consumption of up to 7 percent after only one month, and 44 percent after six months (Swedish International Development Authority/FAO, 1986b), but can be reduced significantly through the use of antifouling paints. A Ghanaian canoe, for example, was found to halve its fuel consumption and increase its service speed by 30 percent after the removal of accumulated marine growth (Beare in FAO, 1989a).
+A small fishing vessel that is either beach-landed or hauled out of the water frequently (between every fishing trip) is not likely to benefit from the use of antifouling paints. Under these conditions, the rate of weed and mollusc growth is low, as the hull surface is dry for extended periods. In addition, antifouling paint is by nature soft and not particularly resistant, so in the case of a beach landing craft, significant amounts of paint would be lost during launching and landing.
+Antifouling paint releases a small amount of toxin into the water that inhibits the growth of weed and molluscs. There are several different types of antifouling products, ranging from cheaper, harder paints to more effective and more expensive hydrolysing or self-polishing paints. All types of antifouling paint have a limited effective life (typically about one year), after which they need to be replaced because they no longer have a toxic property and weeds start to grow quickly. Self-polishing antifouling paints become smoother over time and can offer reasonable protection from fouling for up to two years, but the paint system is expensive to apply and requires complete removal below the waterline of all previous paint. Self-polishing antifouling paints can result in fuel savings of up to 10 percent (Hollin and Windh, 1984), but are only likely to be viable for vessels that travel long distances to their fishing grounds and that are hauled out or dry-docked about once a
+year.
+In small-scale fisheries, the use of antifouling paint is uncommon, but through its use can result in significant savings, or at least minimized losses. There are a few alternatives used in small-scale fisheries that present a cheap and often effective solution to the problem:
+Paint mixed with weed killer. The underwater surfaces of a small vessel can be covered with paint that has been mixed with a small quantity of agricultural weed killer. No special paint is necessary and the weed killer is often cheap and readily available. The major disadvantage of this technique is that the release of the toxin is not controlled. During the first days of immersion, release is rapid but the effectiveness of the antifouling product reduces quickly thereafter. Any antifouling paint must be used with care - it is a toxin and may have negative effects on other marine growth, particularly edible molluscs and seaweeds, in the area where fishing vessels are anchored.
+Shark liver oil and lime. In some fishing communities where antifouling paint is unavailable or expensive, an indigenous solution to the problem of fouling has been developed based on a thick paint made from shark liver oil and lime. Oil is extracted from the livers of sharks and rays by a process of cooking and partial decay. This pungent smelling liquid is then applied either directly to the interior wooden surfaces of the vessel (to protect against insects that eat wood or against caulking) or mixed with lime and then applied to the exterior underwater surfaces of the vessel. The mixture is reasonably effective in limiting marine growth, and discourages marine wood borers. The major advantage of the technique is that it is very cheap, often not requiring the purchase of any products. However, when applied to the underwater surfaces of a vessel, it remains soft and is not very durable, therefore requiring reapplication about once a month to remain effective. It should be
+noted that, in many tropical coastal communities, lime is made from the controlled burning of coral heads collected from nearby reefs. This activity is not only destructive to local habitat and fisheries but is also illegal in many countries.
+* If a vessel is kept in the water, rather than hauled out or beached between fishing trips, the underwater surface of the hull should be painted with an antifouling paint or compounds.
+Roughness
+The concept of deterioration of the condition of the hull with age is most applicable to steel vessels. Although wooden vessels, and even to a certain extent glass fibre vessels, experience an increase in hull roughness with age (primarily owing to physical damage and the build-up of deteriorated paint), the effect is more significant with steel which is also subject to corrosion.
+Following are the principal causes of hull roughness.
+* corrosion of steel surfaces, often caused by:
+- the failure of cathodic protection systems; or
+- inadequate or spent anti-corrosive paints;
+* poor paint finish, owing to:
+- inadequate hull cleaning prior to application;
+- poor application;
+- adverse weather conditions at application such as rain or intense heat;
+* blistering and detachment of paint owing to:
+- poor surface preparation prior to painting;
+- build-up of old antifouling;
+- low-quality paints;
+* mechanical damage to the hull surface owing to berthing, cable chafing, running aground, beach landing and operating in ice.
+On larger steel vessels the increase in power requirement to maintain speed can be approximated at about 1 percent per year, although the rate of increase in hull roughness usually slows with vessel age. Therefore, after ten years a steel vessel requires approximately 10 percent more power (and 10 percent more fuel) to maintain the same service speed as when it was launched.
+This loss is, to a certain extent, inevitable but can be minimized by careful hull maintenance and, in the case of steel vessels, regular replacement of sacrificial anodes and anticorrosive paint.
+FISHING OPERATIONS
+Autonomy
+The operational pattern of a fishing vessel has a direct influence on the fuel efficiency. Larger fishing vessels, with an autonomy of several days or more at sea, tend to limit the length of fishing trips to the time necessary to fill the available hold space. In smaller-scale fisheries the tendency is to restrict the length of a fishing trip to a single day, often owing to the lack of storage facilities on board or long established routines. In many such cases, effective fuel savings could be made by staying longer at the fishing grounds, particularly if a considerable part of the day is spent travelling to and from the fishery. For example, if trips could be made in two days instead of one, the catch over those two days would be made at the cost of the fuel for one return journey rather than two. This would effectively cut the cost of the fuel expended on travelling to and from the fishing grounds, per kilogram of fish caught, by up to 50 percent.
+There are, however, often serious obstacles that make increasing individual vessel autonomy very difficult, especially the first step of extending fishing trips to more than one day's duration:
+* the vessel invariably needs to have insulated hold space and to carry ice - the selling price of fish must be able to justify the extra investment in the insulated hold space and the daily cost of ice, which must also be available from the port of departure;
+* the crew must be willing to spend nights at sea, to which they may not be accustomed;
+* the vessel must be seaworthy - a longer time at sea inevitably means increased exposure to bad weather;
+* the vessel may need to have accommodation and cooking facilities that were not necessary when it was involved in one-day trips.
+Fishing technology
+Within a given fishery the type of fishing gear in use is often a predetermined choice, dictated by the target fish species, physical conditions (bottom type, currents), weather conditions and vessel type. The combination of these factors often means that only one gear type is applicable in that particular fishery.
+However, in a trawl fishery, particularly a coastal smaller-scale fishery, it is occasionally possible to use pair trawlers rather than the classic single-vessel otter trawl. Pair trawling can result in a reduction in fleet fuel costs by 25 to 35 percent per tonne of fish (Aegisson and Endal, 1992) compared with otter trawling.
+Navigation
+The use of satellite navigators and echo sounders is becoming more widespread in small-scale fisheries as the technology has become not only cheaper but also more portable (especially satellite navigators). Navigational aids of this type can contribute to fuel savings of up to 10 percent (Hollin and Windh, 1984), depending on the type of fishery and the difficulty in locating small, focused hot spots. Not only can the equipment assist the vessel skipper in easily relocating fishing grounds (thereby reducing fuel wastage), but it can also identify new grounds and contribute to increased navigational safety.
+Both satellite navigators and echo sounders require a reasonable navigational ability and are most effectively used with maritime charts.
+SAIL-ASSISTED PROPULSION
+The use of sail as auxiliary propulsion can result in very large fuel savings (up to 80 percent with small vessels on longer journeys) but the applicability of sail is however by no means universal. Very specific circumstances are required for motor sailing to be a viable technology, in terms of weather conditions, the design of the fishing vessel as well as crew attitude and knowledge.
+Sailing puts additional requirements on the vessel with respect to stability and deck layout, and sails are usually only a viable technology for use on vessels that have been specifically designed for sailing. Smaller fishing vessels may require the addition of further ballast or an external ballast keel to improve both stability and sailing performance across or towards the wind. On any fishing vessel, sails are an impediment to the workability of the vessel, and the mast and rigging occupy what could have otherwise been open deck space.
+Sailing is a skill in itself and, to be effective, the crew must be both proficient and willing - there is often a considerable amount of hard work involved in the setting of sails, particularly on larger vessels. A simple fact of life is that it is invariably easier for the crew to forget about sailing and just motor.
+However, sails can result in large fuel savings, depending on wind strength, wind direction relative to the course to or from the fishing grounds and the length of the journey. Typically, indicative values are in the order of 5 percent (for variable conditions) to 80 percent (for a small vessel on a long journey, with a constant wind at 90° to the course). These figures are, however, very dependent on the sailing ability of crew, the shape of the vessel's hull and the condition and design of the sail(s). There are several very different designs of sailing rigs, which have evolved in fisheries around the world. It is important that the design of a sailing rig for a fishing vessel be kept simple, safe and workable.
+* The design of a sailing rig for a working fishing vessel should be kept as simple as possible, with the minimum amount of spars, standing and running rigging.
+On smaller vessels, it is preferable to use a single sail rig that can be easily and efficiently reduced in area. As a secondary form of propulsion, sails contribute to a big increase in vessel safety, particularly if the vessel is capable of navigating under sail alone in case of engine failure.
+Figure 7: Increase in power requirement owing to hull roughness
+<section>4</section>
+Technical measures
+This section deals with fuel efficiency measures that require investment in new equipment or the modification of existing equipment. Many of the technical ideas outlined are best considered when a vessel owner is either contemplating the construction of a new vessel or overhauling an existing vessel. Wherever possible, some indication is given of the cost of technical alternatives along with the fuel savings that could be expected through their application. Very little attempt has been made to enter into detail regarding the financial aspects of the costs and savings. This is principally owing to the extreme variation in costs in the geographical areas where this guide is applicable.
+THE PROPELLER
+The propeller is the most significant single technical item on a fishing vessel. Its design and specification has a direct influence on fuel efficiency. Poor propeller design is the most frequent single contributor to fuel inefficiency. In this section some of the basic concepts of propeller design and installation are presented and a very quick and easy method for checking, approximately, the appropriateness of an installed propeller is discussed in Annex 4. It is important to appreciate throughout this section that propeller design is not straightforward, particularly in the case of trawlers, where technical specification must be entrusted to a qualified and experienced professional. Such assistance may be available through either local representatives of propeller and engine manufacturers or, in some cases, the technical services of government fisheries extension programmes.
+What does the propeller do? This may appear to be a rather obvious question - a propeller turns the power delivered by the engine into thrust to drive the vessel through the water. In propeller design, it is important to ensure that it drives the vessel efficiently.
+Photo 1: The start of erosion resulting from cavitation near the leading edge of the forward face of the blade - J. WILSON
+Factors affecting propeller efficiency
+Diameter. The diameter of a propeller is the most important single factor in determining propeller efficiency. A propeller works by pushing water out astern of the vessel, with the result that the vessel moves forward. In terms of efficiency, it is better to push out astern a large amount of water relatively slowly, than push out a small amount of water very quickly in order to achieve the same forward thrust. Hence the diameter of the propeller should always be as large as can be fitted to the vessel (allowing for adequate clearances between the blades and the hull) so that as much water as possible passes through the propeller.
+* The diameter of the propeller should be as large as the hull design and engine installation allow.
+A well-documented case study (Berg, 1982) of the retrofitting of a larger-diameter propeller to an existing fishing vessel demonstrated a 30 percent reduction in fuel consumption at cruising speed, and a 27 percent increase in bollard pull (maximum towing force). In this case, the propeller and gearbox were replaced and a propeller of 50 percent larger diameter installed - this operation was only possible because the vessel had originally been constructed with a very large aperture (the space that accommodates the propeller).
+Shaft speed (RPM). The larger the diameter of the propeller, the slower the shaft speed RPM that is required to absorb the same power. Therefore, for an efficient propeller, not only should the diameter be as large as possible but, as a result, the shaft speed needs to be slow. This usually necessitates the use of a reduction gearbox between the engine and the propeller shaft. However, it must be remembered that a large propeller and high reduction gearbox is invariably more expensive than a smaller propeller and simpler gearbox.
+* The gearbox should be chosen to give a maximum of 1 000 RPM at the propeller.
+Cavitation. Cavitation is a problem resulting from a poorly designed propeller, and although it does not directly affect fuel efficiency, it does indicate that the selection of the installed propeller was not correct and, in the long run, the effects of cavitation will lead to increased fuel consumption.
+Cavitation occurs when the pressure on the forward face of the propeller blade becomes so low that vapour bubbles form and the water boils. As the vapour bubbles pass over the blade face away from the lowest pressure areas, they collapse and condense back into water. Typically bubbles form near to the leading edge of the forward face of the propeller blade, and collapse near to the trailing edge with the effect often being more acute near the blade tips. The collapsing of the vapour bubbles might appear trivial, but is in reality a very violent event, resulting in erosion and pitting of the surface of the propeller blade, and even cracking of the blade material. Strangely enough, cavitation is often associated with low fuel consumption, as the propeller is unable to absorb the power of the engine, and the engine runs underloaded.
+The only solution to cavitation is a change of propeller. One with more blades, a higher blade area ratio or a larger diameter should be considered.
+Number of blades. In general, at a given shaft speed (RPM), the fewer blades a propeller has, the better. However the trade-off is that, with fewer blades, each one carries more load. This can lead to a lot of vibration (particularly with a two-bladed propeller) and contribute to cavitation. When the diameter of the propeller is limited by the size of the aperture, it may often be better to keep shaft speed low and absorb the power through the use of more blades.
+Blade area. A propeller with narrow blades (of low blade area ratio, see Figure 8) is more efficient than one with broad blades. However, propellers with low blade area ratios are more prone to cavitation as the thrust that the propeller is delivering is distributed over a smaller blade surface area. Cavitation considerations invariably require that the chosen blade area ratio is higher than the most efficient value.
+Figure 8: Blade area ratios
+Blade section. The thickness of a propeller blade has little effect on efficiency, within the norms required to maintain sufficient blade strength. However, like the blade area ratio, the section thickness can affect cavitation - thicker propellers induce larger suction and are more prone to cavitation.
+Boss. The size of the propeller boss directly affects propeller efficiency. This is particularly significant when considering the installation of a controllable pitch propeller, which has a significantly larger boss than a fixed pitch equivalent. Typically, the drop in propeller efficiency owing to the larger boss size of a controllable pitch propeller is about 2 percent.
+A loss in efficiency of about the same magnitude is associated with the large bosses of many outboard motor propellers, through which the exhaust gases are discharged.
+Figure 9: Blade rake
+Rake. The rake of a propeller blade has no direct effect on propeller efficiency, but the interaction effects between propeller and hull are significant. Often the shape of the aperture in the hull is such that the more the propeller blade is raked aft, the larger the propeller diameter that can be fitted, and rake becomes very beneficial. More rake, however, requires a stronger, heavier propeller, which is more expensive to manufacture.
+Clearances and the propeller aperture. The distances between the propeller and the hull affect how efficiently the propeller operates within the flow of water around the hull, and the amount of vibration caused by the propeller. Table 3 shows recommended clearances.
+Table 3
+Clearances, three-bladed propeller
+(% of propeller diameter)
+1 Minimum clearance between tip and hull^1
+2 Minimum clearance between tip and keel
+3 Minimum distance from deadwood to propeller^1 at 35% of propeller diameter
+4 Maximum distance from propeller to rudder at 35% of propeller diameter
+5 Maximum bare shaft length
+4 x shaft diameter
+^1 These clearances are closely associated with the number of blades and can be estimated by ¬ = 0.23 - (0.02 x n), and ® = 0.33 - (0.02 x n) where n = the number of blades on the propeller.
+In general, the larger the clearances the better. However, if the aperture size is limited, larger clearances also imply a smaller propeller diameter, which is very detrimental to efficiency. During the design stage, the inclusion of large clearances have the effect of raising the counter and may force more obtuse waterlines just forward of the propeller. Both of these increase the resistance of the hull in the water. A small aperture requires the installation of a small-diameter propeller, which may not be able to absorb all of the engine's power efficiently, thus resulting in inefficient performance, engine damage or poor towing capacity. An intermediate solution to a small aperture can be found, for example by:
+* the creation of a new shaft angle (this requires the remounting of the engine);
+* the use of a shaft extension (which often requires moving the rudder);
+* or by the installation of a propeller with a higher blade area ratio.
+In general:
+* Tip clearances should be as small as possible within guidelines, in order to accommodate the largest possible propeller.
+* The distance from the propeller to the rudder should be kept small to maintain steering control.
+* The distance from the deadwood to the propeller should be large.
+In the design and installation of trawler propellers, the tip-to-hull clearance can be as little as 8 to 10 percent of propeller diameter. The penalty of increased vibration being compensated for by the higher thrust and efficiency of a larger diameter propeller.
+The absolute minimum tip-to-hull clearance should never be less than 50 mm on any vessel.
+Photo 2: Filling the propeller aperture with fashion pieces, particularly forward of the propeller, reduces efficiency and increases vibration - J. WILSON
+Blade condition. Poor condition of propeller blades owing to damage, fouling, corrosion or erosion reduces propeller efficiency. The extent to which blade surface condition influences efficiency depends on speed and propeller loading - highly loaded propellers are more sensitive to surface condition.
+Roughness and damage. The efficiency of a propeller is most influenced by surface roughness and damage towards the outer regions of the blade, particularly on the leading edge of the forward (low-pressure) face, where roughness provokes early cavitation. Cavitation then results in the erosion of the blade material and more severe blade roughening. On larger propellers, roughness can account for an increase in fuel consumption of up to 4 percent after 12 months of service.
+Damage to the trailing edges of the blades, in particular bending, affects the lifting characteristics of the blade section and results in either under or overloading at the designed shaft speed. This will have a serious effect on both fuel efficiency and, in the case of diesel power, engine condition. Outboard powered vessels operating in shallow waters or beach landing are particularly susceptible to fuel inefficiency owing to damaged propellers.
+Fouling. The effects of weed and mollusc growth on propeller efficiency is much more important than roughness. The extent depends on whether the weed remains attached to the propeller when it is in service - if cavitation is present, fouling is usually removed from the critical outer areas. United States naval trials found that weed growth on the propeller alone accounted for an increase in fuel consumption of 10 percent after 7.5 months.
+Photo 3: Too little clearance between deadwood and propeller - J. WILSON
+The maintenance and cleaning of propeller blades can provide significant benefits from a relatively small amount of effort. The surface area of the propeller is very small relative to the hull, and proportionately greater savings can be made (or rather losses can be avoided) per person-hour of effort through proper maintenance of propeller blades.
+Larger propellers require periodic surface recondi-tioning and polishing, particularly if either cavitation, corrosion or damage has been significant. This must be carefully carried out by skilled personnel to avoid further damage.
+Devices. Peripheral devices such as fins, ducts and nozzles may have beneficial effects on propeller efficiency, but their value very much depends on the inefficiency of the current propeller and its unsuitability to its working application. It should be noted that fins, ducts and nozzles require special design, are potentially expensive to install and can be prone to damage. Their application is specific (the case of the nozzle is further discussed on p. 20.)
+Propeller design - have you got the correct propeller?
+The first step in assessing whether an installed propeller is suited to the vessel and engine is observation. Does the vessel perform as well as others of similar power and design? If the answer is no, it is important not to jump to the conclusion that the propeller is incorrectly specified. Other factors must also be considered, such as the condition of the underwater surfaces of the hull. When was the vessel last cleaned and painted? What is the condition of the propeller - is it clean, undamaged and smooth? What is the power of the engine and what condition is it in - should it deliver the same amount of power?
+The propeller may be incorrectly specified if:
+* the engine fails to achieve designed RPM and is overloaded;
+* the engine passes designed RPM at full throttle, over-revs and is underloaded;
+* the propeller is overloaded and shows signs of cavitation and surface erosion.
+Therefore, a preliminary check is advisable before consulting a propeller designer or naval architect for further assistance. A simple method for making a first estimate of what the basic parameters of a propeller should be is outlined in Annex 4. It should be noted that this method is an abridged version of a more detailed method and is not intended as a design tool.
+Engine overloading. Overloading of the engine through the installation of a propeller with too much pitch is the most common source of fuel inefficiency. Overloading can also result from the use of a propeller with too large a diameter, but this is less common. With inboard diesel engines, a sure sign of an overloaded engine is a lot of black smoke in the exhaust before reaching the designed RPM. Overloading can result in burnt valves, a cracked cylinder head, broken piston rings and a short engine life. It is important to remember that, with a diesel engine, it is the load and not the revs that determines fuel consumption. Therefore, continuous overloaded operation results in an unnecessarily high fuel consumption and increased maintenance costs.
+Engine underloading. Engine underloading from the installation of a propeller with too small a diameter or of insufficient pitch affects vessel performance. It can also result in engine damage if it is allowed to rev above its specified maximum RPM. Engine underloading is likely to be accompanied by a low fuel consumption and, often, cavitation.
+If the preliminary check indicates that a change should be made to the propeller, it is worth remembering that some small changes to the pitch can be made without the expense of buying a new propeller. The repitching of a propeller is a specialized task, however, and the propeller will need to be sent to a manufacturer for reshaping.
+Outboard motors. The choice of propellers for outboard motors is generally more restricted and, correspondingly, there is less scope for errors! In many cases an outboard motor may only be offered for sale with one particular propeller, especially in areas such as in fishing communities in developing countries where the engines have only one application. However, it may on occasion be necessary to order a new propeller, should the original one be damaged, and it is worth checking to see if it is suited to the vessel. The important question is similar to that for inboard engines - does the engine reach its designed RPM under full load? If it does not, then a lower-pitched propeller should be considered, and if the engine has a tendency to over-rev then a higher pitched propeller should be considered.
+The required pitch can be estimated from Figure 18 in Annex 4, following the same principles as those that apply to an inboard installation. If the estimate indicates that the pitch of the installed propeller is correct, a propeller with a different diameter (but the same pitch) should be tried.
+Trawlers. The design of trawler propellers requires special attention, as the propeller has to perform under two completely different operating conditions - towing and "free running".
+With a fixed-pitch propeller it is impossible for the propeller to be operating at optimum design conditions while both free running and towing. The propeller designer must strike a compromise based on the time the vessel spends operating in the two situations. For vessels working a great distance from their home port, the benefits to be gained from designing a propeller with increased towing power (and therefore catching capacity in the case of a trawler) may well be outweighed by the increased cost of fuel for the transit journey, and the design will err towards a higher-pitched propeller. A day boat operating relatively close to its home port would inevitably have a propeller optimized for towing.
+Photo 4 : Very little clearance between hull and blade tip - J. WILSON
+The installation of a controllable-pitch propeller can enable the propeller to operate efficiently while both towing and free running, but its operation requires both skill and knowledge. In general, the use of controllable-pitch propellers is not recommended in fisheries where the correct setting of the pitch cannot be guaranteed, since the setting of an incorrect pitch can easily result in significantly increased fuel consumption.
+However, if a controllable-pitch propeller is well designed and correctly operated, it can result in fuel savings of up to 15 percent compared with a fixed-pitch propeller operating in a nozzle.
+Photos 5 and 6: A poor installation - note damage to blade tips, very fouled hull surface and poor use of the space in the propeller aperture - J. WILSON
+Nozzle. A nozzle is a short duct enclosing the propeller. Under certain circumstances, it can significantly improve the efficiency of a propulsion system. The duct is close fitting to the propeller, slightly tapered with an aerofoil cross-section.
+A nozzle works to improve the efficiency of the propulsion system in two distinct ways:
+First, the duct helps to improve the efficiency of the propeller itself. As the propeller blades turn in the water, they generate high-pressure areas behind each blade and low-pressure areas in front, and it is this pressure differential that provides the force to drive the vessel through the water. However, losses occur at the tip of each blade as water escapes from the high-pressure side of the blade to the low-pressure side, resulting in little benefit in terms of pushing the vessel forward. The presence of the close-fitting duct around the propeller reduces these losses by restricting water flow at the propeller tips.
+Photo 7: Propeller nozzle - KORT PROPULSION CO. LTD
+* In addition to improving the propeller's efficiency, the nozzle itself generates driving force in a similar way to the lift produced by the wing of an aeroplane. The convergent water flowing around the propeller interacts with the aerofoil cross-section of the ring and produces a low-pressure area on the inside of the nozzle and high pressure on the outside. The tapered form of the nozzle helps to balance these forces into a net forward thrust, which can account for as much as 40 percent of the total thrust from the propeller and nozzle combined. This effect is most significant when the vessel is moving slowly through the water - at higher speeds (above 9 kt), the nozzle tends to generate more drag than thrust and has a negative effect on the vessel's performance.
+Figure 10: Clearances - J. WILSON
+When to use a nozzle. The installation of a propeller nozzle can result in significant fuel savings or increased towing power, but not in all situations.
+Figure 11: Propeller in nozze
+As indicated above, a nozzle has the most significant effect at slow vessel speeds and therefore is more applicable to trawlers and draggers rather than other types of fishing vessels. Even with trawlers and draggers, the beneficial effects of nozzle installation are only felt while actually fishing - it is likely that free running speed will be reduced.
+The calculation illustrated in Figure 12 can assist in a first technical assessment to determine whether or not the installation of a nozzle is beneficial. This is only intended as a rough guide and, if it appears beneficial to install a nozzle, the services of a naval architect or propeller manufacturer should be sought to examine the case in more detail.
+In the Figure, the vessel speed would be taken as the dominant working condition (in the case of a trawler, the trawling speed and not the free-running speed). The propeller RPM is calculated from the full power RPM of the engine, divided by the gearbox ratio:
+Figure 12: Assessing the benefits of a nozzle (single-screw vessels)
+Propeller RPM =
+Engin RPM
+Gearbox reduction
+The shaft horsepower (SHP) is taken as the maximum continuous rated power output of the engine, measured in horsepower (HP).
+For a trawler equipped with a 440 horsepower engine (at 1 900 RPM) and a 5:1 reduction gearbox, and that has a normal trawling speed of 3 knots, the following equation is used to calculate the horizontal position across the graph in Figure 12:
+The vertical position is determined by the trawling speed, 3 knots. The point of intersection is clearly in the benefit area and it may be worth while considering the installation of a nozzle on technical grounds. The next step would be to seek the advice of a naval architect or propeller manufacturer.
+Summary Table 5
+Propeller nozzle installation (on trawler)
+Advantages
+Disadvantages
+Increase in tow force
+Usually a slight reduction in maximum free-running speed
+Protection for the propeller
+Larger turning circle
+Vibration may be reduced
+Manoeuvrability astern reduced
+Increased catching power or fuel savings
+Increased rudder load
+Expensive installation
+May require new propeller
+May require new rudder or rudder modifications
+Source: Smith, Lapp and Sedat, 1985.
+What difference can a nozzle make? A nozzle that has been correctly chosen and installed can result in an increase in towing force of about 25 to 30 percent (calculated from Smith, Lapp and Sedat, 1985), depending on the inefficiency of the original installation. On a trawler, this gain can be used in one of three ways:
+* Fishing can be carried out with the same trawlnet at the same speed, but at a lower RPM, therefore allowing fuel to be saved. The fuel savings should be slightly smaller than the thrust gain, i.e. around 20 percent (Anon., 1970).
+* Fishing can be carried out with the same trawlnet at a faster speed. This does not save fuel but it should increase the catching power.
+* Fishing can be carried out with a larger trawlnet at the same original trawling speed.
+However, it must be remembered that nozzles are not suitable for all fishing vessels. In general, only trawlers see a real benefit from the installation of a nozzle. The penalties associated with nozzle installation include:
+* loss in manoeuvrability (assuming a fixed nozzle);
+* drop in power while going astern;
+* lower free-running speed;
+* expensive installation;
+* possibility of serious cavitation within the duct.
+Nozzles may have limited application as a retrofitted device. If the vessel was designed to have an open propeller, there is often insufficient space within the existing aperture to accommodate a nozzle that can enclose a propeller capable of absorbing the engine's power.
+HULL DESIGN
+Two aspects of hull design directly affect the fuel efficiency of a small fishing vessel. The underwater form of the hull at the stern, in particular the area around and just forward of the propeller aperture, affects how efficiently the propeller operates in the wake of the hull. The overall hull form, in particular the slenderness of the hull, affects the vessel's resistance and, therefore, its power requirement and fuel consumption.
+Photo 8: This deadwood will need a lot of fairing yet - J. WILSON
+Water flow into the propeller
+The section The propeller covers some details regarding the design of the propeller and the appropriate clearances between the propeller and the hull. However, to achieve a reasonably efficient installation, some attention must be paid to the shape of the hull around the propeller aperture.
+In an ideal installation, the propeller would operate in a flow of smooth, undisturbed water. In practice, this is impossible to achieve owing to the unavoidable presence of the structure supporting the bearing and propeller shaft (the deadwood, propeller post, skeg, strut or outboard motor leg) just ahead of the propeller. The disturbance caused by the structure can be minimized by:
+* ensuring an adequate distance between the propeller and the deadwood (at least 0.27 times the propeller diameter); and
+* fairing (smoothing off) the deadwood to make the trailing edges as thin and round as is practical.
+Photo 8 shows a poorly faired deadwood, which would impair propeller efficiency and result in increased propeller vibration, especially with a two- or four-bladed propeller. In Photo 9, the back edge of the deadwood has been smoothed off and the propeller will operate in a better, more even flow. Ideally, the smoothing should start at about 1.3 times the propeller diameter, forward of the back edge of the deadwood.
+Photo 9: Good fairing forward of the propeller - J. WILSON
+Hull form
+In most instances, the hull form is either a fixed parameter (i.e. the vessel already exists and the modification of the overall shape would be prohibitively expensive) or is determined by a qualified naval architect following a detailed design process.
+However, in general a long thin vessel is more easily driven than a short fat vessel. The form of the power/speed curve (shown in Figure 4, p. 7) varies depending on hull shape. With a short fat vessel, the curve is steeper and the maximum reasonable speed (beyond which fuel consumption becomes excessive) is around 15 percent slower than that for a long thin vessel. Recommended maximum operating speeds are given in Table 2 (Gilbert, 1983).
+A finely shaped, thin bow with a narrow angle of entry can help to reduce wave resistance. However, such a design has limited carrying capacity for the length of vessel and may not be economically feasible, in spite of better fuel efficiency.
+The shape of the stern of the vessel also influences resistance and tight surface curvatures, and sharp shoulders should be avoided to minimize flow separation (when the water passing the hull fails to follow the hull's form, thereby creating small eddies and increased resistance). In principle, the surface of the hull should not be at an angle greater than 15 to 20° relative to the centre line (Schneekluth, 1988), but adherence to this guide angle is often impossible, especially in fatter vessels, with a fuller form. The most critical areas of the stern for high curvature and steep angles are the zone just below the counter and the area just forward of the top of the propeller aperture. Where adherence to the guide angle is impossible, it is better to exceed the angle by a great amount over a short distance than to exceed the angle by a small amount over a long distance.
+For slow-speed vessels (most fishing vessels), a flat transom stern presents higher resistance characteristics than a cruiser or elliptical stern. However, the transom stern creates significantly more deck space as well as internal storage capacity, and it has therefore become a common feature in the design of most small vessels.
+ENGINES
+The fuel economy of a fishing vessel is always based on the size and type of engine installed. If the particular engine installed is inefficient and poorly specified, for example, no matter how much the operator slows down, the vessel will always be fuel-inefficient. In many cases, there is no alternative to the type of engine that could be installed - larger offshore vessels and trawlers invariably have inboard diesel propulsion, principally based on the grounds of fuel and propulsive efficiency as well as reliability and safety.
+This section is intended to assist in the preliminary specification of an engine for a small fishing boat, in order to achieve fuel efficiency. Circumstances in which a choice must be made between available technologies are emphasized, as in the case of outboard motor-powered vessels.
+How big?
+The section Engine operation discusses the fuel savings that could be achieved by travellling at a slower speed. An important issue raised is that, while a vessel is operating at reduced speeds (achieved by throttling back), its engine is actually being underused. It would have been better from the outset for the owner to have purchased a smaller engine that could be operated at 80 percent of maximum continuous rating (MCR) (approximately the most efficient service engine speed) in order to achieve the same reduced vessel speed. The purchase and installation of a smaller engine should not only reduce capital costs and fuel consumption, but also reduce maintenance costs.
+Based on previous work by Gulbrandsen (in FAO, 1988), for small fishing vessels (up to 11 m) involved in passive fishing methods such as gillnetting and handling, the following recommendation is made:
+* For inboard diesel engines, the installed power should not exceed 5 to 6 HP per tonne of displacement.
+Figure 13: Fairing of deadwood or skeg
+This should correctly specify the size of an inboard diesel engine which, while operating at 80 percent of MCR, should achieve a service speed of about v = 2.16 x ÖL, where v is the vessel speed in knots and L the waterline length in metres.
+For example, a 9.6 m fishing vessel with a waterline length of 8 m and an in-service displacement of 3.5 tonnes should have a diesel engine of no more than 21 HP (= 6 x 3.5). This engine should give the vessel a service speed of about 6.1 kt (= 2.16 x Ö8) at 80 percent of MCR.
+Under tropical conditions, a diesel engine produces marginally less power and the maximum installable power could be increased by up to 10 percent, and up to 6.6 HP per tonne displacement.
+If the vessel is to be equipped with an outboard motor, a larger engine is necessary because of the outboard motor's smaller and less efficient propeller:
+* For outboard motor installations the maximum installed power should be 7.5 to 9 HP per tonne of displacement.
+The installed power requirements for larger craft involved in active fishing methods, is more dependent on the type of fishing method used, the amount or size of fishing gear and the amount of time spent travelling to the fishing grounds.
+The specification of the engine size of a small fishing vessel can be relatively straight forward, based purely on technical grounds. However, there are always compromises that have to be made and other factors must be taken into account that may indicate a larger engine than that specified above, including:
+* safety - especially in areas prone to sudden and violent changes in weather conditions;
+* market conditions - e.g. how frequently it is necessary to return to port quickly, in order to avoid low prices for the catch;
+* prestige and the status of ownership or operation of a fast or powerful vessel.
+Choice of engine type
+Operators of smaller inshore fishing vessels may be faced with a bewildering choice of installing propulsion units in a new vessel or replacing an existing power unit that has reached the end of its useful life. Following are the principle factors influencing the type of engine chosen.
+Fuel consumption. The nature of inboard diesel engine installations and gasoline outboard motors makes their fuel consumption characteristics fundamentally different. A gasoline engine consumes about 2.4 times as much fuel per horsepower per hour than a diesel engine. To make the matter worse, as indicated above, the smaller propeller size (and lower efficiency) of an outboard motor means that 50 percent more horsepower than that of its equivalent inboard engine is required to achieve the same service speed. The amount of fuel consumed per year by an outboard motor-powered vessel could easily be up to 3.5 times the amount of fuel consumed by a diesel-powered vessel with the same performance. In many countries, diesel is significantly cheaper than gasoline and, in financial terms, the difference in the two fuel bills may be even greater.
+Capital cost and credit availability. The purchase and installation cost of a diesel inboard engine is considerably higher than that of an outboard engine. In situations where savings are limited and credit is unavailable, an outboard may be the only affordable engine type and it may be impossible to consider the choice of more fuel-efficient technologies, in spite of lower operating costs. Recently, however, Chinese manufactured marine diesel engines have started to appear in small-scale fisheries and are available at around 30 to 50 percent of the cost of alternative engines from Japan or Europe. Even if such a price reduction is achieved at the expense of quality and durability, the cheaper engine may still prove a legitimate choice in situations of capital scarcity and high interest rates.
+Taxes, duties and subsidies. Local and national policies often favour particular technologies, either by subsidizing particular fuels (such as the case of kerosene in southern India or premixed outboard motor fuel in Senegal), or by offering reduced import duties on particular types of engines.
+Amount of use. In the long term, an inboard diesel engine may be cheaper to own and run than an outboard engine, not only on account of its greater fuel efficiency but also because of its longer operating life. However, if the engine is only used for a few hours per year, it may still be better to consider an outboard engine. It is not possible to generalize when considering the minimum hours of use per year that are necessary to justify the choice of a diesel engine, as it depends on local taxes and duties, the type of vessel, the cost of fuel and maintenance, etc. Studies made to date indicate that, if use is above 250 to 350 hours per year, an inboard diesel engine is probably justified on financial grounds. However, it is worth noting that engine use in some countries would need to reach 650 hours per year before diesel would be an appropriate technical choice.
+Availability of parts and technical skills. The choice of operable technologies is often quite limited. For a particular engine to be a feasible option, not only must it be physically available locally, but so must spare parts and maintenance skills.
+Vessel structural strength. If a vessel operator is considering the installation of an inboard diesel engine in a boat that has previously been powered by an outboard motor, the boat will inevitably have to be strengthened and/or modified in order to cope with engine and shaft installation and the increased vibrations. Not every vessel, particularly beach-landing canoes, can be easily adapted to inboard engine installations.
+Diesel inboard engines. There are few alternative technologies within the range of diesel engines that are suitable for installation in small fishing vessels. Smaller diesel engines are normally aspirated, principally on account of simplicity and cost, whereas larger engines may be turbocharged to maximize efficiency and save weight. Table 4 summarizes the key characteristics of diesel engine installations.
+Table 4
+Diesel inboard engine
+Advantages
+Disadvantages
+3 Allows efficient propeller installation
+8 High purchase cost (2-4 times that of an equivalent outboard motor)
+3Fuel efficient
+8 Complicated and costly installation
+3 Diesel fuel usually both available and cheap
+8 Low-quality fuel can lead to increased maintenance costs
+3Known technology
+8 Weight
+8 Requires a strong, structurally sound vessel
+8 Fixed installations are not suited to beach landing
+Typical fuel consumption: 0.25 litres/HP/hour Effective^1 fuel consumption of other engines compared with a diesel inboard engine:
+^1 The effective fuel consumption includes an allowance for the difference in the propeller efficiency of each installation. Data in this column indicate the actual amount of fuel consumed by a power unit of the same performance.
+Turbocharged diesel engines. A turbocharged diesel engine is fitted with a small compressor unit that is driven by the exhaust gases and forces air into the engine and increases the power output. A turbocharged diesel engine should be lighter and about 15 percent more fuel efficient than a normally aspirated diesel engine of the same power, consuming about 0.21 litres/HP/hour.
+An important point is that in order to maintain fuel efficiency, the turbocharger must be driven hard. If it is anticipated that the engine will spend a lot of time operating at intermediate loads, then a normally aspirated engine would be a better choice.
+Outboard engines. Outboard motors originated as recreational engines for occasional use, mostly at high speed. Very few models specifically designed for slower, heavier vessels are available, which is a significant contributing factor to their fuel inefficiency.
+All outboard engines have the great advantage of easy and quick installation, and those below about 45 HP can also be easily dismounted for safekeeping when not in use. The structural modifications necessary to mount an outboard engine are relatively simple and do not require advanced skills.
+There are several types of outboard motors available on the market, the most popular is the standard 2-stroke gasoline engine, which burns a mixture of gasoline and 2-stroke lubricating oil. However, newer technologies in the outboard motors include 4-stroke engines and direct fuel injection engines, both of which have improved fuel efficiency.
+Gasoline 2-stroke outboards. The gasoline 2-stroke outboard engine has found widespread application in small-scale fisheries, particularly in developing countries, often as a result of fisheries department motorization programmes and proactive support from the engine manufacturers. The engines are relatively cheap and, both, parts and technical maintenance skill are often readily available, locally.
+Gasoline 4-stroke outboards. Gasoline 4-stroke outboard engines are relative newcomers to small-scale fisheries and, although they were initially only available through one major manufacturer, they are becoming more commonplace in response to environmental emissions regulations. Regular maintenance is not technically demanding but it may still be difficult to find locally skilled mechanics to perform overhauls.
+Gasoline 4-stroke outboards have the significant benefit of running on unmixed fuel and have a much better fuel economy than the equivalent2-stroke. At maximum speeds, fuel consumption is about 60 percent of that of the equivalent 2-stroke, falling to about 45 percent at service speeds. Four-stroke engines are both slightly heavier and more expensive than the 2-stroke equivalents and are best applied when fishing under power (such as trolling) and in fisheries where vessels must cover significant distances to reach fishing grounds.
+Diesel outboards. Diesel outboard engines are not widespread in small-scale fisheries, primarily on account of the high cost of purchase and maintenance difficulties. However, the technology is now reasonably well proven and the engines are particularly fuel-efficient. Diesel outboard engines are best for fisheries that require high engine hours and that are also very well served technically. One set of field trials estimated that a diesel outboard would only be a viable alternative to a gasoline 2-stroke model of similar performance if the engine was in use for about 600 hours per year or more.
+Kerosene outboards. Kerosene outboard engines are based on standard gasoline 2-stroke engines that have been modified in order to run on kerosene. The engine still requires the usual gasoline/oil mixture for starting and stopping and is, therefore, a bi-fuel motor. Kerosene outboards are suitable only in countries where there is a significant subsidy on the price of kerosene, for example in India. Their operation requires careful attention, particularly while starting and stopping, and their useful life is inevitably very short.
+Longtail engines. The longtail motor is an interesting local solution to the problem of propulsion for small fishing vessels. The propulsion unit consists of a long, often exposed, propeller shaft which is attached directly to the crank shaft of a small stationary or automotive engine. The engine is then mounted on the transom of the fishing vessel in a pivoting bridle, and the propeller and shaft are immersed in the water at an angle. The longtail is based on the local availability of very cheap stationary engines or marinized automotive engines and the technology is a simple but ingenious and cheap way of putting these engines to use in a fishing vessel. Only relatively small motors (up to 20 HP) are appropriate on longtail installations being used in a seaway, as they can be difficult or dangerous to handle. On some calm inland waterways, however, their use by skillful operators with engines of up to 100 HP is common for the transport of passengers and produce.
+Many longtail installations are of local design and manufacture and little quantitative information exists regarding their performance. A diesel-powered unit would probably consume about 0.25 litres/HP/hour, but the high-revving propeller (usually directly driven from the crankshaft and no gearbox is fitted) would be very inefficient - its effective fuel consumption would be similar to that of a gasoline 4-stroke outboard.
+Table 5
+Gasoline 2-stroke outboard engine
+Advantages
+Disadvantages
+3Cheap
+8 Fuel-inefficient
+3Can run on low-quality fuel
+8 Short useful life (2 years)
+3Good performance with fast acceleration
+8 Requires 2-stroke oil as part of fuel (expensive)
+3Known technology
+8 Low-quality oil can lead to unreliability and increased maintenance costs
+3Light weight (1.3-1.8 kg/HP)
+8 Significant exhaust emissions
+Typical fuel consumption: 0.55 litres/HP/hour Effective^1 fuel consumption of other engines compared with a gasoline 2-stroke outboard engine:
+^1 The effective fuel consumption includes an allowance for the difference in the propeller efficiency of each installation. Data in this column indicate the actual amount of fuel consumed by a power unit of the same performance.
+Direct fuel-injection (DFI) petrol outboards. Direct fuel injection is a relatively new engine technology that has so far been applied to road vehicles and outboard engines. It can be applied to both 2- and 4-stroke engines and is based on a technology similar to that used in diesel engines, where fuel is injected under high pressure directly into the combustion chamber of the engine. Two manufacturers offer DFI engines and claim fuel savings averaging around 40 percent, but reaching up to 80 percent compared with the fuel consumption of an equivalent standard 2-stroke engine, as well as lower exhaust emissions. At present, only larger engines are in production (the smallest DFI engine available is 135 HP). However, within the next few years, smaller engines with DFI technology may be released and could easily find application in small-scale fisheries. The high-pressure injection system, which is a central part of DFI technology, will probably be sensitive to fuel purity and
+quality.
+Table 6
+Gasoline 4-stroke outboard engine
+Advantages Disadvantages
+3More economical
+8 About 35% more expensive than the 2-stroke equivalent
+3Lower exhaust emissions
+8 About 15% heavier than 2-stroke equivalent
+3Reasonable performance
+8 Newer technology
+3Longer life (3-6 years)
+8 Requires greater maintenance skills
+3Reliability
+8 Requires good quality fuel
+3Quiet
+3Does not require premixed fuel or 2-stroke oil
+Typical fuel consumption: 0.33 litres/HP/hour Effective^1 fuel consumption of other engines compared with a gasoline 4-stroke outboard engine:
+^1 The effective fuel consumption includes an allowance for the difference in the propeller efficiency of each installation. Data in this column indicate the actual amount of fuel consumed by a power unit of the same performance.
+Engine installations
+The installation of an engine in fishing vessels is often a forgotten factor in fuel efficiency. If the engine is poorly installed, it will operate below its designed fuel efficiency level.
+Outboard motor mounting. Care must be taken when installing an outboard engine in order to ensure the correct immersion of the propeller. For a relatively slow-speed craft such as a fishing vessel, the anti-ventilation plate (the horizontal plate just above the propeller) should be about 2.5 to 5 cm below the bottom of the transom.
+The mounting of outboard engines in large traditional fishing canoes often dictates the use of a side mounting rather than a centre-line mounting in a well or on a small transom, owing to cost and structural considerations. When deciding the feasibility of the additional cost of centre-line installation, a vessel operator should be aware that side mounting not only results in a veering tendency but also reduces maximum speed by up to 0.5 kt. This is equivalent to a loss of about 4 HP or 2 litres of fuel per hour on this type of canoe.
+Inboard engine shaft angle. As discussed earlier, a steep shaft angle can allow for the installation of a larger propeller diameter. However, as the angle becomes steeper, the propeller starts to push down rather than forwards and fuel is wasted. The maximum recommended shaft angle is about 15°.
+The choice of a steeper shaft angle also introduces significant variable loading to the propeller blades. This is due to the fact that, as the propeller blades rotate upwards, they are receding from the onrushing water, and as they rotate downwards, they are moving against the slip stream, resulting in variable angles of attack, vibration and early cavitation.
+Table 7
+Diesel outboard engine
+Advantages
+Disadvantages
+3Very economical
+8 About 2.5-3 times the price of a 2-stroke equivalent
+3Cheap commonplace fuel
+8 At least twice the weight of a 2-stroke equivalent
+3Very good speed maintenance under load
+8 Slower acceleration
+3Does not require premixed fuel or 2-stroke oil
+8 Few manufacturers, not widespread
+8 Requires greater maintenance skills
+8 Requires good-quality clean fuel
+8 Limited user serviceability
+8 Air-cooled models are noisy
+Typical fuel consumption: 0.25 litres/HP/hour Effective^1 fuel consumption of other engines compared with a diesel outboard engine:
+^1 The effective fuel consumption includes an allowance for the difference in the propeller efficiency of each installation. Data in this column indicate the actual amount of fuel consumed by a power unit of the same performance.
+Exhaust and air flows
+Any engine, whether installed in an engine room in a large craft or in an engine box in a smaller vessel, must not only have access to fresh air for combustion, but the ventilation should be adequate so that the exhaust gases can easily escape. A restricted flow of exhaust gases and fresh air can easily cost the operator 10 percent more in fuel consumption.
+Air intake. An adequate air flow into the engine room or engine box is important not only to supply air to the engine for combustion but also to prevent overheating of the engine room or engine box. This is particularly important with the installation of air-cooled engines, where the flow of air is the only mechanism by which the heat of the engine is dissipated.
+Table 8
+Kerosene outboard engine
+Advantages
+Disadvantages
+3Burns fuel that can be very cheap
+8 Shorter life than gasoline engine
+3Similar price to 2-stroke equivalent
+8 Kerosene must be 40-50% the price of gasoline to make the engine viable
+8 Subsidized kerosene often in short supply
+8 High wear, more carbonization, very short service life
+8 Requires gasoline/2-stroke oil mixture for low speeds, starting and stopping
+8 Speed reduction can result in increased fuel costs
+8 Requires good quality kerosene
+Typical fuel consumption: 0.5 litres/HP/hour Effective^1 fuel consumption of other engines compared with a kerosene outboard engine:
+^1 The effective fuel consumption includes an allowance for the difference in the propeller efficiency of each installation. Data in this column indicate the actual amount of fuel consumed by a power unit of the same performance.
+As a guide, the cross-sectional area of the air intake into the engine room or engine box should be at least 8 cm^2 per horsepower for a water-cooled engine (i.e. a 40 HP engine requires an air intake of at least 40 x 8 = 320 cm^2). An air-cooled engine requires a larger air intake, the minimum dimensions of which are usually stipulated by the manufacturer. In any engine room or engine box, the air intake should supply cool, fresh air low down in the engine room, while hot air should be ventilated from the top of the engine room or box.
+If a diesel engine is starved of air, the exhaust tends to show black smoke. Care must be taken, as this could also be a sign of other mechanical problems (see the section Engine maintenance).
+Air outlet. Some of the air that enters the engine room or box leaves via the engine exhaust, but ventilation must be allowed so as to avoid the build-up of heat in the engine room or box, itself. Hot air should be taken out from the top of the engine room or box, where the air temperature is highest. The cross-section of the air outlet should be approximately the same as that of the air inlet, around 8 cm^2 per horsepower for a water-cooled engine.
+Engine exhaust. The exhaust pipe should be as straight as possible, and sharp 90° bends should be avoided, as each bend can reduce the air flow by 25 percent. The diameter of the exhaust pipe should be stipulated by the engine manufacturer. If it is too small or contains too many sharp bends, backpressure builds up in the system, resulting in loss of power and, in more extreme cases, white smoke in the exhaust.
+<section>5</section>
+Annex 1
+Record keeping
+The majority of small-scale fishers keep few or, at best, very basic records. Usually these are only in sufficient detail to satisfy the tax department or an absent owner or to help divide profits and costs among crewmembers. Seldom are records kept with the idea that they can be used to monitor the performance of the vessel or crew.
+However, to have an idea about how well or efficiently a fishing vessel is operating, basic record keeping is of fundamental importance. The maintenance of daily records is one of the few methods by which an owner or operator can be aware of changes in a vessel's performance or be able to compare the performance of one vessel with another. The collection of simple performance information provides the basis for a choice of optimum speed (see Annex 3) and, in the long term, is the only method by which the owner is able to measure the justification for an investment in newer technologies.
+Records should be the "barometer" of a fishing enterprise, illustrating the highs and lows and measuring success or failure. There are several important tenets that should be observed in record keeping to ensure the information collected is useful and to the point:
+* Be concise. What information is really necessary? Collect only this information, as anything more is a burden.
+* Be basic. Try to compile simple information - the more complicated the information, the less likely it is to be accurate.
+* Be consistent. Whatever the information, as far as possible it should be collected in the same way and by the same people.
+* Be regular and frequent. Collect information often and at the time of the event. It is difficult to recall details of a fishing trip that occurred six months ago! It is a good idea to record information after each fishing trip and then make monthly summaries.
+For the purpose of monitoring fuel efficiency, the principle items of information to be gathered on a regular basis include:
+* the quantity of fuel and oil purchased;
+* the cost of fuel and oil purchased;
+* hours of engine operation;
+* distance travelled (if the vessel is fitted with a log).
+In order to maintain an idea of the vessel's earnings and of costs, there should also be records of:
+* catch weight and value;
+* maintenance costs;
+* other daily costs such as crew food, bait, ice and docking and unloading fees;
+* crew payments or crew share.
+Care should be taken to record the dates when a cost was incurred or a sale made. Without these dates, it is difficult to make periodic summaries. An accounting book is useful for laying out details of costs, activity and earnings. Tables 9A and 9B present a possible format for this information.
+Keep the tables well organized, using a new line for each cost item, comment or sale (earnings). Starting a new pair of pages for each month helps when the time comes to write the monthly summaries.
+Table 9A
+Costs - August 1998
+Date
+Cost item
+Quantity
+Cost ($)
+Comments
+Diesel
+200 litres
+Ice
+500 kg
+30 hours engine use
+Crew share
+Oil filters
+Table 9B
+Earnings - August 1998
+Date
+Item
+Quantity
+Value ($)
+Fish - grade 1
+150 kg
+Fish - grade 2
+300 kg
+<section>6</section>
+Annex 2
+Decision assistant
+Very little reference has been made in this guide to the important aspects of if and when it is worth making an investment in a more energy-efficient technology. The great differences between countries and regions in the prices of engines, fuel and skilled labour make it meaningless to present quantitative financial guidelines. However, the following basic calculation should assist a vessel operator in investment decisions. It should be noted that the method is a quick approximation; if a large investment is being considered, a more detailed financial analysis is necessary.
+Total cash expenditure should be calculated by summing the purchase price, installation cost, any net lost earnings plus the additional annual maintenance cost incurred by the new investment. The net lost earnings should be estimated from the number of days the vessel will be out of service multiplied by the owner's normal net earnings (after the deduction of costs and crew share) from the vessel per day.
+The money to be invested could have been left in the bank to earn interest, which is effectively lost. Lost interest is calculated by multiplying the bank interest rate by the total cash expenditure. The total cost is the sum of the lost interest and the total cash expenditure.
+The anticipated annual fuel savings should be estimated from the fuel savings figures related to the new investment (such as those presented in this guide), multiplied by the present annual total expenditure on fuel. The latter should be estimated from current records.
+The payback period for the investment is then calculated by dividing the total cost by the expected reduction in fuel cost, and multiplying by 12 in order to convert from years to months. It is very important for the payback period to be shorter than the useful life of the item(s) to be purchased.
+The chart shown here is an example only and is not based on a particular case.
+Figure 14: Example assessment of investment in energy-efficient technology
+<section>7</section>
+Annex 3
+A guide to optimum speed
+The method described below for estimating an optimum vessel speed is quantitative in nature and requires a reasonable ability to collect basic performance data from the fishing vessel in question and to make calculations based on that information.
+As mentioned in the section Engine operation, an important part of calculating the optimum speed of a vessel is the estimation of the value of the skipper's time, which is often indefinite and frequently difficult to specify. The method outlined below, however, can show particular vessel and engine speeds at which it would be unwise to operate under any circumstances, irrespective of the valuation of the skipper's time. The basic factor in selecting of an optimum speed is the compensation gained - through savings in fuel by travelling at a slower rate - for the "cost" paid by a skipper for arriving later than normal.
+What do I stand to gain by slowing down?
+The amount gained per hour of later arrival is particular to an individual vessel and its load condition - no two vessels have the same characteristics. The value gained per hour from travelling more slowly can be expressed as:
+To apply this calculation, some basic information must be collected and a table drawn up to measure fuel consumption (litres per mile) against vessel speed. The vessel must be equipped with a speed log and either a fuel flow meter or an engine tachometer. The validity of the calculation is increased through the use of a fuel flow meter rather than a tachometer. A table similar to Table 10 should be drawn up and completed.
+The information in columns A, B and C should be recorded at sea, under typical conditions with a typical hold load. Care should be taken to avoid the effect of wind and, if necessary, recordings should be made on both outward and return legs of a trip - both against and with the wind.
+Table 10
+Trials data
+A
+Engine RPM
+B
+Vessel speed (kt)
+C
+Litres/hour
+D
+Litres/mile
+E
+Value ($/hour)
+Fuel price: US$0.30 per litre.
+If a fuel flow meter is available, it is not necessary to record engine RPM, and column A may be left blank. If a fuel flow meter is not available then the information in column C must be calculated based on the current RPM (column A), the manufacturer's stated fuel consumption at MCR, and the propeller law. At any particular level of RPM, the fuel consumption can be estimated as:
+In the example presented in Table 10, the vessel was equipped with an engine rated to be 154 HP at 1 900 RPM. At this speed, the manufacturer stated that it should consume 0.21 litres/HP/hour, giving a fuel consumption of 32.4 litres per hour at MCR. The fuel consumption at 1 500 RPM, for example, was then estimated:
+Column D is the result of dividing the data in column C by column B, for each particular row.
+Column E is calculated using Equation 4, based on the current row and the information in the row above. Taking the 1 500 RPM row as an example:
+The results should then be plotted on a graph of value per hour against vessel speed (column B against column E), such as that illustrated in Annex Figure 1.
+The form of the graph is very significant, as it contains not only the complex interaction of the propeller and hull, but also the implicit value of fuel. It will be unique not only to the vessel but also to the current economic conditions - other sample curves are shown in Figure 12. At speeds where the curve is relatively flat, operating speed can be increased with very little penalty, such as between 7 and 8.8 kt in Figure 11. It would be unwise to operate this particular vessel in this speed range. At speeds where the curve is steep, there are great benefits to be gained from slowing down. Preferred operating speeds are, therefore, at those points on the curve where it starts to become appreciably steeper. However, in order to compensate for the "cost" per hour of travelling at a slower speed with the savings per hour in fuel costs, the skipper's value of time needs to be estimated.
+Figure 15: Sample curve of time value/vessel speed
+How much is my time worth?
+The estimation of how much the skipper's time is worth can be taken as the valuation of the cost of his/her arriving later. An approach would be to ask, "would I be willing to arrive an hour later if someone paid me $1 000?". In this case, the answer would probably be yes. But if the compensation was only 50 cents, it would probably be no. So the value of the extra hour lies somewhere between 50 cents and $1 000. The questioning process should be repeated, reducing the value from $1 000 downwards until the decision becomes uncertain and an upper limit of time value can be estimated (for example $25). Likewise, the questioning should be repeated, increasing the lower value from 50 cents until again the decision becomes uncertain, so that a lower limit is reached (again for example $15). The valuation of the skipper's time lies between these two and can be estimated as the average (in this case $20). This is the valuation per hour of the cost to the skipper of arriving late.
+It is worth noting that it is not so important to get a precise estimate of the skipper's time value, as the form of the vessel's savings curve may be such that some operational limits can be established by common sense.
+Figure 16: Other sample value/speed curves
+Combining the sample vessel data in the graph and the sample valuation above, an optimum operating speed is estimated to be a little more than 9.5 kt, at about 1 680 RPM.
+<section>8</section>
+Annex 4
+Crouch's propeller method
+This annex presents a procedure for estimating the correct propeller diameter and pitch for a given vessel and engine. It is based on an empirical method and formulae developed by George Crouch, although some of the procedures have been simplified by the integration of formulae derived by Dave Gerr (Gerr, 1989). The charts should be of assistance in a quick check of an existing or proposed propeller design - they are not intended to be part of a detailed design process. Their application is limited to three-bladed propellers, of ogival section (flat-faced with a symmetrical curve on the back) and a blade mean width ratio of 0.33.
+Only basic information concerning the installation and the vessel is necessary to perform a preliminary propeller check. This is limited to:
+* the operating propeller RPM;
+* the propeller RPM at MCR;
+* the required cruising speed;
+* the delivered shaft horsepower at the propeller at MCR.
+Estimation of propeller pitch
+Annex Figures 17 and 18 present charts for the estimation of pitch based on vessel speed and propeller RPM. Both figures present the same information but cover different RPM ranges. The charts include a correction for slip, which can be estimated as a function of vessel speed (for more details, see Gerr, 1989). It is very important that the required operating speed reflect the installed power and the type of vessel (see Figure 4, p. 7, and the section Engines). If the vessel is an existing vessel, according to the graphs in this Annex, the chosen operating speed for use should be the speed that the vessel currently achieves.
+Figure 17: Propeller pitch chart (400-1 500 RPM)
+The graphs should be read by entering along the horizontal axis at the RPM corresponding to the propeller's operating RPM at cruising speed. A vertical line should then be drawn until intersecting the curve corresponding to the required cruising speed. From that point of intersection, a horizontal line is then drawn to the left-hand axis where the pitch can be read.
+Suppose we have a 15 m vessel with an engine delivering a maximum of 150 HP (at the propeller), at an engine speed of 1 800 RPM through a 3:1 reduction gearbox. The desired service speed is 8 kt at an engine speed of 1 650 RPM. Figure 7 should be read by entering at the propeller operating speed, 550 RPM (= 1 650 ¸ 3, due to the reduction gearbox). A line is then drawn vertically at this point to meet the 8 kt curve. At this intersection the pitch is read off on the vertical axis at 31 inches.
+Figure 18: Propeller pitch chart (1 400-2 500 RPM)
+Estimation of propeller diameter
+The correct propeller diameter is estimated in a similar manner as the pitch. Figures 19 and 20 show the graphs for diameter estimation; however these should be entered using the RPM at the propeller when the engine delivers maximum power. A vertical line is drawn from this point to meet the curve corresponding to the delivered horsepower at the propeller. The propeller diameter is then read off the vertical axis at the level of this intersection.
+In the case outlined above, the graph is entered at 600 RPM (= 1 800 RPM ¸ 3), and a line is drawn up to the 150 HP curve. At this intersection, the corresponding diameter is 38 inches.
+Figure 19: Propeller diameter chart (400-1 500 RPM)
+Table 11
+Pitch and diameter adjustments for two- and
+four-bladed propellers
+Diameter
+Pitch
+Two-bladed propeller
+Four-bladed propeller
+Source: Gerr, 1989.
+Figure 20 : Propeller diameter chart (1 400-2 500 RPM)
+Adjustments for two- and four-bladed propellers
+To find the pitch and diameter for a two- or four-bladed propeller, perform the estimation as outlined above and then multiply the results by the factors given in Table 11. In the case above for a four-bladed propeller, pitch =
+31 x 0.98 = 30.4 inches, diameter = 38 x 0.94 = 35.7 inches.
+Faced with the task of changing an existing propeller to try to reduce or increase engine loading, there are a few rules of thumb that can prove as useful guides:
+* 1 inch of diameter absorbs the torque of 2 to 3 inches of pitch.
+* 2 inches of pitch decreases engine speed by 450 RPM (very rough).
+* A square propeller (pitch = diameter) is not special and is not necessarily the best.
+* With the propeller RPM reduced by 1/2 and diameter increased by 1/3, the efficiency increases by 1/4.
+Sources: Gerr, 1989, and Aegisson and Endal, 1992.
+<section>9</section>
+Bibliography
+Aegisson, G. & Endal, A. 1992. Energy conservation programme in the Indian fisheries. Energy conservation programme. IND38 Ref. 402009.00.02.92. Marintek, Norway.
+Annamalai, V. & Kandoran, M. 1996. Trends and cycles in fishery returns from motorised traditional fishing craft. Fishery Technology, 33(1). Cochin, India, Central Institute of Fisheries Technology.
+Annamalai, V. & Kandoran, M. 1990a. Economics of motorised traditional craft. Fishery Technology, 27. Cochin, India, Central Institute of Fisheries Technology.
+Annamalai, V. & Kandoran, M. 1990b. Motorising traditional craft: Problems and prospects of the innovation. Fish Technology Newsletter, VI(Oct.-Dec.). Cochin, India, Central Institute of Fisheries Technology.
+Anon. 1987. Engine model L40 stern arrangement. Japan, Yanmar Diesel Engine Co.
+Anon. 1970. Efficient propulsion. Research and Development Bulletin, 36. White Fish Authority.
+ASEAN/UNDP/FAO. 1981. Basic data for designing propeller and boat. Fuktomi Report on the training course on small-scale fisheries extension. Ref. RAS/84/016. ASEAN/UNDP/FAO Regional Small-scale Coastal Fisheries Development Project.
+Ayyappan Pillai, S. & Sreedharan Namboodiri, K. 1991. Problems in mechanisation of low-energy fishing craft for coastal water. In Proceedings of the National Workshop on Low-energy Fishing. India, Society of Fisheries Technologists.
+Baird, N. 1998. World marine engine propulsion systems. Melbourne, Australia, Baird Publications Ltd.
+Bartlett,T. 1996. The right prop. Motorboat and yachting, June.
+Berg, A. 1982. Full-scale experiences with propeller re-installation on a purse seiner. Paper presented at the International Conference on Propulsion for Small Craft. London, Royal Institution of Naval Architects.
+Billington, G. 1985. Fuel use control in the fishing industry. Proceedings of the World Symposium on Fishing Gear and Fishing Vessel Design. Ref. R 103. St John's, Newfoundland, Canada, Marine Institute.
+Boopendranath, M. 1996. Approaches to energy conservation in fishing. Regional Training Course in Commercial Fishing Technology. Training Department. Thailand, Southeast Asian Fisheries Development Centre.
+Byrne, D. & Ward, G. 1982. The cost of hull roughness versus the cost of hull smoothness. Paper presented at the Conference on Priorities for Reducing the Fuel Bill. Institute of Marine Engineers.
+Calisal, S.M. 1985. Methods to reduce fuel consumption of fishing vessels, BMT Abstracts, 41(12).
+Campbell, J. & Beare, R. 1986. The evaluation of vessel and engine performance. Kambia Fisheries Development Project. Lymington, UK, MacAlister Elliott and Partners.
+Carter, G. & Martin, M. 1964. Parafin engine performance. Ref. Report D.150/8. UK, Westfair Limited.
+Centre d'Assistance pour la Motorisation des Pirogues (CAMP). 1988. Experimentation of Yanmar diesel motors in Senegal.
+Dahle, E. 1982. Fuel saving and fuel conservation in fishing. Paper Presented at the International Conference on Propulsion for Small Craft. London, Royal Institution of Naval Architects.
+Dickson, W. 1988. Energy savings in fisheries and evaluation of its effects. In Proceedings of the World Symposium on Fishing Gear and Fishing Vessel Design. St John's, Newfoundland, Cananda, Marine Institute.
+Diffey, S. 1991.Experiences in the use of Yanmar diesel outboard engine: Outer Island Fisheries, Kiribati. Fiji, FAO Regional Fishery Support Programme. (internal communication)
+Dyne, G. 1983. Ship propulsion improvement. Eighth school ship design for fuel economy. Gothenburg, West European Graduate Education in Marine Technology.
+FAO. n.d. Fuel consumption in fishing. By E. de Boer. Rome. (in draft)
+FAO. n.d. Some notes on the search for sustainable and more fuel-efficient propulsion for artisanal fishing canoes. By R. Beare. Rome. (internal communication)
+FAO. 1971. Notes on characteristics recommendations for outboards engines in coastal fishing. by A. Witzenburg. Rome. (internal document)
+FAO. 1981. Fuel consumption in fishing. By E. de Boer. Rome. (internal report)
+FAO. 1983. Report on fitting outboard motors to Ghanaian fishing canoes. By Rawson, G. Rome. (internal document)
+FAO. 1985a. A preliminary account of attempts to introduce alternative types of small craft into West Africa. By Ø. Gulbrandsen. Programme for Integrated Development of Artisanal Fisheries in West Africa (IDAF), Cotonou. Ref. WP3. Rome.
+FAO. 1985b. Feasibility study on the use of 4-stroke petrol outboard motors on small size traditional fishing canoes in West Africa, By J. Fyson. Rome. (internal document)
+FAO. 1985c. Practical fuel saving guide for skippers. By E. de Boer. Rome. (internal report)
+FAO. 1985d. Report on a trip to West Africa. By Ø. Gulbrandsen. Rome.
+FAO. 1985e. TCP assistance to artisanal fisheries, By J. Fyson, N. Coackley, Ø. Gulbrandsen & N. Vikanes. Rome. (internal report)
+FAO. 1987a. Economies de carburant et engins de peche. By M. Ferretti. In GFCM. Studies and Reviews. Ref. No. 62. Rome.
+FAO. 1987b. Energy saving on trawlers: some factors related to design and propulsion. By G. Messina. In In GFCM. Studies and Reviews. Ref. No. 62. Rome.
+FAO. 1987c. Review of field projects in small-scale fisheries in West Africa. By S. Akester. Rome.
+FAO. 1987d. Seamanship, sailing and motorisation. By D. Davy. Programme for Integrated Development of Artisanal Fisheries in West Africa (IDAF), Cotonou. Ref. IDAF/WP/18. Rome.
+FAO. 1988. Recent developments of the artisanal fisheries in Ghana. By J. Haakonsen. Programme for Integrated Development of Artisanal Fisheries in West Africa (IDAF), Cotonou. Ref. IDAF/WP/21. Rome.
+FAO. 1989a. Diesel outboard engine statistics. By R. Beare. Integrated Development of Rural Fishing Villages. Rome. (internal document)
+FAO. 1989b. Fuel consumption data. Programme for Integrated Development of Artisanal Fisheries in West Africa (IDAF), Cotonou. Rome.
+FAO. 1990. Fishing craft development in kerala. By Ø. Gulbrandsen & M. Andersen. Ref. TCP/IND/8852A.
+FAO. 1991. Cost and earnings and credit studies on the Ghanaian canoe fisheries. By E. Callerholm Cassel. Programme for Integrated Development of Artisanal Fisheries in West Africa (IDAF). Cotonou Ref. IDAF/WP/34. Rome.
+FAO. 1995a. Code of Conduct for Responsible Fisheries. Rome.
+FAO. 1995b. Technology developments in capture fisheries. By D. MacLennan. Rome.
+FAO/Fishing News Books. 1985. Design of small fishing vessels. Fyson J., ed. Ref. N20 266031. Rome.
+Gerr, D. 1989. The propeller handbook. London, Nautical Books.
+Gifford, E. & Palmer, C. 1985. Energy saving and rig development for artisanal fishing boats. International Conference on Design, Construction and Operation of Commercial Fishing Vessels. USA, Florida Sea Grant College.
+Gilbert, L. 1983. Fishing vessel fuel control. New Zealand, Fishing Industry Training Council.
+Government of Western Samoa. 1988. Testing of diesel outboard engines for the Alia small boat fishery in Western Samoa. Fishery Division, Government of Western Samoa 20th Regional Technical Meeting on Fisheries. Ref. 20/WP.35. South Pacific Commission.
+Gulbrandsen, Ø. 1988. Small fishing craft in developing countries - what is the experience? Paper presented at the World Symposium on Fishing Gear and Fishing Vessel Design. St John's, Newfoundland, Canada, Marine Institute.
+Hearn, Prof. G. & Yaakob, Omar Bin. 1997. Power, performance and operability of 24 m fishing boats - by design? Paper presented at the Conference on Power, Performance and Operability for Small Craft. London, Royal Institution of Naval Architects.
+Henderson, K. 1992. The outboard motor manual. London, Adlard Coles Nautical.
+Hochstadt, H. 1997. Direct injection automotive engines. Paper presented at the Australia-Korea Automotive Technology Symposium.
+Hollin, D. & Windh, S. 1984. Cutting fuel costs: Alternatives for commercial fishermen. USA, Texas A&M University Sea Grant College Program.
+Houston, Dr. R & Newmann, R. 1997. Direct injection 4-stroke gasoline engines, the orbital combustion process solution. Paper presented at the Euro IV Conference on the Challenge of Future Technologies and Systems. London, Institute of Mechanical Engineers.
+Intermediate Technology Development Group. 1989. Small engines development for artisanal fishing boats in South India. Report to the ODA Joint Funding Scheme. UK.
+Jones, T. 1996. The four-stroke option. Motorboat and Yachting, June.
+Joselin, Prof. P. 1989. Performance of imported outboard engines in Indian conditions. Paper presented at the National Workshop on Technology for Small-scale Fishworkers. Trivandrum, India, South Indian Federation of Fishermen Societies.
+Kasahara T. & Bokura, D. 1988. Future trends in outboard motors. Paper presented at the World Symposium on Fishing Gear and Fishing Vessel Design. St John's, Newfoundland, Canada, Marine Institute.
+Kazuyuki, T. 1984. How to operate a small diesel engine for fishing boats. Training Department. Ref. TD/TRB/No 33. South East Asian Fisheries Development Center.
+Kazuyuki, T. 1985. Maintenance of diesel engines for fishing boats. Training Department. Ref. TD/TRB/No. 36. South East Asian Fisheries Development Center.
+Lange, K. 1988. Fuel consumption tests with Ghana plank herring boats. Tombo, Sierra Leone, GTZ Fisheries Pilot Project.
+Laurence, C. 1984. Vessel operating economics. London, Fairplay Publications.
+Leighton, S. & Cebis, M. et al. 1994. The OCP small engine fuel injection system for future two-stroke marine engines. International Off-Highway and Powerplant Congress & Exposition. Ref.SAE, Paper 941687. Milwaukee, USA, Society of Automotive Engineers.
+Lundgren, G. 1985. A simple method to determine optimum vessel speed. Paper presented at the International Conference on Design, Construction and Operation of Commercial Fishing Vessels. USA, Florida Sea Grant College.
+MacAlister, R.G. 1985. The application of sail in fisheries development. In Proceedings of the Regional Conference on Sail-Motor Propulsion. Manila, AsDB.
+MacAlister Elliott & Partners, eds. 1988. Sails as an aid to fishing. Lymington, UK MacAlister Elliott & Partners.
+Manohar Doss, R. et al. 1997. Returns from motorised traditional craft in Veraval coast. Fishery Technology, 34(2). Cochin, India, Central Institute of Fisheries Technology.
+Marbury, F. 1983. The finer points of slow steaming. Ship costs and energy symposium proceedings. Ref. Paper
+C-4. New York, USA, Society of Naval Architects and Marine Engineers.
+Martin, M. 1989a. Initial work on parafin operation of the QUB90 engine. Ref. Report S54. UK, Westfair Limited for British Seagul.
+Martin, M. 1989b. Issues in the design of kerosene outboard motors for use in fisheries. Paper presented at the National Workshop on Technology for Small-scale Fishworkers. Trivandrum, India, South Indian Federation of Fishermen Societies.
+Martin, M. & Magee, J. 1989. Further work on kerosine operation of the `Kingfisher' engine. Ref. Report S99. UK, Westfair Limited for British Seagul.
+National Institute for Oceanographic and Marine Research. 1988. Short, medium and long term propulsion systems for the small scale fisheries of Nigeria. Lagos.
+Nova Scotia Department of Fisheries. 1989. Technology transfer - energy conservation. Canada.
+Panikkar, K. et al. 1991. A study on economics of different fishing techniques along the Kerala coast with special reference to fuel efficiency. In Proceedings of the National Workshop on Low-energy Fishing. India, Society of Fisheries Technologists.
+Patience, G. 1982. The contribution of the propeller to energy conservation in ship operation. Conference on Priorities for Reducing the Fuel Bill. Trans ImarE, 1982 (94). Ref. Paper C99. Institute of Marine Engineers.
+Plueddeman, C. Fab four - Comparison test. Popular Mechanics Magazine. Hearst Corporation.
+Rübesamen, K. 1988a. Fuel consumption test: Modified Ghana planked diesel boat, traditional Ghana planked outboard boat. Tombo, Sierra Leone, GTZ Fisheries Pilot Project.
+Rübesamen, K. 1988b. Fuel saving propulsion diesel inboard motorisation of Ghana planked boats, Tombo, Yawri Bay. Tombo, Sierra Leone, GTZ Fisheries Pilot Project.
+Rübesamen, K. & During, S. 1988. Fuel saving propulsion for Ghana planked boats, Tombo, Yawri Bay. Tombo, Sierra Leone, GTZ Fisheries Pilot Project.
+Schneekluth, H. 1988. Ship design for fuel efficiency and economy. London, Butterworths.
+Sewel, R. & Sainsbury, J. 1985. Performance measurements of a 25 ft sail-assisted fishing vessel. Paper presented at the International Conference on Design, Construction and Operation of Commercial Fishing Vessels. USA, Florida Sea Grant College.
+Shahul Hameed, M. & Asok Kumar, K. 1991. Problems of energy optimization in fisheries. In Proceedings of the National Workshop on Low-energy Fishing. India, Society of Fisheries Technologists.
+Sheshappa, D. 1991. Design of propulsion plants for energy efficient fishing vessels. In Proceedings of the National Workshop on Low-energy Fishing. India, Society of Fisheries Technologists.
+Smith, C.F. 1985. The proper propeller. USA, New York Sea Grant.
+Smith, C.F., Lapp, P. & Sedat, R. 1985. Should there be a propeller nozzle on your trawler? USA, New York Sea Grant.
+Svensen, T. 1982. Techno-economic reasons for selecting fuel saving priorities. Paper presented at the Conference on Priorities for Reducing the Fuel Bill. Institute of Marine Engineers. Country?
+Swedish International Development Authority/FAO. 1986a. Pivoting engine installation for beachlanding boats. By A. Overa. Bay of Bengal Programme. Ref. BOBP/WP/44. Madras, India.
+Swedish International Development Authority/FAO. 1986b. Reducing the fuel costs of small fishing vessels, by Gulbrandsen, Ø. Bay of Bengal Programme. Ref. BOBP/WP/27. Madras, India.
+Swedish International Development Authority/FAO. 1987. Fishing trials with beach landing craft at Uppada, Andhra Pradesh, India. By L. Nyberg. Bay of Bengal Programme. Ref. BOBP/WP/56. Madras, India.
+Swedish International Development Authority/FAO. 1991. Report on technical consultation on small scraft and propulsion systems. Bay of Bengal Programme. Madras, India.
+Swedish International Development Authority/FAO. 1993a. Developing and Introducing beach landing craft. By V. Pietersz. Bay of Bengal Programme. Ref. BOBP/REP/54. Madras, India.
+Swedish International Development Authority/FAO. 1993b. Development of canoes in Shri Lanka. By G. Pajot & Ø. Gulbrandsen. Bay of Bengal Programme. Ref. BOBP/REP/59. Madras, India.
+Swedish International Development Authority/FAO. 1993c. Safety at sea. By Ø. Gulbrandsen & G. Pajot. Bay of Bengal Programme. Ref. BOBP/MAG/16. Madras, India.
+Swedish International Development Authority/FAO. 1993d. Small offshore fishing boats in Shri Lanka, by Pajot, G. Bay of Bengal Programme. Ref.BOBP/REP/61. Madras, India.
+Thankappan Achari, T. 1989. Socio-economic impact of motorisation. Paper presented at the National Workshop on Technology for Small-scale Fishworkers. Trivandrum, India, South Indian Federation of Fishermen Societies.
+Towsin, R.L. 1983. Bottom condition and fuel conserva-tion. Eighth school ship design for fuel economy. Gothenburg, West European Graduate Education in Marine Technology.
+Towsin, R.L. & Byrne, D. 1980. Speed, power and roughness: The economics of outer bottom maintenance. Trans RINA, 1980 (122). London, Royal Institution of Naval Architects.
+Towsin, R., Byrne, D., Svensen, T. & Milne, A. 1981. Estimating the technical and economic penalties of hull and propeller roughness. Trans SNAME, 1981(82). New York, USA, The Society of Naval Architects and Marine Engineers.
+Traung, J.-A. 1975. Fishing boats of the world. UK, Fishing News Books.
+Umeda, N. 1997. Proceedings of the International Workshop on Fishing Vessel Technology. Ref. No. 6. Hasaki, Japan, National Research Institute of Fisheries Engineering.
+University of Michigan/The Society of Naval Architects and Marine Engineers, eds. 1996. Proceedings of the Small Craft Marine Resistance and Propulsion Symposium. New York, USA, University of Michigan/The Society of Naval Architects and Marine Engineers.
+Vivekanandan, V. 1991. Kerala fisheries - Growing energy inefficiency. In Proceedings of the National Workshop on Low-energy Fishing. India, Society of Fisheries Technologists.
+Ward, N. 1985. The performance of high-speed fishing vessels in service. Industrial Development Unit. Ref. Tech Rep No. 257. UK, Sea Fish Industry Authority.
+Webster, P. The Honda revolution. Fisherman & Boatowner Magazine.
+Wilson, J. & Davy, D. 1993. Field trials of artisanal fishing vessels. Ref. R4223. Lymington, UK, MacAlister Elliott & Partners.
+Woods Hole Oceanographic Institute. (n.d.) Marine
+fouling and its prevention, United States Naval Institute, Maryland, USA.
+Woodward, J. 1973. Matching engine and propeller. The Department of Naval Architecture and Marine Engineering. Ref. 142. USA, University of Michigan.
+Yamamoto, S. 1982. Stern equipment for small fishing boats. Training Department. Ref. TD/TRB/No.24. Southeast Asian Fisheries Development Center.

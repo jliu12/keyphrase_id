@@ -1,0 +1,954 @@
+<title>Solar energy</title>
+<section>Solar energy. Lessons from the Pacific Island experience</section>
+WORLD BANK TECHNICAL PAPER NUMBER 244
+ENERGY SERIES
+Andres Liebenthal, Subodh Mathur, and Herbert Wade
+The World Bank
+Washington, D.C.
+Copyright © 1994
+The International Bank for
+Reconstruction and Development/
+THE WORLD BANK
+1818 H Street, N.W.
+Washington, D.C.
+20433, U.S.A.
+All rights reserved
+Manufactured in the United States of America
+First printing May 1994
+Technical Papers are published to communicate the results of the Bank's work to the development community with the least possible delay. The typescript of this paper therefore has not been prepared in accordance with the procedures appropriate to formal printed texts, and the World Bank accepts no responsibility for errors. Some sources cited in this paper may be informal documents that are not readily available.
+The findings, interpretations, and conclusions expressed in this paper are entirely those of the author(s) and should not be attributed in any manner to the World Bank, to its affiliated organizations, or to members of its Board of Executive Directors or the countries they represent. The World Bank does not guarantee the accuracy of the data included in this publication and accepts no responsibility whatsoever for any consequence of their use. The boundaries. colors, denominations, and other information shown on any map in this volume do not imply on the part of the World bank Group any judgment on the legal status of any territory or the endorsement or acceptance of such boundaries.
+The material in this publication is copyrighted. Requests for permission to reproduce portions of it should be sent to the Office of the Publisher at the address shown in the copyright notice above. The World Bank encourages dissemination of its work and will normally give permission promptly and, when the reproduction is for noncommercial purposes, without asking a fee. Permission to copy portions for classroom use is granted through the Copyright Clearance Center, Inc., Suite 910, 222 Rosewood Drive, Danvers, Massachusetts 01923, U.S.A.
+The complete backlist of publications from the World Bank is shown in the annual Index of Publications, which contains an alphabetical title list (with full ordering information) and indexes of subjects, authors, and countries and regions. The latest edition is available free of charge from the Distribution Unit, Office of the Publisher, The World Bank, 1818 H Street, N.W., Washington, D.C. 20433, U.S.A., or from Publications, The World Bank, 66, avenue d'Iéna, 75116 Paris, France.
+Cover photo caption: A solar photovoltaic household system in Indonesia, similar to those used in the Pacific Islands.
+ISSN: 0253-7494
+Andres M. Liebenthal is a principal economist in the Latin America and the Caribbean Technical Department, Environment Division at the World Bank. He was formerly a principal economist in Country Department III, East Asia and Pacific Region. Subodh Mathur is an independent consultant based in Bethesda, Maryland. Herbert Wade is with the Division of Energy Technology, Asian Institute of Technology, Bangkok; much of his work for this paper was earned out while he was the senior engineer at the South Pacific Institute for Renewable Energy, French Polynesia.
+Library of Congress Cataloging-in-Publication
+Data
+Liebenthal, Andres, 1947
+Solar energy: lessons from the Pacific Island experience/Andres Liebenthal, Subodh Mathur, and Herbert Wade. p. cm. -- (World Bank technical paper; no. 244. Energy series)
+ISBN 0-8213-2802-6
+1 Photovoltaic power systems--Pacific Area.
+2. Photovoltaic power generation--Pacific Area.
+I. Mathur, Subodh, 1951
+II. Wade, Herbert, 1939- . m Title. IV. Series.
+TK1087.L54 1994
+333.79'23'099--dc20
+94-13345 CIP
+<section>Foreword</section>
+Improvements in the efficiency of solar photovoltaic (PV) energy technologies and reductions in their costs are providing new opportunities to expand electrification in developing countries, particularly in areas remote from national and regional electrification grids.
+This report on the experiences of several Pacific island countries provides a clear indication that in small, remote villages, off-the-shelf solar PV technologies are providing reliable power at costs less than those of the more commonly used diesel systems households running a few electric lights and a TV/VCR. Elementary as these uses may seem in developed countries, they represent vital access to light and information for isolated peoples. The report also confirms another point made repeatedly in our recent energy sector work: appropriate technical choices need to be complemented by effective institutional approaches. The Pacific island experience demonstrated that the success of solar PV programs depended not merely on the choice of technology but on adequate training of maintenance personnel, good fee collection systems, and careful financial management. The report indicates that for solar PV systems installed in areas where managerial and technical expertise is scarce,
+ownership and maintenance of the systems by local, cooperatively owned utilities appears to be the soundest option.
+The solar PV programs discussed in this report were singled out from a broader review of experience with renewable energy technologies in the Pacific islands, out of which solar PV emerged as one of the few options that proved both economically and technically successful in the local context. The economic viability results from solar PV's competiveness with conventional small-scale diesel power in remote locations. The technical viability reflects the relative robustness of currently available household-size systems, which require only limited maintenance. In addition, solar PV is environmentally attractive at both the global and local levels, and the systems are most efficient in tropical or subtropical regions, which have levels of incident solar energy per square meter twice those of many industrial countries. On several counts, then, the solar PV approach appears highly promising for small-scale applications in developing countries.
+This report is among the first in a new Energy Series within the ongoing World Bank technical papers volumes. The new Energy Series technical papers will replace the Industry and Energy Department's "pink" series energy working papers. We are making this shift to take advantage of the World Bank's global distribution network for what we believe are publications of significance and widespread interest.
+Richard Stem
+Director
+Industry and Energy Department
+<section>Abstract</section>
+The successful experience of the Pacific islands in using and maintaining solar PV systems indicates that such systems could come to play a substantial role in the electrification of rural areas in many developing countries. In particular, the Pacific island experience suggests that present-technology household-sized PV systems can provide reliable power at costs less than those of the more commonly used diesel systems in small. remote villages for consumers with a limited number of appliances, such as a few household lights and a TV/VCR. It also suggests that the long-term success of solar PV programs will depend on the establishment of effective institutional approaches for maintaining the systems, and it indicates that ownership and maintenance of the systems by utilities appears to be the soundest option.
+In the Pacific islands, solar PV programs encountered a variety of difficulties in their early phases. Most of the early systems suffered from technical deficiencies-- stemming primarily from unreliable controllers, batteries, and appliances rather than the PV panels themselves. The lesson drawn is that systems must be appropriately designed, use reliable even if initially high-cost components, and be properly installed and adequately maintained. At the institutional level, the experience of the islands indicates that among the diverse approaches tried so far (including local cooperative ownership and government ownership and service), the one with the best record and greatest promise appears to be the provision of PV-based electricity by a utility on a fee-for-service basis.
+Tuvalu provides a case study illustrating the potential effectiveness of solar PV systems in remote areas for rural electrification under appropriate institutional arrangements. The Tuvalu Solar Electric Cooperative Society (TSECS), formed in 1984, appears to have been successful because it has maintained a well-trained technical staff with local and visiting technicians; fee collection through an outside agency that prevents diversion of funds to other projects; local user committees to communicate with the utility; and an exclusive focus on PV systems, along with a variety of appropriate configurations.
+A comparison of solar PV and diesel systems on the basis of life-cycle costs of providing the final services that the customer desires for a number of years (e.g., household lighting, refrigeration, or video) shows that the life-cycle costs of solar PV systems are marginally lower than those of diesel systems for households in remote rural areas. The difference in overall costs is about I to 14 percent, with the higher savings applicable to households with low energy consumption and lower savings applicable to households with higher energy consumption.
+<section>Preface</section>
+This report draws on and extends the results of a Pacific regional energy assessment conducted by the World Bank in cooperation with the UNDP/ESCAP Pacific Energy Development Programme, the Asian Development Bank, and the Forum Secretariat Energy Division. The assessment reviewed the issues and options associated with the development of the energy sector in 12 Pacific island countries: Cook Islands, Federated States of Micronesia (FSM), Fiji, Kiribati, Marshall Islands, Palau, Papua New Guinea (PNG), Solomon Islands, Tonga, Tuvalu, Vanuatu, and Western Samoa.
+<section>Abbreviations and Acronyms</section>
+AC
+alternating current
+Ah
+Ampere-hours
+CF
+compact fluorescent
+DC
+direct current
+ESU
+Energy Studies Unit, University of the South Pacific
+FSM
+Federated States of Micronesia
+GDP
+gross domestic product
+JICA
+Japanese International Cooperation Agency kW, kilowatt kWh, kilowatt hour
+PEDP
+Pacific Energy Development Programme
+PNG
+Papua New Guinea
+PREA
+Pacific Regional Energy Assessment
+PV
+photovoltaic
+PWD
+Public Works Department
+TSECS
+Tuvalu Solar Electric Cooperative Society
+USAID
+United States Agency for International Development
+V
+Volt
+Wh
+Watt-hours
+Wp
+Watt peak
+<section>Executive summary</section>
+Poor experiences with conventional power systems and a desire to restrict petroleum imports have led most Pacific island countries to experiment with solar PV systems for rural electrification. Overall, our study found, the experience of the Pacific islands indicates that household-sized PV systems can be cheaper than diesel systems in small, remote villages for consumers with a limited number of appliances, such as a few household lights and a TV/VCR. This success, albeit on a limited scale, suggests that solar PV systems could play a substantial role in the electrification of rural areas in many developing countries, especially those in which electricity services are needed in isolated pockets of low load densities, where the viability of diesel-based systems is questionable.
+Despite their promise, solar PV programs encountered a variety of difficulties in their early phases. In the Pacific islands, most of the early solar PV systems suffered from technical deficiencies--mostly stemming from problems with the reliability of controllers, batteries, and appliances, though generally not with the PV panels themselves. The principal causes were basically (a) the unreliable components; (b) inappropriate design, such as undersized PV panel arrays; (c) improper installation, so that the systems did not produce the expected amount of power; and (d) poor maintenance.
+Although equipment failures plagued early PV systems, the technical aspects now appear to be well understood, and solar PV systems are now providing a reliable supply of energy at a price that householders find attractive; this is particularly evident in Tuvalu, as discussed below.
+The experience of the Pacific islands in general indicates that the technical success of solar PV systems will be more likely if the systems are appropriately designed, use reliable though initially high-cost components, and are properly installed and adequately maintained. Thus, the main challenge for their proper maintenance and expansion in the Pacific islands may be the development of an appropriate institutional approach, and it is this aspect of the problem that forms an important focus for the present paper.
+<section>Current institutional approaches for introducing solar PV systems</section>
+The institutional approaches currently used to introduce PV systems in the Pacific island countries can be classified into six basic strategies, which have met with widely varying degrees of success.
+a. Village-cooperative-owned and -maintained individual home systems, government installed, with government technical support. This approach was first used in Fiji in 1982-84 in three village cooperatives. By the fifth year of the project, two villages had no functional systems and the third only a few.
+b. Government owned and installed, basic maintenance by owner, with energy office technical assistance on call. This is a common approach and has been used in the Cook Islands, Papua New Guinea (PNG), Tonga, Palau, Federated States of Micronesia (FSM), Fiji, and the Marshall Islands. In no case have the PV systems consistently performed as intended by the governments or as expected by the users. The systems have been abandoned, are operational at reduced capacity, or have had unacceptably high maintenance costs.
+c. Commercially sold. vendor- or user-installed, user-financed, -owned, and -maintained systems with commercial maintenance available on call. All Pacific island countries have some domestic rural installations of this type, with Fiji, Kiribati, and PNG having the largest number. In general, these systems were undersized because of the purchasers' desire to keep initial cost at a minimum. Maintenance by individual owners has been poor and the cost of commercial maintenance unaffordable, so personally owned and installed systems have not been successful.
+d. Commercially installed and owned, commercial maintenance on call. In 1983-84, a foreign owned, private company reported installing nearly 200 lighting systems in rural Fiji under a leasing arrangement that included a monthly fee and free maintenance on call. This business failed, partly because the maintenance costs proved higher than anticipated.
+e. Commercially installed and owned, periodic commercial maintenance. In a pilot project for a new commercial company, a rural village in Fiji was equipped with well-designed, high-quality individual lighting systems, with lighting provided through the insertion of a plastic "key" purchased from the village store. Users appeared to like the systems, but the business did not have adequate financing, and it failed before the approach could be evaluated properly.
+f. Cooperative-owned, -installed, and -periodically maintained systems with fee collections by the cooperative. This approach, used by the Tuvalu Solar Electric Cooperative Society (TSECS), has been successful in providing rural members with solar lighting, despite technical problems in the early years. It is discussed in detail below. A variant of this approach is being used by Kiribati, with the difference that the Kiribati solar utility is a government-owned corporation rather than a cooperative.
+The Tuvalu Experience
+Tuvalu's experience with solar PV power indicates that solar PV systems can be used successfully in remote areas for rural electrification (see Annex I for a brief description of Tuvalu). In Tuvalu, the chief agency responsible for developing solar PV energy is the Tuvalu Solar Electric Cooperative Society (TSECS), formed in 1984. TSECS is a commercial enterprise, registered under Tuvalu's Cooperative Society Act, with a charter to promote solar electricity for household lighting on the outer islands.
+After several years of trial and error, TSECS is now able to provide reliable PV-based electricity for lighting needs on a fee-for-service basis to about 300 households on Tuvalu's outer islands. Solar lighting kits have also been installed on eight community meeting houses. At present, the membership in TSECS is limited by the availability of new PV units and not by the willingness of households to join.
+TSECS is governed by a Management Committee, which consists of one member from each of Tuvalu's eight larger islands and reports directly to the Registrar of Cooperative Societies. Although the Management Committee sets the user fees, a Management Team located in Tuvalu's capital (Funafuti) handles the day-to-day operations and project implementation. The team consists of a manager appointed by the Management Committee and three technical/support staff who are appointed by the manager.
+Each island has its own branch of the cooperative, and members of the Management Committee are elected annually to their posts by their respective branches. On each island, TSECS has a branch technical agent, who is responsible for the day-to-day maintenance and monthly fee collections. Each island also has a Branch Committee, which is composed of local cooperative members. The Branch Committees act as arbiters of local disputes and makers of policy for their specific island.
+Maintenance and fee collections are performed monthly by a branch technical agent, who is a full-time TSECS employee. These technicians have received formal training. Further, senior technicians visit every site at least twice a year. Spare parts are stocked both at the main office and by the branch technicians; inventory control is managed by the main office.
+In 1992, the initial cost of membership in TSECS was A$50 (US$40), with a monthly fee of A$6.25 (US$5.00) for a single-panel system, and A$7.60 (US$6.10) for a two-panel system. TSECS earned roughly A$1.00 per month (out of the single-panel A$6.25 charge), a level of tariffs that provides for operation and maintenance (O&M) costs but not for the expansion or the replacement of the solar panels at the end of their useful life.
+The main ingredients of TSECS' success appear to be (a) good maintenance, provided by local technicians and visiting senior technicians; (b) good rate of fee collection by an impartial organization based outside the community and exclusive use of the fees for the project; (c) local user committees, which can arbitrate disputes between users and technicians about fee collections, disconnections, and poorly functioning systems, and keep the users informed about the functioning of the enterprise; (d) TSECS' exclusive focus on PV systems; (e) availability of systems of different sizes to meet the varying electrical needs and financial resources of the users; (f) a continuing and competent internal and external training program; and (g) readily available external technical support to assist with system design and training development.
+Institutional Lessons Learned
+The experience of the Pacific island countries--given the constraints associated with the low population density, low skill levels, and remoteness of the rural communities--suggests that the institutional approach most likely to succeed is provision of PV-based electricity on a fee-for-service basis by a utility rather than through the sale of hardware. This fee-based approach would require the utility to retain ownership and to maintain the small-scale systems installed in its customers' premises. Trained staff would visit the customers regularly to maintain the system, carry out repairs, and collect the service fee. The aim of the fee would be recovery of the utility's operating costs, including a capital recovery charge. A headquarters office would manage the accounts, inventory of spares, training, and procurement.
+<section>Solar PV and diesel system costs compared</section>
+Solar PV and diesel systems should be compared on the basis of life-cycle costs of providing the final services that the customer desires for a number of years (e.g., household lighting, refrigeration, or video). In particular, solar PV and diesel systems should not be compared on the basis of the cost per kilowatt hour of electricity produced under the two systems because such a comparison fails to account for the major operational differences between solar PV and diesel systems. The three broad components of life-cycle costs are (a) initial and future replacement costs of customer end-use appliances; (b) initial and future replacement costs of generation equipment; and (c) O&M costs.
+Design Considerations
+One critical design parameter is the reliability of the system, because the costs tend to increase sharply as the reliability of the system is increased to high levels. Another key parameter is the number of hours for which electricity will be available. A decision to supply diesel-generated electricity on a 24-hour basis will raise unit labor costs significantly for diesel systems but not for PV systems, almost all of which are equipped to charge batteries that provide power on a 24-hour basis. Hence, the power supply system should be designed so that it strikes a balance between the level of reliability consumers wish and the level of costs they can afford.
+General Cost Considerations
+Solar PV has an advantage over diesel-based power when (a) there is no existing power grid; (b) access to land is a problem; (c) diesel fuel is costly or reliable transportation for fuel is unavailable or costly; (d) there is high peak load for a short time; (e) the user population is likely to increase over time; (f) noise or air pollution is a concern; and (g) it is difficult to train and retain technicians for diesel systems.
+However, solar PV is at a disadvantage over diesel systems when (a) village demands for power are high; (b) dense vegetation or high levels of cloudiness limit insolation; and (c) the special appliances or power conversion equipment necessary to operate with the DC electricity provided by PV systems are unavailable or expensive.
+Life-Cycle Costs
+Based on data and assumptions that appear appropriate for the Pacific islands, the life-cycle costs of solar PV systems are marginally lower than those of diesel systems for households in remote rural areas. The difference in overall costs is about I to 14 percent, with higher savings applicable to households with low energy consumption and lower savings applicable to households with higher energy consumption. One of the principal conditions for this result to hold is that diesel generation (fuel, labor, and parts) costs are high, in the range of 50 to 65¢/kWh, because of the small scale of operations in the rural areas, high fuel costs, and high transportation costs. Where diesel generation costs can be realistically expected to be lower than this range, the life-cycle costs of diesel systems are likely to be less than those for the solar PV systems. This conclusion may change, however, if--as expected for PV panels in particular--the capital costs of solar PV components
+decline.
+Another assumption in the life-cycle cost calculations is that both diesel and solar PV systems are maintained adequately. In remote rural areas, however, it may be easier to maintain the solar PV systems and preferable to install them. To begin with, routine maintenance of the relatively less complicated solar PV systems is simpler. Similarly, long-term maintenance is easier because PV systems do not need the kind of intricate repairs and periodic overhauls that diesels require. In addition, because diesel systems provide power centrally, inadequate maintenance can lead to outages that affect many consumers and thereby reduce utilities' revenues commensurately. Finally, poor maintenance curtails the working lives of the expensive diesel gensets. Solar PV systems thus may hold a distinct edge when resources for maintenance are limited.
+The life-cycle cost comparison assumes that the average consumer load and number of consumers remain constant over the entire period. It is relatively easy to install additional solar PV systems when the number of consumers increases because solar PV systems are largely modular; in contrast, the initial capacity of the diesel systems has to be sized to take account of anticipated load growth. Therefore, the cost advantages of solar PV systems will be higher than indicated in the lifecycle cost calculations if the number of consumers increases steadily over time.
+<section>Organization of the paper</section>
+The paper is organized as follows: chapter 1 is a brief introduction; chapter 2 sketches solar PV power in the Pacific islands and derives lessons from this experience about the institutional conditions conducive to the successful development of solar PV systems; chapter 3 compares the costs of solar PV and diesel systems; and chapter 4 offers some conclusions. Technical details appear in three annexes.
+<section>1. Introduction</section>
+Following the oil crises of the 1970s, energy experts began to explore whether solar-based power generation held potential as an alternative petroleum-based fuels. Development of solar power has progressed considerably since then, yet its record of performance has been mixed, and it has not come into widespread use in either industrialized or developing countries. In the United States, for example, solar power generally is confined to niches such as highway signs, remote facilities, or vacation homes that are expensive to serve by conventional grid-based electricity supply. In the developing countries, solar power may have greater potential, since many of these countries receive a substantial amount of sunshine but do not already have extensive systems of grid-based electricity supply.
+The experience of the countries in the Pacific islands indicates that for electrification in areas with low load density--usually found in rural districts with mainly house lighting loads--and where the load is not expected to grow rapidly, individual solar photovoltaic (PV) systems may be cheaper than the more typically used small diesel systems. Costs vary from case to case, but household-sized PV systems can be cheaper than and-based diesel systems in small remote villages for consumers with a limited number of appliances, such as a few household lights and a TV/VCR system. Such situations are expected to account for a growing share of rural electrification, particularly when electricity services are expanded into isolated pockets where the economic viability of diesel-based power generation is questionable.
+Successful experience with solar PV power for rural electrification in the Pacific islands, although on a limited scale, suggests that solar PV may have the potential to play a substantial role in the electrification of developing countries. This report describes the evolution of solar power programs in the Pacific islands, derives lessons for the successful development of solar PV power in these and in other developing countries, and highlights the factors that determine the potential role of solar power.
+<section>The energy sector in the Pacific Islands</section>
+Pacific island countries' interest in energy matters surged in response to the oil price shocks of the 1970s, which had significant impacts on these open and fragile island economies. (See Annex 1 for a brief discussion of the economic conditions in the Pacific islands.) In the early 1980s, field missions and expert reports began to indicate that renewable energy technologies were becoming technically and economically viable and that the Pacific islands' energy environment--remote locations, small demands, high costs of petroleum imports, and abundant indigenous supplies of solar, biomass, hydro, wind, and oceanic resources--was ideal for the new technologies. I
+Despite this focus on renewable sources of energy, during the 1980s petroleum product demand in the Pacific islands grew at an average annual rate of nearly 5 percent. That rate is projected to increase to 7 percent during the 1990s. Imported petroleum remains the chief source of primary commercial energy; the main alternative is hydropower, and solar PV systems are seen as having only a limited role. Approximately two-fifths of the imported petroleum, mainly in the form of automotive diesel oil (ADO!, is used for power generation. In aggregate, thus, the dependence of the Pacific island countries on petroleum has not been reduced appreciably, and it is not likely to be reduced over the coming decade.
+<section>Rural electrification</section>
+In many of the Pacific island countries, a substantial part of the population is already being supplied with electricity. Data are not available for all the countries, but more than 50 percent of the population in the Cook Islands, Marshall Islands, Palau, Tonga, Tuvalu, and Western Samoa has been provided with electricity. In most of the countries, however, grid-based publicly distributed electricity is provided only on the main island, and the supply of electricity to rural areas and outer islands is very limited
+<section>Failure of the conventional approach</section>
+The conventional approach to rural electrification--establishment of isolated diesel stations operated by public works departments or national utilities--has yielded disappointing results. Despite considerable external assistance, a large proportion of rural power supply schemes are in decrepit condition and provide an unreliable supply, far below the standards required to stimulate economic development or even to meet the modest household needs of the consumers. This is largely a consequence of a lack of sufficient funds to cover operating costs, caused by the governments' inability to provide funds on a regular basis, external donors' reluctance to provide funds for operational expenses, and absence of adequate organization and incentives to collect revenues from the customers. Another principal cause is the difficulty of attracting and keeping technically skilled staff to operate and maintain the schemes.
+<section>Potential of solar photovoltaic systems</section>
+Their poor experience with conventional power systems and their desire to restrict petroleum imports has led most Pacific island countries to experiment with renewable energy resources for rural electrification and with solar photovoltaic (PV) systems. Most of the early renewable energy projects failed to provide a reliable supply of energy at a reasonable cost, and the solar PV systems experienced many problems during their introduction in the Pacific islands. However, many of the problems associated with solar PV systems appear to have been overcome, and, on an overall basis, the experience of solar PV systems indicates that under the right circumstances they can be an economical alternative to diesel generation for the electrification of remote rural areas.
+<section>2. Solar energy in the Pacific Islands</section>
+In general, the remote areas of the Pacific islands receive a high amount of sunshine, with few long cloudy periods and high levels of solar radiation on clear days because of the clean air. However, detailed measurements and records are limited regarding the amount of sunshine received at specific situations, such as the average bright day or the average cloudy day.
+<section>History and prospects</section>
+About 4,000 small-scale stand-alone PV systems have been installed in the Pacific island countries, typically involving two to eight panels for household lighting, water pumping, and refrigeration. Most of the countries have about 50 to 200 household systems each (Palau, FSM, Marshall Islands, Western Samoa, Vanuatu, Cook Islands, Solomon Islands, Kiribati, Tonga, Wallis-Futuna, and New Caledonia), with more in PNG, Fiji, and Tuvalu, and considerably more (2,500 estimated in French Polynesia. Several countries have ambitious plans for PV expansion. Tonga, Kiribati, Tuvalu, and the Marshall Islands are considering PV as the primary technology of choice for future rural electrification. The draft development plan for the Marshall Islands, for example, calls for 1,500 future household PV lighting installations.
+Pact Technical Problems
+Most of the early solar PV systems suffered from technical deficiencies, and most countries had problems with the reliability of controllers, batteries, and appliances, although generally not with the PV panels themselves. The experience of the early rural village cooperatives in Fiji is representative. Of the 100 household systems installed in 1983, only 11 were functioning in 1991, most of them well below design levels. The principal reasons for the technical failures of the PV systems have been as follows:
+a. Inappropriate design. In the early stages of solar PV development in the Pacific islands, the PV systems were not designed so that all the components (PV panels, controllers, wiring, and batteries) matched and so that the overall capability of the system matched the electrical needs of the users (see Annex 2 for a discussion of the technical aspects of solar PV systems). For example, premature battery failures were often caused by the use of panel arrays that were too small to meet the actual users' needs. In another case, poorly designed discharge controllers caused rather than prevented early battery failures.
+b. Unreliable components. The reliability of components is very important in the outer islands of the Pacific island countries because transportation is infrequent and expensive. Problems with unreliable batteries, controllers, and light fixtures were frequent.
+c. Improper installation. Improper placement of PV panels by inexperienced technicians reduced the power actually available to less than the potential capacity. In addition, voltage losses were common because of poor connections or undersized wire; many installers did not realize that the wiring specifications for 12V DC systems are quite different from 120V or 240V AC systems.
+d. Poor maintenance. Untrained users and technicians did not know how to maintain PV systems. Frequently, they misused batteries, misdiagnosed problems as battery-related even though the problem was elsewhere, and used automobile batteries as replacements, even though they were not suitable for solar PV systems.
+Future challenge
+Equipment failures were important problems with PV systems in the past, but the technical aspects now appear to be well understood, and solar PV systems are now providing a reliable supply of energy at a price that households find attractive. The experience of the Pacific islands indicates that the technical success of solar PV systems will be more likely if the systems are appropriately designed, use reliable even if initially high-cost components, and are properly installed and adequately maintained. Thus, the main challenge in the Pacific islands for the proper maintenance and expansion of the PV systems will be the development of appropriate institutional approaches.
+<section>Institutional approaches for introducing solar PV systems</section>
+The institutional approaches used to introduce PV systems in the Pacific island countries can be classified into seven categories, which reflect issues such as ownership of equipment, manner of technical support, and so on:
+a. Village-cooperative-owned and maintained individual home systems, government installed, with government technical support. This approach was first used in Fiji in 1982-84 in three village cooperatives. Although people in each village were trained as maintenance technicians and carefully instructed the need for consistent fee collection to pay for repairs, fees were not properly collected after an initial period, and maintenance soon became nonexistent. Funds that had been collected during the first year were quickly spent on other village projects, since PV system repairs had not been needed, and it appeared that the fees would not be needed. By the fifth year of the project, however, two villages had no functional systems and the third only a few.
+b. Government-owned and -installed systems, with basic maintenance by owner and energy of/ice technical assistance on call. This is a common approach that has been used in the Cook islands, PNG, Tonga, Palau, FSM, Fiji, and the Marshall Islands. Projects range in size from more than 200 systems in Fiji to a few units for technical trial in PNG. In practice, the users did not provide the proper basic maintenance, and government assistance in maintenance was generally sporadic, of widely varying quality, and with long repair delays common. Fee collections, if ever begun, were generally discontinued after a few months. Designs generally were inadequate in size to meet the real demands of users. Moreover, because of the common government requirement of purchasing based on lowest quoted cost, low-reliability equipment--in particular lighting fixtures and controllers--was often provided. In no case have the PV systems performed consistently as intended by the governments or
+expected by the users, The systems have been abandoned, are operational at reduced capacity, or work but have had unacceptably high maintenance costs because of frequent battery replacements.
+c. Commercially sold, vendor- or user-installed, user-financed , -owned, and -maintained systems with commercial maintenance available on call. All Pacific island countries have some domestic rural installations of this type. Fiji, Kiribati, and PNG have the largest number. Companies sold these systems to two main types of customers religious institutions and private individuals. In general, the systems were badly undersized because of the purchasers' desire to keep initial cost at a minimum. The installation of the systems was often poor, particularly for those installed by individual owners, with common problems including poor panel orientation and placement, inadequate wire size, and poor connections--particularly at the battery. Early battery failures have been common, and replacement batteries purchased by individual owners were usually of even lower cost and quality than those originally supplied, which in turn resulted in even more frequent failures.
+Maintenance by individual owners has been generally quite poor and the cost of commercial maintenance unaffordable. Hence, these personally owned and installed systems usually operate only a few months to a few years and then are either abandoned or used only on special occasions. Many systems purchased by religious institutions have suffered the same sorts of problems, with the notable exception of institutions that have a competent general maintenance man on staff whose duties and aptitudes include PV system maintenance. indeed, the oldest successful rural PV systems in the Pacific are at outer island missions, showing that such systems can work with proper institutional support.
+d. Commercially installed and owned, with commercial maintenance on call. In 1983-84, a foreign-owned private company reported installing nearly 200 lighting systems in rural Fiji under a leasing arrangement that included a monthly US$15 fee and free maintenance on call. That business failed, partly because the maintenance costs proved higher than anticipated, largely because of undersizing and resulting early battery failures. Also, the systems were dispersed over a wide geographic area, which made it necessary to have many field agents who had to travel extensively. Finally, the company had a poor collection rate for the monthly fee partly because of problems with field agents and partly because customers were unwilling to pay for a level of service below what they were told to expect.
+e. Commercially installed and owned, with commercial periodic maintenance. In a pilot project for a new commercial company, a rural village in Fiji was equipped with well-designed, high-quality individual lighting systems that were self-contained and sealed. The systems provided 24 hours of lighting after insertion of a plastic "key" purchased from the village store. This feature was specifically intended to imitate the common household practice of each day purchasing only sufficient kerosene for the night's lighting needs. Users appeared to like the systems and purchased the daily service "keys" as expected. Unfortunately, the business lacked adequate financing and failed before the approach could be properly evaluated. The majority of the systems continue to function, although the key interlock has been bypassed and no maintenance has been performed in the past three years.
+f. Cooperative-owned, -installed, and -periodically maintained systems with fee collections by the cooperative. This approach, used by the Tuvalu Solar Electric Cooperative Society (TSECS), has been successful in providing rural members with solar lighting, though there were technical problems in the early years. It is discussed in greater detail below.
+g. Solar-utility-owned, -installed, and -periodically maintained systems with fee collections by the utility. This approach is being used by Kiribati and is patterned closely on the TSECS. The main difference is that the organization providing the services is a government-owned corporation rather than a cooperative, and as a result it has better access to capital and support services although generally it can be less flexible in its operations. The Kiribati Solar Energy Company is structured as a rural electrification utility and is presently implementing its first village project in association with the Japanese International Cooperation Agency (JICA). Future projects are firm for three more villages and tentative for an additional five within the next three years.
+<section>The Tuvalu experience</section>
+The experience of Tuvalu in the development of solar PV power is instructive because it indicates that solar PV systems can be used effectively to tap the solar resource (see Annex I for a brief description of Tuvalu). In Tuvalu, the chief agency responsible for developing solar PV energy is TSECS, which was formed in 1984 by the Save the Children Foundation (USA) with seed money from the U.S. Agency for International Development (USAID). TSECS is a commercial enterprise, registered under Tuvalu's Cooperative Society Act, with a charter to promote solar electricity for household lighting on the outer islands.
+Initially, TSECS installed 170 single-panel 35 Wp PV systems intended to provide minimal household lighting. The systems were scaled based on estimates from user surveys, but actual use turned out to be higher than the estimates, so the systems were undersized in practice. In addition, they did not include charge/discharge controllers for the storage batteries (see Annex 2 for technical details on sizing a system, controllers, and batteries). This lack caused battery failures, often within six months of installation. In 1985, a European Community (EC) project provided an additional 150 units. Although these units had charge/discharge controllers, the poor design of the controllers caused problems. Moreover, even with the 42 Wp panel provided, the systems were still undersized. Finally, the battery chosen for the EC project proved unsatisfactory. The component problems and design flaws of these initial systems were overcome through a French government grant, which provided
+200 replacement batteries and controllers, thereby making all the systems operational.
+The other problematic aspect of the system was the customers' frequent complaints that the single-panel systems provided inadequate power. Independent studies by the Pacific Energy Development Programme (PEDP) and the Energy Studies Unit (ESU) of the University of the South Pacific confirmed this. Hence, on the recommendations of PEDP and ESU, the EC agreed to upgrade the initial 170 single-panel systems to two panels of 42 Wp each and to provide replacements for the poor-quality controllers, lights, and batteries received under the 1985 scheme. Now that the upgrade project is complete, nearly all the TSECS systems have two PV panels, a reliable 100 Ah battery, and a charge/discharge controller that has been well proven in thousands of Pacific island installations.
+Thus, after several years of trial and error, TSECS is now able to provide reliable PV-based electricity for lighting needs on a fee-for-service basis to about 300 households on the outer islands. Solar lighting kits have also been installed on eight community meeting houses. At present, the membership in the cooperative is limited by the availability of new PV units and not by the number of households willing to join TSECS. Though technical problems have kept many systems from performing to the full expectations of the users, the high on-time fee collection rate and the waiting list for new installations indicate that customers generally are satisfied. At present, TSECS does not have the capital to provide new installations and must rely on donors. The EC will be providing an additional 175 systems in 1993-94, bringing the total TSECS customer base to nearly 500.
+Management
+TSECS is governed by a Management Committee, which consists of eight members, one from each of Tuvalu's eight larger islands. The Management Committee is directly responsible to the Registrar of Cooperative Societies located in the Ministry of Finance, Commerce, and Public Finance. As a result, all project funds to TSECS are channeled through this ministry. In a few cases, this channeling appears to have introduced significant delays in the needed expenditure of TSECS funds for maintenance. Hence, some streamlining of the ministry's TSECS budget approval process may be needed.
+The Management Committee sets the user fees for TSECS. Day-to-day operations and project implementation are the responsibility of a Management Team (located in Tuvalu's capital. Funafuti). The team consists of a manager appointed by the Management Committee and three technical/support staff appointed by the manager Each island has its own branch, and members of the Management Committee are elected annually to their posts by their respective branches. On each island, TSECS has a branch technical agent, who is responsible for the day-to-day maintenance and monthly fee collections. Each island also has a Branch Committee. which is composed of local cooperative members. The Branch Committees act as arbiters of local disputes and makers of policy for their specific island.
+Maintenance and fee collections are performed monthly by a branch technical agent, who is a full-time TSECS employee. These technicians have received formal training. Further, senior technicians visit every site at least twice a year. Spare parts are stocked both at the main office and by the branch technicians; inventory control is managed by the main office.
+By the end of 1993, it is expected that more than 500 households will have lighting kits installed. The market for rural households desiring and able to afford PV lighting is estimated at 600 to 700 of the approximately 1.000 households in the islands, and this market is expected to be reached before the year 2000. In view of the growing energy demand from the consumers, a trend toward more powerful PV systems, capable of operating VCRs and household refrigerators, is expected to begin after 1993 and to come close to its full potential by 2000. In 1993. for example, three-panel expanded lighting systems and eight-panel lighting/video/refrigeration systems are being introduced on a trial basis and are intended to be offered to members at a monthly fee level appropriate to the O&M cost of the larger systems
+In 1992, the initial cost of membership in TSECS was A$50 (US$40), with a monthly fee of A$6.25 (US$5.00) for a single-panel system. and A$7.60 (US$6. 10) for a two-panel system. TSECS earned roughly A$1.00 per month (out of the single-panel A$6.25 charge), a level of tariffs adequate to meet O&M costs but insufficient to permit expansion or replacement of the solar panels at the end of their useful life. The fees are expected to remain fixed until the 1993/94 addition of three-panel lighting systems and eight-panel Lighting/Video/Refrigeration systems, when tees will be generally restructured.
+Reasons for Success
+The main ingredients of TSECS success appear to be (a) good maintenance, provided by local technicians and visiting senior technicians; (b) good rate of fee collection by an impartial organization based outside the community and use of the fees exclusively for the project; (c) local user committees, which can arbitrate disputes between users and technicians about fee collections, disconnections. and poorly functioning systems and keep the users informed about the functioning of the enterprise; (d) TSECS' exclusive focus on PV systems; (e) availability of systems of different sizes to meet the varying electrical needs and financial resources of the users; (f) continuing and competent internal and external training; and (g) readily available external technical support to assist with system design and training development.
+<section>Lessons learned</section>
+Based on the experience of the Pacific island countries, the main institutional lessons reamed are as follows:
+a. Maintenance. In the Pacific outer island environment, user maintenance of PV systems is rarely successful, and frequent visits by trained maintenance personnel are very important. Although "handymen" working in churches, schools, and hospitals have been successful to some extent in maintaining their institutions' PV systems, rural householders generally lack the skills to diagnose PV problems and make effective repairs.
+b. Fee collection and management. These should be from outside the community, because collection is lax with local organizations, and the collected funds are often spent on non-PV projects in the early years when the need for repair and replacement funds appears relatively low.
+c. Spare parts. These must be readily available in the field. The substantial expenditure required to maintain such stocks is necessary to prevent the long delays associated with ordering parts from headquarters or overseas.
+d. Technical assistance. Field technicians should have ready access to technical assistance and continuing training programs.
+e. Local arbitration. An arrangement for local arbitration should be made between the users and the external services supplier, particularly as regards disconnection for failure to pay fees.
+In conclusion, to overcome the constraints associated with the low density, low skill levels, and remoteness of the rural communities, the institutional approach most likely to succeed appears to be the provision of PV-based electricity on a fee-for-service basis by a utility rather than through the sale of hardware to individual consumers. The feebased approach would require that the utility own and maintain the small-scale systems installed in its customers' premises. Trained staff would visit the customers regularly to service systems, carry out repairs, and collect a service fee. The aim of this fee would be the recovery of the utility's operating costs, including a capital recovery charge. A headquarters office would manage the accounts, inventory, procurement, and training.
+<section>3. Solar PV and diesel systems compared</section>
+Given the easy availability and widespread use of stand-alone diesel systems for rural electrification, it is necessary to compare the relative costs of solar PV and diesel-based systems. These costs depend on common factors and on site-specific conditions. Hence, the focus here is to develop some general principles that apply in a variety of situations.
+A comparison of the costs of solar PV and diesel systems should be based on the life-cycle costs of providing the final services the customer desires (e.g., household lighting, refrigeration, or video) for a given number of years. In particular, the comparison of solar PV and diesel systems should not be based on the cost per kilowatt hour of electricity produced under the two systems because this fails to take into account the different core parameters for diesel and PV system designs--peak load in the case of diesel, and watt hours per day in the case of solar--as well as the fact that, in general, the DC appliances commonly used with solar PV systems are relatively energy efficient and require fewer kilowatt hour for the same service than the conventional AC appliances used with diesel systems. At the same time, DC appliances also tend to have a higher initial cost than AC appliances, and this difference should be taken into account, as well.
+The broad components of life-cycle costs are as follows:
+o Customer. These include initial costs of end-use appliances and future replacement costs of end-use appliances.
+o Generation equipment. These comprise initial costs of the equipment used to provide electricity to the customers and future replacement or overhaul costs of the generation equipment.
+o Operation and maintenance (O&M) costs.
+<section>Design considerations</section>
+The costs of diesel and solar PV systems depend, in part, on decisions made in specifying the technological parameters that are used to design a power supply system. One critical design parameter is the reliability of the system, because the costs tend to increase sharply when the reliability of the system is increased to high levels. For example, in a diesel system, a high level of reliability may imply the installation of a backup genset that would be used only when the first genset was not available. Similarly, in a solar system, a high level of reliability may imply the installation of a high-capacity battery and a large number of PV panels, some of which will be necessary only during an extended period of cloudy days.
+Another key parameter in the design of a power supply system is the number of hours for which electricity will be available. For example, in a diesel system, the use of a refrigerator requires that electricity is supplied on a 24-hour basis. At the same time, for most of the households, the demand for electricity (based on lights, video) may be concentrated in four to six evening hours. Hence, a decision to supply diesel-generated electricity on a 24-hour basis will raise unit labor costs significantly. This will not be so, however, for household PV systems, which are designed to charge batteries for power delivery on a 24-hour basis.
+Overdesigned systems may raise both capital and O&M costs, but undersized, unreliable supply systems give rise to frustration among consumers, some of whom may continue to maintain their own backup systems. Therefore, care must be taken to design the power supply system to strike a balance between the level of reliability consumers wish and the costs they can afford.
+<section>General cost comparison of solar PV and diesel systems</section>
+In general, solar PV has an advantage over diesel-based power when the following conditions obtain:
+a. There is no existing power grid. The cost savings of not having to build an expensive and, particularly for communities with widely separated houses, tend to make solar PV competitive with diesel.
+b. Access to land is a problem. Solar PV does not require land for equipment or rights-of-way for transmission and distribution lines.
+c. Diesel fuel is costly, and reliable transportation for fuel is expensive or unavailable. Solar PV requires no fuel.
+d. Peak loads are high for short periods. Since the peak-Watt capacity available from a PV system is determined by the capability of the battery--not the panel--to deliver power, individual solar PV systems operating from batteries can provide very high power levels for short periods. For example, a small individual PV system of only 120 Watts in peak-panel generation capacity (Wp) can be used to power a movie projector drawing as much as 1,500 Watts for at least a few hours per week, since the battery has been accumulating power for a week before the power is withdrawn. A diesel system, however, must be sized initially to generate and distribute the full 1,500 Watts even if it is used at that level for only a few hours at a time.
+e. The number of customers is likely to increase over thee. Individual solar PV systems can be added as needed, whereas central systems may have to be sized larger than initially necessary in anticipation of future load growth.
+f. Noise or air pollution is a concern. Solar PV creates neither; diesel systems generate both.
+g. Qualified maintenance workers are not readily available. Training for solar maintenance is less complex, lower in cost, and more likely to succeed among rural persons with limited formal education than is training for diesel maintenance.
+However, solar PV is at a disadvantage over diesel systems under the following circumstances:
+a. Village demands for power are high. Diesel systems benefit from economies of scale; solar PV does not.
+b. The amount of sunshine is low. Dense vegetation around homes or high levels of cloudiness may reduce the sunlight falling on the solar panels.
+c. DC appliances are expensive or unavailable. In some situations, the DC appliances or power conversion equipment necessary to operate AC appliances with the DC electricity provided by PV systems may be unavailable or expensive.
+These considerations are summarized in Table 3.1.
+Table 3.1. Comparison of Solar PV and Diesel Systems for Rural Electrification
+Parameter
+Diesel central systems
+Solar individual systems
+Initial capital machinery life without proper but short battery life without proper characteristics
+Low initial capital cost, short useful installation possible, long PV panel life. Physical weight
+Moderate capital costs (no grid), rapid costs, machinery maintenance, moderate bulk and maintenance, shade-tree area needed
+Operations
+Rapid response to load changes, quick start-up. easy shut-down
+Immediate response to load changes
+Fuel cost, is good in urban areas but often poor to operate system at times of low sunshine and night
+Imported fuel, high cost. availability subject to weather, storage battery required and storage
+No fuel requirements, good availability, in rural areas, easy to store but storage expensive in rural areas
+Repair and
+Technicians expensive to train and hard to retain, maintenance is costly at light loads
+Technicians not costly to train, maintenance costs are moderate, operating efficiency changes lime with load changes
+Parts
+Large in number, readily available
+Few in number, easily available
+Pollution
+Toxic fuel, noise, noxious smoke and smell
+Low environmental impact
+Prospects
+Factors making them suitable are existing power grid, low on-site fuel costs, high load requirements over an extended period per day
+Factors making them suitable are lack of an existing grid, high on-site fuel costs, high peak loads for short periods, concern about air or noise pollution, load growth front new customers or increasing demand
+<section>Solar PV and diesel costs in the pacific islands</section>
+The life-cycle costs of solar PV and diesel systems on a per customer basis are shown in Table 3.2, based on data from the Pacific islands (see Annex 3 for details). It should be clear these costs will be different for other regions of the world and will vary from site to site even within the Pacific islands.
+Table 3.2. Life-cycle Costs in Dollars per Customer of Solar PV and Diesel Systems
+Solar PV
+Diesel
+% Difference case solar-diesel
+Household Lights Only^a
+Customer: initial appliance costs
+Customer future appliance costs
+Generation equipment: initial costs^b
+Generation equipment: future costs^c
+O&M costs^d
+Total
+Household Lights & TV/VCR^b
+Customer: initial appliance costs
+Customer: future appliance costs
+Generation equipment: initial costs^b
+Generation equipment: future costs^c
+O&M Costs^d
+Total
+Household Lights & Refrigerator^b
+Customer: initial appliance costs
+Customer: future appliance costs
+Generation equipment: initial costs^b
+Generation equipment: future costs^c
+O&M Costs^d
+TOTAL
+Note: Discounted present value of costs in constant dollars for 15 years at a 10 percent discount rate.
+a
+For technical details of the appliances, see Annex 3; diesel system operates for six hours a day in Lights Only and Lights & TV/VCR cases, and 24 hours in Lights & Refrigerator case. ^
+b
+For solar PV systems, cost of PV panels, batteries, etc.; for diesel systems, costs of generation, distribution and reticulation equipment. ^
+c
+For solar PV systems, replacement costs of batteries and controllers; for diesel systems. equipment is assumed to last 15 years, with a major overhaul every five years. ^
+d
+For solar PV systems, cost of maintenance provided by solar PV utility; for diesel systems. variable generation (energy) costs.
+Source: Annex 3.
+The costs are compared for three representative combinations of end-use appliances. In the first case, the customer uses electricity for household lighting only. With the solar PV system, the consumer uses three lights and a night light. but the night light is not precept with the diesel system. which is assumed m operate only six hours a day. In the second case, the customer has a TV/VCR in addition m the lights, and the diesel system is again assumed to operate only 6 hours a day. In the third case. the customer has a refrigerator in addition to the lights. and the diesel system is assumed to operate 24 hours a day.
+The market for the special DC-powered appliances used with solar PV systems is much smaller than the market for the conventional AC-powered appliances used with diesel systems. Consequently, in all of the cases, the initial and replacement costs of the customer's appliances are higher for solar PV systems than for diesel systems. Further. the initial and replacement costs of the generation equipment are higher for solar PV systems than for diesel systems. This difference is caused partly by the tact that diesel systems represent an established technology. whereas solar PV is an evolving technology (whose costs are expected to decrease in the future. On the other hand, the O&M costs are significantly lower for solar PV systems than for diesel systems, primarily because solar PV systems require no fuel. whereas the cost of diesel fuel is high.
+In all of the cases, on an overall basis, the life-cycle costs of solar PV systems are lower than those of diesel systems. Thus, the lower O&M costs of the solar PV systems relative to diesel systems snore than compensate for their higher customer appliance and generation equipment costs. However, the difference in overall costs is only I to 14 percent, which indicates that the result of lower solar PV costs is sensitive to the assumptions underlying the calculations. In other words, solar PV systems may prove more expensive than diesel systems if the specific circumstances underlying Table 3.2 do not hold at a particular site.
+<section>Sensitivity analysis and other considerations</section>
+The cost comparison developed above indicates a methodology that can be used to compare the economic costs of solar PV systems and alternative energy sources such as diesel systems. The overall numerical results of any such cost comparison are likely to be sensitive to the particular values used in the analysis, such its the lifetimes and costs of various components. Further, some other considerations have not been included in the analysis, as detailed below.
+Working Lives of Systems
+The results of the cost comparison are sensitive to assumptions about the working lives of the solar PV and diesel systems. In the analysis, it has been assumed that both solar PV and diesel systems will be properly designed and installed and adequately maintained, so that their actual working lives will not be shorter than their potential working lives. However, this assumption does not reflect the historical experience in the Pacific islands, where early failures of both solar PV and diesel systems have been common. The assumption is made because it is possible to attain the full working lives. and it is difficult to predict the actual working lives of the systems at a particular site.
+A major determinant of the working lives of the systems is the skill levels of the technicians assigned to operate and maintain them. In the remote areas of the Pacific islands, it may be easier to maintain arid operate solar PV systems than diesel systems. Although diesel systems represent a well-established technology and solar PV systems are relatively new, troth are new to most Pacific island rural areas, arid it is unlikely that an urban technician will move to take care of a village power system. Thus, it is generally necessary to train local residents to maintain the power systems. Only about two weeks are required to train an uneducated rural village 'handyman" to do proper PV maintenance. hut it takes months of apprenticeship to train someone adequately for diesel maintenance. Further, once trained, diesel technicians often can find more attractive jobs in urban areas, thus requiring frequent repetition of training programs. PV technicians. in contrast. are much
+less likely to have a high turnover because they have almost no employment opportunities outside the rural areas.
+The difficulties of adequate maintenance of diesel systems are not unique to the Pacific islands. A comprehensive World Bank analysis of diesel plants in the developing countries concluded that 'a typical diesel plant investigated during the study is characterized by low production, low revenues, high costs, and short engine lifetimes." This study also 'found the lack of adequately trained operators and mechanics to be a major factor in the poor performance and short life of diesel plants in developing countries, contributing to the need for early plant rehabilitation or replacement. These plants, in fact, operated much less reliably, for shorter periods of time, and at higher costs than projected."
+Although solar power systems, too, have suffered technical problems in the past (see pare 2.3), the experience of TSECS in Tuvalu indicates that it is possible to overcome them in the Pacific islands (see pare 2.9). Given the relatively short time for which TSECS has been successful, it is not possible to conclude definitively that the actual working lives of the solar electric systems will be near their potential working lives. However, on balance, it appears that if the cost comparison is based on actual, rather than potential, working lives, then the results are likely to be favorable for solar PV systems.
+Diesel Generation Costs
+The results of the cost comparison are also sensitive to the generation costs associated with diesel systems. A key assumption in the above analysis is that the cost of electricity generated by diesel systems, even with proper maintenance, is high by the standards of the industrialized countries. In particular, the variable (fuel, labor, and parts) costs of the diesel systems are assumed to be in the 50 to 65¢/kWh range, whereas the total (variable and capital) cost of electricity in the industrialized countries is of the order of 0.10¢/kWh. The specific values used in the analysis are notional, but they reflect the small scale of operations in the rural areas, high fuel costs, and high materials costs that are typical of remote Pacific sites (see Annex 3 for details) 8 If the actual diesel energy costs in any particular situation are significantly lower than the assumed values, solar PV power will become less competitive in cost.
+Reliability
+One factor not taken into account in the above cost comparison is the likely difference in reliability of service of solar PV and diesel systems. With a diesel system, all consumers depend on a central system, so unplanned outages affect everyone. In contrast, a problem with one or more solar PV components affects only the consumers whose systems fail. This dependence on a central system can be a major problem in the remote areas of the Pacific islands because of the scarcity of qualified repair workshops in rural areas. Consequently, in the Pacific islands, it may be necessary to send the entire unit to an urban workshop for repair or overhaul; in some countries even urban workshops cannot properly overhaul a small engine because proper cylinder boring equipment is not available.
+Load Growth
+The cost comparison assumes that the load to be met will remain constant for 15 years. Although this assumption is made mainly to keep the analysis simple, studies of 5-year load patterns in grid-connected rural villages of Fiji indicate that demand increases very slowly, if at all. unless marked increases in household cash incomes occur. Any anticipated load growth will tend to make solar PV systems cheaper than diesel systems because either the initial capacity of the diesel systems will have to be increased or expensive system restructuring will have to take place later to account for the load growth. In contrast. PV systems, which are largely modular, can have system capacity added as the load increases, particularly if most of the load growth comes from an increase in the number of consumers. .
+Consumer Composition of an Actual Village
+In an actual village, a variety of consumers will have to be provided with electricity. In the remote areas of Pacific islands, at current levels of income and development, the bulk of the households (70 to 80 percent) would tall under the Household Lights Only case, though some of them may have fewer or more than the lights assumed in the analysis. This would be followed by the Household Lights & TV/VCR case (10 to 20 percent). Only a limited number of households (about 10 percent) would have the type of load assumed in the Household Lights & Refrigerator case.
+With such a consumer profile, a practical difficulty may arise in developing a rural electrification program in strict compliance with the results of the cost comparison. For example, in a particular situation, the cost comparison may show that solar PV systems are cheaper than diesel systems for the Household Lights Only case and that diesel systems are cheaper than solar PV systems for the Household Lights & TV/VCR and Household Lights & Refrigerator cases. Yet it may be impractical IO develop a diesel system separately for the limited number of consumers in the Household Lights & TV/VCR and Household Lights & Refrigerator cases while providing solar PV systems for the Household Lights Only consumers.
+Environmental Effects
+The cost comparison does not take account of the fact the adverse environmental impacts of solar- PV systems are negligible, whereas diesel systems emit quantities of potentially harmful pollutants. This difference should be evaluated in the context of the rural areas where the systems are to be installed, however. The remote areas of the Pacific islands have suffered little environmental degradation in terms of air pollution, and hence the emissions from the diesel systems may have minimal adverse environmental effects locally.
+Effects of Capital Cost Subsidies
+In the Pacific islands, the capital costs of rural electrification programs have often been borne by some party other than the users, such as the government or donor agencies; for example, in Tuvalu,. the capital costs of the solar PV program have been borne by donors, such its USAID and the European Community (EC). From the perspective of the users, it capital costs are to he borne by external agencies. solar PV systems are particularly attractive because of their low variable costs. Diesel systems. in contrast. have relatively lower capital costs and higher variable costs.
+<section>4. Conclusions</section>
+The experience of the countries in the Pacific islands indicates that for electrification in areas with low load density, usually in rural districts that use electricity mainly for house lighting, and where the load is not expected to grow rapidly, individual solar photovoltaic (PV) systems may be cheaper than small diesel systems. This successful experience with solar PV power for rural electrification, although on a limited scale, suggests that solar PV could play a substantial role in the electrification of developing countries, especially those in which electricity services are needed in isolated pockets of low load densities, where the viability of diesel-based systems is questionable.
+Equipment failures were important problems with the early PV systems in the Pacific islands, but the technical requirements are now well understood and can be addressed relatively easily. At present, solar PV systems are providing a reliable supply of energy, if on a limited scale, at a price that households kind attractive. The experience of the Pacific islands indicates that the technical success of solar PV systems will be more likely if the systems are appropriately designed, use reliable although initially high-cost components, and are properly installed and adequately maintained. Hence, it is likely that in the future, institutional considerations will be critical in determining the success of solar PV systems, even though technical considerations (such as the choice of components and the design and sizing of the system) will remain important factors in the development of solar PV power for rural electrification, Thus, it is expected that the main challenge in the
+Pacific islands for the proper maintenance and expansion of the PV systems will be the development of an appropriate institutional approach.
+A number of institutional approaches have been attempted in the Pacific islands, but most them have failed to deliver reliable electric power to the consumers. In particular, the experience with maintenance provided by the consumers themselves shows that this approach has been unsuccessful. On the other hand, an institutional approach in which a specialized agency or utility owns the solar hardware, installs it on the consumer's premises. and maintains it on a fee-for-service basis has met with some success. This type of agency can be designated as an "electric utility without wires." It is important that this agency is run on a professional and commercial basis, have access to financing for capital needs, and is acceptable to the consumers. Thus, in some places, a cooperative may be the best way to organize this agency; in others, this function could be better served by a private or government-owned company.
+A comparison of the costs of the solar PV and diesel systems should be based on the lifecycle costs of providing the final services that the customer desires (e.g., household lighting, refrigeration, or video) for a number of years. The broad components of life-cycle costs are (a) customer costs, which consist of the initial and replacement costs of end-use appliances; (b) generation equipment costs, which consist of the initial and replacement or overhaul costs of the equipment used to provide electricity to the customers; and (c) operation and maintenance (O&M) costs.
+Based on data for the Pacific islands, the life-cycle costs of the customer's appliances are higher for solar PV systems than for diesel systems. One of the main reasons is that the market for the special DC-powered appliances used with solar PV systems is much smaller than the market for the conventional AC-powered appliances used with diesel systems. Furthermore, the initial and replacement costs of the generation equipment are higher for solar PV systems than for diesel systems. This difference is partly caused by the fact that diesel systems represent an established technology, whereas solar PV is an evolving technology whose costs are expected to decrease only in the future. On the other hand, the O&M costs are significantly lower for solar PV systems than for diesel systems. primarily because solar PV systems requite no fuel, and the costs of diesel fuel are high.
+Based on data from the Pacific islands, in terms of life-cycle costs. solar PV power is competitive with stand-alone diesel systems for serving the small loads typical of rural households in remote areas, although the difference in the overall life-cycle costs of solar PV and diesel systems is less than 15 percent. Thus, under the right circumstances, solar PV systems are marginally cheaper than diesel systems for rural electrification.
+One of the principal conditions for this result to hold is that diesel generation (fuel, labor. and parts) costs must be high--in the range of 50 to 65¢/kWh. Where diesel generation costs can be realistically expected to be lower than this range. the life-cycle costs of diesel systems are likely to be less those for solar PV systems. This conclusion may change in the future. however, if the capital costs of solar PV components decline; this is expected for PV panels in particular.
+Another condition for the finding that solar PV systems will prove marginally cheaper than diesel systems is that both diesel and solar PV systems are adequately maintained. In practice, in remote rural areas it may be easier to maintain solar PV systems because they have relatively simpler routine maintenance procedures and do not require the type of complex repairs and overhauls associated with diesel systems. Moreover, lack of adequate maintenance for diesel systems leads to outages that affect all the consumers and significantly reduces the working lives of the diesel gensets. Therefore, the choice between solar PV and diesel systems will be tilted more strongly toward solar systems at sites where limited resources and expertise are available for maintenance.
+The life-cycle cost comparison assumes that the average consumer load anti the number of consumers will remain constant over the entire period. It is relatively easy to install additional solar PV systems when the number of consumers increase because solar PV systems are largely modular; in contrast, diesel systems must be sized from the outset to take account of anticipated load growth. Therefore, the cost advantages of solar PV systems will he higher than indicated in the life-cycle cost calculations if the number of consumers increases steadily over time.
+Annexes
+<section>Annex 1. Economic conditions in the Pacific Islands</section>
+The twelve Pacific island countries (Cook Islands, Federated States of Micronesia (FSM), Fiji, Kiribati, Marshall Islands, Palau, Papua New Guinea (PNG), Solomon Islands, Tonga, Tuvalu, Vanuatu, and Western Samoa) covered by the Pacific regional energy assessment (PREA) have many features in common--for example, they all consist of a number of islands--but they also differ in size, population, and physical characteristics. I l The size of the islands varies considerably. For example, Kiribati consists of 33 islands in three main groups, and Fiji has about 300 islands, though most of the population and economic activity are concentrated on the two largest ones. All the countries are far from the major markets in Europe, North America, and Japan, although some are relatively close to two industrialized countries, Australia and New Zealand.
+<section>General features</section>
+The total population of the Pacific island countries is approximately 5.6 million, on a total land area of 530,000 square kilometers. Papua New Guinea (PNG) is the largest country, with a land area of nearly 463,000 square kilometers and a population of approximately 3.9 million. Thus, PNG has approximately 87 percent of the land mass and 70 percent of the population in the region. In size, PNG is followed by Fiji, which has a land area of 18,000 square kilometers and a population of approximately 725,000. In contrast, six of the countries (Tonga, Kiribati, Marshall Islands, Cook Islands, Palau and Tuvalu) have a land area less than 1,000 square kilometers and a population less than 100,000. The smallest country covered by the PREA, Tuvalu, has a land area of only 26 square kilometers and a population of only approximately 9,500 (Table A I. 1).
+Table A1.1. Physical and Demographic Characteristics of the Pacific Islands (All figures 1990)
+Total land area
+Total sea area
+Total
+Population Density:
+Urban
+Urban
+Country
+('000 km^2)
+('000 km^2)
+(persons km^2)
+Papua New Guinea
+Fiji
+Solomon Islands
+n.a.
+n.a.
+Western Samoa
+Vanuatu
+FSM
+Tonga
+Kiribati
+Marshall Islands
+Cook Islands
+Palau
+Tuvalu
+Source: Pacific regional energy assessment, 1992.
+The countries vary significantly in population density (persons per square kilometer). Density is lowest (8/km2) in PNG, the largest country, and highest (363/km2) in Tuvalu, the smallest. Most of the population lives in rural areas, but a majority are urban in Palau (67 percent), Tonga (67 percent), Cook Islands (56 percent) and Marshall Islands (55 percent). Urban population is also substantial in Fiji (39 percent), Kiribati (35 percent), Tuvalu (32 percent), and FSM (29 percent). The average size of the household (5.6 persons) is large compared with North American or Europen households, but it is similar to that found in other developing countries.
+The geographical fragmentation of the Pacific island countries, their remoteness, and their small size are fundamental constraints on their economic development. The average 1990 GDP per capita in these economies was approximately US$1,000, ranging from $3,300 in Palau to $430 in the Solomon Islands. Except for PNG (which has substantial exports of copper and gold, which account for more than 50 percent of its total exports), their exports are significantly less than their imports, and the economies are heavily dependent on remittances, external assistance, and borrowing (Table A 1.2). Most of these countries are unable to take advantage of all the potential external assistance that could be available to them because they lack the skilled management and implementation capacity to absorb it.
+Table A1.2. Development Indicators for the Pacific Islands (All figures 1990 unless otherwise indicated)
+GDP al current prices
+Total GDP per capita
+Total imports (cif)
+exports (fob)
+Annual ODA
+ODA per capita
+Country
+(US$mil)
+(US$mil)
+(US$mil)
+(Us$/mil)
+(US$mil)
+(US$)
+Papua New Guinea
+1,060.5^a
+1,176.1^b
+Fiji
+516.1^b
+Solomon Islands
+367.0^b
+103.8^c
+67.7^b
+Western Samoa
+109,4^b
+74.9^c
+12.5^b
+31.1^b
+Vanuatu
+140.4^c
+18.9^b
+FSM
+67.7^b
+5.4^c
+114.4^c
+Tonga
+9.0^b
+18.9^b
+Kiribati
+22.0^b
+5.2^b
+16.3^c
+Marshall Islands
+68.7^b
+44.4^c
+2.3^b
+Cook Islands
+45.7^a
+43.8^c
+2.8^c
+12.0^b
+Palau
+24.6^c
+0.6^c
+Tuvalu
+4.47^b
+0.2^b
+13.9^b
+Source: Pacific regional energy assessment, 1992. a1987 estimate. b1988 estimate. c1989 estimate.
+The economic assets of these countries consist mainly of their marine resources, fertile agricultural land, and potential for tourism. The larger countries have been relatively successful at exploiting these resources. For example, Fiji is a middle-income country with a diversified economy that has an internationally competitive sugar industry; a significant industrial base; well-developed tourism; and good prospects for further development of forests, fisheries, and agriculture.
+<section>Tuvalu</section>
+Tuvalu is composed of nine low-lying coral atolls in the Central Pacific Ocean with a total land area of 26 square kilometers and an Exclusive Economic Zone of 0.9 million square kilometers of ocean. The nine islands are scattered, with the northernmost island more than 550 kilometers from the southernmost. The total population is about 9,000, a third of whom live on the capital island, Funafuti. The principal natural economic resources are coconut trees and fish.
+Over the period 1986-89, the performance of Tuvalu's economy fluctuated considerably. Real GDP growth was 3 percent in 1987 and 14 percent in 1988, but it declined 13 percent in 1989. In 1990, GDP grew by an estimated 4 percent. With a population growth rate of 1.5 percent per annum, real per capita GDP in 1989 was lower than in 1986. In 1989. Tuvalu experienced an international trade deficit equal to approximately two-thirds of its GDP. This deficit was financed mainly by international aid and remittances from expatriate workers. In 1989, fuel imports were approximately 16 percent of total imports, but they amounted to more than 400 percent of total exports.
+Tuvalu's economy is supported by the Tuvalu Trust Fund, established in 1987 with grant aid totaling A$25 million; currently, the Fund's offshore investments are valued at A$35 million. Withdrawal of monies from this Fund is restricted by its charter, which requires that the Fund's value be maintained in real terms.
+Some fundamental constraints on Tuvalu's economy are the limited natural resources and the distances between the islands as well as between them and the major international markets. In addition, in recent years. Tuvalu has been able to use only about 50 percent of the foreign aid offered for capital investment projects because of a lack of skilled management and implementation capacity and cash-flow difficulties arising from the requirement of some donors that the government provide initial project finance and then seek reimbursement from the donors.
+In the medium term, Tuvalu's prospects for economic growth will depend on the future of copra production and revenue from fishing, including licensing income from international fishing companies. Assuming sound management of the limited resources, a practical investment program, and technical assistance in selected areas, overall economic growth of 3 to 5 percent per year is possible.
+Imported petroleum products provide all of the commercial energy consumed in Tuvalu. About half of the automotive diesel oil (ADO) is used to generate electricity, but the remainder of the petroleum products are consumed directly in transportation, fisheries, or household use (cooking and lighting). On the outer islands, most of the energy consumption is based on traditional biomass products, but, as the main text of this paper documents (e.g., chapter 2), the use of solar energy for lighting is increasing.
+The management of the energy sector centers around the Office of the Prime Minister (OPM) and the Ministry of Finance, Commerce, and Public Corporations. Within OPM, in the Department of Foreign Affairs and Economic Planning, there is a an Energy Planner, currently a member of the U.S. Peace Corps, who is the focal point for energy planning, evaluation, and coordination Electricity generation and distribution on the main island of Funafuti is under the Tuvalu Electricity Corporation (TEC), incorporated in December 1990. Before the incorporation, this agency was known as the Tuvalu Electricity Authority (TEA) and was a division of the Ministry of Works and Communications.
+<section>Annex 2 Technical details of solar photovoltaic systems</section>
+Solar photovoltaic (PV) systems convert sunlight directly into electricity using solid-state physical principles similar to those of transistors and integrated circuits. The electricity produced by PV systems is direct current (DC). Because the electrical power provided by PV panels is indistinguishable from electricity produced by any other source, any electrical device can be powered by PV panels in principle, although it may be necessary to convert the output of the PV panels to other voltages or to alternating current (AC). In practice, it is generally uneconomical to use PV panels for high-load appliances such as electric cooking ranges, air conditioners, and heaters.
+<section>Components of solar PV systems</section>
+The appliances often used in rural areas--such as lights, TV/VCR, and radios-- require relatively small amounts of electrical energy that can be provided by PV systems. PV panels sometimes may be used to power appliances directly, but since most consumers want electric power to be available at all times rather than just when the sun is shining, most PV panels are used to charge storage batteries, which then can provide power to the appliances at any time. PV systems used for rural electrification typically consist of the following components:
+o Solar photovoltaic panels
+o Storage batteries
+o Battery controllers
+o Wiring, fuses, and switches
+o Appliances.
+Solar Photovoltaic Panels
+Solar PV panels produce electricity in amounts directly proportional to the amount of sunshine falling on the panel's surface and on the size of the panel (i.e., the area exposed to the sun).
+A PV panel is made up of a number of cells. Individual silicon PV cells, no matter how large, produce an output of about 0.5 Volts when exposed to sunlight. In order to generate an output sufficient to charge a 12 Volt (V) battery, many cells (usually 33 to 36) have to be connected in series to form a panel whose output is rated to exceed the voltage of the battery. If a 24 V battery is used, then two PV panels are connected together in series to produce the necessary voltage.
+PV panels usually are rated in peak Watt (Wp) output. It is important to realize that this rating is useful mainly for comparing relative sizes of panels; in practice, many factors--such as the type of load connected and the intensity of sunlight--will affect the panel's actual power output in Watts. The peak Watt rating may be considered the effective maximum power that a panel can produce under ideal conditions. Further, since domestic rural electrification PV systems have the appliances connected to a storage battery and not directly to the panels, the peak Watt capacity of the panels has no relationship to the maximum Watts that can be delivered to appliances in a solarpowered home. Thus, a PV system with a 50 Wp panel could be used as the power source for an appliance, such as an electric iron or a film projector, with a power demand of 1,500 Watts.
+Solar panels and conventional diesel-powered generators have very different generation characteristics. For example, PV panels may be continuously short circuited without damage, whereas this would destroy a rotary generator by overheating it. Further, a change in the load resistance causes the voltage of PV panels to change without significant changes in the current produced, whereas a change in the load resistance connected to a rotary generator causes significant changes in the current produced but not in the voltage. These technical differences mean that persons familiar with conventional electrical systems but without specialized training in PV technology can often make serious errors in the electrical design or maintenance of PV systems.
+Storage Batteries
+Electrical storage is usually provided by lead-acid batteries similar to those used in automobiles. However, automobile batteries are designed to produce a high current for a short period to start the engine, whereas consumer appliances typically require a steady current for a long period. Thus, batteries have been specifically designed for solar PV systems, and it is preferable to use them.
+Most small PV systems, particularly ones used exclusively for radios and lighting, use 12 V batteries, since both the batteries and the appliances are readily available. Larger systems, such as those intended for refrigerators and video systems, often use 24 V batteries to keep wire size small and to minimize system losses.
+Technically, a typical lead-acid battery is made up of a number of physically separate cells connected in series so their cell voltages are added together. All lead-acid batteries are made up of individual 2 V cells. Thus, a 6 V battery has three cells connected in series, a 12 V battery has six cells, and a 24 V battery has 12 cells. Further, to get 12 V, one can connect two 6 V batteries in series; to get 24 V, one can connect two 12 V batteries or four 6 V batteries.
+Battery capacity is usually stated in Ampere-hours (Ah), which can be converted into Watthours (the most common measure of electrical energy) by multiplying the Ah value by the battery voltage. Thus, a 100 Ah 12 V battery stores 1,200 Watt hours of electrical energy when fully charged, whereas a 100 Ah 24 V battery stores 2,400 Watt-hours when fully charged.
+Note that although it is technically possible to connect many small batteries in parallel to increase total Ah capacity, it is best in practice to use a single battery that is capable of providing the total capacity desired rather than connecting several batteries of smaller capacity in parallel.
+Battery Controllers
+Batteries can be damaged by consistent overcharging, so an automatic device called a charge controller is usually provided to sense the battery's charge and reduce or switch off the charging current before damage can occur. Small PV systems may not need a charge controller, since the small currents provided by one or two PV panels are not likely to damage good-quality batteries, even though more frequent maintenance may be necessary to replace water lost from the batteries because of mild overcharging.
+Batteries also can be damaged by excessive discharging, so an automatic device called a discharge controller, similar in operation to the charge controller, is usually installed. The discharge controller continually senses the battery's charge and disconnects the appliances when the battery's charge falls below a set limit. Small systems in particular need the protection of a discharge controller, since it is easy to discharge the battery excessively by using appliances heavily.
+It is common practice to combine the functions of charge and discharge controllers in a single device.
+Wiring and Fuses
+These components are interconnected with wiring of the same type used in grid-connected homes, although generally a larger-diameter wire is needed because of the lower voltage and higher currents being delivered to the appliances. Fuses or circuit breakers are used to protect the equipment against short circuits.
+Appliances
+The key reason for installing a solar PV system is lo power appliances. In the domestic settings considered here, these usually are limited to lights, radios, stereos, TVs, VCRs, fans, and refrigeration appliances, although other small appliances such as computers, pumps, or radiotelephones may be connected as well. In general, it is preferable to use appliances specifically designed for use with solar PV systems, because they are energy efficient and can be connected directly to the battery without expensive-- and often inefficient--power converters.
+<section>Determining the size of the system and its components</section>
+Sizing of solar photovoltaic systems is critical: If the system is too small, it will not provide sufficient energy, and the customer will not receive the services desired; if it is too large, the cost will be excessive.
+Apart from a general technical understanding of the functioning of PV systems, the designer of the system also needs information that is specific to the site where the PV systems will be installed.
+First, it is necessary to estimate the type of appliances the consumer will install and the number of hours the appliances will be operated per day. This information is used to calculate the energy load the PV system will have to meet. If the load is likely to vary from month to month or season to season, then this information must also be available. However, it is often difficult to estimate the daily usage for the appliances before the systems are actually installed because the availability of PV systems itself often brings about a significant change in the energy use of the households.
+Second, it is necessary to estimate the amount of sunshine the site receives. Technically, this is measured by the insolation level, which is often stated in units of kilowatt hours per square meter per day (kWh/m2/day). Some measurements made in Tarawa, the capital of Kiribati, indicate a solar insolation of 5.9 kWh/m2/day, but it should be noted that long-term weather patterns and seasonal changes in the length of the day combine to create major changes in insolation from season to season. For this reason, average insolation measurements are not sufficient for designing solar PV systems. If the PV systems are being installed in remote rural areas, it is unlikely that long-term insolation data will be available, so that estimates based on experience in similar locations will have to be used. The insolation level is a major determinant of the "generation coefficient" (see Step 3 under the heading Sizing the System below).
+Third, it is necessary to have a sense of the desired reliability of the system. One characteristic that is important in determining the reliability is the ability of the system to meet the consumer's load despite a number of consecutive days with poor insolation levels. Technically, this is termed the days of autonomy. It is common to design PV systems with five days of autonomy. In practice, this specification implies that a fully charged battery will provide for normal appliance use for at least one week of cloudy weather, because the panels do recharge the battery partially even in cloudy weather. Further, if seasonal variations are expected in consumer load, insolation levels, or both, it is also necessary to determine whether the system should be designed to meet all contingencies or whether a failure to provide the adequate power under some conditions may be acceptable. To design the system so that it can provide reliable power under worst-case conditions of
+insolation and user demands will often require systems three to four times larger and more expensive than smaller systems that provide adequate power most of the time but may impose some restrictions in power use when weather patterns are unfavorable or demand is unusually high.
+Sizing the System
+Given the uncertainties about the likely consumer load and the insolation levels, in practice, the initial determination of the system size is usually carried out using some simple rules of thumb. Then, the actual performance of the system is monitored, and the system is modified as necessary.
+In the Pacific Region, the South Pacific Institute for Renewable Energy, in cooperation with the Pacific Energy Development Programme, has developed a six-step technique for the initial sizing of domestic PV systems. Although quite simple, the technique is based on long-term measurements of actual power delivered by PV panels for charging lead-acid batteries and on the use patterns in existing domestic PV systems. The technique has been in use since 1987 and has reliably provided system sizes that are consistent with more complex design methods. The specific numbers shown below for solar panel performance are generalized for atolls and the "dry sides" of tropical mountainous islands in the Pacific and are appropriate for tropical sites that have little seasonal differences in length of day and a high percentage of partly cloudy days but few periods of extended cloudiness. For use in other climates or on the "wet sides" of mountainous islands, the estimated panel output
+should be adjusted to compensate for the climatic differences from the parameters used as the calculation base.
+The system-sizing technique is illustrated below for design of a typical 12 Volt system that is used to power three lights. It is assumed that there is (a) one light of 12 Watts that will be used 6 hours a night; (b) another light of 10 Watts that will be used 4 hours per night; and (c) a third light of 10 Watts that will be used 5 hours per night. It is also assumed that the system will be powered by PV panels rated at 47 Wp and that the only available batteries are rated at either 50 Ah or 100 Ah capacity at 12 V. A second example is shown in Box 1. Note that the design parameters (number of panels and battery capacity) derived by this technique represent the minimum acceptable values; in practice, the systems may be oversized based on other considerations such as anticipated load growth.
+Step 1: Estimate the Total Daily Appliance Energy Requirements. For each appliance. compute the Watt-hours per day expected to be consumed. This is done by multiplying the Watt power demand of the appliance by the average number of hours per day the appliance will be using electricity.
+For example, for the three lights described above, the total appliance load per day, on average, will he as follows:
+First light: 12 Watts x 6 hours = 72 Watt-hours
+Second light: 10 Watts x 4 hours = 40 Watt-hours
+Third light: 10 Watts x 5 hours = 50 Watt-hours
+TOTAL LOAD 162 Watt-hours per day.
+Step 2: Estimate the Total Energy per Day that Must Be Delivered by the PV Panels. Like conventional AC systems, solar PV systems suffer losses (the battery never delivers as much energy as goes into it, wires and connections lose energy, controllers use energy, and so on). Hence, it is necessary to take account of these losses in determining the energy that must be delivered by the panels. Losses are likely to be in the 10 to 30 percent range, with the lower value applicable to newer systems using high-quality batteries. However, as systems age, the internal of their batteries falls, and losses may exceed 30 percent. Hence, a conservative but reasonable estimate of the system losses is 30 percent. This is taken into account in calculating the total energy that the panels must deliver by multiplying the total appliance load (from Step 1) by 1.3.
+For example, the three lights above are expected to require 162 Watt-hours per day (Step D, so the panels must be capable of delivering 162 x 1.3 = 210.6 Watt-hours per day to cover the losses and still have sufficient power for the lights.
+Step 3: Estimate the Energy per Day Produced by One Panel. The energy produced by a panel depends on many factors, with its capacity, measured in peak Watts (Wp), and the insolation level having the greatest effect. To obtain the energy produced by a solar PV panel in a particular site, it is necessary to calculate a "generation coefficient," measured in Watt-hours/day per rated Wp of the panel. This generation coefficient is site-specific and is based on measurements of actual battery charging by a PV panel at the site or on experience at similar sites. The generation coefficient summarizes all the factors related to energy production by a PV panel except the Wp rating. The generation coefficient is multiplied by the Wp rating to determine the Watt-hours/day energy output produced by a particular panel. For the typical small Pacific island environment, the generation coefficient has been estimated as 3.43.
+For example, in an installation with 47 Wp rating panels, the estimated energy output from a panel for battery charging will be 47 x 3.43 = 161.21 Watt-hours per day of energy.
+Step 4: Estimate the Minimum Number of Panels Needed. The number of panels needed is determined by dividing the total Watt-hours/day requirement (result of Step 2) by the Watt-hours/day output of one panel (result of Step 3), and rounding up the requirement to the nearest integer.
+For example, the total energy that the panels must deliver is 210.6 Watt-hours/day (Step 2), while one 47 Wp panel is estimated to produce 161.21 Watt-hours/day (Step 3). Thus, the number of panels required is 210.6/161.21 = 1.31 panels. This is rounded up to two panels, which can deliver 161.21 x 2 = 322.42 Watt-hours/day. Thus, with two panels there will be a potential excess capacity of 322.42 - 210.6 = 111.82 Watthours/day.
+Step 5: Estimate the Ampere Hours (Ah) per Day that Must Be Delivered by the Battery. Since Amperes equals Watts divided by Volts, the Ampere-hours per day equal Watthours per day divided by the battery voltage. Note that the battery delivers power directly to the appliances, so only small losses will occur (less than 5 percent), mostly in the connecting wires. Therefore, the value of Watt-hours per day which is used here is the actual requirement of the appliances (Step 1), not the amount that includes the 30 percent system losses (Step 2).
+For example, the appliances are estimated to require 162 Watt-hours/day (Step 1), and assume that a 12 Volt battery is used. Therefore, the battery must deliver 162/12 = 13.5 Ah/day.
+Step 6: Estimate the Minimum Battery Capacity Needed. So that the system can meet the load even during cloudy periods, the battery size has to be larger than the daily requirement. The battery size is determined by multiplying the daily requirement (Step 5) by the specified days of autonomy.
+For example, with a specification of five days of autonomy, the 12 V battery must have a capacity of at least 13.5 (Step 5) x 5 = 67.5 Ah. If only 50 Ah and 100 Ah batteries are assumed to be available at the site, then the 100 Ah capacity battery will have to be selected, which will give an excess capacity of 32.5 Ah/day, equivalent to 32.5 x 12 = 390 Watt-hours/day.
+Thus, for a household to use three lights for 4 to 6 hours per day, the system will require, at least, two 47 Wp panels and one 100 Ah 12V battery. However, there is a surplus of both battery and panel capacity. The excess panel capacity (111.82 Watt-hours/day) is less than the excess battery capacity (390 Watt-hours/day), so the excess capacity of the system is 111.82 Watthours/day. This implies that, in principle, another appliance, such as a radio rated at 10 Watts, could be operated 11 hours per day in addition to the lights without overloading the system.
+Box 1 The following steps illustrate the calculations to determine the minimum number of solar PV panels and battery capacity needed to meet the needs of a rural consumer who has a limited number of appliances. In this example, we assume that the consumer has (a) one 150 Watt TV/VCR combination operated 2 hours per day; (b) one 12 Watt light operated 6 hours per day; (c) two 10 Watt lights operated 4 hours per day; (d) one 60 Watt refrigerator whose compressor runs 10 hours per day; and (e) one 10 Watt radio/cassette player operated 8 hours a day. Further, assume that only 55 Wp panels are available and that the system is to be operated at 24 Volts.
+Step 1: Estimate the total appliance energy requirement Watt-hours
+(Wh)/day
+TV/VCR
+150 Watts x 2 hours/day
+Wh/day
+Large light
+12 Watts x 6 hours/day
+Wh/day
+Smaller lights (2)
+10 Watts x 4 hours/day
+Wh/day
+Refrigerator
+60 Watts x 10 hours/day
+Wh/day
+Radio/cassette player
+10 Watts x 8 hours/day
+Wh/day
+TOTAL
+Wh/day
+Step 2: Estimate total energy per day to be delivered by the PV panels
+Total appliance load (from Step 1)
+Wh/day
+Compensation for losses (30% of load)
+Wh/day
+Total energy needed
+Wh/day
+Step 3: Estimate the energy per day produced by one panel
+Panel capacity (Wp)
+Generation coefficient (Win/day per Wp)
+Energy supply (capacity x generation coefficient)
+Wh/day
+Step 4: Estimate the minimum number of panels needed
+Total energy needed (from Step 2)
+Wh/day
+Energy supplied by one panel (from Step 3)
+Wh/day
+Panels needed (1,471.6/188.65)
+Panels needed, rounded up
+Step 5: Estimate the Ampere-hours/day (Ah) to be delivered by the battery
+Total appliance load (from Step 1)
+Wh/day
+Battery voltage
+Ah needed per day (1,132/12) at 24 V
+Ah/day
+Step 6: Estimate the minimum battery capacity needed
+Ah needed per day (from Step 5)
+Ah/day
+Specified days of autonomy
+Battery size needed (47.17 x 5)
+Ah at 24 V
+This battery capacity can be achieved by connecting two 12 V batteries or four 6 V batteries in series.
+<section>Annex 3 Life-cycle costs of solar PV and diesel systems in rural electrification</section>
+This annex provides the details of the calculations of life-cycle costs of the type of solar PV and diesel systems used in rural electrification. Although the costs are calculated separately for three cases, the basic principles and assumptions underlying the calculation are the same in all three instances. The particular values used in this analysis are based on estimates for the Pacific islands. These values should be considered as merely illustrative of the cost calculation methodology; the actual values will vary from site to site.
+The total costs are calculated as the discounted present value, at a discount rate of 10 percent, of the cost components, measured in constant dollars, of providing the end-use service that consumers want for 15 years. This time horizon and discount rate are commonly used in planning the supply of electricity.
+It is assumed that solar PV power and diesel-based electricity is provided to customers on a fee-for-service basis by a utility. For solar PV power, this implies that a utility agency owns the solar generation equipment, installs it on the customer's premises, and provides maintenance and that the customer incurs the cost of the end-use appliances (e.g., lights, video sets, and refrigerators). It is assumed as wolf that the solar PV systems are properly designed, installed, and maintained. Similarly, it is assumed that the diesel systems are properly designed, installed, and maintained.
+In order to calculate the economic costs, rather than the financial costs to the utility or customers, the focus of this analysis is on the total costs of providing the end-use service that customers want, rather than the cost of electricity alone. This approach is particularly important in a comparison of the costs of solar PV and diesel systems because of the differing cost structures and energy efficiencies of the appliances that customers use with solar electric systems (DC power) and diesel systems (AC power). In general, the DC appliances are relatively more energy-efficient, but they also cost more than comparable AC appliances.
+<section>Cost categories</section>
+There are three broad categories of costs:
+a. Customer appliance costs. These reflect the costs of the appliances used by customers. Apart from the initial purchase of appliances, these costs also take account of the future costs of replacing the appliances over a 15-year period. Since some of the appliances may still have some usable value at the end of the 15 years, it is necessary to take account of this residual value. For analytical simplicity, a linear depreciation schedule is assumed, so that the residual value at the end of 15 years is based on the fractional remaining life of the equipment.
+b. Generation equipment costs. These reflect the costs of the hardware needed to provide a reliable supply of electricity to the customer. As with customer appliance costs, both initial and replacement costs are taken into account, and a linear depreciation schedule is used to calculate residual values at the end of 15 years. Included also are engine and generator overhauls, which are assumed to take place every five years for diesel systems but are not needed for solar PV systems.
+c. O&M costs. These reflect costs of operations and maintenance of the solar generation equipment installed at the customer's premises. They are based on the wages and travel costs of the utility's agents who periodically visit the customer's premises, the costs of stocking parts and equipment, and the wage costs of diesel system operators and maintenance personnel. Utility overhead costs are also included. The O&M costs associated with the customers' appliances are assumed to be minor and are ignored in this analysis.
+Since the analysis is conducted on a 15-year basis, the future costs of generation equipment, end-use appliances, and operations and maintenance over this time period could come into play. For analytical simplicity here, however, it is assumed that these costs will remain unchanged in constant dollars over 15 years.
+<section>Three cases</section>
+Three different combinations of representative appliances are considered:
+a. Household Lights Only. In this case, it is assumed that the customer's only appliances are three household lights. A night light is added for solar PV systems, but not for diesel systems, which will be operated for only six hours a day, thus precluding the use of a night light. This low level of demand for electricity is appropriate for the majority of rural households in the Pacific islands.
+b. Household Lights & TV/VCR. In this case, it is assumed that the customer has a TV/VCR set in addition to the lights. For this case, it is assumed that the diesel system will be operated for only six hours a day. About 10 to 20 percent of the households in a typical rural Pacific island village would fit into this case.
+c. Household Lights & Refrigerator. In this case, it is assumed that the customer has a refrigerator in addition to the household lights. For this case, it is assumed, as it must be, that the diesel system will be operated 24 hours a day, and that the customer uses a night light also. About 5 percent of the households in a typical rural Pacific island village would fit into this case.
+For all of the cases, it is assumed that the load remains constant over the entire 15-year period. This assumption is made mainly for analytic simplicity, although it has been shown in Fiji that rural domestic load grows slowly if at all, and other Pacific island countries appear to follow this pattern.
+<section>Design and costs of solar PV systems</section>
+The design and costs of the generation equipment depend on the number, load characteristics, and usage of the appliances by the customer. The load characteristics and usage of the solar PV appliances are shown in Table A3.1. Based on these values, the average load per day is about (a) for the Household Lights Only case, 125 Watt-hours, (b) for the Household Lights & TV/VCR case, 425 Watt-hours, and (c) for the Household Lights & Refrigerator case, 850 Watthours.
+Table A3.1. Characteristics of Customer Appliances,
+Solar PV Systems: All Three Cases
+Appliance
+No.
+Dally usage (hours)
+Daily load (Watt-hours)
+Working life (years)
+11 Watt light ^a
+7 Watt light ^b
+0.25 Watt night light
+80 Watt color TV
+40 Watt VCR
+220 lifer refrigerator
+Source: Authors' estimates.
+a
+Provides 600 lumens of light. ^
+b
+Provides 400 lumens of light.
+Summary of Costs for All Three Cases: Solar PV Systems
+The various elements of costs for the three different cases are summarized in Table A3.2.
+Table A3.2. Life-cycle Costs per Customer in Dollars,
+Solar PV Systems: All Three Cases
+Cost element
+Lights Only
+Lights & TV/VCR
+Lights & Refrigerator
+Customer appliance costs
+Initial costs
+Future costs
+Generation equipment costs
+Initial costs
+Future costs
+O&M costs
+Based on monthly cost
+TOTAL
+Note: Present discounted value of costs in constant dollars for 15 years at a 10 percent discount rate.
+Source: Tables A3.3 to A3.8, this annex.
+<section>Details of cost calculations: solar pv systems</section>
+Customer Appliance Costs
+The customer appliance costs consist of the initial and replacement costs of the appliances. The initial costs of the appliances are shown in Table A3.3, while the replacement costs are shown in Table A3.4. Based on these tables, the discounted present value of customer appliance costs are as follows:
+a. For the Household Lights Only case, a total of $265, consisting of initial costs of $132 and future costs of $133.
+b. For the Household Lights & TV/VCR case, a total of $1,208, consisting of ininal costs of $ 732 and future costs of $ 476;
+c. For the Household Lights & Refrigerator case, a total of $1,784, consisting of initial costs of $1,332 and future costs of $452.
+Table A3.3. Initial Customer Appliance Costs per Customer, in Dollars, Solar PV Systems: All Three Cases
+Item
+No.
+Unit cost
+Total costs
+Lights^a
+Night light
+TV/VCR
+Refrigerator
+Source: Authors' estimates based on 1991 and 1992 vendor quotes and Pacific island equipment purchases.
+a
+One I l-Watt light, two 7-Wan lights.
+Table A3.4. Future Customer Appliance Costs per Customer, in Dollars, Solar PV Systems: All Three Cases
+At end of year
+Light costs^a
+TV/VCR costs
+Refrigerator costs
+TOTAL^b
+Source: Authors' estimates based on 1991 and 1992 Tuvalu and Kiribati cost data. alncludes lights and night light. bPresent value at discount rate of 10 percent.
+Generation Equipment Costs: Solar PV Systems
+In general, the generation equipment required (such as PV panels and batteries) will vary with the load characteristics and usage of the customer's appliances. All of the appliances are assumed to operate on DC power, so an inverter is not needed. (See Annex 2 for a brief explanation of the technical aspects of solar PV systems.)
+The costs used in this analysis are based on the use of high-quality components that can be expected to provide a reliable supply of electricity under the conditions prevailing in the Pacific islands. Cheaper components are available (e.g., batteries), but their frequent failure, short life, or both makes it difficult to provide a reliable supply of electricity, given the lags involved in procuring and installing the spare parts. Further, the working lives of the components are based on the provision of proper installation and adequate maintenance. Without these services, the working lives of the components may be diminished significantly (e.g., frequent early battery failures occurred in the initial phases of the introduction of solar PV systems in the Pacific islands when inexperienced users attempted maintenance).
+Household lights only. A single 55-Watt (Wp) solar PV array and a 12-Volt, 100-Ah battery are sufficient to meet the load implied by the usage and load indicated in Table A3.1, for a generation coefficient of 3.43 Wh/day per Wp. The costs of this and associated equipment are shown in Table A3.5.
+Table A3.5. Initial Generation Equipment Costs per Customer, in Dollars, Solar PV Systems: Household Lights Only Case
+Cost item
+No.
+Unit cost
+Total costs
+Working life (years)
+PV Panel^a
+Battery^b
+Controller
+Support structure
+Installation (hours)
+TOTAL
+Source: Authors' estimates based on 1991 and 1992 Tuvalu and Kiribati cost data.
+355 Watt peak (Wp). b12-Volt. 100-Ah.
+The battery and the controller will have to be replaced before the 15-year time period is over. The replacement costs and their discounted present value are shown in Table A3.6 for all three cases. Based on Tables A3.5 and A3.6, for the Household Lights Only case, the total generation equipment costs are $984, consisting of initial costs of $741 and future battery and controller costs of $243.
+Table A3.6. Future Generation Equipment Costs per Customer, in Dollars, Solar PV Systems: All Three Cases
+At end of
+Lights year Only
+Battery costs Lights & TV/VCR
+Controller costs Lights & Refrigerator
+Lights Only
+Lights & TV/VCR and Lights and Refrigerator
+15^a
+TOTAL b
+Source: Authors' estimates.
+a
+Reflects the residual value of the remaining life of the component, based on a linear depreciation schedule. ^
+b
+Discounted present value at a discount rate of 10 percent.
+Household Lights & TV/VCR Four 47-Watt (Wp) solar PV arrays and four 6-Volt, 160-Ah batteries, equivalent to 24 Volts at 160 Ah, are sufficient to meet the daily load implied by the usage indicated in Table A3.1, given a generation coefficient of 3.43 Wh/day per Wp. The costs of this and associated equipment are shown in Table A3.7.
+The batteries and the controller will have to be replaced before the 15-year time period is over. The replacement costs and their discounted present value are shown in Table A3.6. Based on Tables A3.6 and A3.7, for the Household lights & TV/VCR case, the total generation equipment costs are $2,670, consisting of initial costs of $2,216 and future battery and controller costs of $454.
+Household Lights & Retrigerator. Six 55-Watt (Wp) solar PV arrays and twelve 2-Volt, 435-Ah batteries, equivalent to 24 Volts at 435 Ah, will meet the daily load implied by the usage indicated in Table A3.1, given a generation coefficient of 3.43 Wh/day per Wp The costs of this and associated equipment are shown in Table A3.8.
+Table A3.7. Initial Generation Equipment Costs per Customer, in Dollars, Solar PV Systems: Household Lights & TV/VCR Case
+Cost items
+No.
+Unit cost
+Total costs
+Working life (years)
+PV panels^a
+Batteries^b
+Controller
+Support structures
+Installation (hours)
+TOTAL
+Source: Authors' estimates based on 1991 and 1992 Tuvalu and Kiribati cost data.
+a
+47 Watt peak (Wp). ^
+b
+6-Volt, 160-Ah (Batteries connected in series; system voltage: 24 V). This capacity is greater than the minimum required to allow for future load growth.
+Table A3.8. Initial Generation Equipment Costs per Customer, in Dollars, Solar PV Systems: Household Lights & Refrigerator
+Cost item
+No.
+Unit cost
+Total costs
+Working life (years)
+PV panels^a
+Batteries^b
+Controller
+Support structures
+Installation (hours)
+TOTAL
+Source: Authors' estimates based on 1991 and 1992 Tuvalu and Kiribati cost data.
+a
+55 Watt peak (Wp). ^
+b
+2-Volt, 435-Ah (Batteries connected in series; system voltage: 24 V). This capacity is greater than the minimum required to allow for future load growth.
+The batteries and the controller will have to be replaced before the 15-year time period is over, and their replacement costs and discounted present value are shown in Table A3.6. Based on Tables A3.6 and A3.8, for the Household Lights & Refrigerator case, the total generation equipment costs are $5,897, consisting of initial costs of $4,436 and future battery and controller costs of $1,461.
+O&M Costs: Solar PV Systems
+The O&M costs are based on an estimated monthly cost of $1.50/month, which appears to be adequate in the conditions prevailing in the Pacific islands. For analytical simplicity, the annual O&M cost of $18 is assumed to be incurred at the end of the year. At a discount rate of 10 percent, the discounted present value of the O&M costs per customer is $136.91. These costs apply to all three cases since the technician time needed to maintain a one panel, a four panel and a six panel system is about the same and there is little administrative penalty for larger individual system sizes.
+<section>Design and costs of diesel systems</section>
+As with solar PV systems, the design and costs of diesel generation equipment depend on the number of the customer's appliances and on their usage and load characteristics (see Table A3.9). It is assumed that the household will use a mix of compact fluorescent (CF) and conventional incandescent lights, as is typical in urban households of the Pacific islands. The luminous output of these lights is about the same as that of the considerably more efficient lights listed under the PV cases. Based on Table A3.9, the average load is about: (a) for the Household Lights Only case, 300 watt-hours per day, rounded to 10 kWh per month;, (b) for the Household Lights & TV/VCR case, 740 watt-hours per day, rounded to 25 kWh per month; and (c) for the Household Lights & Refrigerator case, 3,000 watt-hours per day, rounded to 95 kWh per month.
+Table A3.9. Characteristics of Customer Appliances, Diesel Systems: All Three Cases
+Daily usage
+Daily load
+Working life
+Appliance
+No.
+(hours)
+(Watt-hours)
+(years)
+16 Watt CF lighta
+11 Watt CF lightb
+40 Watt lights
+1 Watt night light
+110 Watt color TV
+65 Watt VCR
+180 Watt refrigerator
+Note: CF = compact fluorescent.
+Source: Authors estimate.
+a
+Roughly equivalent to a conventional 60 W bulb. ^
+b
+Roughly equivalent to a conventional 40 W bulb. ^
+c
+Conventional bulb.
+Summary of Costs for the Three Cases: Diesel Systems
+The various elements of costs for the three different cases are summarized in Table A3,10.
+<section>Details of cost calculations: Diesel systems</section>
+Customer Appliance Costs
+The customer appliance costs consist of the initial and replacement costs of the appliances. The initial costs of the appliances are shown in Table A3.11, and the replacement costs are shown in Table A3.12. Based on these tables, the discounted present value of customer appliance costs are as follows:
+a. For the Household Lights Only case, a total of $72, consisting of initial costs of $51 and future costs of $21.
+b. For the Household Lights & TV/VCR case, a total of $858, consisting of initial costs of $551 and future costs of $307.
+c. For the Household Lights & Refrigerator case, a total of $1,228, consisting of initial costs of $953 and future costs of $275.
+Table A3.10. Life-cycle Costs per Customer, in Dollars, Diesel Systems: All Three Cases
+Cost element
+Lights Only
+Lights & IV/VCR
+Lights & Refrigerator
+Customer appliance costs
+Initial costs
+Future costs
+Generation equipment costs
+Initial costs
+Future costs
+O&M costs
+Based on kWh cost
+TOTAL
+Note: Present discounted value of costs in constant dollars for 15 years at a 10 percent discount rate. Source: Tables A3.11 to A3.14, this annex.
+Table A3.11. Initial Customer Appliance Costs per Customer, in Dollars, Diesel Systems: All Three Cases
+Item
+No.
+Unit cost
+Total costs
+CF lights^a
+Light^b
+Night lights
+TV/VCR
+Refrigerator
+Note: CF = compact fluorescent.
+Source: Authors' estimates.
+a
+One 16-Watt light, one 11-Watt light. ^
+b
+Conventional 40 W bulb. ^
+c
+Excluded from Lights Only and Household Lights & TV/VCR cases because of limited hours of operation.
+Table A3.12. Future Customer Appliance Costs per Customer in Dollars, Diesel Systems: All Three Cases
+At end of year
+CF light costs
+Light costs
+Night light costs
+TV/VCR costs
+Refrigerator costs
+TOTAL^a
+Note: CF = compact fluorescent.
+Source: Authors' estimates.
+a
+Discounted present value at a discount rate of 10 percent.
+Generation Equipment Costs: Diesel Systems
+In general, the generation equipment needs will vary with the number of customers as well as the load characteristics and usage of the customers' appliances. It is assumed that a stand-alone diesel system will serve 40 households arranged in a compact village, with usage characteristics as shown in Table A3.9. The costs used in this analysis are based on the use of high-quality components that can be expected to provide a reliable supply of electricity under the conditions prevailing in the Pacific islands. Further, the working lives of the components are based on the provision of proper installation and adequate maintenance. In particular, it assumed that the entire diesel generation and distribution equipment will last 15 years, with a major overhaul every five years. Without proper maintenance, the working lives of the diesel components may be significantly lower. The costs for all the three cases are shown in Table 13. As expected, the capital costs per customer increase
+as the average load increases, but at a rate less than the growth in average load because of economies of scale.
+Table A3.13. Generation Equipment Costs per Customer, Diesel Systems: All Three Cases
+Cost factor
+Lights only
+Lights and TV/VCR
+Lights & refrigerator
+Per customer demand (watts)
+Number of customers
+System demand (kW)
+Loss/reserve/expansion need (%)
+Total system size (kW)
+Initial capital cost per kW ($)a
+Initial total capital cost ($)
+Initial capital cost per customer ($)
+Future capital cost per customer ($)^b
+Source: Authors' estimates.
+a
+Generation, reticulation and connection costs. ^
+b
+Discounted present value of overhaul costs.
+O&M Costs: Diesel Systems
+The O&M costs for diesel systems consist of fuel costs, and other operating costs, including parts and materials, such as oil, filters, and belts, and the labor required for operation and maintenance. In the remote areas of the Pacific islands, the delivered costs of diesel are significantly higher than in the industrialized countries. For example, the PREA concluded that the financial and economic prices of diesel in many remote locations of PNG were likely to exceed 85 toea/liter [81¢/liter] delivered by local retailers, accounting for transportation costs. Similarly, in 1991, the retail price of diesel in the Northern Group islands of Cook Islands was 82¢/liter. These financial prices are reasonable close to the economic costs since government taxes and duties on diesel are low in the Pacific islands. Thus, it is reasonable to assume that the economic cost of diesel in the remote areas of the Pacific islands is 80¢/liter or higher, depending on the circumstances.
+The small gensets envisaged here are relatively inefficient in fuel consumption. For the twelve countries analyzed by PREA, the average fuel consumption was about 0.3 liter/kWh, with significantly higher values reported for some of the outer islands; for example, the average fuel consumption in the Kiribati outer islands was 0.46 liter/kWh. Thus, it appears reasonable to assume fuel consumption will be in the range of 0.30 to 0.40 liter/kWh in the remote areas of the Pacific islands. Thus, the economic cost of the fuel used in diesel generation in the remote areas of the Pacific islands is in the range 2432¢/kWh.
+The labor costs in remote areas of the Pacific islands are likely to be significantly higher than those normally encountered with grid-based electricity supply. Based on data for Tuvalu, it is estimated that the monthly labor cost for a diesel set with 24 hours-a day operation, as in the Household Lights & Refrigerator case, will be US$700 for 4 operator/mechanics and a manager/accountant. With an average monthly consumption of 95 kWh per month (Table A3.14) for 40 consumers, the unit labor costs are about 18¢/kWh. For 6 hours-a-day operation (as in the Household Lights Only and Household Lights & TV/VCR cases), the monthly labor costs are estimated to be US$ 160, which implies unit labor costs of 40¢/kWh for the Household Lights Only case and 16¢/kWh for the Household Lights & TV/VCR case. Thus, unit labor costs have the potential of increasing at the point where a change is made from 6 hours-a-day operation to 24 hoursa-day operation, though it is expected that unit labor
+costs will decline as the scale of the 24 hours-day operation increases.
+The parts/materials costs in the remote Pacific islands areas are also likely to be relatively high because of the small scale of operations and the high transportation costs. Based on Tuvalu data, it is estimated that for the Household Lights & Refrigerator case the monthly costs will be about US$200, equivalent to 5¢/kWh. The unit parts/materials costs are expected to rise as the scale of operations decreases, and may reach a value as high as 15¢/kWh for the Household lights only case.
+Based on the above data, the unit O&M costs in the remote Pacific islands are 45¢/kWh or more, depending on the scale of operations as well as site-specific circumstances, such as transportation costs, wage rates, and skill levels of the operators. In order to illustrate the effect of the scale of operations on unit costs, it is assumed that the unit O&M costs are 65¢/kWh for the Household Lights Only case, declining to 55¢/kWh for the Household Lights & TV/VCR case, and to 50¢/kWh for the Household Lights & Refrigerator case. As for solar PV systems, for analytical simplicity, the annual O&M costs are assumed to be incurred at the end of the year.
+Table A3.14. O&M Costs per Customer, Diesel Systems: All Three Cases
+Measure
+Lights only
+Lights and TV/VCR
+Lights & refrigerator
+Energy use per month (kWh)
+Unit cost (¢/kWh)
+Annual O&M cost ($)^a
+Total O&M costs^a
+Source: Authors' estimates.
+a
+Discounted present value of costs in constant dollars for 15 years at a discount rate of 10 percent.
+RECENT WORLD BANK TECHNICAL PAPERS
+No. 170
+Sung and Troia, Development in Debt Conversion Programs and Conversion Activities
+No. 171
+Brown and Nooter, Successful Small-Scale Irrigation in the Sahel
+No. 172
+Thomas and Shaw, Issues in fire Development of Multigrade Schools
+No. 173
+Byrnes, Water Users Association in World Bank-Assisted Irrigation Projects in Pakistan
+No. 174
+Constant and Sheldrick, World Nitrogen Survey
+No. 175
+Le Moigne and others, editors, Country Experiences with Water Resources Managernent: Economic, Institutional, Technological and Environmental Issues
+No 176
+The World Bank/FAO/UNIDO/lndustry Fertilizer Working Group, World and Regional Supply and Demand Balances for Nitrogen, Phosphate, and Potash, 1990/91-1996/97
+No 177
+Adams, The World Bank's Treatment of Employment and Labor Market Issues
+No. 178
+Le Moigne, Barghouti, and Garbus, editors, Developing and Improving Irrigation and Drainage Systems: Selected Papers from World Bank Seminars
+No 179
+Speirs and Olsen, Indigenous Integrated Forming Systems in the Sahel
+No 180
+Barghouti, Garbus, and Umali, editors, Trends in Agricultural Diversification: Regional Perspectives
+No 181
+Mining Unit, Industry and Energy Division, Strategy for African Mining
+No. 182
+Land Resources Unit, Asia Technical Department, Strategy for Forest Sector Development in Asia
+No 183
+Najera, Liese, and Hammer, Malaria: New Patterns and Perspectives
+No 184
+Crosson and Anderson, Resources and Global Food Prospects. Supply and Demand for Cereals to 2030
+No 185
+Frederiksen, Drought Planning and Water Efficiency implications in Water Resources Management
+No 186
+Guislain, Divestiture of State Enterprises: An Overview of the Legal Framework
+No 187
+De Geyndt, Zhao, and Liu, From Barefoot Doctor to Village Doctor in Rural China
+No 188
+Silverman, Public Sector Decentralization: Economic Policy and Sector Investment Programs
+No 189
+Frederick, Balancing Water Demands with Supplies: The Role of Management in a World of increasing Scarcity
+No 190
+Macklin, Agricultural Extension in India
+No. 191
+Frederiksen, Water Resources Institutions: Some Principles and practices
+No 192
+McMillan, Painter, and Scudder, Settlement and Development in the River Blindness Control Zone
+No 193
+Braatz, Conserving Biological Diversity: A Strategy for Protected Areas in the Asia-Pacific Region
+No 194
+Saint, Universities in Africa: Strategies for Stabilization and Revitalization
+No 195
+Ochs and Bishay, Drainage Guidelines
+No 196
+Mabogunje, Perspective on Urban Land and Land Management Policies in Sub-Saharan Africa
+No. 197
+Zymelman, editor, Assessing Engineering Education in Sub-Saharan Africa
+No 198
+Teerink and Nakashima, Water Allocation, Rights, and Pricing: Examples from Japan and the United States
+No 199
+Hussi, Murphy, Lindberg, and Brenneman, The Development of Cooperatives and Other Rural Organizations: The Role of the World Bank
+No 200
+McMillan, Nana, and Savadogo, Settlement and Development in the River Blindness Control Zone: Case Study Burkina Faso
+No. 201
+Van Tuijl, lmproving Water Use in Agriculture: Experiences in the Middle East and North Africa
+No 202
+Vergara, The Materials Revolution: What Does It Mean for Developing Asia ?
+No 203
+Cleaver, A Strategy to Develop Agriculture in Sub-Saharan Africa and a Focus for the World Bank
+No 204
+Barghouti, Cromwell, and Pritchard, editors, Agricultural Technologies for Market-Let Development Opportunities in the 1990s
+No. 205
+Xie, Kuffner, and Le Moigne, Using Water Efficiently: Technological Options
+No. 206
+The World Bank/FAO/UNIDO/lndustry Fertilizer Working Group, World and Regional Supply and Demand Balances for Nitrogen, Phophate, and Potash, 1991/92-1997/98
+No. 207
+Narayan, Participatory Evaluation: Tools for Managing Change in Water and Sanitation
+No. 208
+Bindlish and Evenson, Evaluation of the Performance of T&V Extension in Kenya
+No. 209
+Keith, Property Tax: A Practical Manual for Anglophone Africa
+No. 210
+Bradley and McNamara, editors, Living with Trees: Policies for Forestry Management in Zimbabwe
+No. 211
+Wiebers, Integrated Pest Management and Pesticide Regulation in Developing Asia
+No. 212
+Frederiksen, Berkoff, and Barber, Water Resources Management in Asia, Volume 1: Main Report
+No. 213
+Srivastava and Jaffee, Best Practices for Moving Seed Technology: New Approaches to Doing Business
+No. 214
+Bonfiglioli Agro-pastoralism in Chad as a Strategy for Survival: An Essay on the Relationship between Anthropology and Statistics
+No. 215
+Umali, Irrigation-Induced Salinity: A Growing Problem for Development ant the Environment
+No. 216
+Carr, Improving Cash Crops in Africa: Factors Influencing the Productivity of Cotton, Coffee, and Tea Grown by Smallholders
+No. 217
+Antholt, Getting Ready for the Twenty-First Century: Technical change and institutional Modernization in Agriculture
+No. 218
+Mohan, editor, Bibliography of Publications: Technical Department, Africa Region, July 1987 to December 1992
+No. 219
+Cercone, Alcohol-Related Problems as an Obstacle to the Development of Human Capital: Issues and Policy Options
+No. 220
+Kingsley, Managing Urban Environmental Quality in Asia
+No. 221
+Srivastava, Tamboli English, Lal, and Stewart, Conserving Soil Moisture and Fertility in the Warm Seasonally Dry Tropics
+No. 222
+Selvaratnam, Innovations in Higher Education: Singapore at the Competitive Edge
+No. 223
+Piotrow, Treiman, Rimon, Yun, and Lozare, Strategies for Family Planning Promotion
+No. 224
+Midgley, Urban Transport in Asia: An Operational Agenda for the 1990s
+No. 225
+Dia. A Governance Approach to Civil Service Reform in Sub-Sakaran Africa
+No. 226
+Bindlish, Evenson, and Gbetibouo, Evaluation of T&V-Based Extension in Burkina Faso
+No. 227
+Cook, editor, Involuntary Resettlement in Africa: Selected Papers from a Conference on Environment and Settlement Issues in Africa
+No. 228
+Webster and Charap, The Emergence of Private Sector Manufacturing in St. Petersburg: A Survey of Firms
+No. 229
+Webster, The Emergence of Private Sector Manufacturing in Hungary: A Survey of Finns
+No. 230
+Webster and Swanson, The Emergence of Private Sector Manufacturing in the Former Czech and Slovak Federal Republic: A Survey of Firms
+No. 231
+Eisa, Barghouti, Gillham, and Al-Saffy, Cotton Production Prospects for the Decade to 2005: A Global Overview
+No. 232
+Creightney, Transport and Economic Performance:: A Survey of Developing Countries
+No. 233
+Frederiksen, Berkoff, and Barber, Principles and Practices for Dealing with Water Resources Issues
+No. 234
+Archondo-Callao and Faiz, Estimating Vehicle Operating Costs
+No. 235
+Ciaessens, Risk Management in Developng Countries
+No. 236
+Bennett and Goldberg, Providing Enterprise Development and Financial Services to Women: A Decode of Bank Experience in Asia
+No. 237
+Webster, The Emergence of Private Sector Manufacturing in Poland: A Survey of Firms
+No. 238
+Heath, Land Rights in Côte d'Ivoire: Survey and Prospects for Project Intervention
+The World Bank
+Headquarters
+1818 H Street, N.W.
+Washington, D.C. 20433, U.S.A
+Telephone: (202) 477-1234
+Facsimile: (202) 477-6391
+Telex: wui 164145 WORLDBANK
+RCA 248423 WORLDBK
+Cable Address: INTBAFRAD
+WASHINGTON DC
+European Office
+66, avenue d'Iéna
+75116 Paris, France
+Telephone: (1)40.69.30.00
+Facsimile: (1) 40 69 30 66
+Telex: 640651
+Tokyo Office
+Kokusai Building
+1-1 Marunouchi 3 chome
+Chiyoda -ku, Tokyo 1 00, Japan
+Telephone: (3) 3214-5001
+Facsimile: (3) 3214-3657
+Telex: 26838
+Cover photograph by R. de Lange, R&S, Jakarta
+ISBN 0-8213- 2802-6

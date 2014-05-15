@@ -1,0 +1,951 @@
+<title>Irrigation Water Management: Training Manual No. 6 - Scheme Irrigation Water Needs and Supply. Irrigation Water Management: Scheme irrigation water needs and supply</title>
+<section>1</section>
+PREFACE
+This is one in a series of training manuals on subjects related to irrigation, issued in the period from 1985 to 1993.
+The papers are intended for use by field assistants in agricultural extension services and irrigation technicians at the village and district levels who want to increase their ability to deal with farm-level irrigation issues.
+The papers contain material that is intended to provide support for irrigation training courses and to facilitate their conduct. Thus, taken together, they do not present a complete course in themselves, but instructors may find it helpful to use those papers or sections that are relevant to the specific irrigation conditions under discussion. The material may also be useful to individual students who want to review a particular subject without a teacher.
+Following an introductory discussion of various aspects of irrigation in the first paper, subsequent subjects discussed are:
+- topographic surveying
+- crop water needs
+- irrigation scheduling
+- irrigation methods
+- scheme irrigation water needs and supply.
+In addition, the following four subjects will be discussed in future editions:
+- canals
+- structures
+- drainage
+- scheme irrigation management
+At this stage, all the papers are marked provisional because experience with the preparation of irrigation material for use at the village level is limited. After a trial period of a few years, once enough time has elapsed to evaluate the information and the methods outlined in the draft papers, a definitive version of the series can be issued.
+For further information and any comments you may wish to make please write to:
+Water Resources, Development and Management Service
+Land and Water Development Division
+FAO
+Via delle Terme di Caracalla
+00100 Rome
+Italy
+ABOUT THIS PAPER
+Scheme irrigation water needs and supply is the sixth in a series of training manuals on irrigation. The manual describes various kinds of water sources for irrigation and discusses, in short, factors affecting the availability of water for irrigation as well as methods of tapping water. This manual also provides information on how to estimate the irrigation need of a scheme. First, an approximate method for a rough determination of the scheme irrigation water need is given. After an introduction of cropping systems, a more accurate method of calculating the scheme irrigation need is explained. How to determine the scheme irrigation need for a rice-based cropping pattern is also discussed. Finally, the manual discusses how to match the calculated scheme irrigation need with the available supply of irrigation water.
+ACKNOWLEDGEMENTS
+Much appreciation is expressed to the various specialists in irrigation water management for their valuable comments and suggestions: Messrs. W. Genet, M. Jurriëns, M. Kay, M. Smith, J. Sagardoy and P. van Steekelenburg. A special note of gratitude is expressed to Ms. A. Pulver for editing the text, and Ms. C.D. Smith Redfern for typing, correcting and advising on the layout of the manual.
+<section>2</section>
+1. INTRODUCTION
+1.1 Relationship of this manual to foregoing training manuals
+1.2 Some definitions
+1.3 Summary of the manual
+1.1 Relationship of this manual to foregoing training manuals
+Training Manual 3, "Irrigation Water Needs", gives an introduction to crop water needs and discusses the influence of climate, crop type and growth stage. It also discusses how much of the crop water need can be met by rainfall and/or irrigation applications. Further, Manual 3 introduces the special requirements of growing rice, where water is needed to soak the soil before preparing the land and to establish a water layer on the field. Finally, Training Manual 3 looks at the irrigation water needs within a parcel of land at the plant level. This amount of water is presented as the crop's consumption per day or per month, regardless of how the supply is organized.
+Training Manual 4, "Irrigation Scheduling", explains how irrigation water is normally delivered at the field, not continuously or even every day, but at intervals of several days. The manual discusses the symptoms of water shortages and the impact of drought on yields. It describes three methods of determining the timing for the next irrigation application. A separate chapter is devoted to irrigation scheduling of rice crops. The basic concepts of irrigation efficiency are explained in an Annex. Thus with the help of Manuals 3 and 4, field technicians can determine the irrigation water needs at the crop level as well as estimate the proportions in which it should be supplied.
+In Training Manual 5, "Irrigation Methods", the discussion shifts from the crop level to the field level and the different methods of applying water at the field level are described.
+This Training Manual, which is the sixth in the series and entitled "Scheme Irrigation Water Needs and Supply", takes the subject of irrigation water needs two steps further: from the level of an individual plant or crop to that of a field, and from an individual field to an entire scheme comprised of many fields and various crops.
+With the help of this manual, field technicians and extension agents will be able to compare the irrigation needs of a given area with the amount of water that is available in that area. Thus, this manual focuses on a scheme's irrigation water needs, on the one hand, and its water supply on the other. To make a reasonably accurate prediction of an area's irrigation need, the manual will introduce the concepts of a cropping calendar and cropping pattern. Although the more complex subjects, such as river hydrology, are beyond the scope of these manuals, technicians will be able to learn the basics of predicting a scheme's water requirements and assessing the amount of water that is available from a specific water source. They will also learn how to cope when a given situation is likely to change. In addition, the manual provides a set of five water management methods to help technicians cope with different situations of water shortage.
+1.2 Some definitions
+A number of terms will be used in this training manual which refer to the quantity and flow of water for irrigation. All these terms are listed and defined below and their interrelationship is indicated in the diagram in Annex I.
+IN[net]: Net Irrigation Need (mm/day, mm/month, l/s/ha)
+This is the crop's irrigation need, expressed as a layer of water in millimetres per day, or month, or any other period of time. Water losses are not included in the IN[net]. This water layer can and often will be converted into a continuous flow of water per unit area, and is then often expressed in litres per second per hectare (8.6 mm/day =1.0 l/s/ha). Training Manual 4 contains a conversion table which converts mm per day into litres per second per hectare. This table is again attached to this manual as Annex II. How the IN[net] is determined is explained in Training Manual 3.
+IN[gross] Gross Irrigation Need (mm/day, mm/month, l/s/ha)
+This is the crop's irrigation need plus the water needed to compensate for all losses that occur between the intake and delivery of the irrigation water to the crop. The irrigation efficiency, e, is a measure of all the losses.
+IN[gross ]is expressed as a water layer in mm/day or month, or as a continuous flow of water per unit area in l/sec/ha. The formula appears below.
+IN[gros][s] = IN[net] x 100/e
+SIN[net]: Net Scheme Irrigation Need (l/s)
+This is the net irrigation need, not per hectare, but for the whole irrigation area. Therefore the SIN[net] is no longer expressed in mm/day, but rather as litres per second (l/s). The formula is shown below.
+SIN[net ]= IN[net] x Scheme Area (l/s)
+SIN[gross]: Gross Scheme Irrigation Need (l/s)
+This is the irrigation need for the entire area plus the extra water needed to compensate for losses during delivery. The formula is shown below.
+SIN[gross] = IN[net] x Scheme area = (IN[net] x 100/e) x Scheme area (l/s)
+SIN[op]: Operational Scheme Irrigation Need (l/s)
+This is the actual flow of water which should be delivered to the scheme according to a predetermined irrigation schedule. The total volume of water for the entire irrigation season is the same for SIN[gross] and SIN[op], but the operational factors make the flow of SIN[op] larger than SIN[gross]. Generally, irrigation is carried out not every hour of every day, but only during specific hours of certain days. Thus, the larger flow of water for SIN is needed to compensate for the times when irrigation water is not being delivered. This timing, or scheduling of irrigation is called operational criteria (T[op]).
+SWS: Scheme Water Supply (l/s, m^3/s)
+This is the flow of water that can be withdrawn for irrigation at the water source. For schemes that depend on pumped water, the SWS can never be greater than the capacity of the pump installed. For schemes that do not depend on pumps, the SWS can not exceed the capacity of the intake facility. The scheme water supply is expressed in litres per second. Sometimes, if water flows are large, the supply will be expressed in m^3 per second.
+1.3 Summary of the manual
+In discussing the various kinds of water sources and differences in the availability of water, this manual provides the important link between the availability pattern of water and the irrigation need of a scheme. The two must be reconciled with each other. The gross scheme irrigation need, SIN[gross], is estimated in the first instance, in a very simple way. The net irrigation need, IN[net], is given as a standard figure. Then the IN[net] of all the individual fields are integrated into the net scheme irrigation need, SIN[net]. How much water should be added to the SIN[net] to make up for losses during the transport, distribution and application of water to the field is also discussed and added to the equation to determine the SIN[gross]. SIN[gross] is still expressed as a continuous required flow of water. The effect of the operational criteria, which are criteria that describe the duration of the irrigation supply per day and per week, on the actual required water supply
+is also discussed. The simple calculation method of the SIN[gross] is replaced by a somewhat more complex method which is based on a cropping calendar and a cropping pattern. Both of these concepts are explained in the manual. Finally, the manual discusses how to match the calculated scheme irrigation need with the available water supply.
+<section>3</section>
+2. WATER SOURCES AND WATER AVAILABILITY
+2.1 Introduction
+2.2 Rivers
+2.3 Reservoirs and lakes
+2.4 Groundwater
+2.1 Introduction
+2.1.1 Water sources
+2.1.2 Water availability
+2.1.3 Methods of tapping water from water sources
+In each irrigation area there is a demand for water and a supply of water. The demand for water varies over time and depends on the types of crops, crop growth stages and on the climate (see Training Manual 3). While transporting irrigation water from the water source and applying it to the plant roots, a portion of the water is lost through evaporation, leakage from the canals and percolation below the roots of the crop. The scheme's gross irrigation need, SIN[gross][ ]includes these water losses. To express the percentage of irrigation water that is used efficiently and what percentage is lost, the term irrigation efficiency is used. See also Annex I in Training Manual 4.
+The supply of water to the irrigation system, SWS, should be almost if not equal to the demand for water, SIN[gross], which is the total of the irrigation need for all fields plus the water loss (see Figure 1) during transport and distribution.
+Figure 1 - SWS must equal the SIN[gross]
+When the supply of water exceeds the demand, plants may receive too much water which has a negative effect on their growth. Or, on the other hand, costly water may be spilled and disappear into the drainage system. When the supply is less than the demand, the irrigation area may suffer from drought and plant production will decrease.
+Extension agents and field technicians need to be able to advise farmers on how to handle existing as well as anticipate future problems of water shortage. Problems may arise when an irrigation area is extended, or when new crops are introduced. The technician therefore needs to have an understanding of water shortage problems together with a knowledge of the correct approach, albeit simplified, to matching the supply with the demand for water. This chapter deals with the supply aspects of irrigation. Various types of water sources are presented which are largely what determine water availability. River and groundwater hydrology are beyond the scope of this manual, so that only a conceptual example is provided.
+2.1.1 Water sources
+The water needed to supply an irrigation scheme is taken from a water source. The most common sources of water for irrigation include rivers, reservoirs and lakes, and groundwater. Figure 2 shows a bird's-eye view of different irrigation water sources.
+Figure 2 - Schemes irrigated from different water sources
+2.1.2 Water availability
+The possibility of supplying as much water to the irrigation area as is needed during each period of the irrigation season depends primarily on the availability of the water at its source. Availability may vary a lot over the year, or even between one year and another. Secondly, the supply depends on the capacity of the facility installed to withdraw the water from the water source. Further, technicians should be aware that water must be available during each week or month of the growing season. This is illustrated with an example.
+It is thus important to know how much water one can tap from a given water source over the course of a season or a year, when:
+- developing a new irrigation scheme,
+- extending an existing scheme,
+- changing the cropping season,
+- adding a second or third irrigation season,
+- switching from a low water demand crop to a crop such as rice with high water requirements.
+EXAMPLE: During a five-month irrigation season a small river has the following discharges and the irrigation area has the following IN[gross]:
+Q[river]
+In[gross]
+the potential irrigable area
+month 1: 2000 l/s
+5 l/s/ha
+2000/5 = 400 ha
+month 2: 1000 l/s
+2 l/s/ha
+1000/2 = 500 ha
+month 3: 300 l/s
+2.5 l/s/ha
+300/2.5 = 120 ha
+month 4: 200 l/s
+2.5 l/s/ha
+200/2.5 = 80 ha
+month 5: 400 l/s
+1.5 l/s/ha
+400/1.5 = 267 ha
+This example shows that in month 4 only 80 ha can be irrigated adequately, although there is much more water available during the rest of the season. The month during which the ratio between the amount of water available and the irrigation need is lowest (the smallest potential irrigable area) is called the critical month. In the example above the critical month is month 4.
+The scheme irrigation water supply depends, in technical terms, on two factors:
+- whether the water source itself has a limited flow or a limited volume,
+- whether the facilities that control the tapping (gate, well, pump) and conveyance (canal, pipe) have a limited capacity.
+There may also exist water regulations which prohibit an unlimited withdrawal of water from the source.
+2.1.3 Methods of tapping water from water sources
+Water for irrigation has to be carried from the river, the reservoir, the lake or the groundwater to the field. This can be done in two different ways:
+- by making use of gravity. A simple gravity system can only be used if the water level of the river or reservoir is higher than the level of the fields in the irrigation scheme;
+- by using a pump to lift the water above ground level and then let it flow to the fields.
+The tapping of water from a river or reservoir by gravity, and the pumping of water from a river, lake or groundwater are explained briefly.
+2.2 Rivers
+2.2.1 Introduction
+2.2.2 Tapping water from rivers
+2.2.3 Availability of river flow
+2.2.1 Introduction
+Rivers are used all over the world as sources of irrigation water. The most typical quality defining a river is that it flows, it is not a reservoir which contains a fixed amount of water. At each moment a new amount of water is passing any given location along the river. The flow of river fluctuates over time. The flows of some rivers fluctuate greatly over relatively short periods of time; these are mainly small local rivers which respond quickly to rainfall in their catchment area.
+A catchment area is the area from which a particular river or lake receives both surface flow and drainage water originating from precipitation. Figure 3 shows an example of a river catchment area.
+Figure 3 - Catchment area of a river
+Other rivers show little fluctuation or vary only over a long period of time. These are mainly rivers with a large catchment area, where the rains are spread over a greater area and for a longer period of time. River flows vary considerably, not only within a given year, but also from one year to the next. In a year with little rain during the rainy season, the river flow will be small; sometimes the river flow will cease altogether during the dry season (see Figure 4). The river flow will be far more in years with heavy rainfall during the wet season.
+The discharge of rivers is commonly expressed in cubic metres per second (m^3/s). A simple method of measuring the discharge in canals is described in Training Manual 7, entitled "Canals". Although the method is applied to canals, it can also be used for small rivers.
+2.2.2 Tapping water from rivers
+Direct river diversion
+Irrigation Scheme 1 in Figure 2 is supplied with water that is directly diverted from the river without any structures, dams or other devices. The offtake canal is directly excavated through the river bank and no gate is provided. Consequently, there is no control of the discharge into the canal. The diverted discharge depends on the water level in the river. That means the discharge will be high during periods of high water and low during periods with a low water level.
+Figure 4 - A dried up river bed at the end of the dry season
+Usually, to avoid changes in the discharge, a control gate can be installed. The gate can then be opened completely when the river level is low, and opened only partly when the water level is high (Figure 5).
+Figure 5 - Offtake structure equipped with a gate
+The advantage of this system of water abstraction is its relatively low cost. However, the method can only be used when the river water level, even at low flows, is higher than the land which is to be irrigated. In other words, the point of diversion must be located at some distance upstream of the irrigation area, where the water level in the river is still higher than the level of the irrigation area. If the area is very flat, the canal distance may be too long to justify this simple river diversion system.
+River diversion using a weir
+To avoid the problems caused by fluctuating water levels in a river, a weir can be built across the river. During periods of high river discharges, water will flow over the weir. The water level upstream of the weir will show little variation during the year, and it will remain higher during the dry season than it would without the weir.
+Since the water level upstream of the weir is higher than it would normally be, the offtake structure can be closer to the irrigation area. Consequently, the main irrigation canal can be shorter. Scheme 2 in Figure 2 is irrigated with water that is diverted in this way. Figure 6 shows the difference in the location of the offtake with and without a weir.
+Figure 6 - River offtake with and without using a weir
+Figure 7 shows a weir made of local materials, which is constructed across a canal. The water level upstream is raised by some 20 cm and the flow is diverted to an irrigated plot through an offtake on the right bank. A low section of the structure functions as a spillway and discharges the surplus water downstream.
+Figure 7 - River diversion structure
+Pumping from a river
+Scheme 3 in Figure 2 is supplied with water which is pumped directly from the river. The cost of pumping water increases with the size of the scheme. The cost of a weir, however, depends largely on the size of the river and only partly on the size of the scheme. Therefore, pumping is often used to irrigate small areas whose sources of water are larger rivers. Also, this may be a much less expensive solution than building a weir. Pumping is essential if irrigation by gravity is not possible. This will be the case when rivers lie well below field level (Figure 8).
+Figure 8 - Two pumps installed on a river bank
+2.2.3 Availability of river flow
+It is important to make sure that there will be no lack of irrigation water. If water is in short supply during some part of the irrigation season, crop production will suffer, returns will decline and part of the scheme's investment will lay idle.
+Irrigation schemes depend on the supply of water from the river throughout the irrigation season. The reliability of that supply is an essential factor in the success of the irrigation scheme. Thus, once the SIN[gross] of a scheme has been estimated, the flow of the river and the reliability of that flow during the irrigation season must be ascertained.
+The availability of river water will fall into one of the three scenarios described below.
+i. The river flow is sufficient to meet the SIN[gross] only when the flow is abundant. Because the river flow fluctuates during the year, and over the years, water shortages do occur when the flow is low during dry months of the year and during dry years. It may be ascertained during which months of the year the river has its lowest discharge. It is clear that under such circumstances any change in irrigation practices resulting in higher irrigation needs during the dry months should be discouraged.
+ii. The river flow is abundant as compared to the SIN[gross] even during dry months of the irrigation season, but water shortages do occur in dry years. A change in irrigation practices which requires more water, or small scheme extensions, may result in more severe water shortages in the future.
+iii. The river flow is always much greater than the SIN[gross] over the irrigation season, and this remains true over the years. There has thus never been a problem for the irrigation scheme as regards water availability. This can be checked with local farmers. In this case, there will be no problem with small scheme extensions, or with the introduction of crops, such as rice, which consume a lot of water.
+The best solution is to consult the hydrological service. This service has information on water resources and river flows as they collect hydrological data, such as rainfall and discharges of rivers and streams. They can estimate the minimum river flow during the irrigation season based on historical records and predict the minimum river flow for a dry year. If, however, no measurements of river discharge are available, then data collection must start as soon as possible so that future plans may be made based on reliable data.
+It may happen that the river flow during one part of the irrigation season is limited, while at other times during the season a large surplus of water is available. Part of this surplus can be stored by constructing a dam in the river. The stored water can then be used in addition to the available river flow. The cost of building a dam however is high, and expert help should be sought to study alternatives and produce appropriate designs.
+2.3 Reservoirs and lakes
+2.3.1 Introduction
+2.3.2 Water availability in lakes and reservoirs
+2.3.3 Water tapping from a reservoir
+2.3.1 Introduction
+Lakes are natural depressions of the land which are filled up with water. Fresh water lakes have a natural outlet through which the lake discharges superfluous water.
+Lakes are supplied with water by rainfall that falls directly on the surface of the lake, by water run-off from the adjacent land and small streams, or by groundwater that seeps through the soil to the lowest point which is the lake. Lakes lose water via evaporation from the lake's surface, via the lake's natural outlet (overflow), or through percolation from the bottom of the lake to the groundwater. The supplies and losses of a lake are shown in Figure 9.
+Figure 9 - Inflows and outflows of a lake
+A reservoir is an artificial lake. It can be formed by building a dam across a valley, by excavating the land or by surrounding a piece of land with dykes. The water is stored in the reservoir and can be used for irrigation.
+Huge reservoirs are built by damming major rivers, which can supply water to large irrigation areas measuring thousands of hectares. Small and medium sized reservoirs have a far more modest capacity, with enough water to irrigate 10 to 100 ha in one season. This training manual focuses on the latter type of reservoir.
+Figure 10 - Reservoir formed by building a dam
+2.3.2 Water availability in lakes and reservoirs
+Natural lakes
+What has already been explained for rivers, applies also to lakes. The amount of irrigation water required must be less than the quantity of water which is available in the lake.
+When lakes are supplied with water from rivers, their level may vary from one year to another depending on the river. When lakes are supplied from groundwater, their water levels fluctuate more slowly, following the level of the groundwater.
+The amount of lake water available for irrigation may be calculated as the difference between the water available in the lake and the amount lost due to evaporation and seepage. For large irrigation schemes, local or national authorities will be responsible for evaluating the available quantity of water. They will have data on river flows and groundwater supplies. They can also estimate the evaporation and percolation losses and will have information on other uses for the water.
+Reservoirs
+The amount of water that can be stored in a reservoir depends on:
+- river discharge (which in turn depends on rainfall)
+- height of the dam (when closing the river in a valley)
+- area of the reservoir (in the case of an artificially excavated storage area).
+A dam built in a valley will block the river or stream and water can then be stored behind it. The deeper and wider the valley, the more water that can be stored. This is called on-stream storage (see Figure 11).
+Water can also be stored off-stream by diverting the flow into a natural depression or dead river branch alongside the river, or by constructing a storage reservoir. This is similar to the lake situation.
+Evaporation from open water can easily reach 7 mm per day in arid or semi-arid countries. This equals 5 cm per week and 20 cm per month. The amount of water lost by evaporation can be considerable, particularly in reservoirs which are large and shallow. Therefore, irrigation from shallow lakes and reservoirs should be started as soon as possible after the rainy season. Wait too long, and the reservoir may well have dried up.
+Because the cost of building and maintaining a reservoir can be significant, expert help should be sought in planning and constructing a dam. Specialists can calculate the volume of runoff water, anticipate water losses from the reservoir and estimate the quantity of water available for irrigation. They should also be able to provide correct engineering designs and sound construction techniques to ensure the stability of the dam, including spillway arrangements to pass excess water safely downstream without harming the dam.
+Figure 11 - On-stream storage reservoir formed by a dam across a valley
+Figure 12 - Water offtake from a reservoir
+2.3.3 Water tapping from a reservoir
+Water stored in a valley usually has a higher level than the valley bottom downstream of the dam. Because of this difference in level, the valley can be irrigated by a gravity system.
+Water can be taken from the reservoir via a concrete or steel pipe. This pipe connects the reservoir to an irrigation canal downstream. A valve is usually located on the upstream end of the pipe to control the discharge water into the canal.
+Figure 12 shows the head of an irrigation canal in front of a dam. This canal is supplied with water which is stored behind the dam.
+Pumping from a lake or reservoir
+The fields located around the reservoir upstream of a dam or surrounding a natural lake are higher than the reservoir or lake's water table. Irrigation here will only be possible with the help of pumps. The water level in the reservoir will usually be highest at the end of the rainy season, and lowest at the end of the dry season or the irrigation season. Pumps installed at reservoirs and lakes must be able to handle these fluctuations, which are not only vertical, but which are even more pronounced horizontally, because the water recedes back to the lowest parts of the reservoir.
+A dead branch of a river can also be made to function as a reservoir. The branch is filled with water during the wet season and closed off during the dry season so that the stored water may be used. Due to the low water level, pumps will normally be needed to irrigate fields from such a reservoir (Figure 13).
+Figure 13 - Irrigation from a dead river branch
+2.4 Groundwater
+2.4.1 Introduction
+2.4.2 Groundwater availability
+2.4.3 Pumping from wells
+2.4.1 Introduction
+Groundwater is an important source of irrigation water, especially for small-scale irrigation projects. Because groundwater is only available below ground level, it must be lifted, or pumped before it can be used. Pumping groundwater from wells is a well known method of utilizing groundwater the world over.
+To understand how groundwater functions, think of it as a series of lakes below the surface of the earth. The earth is built up of different layers - sand, gravel, clay, rock, etc. The layers of rock or compact clay cannot store water as they are solid, rather than porous. The layers of coarse sand and gravel, on the other hand, contain many pores and cracks, which allow rainfall to enter the soil and percolate from the surface. These porous layers filled with water are called aquifers. Groundwater flows, in most cases, slowly to the lower parts. Where the aquifer meets the surface, the groundwater flows out of the soil into, for instance, a river or a spring as shown in Figure 14.
+Figure 14 - Cross section of groundwater layers
+Groundwater may be found close to the surface or at profound depths. In coastal plains the groundwater is often brackish or saline due to the proximity of the sea. Inland groundwater may also be brackish in places where the soil contains many soluble salts. Such water cannot be used for irrigation.
+2.4.2 Groundwater availability
+The availability of groundwater is less irregular than that of small rivers. Aquifers at shallow depths, however, are likely to be very thin with a limited storage capacity for groundwater. One may start pumping the water during the rainy season, after the aquifer has been replenished, and find a dry well after a few months. Generally, local farmers know the wells in their areas. When digging a new well, it is always wise to consult local farmers and benefit from their experience of existing wells in the neighbourhood.
+The total water availability from shallow groundwater is determined by the number of wells and the capacity of these wells, or by the capacity of the pumps installed, whichever is smaller.
+When a borehole is driven to access deep groundwater, the engineer always carries out pump tests to measure the capacity of the well. The volume of water stored in deeper aquifers is quite large, so that the only limitation to water availability is the capacity of the well and the pump to be installed. Excessive exploitation of the groundwater by many users, however, will bring about a decline in the water table. To ensure a stable supply of groundwater, the rate of use should not exceed the rate of recharge.
+When pumps and other equipment break down, the resulting lack of water can be critical for plant growth. Ideally, a spare pump should be kept on hand in case of breakdowns in the main pumping system, as it can take a long time to repair or replace equipment.
+2.4.3 Pumping from wells
+To tap groundwater, a well must be dug deeper than the groundwater level. The groundwater then seeps through the pores of the surrounding soil or porous rock into the well until the level of water in the well is the same as the level of the groundwater.
+Shallow groundwater
+When the groundwater lies within a few metres of the surface, exploitation is possible with shallow wells which are mostly dug by hand. These wells normally have a diameter of 1 metre or more and are dug below the groundwater table. Water is pumped from these wells, often using human or animal power but, increasingly, with small diesel-powered pumps (see Figure 15).
+The amount of water that can be abstracted from shallow wells is limited, and, as a result, the areas which are irrigated from these water sources will also be limited.
+Deep groundwater
+When the groundwater level is very deep, constructing a hand-dug well becomes impossible. Deep wells must be drilled into the ground. Generally, submersible pumps are installed below the groundwater table to lift water to the surface. They may be driven by an electric motor or a diesel-powered engine on the surface with a long vertical shaft, or by a submerged electric motor inside a waterproof casing.
+Figure 16 is an illustration of deep wells equipped with submersible pumps. In case A, both pump and motor are submerged, while in case B, only the pump is submerged. The case B pump is driven by an electric motor located at the surface. In both cases, pumped water is pushed up the riser pipe to the surface.
+Figure 15 - Shallow well with a small pump
+Figure 16 - Cross section of deep wells with submersible pumps
+<section>4</section>
+3. SCHEME IRRIGATION WATER NEED AND SUPPLY
+3.1 Introduction
+3.2 The Approximate Method
+3.3 Cropping Pattern
+3.4 The Calculation Method
+3.5 Converting from SIN[net] to SIN[op]
+3.1 Introduction
+Chapter 2 outlined some of the basic aspects of water availability for irrigation. This chapter deals with the irrigation water need of an entire irrigation area, SIN[gross], and the supply of irrigation water to the entire irrigation area, SIN[op]. The SIN[gross] is the continuous flow of water required for good crop production during the irrigation season. SIN[op] is the flow of water actually applied to the irrigation area, continuously or at intervals after taking the operational criteria into account.
+Because there is always some water stored in the soil (rootzone of the crop), or on the field (in case of paddy rice), SIN[gross] can be supplied at intervals without affecting crop production. However, over the long run, the supplied volumes of water should equal the needed volumes of water.
+The SIN[gross] may be determined quickly, just to get a rough idea of the volume of water needed. This quick method, which is explained in section 3.2 of this manual, is called the approximate method and is suitable for preliminary planning only, or when there is a lack of reliable data. The second, the calculation method is more accurate and thus suitable for the detailed planning of sound water management. The calculation method, explained in the section 3.4, uses fairly detailed information on the irrigation area's cropping system. (The concept of a cropping system will be introduced in section 3.3.)
+3.2 The Approximate Method
+The approximate method of determining the SIN[gross] assumes a constant average irrigation need, IN[net], for the entire season. The most simplified standard value of this IN[net] is 1 litre per second per hectare. This is equivalent to a daily water requirement of 8.6 mm (see Annex II). When the daily water requirement is 4.3 mm, the irrigation need would be 0.5 l/s.
+Like most rules of thumb, this rule should be applied with caution. The proxy values of IN[net] in hot and dry climates can be three times as great as in humid climates. Typical values are presented in Table 1.
+Table 1 APPROXIMATE AVERAGE IN[net] VALUES FOR DIFFERENT CLIMATES AND RICE
+Humid tropical climate
+0.5 l/s/ha
+Monsoon climate wet season
+0.5 l/s/ha
+Monsoon climate dry season
+1.0 l/s/ha
+Semi-arid climate wet season
+1.0 l/s/ha
+Semi-arid climate dry season
+1.5 l/s/ha
+Arid climate
+1.5 l/s/ha
+Rice
+1.5 l/s/ha
+The approximate values of the irrigation need for an entire area, SIN[net] may be calculated by multiplying the IN[net] with the area, Area (in hectares). Therefore, the equation representing the approximate Net Scheme Irrigation Need is:
+SIN[net] (l/s) = Area (ha) x IN[net] (l/s/ha)
+EXAMPLE: The area of a specific irrigation scheme on which several crops are grown is 50 ha. The estimated net irrigation requirement is 1 l/s/ha. Thus the SIN[net] for the entire scheme would be:
+50 (ha) x 1 (l/s/ha) = 50 (l/s)
+The net scheme irrigation need, SIN[net] is the amount of water needed to meet crop water needs of an entire scheme minus the effective rainfall. Water lost during delivery must be added before the gross scheme irrigation need, SIN[gross], can be determined.
+The SIN[gross] is calculated by dividing SIN[net][ ]by the overall scheme irrigation efficiency (e), which is the product of the conveyance efficiency (e[c]) and the field application efficiency (e[a]). The subject of irrigation efficiencies is discussed at length in Annex 1 in Training Manual 4, "Irrigation Scheduling".
+The present series of training manuals is mainly concerned with small irrigation schemes and tertiary units of larger schemes which use gravity irrigation methods. Gravity irrigation of sandy soils is not widespread. Therefore, a conveyance efficiency of about 85% and an application efficiency of about 60% have been selected, which result in an overall area irrigation efficiency of about 50%. This value for the overall efficiency will be used in all further calculations in this manual. It should also be kept in mind that the values mentioned above are only indicative values.
+Once the scheme irrigation efficiency (e, expressed in percentages) is known, SIN[gross] can be calculated with the following formula:
+SIN[gross] (l/s) = 100/e x SIN[net] (l/s)
+The formula above shows that as the efficiency drops (becomes smaller), more water has to be supplied to satisfy the irrigation need of a scheme.
+EXAMPLE: An irrigation scheme of 70 ha located in a semi-arid area is irrigated during the dry season.
+The average IN[net] can be estimated at 1.5 l/s/ha (see Table 1). The total net irrigation need of the scheme is: Area times IN[net] which is 70 x 1.5 = 105 l/s. The irrigation efficiency is 50% and thus the SIN[gross] equals 100/e x SIN[net], which equals 100/50 x 105, or 210 l/s.
+Operational criteria
+The amount of water that is supplied to an irrigation area should be equal to the gross scheme irrigation water need.
+This would mean that, if the same flow of water is supplied continuously, second after second, hour after hour, and day after day without interruption throughout the entire growing season, the SIN[gross] which is expressed in a continuous flow of litres per second would have been completely supplied, and SIN[op], operational scheme irrigation need, would equal SIN[gross].
+However, water is not always supplied continuously. If irrigation water is applied only 12 out of a possible 24 hours per day, then during these 12 hours twice as much water must be given to supply the same total. Further, if irrigation does not take place every day, more water must be supplied on irrigation days in order to maintain the same total quantity per week. This is illustrated in the following examples and in Figures 17 and 18.
+EXAMPLE: An area has an irrigation need of 25 l/s. However, the water supply is available only 4 hours per day, every day. Since the farmers can irrigate only during 4 out of the 24 hours a day, the available time is only 4/24 or 1/6 of the total time. The supply should therefore be 6 times as great, or: 6 x 25, or 150 l/s.
+Figure 17 - Irrigation water applied for 4 hours instead of 24 hours
+EXAMPLE: Another scheme also has a continuous irrigation need of 25 l/s. Although farmers irrigate the whole day (24 hours), they only do it 2 days a week.
+Now the amount of time available for irrigation is 2 days out of 7, which is 2/7 or 1/3.5. The supply should therefore be 3.5 times as much during the 2 irrigation days, to supply the same total amount. The actual irrigation flow should therefore be 3.5 x 25, or 87.5 l/s.
+Figure 18 - Irrigation water applied for 2 days instead of 7 days
+EXAMPLE: What happens if the water requirement of 25 l/s has to be supplied in 8 hours per day and only 4 days per week?
+In this case, the total amount of time in which the irrigation water has to be supplied is 8/24 or 1/3 of a day during only 4/7 of a week. This leaves farmers with only 1/3 x 4/7, or 4/21 of the time in which to irrigate. During this time the actual flow should be 21/4 times the continuous requirement, or 21/4 x 25, which equals 131 l/s.
+The ratios of hours per day and days per week during which the irrigation system functions are called, in this manual, the operational criteria. By using these operational criteria, the required scheme irrigation supply can be determined with the following formula:
+SIN[op] (l/s) = SIN[gross]/T[op]
+T[op] = d/7 x h/24
+where:
+SIN[op] = operational scheme irrigation need
+T[op ]= operational criteria
+d = number of irrigation days per week
+h = number of irrigation hours per day
+SIN[gross] = gross scheme irrigation need
+The formula above shows that the fewer the number of irrigation applications per week and the fewer the number of hours of irrigation per day, the larger the scheme's supply should be, and the larger should also be the capacity of the irrigation system.
+EXAMPLE: In an irrigation scheme, irrigation takes place 4 days per week, 9 hours per day. Thus the operational criteria, T[op] = 4/7 x 9/24 = 3/14. The SIN[gross] is 50 l/s. According to the formula the SIN[op] should be: 50 (l/s) / (3/14) = 233 l/s.
+SAMPLE PROBLEM: Estimate, using the approximate method, the SIN[op] for the following scheme.
+ASSUMPTIONS: The scheme is situated in a monsoon climate. Irrigation is practised during the dry season. The area of the scheme is 20 ha, with loamy soil. Irrigation takes place 5 days per week for 10 hours per day. The scheme uses surface irrigation methods, and the canals are made of earth.
+CALCULATION:
+Step 1: Estimate the Net Irrigation Need, IN[net]
+According to Table 1, the approximate IN[net] for this climate should be 1 l/s/ha.
+Step 2: Estimate the Net Scheme Irrigation Need for the entire area.
+SIN[net] (l/s) = IN[net] (l/s/ha) x Area (ha)
+For an IN[net] of 1 l/s/ha and an area of 20 ha, the result is a SIN[net] of 20 l/s.
+Step 3: Estimate the scheme irrigation efficiency, e.
+The scheme irrigation efficiency (e) can be found by multiplying the e[c] and e[a] values in the following formula (the following calculation is used throughout this manual for the irrigation efficiency):
+e= e[c] x e[a]/100 = 85 x 60/100 » 50%
+Step 4: Calculate the gross scheme irrigation need, SIN[gross] in l/s.
+The SIN[gross] can be calculated with the following formula:
+SIN[gross] = SIN[net] x 100/e
+In this case, SIN[gross] = 20 x 100/50 = 40 l/s.
+Step 5: Calculate the operational scheme irrigation need, considering the following operational criteria.
+The scheme is irrigated 5 days per week for 10 hours per day, T[op] and SIN[op] may be calculated according to the following formula:
+T[op] = d/7 x h/24 = 5/7 x 10/24 » 0.3
+SIN[op] (l/s) = SIN[gross] / T[op]
+= 40 / 0.3 = 133 l/s
+3.3 Cropping Pattern
+In Chapter 3.2 a quick but rough estimation was made of a scheme's irrigation requirement, by using the rule of thumb for the IN[net]. A much more accurate prediction of a scheme's irrigation flow requirements can be made, if it is based on the scheme's cropping pattern. The cropping pattern, or cropping schedule of an irrigation area provides information, for a period of at least one season, on three important elements:
+- which crops are grown
+- when are they cultivated
+- how many hectares of each crop are grown.
+This information is written down, in detail, let us say for the area of one farmer during one year, and from this record there emerges a pattern. For example, the cropping pattern for farm A:
+- onions cultivated from April 15 to September 15 on 1 ha
+- potatoes from October 15 to February 15 on 1/2 ha, on the same plot as the onions
+- cotton from July 10 to January 20 on 1 and 1/2 ha.
+Information on the type of crop and the period of cultivation can be visualized in a line diagram.
+Figure 19 - Line diagram of an example farm's crop calendar
+This crop calendar diagram shows that farmer A starts with onion cultivation in mid-April which he then harvests mid-September. Within one month he will plant potatoes on the same plot, which he expects to uproot in mid-February. Farmer A has a second plot on which he grows cotton over a six-month period from mid-July to the end of January of the following year.
+If the area of each crop has to be shown, the lines representing individual crops should be replaced by bars where the height of each bar is a measure of the area of each crop. In the example below, for instance, an area of one hectare is represented by a bar-height of about 0.5 centimetre. The length of the bar indicates the period in which the crop is grown. A diagram with crop bars rather than crop lines is called a cropping pattern.
+Figure 20 - Bar diagram of an example farm's cropping pattern
+Figure 20 shows that farmer A grew 1 and 1/2 ha of cotton from 10 July to 20 January, 1 ha of onions from mid-April to mid-September and 1/2 ha of potatoes from mid-October to mid-February.
+The diagram can indicate more crop husbandry dates, such as crop manuring and periods of weeding and transplanting, etc. It is also possible to draw up a cropping pattern diagram for larger areas, including a group of farmers, or an entire irrigation scheme. The only difference is that with a single farm, it was supposed that the crop was sown or planted on one specific day. The same assumption cannot be made in the case of a larger irrigation scheme. In fact, there are several reasons why farmers do not all start planting on the same day on an irrigation scheme:
+- labour and machinery needed to prepare the land is in short supply, and each has to wait his turn;
+- a farmer is not ready due to other activities, so he postpones planting the crop for a while;
+- also, it is impossible to supply all the fields on an irrigation scheme with the water required to start a crop on the same day. The larger the scheme's area, the longer the time it takes to serve all the fields.
+The cultivation of any crop on an irrigation scheme is thus spread over a certain period of time. This is called staggered cultivation or a staggered cropping pattern.
+When, for example, the first farmer starts with onion cultivation on 1 April, and other farmers follow more or less regularly on the days after until the last farmer has planted his onions at the end of April, the crop calendar for onions is staggered over one month. In a cropping pattern diagram this staggering is depicted as below.
+Figure 21 - Staggered cropping of onions
+Each line in the diagram represents a farm, or a certain area, and the day it starts onion cultivation. Of course; when crop planting dates are staggered, so also are the end of season dates.
+In a normal cropping pattern diagram the subsequent lines are simplified, forming a parallelogram bar. The lower side represents the first farmer, or the area which is planted earliest. The upper side represents the last area to be planted and cropped.
+Figure 22 - Parallelogram cropping pattern
+As with the cropping pattern diagram for one farmer, the extent of the area cultivated for each type of crop, across the entire scheme, can be indicated with the height of the parallelogram serving as a measure. The height of the vertical axis of the diagram represents the total area of an irrigation scheme, for example a scheme of 150 ha (see Figure 23). Onions are cultivated on 60 ha and they have a growing period of 5 months. The onion planting season starts in the beginning of April and is staggered over one month. Potatoes, with a growing period of 4 months, are grown on 30 ha starting 1 October. The cultivation period is staggered over one month. Cotton, with a growth period of 190 days, is grown on 75 ha from the beginning of July. Cotton cultivation is staggered over a period of 45 days.
+Figure 23 - Cropping pattern for an irrigation scheme of 150 ha
+An area which is empty at any given moment in the cropping pattern diagram is not cultivated at that time. For example, during the month of March nothing is being cultivated on the scheme; in mid-September 30 ha of onions have already been harvested and 15 ha of land have been left fallow.
+3.4 The Calculation Method
+3.4.1 Scheme irrigation need for a simple cropping system
+3.4.2 Scheme irrigation needs for a multiple cropping system
+3.4.3 Determining the irrigation need for a rice-based cropping pattern
+In Section 3.2, the irrigation water need and the actual scheme irrigation flow requirement were estimated using the approximate method, which is based on a rule of thumb which says that one hectare of irrigated land needs a fixed flow of water during the irrigation season.
+When accurate crop and climatic data are available, a much more precise prediction may be made of the gross scheme irrigation need, SIN[gross], while the operational scheme irrigation need, SIN[op], can be finely tuned to the real irrigation need. However, when a scheme has many crops, this more precise method also requires more complex calculations. A calculation method example is presented in this section to help field technicians and extension agents understand and become familiar with the underlying principles and the basic elements involved in calculating scheme water needs.
+The calculation of an individual crop's irrigation water need, IN[net], has already been explained in Training Manual 3, "Irrigation Water Needs". Using this calculation as a point of departure, which ends with the net irrigation need of an individual crop expressed in millimetres of water depth per month (mm/mon), this section will focus on determining the net scheme irrigation need SIN[net] (in litres per second) of an entire irrigation scheme with a variety of crops throughout the year.
+3.4.1 Scheme irrigation need for a simple cropping system
+Suppose, as in the former section, that 60 ha of onions are planted on an irrigation scheme of 150 ha and that the planting of onions is spread out evenly over one month. Planting is begun on 1 April and finished on 30 April.
+The irrigation water need of the earliest planted onions during the month of April is 98 mm, which is 3.3 mm/day for 30 days (see Manual 3, Part II 4.9). Onions which are not planted until April 15 do not need water during the first 15 days of April. For the remaining 15 days of April, the irrigation water need is 15 x 3.3 mm, or 49 mm. Onions which are planted on the last day of April do not need any irrigation water in April at all.
+This example indicates that the irrigation water need of the onions which are planted in between the earliest and the latest planted onions, lies in between the irrigation water need of the earliest and latest planted onions. In general, the average irrigation water need of an area cropped with onions, or any other crop, is the average of the irrigation water need of the earliest (IN[e]) and the irrigation water need of the latest (IN[l]) planting. This is also expressed in the formula below:
+This monthly irrigation need, IN[av] , is presented as a water layer which is applied during that month on a certain area. However, water flows are not actually expressed in millimetres of water covering a certain area over a certain period of time, but in litres per second, or cubic metres per second. Therefore the IN[av] per month should be converted into a current irrigation water flow. SIN[net] in litres per second (net scheme irrigation need) can be calculated as follows:
+or
+When the monthly irrigation need of an area with staggered crop cultivation must be determined, the irrigation needs of the earliest and of the latest plantings must be calculated. The following example is based on Training Manual 3, Chapter 5, data sheets 3 and 4. Field technicians and extension agents should consult this material before proceeding with this manual.
+SAMPLE PROBLEM: Determine the irrigation need of onions. (Following is a list of assumptions to be used in synthesizing the information in the tables below.)
+ASSUMPTIONS:
+Crop:
+Dry Onions
+Earliest planting:
+1 April
+Total area:
+60 ha
+Latest planting:
+30 April
+Duration of crop growth phases
+Crop factors: (K[c])
+Initial stage:
+15 days
+K[c]
+Crop devt. stage:
+25 days
+K[c]
+Mid season:
+70 days
+k[c]
+Late season:
+40 days
+K[c]
+Potential Evapotranspiration (ET[0]) in the example location:
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ET[0] (mm/day)
+Effective rainfall (P[e]) in the example place:
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+P[e] (mm/mon)
+CALCULATION:
+Step 1: Draw the cropping pattern.
+Step 2: Calculate the IN[e] according to the method explained in Training Manual 3.
+Step 3: Calculate the IN[l] in the same way.
+Step 4: Calculate the average monthly irrigation need IN[av].
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+IN[e] mm/mon
+IN[l] mm/mon
+IN[av] mm/mon
+Step 5: Determine SIN[net] in litres per second for each month with the following formula:
+For example, if April's IN[av] equals 49 mm, then the SIN[net] equals 49 mm times the area (60 ha) divided by 260, or
+The same calculation should be made and recorded on the schedule below for the months of May, June, July, August and September.
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SIN[net] l/s
+Please note the variations for SIN[net] for each month in the above example. It is interesting to compare the results with the ones obtained by the approximate method. With the approximate method, only a single value for SIN[net] can be obtained. If IN[net] is assumed to be 1 l/s/ha, SIN[net] for 60 ha is 60 l/s, which is about 50% greater than the peak water need (39 l/s for June) calculated above.
+The data contained in the foregoing tables and results of the calculations can be summarized on Data Sheet 1 which is given in Annex III.1.
+3.4.2 Scheme irrigation needs for a multiple cropping system
+On many irrigation schemes more than one kind of crop is grown at the same time, and over the course of a year. It is therefore often necessary to calculate irrigation needs for a multiple cropping system. Once the irrigation need for a single cropping pattern has been estimated, the irrigation need for a scheme with more than one crop can be determined by adding up the irrigation requirements for each month. The way this is done is much the same as with the calculation for a simple cropping pattern, following the three steps outlined below.
+Step 1: Draw the multiple cropping system diagram, as explained in Section 3.3.
+Step 2: Determine the scheme irrigation need for each crop separately, following the steps explained in Section 3.4.1. Use Data Sheet 1.
+Step 3: Add up each month's calculated irrigation needs. The total scheme irrigation need should be expressed in litres per second.
+Data Sheet 2, included in Annex III.2, is designed to calculate the scheme irrigation need for a multiple cropping system.
+SAMPLE PROBLEM: Determine the scheme irrigation need based on the following assumed data.
+ASSUMPTIONS:
+Crop 1
+Crop 2
+Crop 3
+Name:
+onions
+cotton
+potatoes
+Area:
+60 ha
+75 ha
+30 ha
+Planting period:
+1 Apr-30 Apr
+1 Jul-15 Aug
+1 Oct-30 Oct
+Growing period:
+150 days
+190 days
+120 days
+Climatic data are the same as the data used in the example Section 3.4.1. Scheme area op: 150 ha (see Figure 23)
+CALCULATION:
+Step 1: The multiple cropping pattern is drawn in the diagram included in Data Sheet 2 as was done in Figure 23. Note the scale of the vertical axis which indicates that the scheme area is 150 ha.
+Step 2: The determination of the irrigation needs for the three different crops can be done on Data Sheet 1 (see also Manual 3 Part II Chapter 5). This method was extensively explained in Section 3.4.1, and is thus not repeated here. The results are copied onto Data Sheet 2.
+Step 3: The net scheme irrigation need is found by simply adding up monthly irrigation needs for each crop.
+The results of the calculation are shown below in Data Sheet 2.
+3.4.3 Determining the irrigation need for a rice-based cropping pattern
+As was explained in Section 4.4 of Training Manual 3, Part II, the net irrigation needs of paddy rice consist of the crop evapotranspiration, ET[rice], minus the effective rainfall, P[e], if any. Moreover, additional irrigation water is needed to compensate for the continuous percolation losses, PERC. At the start of paddy rice cultivation, a certain amount of water must be supplied to saturate the rootzone and prepare the wet soil, called puddling. This amount of water, SAT, is about 200 mm. Finally, because rice grows well only on a submerged field, a water layer, WL, measuring about 50 mm deep must be established on the field.
+The formula to determine the net irrigation need of paddy rice is written as follows:
+IN[net rice] = ET[rice] + SAT + PERC + WL - P[e ](mm/month)
+In the same way as for other crops, one has to calculate the IN[net][ ][rice] of the earliest and the latest plantings to find the irrigation requirement for a rice crop with a staggered cultivation. The irrigation needs of a second crop after rice during the dry season, beans for instance, are determined as explained in Section 3.4.1.
+SAMPLE PROBLEM: Rice is grown on an irrigated scheme of 150 ha during the wet season. Determine the scheme irrigation water need, including the saturation requirement, SAT, the establishment of a water layer, WL, and the supply needed to make up for percolation, PERC.
+ASSUMPTIONS:
+Planting period: 16 June (early) - 1 August (late)
+Growing period: 130 days
+Crop factors:
+K[c]
+Day 0-60
+Mid-season (40 days)
+Last 30 days
+SAT:
+200 mm
+Early
+16 May - 15 June
+Late
+1 July - 31 July
+PERC: 6 mm/day =180 mm/month
+WL:
+100 mm
+Early
+16 June - 15 July
+Late
+1 August - 30 August
+Climatic data are the same as the data used in 4.4 in Manual 3.
+CALCULATION:
+Start with Data Sheet 3 which is a modified version of Data Sheet 7 in Training Manual 3. The blank sample of this sheet is found in Annex III.3.
+Step 1: Draw the cropping pattern diagram with SAT and WL, and fill ET[0].
+Step 2: Calculate the IN[e] (mm/month) according to the method explained in 3.4.
+Step 3: Calculate the IN[l], (mm/month) in the same way as Step 2.
+Step 4: Calculate the average monthly irrigation need IN[av] (mm/month).
+IN[av] mm/mon
+Step 5: Determine SIN[net] (l/s) for each month.
+SIN[net] l/s
+Note: When cultivation does not start on the first of a month or when cultivation periods do not coincide with full months, the water requirement should be divided over the two months according to the number of days that fall in each month. For example, in establishing a water layer of 100 mm from 16 June to 15 July, i.e. during 15 days in June and 15 days in July, note that 15/30 x 100 = 50 mm is to be given in June, and 15/30 x 100 = 50 mm in July.
+3.5 Converting from SIN[net] to SIN[op]
+The preceding sections of the present manual illustrated the calculations of the irrigation need for a simple cropping pattern. In Section 3.4.2, we calculated the net irrigation need for the entire scheme in litres per second, SIN[net], by adding up the irrigation needs for each crop. Now, these irrigation needs have to be converted into the gross scheme irrigation need, SIN[gross], and the operational scheme irrigation need, SIN[op]. This process is explained in section 3.2, and is repeated here with the following four-step process.
+Step 1: Estimate the overall irrigation efficiency, e.
+e = e[conveyance] x e[application ]/ 100
+Step 2: Determine the gross Scheme Irrigation Need, SIN[gross]
+SIN[gross][ ]= SIN[net] x 100 / e
+Step 3: Establish the operational criteria or the total operation time T[op].
+T[op ]= (d/7) x (h/24)
+Where:
+d = days of operation per 7 days of the week
+h = hours of operation per 24 hours of the day.
+Step 4: Determine the operational Scheme Irrigation Need, SIN[op].
+SAMPLE PROBLEM: Determine the operational flow for the cropping pattern on page 28. The following data is assumed:
+SIN[net]
+Irrigated area is 150 ha
+Conveyance efficiency is 85 %
+Application efficiency is 60%
+Hours of irrigation per day: 12
+Days of irrigation per week: 6
+CALCULATION:
+Step 1: Estimate the scheme irrigation efficiency.
+e = 85 x 60 /100 » 50 %
+Step 2: Determine the gross Scheme Irrigation Need SIN[gross] in litres per second for April.
+SIN[gross] = SIN[net] x 100 / e = 11 x 100 / 50 » 22 l/s.
+Calculate the same for the months May, June, July, August, and September in the following schedule.
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SIN[gross] (l/s)
+Step 3: Establish the operational criteria, or the total operation time, T[op].
+T[op] = days of operation per week times hours of operation per day.
+T[op] = (6/7) x (12/24) » 0.43
+Step 4: Determine operational scheme irrigation need, SIN[op], for April.
+SIN[op] = SIN[gross] / T[op] = 22 / 0.43 » 51 l/s
+Calculate the same for the months May, June, July, August, and September in the following schedule.
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SIN[op] (ls)
+<section>5</section>
+4. MATCHING WATER NEEDS AND SUPPLY
+4.1 Introduction
+4.2 Command Area
+4.3 Matching SIN[gross], and SWS
+4.1 Introduction
+Chapter 3 of the present manual detailed the methods of estimating the irrigation need of a scheme. Chapter 2 discussed sources of irrigation water, and that it is often limited. This chapter will explain why the irrigation need and the irrigation supply should always be compared, particularly when the important elements in the scheme are likely to change, or when water shortages occur, as is all too frequently the case. A number of methods are discussed which can help diminish the danger of water shortages. This part of the manual is intended as a guide to the practical problems of water shortage. Moreover, the information offered here should provide field technicians with a water management tool with which to anticipate and solve irrigation problems at the more complex level of the agricultural scheme.
+4.2 Command Area
+The command area, CA, of a water source is the extent of area which can be reliably irrigated from that source. Reliable irrigation means that the availability of water is always larger than or equal to the irrigation need of a scheme.
+If the command area of a water source is larger than the actual area to be irrigated, there should be no problem of water shortage. When the supply of a water source in a certain month is known, e.g. 250 litres per second, and the gross irrigation need per hectare for the same month is estimated, for instance at 1.8 litres per second per hectare, then the command area can be calculated. With a water supply of 250 l/s and a need of 1.8l/s per hectare, one can irrigate 250/1.8, or 139 ha. The formula used to calculate the command area is scheme water supply (SWS) divided by gross irrigation need (IN[gross]) or
+When the supply of a water source is not constant over the months and seasons of the year, then the command area will also vary. Imagine, for example, a SWS from a creek with the monthly values indicated in the schedule below (these values will be used for all of the examples throughout this chapter). In Chapter 3, the methods for determining the IN[net] were explained. As the amount of water supply varies over the years, the irrigation need also varies. Assume also the following values of IN[net] for each month, which need to be calculated as was done in 3.4.
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (l/s)
+IN[net] (l/s)
+Assuming a scheme irrigation efficiency of 50%, values of IN[gross] and the command area can be calculated (see Table 2).
+Table 2 EXAMPLE OF MONTHLY COMMAND AREAS
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (l/s)
+IN[net ](l/s/ha)
+CA (ha)
+The month during which the smallest area can be irrigated, i.e. the one with smallest CA, is August, with 140 ha. The month with the largest CA is February with 420 ha.
+Suppose that the farmers grow sugar cane on an area measuring 420 hectares. This crop has a growing period of 12 months. In this case, only during one month, February, would there be enough water available to irrigate that total area. In other words irrigation would be highly unreliable. If planting were confined to an area of not more than 140 ha, the sugar cane could be supplied with sufficient water throughout the year. Irrigation in this case is reliable. The area of 140 ha is in fact the smallest area according to the calculations in Table 2. This area is called the critical command area.
+Now, suppose that the farmers grow a rice crop instead of sugar cane. The rice has a growing period of 4 months and is planted in April and harvested at the end of July. The IN[gross] of rice is assumed as in the Table 3. The monthly command areas for this growing season are calculated in Table 3, the same as was done in Table 2.
+Table 3 EXAMPLE OF MONTHLY COMMAND AREAS FOR A RICE CROP
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (l/s)
+IN[gross] (l/s/ha)
+CA (ha)
+The critical command area in this example measures 133 ha during the month of July, so that the area which can safely be planted in April should not be any greater than 133 ha, even though the command area for that month is much larger.
+SAMPLE PROBLEM: Determine the critical command area for a crop of beans.
+ASSUMPTIONS:
+Growing period for beans is September, October, and November
+Net irrigation need, IN[net], is 6, 5 and 4 mm per day, respectively
+Irrigation efficiency is 50 %
+SWS
+September: 250 l/s
+SWS
+October: 230l/s
+SWS
+November: 200 l/s
+CALCULATIONS:
+Step 1: Convert the net irrigation need in mm/day to net irrigation need in l/s/ha.
+According to the conversion table in Annex II, 6, 5 and 4 mm/day can be converted into 0.69, 0.58 and 0.46 l/s/ha, respectively.
+Step 2: Determine the gross irrigation need IN[gross].
+IN[gross] = IN[net] X 100 / e
+IN[gross] (l/s)
+Sept.
+Oct.
+Nov.
+Step 3: Determine the command area per month.
+CA = SWS / In[gross]
+CA September
+= 179 ha
+CA October
+= 192 ha
+CA November
+= 222 ha
+Step 4: Determine the critical command area.
+The critical command area is the smallest monthly command area of the growing period.
+CA = 179 ha
+4.3 Matching SIN[gross], and SWS
+In the foregoing section, IN[gross] was defined as the gross irrigation need per hectare expressed in litres per second per hectare. When we know the total irrigated area of a scheme, we can multiply the IN[gross] with the area, and we find the gross scheme irrigation need, SIN[gross]
+SIN[gross] (l/s) =IN[gross] (l/s/ha) x Area (ha)
+The SIN[gross] is the continuous water flow that the irrigation scheme needs, the SWS is the water flow that can be delivered by the water source. In this section, five possible means or methods are discussed of matching the SIN[gross] with the SWS, when the irrigation supply is less than the amount required.
+Method 1: Enlarge the SWS if the SIN[gross] is too large.
+Enlarging the SWS is only possible when the water source is not fully exploited. This may be the result of a pumping system that does not have enough power to lift the required water flow, or an intake structure or supply canal that is too small or placed too high above the water level in the river or reservoir. These situations can be improved and the supply increased. Of course, installing a new pump or intake will entail expenditures and other efforts. Enlarging the SWS is impossible when the river flow itself is too small, except unless a very expensive reservoir is constructed.
+If irrigation water is being pumped from a well, it may be the case that the capacity of the well is limited. In this case, the well has to be deepened, or a second well and pump installed.
+Method 2: Diminish the required SIN[op] by changing the operational criteria.
+When irrigation water is supplied intermittently, the water source is not used full-time. For instance, river water flows away during the hours or days that the river is not tapped. The exploitation of the river is not optimal in such a case. Moreover, when irrigation applications are prolonged or irrigation intervals are shortened, the required SIN[op] will diminish,
+If, however, the pump is already used most of the time, or farmers do not want to change the irrigation schedule, which are related to the operational criteria, another solution must be found.
+EXAMPLE: Suppose the pump has a capacity of 315 l/s. The SIN[gross] of the scheme is 100 l/s. The pump is operated 8 hours per day, 5 days per week. According to Section 3.5, the SIN[op] should equal the SIN[gross] divided by the operational criteria, T[op].
+SIN[op] = SIN[gross] / T[op] = 100 /((8/24) x (5/7)) = 420 l/s
+With this operational criteria, the pump can not meet the required discharge of 420 l/s. If, on the other hand, the pump is used 9 instead of 8 hours per day and 6 instead of 5 days per week, then the required discharge will be: SIN[op] = 100 / ((9/24) x (6/7)) = 311 l/s. This is within the pump's capacity.
+Method 3: Matching by advancing or postponing the growing season.
+In the case of a variable river flow, the SWS might be too low at the beginning or at the end of the growing season. If a water shortage occurs at the beginning of the season, one may consider postponing the growing season by a month or so. If water problems are more likely to occur at the end of the season, it may help to plant the crop earlier.
+EXAMPLE: Take an irrigation scheme of 150 ha and a scheme irrigation supply pattern as given in Table 3. The farmers in the scheme grow rice throughout the entire area. The IN[gross] values are assumed as in Table 3 and the growing season lasts 4 months. Farmers start cultivation in April. Table 4 contains the monthly command areas for the rice crop.
+Table 4 EXAMPLE OF MATCHING BY ADVANCING THE GROWING SEASON
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (Ifs)
+IN[gross] (l/s/ha)
+CA (ha)
+As can be seen in Table 4, the SWS for the months April, May, and June is more than enough to irrigate 150 ha, but in July the water is enough for only 133 ha. If, however, farmers had started the rice crop in March instead of April, the critical command area would have been the 154 ha of the month of June and no water shortage would have occurred. If farmers planted in February, the critical command area becomes 210 ha for the 4-month rice growing season.
+Method 4: Stagger the growing season.
+Method 3 consisted of either advancing or postponing the growing period for the entire irrigation scheme. By doing so, it is sometimes possible to avoid the risk of water shortages at the beginning or at the end of the irrigation season. With Method 4, the growing season is shifted, but only for a part of scheme. In planning this operation carefully, the SIN[gross] can be fine-tuned to an even greater extent to the SWS.
+EXAMPLE: Suppose that the SWS and IN[gross] of a rice scheme are again like that in Table 3. The possible growing season for rice runs from February to August, and the growing period lasts 4 months. The scheme area is 250 ha.
+First, the monthly command areas are determined.
+Table 5a MATCHING BY STAGGERING THE GROWING SEASON WITH ADVANCED CROPPING
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (l/s)
+IN[gross] (l/s/ha)
+CA (ha)
+In looking at the calculated command areas, one can see that there is no consecutive four-month period in which the critical command area is greater than 250 ha. For rice planted in February and harvested in May, there is enough water available, throughout the entire growing period, for 210 ha. In this case, all the water available in February is used. In March, April, and May some water is left over. And in June, July and August no water is consumed. If we subtract the planted area, 210 ha, from each of the monthly command areas, the differences will be the command areas that are left over unused.
+Table 5b MATCHING BY STAGGERING THE GROWING SEASON WITH ADVANCED CROPPING
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (l/s)
+IN[gross] (l/s/ha)
+CA (ha)
+early rice (ha)
+CA left (ha)
+Now the smallest of these left-over command areas is the critical command area for the postponed rice growing season. In this case it amounts to 45 ha, which can then be planted later, in March, in addition to the 210 ha which are planted in February. If the late rice season were to be postponed until April or May, the critical command area would become 61 ha, as can be seen in Table 5c.
+Table 5c MATCHING BY STAGGERING THE GROWING SEASON WITH ADVANCED CROPPING
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (l/s)
+IN[gross] (l/s/ha)
+CA (ha)
+early rice (ha)
+CA left (ha)
+late rice (ha)
+CA left (ha)
+The total possible area where rice can be planted safely is thus 210 + 61 = 271 ha. This exceeds the total scheme area of 250 ha.
+In the example priority was given to planting as large an area as possible as soon as possible. This is the best solution if farmers on the scheme want to start the rice season as early as possible. However, if they were to prefer planting the rice as late in the season as possible, and harvest in July or August, we will need to determine the critical command area for the last 4 months. Areas where there is not enough water available during the last four months, should be planted in advance. Table 6 below shows the results of the calculation made.
+Table 6 MATCHING BY STAGGERING THE GROWING SEASON WITH POSTPONED CROPPING
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+SWS (l/s)
+IN[gross], (l/s//ha)
+CA(ha)
+latest rice (ha)
+CA left (ha)
+late rice (ha)
+CA left (ha)
+early rice (ha)
+CA left (ha)
+earliest rice (ha)
+CA left (ha)
+The total irrigable area is 127 + 6 + 21 + 117, which comes to a total of 271 ha, the same as in the first example. Although the end result is the same, the second example's growing season has to be staggered more. There are, in fact, many other ways of splitting up a scheme into sub-units with different growing seasons.
+Method 5: Diminish the SIN[gross].
+If all other methods of coping with water shortage fail, the only remaining solution is to diminish the gross scheme irrigation water need. The first step in decreasing the SIN[gross][ ]is to try to increase irrigation efficiency. More information on this subject will be provided in the following training manuals.
+If irrigation efficiency is still not sufficiently improved to match need with supply, or SIN[gross][ ]and SWS, three alternatives remain:
+- grow a crop with a lower irrigation need
+- decrease the irrigated area
+- accept water shortages and lower production.
+In existing schemes, farmers will not easily accept growing other crops or diminishing the irrigated area. When the water shortage is less than 10-20% of the monthly requirement, production losses are not very heavy, and farmers will accept this solution first. When an extension of the scheme is considered, and farmers want to expand beyond the limits of the available water, one has sometimes to convince them to adjust their plans, by cutting a part of the new area, or by growing a crop with a lower irrigation need.
+<section>6</section>
+ANNEX I.1 Diagram to show the calculation of SIN[gross]
+1 Diagram to show the calculation of SIN[gross]
+<section>7</section>
+ANNEX I.2 Diagram to show the matching of need and supply
+Diagram to show the matching of need and supply
+<section>8</section>
+ANNEX II Conversion table of mm/day into l/s/ha
+mm/day
+l/s/ha
+l/s/ha
+mm/day
+<section>9</section>
+ANNEX III.1 Data sheet 1: Determination of net scheme irrigation need for a single cropping system
+Crop:
+Earliest planting:
+Total area:
+Latest planting:
+Duration of crop growth phases
+Crop factors (K[c])
+Initial stage:
+days
+K[c]:
+Crop devt. Stage:
+days
+K[c]:
+Mid season:
+days
+K[c]:
+Late season:
+days
+K[c]:
+Month
+Jan
+Feb
+Mar
+Apr
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+ha
+cropping
+pattern
+ET[0] (mm/day)
+P[e] (mm/mon)
+Growth stages
+K[c] per gr. st.
+K[c] per month^1
+ET[cr] mm/mon^2
+IN[e] mm/mon^3
+Growth stages
+K[c] per gr. st.
+K[c] per month^1
+ET[cr] mm/mon^2
+IN[l ]mm/mon^3
+IN[av] mm/mon
+SIN[net] l/s^4
+1 average of K[c] per month
+^2 ET[cr] (mm/mon) = ET[0] (mm/day) x crop growing days per month x K[c] (per month)
+^3 IN[e] or IN[l] (mm/mon) = ET[cr] (mm/mon) - P[e] (mm/mon)
+^4 SIN[net] = (IN[av] x Area) / 260
+<section>a</section>
+ANNEX III.2 Data sheet 2: Determination of net scheme irrigation needs for a multiple cropping system
+Location:
+Date:
+Crop 1:
+Crop 2:
+Crop 3:
+Crop 4:
+Crop 5:
+Month
+Jan
+Feb
+Mar
+Apr
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+area
+cropping pattern
+ha
+SIN[crop1] l/s
+SIN[crop2] l/s
+SIN[crop3] l/s
+SIN[crop4] l/s
+SIN[crop5] l/s
+SIN[net] l/s
+<section>b</section>
+ANNEX III.3 Data sheet 3: Determination of net scheme irrigation need for rice
+Planting period:
+Growing period:
+Crop factors: K[c]
+Day 0-60
+Mid season
+Last 30 days
+SAT:
+mm Early
+Late
+PERC:
+mm/day = mm/month
+WL
+mm Early
+Late
+Month
+Jan
+Feb
+Mar
+Apr
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+area
+cropping pattern
+ha
+ET[0] (mm/day)
+P[e] (mm/mon)
+Growth stages
+K[c] per gr. st.
+K[c] per month^1
+ET[cr] mm/mon^2
+SAT mm/mon
+PERC mm/mon
+WL mm/mon
+IN[e] mm/mon^3
+Growth stages
+K[c] per gr. st.
+K[c] per month^1
+ET[cr] mm/mon^2
+SAT mm/mon
+PERC mm/mon
+WL mm/mon
+IN[1] mm/mon^3
+IN[av] mm/mon
+SIN[net] l/s^4
+1 average of K[c] per month
+^2 ET[cr] (mm/mon) = ET[0] (mm/day) x crop growing days per month x K[c] (per month)
+^3 IN[e] (mm/mon) = ET[cr] (mm/mon) - P[e] (mm/mon)
+^4 SIN[net] = (IN[av] x Area) / 260
+Note: When cultivation does not start on the first of a month or when cultivation periods do not coincide with full months, the water requirement should be divided over the two months according to the number of days that fall in each month.
+<section>c</section>
+Suggested further reading
+FAO, 1974, Surface Irrigation. Land and Water Development Series No. 3 L.J. Booher. Rome.
+FAO, 1976, Agro-meteorological field stations. Irrigation and Drainage Paper 27 J. Doorenbos. Rome.
+FAO, 1977, Crop water requirements (revised). Irrigation and Drainage Paper 24. J. Doorenbos and W.O. Pruitt. Rome.
+FAO, 1979, Yield response to water. Irrigation and Drainage Paper 33. J. Doorenbos and A.H. Kassam. Rome.
+FAO, 1989, NGO Case Book on Small Scale Irrigation in Africa. AGL Miscellaneous Paper 15. R. Carter. Rome.
+Kay M., 1986, Surface Irrigation: System and Practice. Cranfield Press. Bedford, UK.
+Stem P., 1979, Small Scale Irrigation. Intermediate Technology Publications, London, and International Irrigation Information Centre, Bet Dagan.
+Withers B. and Vipond S., 1974, Irrigation Design and Practice. Batsford, London.
