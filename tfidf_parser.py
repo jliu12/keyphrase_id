@@ -9,7 +9,9 @@ import json
 import math
 
 '''
-So far, this file handles all txt documents in the corpusPath. 
+So far, this file handles all txt documents in the corpusPath. now tfidf_parser reports the n top scoring terms for each doc 
+in the directory. tested only with dummy. Needs verification that calculation is actually working.
+May need optimization to work on full corpus. Needs evaluation pipeline.
 
 '''
 ###
