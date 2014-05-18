@@ -53,6 +53,7 @@ word_count is the num occurances of the word in this doc, N is the total num doc
 in which this word occurs at least once.'''
 def get_n_top_terms(filename, n):
 	word_counts = getWordCountForTxtFile(filename)
+	total_words_in_doc = sum(word_counts.values(), 0.0) #does not include ignored words
 	score_tuples = []
 	for word in list(set(word_counts.elements())):
 		score = 0
@@ -61,7 +62,7 @@ def get_n_top_terms(filename, n):
 		if num_docs_word_appears_in < 1:
 			print(word + " has n value of " + str(num_docs_word_appears_in))
 		if numerator > 0:
-			score = word_counts[word] * math.log(numerator/num_docs_word_appears_in)
+			score = (word_counts[word]/ total_words_in_doc) * math.log(numerator/num_docs_word_appears_in) #tf * idf
 		score_tuples.append([word, score])
 	sorted_score_tuples = sorted(score_tuples, key=lambda pair: pair[1], reverse=True)
 	return sorted_score_tuples[0:n]
