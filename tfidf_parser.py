@@ -8,6 +8,8 @@ import collections
 import json
 import math
 
+from feature_calc import FeatureCalculator
+
 '''
 So far, this file handles all txt documents in the corpusPath. now tfidf_parser reports the n top scoring terms for each doc 
 in the directory. tested only with dummy. Needs verification that calculation is actually working.
@@ -103,6 +105,7 @@ def main():
 	getCorpusDocCountsForEachWord()
 	processDocs()
 	print(docs_to_predictions)
+	c = FeatureCalculator()
 
 if __name__ == "__main__":
 	main()
