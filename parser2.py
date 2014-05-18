@@ -34,9 +34,9 @@ def getCorpusDocCountsForEachWord():
 	#writeCounterToFile(term_counter, "testTotalCountPrint.txt")
 	#testLoadCounterFromFile("testTotalCountPrint.txt")
 	#( term_counter)
-	#print(str(doc_count) + " docs")
+	print(str(doc_count) + " docs")
 
-	print str(term_counter)
+	#print str(term_counter)
 	
 '''Then processDocs goes through each txt file in the corpusPath again to find the n top-scoring
 terms for that document. It stores a list of {doc_id: [{term1: score1}, {t2: s2}]}.'''
