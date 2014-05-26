@@ -8,7 +8,7 @@ stopwords = []
 class FeatureCalculator:
 	def __init__(self, document, phrases, tfidf):
 		self.phrases = phrases
-		self.tfidf = self.read_tfidf(tfidf) # this is a dict!!!
+		#self.tfidf = self.read_tfidf(tfidf) # this is a dict!!!
 		self.document = self.read_doc(document)
 
 	def read_doc(self, f_name):
@@ -22,7 +22,6 @@ class FeatureCalculator:
 		for s in self.phrases:
 			new_dict.update({s[0]: tfidf[i]})
 			i += 1
-		print new_dict
 		return new_dict
 
 	#Measures the length of the keyphrase
@@ -81,8 +80,8 @@ class FeatureCalculator:
 		last_occurrence = self.ft_last_occurrence_position(candidate)
 		feature_dict.update(last_occurrence)
 
-		tfidf = self.ft_tfidf(candidate)
-		feature_dict.update(tfidf)
+		#tfidf = self.ft_tfidf(candidate)
+		#feature_dict.update(tfidf)
 
 		stopword_start = self.ft_stopword_start(candidate)
 		feature_dict.update(stopword_start)
@@ -126,25 +125,51 @@ def parse_train_data(fname):
 		data[new_filename] = new_list
 	return data
 
+def parse_test_data(fname):
+	data = {}
+	new_file = True
+	new_filename = ""
+	new_list = []
+	with open(fname, "r") as f:
+		for line in f:
+			if new_file:
+				new_filename = line.strip()
+				new_file = False
+			elif len(line) == 1:
+				data[new_filename] = new_list
+				new_filename = ""
+				new_list = []
+				new_file = True
+			else:
+				candidate = line.strip()
+				new_tup = (candidate, "no")
+				new_list.append(new_tup)
+	if new_filename != "":
+		data[new_filename] = new_list
+	return data
 
+def calc_train_features(train_data):
+	train_featureset = []
+	tfidf_list = [0.9, 0.8, 0.6, 0.4, 0.5, 0.4, 0.1, 0.2, 0.3, 0.2, 0.1]
+	for fname, phrases in train_data.items():
+		c = FeatureCalculator(fname, phrases, tfidf_list)
+		for s in c.get_phrases():
+			train_featureset.append((c.get_features(s[0]), s[1]))
+	return train_featureset
 
 def main():
 	init_global_vars()
-	tfidf_list = [0.9, 0.8, 0.6, 0.4, 0.5, 0.4, 0.1, 0.2, 0.3, 0.2, 0.1]
-	phrases = [("petri nets", "yes"), ("reachability analysis", "yes"), ("ada tasking", "yes"), ("deadlock analysis", "yes"), ("net reduction", "yes"), ("concurrent software", "yes"),
-					("as part", "no"), ("major difficulty", "no"), ("with regards", "no"), ("analysis problems", "no"), ("previously defined", "no")]
-	c = FeatureCalculator("corpus/dummy/245603.txt", phrases, tfidf_list)
-	train_featureset = []
-	train_data = parse_train_data("train")
-	for s in c.get_phrases():
-		train_featureset.append((c.get_features(s[0]), s[1]))
+	train_data = parse_train_data("train.info")
+	test_data = parse_test_data("test.info")
+	train_featureset = calc_train_features(train_data)
+	test_featureset = calc_train_features(test_data)
+	#size = int(len(train_featureset) * 0.1)
+	#train_set, test_set = train_featureset[size:], train_featureset[:size]
 
-	#featureset = []
-	#featureset += apply_features(c.ft_keyphrase_len, c.get_phrases())
-	#featureset += apply_features(c.ft_keyphrase_len, c.get_phrases())
-	print(train_featureset)
 	classifier = nltk.NaiveBayesClassifier.train(train_featureset)
-	print (classifier.classify(c.ft_keyphrase_len("are not")))
+	#print nltk.classify.accuracy(classifier, test_featureset)
+	for s in test_featureset:
+		print (classifier.classify(s))
 
 if __name__ == "__main__":
 	main()
