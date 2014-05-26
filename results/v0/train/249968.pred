@@ -1,0 +1,10 @@
+priority set
+u mg
+event priority
+k u
+supervisory control
+k u mg
+a b q
+p a b
+priority set of
+event priority set

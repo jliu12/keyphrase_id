@@ -1,0 +1,10 @@
+n i01
+s tight
+s n
+jnb s
+tight cut
+r s n
+jnb s n
+s tight cut
+tight cut t
+a network c

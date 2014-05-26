@@ -1,0 +1,10 @@
+edf f
+edf t
+fault pattern
+in edf
+task set
+edf f t
+in edf f
+fault pattern f
+for the feasibility
+lowest priority task

@@ -27,14 +27,18 @@ printPath = ""
 corpusPathRoot = ""
 docs_to_bigram_predictions = dict()
 docs_to_trigram_predictions = dict()
-trigrams = []
-bigrams = []
+#trigrams = []
+#bigrams = []
 doc_count = 0
 n_terms_to_predict = 5
 words = []
-bigram_counter = collections.Counter()
-trigram_counter = collections.Counter()
+#bigram_counter = collections.Counter()
+#trigram_counter = collections.Counter()
 
+bigram_counter = dict()
+trigram_counter = dict()
+bigrams_by_doc = dict()
+trigrams_by_doc = dict()
 
 def ngramCounts(words, n):
 	tlst = words
@@ -54,20 +58,49 @@ def getCorpusDocCountsForNGrams():
 	global corpusPath
 	global doc_count
 	global words
-	global bigrams
-	global trigrams
+	#global bigrams
+	#global trigrams
+	global bigrams_by_doc
+	global trigrams_by_doc
 
+	count = 1
+	bigram_set = set()
+	trigram_set = set()
 	for filename in glob.glob(corpusPath):
+		#print "ngramming: " + filename + " -- " + str(count)
 		words = (re.findall('\w+', open(filename).read().lower()))
+		bigram_set.clear()
+		trigram_set.clear()
 
-		bigrams = ngramCounts(words, 2)
-		trigrams = ngramCounts(words, 3)
+		bigrams = find_ngrams(words, 2)
+		trigrams = find_ngrams(words, 3)
 		
-		bigram_counter += collections.Counter(set((bigrams)))
-		trigram_counter += collections.Counter(set((trigrams)))
+		bigrams_by_doc[filename] = bigrams
+		trigrams_by_doc[filename] = trigrams
+
+		for bigram in bigrams:
+			if bigram not in bigram_set:
+				bigram_set.add(bigram)
+
+				if bigram not in bigram_counter:
+					bigram_counter[bigram] = 0
+
+				bigram_counter[bigram] += 1
+
+		for trigram in trigrams:
+			if trigram not in trigram_set:
+				trigram_set.add(trigram)
+				if trigram not in trigram_counter:
+					trigram_counter[trigram] = 0
+				trigram_counter[trigram] += 1
+
 		doc_count += 1
+		count += 1
 
 	print "Finished corpus counts"
+
+def find_ngrams(input_list, n):
+  return zip(*[input_list[i:] for i in range(n)])
 
 	
 '''Then processDocs goes through each txt file in the corpusPath again to find the n top-scoring
@@ -76,7 +109,6 @@ def processDocs():
 	global docs_to_predictions
 
 	for filename in glob.glob(corpusPath):
-		print "process " + filename
 		doc_id = (filename[0:-4]) #drops ".txt" TODO: drop directory prefix. or not. This is for scoring purposes. 
 		bigram_tf_idf_scores, trigram_tf_idf_scores = calculate_tf_idf(filename)
 
@@ -94,10 +126,13 @@ word_count is the num occurances of the word in this doc, N is the total num doc
 in which this word occurs at least once. '''
 def calculate_tf_idf(filename):
 
-	global bigrams
-	global trigrams
-	word_counts_bi = collections.Counter(bigrams)
-	word_counts_tri = collections.Counter(trigrams)
+	global bigrams_by_doc
+	global trigrams_by_doc
+	global bigram_counter
+	global trigram_counter
+
+	word_counts_bi = collections.Counter(bigrams_by_doc[filename])
+	word_counts_tri = collections.Counter(trigrams_by_doc[filename])
 
 	total_bigrams_in_doc = sum(word_counts_bi.values(), 0.0) #does not include ignored words
 	total_trigrams_in_doc = sum(word_counts_tri.values(), 0.0)
@@ -132,7 +167,6 @@ def get_n_top_terms(tf_idf_scores, n):
 
 '''not currently used, just an experiment'''
 def writeCountersToFile(file_id, doc_id):
-	print "Starting write to file"
 	path = printPath + file_id + ".pred"
 	ensure_path(printPath)
 	fh = open(path, "w")
@@ -145,7 +179,9 @@ def writeCountersToFile(file_id, doc_id):
 		bigram_string = word_tuple[0] + " " + word_tuple[1]
 		fh.write(bigram_string + "\n")
 
-		trigram = trigram[x]
+
+	for x in range (0, 5):
+		trigram = trigrams[x]
 		word_tuple = trigram[0]
 		trigram_string = word_tuple[0] + " " + word_tuple[1] + " " + word_tuple[2]
 		fh.write(trigram_string + "\n")

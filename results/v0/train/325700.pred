@@ -1,0 +1,10 @@
+predicate abstraction
+n bub
+program point
+pc1 pc2
+constraint transition
+j t n
+i j t
+t n bub
+pc1 pc2 x1
+pc2 x1 x2
