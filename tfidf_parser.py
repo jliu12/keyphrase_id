@@ -8,7 +8,7 @@ import collections
 import json
 import math
 
-from feature_calc import FeatureCalculator
+#from feature_calc import FeatureCalculator
 
 '''
 So far, this file handles all txt documents in the corpusPath. now tfidf_parser reports the n top scoring terms for each doc 
@@ -18,7 +18,7 @@ May need optimization to work on full corpus. Needs evaluation pipeline.
 '''
 ###
 
-corpusPath = "corpus/krapavin2000/*.txt"
+corpusPath = "corpus/krapavin2000-train/*.txt"
 term_counter = collections.Counter()
 docs_to_predictions = dict()
 doc_count = 0
@@ -39,7 +39,7 @@ terms for that document. It stores a list of {doc_id: [{term1: score1}, {t2: s2}
 def processDocs():
 	global docs_to_predictions
 	for filename in glob.glob(corpusPath):
-		doc_id = (filename[0:-4]) #drops ".txt" TODO: drop directory prefix. or not. This is for scoring purposes. 
+		doc_id = (filename[len("corpus/krapavin2000-train/"):-4]) #drops ".txt" TODO: drop directory prefix. or not. This is for scoring purposes. 
 		tf_idf_scores = calculate_tf_idf(filename)
 		top_terms = get_n_top_terms(filename, tf_idf_scores, n_terms_to_predict)
 		docs_to_predictions[doc_id] = top_terms
@@ -101,14 +101,28 @@ def getWordCountForTxtFile(filename):
 	ignore = ['the','a','if','in','it','of','or','on','and','to'] #'is', 'for', 'that']
 	counter = collections.Counter(x for x in words if x not in ignore)
 	return counter
-  
+
+def writeUnigramPredictions():
+	printPath = "results/vUnigram/train/"
+	for docId, score_tuples in docs_to_predictions.iteritems():
+		pathName = printPath + str(docId) + ".pred"
+		#ensure_path(pathName)
+		with open(pathName, 'w') as f:
+			for t in score_tuples:
+				f.write(t[0] + "\n")
+				
+def ensure_path(path):
+    try:
+        os.makedirs(path)
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise	
+	
 def main():
 	#path = input("Enter file and path, place ' before and after the path: ")
 	getCorpusDocCountsForEachWord()
 	processDocs()
-	fh = open("krapavin_tfidf.txt", "w")
-	fh.write(str(docs_to_predictions))
-	fh.close()
+	writeUnigramPredictions()
 
 if __name__ == "__main__":
 	main()

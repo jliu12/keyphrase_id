@@ -54,7 +54,9 @@ def computeScoresForSingleDoc(predPhrases, goldPhrases):
 	FN = float(len(goldPhrases.difference(predPhrases)))
 	prec = TP / (TP + FP);
 	rec = TP/(TP + FN);
-	f1 = 2.0 * prec * rec/ (prec + rec)
+	f1 = 0.0
+	if (prec + rec > 0):
+		f1 = 2.0 * prec * rec/ (prec + rec)
 	pScoresTotal += prec;
 	rScoresTotal += rec;
 	fScoresTotal += f1
@@ -78,7 +80,8 @@ def reportOverallStats(statsFileName):
 	resultString += ("Average Precision " + str(overallP))
 	resultString += ("\nAverage Recall " + str(overallR))
 	resultString += ("\nAverage F1: " + str(overallF))
-	resultString += ("\nF1 of Avg P and R: " + str(2.0 * overallP * overallR / (overallP + overallR)))
+	if(overallP + overallR > 0):
+		resultString += ("\nF1 of Avg P and R: " + str(2.0 * overallP * overallR / (overallP + overallR)))
 	print(resultString)
 	with open(statsFileName + ".txt", 'w') as f:
 		f.write(resultString)

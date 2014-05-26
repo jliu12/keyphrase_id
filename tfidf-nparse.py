@@ -25,12 +25,14 @@ May need optimization to work on full corpus. Needs evaluation pipeline.
 corpusPath = ""
 printPath = ""
 corpusPathRoot = ""
-docs_to_bigram_predictions = dict()
-docs_to_trigram_predictions = dict()
+docs_to_unigram_predictions = dict()
+#docs_to_bigram_predictions = dict()
+#docs_to_trigram_predictions = dict()
 doc_count = 0
 n_terms_to_predict = 5
-bigram_counter = collections.Counter()
-trigram_counter = collections.Counter()
+unigram_counter = collections.Counter()
+#bigram_counter = collections.Counter()
+#trigram_counter = collections.Counter()
 
 
 def ngramCounts(words, n):
@@ -46,14 +48,16 @@ def ngramCounts(words, n):
 			break
 
 def getCorpusDocCountsForNGrams():
+	global unigram_counter
 	global bigram_counter
 	global trigram_counter
 	global corpusPath
 	global doc_count
 
 	for filename in glob.glob(corpusPath):
-		bigram_counter += getWordsInTxtFile(filename, 2)
-		trigram_counter += getWordsInTxtFile(filename, 3)
+		unigram_counter += getWordsInTxtFile(filename, 1)
+	#	bigram_counter += getWordsInTxtFile(filename, 2)
+	#	trigram_counter += getWordsInTxtFile(filename, 3)
 		doc_count += 1
 
 	
@@ -63,7 +67,8 @@ def processDocs():
 	global docs_to_predictions
 	for filename in glob.glob(corpusPath):
 		doc_id = (filename[0:-4]) #drops ".txt" TODO: drop directory prefix. or not. This is for scoring purposes. 
-		bigram_tf_idf_scores, trigram_tf_idf_scores = calculate_tf_idf(filename)
+		unigram_tf_idf_scores = calculate(tf_idf);
+		#bigram_tf_idf_scores, trigram_tf_idf_scores = calculate_tf_idf(filename)
 
 		top_bigram_terms = get_n_top_terms(bigram_tf_idf_scores, n_terms_to_predict)
 		top_trigram_terms = get_n_top_terms(trigram_tf_idf_scores, n_terms_to_predict)
