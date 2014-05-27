@@ -1,0 +1,10 @@
+region s
+s interior
+line s
+s boundary
+the region
+the region s
+the line s
+region s boundary
+line s interior
+line s boundary

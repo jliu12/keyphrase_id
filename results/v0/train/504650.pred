@@ -1,0 +1,10 @@
+send on
+rate jitter
+delay jitter
+line algorithm
+jitter control
+send on k
+off line algorithm
+line algorithm using
+on k m
+an off line

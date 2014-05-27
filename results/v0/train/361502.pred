@@ -1,0 +1,10 @@
+input assignment
+a cfsm
+then emit
+gate cfsm
+emit caux
+then emit caux
+b then emit
+false end if
+emit caux false
+caux false end

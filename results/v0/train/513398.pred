@@ -1,0 +1,10 @@
+sl n
+theta theta
+column strict
+q b
+strict tableau
+theta theta theta
+column strict tableau
+sl n crystal
+b sl n
+sl n crystals

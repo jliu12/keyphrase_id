@@ -1,0 +1,10 @@
+bin bus
+bus n
+formal synthesis
+g ci
+isabelle s
+bin bus n
+b s p
+s p g
+p g ci
+a b s

@@ -1,0 +1,10 @@
+service entry
+generation i
+time warp
+entry event
+e mn
+service entry event
+bounded time warp
+t t a
+e mn a
+comparison with yawns

@@ -1,0 +1,10 @@
+zpp np
+consistent s
+half collision
+p poly
+h kmax
+r t h
+a half collision
+w r t
+collision w r
+has a half

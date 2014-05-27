@@ -1,0 +1,10 @@
+i sn
+sn en
+recovery line
+sn i
+sn 0
+c i sn
+i sn en
+next c i
+the recovery line
+a basic checkpoint
