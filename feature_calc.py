@@ -1,4 +1,5 @@
 import nltk
+import scipy
 from nltk.classify import apply_features
 from nltk.corpus import stopwords
 
@@ -157,6 +158,27 @@ def calc_train_features(train_data):
 			train_featureset.append((c.get_features(s[0]), s[1]))
 	return train_featureset
 
+def run_classifier(classifier, featureset):
+	file = open("naive_bayes_results.txt", "w")
+	cur_filename = ""
+	for s in featureset:
+		feat = s[2]
+		result = classifier.classify(feat[0])
+		if (result == "yes"):
+			#print formatted result
+			if cur_filename == "":
+				cur_filename = s[0]
+				file.write(cur_filename + "\n")
+				#print cur_filename
+			elif cur_filename != s[0]:
+				cur_filename = s[0]
+				file.write("\n")
+				#print '\n'
+				#print cur_filename
+				file.write(cur_filename + "\n")
+			file.write(s[1] + "\n")
+	file.close()
+
 def calc_test_features(test_data):
 	test_featureset = []
 	tfidf_list = [0.9, 0.8, 0.6, 0.4, 0.5, 0.4, 0.1, 0.2, 0.3, 0.2, 0.1]
@@ -169,7 +191,6 @@ def calc_test_features(test_data):
 			test_featureset.append((fname, s[0], (c.get_features(s[0]), s[1])))
 	return test_featureset
 
-
 def main():
 	init_global_vars()
 	train_data = parse_train_data("train.info")
@@ -177,13 +198,13 @@ def main():
 	train_featureset = calc_train_features(train_data)
 	test_featureset = calc_test_features(test_data)
 
-	#size = int(len(train_featureset) * 0.1)
 	#train_set, test_set = train_featureset[size:], train_featureset[:size]
 
 	classifier = nltk.NaiveBayesClassifier.train(train_featureset)
 	#print nltk.classify.accuracy(classifier, test_featureset)
-	#for s in test_featureset:
-	#	print (classifier.classify(s))
+
+	run_classifier(classifier, test_featureset)
+
 
 if __name__ == "__main__":
 	main()
