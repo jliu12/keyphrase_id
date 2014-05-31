@@ -75,11 +75,11 @@ class FeatureCalculator:
 		keyphrase_len = self.ft_keyphrase_len(candidate)
 		feature_dict = keyphrase_len
 
-		first_occurrence = self.ft_first_occurrence_position(candidate)
-		feature_dict.update(first_occurrence)
+		#first_occurrence = self.ft_first_occurrence_position(candidate)
+		#feature_dict.update(first_occurrence)
 
-		last_occurrence = self.ft_last_occurrence_position(candidate)
-		feature_dict.update(last_occurrence)
+		#last_occurrence = self.ft_last_occurrence_position(candidate)
+		#feature_dict.update(last_occurrence)
 
 		#tfidf = self.ft_tfidf(candidate)
 		#feature_dict.update(tfidf)
@@ -159,7 +159,7 @@ def calc_train_features(train_data):
 	return train_featureset
 
 def run_classifier(classifier, featureset):
-	file = open("train_naive_bayes_results.txt", "w")
+	file = open("naive_bayes_results.txt", "w")
 	cur_filename = ""
 	for s in featureset:
 		feat = s[2]
@@ -194,7 +194,7 @@ def calc_test_features(test_data):
 def main():
 	init_global_vars()
 	train_data = parse_train_data("train.info")
-	test_data = parse_test_data("trainCandidatesV1.txt")
+	test_data = parse_test_data("testCandidatesV1.txt")
 	train_featureset = calc_train_features(train_data)
 	test_featureset = calc_test_features(test_data)
 
