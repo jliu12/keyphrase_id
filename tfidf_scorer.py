@@ -12,7 +12,7 @@ import math
 corpusName = "corpus/dummy"
 versionName = "2";
 dataSet = "train"
-predSuffix = ".cand"
+predSuffix = ".pred"
 
 pScoresTotal = 0
 rScoresTotal = 0

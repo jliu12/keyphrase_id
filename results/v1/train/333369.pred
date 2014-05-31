@@ -1,0 +1,9 @@
+formal synthesis
+design goal
+design theorem
+eqout lsout
+grout eqout
+grout eqout lsout
+grin eqin lsin
+lsin grout eqout
+eqin lsin grout

@@ -1,0 +1,36 @@
+stall time
+csms algorithm
+prefetch instructions
+compute time
+early scheduling
+memory instructions
+spill code
+hit latency
+inserting prefetch
+memory operations
+aggressive architecture
+miss latency
+execution time
+ipa ipt ipl
+esa esl csms
+cache hit latency
+chl esa esl
+chl ipa esa
+cache miss latency
+inserting prefetch instructions
+esl csms chl
+ipt ipl csms
+ipa esa opt
+esa opt chl
+ipl csms ipa
+opt chl ipa
+csms ipa ipt
+csms chl esa
+using the cache
+dcompute stall dcompute
+stall dcompute stall
+su2cor hydro2d mgrid
+tomcatv swim su2cor
+swim su2cor hydro2d
+stall time is
+time tomcatv swim

@@ -16,8 +16,8 @@ def processArgs():
 	myArgs = sys.argv;
 	if(len(myArgs) > 2):
 		targetPath = myArgs[1]
-		targetSuffix = myArgs[2]
-		sourcePath = myArgs[3]
+		#targetSuffix = myArgs[2]
+		sourcePath = myArgs[2]
 	print("sourcePath: " + sourcePath)
 	print("targetPath: " + targetPath + " * "  + targetSuffix)
 	

@@ -1,0 +1,29 @@
+preconditioning
+level gmres
+aaa aaa
+ex core
+cross flow
+channel 12
+nested gmres
+inner level
+retran 03
+direct solver
+outer level
+core problem
+semi iterative
+gmres algorithm
+krylov methods
+outer iteration
+nested fgmres
+direct solution
+aaa aaa aaa
+channel 12 axial
+9 channel 12
+inner level gmres
+second level gmres
+serial performance of
+12 axial case
+applications were performed
+outer level gmres
+number of outer
+core and the

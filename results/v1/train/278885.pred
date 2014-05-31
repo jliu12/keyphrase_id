@@ -1,0 +1,27 @@
+connector
+connectors
+transient
+local attributes
+mobile unity
+program cart
+external attributes
+luiz fiadeiro
+interaction condition
+michel wermelinger
+transient interactions
+program cart is
+jos luiz fiadeiro
+dest 1 fast
+2 load dest
+fast 6 dest
+int read id
+slow 6 dest
+read id nbag
+id nbag int
+action g 0
+action g of
+local attributes of
+dest 2 load
+nbag int do
+dest bag 0
+load dest bag
