@@ -1686,6 +1686,7 @@ han and qun
 corpus/krapavin2000-test/1014985.txt
 level mapping
 integer argument
+guard tuned
 numerical computations
 level mappings
 argument positions
@@ -3345,17 +3346,25 @@ gossip automaton
 primary information
 secondary p
 asynchronous automata
+time stamps
 tertiary information
 time stamp
 event latest
 latest information
 asynchronous automaton
+latest p q
+latest q r
+secondary p i
 secondary information of
+latest p r
+primary p i
 event latest p
 primary and secondary
+tertiary p i
 processes in p
 tertiary information of
 asynchronous cellular automata
+prim p sec
 secondary and tertiary
 
 corpus/krapavin2000-test/1035804.txt
@@ -4056,6 +4065,8 @@ action graph
 action graphs
 voltage space
 automorphism of
+action automorphism
+action automorphisms
 cayley graph
 covering projections
 regular covering
@@ -4066,6 +4077,7 @@ automorphism of act
 homomorphism of oriented
 action graph act
 action automorphism of
+cayley multi set
 
 corpus/krapavin2000-test/606529.txt
 letter graphs
@@ -5520,7 +5532,6 @@ training examples
 muslea steven
 minton craig
 information extraction
-induction for
 iteration rules
 list extraction
 craig a knoblock
@@ -7829,7 +7840,6 @@ uniprocessor with cache
 
 corpus/krapavin2000-test/626977.txt
 reconfiguration
-likelihoods
 tmr failure
 tmr system
 permanent faults
@@ -8027,7 +8037,6 @@ calculate p c
 corpus/krapavin2000-test/627095.txt
 non factor
 zero aliasing
-o jhj
 primitive polynomials
 irreducible primitive
 feedback polynomial
@@ -8042,20 +8051,14 @@ primitive polynomial
 irreducible factors
 non factor of
 polynomials of degree
-g i j
 primitive polynomials of
 polynomials g i
 degree non factor
 least degree non
-2 08 log
-2 m n
 degree less than
 product of all
-o jhj log
-m d a
 finding a non
 08 log log
-o jhj 2
 primitive non factor
 non factor with
 
@@ -8087,6 +8090,7 @@ bounds on the
 
 corpus/krapavin2000-test/627126.txt
 interconnection
+edge disjoint
 node broadcasting
 single node
 disjoint spanning
@@ -10592,17 +10596,14 @@ stratied gps
 complete computation
 stratied production
 production rule
-cl cond
 production rules
 argumentation systems
 achievable from
 negation as failure
 course of actions
-cl cond r
 stratied production systems
 production systems with
 nd a course
-l 0 r
 con ict free
 computation c 0
 failure to nd
@@ -11965,6 +11966,7 @@ convex hull of
 
 corpus/krapavin2000-test/629409.txt
 consistently ordered
+crown free
 partial order
 communication structure
 partial orders
@@ -11979,6 +11981,7 @@ least upper
 event ordering
 split graph
 globally consistent
+global p j
 consistently ordered property
 least upper bound
 crown free property
@@ -13258,6 +13261,7 @@ corpus/krapavin2000-test/633623.txt
 parking schemes
 additive coalescent
 almost surely
+size biased
 brownian excursion
 parking scheme
 biased permutation
@@ -13266,13 +13270,19 @@ uniform convergence
 block containing
 brownian bridge
 linear probing
+size biased permutation
+theorem 4 1
 proof of theorem
 widths of excursions
 standard additive coalescent
 block containing car
 containing car c
+theorem 1 3
 uniform convergence of
+theorem 1 2
 sizes of blocks
+theorem 1 4
+lemma 5 12
 
 corpus/krapavin2000-test/633709.txt
 0000000000000000000
@@ -13335,20 +13345,16 @@ polynomial solution
 exists exit
 nonlinear system
 differential equation
-return no
 linear transformation
 solution exists
-c d
 standardization given
 orthogonal polynomial solutions
 classical orthogonal polynomial
 classical discrete orthogonal
 classical q orthogonal
 polynomial solutions of
-p n x
 three term recurrence
 term recurrence equation
-b c d
 n is larger
 holonomic three term
 orthogonal polynomials are
@@ -13357,12 +13363,9 @@ recurrence equation 1
 orthogonal polynomial solution
 polynomial solution exists
 denominator of e
-n x is
-e c n
 unknowns a b
 q orthogonal polynomials
 q difference equation
-c d and
 q orthogonal polynomial
 
 corpus/krapavin2000-test/634745.txt
