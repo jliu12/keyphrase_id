@@ -159,19 +159,25 @@ def calc_train_features(train_data):
 	return train_featureset
 
 def run_classifier(classifier, featureset):
+	file = open("naive_bayes_results.txt", "w")
 	cur_filename = ""
 	for s in featureset:
-		result = classifier.classify(s[0])
+		feat = s[2]
+		result = classifier.classify(feat[0])
 		if (result == "yes"):
 			#print formatted result
 			if cur_filename == "":
-				cur_filename = "the right filename"
-				print cur_filename
-			elif cur_filename != "the right filename"
-				cur_filename = "the right filename"
-				print "new line"
-				print cur_filename
-			print "the word"
+				cur_filename = s[0]
+				file.write(cur_filename + "\n")
+				#print cur_filename
+			elif cur_filename != s[0]:
+				cur_filename = s[0]
+				file.write("\n")
+				#print '\n'
+				#print cur_filename
+				file.write(cur_filename + "\n")
+			file.write(s[1] + "\n")
+	file.close()
 
 def calc_test_features(test_data):
 	test_featureset = []
