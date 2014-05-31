@@ -10,8 +10,9 @@ import math
 
 #defaults
 corpusName = "corpus/dummy"
-versionName = "0";
+versionName = "2";
 dataSet = "train"
+predSuffix = ".cand"
 
 pScoresTotal = 0
 rScoresTotal = 0
@@ -19,23 +20,25 @@ fScoresTotal = 0
 numDocs = 0
 
 def processArgs():
-	global corpusName, versionName, dataSet
+	global corpusName, versionName, dataSet, predSuffix
 	myArgs = sys.argv;
 	if len(myArgs) > 3:
 		corpusName = myArgs[1]
 		versionName = myArgs[2];
 		dataSet = myArgs[3];
+		#predSuffix = myArgs[4]
 	else:
 		print("======================================")
-		print("USAGE: python tfidf_scorer [corpusName] [predictorVersionName] [train|dev|test] \n Continuing using defaults:")
+		print("USAGE: python tfidf_scorer [corpusName] [predictorVersionName] [train|dev|test] [predSuffix] \n Continuing using defaults:")
 	print("======================================")
 	print("corpusName: " + corpusName + "\nversionName: " + versionName + "\ndataSet: " + dataSet)
 	print("======================================")
 
 def processPredictions():
-	predPath = "results/" + versionName + "/" + dataSet + "/*.pred";
-	suffixLength = len(".pred")
-	prefixLength = len(predPath) - len("*.pred");
+	predPath = "results/" + versionName + "/" + dataSet + "/*" + predSuffix;
+	print("predPath: "  + predPath)
+	suffixLength = len(predSuffix)
+	prefixLength = len(predPath) - len("*" + predSuffix);
 	predGlob = glob.glob(predPath);
 	for predFilename in predGlob:
 		docId = predFilename[prefixLength: -suffixLength]

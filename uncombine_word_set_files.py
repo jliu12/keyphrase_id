@@ -35,6 +35,7 @@ def main():
 				new_filename = line.strip()
 				docId = new_filename[len(corpusPrefix): -len(corpusSuffix)]
 			elif len(line) == 1:
+				
 				#write to file:
 				new_path = targetPath + docId + targetSuffix
 				with open(new_path, 'w') as nf:
@@ -47,6 +48,12 @@ def main():
 			else:
 				new_list.append(line.strip())
 
-  
+		if not new_file:
+			#write to file:
+			new_path = targetPath + docId + targetSuffix
+			with open(new_path, 'w') as nf:
+				for phrase in new_list:
+					nf.write(phrase + "\n")
+					
 if __name__ == '__main__':
   main()

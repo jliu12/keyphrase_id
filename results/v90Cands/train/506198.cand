@@ -1,0 +1,90 @@
+svc
+cache
+speculative
+versioning
+vcl
+arb
+bus
+squashes
+commits
+caches
+stale
+committed
+l1
+vol
+ec
+ecs
+snapshot
+request
+snooping
+buswrite
+dirty
+load
+squashed
+hit
+task
+stores
+store
+multiscalar
+invalidated
+smp
+speculative versioning
+the svc
+task commits
+bus request
+the vcl
+ec design
+the vol
+the arb
+program order
+t bit
+svc design
+store to
+ecs design
+base design
+a store
+a task
+a bus
+l1 cache
+hit latency
+snooping bus
+task squashes
+cache z
+hierarchical execution
+the ec
+cache line
+ld r
+versioning cache
+speculative versions
+l1 caches
+the ecs
+a bus request
+the ec design
+next level memory
+the base design
+the t bit
+speculative versioning cache
+ld r a
+for speculative versioning
+the ecs design
+a store to
+store to a
+snapshot is taken
+hierarchical execution model
+the l1 caches
+each cache line
+loads and stores
+bit is set
+the next level
+order among the
+base svc design
+the c bit
+snooping bus based
+program order among
+speculative versioning for
+the second snapshot
+the first snapshot
+commits and squashes
+task commits and
+the speculative versioning
+ambiguous memory dependences

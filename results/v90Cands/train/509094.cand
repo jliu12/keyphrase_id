@@ -1,0 +1,90 @@
+dgefmm
+modgemm
+strassen
+morton
+tile
+padding
+dgemmw
+recursion
+quadrants
+cache
+winograd
+truncation
+submatrices
+matrices
+multiplication
+ultra
+matrix
+size0
+peeling
+40normalized
+tiles
+conversion
+miata
+contiguous
+padded
+alpha
+801
+layout
+chatterjee
+misses
+strassen s
+of strassen
+truncation point
+matrix multiplication
+recursion truncation
+morton order
+tile size
+the recursion
+matrix sizes
+dynamic peeling
+matrix size
+column major
+dgefmm for
+morton ordering
+static padding
+the ultra
+for matrix
+dynamic overlap
+s algorithm
+matrix size0
+than dgefmm
+strassen winograd
+size0 801
+40normalized execution
+201 40normalized
+contiguous submatrices
+001 201
+801 001
+non contiguous
+our implementation
+strassen s algorithm
+of strassen s
+recursion truncation point
+the recursion truncation
+on the ultra
+001 201 40normalized
+size0 801 001
+40normalized execution time
+201 40normalized execution
+matrix size0 801
+801 001 201
+is generally faster
+than dgefmm for
+our implementation modgemm
+from morton order
+execution time modgemm
+to morton order
+faster than dgefmm
+for matrix multiplication
+strassen s matrix
+on the alpha
+of our implementation
+for matrix sizes
+algorithm for matrix
+matrix multiplication algorithm
+the padded matrix
+padded matrix size
+implementations of strassen
+contiguous sub matrices
+to minimize padding
