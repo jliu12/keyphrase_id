@@ -1,4 +1,5 @@
 import nltk
+import scipy
 from nltk.classify import apply_features
 from nltk.corpus import stopwords
 
@@ -157,19 +158,34 @@ def calc_train_features(train_data):
 			train_featureset.append((c.get_features(s[0]), s[1]))
 	return train_featureset
 
+def run_classifier(classifier, featureset):
+	cur_filename = ""
+	for s in featureset:
+		result = classifier.classify(s[0])
+		if (result == "yes"):
+			#print formatted result
+			if cur_filename == "":
+				cur_filename = "the right filename"
+				print cur_filename
+			elif cur_filename != "the right filename"
+				cur_filename = "the right filename"
+				print "new line"
+				print cur_filename
+			print "the word"
 def main():
 	init_global_vars()
 	train_data = parse_train_data("train.info")
-	test_data = parse_test_data("test.info")
+	test_data = parse_test_data("testCandidatesV1.txt")
 	train_featureset = calc_train_features(train_data)
 	test_featureset = calc_train_features(test_data)
-	#size = int(len(train_featureset) * 0.1)
+	#print(test_featureset)
+	size = int(len(train_featureset) * 0.1)
 	#train_set, test_set = train_featureset[size:], train_featureset[:size]
 
 	classifier = nltk.NaiveBayesClassifier.train(train_featureset)
 	#print nltk.classify.accuracy(classifier, test_featureset)
-	for s in test_featureset:
-		print (classifier.classify(s))
+	run_classifier(classifier, test_featureset)
+
 
 if __name__ == "__main__":
 	main()
