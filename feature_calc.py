@@ -157,19 +157,33 @@ def calc_train_features(train_data):
 			train_featureset.append((c.get_features(s[0]), s[1]))
 	return train_featureset
 
+def calc_test_features(test_data):
+	test_featureset = []
+	tfidf_list = [0.9, 0.8, 0.6, 0.4, 0.5, 0.4, 0.1, 0.2, 0.3, 0.2, 0.1]
+	keylist = test_data.keys()
+	keylist = sorted(keylist)
+	for fname in keylist:
+		phrases = test_data[fname]
+		c = FeatureCalculator(fname, phrases, tfidf_list)
+		for s in c.get_phrases():
+			test_featureset.append((fname, s[0], (c.get_features(s[0]), s[1])))
+	return test_featureset
+
+
 def main():
 	init_global_vars()
 	train_data = parse_train_data("train.info")
-	test_data = parse_test_data("test.info")
+	test_data = parse_test_data("testCandidatesV1.txt")
 	train_featureset = calc_train_features(train_data)
-	test_featureset = calc_train_features(test_data)
+	test_featureset = calc_test_features(test_data)
+
 	#size = int(len(train_featureset) * 0.1)
 	#train_set, test_set = train_featureset[size:], train_featureset[:size]
 
 	classifier = nltk.NaiveBayesClassifier.train(train_featureset)
 	#print nltk.classify.accuracy(classifier, test_featureset)
-	for s in test_featureset:
-		print (classifier.classify(s))
+	#for s in test_featureset:
+	#	print (classifier.classify(s))
 
 if __name__ == "__main__":
 	main()
