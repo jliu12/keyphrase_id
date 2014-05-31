@@ -1,0 +1,270 @@
+dga
+dba
+sag
+sab
+dgr
+dbr
+srb
+srg
+0dba
+greenres
+grl
+abnn
+emptyr
+loc
+fin_reg
+reservoir
+dg
+blueres
+grnl
+brl
+rbab
+leaking
+abnl
+agll
+hytech
+abln
+rgab
+agnl
+valvea
+rgag
+aileron
+agln
+agnn
+abll
+rudder
+rbag
+servodyne
+emptyg
+endreach
+0dbr
+init_reg
+endhide
+non_parameters
+brnl
+automata
+servodynes
+diagnosis
+rbln
+rnl
+nomoreleaks
+pilot
+red
+rgln
+rgll
+rbll
+rgnl
+green
+blue
+leak
+rbnn
+sagsagsagsagsag
+rgnn
+0dg
+rbnl
+start_leak
+sabsabsabsabsab
+db
+prints
+reached
+hydraulics
+analog
+print
+br
+automaton
+valves
+reservoirs
+gr
+ba
+fluid
+ga
+asap
+rl
+reachable
+dgadg
+config
+res
+reachability
+leaks
+valve
+srgsrgsrgsrgsrg
+dga 0
+0 dba
+0 dga
+sag sag
+sab sab
+dba 0
+0 dgr
+start true
+true start
+0 dbr
+dgr 0
+srb srb
+srg srg
+dg 0
+1 dga
+dbr 0
+dga 0dba
+dba 1
+0 dg
+1 dgr
+reached fin_reg
+0dba 0
+emptyr emptyr
+dgr dga
+dbr 1
+dga dg
+db 0
+loc valvea
+abnl abnl
+rgab rgab
+grnl grnl
+rbab rbab
+grl grl
+agln agln
+reach forward
+loc greenres
+greenres greenres
+abln abln
+rgag rgag
+agnl agnl
+abnn abnn
+dgr 0dbr
+rbag rbag
+agll agll
+agnn agnn
+loc blueres
+from init_reg
+greenres grl
+reached reach
+red 0
+init_reg endreach
+emptyg emptyg
+abll abll
+blueres brl
+the diagnosis
+the pilot
+start red
+g gr
+ba analog
+empty reached
+gr ga
+grl loc
+b br
+br ba
+locations hide
+print omit
+non_parameters in
+fin_reg endhide
+abnn loc
+prints situation
+valvea abnn
+fin_reg then
+in reached
+hide non_parameters
+the reservoir
+reachable prints
+brl loc
+green reservoir
+endreach reached
+0dba 1
+analog var
+endhide print
+user user
+clock t
+start g
+ga b
+forward from
+if empty
+var g
+omit all
+dga 0 dba
+dba 0 dga
+0 dga 0
+sag sag sag
+start true start
+true start true
+0 dba 0
+sab sab sab
+dgr 0 dbr
+srg srg srg
+srb srb srb
+dbr 0 dgr
+0 dgr 0
+0 dbr 0
+1 dga 0
+dba 1 dga
+0 dba 1
+0 dg 0
+dg 0 dg
+0dba 0 dga
+0 dga 0dba
+dga 0dba 0
+dg 0 dgr
+dbr 1 dgr
+1 dgr 0
+emptyr emptyr emptyr
+0 dgr dga
+dgr dga dg
+0 dbr 1
+dga dg 0
+reach forward from
+from init_reg endreach
+loc blueres brl
+loc greenres grl
+forward from init_reg
+reached reach forward
+var g gr
+non_parameters in reached
+b br ba
+gr ga b
+prints situation is
+g gr ga
+loc valvea abnn
+reached fin_reg then
+print omit all
+ga b br
+br ba analog
+omit all locations
+start g 3
+greenres grl loc
+abnn loc greenres
+valvea abnn loc
+in reached fin_reg
+hide non_parameters in
+all locations hide
+reached fin_reg endhide
+locations hide non_parameters
+empty reached fin_reg
+if empty reached
+start red 0
+agln agln agln
+endhide print omit
+abln abln abln
+not reachable prints
+greenres greenres greenres
+0dba 1 dga
+agll agll agll
+agnl agnl agnl
+rgab rgab rgab
+clock t clock
+grl loc valvea
+3 start g
+rbag rbag rbag
+grl grl grl
+blueres brl loc
+fin_reg endhide print
+0 start red
+brl loc blueres
+dga 0dba 1
+1 dga 0dba
+rbab rbab rbab
+rgag rgag rgag
+reachable prints situation
+analog var g
+abnn abnn abnn
+red 0 start
+user user user
+g 3 start
+init_reg endreach reached
+grnl grnl grnl

@@ -1,0 +1,270 @@
+daspk
+initialization
+newton
+dae
+krylov
+jacobian
+preconditioner
+prey
+dassl
+gmres
+nonsingular
+linesearch
+qss
+convergence
+differential
+wrms
+iteration
+algebraic
+stepsize
+mxnit
+mxnj
+food
+predator
+2fifl
+nni0
+minfae
+norm
+supplied
+option
+deltax
+steady
+derivatives
+species
+calculation
+solver
+inexact
+guesses
+schnabel
+pred
+matrix
+reaction
+tests
+tolerances
+solvers
+quotients
+weights
+residual
+mxnh
+4fi
+nrmax
+nli0
+failed
+converges
+nonlinear
+iterations
+converged
+lipschitz
+retry
+index
+livermore
+tabulated
+descent
+dennis
+increment
+consistent
+integration
+diffusion
+guess
+ffi
+nominally
+corrections
+semi
+succeeds
+daes
+approximate
+correction
+preconditioned
+permutation
+posed
+ae
+deltay
+fails
+minnesota
+flag
+rank
+contract
+evidently
+sr
+user
+derivative
+initialization problem
+y 0
+the dae
+newton iteration
+the initialization
+initialization algorithm
+dae system
+problem 1
+modified newton
+index one
+differential algebraic
+problem 2
+initialization problems
+in daspk
+the newton
+krylov method
+consistent initial
+the krylov
+initial values
+dae systems
+c prey
+system jacobian
+of initialization
+f 0
+g t
+x h
+the jacobian
+newton krylov
+initial condition
+condition calculation
+wrms norm
+daspk the
+linesearch algorithm
+of y
+semi explicit
+explicit index
+the user
+the linesearch
+newton iterations
+the initial
+algebraic equations
+the iteration
+y vector
+newton case
+and daspk
+direct 11
+dassl or
+or preconditioner
+food web
+c calculation
+initial value
+the preconditioner
+stepsize h
+is nonsingular
+inexact newton
+dassl and
+differential variables
+h and
+time step
+for problem
+krylov methods
+for initialization
+initial conditions
+full newton
+by difference
+steady state
+initial guesses
+c pred
+a newton
+approximate jacobian
+u 0
+matrix p
+f x
+the consistent
+differential and
+algebraic systems
+1 2fifl
+prey the
+schnabel 11
+one systems
+2fifl g
+minfae 1
+initialization fails
+general index
+ffl minfae
+the predator
+the qss
+consistent initialization
+increment y
+or daspk
+initialization problem 1
+the dae system
+the initialization algorithm
+initialization problem 2
+of initialization problem
+and y 0
+j x h
+case of initialization
+modified newton iteration
+components of y
+y 0 and
+semi explicit index
+the linesearch algorithm
+initial condition calculation
+explicit index one
+differential algebraic equations
+y and y
+the krylov method
+the newton iteration
+x h and
+for initialization problem
+i c calculation
+dassl and daspk
+problem 1 and
+the differential variables
+of the dae
+in i c
+direction for f
+the modified newton
+the case of
+f 0 x
+convergence of the
+in the case
+of initial conditions
+y y 0
+descent direction for
+a descent direction
+for f at
+that g t
+newton iteration for
+of differential algebraic
+initialization problems of
+newton krylov iteration
+the consistent initialization
+1 2fifl g
+dae system itself
+ffl minfae 1
+form g t
+the system jacobian
+an error flag
+fails in i
+functions j x
+index one systems
+interval about c
+complete the integration
+increment y 0
+schnabel 11 p
+dassl or daspk
+valued functions j
+y 0 d
+or daspk the
+the wrms norm
+the krylov case
+by difference quotients
+minfae 1 2fifl
+about c prey
+and schnabel 11
+initial condition problems
+function f x
+for problem 1
+of y 0
+class of problems
+case of direct
+dennis and schnabel
+j or p
+size n d
+an interval about
+differential and algebraic
+if the initialization
+g t y
+the direct case
+consistent initial values
+h and any
+for the dae
+for x h
+matrix valued functions
+of newton iterations
+y 0 by
+the full newton
+given value of

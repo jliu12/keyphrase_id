@@ -1,0 +1,270 @@
+predictor
+ev8
+branch
+gskew
+lghist
+history
+prediction
+2bc
+fetch
+bim
+alpha
+hysteresis
+predictors
+wordline
+bank
+g0
+indexing
+bimodal
+g1
+kbits
+tables
+bits
+meta
+64k
+skewed
+branches
+pc
+blocks
+yags
+instruction
+cycle
+y5
+predictions
+banks
+aliasing
+y6
+unshuffle
+old
+xor
+i15
+phih4
+i14
+ghist
+inflight
+hashing
+hybrid
+succesive
+ported
+i11
+i13
+16k
+bit
+i4
+entries
+sigarch
+accuracy
+i12
+multithreading
+phi
+i3
+microarchitecture
+lengths
+a9
+block
+predic
+compressed
+caches
+bimode
+phih6
+phia6
+phia14
+phia5
+unshuffling
+512kbits
+indexed
+conditional
+interleaved
+i2
+pipeline
+ramirez
+352
+array
+benchmark
+outcome
+news
+memorization
+i5
+i10
+policy
+index
+branch predictor
+alpha ev8
+fetch blocks
+2bc gskew
+ev8 branch
+the alpha
+fetch block
+branch prediction
+history length
+global history
+three fetch
+blocks old
+the ev8
+branch history
+the predictor
+bank number
+predictor tables
+the branch
+path information
+branch predictors
+indexing functions
+the prediction
+information vector
+the hysteresis
+history lengths
+history branch
+gskew predictor
+prediction accuracy
+pc address
+number computation
+hysteresis tables
+g0 g1
+in lghist
+bimodal table
+prediction scheme
+the indexing
+local history
+the bank
+skewed branch
+implementation constraints
+update policy
+e gskew
+4 64k
+the wordline
+predictor 2bc
+hybrid skewed
+wordline number
+for g0
+old lghist
+g1 and
+the bimodal
+line predictor
+predictor table
+table sizes
+partial update
+prediction tables
+history bits
+prediction table
+instruction fetch
+different history
+two dynamically
+64k entries
+and g1
+predictor components
+ev8 predictor
+and meta
+vector used
+column selection
+g0 and
+index functions
+conditional branch
+correct prediction
+indexing the
+predictor is
+address history
+for indexing
+i3 i2
+352 kbits
+dynamically succesive
+the 2bc
+y6 y5
+bank interleaved
+i4 i3
+lghist history
+prediction array
+shared index
+entries 2bc
+conventional branch
+indexed using
+address bits
+the alpha ev8
+ev8 branch predictor
+the branch predictor
+alpha ev8 branch
+three fetch blocks
+fetch blocks old
+the indexing functions
+the ev8 branch
+global history branch
+bank number computation
+the information vector
+the bank number
+2bc gskew predictor
+skewed branch predictor
+of the branch
+g0 g1 and
+predictor 2bc gskew
+information vector used
+the hybrid skewed
+different history lengths
+the fetch block
+the predictor tables
+of the predictor
+blocks old lghist
+the wordline number
+history branch predictors
+conventional branch history
+g1 and meta
+pc address generation
+instruction fetch block
+branch predictor tables
+log 2 of
+our benchmark set
+on the alpha
+branch prediction accuracy
+branch predictor is
+for indexing the
+the shared index
+8 bit prediction
+i4 i3 i2
+hybrid skewed branch
+the three fetch
+entries 2bc gskew
+a 4 64k
+4 64k entries
+the bimodal table
+on alpha ev8
+on branch prediction
+up to 16
+in the alpha
+address history pair
+the line predictor
+on our benchmark
+branch predictor the
+path information from
+skewed associative caches
+computer architecture news
+acm sigarch computer
+architecture news v
+sigarch computer architecture
+the pc address
+branch prediction scheme
+read of the
+the four logical
+blocks old history
+g0 and g1
+branch history information
+fetch block address
+to 16 branch
+i13 i12 i11
+predictions associated with
+branch predictor as
+prediction and hysteresis
+for g0 g1
+the 2bc gskew
+alpha ev8 predictor
+two fetch blocks
+and the hysteresis
+fetch block is
+of the alpha
+a global history
+for the alpha
+in the predictor
+partial update policy
+used for indexing
+conditional branch predictor
+the best history
+best history length
+the predictor table
+the three last

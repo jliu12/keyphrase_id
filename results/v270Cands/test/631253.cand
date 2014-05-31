@@ -1,0 +1,270 @@
+lqn
+requesthandler
+client
+ioout
+server
+uml
+architectural
+pipeline
+collaboration
+filter1
+ioin
+filter2
+filters
+buffer
+processor
+semaphore
+replications
+utilization
+ioexec
+downstreamfilter
+upstreamfilter
+rh
+software
+fig
+proc
+request
+stackout
+stackin
+telecommunication
+collaborations
+phase1
+throughput
+serialization
+message
+services
+requests
+accessor
+submodel
+filter
+bottleneck
+container
+synchronous
+configurations
+queueing
+reply
+modelling
+behavioural
+processors
+entry
+service
+behalf
+servers
+asynchronous
+upstrmfilter
+coallocation
+shmem1
+downstrmfilter
+proc_item
+phase2
+modelled
+architecture
+forwarding
+hardware
+rectangle
+configuration
+utilizations
+waiting
+critical
+clients
+passive
+devices
+user1
+system0
+usern
+pulls
+case0
+mirandola
+raffaela
+proc1
+entries
+thread
+busy
+attributes
+proposes
+connector
+arc
+dummy
+io
+database
+phases
+lqn model
+the lqn
+architectural patterns
+in fig
+client server
+an lqn
+processor node
+software architecture
+performance models
+are running
+telecommunication system
+with buffer
+of requesthandler
+the pipeline
+performance attributes
+task entry
+requesthandler replications
+of lqn
+the client
+pipeline with
+the software
+running on
+the server
+and filters
+software performance
+asynchronous message
+upstreamfilter downstreamfilter
+replications utilization
+request arc
+performance modelling
+a lqn
+filters are
+processor configuration
+processor nodes
+each software
+the filters
+critical section
+pipeline and
+same processor
+the system
+shared object
+the uml
+the requesthandler
+stackin stackout
+processor database
+task utilizations
+performance engineering
+lqn submodel
+lqn task
+the architectural
+client to
+behalf of
+on behalf
+passive object
+achievable throughput
+a client
+performance analysis
+software components
+useful work
+performance model
+a software
+different processor
+synchronous message
+utilizations for
+server systems
+level architecture
+downstreamfilter buffer
+utilization ioout
+proc base
+forwarding message
+excessive serialization
+database requesthandler
+buffer upstrmfilter
+included services
+accessor shared
+software bottleneck
+architectural pattern
+4 proc
+software task
+buffer upstreamfilter
+semaphore task
+to excessive
+object operations
+filter1 filter2
+61 number
+fully modified
+upstrmfilter downstrmfilter
+lqn was
+6 processors
+server client
+the lqn model
+are running on
+pipeline and filters
+same processor node
+number of requesthandler
+on different processor
+different processor nodes
+as in fig
+the same processor
+a client to
+the shared object
+an lqn model
+of the lqn
+performance models from
+requesthandler replications utilization
+for each software
+of requesthandler replications
+running on different
+task utilizations for
+pipeline with buffer
+client server client
+shown in fig
+on behalf of
+the high level
+the software architecture
+approach to building
+high level architecture
+upstreamfilter downstreamfilter buffer
+due to excessive
+20 61 number
+structural and behavioural
+buffer upstrmfilter downstrmfilter
+buffer upstreamfilter downstreamfilter
+client server systems
+lqn model is
+an asynchronous message
+the architectural patterns
+users are running
+as entries of
+filters are running
+61 number of
+proc base case
+pipeline with message
+to excessive serialization
+the filters are
+the pipeline with
+each request arc
+replications utilization ioout
+proposes a systematic
+the performance attributes
+running on the
+the allocation of
+number of visits
+in fig 4
+transformation of the
+as a client
+on the same
+an entry of
+for each request
+a systematic approach
+systematic approach to
+hardware to software
+behalf of different
+high level architectural
+software task entry
+section accessor shared
+of a pipeline
+described in fig
+critical section accessor
+case of 6
+in the lqn
+server client server
+modified system0 20
+each software task
+a reply from
+the class object
+and performance july
+from hardware to
+of an lqn
+building performance models
+thread of control
+software performance engineering
+24 26 2002
+2002 rome italy
+processor database requesthandler
+the constraint sequential
+each architectural pattern
+shared object operations
+of 6 processors
+base case0 20

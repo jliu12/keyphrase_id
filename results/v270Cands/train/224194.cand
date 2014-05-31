@@ -1,0 +1,270 @@
+atmospheric
+interpolations
+aerosol
+avhrr
+tm
+correction
+reflectance
+180km
+imagery
+pixel
+bands
+solar
+surface
+zenith
+atmosphere
+optical
+band
+image
+aerosols
+disk
+window
+multiblock
+wavelength
+radiance
+cm
+satellites
+sensed
+interpolate
+interpolation
+eqn
+remotely
+iop
+hazy
+earth
+parti
+mss
+azimuth
+scattering
+land
+spline
+corrected
+radiative
+tables
+sparc
+thickness
+satellite
+absorption
+angles
+mapper
+thematic
+wavelengths
+resolution
+flux
+pixels
+angle
+excluding
+transfer
+sensing
+noaa
+irradiances
+locational
+particles
+contaminated
+dark
+disks
+accesses
+transmittance
+radiation
+gaseous
+look
+minutes
+channel
+photon
+pathfinder
+retrieved
+mp
+sensor
+channels
+nonlinear
+upward
+interconnection
+pn
+663
+slab
+processors
+runtime
+sky
+formatted
+spectral
+piecewise
+atmospheric correction
+the atmospheric
+i o
+surface reflectance
+correction algorithm
+up tables
+look up
+aerosol optical
+for tm
+the surface
+o time
+the look
+optical depth
+tm image
+the aerosol
+based operations
+the atmosphere
+the interpolations
+cm 5
+interpolate l
+o nodes
+on measured
+disk accesses
+of disk
+size 180km
+optical thickness
+theta 180km
+multiblock parti
+180km theta
+remotely sensed
+eqn 1
+excluding i
+band 7
+l 0
+sparc 10
+the solar
+10 machine
+window based
+solar zenith
+zenith angle
+atmospheric optical
+nonlinear interpolations
+observation azimuth
+tm imagery
+the multiblock
+correction band
+table approach
+atmospheric effects
+linear interpolations
+pixel on
+tm and
+internal memory
+optical properties
+tm data
+5 bands
+sensed imagery
+avhrr data
+a sparc
+to correct
+image based
+32 node
+node cm
+for atmospheric
+minutes on
+transfer time
+up table
+per pixel
+the radiative
+scalable in
+bands of
+each pixel
+the image
+19 theta
+parti library
+reflectance ae
+correct all
+wavelength atmospheric
+hazy aerosols
+and avhrr
+per band
+observation zenith
+solar flux
+atmospheric particles
+of aerosol
+zenith angles
+upward radiance
+63 seconds
+access setup
+measured optical
+machine excluding
+atmospheric correction algorithm
+look up tables
+the look up
+the surface reflectance
+i o time
+aerosol optical depth
+the atmospheric correction
+i o nodes
+interpolate l 0
+of disk accesses
+of the atmospheric
+the i o
+size 180km theta
+of size 180km
+180km theta 180km
+the aerosol optical
+number of disk
+sparc 10 machine
+excluding i o
+area of size
+on a 32
+correction algorithm based
+scalable in terms
+0 on measured
+atmospheric optical properties
+image based operations
+l 0 f
+up table approach
+0 f d
+the multiblock parti
+window based operations
+a sparc 10
+on a sparc
+remotely sensed imagery
+32 node cm
+node cm 5
+is scalable in
+the radiative transfer
+f d t
+of the atmosphere
+a 32 node
+look up table
+l 0 on
+of degree one
+for each pixel
+d t and
+an area of
+the access setup
+that is scalable
+a tm image
+19 theta 19
+pixel on a
+the atmospheric effects
+the upward radiance
+surface reflectance ae
+10 machine excluding
+all 5 bands
+than 13 minutes
+correct all 5
+and t e
+observation azimuth angle
+multiblock parti library
+measured optical thickness
+for atmospheric correction
+access setup time
+on the look
+on measured optical
+2 63 seconds
+13 minutes on
+less than 13
+machine excluding i
+tm and avhrr
+number of processors
+in less than
+minutes on a
+for tm and
+overall computational complexity
+window sizes and
+bands need to
+computation and i
+the internal memory
+and i o
+can fit in
+t and s
+to correct a
+the required time
+and c 5
+of the image
+the transfer time
+to be corrected

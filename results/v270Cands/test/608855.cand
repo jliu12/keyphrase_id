@@ -1,0 +1,270 @@
+cores
+bypass
+core
+port
+tpgr
+misr
+scan
+bit
+shortest
+sink
+ports
+circuitry
+bypassing
+schedule
+pcf
+mode
+cbg
+circuit
+infinity
+wires
+accessibility
+cycles
+testing
+packets
+dijkstra
+controller
+interconnections
+transfer
+paths
+stop_4
+bypasses
+read_port_1
+read_port_2
+read_port_3
+send_port_1
+stop_3
+stop_2
+stop_1
+bist
+isolation
+coverage
+scheduling
+fault
+chip
+interconnects
+po1
+send_port_2
+structural
+transferred
+parenthesis
+widths
+registers
+asap
+route
+serial
+isolated
+c3
+mergeable
+asic
+reusable
+dft
+factorizing
+inputs
+po2
+2c1
+syntest
+multiplexors
+transistor
+clock
+circuits
+signatures
+primary
+faults
+fastest
+micron
+compass
+yoneda
+tomokazu
+interconnect
+activities
+match
+automation
+path
+routes
+outputs
+chains
+tentative
+cmos
+factorize
+rtl
+test time
+core 1
+the core
+test data
+the bypass
+a core
+each core
+infinity infinity
+bit match
+bit data
+output test
+system primary
+core k
+under test
+shortest paths
+cost values
+fault coverage
+the test
+test paths
+test path
+structural test
+bypass mode
+time cost
+shortest path
+cores in
+core input
+tpgr misr
+test controller
+four cores
+dijkstra algorithm
+to bypass
+the shortest
+of core
+b bit
+output ports
+output port
+to transfer
+core 2
+bypass scheduling
+port i
+test shortest
+port j
+core is
+input test
+packets of
+bit widths
+the pcf
+bypass circuitry
+bypassing data
+between cores
+isolated core
+bypass schedule
+test point
+core 4
+bit width
+input port
+the cores
+input ports
+cores are
+test points
+and sink
+input output
+core based
+for core
+port to
+cores signal
+stop_2 stop_1
+stop_1 send_port_1
+signal name
+match circuit
+misr stop_4
+misr misr
+core under
+stop_3 stop_2
+tpgr tpgr
+core environment
+of bypass
+read_port_2 read_port_3
+read_port_1 read_port_2
+stop_4 stop_3
+send_port_1 read_port_1
+m bit
+primary inputs
+on chip
+for test
+test patterns
+core and
+test overhead
+of cores
+scheduling method
+the test time
+infinity infinity infinity
+for each core
+the shortest path
+test shortest paths
+cores in the
+of a core
+of the core
+source and sink
+system on chip
+misr stop_4 stop_3
+core under test
+bypass schedule for
+stop_2 stop_1 send_port_1
+is under test
+stop_4 stop_3 stop_2
+stop_3 stop_2 stop_1
+bit match circuit
+stop_1 send_port_1 read_port_1
+cores signal name
+read_port_1 read_port_2 read_port_3
+the bypass mode
+output test shortest
+send_port_1 read_port_1 read_port_2
+tpgr misr stop_4
+input port to
+b bit data
+input output test
+data is transferred
+the shortest paths
+the time cost
+to the core
+dijkstra algorithm to
+fastest route to
+directed weighted graph
+the output port
+tpgr tpgr tpgr
+to port j
+schedule for core
+signal name 17
+a directed weighted
+of 4 bit
+and output ports
+two test points
+parallel to serial
+a b bit
+name 17 under
+read_port_2 read_port_3 send_port_2
+between two test
+transfer test data
+send_port_2 cores signal
+system primary inputs
+for core 1
+test data between
+bit test data
+misr misr misr
+is transferred in
+the existing interconnections
+read_port_3 send_port_2 cores
+serial to parallel
+the bit width
+of figure 7
+of test data
+the cost values
+between source and
+finding the shortest
+time cost of
+of core k
+our proposed structural
+of the bypass
+the dijkstra algorithm
+the core under
+test methodology for
+tri state buffers
+test data distribution
+8 micron cmos
+accessibility of the
+cost d b
+bit data from
+input test paths
+weighted graph in
+are reusable blocks
+to bypass data
+0 8 micron
+isolated core environment
+environment of core
+the cbg graph
+bit input port
+system primary outputs
+the core circuitry

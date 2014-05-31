@@ -1,0 +1,270 @@
+stack
+k0
+deconstruction
+mercury
+v0
+t0
+l0
+eld
+r0
+cell
+loads
+ush
+slot
+anchor
+load
+maximal
+slots
+rst
+benets
+segment
+benet
+stores
+switch
+compiler
+store
+unmatched
+heap
+threshhold
+live
+unication
+ab
+accessing
+alternating
+matching
+disjunct
+arm
+clone
+denition
+rb
+bc
+anchors
+bipartite
+dierent
+candidate
+registers
+loading
+eect
+dodgy
+rc
+branched
+ce
+register
+rematerialization
+deconstructions
+segments
+costs
+opr
+paths
+augmenting
+optimization
+bd
+disjunction
+mmc
+unmarked
+reachable
+interval
+icfp2000
+ieldv
+arstorecost
+deconstructs
+arloadcost
+mc
+accesses
+a1
+ve
+determinism
+body
+clones
+immutable
+generator
+vars
+nd
+storing
+ushed
+b2
+c2
+prolog
+substitution
+transformation
+c1
+stack slot
+cell variable
+eld variables
+stack slots
+the stack
+eld variable
+the cell
+k0 v0
+maximal path
+the deconstruction
+l0 r0
+alternating path
+v0 l0
+loads and
+the mercury
+maximal paths
+mercury compiler
+load k0
+slot optimization
+anchor of
+maximal matching
+stack optimization
+right anchor
+via b
+check k0
+benet nodes
+the optimization
+the rst
+one store
+the eld
+a maximal
+node ratio
+switch on
+procedure body
+an alternating
+execution takes
+arm of
+start of
+optimization graph
+the call
+load t0
+r0 load
+t0 k0
+four stores
+store k0
+the program
+the switch
+via the
+1 store
+path through
+path node
+on result
+our optimization
+cost nodes
+matching m
+a eld
+the start
+and four
+and stores
+loads between
+ush points
+r0 store
+bc ce
+left anchor
+ab bc
+ratio threshhold
+variable via
+code generator
+load t
+accessing a
+the compiler
+heap cell
+generator must
+live after
+stack frame
+the code
+four loads
+of stack
+the matching
+candidate variable
+seven loads
+ush all
+must ush
+type 1
+the benet
+variables to
+if execution
+initial segment
+access via
+cost v
+the cell variable
+via the cell
+k0 v0 l0
+v0 l0 r0
+stack slot optimization
+an alternating path
+maximal path through
+the stack optimization
+the mercury compiler
+a maximal path
+the procedure body
+arm of the
+anchor of the
+and one store
+to the stack
+on the stack
+the start of
+the right anchor
+a stack slot
+switch on result
+stack optimization graph
+loads and four
+execution takes the
+right anchor of
+alternating path from
+a eld variable
+of the switch
+loads and stores
+and four stores
+the eld variables
+load t 0
+the code generator
+code generator must
+of the deconstruction
+live after the
+eld variable via
+ab bc ce
+path node ratio
+node ratio threshhold
+accessing a via
+if execution takes
+the left anchor
+load k0 v0
+is an alternating
+the initial segment
+a via b
+number of stack
+the switch on
+path through the
+a maximal matching
+the one path
+variable via the
+loads and one
+generator must ush
+seven loads and
+on result then
+load t0 k0
+each maximal path
+stack slot to
+l0 r0 load
+must ush all
+after the call
+if then else
+bipartite graph g
+start of the
+start of a
+the matching algorithm
+of the eld
+path from c
+from c to
+an if then
+bc ce ab
+all path node
+optimization graph for
+one path node
+load k0 check
+that stack slot
+load k v
+k v t0
+instead of via
+the eld variable
+in stack slots
+load of b
+cell pointed to
+f via the
+a cell variable
+to be cache
+loads between b
+left anchor of
+2 mc to

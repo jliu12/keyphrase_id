@@ -1,0 +1,270 @@
+nic
+endpoint
+endpoints
+message
+messages
+firmware
+virtual
+packet
+dma
+packets
+logp
+nacks
+gam
+server
+retransmission
+am
+myrinet
+sender
+acks
+destination
+microseconds
+timer
+sbus
+outstanding
+resident
+network
+nics
+host
+interfaces
+bulk
+daemons
+receiver
+clients
+medium
+nack
+delivery
+retransmissions
+channel
+senders
+interface
+client
+multiprogramming
+transport
+resources
+hamlyn
+protocols
+active
+receiving
+unloaded
+send
+transfers
+timeout
+receive
+trip
+interconnect
+sending
+protection
+protocol
+bandwidth
+overruns
+rates
+rtt
+mb
+bisection
+thread
+microbenchmarks
+shrimp
+api
+reliable
+scheduling
+reply
+layers
+round
+virtualized
+communication
+bandwidths
+channels
+aggregate
+hosts
+buffer
+ack
+gap
+unacknowledged
+microsecond
+mechanisms
+management
+mapper
+undeliverable
+msgs
+backing
+am ii
+the nic
+virtual networks
+active message
+virtual network
+network interface
+message rates
+to nic
+message delivery
+network interfaces
+reliable message
+the network
+the am
+per client
+timer management
+outstanding messages
+nic to
+mb s
+flow control
+an endpoint
+the server
+active messages
+the logp
+non resident
+endpoint scheduling
+medium messages
+client message
+message rate
+destination endpoint
+k user
+per endpoint
+error model
+virtual memory
+round trip
+the endpoint
+transport protocols
+the protocols
+and nacks
+host memory
+resident endpoints
+logical channels
+medium message
+destination nic
+server thread
+and bulk
+the sbus
+4 word
+u net
+sequencing information
+sequence number
+timeout and
+of clients
+the virtual
+our system
+of endpoints
+average per
+ii api
+nic transport
+independent logical
+interface architecture
+virtual interface
+resident endpoint
+active endpoints
+bulk messages
+retransmission mechanisms
+interface firmware
+rates with
+single virtual
+the sender
+of outstanding
+trip times
+receive queue
+endpoints with
+and retransmission
+each endpoint
+endpoint to
+re transmission
+buffer overruns
+back pressure
+communication layers
+acks and
+the receiver
+interfaces and
+address space
+communication system
+send and
+and receiving
+and per
+the send
+messages are
+the am ii
+reliable message delivery
+the network interface
+nic to nic
+per client message
+message rates with
+client message rates
+number of clients
+network interfaces and
+an active message
+nic transport protocols
+virtual interface architecture
+of network interfaces
+am ii api
+the nic to
+to nic transport
+a non resident
+acks and nacks
+average per client
+independent logical channels
+medium and bulk
+single virtual network
+round trip times
+s address space
+a single virtual
+message delivery and
+send and receive
+contention within a
+flow control timer
+and retransmission mechanisms
+31 mb s
+level back pressure
+and per client
+sending a packet
+destination endpoint contention
+error model and
+one copy on
+of outstanding messages
+of virtual networks
+nic flow control
+to nic flow
+an endpoint is
+link level back
+of am ii
+active message system
+non resident endpoint
+copy on the
+the latest nack
+the virtual interface
+the virtual network
+virtual network system
+error model for
+multiple independent logical
+active message layer
+server thread is
+active messages with
+message rate msgs
+network interface firmware
+in the send
+and bulk messages
+medium message staging
+conference on supercomputing
+round trip time
+interfaces and communication
+and communication resources
+the protection checks
+high performance communication
+the average per
+on the receiver
+to the network
+within a single
+and error handling
+number of outstanding
+on the sender
+destined for the
+of the virtual
+the network s
+in our system
+of the server
+the destination endpoint
+s topology and
+back pressure the
+per endpoint error
+direct network access
+that this hybrid
+collections of endpoints
+the nic must
+endpoints may be
+a virtual network
+channel management tables

@@ -1,0 +1,270 @@
+logging
+page
+opnum
+logged
+invalidation
+volatile
+writer
+recovery
+duration
+recomputation
+owner
+wtl
+pages
+dsm
+invalidated
+ix
+checkpoint
+checkpointing
+ocv
+rwl
+stable
+log
+failure
+sat
+rollback
+item
+read
+dependency
+recoverable
+contents
+jx
+accessed
+ownership
+frequency
+processes
+triggered
+precedence
+logs
+recovering
+access
+message
+readers
+protocol
+storage
+cvm
+domino
+request
+pid
+orphan
+traces
+failures
+copy
+invalidate
+roll
+remote
+transferred
+shared
+overhead
+reads
+causal
+lv
+reply
+retrieved
+locality
+consistency
+write
+precedent
+accesses
+inconsistency
+regenerate
+identifier
+sends
+maintains
+status
+saved
+items
+consistent
+k2copy
+gammaset
+unlogged
+coordinated
+entry
+checkpoints
+retrieve
+wait
+memory
+ff
+creates
+delayed
+activities
+data page
+the logging
+page x
+data pages
+access information
+the page
+the writer
+p i
+process p
+stable logging
+p j
+duration ix
+the volatile
+writer process
+the recomputation
+copy set
+volatile log
+logging of
+wtl scheme
+logging overhead
+logging frequency
+sat scheme
+the wtl
+the stable
+opnum i
+x duration
+the recovery
+duration jx
+recovery log
+a process
+data item
+stable storage
+dsm system
+be logged
+triggered logging
+logging scheme
+stable log
+a data
+consistent recovery
+the invalidation
+the sat
+the access
+invalidation triggered
+of logged
+access duration
+distributed shared
+dependency relation
+the dsm
+logging protocol
+version x
+write operation
+proposed logging
+the write
+current owner
+duration x
+precedence order
+the rwl
+opnum j
+of page
+logging the
+recovery point
+page space
+shared memory
+the log
+log contents
+rwl scheme
+writer based
+the data
+active data
+message case
+volatile storage
+the read
+is invalidated
+recoverable distributed
+write ratio
+logs the
+recovery line
+page is
+logging is
+ix last
+logged data
+is logged
+another process
+rollback recovery
+write operations
+request x
+the recovering
+when p
+page and
+log the
+a data page
+data page x
+the data page
+the data pages
+the wtl scheme
+the access information
+process p i
+the writer process
+the sat scheme
+of the page
+the logging frequency
+of data pages
+the stable storage
+the logging overhead
+invalidation triggered logging
+during the recomputation
+distributed shared memory
+of page x
+the recovery log
+the volatile log
+of the logging
+the copy set
+and the logging
+process p j
+the current owner
+the proposed logging
+data page space
+active data page
+to be logged
+the active data
+version of x
+the volatile storage
+the rwl scheme
+x duration x
+the consistent recovery
+the dsm system
+consistent recovery line
+a data item
+into the stable
+before the failure
+recoverable distributed shared
+in the system
+data pages and
+duration ix last
+logging of the
+the sequential consistency
+the stable log
+the logging of
+w 4 x
+in the volatile
+when p i
+a process p
+p i s
+logged into the
+the page is
+when a process
+a consistent recovery
+of logged data
+the access duration
+to owner x
+logged data pages
+page x is
+based invalidation triggered
+data access point
+access information is
+writer based invalidation
+number of logged
+i reads a
+orphan message case
+accessed by multiple
+the recovering status
+logging scheme for
+copy set x
+amount of logged
+the stable logging
+logging of a
+of a data
+the page x
+of the writer
+another process p
+the current version
+a write operation
+p i reads
+the new owner
+reads a data
+on a data
+the amount of
+lv i ff
+in the recovering
+parallel program traces

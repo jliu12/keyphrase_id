@@ -1,0 +1,270 @@
+compaction
+rts
+rt
+dsps
+nop
+dsp
+instruction
+ip
+register
+retargetable
+tmax
+formats
+asips
+nops
+tms320c25
+encoding
+registers
+vertical
+mimola
+m56000
+conflicts
+dd
+retargetability
+cs
+ar
+code
+ise
+tms320c2x
+scheduled
+macs
+parser
+instructions
+shuffling
+encodings
+scheduling
+od
+datapath
+generation
+compiler
+schedule
+agu
+rdg
+processor
+versions
+rtl
+dortmund
+tcc
+parallelism
+motorola
+br
+dfl
+ets
+synthesis
+asip
+effects
+horizontal
+multiply
+incompatibility
+compilation
+hdl
+vars
+compilers
+runtimes
+embedded
+extraction
+permit
+conflicting
+addressable
+processors
+microcode
+marwedel
+bi
+exploitation
+leupers
+hardly
+allocation
+bb
+dad
+dependencies
+programmable
+live
+ai
+bus
+record
+hardware
+cdfg
+codesyn
+agus
+eijk
+compacted
+code compaction
+code generation
+control step
+side effects
+rt r
+cs t
+r i
+vertical code
+partial instructions
+instruction formats
+of rts
+solution variables
+code selection
+time constraints
+set extraction
+tree parser
+an rt
+vertical side
+rt patterns
+for dsps
+control steps
+r j
+compaction is
+compaction techniques
+nop version
+inter rt
+dsp code
+a nop
+complex multiply
+generation for
+instruction set
+encoding conflicts
+alternative encodings
+based compaction
+step cs
+encoding versions
+rtl basic
+the ip
+target processor
+address register
+address assignment
+scheduled in
+register allocation
+basic block
+compaction problem
+encoding version
+mode register
+all rts
+each rt
+version shuffling
+ip based
+instruction format
+time constrained
+v variables
+expression trees
+local code
+processor specific
+actual lower
+constrained code
+code quality
+critical path
+for embedded
+alternative versions
+version e
+n variables
+retargetable code
+processor model
+in dsp
+machine program
+dd od
+addressable storage
+ar br
+rt dependencies
+ip formulation
+for ip
+for asips
+and register
+ip is
+each control
+compilation speed
+tight time
+ip solution
+exact code
+compaction technique
+dsps in
+the tms320c2x
+an rtl
+of instruction
+versions for
+potential parallelism
+rt r i
+instruction set extraction
+code generation for
+vertical side effects
+local code compaction
+control step cs
+step cs t
+each control step
+selection and register
+code selection and
+a nop version
+ip based compaction
+an rtl basic
+an rt r
+rtl basic block
+and register allocation
+time constrained code
+generation for embedded
+critical path length
+r i is
+retargetable code generation
+exact code compaction
+gamma r j
+code compaction is
+inter rt dependencies
+of code compaction
+tight time constraints
+code generation techniques
+the actual lower
+actual lower bound
+level language compilers
+the ip model
+for complex multiply
+the code compaction
+side effects are
+and r j
+be scheduled in
+high level language
+the critical path
+set of alternative
+for an rtl
+address register updates
+code selection register
+cs t 2
+encoded instruction formats
+inter rt conflicts
+versions for r
+each rt r
+the partial instructions
+horizontal side effects
+vertical code generation
+ar br ai
+e ik for
+code quality in
+path length l
+for each rt
+for ip based
+of alternative encodings
+of no operations
+control step t
+mode register states
+nop version for
+br ai bi
+complex multiply program
+of instruction formats
+code compaction techniques
+setting of n
+tree parser generation
+alternative versions and
+of relevant size
+vertical code for
+rt dependency graph
+of solution variables
+target processor model
+compaction is not
+t 2 cs
+dd gamma r
+in presence of
+for r i
+is scheduled in
+for embedded processors
+the target processor
+of computation time
+dsp code generation
+amounts of computation
+code compaction and
+constrained code compaction
+length l c
+of rts in
+in dsp code

@@ -1,0 +1,270 @@
+00
+000
+register
+devs
+trap
+instruction
+message
+npc
+alfa
+msg
+dest
+cpu
+001
+regglob
+cmpa
+_res
+students
+registers
+alu
+05
+sendoutput
+window
+bus
+cmp
+cwp
+const
+01
+incdec
+cmpb
+psr
+activated
+pc
+circuit
+bits
+internalmessage
+unimp
+dtack
+device
+port
+byte
+interrupt
+r1
+stb
+reset
+serviced
+ports
+coupled
+store
+tick
+and1
+and2
+masmin
+masmax
+inc
+instructions
+cu
+signal
+organization
+simulator
+traps
+cd
+bit
+transition
+eth
+reg
+processor
+address
+mask
+courses
+decremented
+comparators
+issued
+int
+inputs
+inb
+passivate
+outputfunction
+pc_latch
+bgrant
+hold_in
+oldb
+externalmessage
+_old
+internalfunction
+res0
+0x12345678
+portname
+externalfunction
+olda
+priority
+00 00
+000 message
+00 000
+cpu 05
+top 01
+message y
+message d
+message 00
+d 00
+y 00
+00 20
+20 001
+001 message
+the register
+to cpu
+00 10
+coupled model
+alfa 1
+computer organization
+01 to
+1 000
+the instruction
+i 00
+to top
+the alu
+the address
+message x
+x 00
+digital logic
+root 00
+01 top
+the npc
+control unit
+message i
+05 to
+this model
+the students
+the memory
+00 to
+inc dec
+r1 dest
+sendoutput msg
+msg time
+return this
+the trap
+10 000
+transition functions
+in address
+store the
+input output
+reg 1
+memory image
+turned on
+the model
+be serviced
+the circuit
+of reg
+dec model
+cmpb link
+mem 02
+const internalmessage
+05 cpu
+clock tick
+the bus
+32 bit
+internal transition
+can see
+in charge
+for int
+the device
+internal event
+register window
+instruction register
+output ports
+experimental framework
+the pc
+is activated
+transition function
+charge of
+related with
+model is
+following figure
+logic level
+000 to
+instruction set
+trap type
+cu 43
+register 1
+high byte
+05 root
+00 00 00
+00 00 000
+00 000 message
+d 00 00
+y 00 00
+message d 00
+message y 00
+message 00 00
+000 message d
+000 message 00
+to cpu 05
+00 00 20
+00 20 001
+000 message y
+20 001 message
+top 01 to
+to top 01
+00 10 000
+00 00 10
+10 000 message
+message x 00
+x 00 00
+message i 00
+i 00 00
+000 message i
+cpu 05 to
+root 00 to
+top 01 top
+00 to top
+01 top 01
+sendoutput msg time
+store the high
+01 to cpu
+the control unit
+001 message y
+1 in address
+001 message x
+reg 1 in
+of reg 1
+the instruction set
+we can see
+as we can
+return this model
+a coupled model
+000 message x
+cpu 05 cpu
+digital logic level
+inc dec model
+1 000 to
+05 cpu 05
+the digital logic
+can see the
+in the register
+in charge of
+this model is
+address of the
+the following figure
+is in charge
+the register 4
+of alfa 1
+internal transition function
+is turned on
+the internal transition
+stb r1 dest
+the high byte
+through the output
+the register 1
+for int i
+the inc dec
+store the register
+the instruction register
+byte of reg
+cpu 05 root
+an experimental framework
+high byte of
+05 root 00
+the students can
+int i 0
+of the trap
+input output ports
+sent through the
+to be serviced
+the last operation
+in the instruction
+the result obtained
+when the result
+related with the
+stored in the
+the input output
+behavior of the

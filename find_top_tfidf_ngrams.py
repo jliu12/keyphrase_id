@@ -30,7 +30,7 @@ docs_to_ngram_predictions = dict()
 
 
 doc_count = 0
-x_terms_to_predict = 30
+x_terms_to_predict = 90
 words = []
 
 
@@ -169,7 +169,7 @@ def main():
 
 	corpusPath = sys.argv[2] + "/*.txt"
 	corpusPathRoot = sys.argv[2] + "/"
-	printPath = "candidates/v0/" + sys.argv[1] + "/"
+	printPath = "candidates/v270Cands/" + sys.argv[1] + "/"
 	print("corpus path is: " + corpusPath)
 	print("printing results to: " + printPath)
 	for n in range(1, 4):

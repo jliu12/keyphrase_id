@@ -1,0 +1,270 @@
+sv
+incarnation
+straggler
+rolled
+orphan
+token
+optimistic
+lps
+rollback
+timestamp
+ts
+lp
+message
+rolls
+virtual
+rollbacks
+s10
+iet
+anti
+simulation
+warp
+logging
+gvt
+recovery
+s20
+announcement
+orphans
+messages
+p1
+roll
+s11
+timestamps
+protocol
+m0
+entry
+s21
+s00
+dependency
+event
+transitively
+cluster
+receiving
+failure
+broadcast
+transitive
+echoing
+s22
+lexicographical
+back
+m1
+restores
+broadcasts
+checkpoint
+receive
+blocking
+pessimistic
+th
+p2
+receives
+gler
+strag
+schedules
+m2
+happened
+acts
+acting
+r20
+protocols
+cascading
+volatile
+p0
+actions
+events
+scheduled
+logged
+sending
+stragglers
+routine
+happen
+r10
+arrival
+discarded
+correctness
+asynchronously
+dependent
+lost
+restored
+saving
+3rd
+sent
+virtual time
+rolled back
+a straggler
+distributed simulation
+incarnation number
+s sv
+rolls back
+distributed recovery
+the virtual
+the sv
+m ts
+simulation vector
+th timestamp
+p j
+time warp
+p i
+back due
+dependent on
+anti message
+state w
+an orphan
+an lp
+is rolled
+simulation vectors
+a token
+its sv
+the incarnation
+th entry
+state u
+roll back
+happen before
+back state
+other lps
+anti messages
+the token
+timestamp in
+optimistic logging
+w sv
+all orphan
+sv j
+sv s
+sv i
+orphan states
+the gvt
+a rollback
+execute message
+our protocol
+of simulation
+j ts
+transitively dependent
+incarnation of
+inter cluster
+a message
+schedules an
+actions needed
+message m
+of p
+p1 rolls
+u sv
+a rolled
+rollback announcement
+3rd entry
+i ts
+receive token
+above property
+dependency information
+on receiving
+before relation
+time of
+global virtual
+in distributed
+the timestamp
+is transitively
+orphan messages
+new incarnation
+j th
+acts on
+an event
+state s
+the happen
+transitive dependency
+sv and
+a state
+with virtual
+sv of
+a failure
+not less
+logical process
+are rolled
+state is
+virtual time of
+the virtual time
+back due to
+of p j
+rolled back due
+is rolled back
+the incarnation number
+of the sv
+with virtual time
+sv j ts
+transitively dependent on
+rolled back state
+happen before relation
+schedules an event
+the above property
+the sv of
+on a rolled
+j th timestamp
+sv i ts
+a rolled back
+p1 rolls back
+size of simulation
+of p i
+dependent on a
+global virtual time
+less than the
+time of m
+to a straggler
+by acting on
+than the gvt
+dependent on u
+is transitively dependent
+on receiving this
+the j th
+to the virtual
+state of p
+the happen before
+state u of
+than the virtual
+u of p
+rolled back the
+not less than
+the timestamp in
+of a straggler
+are rolled back
+an anti message
+timestamp in the
+j th entry
+sends an anti
+scheduled by m
+in its sv
+all orphan states
+receives a straggler
+the 3rd entry
+sv and the
+m s sv
+its incarnation number
+transitive dependency information
+incarnation of p
+is discarded by
+event scheduled by
+th timestamp in
+time constrained systems
+correctness of simulation
+the new incarnation
+p th timestamp
+the virtual times
+an orphan state
+be rolled back
+a message m
+is not less
+is dependent on
+i th entry
+the arrival of
+th entry of
+anti message for
+for distributed simulation
+of simulation vectors
+p i depends
+preserves the above
+any state w
+virtual times of
+been rolled back
+by induction hypothesis
+in distributed simulation
+token from p
+optimistic distributed simulation
+arrival of a
+p j on
+j on which

@@ -1,0 +1,270 @@
+mut
+protocols
+protocol
+synch
+synchronizing
+inhibiting
+multifunction
+composite
+initiate
+action
+ff
+inhibit
+receptions
+leader
+token
+en
+fi
+initiation
+recd
+actions
+composition
+ext
+traverse
+invariant
+infer
+initiator
+unspecified
+connect
+superimposition
+ch
+liveness
+enter
+invariants
+priority
+exclusion
+inhibited
+site
+para
+initiated
+message
+ef
+concurrently
+channel
+election
+inhibits
+mutual
+establishment
+initiators
+multiphase
+constraint
+init
+connection
+sdata
+item
+disconnection
+matching
+receiving
+credit
+interleaved
+sent
+gamma
+inferred
+sites
+req
+sender
+sends
+rec
+enable
+ready
+traversal
+constraints
+structuring
+subproblems
+avail
+channels
+bool
+receivers
+compositional
+deadlock
+receiver
+processes
+falserequest
+fffg
+raverse
+fenter
+rdata
+rtoken
+conflict
+lemma
+spend
+component protocols
+composite protocol
+mut 1
+invariant of
+synch p
+an invariant
+p q
+p i
+en a
+and q
+the composite
+initiate p
+ff fi
+synchronizing constraint
+p and
+q i
+from unspecified
+multifunction protocols
+connect 1
+unspecified receptions
+f low
+has priority
+the component
+initiation of
+the synchronizing
+of p
+fi in
+check 1
+ch i
+inhibiting constraint
+synchronizing constraints
+sent 1
+enter 1
+a protocol
+priority over
+process mutual
+traverse 1
+inhibit p
+i j
+hold 1
+in p
+the constraints
+lemma 4
+then ff
+ef p
+state g
+liveness properties
+the inhibiting
+three process
+check i
+inhibiting constraints
+enable p
+are matching
+of mut
+and mut
+if p
+protocols we
+free from
+execution of
+to infer
+if ff
+mutual exclusion
+the initiation
+q then
+over q
+1 3
+the protocol
+data item
+site i
+composition using
+to synch
+para list
+traverse 2
+leader 1
+active p
+connection establishment
+of multifunction
+2 ef
+terminates q
+in mut
+ext i
+protocol can
+1 2
+q or
+action a
+of protocols
+of r
+protocols can
+exclusion protocol
+protocols which
+an invariant of
+the composite protocol
+the component protocols
+is an invariant
+synch p q
+mut 1 2
+p and q
+invariant of r
+ch i j
+free from unspecified
+from unspecified receptions
+has priority over
+of the component
+of p i
+p i and
+of the composite
+ff fi in
+and q i
+i and q
+1 2 and
+process mutual exclusion
+inhibit p q
+p has priority
+connect 1 2
+priority over q
+q or p
+the synchronizing constraint
+fi in r
+invariant of p
+check i j
+the initiation of
+is free from
+hold 1 2
+liveness properties of
+multifunction protocols which
+2 and connect
+check 1 3
+a composite protocol
+2 ef p
+invariant of mut
+of mut 1
+and mut 1
+to synch p
+rules to infer
+of multifunction protocols
+hold 1 3
+properties of the
+protocol can be
+mutual exclusion protocol
+execution of p
+r is free
+the critical section
+if p and
+i is an
+set of constraints
+of p and
+protocols can be
+the execution of
+leader election protocol
+p q and
+obtained by combining
+on the initiation
+1 2 gamma
+p q then
+b 2 synch
+in mut 1
+enable p i
+over q or
+and q conflict
+the inhibiting constraint
+connect 2 1
+p terminates q
+2 synch p
+1 3 g
+initiate p i
+q conflict then
+fi in p
+fi via a
+of component protocols
+ff fi via
+then initiate p
+composite protocol r
+check 1 2
+the synchronizing constraints
+via a in
+then ff fi
+initiate p is
+ff is true
+enter 1 2
+hold i j

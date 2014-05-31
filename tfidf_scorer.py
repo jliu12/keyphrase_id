@@ -12,7 +12,7 @@ import math
 corpusName = "corpus/dummy"
 versionName = "2";
 dataSet = "train"
-predSuffix = ".pred"
+predSuffix = ".cand"
 
 pScoresTotal = 0
 rScoresTotal = 0
@@ -29,7 +29,7 @@ def processArgs():
 		#predSuffix = myArgs[4]
 	else:
 		print("======================================")
-		print("USAGE: python tfidf_scorer [corpusName] [predictorVersionName] [train|dev|test] [predSuffix] \n Continuing using defaults:")
+		print("USAGE: python tfidf_scorer [corpusName] [predictorVersionName] [train|dev|test] \n Continuing using defaults:")
 	print("======================================")
 	print("corpusName: " + corpusName + "\nversionName: " + versionName + "\ndataSet: " + dataSet)
 	print("======================================")

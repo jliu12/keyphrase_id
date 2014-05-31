@@ -1,0 +1,270 @@
+image
+skeletons
+iatg
+skeleton
+dcg
+parallelism
+operators
+char
+images
+void
+unsigned
+stereo
+im_op
+baseline
+triadic
+processors
+monadic
+dyadic
+neighborhood
+name1
+name2
+pixels
+imagepointdist
+taskb
+1io
+taska
+master
+pixel
+task
+ups
+host
+lters
+disparity
+vision
+mpi
+tasks
+int
+imaging
+compositing
+destination
+operator
+lter
+algorithmic
+convolution
+redistribution
+proling
+imagewindowdist
+name3
+processor
+dierent
+window
+cameras
+mdg
+dierence
+mixed
+scheduling
+shifted
+precedence
+1o
+ltering
+squared
+alpha
+nonlinear
+name4
+snopt
+plaza
+imagepointdist_3i_1o
+parallelized
+headers
+communication
+fortran
+m1
+kernel
+pure
+sobel
+tted
+cpr
+ecient
+restoration
+ref
+subtract
+horizontally
+preemptively
+panda
+64mb
+myrinet
+rst
+costs
+exploiting
+subtraction
+image processing
+task parallel
+data parallelism
+data parallel
+baseline stereo
+point operators
+and task
+task parallelism
+dcg skeleton
+the iatg
+multi baseline
+the image
+skeleton for
+n char
+global operators
+processing operators
+unsigned int
+stereo vision
+task and
+level image
+int n
+image operators
+parallel approach
+neighborhood operators
+parallel framework
+void im_op
+algorithmic skeletons
+parallel image
+application task
+vision application
+im_op dcg
+output void
+using skeletons
+task graph
+skeletons are
+mixed task
+low level
+image application
+name1 char
+char name1
+char name2
+processing application
+output image
+d x
+of processors
+an image
+the multi
+skeletons and
+one input
+data and
+speed ups
+constant d
+skeletons for
+processors executing
+the task
+source image
+for neighborhood
+destination image
+and data
+input images
+operators one
+communication time
+both data
+parallel programming
+in image
+each skeleton
+for monadic
+image and
+processed area
+char name
+image operator
+master 0
+pure task
+dyadic point
+host processor
+source images
+the skeletons
+processing user
+destination pixel
+distributed memory
+for point
+a destination
+image is
+operators we
+the data
+the images
+parallelism is
+input image
+reference image
+area at
+data and task
+task and data
+baseline stereo vision
+multi baseline stereo
+dcg skeleton for
+and data parallelism
+and task parallel
+low level image
+the multi baseline
+int n char
+the data parallel
+image processing operators
+unsigned int n
+and task parallelism
+level image processing
+application task graph
+stereo vision application
+parallel image processing
+the task parallel
+constant d x
+mixed task and
+im_op dcg skeleton
+an image processing
+void im_op dcg
+image processing application
+name1 char name2
+char name1 char
+the image application
+task parallel framework
+n char name1
+image application task
+the image processing
+operators one input
+both data and
+in image processing
+and data parallel
+data parallel approach
+skeleton for monadic
+one input output
+the speed ups
+for the data
+in the iatg
+image processing user
+a destination image
+image processing environment
+task parallel approach
+processed area at
+for neighborhood operators
+for point operators
+dyadic point operators
+one output void
+for global operators
+the image operator
+n char name
+number of processors
+of the image
+of low level
+the input image
+and one output
+the critical path
+image and a
+the data and
+pure task parallelism
+task parallel environment
+only data parallelism
+two source images
+image processing operator
+both task and
+a new output
+level image operators
+for monadic point
+the average area
+speed ups obtained
+name void im_op
+task graph iatg
+operations function operation
+task parallelism can
+skeleton for neighborhood
+as parameters the
+new output image
+the task number
+h k l
+input output void
+char name2 char
+a data parallel
+parallel framework based
+name2 char name3
+application described in
+and global operators
+operators we assigned

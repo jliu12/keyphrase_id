@@ -1,0 +1,270 @@
+tla
+specifications
+pi
+qm
+composition
+lamport
+gcd
+queue
+ack
+noninterleaving
+specification
+interleaving
+qe
+abadi
+snd
+asserts
+dbl
+safety
+conjoining
+init
+999
+proposition
+formula
+fairness
+wf
+reasoning
+999x
+conjunction
+proving
+implements
+var
+sig
+233344
+cdq
+hypotheses
+guarantee
+vol
+cq
+channel
+action
+iff
+tuple
+temporal
+endloop
+environment
+verification
+equals
+henzinger
+cobegin
+formulas
+kurshan
+queues
+leslie
+coend
+subaction
+hypothesis
+hm
+decomposition
+actions
+mart
+enq
+hi
+logic
+refinement
+qadeer
+vali
+shaz
+deq
+concurrent
+rajamani
+xi
+enabled
+cinit
+alur
+1993
+internal
+composing
+1995
+qi
+sriram
+decomposing
+nm
+val
+modular
+simultaneous
+deduce
+oe
+hiding
+propositions
+closure
+assumption guarantee
+m l
+pi l
+gamma m
+process pi
+abadi and
+complete system
+conjoining specifications
+composition theorem
+specifications delta
+interleaving representation
+guarantee specifications
+asserts that
+an interleaving
+and lamport
+decomposition theorem
+output variables
+o ack
+vol 17
+17 no
+the specification
+the queue
+l a
+the composition
+safety property
+the component
+specification m
+a safety
+guarantee specification
+no 3
+gamma qm
+may 1995
+pi a
+c m
+m b
+the environment
+the conjunction
+m a
+simultaneous changes
+its environment
+l b
+specification of
+safety properties
+systems vol
+component s
+3 may
+machine closed
+pi b
+a noninterleaving
+m gcd
+the formula
+the gcd
+internal variables
+reasoning about
+i ack
+init 2
+a behavior
+a formula
+conjunction of
+state action
+variables of
+environment assumption
+gcd example
+on programming
+component specifications
+1995 conjoining
+tla formula
+qm dbl
+i snd
+999 999x
+lamport 1994
+program gcd
+lamport 1991
+lamport 1993
+for interleaving
+o snd
+behavior oe
+hm xi
+fairness conditions
+a m
+and systems
+loop h
+a asserts
+input var
+element queue
+state function
+verification of
+programming languages
+and m
+specifications of
+an interleaving representation
+conjoining specifications delta
+systems vol 17
+3 may 1995
+assumption guarantee specifications
+17 no 3
+no 3 may
+vol 17 no
+and systems vol
+abadi and lamport
+a safety property
+a complete system
+pi l a
+the composition theorem
+m l b
+assumption guarantee specification
+next state action
+the component s
+the conjunction of
+is a safety
+m 0 d
+the decomposition theorem
+of the queue
+the specification m
+init 2 n
+transactions on programming
+languages and systems
+on programming languages
+the specification of
+the gcd example
+m l a
+programming languages and
+may 1995 conjoining
+1995 conjoining specifications
+an assumption guarantee
+and lamport 1991
+and lamport 1993
+pi l b
+process pi a
+simultaneous changes to
+e and m
+of the complete
+specification of the
+the complete system
+thomas a henzinger
+and leslie lamport
+gamma gamma m
+abadi and leslie
+delta mart in
+a noninterleaving representation
+states of oe
+a behavior oe
+a and pi
+1 element queue
+in abadi and
+step that changes
+hi o qi
+2n 1 element
+s output variables
+hypotheses of the
+is true of
+l a and
+acm transactions on
+a step that
+a m b
+the composition of
+n l a
+proposition 1 to
+m a m
+m a and
+tuple of variables
+and m l
+conjunction of the
+a and m
+of a behavior
+theorem of section
+mart in abadi
+asserts that a
+gamma m we
+process pi l
+m l implements
+m l implies
+component s output
+composition is conjunction
+is machine closed
+state function v
+formula gamma m
+steps that change
+specification m l
+behavior oe iff

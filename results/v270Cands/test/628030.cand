@@ -1,0 +1,270 @@
+weak
+transaction
+strict
+copies
+ias
+quasi
+cluster
+reconciliation
+schedule
+consistency
+writes
+mobile
+core
+intracluster
+wt
+iasg
+item
+read
+copy
+serializability
+ww
+clusters
+sw
+disconnections
+intercluster
+sr
+updates
+reads
+ies
+replication
+iesg
+disconnected
+hot
+st
+cold
+items
+op
+coherency
+schema
+inconsistency
+disconnection
+wr
+connectivity
+bandwidth
+quorum
+transactions
+serial
+lock
+conflicts
+integrity
+cl
+serialization
+committed
+sites
+database
+conflict
+divergence
+weakly
+1c
+commit
+permanent
+networking
+messages
+correctness
+abort
+rowa
+locality
+divergent
+throughput
+bayou
+acyclic
+allowable
+vacation
+replicated
+clients
+nl
+response
+currency
+aborted
+sg
+eventual
+client
+concurrency
+ignorant
+initiated
+commitment
+200bps
+iots
+consistent
+contention
+weak transactions
+strict transactions
+core copies
+quasi copies
+and strict
+data item
+strict transaction
+weak transaction
+consistency factor
+of weak
+weak and
+schedule s
+s ias
+intracluster schedule
+a strict
+one copy
+strict read
+a weak
+data items
+weak read
+core copy
+weak connectivity
+weak operations
+copy serializability
+the transaction
+only transactions
+serial schedule
+quasi copy
+strict write
+networking conditions
+weak writes
+transactions that
+among copies
+transactions in
+a transaction
+same cluster
+read only
+each cluster
+transactions at
+transactions are
+for strict
+of transactions
+a cluster
+and weak
+copies of
+copies and
+the iasg
+st j
+hot data
+reads x
+serialization graph
+a data
+core and
+copies at
+and quasi
+of messages
+in mobile
+response time
+strict operations
+the iesg
+weak write
+sw x
+s 1c
+an intracluster
+ias schedule
+data copies
+bounded inconsistency
+database state
+consistency requirements
+disconnected operation
+translation function
+data copy
+read operation
+since weak
+connected sites
+intercluster schedule
+s ies
+replication schema
+between weak
+cold data
+wr ww
+ww sr
+input rate
+transaction wt
+sr sw
+of abort
+cluster cl
+only weak
+the consistency
+mobile computing
+weak and strict
+and strict transactions
+a strict transaction
+a data item
+a weak transaction
+of weak transactions
+at each cluster
+one copy serializability
+weak transactions at
+the same cluster
+the consistency factor
+number of messages
+on a data
+for strict transactions
+reads x from
+core and quasi
+read only transactions
+at different clusters
+of weak and
+in cases of
+copies of x
+number of weak
+and weak transactions
+serial schedule s
+a core copy
+an intracluster schedule
+operations on data
+quasi copies of
+weak transactions that
+weak transaction wt
+weak transactions in
+intracluster schedule s
+a data copy
+and quasi copies
+wr ww sr
+at a cluster
+probability of abort
+ww sr sw
+strict transactions is
+transactions in s
+of data items
+on strict transactions
+a quasi copy
+one copy serial
+core copies of
+a one copy
+st j reads
+j reads x
+weak transactions are
+copy serial schedule
+only core copies
+consistency factor c
+quasi copies at
+allowable input rate
+since weak transactions
+of strict transactions
+copy at a
+in s ias
+a serial schedule
+the available bandwidth
+data item x
+order of transactions
+of transactions in
+reads from relationship
+the value read
+is conflict equivalent
+transactions can be
+the response time
+and best effort
+the probability that
+operation on a
+copies of a
+in s s
+the database state
+transactions do not
+transactions in the
+its projection on
+in s 1c
+is strongly correct
+if a strict
+strict transaction st
+sw x x
+transactions at different
+core copy at
+the same copy
+the iesg we
+to a serial
+in the iasg
+copy of x
+conflicts between weak

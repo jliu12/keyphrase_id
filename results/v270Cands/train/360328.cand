@@ -1,0 +1,270 @@
+rfu
+onechip
+reconfigurable
+fpga
+blt
+instructions
+instruction
+configuration
+fir
+rbt
+sim
+jpeg
+outorder
+speedup
+addr
+pipeline
+oc
+configurations
+max_inputs
+cpu
+stalls
+29x
+simplescalar
+07x
+33x
+fpgas
+dst
+simulator
+wr
+writes
+erent
+latency
+writeback
+0x7fffc000
+08x
+bfu
+recq
+destination
+int
+adpcm
+ruu
+architecture
+operand
+reconfiguration
+pegwit
+chimaera
+16x
+lsq
+processor
+memory
+coprocessors
+controller
+dispatch
+rd
+fabric
+register
+encoder
+func
+commit
+stage
+mediabench
+reads
+decoder
+mem
+35x
+oc_index
+00x
+oc_result
+36x
+24x
+programmable
+filter
+queue
+compiler
+di
+stations
+cache
+src
+medium
+25x
+lru
+reservation
+custom
+mpeg2
+hazard
+stalled
+functional
+hazards
+issue
+addresses
+the rfu
+the onechip
+sim onechip
+rfu instructions
+rfu instruction
+the fpga
+the blt
+order issue
+onechip s
+the reconfigurable
+an rfu
+reconfigurable unit
+the configuration
+speedup obtained
+onechip architecture
+reconfigurable processors
+rfu is
+in onechip
+destination block
+fir filter
+instructions are
+memory consistency
+of order
+dynamic scheduling
+fpga controller
+rfu writes
+prevent rfu
+the rbt
+rfu in
+performance improvement
+consistency scheme
+reconfigurable functional
+instruction stalls
+the fir
+sim outorder
+s pipeline
+reconfigurable instructions
+for onechip
+blt instruction
+of onechip
+rfu destination
+context memory
+fir c
+memory interface
+reservation stations
+di erent
+the simulator
+the memory
+reconfigurable logic
+for reconfigurable
+functional unit
+out of
+the applications
+the jpeg
+memory blocks
+the architecture
+configuration management
+configurations are
+onechip is
+reconfiguration bits
+2 29x
+rfu rd
+fir oc
+operation latency
+rfu and
+encode small
+rfu wr
+of rfu
+dst addr
+no blt
+of reconfigurable
+issue and
+the processor
+large 1
+instructions in
+processor core
+configuration is
+configuration compression
+medium 1
+reconfigurable coprocessors
+oc c
+small 1
+the dispatch
+a reconfigurable
+data size
+bits table
+pre loading
+the speedup
+filter kernel
+for sim
+of order issue
+out of order
+of the onechip
+the reconfigurable unit
+the onechip architecture
+the rfu is
+memory consistency scheme
+reconfigurable functional unit
+speedup obtained by
+the speedup obtained
+for reconfigurable processors
+in the blt
+sim onechip s
+blt instruction stalls
+in the rfu
+the rfu in
+the memory interface
+the fir filter
+the performance improvement
+rfu in onechip
+reconfigurable unit to
+fir filter kernel
+prevent rfu writes
+and destination block
+now been extended
+fir oc c
+and the reconfigurable
+the fpga controller
+onechip s pipeline
+of the rfu
+reconfiguration bits table
+for sim onechip
+no blt instruction
+stage is where
+order issue and
+for the jpeg
+of the applications
+the memory consistency
+of the configuration
+has now been
+the configuration is
+operand rfu instruction
+instructions are outstanding
+2 29x 2
+rfu destination addresses
+the rfu and
+configurations are defined
+rfu instruction is
+instructions that target
+bits table rbt
+of rfu instructions
+oc lib h
+functional unit rfu
+for the rfu
+the jpeg decoder
+for the onechip
+lines 25 27
+speedup obtained from
+lru configuration management
+kernel oriented applications
+rfu source addresses
+are no blt
+a reconfigurable unit
+reconfigurable unit the
+an rfu instruction
+while pending cpu
+block lock table
+experiment was executing
+where the fpga
+the blt is
+been extended to
+shows the speedup
+latency will be
+chimaera reconfigurable functional
+the chimaera reconfigurable
+the fpga function
+the reservation stations
+that target the
+the issue stage
+in the fpga
+instruction will be
+reads and writes
+of the reconfigurable
+the architecture s
+stored in the
+there are no
+and the out
+keep track of
+extended to support
+in program order

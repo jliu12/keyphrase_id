@@ -1,0 +1,270 @@
+qualifiers
+qualifier
+ect
+alias
+locs
+inference
+lock
+store
+linearities
+e1
+bugs
+e2
+alloc
+ref
+ects
+sigplan
+locations
+prop
+qc
+sensitive
+notices
+locking
+location
+insensitive
+dawson
+engler
+flow
+file
+cqual
+annotations
+stores
+assign
+linearity
+linux
+fresh
+int
+unlocked
+java
+ci
+constraint
+typestate
+checking
+kobayashi
+usage
+dataflow
+subtyping
+jhala
+files
+restrict
+ranjit
+naoki
+spinlock_t
+readwrite
+opened
+majumdar
+rupak
+filter
+propagation
+lin
+qa
+junfeng
+modules
+locked
+spin
+vulnerabilities
+esp
+deref
+yichen
+updates
+security
+merge
+aliasing
+annotate
+yahav
+emu10k1_card
+pistoia
+driver
+aliases
+abstract
+aiken
+kernel
+preprocessed
+interprocedural
+dereferences
+programmer
+struct
+assert
+igarashi
+propagate
+intraprocedural
+flow sensitive
+e ect
+type qualifiers
+assign c
+alias analysis
+flow insensitive
+ect inference
+prop c
+the type
+abstract location
+the store
+store c
+e ects
+sensitive type
+store constraints
+acm sigplan
+stream library
+notices v
+sigplan notices
+forward prop
+strong updates
+type system
+linux kernel
+program point
+back prop
+s c
+type systems
+locking bugs
+weak updates
+the e
+c stream
+non linear
+sensitive analysis
+our type
+usage analysis
+type errors
+ect of
+our system
+type inference
+the qualifier
+inference algorithm
+dawson engler
+strong update
+resource usage
+the lock
+s type
+the linearity
+in assign
+fresh qualifier
+y qc
+abstract locations
+whole module
+the constraint
+a location
+the location
+library usage
+naoki kobayashi
+store variable
+restrict x
+jhala rupak
+c l
+for java
+of type
+of e
+constraint resolution
+ranjit jhala
+merge c
+the linux
+a type
+lock is
+spin lock
+aliases of
+insensitive alias
+standard type
+type check
+type checking
+check e
+yichen xie
+assign stores
+int alloc
+type qualifier
+new locking
+effect inference
+qualifier variable
+ect l
+s foster
+store constructors
+store alloc
+locs t
+alias types
+e ect inference
+flow sensitive type
+the e ect
+acm sigplan notices
+sigplan notices v
+c stream library
+flow sensitive analysis
+e ect of
+and e ect
+sensitive type qualifiers
+back prop c
+resource usage analysis
+forward prop c
+stream library usage
+in assign c
+the linux kernel
+is non linear
+a strong update
+jhala rupak majumdar
+ranjit jhala rupak
+notices v 39
+the type of
+the flow insensitive
+alias analysis and
+to type check
+flow insensitive alias
+rules in figure
+insensitive alias analysis
+the lock is
+point represented by
+and store constraints
+program point represented
+whole module analysis
+s c lin
+e ect l
+represented by store
+standard type systems
+s assign c
+the type qualifiers
+then forward prop
+new locking bugs
+jeffrey s foster
+n 10 october
+of flow sensitive
+c c l
+in the linux
+merge c c
+v 39 n
+the rules in
+type system for
+the program point
+analysis for security
+proceedings of the
+the target language
+ect of the
+notices v 40
+n 6 june
+alias and e
+with type qualifiers
+igarashi naoki kobayashi
+type systems with
+underlying standard types
+c s assign
+filter c l
+top level qualifier
+c l assigns
+assign z 4
+check e q
+prop c then
+a ground store
+lin s c
+fresh abstract location
+calling the function
+the linearity computation
+the underlying standard
+case c of
+locked and unlocked
+programs with type
+store c we
+be opened for
+e ect set
+for java bytecode
+assert e q
+location of x
+with flow sensitive
+the c stream
+a fresh abstract
+of e ects
+of new locking
+preprocessed lines of

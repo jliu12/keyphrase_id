@@ -1,0 +1,270 @@
+getx
+tbe
+snooping
+putx
+queue
+ld
+cache
+mandatory
+protocol
+retry
+multicast
+transseq
+head
+requestor
+directory
+controller
+st
+incoming
+gets
+ima
+imd
+coherence
+stj
+issued
+pulse
+broadcast
+optional
+invalid
+ops
+clocks
+forwardprogress
+mia
+transaction
+tj
+owner
+prefetch
+imdi
+request
+specification
+isa
+mask
+legal
+busy
+timestamp
+block
+retrycount
+forwardid
+isad
+nack
+sma
+actions
+isd
+queues
+imad
+config
+verification
+transient
+transitions
+forwardidretrycount
+msi
+sharers
+processor
+protocols
+clock
+invariants
+message
+outgoing
+enqueue
+dj
+tbes
+consistency
+iia
+methodology
+outstanding
+trss
+lamport
+address
+gy
+pop
+victim
+history
+logical
+imds
+zot
+caf
+imdsi
+aqp
+mxa
+timestamps
+unsuccessful
+at head
+z z
+mandatory queue
+address queue
+broadcast snooping
+head of
+multicast snooping
+getx have
+snooping protocol
+ld st
+cache controller
+data queue
+not seen
+optional queue
+above same
+seen data
+busy invalid
+invalid issued
+of incoming
+incoming address
+address network
+l z
+issued getx
+queue address
+gets have
+seen getx
+the ld
+block b
+the tbe
+a ld
+z l
+legal global
+data yet
+seen gets
+outgoing address
+data message
+prefetch at
+address of
+the protocol
+global history
+of mandatory
+the cache
+table based
+the mandatory
+retry count
+in outgoing
+this block
+logical clocks
+of optional
+incoming data
+from tbe
+have seen
+the multicast
+transient states
+st at
+have not
+st data
+own getx
+service ld
+issued gets
+enqueue the
+write prefetch
+other getx
+then saw
+saw other
+own gets
+snooping memory
+putx have
+other gets
+data network
+as above
+send data
+snooping cache
+specification methodology
+memory model
+sequentially consistent
+observe our
+address b
+sequential consistency
+augmented protocol
+recent st
+victim block
+getx request
+global order
+based specification
+the address
+cache coherence
+coherence protocol
+memory controller
+the retry
+at head of
+z z z
+head of incoming
+have not seen
+z l z
+above same as
+as above same
+busy invalid issued
+same as above
+queue address of
+getx have not
+the ld st
+incoming address queue
+issued getx have
+head of mandatory
+broadcast snooping protocol
+of mandatory queue
+not seen data
+of incoming address
+the mandatory queue
+l z z
+occurs when we
+head of optional
+outgoing address queue
+multicast snooping protocol
+seen getx have
+of optional queue
+getx have seen
+prefetch at head
+for this block
+when we observe
+incoming data queue
+invalid issued getx
+in outgoing address
+of incoming data
+st data queue
+seen data yet
+table based specification
+ld st data
+gets have not
+z z l
+of the mandatory
+of the protocol
+snooping memory controller
+st at head
+observe our own
+we observe our
+issued gets have
+send data from
+invalid issued gets
+snooping cache controller
+read write prefetch
+then saw other
+on the ld
+enqueue the data
+message at head
+not seen getx
+l z l
+the cache controller
+most recent st
+have seen data
+have seen getx
+logical clocks and
+seen gets have
+the augmented protocol
+the multicast snooping
+the address network
+mandatory queue is
+legal global history
+the broadcast snooping
+not seen gets
+mandatory queue and
+the global order
+is sequentially consistent
+request from another
+putx have not
+ld st at
+global order occurs
+queue with type
+mandatory queue address
+address queue with
+read only prefetch
+mask at head
+insert message in
+address b sender
+message in outgoing
+pop mandatory queue
+gets have seen
+write prefetch at
+a legal global

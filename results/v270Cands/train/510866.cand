@@ -1,0 +1,270 @@
+barriers
+callee
+intraprocedural
+allocated
+interprocedural
+linktree
+caller
+barrier
+younger
+object
+treenode
+older
+generational
+st
+treeadd
+ow
+bisort
+em3d
+analyses
+receiver
+linkdepth
+youngest
+generations
+perimeter
+health
+garbage
+invoked
+sites
+v1
+objects
+mst
+voronoi
+instruction
+write
+olden
+benchmark
+collector
+callees
+flex
+compiler
+bh
+eliminate
+uous
+store
+java
+xed
+v2
+conservatively
+dierent
+entry
+transfer
+fvg
+instructions
+callers
+lattice
+invoke
+var
+baseline
+benets
+unnecessary
+extension
+allocation
+age
+modest
+allocate
+bitonic
+buildtree
+ccr00
+unremovable
+rst
+instrumenting
+remembered
+augments
+nursery
+tenured
+benchmarks
+signicant
+mit
+reference
+hv
+statically
+analyzed
+remove
+incorporates
+super
+scavenging
+invokes
+lived
+calling
+removable
+write barriers
+write barrier
+recently allocated
+allocated object
+full interprocedural
+m object
+intraprocedural analysis
+the callee
+callee type
+callee only
+the write
+most recently
+caller only
+caller context
+type extension
+only analysis
+linktree method
+younger object
+the linktree
+context extension
+the intraprocedural
+the analysis
+a younger
+older object
+the caller
+interprocedural analysis
+analyzed method
+reference from
+an older
+entry point
+invoked methods
+unnecessary write
+the receiver
+receiver object
+program point
+call sites
+m variable
+store instruction
+currently analyzed
+xed point
+objects allocated
+object to
+data ow
+analysis result
+allocated types
+youngest object
+barrier elimination
+a reference
+the transfer
+type set
+older generations
+point immediately
+object at
+of write
+the entry
+the m
+allocated by
+must point
+transfer function
+barrier density
+method youngest
+property lattice
+eliminate write
+executed write
+st is
+generational garbage
+of objects
+the program
+barriers that
+perimeter power
+transfer functions
+to eliminate
+the types
+barriers for
+the method
+sites that
+the store
+method m
+analysis times
+benchmark programs
+baseline version
+barriers in
+entry m
+barriers executed
+in invoked
+flex compiler
+incorporates information
+object is
+result at
+garbage collection
+most recently allocated
+recently allocated object
+the intraprocedural analysis
+the full interprocedural
+the m object
+the most recently
+full interprocedural analysis
+callee type extension
+the callee type
+the write barrier
+the write barriers
+reference from an
+the linktree method
+a younger object
+a reference from
+entry point of
+the entry point
+caller context extension
+an older object
+to a younger
+older object to
+from an older
+the caller context
+create a reference
+object to a
+unnecessary write barriers
+the receiver object
+of the write
+types of objects
+of write barriers
+the callee only
+the caller only
+an m variable
+currently analyzed method
+of objects allocated
+the analysis result
+the currently analyzed
+callee only analysis
+program point immediately
+write barrier elimination
+number of write
+to the most
+write barriers for
+point of the
+must point to
+the types of
+able to eliminate
+the program point
+call sites that
+analysis result at
+only analysis the
+method youngest object
+the method youngest
+of executed write
+allocated object at
+executed write barriers
+write barriers that
+caller only analysis
+eliminate write barriers
+the transfer function
+about the types
+the analysis results
+write barriers in
+the baseline version
+information about the
+result at the
+point to the
+transfer functions for
+of the method
+at the entry
+analysis is able
+the transfer functions
+the store instruction
+extension incorporates information
+to eliminate write
+power treeadd voronoi
+in invoked methods
+that may invoke
+xed point of
+write barriers are
+for the callee
+the type set
+that must point
+the property lattice
+receiver object of
+never create a
+m object is
+remove unnecessary write
+m object at
+the greatest xed

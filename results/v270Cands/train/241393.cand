@@ -1,0 +1,270 @@
+bdm
+processor
+sort
+tcomm
+sorting
+transposition
+processors
+cn
+broadcasting
+6p
+communication
+submatrices
+log
+balancing
+remote
+shear
+pm
+routing
+array
+rotate
+fft
+postal
+slice
+dft
+destined
+latency
+broadcast
+downwards
+unblock
+logp
+ffg
+read
+jth
+prefetch
+twiddle
+locality
+reads
+multiplication
+randomized
+sorted
+packet
+column
+permutations
+substep
+maxf1
+rows
+dirty
+matrix
+subarray
+layout
+pram
+load
+pipelined
+divides
+minf
+rotatesort
+pivot
+permutation
+item
+locations
+em
+completed
+fourier
+columns
+radix
+balls
+prefetching
+consecutive
+probability
+sorts
+sortings
+5p
+rounds
+moe
+modp
+stored
+synchronization
+memory
+bridging
+lemma
+barriers
+round
+barrier
+sample
+ary
+interconnection
+comp
+mesh
+phases
+ln
+communication time
+bdm model
+n elements
+each processor
+processor bdm
+the bdm
+processor p
+matrix transposition
+sort algorithm
+our model
+sample sort
+log p
+column sort
+p processor
+d log
+array a
+p processors
+n p
+p elements
+order form
+theta p
+computation time
+p log
+p i
+sort all
+major order
+a 0
+elements from
+p communication
+columns downwards
+rotate sort
+randomized routing
+parallel algorithms
+load balancing
+o n
+the communication
+the p
+transposition algorithm
+be completed
+in at
+single address
+the postal
+in o
+be sorted
+column major
+this step
+matrix multiplication
+n 6p
+pipelined prefetching
+sorting fft
+prefetch read
+jth slice
+broadcasting algorithm
+divides n
+processor can
+high probability
+completed in
+at most
+distributed memory
+a p
+simple permutations
+than cn
+of size
+elements in
+lemma 3
+stored in
+log n
+on our
+log e
+n log
+algorithm described
+parameter m
+with high
+e communication
+block distributed
+resulting communication
+sorted in
+in column
+p theta
+any processor
+computation model
+complexity bounds
+input array
+synchronization barrier
+theorem theorem
+i j
+log k
+the matrix
+remote memory
+cn elements
+p processor bdm
+the bdm model
+d log p
+processor p i
+2 d log
+on our model
+on the bdm
+log p log
+each processor p
+array a 0
+major order form
+the matrix transposition
+a p processor
+column sort algorithm
+the column sort
+the communication time
+in at most
+the n elements
+communication time by
+sort all the
+in o n
+the p processors
+log k 1
+n p elements
+sorted in column
+p communication time
+be completed in
+in column major
+matrix transposition algorithm
+sort algorithm is
+log p communication
+with high probability
+column major order
+can be completed
+o n log
+processor can be
+this step can
+e communication time
+the jth slice
+the columns downwards
+sorting fft and
+p log e
+more than cn
+prefetch read operations
+the sample sort
+block distributed memory
+fft and matrix
+in each processor
+and matrix multiplication
+single address space
+be done in
+n elements from
+the block distributed
+in communication time
+algorithm described in
+n log n
+p theta p
+p elements are
+step can be
+the resulting communication
+the complexity bounds
+can be implemented
+following theorem theorem
+theorem theorem 5
+p 1 3
+can be done
+processors such that
+the load balancing
+be sorted in
+or near optimal
+optimal or near
+n 6p 2
+any constant larger
+begin each processor
+bdm model the
+2 computation time
+distributed memory bdm
+log e communication
+twiddle factor scaling
+larger than maxf1
+output array a
+sample sort algorithm
+the rotate sort
+is any constant
+order form in
+communication time tcomm
+column of a
+p i j
+be implemented in
+using the matrix

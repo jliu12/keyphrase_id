@@ -1,0 +1,270 @@
+calibration
+camera
+focal
+vsdf
+covariance
+head
+azimuth
+elevation
+rotation
+tracked
+vision
+image
+filter
+motion
+kalman
+angles
+stereo
+corner
+pixels
+frame
+matches
+fy
+axis
+centre
+gaze
+frames
+25hz
+oe
+eye
+misalignment
+measurement
+stationary
+rms
+angle
+alignment
+lengths
+platform
+fx
+020
+axes
+visual
+3d
+tracking
+feature
+offsets
+pixel
+mounts
+06error
+mounted
+yorick
+trajectory
+scene
+optic
+measurements
+inverse
+world
+p0
+fixation
+metrology
+utilising
+x0
+8000
+egomotion
+4000
+6000
+eq
+angular
+dof
+calibrating
+features
+robot
+gammaf
+calibrate
+mount
+iv
+harris
+corners
+runs
+offset
+uk
+estimates
+complicating
+dimension
+ccd
+update
+robotic
+secondly
+uncalibrated
+eqs
+stimuli
+state vector
+calibration algorithm
+the calibration
+calibration parameters
+the camera
+focal length
+the vsdf
+inverse covariance
+focal lengths
+the focal
+local state
+time matches
+state dimension
+dimension filter
+variable state
+and azimuth
+head angles
+head eye
+eye platform
+global state
+the rotation
+local states
+full state
+elevation and
+image centre
+angles e
+kalman filter
+the head
+the image
+tracked features
+error pixels
+length time
+oe z
+oe y
+by angle
+rotation axes
+state vectors
+camera calibration
+y z
+oe x
+covariance matrix
+calibration of
+single camera
+covariance p0
+azimuth axis
+z frame
+full calibration
+head frame
+angle offset
+alignment offsets
+visual direction
+estimate x
+prediction error
+the filter
+fx fy
+for calibration
+corner features
+structure from
+p gamma1
+x oe
+fy in
+camera mounted
+predicted position
+cumulative number
+initial estimate
+the inverse
+the runs
+the rms
+2000 4000
+five runs
+frame x
+of tracked
+6000 8000
+4000 6000
+linear with
+y oe
+x y
+filter is
+from motion
+update rules
+new observations
+pure rotation
+match is
+camera frame
+the x
+self calibration
+y i
+affine structure
+mounted on
+rms error
+the inverse covariance
+variable state dimension
+the focal lengths
+state dimension filter
+the calibration parameters
+inverse covariance matrix
+the variable state
+full state vector
+head eye platform
+length time matches
+the calibration algorithm
+focal length time
+x y z
+oe x oe
+x oe y
+the full state
+the state vector
+elevation and azimuth
+the global state
+a single camera
+of the camera
+local state vector
+y z frame
+estimate x k
+full calibration algorithm
+head angles e
+the full calibration
+the update rules
+for the focal
+new local state
+and oe z
+the focal length
+the predicted position
+a pure rotation
+camera mounted on
+the cumulative number
+cumulative number of
+runs of the
+structure from motion
+oe y and
+mounted on a
+4000 6000 8000
+2000 4000 6000
+y and oe
+of the focal
+in the world
+a local state
+a new local
+the head frame
+state estimates are
+misalignment of the
+single camera mounted
+entries oe 2
+covariance r i
+current local states
+kalman filter 2
+runs at 4
+axis to coincide
+visual direction of
+head motion the
+for initial errors
+the camera mount
+global state vectors
+and fy in
+image features tracked
+the visual direction
+the head angles
+the azimuth axis
+state vector x
+by angle a
+by angle e
+pure rotation and
+pixels prediction error
+global state but
+focal lengths and
+of corner matches
+tracked corner features
+prediction error time
+time reactive vision
+a head eye
+a new measurement
+offset 2000 4000
+transformation between x
+rotation by angle
+estimates over time
+matrix p gamma1
+error pixels x
+pixels x focal
+image centre is
+state vector size
