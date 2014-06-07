@@ -9,8 +9,13 @@ from nltk.classify import maxent
 #global variables for classification
 stopwords = []
 
-outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
-candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
+
+#outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
+#candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
+
+outputPath = "maxentOutput600.txt"#MAXENT CHANGE
+candidatesPath = "test600Cands"#MAXENT CHANGE
+
 
 class FeatureCalculator:
 	def __init__(self, document, phrases, tfidf):
@@ -219,7 +224,7 @@ def calc_test_features(test_data):
 		file_id = (fname[file_id_index+1:])[0:-4]
 
 		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
-		#phrases = test_data[fname]
+		phrases = test_data[fname]
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list) 
 		for s in c.get_phrases():

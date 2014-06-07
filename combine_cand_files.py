@@ -15,10 +15,15 @@ def processArgs():
 	global corpusPrefix
 	global sourcePrefix
 	global sourceSuffix
+	global targetPath
 	myArgs = sys.argv;
-	if(len(myArgs) > 2):
+	if(len(myArgs) > 3):
 		corpusPrefix = myArgs[1]
 		sourcePrefix = myArgs[2]
+		targetPath = myArgs[3]
+	else:
+		print("Usage: uncombine_cand_files.py corpusPath sourcePrefix targetPath")
+		exit(1)
 	global sourcePath
 	sourcePath = sourcePrefix + "*" + sourceSuffix
 	print("sourcePath: " + sourcePath)
