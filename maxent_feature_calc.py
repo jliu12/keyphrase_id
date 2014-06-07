@@ -15,7 +15,7 @@ candidatesPath = "testCandidatesV1.txt"#MAXENT CHANGE
 class FeatureCalculator:
 	def __init__(self, document, phrases, tfidf):
 		self.phrases = phrases
-		#self.tfidf = self.read_tfidf(tfidf) # this is a dict!!!
+		self.tfidf = self.read_tfidf(tfidf) # this is a dict!!!
 		self.document = self.read_doc(document)
 
 	def read_doc(self, f_name):
@@ -51,6 +51,9 @@ class FeatureCalculator:
 		relative_pos = float(self.document.rfind(candidate)) / len(self.document)
 		return {'last_occur': relative_pos}
 
+	def ft_spread(self, start, end):
+		return {'spread': end - start}
+
 	#TODO: implement
 	def ft_doc_section(self, candidate):
 		#not yet implemented, need document section markers
@@ -84,11 +87,16 @@ class FeatureCalculator:
 		first_occurrence = self.ft_first_occurrence_position(candidate)
 		feature_dict.update(first_occurrence)
 
+
 		last_occurrence = self.ft_last_occurrence_position(candidate)
 		feature_dict.update(last_occurrence)
 
-		#tfidf = self.ft_tfidf(candidate)
-		#feature_dict.update(tfidf)
+		spread = self.ft_spread(first_occurrence['first_occur'], last_occurrence['last_occur'])
+		feature_dict.update(spread)
+
+
+		tfidf = self.ft_tfidf(candidate)
+		feature_dict.update(tfidf)
 
 		stopword_start = self.ft_stopword_start(candidate)
 		feature_dict.update(stopword_start)
@@ -157,12 +165,29 @@ def parse_test_data(fname):
 
 def calc_train_features(train_data):
 	train_featureset = []
-	tfidf_list = [0.9, 0.8, 0.6, 0.4, 0.5, 0.4, 0.1, 0.2, 0.3, 0.2, 0.1]
 	for fname, phrases in train_data.items():
+		file_id_index = fname.rfind("/")
+		file_id = (fname[file_id_index+1:])[0:-4]
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + "-gold.tfvec")
+		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list)
 		for s in c.get_phrases():
 			train_featureset.append((c.get_features(s[0]), s[1]))
+
 	return train_featureset
+
+def get_tfidf_vector(tfidf_file_name):
+	tfidf_vec = []
+	word_list = []
+	#check_vec = []
+	with open(tfidf_file_name, "r") as f:
+		for line in f:
+			words = line.strip().split(':')
+			tfidf_vec.append(float(words[1]))
+			word_list.append(words[0])
+			#check_vec.append(words[0] + ": " + words[1])
+	return tfidf_vec, word_list #check_vec
+
 
 def run_classifier(classifier, featureset):
 	file = open(outputPath, "w") #MAXENT CHANGE
@@ -187,15 +212,20 @@ def run_classifier(classifier, featureset):
 
 def calc_test_features(test_data):
 	test_featureset = []
-	tfidf_list = [0.9, 0.8, 0.6, 0.4, 0.5, 0.4, 0.1, 0.2, 0.3, 0.2, 0.1]
 	keylist = test_data.keys()
 	keylist = sorted(keylist)
 	for fname in keylist:
-		phrases = test_data[fname]
-		c = FeatureCalculator(fname, phrases, tfidf_list)
+		file_id_index = fname.rfind("/")
+		file_id = (fname[file_id_index+1:])[0:-4]
+
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
+		#phrases = test_data[fname]
+		phrases = [x for x in phrases if x[0] in word_list]
+		c = FeatureCalculator(fname, phrases, tfidf_list) 
 		for s in c.get_phrases():
 			test_featureset.append((fname, s[0], (c.get_features(s[0]), s[1])))
 	return test_featureset
+
 
 def processArgs():#MAXENT CHANGE
 	global outputPath, candidatesPath
@@ -213,6 +243,7 @@ def main():
 	test_data = parse_test_data(candidatesPath)
 	train_featureset = calc_train_features(train_data)
 	test_featureset = calc_test_features(test_data)
+	print test_featureset
 	
 	#MAXENT CHANGE
 	encoding = maxent.TypedMaxentFeatureEncoding.train(train_featureset, count_cutoff=3, alwayson_features=True)#MAXENT CHANGE
