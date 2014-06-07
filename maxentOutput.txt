@@ -1,4 +1,5 @@
 corpus/krapavin2000-test/1005058.txt
+<<<<<<< HEAD
 recommender
 vzpro
 customer
@@ -21,13 +22,18 @@ cosine
 similarity
 collaborative
 predictions
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 e vzpro
 recommender systems
 dependency networks
 association mining
 recommender system
 based recommender
+<<<<<<< HEAD
 vzpro and
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 item based
 breese et
 customer profile
@@ -61,11 +67,16 @@ recommender systems in
 sql server 2000
 recommender systems based
 correlation coe cient
+<<<<<<< HEAD
+=======
+ms sql server
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 1998 heckerman et
 active customer profile
 recommender systems are
 
 corpus/krapavin2000-test/1005395.txt
+<<<<<<< HEAD
 event
 individuals
 events
@@ -75,12 +86,18 @@ temporal
 count
 propositions
 entities
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 event types
 event type
 count nouns
 event token
 count noun
 history tree
+<<<<<<< HEAD
+=======
+hh ti
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 type e
 event calculus
 situation calculus
@@ -90,6 +107,10 @@ within vel
 time points
 frame problem
 event tokens
+<<<<<<< HEAD
+=======
+index hh
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 vel frame
 index hh ti
 time and events
@@ -103,6 +124,7 @@ h up to
 event of type
 
 corpus/krapavin2000-test/1005397.txt
+<<<<<<< HEAD
 animal
 ccalc
 mount
@@ -119,6 +141,26 @@ human cannot
 mounted h
 car1 none
 road segment
+=======
+positiveorientation
+c world
+zoo world
+pos anml
+h anml
+nextsegment c
+c sg
+anml p
+tra c
+large animal
+p p1
+distance car1
+human cannot
+c none
+mounted h
+car1 none
+road segment
+new segment
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 segment car1
 nextsegment car1
 tra c world
@@ -127,6 +169,10 @@ nextsegment c none
 mounted h anml
 giunchiglia et al
 formalization of the
+<<<<<<< HEAD
+=======
+p p1 g
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 nextsegment c sg
 attempt to mount
 et al 2003
@@ -139,6 +185,7 @@ another large animal
 h anml if
 
 corpus/krapavin2000-test/1005399.txt
+<<<<<<< HEAD
 robot
 brooks
 layer
@@ -150,6 +197,8 @@ provers
 nonmonotonic
 theories
 architecture
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 subsumption architecture
 theorem prover
 theorem provers
@@ -159,12 +208,25 @@ robot control
 logical theory
 based subsumption
 lower layers
+<<<<<<< HEAD
 nonmonotonic reasoning
+=======
+layer 1
+layer 0
+nonmonotonic reasoning
+heading angle
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 technology theorem
 prolog technology
 semantic attachments
 mobile robot
+<<<<<<< HEAD
 avoid layer
+=======
+get force
+avoid layer
+halt robot
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 brooks subsumption architecture
 technology theorem prover
 based subsumption architecture
@@ -176,6 +238,7 @@ sonar reading sonar
 robot to move
 high level robot
 theorem provers and
+<<<<<<< HEAD
 language includes the
 fwd heading speed
 
@@ -205,6 +268,26 @@ h layer
 vertex partition
 g w
 partition into
+=======
+negation as failure
+language includes the
+fwd heading speed
+logical approach to
+
+corpus/krapavin2000-test/1005453.txt
+tree width
+every graph
+r ring
+g h
+r outgrowth
+face f
+vertex coloring
+supergraph h
+graph minors
+h layer
+vertex partition
+g w
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 ring r
 edge partition
 k b
@@ -212,10 +295,21 @@ h f
 width at most
 tree width at
 form a graph
+<<<<<<< HEAD
 graph with tree
 graph with no
 clique join of
 set of surfaces
+=======
+every graph in
+g h f
+graph with tree
+1 t n
+graph with no
+clique join of
+set of surfaces
+g h is
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 balanced k b
 join of g
 r ring r
@@ -223,6 +317,7 @@ colors form a
 h is a
 
 corpus/krapavin2000-test/1005726.txt
+<<<<<<< HEAD
 router
 routes
 route
@@ -237,6 +332,8 @@ ases
 prediction
 network
 outcome
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 best route
 ebgp learned
 ebgp routes
@@ -247,7 +344,10 @@ igp path
 bgp decision
 best ebgp
 route selection
+<<<<<<< HEAD
 route at
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 router id
 bgp routing
 network engineering
@@ -257,6 +357,10 @@ signaling graph
 traffic engineering
 network operators
 ingress router
+<<<<<<< HEAD
+=======
+ebgp speaking
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 ebgp learned routes
 bgp decision process
 bgp route selection
@@ -273,6 +377,7 @@ best bgp route
 route prediction algorithm
 
 corpus/krapavin2000-test/1006322.txt
+<<<<<<< HEAD
 collective
 bayesian
 learning
@@ -284,6 +389,8 @@ central
 heterogenous
 observations
 heterogeneous
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 central site
 bayesian networks
 bayesian network
@@ -294,16 +401,23 @@ cross terms
 collective mining
 centralized approach
 web log
+<<<<<<< HEAD
 networks from
 asia model
 site a
+=======
+asia model
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 heterogeneous data
 alarm network
 collective learning
 distributed heterogeneous
 site b
 dierent sites
+<<<<<<< HEAD
 mining of
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 distributed heterogeneous data
 bayesian networks from
 fraction of observations
@@ -311,6 +425,7 @@ networks from distributed
 collective mining of
 mining of bayesian
 kl distance between
+<<<<<<< HEAD
 sites a and
 r chen et
 
@@ -324,12 +439,21 @@ relevance
 ectiveness
 document
 search
+=======
+number of sites
+sites a and
+web log le
+r chen et
+
+corpus/krapavin2000-test/1006412.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 search engines
 search engine
 human based
 relevance judgments
 average precision
 based evaluation
+<<<<<<< HEAD
 di erent
 human judgment
 web search
@@ -338,6 +462,21 @@ performing search
 signi cant
 based evaluations
 e ectiveness
+=======
+pearson r
+di erent
+tukeys hsd
+human judgment
+web search
+awseem 100
+awseem 50
+performing search
+signi cant
+based evaluations
+dcv 20
+e ectiveness
+information needs
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 recall values
 awseem results
 precision values
@@ -352,13 +491,23 @@ web search engines
 number of relevant
 search engines in
 human and awseem
+<<<<<<< HEAD
 search engines and
 50 and 100
 human relevance judgments
+=======
+tukeys hsd for
+search engines and
+50 and 100
+search n average
+human relevance judgments
+n average subset
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 worst performing search
 05 engines precisionnetscape
 
 corpus/krapavin2000-test/1006425.txt
+<<<<<<< HEAD
 hypergraph
 transversal
 rossmanith
@@ -372,14 +521,30 @@ branching number
 minimum transversal
 hypergraph h
 niedermeier and
+=======
+branching number
+2 edges
+psi k
+minimum transversal
+hypergraph h
+o 1
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 3 uniform
 branching numbers
 running time
 hitting set
 transversal hypergraph
 mintr h
+<<<<<<< HEAD
 hypergraph with
 f h
+=======
+1 6737
+psi 0
+f h
+case 4
+1 6538
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 number branching
 4 subcase
 niedermeier and rossmanith
@@ -388,6 +553,10 @@ o 1 6737
 4 subcase d
 2 edges are
 number cases for
+<<<<<<< HEAD
+=======
+subcase d 2
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 number branching number
 case 4 subcase
 cases for case
@@ -401,6 +570,7 @@ transversal hypergraph problem
 minimum transversal problem
 
 corpus/krapavin2000-test/1006427.txt
+<<<<<<< HEAD
 cells
 mobile
 devices
@@ -409,6 +579,8 @@ cell
 wireless
 located
 location
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 expected paging
 conference call
 cells paged
@@ -417,9 +589,15 @@ mobile devices
 mobile device
 minimizes expected
 rst round
+<<<<<<< HEAD
 device is
 strategy that
 expected number
+=======
+expected number
+k cells
+last k
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 location area
 conference call problem
 number of cells
@@ -433,6 +611,7 @@ strategy that minimizes
 cells paged until
 call problem is
 paged in the
+<<<<<<< HEAD
 nd a strategy
 strategy of length
 expected paging for
@@ -452,29 +631,62 @@ iteration
 behaviour
 perturbation
 objective
+=======
+last k cells
+nd a strategy
+strategy of length
+least one mobile
+expected paging for
+
+corpus/krapavin2000-test/1007454.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 6 cycle
 cycle examples
 cycle pattern
 steepest edge
+<<<<<<< HEAD
 simplex method
 reduced cost
 negative reduced
 ratio test
 largest pivot
 column selection
+=======
+x 2k
+2 6
+simplex method
+2k 2
+reduced cost
+negative reduced
+expand ratio
+ratio test
+largest pivot
+row 2
+column selection
+column 2
+row 1
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 degenerate vertex
 basic variables
 2 6 cycle
 11 a 11
 6 cycle examples
 6 cycle pattern
+<<<<<<< HEAD
 expand ratio test
 negative reduced cost
+=======
+x 2k 2
+expand ratio test
+negative reduced cost
+x x x
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 12 a 11
 leave the basis
 necessary and sufficient
 
 corpus/krapavin2000-test/1007523.txt
+<<<<<<< HEAD
 students
 participants
 testing
@@ -493,6 +705,8 @@ student
 prioritization
 tool
 notification
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 continuous testing
 continuous compilation
 test suite
@@ -500,7 +714,10 @@ problem set
 time worked
 test suites
 statistically significant
+<<<<<<< HEAD
 students who
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 regression errors
 emacs plug
 testing tool
@@ -525,6 +742,7 @@ regression test suite
 years of java
 
 corpus/krapavin2000-test/1007526.txt
+<<<<<<< HEAD
 coverage
 symbolic
 precondition
@@ -537,13 +755,26 @@ initialization
 checking
 symbolic execution
 input generation
+=======
+symbolic execution
+input generation
+red black
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 test input
 model checking
 model checker
 lazy initialization
+<<<<<<< HEAD
 path condition
 black trees
 black box
+=======
+white box
+path condition
+black trees
+black box
+next next
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 branch coverage
 test inputs
 input structures
@@ -566,14 +797,24 @@ box test input
 symbolic execution and
 put and remove
 symbolic execution of
+<<<<<<< HEAD
 model checker to
 black box testing
 black box approach
+=======
+x y y
+model checking to
+model checker to
+black box testing
+black box approach
+trees of size
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 manipulating complex data
 symbolic execution tree
 generalized symbolic execution
 
 corpus/krapavin2000-test/1007540.txt
+<<<<<<< HEAD
 selector
 mode
 steering
@@ -583,6 +824,8 @@ controller
 training
 program
 brightness
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 mode selector
 program steering
 new mode
@@ -596,11 +839,21 @@ raw materials
 original program
 control programs
 control program
+<<<<<<< HEAD
 selector that
 saver mode
 power saver
 battery 1
 mode selectors
+=======
+saver mode
+power saver
+change rand
+program original
+battery 1
+mode selectors
+original upgraded
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 new mode selector
 original mode selector
 mode selector that
@@ -618,6 +871,7 @@ environmental change simulates
 mode selector may
 
 corpus/krapavin2000-test/1007547.txt
+<<<<<<< HEAD
 xpath
 promela
 requestlist
@@ -627,26 +881,46 @@ document
 bpel4ws
 services
 schema
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 msl type
 location path
 xml document
 web services
 xpath expression
 xml data
+<<<<<<< HEAD
 promela code
 xpath expressions
 location paths
+=======
+type tree
+promela code
+xpath expressions
+location paths
+type node
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 translation algorithm
 web service
 xml schema
 tree sequence
 register message
+<<<<<<< HEAD
 msl types
 promela translation
+=======
+g1 gk
+msl types
+equation 2
+xml variable
+promela translation
+macro tree
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 stockid in the
 xml data manipulation
 example 2 3
 input c d
+<<<<<<< HEAD
 boolean xpath expression
 tree in fig
 
@@ -658,21 +932,47 @@ clustering
 randomized
 approximate
 successive
+=======
+type tree for
+boolean xpath expression
+tree in fig
+51 to 57
+
+corpus/krapavin2000-test/1007763.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 k median
 median algorithm
 median problem
 1 configuration
+<<<<<<< HEAD
+=======
+o 1
+k o
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 1 approximate
 uniform weights
 approximate k
 sub bins
 successive sampling
+<<<<<<< HEAD
+=======
+o nk
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 k configuration
 configuration x
 guha et
 sampling algorithm
+<<<<<<< HEAD
 input points
 weights k
+=======
+step follows
+input points
+cost x
+lemma 2
+weights k
+complete sub
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 arbitrary weights
 log ng
 m o
@@ -681,11 +981,20 @@ high probability
 k median algorithm
 k median problem
 o 1 configuration
+<<<<<<< HEAD
+=======
+k o 1
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 o 1 approximate
 approximate k median
 1 approximate k
 guha et al
 step follows from
+<<<<<<< HEAD
+=======
+m o 1
+0 i t
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 complete sub bins
 uniform weights k
 weights k median
@@ -696,6 +1005,7 @@ k configuration x
 point in u
 
 corpus/krapavin2000-test/1007765.txt
+<<<<<<< HEAD
 agreements
 clustering
 clusters
@@ -707,11 +1017,17 @@ edge
 learning
 maximizing
 partition
+=======
+c opt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 opt 0
 positive edges
 good wrt
 maximizing agreements
+<<<<<<< HEAD
 edges between
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 optimal clustering
 jc opt
 edges inside
@@ -720,17 +1036,34 @@ negative edges
 singleton clusters
 minimizing disagreements
 mistakes made
+<<<<<<< HEAD
+=======
+c 0
+0 good
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 edge labels
 agnostic learning
 vertex removal
 clustering opt
+<<<<<<< HEAD
+=======
+3 good
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 number of agreements
 edges between clusters
 mistakes made by
 number of disagreements
+<<<<<<< HEAD
 positive edges between
 exponential in 1
 number of edges
+=======
+fw i g
+positive edges between
+exponential in 1
+number of edges
+c 0 j
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 ptas for maximizing
 edges inside clusters
 vertex addition step
@@ -740,6 +1073,7 @@ gives us the
 probability at least
 
 corpus/krapavin2000-test/1007767.txt
+<<<<<<< HEAD
 clustering
 agglomerative
 clusters
@@ -750,10 +1084,13 @@ approximate
 distance
 spanning
 neighbors
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 agglomerative clustering
 1 gammaffi
 proximity tables
 sparse partitions
+<<<<<<< HEAD
 proximity table
 points in
 approximate nearest
@@ -762,10 +1099,26 @@ gp delta
 mst clustering
 sparse partition
 approximate mst
+=======
+n ffi
+proximity table
+b x
+approximate nearest
+gammaffi proximity
+gp delta
+marked 1
+mst clustering
+x r
+f j
+sparse partition
+approximate mst
+jth iteration
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 log n
 closest pair
 1 ffl
 nearest neighbor
+<<<<<<< HEAD
 n 1 gammaffi
 1 gammaffi proximity
 agglomerative clustering algorithm
@@ -805,6 +1158,36 @@ mesh shown
 untangling by
 invalid elements
 arbitrary lagrangian
+=======
+b x r
+n 1 gammaffi
+placed in f
+points in b
+1 gammaffi proximity
+2 e d
+agglomerative clustering algorithm
+x 2 e
+points in f
+point in p
+approximate nearest neighbor
+nearest neighbor search
+gammaffi proximity tables
+f j 2
+
+corpus/krapavin2000-test/1007852.txt
+feasible set
+optimization procedure
+objective function
+untangled mesh
+set method
+valid elements
+set approach
+2d meshes
+mesh shown
+invalid elements
+arbitrary lagrangian
+barely valid
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 lagrangian eulerian
 mesh untangling
 untangling procedure
@@ -819,6 +1202,7 @@ elements connected to
 vertex connected to
 feasible set polygon
 untangle the mesh
+<<<<<<< HEAD
 barely valid elements
 shown in figure
 set for a
@@ -841,14 +1225,41 @@ parent diam
 cooperative caching
 hcc algorithm
 request sequence
+=======
+shows the mesh
+barely valid elements
+shown in figure
+set for a
+set is a
+
+corpus/krapavin2000-test/1007924.txt
+capacity blowup
+parent diam
+cooperative caching
+o ine
+line 12
+hcc algorithm
+request sequence
+lemma 4
+line 4
+line 15
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 hcc problem
 loop preserves
 holds initially
 hierarchical cooperative
 distributed paging
+<<<<<<< HEAD
 guard of the
 hierarchical cooperative caching
 set of files
+=======
+initially because
+guard of the
+hierarchical cooperative caching
+set of files
+line 12 is
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 outer if statement
 inequality is due
 loop moves to
@@ -857,10 +1268,15 @@ incurs a cost
 node i e
 every iteration of
 loop invariant of
+<<<<<<< HEAD
+=======
+loop and the
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 every internal node
 4 12 and
 
 corpus/krapavin2000-test/1007977.txt
+<<<<<<< HEAD
 inorder
 preorder
 traversal
@@ -873,6 +1289,11 @@ foundedness
 converse of
 tree a
 breadth first
+=======
+breadth first
+f well
+x us
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 preorder traversal
 jointly surjective
 function theorem
@@ -883,18 +1304,30 @@ first labelling
 well foundedness
 given list
 building trees
+<<<<<<< HEAD
 spine tree
+=======
+su xok
+spine tree
+xok x
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 inorder roll
 converse of a
 breadth first labelling
 su xok x
 f well foundedness
 breadth first traversal
+<<<<<<< HEAD
+=======
+c a e
+revzip a f
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 inorder traversal of
 tree a tree
 non empty lists
 su x of
 preorderf map snd
+<<<<<<< HEAD
 
 corpus/krapavin2000-test/1008135.txt
 lanczos
@@ -917,6 +1350,11 @@ errors
 recurrence
 arithmetic
 tikhonov
+=======
+map snd us
+
+corpus/krapavin2000-test/1008135.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 cgls method
 multishift cgls
 lanczos method
@@ -930,10 +1368,17 @@ standard lanczos
 krylov subspace
 shifted systems
 finite precision
+<<<<<<< HEAD
 matrix a
 cgls recurrences
 rounding errors
 accuracy of
+=======
+alg 1
+cgls recurrences
+rounding errors
+16 alg
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 lanczos relation
 multishift cgls method
 attainable accuracy of
@@ -946,6 +1391,7 @@ cgls method based
 least squares problems
 
 corpus/krapavin2000-test/1008136.txt
+<<<<<<< HEAD
 lanczos
 singular
 irlanb
@@ -964,6 +1410,10 @@ factorization
 matrix
 implicitly
 matlab
+=======
+bidiagonalization
+reorthogonalization
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 ritz values
 harmonic ritz
 singular values
@@ -971,7 +1421,13 @@ smallest singular
 implicitly restarted
 singular triplets
 lanczos bidiagonalization
+<<<<<<< HEAD
 singular value
+=======
+tol 1e
+singular value
+l 1
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 augmented matrix
 starting vector
 convergence tolerance
@@ -982,7 +1438,13 @@ b l
 lower bidiagonal
 partial reorthogonalization
 matrix c
+<<<<<<< HEAD
 bidiagonal matrix
+=======
+u l
+bidiagonal matrix
+eigenvalue problems
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 harmonic ritz values
 singular values of
 smallest singular values
@@ -991,6 +1453,10 @@ augmented matrix c
 implicitly restarted lbd
 number of restarts
 smallest singular value
+<<<<<<< HEAD
+=======
+u l 1
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 implicitly restarted lanczos
 singular triplets of
 implicitly restarted arnoldi
@@ -1002,6 +1468,7 @@ ritz values of
 triplets of large
 
 corpus/krapavin2000-test/1008286.txt
+<<<<<<< HEAD
 transition
 duration
 timed
@@ -1014,12 +1481,25 @@ transition system
 trajectory ae
 timed transition
 transition systems
+=======
+gb 1
+transition system
+trajectory ae
+timed transition
+gb 2
+transition systems
+system gb
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 gas burner
 position p
 minimal separation
 time units
 duration calculus
 state variables
+<<<<<<< HEAD
+=======
+real time
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 bounded response
 bounded invariance
 temporal logic
@@ -1029,11 +1509,18 @@ r r
 temporal formula
 transition system gb
 timed transition system
+<<<<<<< HEAD
 timed transition systems
+=======
+r r r
+timed transition systems
+system gb 2
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 real time systems
 linear temporal logic
 taken at position
 transition system s
+<<<<<<< HEAD
 state predicate p
 bounded critical duration
 
@@ -1055,6 +1542,16 @@ train
 randomized
 sequences
 coloring
+=======
+leak in gb
+state predicate p
+property of gb
+rules for bounded
+bounded critical duration
+ae 1 p
+
+corpus/krapavin2000-test/1008415.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 line algorithm
 accommodating sequences
 seat reservation
@@ -1062,12 +1559,22 @@ unit price
 reservation problem
 price problem
 competitive ratio
+<<<<<<< HEAD
 extra intervals
+=======
+seat 1
+extra intervals
+o line
+seat 2
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 k mod
 first fit
 optimal o
 request sequence
+<<<<<<< HEAD
 ratio on
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 starting station
 seat reservation problem
 unit price problem
@@ -1078,6 +1585,10 @@ competitive ratio on
 line algorithm will
 even on accommodating
 accommodating sequences for
+<<<<<<< HEAD
+=======
+requests in u
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 competitive on accommodating
 requests in s
 reservation problem is
@@ -1086,6 +1597,7 @@ accommodating sequences proof
 fair on line
 
 corpus/krapavin2000-test/1008425.txt
+<<<<<<< HEAD
 notification
 competitive
 competitiveness
@@ -1101,12 +1613,23 @@ greedy notify
 time t
 randomized algorithm
 job lengths
+=======
+job j
+immediate notification
+greedy notify
+large job
+randomized algorithm
+small job
+job lengths
+2 oe
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 job l
 competitive randomized
 goldman et
 l f
 provides immediate
 select technique
+<<<<<<< HEAD
 notification model
 job j i
 competitive randomized algorithm
@@ -1115,10 +1638,27 @@ goldman et al
 provides immediate notification
 algorithm which provides
 randomly select technique
+=======
+virtually scheduled
+notification model
+job j i
+j i k
+large job l
+competitive randomized algorithm
+time t k
+classify and randomly
+goldman et al
+small job s
+provides immediate notification
+algorithm which provides
+randomly select technique
+empty at time
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 q delta is
 job lengths are
 jobs have one
 randomized algorithm which
+<<<<<<< HEAD
 greedy notify is
 
 corpus/krapavin2000-test/1008470.txt
@@ -1133,15 +1673,30 @@ elect
 population
 idmaps
 representatives
+=======
+j at time
+begins job j
+greedy notify is
+
+corpus/krapavin2000-test/1008470.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 skip reset
 algorithm skip
 n c
 expected number
 users n
+<<<<<<< HEAD
 hosts is
 send reply
 send feedback
 basic algorithm
+=======
+u 8
+send reply
+send feedback
+basic algorithm
+n expected
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 feedback implosion
 feedback n
 active hosts
@@ -1156,16 +1711,30 @@ number of rounds
 skip reset with
 users n expected
 n expected number
+<<<<<<< HEAD
 send feedback n
 number of users
 reset with history
 bolot et al
 number of hosts
+=======
+u 8 c
+send feedback n
+n c l
+number of users
+reset with history
+1 u 8
+bolot et al
+number of hosts
+c n c
+l 1 u
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 number of replies
 algorithm t n
 skip reset choice
 
 corpus/krapavin2000-test/1008818.txt
+<<<<<<< HEAD
 oaep
 ciphertext
 wayness
@@ -1178,30 +1747,55 @@ adversary
 attacks
 shoup
 permutation
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 one wayness
 decryption oracle
 domain one
 partial domain
+<<<<<<< HEAD
 wayness of
 rsa oaep
 success probability
+=======
+rsa oaep
+success probability
+chosen ciphertext
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 semantic security
 ciphertext c
 public key
 oracle simulation
 gammapd gammaow
+<<<<<<< HEAD
 adaptive chosen
 h respectively
 security of
 ciphertext attacks
+=======
+oracles g
+adaptive chosen
+h list
+h respectively
+ciphertext attacks
+succ pd
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 domain one wayness
 one wayness of
 partial domain one
 wayness of the
+<<<<<<< HEAD
+=======
+asked to h
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 wayness of f
 g and h
 adaptive chosen ciphertext
 succ s gammapd
+<<<<<<< HEAD
+=======
+asked to g
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 oracles g and
 decryption oracle and
 chosen ciphertext attacks
@@ -1213,6 +1807,7 @@ decryption oracle simulation
 functions g and
 
 corpus/krapavin2000-test/1009027.txt
+<<<<<<< HEAD
 document
 corpus
 documents
@@ -1225,6 +1820,10 @@ ranking
 smoothing
 language
 aspect x
+=======
+aspect x
+pd q
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 language models
 language modeling
 re ranking
@@ -1232,18 +1831,38 @@ interpolation algorithm
 facetsq d
 topclusters q
 language model
+<<<<<<< HEAD
 basis select
 re rank
 ap88 89
+=======
+pc q
+basis select
+re rank
+ap88 89
+uniform aspect
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 bag select
 information retrieval
 average precision
 set select
+<<<<<<< HEAD
 aspect model
 x algorithm
 lm approach
 document specic
 avg prec
+=======
+la fr
+aspect model
+x algorithm
+tf idf
+q m
+lm approach
+document specic
+avg prec
+baseline lm
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 topclusters q m
 uniform aspect x
 language modeling approach
@@ -1261,11 +1880,18 @@ ap89 and ap88
 approach to information
 pd q and
 re ranking step
+<<<<<<< HEAD
 x and interpolation
+=======
+m pd q
+x and interpolation
+q m pd
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 pseudo feedback markov
 c p qjc
 
 corpus/krapavin2000-test/1009186.txt
+<<<<<<< HEAD
 powerset
 algebra
 sparse
@@ -1280,6 +1906,8 @@ equations
 databases
 expression
 query
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 nested relational
 equation algebra
 relational algebra
@@ -1294,12 +1922,20 @@ expression e
 polynomial space
 relation names
 evaluation strategy
+<<<<<<< HEAD
+=======
+free e
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 relation variables
 sparse equation
 relation name
 nonemptiness problem
 transitive closure
 al gebra
+<<<<<<< HEAD
+=======
+sparse powerset
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 fixpoint query
 nested relational algebra
 algebra expression e
@@ -1310,12 +1946,17 @@ finite domain d
 nested relational databases
 relation of type
 e 1 and
+<<<<<<< HEAD
+=======
+expressible by a
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 expressible in the
 equation algebra expressions
 database b over
 1 and e
 
 corpus/krapavin2000-test/1009192.txt
+<<<<<<< HEAD
 coloring
 colorable
 colored
@@ -1342,6 +1983,26 @@ leaf level
 colorable graph
 ground vertices
 vertices in
+=======
+inapproximability
+3 colorable
+4 coloring
+colored 3
+pcp theorem
+colorable graphs
+chromatic number
+independent set
+graph coloring
+np hard
+hardness result
+graph h
+third row
+leaf level
+colorable graph
+colored 2
+ground vertices
+level gadget
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 4 coloring of
 3 colorable graphs
 np hard to
@@ -1351,6 +2012,7 @@ leaf level gadget
 colored 3 1
 coloring 3 colorable
 third row of
+<<<<<<< HEAD
 
 corpus/krapavin2000-test/1009317.txt
 liveset
@@ -1373,6 +2035,13 @@ driven
 anti
 ancestor
 cubegrade
+=======
+v i p
+3 1 2
+l and r
+
+corpus/krapavin2000-test/1009317.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 probe cells
 c g
 c p
@@ -1383,12 +2052,20 @@ liveset driven
 cell c
 constrained gradients
 gradient constraint
+<<<<<<< HEAD
+=======
+h tree
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 significant pairs
 quant info
 k average
 data cubes
 liveset c
+<<<<<<< HEAD
 gradients in
+=======
+top k
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 data cube
 gradient analysis
 gradient probe
@@ -1399,9 +2076,18 @@ mining constrained
 set of probe
 constrained gradients in
 top k average
+<<<<<<< HEAD
 mining constrained gradients
 liveset driven algorithm
 descendant of c
+=======
+c p is
+mining constrained gradients
+liveset driven algorithm
+g c p
+descendant of c
+c g c
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 c grad c
 gradient cell c
 c g is
@@ -1409,10 +2095,16 @@ interesting gradient probe
 liveset c g
 constrained gradient analysis
 gradients in data
+<<<<<<< HEAD
+=======
+header table h
+c g and
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 avg price c
 probe cells and
 
 corpus/krapavin2000-test/1010995.txt
+<<<<<<< HEAD
 erlang
 client
 starvation
@@ -1425,6 +2117,9 @@ verication
 mutual
 server
 ericsson
+=======
+gen_server_reply
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 crl specication
 model checking
 client 3
@@ -1436,19 +2131,34 @@ erlang programs
 pending list
 demanded resources
 transition system
+<<<<<<< HEAD
 client 2
 handle call
 model checker
+=======
+side eects
+server call
+client 2
+handle call
+model checker
+side eect
+pending 3
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 pending 3 3
 resources are available
 gen server call
 3 3 access
 crl specication the
 side eect free
+<<<<<<< HEAD
+=======
+workshop on erlang
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 clients repeatedly request
 demanded resources are
 mutual exclusion property
 mutual exclusion and
+<<<<<<< HEAD
 
 corpus/krapavin2000-test/1011175.txt
 category
@@ -1461,11 +2171,19 @@ cartesian
 berger
 algebraic
 subcategory
+=======
+sigplan workshop on
+
+corpus/krapavin2000-test/1011175.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 mod alat
 algebraic lattices
 cartesian closed
 partial equivalence
+<<<<<<< HEAD
 category of
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 equivalence relations
 assm alat
 modest sets
@@ -1477,7 +2195,10 @@ dper dom
 algebraic lattice
 well powered
 dependent type
+<<<<<<< HEAD
 assemblies over
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 regular subobjects
 berger 4
 partial equivalence relations
@@ -1492,6 +2213,7 @@ category of assemblies
 category of algebraic
 modest sets over
 equivalence classes of
+<<<<<<< HEAD
 equivalence relation on
 
 corpus/krapavin2000-test/1011176.txt
@@ -1504,6 +2226,12 @@ compile
 compilation
 dynamic
 interpretation
+=======
+l l l
+equivalence relation on
+
+corpus/krapavin2000-test/1011176.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 2 level
 dynamic terms
 partial evaluation
@@ -1512,21 +2240,39 @@ dynamic types
 operational semantics
 type nat
 term m
+<<<<<<< HEAD
 denotational model
+=======
+d2 g
+dyn f
+denotational model
+m 0
+r d1
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 compile time
 interpretation of
 adequacy theorem
 level languages
 static reduction
+<<<<<<< HEAD
 2 level pcf
 call by name
 2 level language
+=======
+lift n
+name pcf
+2 level pcf
+call by name
+2 level language
+dened by x
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 type directed partial
 two level languages
 give an operational
 directed partial evaluation
 interpretation of dynamic
 induction hypothesis on
+<<<<<<< HEAD
 d lift n
 
 corpus/krapavin2000-test/1011177.txt
@@ -1546,6 +2292,13 @@ categorical
 negation
 autonomous
 closed
+=======
+r d2 g
+d lift n
+x a p
+
+corpus/krapavin2000-test/1011177.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 linear logic
 coherence spaces
 p f
@@ -1553,27 +2306,45 @@ f set
 symmetric monoidal
 co products
 monoidal closed
+<<<<<<< HEAD
 category of
 compact closed
 f sets
 products and
 tensor product
 structure on
+=======
+compact closed
+f sets
+tensor product
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 powerset functor
 function space
 underlying set
 p f set
+<<<<<<< HEAD
+=======
+f a f
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 p f sets
 symmetric monoidal closed
 sets and relations
 category of sets
 linear function space
+<<<<<<< HEAD
 products and co
 f set is
+=======
+f i f
+products and co
+f set is
+f b f
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 models for linear
 classical linear logic
 
 corpus/krapavin2000-test/1011479.txt
+<<<<<<< HEAD
 predomain
 leino
 abadi
@@ -1585,13 +2356,21 @@ logic
 specification
 calculi
 recursive
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 object calculus
 object specifications
 abadi leino
 imperative object
+<<<<<<< HEAD
 logic of
 f st
 e o
+=======
+f st
+e o
+e oe
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 scott closed
 object calculi
 leino logic
@@ -1599,11 +2378,16 @@ rec loc
 st e
 loc thetast
 fixpoint induction
+<<<<<<< HEAD
+=======
+o m
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 e e
 functional object
 theta st
 denotational semantics
 transition specifications
+<<<<<<< HEAD
 abadi leino logic
 imperative object calculus
 logic of object
@@ -1630,6 +2414,27 @@ conservative
 allocation
 colorability
 copy
+=======
+l i a
+f e e
+e e o
+abadi leino logic
+imperative object calculus
+f st e
+logic of object
+o m o
+notion of specification
+unique s 2
+flat part of
+e o m
+functional object calculus
+object calculus of
+st e e
+object oriented programs
+e oe 0
+
+corpus/krapavin2000-test/1011512.txt
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 aggressive coalescing
 live range
 conservative coalescing
@@ -1645,15 +2450,27 @@ graph coloring
 related nodes
 actually spilled
 optimistic allocator
+<<<<<<< HEAD
 actual spill
 interference edges
 coloring register
+=======
+o oo
+actual spill
+interference edges
+coloring register
+oo o
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 interference graph
 register allocator
 live range splitting
 copy related nodes
 positive impact of
 impact of coalescing
+<<<<<<< HEAD
+=======
+o oo o
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 graph coloring register
 colorability of the
 oo o oo
@@ -1662,12 +2479,17 @@ coloring register allocation
 chaitin s allocator
 phase ordering of
 significant degree neighbors
+<<<<<<< HEAD
+=======
+spilled to memory
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 briggs optimistic allocator
 nodes being coalesced
 coalescing or iterated
 non copy related
 
 corpus/krapavin2000-test/1011810.txt
+<<<<<<< HEAD
 stably
 population
 agents
@@ -1685,6 +2507,8 @@ encounters
 protocols
 parity
 predicate
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 live bit
 stably computable
 population protocol
@@ -1693,12 +2517,20 @@ stably computes
 bit equal
 interaction graph
 computable predicates
+<<<<<<< HEAD
+=======
+data bit
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 stable computation
 counter machine
 global start
 start signal
 turing machine
 conjugating automata
+<<<<<<< HEAD
+=======
+timer k
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 live bit equal
 bit equal to
 number of interactions
@@ -1713,6 +2545,7 @@ stably computes the
 integer quotient of
 
 corpus/krapavin2000-test/1011820.txt
+<<<<<<< HEAD
 adversary
 protocol
 servers
@@ -1728,6 +2561,12 @@ messages
 sys real
 system sys
 gke protocol
+=======
+sys real
+system sys
+gke protocol
+real n
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 sys ideal
 session key
 ideal system
@@ -1737,6 +2576,10 @@ every server
 key exchange
 session id
 sys hybrid
+<<<<<<< HEAD
+=======
+key agreement
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 real system
 sys real n
 system sys real
@@ -1758,6 +2601,7 @@ ideal f n
 f0 1g k
 
 corpus/krapavin2000-test/1011932.txt
+<<<<<<< HEAD
 shiftable
 twistable
 elds
@@ -1780,6 +2624,8 @@ contour
 interpolation
 stochastic
 coecients
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 shiftable twistable
 completion elds
 completion eld
@@ -1806,19 +2652,33 @@ source eld
 gaussian fourier basis
 shiftable twistable basis
 fokker planck equation
+<<<<<<< HEAD
 shift twist invariant
 source and sink
 stochastic completion eld
+=======
+2 s 1
+r 2 s
+shift twist invariant
+source and sink
+stochastic completion eld
+p d f
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 completion elds in
 complex directional derivative
 directional derivative of
 elds in the
+<<<<<<< HEAD
+=======
+c k t
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 stochastic completion elds
 cddg fourier basis
 euclidean invariance of
 derivative of gaussian
 
 corpus/krapavin2000-test/1012676.txt
+<<<<<<< HEAD
 metering
 secret
 clients
@@ -1833,6 +2693,8 @@ client
 visited
 access
 optimality
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 secret sharing
 access structure
 metering schemes
@@ -1845,12 +2707,18 @@ structure gamma
 time frame
 audit agency
 information rate
+<<<<<<< HEAD
 realizing the
 realizing any
 time frames
 corrupt servers
 variable associated
 clients in
+=======
+time frames
+corrupt servers
+variable associated
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 information distributed
 access structures
 secret sharing schemes
@@ -1874,6 +2742,7 @@ client c i
 realizing an access
 
 corpus/krapavin2000-test/1013562.txt
+<<<<<<< HEAD
 pebble
 pebbles
 automata
@@ -1902,6 +2771,27 @@ data values
 weak 1d
 strong 1d
 string w
+=======
+pebble automata
+2d ra
+1n ras
+reverse closed
+1n ra
+infinite alphabets
+di erent
+q q
+input string
+1d pa
+register automata
+data values
+1d pas
+1n pa
+weak 1d
+2a ra
+strong 1d
+string w
+u v
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 weak 1n
 kaminski and francez
 strong 1d pa
@@ -1911,6 +2801,10 @@ complexity theoretic assumptions
 form u v
 weak 1d pas
 weak 1n pa
+<<<<<<< HEAD
+=======
+p v q
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 strings of the
 hypersets over d
 multi head automata
@@ -1918,6 +2812,7 @@ pebble automata and
 sets of configurations
 
 corpus/krapavin2000-test/1013566.txt
+<<<<<<< HEAD
 metalogical
 maude
 logic
@@ -1937,12 +2832,22 @@ initiality
 metatheoretic
 reasoning
 rewriting logic
+=======
+rewriting logic
+re ective
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 framework logic
 metalogical frameworks
 logical framework
 meta reduce
 deduction theorem
+<<<<<<< HEAD
 metalogical framework
+=======
+re ection
+metalogical framework
+minimal logic
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 membership equational
 universal theory
 equational logic
@@ -1952,10 +2857,17 @@ initial models
 logical frameworks
 meta level
 impl impl
+<<<<<<< HEAD
 mb impl
 inductive denitions
 theorem mb
 logics and
+=======
+impl b
+mb impl
+inductive denitions
+theorem mb
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 membership equational logic
 impl a impl
 module meta level
@@ -1963,6 +2875,10 @@ impl impl a
 rewriting logic is
 case s and
 theorem mb impl
+<<<<<<< HEAD
+=======
+re ection and
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 induction step s
 base case s
 logic as a
@@ -1972,6 +2888,7 @@ formula subsort theorem
 b theorem mb
 
 corpus/krapavin2000-test/1013681.txt
+<<<<<<< HEAD
 player
 jobs
 competitive
@@ -1981,21 +2898,39 @@ probabilities
 scheduling
 bayesian
 ratio
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 line player
 competitive ratio
 decision times
 chance node
+<<<<<<< HEAD
 target probabilities
 line strategy
 player gets
+=======
+p sjt
+target probabilities
+line strategy
+player gets
+x tjs
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 adversarial root
 target job
 rightmost breakpoint
 chance nodes
 optimal competitive
 completion time
+<<<<<<< HEAD
 line player gets
 knows the target
+=======
+c j
+line player gets
+knows the target
+l o g
+w l o
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 competitive ratio for
 line player knows
 line player s
@@ -2004,6 +2939,7 @@ line player and
 start processing the
 
 corpus/krapavin2000-test/1013707.txt
+<<<<<<< HEAD
 extraction
 channels
 communicating
@@ -2021,38 +2957,67 @@ interface
 relating
 implementation relation
 extraction patterns
+=======
+implementation relation
+extraction patterns
+cts u
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 extraction pattern
 communicating transition
 relating communicating
 extraction graph
 m koutny
+<<<<<<< HEAD
 koutny and
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 j burton
 g pappalardo
 burton m
 communicating processes
 base process
 extraction graphs
+<<<<<<< HEAD
 extraction mapping
 d 1
 vertical implementation
+=======
+dom q
+extraction mapping
+d 1
+vertical implementation
+snd 2
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 relating communicating processes
 koutny and g
 m koutny and
 j burton m
 burton m koutny
+<<<<<<< HEAD
+=======
+1 d 1
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 set of channels
 communicating transition system
 traces in dom
 communicating transition systems
+<<<<<<< HEAD
+=======
+d 1 d
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 extraction graph eg
 snd and buf
 extraction patterns in
 specification and implementation
+<<<<<<< HEAD
+=======
+cts u and
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 base process p
 vertical implementation relation
 
 corpus/krapavin2000-test/1013722.txt
+<<<<<<< HEAD
 covertext
 stegosystem
 steganography
@@ -2072,19 +3037,36 @@ authentication
 data compression
 relative entropy
 information hiding
+=======
+data compression
+deltat y
+relative entropy
+information hiding
+block y
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 covertext distribution
 covertext c
 repetition time
 hypothesis testing
 ii error
+<<<<<<< HEAD
 alice and
 hidden information
+=======
+hidden information
+average repetition
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 universal data
 information theoretic
 error probabilities
 decision rule
 perfectly secure
 embedded message
+<<<<<<< HEAD
+=======
+type ii
+d pc
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
 universal data compression
 alice and bob
 type ii error
@@ -2105,6 +3087,7 @@ model for steganography
 
 corpus/krapavin2000-test/1013757.txt
 nondeterministic
+<<<<<<< HEAD
 recursion
 bellantoni
 leivant
@@ -21400,3 +22383,5 @@ cpu 05 to
 root 00 to
 top 01 top
 01 top 01
+=======
+>>>>>>> ceb96cfbeb18569f30df39c4c374acdb38baad4e
