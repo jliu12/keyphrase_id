@@ -168,7 +168,7 @@ def calc_train_features(train_data):
 	for fname, phrases in train_data.items():
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + "-gold.tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/600test/" + file_id + "-gold.tfvec")
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list)
 		for s in c.get_phrases():
