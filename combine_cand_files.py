@@ -7,7 +7,7 @@ sourcePath = sourcePrefix + "*" + sourceSuffix
 
 corpusPrefix = "corpus/krapavin2000-train/"
 corpusSuffix = ".txt"
-targetPath = "testCandidatesV1.txt"
+targetPath = "v600CandsTrain.txt"
 
 
 
