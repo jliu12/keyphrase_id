@@ -110,7 +110,7 @@ def reportOverallStats(statsFileName):
 def main():
 	processArgs();
 	processPredictions()
-	reportOverallStats("stats/" + versionName)
+	reportOverallStats("stats/" + versionName + "-" + dataSet)
   
 if __name__ == '__main__':
   main()

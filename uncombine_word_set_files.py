@@ -5,7 +5,7 @@ import sys
 sourcePath = "naive_bayes_results.txt"
 corpusPrefix = "corpus/krapavin2000-test/"
 corpusSuffix = ".txt"
-targetPath = "results/v0/scoreTestSimple/"
+targetPath = "results/v0/train/"
 targetSuffix = ".pred"
 
 

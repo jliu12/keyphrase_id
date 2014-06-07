@@ -1,0 +1,49 @@
+1030507090110130150
+multiplicative
+rate 0
+delay bound
+long session
+03 rate
+1 rate
+end delay
+mean delay
+15 rate
+session length
+length rate
+hop sessions
+delay due
+4 rate
+6 rate
+3 rate
+2 rate
+delay bounds
+98 percentile
+long sessions
+1 rate 0
+0 03 rate
+rate 0 1
+0 1 rate
+rate 0 15
+03 rate 0
+rate 0 03
+15 rate 0
+0 15 rate
+rate 0 2
+end to end
+session length rate
+length rate 0
+delay due to
+0 6 rate
+3 rate 0
+2 rate 0
+rate 0 7
+0 4 rate
+6 rate 0
+rate 0 3
+0 2 rate
+0 3 rate
+4 rate 0
+rate 0 6
+rate 0 4
+0 7 fig
+1 hop sessions
