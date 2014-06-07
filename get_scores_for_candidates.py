@@ -233,7 +233,7 @@ def get_tfidf_scores():
 
 				file_id_location = new_filename.rfind("/")
 				new_file_id = (new_filename[file_id_location+1:])[0:-4]
-				path = printPath + new_file_id + "-gold.tfvec"
+				path = printPath + new_file_id + ".tfvec"
 				tablePath = mapPath + new_file_id + ".tfidf"
 				ensure_path (printPath)
 				print "filename: " + new_filename
@@ -265,8 +265,8 @@ def main():
 
 	corpusPath = sys.argv[2] 
 	corpusPathRoot = sys.argv[2] + "/"
-	printPath = "TFIDF_VECTORS/" 
-	mapPath = "TFIDF_SCORE_TABLES/" + sys.argv[1] + "/"
+	printPath = "TFIDF_VECTORS/600train/" 
+	mapPath = "TFIDF_SCORE_TABLES/"
 	print("corpus path is: " + corpusPath)
 	print("printing results to: " + printPath)
 	get_tfidf_scores()
