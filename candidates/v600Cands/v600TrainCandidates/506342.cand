@@ -1,0 +1,600 @@
+throw
+catch
+calculi
+sn
+nakano
+tapply
+abort
+tag
+calculus
+normalizability
+nk
+nd
+ih
+parigot
+multiply2
+tapp
+preterm
+preterms
+uent
+translation
+sato
+reducibility
+inj
+inference
+nj
+intuitionistic
+clause
+classical
+normalizing
+ftv
+curry
+denition
+lisp
+_
+quantier
+typable
+fujita
+rules
+dened
+zw
+ut
+8x
+abstraction
+deterministic
+rc
+ab
+defun
+mechanism
+logic
+howard
+ml
+constructs
+rst
+intlist
+fv
+typing
+dene
+substitution
+preservation
+isomorphism
+strongly
+strong
+induction
+implication
+translate
+proofs
+rule
+fu
+con
+ag
+subcalculi
+barbanera
+subcalculus
+berardi
+reducts
+reduction
+scope
+car
+wy
+lemma
+exception
+ua
+dierent
+interpretation
+variant
+restriction
+ub
+propositional
+elimination
+candidate
+translations
+lefthand
+groote
+modication
+renaming
+diers
+deduction
+neutral
+derivable
+clauses
+multiply
+nite
+binders
+abbreviate
+brie
+translated
+reductions
+shall
+abbreviated
+connective
+style
+lexical
+meanings
+derive
+xb
+cdr
+bc
+dicult
+expressivity
+extracting
+cb
+formulation
+modied
+murthy
+tags
+throwing
+strange
+thrown
+disjunction
+freely
+innitely
+his
+int
+proved
+simulate
+xy
+62
+um
+candidates
+church
+elementary
+typed
+judgment
+normalization
+ordinary
+k2
+structural
+he
+author
+connectives
+naive
+09780266
+wft
+takeuti
+10143105
+beffara
+twwf
+tuuf
+armative
+etsu
+heartful
+crolard
+exc
+uft
+replaces
+strongest
+abstracted
+disjunctive
+logical
+exits
+enclosing
+nice
+danos
+fhig
+tatsuta
+b1
+unifying
+contexts
+preserves
+izumi
+brouwer
+heyting
+usual
+zc
+motivation
+metavariable
+neatly
+dierence
+namely
+girard
+implicational
+za
+metavariables
+encoding
+expression
+consequents
+makoto
+undened
+reduct
+individual
+c t
+the catch
+catch throw
+nk c
+k c
+throw calculi
+tag variables
+l k
+throw mechanism
+u a
+l c
+strong normalizability
+in nd
+nj c
+reduction rules
+ih we
+sn of
+introduction rule
+catch u
+classical logic
+non deterministic
+con uent
+strongly normalizing
+the translation
+parigot s
+tag abstraction
+normalizability of
+from ih
+the sn
+u b
+2 sn
+classical proofs
+type inference
+tag variable
+throw u
+a v
+nakano s
+type a
+a abort
+inference rules
+individual variables
+by ih
+s calculus
+abort a
+in l
+the tag
+x a
+of parigot
+catch and
+the curry
+and nk
+reducibility candidate
+common lisp
+the strong
+the type
+the construct
+a b
+a throw
+the calculus
+step reduction
+second order
+to nd
+v u
+t and
+exception mechanism
+of type
+four calculi
+nd proof
+multiply2 x
+his calculus
+catch construct
+order quantier
+structural reduction
+abort u
+from nk
+dened as
+2 rc
+translation from
+a u
+a a
+in nk
+implication introduction
+these calculi
+curry howard
+clause 4
+howard isomorphism
+calculi to
+can derive
+an interpretation
+deterministic variant
+proved by
+induction on
+u zw
+by nakano
+key cases
+inj 1
+reducibility candidates
+elementary method
+tapply inj
+8x b
+the preterm
+of nd
+term u
+for tag
+translation of
+b x
+of l
+s formulation
+standard ml
+calculi for
+a context
+fv a
+_ b
+elimination rule
+the throw
+abort c
+term a
+t to
+lemma 3
+is strongly
+of tag
+a is
+car x
+order version
+mechanism in
+by induction
+a term
+not con
+a tag
+a we
+v a
+calculi we
+to classical
+a 0
+intuitionistic logic
+calculus is
+rules of
+bound by
+a 2
+tag application
+classical catch
+throw constructs
+tag zero
+have tapply
+8 introduction
+ftv a
+abort ub
+abort d
+inj 2
+tapply u
+clause 2
+to intuitionistic
+in nakano
+computational meanings
+y abort
+function multiply
+preterms in
+throw and
+substitution b
+the tapply
+preterms are
+tapply a
+calculi l
+ut from
+x abort
+proves clause
+62 ftv
+zw wy
+table type
+typable terms
+construct replaces
+in common
+nd the
+nd is
+sn and
+calculus and
+and tag
+case a
+2 f
+preservation of
+a x
+types in
+the term
+u 62
+restriction in
+f 2
+it int
+desired type
+rule marked
+a _
+naive translation
+strong normalization
+sn then
+62 fv
+translation preserves
+occur freely
+of nakano
+variables in
+translation is
+this lemma
+l k c
+k c t
+the catch throw
+l c t
+nk c t
+catch throw calculi
+catch throw mechanism
+c t and
+nj c t
+the sn of
+the strong normalizability
+c t to
+strong normalizability of
+of the catch
+a v u
+in l k
+ih we have
+catch u a
+c t the
+is strongly normalizing
+of l c
+from ih we
+of type a
+in l c
+a tag variable
+a throw u
+f 2 rc
+of parigot s
+the tag abstraction
+tag variables in
+t and nk
+type inference rules
+in common lisp
+t to nd
+the exception mechanism
+t and l
+we can derive
+u a v
+the catch construct
+for tag variables
+implication introduction rule
+for the catch
+second order quantier
+throw u a
+the implication introduction
+parigot s calculus
+non deterministic variant
+a 2 sn
+the curry howard
+throw calculi to
+variant of parigot
+in nd proof
+in nk c
+from nk c
+and nk c
+the type inference
+a b x
+curry howard isomorphism
+individual variables and
+we have a
+the second order
+by induction on
+deterministic variant of
+to a v
+c t by
+bound by the
+c t in
+one step reduction
+from the catch
+translation from nk
+the key cases
+a is derived
+u b a
+u a throw
+of tag variables
+step reduction rules
+abort u zw
+not con uent
+through the curry
+the catch and
+term of type
+a non deterministic
+a context for
+and l k
+of l k
+c t is
+the elimination rule
+from l k
+the introduction rule
+c 2 sn
+to classical logic
+the term u
+a a is
+have a a
+1 a 0
+c t then
+restriction in the
+inference rules of
+reduction rules for
+the translation is
+the translation of
+is proved by
+in the implication
+induction on the
+the term a
+if a a
+a 1 a
+proved by induction
+this case a
+u a a
+a u v
+by ih we
+preservation of reduction
+sn of l
+term a we
+in nd and
+have non deterministic
+the tag zero
+catch throw constructs
+calculi to this
+nite set in
+the four calculi
+derive the desired
+we have tapply
+context for tag
+from classical proofs
+calculi for the
+y abort u
+of nk c
+and throw mechanism
+of nakano s
+naive translation from
+we then translate
+v u a
+tag abstraction mechanism
+logic is said
+2 rc the
+need the second
+in nakano s
+u zw wy
+b in nd
+in this denition
+translation preserves typing
+the strong normalization
+normalizability of the
+table type inference
+a reducibility candidate
+rules of l
+tag variable u
+exception mechanism in
+classical catch throw
+a is neutral
+have a abort
+nd the translation
+and tag variables
+catch and throw
+corresponds to intuitionistic
+c t has
+desired type inference
+substitution b 1
+an elementary method
+introduction rule marked
+ih we can
+translations from the
+dened as follows
+a we have
+and a b
+are dened as
+by the construct
+a _ b
+u a we
+dened as usual
+the desired type
+be a context
+sn of the
+reduction rules of
+of these calculi
+to this variant
+a 2 f
+not occur freely
+c t since
+c t was
+a of type
+occur freely in
+v a u
+a with u
+a a since
+all the four
+lemma 3 5
+a term of
+c t as
+classical logic is
+variables are bound
+of individual variables
+for individual variables
+elimination in this
+construct and the
+t is strongly
+c t a
+the new constructs

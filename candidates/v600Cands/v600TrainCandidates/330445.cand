@@ -1,0 +1,600 @@
+cset
+reservation
+res
+multiplexing
+channels
+packet
+multiplexed
+protocols
+optical
+virtual
+holding
+backward
+mrt
+retransmit
+throughput
+locked
+channel
+ack
+packets
+bo
+aggressive
+dropping
+connection
+wavelength
+message
+forward
+nack
+fo
+locking
+tdm
+init
+wdm
+destination
+schemes
+lock
+prob
+networks
+aggressiveness
+avail
+establishment
+latency
+wavelengths
+ba
+slot
+fa
+protocol
+request
+rel
+deadlock
+connections
+mtr
+ail
+router
+torus
+link
+node
+switch
+links
+network
+dest
+optics
+fdo
+conservative
+shadow
+composes
+switches
+live
+unlocks
+routing
+traffic
+lm
+source
+travels
+interconnection
+av
+messages
+slots
+bda
+bdo
+reser
+276ns
+id
+reservations
+fail
+propagation
+pm
+intermediate
+switching
+timeout
+established
+division
+electronic
+inform
+period
+reserved
+deflection
+10ns
+cid
+vation
+outgoing
+sends
+transmitters
+bandwidth
+fh
+mance
+perfor
+busy
+probe
+transmission
+band
+degrees
+net
+degree
+progressing
+port
+release
+i3
+tear
+buffers
+buffering
+destinations
+establish
+travel
+conversions
+policy
+connect
+c0
+transmitted
+released
+counterparts
+sent
+failed
+acknowledgment
+specifies
+identifier
+ffl
+o3
+transmit
+signaling
+characterizes
+informs
+reconfiguration
+field
+simulations
+conversion
+variation
+path
+receivers
+256ns
+aggres
+terabit
+modng
+baw
+9633729
+schemes0
+changers
+linbo
+supercomputers
+extremes
+o2
+determines
+duration
+put
+mechanisms
+light
+diversity
+fd
+progress
+tiplexing
+gemini
+degree1
+reserva
+1038
+forwarded
+traveling
+fetched
+spans
+sources
+signals
+guard
+lightwave
+lished
+9157371
+couplers
+estab
+1055
+delay
+speed
+receives
+nsec
+photonic
+reasonably
+affects
+communication
+routed
+overhead
+destina
+optically
+dedicating
+journey
+virtual channels
+res cset
+cset size
+multiplexing degree
+backward reservation
+forward reservation
+virtual channel
+initial cset
+retransmit time
+the protocols
+source node
+reservation protocols
+backward schemes
+res packet
+the reservation
+the res
+path reservation
+the backward
+reservation schemes
+the forward
+multiplexed networks
+the multiplexing
+control network
+the holding
+the virtual
+the source
+cset is
+prob init
+a connection
+the connection
+holding time
+avail l
+the control
+live lock
+time slot
+most aggressive
+the destination
+forward scheme
+locked by
+multiplexing degrees
+optimal cset
+the network
+all optical
+the retransmit
+channels in
+generation rate
+the protocol
+ba fo
+non multiplexed
+resulting res
+aggressive schemes
+cset to
+shadow network
+bo ba
+ack packet
+network size
+channels that
+message size
+channels on
+the dropping
+propagation time
+effect of
+different wavelengths
+in multiplexed
+fa figure
+request generation
+intermediate node
+control packet
+of virtual
+optical networks
+this specifies
+with dropping
+optical interconnection
+a res
+channels locked
+nack message
+cset of
+fo fa
+aggressive scheme
+multiplexing optical
+distributed path
+forward schemes
+fail nack
+control packets
+the performance
+establishment of
+an ack
+division multiplexing
+control message
+av ail
+reservation scheme
+size is
+data network
+reservation the
+path multiplexing
+the establishment
+average latency
+a fail
+the throughput
+the switches
+link l
+destination node
+the aggressive
+and propagation
+are locked
+the ack
+connection request
+reservation is
+most conservative
+and backward
+time slots
+ack message
+packet contains
+switch states
+locked channels
+optical transmission
+different multiplexing
+5 throughput
+all multiplexing
+in res
+not progress
+reservation fails
+failed reservation
+sets res
+the cset
+nack packet
+multiplexed all
+their forward
+rel packet
+holding scheme
+variation characterizes
+aggressive reservation
+avoid live
+connection ffl
+res message
+dropping policy
+prob packet
+cset avail
+aggressiveness the
+connection cannot
+maximum retransmit
+cset the
+reservation process
+protocols are
+performance of
+intermediate nodes
+the effect
+system parameters
+empty the
+determines that
+lock in
+the path
+channel on
+throughput and
+request is
+in tdm
+a rel
+the mrt
+for multiplexed
+backward scheme
+the aggressiveness
+schemes except
+aggressiveness of
+when res
+tdm networks
+acknowledgment packets
+to establish
+message is
+at intermediate
+the shadow
+the conservative
+52 53
+through put
+size on
+channel v
+connection this
+establish connections
+wavelength assignment
+travels from
+protocol determines
+schemes provide
+a nack
+by res
+a virtual
+distributed control
+control messages
+the locked
+different virtual
+channel set
+light traffic
+the router
+protocols in
+time is
+bit vector
+connections in
+under light
+it determines
+the message
+schemes in
+wavelength division
+the source node
+initial cset size
+the virtual channels
+the multiplexing degree
+the backward schemes
+the control network
+of the protocols
+the backward reservation
+the most aggressive
+in the forward
+virtual channels in
+the forward reservation
+the initial cset
+the res packet
+of virtual channels
+effect of the
+the holding time
+in the backward
+optimal cset size
+the retransmit time
+virtual channels that
+the virtual channel
+backward reservation schemes
+res cset to
+processing and propagation
+the resulting res
+bo ba fo
+resulting res cset
+retransmit time is
+the network size
+to the source
+a virtual channel
+this specifies the
+the forward scheme
+request generation rate
+the performance of
+if the resulting
+all the protocols
+performance of the
+the message size
+ba fo fa
+the optimal cset
+path reservation protocols
+distributed path reservation
+a res packet
+forward reservation schemes
+res cset is
+the shadow network
+fo fa figure
+virtual channels locked
+a time slot
+the effect of
+to the destination
+that the reservation
+multiplexing degree and
+packet contains a
+multiplexing degree is
+in multiplexed networks
+an intermediate node
+for the connection
+the establishment of
+at each node
+virtual channels on
+when an intermediate
+channels in the
+network size is
+the protocols the
+the most conservative
+at intermediate nodes
+determines that the
+the destination node
+establish a connection
+optical interconnection networks
+cset of size
+live lock in
+cset size is
+channels locked by
+res cset avail
+control packet processing
+different multiplexing degrees
+backward reservation scheme
+a rel packet
+under light traffic
+backward reservation protocols
+and propagation time
+cset size on
+schemes provide better
+sets res cset
+and backward reservation
+variation characterizes the
+non multiplexed networks
+maximum retransmit time
+packet it determines
+the reservation fails
+the locked channels
+source nodes of
+connection cannot be
+to avoid live
+all multiplexing degrees
+avoid live lock
+cset avail l
+does not progress
+in res cset
+an ack packet
+than their forward
+propagation time is
+multiplexed all optical
+initial cset is
+the protocol determines
+path reservation in
+virtual channel on
+res cset the
+a fail nack
+this variation characterizes
+the ack packet
+protocol determines that
+the dropping policy
+for all multiplexing
+the connection cannot
+shows the effect
+message size is
+size is small
+the average latency
+travels from the
+used to inform
+virtual channel v
+intermediate node receives
+to establish connections
+the control overhead
+locked by the
+empty the connection
+the aggressiveness of
+aggressiveness of the
+variation in which
+different virtual channels
+on link l
+the backward scheme
+the control packets
+all the schemes
+when the multiplexing
+path multiplexing in
+all optical networks
+of the multiplexing
+changing the state
+channels that are
+cannot be established
+all the links
+to establish a
+is sent back
+the data network
+of the switches
+wavelength division multiplexing
+of the control
+node sends a
+provide better performance
+message is then
+establishment of a
+node receives the
+determines the next
+the two channels
+on the path
+lock in the
+the destination to
+time slot is
+path to the
+virtual channels are
+a connection is
+source node to
+the traffic on
+not empty the
+51 52 53
+a bit vector
+during the processing
+sent back to
+is sent the
+set of virtual
+which the initial
+the average message
+of a connection
+the protocols we
+number of virtual
+on the performance
+in the most
+set of experiments
+when the message
+it determines the
+when the source
+on all the
+set to the
+ffl the backward
+having different virtual
+reservation packets res
+networks the control
+and a nack
+directly connected networks
+multiplexed by having
+were locked by
+fail nack message
+degree bo ba
+to be units

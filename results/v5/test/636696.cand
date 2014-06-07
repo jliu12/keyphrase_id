@@ -1,0 +1,600 @@
+protocol
+akc
+ak
+mti
+public
+secret
+confirmation
+authentication
+elliptic
+agreement
+entity
+attack
+ephemeral
+protocols
+ra
+keys
+authenticated
+diffie
+security
+subgroup
+validation
+attacks
+hellman
+cert
+secure
+curve
+c0
+entities
+wa
+prime
+rb
+vanstone
+menezes
+a0
+adversary
+key
+x3
+oorschot
+private
+establishment
+authentic
+static
+ansi
+mac
+intercepts
+implicit
+logarithms
+hash
+cryptographic
+possess
+certificate
+x4
+pass
+computes
+shared
+possession
+prudent
+authenti
+attributes
+terminates
+certificates
+secrecy
+sends
+x2
+rogaway
+bellare
+x6
+honest
+believes
+wiener
+x9
+launched
+logarithm
+session
+field
+unknown
+deposit
+purported
+failure
+validated
+fr
+her
+burden
+x5
+anomalous
+verify
+p1363
+x9f1
+yacobi
+ah
+kea
+krawczyk
+rbwb
+mtb
+vaudenay
+desirable
+curves
+share
+assured
+impersonation
+cipher
+verifiably
+scalar
+ca
+message
+encryption
+xq
+burmester
+kyung
+impersonate
+sha
+bank
+proven
+attribute
+funds
+van
+derivation
+qu
+timestamping
+blake
+party
+intractable
+shim
+tb
+wilson
+160
+certified
+securely
+multiplication
+transmitted
+discrete
+cation
+mutual
+reliance
+subgroups
+embedded
+compromise
+generates
+divisible
+encrypted
+holder
+integer
+messages
+pointed
+exercised
+multiplications
+replaces
+composite
+goals
+heuristic
+informally
+format
+validating
+recommended
+guard
+cryptography
+coordinate
+bits
+sent
+shs
+pohlig
+unauthenticated
+tiality
+ecdlp
+graaf
+solinas
+succumbs
+semaev
+johann
+araki
+expo
+hellmann
+goss
+bitlength
+headquarters
+tillich
+15496
+confiden
+sik
+cryptanalysis
+skipjack
+raimondo
+evertse
+cofactor
+minding
+imai
+purportedly
+kaliski
+takashima
+subverts
+groschdl
+strangio
+mqv
+engages
+rawa
+szekely
+interactiveness
+verifies
+verifying
+knows
+key agreement
+public key
+key confirmation
+protocol 1
+f q
+elliptic curve
+ak protocol
+shared secret
+implicit key
+domain parameters
+static public
+the mti
+key validation
+key authentication
+a computes
+ak and
+and akc
+akc protocols
+unknown key
+protocol run
+the protocol
+authenticated key
+pass ak
+key share
+agreement protocol
+with failure
+small subgroup
+mti c0
+point sends
+terminates the
+protocol 2
+random integer
+b computes
+akc protocol
+mti a0
+subgroup attack
+key is
+agreement protocols
+the shared
+run with
+secret k
+protocol protocol
+a s
+diffie hellman
+integer r
+protocol 3
+private key
+the elliptic
+secret key
+one pass
+s static
+sends this
+point k
+known key
+share attribute
+embedded key
+three pass
+entity b
+validation fails
+ephemeral public
+key derivation
+the attack
+the point
+secret is
+two pass
+of protocol
+public keys
+protocols described
+verify that
+discrete logarithm
+key establishment
+the protocols
+a key
+of ra
+key pair
+does an
+that n
+the validation
+static private
+desirable security
+oorschot and
+c0 protocol
+of ak
+entities a
+and vanstone
+the ca
+share attack
+provide implicit
+key wa
+a0 protocol
+derivation function
+arguments suggest
+b terminates
+e intercepts
+security attributes
+mutual implicit
+van oorschot
+s ephemeral
+a generates
+prime order
+e f
+attack on
+authentication and
+and key
+the security
+validation of
+fails then
+the ephemeral
+provide key
+elliptic curves
+heuristic arguments
+base point
+r computes
+entity a
+logarithm problem
+field f
+keys are
+the unknown
+generates a
+entity is
+to b
+hash functions
+one entity
+each entity
+that protocol
+a random
+4 b
+two entities
+active attacks
+b generates
+an embedded
+run of
+the key
+finite field
+finite point
+b to
+protocol is
+security of
+related protocols
+field elements
+explicit key
+intercepts a
+confirmation from
+secure ak
+ansi x9
+cert b
+computes mac
+on diffie
+ra cert
+key security
+and wiener
+confirmation is
+her static
+authenti cation
+ra figure
+validated as
+formally proven
+wa and
+purported public
+static keys
+second entity
+mac 0
+q fr
+cert a
+authentic copy
+ak protocols
+honest entities
+pass protocol
+two field
+ephemeral key
+proper format
+q is
+illustrates that
+not divide
+order n
+the subgroup
+private keys
+the defining
+attack the
+the desirable
+computes the
+an adversary
+b does
+computes s
+valid set
+divide q
+protocols proposed
+see x3
+performance attributes
+authentication is
+fr a
+parameters q
+logarithms in
+failure otherwise
+in x3
+message authentication
+and rogaway
+in x2
+2 160
+failure 3
+the shared secret
+the protocol run
+run with failure
+protocol run with
+implicit key authentication
+unknown key share
+and akc protocols
+ak and akc
+terminates the protocol
+key agreement protocol
+authenticated key agreement
+random integer r
+pass ak protocol
+computes the point
+e f q
+static public key
+the point sends
+a random integer
+key agreement protocols
+the elliptic curve
+small subgroup attack
+generates a random
+the mti a0
+the unknown key
+shared secret is
+key validation of
+a key agreement
+the point k
+1 a generates
+r a computes
+of protocol 1
+ak protocol protocol
+does an embedded
+shared secret k
+two pass ak
+domain parameters and
+if the validation
+embedded key validation
+key share attribute
+validation fails then
+integer r a
+the small subgroup
+the validation fails
+that the mti
+public key validation
+4 b computes
+an embedded key
+field f q
+f q i
+a generates a
+sends this to
+a computes the
+to b 2
+of f q
+integer r computes
+heuristic arguments suggest
+of domain parameters
+on the mti
+r computes the
+provide key confirmation
+this to b
+ephemeral public key
+secret is the
+mti c0 protocol
+key share attack
+of ak and
+mti a0 protocol
+s static public
+point sends this
+the mti c0
+one pass ak
+protocol protocol 2
+arguments suggest that
+b terminates the
+provide implicit key
+attributes of ak
+van oorschot and
+3 a computes
+a and b
+attack on the
+the discrete logarithm
+b generates a
+discrete logarithm problem
+in the subgroup
+to a 3
+each run of
+a finite point
+set of domain
+q i e
+protocols described in
+illustrates that the
+a finite field
+the security of
+of b to
+that n 2
+elements of f
+the x coordinate
+of secure ak
+b does an
+and validated as
+secure ak and
+s ephemeral public
+a shared secret
+5 the shared
+said to provide
+suggest that protocol
+desirable security attributes
+shared secret key
+subgroup of order
+format for elements
+entity is on
+the domain parameters
+one entity is
+with failure otherwise
+on diffie hellman
+two field elements
+then b terminates
+is on line
+known key security
+possess the unknown
+goals of secure
+domain parameters q
+key confirmation is
+key agreement with
+parameters and static
+up and validated
+a s static
+only one entity
+fr a b
+entities a and
+e intercepts a
+intercepts a s
+see x3 2
+validated as described
+authentic copy of
+and static keys
+listed in x2
+described in x3
+parameters q fr
+verify that n
+key confirmation from
+with failure 3
+given a valid
+the key derivation
+satisfies the defining
+the proper format
+validation of ra
+proper format for
+the protocols described
+oorschot and wiener
+cert b to
+n 2 160
+equation of e
+key pair is
+establish a shared
+two entities a
+her static public
+keys are set
+mutual implicit key
+static public keys
+key derivation function
+ak protocol 1
+purported public key
+x3 2 if
+static keys are
+explicit key authentication
+a s ephemeral
+the field f
+computes mac 0
+q fr a
+protocol 2 is
+of the proper
+a three pass
+2 b generates
+protocol 1 is
+is the point
+b to a
+the key is
+a 3 a
+authentication and key
+generated by p
+not divide q
+in f q
+hellman key agreement
+for elements of
+protocol is said
+key authentication the
+are set up
+defining equation of
+model of distributed
+and a three
+elliptic curve e
+replaces it with
+the defining equation
+a one pass
+fails then b
+a valid set
+set up and
+valid set of
+of the protocol

@@ -1,0 +1,600 @@
+ped
+dependences
+dependence
+loop
+parascope
+interprocedural
+pane
+transformations
+pfc
+editor
+fortran
+ptool
+parallelization
+parallelism
+loops
+editing
+enddo
+interactive
+private
+button
+edits
+synchronization
+mimdizer
+buttons
+interchange
+array
+users
+displayed
+edit
+sink
+sigmacs
+ptran
+inapplicable
+transformation
+kennedy
+assertions
+program
+ir
+skewing
+display
+dataflow
+unsafe
+analyzer
+faust
+vectorizing
+scalar
+pat
+text
+symbolic
+nest
+automatic
+race
+advice
+statements
+parallelized
+superb
+sequential
+references
+supercomputing
+compiler
+diagnostic
+iteration
+tool
+vectorization
+kathryn
+ffis
+subscripted
+safe
+anti
+inhibit
+programs
+ken
+conservative
+flow
+incremental
+carried
+chau
+ffl
+statement
+tools
+supercomputers
+scientific
+mckinley
+wavefront
+iterations
+enabled
+browser
+codes
+pcf
+miscellaneous
+unrolling
+machines
+displays
+parallelizing
+shared
+programmers
+reordering
+warren
+deletion
+1991
+programming
+facility
+selects
+havlak
+postdominator
+guidebook
+panes
+underlined
+rice
+mouse
+anomaly
+sequent
+optimizing
+debugging
+preserved
+structured
+tseng
+mechanically
+opportunity
+dialog
+classification
+preserve
+propagation
+imprecise
+post
+breaking
+transforma
+interlock
+vectorizer
+deleted
+expert
+safely
+assist
+expose
+experiences
+source
+multiprocessing
+hazards
+alamos
+delete
+hide
+wen
+query
+splitting
+concert
+interchanges
+supercompilers
+assignment
+38
+enhancing
+supports
+fly
+inhibits
+steering
+dominance
+ssa
+mature
+option
+unstructured
+assistance
+hybrid
+override
+programmable
+directives
+utilizes
+push
+advanced
+replacement
+tiling
+inner
+guide
+nested
+compilers
+precision
+fusing
+notices
+headers
+arrays
+subscript
+1994
+overlooked
+abilities
+static
+event
+driver
+overcomes
+adjusts
+spurious
+maintained
+environment
+discovers
+effects
+project
+enclosing
+classifies
+elsewhere
+permits
+testing
+errors
+sigplan
+dependence analysis
+the dependence
+dependence graph
+parallel programming
+parascope editor
+the parascope
+the loop
+of dependences
+interprocedural analysis
+the user
+the dependences
+ped is
+dependences that
+in ped
+programming environment
+the program
+dependence information
+dependences in
+ffl loop
+transformations are
+a loop
+loop carried
+dependence pane
+text pane
+program transformations
+loop and
+of dependence
+ir n
+parallel loop
+a parallel
+event synchronization
+a dependence
+of interprocedural
+in parallel
+s 1
+control flow
+carried dependences
+dependence analyzer
+dependences for
+dependence testing
+loop interchange
+the ir
+statement dependence
+of ped
+dependence display
+enddo enddo
+ped s
+pane the
+dependence is
+interactive parallel
+current dependence
+analysis and
+the transformation
+data dependence
+constant propagation
+iteration space
+array references
+loop level
+a transformation
+an interactive
+run in
+reordering transformations
+structured transformations
+ped has
+dependences the
+variable classification
+control dependence
+i loop
+data dependences
+a program
+side effects
+synchronization in
+programming tool
+dependences are
+assignment statement
+loop may
+transformations that
+the transformations
+private variables
+editor a
+dependence s
+parallel fortran
+n programming
+current loop
+ken kennedy
+be run
+user selects
+loop nest
+loop in
+independent statements
+for subscripted
+loop skewing
+level parallelism
+s dependence
+subscripted variables
+advice and
+true dependence
+program changes
+source and
+the text
+procedure calls
+step size
+parallelism in
+symbolic analysis
+an edit
+experiences using
+loop independent
+dataflow analysis
+the current
+are enabled
+they want
+program analysis
+conservative dependences
+pcf fortran
+assist users
+source reference
+mechanically possible
+1 ffis
+any assertions
+by ped
+or private
+button the
+sink variable
+ffl defined
+dependence list
+imprecise dependence
+wavefront method
+scalar replacement
+useful parallelism
+scalar dataflow
+miscellaneous transformations
+pat can
+sink reference
+of automatic
+parallel programs
+fortran programs
+dependences and
+transformation is
+memory machines
+for parallel
+and dependence
+that loop
+s 2
+dependence in
+the variable
+optimizing transformations
+transformations dependence
+false dependences
+loop distribution
+interactive program
+sequential loop
+s mckinley
+interprocedural side
+editor is
+2 later
+loop into
+incremental dependence
+dependence type
+kathryn s
+transformation algorithms
+the wavefront
+expert advice
+parallel form
+ffl statement
+this mechanism
+be displayed
+transformations the
+distributed memory
+analysis in
+nested loops
+presented with
+section analysis
+race conditions
+regular section
+is underlined
+dependence occurs
+dependences which
+automatic tools
+interactive parallelization
+the parallel
+precision of
+programs to
+is displayed
+loop can
+variables from
+the precision
+anomaly detection
+enabled when
+interprocedural constant
+scientific programs
+chau wen
+and interprocedural
+wen tseng
+precise analysis
+with loop
+parallel machines
+user is
+the source
+iteration of
+graph and
+the parascope editor
+the dependence graph
+a parallel programming
+the dependence pane
+the text pane
+run in parallel
+in the dependence
+parallel programming environment
+loop carried dependences
+the ir n
+in a parallel
+a parallel loop
+be run in
+dependence graph and
+statement dependence graph
+dependence analysis and
+of the program
+dependence analysis for
+parallel programming tool
+the current dependence
+interactive parallel programming
+of the dependences
+interprocedural analysis and
+of the loop
+dependence analysis in
+in the program
+synchronization in a
+dependences in the
+loop level parallelism
+the dependence analyzer
+event synchronization in
+the dependences in
+the dependence display
+of dependence analysis
+control and data
+if the transformation
+ir n programming
+the current loop
+dependences in a
+n programming environment
+and the dependence
+for subscripted variables
+of interprocedural analysis
+in a program
+the i loop
+analysis and optimization
+is an interactive
+the iteration space
+in the loop
+the loop and
+s 1 ffis
+scalar dataflow analysis
+imprecise dependence analysis
+the transformation algorithms
+dependence is preserved
+all the dependences
+s 1 indicates
+s 2 later
+when s 1
+occurs when s
+programming environment an
+programs for parallel
+parascope editor is
+provided by ped
+the wavefront method
+to assist users
+of dependence information
+transformations are enabled
+dependence pane the
+dependence occurs when
+enddo enddo enddo
+text and structure
+interprocedural analysis of
+and sink variable
+interactive program transformations
+assist users in
+dependence s 1
+into a parallel
+of the parascope
+loop and used
+and its use
+the user selects
+of the dependence
+the user is
+the precision of
+of an edit
+user selects the
+incremental dependence analysis
+dependences for the
+are enabled when
+loop may be
+kathryn s mckinley
+its use in
+the transformation is
+distributed memory machines
+of a loop
+all of the
+analysis and transformation
+and data dependences
+that s 2
+running in parallel
+in parallel programming
+regular section analysis
+the transformations are
+in a loop
+in the text
+iteration of the
+chau wen tseng
+static single assignment
+data dependences in
+the user to
+semantics of the
+data dependence analysis
+practical dependence testing
+and optimization in
+source and sink
+they want to
+the source and
+conference on supercomputing
+an assignment statement
+the control flow
+want to be
+may then be
+the user can
+carried by the
+1 indicates that
+the execution of
+loop in the
+detecting data dependences
+editor a new
+with the mouse
+analysis of dependences
+from running in
+improve the precision
+graph the statement
+that loop the
+ped s dependence
+to private storage
+level parallelism in
+a guidebook to
+limitations of automatic
+j loop in
+variables from one
+sets of dependences
+focuses on loop
+dependence breaking transformations
+of scientific programs
+the graph can
+of the ir
+a statement dependence
+for interactive parallelization
+use of diagnostic
+evolution of parascope
+compilers a test
+notice in figure
+the parascope project
+analysis of low
+potential candidates for
+on loop level
+from being run
+dependence filter facility
+wait event synchronization
+given an opportunity
+query become the
+iteration space of
+determine whether two
+13 14 56
+variable classification dialog
+dependence in ptran
+programming tool proceedings
+of the ptran
+information is displayed
+analysis a dependence
+dependences that cross
+debugging with on
+expert advice and
+analysis for interactive
+structured program transformations
+skewing the wavefront
+propagation with conditional
+with loop interchange
+programming on sequent
+of array side
+new interactive parallel
+the ptran analysis
+classes of dependences
+dependences with the
+analysis system for
+improving balance for
+the original sequential
+match the query
+for multiprocessing a
+buttons in the
+by permitting the
+9 13 14
+use in optimization
+experience with interprocedural
+ped focuses on
+transformations the following
+last k iterations

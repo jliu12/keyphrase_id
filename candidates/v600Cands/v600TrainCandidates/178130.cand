@@ -1,0 +1,600 @@
+vw
+multicommodity
+flow
+findpath
+jf
+commodity
+concurrent
+scalingconcurrent
+sparsest
+commodities
+log
+bad
+leighton
+optimality
+randomized
+ffl
+relaxed
+dist
+shortest
+cut
+rerouting
+paths
+edge
+raghavan
+capacities
+lengths
+ffjf
+shahrokhi
+rao
+capacity
+routing
+matula
+granularity
+exponentiation
+reroute
+width
+fff
+demand
+thompson
+demands
+iterations
+r1
+serge
+plotkin
+iteration
+jajjbj
+oe
+min
+r2
+path
+deterministic
+channel
+approximation
+mffl
+wires
+mk
+edges
+omega
+quantum
+dominated
+congestion
+ffoe
+kd
+array
+deterministically
+expander
+tarjan
+endpoints
+siam
+palmon
+least140
+wmin
+vw2e
+ffffljf
+opt
+routed
+vlsi
+flows
+shall
+km
+longest
+arrangement
+max
+appealed
+reroutings
+minfd
+omri
+kamath
+ending
+cap
+sink
+rounding
+nm
+probability
+cancelling
+poly
+fractional
+jj
+gradually
+directed
+item
+spent
+rerouted
+monika
+admission
+approximate
+terminates
+polynomial
+randomly
+complimentary
+ashish
+shipping
+goel
+annual
+dominates
+jaj
+fd
+vaidya
+henzinger
+sleator
+karger
+slackness
+jacm
+bounds
+bottleneck
+theorems
+approximately
+ff
+polylog
+acyclic
+calls
+twice
+contribution
+anil
+francisco
+lemma
+running
+updating
+gamma1
+satish
+cuts
+gamma2
+sinks
+suffices
+initialization
+invocation
+goldberg
+precision
+undirected
+sixth
+jbj
+congested
+carry
+unit
+satisfied
+uniform
+suffice
+logn
+reformulated
+gave
+recomputed
+proportional
+throughput
+vegas
+las
+mittaz
+141ffoe
+gamma450
+througput
+139ffl
+of140
+gammast
+gamma407
+processsor
+karakostas
+kyomin
+stolyar
+interst
+gamma207
+node
+initializing
+select
+claim
+twenty
+contributes
+precomputed
+symposium
+cycles
+united
+arc
+minimizes
+decrease
+wire
+maintain
+pravin
+iof
+sho
+gamma200
+kapoor
+layout
+concurrent flow
+ffl optimal
+ffl bad
+multicommodity flow
+of reduce
+flow problem
+flow f
+relaxed optimality
+log n
+jf j
+bad path
+an ffl
+flow path
+commodity i
+granularity condition
+length function
+w min
+o ffl
+capacity concurrent
+edge vw
+procedure reduce
+a multicommodity
+flow paths
+unit capacity
+sparsest cut
+time required
+of flow
+m log
+o m
+channel width
+ffl gamma1
+oe i
+o k
+expected time
+a flow
+shortest path
+in o
+the flow
+n log
+total flow
+randomized implementation
+f vw
+leighton and
+reduce is
+n time
+and rao
+is ffl
+ffl 0
+optimality condition
+j 1
+that exponentiation
+reduce we
+j j
+the granularity
+condition r1
+reduce can
+k log
+call to
+flow on
+ffl good
+fff vw
+shahrokhi and
+and matula
+concurrent is
+every commodity
+an edge
+is o
+optimality conditions
+o log
+approximation algorithms
+of ffl
+the concurrent
+from s
+flow from
+the length
+the time
+k m
+the multicommodity
+approximation algorithm
+ffl is
+randomized algorithm
+is at
+the randomized
+at most
+and thompson
+serge plotkin
+raghavan and
+edge lengths
+iteration of
+find an
+condition r2
+flow quantum
+vw f
+vw vw
+algorithm scalingconcurrent
+same endpoints
+optimal multicommodity
+findpath we
+a randomized
+min log
+log m
+each iteration
+a length
+running time
+in expected
+i to
+required for
+s i
+m time
+our algorithms
+of iterations
+ffl optimality
+and satisfy
+f and
+linear programming
+starting node
+of jf
+required by
+log k
+bad paths
+ffl gamma2
+vw in
+matula 15
+jf jj
+bad flow
+computational bottleneck
+for findpath
+of findpath
+algorithm concurrent
+reroute flow
+each commodity
+quantum oe
+the demands
+the running
+probability proportional
+the sparsest
+exponentiation is
+an o
+an iteration
+of commodity
+every edge
+t i
+d i
+length of
+r2 is
+data structure
+to t
+o n
+kd i
+reduce f
+optimal flow
+vw 2
+vlsi routing
+deterministic implementation
+o km
+approximate shortest
+reduce for
+e fff
+path p
+iterations of
+for every
+the lengths
+lemma 4
+that ffl
+km log
+7 ffl
+time o
+the sum
+single step
+the shortest
+most o
+all flow
+error parameter
+minimum cut
+good paths
+a factor
+f is
+log 2
+the array
+k n
+annual acm
+log ffl
+jj j
+are ffl
+all iterations
+the relaxed
+factor of
+we shall
+paths with
+twice the
+shortest paths
+the procedure
+a shortest
+takes o
+constant ffl
+a graph
+each edge
+approximately sparsest
+e ffjf
+ffjf j
+concurrent flow problem
+an ffl bad
+ffl bad path
+multicommodity flow f
+the granularity condition
+capacity concurrent flow
+j j 1
+a multicommodity flow
+iteration of reduce
+unit capacity concurrent
+the time required
+m log n
+relaxed optimality condition
+a flow path
+call to reduce
+relaxed optimality conditions
+the concurrent flow
+an ffl optimal
+is ffl optimal
+satisfy the granularity
+from s i
+leighton and rao
+i to t
+a length function
+s i to
+time required by
+find an ffl
+time required for
+f and are
+the unit capacity
+of reduce is
+f is ffl
+is at most
+jf j is
+n log n
+the total flow
+to t i
+amount of flow
+log n time
+raghavan and thompson
+the procedure reduce
+flow problem with
+optimality condition r1
+an edge vw
+are ffl optimal
+for every commodity
+shahrokhi and matula
+w min log
+k n log
+by a randomized
+in o m
+to find an
+the multicommodity flow
+k m log
+o k m
+the length function
+is o ffl
+o m log
+the length of
+randomized algorithm in
+the same endpoints
+optimal multicommodity flow
+the randomized implementation
+value of jf
+ffl optimal multicommodity
+min log n
+randomized implementation of
+reduce can be
+assumption that exponentiation
+implementation of reduce
+the relaxed optimality
+that exponentiation is
+flow problem can
+of flow from
+and are ffl
+number of iterations
+path from s
+units of flow
+a unit capacity
+of commodity i
+exponentiation is a
+flow f is
+r2 is not
+the sparsest cut
+of reduce we
+a randomized algorithm
+o log n
+and satisfy the
+level data structure
+multicommodity flow problem
+j 1 is
+log n m
+through an edge
+an iteration of
+probability proportional to
+ffi a b
+with probability proportional
+in expected time
+the computational bottleneck
+and matula 15
+reduce is at
+ffl good paths
+length function for
+the flow paths
+total flow on
+jj j 1
+i and satisfy
+jf jj j
+flow problem in
+every commodity i
+flow quantum oe
+edge vw 2
+loop of reduce
+iterations of reduce
+compute the length
+all flow paths
+condition r2 is
+bad flow path
+flow from an
+vw f vw
+kd i g
+solving a unit
+flow paths with
+algorithm in expected
+o ffl gamma1
+every edge vw
+call to concurrent
+from an ffl
+ffl bad paths
+bad path in
+path of commodity
+poly n o
+found by a
+log n log
+m 2 log
+the running time
+m n log
+is o k
+the channel width
+flow path p
+all iterations is
+of ffl 0
+of reduce the
+o km log
+sparsest cut in
+vw 2 e
+ffl 1 10
+flow f and
+a flow f
+of jf j
+dominated by the
+a single step
+of iterations of
+approximation algorithms for
+the sum over
+at most o
+of j j
+when ffl is
+shortest path computation
+k log n
+that f and
+a factor of
+by a deterministic
+for all iterations
+flow problem is
+paths from s
+expected time o
+o k n
+the assumption that
+t i in
+in a graph
+reduce the time
+for every edge
+cut in a
+and a length
+approximation algorithm for
+log 2 n
+time o k
+running time of
+by a factor
+that runs in
+oe i and
+optimality conditions are
+the loop of
+of all flow
+e jf j
+concurrent is o
+uniform capacity concurrent
+the given starting
+reduce terminates after
+an approximately sparsest
+approximate sparsest cut
+o ffl gamma2
+reduce f ffl
+invocation of reduce
+not ffl optimal
+implementations of procedure
+w min omega
+sum over ffl
+of flow paths

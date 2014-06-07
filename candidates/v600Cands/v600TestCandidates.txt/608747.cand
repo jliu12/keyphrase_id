@@ -1,0 +1,600 @@
+pssa
+predicated
+cmpp
+hyperblock
+pspec
+guarding
+chr
+predicate
+t1
+speculation
+schedulable
+dependences
+predicates
+z1
+bagf
+trimaran
+agf
+uc
+earliest
+instruction
+renaming
+hyperblocks
+cagf
+epic
+ssa
+height
+speculated
+y1
+scheduled
+cycle
+bahf
+fpp
+predication
+ebagf
+lbagf
+cahf
+ecagf
+guarded
+r1
+scheduling
+ac
+lbahf
+op
+br
+schedule
+renamed
+edcagf
+ahf
+fpps
+ebahf
+ecahf
+edcahf
+ia
+un
+dependence
+register
+w1
+branch
+ilp
+live
+join
+registers
+playdoh
+instructions
+branches
+statements
+false
+p2
+block
+tag
+mahlke
+paths
+p3
+flow
+duplication
+duplicated
+static
+conversion
+committed
+operands
+code
+path
+pred
+optimized
+aggressive
+alvinn
+rename
+isa
+assignment
+reduction
+r2
+def
+optimizations
+sensitive
+statement
+cfg
+t2
+scheduler
+cycles
+operand
+expansion
+64
+reaching
+compiler
+rand
+normal
+guard
+flexibility
+disjointness
+exit
+architecture
+superblocks
+speculating
+nbradar
+predicating
+cydra
+fib
+specint95
+parallelism
+copy
+duplicate
+b1
+definitions
+defining
+fir
+nullify
+compress
+oe
+executed
+traditional
+qsort
+relieve
+hewlett
+region
+infinite
+v1
+character
+blocks
+remove
+b3
+packard
+wc
+file
+benchmarks
+recurrences
+italics
+floating
+selective
+intel
+speculate
+eliminating
+execution
+profile
+utilization
+clean
+removing
+waiting
+accomplish
+architectural
+profiling
+exiting
+names
+unnecessarily
+mm
+architectures
+corporation
+assure
+weighted
+transformed
+introduces
+post
+merged
+reflect
+converted
+benchmark
+wave
+pipelining
+versions
+expose
+targets
+prior
+b2
+pressure
+normalized
+anded
+tiberiu
+elimation
+rodric
+vinod
+chelcea
+rabbah
+poison
+budiu
+multiflow
+y5
+copen
+y6
+10305070
+stmts
+merced
+the hyperblock
+if true
+guarding predicate
+height reduction
+control height
+schedulable cycle
+earliest schedulable
+predicated code
+cmpp un
+un uc
+pspec and
+z1 7
+predicated execution
+predicated speculation
+true 3
+full path
+cmpp an
+and chr
+path predicates
+t1 r1
+for predicated
+its guarding
+path information
+the pssa
+br out
+cmpp op
+using pssa
+a hyperblock
+static single
+false dependences
+guarded by
+ia 64
+predicate sensitive
+of y1
+t1 7
+normal op
+speculation and
+single assignment
+predicated hyperblock
+uc t1
+the guarding
+predicated static
+guarding predicates
+instruction scheduling
+predicated on
+7 if
+16 way
+if conversion
+its earliest
+on true
+code expansion
+scheduled at
+control flow
+r1 if
+t r
+lbagf ebagf
+to predicated
+ebagf cmpp
+ac t1
+the cmpp
+w1 2
+next def
+cmpp statements
+sensitive analysis
+be scheduled
+the predicate
+and t1
+an ac
+the operation
+the definition
+definition of
+true and
+dynamic code
+an an
+oe functions
+renaming and
+join block
+epic architecture
+control paths
+bagf cagf
+of predicated
+t1 r2
+assignment pssa
+ecahf edcahf
+pssa transformed
+lbahf ebahf
+bahf cahf
+cmpp operations
+edcahf cmpp
+ecagf edcagf
+of pssa
+cmpp ac
+edcagf cmpp
+predicate registers
+ebahf cmpp
+optimized infinite
+cmpp operation
+pssa to
+guarding pred
+of ssa
+block predicates
+out if
+y t
+and control
+predicates that
+original code
+flow graph
+a predicate
+data flow
+scheduled in
+r if
+operation is
+ac ac
+define predicates
+op guarding
+that pssa
+cahf cmpp
+pssa allows
+b predicated
+cagf cmpp
+by trimaran
+the trimaran
+renamed variables
+with pspec
+pssa dependence
+non predicated
+agf ahf
+def get
+pssa pspec
+infinite results
+during instruction
+pssa form
+multiple control
+hyperblock is
+multiple definitions
+3 bagf
+issue machine
+t1 s
+block predicate
+uc w1
+predicated region
+their earliest
+op schedule
+pssa with
+to pssa
+by pssa
+transformed code
+graph b
+is guarded
+control dependence
+of control
+definitions of
+basic blocks
+r2 if
+operation s
+in figure
+the optimized
+if p2
+after optimization
+t2 t1
+control path
+eliminating false
+original control
+per cycle
+predicates to
+that defined
+level parallelism
+b q
+predicates are
+be committed
+dependence graph
+branches with
+predicate is
+is true
+of operations
+for predicate
+in cycle
+operations that
+flow analysis
+chr and
+3 ecahf
+sensitive implementation
+on pssa
+traditional code
+3 ecagf
+an z1
+trimaran system
+hyperblock pssa
+1 agf
+3 lbahf
+predicate register
+duplicated code
+an t1
+executed cycles
+if p3
+same cycle
+uc z1
+y1 5
+op earliest
+and pspec
+earliest schedulable cycle
+control height reduction
+cmpp un uc
+if true 3
+full path predicates
+its guarding predicate
+pspec and chr
+static single assignment
+and control height
+y t r
+t r if
+z1 7 if
+speculation and control
+predicated static single
+7 if true
+un uc t1
+in the hyperblock
+of the hyperblock
+its earliest schedulable
+predicated speculation and
+for predicated code
+br out if
+control flow graph
+the definition of
+the guarding predicate
+cmpp an ac
+cmpp an an
+lbagf ebagf cmpp
+t1 7 if
+w1 2 if
+at its earliest
+t1 r1 if
+dynamic code expansion
+definitions of y1
+predicated on true
+value of true
+predicate sensitive analysis
+pssa transformed code
+t1 r2 if
+single assignment pssa
+cmpp ac ac
+ecahf edcahf cmpp
+ecagf edcagf cmpp
+lbahf ebahf cmpp
+of its guarding
+t t s
+the original code
+guarded by the
+is true and
+in a hyperblock
+r1 if true
+eliminating false dependences
+uc w1 2
+an ac t1
+next def get
+pssa pspec and
+un uc w1
+3 bagf cagf
+through the hyperblock
+definition of y1
+ebagf cmpp an
+t2 t1 s
+uc t1 7
+guarding predicate is
+scheduled at its
+bagf cagf cmpp
+r if d
+flow graph b
+5 if true
+using pssa with
+at their earliest
+bahf cahf cmpp
+of predicated execution
+in figure 5
+be scheduled at
+is guarded by
+instruction level parallelism
+on the definition
+number of operations
+each operation is
+the operation s
+to be defined
+predicated speculation pspec
+b predicated hyperblock
+with pspec and
+the predicate or
+5 x if
+operations in figure
+an an t1
+the same cycle
+for predicate sensitive
+predicate sensitive implementation
+uc z1 7
+cmpp op guarding
+the hyperblock are
+flexibility in scheduling
+ac ac z1
+bagf and cagf
+a original control
+12 to 68
+3 ecagf edcagf
+true 1 agf
+s earliest schedulable
+of the guarding
+for predicated execution
+3 ecahf edcahf
+f b 2
+on pssa transformed
+an an z1
+between the definition
+un uc z1
+their earliest schedulable
+guarding predicates are
+sensitive implementation of
+16 way original
+d b 3
+true 3 ecagf
+path along which
+ac z1 7
+multiple control paths
+pssa dependence graph
+during instruction scheduling
+out if l
+true if true
+3 lbagf ebagf
+normal op target
+and t1 7
+graph b predicated
+multiple definitions of
+7 and t1
+for a 16
+a 16 issue
+16 issue machine
+non predicated code
+2 if true
+v1 y1 5
+q if p2
+true 3 lbagf
+predicate defining operations
+original control flow
+s if d
+in the trimaran
+predicated execution is
+for renaming and
+true 3 ecahf
+the trimaran system
+3 lbahf ebahf
+original 16 way
+an z1 7
+the cmpp operation
+r 5 x
+r2 if true
+b q if
+if true 1
+optimized infinite results
+defining bagf and
+op earliest schedulable
+7 if f
+using pssa to
+and t1 r1
+need for renaming
+f true if
+operation s guarding
+t1 s if
+true 3 lbahf
+a predicate sensitive
+in ia 64
+op guarding pred
+schedulable cycle f
+to pssa form
+height reduction chr
+support for predicated
+to remove false
+renaming and for
+s guarding predicate
+to predicated code
+implementation of ssa
+z1 7 and
+the optimized infinite
+a is true
+the operation is
+data flow analysis
+g b c
+if g b
+definition of its
+hard to predict
+true and c
+path leading to
+if f 3
+if a is
+from 12 to
+predicates to be
+is predicated on
+c t r
+be scheduled in
+all other operations
+control flow and
+b c t
+operations to be
+of the operation

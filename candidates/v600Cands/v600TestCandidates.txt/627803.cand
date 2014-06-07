@@ -1,0 +1,600 @@
+itemsets
+mining
+association
+itemset
+frequent
+apriori
+count
+processors
+processor
+candidate
+candidates
+sizeup
+pass
+hash
+counts
+serial
+redistribution
+sp2
+scaleup
+datasets
+zaki
+rules
+transaction
+response
+mohammed
+database
+filter
+apriorihybrid
+jiawei
+prune
+pruning
+han
+discovery
+100mb
+parthasarathy
+abcd
+partitioning
+multiprocessor
+disks
+asynchronously
+gamma1
+gregory
+communication
+items
+offs
+srinivasan
+buehrer
+riedel
+powerparallel
+subproblem
+databases
+ck
+aggregate
+sigkdd
+kitsuregawa
+repartitioning
+laks
+lakshmanan
+schuster
+masaru
+assaf
+keng
+synchronize
+speedup
+dataset
+sigmod
+carson
+pdm
+wei
+disk
+discovering
+kubat
+chiu
+choudhary
+yen
+wolff
+leung
+ab
+passes
+agrawal
+raymond
+liao
+newsletter
+counting
+broadcast
+karypis
+vipin
+alok
+faloutsos
+mb
+christos
+5g
+f1
+shaowei
+ghoting
+xiaohua
+ff1
+repartitioned
+daehyun
+25mb
+24rd
+shiby
+cheung
+explorations
+workloads
+parallelization
+hu
+kai
+chen
+generation
+trade
+288
+4g
+ogihara
+kan
+ruoming
+gagan
+eui
+amol
+abcde
+ganger
+vanneschi
+nagle
+mitsunori
+balancing
+sang
+ling
+jm
+mpi
+25th
+synchronization
+273
+bases
+794
+sarawagi
+hongjun
+kurc
+coppola
+sunita
+tahsin
+shichao
+2gb
+confidence
+counted
+associations
+prefix
+feng
+intensive
+massimo
+mahmut
+rakesh
+miroslav
+scalable
+record
+2000
+xia
+kandemir
+kuang
+saltz
+gmbh
+physica
+li
+develops
+jin
+yu
+steve
+ibm
+rule
+lk
+1998
+kim
+exploits
+configurations
+node
+engineering
+heidelberg
+kumar
+dr
+smart
+david
+conscious
+shih
+343
+nothing
+george
+ng
+winner
+heuristically
+exchanged
+zhang
+anthony
+southeast
+nguyen
+join
+446
+song
+partition
+tuples
+ning
+337
+association rules
+frequent itemsets
+distribution algorithm
+candidate distribution
+data mining
+each processor
+mining association
+hash filter
+the count
+the candidate
+processor p
+count distribution
+other processors
+data distribution
+for mining
+l k
+candidate generation
+mining of
+the apriori
+the serial
+k gamma1
+local data
+response time
+serial algorithm
+aggregate memory
+the prune
+distribution algorithms
+prune step
+association rule
+rule mining
+parallel algorithms
+candidates in
+p i
+the response
+candidate set
+an itemset
+the frequent
+c k
+apriori algorithm
+the database
+the itemsets
+and data
+the itemset
+c i
+response times
+all frequent
+three parallel
+apriori candidate
+the processors
+minimum support
+on knowledge
+parallel mining
+itemsets are
+i k
+the candidates
+support counts
+problem specific
+mining and
+engineering v
+data engineering
+of association
+per node
+knowledge discovery
+count algorithm
+frequent itemset
+count and
+processors to
+knowledge and
+every pass
+candidate algorithm
+redistribution pass
+srinivasan parthasarathy
+jiawei han
+the pass
+of mining
+j zaki
+mohammed j
+pattern mining
+of candidates
+parallel data
+of processors
+generating rules
+rules data
+support count
+rules acm
+of transactions
+itemsets in
+of frequent
+mining on
+trade offs
+next pass
+rule generation
+distributed mining
+distributed association
+record v
+sigmod record
+mining algorithms
+large databases
+in parallel
+processor has
+candidate sets
+generation procedure
+the multiprocessor
+shared nothing
+of data
+2 p
+data bases
+its local
+the rule
+and asynchronously
+steve c
+time normalized
+kai sang
+candidate itemset
+alok n
+c chiu
+32 node
+larger datasets
+six datasets
+mb per
+k counts
+distributed smart
+usage synchronization
+dr i
+carson kai
+n choudhary
+raymond t
+complete l
+local candidate
+sang leung
+smart disks
+global c
+ran wolff
+chiu wei
+gregory buehrer
+schuster ran
+subproblem the
+on very
+items in
+acm sigmod
+3 p
+acm sigkdd
+first pass
+discovery v
+large data
+to synchronize
+the hash
+association mining
+mining with
+proceedings of
+a hash
+database size
+data tuples
+communication memory
+assaf schuster
+of apriori
+o intensive
+pass 1
+entire dataset
+liao alok
+s lakshmanan
+christos faloutsos
+wei keng
+w cheung
+an sp2
+intensive workloads
+generating c
+keng liao
+of trade
+join step
+t ng
+masaru kitsuregawa
+laks v
+ling feng
+k from
+a processor
+for association
+single pass
+all other
+rules from
+and knowledge
+the processor
+rules on
+counts for
+ieee transactions
+transactions on
+i o
+i generates
+and candidate
+pass is
+candidate itemsets
+k itemsets
+whose support
+hash tree
+l j
+15 n
+v 15
+k using
+the items
+this algorithm
+mining association rules
+processor p i
+the count distribution
+l k gamma1
+count distribution algorithm
+for mining association
+data distribution algorithm
+candidate distribution algorithm
+the candidate distribution
+the prune step
+the serial algorithm
+association rule mining
+c i k
+the frequent itemsets
+all other processors
+the response time
+count and data
+apriori candidate generation
+the apriori candidate
+the count algorithm
+three parallel algorithms
+of association rules
+data engineering v
+knowledge and data
+and data engineering
+on knowledge and
+transactions on knowledge
+of mining association
+n 2 p
+number of processors
+each processor p
+of the serial
+l i k
+the apriori algorithm
+to the response
+parallel data mining
+algorithm for mining
+mining of association
+parallel mining of
+problem of mining
+proceedings of the
+a hash filter
+prune step of
+candidates in c
+distribution algorithm is
+the candidate algorithm
+data distribution algorithms
+and data distribution
+mohammed j zaki
+as the database
+the data distribution
+data mining and
+all frequent itemsets
+association rules data
+candidate generation procedure
+for the count
+and knowledge discovery
+mining and knowledge
+sigmod record v
+acm sigmod record
+n 3 p
+of the candidate
+engineering v 15
+the next pass
+its local data
+distributed mining of
+large data bases
+a shared nothing
+the candidate set
+response times for
+amount of data
+very large data
+on very large
+ieee transactions on
+from all other
+the first pass
+association rules on
+knowledge discovery v
+the response times
+c k counts
+next pass the
+steve c chiu
+kai sang leung
+k from c
+schuster ran wolff
+chiu wei keng
+use of aggregate
+david w cheung
+the hash filter
+smart disks for
+pattern mining on
+time normalized with
+of candidate generation
+offs between computation
+between computation communication
+memory usage synchronization
+usage synchronization and
+the six datasets
+use of problem
+computation communication memory
+communication memory usage
+the complete l
+of trade offs
+of problem specific
+carson kai sang
+of aggregate memory
+step of candidate
+response time normalized
+in every pass
+2 processor p
+o intensive workloads
+i k sets
+complete l k
+subproblem the problem
+disks for i
+every other processor
+liao alok n
+the join step
+with minimum support
+alok n choudhary
+c chiu wei
+rules acm sigmod
+raymond t ng
+assaf schuster ran
+spectrum of trade
+distributed smart disks
+problem specific information
+number of candidates
+k using the
+association rules in
+in large databases
+i o intensive
+serial algorithm the
+association rules acm
+laks v s
+synchronization and the
+support counts for
+processors to synchronize
+wei keng liao
+keng liao alok
+rules data mining
+record v 27
+the entire dataset
+of the itemset
+rules on a
+v s lakshmanan
+v 15 n
+international conference on
+parallel algorithms for
+this set has
+of all frequent
+the database size
+of data per
+processor has the
+mining of frequent
+parallel algorithms are
+processors is increased
+p i generates
+mining for association
+distributed association rule
+the count and
+rules in parallel
+and the use
+data bases p
+conference on very
+mining proceedings of
+association rules the
+is the response
+each processor can
+sigkdd explorations newsletter
+for i o
+normalized with respect
+explorations newsletter v
+the processor p
+trade offs between
+acm sigkdd explorations
+a spectrum of
+times for the
+of the count
+other processors in
+the exact same
+data mining for
+at the end
+that each processor
+for association rules
+intelligent data analysis
+27 n 2
+data analysis v
+a single pass
+memory of the
+n 4 p
+parallel databases v
+in l k
+and parallel databases
+n 1 p
+to every other
+the items in
+parallel and distributed
+the end of
+on a shared

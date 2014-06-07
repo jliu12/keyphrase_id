@@ -1,0 +1,600 @@
+fft
+fun
+rets
+dir
+bind
+staging
+monadic
+staged
+rap
+circuits
+fftw
+z1
+liftcm
+l1
+generators
+zy
+circuit
+abstract
+optimizations
+retn
+ys
+rec
+metaocaml
+lit
+zx
+l2
+interpretation
+mg
+merge
+floating
+xs
+multiplication
+conc
+mv_add
+multiplications
+hardware
+posteriori
+double
+float
+y0
+stage
+exp
+ret
+platform
+add_s
+expressivity
+maybevalue
+fpgas
+safl
+languages
+resource
+additions
+reconfigurable
+ta
+monads
+i1
+code
+generator
+sv
+duplication
+configurable
+annotations
+y1
+manifest
+mvconc
+sub_s
+w_s
+mult_s
+quotations
+add_a
+tukey
+power3
+retn_v
+unstaged
+concrete_code
+x_234
+retn_va
+__fun_def
+r2
+r1
+cooley
+verilog
+ruby
+ms
+verifying
+programmer
+deployment
+ocaml
+concretization
+mv
+untyped
+generation
+fragment
+constructs
+operator
+quadrant
+fourier
+abstraction
+cos_signs
+add_ta
+add_sv
+escaped
+w_a
+codelets
+emir
+fft_ms
+csh
+x1_235
+hardwarec
+merge_ms
+sin_signs
+xc6200
+float_of_int
+hml
+hydra
+abstract_code
+herrmann
+typed
+language
+brackets
+_
+avoids
+unnecessary
+tagged
+static
+haskell
+realizable
+avoiding
+style
+arithmetic
+comprehending
+asts
+kiselyov
+microarchitectural
+inspecting
+pi
+escapes
+cbn
+subtractions
+expressive
+literal
+bool
+val
+combinatorial
+bindings
+match
+cf
+temporaries
+datatypes
+cos
+correctness
+mult
+specialisation
+oleg
+computations
+recurrence
+concrete
+aware
+library
+verified
+trivial
+operators
+programmable
+naively
+boundedness
+safety
+datatype
+butterfly
+interfaces
+express
+christoph
+gcc
+ensuring
+functional
+transform
+generic
+n1
+viz
+worlds
+variant
+discriminate
+mul
+intensional
+guarantees
+programs
+unity
+i2
+lift
+int
+losing
+gate
+else
+compiler
+verification
+sa
+refinements
+classifiers
+imaginary
+seeking
+reusable
+abstract interpretation
+generated code
+the fft
+double double
+let rec
+bind rets
+the staged
+the generated
+l1 l2
+x z1
+z1 fun
+the code
+fun x
+mg l1
+rap languages
+bind mg
+code value
+bind liftcm
+floating point
+multi stage
+a monadic
+input vector
+resource bounded
+a posteriori
+hardware description
+deployment platform
+the rap
+in bind
+staging constructs
+aware programming
+monadic style
+resource aware
+y fun
+combinatorial circuits
+the generation
+of abstract
+complex arithmetic
+type system
+bind f
+y ys
+posteriori optimizations
+match l1
+dir n
+dir l1
+configurable computing
+z1 bind
+l1 let
+manifest interfaces
+l2 match
+b _
+r1 i1
+fun zx
+i1 r2
+a zy
+zy b
+fun z1
+exp dir
+zx a
+fun zy
+staging the
+multiplications additions
+point multiplications
+zx bind
+efficient circuits
+by fftw
+fft function
+rec mg
+static type
+multiplication by
+the generator
+the multiplication
+fast fourier
+the abstract
+abstract type
+development platform
+circuits by
+xs y
+power n
+l2 with
+code fragment
+the deployment
+the programmer
+generation time
+languages provide
+abstract domain
+guarantees about
+x x
+x xs
+code duplication
+1 0
+partial evaluation
+second stage
+as let
+description languages
+cooley tukey
+mg xs
+w_s dir
+retn v
+stage computation
+rets zx
+type circuit
+liftcm retn_va
+mult_s w_s
+tukey recurrence
+look inside
+mv_add x
+programming rap
+generated circuits
+stage programming
+fft circuits
+concrete type
+b rets
+minimal example
+specific optimizations
+generated programs
+else l
+ys j
+the fftw
+x exp
+_ rets
+circuit realizable
+monadic sharing
+liftcm retn_v
+of power3
+y0 y1
+zy bind
+merge dir
+1 fun
+dir y0
+merge ms
+staging annotations
+reconfigurable hardware
+monadic library
+fft ms
+rets in
+of float
+at generation
+fft dir
+merge mv
+fft the
+ys bind
+fft algorithm
+the type
+fourier transform
+of verifying
+domain specific
+x any
+type systems
+xs ys
+list length
+code type
+interpretation on
+program generators
+fun a
+single assignment
+for hardware
+generation of
+annotations to
+for fft
+complex number
+if list
+add s
+verifying a
+that abstract
+to avoid
+platform and
+abstraction mechanisms
+programmer to
+computation and
+code for
+with x
+the input
+the monadic
+interpretation and
+of floating
+circuits are
+generator and
+hardware design
+j y
+program the
+function that
+an expressive
+for avoiding
+circuits in
+one one
+code we
+avoid the
+more information
+the correctness
+rap type
+mvconc x
+cos is
+tool as
+fun y
+the maybevalue
+a rap
+code resulting
+connect operator
+trivial operations
+generated computations
+the generated code
+double double double
+x z1 fun
+mg l1 l2
+of abstract interpretation
+resource aware programming
+the deployment platform
+the input vector
+use of abstract
+fast fourier transform
+dir n j
+zx bind rets
+the code value
+z1 fun zx
+l1 l2 match
+l2 with x
+z1 bind rets
+the development platform
+r1 i1 r2
+language for hardware
+xs y ys
+zy b _
+a posteriori optimizations
+fun zx bind
+z1 fun zy
+let rec mg
+floating point multiplications
+l1 let rec
+match l1 l2
+fun z1 bind
+x xs y
+a zy b
+in the fft
+dir l1 let
+zx a zy
+l2 match l1
+rec mg l1
+with x xs
+l1 l2 with
+about the code
+n j y
+a single assignment
+hardware description languages
+1 0 1
+the code fragment
+0 1 0
+the generation of
+y ys bind
+cooley tukey recurrence
+abstract interpretation is
+xs ys j
+zy bind mg
+b rets zx
+y fun z1
+bind mg l1
+that abstract interpretation
+j y fun
+mg xs ys
+generated by fftw
+abstract interpretation on
+bind mg xs
+b _ rets
+programming v 62
+rets zx a
+rets in bind
+multi stage programming
+else l in
+mult_s w_s dir
+avoid the generation
+of the fft
+at generation time
+fun a b
+a b rets
+the code type
+if list length
+bind liftcm retn_v
+1 fun a
+dir y0 y1
+abstract interpretation and
+_ rets in
+development platform and
+aware programming rap
+bind liftcm retn_va
+a monadic style
+concrete type to
+w_s dir n
+l if list
+j 1 fun
+ys j 1
+in bind mg
+domain specific optimizations
+fun zy bind
+in the code
+of the generated
+generated code we
+the abstract type
+generate the code
+guarantees about the
+the paper proposes
+to avoid the
+the programmer to
+circuits in the
+the abstract domain
+number of floating
+x x x
+that the generated
+the correctness of
+of floating point
+abstract interpretation of
+more information about
+62 n 1
+information about the
+computer programming v
+section 2 1
+to express a
+science of computer
+avoiding code duplication
+the second circuit
+advantage of configurable
+round off errors
+the fft algorithm
+which is bool
+expressed within the
+y0 bind f
+multiplications additions in
+languages are primarily
+the concrete type
+power n 1
+rec power n
+code resulting from
+x fun x
+single assignment programming
+use abstract interpretation
+circuits by refinement
+mv_add x y
+treat the tool
+of multiplications additions
+monadic library for
+embedding a microarchitectural
+int __fun_def double
+the staged function
+solutions in configurable
+intensional analysis of
+of rap languages
+else x power
+seeking solutions in
+language within haskell
+bind f e
+e fun y0
+identity x to
+i exp dir
+in place update
+rets sub_s x
+space and functional
+add staging annotations
+x power n
+return 0 the
+of the rap
+pi 2 i
+non standard run
+complex arithmetic functions
+and functional in
+the cooley tukey
+mapping a single
+the generated programs
+circuits are correct
+arithmetic circuits by
+power n if
+defined as let
+fun y bind
+to reconfigurable systems
+the verification point
+exp dir pi
+the tool as
+f l if
+abstract interpretation just
+l in bind
+box in which
+the density advantage
+bind rets mult_s
+o fun y1
+to represent circuits
+a posteriori optimization
+staged fft function
+the complex number
+known at generation
+4 point fft
+that a posteriori
+paper proposes the
+language to reconfigurable
+x any 1
+l else l
+l2 rets a
+interpretation just as
+array of four
+sound reduction semantics
+add_s x z1
+computes the fft
+bounded space and
+the fast fourier

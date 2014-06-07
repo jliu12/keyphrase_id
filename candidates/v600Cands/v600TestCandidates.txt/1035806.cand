@@ -1,0 +1,600 @@
+adversary
+setonce
+processes
+writer
+winner
+wait
+naming
+lucky
+registers
+row
+segment
+randomized
+register
+shared
+ff
+tasonce
+atomic
+coin
+protocol
+keys
+bits
+game
+owned
+flip
+log
+writes
+read
+probability
+crash
+crashes
+invoking
+bit
+corrupt
+claiming
+invoked
+competing
+reader
+faulty
+renaming
+consensus
+asynchronous
+param
+object
+executions
+adversaries
+succeeds
+resilient
+rows
+flips
+off
+intercommunication
+mobd
+freeness
+executing
+enabled
+composite
+wins
+adaptive
+invocation
+coins
+fnumber
+ffln
+primitives
+adversarial
+dirty
+interprocess
+expectation
+selects
+name
+ns
+running
+pr
+schedules
+numbering
+safe
+segments
+snapshot
+randomization
+strongest
+win
+var
+outcomes
+claimant
+multivalue
+unfrozen
+processesg
+fphase
+spoiling
+int
+objects
+contents
+concurrent
+anonymous
+crashing
+forward
+key
+2n
+od
+oblivious
+doesn
+private
+reads
+captured
+claimed
+fair
+free
+je
+infinite
+snapshots
+ends
+freezes
+gammac
+success
+gets
+memory
+l2
+idle
+symmetric
+indivisible
+backed
+array
+asymmetric
+elusive
+names
+scanning
+events
+tails
+balls
+deterministic
+arbitrarily
+competition
+chernoff
+sooner
+stepping
+immaterial
+clean
+executed
+infinitely
+lived
+appendix
+rounds
+fluctuations
+shot
+tentative
+succeed
+invoke
+rank
+2s
+summation
+event
+executes
+communicating
+failures
+failure
+recalling
+outcome
+protocols
+impossibility
+sc
+goto
+atomicity
+eventually
+reaches
+bins
+computability
+round
+try
+repeatedly
+mg
+gamma1
+broadcast
+legal
+agreement
+write
+synchronous
+fspecifies
+reinitialize
+fshared
+processg
+fined
+standardize
+fffflkn
+invokation
+multiwriter
+competitition
+rowg
+gameg
+fspecify
+searchg
+segmentg
+contenders
+simp
+ncg
+claimants
+worthless
+adaversary
+rangeg
+prisingly
+bstart
+aloneg
+wait free
+test setonce
+ff test
+the adversary
+setonce object
+1 writer
+n reader
+writer n
+a winner
+shared memory
+back off
+read writes
+log q
+row r
+one process
+process p
+n log
+running time
+with probability
+key range
+n processes
+adaptive adversary
+lucky at
+free atomic
+log n
+a key
+the protocol
+at row
+the game
+naming protocol
+log log
+a process
+o n
+shared bits
+ff tasonce
+n bit
+read write
+coin flip
+be lucky
+each process
+the probability
+composite register
+naming problem
+is wait
+processes is
+every process
+the processes
+system execution
+all processes
+name space
+high probability
+state c
+owned by
+probability ff
+atomic read
+competing processes
+system executions
+crashes occur
+reader shared
+write registers
+randomized wait
+bit operations
+the naming
+o log
+l s
+probability that
+other processes
+q read
+row row
+single writer
+non faulty
+the ff
+of processes
+key space
+bits proof
+random key
+reader 1
+q out
+reaches row
+no crashes
+setonce objects
+adversary schedules
+some process
+a wait
+step s
+writes to
+shared variables
+with high
+a name
+by process
+expected running
+adversary is
+row p
+r rows
+is o
+object is
+a randomized
+probability at
+c i
+ns r
+wait freeness
+game ends
+is owned
+symmetric shared
+corrupt objects
+whole key
+not back
+naming algorithm
+free naming
+invoking processes
+process wins
+steps forward
+claimed by
+is lucky
+row k
+faulty process
+protocol is
+process can
+process has
+a naming
+processes will
+gets a
+line 9
+randomized consensus
+free solution
+the invoking
+crash failures
+write b
+bit registers
+invoked by
+the object
+memory model
+multi reader
+writer multi
+key the
+at most
+the running
+k p
+coin flips
+read all
+to row
+average running
+b k
+the expected
+succeeds with
+writes on
+using shared
+key k
+an ff
+probability of
+key within
+protocol segment
+writer per
+bit components
+anonymous communication
+reach row
+shared atomic
+lucky processes
+fnumber of
+enabled steps
+probability s
+reader wait
+per component
+least ff
+process steps
+using ff
+private register
+reader o
+intercommunication primitives
+b key
+atomic bits
+int fnumber
+free test
+shared registers
+winner within
+component composite
+range size
+initial execution
+execution segment
+2n r
+n writer
+k out
+processes back
+first random
+from row
+or crash
+of adversaries
+in state
+test and
+9 19
+s gamma
+a row
+key is
+probability 1
+of shared
+object that
+the asynchronous
+p 0
+by exactly
+possibly different
+ff test setonce
+test setonce object
+writer n reader
+o n log
+1 writer n
+wait free atomic
+log n bit
+lucky at row
+log log n
+is wait free
+atomic read write
+a wait free
+with probability ff
+the ff test
+read writes to
+free atomic read
+with high probability
+the probability that
+n log q
+q read writes
+n bit operations
+state c i
+randomized wait free
+in state c
+read write registers
+log q read
+the naming problem
+be lucky at
+of n processes
+n log log
+test and set
+the adversary schedules
+a key the
+a row p
+n reader 1
+test setonce objects
+no crashes occur
+to 1 writer
+q out of
+setonce object that
+o log q
+owned by process
+b k p
+running time is
+expected running time
+is o n
+with probability at
+o log log
+processes is at
+most one process
+that the adversary
+i n i
+time is o
+out of n
+an adaptive adversary
+n log n
+probability at least
+of an ff
+symmetric shared memory
+at row row
+wait free naming
+write a row
+not back off
+object is invoked
+at row r
+is owned by
+reader shared bits
+wait free solution
+writes to 1
+c i gamma1
+n reader shared
+name space of
+the game ends
+the whole key
+gets a key
+an ff test
+read writes on
+8 9 19
+non faulty process
+wait free if
+a naming protocol
+get a key
+a name space
+the running time
+number of processes
+n log 2
+is a winner
+single writer multi
+to be lucky
+than one process
+the system execution
+space of size
+the adversary is
+the protocol is
+log n log
+the average running
+writer multi reader
+average running time
+succeeds with probability
+the expected running
+using shared memory
+initial segment of
+of the protocol
+probability that the
+n bit components
+s in state
+wait free test
+private register and
+reaches row r
+k out of
+multi reader wait
+reach row r
+processes back off
+int fnumber of
+n reader o
+n writer n
+process steps forward
+hard to analyze
+for process p
+writer per component
+register and can
+find a key
+that no crashes
+whole key space
+do not back
+at least ff
+shared bits proof
+back off and
+bit operations with
+log q bit
+reader o log
+adaptive adversary the
+most 2n r
+be a winner
+way not known
+a system execution
+n i log
+s gamma a
+of read writes
+against a fair
+1 writer per
+of 1 writer
+a winner within
+by q out
+uses a name
+per component n
+invoked by q
+executing at most
+row p 1
+with probability s
+is a wait
+initial execution segment
+and can read
+with log log
+writes to shared
+exactly one process
+n component composite
+a randomized wait
+selects a winner
+non faulty processes
+with a winner
+free test and
+using ff test
+doesn t work
+reads the other
+every non faulty
+known to each
+and key range
+l s gamma
+read by all
+own private register
+p is owned
+reader 1 writer
+key range size
+n processes it
+proof a process
+reader wait free
+component n component
+processes it uses
+bit b k
+log 2 n
+the probability of
+in an asynchronous
+the adversary to
+the object is
+probability of having
+high probability the
+at most one
+state resulting from
+is proven 2
+the other bits
+n processes is
+the name space
+its own private
+the state resulting
+at row k
+one process can
+log log q
+is at most
+with probability 1

@@ -1,0 +1,600 @@
+load
+balancing
+transfer
+particles
+diffusion
+percent
+deltal
+tasks
+pic
+particle
+dsmc
+locality
+eff
+balance
+gde
+computers
+ogde
+imbalance
+diffusive
+ffit
+reactor
+hb
+diff
+grid
+transferred
+neighbors
+timestep
+agde
+paragon
+plasma
+routines
+task
+t3d
+remapping
+gec
+lavg
+errmax
+thruster
+cells
+processors
+transfers
+workload
+intel
+vectors
+concurrent
+phases
+balanced
+efficiency
+movement
+hawk
+scplib
+transferring
+pde
+exchange
+solver
+field
+cray
+partition
+repartitioning
+dhb
+partitions
+metric
+cell
+err
+library
+mapped
+const
+underloaded
+torus
+mesh
+metrics
+disturbance
+ode
+facilities
+comprised
+calculate
+calculated
+phase
+knapsack
+loads
+termination
+runtime
+move
+kwok
+scalable
+dist
+ffl
+lowest
+ideal
+timestepping
+changxun
+rarefied
+propulsion
+ffil
+powerchallenge
+backflow
+macroparticles
+addendum
+exchanges
+quantities
+256
+heat
+initiated
+idle
+ion
+simulations
+push
+communication
+workstations
+fromone
+bisection
+options
+meshes
+mapping
+silicon
+scatter
+exceeds
+costly
+synchronization
+utilization
+randal
+million
+neighboring
+send
+poor
+selection
+simulation
+max
+diffuse
+tori
+receive
+overloaded
+fairly
+prediction
+lap
+physics
+min
+strategies
+undertaken
+unstructured
+conducted
+spectral
+gradient
+electromagnetic
+zhong
+balances
+laboratory
+irregular
+accuracy
+hl
+cheung
+color
+adjusting
+grids
+heterogeneous
+gather
+institute
+center
+timing
+unnecessary
+potentials
+efficacy
+exhausted
+distance
+moved
+iterative
+outgoing
+rigorous
+continuum
+cur
+burns
+asynchronous
+converged
+norm
+closest
+dimensional
+exposing
+extremal
+communicating
+location
+scalar
+preserve
+thread
+multicomputers
+parametric
+neighbor
+remedy
+threads
+bars
+adaptive
+granularity
+speedup
+scalability
+destinations
+dramatically
+converges
+expect
+evolves
+dynamic
+rel
+load balancing
+transfer vectors
+the load
+a task
+transfer vector
+the transfer
+load balance
+dynamic load
+each computer
+work transfer
+of tasks
+task selection
+eff min
+of load
+the hb
+two computers
+vector algorithms
+task s
+the diffusion
+load imbalance
+computer to
+total load
+hb method
+diffusion algorithm
+balancing framework
+the computers
+to load
+of work
+the tasks
+a load
+a computer
+percent more
+pic code
+computer i
+the pic
+balancing algorithm
+communication locality
+one would
+neighbors j
+to computers
+intel paragon
+of processors
+lowest cost
+timestep size
+task movement
+deltal i
+the timestep
+computer must
+diff 1
+phase two
+the gde
+the dsmc
+field solve
+balancing steps
+scalable concurrent
+total work
+average distance
+2 phase
+load of
+which tasks
+after load
+one computer
+all neighbors
+task i
+balance the
+balancing for
+transfer of
+percent of
+transfer cost
+balancing the
+to deltal
+balancing would
+ogde diff
+ffl max
+imbalance exists
+particle push
+field solver
+1 diff
+processors ogde
+global norm
+load prediction
+its transfer
+same total
+1 computer
+computers have
+cost metric
+computers is
+for load
+the computation
+the locality
+grid cells
+an intel
+cray t3d
+overall efficiency
+each task
+tasks to
+a computation
+phase one
+load evaluation
+balancing problem
+achieve load
+algorithms transferred
+balancing to
+programming library
+efficiency of
+and distributed
+parallel and
+workload of
+task mapping
+the scalable
+efficiency was
+would expect
+the field
+concurrent programming
+been calculated
+the particles
+tasks will
+cost of
+c l
+load distribution
+an efficiency
+l i
+one can
+the grid
+n i
+simulation of
+subset sum
+hb algorithm
+task transfer
+scatter to
+processors percent
+both computers
+the gec
+dimensional exchange
+static mapping
+ion thruster
+balancing system
+computer 2
+percent this
+256 processors
+the agde
+gec reactor
+by deltal
+communication list
+global load
+new load
+particles contained
+hierarchical balancing
+every computer
+gradient model
+tasks transferred
+gde algorithm
+sum problem
+dsmc code
+diffusion algorithms
+gde method
+lavg eff
+balancing was
+ode s
+various transfer
+load as
+mapping of
+j 2
+be initiated
+reduced the
+authors of
+a transfer
+the cost
+of computers
+is comprised
+particles that
+percent utilization
+varying numbers
+locality was
+diff 2
+50 percent
+ideal location
+based load
+communicating tasks
+computer 1
+be transferred
+termination condition
+phase 1
+its neighbors
+load is
+computers in
+of grid
+a partition
+computing v
+prediction model
+application if
+gather scatter
+options in
+i receive
+two large
+balancing strategies
+computation was
+local load
+computer has
+l max
+dynamic load balancing
+the load balancing
+of a task
+of load balancing
+a task s
+transfer vector algorithms
+load balancing framework
+j 2 n
+2 n i
+load balancing algorithm
+the hb method
+neighbors j 2
+all neighbors j
+total work transfer
+amount of work
+to load balance
+computer to another
+of the transfer
+the total load
+of the hb
+the pic code
+the timestep size
+load balancing steps
+a load imbalance
+cost of load
+the transfer vectors
+a load balancing
+the lowest cost
+after load balancing
+of the tasks
+load balancing for
+load of a
+parallel and distributed
+an intel paragon
+the same total
+the overall efficiency
+scalable concurrent programming
+ogde diff 1
+diff 1 diff
+load imbalance exists
+work transfer vectors
+the scalable concurrent
+task s state
+load balancing would
+the transfer vector
+processors ogde diff
+of processors ogde
+the load of
+number of processors
+one would expect
+a task is
+load balancing to
+load balancing problem
+from one computer
+to achieve load
+achieve load balance
+the work transfer
+an efficiency of
+one computer to
+number of tasks
+set of tasks
+of the load
+the transfer of
+load as a
+load balancing the
+of an intel
+for load balancing
+of the grid
+of parallel and
+distributed computing v
+the cost of
+journal of parallel
+of a computation
+of the computers
+percent more work
+scatter to obtain
+load prediction model
+concurrent programming library
+authors of 24
+of processors percent
+to load balancing
+based load balancing
+gather scatter to
+from all neighbors
+the hb algorithm
+a computer must
+percent more for
+tasks to computers
+1 computer 2
+average distance between
+of tasks will
+deltal i j
+the gde algorithm
+c l n
+determine which tasks
+transfer vectors are
+load balancing was
+mapping of tasks
+of the pic
+satisfy its transfer
+and after load
+256 processors of
+n i receive
+computer 1 computer
+lavg eff min
+the field solver
+its new load
+of its data
+an application if
+the subset sum
+to dynamic load
+subset sum problem
+computer 2 phase
+load balancing system
+at each computer
+processors percent utilization
+its transfer vectors
+2 phase 1
+to two large
+various transfer vector
+set of computers
+task selection is
+total load is
+the authors of
+and distributed computing
+of an application
+the mapping of
+of a computer
+the simulation of
+is comprised of
+two large scale
+of grid cells
+same total load
+to all neighbors
+number of load
+for dynamic load
+number of particles
+the computation was
+varying numbers of
+i to all
+2 phase 2
+percent of the
+task i is
+applied to two
+phase 2 phase
+load balancing strategies
+its data structures
+that a load
+d dimensional mesh
+and execution times
+processors of an
+if the load
+would expect that
+of tasks to
+efficiency of a
+the computation this
+comprised of a
+of the computation
+for a particular
+computing v 64
+numbers of processors
+the average distance
+the change in
+a d dimensional
+it may be
+the case of
+location of a
+1 diff 20
+maintain an efficiency
+to 256 processors
+transfer number of
+better not to
+a roughly equal
+transfer left and
+case a task
+computation this fact
+to be inferior
+between communicating tasks
+of two computers
+of ideal speedup
+balance the computation
+the two computers
+to guide task
+which tasks should
+of o ffit
+cannot be divided
+the hierarchical balancing
+between two computers
+or improve communication
+transfer vector between
+termination condition based
+for varying numbers
+purpose load balancing
+between neighboring computers
+reduced the transfer
+each computer having
+each partition the
+with 10 tasks
+the maximum such
+would calculate the

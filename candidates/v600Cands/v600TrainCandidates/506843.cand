@@ -1,0 +1,600 @@
+token
+linkinfo
+myheight
+raiseheight
+request
+rl
+link
+rr
+cs
+holder
+receivedli
+height
+connectivity
+exclusion
+node
+conguration
+mutual
+messages
+message
+routing
+mobility
+forwardrequest
+hoc
+outgoing
+tokenholder
+dag
+ad
+givetokentonext
+mobile
+links
+sent
+load
+chain
+entry
+waiting
+transit
+cease
+requests
+wireless
+formheight
+linkdown
+raymond
+spanning
+jqj
+calls
+innitely
+reroute
+enqueued
+entercs
+received
+queue
+identiers
+rst
+send
+neighbors
+nite
+networks
+h2
+requestcs
+linkup
+failures
+nodes
+neighbor
+identier
+status
+req
+sends
+incoming
+false
+eect
+h1
+eventually
+forming
+enqueues
+delete
+neighboring
+receipt
+multihop
+charged
+events
+static
+units
+enqueue
+oriented
+arrival
+protocol
+80
+network
+notication
+mob
+directed
+receives
+hop
+logical
+informs
+resilient
+simulation
+simulations
+recv
+9972235
+imparted
+releasecs
+protocols
+reversed
+routes
+heights
+contradiction
+loads
+event
+lowers
+starvation
+traveled
+denition
+decreases
+sucient
+topology
+shortest
+sinks
+sink
+requesting
+failed
+aected
+formation
+toward
+plots
+failure
+435
+enter
+raised
+virtual
+pseudocode
+wired
+fjg
+plotted
+tree
+radio
+releases
+eciency
+sending
+destination
+raise
+dequeue
+route
+recalculate
+indication
+demand
+sequenced
+348
+multicast
+slide
+remainder
+communicate
+pointers
+detected
+fifo
+primitives
+initially
+hv
+welch
+nd
+reverse
+xed
+travels
+depicts
+causing
+8k
+lemma
+delivery
+newer
+empty
+axis
+action
+propagated
+stabilizing
+innite
+contention
+vs
+lengths
+unfullled
+catalin
+x101000
+karimou
+load101000
+2060100140180
+savita
+10152535100010load
+symmetri
+gradinariu
+badache
+amplied
+010115
+fheight
+benchaba
+h2g
+gwendal
+myoupo
+9396098
+h1i
+nacer
+elkins
+cs entry
+the token
+node i
+request chain
+per cs
+token holder
+the rl
+the cs
+mutual exclusion
+s request
+linkinfo message
+link changes
+link to
+node j
+rl algorithm
+token message
+exclusion algorithm
+receivedli j
+token oriented
+request message
+ad hoc
+linkinfo messages
+a token
+a linkinfo
+to next
+l s
+node 3
+height j
+calls raiseheight
+messages per
+a request
+low load
+from node
+i calls
+high load
+oriented dag
+request queue
+at node
+the link
+hoc networks
+to raiseheight
+jqj 0
+to j
+spanning tree
+outgoing link
+to node
+its height
+the rr
+in transit
+waiting time
+changes cease
+virtual spanning
+call raiseheight
+the linkinfo
+node 0
+a node
+between requests
+innitely often
+the request
+raymond s
+a conguration
+time units
+if myheight
+myheight height
+forming j
+high mobility
+message is
+transit from
+v l
+after link
+average waiting
+distributed mutual
+next i
+when node
+units cs
+conguration after
+myheight to
+last outgoing
+if jqj
+exclusion process
+on q
+at i
+time t
+message from
+link failures
+nite number
+received at
+at high
+request messages
+connectivity for
+20 80
+delete q
+dynamic networks
+c t
+routing protocol
+hoc routing
+token based
+j is
+i receives
+for mobile
+node 2
+outgoing links
+node 1
+s height
+if receivedli
+raiseheight innitely
+formheight j
+reverse link
+rl simulation
+rr simulations
+token messages
+of messages
+dag is
+system conguration
+i must
+token and
+routing algorithm
+mobile ad
+neighboring node
+algorithm sends
+request arrival
+in l
+time per
+conguration if
+rr algorithm
+high connectivity
+load request
+message to
+i s
+arrival rate
+at time
+a nite
+is received
+received the
+its request
+of link
+no outgoing
+non empty
+increasing from
+last link
+application process
+routing protocols
+cs at
+logical direction
+myheight and
+of myheight
+20 connectivity
+myheight h2
+tokenholder then
+rr high
+next pointers
+send linkinfo
+status remainder
+rl low
+80 connectivity
+not tokenholder
+connectivity rl
+incoming at
+has reversed
+reroute request
+of req
+height node
+rr low
+node calls
+load rr
+sets receivedli
+link change
+calls forwardrequest
+2 node
+links to
+properties b
+rl and
+of nodes
+sent a
+requests is
+changes and
+another request
+and rr
+the dag
+p j
+the mutual
+for rr
+raised its
+hoc environment
+h2 1
+the network
+status to
+in k
+calls to
+each node
+was sent
+an outgoing
+request and
+a mutual
+cs and
+zero b
+static case
+entry entry
+c high
+is token
+per cs entry
+the token holder
+s request chain
+l s request
+the rl algorithm
+mutual exclusion algorithm
+messages per cs
+at node i
+a token message
+in l s
+the link to
+a request message
+from node j
+time per cs
+a linkinfo message
+to the cs
+ad hoc networks
+link to next
+token oriented dag
+link to j
+in c t
+link changes cease
+virtual spanning tree
+calls to raiseheight
+node i receives
+waiting time per
+of messages per
+when node i
+in transit from
+the linkinfo message
+after link changes
+a token oriented
+receivedli j is
+time t 2
+is in transit
+distributed mutual exclusion
+average waiting time
+to the token
+message is in
+number of messages
+mutual exclusion process
+raymond s algorithm
+received at node
+linkinfo message from
+no outgoing links
+the virtual spanning
+if in k
+units cs entry
+node i must
+last outgoing link
+if jqj 0
+time units cs
+a nite number
+nite number of
+ad hoc routing
+at time t
+request message is
+a node i
+c t 1
+request arrival rate
+the system conguration
+jqj 0 then
+link to node
+received the token
+token message is
+rl and rr
+cs entry for
+running on top
+between requests is
+load request arrival
+node i from
+neighboring node j
+if receivedli j
+if myheight height
+link changes and
+i calls raiseheight
+j s height
+raiseheight innitely often
+the rl simulation
+system conguration after
+the rr algorithm
+properties b and
+token message to
+mobile ad hoc
+the mutual exclusion
+the request message
+holds the token
+q is non
+the cs and
+in a conguration
+node i is
+the last link
+a mutual exclusion
+in dynamic networks
+j is false
+to node 3
+the dag is
+for the token
+the token and
+80 20 80
+cs entry in
+c high mobility
+is token oriented
+at high load
+b low and
+and c high
+raised its height
+next p j
+dag is token
+changes and calls
+rr high load
+hoc routing protocol
+rl low load
+conguration after node
+exclusion algorithm running
+receivedli j to
+a zero b
+last link change
+zero b low
+low and c
+its last outgoing
+to next i
+2 node i
+its request queue
+cs entry is
+80 connectivity rl
+linkinfo message is
+i s view
+20 80 20
+node i calls
+and rr simulations
+myheight height k
+a conguration if
+of link changes
+node calls raiseheight
+waiting time for
+if j is
+message from node
+in k is
+an outgoing link
+from a node
+access to the
+be in transit
+ad hoc environment
+the rl and
+both the rl
+request message from
+node 3 has
+its link to
+transit from p
+a neighboring node
+token based mutual
+i from node
+and i has
+not the token
+the link between
+the token is
+distance vector routing
+is received at
+b and c
+is non empty
+the static case
+message to node
+only a nite
+node in l
+requests access to
+j to true
+on node i
+non empty and
+not in l
+if node i
+message was sent
+request message to
+node i s
+has no outgoing
+and calls to
+j at time
+and the link
+the ad hoc
+ad hoc network
+message is received
+based mutual exclusion
+the rst node
+average number of
+send a request
+for a zero
+distributed routing algorithm
+algorithm for mobile
+entry for a
+must be that
+for mobile wireless
+top of an
+i must have
+request for the
+change at node
+myheight to next
+process on node
+i calls forwardrequest
+cs entry time
+directed toward node

@@ -1,0 +1,600 @@
+stc
+cache
+htc
+fetch
+instructions
+instruction
+trace
+branch
+cfa
+miss
+16kb
+branches
+xblast
+codes
+traces
+blocks
+postgres
+fipa
+misprediction
+32kb
+btb
+subroutine
+apsi
+hydro2d
+reordering
+sequentiality
+ijpeg
+layout
+core
+fetched
+josep
+torrellas
+vortex
+workloads
+exec
+reordered
+fipc
+postgresql
+mgrid
+breaks
+block
+profile
+popular
+gcc
+seed
+predictor
+reorder
+bb
+64kb
+su2cor
+pettis
+branchrep
+execrep
+unconditional
+locality
+indirect
+misses
+code
+benchmark
+caches
+threshold
+loops
+rate
+turb3d
+sequences
+hardware
+conditional
+alone
+arcade
+cpa
+benchmarks
+seeds
+cycle
+buffer
+contiguous
+executed
+inlining
+percentage
+consecutive
+ras
+perl
+transitions
+prediction
+optimizations
+aggressive
+loop
+fpppp
+applu
+pey
+2362
+larriba
+superscalars
+irez
+gag
+m88ksim
+compile
+pc
+90
+thresholds
+target
+hansen
+base
+training
+secondary
+compress
+fp
+pq
+predicted
+break
+fill
+unused
+a3
+fetching
+proportion
+breaking
+mispredictions
+bench
+spec
+unit
+width
+replication
+discarded
+references
+coloring
+targets
+replicated
+4kb
+workload
+crossing
+147
+reserved
+processor
+wasting
+pen
+len
+calls
+jumps
+cycles
+a7
+unrolling
+floating
+penalty
+bp
+a5
+barely
+jump
+58
+interleaved
+fall
+transfers
+offered
+meanwhile
+46
+chains
+conflicts
+outgoing
+layouts
+seq
+raising
+speculative
+collapsing
+hit
+75
+reductions
+optimize
+penalties
+decode
+offer
+behave
+trying
+stops
+temporal
+double
+mapping
+address
+software
+frequently
+weight
+throughput
+optimizes
+59
+simulation
+frequent
+76
+determinism
+outcomes
+stream
+passes
+alex
+125946
+1486
+mispr
+traces000000000000000000000000000000000000111111111111111111111111111111111111111111111
+ecuted
+2716
+aptind
+11748
+172690
+xavi
+1998fi
+the stc
+basic blocks
+i cache
+t cache
+fetch unit
+trace cache
+basic block
+cache miss
+instruction cache
+miss rate
+the htc
+core fetch
+stc and
+the instruction
+the branch
+base 7
+base 6
+the fetch
+16kb base
+a htc
+sequence breaks
+branch misprediction
+software trace
+instruction fetch
+conditional branches
+instructions per
+per access
+branch threshold
+code reordering
+the code
+subroutine calls
+most popular
+the t
+the fipa
+branch prediction
+code layout
+integer codes
+branch predictor
+htc alone
+popular traces
+useful instructions
+hardware trace
+a 32kb
+4 base
+pc relative
+cfa size
+per cycle
+5 0
+of basic
+7 4
+better results
+the core
+of sequence
+results than
+cache lines
+taken branches
+code sequences
+13 5
+15 5
+the trace
+7 0
+branches and
+9 7
+of instructions
+execution path
+6 8
+blocks in
+the reordered
+large codes
+of fetched
+cache t
+stc is
+misprediction rate
+exec threshold
+codes like
+code sequentiality
+fill buffer
+5 base
+htc of
+fetch mechanism
+fall through
+the btb
+double size
+fetched instructions
+performance limit
+loop basic
+11 7
+instructions from
+7 7
+codes with
+prediction accuracy
+and branch
+similar or
+13 7
+8 5
+3 0
+4 9
+9 4
+13 8
+reorder the
+cache line
+9 6
+some codes
+code replication
+few loops
+unconditional branches
+consecutive instructions
+the basic
+the hardware
+cache the
+profile information
+the fp
+percentage of
+or better
+the percentage
+10 0
+11 4
+5 9
+2 base
+11 6
+execution sequences
+of double
+instructions executed
+0 5
+8 8
+cache is
+break the
+the cfa
+memory positions
+reordering technique
+pettis hansen
+fetched ffl
+loop branches
+sequential fetch
+subroutine call
+cache htc
+the postgresql
+cache i
+size alone
+stc can
+predictor throughput
+reordered code
+32kb instruction
+unused basic
+fixed way
+small htc
+popular sequences
+trace building
+torrellas and
+indirect jumps
+dynamic references
+base 11
+and xblast
+block transitions
+address cache
+execution core
+stc with
+fixed behavior
+base 13
+branch address
+consecutive basic
+blocks executed
+cache stc
+of loops
+7 11
+each pass
+4 12
+3 9
+1 7
+execution paths
+12 4
+each benchmark
+8 11
+4 4
+0 4
+4 0
+to fetch
+6 5
+traces in
+a profile
+75 90
+fetch address
+high instruction
+rate reduction
+and subroutine
+josep torrellas
+fetch performance
+the exec
+8 6
+13 6
+the execution
+0 3
+the processor
+5 7
+6 9
+cache misses
+the fill
+44 4
+of workloads
+sequentially executed
+cache miss rate
+i cache miss
+core fetch unit
+the t cache
+the core fetch
+of the stc
+the i cache
+the basic block
+the instruction cache
+the basic blocks
+software trace cache
+basic blocks in
+the stc and
+instruction cache miss
+the fetch unit
+the trace cache
+better results than
+the most popular
+hardware trace cache
+most popular traces
+or better results
+similar or better
+results than a
+of sequence breaks
+of basic blocks
+branch prediction accuracy
+of the code
+blocks in a
+fetched instructions per
+cache t cache
+of double size
+and the htc
+of fetched instructions
+a htc of
+instructions per access
+loop basic blocks
+the hardware trace
+stc and the
+t cache miss
+fetch unit and
+the branch misprediction
+branch misprediction rate
+number of fetched
+the percentage of
+codes with few
+and the branch
+4 9 4
+4 7 4
+the instruction fetch
+instructions per cycle
+of the dynamic
+number of instructions
+with few loops
+stc and a
+consecutive basic blocks
+execution core of
+josep torrellas and
+i cache lines
+with the stc
+16kb base 7
+the branch predictor
+branch address cache
+a 32kb instruction
+the stc is
+cache i cache
+trace cache the
+t cache is
+the execution core
+9 7 9
+instruction cache i
+double size alone
+miss rate reduction
+a fixed way
+a fixed behavior
+percentage of sequence
+the code layout
+break the execution
+of the fetch
+basic blocks executed
+basic blocks to
+branch predictor throughput
+the stc can
+32kb instruction cache
+large codes with
+running the training
+unused basic blocks
+of loop basic
+htc of double
+of useful instructions
+subroutine calls the
+basic block transitions
+code reordering technique
+percentage of basic
+13 7 11
+trace cache htc
+i cache t
+of basic block
+consecutive instructions executed
+the reordered code
+for large codes
+a small htc
+than a htc
+and subroutine calls
+the fill buffer
+sequential fetch unit
+trace cache stc
+of the instruction
+the most frequently
+in a program
+sequences of basic
+the execution sequence
+10 0 3
+basic block size
+of consecutive instructions
+instruction cache misses
+branches with a
+a basic block
+fetch unit is
+the branch prediction
+a combination of
+with a combination
+3 0 4
+9 4 2
+of the processor
+the number of
+number of useful
+number of consecutive
+4 1 3
+average number of
+the original code
+behave in a
+in a fixed
+combination of both
+with a large
+obtained with a
+that for large
+4 4 4
+and a small
+4 2 4
+executed for the
+basic block reordering
+6 8 5
+6 5 9
+16kb t cache
+of a htc
+basic blocks with
+fetch performance the
+5 7 base
+7 5 7
+the fetch mechanism
+breaks seq len
+t cache to
+htc alone and
+miss rate for
+7 7 4
+a secondary trace
+start a secondary
+few loops and
+sequence breaking bb
+offer similar or
+9 13 6
+10 3 instructions
+per cycle obtained
+pc relative unconditional
+7 11 7
+base 11 7
+sequentially executed basic
+than the exec
+instruction cache hit
+the code sequentiality
+i cache and
+in consecutive memory
+75 90 and
+the branch threshold
+decreasing frequency of
+cache line coloring
+15 5 14
+torrellas et al
+a weight lower
+reduction offered by
+floating point codes
+2 trace building
+s subroutine call
+popular traces in
+a 256 entry
+main execution path
+through basic blocks
+of static instructions
+a software trace
+13 5 13
+for each workload
+number of sequence
+most frequently referenced
+reorder the basic
+the main execution
+15 9 15
+our code sequences
+access we also
+stc with a
+which behave in

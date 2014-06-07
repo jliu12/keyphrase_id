@@ -1,0 +1,600 @@
+delay
+link
+probes
+multicast
+estimator
+inferred
+delays
+links
+packet
+estimated
+cumulative
+measurements
+sample
+bin
+ff
+ms
+bfl
+traffic
+inference
+probe
+variance
+distributions
+deviation
+simulations
+correlation
+tcp
+1ms
+receivers
+internet
+udp
+leaf
+measurement
+topology
+packets
+correlations
+accuracy
+convergence
+complement
+mtrace
+median
+tomography
+foreach
+unicast
+absolute
+tree
+confidence
+congestion
+vs
+infer
+dynamics
+plot
+cooperation
+k2r
+rms
+std
+interior
+dependence
+network
+receiver
+differentiable
+largest
+fl
+spatial
+density
+duffield
+bff
+binned
+pathchar
+10000
+estimates
+independence
+4000
+estimate
+10ms
+5mb
+queueing
+loss
+child
+asymptotically
+asymptotic
+converges
+8000
+6000
+intervals
+lag
+node
+simulation
+queuing
+branching
+1mb
+inaccuracies
+solvefor2
+031e
+solvefor1
+k2v
+presti
+apportion
+ipma
+calibrating
+topologies
+utilization
+francesco
+parent
+continuously
+f0
+050
+vertical
+lost
+logical
+phenomenology
+discretize
+timescale
+probabilities
+agreement
+surely
+experienced
+root
+50ms
+diagnosing
+monitoring
+violations
+assessing
+1e
+depth
+internal
+1g
+hop
+mea
+ttl
+descend
+ton
+accrued
+towsley
+persistent
+comprising
+comprises
+background
+paths
+grows
+felix
+interarrival
+gamma
+seconds
+bandwidth
+hosts
+verified
+capacity
+suited
+bottleneck
+children
+postpone
+proportionally
+shed
+presence
+characteristics
+normalized
+rate
+laplace
+transit
+routing
+load
+ns
+representative
+250
+losses
+experience
+source
+spread
+networking
+parametric
+fi
+traversing
+dictated
+bins
+diagnosis
+100
+interval
+averages
+variances
+lo
+150
+discrete
+convolution
+measured
+sec
+ip
+canonical
+disabled
+adopted
+versus
+empirical
+injective
+covariance
+experiment
+networks
+predicted
+estimators
+vacirca
+0752
+1053
+estimated link
+to end
+end to
+the estimator
+link 1
+the inferred
+ff k
+multicast tree
+delay ms
+of probes
+delay distribution
+delay c
+average delay
+delay distributions
+d f
+vs sample
+f sample
+link 6
+ms estimated
+estimated vs
+cumulative density
+function delay
+sample node
+the delay
+link delay
+link 11
+sample link
+per link
+largest absolute
+cumulative delay
+bin size
+b ff
+sample complement
+end measurements
+a k
+absolute deviation
+link 3
+logical multicast
+c d
+end delay
+multicast based
+each link
+100 simulations
+inferred distributions
+model link
+link delays
+distribution estimator
+spatial correlation
+probes link
+the cumulative
+node k
+delay and
+all links
+density function
+the bin
+of multicast
+k i
+multicast traffic
+estimator variance
+bin sizes
+inferred and
+inference of
+and sample
+complement of
+f k
+network elements
+computed over
+1 estimated
+y k
+accuracy of
+a multicast
+and loss
+plot the
+of end
+packet delay
+model simulation
+branching ratio
+based inference
+sample average
+leaf delays
+tcp udp
+network internal
+the tree
+deviation between
+the estimates
+and link
+k 0
+the link
+sample c
+link by
+average delays
+the estimated
+the accuracy
+b figure
+we plot
+source to
+for link
+probes the
+links as
+the variance
+ms n
+absolute vertical
+link 8
+minimum median
+6 estimated
+simulation topology
+vertical deviation
+n probes
+link 9
+sample distributions
+actual distributions
+simulations computed
+inferred values
+estimated distribution
+11 estimated
+median minimum
+internal delay
+maximum largest
+0 1ms
+continuously differentiable
+by link
+of network
+of packet
+confidence interval
+to leaf
+over 100
+size q
+confidence intervals
+the logical
+n of
+gamma a
+of convergence
+of links
+link k
+delay measurements
+estimator in
+maximum median
+no delay
+2 std
+as function
+distributions we
+to ff
+background traffic
+strongly consistent
+to infer
+presence of
+measurements of
+in f0
+of delay
+tree depth
+of receivers
+verified the
+two leaf
+statistical properties
+estimator is
+the estimate
+convergence of
+the internet
+a f
+estimated and
+6000 8000
+8000 10000
+fi k
+4000 6000
+minimum delay
+packets are
+measured end
+common link
+multicast probes
+from measured
+our delay
+fixed delays
+internal approach
+8 estimated
+from end
+interior links
+delay model
+std a
+estimator through
+udp simulations
+loss estimator
+largest deviation
+rms normalized
+link 5
+asymptotically normal
+different bin
+tomography from
+normalized error
+the presence
+2000 4000
+the multicast
+a probe
+the model
+simulations we
+median and
+link for
+the root
+delays are
+of measurement
+1 sample
+end to end
+c d f
+delay c d
+of the estimator
+the cumulative density
+vs sample node
+ms estimated vs
+n of probes
+d f sample
+function delay ms
+density function delay
+cumulative density function
+estimated vs sample
+delay ms estimated
+sample complement of
+f sample complement
+to end measurements
+of the cumulative
+to end delay
+b ff k
+complement of the
+logical multicast tree
+largest absolute deviation
+of probes link
+the inferred distributions
+the delay distribution
+delay distribution estimator
+probes link 1
+a f k
+delay and loss
+of the inferred
+number of probes
+of end to
+cumulative delay c
+link 1 estimated
+b a k
+1 estimated link
+source to leaf
+over all links
+estimated link 1
+a k i
+accuracy of the
+we plot the
+of the delay
+absolute deviation between
+k 0 a
+sample c d
+inferred and sample
+the logical multicast
+ff k 1
+the inferred and
+per link delays
+bin size q
+based inference of
+link by link
+values in f0
+of the estimates
+the bin size
+in the internet
+the estimated distribution
+100 simulations computed
+all links as
+link 6 estimated
+the actual distributions
+the estimator variance
+inference of network
+over 100 simulations
+and sample c
+the estimator is
+ff k i
+ff k 0
+from the measured
+of network internal
+link 1 sample
+to leaf delays
+6 estimated link
+estimated link 11
+average delay ms
+11 estimated link
+multicast based inference
+estimated link 6
+1 sample link
+simulations computed over
+link 11 estimated
+ms n of
+maximum median minimum
+minimum median and
+of spatial correlation
+1 2 std
+absolute vertical deviation
+largest absolute vertical
+and link by
+as function of
+topology of figure
+the largest absolute
+delay distributions and
+the presence of
+rate of convergence
+a to g
+a k 0
+convergence of the
+computed over all
+statistical properties of
+of convergence of
+6000 8000 10000
+2000 4000 6000
+4000 6000 8000
+the rate of
+of the estimated
+multicast tree in
+the cooperation of
+of per link
+2 std a
+sample average delay
+of multicast traffic
+presence of temporal
+multicast traffic is
+y k l
+estimated and sample
+a k j
+5 average delay
+the sample average
+the maximum largest
+for all links
+deviation in 100
+by link for
+0 1ms the
+k 2 v
+between the inferred
+the inferred values
+each link delay
+gamma a 1
+y k m
+presence of spatial
+rms normalized error
+the internal approach
+measured end to
+k 1 b
+the loss estimator
+the per link
+delay ms n
+that the estimator
+links as function
+computed over 100
+link 1 link
+cumulative delay distributions
+of b ff
+the multicast tree
+cooperation of network
+tcp udp simulations
+different bin sizes
+maximum largest absolute
+a and link
+absolute deviation in
+in 100 simulations
+a 0 050
+a logical multicast
+from end to
+network internal delay
+to infer the
+a 2 1
+takes values in
+packet delay and
+at node k
+we evaluated our
+d f s
+of network elements
+the statistical properties
+0 050 150
+using end to
+presence of significant
+deviation between the
+to end delays
+a 1 1
+the source to
+for k 2
+and fi k
+median and the
+the discrete distribution
+for the bin
+the independence assumption
+0 51 52
+f k 0
+0 a and
+k 2 u
+f k and
+the two leaf
+to end internet
+of paths between
+function of n
+the same link
+the minimum delay
+n a and
+050 150 250
+the inference algorithm
+on each link
+taking values in
+from a to
+a 1 n
+of n a

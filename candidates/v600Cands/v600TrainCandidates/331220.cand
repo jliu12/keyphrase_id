@@ -1,0 +1,600 @@
+disk
+lru
+buffer
+fetches
+omega
+schedule
+os
+discards
+disks
+prefetching
+block
+blocks
+consumed
+prefetch
+fetch
+referenced
+sigma
+fetched
+consumptions
+replacement
+lookahead
+min
+makespan
+gammacon
+demand
+tp
+unread
+discard
+con
+fi
+consumption
+opt
+paging
+kallahalla
+varman
+1disk
+zg
+buffers
+schedules
+accesses
+round
+ut
+ff
+competitive
+gammalru
+management
+mahesh
+prefetched
+delta
+matches
+inflate
+sequential
+tight
+worst
+policies
+valid
+fzg
+evict
+tmin
+axiom
+cpu
+parallelism
+optimality
+overlapped
+initiated
+fl
+a2
+differ
+b3
+consume
+a1
+fifo
+minimizes
+semi
+fq
+poorer
+fp
+hypothesis
+caching
+aggressive
+resident
+questions
+pg
+theorem13
+gammamin
+theorem11
+9303011
+dtmin
+aslo
+policy
+replaces
+concatenating
+induction
+idle
+concurrently
+longest
+precede
+elapsed
+breslauer
+penner
+sytems
+fy
+suboptimal
+agree
+till
+references
+serializes
+inspires
+analyzed
+subsystem
+preference
+read
+match
+1344
+1333
+conservative
+subsequence
+2nm
+schlumberger
+peter
+retained
+accessed
+degrade
+b4
+paged
+parenthesized
+minimizing
+opportunity
+viktor
+progressed
+overlap
+mirroring
+sleator
+serialize
+crete
+greedy
+striping
+prasanna
+raid
+choices
+sketch
+suffixes
+randomized
+jea
+unexpectedly
+serialization
+prefix
+serialized
+hf
+hai
+discarded
+mon
+upto
+prematurely
+judicious
+quence
+fundamental
+lemma
+abstractthe
+algorithmics
+hwang
+mt
+whence
+island
+contrasts
+phase
+advocated
+operated
+cao
+offline
+sequences
+centric
+tarjan
+normal
+beyond
+replace
+friendly
+absolutely
+imbalance
+thirteenth
+repetitions
+discarding
+reference
+overlapping
+deferred
+roy
+ho
+kai
+forward
+candidate
+reading
+investigate
+decisions
+summarizes
+fetching
+gorithm
+develops
+fresh
+228
+poor
+omega t
+i o
+p lru
+o at
+p min
+i os
+p con
+parallel i
+and discards
+t 1
+disk i
+time step
+valid schedule
+t fetches
+discards block
+the i
+the buffer
+buffer management
+and omega
+demand block
+min block
+each disk
+steps t
+step t
+prefetching and
+be consumed
+time steps
+os done
+single disk
+demand i
+ffl omega
+o parallelism
+consumption sequence
+discards q
+of i
+at time
+at t
+the buffers
+any disk
+a demand
+o time
+block p
+block q
+not fetch
+block u
+u i
+any block
+discard block
+tp gammacon
+fetches block
+blocks consumed
+fetches p
+referenced before
+consumed by
+a prefetch
+of disks
+and buffer
+lru is
+disks in
+disk buffer
+same blocks
+fetch any
+o systems
+sequence sigma
+of sigma
+the blocks
+optimal schedule
+block in
+of blocks
+block z
+min schedule
+o phase
+semi on
+unread block
+next unread
+o step
+ff fetches
+blocks in
+all blocks
+on line
+buffer at
+disk systems
+schedule is
+a block
+a disk
+block is
+be referenced
+replacement choices
+a valid
+since delta
+fetch block
+min algorithm
+multiple disk
+the min
+lemma 10
+sigma i
+sequential schedule
+that disk
+block v
+on prefetching
+after the
+blocks that
+management algorithms
+same buffer
+as omega
+schedule fi
+longest forward
+round disk
+o steps
+mahesh kallahalla
+disk 1disk
+construct omega
+1disk 2
+consumption sequences
+forward distance
+kallahalla peter
+fetches z
+consumed after
+j varman
+the consumptions
+analyze p
+block of
+f k
+of disk
+differ in
+by omega
+the consumption
+buffers of
+prefetch blocks
+other disks
+paging algorithms
+fundamental questions
+con an
+os performed
+normal sequential
+by p
+see theorem
+the disks
+step after
+delta and
+at ffl
+min that
+next reference
+valid schedules
+with lookahead
+schedule in
+is tight
+t opt
+makespan of
+t differ
+has block
+the makespan
+worst case
+algorithm p
+blocks as
+blocks from
+fi will
+several fundamental
+multiple disks
+disk at
+optimality of
+an i
+the computation
+by fi
+in buffer
+questions on
+s buffer
+step k
+management algorithm
+every block
+delta at
+done by
+the worst
+one block
+ff and
+management for
+t at
+2 cpu
+induction hypothesis
+in disk
+of p
+ff at
+the replacement
+10 with
+the block
+by ff
+min and
+hence after
+t t
+are consumption
+fetches y
+buffer omega
+either discard
+always matches
+lru a
+matches omega
+lru schedule
+discards z
+all consumptions
+axiom a1
+i o at
+the i o
+omega t 1
+after the i
+of i os
+number of i
+and omega t
+parallel i o
+in the buffer
+omega t fetches
+and discards block
+o at t
+time step t
+time steps t
+a valid schedule
+prefetching and buffer
+ffl omega t
+os done by
+and buffer management
+i os done
+i o time
+demand i o
+i o parallelism
+a demand block
+of p lru
+p lru is
+at time step
+number of disks
+at time steps
+of parallel i
+does not fetch
+fetch any block
+the min block
+omega t at
+p and discards
+delta and omega
+not fetch any
+number of parallel
+the same blocks
+schedule in which
+i o systems
+at t 1
+parallel i os
+for parallel i
+is a valid
+will be referenced
+be consumed by
+u i 2
+of disk i
+buffer management algorithms
+lru is independent
+of p min
+the consumption sequence
+and discards q
+next unread block
+by omega t
+i o step
+p min schedule
+semi on line
+same blocks as
+be referenced before
+by p min
+p min and
+fetches p and
+performance of p
+i o phase
+min block of
+by any disk
+also be consumed
+lemma 10 with
+the next unread
+block of disk
+i 2 f
+2 f k
+buffer at the
+single disk systems
+start of time
+an optimal schedule
+step t 1
+using lemma 10
+for time steps
+the number of
+the buffers of
+from each disk
+buffer management for
+can be consumed
+an i o
+minimizes the number
+the same buffer
+of i o
+p min is
+i s buffer
+optimality of an
+an algorithm p
+p or z
+p con an
+by ff at
+consumed by fi
+as omega t
+consumed by ff
+step k u
+disk i s
+con an algorithm
+the p min
+i o steps
+by p lru
+in disk i
+a normal sequential
+consumed by omega
+on prefetching and
+same buffer at
+normal sequential schedule
+buffers of ff
+t fetches z
+disk 1disk 2
+buffer management algorithm
+omega t differ
+longest forward distance
+o step k
+y and discards
+fetches z and
+z and discards
+several fundamental questions
+sequential schedule in
+10 with ff
+peter j varman
+all blocks consumed
+round disk 1disk
+1disk 2 cpu
+u and discards
+min that minimizes
+at ffl omega
+contrast to p
+o at time
+the other disks
+fundamental questions on
+consumption sequence sigma
+omega t have
+p min that
+questions on prefetching
+mahesh kallahalla peter
+algorithm p min
+kallahalla peter j
+o at ffl
+min and p
+blocks consumed by
+block u and
+construct omega t
+disks in contrast
+a single disk
+at t and
+block in the
+the worst case
+blocks in the
+every i o
+case bound of
+a parallel i
+os performed by
+i os performed
+but not block
+makespan of a
+the parallel i
+with u i
+made by p
+t and omega
+prefetching and caching
+next reference is
+time step after
+hence after the
+k u i
+blocks that are
+performed by any
+the makespan of
+of disks in
+step after the
+the induction hypothesis
+if u i
+of time step
+optimal schedule is
+from a disk
+at the start
+t have the
+i o for
+prove the optimality
+schedule is a
+the optimality of
+t at time
+the start of
+worst case bound
+in which at
+on line algorithm
+ff and fi
+the optimal algorithm
+induction hypothesis delta
+subsequence of sigma
+hypothesis delta and
+and retained in
+corresponding optimal schedule
+replacement decisions with
+delta at time

@@ -1,0 +1,600 @@
+lock
+transaction
+locks
+mode
+downgrading
+inheritance
+downward
+locking
+waits
+concurrency
+ix
+downgraded
+inferiors
+downgrade
+tl
+nested
+deadlock
+subtransactions
+hierarchy
+superiors
+retained
+commit
+retains
+subtransaction
+parent
+deadlocks
+ancestors
+yes
+modes
+upgrade
+granules
+argus
+moss
+parallelism
+nl
+acquire
+sphere
+upgrading
+held
+commits
+child
+locus
+retainer
+dbms
+holding
+ancestor
+upward
+object
+offering
+hierarchies
+subhierarchy
+opening
+downgrades
+camelot
+eden
+eot
+moss85
+descendants
+holder
+intra
+rollback
+requestor
+lockable
+tuples
+locked
+wait
+children
+committed
+clouds
+transactions
+recovery
+descendant
+subobjects
+controlled
+retain
+sibling
+database
+flat
+fig
+gr4
+allchin83
+rules
+six
+intention
+uncommitted
+restrictive
+compatibilities
+aborts
+granted
+conflicting
+anymore
+transac
+trans
+cooperation
+rder87
+gr1
+ller83
+unrepeatable
+gray76
+gray78
+firewalls
+consistency
+isolated
+siblings
+detection
+resolution
+request
+acquired
+releases
+avalon
+durability
+relationships
+hierarchical
+abort
+superior
+acquiring
+avoidance
+release
+sec
+upgrades
+rolled
+holders
+concept
+acquires
+cycle
+aborting
+aries
+aborted
+inherit
+inherits
+incompatible
+indirectly
+centralized
+leaf
+objects
+management
+inferior
+protocols
+read
+isolation
+rothermel89
+weinstein85
+rder83
+acid
+requestors
+downgrader
+liskov85
+liskov87
+gr5
+astrahan76
+depicted
+segment
+subtasks
+coordinated
+undo
+chies
+wound
+retaining
+decomposition
+offered
+effects
+inherited
+atomicity
+conflicts
+root
+tuple
+kind
+subtree
+action
+refined
+multilevel
+timeout
+victim
+firewall
+r5
+concurrent
+updates
+outcome
+prevents
+flexible
+offer
+logging
+soon
+released
+concurrently
+inconsistencies
+nor
+mechanism
+requesting
+o1
+mohan
+8a
+selective
+reads
+operating
+access
+o2
+act
+requested
+db
+the lock
+nested transactions
+lock in
+a lock
+a transaction
+downward inheritance
+x mode
+concurrency control
+waits for
+lock on
+s mode
+x lock
+h ix
+controlled downward
+tl transaction
+locking rules
+inheritance of
+transaction t
+mode m
+yes yes
+level rules
+object hierarchy
+of locks
+ix h
+lock to
+no no
+for retained
+opening up
+for lock
+lock modes
+in nested
+to level
+in x
+retained locks
+to mode
+for nested
+intra transaction
+retained lock
+s sphere
+its inferiors
+parent child
+level to
+an object
+deadlock detection
+transaction parallelism
+transaction hierarchy
+the waits
+in mode
+for commit
+transaction may
+ancestors of
+its hierarchy
+upward inheritance
+s lock
+the locks
+level transactions
+lock it
+single level
+nested transaction
+parent transaction
+transaction tree
+by moss
+object hierarchies
+a subtransaction
+object o
+locks on
+on o
+on t
+retains the
+lock for
+may acquire
+mode of
+yes no
+locks in
+in fig
+of t
+the transaction
+all transactions
+s hierarchy
+all locks
+the downgrading
+a mode
+transactions in
+it holds
+tl transactions
+downgrading the
+are ancestors
+sibling parallelism
+lock relation
+a tl
+mode and
+transactions that
+lock held
+transaction holds
+holding a
+transactions and
+x on
+o in
+h x
+the locking
+or s
+downgrading of
+the level
+of concurrency
+or retains
+of downward
+lock relationships
+lock holder
+that retain
+lock after
+x sphere
+x locks
+downgrade the
+rollback of
+nl mode
+its superiors
+is ix
+mode x
+up deadlock
+the mode
+level transaction
+may see
+the object
+holds the
+of transaction
+of o
+transaction to
+locks are
+locks held
+holds or
+to nl
+control structure
+of lock
+other transaction
+hold the
+in sec
+held by
+the parent
+x or
+trans action
+the transactions
+acquire a
+transaction model
+s x
+relation r
+transactions the
+locking protocols
+locks of
+level concurrency
+locks for
+locks is
+s locks
+indirectly waits
+hierarchical locking
+locks it
+downgraded to
+granules of
+t retains
+see changes
+downgrading a
+t commits
+upgrade a
+mode conflicting
+after downgrading
+locks from
+up deadlocks
+transaction hierarchies
+t holding
+eot t
+lock granules
+lockable units
+any mode
+can downgrade
+from holding
+it releases
+of r
+transaction can
+lock is
+its children
+mode s
+of nested
+transaction management
+t s
+transaction is
+an x
+mode is
+holding the
+to leaf
+h s
+releases all
+rules stated
+lock can
+among transactions
+t may
+stated above
+transaction s
+no yes
+in s
+mode in
+transactions to
+the lock in
+in x mode
+lock in x
+controlled downward inheritance
+to level rules
+for nested transactions
+level to level
+the level to
+in nested transactions
+a lock in
+inheritance of locks
+waits for lock
+in s mode
+h ix h
+waits for retained
+in mode m
+h x on
+x on t
+holds the lock
+ix h ix
+waits for commit
+the waits for
+intra transaction parallelism
+hold the lock
+the lock to
+a transaction t
+a transaction may
+yes yes yes
+x or s
+downward inheritance of
+of nested transactions
+lock in mode
+single level transactions
+holding a lock
+yes no no
+lock in s
+ancestors of t
+in a mode
+transaction holds the
+retains the lock
+an x lock
+for retained lock
+no no no
+yes yes no
+are ancestors of
+lock to mode
+a tl transaction
+lock in a
+the locking rules
+lock on o
+transaction t may
+other transaction holds
+or s mode
+holding the lock
+acquire a lock
+of a lock
+a lock on
+tuples of r
+the object hierarchy
+opening up deadlock
+of downward inheritance
+that retain the
+holds or retains
+retain the lock
+for lock relation
+retained lock relationships
+downgrade the lock
+lock it holds
+transactions that retain
+no other transaction
+on an object
+of concurrency control
+and all transactions
+root to leaf
+s and x
+r x h
+on t 2
+on t 1
+a lock it
+all transactions that
+may acquire a
+an object o
+of a transaction
+when a transaction
+a transaction can
+level concurrency control
+a transaction to
+t holding a
+of intra transaction
+all locks it
+cannot hold the
+may see changes
+nested transactions the
+a mode conflicting
+downgrading the lock
+locks it holds
+an s lock
+can downgrade the
+an object hierarchy
+to mode s
+in any mode
+of its superiors
+upgrade the lock
+mode conflicting with
+from holding the
+t may acquire
+proposed by moss
+x h s
+mode are ancestors
+releases all locks
+mode and all
+to s mode
+it holds or
+for retained locks
+it releases all
+downgrading a lock
+offering a lock
+to nl mode
+opening up deadlocks
+concurrency control in
+in x or
+if no other
+the lock on
+transaction may see
+acquire the lock
+conflicting with m
+t 1 h
+the concept of
+concurrency control for
+lock on a
+of multi level
+s on t
+after commit of
+tl transaction hierarchy
+after eot t
+a lock holder
+concurrency control scheme
+lock in any
+x lock on
+concept of nested
+lock and waits
+act as firewalls
+basic locking rules
+to x mode
+of controlled downward
+by moss moss85
+the nested transaction
+s lock on
+ancestor of r
+nested transactions for
+lock on this
+upward inheritance of
+t 2 h
+a lock held
+h s on
+can upgrade the
+lock to a
+outside its hierarchy
+in its hierarchy
+for single level
+to mode x
+locks of t
+it holds to
+concept of downward
+indirectly waits for
+lock on r
+mode of the
+top level transaction
+on this object
+locks in the
+upgrade a lock
+s mode if
+the locks in
+the transaction hierarchy
+six lock on
+for upward inheritance
+the lock mode
+a transaction tree
+locking rules for
+after downgrading the
+transaction t holding
+and waits for
+the same mode
+locks held by
+when a subtransaction
+for lock and
+a subtransaction t
+the mode of
+of the lock
+rules stated above
+lock on an
+lock held by
+all ancestors of
+in sec 4
+x and s
+of t s
+transactions outside its
+ix h is
+segment s h
+locks after that

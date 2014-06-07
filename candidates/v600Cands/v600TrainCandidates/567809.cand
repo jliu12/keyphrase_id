@@ -1,0 +1,600 @@
+nan
+givens
+underflow
+clartg
+crotg
+rotations
+nans
+slartg
+srotg
+safmin
+blas
+overflow
+atlas
+lapack
+gradual
+scaling
+vendor
+powers
+fg2
+precision
+unscale
+routines
+endif
+clargv
+double
+denormalized
+division
+nonzero
+formulas
+4b
+di
+4a
+slargv
+safe
+f2
+region
+routine
+log
+old
+exception
+microseconds
+underflows
+max
+berkeley
+threshold
+forum
+infinities
+erent
+flags
+scale
+d1
+ultra
+priest
+erences
+un
+shadow
+floating
+timing
+inputs
+exceptional
+reference
+infinite
+deserved
+tests
+imaginary
+ov
+94720
+arithmetic
+subroutines
+sun
+discretion
+handling
+ective
+scaleg
+70588
+sign
+fortran
+roundo
+inequalities
+radix
+representable
+exponent
+reliable
+membership
+faster
+undo
+divisions
+mathematically
+multiplications
+reliably
+nos
+nersc
+returns
+root
+insist
+nonnegligible
+scaled
+square
+unitary
+r3
+subcontract
+o5
+b2
+succeed
+insisting
+regions
+timings
+rotation
+continuity
+ran
+prevent
+lie
+quantities
+cheaper
+negatives
+implementor
+parentheses
+arguments
+a2
+asc
+g2
+rounds
+f77
+multiply
+4e
+subprograms
+omits
+er
+epsilon
+fastest
+safely
+algebra
+nearly
+consequent
+81
+doug
+4d
+accuracy
+errors
+exponents
+rare
+wider
+cda
+4c
+greatly
+unnecessary
+su
+quantity
+rounded
+returning
+return
+technical
+overspecifying
+dlamch
+535time
+slamch
+noncomment
+unexceptional
+4913930
+wkahan
+noncom
+complain
+9813361
+gemignani
+assiduous
+gratton
+scientificlibrary
+semiseparable
+70292
+dbindel
+941322401
+20552402
+reciprocal
+assure
+approximated
+justifies
+erence
+hopefully
+simplified
+dept
+formula
+systematic
+im
+else
+diversity
+55
+convention
+ultimate
+equaling
+cabs
+osni
+arccosine
+ercegovac
+conj
+arcsine
+0077
+langou
+parallelograms
+answers
+magnitude
+givens rotations
+a nan
+and g
+complex givens
+f and
+gradual underflow
+nan nan
+f g
+scale f
+z 2
+rotations when
+real givens
+log g
+over underflow
+c s
+by powers
+when f
+max error
+new clartg
+underflow threshold
+old clartg
+log f
+log z
+g are
+scale g
+powers of
+exception handling
+z 4
+reference blas
+in region
+f log
+g z
+of z
+reference crotg
+nan limited
+double precision
+or g
+with gradual
+s max
+g f
+and r
+technical forum
+underflow is
+in double
+case 1
+are nonzero
+g is
+s and
+square root
+of f
+nan if
+old slartg
+be nans
+given previous
+compute real
+1 exceptional
+reference srotg
+computing complex
+complex algorithm
+vendor reference
+of givens
+f z
+ultra 10
+error in
+blas technical
+computing givens
+underflow the
+prevent overflow
+previous assumptions
+f or
+scaling of
+scaling if
+safe given
+the underflow
+f 2
+region 4a
+routine max
+srotg 1
+nan or
+slargv and
+safe region
+and crotg
+scale z
+un log
+new slartg
+and clargv
+crotg nan
+atlas vendor
+denormalized number
+srotg nan
+underflow routine
+reference double
+region 1
+single precision
+either f
+g log
+most common
+g space
+overflow threshold
+double figure
+compute complex
+without scaling
+real and
+scaling is
+exceptional cases
+sun ultra
+is safe
+common case
+faster than
+using formulas
+then scale
+the blas
+algorithm 3
+floating point
+di erent
+the lapack
+1 blas
+with scaling
+use algorithm
+large relative
+in s
+timing results
+algorithm 1
+givens rotation
+the algorithm
+in magnitude
+by z
+s old
+z log
+infinite or
+for complex
+g by
+if g
+between z
+of d1
+di erences
+root and
+real f
+clartg is
+slartg and
+real algorithm
+slartg clartg
+nan returns
+modified reference
+precision inputs
+mathematically identical
+atlas crotg
+f2 fg2
+nan and
+g di
+of srotg
+means gradual
+current lapack
+return nans
+flags which
+unscale r
+ective underflow
+nan we
+division are
+clartg slargv
+crotg is
+endif we
+vendor crotg
+g 2
+so z
+z 1
+a sun
+for membership
+r s
+the true
+when g
+and s
+2 g
+by zero
+4 so
+to scale
+in lapack
+1 81
+one real
+in single
+2 until
+one division
+underflows it
+25 faster
+called case
+arithmetic 2
+using exception
+fortran reference
+reliable implementation
+scaling when
+is deserved
+g down
+compute c
+if f
+in log
+division and
+assume f
+and imaginary
+is infinite
+g to
+f and g
+is a nan
+complex givens rotations
+powers of z
+real givens rotations
+givens rotations when
+and g are
+max error in
+c s and
+s and r
+by powers of
+when f and
+log f log
+g are nonzero
+of f and
+scale f and
+nan nan nan
+rotations when f
+s max error
+with gradual underflow
+g z 2
+scaling of f
+of z 4
+square root and
+nan nan limited
+c and s
+of z 2
+f or g
+or g is
+most common case
+of givens rotations
+sun ultra 10
+safe given previous
+compute real givens
+1 exceptional cases
+line is safe
+a nan if
+for complex givens
+f log g
+error in r
+given previous assumptions
+to compute real
+computing complex givens
+when f g
+the underflow threshold
+of c s
+blas technical forum
+in log f
+to prevent overflow
+log g log
+is safe given
+either f or
+s and c
+f g is
+the most common
+routine max error
+error in c
+c s old
+error in s
+srotg nan nan
+then scale f
+atlas vendor reference
+g by powers
+scale g by
+scale z 2
+2 g z
+vendor reference double
+s s max
+the reference blas
+slargv and clargv
+underflow routine max
+be a nan
+z 2 until
+to compute complex
+g log z
+a nan or
+gradual underflow routine
+reference double figure
+log z log
+in region 4a
+compute c s
+for real givens
+definition of givens
+f log z
+r s max
+crotg nan nan
+log g space
+z 4 so
+compute complex givens
+g is in
+a sun ultra
+in r s
+time to compute
+this line is
+computation of d1
+computing givens rotations
+the blas technical
+test for membership
+large relative errors
+r c s
+is in region
+z 2 g
+f z 2
+when the true
+level 1 blas
+and g by
+in the most
+in c s
+for membership in
+z 2 to
+z 2 f
+if f g
+f and log
+means gradual underflow
+r by powers
+e ective underflow
+one square root
+g di er
+z log f
+which means gradual
+slartg clartg slargv
+clartg slargv and
+will be nans
+the new slartg
+fortran reference blas
+is called case
+it is deserved
+nan or infinite
+lie in s
+with scaling if
+and g down
+scaling when f
+the new clartg
+and g up
+g up by
+ective underflow threshold
+g down by
+a nan and
+underflows it is
+scale f g
+gradual underflow the
+scaling is needed
+modified reference crotg
+un log g
+avoid over underflow
+formulas for c
+relative to new
+and log g
+can scale f
+complex algorithm when
+in s s
+division by zero
+on a sun
+if either f
+2 to prevent
+givens rotations the
+g is infinite
+f f 2
+log f and
+using exception handling
+for c s
+use algorithm 3
+f g z
+california berkeley ca
+25 faster than
+real and imaginary
+in double precision
+root and one
+must be nonzero
+we can scale
+givens rotations we
+f g to
+g are in
+so that z
+floating point arithmetic
+of california berkeley
+values of f
+f g and
+c s r
+timing results for
+z 2 if
+consider the situation
+we assume f
+includes the case
+routine in the
+berkeley ca 94720
+cs berkeley edu
+to avoid over
+times faster than
+z 2 and
+to compute c
+the new algorithm
+real and complex
+4 so that
+g must be
+and imaginary parts
+computer science division
+the level 1
+the di erences
+both f and

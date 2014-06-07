@@ -1,0 +1,600 @@
+ring
+hot
+request
+processor
+latency
+utilization
+contention
+outstanding
+spot
+transaction
+topologies
+banks
+station
+traffic
+hector
+cache
+rings
+locality
+saturation
+cluster
+packet
+theta
+cycle
+branching
+efficiency
+cycles
+memory
+workload
+blocking
+packets
+topology
+utilizations
+r2m30
+reads
+prefetching
+block
+slotted
+module
+processors
+rate
+spots
+r4m60
+localities
+multiprocessors
+simulator
+word
+exposed
+ml
+queue
+tradeoff
+misses
+levels
+speeds
+remote
+hierarchy
+retries
+stall
+doubtful
+target
+transfers
+memories
+rates
+favorite
+hit
+plots
+unidirectional
+miss
+1024
+page
+sci
+synchronization
+mode
+batch
+probabilities
+coherence
+modules
+dram
+multiprocessor
+clusters
+hierarchical
+saturate
+bank
+strobe
+tango
+multicomputer
+versus
+interfaces
+questionable
+inter
+shared
+communication
+simulating
+interconnection
+prototype
+degradation
+multithreaded
+crossbar
+multithreading
+network
+interface
+stations
+root
+response
+validated
+fetched
+hiding
+accesses
+r1m60
+theta10305070900
+sibai
+halfwidths
+cyberplus
+fadi
+teraflop
+ultracomputers
+favoritism
+rxmy
+ratio
+consistency
+synthetic
+factors
+05
+compensate
+batches
+significance
+prohibitively
+agarwal
+writes
+controller
+limiting
+ksr1
+1023
+migrations
+drop
+offered
+ranges
+coherent
+90
+loads
+mem
+cause
+connections
+bottleneck
+ksr
+2060100
+alpha
+hardware
+addressing
+hierarchies
+near
+disadvantage
+subtransaction
+replications
+realism
+hide
+01
+increased
+traverse
+saturates
+distributing
+workloads
+load
+simulation
+contexts
+varied
+transactions
+advantageous
+standards
+requesting
+realistic
+causes
+tend
+traversed
+bandwidth
+concurrency
+caches
+access
+examine
+sensitive
+patterns
+committee
+improvement
+congested
+percentage
+scalable
+ends
+chose
+completes
+extent
+transfer
+percent
+read
+varying
+substantially
+95
+queues
+dec
+retry
+sharply
+imposes
+request rate
+ring utilization
+theta theta
+transaction latency
+maximum ring
+outstanding transactions
+hot spot
+communication locality
+processor efficiency
+memory banks
+cycle time
+the ring
+ring cycle
+target memory
+processor cycles
+memory cycle
+blocking reads
+request rates
+of outstanding
+the processor
+multiple outstanding
+inter ring
+branching factors
+page mode
+cluster 1
+the request
+non blocking
+ring based
+memory utilization
+mean remote
+memory saturation
+spot memory
+multiple memory
+block size
+the hot
+branching factor
+ring interface
+mode access
+root ring
+spot traffic
+memory queue
+base system
+topologies with
+cluster 2
+first word
+contention free
+theta figure
+the target
+the memory
+workload model
+of ring
+and ring
+ring levels
+hierarchical ring
+ring hierarchy
+ring utilizations
+l request
+versus request
+traffic patterns
+rate b
+hot spots
+u l
+of memory
+shared memory
+factor at
+the station
+ring topology
+in ring
+ring cycles
+source processor
+favorite memory
+processor module
+e request
+factors at
+the hector
+between cache
+response packet
+cache miss
+processor cycle
+of levels
+hit ratio
+cache misses
+a memory
+memory contention
+the topologies
+workload parameters
+utilization is
+remote transaction
+processing module
+ring and
+memory latency
+and maximum
+the contention
+cache hit
+of processor
+latency is
+increasing t
+increase in
+traffic pattern
+memory probabilities
+request packet
+plots efficiency
+larger branching
+ring saturation
+1 ring
+1 probabilities
+ring contention
+communication localities
+locality model
+a request
+packets from
+transactions and
+r u
+cache coherence
+a transaction
+memory access
+one memory
+memory and
+maximum number
+a ring
+processor stall
+33 theta
+rate for
+efficiency is
+2 size
+memory bank
+the transaction
+the root
+memory is
+a processor
+hot memory
+hardware contexts
+best topologies
+reads block
+scalable coherent
+target station
+1024 processors
+stall ends
+ring interfaces
+large branching
+b 33
+at request
+multiple hardware
+and prefetching
+coherent interface
+level workload
+three traffic
+per processing
+and contention
+l e
+system performance
+the maximum
+x r
+0 05
+limiting factor
+memory module
+latency for
+the simulator
+and memory
+the traffic
+overall system
+block transfers
+ring connections
+local ring
+processor modules
+on efficiency
+station controller
+efficiency versus
+a station
+banks per
+increasing efficiency
+maximum transaction
+synthetic workload
+the block
+increasing the
+cycle times
+memory multiprocessors
+per processor
+effect on
+each processor
+the base
+contention the
+software cache
+this tradeoff
+rate 0
+6 levels
+memory consistency
+cycles between
+level 1
+the network
+latency in
+efficiency for
+and workload
+0 01
+the increase
+the hierarchy
+experiments indicate
+the cluster
+c l
+we considered
+maximum ring utilization
+theta theta theta
+the request rate
+of outstanding transactions
+the maximum ring
+the target memory
+number of outstanding
+non blocking reads
+multiple outstanding transactions
+and maximum ring
+multiple memory banks
+memory cycle time
+the hot spot
+hot spot memory
+request rate for
+hot spot traffic
+ring cycle time
+x r u
+page mode access
+request rate b
+outstanding transactions and
+the first word
+theta theta figure
+r u l
+ring utilization is
+versus request rate
+transaction latency is
+u l request
+the root ring
+branching factor at
+of memory banks
+l request rate
+the communication locality
+a x r
+cache hit ratio
+between cache misses
+mean remote transaction
+m a x
+remote transaction latency
+the source processor
+the base system
+e request rate
+a request rate
+of communication locality
+branching factors at
+a memory queue
+c l e
+number of levels
+block size of
+cluster 1 probabilities
+the response packet
+cluster 2 size
+factors at the
+of page mode
+inter ring interface
+maximum ring utilizations
+the contention free
+request rate of
+the ring hierarchy
+the transaction latency
+the processor stall
+target memory is
+one memory bank
+33 theta theta
+a block size
+packets from the
+overall system performance
+maximum number of
+a ring cycle
+scalable coherent interface
+hierarchical ring based
+cycles between cache
+per processing module
+three traffic patterns
+traffic patterns the
+processor stall ends
+multiple hardware contexts
+transaction latency for
+ring and memory
+the best topologies
+favorite memory probabilities
+memory utilization and
+b 33 theta
+inter ring connections
+ring utilization for
+rate b 33
+request rate a
+memory and maximum
+memory banks per
+request rate 0
+the target station
+maximum transaction latency
+larger branching factors
+system and workload
+level 1 ring
+rate for different
+memory and ring
+number of processor
+shared memory multiprocessors
+number of memory
+the increase in
+of the transaction
+rate of 0
+the cache hit
+the memory cycle
+processor cycle time
+a cache miss
+reaches the processor
+a synthetic workload
+the maximum number
+a large system
+latency is the
+of processor cycles
+software cache coherence
+of the request
+f c e
+the sci ring
+somewhat larger branching
+higher request rates
+u l topologies
+the workload parameters
+processor ring and
+level workload model
+of multiple memory
+the limiting factor
+l e request
+one outstanding transaction
+different t values
+at request rate
+utilization and maximum
+the scalable coherent
+of the sci
+and ring speeds
+the next station
+outstanding transactions per
+rings at the
+per memory module
+the hector prototype
+ring utilization the
+increasing the block
+transaction latency and
+the primary cause
+synthetic workload model
+in processor efficiency
+concurrency and contention
+memory queue of
+page mode dram
+adaptive maximum number
+efficiency versus request
+l a y
+mode access is
+the traffic pattern
+a plots efficiency
+at a request
+the ring utilization
+y c l
+with multiple outstanding
+number of ring
+we assume 0
+for different t
+plots efficiency versus
+between concurrency and
+f f c
+95 0 8
+communication locality model
+effect on efficiency
+for increasing efficiency
+source processor module
+access strobe line
+transactions and non
+mode dram access
+for the hot
+take prohibitively long
+increase in ring
+communication locality changes
+memory bank per
+processor cycles between
+first word is
+use of page
+the offered load
+the request packet
+large branching factors
+would take prohibitively
+low level workload
+transactions per processor
+degree of communication
+near the hot
+ring based systems
+simple node interfaces
+exposed transaction latency
+increase in order
+ring cycles for
+from the station
+in cache hit
+c e request
+node interfaces and
+tradeoff between concurrency
+mean number of
+shared memory multiprocessor
+on the order

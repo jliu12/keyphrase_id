@@ -1,0 +1,600 @@
+hcc
+adv
+diam
+blowup
+placement
+coff
+poff
+files
+loop
+caches
+preserves
+paging
+parent
+cache
+i2
+deact
+capacity
+caching
+child
+incurs
+ine
+coloring
+request
+competitive
+online
+landlord
+4bk
+depth
+cooperative
+file
+i3
+anc
+swapp
+harvest
+white
+i1
+children
+guard
+lru
+colorable
+react
+ch
+diameter
+load
+incurred
+root
+off
+ultrametric
+nuca
+bartal
+hierarchical
+metrics
+lemma
+outer
+requests
+competitiveness
+epoch
+black
+serverless
+dist
+inequality
+descendants
+moves
+nonzero
+down
+missing
+act
+ton
+arbitrarily
+toff
+evict
+ultrametrics
+swapc
+sleator
+game
+confusion
+adversarial
+feasible
+node
+claim
+placed
+adversary
+nonuniform
+incur
+fakcharoenphol
+tarjan
+squid
+nonconstant
+retrieval
+predicate
+preserve
+od
+internal
+hierarchy
+invariant
+field
+cooperate
+branch
+nonnegative
+diameters
+relocation
+ancestor
+copy
+rooted
+terminates
+shell
+colorings
+placements
+consistency
+consistent
+serves
+initially
+exchanging
+penalty
+polylog
+departments
+opt
+deterministic
+iteration
+fields
+cap
+lemmas
+everywhere
+leaf
+furthest
+ect
+incurring
+descendant
+subtree
+guesses
+metric
+ancestors
+removes
+separated
+tree
+seminal
+sibling
+lines
+offline
+swap
+sized
+modify
+migration
+log
+equals
+executed
+sd
+requested
+department
+amortized
+incorrectly
+serving
+updated
+derivation
+dren
+walnut
+empowers
+chil
+nonidle
+xfs
+algorith
+competiveness
+predicament
+korupolu
+unachievable
+wisely
+eviction
+maintains
+approximating
+old
+discovery
+statement
+brevity
+ects
+copies
+adds
+terestingly
+maxu
+deactivation
+reactivation
+gration
+partment
+erature
+operative
+evicted
+fill
+guess
+erarchy
+deci
+ratio
+replication
+hierarchies
+erent
+s0
+desc
+idle
+count
+awerbuch
+lit
+pulled
+down loop
+up loop
+the down
+capacity blowup
+before line
+the up
+parent diam
+cooperative caching
+o ine
+line 12
+hcc algorithm
+request sequence
+lemma 4
+line 4
+line 15
+hcc problem
+of files
+outer if
+only lines
+loop preserves
+holds initially
+hierarchical cooperative
+distributed paging
+child of
+guard of
+incurs a
+a placement
+the guard
+just before
+initially because
+the hcc
+preserves p
+paging problem
+poff is
+x field
+loop moves
+is white
+internal node
+main loop
+x value
+competitive ratio
+if statement
+b feasible
+that line
+the caches
+the competitive
+every iteration
+lines that
+of caches
+every internal
+line 14
+online algorithm
+of adv
+constant competitive
+placement p
+algorithm off
+of coff
+after line
+loop proof
+associated coloring
+moves to
+depth of
+children of
+loop invariant
+tree metrics
+and 15
+the claim
+a file
+diameter of
+retrieval cost
+file f
+the diameter
+loop and
+a capacity
+node i
+the x
+the depth
+4 12
+an hcc
+because root
+constant capacity
+e child
+online hcc
+blowup of
+second branch
+any online
+black child
+old node
+caching problem
+preserves i2
+ine algorithm
+depth 4bk
+placement poff
+diam parent
+constant competitiveness
+preserves i1
+the harvest
+on incurs
+statement takes
+i1 i2
+nonzero value
+a request
+to 0
+last is
+invariant of
+the capacity
+a child
+the placement
+cost incurred
+the files
+that modify
+an arbitrarily
+the outer
+e parent
+proof every
+only line
+coloring c
+hence line
+is colorable
+child and
+iteration of
+inequality is
+always consistent
+loop terminates
+a cost
+12 is
+blowup in
+positive x
+and i3
+avoid confusion
+lower bound
+of requests
+caches in
+in missing
+confusion we
+ine hcc
+4bk 1
+poff to
+adv is
+swapp p
+g depth
+holds everywhere
+15 preserves
+files placed
+adv generates
+adv we
+in anc
+coff is
+placement to
+bartal 3
+load deact
+coff proof
+in coff
+feasible placement
+most parent
+root just
+global invariant
+in adv
+penalty f
+case off
+off incurs
+that coff
+the cache
+x values
+line that
+initially and
+the request
+an o
+first inequality
+lines 4
+a nonzero
+incurred by
+no cost
+line 8
+the predicate
+of line
+line 5
+parent and
+by lemma
+its placement
+by bartal
+child with
+every line
+that root
+lines 14
+dist u
+off that
+cost is
+claim holds
+descendants of
+a loop
+p holds
+files in
+metrics by
+arbitrary metrics
+colorable and
+approximating arbitrary
+lru and
+a hierarchical
+the change
+the down loop
+the up loop
+of the up
+just before line
+of the down
+the only lines
+the outer if
+only lines that
+guard of the
+hierarchical cooperative caching
+set of files
+line 12 is
+outer if statement
+the guard of
+inequality is due
+loop moves to
+the hcc problem
+holds initially because
+the competitive ratio
+incurs a cost
+node i e
+every iteration of
+loop invariant of
+a loop invariant
+loop and the
+every internal node
+4 12 and
+to the guard
+down loop preserves
+before line 4
+up loop and
+lines that modify
+an o ine
+12 and 15
+the depth of
+equal to 0
+the diameter of
+the main loop
+iteration of the
+invariant of the
+is a loop
+a nonzero value
+o ine algorithm
+the old node
+of an hcc
+the second branch
+12 is executed
+ratio of any
+i e child
+constant capacity blowup
+diam parent diam
+after line 4
+cooperative caching problem
+the x values
+takes the second
+confusion we use
+claim holds initially
+consistency of coff
+parent diam parent
+a capacity blowup
+avoid confusion we
+initially because root
+a positive x
+statement takes the
+execution of line
+the hierarchical cooperative
+old node i
+proof every iteration
+i e parent
+before line 8
+the only line
+x values of
+moves to its
+if statement takes
+the x field
+only line that
+by lemma 4
+sequence of requests
+new node i
+proof the claim
+on the competitive
+holds initially and
+lemma 4 3
+competitive ratio of
+and y to
+to avoid confusion
+cost incurred by
+the new node
+is at most
+we use to
+preserves the consistency
+online hcc algorithm
+is colorable and
+line 4 or
+preserves p because
+positive x value
+a global invariant
+depth 4bk 1
+files placed in
+ine hcc algorithm
+use to refer
+set both x
+to a nonzero
+most parent diam
+black child of
+files in a
+set of caches
+4 or line
+the capacity blowup
+down loop and
+this case off
+thus the change
+lines 14 and
+capacity blowup of
+execution of adv
+up loop moves
+down loop moves
+algorithm off that
+every line of
+a cost at
+the placement poff
+at most parent
+moves to one
+and any pair
+of the caches
+a placement p
+placement to the
+root just before
+change in is
+hcc algorithm is
+or line 12
+o ine hcc
+the caches in
+off incurs a
+line 15 is
+loop preserves i1
+that coff is
+of any online
+it preserves p
+before line 15
+p holds initially
+a child of
+the first inequality
+of a file
+the claim holds
+by the definition
+the execution of
+od end of
+an arbitrarily long
+first inequality is
+the request sequence
+online algorithm is
+and the down
+dist u v
+is always consistent
+copy of f
+from lemma 4
+the change in
+after the execution
+to its parent
+arbitrary metrics by
+total cost incurred
+that modify the
+on approximating arbitrary
+approximating arbitrary metrics
+a file in
+in the down
+that the outer
+metrics by tree
+by tree metrics
+line of code
+the children of
+of the outer
+to denote the
+is due to
+the consistency of
+lemma 4 7
+lemma 4 6
+a function from
+the cost incurred
+follows from lemma
+the total cost
+of f is
+every node in
+lemma 4 4
+has a positive
+set of nodes
+the subtree rooted
+14 and 15
+of the nodes
+an internal node
+a cost of
+subtree rooted at
+values of all
+b feasible online
+denote the old
+loop terminates lemma
+k k h
+swapp p is
+holds everywhere in

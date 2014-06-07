@@ -1,0 +1,600 @@
+cts
+snd
+extraction
+df
+extr
+buf
+channels
+dom
+csp
+traces
+ep
+communicating
+refusals
+koutny
+channel
+refusal
+behaviour
+burton
+pappalardo
+ref
+processes
+eg
+uninterpreted
+trace
+refinement
+divergences
+specification
+di
+interface
+relating
+realisability
+compositionality
+actions
+unfinished
+erent
+transition
+compositional
+interfaces
+bm
+dp
+action
+eg2
+idch
+nak
+vcts
+failures
+abstraction
+ack
+er
+patterns
+verification
+diverging
+composition
+erence
+alphabet
+blocked
+deadlock
+domall
+engage
+ge
+collapses
+target
+compound
+transmission
+hiding
+ak
+sim
+failure
+vertical
+fault
+divergence
+refining
+event
+unambiguous
+prefix
+labelled
+proposition
+twice
+arcs
+interpreted
+arc
+stipulate
+horizontal
+treatment
+reachable
+composed
+concurrency
+sender
+mapping
+ep4
+csp3
+rensink
+gorrieri
+unboundedly
+disambiguating
+breached
+cult
+communication
+interpret
+bu
+signals
+te
+suitably
+lc
+specifications
+concrete
+tolerant
+a1
+respective
+refuse
+implementations
+verifying
+modelling
+contribute
+regarded
+targets
+replicated
+restatement
+monotonic
+device
+explosion
+formedness
+adhering
+technically
+pattern
+bisimulation
+transducers
+mappings
+sources
+base
+implements
+entailment
+realm
+faulty
+ours
+erences
+treatments
+prone
+hidden
+internal
+verify
+graphs
+identity
+interprets
+io
+associative
+arrows
+outgoing
+extract
+semantics
+transitions
+extracted
+amenable
+modelled
+infinite
+ambiguous
+imposed
+progress
+constraining
+unacceptable
+denotational
+intended
+strict
+amounts
+highlighted
+algebras
+transmissions
+sequences
+enabled
+deleting
+collapse
+ambiguity
+sensible
+liveness
+coincide
+motivations
+interact
+fig
+composing
+reliable
+algebraic
+duplicated
+connecting
+wish
+deterministic
+correctness
+notions
+annotations
+interpretation
+disturbers
+realis
+accomplishments
+csp4
+ctss
+ployed
+csp2
+terpreted
+overtaken
+pcts
+izontal
+implementation relation
+extraction patterns
+cts u
+extraction pattern
+communicating transition
+relating communicating
+the implementation
+of extraction
+extraction graph
+m koutny
+koutny and
+j burton
+g pappalardo
+burton m
+communicating processes
+of channels
+an extraction
+base process
+extraction graphs
+dom q
+extraction mapping
+the extraction
+in dom
+of cts
+d 1
+the interface
+an implementation
+ref t
+vertical implementation
+snd 2
+base processes
+action refinement
+and buf
+transition system
+snd and
+process p
+a trace
+the specification
+process q
+implementation process
+traces in
+standard horizontal
+graph eg
+interface di
+s ack
+cts n
+of traces
+di erent
+specification and
+communication on
+channels in
+t dom
+b i
+traces and
+snd 1
+extr q
+csp process
+in cts
+output channels
+dom ep
+a communicating
+interface refinement
+trace over
+the refusal
+a process
+t r
+of q
+of csp
+all traces
+interface of
+output channel
+that snd
+input channels
+eg i
+implementation relations
+of snd
+transition systems
+processes and
+input channel
+1 d
+the channels
+of processes
+traces of
+r 1
+target process
+system cts
+specification component
+non diverging
+a df
+and df
+eg twice
+csp processes
+source channels
+channel b
+snd buf
+behaviour abstraction
+traces over
+extr t
+deadlock properties
+extr ep
+and cts
+refusal bounds
+interfaces of
+same interface
+channels of
+r 0
+and g
+if t
+and extraction
+communicating sequential
+the event
+non empty
+p p
+di er
+for every
+channel d
+cts and
+channels b
+implementation system
+a specification
+sequential processes
+of interface
+di erence
+a failure
+the communication
+processes in
+parallel composition
+v a
+dom i
+by ref
+t u
+q a
+the behaviour
+q 0
+of p
+system q
+q p
+failure of
+buf c
+interfaces di
+the refusals
+q implements
+uninterpreted channel
+s nak
+uninterpreted channels
+placed upon
+by cts
+the composed
+that extr
+and extr
+local failures
+blocked t
+interpreted channel
+implementation processes
+refusals of
+nak r
+prefix closure
+to engage
+cts buf
+extr all
+network composition
+for cts
+bm n
+are uninterpreted
+on refusals
+standard csp
+set extr
+an unfinished
+ep twice
+for traces
+q df
+local failure
+implementation conditions
+failures divergences
+behaviour on
+buf are
+implementation component
+sim min
+r dom
+ep eg
+subset closed
+and refusals
+mapping ref
+identity extraction
+and implementation
+q satisfies
+refinement is
+event that
+alphabet of
+two processes
+patterns in
+of refinement
+behaviour is
+to verify
+of abstraction
+a w
+all channels
+p and
+specification system
+a bu
+the implementation relation
+relating communicating processes
+koutny and g
+and g pappalardo
+m koutny and
+j burton m
+burton m koutny
+of the implementation
+1 d 1
+set of channels
+of extraction patterns
+communicating transition system
+traces in dom
+communicating transition systems
+d 1 d
+the communication on
+extraction graph eg
+snd and buf
+an extraction graph
+extraction patterns in
+specification and implementation
+in the event
+the interface of
+cts u and
+base process p
+vertical implementation relation
+the extraction mapping
+an extraction pattern
+a communicating transition
+a base process
+of all traces
+1 r 1
+of an implementation
+of the specification
+the same interface
+a non empty
+implementation process q
+and cts n
+of extraction pattern
+of cts u
+a trace over
+event of interface
+the implementation process
+transition system cts
+extr q a
+sets of channels
+communication on the
+the input channels
+extraction patterns and
+of interface di
+if t r
+a t w
+p s ack
+a standard horizontal
+t b i
+if v a
+communicating sequential processes
+set of all
+a failure of
+of the interface
+r and s
+process p is
+domain of q
+v a t
+set of extraction
+b is a
+p p p
+in the implementation
+the set of
+contribute to a
+1 p n
+the event that
+such that v
+to a failure
+of the arc
+snd buf c
+model of csp
+implementation relation is
+the implementation conditions
+a csp process
+process q with
+interface di erence
+simulation for cts
+defined for traces
+r dom q
+traces and refusals
+over the source
+t r p
+in cts u
+blocked t r
+u and cts
+s 1 r
+the extraction patterns
+systems and extraction
+and extraction graphs
+b i dom
+cts u has
+failure of q
+of channels in
+interfaces di er
+and buf are
+by ref t
+t r dom
+s nak r
+the source channels
+is an extraction
+for cts u
+an implementation process
+notion of extraction
+behaviour on a
+of cts and
+the extraction pattern
+i dom i
+graph of cts
+interface of an
+an implementation relation
+sequence of traces
+the behaviour of
+a process p
+interface of the
+shown in figure
+the initial state
+the specification and
+and t u
+high level action
+b i s
+a simulation for
+of capacity one
+p r 0
+we denote v
+is no t
+a bu er
+is a non
+p 1 p
+we can extract
+the state explosion
+over r and
+the initial node
+notion that a
+state explosion problem
+nodes reachable from
+denoted by dom
+the event of
+is the set
+the b i
+the alphabet of
+the parallel composition
+a more concrete
+v a w
+parallel composition of
+is a trace
+transition systems and
+i a t
+that a process
+of processes and
+v i a
+the two processes
+a graph theoretic
+in the sense
+from the initial
+in terms of
+that the implementation
+0 r 1
+and for every
+v is a
+for every t
+q and p
+verification of the
+implementation in the
+the implementation and
+a set of
+the notion that
+a trace of
+that the communication
+for traces in
+to implement p
+q implements p
+snd 2 can
+interfaces of communicating
+system cts u
+implementation relations and
+definition of extraction
+i cts u
+connecting their respective
+that ep eg
+process to that
+implementation relation which
+process q as
+that being an
+w in cts
+implementation relation collapses
+of extraction graphs
+in dom we
+s ack s
+by connecting their
+nak r 0
+that snd and
+transition systems representing
+from a specification
+several connected systems

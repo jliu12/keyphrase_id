@@ -1,0 +1,600 @@
+brdf
+lighting
+brdfs
+spherical
+illumination
+reflectance
+rendering
+angular
+harmonics
+frequency
+reflected
+marschner
+light
+lambertian
+llm
+reflection
+harmonic
+recovered
+surface
+photographs
+texture
+inverse
+specular
+coefficients
+diffuse
+rendered
+directional
+graphics
+microfacet
+phong
+convolution
+lm
+tog
+sato
+sphere
+images
+ringing
+unknown
+hemisphere
+gazing
+field
+shadowing
+ks
+angle
+fresnel
+azimuthal
+surfaces
+spheres
+mirror
+conditioned
+exitance
+estimation
+textured
+coordinates
+irradiance
+kd
+ill
+rotation
+recover
+lensch
+sculpture
+teflon
+radiance
+photograph
+ramamoorthi
+angles
+incident
+parametric
+ikeuchi
+frequencies
+recovery
+bd
+filter
+image
+curved
+textures
+recovering
+filtered
+sandblasted
+lpq
+skylight
+hendrik
+shree
+outgoing
+shadows
+isotropic
+nayar
+hawkins
+debevec
+cosine
+cat
+fourier
+scene
+dual
+distant
+clamped
+estimating
+cos
+sources
+gantry
+ylm
+lslow
+goesele
+exitant
+factorization
+ravi
+roughness
+geometry
+xuejun
+rotations
+kautz
+siggraph
+refractive
+objects
+signal
+greenberg
+varshney
+matusik
+transfer
+conditioning
+camera
+concave
+rms
+bidirectional
+belhumeur
+specularities
+posed
+source
+scattering
+scenes
+love
+normalization
+ta
+tim
+peter
+slow
+shadowed
+hanrahan
+posedness
+amitabh
+visualization
+rotational
+anisotropic
+simplex
+wojciech
+renderings
+doll
+zernike
+imari
+lehtinen
+gero
+binput
+cabral
+retinex
+objfun
+mcmaster
+shininess
+bronze
+delrin
+insights
+yu
+homogeneous
+varying
+energy
+materials
+white
+acquiring
+measurement
+color
+3d
+elevation
+predicts
+normal
+hao
+grazing
+zmura
+hydrologic
+kiriakos
+shimshoni
+unrecoverable
+photorealism
+tchou
+kutulakos
+malik
+blurring
+acquired
+blurred
+vanish
+object
+volumetric
+architectural
+vanishes
+sparrow
+blanz
+torrance
+brightest
+katsushi
+sunlight
+ayellet
+jaakko
+the lighting
+the brdf
+light field
+reflected light
+frequency space
+the reflected
+inverse rendering
+lighting and
+spherical harmonic
+and brdf
+inverse lighting
+spherical harmonics
+directional source
+of spherical
+unknown lighting
+brdf is
+brdf and
+angular and
+angular space
+brdf parameters
+low frequency
+lighting is
+global coordinates
+the recovered
+lighting the
+brdf estimation
+known lighting
+dual angular
+under complex
+the specular
+lighting coefficients
+frequency lighting
+and lighting
+tog v
+graphics tog
+on graphics
+brdfs under
+order l
+and frequency
+the diffuse
+directional sources
+the phong
+gazing sphere
+brdf we
+for inverse
+harmonic coefficients
+the surface
+coefficients llm
+mirror brdf
+brdf recovery
+lighting from
+phong brdf
+recovered lighting
+reflection vector
+a gazing
+real photographs
+microfacet brdf
+the fresnel
+marschner et
+image based
+complex lighting
+point source
+the reflection
+upper hemisphere
+under unknown
+a lambertian
+inverse problems
+surface normal
+s fast
+brdf coefficients
+under known
+brdf filter
+normal exitance
+brdf component
+incident angle
+real lighting
+in angular
+distant illumination
+space lighting
+3 july
+the angular
+a directional
+fast varying
+the lambertian
+for brdf
+s slow
+the illumination
+estimation of
+ill conditioned
+and texture
+transfer function
+lighting distributions
+brdf the
+fresnel term
+of marschner
+lighting for
+parametric brdf
+factorization unknown
+area source
+reflection equation
+inverse brdf
+lambertian brdf
+lighting using
+the theory
+ravi ramamoorthi
+computer graphics
+in local
+high frequency
+the frequency
+new practical
+al 21
+lambertian surface
+filtered version
+lighting to
+recovered under
+the spherical
+of inverse
+well conditioned
+local coordinates
+incident and
+images rendered
+of lighting
+reflectance properties
+direct recovery
+illumination from
+as convolution
+shree k
+processing framework
+k nayar
+reflectance and
+rendered images
+only low
+m l
+to estimate
+estimate brdfs
+cat sculpture
+textured brdfs
+hendrik p
+recovered brdfs
+frequency variation
+diffuse component
+brdfs and
+brdf this
+recovered illumination
+azimuthal angle
+greenberg 20
+complex illumination
+lighting estimation
+of brdf
+general brdfs
+diffuse brdf
+unknown illumination
+recover brdfs
+kd ks
+brdf are
+a lensch
+lighting distribution
+lighting we
+brdfs the
+concave surfaces
+marschner and
+space view
+acm transactions
+a mirror
+local global
+and reflectance
+rendered using
+l m
+under general
+b s
+coefficients of
+is ill
+et al
+angle in
+global scale
+transactions on
+the 9
+our theory
+estimated under
+tim hawkins
+isotropic brdfs
+sato et
+environment maps
+practical representation
+parameters recovered
+specular component
+known geometry
+known unknown
+source is
+with known
+light source
+of reflection
+convolution in
+1 lm
+coefficients l
+rendering algorithms
+harmonics and
+lighting model
+harmonic expansion
+surface position
+reflected light field
+the reflected light
+the lighting and
+lighting and brdf
+of the lighting
+of spherical harmonic
+angular and frequency
+of the brdf
+and frequency space
+the lighting is
+dual angular and
+on graphics tog
+graphics tog v
+transactions on graphics
+low frequency lighting
+spherical harmonic coefficients
+marschner et al
+a gazing sphere
+the reflection vector
+the upper hemisphere
+the recovered lighting
+the brdf is
+n 3 july
+the frequency space
+the brdf filter
+a directional source
+under complex lighting
+brdf and lighting
+the phong brdf
+of spherical harmonics
+l m l
+of the reflected
+a signal processing
+in angular space
+light field from
+in local global
+b s fast
+the lighting from
+angle in local
+frequency space lighting
+from a lambertian
+light field is
+the angular space
+the fresnel term
+lighting from a
+of marschner et
+local global coordinates
+signal processing framework
+et al 21
+acm transactions on
+a lambertian surface
+is well conditioned
+direct recovery of
+in frequency space
+shree k nayar
+is ill conditioned
+model of section
+the lighting the
+the lighting coefficients
+the incident angle
+the brdf parameters
+incident and outgoing
+for the diffuse
+for inverse lighting
+diffuse brdf component
+in local coordinates
+directional source is
+marschner and greenberg
+the diffuse brdf
+the inverse lighting
+b s slow
+the specular component
+only low frequency
+factorization unknown lighting
+single point source
+method of marschner
+and greenberg 20
+the lambertian brdf
+the directional source
+over the upper
+recovery of spherical
+p a lensch
+hendrik p a
+the surface normal
+images rendered using
+sato et al
+filtered version of
+3 july 2002
+tog v 21
+spherical harmonics and
+spherical harmonic expansion
+the spherical harmonic
+of inverse problems
+a delta function
+the transfer function
+of the surface
+the frequency spectrum
+theory predicts that
+with l 2
+machine intelligence v
+transactions on pattern
+on pattern analysis
+section 5 3
+pattern analysis and
+and machine intelligence
+analysis and machine
+the consistency condition
+section 6 3
+first 9 spherical
+recovering the lighting
+a filtered version
+a microfacet brdf
+and unknown lighting
+sato and ikeuchi
+the lighting into
+the brdf to
+the microfacet brdf
+the diffuse component
+inverse rendering as
+clamped cosine function
+l 1 lm
+the dual angular
+1 and unknown
+the light field
+the recovered illumination
+and fast varying
+estimating the brdf
+llm with l
+and malik 39
+estimation of spherical
+the inner procedure
+for brdf estimation
+and lighting parameters
+the recovered brdf
+coefficients llm with
+under unknown lighting
+estimation of parametric
+spherical harmonics with
+the brdf and
+unknown lighting and
+single directional source
+high resolution lighting
+our dual angular
+with general brdfs
+recovery is well
+framework for inverse
+reflection as convolution
+inverse lighting problem
+directional source in
+that the brdf
+the real lighting
+convolution in the
+for the specular
+by the reflection
+estimating the lighting
+inverse lighting methods
+determining the lighting
+in global coordinates
+a mirror brdf
+unknown known unknown
+known unknown known
+and brdf we
+and ikeuchi 31
+frequency space view
+to estimate brdfs
+frequency space algorithm
+estimate the lighting
+textured brdfs under
+of brdf parameters
+the angular domain
+for the phong
+for inverse rendering
+spherical harmonic lighting
+under complex illumination
+field from a
+harmonic lighting coefficients
+ikeuchi 31 and
+lighting coefficients llm
+the mirror brdf
+a frequency space
+yu and malik
+brdf recovery is
+lighting and texture
+in inverse rendering
+frequency space representation
+lighting is a
+well conditioned only
+for brdf recovery
+space lighting model
+microfacet brdf is
+under known lighting
+model for skylight
+both are unknown
+the rendered images
+recovered under known
+section 6 1
+21 n 3
+of the incident
+b 1 d
+the reflected ray

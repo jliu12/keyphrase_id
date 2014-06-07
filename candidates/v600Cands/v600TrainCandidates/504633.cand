@@ -1,0 +1,600 @@
+packetized
+policy
+fluid
+tracking
+packets
+slot
+port
+switches
+policies
+packet
+deadline
+anticipative
+tdma
+queueing
+i1
+scheduling
+switch
+links
+deadlines
+ports
+inukai
+edf2
+arbiter
+matching
+weights
+traffic
+schedule
+eligible
+ss
+link
+messages
+heuristic
+critical
+arrival
+permutation
+lagging
+arrivals
+ij
+provisioning
+tracks
+transmission
+weight
+periodic
+scheduled
+departure
+slots
+vertex
+qos
+service
+horizon
+edf
+satellite
+poli
+period
+scheduler
+icy
+pol
+priority
+departs
+cies
+criterion
+node
+pm
+miss
+nonanticipative
+schedulability
+shaping
+inspection
+bipartite
+jitter
+fcfs
+message
+delay
+augmenting
+summation
+sub
+prioritization
+backlogged
+frame
+theta
+matrix
+concepts
+fabric
+transferred
+sharing
+services
+accomplishes
+urgent
+departing
+flow
+nodes
+prioritized
+utility
+weighted
+stricter
+gps
+rate
+depart
+logged
+bw
+served
+stamp
+schedulable
+elaborated
+redefine
+aggregate
+networks
+earliest
+capacity
+objective
+contradicts
+perfect
+satisfiable
+detected
+sincebffc
+packe
+tized
+biter
+sincex
+quate
+idealistic
+hencex
+philp
+jianyu
+junzhou
+existence
+serviced
+feasible
+disciplines
+simulation
+output
+detecting
+neighbor
+conjecture
+ade
+cioq
+basically
+admissible
+regarding
+vertices
+resembles
+integrated
+circum
+hajek
+traffics
+units
+sessions
+belonging
+inequality
+tolerate
+arbiters
+intending
+eligibility
+edd
+track
+exceed
+notions
+switched
+sider
+iv
+sent
+xiaojun
+tracts
+lessen
+unsuccessfully
+advance
+latency
+latest
+justifiable
+excluded
+slotted
+multirate
+session
+8g
+giles
+late
+stances
+theta2
+arbitrate
+column
+flows
+lcm
+network
+completes
+arrives
+moderate
+broad
+periments
+periods
+lexicographical
+stamps
+regardless
+beginning
+sorted
+circumstances
+rameters
+transmitted
+calculus
+percent
+criticality
+fluid policy
+packetized policy
+tracking policy
+the fluid
+tracking policies
+a packetized
+slot k
+sub permutation
+time slot
+critical links
+the packetized
+output port
+non anticipative
+input queueing
+2 switches
+of packets
+the tracking
+input port
+the switch
+i i1
+ij k
+tdma ss
+fluid policies
+port j
+policy that
+a tracking
+multi periodic
+theta 2
+port i
+of tracking
+heuristic algorithm
+n switches
+critical nodes
+eligible links
+packetized policies
+queueing switches
+2 theta
+future arrivals
+policy is
+single link
+every packet
+i1 k
+permutation matrix
+the arbiter
+the scheduling
+the inukai
+packetized tracking
+satellite switches
+critical node
+queueing switch
+anticipative tracking
+output queueing
+inspection horizon
+the deadlines
+a fluid
+matrix j
+every input
+policies is
+a packet
+packets with
+of slot
+that tracks
+switches is
+periodic messages
+policy we
+the heuristic
+qos provisioning
+link case
+packets that
+heuristic tracking
+critical ports
+complete transmission
+inukai method
+given fluid
+matching graph
+tdma satellite
+25 0
+maximum matching
+at every
+n theta
+under the
+0 25
+weights of
+weighted matching
+in tdma
+of packetized
+the eligible
+priority criterion
+the matching
+k 1
+to schedule
+the critical
+scheduling policy
+theta n
+j k
+and output
+port can
+transmission between
+during slot
+policies are
+every time
+policy in
+scheduling algorithm
+j i1
+the packets
+the departure
+optimal matching
+sharing approach
+packets is
+tracks the
+switches a
+time slots
+services networks
+tracking poli
+the edf2
+perfect tracking
+links set
+ss with
+departure order
+summation criterion
+critical port
+u neighbor
+packets are
+i ij
+augmenting path
+m 2
+scheduling of
+non critical
+generalized processor
+these packets
+a sub
+processor sharing
+fluid and
+frame length
+every flow
+completes transmission
+per flow
+say column
+packet departs
+to every
+output ports
+permutation matrices
+integrated services
+input ports
+constant rate
+deadlines are
+with deadline
+schedule every
+single 1
+policy p
+the inspection
+poli cies
+in integrated
+message m
+a deadline
+policy should
+served fcfs
+links associated
+the scheduler
+objective is
+matching algorithms
+switch is
+to flow
+the packet
+the special
+of scheduling
+heuristic algorithms
+1 packet
+policy always
+output input
+pol icy
+j under
+same input
+problem i
+arrival the
+positive weights
+the edf
+weight than
+packet per
+non integer
+node is
+special case
+input output
+rate controlled
+between input
+matching algorithm
+the nodes
+period of
+good but
+basically we
+policy the
+policy and
+not perfect
+flow control
+messages in
+simulation results
+matrix i
+time k
+policy can
+l ij
+the fluid policy
+a packetized policy
+under the fluid
+sub permutation matrix
+the packetized policy
+the tracking policy
+theta 2 switches
+packetized policy that
+2 theta 2
+a sub permutation
+output port j
+time slot k
+the heuristic algorithm
+every time slot
+and output port
+j k 1
+number of packets
+25 0 25
+a fluid policy
+input port i
+at every time
+case of 2
+a tracking policy
+a non anticipative
+theta n switches
+existence of tracking
+input queueing switches
+non anticipative tracking
+under the packetized
+tracking policy is
+multi periodic messages
+of the switch
+0 25 0
+single link case
+matrix j k
+n theta n
+the single link
+of packets that
+permutation matrix j
+every input port
+the inukai method
+sub permutation matrices
+the critical nodes
+the critical links
+of tracking policies
+packetized policy is
+tracking policies is
+optimal matching graph
+fluid policy that
+tdma satellite switches
+given fluid policy
+port i to
+i i1 k
+fluid policy and
+tracking policies are
+for the special
+end of slot
+all non critical
+of 2 theta
+the optimal matching
+heuristic algorithm is
+control in integrated
+approach to flow
+in integrated services
+sharing approach to
+of the tracking
+on the priority
+processor sharing approach
+generalized processor sharing
+integrated services networks
+graph based on
+to flow control
+a generalized processor
+tracking and critical
+the eligible links
+single 1 in
+departure order of
+slot k is
+to every flow
+are served fcfs
+output queueing switch
+with multi periodic
+to output port
+tdma ss with
+the sub permutation
+the inspection horizon
+with good but
+packetized policy p
+matching graph based
+of slot k
+of tracking policy
+u neighbor of
+w ij k
+policy that tracks
+l ij k
+input output port
+that tracks the
+is non anticipative
+the departure order
+ss with multi
+tracking poli cies
+packetized tracking policy
+ij k is
+but not perfect
+a given fluid
+of packetized policies
+say column 1
+from input port
+given to every
+the priority criterion
+tracking policy for
+during slot k
+anticipative tracking policy
+a u neighbor
+in tdma ss
+fluid policy we
+packets that should
+heuristic tracking policies
+packetized policies is
+output port can
+input and output
+flow control in
+is to schedule
+the special case
+special case of
+of the packets
+weights of the
+all the deadlines
+have a sub
+of packets with
+weight than the
+packets is not
+periodic messages in
+port i and
+a single 1
+should be sent
+the input ports
+to schedule every
+1 packet per
+good but not
+i and output
+of future arrivals
+based on the
+by the end
+j under the
+the output ports
+to the arbiter
+the time slot
+links associated with
+of these packets
+of a packet
+in the next
+of packets are
+that at every
+the general case
+general case of
+objective is to
+the n theta
+policy can be
+of the critical
+the earliest deadline
+the objective is
+of the nodes
+the scheduling policy
+to see this
+in the matching
+of the fluid
+the matrix i
+for the general
+in the path
+still an open
+the end of
+from port i
+schedule a packet
+bipartite graphs in
+j are served
+from every input
+policies are suggested
+search results a
+packets with deadlines
+that tracks a
+and the eligible
+the departing times
+policy is provided
+matrix to see
+packets inside the
+and the packetized
+an input queueing
+every input output
+priority criterion let
+every flow under
+transmission during slot
+gps and rate
+permutation matrices such
+11 12 6
+2 switches for
+packetized policy should
+future arrivals and
+possible that all
+a tdma ss

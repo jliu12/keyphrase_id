@@ -1,0 +1,600 @@
+sweep
+rendering
+scanline
+ray
+casting
+aedge
+slice
+grids
+cells
+plane
+lsrc
+vertices
+mesh
+giertsen
+irregular
+blunt
+fin
+status
+volume
+dataset
+yagel
+cell
+rays
+facets
+visualization
+datasets
+vertex
+event
+grid
+sorting
+pixel
+oxygen
+segment
+tetrahedra
+3dheap
+curvilinear
+liquid
+unstructured
+queue
+leftward
+swept
+segments
+slices
+convex
+coherence
+boundary
+wing
+chamber
+edges
+meshes
+3d
+incident
+combustion
+viewing
+axis
+hits
+insertions
+sorted
+300
+tetrahedral
+sweeping
+graphics
+scanlines
+disconnected
+kaufman
+513
+2d
+pixels
+subdivision
+active
+22mb
+2dheap
+silva
+tetrahedron
+image
+intersections
+voxels
+post
+polyhedron
+intersected
+pointers
+rendered
+lazy
+visibility
+theta
+480
+375
+coordinate
+deletions
+coordinates
+depth
+facet
+lighting
+critical
+connectivity
+395
+nonconvex
+8mb
+ordering
+resolution
+milliseconds
+187
+firstcell
+21mb
+garrity
+hertel
+priority
+seconds
+polyhedra
+shooting
+complexes
+shading
+polygons
+preprocessing
+edge
+projection
+events
+polyhedral
+crossed
+mehlhorn
+acl
+presorted
+sweeps
+sort
+seed
+screen
+900
+topmost
+polygonal
+planes
+endpoint
+675
+bottommost
+topological
+slicing
+render
+ertl
+degeneracies
+farias
+cludio
+williams
+intersects
+thereby
+handling
+mitchell
+storage
+hardware
+arie
+bucketing
+005
+field
+faces
+worst
+600
+scalar
+endpoints
+19s
+57mb
+37s
+7mb
+64s
+2dsweep
+22s
+tetrahedralized
+uselton
+lichan
+ram
+spent
+salt
+encounters
+linked
+lake
+230
+maintaining
+scratch
+handles
+consumption
+ricardo
+36
+format
+stabbing
+splatting
+9mb
+503
+plot3d
+681
+wedges
+regular
+intersecting
+dot
+buffer
+spatial
+doubly
+utah
+volumetric
+bottom
+geometry
+47
+ma
+reading
+the sweep
+sweep plane
+ray casting
+sweep line
+irregular grids
+line status
+the mesh
+3 space
+3d sweep
+a sweep
+volume rendering
+critical vertices
+blunt fin
+active edge
+the aedge
+event queue
+the rendering
+the slice
+sweep status
+2d sweep
+active edges
+the cells
+a scanline
+aedge list
+status structure
+the event
+o n
+mesh s
+sweep ray
+liquid oxygen
+oxygen post
+300 theta
+depth ordering
+rendering times
+regular grid
+rendering of
+a ray
+the viewing
+rendering time
+event points
+plane hits
+lazy sweep
+leftward segments
+event handling
+the blunt
+data structure
+z axis
+of cells
+boundary vertices
+sweep of
+vertices of
+the ray
+for rendering
+sweep algorithm
+the z
+sweep in
+513 375
+2 rays
+sweep we
+yagel et
+rendering irregular
+theta 300
+cells of
+each ray
+direct volume
+along each
+casting algorithm
+visibility ordering
+handling time
+the sorted
+in 36
+curvilinear grids
+image size
+post 513
+each scanline
+status data
+giertsen s
+187 395
+viewing plane
+subdivision s
+combustion chamber
+the datasets
+of s
+the 3d
+incident on
+the image
+time o
+use set
+of irregular
+cells are
+y coordinates
+priority queue
+log n
+worst case
+of ray
+unstructured grids
+tetrahedral cells
+the vertices
+topological information
+the 2d
+the boundary
+y coordinate
+the lazy
+the dataset
+vertices and
+graphics hardware
+our method
+data structures
+of curvilinear
+projection methods
+on visualization
+per pixel
+vertex of
+segments incident
+the scanline
+bottom segment
+other ray
+current scanline
+disconnected grids
+s 300
+aedge and
+irregular grid
+event point
+lsrc algorithm
+sweep the
+giertsen 15
+current sweep
+fin 187
+per scanline
+viewing coordinate
+segment objects
+scanline and
+each slice
+n a
+list of
+a regular
+our implementation
+plane with
+of active
+y axis
+segment data
+milliseconds per
+cell complexes
+the rays
+slice we
+sorting them
+the grid
+along the
+intersections of
+sorted order
+volume visualization
+the active
+of vertices
+connected components
+and sorting
+the subdivision
+rays that
+ray shooting
+grids is
+delta wing
+of voxels
+cells in
+a mesh
+the y
+cost per
+point p
+boundary of
+intersected by
+a polyhedron
+rendering for
+connectivity information
+crossed by
+grid of
+to sort
+z i
+sorted list
+n log
+lower bound
+t silva
+vertices that
+in aedge
+and mehlhorn
+he reports
+topmost vertex
+hertel and
+full pixels
+z plane
+lsrc is
+wing combustion
+slice to
+integration time
+mehlhorn 16
+dimensional ray
+casting problem
+swept over
+we sweep
+edge list
+theta 200
+convex cells
+this sweep
+the sweep plane
+the sweep line
+sweep line status
+of the mesh
+the event queue
+the 3d sweep
+the aedge list
+sweep ray casting
+by the sweep
+liquid oxygen post
+of the cells
+line status structure
+lazy sweep ray
+of active edges
+the 2d sweep
+the blunt fin
+the sweep status
+a sweep plane
+when the sweep
+along each ray
+sweep plane hits
+the z axis
+of the sweep
+in 3 space
+rendering irregular grids
+300 theta 300
+yagel et al
+n 2 rays
+the lazy sweep
+event handling time
+an active edge
+vertex of c
+the event handling
+a regular grid
+of irregular grids
+ray casting algorithm
+direct volume rendering
+the critical vertices
+sweep of 3
+of 3 space
+post 513 375
+to the sweep
+status data structure
+time o n
+of ray casting
+sorted order of
+volume rendering of
+cells of the
+vertices of s
+along the z
+as the sweep
+of the rendering
+to the viewing
+in the slice
+the ray casting
+with the sweep
+sweep status data
+regular grid of
+sweep plane the
+complexity of ray
+the current sweep
+segments incident on
+grid of voxels
+the sweep of
+stop the sweep
+fin 187 395
+of curvilinear grids
+the mesh s
+number of connected
+blunt fin 187
+the viewing plane
+the viewing coordinate
+s 300 theta
+algorithm for rendering
+for rendering irregular
+other ray casting
+the cost per
+vertices of the
+the sorted order
+parallel to the
+n log n
+of the slice
+the boundary of
+in the mesh
+of the vertices
+s n a
+a cross section
+coherence in the
+boundary of the
+on the boundary
+list of the
+of connected components
+of unstructured grids
+pointers to its
+rendering of unstructured
+conference on visualization
+the worst case
+sorted list of
+of our method
+y coordinates of
+ray casting for
+irregular grids is
+the liquid oxygen
+a mesh s
+exploit spatial coherence
+a depth ordering
+blunt fin liquid
+the current slice
+are for results
+the subdivision s
+a sweep line
+the current scanline
+2d sweep we
+event point p
+their y coordinates
+active edge list
+and then maintaining
+the rendering times
+and mehlhorn 16
+oxygen post delta
+1 005 675
+0 0 z
+cells of s
+of critical vertices
+sweep plane encounters
+through the mesh
+transformation and sorting
+lsrc post 513
+the image resolution
+use set of
+critical vertices this
+within each slice
+the segment data
+leftward segments incident
+no leftward segments
+the topmost vertex
+fin liquid oxygen
+sweeping 3 space
+3d sweep in
+delta wing combustion
+the rendering time
+viewing coordinate system
+ray casting problem
+volume rendering for
+x z plane
+the y coordinates
+the use set
+two dimensional ray
+along a ray
+of the scanline
+hertel and mehlhorn
+o n vertices
+removed from aedge
+wing combustion chamber
+a single common
+post delta wing
+is swept across
+rendering of irregular
+critical vertices and
+incident on p
+dimensional ray casting
+in the 3d
+of the dataset
+our current implementation
+of the datasets
+the cells are
+insertions and deletions
+of the active
+the mesh is
+the o n
+the active edges
+number of facets
+row gives the
+the active edge
+not empty do
+the input mesh
+the x z
+the sweep algorithm
+for the sweep
+the image size
+of the n
+the conference on
+of the conference
+in the worst
+we stop the
+list of active
+of the grid
+have not yet
+a list of
+order of the
+the y axis
+the mesh in
+cludio t silva
+in the sweep
+the intersections of
+our method is
+omega gamma n
+take advantage of
+in time o
+on the complexity

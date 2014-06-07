@@ -1,0 +1,600 @@
+00
+000
+register
+devs
+trap
+instruction
+message
+npc
+alfa
+msg
+dest
+cpu
+001
+regglob
+cmpa
+_res
+students
+registers
+alu
+05
+sendoutput
+window
+bus
+cmp
+cwp
+const
+01
+incdec
+cmpb
+psr
+activated
+pc
+circuit
+bits
+internalmessage
+unimp
+dtack
+device
+port
+byte
+interrupt
+r1
+stb
+reset
+serviced
+ports
+coupled
+store
+tick
+and1
+and2
+masmin
+masmax
+inc
+instructions
+cu
+signal
+organization
+simulator
+traps
+cd
+bit
+transition
+eth
+reg
+processor
+address
+mask
+courses
+decremented
+comparators
+issued
+int
+inputs
+inb
+passivate
+outputfunction
+pc_latch
+bgrant
+hold_in
+oldb
+externalmessage
+_old
+internalfunction
+res0
+0x12345678
+portname
+externalfunction
+olda
+priority
+architecture
+charge
+clock
+xor
+gates
+addr
+dec
+mem
+outputs
+strobe
+modifiability
+ina
+finished
+selector
+sent
+cycle
+sparc
+assembly
+turned
+top
+multiplexers
+routine
+stores
+circuits
+delay
+event
+r2
+incremented
+atomic
+transmitted
+lw
+linker
+cen
+operands
+external
+assembler
+uc
+gnu
+increment
+enabled
+scheduled
+microprocessor
+chip
+attacked
+teaching
+simulation
+toolkit
+internal
+priv_inst
+bsel
+a30
+out30
+274543375
+iack
+out31
+assemblers
+data_acc_err
+mastering
+bgrantin
+op0
+fcod
+0x01
+csel1
+talisman
+clck
+simulink
+i_d
+div_zero
+portnum
+influencees
+rd_wr
+irqs
+addr_not_align
+irq
+asel
+maisie
+data_acc_excep
+opb0
+inst_acc_err
+xnor
+tbr
+pc_inc
+opa30
+useing
+opa31
+pil
+simplescalar
+res3
+shifter
+holdin
+win_over
+13908050
+illeg_inst
+0xffffffff
+traplogic
+wainer
+0x55555555
+cclogic
+data_st_err
+passivates
+breset
+inst_acc_excep
+out0
+opb31
+and_n_1
+csel2
+res4
+a31
+opb30
+win_under
+00 00
+000 message
+00 000
+cpu 05
+top 01
+message y
+message d
+message 00
+d 00
+y 00
+00 20
+20 001
+001 message
+the register
+to cpu
+00 10
+coupled model
+alfa 1
+computer organization
+01 to
+1 000
+the instruction
+i 00
+to top
+the alu
+the address
+message x
+x 00
+digital logic
+root 00
+01 top
+the npc
+control unit
+message i
+05 to
+this model
+the students
+the memory
+00 to
+inc dec
+r1 dest
+sendoutput msg
+msg time
+return this
+the trap
+10 000
+transition functions
+in address
+store the
+input output
+reg 1
+memory image
+turned on
+the model
+be serviced
+the circuit
+of reg
+dec model
+cmpb link
+mem 02
+const internalmessage
+05 cpu
+clock tick
+the bus
+32 bit
+internal transition
+can see
+in charge
+for int
+the device
+internal event
+register window
+instruction register
+output ports
+experimental framework
+the pc
+is activated
+transition function
+charge of
+related with
+model is
+following figure
+logic level
+000 to
+instruction set
+trap type
+cu 43
+register 1
+high byte
+05 root
+using cd
+byte of
+of alfa
+register 4
+stb r1
+was enabled
+chip selector
+model 50
+msg port
+the psr
+of devs
+a coupled
+sent through
+stores the
+stored in
+assembly language
+address of
+these models
+instruction cycle
+the inc
+boolean gates
+an address
+models were
+the digital
+is sent
+log file
+hardware description
+the architecture
+base address
+32 bits
+last operation
+students can
+model was
+behavior of
+is turned
+register to
+issued the
+the models
+the processor
+register stores
+at 00
+base register
+modifiability of
+priority trap
+trap base
+the bgrant
+tick in
+link out
+model uc
+turning on
+model incdec
+the devs
+enabled store
+number received
+internalmessage msg
+c enable
+pc_latch 11
+eth line
+atomic model
+global registers
+externalmessage msg
+address strobe
+internalfunction const
+external event
+simulated computer
+outputfunction const
+clock 45
+y register
+initial image
+image addr
+const externalmessage
+32 i
+trap to
+organization courses
+i eth
+cwp is
+to pc_latch
+sparc processor
+addr memory
+npc to
+a devs
+event arrives
+register number
+externalfunction const
+pc inc
+basic behavior
+model regglob
+received the
+the cpu
+the sparc
+the execution
+the behavior
+the chip
+int i
+result obtained
+and architecture
+each instruction
+incremented or
+or decremented
+was issued
+model definition
+simulated time
+execution flow
+the cwp
+i self
+register has
+according with
+register 2
+through the
+one bit
+00 00 00
+00 00 000
+00 000 message
+d 00 00
+y 00 00
+message d 00
+message y 00
+message 00 00
+000 message d
+000 message 00
+to cpu 05
+00 00 20
+00 20 001
+000 message y
+20 001 message
+top 01 to
+to top 01
+00 10 000
+00 00 10
+10 000 message
+message x 00
+x 00 00
+message i 00
+i 00 00
+000 message i
+cpu 05 to
+root 00 to
+top 01 top
+00 to top
+01 top 01
+sendoutput msg time
+store the high
+01 to cpu
+the control unit
+001 message y
+1 in address
+001 message x
+reg 1 in
+of reg 1
+the instruction set
+we can see
+as we can
+return this model
+a coupled model
+000 message x
+cpu 05 cpu
+digital logic level
+inc dec model
+1 000 to
+05 cpu 05
+the digital logic
+can see the
+in the register
+in charge of
+this model is
+address of the
+the following figure
+is in charge
+the register 4
+of alfa 1
+internal transition function
+is turned on
+the internal transition
+stb r1 dest
+the high byte
+through the output
+the register 1
+for int i
+the inc dec
+store the register
+the instruction register
+byte of reg
+cpu 05 root
+an experimental framework
+high byte of
+05 root 00
+the students can
+int i 0
+of the trap
+input output ports
+sent through the
+to be serviced
+the last operation
+in the instruction
+the result obtained
+when the result
+related with the
+stored in the
+the input output
+behavior of the
+the i eth
+the y register
+a clock tick
+found in 49
+const externalmessage msg
+addr memory image
+enabled store the
+modifiability of alfa
+register has changed
+following figure shows
+the register has
+the register window
+using digital logic
+input was enabled
+basic behavior of
+to pc_latch 11
+register number received
+image addr memory
+must be serviced
+the register number
+through the lines
+eth line of
+external event arrives
+the sparc processor
+the register 2
+trap to be
+externalfunction const externalmessage
+the instruction cycle
+of the sparc
+computer organization courses
+computer organization and
+an external event
+at 00 00
+the basic behavior
+const internalmessage msg
+the execution flow
+outputfunction const internalmessage
+the npc to
+i eth line
+register stores the
+the chip selector
+was enabled store
+000 to cpu
+organization of the
+the behavior of
+is sent through
+from the memory
+last operation is
+incremented or decremented
+assembly language level
+the assembly language
+the model s
+the address of
+is stored in
+in the address
+of the address
+stored in memory
+the output function
+as explained earlier
+this model was
+points to the
+a 32 bit
+behavior of each
+is sent to
+it returns the
+the memory is
+sent to the
+model is in
+i 0 i
+model is used
+to pc_inc 13
+the circuit delay
+each model was
+architectural simulations on
+model definition transition
+and modifiability of
+the alu res
+the model receives
+clck 1 000
+in simulating a
+see if cmp
+a declarative multiprocessor
+12 to cpu
+them using digital
+definition transition functions
+npc to cpu
+for every model
+oriented simulation with
+value is sent
+register 4 is
+the teaching of
+object oriented simulation
+the address 32
+the bus then
+issued the memory
+coupled model representing
+when the address
+to mem 02
+of the coupled
+computer systems design
+transmitted through the
+transmit it through
+times set 1
+load the register
+assembler and linker
+001 message d
+for the teaching
+32 i this
+enable line is
+through the ports

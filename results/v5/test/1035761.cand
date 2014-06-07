@@ -1,0 +1,600 @@
+mut
+protocols
+protocol
+synch
+synchronizing
+inhibiting
+multifunction
+composite
+initiate
+action
+ff
+inhibit
+receptions
+leader
+token
+en
+fi
+initiation
+recd
+actions
+composition
+ext
+traverse
+invariant
+infer
+initiator
+unspecified
+connect
+superimposition
+ch
+liveness
+enter
+invariants
+priority
+exclusion
+inhibited
+site
+para
+initiated
+message
+ef
+concurrently
+channel
+election
+inhibits
+mutual
+establishment
+initiators
+multiphase
+constraint
+init
+connection
+sdata
+item
+disconnection
+matching
+receiving
+credit
+interleaved
+sent
+gamma
+inferred
+sites
+req
+sender
+sends
+rec
+enable
+ready
+traversal
+constraints
+structuring
+subproblems
+avail
+channels
+bool
+receivers
+compositional
+deadlock
+receiver
+processes
+falserequest
+fffg
+raverse
+fenter
+rdata
+rtoken
+conflict
+lemma
+spend
+guards
+restrictions
+initialization
+inference
+invalidate
+enabled
+ffig
+subfunctions
+terminates
+messages
+decomposed
+specifying
+safety
+designing
+pn
+var
+fff
+combine
+shared
+active
+superimposed
+guard
+false
+inhibition
+b2
+formalisms
+executing
+terminating
+informally
+incremented
+phased
+send
+corollary
+rules
+combining
+subtask
+synchronized
+component
+head
+statement
+s3
+sequential
+reachable
+fusing
+belongs
+ri
+transfer
+dominates
+imposing
+event
+incrementing
+elect
+communicating
+executed
+ab
+wherein
+formalism
+arg
+request
+execution
+flow
+reflects
+belonging
+critical
+win
+snapshots
+formulas
+sending
+l1
+mess
+synchronzing
+recr
+truertoken
+trueenter
+folowing
+fexit
+falsestoken
+reinitiate
+trueelect
+contentsm
+lict
+invaraint
+interactions
+involve
+specify
+discipline
+modular
+propositions
+check
+contents
+permission
+nized
+subfunction
+frequest
+intial
+interacting
+imposed
+snapshot
+grant
+items
+id
+projection
+iterative
+s1
+loop
+structured
+circulated
+spective
+disciplined
+delivery
+component protocols
+composite protocol
+mut 1
+invariant of
+synch p
+an invariant
+p q
+p i
+en a
+and q
+the composite
+initiate p
+ff fi
+synchronizing constraint
+p and
+q i
+from unspecified
+multifunction protocols
+connect 1
+unspecified receptions
+f low
+has priority
+the component
+initiation of
+the synchronizing
+of p
+fi in
+check 1
+ch i
+inhibiting constraint
+synchronizing constraints
+sent 1
+enter 1
+a protocol
+priority over
+process mutual
+traverse 1
+inhibit p
+i j
+hold 1
+in p
+the constraints
+lemma 4
+then ff
+ef p
+state g
+liveness properties
+the inhibiting
+three process
+check i
+inhibiting constraints
+enable p
+are matching
+of mut
+and mut
+if p
+protocols we
+free from
+execution of
+to infer
+if ff
+mutual exclusion
+the initiation
+q then
+over q
+1 3
+the protocol
+data item
+site i
+composition using
+to synch
+para list
+traverse 2
+leader 1
+active p
+connection establishment
+of multifunction
+2 ef
+terminates q
+in mut
+ext i
+protocol can
+1 2
+q or
+action a
+of protocols
+of r
+protocols can
+exclusion protocol
+protocols which
+sequential composition
+action in
+inference rules
+of constraints
+by combining
+in r
+action of
+loop statement
+an interleaved
+parallel composition
+fi via
+p terminates
+var p
+mut i
+used used
+functions concurrently
+q conflict
+then initiate
+ext 1
+2 synch
+rec l
+protocol m
+composite protocols
+en b
+bool l
+initialization action
+connect 2
+conflict then
+true in
+the token
+critical section
+the channel
+or p
+rules to
+is true
+and connect
+election protocol
+is inhibited
+is free
+flow control
+a l
+a message
+and inhibiting
+interleaved execution
+to true
+q and
+p then
+hold i
+in i
+protocol is
+an action
+r i
+becomes true
+leader election
+protocol r
+can infer
+corollary 4
+composition of
+p has
+and liveness
+initial state
+this protocol
+p is
+protocols a
+true after
+to inhibit
+performs the
+the initialization
+by specifying
+from p
+using synchronizing
+multifunction protocol
+computation associated
+gamma hold
+a synchronizing
+m para
+of traverse
+recd 1
+disconnection protocol
+component functions
+infer safety
+protocols several
+n process
+a multifunction
+combining connect
+protocol mut
+constructing multiphase
+matching action
+i inhibits
+basic computation
+true active
+and synch
+combining mut
+multiple functions
+synchronizing and
+ff unless
+receptions then
+invalidate ff
+if ext
+token check
+token gamma
+data f
+active q
+capture id
+protocol obtained
+component protocol
+unless fi
+true if
+at site
+properties of
+an invariant of
+the composite protocol
+the component protocols
+is an invariant
+synch p q
+mut 1 2
+p and q
+invariant of r
+ch i j
+free from unspecified
+from unspecified receptions
+has priority over
+of the component
+of p i
+p i and
+of the composite
+ff fi in
+and q i
+i and q
+1 2 and
+process mutual exclusion
+inhibit p q
+p has priority
+connect 1 2
+priority over q
+q or p
+the synchronizing constraint
+fi in r
+invariant of p
+check i j
+the initiation of
+is free from
+hold 1 2
+liveness properties of
+multifunction protocols which
+2 and connect
+check 1 3
+a composite protocol
+2 ef p
+invariant of mut
+of mut 1
+and mut 1
+to synch p
+rules to infer
+of multifunction protocols
+hold 1 3
+properties of the
+protocol can be
+mutual exclusion protocol
+execution of p
+r is free
+the critical section
+if p and
+i is an
+set of constraints
+of p and
+protocols can be
+the execution of
+leader election protocol
+p q and
+obtained by combining
+on the initiation
+1 2 gamma
+p q then
+b 2 synch
+in mut 1
+enable p i
+over q or
+and q conflict
+the inhibiting constraint
+connect 2 1
+p terminates q
+2 synch p
+1 3 g
+initiate p i
+q conflict then
+fi in p
+fi via a
+of component protocols
+ff fi via
+then initiate p
+composite protocol r
+check 1 2
+the synchronizing constraints
+via a in
+then ff fi
+initiate p is
+ff is true
+enter 1 2
+hold i j
+en a l
+the initialization action
+2 and mut
+enter 1 3
+from those of
+p i is
+the initial state
+p is an
+we can infer
+an interleaved execution
+or p and
+interleaved execution of
+the loop statement
+initiation of the
+true in g
+in the composite
+1 2 3
+at the head
+p q is
+is true in
+safety and liveness
+lemma lemma 4
+and liveness properties
+parallel composition of
+is local to
+synchronizing and inhibiting
+mut 1 3
+initialization action of
+data f low
+holds the token
+of type m
+next data item
+id 1 sent
+and inhibiting constraints
+the disconnection protocol
+set of component
+mut i j
+in var p
+infer safety and
+for constructing multiphase
+two process mutual
+inhibiting constraint is
+and connect 2
+1 sent 1
+the computation associated
+component protocols can
+computation associated with
+of ch i
+two component protocols
+and active p
+a synchronizing constraint
+unspecified receptions then
+of traverse 1
+variables in var
+in r this
+at site i
+state g l
+protocol obtained by
+a in p
+by combining connect
+protocol by combining
+combining mut 1
+token gamma hold
+a en a
+terminates q or
+i holds the
+sent 1 2
+m para list
+constraint is useful
+a multifunction protocol
+the three process
+if p terminates
+and synch p
+in 1 gamma
+p then ff
+loop statement of
+or p has
+initiation of p
+by specifying that
+fi 2 ef
+combining connect 1
+then in 1
+en a gamma
+to infer safety
+ff unless fi
+p i inhibits
+belongs to synch
+sent 1 3
+capture id 1
+true if ext
+protocols which perform
+only one of
+a protocol is
+from p i
+one of them
+1 2 true
+to true after
+refer to variables
+composition of protocols
+q is non
+in state g
+can be structured
+message of type
+performs the function
+and ff fi
+a data item
+the head of
+a l is
+a compositional approach
+can infer that

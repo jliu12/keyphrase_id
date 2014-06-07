@@ -1,0 +1,600 @@
+spatial
+rectangles
+queries
+query
+eq
+join
+da
+workspace
+analytical
+yufei
+papadias
+kf93
+sj
+density
+na
+dimitris
+buffer
+tree
+formulae
+intsect
+n5
+accesses
+indexes
+pstw93
+lbeach
+tao
+trees
+window
+disk
+height
+skewed
+fsr87
+tss98
+buffering
+joins
+rectangle
+rel
+uniformity
+leaf
+mbr
+indexing
+estimations
+entries
+er1
+oid
+multidimensional
+node
+bur91
+readpage
+x_y
+3_1
+3_3
+na_total
+3_2
+1_3
+1_2
+ll98
+mgcounty
+2_1
+2_2
+2_3
+hits
+countries
+uniform
+lb
+selection
+gut84
+spatio
+overlap
+synthetic
+gis
+tods
+intersected
+mg
+r1
+database
+e1
+ptr
+bkss90
+fk94
+sdbms
+gun93
+1_1
+estimation
+fanout
+faloutsos
+representative
+surface
+tiger
+formula
+parent
+proposals
+populated
+databases
+distributions
+cardinality
+projections
+lru
+samet
+packed
+selectivity
+geographical
+overlaps
+subsection
+directional
+sams
+rect
+skyline
+fklog
+srf87
+shuirupdqfh
+ohyho
+rl85
+bugra
+bkss94
+uhodwlyh
+qrgh
+motorways
+ts96
+distanced
+gunther
+jimeng
+brinkhoff
+hjr97
+r_node
+pagel
+gedik
+pams
+gg95
+fractal
+geometry
+eqs
+perimeter
+h1
+child
+capacity
+experimental
+index
+lsd
+traina
+pt97
+er2
+bang
+ps96
+o5
+guttman
+80k
+cad
+average
+dimensional
+management
+e2
+multimedia
+ss
+dbms
+seeger
+tpr
+roads
+bureau
+jun
+dotted
+hanan
+encloses
+enclosure
+centers
+plotted
+d2
+prediction
+census
+20k
+fd
+objects
+hardly
+_
+b1
+entry
+dimension
+r2
+shu
+histograms
+2003
+north
+temporal
+bernhard
+plays
+costs
+kamel
+sigmod
+object
+a1
+estimate
+yannis
+nodes
+extent
+affects
+extracted
+greg
+28th
+grouping
+gain
+l r
+r tree
+tree r
+r l
+r trees
+join queries
+level l
+r r
+r 1
+data sets
+at level
+r d
+the r
+path buffer
+selection queries
+query window
+node rectangles
+range queries
+data set
+node accesses
+uniform like
+dimitris papadias
+yufei tao
+cost models
+for selection
+of node
+non uniform
+data properties
+density d
+d l
+data rectangles
+disk accesses
+real data
+of spatial
+spatial data
+window q
+for join
+r 2
+join query
+using r
+algorithm sj
+spatial queries
+uniform data
+average size
+the density
+the workspace
+spatial joins
+for spatial
+the analytical
+tree indexes
+density surface
+r da
+1 r
+tree index
+and join
+r s
+l l
+the average
+r h
+s s
+da r
+s intsect
+representative points
+analytical formulae
+entries of
+queries on
+formulae for
+na and
+relative error
+the query
+r i
+of r
+rectangles at
+tao dimitris
+an r
+access methods
+average number
+the cost
+spatial query
+uniformity assumption
+eq 14
+analytical estimations
+da l
+non point
+node disk
+rel 1
+with average
+r n
+node capacity
+tree performance
+two r
+r total
+that overlap
+access cost
+skewed data
+experimental results
+1 l
+data distributions
+the tree
+density of
+like data
+and da
+spatial objects
+joins using
+properties only
+a query
+dimensional data
+k l
+two dimensional
+analytical model
+point or
+of data
+2_1 2_2
+3_1 3_2
+2_2 2_3
+kf93 pstw93
+3_3 representative
+x_y node
+papadias yufei
+points x_y
+query between
+proposed analytical
+na_total r
+corresponding r
+1_2 1_3
+actual density
+average extent
+false hits
+1_3 2_1
+2_3 3_1
+density l
+3_2 3_3
+per axis
+buffering scheme
+by eq
+tree based
+query processing
+d of
+of disk
+cost of
+that plays
+point queries
+d r
+analytical results
+for r
+the data
+cost model
+spatio temporal
+synthetic and
+tree node
+cost estimation
+systems tods
+query optimization
+tods v
+of nodes
+the proposed
+buffering mechanism
+cost formulae
+average density
+n rectangles
+database systems
+eq 12
+of entries
+spatial databases
+cost analysis
+a leaf
+a join
+on database
+queries using
+accesses for
+indexing methods
+around 10
+spatial selection
+selection query
+and density
+refinement step
+on dimension
+queries proceedings
+relation rel
+dimension k
+in spatial
+a spatial
+eq 17
+wide set
+overlaps with
+a skewed
+lru buffer
+spatial join
+illustrated in
+size s
+the height
+tree structure
+models for
+the experimental
+height of
+cardinality n
+rectangles with
+random data
+leaf level
+leaf node
+r l r
+l r l
+the r tree
+d l r
+at level l
+l r r
+l r s
+r tree r
+tree r 1
+l r d
+r r r
+tree r i
+of node accesses
+for selection queries
+using r trees
+a path buffer
+query window q
+for join queries
+non uniform data
+l l r
+r d l
+of the r
+an r tree
+r r l
+r d of
+r 1 and
+cost models for
+k l r
+the data set
+node rectangles at
+r r da
+join queries on
+of data rectangles
+and join queries
+of the workspace
+of the data
+number of node
+1 l r
+tao dimitris papadias
+r i at
+r tree index
+yufei tao dimitris
+of spatial joins
+r tree indexes
+dimensional data sets
+with average size
+a query window
+a join query
+r s s
+of r tree
+the average number
+r l l
+selection and join
+r da l
+uniform like data
+rectangles at level
+da l r
+of node rectangles
+1 at level
+tree r 2
+the tree r
+analytical formulae for
+i at level
+average size s
+the query window
+na and da
+r tree based
+of r 1
+of disk accesses
+average number of
+r 1 q
+r tree node
+1 r d
+l r n
+r tree performance
+of the density
+real data sets
+given by eq
+cost of a
+illustrated in figure
+data set is
+level l i
+that plays the
+spatial joins using
+the relative error
+and r 2
+entries of r
+the access cost
+points x_y node
+the analytical estimations
+density l r
+of node disk
+spatial data sets
+papadias yufei tao
+r 1 at
+1_2 1_3 2_1
+na_total r 1
+simple path buffer
+dimitris papadias yufei
+1_3 2_1 2_2
+3_3 representative points
+the data properties
+node accesses is
+the average density
+data properties only
+on dimension k
+node disk accesses
+2_1 2_2 2_3
+3_1 3_2 3_3
+2_2 2_3 3_1
+2_3 3_1 3_2
+representative points x_y
+the corresponding r
+estimate the cost
+3_2 3_3 representative
+1 and r
+two dimensional data
+in spatial databases
+synthetic and real
+and real data
+transactions on database
+database systems tods
+is a leaf
+systems tods v
+is given by
+a cost model
+on database systems
+role of the
+l r is
+node and disk
+formulae for the
+l r of
+of n rectangles
+queries using r
+joins using r
+level l l
+spatial query processing
+for spatial queries
+and 1 r
+at each level
+of the query
+disk accesses for
+and disk accesses
+level l 1
+queries proceedings of
+of a join
+of r trees
+a function of
+the role of
+of the tree
+plays the role
+wide set of
+processing and optimization
+a wide set
+a simple path
+the cost of
+in order to
+d of the
+r 1 r
+cost in terms
+cost model for
+down to its
+trees r 1
+uniform distributions of
+a skewed data
+underlying r tree
+the proposed analytical
+the actual density
+and cost models
+relative error being
+density d of
+the two indexes
+r 2 respectively
+tree structure s
+comparison for selection
+are plotted with
+d s s
+or non uniform
+tree that plays
+point and range
+the cost formulae
+size in of
+rectangles with average
+if r1 is
+selection queries on
+r of tree
+point or range
+join query between
+the query tree
+due to entry
+proposed analytical model
+the density surface
+around 10 15
+point data sets
+tree based structures
+query rectangle q
+performance comparison for
+b real data
+the density l
+on uniform like

@@ -1,0 +1,600 @@
+register
+ckfs
+packet
+compiler
+backend
+frontend
+ckf
+registers
+asips
+ir
+assembly
+instruction
+packets
+bitwidth
+wordlength
+int
+nps
+np
+bit
+inneon
+lance
+retargetable
+allocator
+pr2
+arrays
+allocation
+unaligned
+pointer
+dfts
+addressing
+embedded
+pr1
+spill
+dft
+le
+offset
+specic
+compilers
+dsp
+olive
+processors
+elem
+selector
+array
+dsps
+code
+virtual
+bitstream
+asip
+width
+ow
+dedicated
+alu
+instructions
+eort
+gs
+urgently
+bitstreams
+osets
+cient
+gsm
+industrial
+processor
+oset
+simd
+pa
+optimizations
+supernodes
+supernode
+coloring
+jinhwan
+w7
+0x03ff
+congurable
+tensilica
+compiled
+operands
+dierent
+lifetime
+asics
+aligned
+superword
+bitvalue
+executable
+init
+iburg
+backends
+cores
+interference
+ansi
+r4
+format
+operand
+transmitter
+indirect
+house
+yunheung
+peephole
+piperench
+paek
+exemplied
+dortmund
+retargeting
+xiaotong
+intrinsics
+sig
+compilation
+narrow
+architecture
+masking
+subdivided
+xed
+pande
+insu
+uh
+exploiting
+icts
+subscripted
+zhuang
+oered
+signicant
+protocol
+identiers
+permits
+risc
+pai
+specied
+programmable
+quality
+santosh
+suif
+grammar
+symbolic
+market
+ict
+core
+asic
+consuming
+multimedia
+grenoble
+synthesis
+exibility
+programmer
+validation
+buer
+optimizing
+scalar
+rajiv
+comprises
+rst
+physical
+loops
+indirectly
+generator
+rays
+live
+name
+selection
+specication
+datapath
+arithmetic
+jose
+tu
+gnu
+oper
+host
+ware
+formats
+off1
+chidamber
+arname2
+arname1
+gepard
+riscs
+exibil
+c62xx
+varname2
+off2
+xdsl
+prg6
+prg5
+_static_a_3
+engel
+_static_d_6
+prg4
+bitwidths
+varname1
+registern
+_static_b_4
+mikro
+xmc
+r2g
+fr3
+hpca
+recongurable
+stmicroelectronics
+icd
+pa_add
+_static_c_5
+valen
+bit packet
+bit packets
+register arrays
+the register
+register allocation
+virtual registers
+c compiler
+level addressing
+for embedded
+code selection
+the np
+packet level
+assembly code
+compiler known
+register le
+register allocator
+instruction set
+the ckf
+the ir
+the backend
+the c
+code selector
+register array
+compiler backend
+network processor
+c source
+register int
+np instruction
+c frontend
+of ckfs
+of compiler
+address code
+known functions
+code generation
+of asips
+physical registers
+assembly programming
+code optimization
+three address
+embedded systems
+machine specic
+unaligned bit
+packet pointer
+packet array
+ckfs are
+backend interface
+the inneon
+with ckfs
+inneon np
+interference graph
+spill code
+a register
+by means
+code quality
+the compiler
+virtual register
+standard processors
+protocol processing
+c code
+of bit
+source code
+the frontend
+compiler for
+bit level
+data ow
+aligned to
+optimization tools
+compilers architecture
+means of
+machine independent
+on compilers
+network processors
+for asips
+packet processing
+internal virtual
+avoid time
+elem offset
+function pa
+static int
+ckfs as
+functions ckfs
+the lance
+np architecture
+bitstream oriented
+frontend all
+into assembly
+asips in
+ow trees
+a elem
+ckfs and
+systems october
+the bit
+the pointer
+a retargetable
+compiler design
+for bit
+in code
+graph coloring
+standard c
+multimedia instruction
+osets and
+within registers
+bitwidth of
+int register
+written assembly
+generation for
+compilers for
+lifetime analysis
+in gs
+exploiting narrow
+the code
+instruction sets
+in g
+synthesis for
+int a
+and synthesis
+the packet
+of virtual
+generated code
+for dsps
+optimization techniques
+int for
+addressing in
+c language
+original c
+a dedicated
+c programs
+application specic
+processors with
+architecture and
+and register
+of register
+registers in
+code as
+ir is
+optimal code
+the generated
+not aligned
+name of
+allocation for
+in house
+a c
+specied in
+the sig
+since ckfs
+urgently required
+frame accesses
+packet arrays
+set permits
+consuming assembly
+narrow bitwidth
+executable ir
+the ckfs
+pr1 pr2
+ckfs the
+format required
+gs 5
+register n
+dedicated register
+np core
+frontend part
+using ckfs
+ir structure
+inneon technologies
+packet oriented
+retargeting to
+like basic
+register wordlength
+symbolic addresses
+restricted addressing
+retargetable c
+validation methodology
+optimizing stack
+2004 jinhwan
+packet access
+code ir
+machine wordlength
+specic backends
+before register
+supernode n
+ckfs with
+library lance
+ckf for
+np assembly
+packet width
+width operands
+instruction patterns
+uniform optimization
+pa ckf
+original interference
+offset 0x03ff
+jinhwan kim
+compiler intrinsics
+by ckfs
+programmer still
+pai add
+lance frontend
+trees dfts
+an industrial
+hand written
+packet level addressing
+the register le
+the register allocator
+compiler known functions
+of compiler known
+np instruction set
+c compiler for
+three address code
+of virtual registers
+by means of
+a bit packet
+bit packet pointer
+bit packet array
+the code selector
+the bit packet
+of bit packet
+the np instruction
+code selection for
+in the c
+code generation for
+for embedded systems
+embedded systems october
+compilers architecture and
+architecture and synthesis
+on compilers architecture
+a c compiler
+code optimization techniques
+c source code
+conference on compilers
+synthesis for embedded
+and synthesis for
+techniques for embedded
+aligned to the
+the c compiler
+the inneon np
+not aligned to
+known functions ckfs
+bit packets are
+int register int
+internal virtual registers
+class of asips
+to avoid time
+data ow trees
+the c frontend
+unaligned bit packets
+bit packet processing
+use of ckfs
+shown in g
+written assembly code
+hand written assembly
+register int register
+multimedia instruction sets
+within a register
+optimization techniques for
+register allocation for
+are not aligned
+in code generation
+to physical registers
+have to be
+november 01 2003
+01 2003 san
+2003 san jose
+systems october 30
+generation for embedded
+30 november 01
+the c language
+order to avoid
+may be expected
+in case of
+for embedded processors
+the international conference
+in a c
+to the register
+a dedicated register
+since ckfs are
+special instructions for
+register le in
+a 5 int
+systems october 08
+before register allocation
+of internal virtual
+the lance frontend
+gs 5 and
+a uniform optimization
+means of compiler
+quality of compiler
+bit packets of
+increment of a
+bit level processing
+inneon np architecture
+the bit packets
+assembly code as
+local variables access
+int a 5
+code selector in
+operands to improve
+narrow width operands
+bit packet is
+ir structure is
+a elem offset
+to bit packets
+virtual registers of
+of packet level
+frame accesses for
+the register wordlength
+calls to compiler
+to compiler known
+packet array access
+standard c this
+time consuming assembly
+address code ir
+original c source
+the backend interface
+of register arrays
+analysis of virtual
+and register arrays
+ow trees dfts
+width operands to
+c frontend all
+bit packets the
+np c compiler
+physical registers by
+processors with restricted
+variables access for
+2004 jinhwan kim
+october 08 11
+in standard c
+the programmer still
+improve processor power
+with restricted addressing
+of the ckf
+to each supernode
+avoid time consuming
+instruction set permits
+accesses for processors
+ckfs and register
+in gs 5
+optimizing stack frame
+2002 international conference
+level addressing in
+the frontend part
+gsm speech compression
+restricted addressing modes
+of bit packets
+access for dsp
+into assembly code
+a register array
+sum a elem
+registers of n
+retargetable c compiler
+dynamically exploiting narrow
+machine the inneon
+bit packet arrays
+compiler for an
+a register boundary
+the np c
+register arrays in
+consuming assembly programming
+stack frame accesses
+original interference graph
+uniform optimization technique
+dedicated register allocator
+all virtual registers
+the original interference
+for bit level
+register int for
+processing in c
+packet processing in
+risc like basic
+compiler known function
+like basic architecture
+a retargetable c
+capable of directly
+and a dedicated
+jose california usa
+october 30 november
+in order to
+in the register
+means of a
+of a c
+code generation techniques
+media processors with
+compiling for simd
+for media processors
+parallelism with multimedia
+for an industrial
+driven code selection
+physical registers is
+test input data
+compilation for embedded
+to silicon compilation
+communication protocol processing
+2002 grenoble france
+application to silicon
+code optimization libraries
+level parallelism with
+embedded dsp microprocessors
+for simd within
+superword level parallelism
+use of compiler

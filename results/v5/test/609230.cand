@@ -1,0 +1,600 @@
+jvm
+cl
+loader
+invokevirtual
+loaders
+srmethod
+loading
+jdk1
+desc
+bytecode
+srclass
+def
+java
+getr
+denition
+findclass
+soundness
+saraswat
+overrides
+lvars
+typing
+objectref
+subtyping
+wf
+vp
+verication
+dened
+invv
+resolved
+bridge
+formedness
+parent
+instruction
+typedness
+specication
+predicate
+java2
+spoong
+areturn
+widening
+overriding
+ok
+stack
+rr
+applet
+speakup
+verier
+resolution
+bug
+dispatch
+superclass
+denes
+selects
+invocation
+invokeinterface
+resolves
+mt
+environments
+loadings
+safe
+inside
+applets
+name
+lemma
+subtype
+safety
+formalization
+bytecodes
+stata
+ndclass
+verifyrecord
+classname
+tvalue
+satises
+linking
+rst
+descriptor
+env
+trusted
+conversion
+augmented
+string
+symbolically
+delegation
+constraint
+veried
+denitions
+remembers
+veries
+dene
+classdef
+iface
+delegations
+cc
+instructions
+pc
+delegates
+abbreviates
+abadi
+modication
+referenced
+lang
+redene
+judgement
+satised
+transitivity
+premise
+names
+lazy
+transition
+loaded
+vironment
+invariant
+l1
+00
+dention
+aws
+classloader
+exeception
+coredumps
+bracha
+retval
+loadclass
+classes
+security
+heap
+inconsistencies
+exive
+ects
+preserves
+nalization
+invariantly
+runtime
+environment
+transitive
+selection
+violation
+induction
+correctness
+dierent
+whereby
+speci
+interfaces
+unrelated
+resolve
+member
+aw
+cial
+supertype
+appearing
+descriptors
+l2
+signature
+delegate
+sun
+virtual
+sub
+invoked
+ow
+eld
+semantics
+dening
+formalizations
+override
+symmetry
+violates
+lemmas
+cf
+rt
+succeeded
+tokyo
+loc
+straints
+indirect
+transitions
+invariance
+consistency
+ns
+exibility
+proved
+en
+typed
+diers
+veri
+closure
+super
+formalizes
+judgment
+predicates
+threads
+expresses
+faithfully
+jensen
+subroutines
+elds
+violate
+proving
+remember
+references
+existence
+the jvm
+def 2
+loading constraint
+of invokevirtual
+constraint scheme
+cl n
+the loading
+method resolution
+class loaders
+class loader
+cl 0
+jdk1 2
+class loading
+bytecode verication
+n cl
+method selection
+the bytecode
+saraswat s
+value typing
+cl cl
+findclass scheme
+the findclass
+denition 2
+class c
+and def
+vp l
+l 0
+class name
+of java
+the method
+c cl
+loading constraints
+jvm is
+method m
+from def
+invv ok
+widening conversion
+method desc
+method dispatch
+ok e
+the soundness
+well formedness
+our model
+soundness of
+well typedness
+objectref class
+parent loader
+type spoong
+t class
+method cl
+dispatch table
+the lemma
+a method
+l 00
+subtyping relation
+lemma 1
+loaders are
+class d
+s bug
+denes class
+jdk1 1
+of jdk1
+bytecode verier
+the symbolically
+bridge safety
+symbolically referenced
+predicate selects
+jvm state
+loader 0
+and method
+selection process
+a class
+denition of
+jvm and
+string list
+def 4
+the denition
+of class
+an environment
+each class
+the java
+the widening
+formedness of
+soundness theorem
+method overriding
+l vp
+r speakup
+in jdk1
+loader 2
+loader l
+direct parent
+wf parent
+parent e
+augmented typing
+0 cl
+context cl
+class loadings
+cl pc
+augmented value
+loader 1
+java virtual
+any class
+the type
+dened in
+the specication
+the augmented
+superclass of
+method invocation
+object value
+soundness proof
+the subtyping
+is dened
+r l1
+rr getr
+d getr
+cl is
+cl method
+i getr
+its bytecode
+c selects
+invokevirtual and
+srmethod and
+method overrides
+stata and
+the ndclass
+safe e
+found inside
+method cc
+theorem trusted
+srmethod the
+context l
+ndclass scheme
+trusted environments
+wf method
+applet loaders
+parent loaders
+predicate overrides
+bridge safe
+r getr
+error state
+selects srmethod
+selects m
+x loader
+name desc
+and abadi
+loaders the
+instruction of
+the class
+in context
+1 correctness
+class names
+s problem
+therefore from
+of method
+l 2
+states that
+n l
+l 1
+environment e
+r l
+resolved into
+loader in
+java is
+of environments
+objects classes
+type safety
+2 4
+in e
+virtual machine
+2 5
+relation between
+resolution process
+also invariant
+sun s
+verication the
+the well
+2 7
+is resolved
+which satises
+rule of
+method e
+type r
+premise of
+been resolved
+safety of
+satises the
+into c
+invocation of
+subtype of
+2 13
+pc lvars
+by loader
+local stack
+t method
+r l2
+signature x
+type env
+of saraswat
+c name
+of java2
+of the jvm
+loading constraint scheme
+the loading constraint
+the method resolution
+and def 2
+the findclass scheme
+the method selection
+cl n cl
+the jvm is
+the bytecode verication
+invv ok e
+method selection process
+correctness of invokevirtual
+from def 2
+method dispatch table
+the jvm and
+cl cl n
+the widening conversion
+the symbolically referenced
+a class loader
+saraswat s bug
+of the lemma
+the soundness of
+of the loading
+soundness of the
+well formedness of
+wf parent e
+if the jvm
+parent e p
+saraswat s problem
+the well typedness
+1 correctness of
+augmented value typing
+of jdk1 2
+the denition of
+the well formedness
+the java virtual
+the subtyping relation
+java virtual machine
+def 2 7
+an error state
+n cl 0
+l vp l
+bytecode verication the
+constraint scheme and
+method resolution process
+superclass of c
+def 2 9
+the method dispatch
+wf method e
+the ndclass scheme
+n cl cl
+the bytecode verier
+of class loading
+the augmented typing
+stata and abadi
+lemma 1 correctness
+loader in e
+proving the soundness
+bridge safe e
+for the soundness
+denition 3 1
+n l 0
+l n l
+is also invariant
+section 2 4
+e an element
+the lemma the
+6 6 6
+the invocation of
+an element of
+10 rule of
+assume the rst
+def 2 6
+if wf parent
+the jvm the
+the jvm it
+with the loading
+tvalue and t
+class loading of
+1 and def
+vp l 00
+the invokeinterface instruction
+class t loader
+re exive and
+def 2 1
+method overrides srmethod
+vp l 0
+in jdk1 1
+the soundness proof
+jvm is in
+subtyping relation between
+class loader l
+is resolved into
+0 cl 0
+existence of method
+of class loaders
+a jvm state
+def 2 13
+cl 0 n
+objectref class and
+between objectref class
+t class t
+and t method
+type spoong in
+typing which is
+second premise of
+l 0 vp
+srmethod and method
+each class name
+cl 0 cl
+wf class e
+lvars and stack
+context l 2
+symbolically referenced method
+symbolically referenced class
+cl vp l
+property related to
+lemma 3 existence
+existence of constraints
+the jvm which
+applet loaders are
+of saraswat s
+s problem 13
+select a method
+the local stack
+the jvm are
+of type r
+rule of invokevirtual
+why applets cannot
+resolved into c
+cl n 0
+direct parent loader
+cl pc lvars
+cl method desc
+with signature x
+the second premise
+objects classes and
+t loader tvalue
+spoong in jdk1
+that the jvm
+theorem trusted environments
+lemmas 1 1
+dened in figure
+2 10 rule
+0 vp l
+inside the current
+def 2 10
+def 2 3
+the type spoong
+loader tvalue and
+about to execute
+method cl method
+to execute invokevirtual
+its bytecode verication
+is dened in
+safety of the
+section 2 5
+satises the following
+the induction hypothesis
+in section 2
+the following fact
+denition 2 7
+class c has
+the method invocation
+instruction of the
+r l 1
+3 existence of
+which satises the
+a safe state
+value v is
+rst line of
+r l 2
+class loading in
+class loaders are
+dynamic class loading
+be an environment
+is proved by
+with respect to
+2 3 5
+and transitive closure
+the rst line
+specication of the
+in a safe
+the type safety
+for each class
+3 1 1
+l 2 the
+the current context
+cf section 2
+type safety of
+p l 0
+transitive closure of
+the following constraint
+an environment which
+of our work
+in the java
+formal model of
+and a class
+the specication of

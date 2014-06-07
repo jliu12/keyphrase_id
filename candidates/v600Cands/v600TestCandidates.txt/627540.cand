@@ -1,0 +1,600 @@
+stale
+propagator
+restart
+bdb
+recovery
+transaction
+pages
+page
+committed
+fresh
+logging
+checkpointing
+mmdbs
+records
+marking
+backup
+database
+crash
+pdb
+flushing
+dirty
+redo
+log
+backups
+incremental
+buffer
+undo
+updates
+manager
+logger
+flush
+resident
+checkpoint
+loser
+accumulator
+ru
+stable
+flushed
+fetch
+steal
+flushes
+date
+mmdb
+locking
+activities
+driven
+secondary
+concurrency
+aries
+disk
+lev91
+mhl
+whbm90
+recovered
+commit
+locks
+activity
+lc87
+lsn
+redone
+volatile
+image
+sgm87b
+dko
+atomicity
+safe
+memories
+brought
+winner
+memory
+rs
+lock
+tail
+persistence
+lush
+ckks89
+ls90
+redoing
+recs
+eic86
+paging
+rus
+decoupling
+management
+propagation
+uncommitted
+resumed
+storage
+ffl
+underlie
+undone
+clean
+granularity
+record
+fetched
+triggers
+post
+checkpoints
+raid
+commitment
+databases
+status
+quiescent
+propagating
+policy
+transactions
+pipeline
+restoration
+issuing
+aborted
+aborts
+transitions
+keeping
+undoing
+fuzzy
+delayed
+suffix
+updating
+thereby
+items
+hr83
+rrh
+wei88
+ln88
+writeset
+hag86
+eic87
+wal
+ram
+propagated
+physical
+update
+logged
+invariant
+committing
+recovering
+trade
+interrupted
+updated
+falsifying
+tei
+precluding
+hsien
+lin80
+read
+enforcing
+emphasize
+grouped
+deferred
+architecture
+principle
+cache
+demands
+fetching
+featuring
+capitalizes
+interchangeable
+crux
+bringing
+segmented
+processed
+discarding
+consistent
+disaster
+intolerable
+flash
+compatibility
+affect
+accommodate
+atomic
+idempotence
+freshness
+reflects
+concurrently
+forwards
+commute
+vacuously
+amortize
+db2
+gbytes
+semiconductor
+facilitate
+event
+atomically
+subtransactions
+correctness
+traditional
+finer
+sweeps
+active
+improvements
+marked
+book
+principles
+conventional
+item
+deficiencies
+enforced
+triggering
+contemporary
+log records
+the propagator
+the bdb
+stable memory
+the log
+transaction processing
+incremental restart
+log driven
+a page
+stale fresh
+page x
+buffer manager
+level recovery
+fresh marking
+main memory
+driven backups
+memory database
+the pdb
+operation logging
+x stale
+restart processing
+high level
+the database
+page is
+the buffer
+a stale
+the backup
+a crash
+to date
+the page
+the marking
+database pages
+post crash
+safe fetch
+the stale
+level undo
+base recovery
+a recovery
+committed transactions
+updates to
+i o
+the committed
+transactions are
+log record
+memory resident
+secondary storage
+restart procedure
+page based
+bdb is
+the logger
+log tail
+no steal
+recovery processing
+stale page
+database systems
+the accumulator
+pages are
+records to
+recovery management
+recovery techniques
+flushing a
+a transaction
+the high
+restart is
+backup image
+an ru
+dirty stale
+propagator and
+backup database
+committed image
+crash transactions
+in stable
+processing is
+pages that
+level log
+database recovery
+of pages
+the invariant
+resident database
+brought up
+flush fresh
+single propagation
+flushing of
+logging is
+steal policy
+stale holds
+bdb by
+large main
+loser transactions
+redo only
+page flushes
+restart algorithm
+stale pages
+of transaction
+x is
+updates of
+level operations
+the recovery
+on secondary
+recovery scheme
+the incremental
+of log
+of committed
+multi level
+database cache
+crash recovery
+restart in
+are recovered
+concurrency control
+records of
+records are
+of recovery
+an incremental
+transactions and
+only log
+to recovery
+buffer management
+database on
+the base
+fast restart
+x dirty
+redo log
+no transactions
+crash transaction
+the restart
+standard restart
+backup x
+recovery activities
+database page
+down time
+restart transaction
+recovery manager
+for mmdbs
+recovery related
+operation consistent
+log is
+invariant holds
+with transaction
+image of
+consistent state
+a log
+the updates
+transaction execution
+restart the
+at restart
+only committed
+propagating updates
+entire database
+in main
+up to
+recovery for
+this principle
+in database
+current image
+is stale
+restart and
+the commit
+data items
+is up
+the pipeline
+crash the
+t 12
+and restart
+to undo
+of transactions
+updated by
+on disk
+records that
+base level
+steal buffer
+pdb are
+f lush
+forward transaction
+ffl page
+which pages
+a loser
+missing updates
+entry logging
+o activity
+fresh after
+checkpointing algorithms
+corresponding updates
+fresh stale
+normal transaction
+grouped on
+the aries
+fuzzy algorithms
+log recs
+transaction rates
+resident databases
+stale marking
+page basis
+reflect updates
+dirty pages
+large buffer
+to bdb
+single pages
+backups technique
+in lc87
+propagator applies
+to the bdb
+by the propagator
+stale fresh marking
+up to date
+log driven backups
+the buffer manager
+main memory database
+the high level
+the log driven
+high level recovery
+the stale fresh
+of log records
+in stable memory
+of the database
+in the pdb
+that the propagator
+page x is
+log records to
+log records of
+high level undo
+the base recovery
+a stale page
+the bdb is
+brought up to
+the log tail
+high level log
+the log records
+post crash transactions
+log records are
+the propagator and
+memory database systems
+a page is
+pages that are
+to the log
+the page is
+the incremental restart
+image of x
+bdb by the
+the backup image
+multi level recovery
+the committed image
+a page x
+following a crash
+the bdb by
+updates to the
+of committed transactions
+on secondary storage
+in the log
+records to the
+after a crash
+high level operations
+in database systems
+the invariant holds
+records of committed
+to the backup
+the backup database
+no transactions are
+no steal policy
+log records that
+incremental restart algorithm
+operation consistent state
+memory resident database
+transaction processing the
+transaction processing is
+restart processing is
+memory database recovery
+database on secondary
+x is stale
+of large main
+an operation consistent
+x stale holds
+flushing a page
+in main memory
+the entire database
+resident database system
+by the buffer
+written to the
+approach to recovery
+of a recovery
+of the log
+operation logging and
+for propagating updates
+the database pages
+page is brought
+a log record
+driven backups technique
+the pdb are
+fresh stale marking
+to secondary storage
+fresh marking of
+the pdb and
+page is recovered
+the no steal
+x is fresh
+a page based
+single i o
+the corresponding updates
+transactions are processed
+i o activity
+of stable memory
+log records as
+log on disk
+high transaction rates
+crash recovery for
+steal buffer management
+system is up
+the propagator applies
+the logger and
+based on operation
+ffl page x
+of loser transactions
+of incremental restart
+down time of
+for memory resident
+updates to bdb
+x is dirty
+on operation logging
+which pages are
+database recovery a
+large main memories
+the down time
+operation logging is
+parallel with transaction
+post crash transaction
+propagator and the
+reflect updates of
+normal transaction processing
+a crash the
+redo only log
+redo log records
+committed image of
+only log records
+approach to restart
+the database cache
+stable memory and
+at restart the
+backup image of
+no steal buffer
+of the page
+propagated to the
+the database is
+of a page
+as the system
+database systems a
+of transaction processing
+buffer management policy
+of data pages
+high level action
+with transaction processing
+recovery scheme for
+for main memory
+and t 21
+the log disk
+is brought up
+a single i
+flushed to the
+a quiescent state
+the demands of
+the database on
+x is denoted
+the traditional approach
+we emphasize that
+of main memory
+transaction processing systems
+t 11 and
+say that x
+11 and t
+i o the
+delayed until the
+in the pipeline
+suffix of the
+based concurrency control
+if the page
+prior to the
+read and write
+if x is
+to access a
+is referred to
+transactions in the
+the trade off
+the propagator can
+single propagation the
+pages a b
+recovery processing and
+techniques for main
+level recovery management
+mmdbs without precluding
+crash recovery scheme
+recovery algorithm for
+page together so
+the bdb up
+enforcing safe fetch
+the log on
+backup database on
+the variables we
+page i o
+redo only bdb
+li pin chang
+initialization and crash
+the recovery manager

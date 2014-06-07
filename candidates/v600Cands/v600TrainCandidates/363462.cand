@@ -1,0 +1,600 @@
+decoupled
+bdf2
+euler
+yn
+implicit
+relaxation
+partitioning
+formula
+rj
+multirate
+stability
+mode
+odes
+subsystems
+integration
+formulas
+aggressive
+discretization
+stiff
+waveform
+classical
+conservative
+partitionings
+principal
+norm
+monotonic
+seidel
+fulfilled
+chemical
+gauss
+est
+transients
+ky
+max
+couplings
+equationsg
+kinetics
+error
+jacobi
+subsystem
+organization
+scalar
+monitored
+estimated
+backward
+modes
+monitor
+dash
+stable
+sunrise
+partitioned
+predictor
+chemistry
+monotonically
+expansion
+loosely
+sunset
+f12
+cf
+instability
+expansions
+differentiation
+reactions
+estimation
+differential
+coupled
+0y
+hn
+ordinary
+dot
+asymptotic
+iterations
+convergence
+diagonally
+transient
+equations
+iteration
+gammas
+copenhagen
+satisfactory
+reaction
+diagonal
+parentheses
+numerical
+tol
+interpolation
+gamma3
+relaxations
+pollution
+errors
+accuracy
+admits
+selection
+oscillations
+truncation
+newton
+preferred
+dk
+decoupling
+gg
+pollutant
+intgr
+photochemical
+universitetsparken
+algebraic
+assure
+dominance
+switch
+convex
+modelling
+311
+rr
+solid
+triangular
+stig
+ilm
+discretizations
+dominant
+influence
+contractivity
+deposition
+analogous
+semiautomatic
+nonlinearities
+diku
+fik
+relax
+reordering
+occasionally
+compromise
+transport
+parallelisation
+supposedly
+1700
+countered
+air
+steplength
+mula
+737
+averaging
+exploited
+sequential
+grained
+summarises
+analogously
+substantially
+employment
+imum
+ordinate
+initialisation
+notationally
+urban
+risky
+ym
+computationally
+spikes
+integrations
+blocks
+asymptotically
+multiplied
+2100
+relaxed
+fig
+atmospheric
+90
+emission
+pertain
+solved
+denmark
+advancing
+ae
+increasingly
+accommodate
+convincing
+inefficiency
+gamma8
+stepsize
+hk
+disappointing
+derivatives
+behaviour
+seconds
+tentative
+richardson
+explicit
+encountering
+weakest
+extrapolation
+ode
+uncommon
+option
+estimate
+attractive
+readily
+originates
+approached
+regional
+appearing
+k2
+replaced
+implicit euler
+the decoupled
+decoupled implicit
+euler formula
+local error
+decoupled bdf2
+step size
+conservative partitioning
+classical implicit
+max norm
+principal local
+aggressive partitioning
+mode 1
+mode 2
+a rj
+monotonic max
+norm stability
+bdf2 formula
+in mode
+relaxation iterations
+waveform relaxation
+the classical
+partitioning is
+the partitioning
+error term
+y 2
+of odes
+relaxation iteration
+classical bdf2
+y 1
+integration methods
+formula is
+error expansion
+euler and
+e m
+discretization formulas
+norm stable
+for yn
+seidel organization
+the bdf2
+and bdf2
+decoupled integration
+monotonically max
+decoupled euler
+the aggressive
+error estimation
+r terms
+integration algorithm
+y r
+the local
+the conservative
+the euler
+formula 4
+gauss seidel
+decoupled formulas
+multirate integration
+bdf2 the
+stability condition
+the monotonic
+the step
+the principal
+stiff systems
+the subsystems
+relaxation method
+t y
+integration error
+scalar equations
+of stiff
+of decoupled
+of yn
+yn y
+variable step
+global error
+formulas the
+y m
+stability of
+the discretization
+partitioned system
+bdf2 is
+monitor partitioning
+bdf2 formulas
+global integration
+the stability
+formula the
+implicit integration
+systems of
+1 y
+estimated using
+error expansions
+and decoupled
+partitioned systems
+the transients
+one relaxation
+size selection
+2 y
+the error
+the waveform
+yn is
+error bound
+the partitioned
+mode 3
+constant step
+backward differentiation
+dot line
+formulas are
+step sizes
+subsystems are
+dash dot
+be estimated
+numerical solution
+loosely coupled
+the e
+e 1
+is monitored
+bdf2 can
+the multirate
+jacobi organization
+reaction kinetics
+yn the
+euler the
+5 integration
+formula mode
+requires implicit
+two relaxation
+iterations y
+remaining scalar
+scalar equationsg
+partitioning lower
+using formula
+the chemical
+o h
+expansion for
+the implicit
+numerical integration
+h 3
+explicit formulas
+formulas and
+ordinary differential
+formula can
+stability properties
+2 mode
+same principal
+another relaxation
+lower graph
+chemical reactions
+order predictor
+2 classical
+upper graph
+euler method
+of 90
+differential equations
+in 9
+using 4
+t n
+error y
+term h
+16 g
+integration step
+integration algorithms
+1 mode
+n y
+the numerical
+y q
+15 16
+implicit discretization
+subsystems the
+e 2
+partitioning and
+chemical reaction
+each subsystem
+asymptotic error
+h 2
+term can
+the gauss
+2 15
+error of
+discretization by
+of waveform
+a decoupled
+subsystems and
+error estimate
+4 4
+error for
+a n
+are loosely
+formula with
+error is
+partitioning the
+4 7
+newton type
+relaxation the
+different modes
+computational cost
+y p
+more aggressive
+of instability
+error bounds
+2 9
+second order
+a switch
+decoupled implicit euler
+implicit euler formula
+the decoupled implicit
+of the decoupled
+the decoupled bdf2
+classical implicit euler
+principal local error
+the local error
+the classical implicit
+monotonic max norm
+max norm stability
+local error term
+the principal local
+the conservative partitioning
+the aggressive partitioning
+implicit euler and
+the monotonic max
+the classical bdf2
+the step size
+y 2 n
+the euler formula
+gauss seidel organization
+euler formula is
+local error expansion
+euler and bdf2
+monotonically max norm
+max norm stable
+in mode 1
+for the classical
+systems of odes
+by the decoupled
+waveform relaxation method
+y 1 n
+decoupled bdf2 formula
+decoupled euler formula
+euler formula the
+of stiff systems
+mode 1 is
+norm stability condition
+e 1 y
+r terms of
+terms of 4
+2 15 16
+step size selection
+the partitioning is
+step size is
+variable step size
+be estimated using
+the waveform relaxation
+1 2 15
+stiff systems of
+the decoupled integration
+local error bound
+global integration error
+bdf2 formula is
+the decoupled formulas
+matrix a rj
+and the decoupled
+of the chemical
+partitioned system 2
+in mode 2
+error term can
+decoupled integration methods
+the decoupled euler
+the partitioned system
+euler formula can
+decoupled bdf2 the
+partitioned systems of
+euler formula and
+step size of
+of the classical
+of the discretization
+local error is
+formula 4 7
+implicit euler method
+error expansion for
+constant step size
+the global error
+integration of stiff
+for the decoupled
+e m r
+the implicit euler
+using formula 4
+dash dot line
+and e m
+local error estimate
+step size and
+the numerical solution
+stability of the
+error of the
+system 2 2
+estimated using formula
+euler formula 4
+when the subsystems
+relaxation iterations y
+for constant step
+error is expressed
+chemical reaction kinetics
+subsystems are loosely
+remaining scalar equationsg
+selection of partitioning
+from the decoupled
+one relaxation iteration
+the e m
+same principal local
+local error y
+the bdf2 formula
+mode 1 the
+upper graph and
+error term h
+may be fulfilled
+term h 2
+conservative partitioning is
+of partitioning lower
+implicit euler the
+r t y
+2 classical implicit
+a conservative partitioning
+euler formula in
+euler formula mode
+partitioning lower graph
+size and partitioning
+aggressive partitioning is
+another relaxation iteration
+the subsystems are
+mode 2 the
+euler formula with
+m r terms
+two relaxation iterations
+aggressive partitioning and
+ordinary differential equations
+the gauss seidel
+of the partitioning
+can be estimated
+expressed as follows
+estimated using 4
+i t y
+the same principal
+15 16 g
+mode 2 is
+m e m
+r a n
+partitioning and ordering
+step size the
+are loosely coupled
+y r n
+same step size
+system of odes
+the stability of
+that the principal
+of waveform relaxation
+and error estimation
+t y y
+replaced by y
+2 the local
+is o h
+2 n is
+formula can be
+results in 11
+of 4 4
+y 2 the
+off diagonal elements
+solid line and
+the computational cost
+2 2 is
+o h 2
+f 1 2
+the same step
+is only used
+1 n in
+y 1 y
+numerical integration of
+numerical solution of
+errors of the
+of ordinary differential
+a rj matrix
+order polynomial predictor
+of a rj
+a rj r
+bdf2 formulas the
+1 decoupled implicit
+bdf2 2 11
+1 mode 1
+and partitioning fig
+partitioning fig 6
+local error and
+carried to convergence
+ae f 1
+rj r j
+further relaxation iterations
+e m 3
+size selected by
+scalar equationsg the
+rj t u
+norm stable if
+y r of
+decoupled implicit integration
+after a switch
+line and decoupled
+corresponding local error

@@ -1,0 +1,600 @@
+arrays
+array
+partitions
+0c
+loop
+partitioning
+loops
+interprocessor
+offset
+ff
+communication
+processor
+cc
+diagonals
+supercomputing
+kandemir
+alignment
+partition
+locality
+offsets
+choudhary
+compilers
+compiling
+compiler
+interchange
+accesses
+banerjee
+ramanujam
+mahmut
+allocation
+anti
+superb
+partitioned
+multicomputers
+transformations
+operands
+machines
+columns
+pingali
+simd
+programmer
+decompositions
+optimizing
+parallelograms
+equations
+references
+executes
+automatic
+parallelogram
+fortran
+restructuring
+processors
+1995
+alok
+parallelizing
+multiprocessors
+ping
+dependences
+annotations
+esin
+jih
+woei
+mongenet
+gannon
+aids
+formulation
+incurred
+rows
+fi
+outer
+taylan
+decomposition
+hyperplane
+memory
+compatible
+wrap
+huang
+vectors
+deriving
+parallelism
+sheu
+family
+interchanging
+peizong
+keshav
+kth
+paid
+shared
+prithviraj
+mar
+supercompilers
+catherine
+iterated
+distribute
+1993
+volume
+parallelization
+accessed
+numa
+nests
+shenoy
+iterations
+transformation
+interchanged
+nested
+notices
+matrix
+tokyo
+computers
+diagonal
+7th
+dataflow
+writer
+chu
+compilation
+programs
+owner
+mod
+workload
+supercomputers
+shapes
+mutually
+sigplan
+referred
+consuming
+chih
+procedural
+wei
+defines
+minimizing
+rowwise
+ender
+ponnusamy
+marchdec
+zdamar
+orchestrating
+suprenum
+prith
+acknowlegdment
+kastner
+wenrui
+zima
+knobe
+rnger
+zcan
+enormity
+memetic
+rauber
+loechner
+minyi
+equationsb
+musicus
+raja
+lebarta
+systemb
+linet
+onbaioglu
+todate
+onbasioglu
+gudula
+stripmined
+gallivan
+assignment
+li
+sequentially
+february
+japan
+memories
+worthwhile
+row
+organization
+admit
+free
+scientific
+rewritten
+macro
+inter
+gupta
+affine
+minimize
+architectures
+passing
+day
+incur
+improving
+trapezoidal
+relieved
+akimasa
+koshizuka
+yoshida
+nagaraj
+nonshared
+cedar
+ayguad
+1336
+honoring
+chua
+1321
+cierniak
+blaze
+communication free
+free partitioning
+of arrays
+ff cc
+c 0c
+0c a
+array a
+arrays a
+partitions of
+of array
+offset vectors
+cc a
+array b
+processor k
+b ff
+distributed memory
+interprocessor communication
+of equations
+constant offsets
+zero communication
+no communication
+parallel loops
+ff 0
+free partitions
+executes 1
+into columns
+memory machines
+the partitions
+k executes
+in array
+the loop
+local memory
+a 22
+partitioning of
+when communication
+linear references
+parallel lines
+partitioned into
+dimensional arrays
+on distributed
+loop interchange
+and b
+following system
+data distribution
+communication in
+r mod
+anti diagonals
+following loop
+data partition
+a and
+lines in
+a solution
+communication is
+the accesses
+a formulation
+for communication
+of parallel
+a 21
+locality of
+fully parallel
+j ramanujam
+of lines
+the offset
+partition of
+on supercomputing
+k p
+complex memory
+shared memory
+partitioning is
+compiling programs
+matrix s
+loop l
+outer loop
+in interprocessor
+mod are
+compatible partitions
+communication minimization
+in arrays
+loop after
+into anti
+alignment functions
+mutually compatible
+process partitioning
+solution 1
+of ff
+a compiler
+loop transformations
+automatic data
+array accesses
+on parallel
+parallelizing compilers
+family of
+of loop
+supercomputing p
+system of
+following set
+data partitioning
+partitions are
+data decomposition
+supercomputing v
+of supercomputing
+parallel and
+and distributed
+of fortran
+in deriving
+a family
+the element
+storage patterns
+ramanujam a
+offsets in
+as processor
+into rows
+sequentially iterated
+that aids
+matrix notation
+iterated parallel
+index domain
+b for
+same processor
+and loop
+a 12
+alok choudhary
+formulation that
+compiling for
+and fi
+to as
+for parallel
+1 k
+the journal
+programs for
+the programmer
+after transformation
+inter processor
+aids in
+computers acm
+minimizing communication
+is partitioned
+distributed systems
+a which
+a 11
+present a
+wei li
+0 means
+paid to
+referred to
+allocation of
+is incurred
+fortran programs
+allocation problem
+result in
+memory systems
+the array
+array elements
+data allocation
+is paid
+of data
+systems v
+example example
+example 10
+array element
+array access
+of reference
+0 a
+transformations in
+fi 0
+defines a
+li keshav
+to managing
+complicated example
+discuss techniques
+also assigned
+normalization loop
+lines given
+access normalization
+loop example
+communication see
+data usage
+vectors q
+current day
+describe array
+diagonals figure
+arrays into
+huang chih
+accesses result
+get ff
+therefore worthwhile
+determine allocation
+jih woei
+given partition
+automatic process
+loop interchanging
+incur zero
+deriving heuristics
+catherine mongenet
+optimizing data
+therefore ff
+2n by
+worthwhile for
+if insufficient
+set array
+communication free partitioning
+arrays a and
+ff cc a
+a b ff
+c 0c a
+0c a b
+b ff cc
+partitions of arrays
+of arrays a
+a and b
+communication free partitions
+is no communication
+executes 1 k
+1 k p
+k executes 1
+processor k executes
+one of ff
+b for example
+on distributed memory
+when communication free
+for communication free
+b c 0c
+family of lines
+free partitioning is
+and b for
+set of equations
+of array a
+array a is
+k p to
+of array b
+the following loop
+the offset vectors
+in array b
+partitioned into columns
+fully parallel loops
+that r mod
+lines in array
+i of array
+partitioning is possible
+family of parallel
+cc a which
+system of equations
+partitioning of arrays
+a is partitioned
+the partitions of
+the following system
+conference on supercomputing
+most one of
+partitions of a
+distributed systems v
+transactions on parallel
+has a solution
+parallel and distributed
+and distributed systems
+distributed memory machines
+on parallel and
+referred to as
+partition of a
+following set of
+linear references in
+into anti diagonals
+formulation that aids
+of equations which
+that aids in
+in interprocessor communication
+free partitions are
+b are partitioned
+free partitioning of
+constant offsets in
+p to n
+r mod are
+can we find
+communication is incurred
+ff 0 means
+of parallel lines
+partitioned into rows
+to processor k
+for linear references
+loop after transformation
+present a formulation
+as processor k
+for the partitions
+0 c 0c
+zero communication in
+in array a
+partitioned into anti
+interprocessor communication in
+equations which has
+shows the partitions
+and loop interchange
+alignment functions that
+of communication free
+allocation of arrays
+a family of
+on supercomputing p
+locality of reference
+the following set
+journal of supercomputing
+of supercomputing v
+is partitioned into
+partitions are not
+sequentially iterated parallel
+attention is paid
+iterated parallel loops
+12 a 22
+of lines in
+the matrix s
+n by p
+of loop transformations
+j ramanujam a
+the same processor
+a i j
+the journal of
+the outer loop
+of ff 0
+compiling programs for
+to n by
+is paid to
+interprocessor communication is
+are not feasible
+array accesses in
+11 a 21
+assigned to processor
+array a and
+defines a family
+for data partitioning
+order to minimize
+consider the following
+such that r
+elements of array
+of fortran programs
+techniques for data
+no communication is
+shared memory machines
+in distributed memory
+data distribution and
+paid to the
+of a and
+ieee transactions on
+of the partitions
+a 12 a
+following system of
+parallel programming v
+a 11 a
+of the loop
+is possible if
+row i of
+is referred to
+to the following
+the problem of
+journal of parallel
+values of c
+which has a
+huang chih ping
+if we allocate
+array b is
+matrix notation to
+of equations would
+no data dependences
+of data usage
+the line in
+is therefore worthwhile
+in fully parallel
+pingali access normalization
+line in array
+describe array accesses
+data access graph
+rows r of
+reduce communication on
+22 0 c
+communication see figure
+of optimizing data
+partitioning decomposition of
+partition of b
+analysis will have
+technique for linear
+non trivial solution
+a 21 0
+distribution in superb
+loop transformations in
+in deriving heuristics
+addition to managing
+communication when communication
+being partitioned into
+offset vectors q
+loop l 1
+0 a 12
+0 and fi
+array b to
+case array a
+data usage to
+determine allocation in
+allocation problem then
+analyze patterns of
+processors is p
+therefore for communication
+same processor then
+are no data
+compiler to analyze
+no communication see

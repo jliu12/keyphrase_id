@@ -1,0 +1,600 @@
+esp
+firmware
+vmmc
+safety
+spin
+freed
+bugs
+checker
+objectid
+myrinet
+allocation
+programmable
+channels
+memory
+devices
+objects
+device
+object
+management
+card
+compiler
+immutable
+channel
+objectids
+sharec
+count
+ectiveness
+malloc
+programmer
+overhead
+di
+reference
+mutable
+ort
+pgm
+pointers
+freeing
+debug
+countc
+process1
+prfree
+sent
+dangling
+processes
+allocated
+interface
+mbytes
+counts
+exhaustively
+runtime
+erent
+leaks
+cast
+copying
+remote
+bug
+dma
+cult
+chan1
+reliablesend
+processa
+checking
+liveness
+sharing
+garbage
+debugging
+manage
+checkers
+frees
+pointer
+counting
+ease
+machines
+p1
+deep
+receiving
+array
+recursive
+bu
+verify
+cpu
+overheads
+decremented
+ciently
+gigabit
+processb
+entryt
+painstaking
+9975011
+localreq
+process3
+process2
+remotereq
+remotereply
+measurements
+increment
+invalid
+cards
+disallows
+incremented
+incurs
+message
+spent
+virtual
+sweep
+marshalling
+splash2
+rendezvous
+safe
+network
+cient
+lifetimes
+driven
+deadlock
+bookkeeping
+correctness
+mutating
+increments
+copied
+decrement
+cyclone
+stack
+su
+copy
+er
+messages
+arriving
+verifiers
+check
+fairly
+cyclic
+67
+sender
+executable
+erties
+debugged
+compounded
+event
+incur
+code
+checks
+collectors
+functionality
+erently
+traditionally
+b1
+rectify
+eia
+pc
+concurrency
+accesses
+disconnect
+explored
+leak
+manifests
+optimize
+sanjeev
+recursively
+p2
+decrements
+migrating
+heap
+goals
+semantically
+splash
+pointed
+hash
+int
+unsafe
+promotes
+primitives
+explore
+registers
+messaging
+sending
+collector
+molecules
+2048
+thereby
+verifier
+instrument
+share
+regions
+operating
+concurrent
+inserted
+language
+novel
+avoids
+processor
+ective
+316725
+mantically
+5098
+lanai
+7312
+lucontiguous
+purify
+unbu
+fc02
+memory safety
+the esp
+the vmmc
+vmmc firmware
+memory management
+the firmware
+reference count
+model checker
+esp compiler
+programmable devices
+reference counts
+memory allocation
+over channels
+sent over
+in esp
+allocation bugs
+the memory
+the reference
+allocation correctness
+driven state
+of esp
+firmware the
+the object
+management scheme
+the device
+reference counting
+local property
+management overhead
+verify memory
+for programmable
+malloc free
+firmware to
+safety models
+state machines
+each process
+dynamic memory
+explicit memory
+safety of
+state space
+pointer sharing
+main cpu
+firmware for
+checker to
+model checking
+test code
+recursive data
+esp s
+esp program
+dangling pointers
+esp does
+esp provides
+correctness a
+the program
+e ectiveness
+ectiveness of
+event driven
+free interface
+network card
+esp allows
+making memory
+device firmware
+esp code
+esp runtime
+objects sent
+the myrinet
+e ort
+the spin
+receiving process
+remote write
+the programmer
+bugs in
+object is
+safety the
+deep copy
+67 6
+to check
+data types
+network interface
+allocated objects
+esp the
+esp is
+spin model
+a channel
+the compiler
+support recursive
+the receiving
+firmware using
+esp processes
+spin code
+esp supports
+firmware that
+verify safety
+count increments
+44 s
+programmer e
+memory leaks
+detailed models
+an object
+di erent
+count of
+counts on
+to manage
+to exhaustively
+the channel
+34 45
+novel memory
+a malloc
+for esp
+esp language
+to debug
+objects are
+di cult
+by value
+cyclic data
+of memory
+check for
+s 3
+implemented e
+data structures
+the model
+to verify
+the cast
+ease of
+model checkers
+compiler can
+using spin
+the e
+global states
+has to
+the processes
+out chan1
+45 mbytes
+esp uses
+this esp
+ort required
+firmware is
+arriving over
+provides safety
+rendezvous channels
+largest process
+copying semantics
+cast operation
+myrinet network
+exhaustively verify
+n spin
+process frees
+the objectid
+safety model
+same objectid
+channel countc
+immutable object
+myrinet 4
+maintains reference
+process processa
+cult to
+virtual memory
+7 35
+safety in
+e ciently
+6 seconds
+the bug
+of debugging
+overhead to
+the network
+code to
+the objects
+memory this
+entire state
+a programmable
+program these
+using event
+make memory
+freed this
+remote machine
+interface cards
+out operation
+mapped communication
+traditional scheme
+copying objects
+a mutable
+pointed to
+interface that
+allows the
+column shows
+not support
+the state
+channels are
+mbytes of
+in safe
+automatic memory
+counting overhead
+a cast
+in spin
+mutable data
+generated model
+process section
+is because
+a local
+using model
+these models
+the vmmc firmware
+the esp compiler
+the memory safety
+the reference count
+memory management scheme
+the memory management
+event driven state
+driven state machines
+memory allocation correctness
+in the vmmc
+memory management overhead
+for programmable devices
+a local property
+verify memory safety
+reference count of
+in the firmware
+memory safety of
+recursive data types
+memory safety models
+allocation correctness a
+correctness a local
+explicit memory management
+sent over channels
+the reference counts
+model checker to
+by the esp
+memory allocation bugs
+the model checker
+on the device
+a model checker
+safety of each
+over a channel
+esp does not
+e ectiveness of
+property of each
+to verify memory
+vmmc firmware to
+the main cpu
+objects sent over
+the esp runtime
+malloc free interface
+cyclic data structures
+support recursive data
+local property of
+of each process
+the e ectiveness
+spin model checker
+the spin model
+not support recursive
+the receiving process
+the state space
+code to check
+dynamic memory management
+be implemented e
+reference counts on
+memory safety the
+the firmware the
+a malloc free
+67 6 seconds
+ease of debugging
+firmware for programmable
+memory safety in
+of esp s
+maintain the reference
+vmmc firmware the
+programmer e ort
+implemented e ciently
+novel memory management
+able to exhaustively
+to verify safety
+the test code
+reference count increments
+bugs in the
+the object is
+checker to verify
+language for programmable
+of the esp
+the esp language
+cult to find
+sent over the
+has to be
+on the channel
+that have to
+when an object
+provides an explicit
+di cult to
+this is because
+entire state space
+to the receiving
+of the object
+design and implementation
+mbytes of memory
+sent over a
+used to check
+channels are passed
+an explicit memory
+over channels are
+maintains reference counts
+of the vmmc
+the largest process
+24 0 1
+program these models
+the network card
+e ort required
+region based memory
+machines in c
+maintaining the reference
+memory safety model
+the deep copy
+object is freed
+count increments and
+allocation bugs in
+3 62 s
+the traditional scheme
+message processing cost
+making memory allocation
+allocation bugs are
+reference counting overhead
+each process section
+newly allocated objects
+to make memory
+make memory allocation
+using event driven
+1 n spin
+esp processes in
+the myrinet 4
+based memory management
+on programmable devices
+check for memory
+exhaustively verify memory
+34 45 mbytes
+to exhaustively verify
+over a malloc
+the detailed models
+two processes share
+of the firmware
+automatic memory management
+on the myrinet
+45 mbytes of
+esp provides an
+the compiler can
+ease of programming
+using model checking
+column shows the
+count of the
+a language for
+to check for
+s 3 1
+model checking is
+the entire state
+of the memory
+runs on the
+reference count is
+being sent over
+esp a language
+overhead to maintain
+the esp program
+each process this
+the generated model
+memory mapped communication
+a novel memory
+virtual memory mapped
+models generated by
+and implementation of
+we measure the
+remote write operation
+explore the state
+shows the size
+over the channel
+state machines in
+does not support
+in the program
+that the spin
+passed by value
+is sent over
+no two processes
+the local machine
+to manage the
+of each of
+to be fast
+model checker is
+garbage collection techniques
+pointed to by
+are di cult
+be sent over
+is designed to
+the following code
+network interface card
+are passed by
+safety of the
+as a case
+to transfer data
+the program these
+the program to
+using a model
+of maintaining the
+the additional overhead
+shared virtual memory
+processes in the
+a given object

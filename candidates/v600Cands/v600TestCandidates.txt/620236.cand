@@ -1,0 +1,600 @@
+scheduling
+deadlines
+precedence
+tasks
+deadline
+lateness
+multiprocessing
+edf
+preemption
+schedule
+preemptive
+jobs
+np
+multiprocessor
+priority
+uni
+overload
+monotonic
+resources
+job
+release
+mok
+anomalies
+heuristics
+static
+resource
+earliest
+overloads
+periodic
+blocking
+lawler
+processor
+processors
+miodrag
+potkonjak
+nonpreemption
+outtrees
+baruah
+intrees
+bins
+jackson
+miss
+scheduled
+interchange
+minimizing
+schedulability
+task
+arrival
+garey
+scheduler
+metrics
+classical
+packing
+layland
+llf
+designer
+bin
+series
+clairvoyant
+laxity
+preemptable
+shared
+completion
+designers
+optimality
+baker
+implications
+preemptions
+kuan
+polynomial
+inversion
+schedules
+wayne
+forest
+pcp
+critical
+implication
+metric
+dates
+aperiodic
+cessors
+periods
+exclusive
+synthesis
+off
+ceiling
+comp
+richard
+chang
+ffl
+blazewicz
+edd
+ddsched
+mcnaughton
+ruei
+nonpreemptable
+d5
+mall
+anup
+hamidzadeh
+yacine
+atif
+ravindranath
+hardness
+meet
+wolf
+shih
+successors
+timing
+johnson
+babak
+kernelized
+intree
+outtree
+tardiness
+bfd
+late
+policy
+exclusion
+smith
+automation
+hard
+cumulative
+multiprocessors
+utilization
+transformable
+ffd
+sha
+srp
+constraints
+bhattacharjee
+chuan
+multitasking
+d4
+preempt
+rise
+dynamic
+worst
+bf
+pal
+schedulable
+alarms
+priorities
+admits
+station
+theorems
+period
+rate
+sequencing
+oct
+commack
+nova
+string
+minimize
+multimedia
+fit
+d3
+capacity
+blocked
+385
+publishers
+graphs
+permitted
+forbidden
+loads
+anomaly
+ting
+sigops
+avoided
+shortest
+aided
+stack
+graham
+chemical
+switches
+locked
+ada
+lee
+feasible
+deadlocks
+predecessors
+protocol
+mutually
+robotics
+arrivals
+priori
+lin
+iri
+situations
+successor
+149
+proven
+guaranteeing
+chung
+concurrency
+wei
+prevent
+pessimistic
+spring
+pro
+real time
+time systems
+precedence constraints
+maximum lateness
+multiprocessing scheduling
+shared resources
+rate monotonic
+scheduling algorithm
+uni processor
+series parallel
+on line
+scheduling problem
+all tasks
+scheduling theory
+static scheduling
+release times
+multiprocessor scheduling
+of tasks
+line scheduling
+time scheduling
+dynamic scheduling
+classical scheduling
+tasks with
+non preemptive
+the scheduling
+their deadlines
+off line
+general precedence
+deadlines and
+time tasks
+the multiprocessor
+np hard
+z graph
+deadline scheduling
+earliest deadline
+scheduling results
+computation time
+ffl what
+scheduling problems
+is np
+tasks and
+for real
+np complete
+preemptive model
+parallel graph
+scheduling of
+schedule length
+s rule
+the tasks
+of scheduling
+periodic tasks
+precedence relation
+scheduling is
+monotonic algorithm
+mok 24
+priority inversion
+the precedence
+a job
+of jobs
+scheduling algorithms
+optimal schedule
+parallel graphs
+critical section
+task set
+of periodic
+tasks are
+known about
+precedence graph
+optimal in
+the task
+its deadline
+each task
+partial order
+overload conditions
+precedence relations
+deadline monotonic
+in overload
+miodrag potkonjak
+exist for
+and task
+minimizing the
+s anomalies
+single deadline
+jackson s
+future release
+string interchange
+to preemption
+richard s
+cumulative value
+interchange relation
+theory results
+with precedence
+processors no
+scheduling list
+start times
+computation times
+hard real
+scheduling with
+theorem 4
+is optimal
+of completion
+resource constraints
+unit computation
+johnson 10
+no resources
+tasks having
+multiprocessor real
+tasks have
+run time
+constraints and
+completion times
+a static
+the schedule
+and np
+decomposition tree
+garey and
+tasks can
+the priority
+scheduling for
+complete 2
+tasks or
+jobs with
+edf scheduling
+bin packing
+classical results
+task has
+among tasks
+of real
+be optimal
+multiprocessing anomalies
+kuan shih
+arbitrary partial
+baruah et
+independent periodic
+resources arbitrary
+lawler s
+2 pro
+z graphs
+preemptive multiprocessing
+or outtrees
+and layland
+constraints shared
+of edf
+tasks miss
+preemption for
+np comp
+uni processors
+between polynomial
+wei kuan
+to precedence
+the multiprocessing
+systems designer
+worst case
+to real
+implication of
+execution time
+of bins
+no advantage
+the jobs
+miss their
+an optimal
+in real
+tasks that
+are np
+schedule with
+deadlines in
+np hardness
+optimal algorithms
+arrival times
+advantage to
+the rate
+problem with
+the optimality
+theorem 3
+and johnson
+job j
+when tasks
+problems ffl
+preemptive and
+static schedule
+periodic processes
+due date
+monotonic scheduling
+the metric
+scheduling and
+highest priority
+to meet
+the deadline
+scheduling a
+priority of
+be scheduled
+pro cessors
+the schedulability
+the edf
+first fit
+task having
+without preemption
+overload and
+precedence constrained
+miss its
+real time systems
+real time scheduling
+the maximum lateness
+on line scheduling
+scheduling problem with
+classical scheduling theory
+the rate monotonic
+multiprocessor scheduling problem
+for real time
+set of tasks
+a series parallel
+the multiprocessor scheduling
+earliest deadline scheduling
+series parallel graph
+real time tasks
+series parallel graphs
+precedence constraints and
+of real time
+an optimal schedule
+sum of completion
+of completion times
+to real time
+partial order and
+hard real time
+of tasks with
+future release times
+johnson 10 the
+string interchange relation
+richard s anomalies
+jackson s rule
+with precedence constraints
+scheduling theory results
+a z graph
+and np hard
+advantage to preemption
+a single deadline
+10 the multiprocessor
+np complete 2
+scheduling algorithm can
+minimizing the maximum
+is np hard
+time systems v
+is known about
+and johnson 10
+line scheduling algorithm
+multiprocessor real time
+of periodic tasks
+problem with 2
+no advantage to
+unit computation time
+scheduling of real
+priority of the
+in real time
+of these results
+in overload conditions
+garey and johnson
+is np complete
+the task set
+number of bins
+the scheduling problem
+the highest priority
+constraints shared resources
+polynomial and np
+implication of these
+order and each
+2 pro cessors
+tasks with precedence
+baruah et al
+with 2 pro
+static scheduling algorithm
+scheduling problems ffl
+general precedence constraints
+off line scheduling
+time systems designer
+the scheduling theory
+wei kuan shih
+no resources arbitrary
+the general precedence
+boundary between polynomial
+between polynomial and
+liu and layland
+problems ffl what
+general precedence relation
+a string interchange
+tasks having no
+the tasks having
+with shared resources
+a uni processor
+precedence constraints shared
+scheduling results for
+tasks miss their
+rate monotonic algorithm
+arbitrary partial order
+rate monotonic scheduling
+evaluate the worst
+precedence graph the
+to static scheduling
+resources arbitrary partial
+scheduling list is
+of the tasks
+the priority of
+of the general
+is optimal in
+scheduling problem is
+dynamic scheduling of
+a static schedule
+is a series
+is no advantage
+smith s rule
+ffl what is
+complete 2 theorem
+non preemptive model
+miss its deadline
+minimize the maximum
+problem of scheduling
+2 theorem 4
+problems are np
+from the tasks
+the deadline monotonic
+been found for
+exist for a
+minimizing the number
+real time system
+hardness of the
+a critical section
+of processors required
+many real time
+miss their deadlines
+are np complete
+np hardness of
+what is known
+number of processors
+of on line
+the boundary between
+of tasks and
+time systems the
+real time computing
+on line algorithm
+real time control
+the np hardness
+a real time
+on computer aided
+tasks in the
+the weighted sum
+set of independent
+at run time
+ieee acm international
+related by a
+tasks can be
+computation time is
+a cost function
+et al 3
+optimal in many
+lawler s algorithm
+ffl to prevent
+versus dynamic scheduling
+maximum lateness is
+rise to z
+resources currently available
+cumulative value achieved
+illustrate why this
+used on line
+max lateness but
+time is np
+minimizing maximum lateness
+used for such
+scheduling problems are
+is not np
+the scheduling list
+shortest processing time
+a clairvoyant scheduler
+the precedence constraints
+can be optimal
+tasks have deadlines
+arbitrary release times
+a preemptive model
+deterministic static scheduling
+np are polynomial
+precedence constraints in
+no on line
+to prevent multiple
+important classical scheduling
+ddsched a distributed
+graph the algorithm
+proven theorem 3
+forest partial order
+strings of jobs
+transformable to r
+interest to real
+i e tasks
+ffl understanding the
+run time scheduler
+system level synthesis
+periodic tasks or
+any sequence that
+deadlines the same
+list is built
+no theorem 4
+times precedence constraints
+intrees or outtrees

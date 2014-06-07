@@ -1,0 +1,600 @@
+skewing
+locality
+tomcatv
+nest
+loop
+balance
+tile
+loops
+ow
+stencil
+calculations
+calculation
+scalable
+mw98
+cache
+live
+wl91
+tiling
+stripe
+int
+nests
+iteration
+break
+wol92
+array
+temporaries
+stripes
+arrays
+dependences
+rxm
+rym
+benchmark
+tiles
+wolf
+oating
+cur
+ry
+interference
+rst
+lam
+skew
+residuals
+gj88
+spec95
+kpr95
+ros98
+sw98
+won95
+mct96
+iterations
+ne
+statements
+tridiagonal
+temporary
+inhibit
+outer
+1340
+reindexing
+sixth
+optimizations
+multiplication
+bandwidth
+stencils
+dimension
+spaces
+improving
+unimodular
+fth
+l2
+traverse
+seven
+nn
+grows
+513
+raises
+library
+memory
+transformation
+ding
+latency
+produced
+sustained
+layout
+virtual
+code
+aa
+compile
+transformations
+limits
+hope
+carries
+xed
+grow
+scans
+statement
+omega
+codes
+dependence
+inner
+aect
+occurred
+extremely
+rastislav
+pw98
+smg98
+kristof
+regrouping
+pw93
+6900
+128k
+mcc95
+mlg92
+seshia
+outpace
+strout
+armando
+liviu
+recompress
+maksim
+lezama
+jeanne
+orlovich
+semicoarsening
+taxes
+kreaseck
+shallower
+hypre
+gilad
+9808694
+sanjit
+beyls
+mccalpin
+tancau
+bodik
+block
+completing
+skewed
+reused
+linearly
+sublinearly
+300m
+hollander
+guohua
+permutable
+intermediately
+ferrante
+1028
+michelle
+aberrant
+complier
+saraswat
+2ns
+refactorings
+hoisting
+producing
+192
+expanding
+symbolic
+ignore
+subscript
+contend
+yonghong
+carter
+mills
+ischia
+crummey
+bump
+mellor
+denition
+expand
+supercomputing
+initialize
+seconds
+derives
+matrix
+nd
+empirical
+fourth
+experiences
+proportional
+scsi
+unoptimized
+tiled
+kmp
+lexicographical
+3t
+rosser
+sketching
+4500
+indices
+blocks
+nal
+solar
+erik
+widening
+coerce
+corrupting
+mckinley
+multigrid
+borders
+scalable locality
+time skewing
+time loop
+for int
+are live
+time step
+iteration t
+int for
+a calculation
+achieve scalable
+locality for
+live at
+data ow
+the balance
+balance of
+produce scalable
+compute balance
+in mw98
+machine balance
+the calculation
+do do
+loop nest
+step calculation
+improving locality
+the tomcatv
+in iteration
+int figure
+iteration spaces
+o b
+main memory
+ow of
+in cache
+step calculations
+in tomcatv
+skewing transformation
+time block
+skewing in
+tomcatv benchmark
+wolf and
+seven arrays
+locality we
+problem size
+cache interference
+of calculations
+three point
+iteration of
+matrix multiplication
+the time
+code generation
+locality and
+all loop
+tile size
+a break
+and lam
+the break
+a ne
+the iteration
+virtual memory
+value produced
+break occurred
+break statements
+e loops
+ry i
+of tomcatv
+for tomcatv
+wl91 wol92
+stencil calculations
+each stripe
+solve tridiagonal
+and tiling
+extremely high
+iteration space
+oating point
+value based
+omega library
+balance as
+memory locality
+generation system
+l2 cache
+with extremely
+balance we
+each array
+the ow
+skewing and
+point stencil
+nest of
+the locality
+outer loop
+the loops
+values produced
+is live
+to main
+i loop
+calculation in
+produced in
+the code
+the omega
+current techniques
+the rst
+loop carried
+loop nests
+n values
+data locality
+b g
+values that
+of locality
+the hope
+the loop
+loop bounds
+calculations in
+this dimension
+calculation is
+of time
+ow dependences
+skewing a
+cur i
+locality with
+next tile
+speed has
+initialize c
+skewing on
+the cur
+tomcatv the
+wol92 mct96
+step completing
+two nests
+rst nest
+the tile
+fourth nest
+tiling if
+s sustained
+exhibits scalable
+this nest
+place stencil
+nest is
+time skewed
+high balance
+mw98 we
+of temporaries
+mw98 section
+such calculations
+of stripes
+cache requirements
+stripe by
+locality if
+temporary values
+determine maximum
+locality proceedings
+inhibit scalable
+calculations that
+and rym
+cache requirement
+cur array
+by wolf
+gj88 wl91
+break statement
+live simultaneously
+j dimension
+grows less
+temporaries to
+from wl91
+high machine
+stripes each
+ignore issues
+nest when
+exhibit scalable
+where nn
+skewed code
+sixth nest
+calculation if
+2004 chen
+previous iteration
+optimizations to
+the j
+for figure
+operations performed
+g e
+the outer
+raises the
+arrays of
+end of
+temporaries that
+skewing the
+our cache
+as matrix
+the fth
+transformation systems
+the stripe
+achieving scalable
+live on
+chen ding
+a tile
+measures our
+have results
+locality this
+will t
+come from
+locality of
+the sixth
+perform this
+the time loop
+for int for
+int for int
+scalable locality for
+achieve scalable locality
+in iteration t
+produce scalable locality
+time step calculation
+that are live
+the balance of
+of time skewing
+are live at
+for int figure
+to achieve scalable
+of the time
+live at the
+time skewing transformation
+wolf and lam
+ow of values
+iteration t j
+the time skewing
+time step calculations
+the tomcatv benchmark
+of the calculation
+the data ow
+the value produced
+a time step
+iteration of the
+do do do
+the problem size
+values that are
+the ow of
+t j i
+code generation system
+class of calculations
+with extremely high
+three point stencil
+o b g
+for improving locality
+used in iteration
+the time block
+locality for a
+produced in iteration
+skewing and tiling
+j i of
+to produce scalable
+i of the
+the omega library
+previous iteration of
+the outer loop
+of the outer
+the code generation
+to main memory
+of operations performed
+the end of
+t i of
+the iteration space
+an iteration of
+at the end
+the previous iteration
+the values that
+for time skewing
+measures our ability
+the tile size
+discussed in mw98
+time loop must
+the cur array
+raises the hope
+values are reused
+time skewing a
+machine balance we
+in mw98 we
+inhibit scalable locality
+achieving scalable locality
+this loop nest
+be a ne
+nest of tomcatv
+ignore issues of
+c to zero
+iteration data ow
+operations on o
+which the break
+time skewed code
+outer loop which
+extremely high machine
+locality we must
+calculations for which
+the j dimension
+run with t
+in single assignment
+time optimizations to
+can achieve scalable
+main memory but
+such as matrix
+locality for figure
+as matrix multiplication
+machine balance in
+of temporaries that
+calculation in figure
+in place stencil
+while loops or
+zero for int
+the sixth nest
+the break occurred
+with time skewing
+grows less than
+the next tile
+any time step
+tiling if we
+machine balance as
+the e loops
+step calculation if
+and time skewing
+of value based
+of locality we
+iteration t i
+given in mw98
+ry i j
+values are live
+all seven arrays
+exhibits scalable locality
+extremely high balance
+scalable locality we
+locality proceedings of
+2004 chen ding
+value produced in
+balance of this
+of a calculation
+the fourth nest
+that will t
+to which values
+skewing in this
+a run with
+follow the data
+stripes each of
+the iteration spaces
+j loop from
+time step completing
+initialize c to
+live on entry
+and all loop
+the time skewed
+achieve the appropriate
+within the stripe
+t in cache
+entirely in cache
+time loop in
+the machine balance
+are live simultaneously
+time skewing in
+scalable locality if
+improving locality and
+exhibit scalable locality
+the rst nest
+balance as the
+compile time optimizations
+gj88 wl91 wol92
+b g e
+high machine balance
+domain of our
+wl91 wol92 mct96
+ability to apply
+than linearly with
+by wolf and
+time skewing the
+of scalable locality
+a factor of
+with the problem
+degree of locality
+arrays of size
+spatial locality and
+ow of information
+techniques for improving
+of the loops
+all loop carried
+value of time
+less than linearly
+loop nest of
+algorithm for time
+execution order and
+balance of a
+is live at
+if we rst
+on the dierence
+of spatial locality
+the hope of
+on entry to
+o n b
+our ability to
+the i loop
+per time step
+this raises the
+code generation for
+memory bandwidth and
+current techniques for
+1 i 1
+with the square
+from the values
+the iterations of
+in the original

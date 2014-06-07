@@ -1,0 +1,600 @@
+oaep
+ciphertext
+wayness
+decryption
+rsa
+oracle
+askh
+security
+plaintext
+gammaow
+encryption
+adversary
+succ
+asked
+cca2
+gammapd
+attacks
+shoup
+public
+cbad
+ind
+event
+oracles
+permutation
+rbad
+gbad
+askg
+pkcs
+trapdoor
+unpredictable
+sbad
+pr
+pd
+gammak
+success
+attack
+query
+askrs
+dbad
+ffi
+secret
+ow
+reduction
+bad
+simulator
+sk
+fail
+bits
+semantic
+pk
+her
+cryptosystem
+fl
+outputs
+hash
+queries
+attacker
+askr
+malleability
+ds
+awareness
+asymmetric
+simulation
+probability
+decrypted
+rogaway
+coppersmith
+ut
+v2
+adaptive
+answers
+she
+stronger
+secure
+believed
+ff
+inverted
+lattice
+answer
+unlikely
+exponent
+recover
+lemma
+encrypt
+victor
+against
+events
+partial
+adv
+cryptosystems
+coins
+proven
+bellare
+asks
+reject
+reducibility
+notions
+random
+adversaries
+encrypted
+concatenated
+famous
+rejects
+reaction
+repair
+gets
+delta
+plain
+strongest
+scenario
+k1
+queried
+fresh
+feistel
+rfc2437
+2k0
+thanq
+gammaae
+maskeddb
+maskedseedkmaskeddb
+gammaoe
+xff
+wording
+misbehaving
+epoc
+lunchtime
+onewayness
+cca1
+spotted
+maskedseed
+asking
+lattices
+soon
+equalities
+corrected
+challenge
+f0
+1g
+gaussian
+modular
+thanks
+simulate
+plaintexts
+multiplicatively
+anybody
+rameter
+conversion
+uniquely
+semantically
+simulates
+meaningfully
+boneh
+encryptions
+fraction
+message
+reconsidered
+forgetting
+repairs
+reduc
+root
+phi
+wants
+corrects
+plications
+univariate
+encrypts
+lists
+correctly
+omega
+recalls
+flaw
+trailing
+extractor
+resp
+theta
+pre
+image
+preclude
+indistinguishability
+rabin
+runs
+looks
+ae
+oe
+split
+notations
+conditioning
+alice
+insecure
+mutation
+self
+2t
+modulus
+former
+probabilistic
+messages
+negligible
+insist
+overwhelming
+bookkeeping
+one wayness
+decryption oracle
+domain one
+partial domain
+wayness of
+the decryption
+rsa oaep
+success probability
+asked to
+of oaep
+chosen ciphertext
+semantic security
+the rsa
+ciphertext c
+been asked
+public key
+s gammapd
+oracle simulation
+gammapd gammaow
+oracles g
+adaptive chosen
+of rsa
+h list
+the adversary
+h respectively
+oracle and
+and h
+security of
+ciphertext attacks
+succ pd
+2 gammak
+pd gammaow
+significant bits
+the ciphertext
+the reduction
+q g
+the security
+is unpredictable
+succ s
+event that
+g and
+the partial
+random oracles
+a ciphertext
+gammaow a
+g list
+probability succ
+the oaep
+within time
+the encryption
+the random
+the event
+to g
+to h
+h s
+set partial
+random oracle
+q h
+adversary a
+security result
+cca2 adversary
+pkcs 1
+h ffi
+oaep is
+ind cca2
+succ ow
+gammak 0
+rsa function
+th root
+adversary against
+j askh
+key encryption
+against adaptive
+the success
+h queries
+ciphertext attack
+e th
+hash functions
+security against
+random value
+pre image
+any adversary
+encryption scheme
+q d
+functions g
+list and
+that oaep
+trapdoor one
+ciphertext this
+security notions
+partial pre
+proof 3
+asymmetric encryption
+encryption oracle
+fail cbad
+gaussian reduction
+plaintext awareness
+a cca2
+gammaow succ
+event fail
+rsa problem
+making q
+challenge ciphertext
+queries asked
+pr fail
+way permutation
+of plaintext
+valid ciphertext
+event means
+askh occurs
+oracle simulator
+time bound
+g delta
+function f
+the permutation
+bits of
+d q
+the public
+bounded by
+outputs a
+secret key
+the plaintext
+an good
+split according
+permutation f
+victor shoup
+modular equation
+ciphertext of
+full domain
+g fl
+the secret
+encryption schemes
+query answer
+whose running
+query c
+algorithm k
+unpredictable and
+queries to
+probability of
+denotes the
+of f
+f means
+stronger assumption
+running time
+upper bounded
+the g
+constant fraction
+which on
+most significant
+with probability
+is upper
+the hash
+oracle model
+be proven
+than 2
+one gets
+least significant
+reduction is
+a random
+security analysis
+under the
+delta 2
+the h
+and thus
+implies askg
+awareness 1
+askh q
+plaintext attack
+former event
+oracle indeed
+any ciphertext
+having asked
+a decryption
+occurs h
+of decryption
+since partial
+any trapdoor
+gbad implies
+quite unlikely
+events about
+when askh
+ffi h
+trapdoor permutation
+simulations below
+bad values
+rsa with
+oaep from
+oaep conversion
+proven under
+one outputs
+new computational
+plaintext checking
+been encrypted
+pr askg
+latter event
+event askh
+public data
+reaction attacks
+answers whether
+attacks 10
+domain one wayness
+one wayness of
+partial domain one
+the decryption oracle
+the partial domain
+wayness of the
+to the decryption
+been asked to
+asked to h
+wayness of f
+g and h
+adaptive chosen ciphertext
+and h respectively
+succ s gammapd
+s gammapd gammaow
+asked to g
+oracles g and
+the one wayness
+decryption oracle and
+the success probability
+chosen ciphertext attacks
+succ pd gammaow
+random oracles g
+has been asked
+the event that
+set partial domain
+under the partial
+within time bound
+decryption oracle simulation
+functions g and
+denotes the event
+the random oracle
+public key encryption
+against adaptive chosen
+oracle and the
+adversary against the
+q g delta
+the rsa function
+success probability succ
+security of rsa
+s is unpredictable
+of the decryption
+for any adversary
+of rsa oaep
+2 gammak 0
+the e th
+q d q
+semantic security against
+d q g
+against the semantic
+g list and
+hash functions g
+g and q
+e th root
+and q h
+success probability of
+the security of
+of the permutation
+of the reduction
+semantic security of
+significant bits of
+chosen ciphertext attack
+q h queries
+h s is
+h queries to
+the semantic security
+q g and
+a random value
+queries to the
+most significant bits
+the hash functions
+the secret key
+under the one
+from the encryption
+the gaussian reduction
+event means that
+a cca2 adversary
+of f means
+the encryption oracle
+r is unpredictable
+and h list
+g delta 2
+a is upper
+cca2 adversary against
+the partial pre
+decryption oracle simulator
+queries asked to
+trapdoor one way
+making q d
+be a cca2
+of the rsa
+gammapd gammaow a
+one way permutation
+the random oracles
+security of oaep
+the challenge ciphertext
+delta 2 gammak
+th root of
+the g list
+h respectively then
+r has been
+list and h
+of plaintext awareness
+the public key
+security against adaptive
+the h list
+r to g
+least significant bits
+split according to
+and the hash
+a ciphertext c
+is upper bounded
+f means that
+any adversary a
+whose running time
+time is bounded
+upper bounded by
+bits of the
+to g and
+bounded by where
+denotes the time
+random oracle model
+means that for
+of function f
+the reduction is
+to the partial
+to the random
+the time complexity
+by the adversary
+the rsa problem
+an good lattice
+latter event means
+proof 3 based
+askg j askh
+one outputs a
+and random oracles
+between two messages
+that relation holds
+such a security
+full domain one
+list of queries
+these simulations below
+askh occurs h
+application of oaep
+event that r
+having asked r
+significant bits are
+checking oracle which
+plaintext awareness 1
+the latter event
+corrected definition of
+the oaep conversion
+given a message
+be proven under
+to be decrypted
+asked r to
+oracle simulation ds
+of any ciphertext
+key encryption schemes
+respectively see the
+shoup s result
+actually be proven
+as the ciphertext
+pd gammaow a
+security proof exists
+quite unlikely that
+event that query
+should be negligible
+respectively then succ
+of her choice
+occurs h s
+the random self
+defined and thus
+the oaep cryptosystem
+than 2 gammak
+adversary a whose
+chosen plaintext attack
+one wayness the
+the underlying permutation
+the corrected definition
+15 recently showed
+concatenated to the
+except the challenge
+gammaow a is
+any trapdoor one
+be split according
+rsa oaep can
+of our reduction
+the set partial
+probability succ s
+secure under the
+pre image s
+partial pre image
+image s of
+shoup 15 recently
+is quite unlikely
+succ ow a
+of oaep from
+time bound t
+is an good

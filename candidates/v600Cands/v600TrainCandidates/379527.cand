@@ -1,0 +1,600 @@
+port
+ports
+buffer
+bac
+clr
+fluid
+multiplexing
+reservation
+underloaded
+admitted
+occupancy
+emw95
+traffic
+allocations
+lossless
+connections
+dt
+nominal
+admission
+border
+bandwidth
+qos
+cac
+regulated
+i2o
+lzt97
+dq
+overloaded
+trunk
+leaky
+stickiness
+rrr97
+atm
+sharing
+rogue
+underload
+multiport
+thresholds
+flows
+fairshare
+emi97
+events
+bucket
+capacity
+extremal
+sources
+allocation
+cell
+resource
+statistical
+queue
+regulators
+fractions
+rate
+buffers
+globally
+misbehaving
+cells
+effort
+aggregate
+peak
+dual
+fraction
+simulations
+carrying
+regulator
+waveforms
+event
+unconditional
+overload
+virtual
+instant
+fair
+admitting
+connection
+ton
+delay
+status
+priority
+burst
+fairness
+legal
+conditional
+balanced
+fflport
+15mbps
+rei91
+shared
+chernoff
+occupancies
+offered
+fq
+superscript
+tacit
+queueing
+crossings
+fifo
+rates
+backlogged
+policed
+admit
+management
+isolation
+kmax
+periodic
+inhomogeneity
+fi
+logical
+permitted
+simulation
+threshold
+protection
+till
+partitioning
+regulation
+adversarial
+behaved
+ij
+vbr
+off
+switch
+priorities
+discontinuous
+max
+reserved
+net
+shaping
+mix
+utilization
+going
+maximized
+mbps
+service
+homogeneous
+undergoes
+exercised
+heterogeneity
+uniformly
+source
+min
+bandwidths
+profile
+specifications
+wherein
+resources
+loss
+queues
+throughput
+across
+bn
+epa97
+wma95
+gcg95
+mgh91
+cha93
+irl78
+key90
+swr97
+bandwidthtrade
+fgo83
+mzi96
+emi94
+hbo93
+guanhua
+tariffs
+reisslein
+rwm95
+attractors
+lopresti
+cupancy
+mzi97
+iness
+aki84
+leb96
+desired000000000000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111111111111
+bmi97
+bino
+mmo95
+rajagopal
+cha96
+4and
+csz93
+lzi97
+greedy
+piece
+classes
+fb
+stringent
+hyperplane
+slowly
+conservatively
+eg
+period
+protect
+ratios
+ik
+wise
+trunks
+depar
+dilution
+port i
+each port
+reservation parameters
+the bac
+the buffer
+the reservation
+lossless multiplexing
+the port
+s l
+for port
+nominal allocations
+best effort
+statistical multiplexing
+across ports
+buffer admission
+port system
+dual leaky
+port 1
+port n
+connections through
+clr conditional
+fluid simulations
+virtual partitioning
+the ports
+shared buffer
+admission control
+of connections
+of fluid
+is admitted
+buffer occupancy
+buffer management
+the globally
+on off
+fluid simulation
+ports with
+ports in
+leaky bucket
+r u
+ports are
+border fluid
+in emw95
+fluid from
+4 port
+underloaded ports
+through port
+multiport system
+l i2o
+multiplexing framework
+allocations b
+overloaded ports
+i2o s
+dq dt
+on port
+the clr
+bac is
+fraction fi
+total occupancy
+reservation mechanism
+dq i
+the sources
+regulated traffic
+port 4
+bandwidth constrained
+design problem
+to port
+the fluid
+conditional on
+ports is
+buffer allocations
+port systems
+globally balanced
+capacity k
+bac the
+class port
+border ports
+off periodic
+these ports
+this port
+qos requirements
+l s
+single port
+and bandwidth
+the nominal
+the qos
+fluid generated
+logical queue
+trunk reservation
+traffic class
+other ports
+global threshold
+effort traffic
+the border
+the traffic
+a lossless
+the lossless
+offered to
+a port
+peak rate
+dt dt
+guaranteed service
+single resource
+max problem
+ports that
+cell level
+buffer capacity
+of port
+queue for
+ports and
+through each
+going into
+connections for
+traffic through
+control scheme
+and buffer
+lzt97 and
+border flows
+fair efficient
+affected ports
+admitted fluid
+emw95 lzt97
+aggregate output
+port level
+fluid of
+fluid rates
+globally bandwidth
+multiplexing advantage
+complete sharing
+fluid going
+fq i
+dt s
+all fluid
+class profile
+buffer bandwidth
+ports r
+unconditional clr
+port status
+multiplexing the
+class j
+generalized processor
+of class
+port is
+the multiplexing
+rate function
+min max
+the min
+buffers and
+delay bound
+processor sharing
+bucket regulators
+balanced case
+for ports
+i dt
+threshold crossings
+bucket regulator
+or connections
+multiplexing gain
+their nominal
+equation dt
+all ports
+this instant
+connections which
+memory atm
+the rate
+loss probability
+the peak
+output bandwidth
+and extremal
+is underloaded
+buffer resources
+traffic classes
+by dual
+dt 2
+next event
+a shared
+the legal
+of fairness
+are admitted
+connection admission
+wise constant
+source rate
+the admitted
+rate process
+fi of
+for class
+connections in
+optimal buffer
+constrained case
+rate of
+time scale
+and robust
+in buffer
+each class
+total buffer
+these thresholds
+cell loss
+bandwidth to
+a fraction
+allocations and
+buffer allocation
+i g
+the reservation parameters
+for port i
+for each port
+buffer admission control
+clr conditional on
+dual leaky bucket
+s l s
+l s l
+of the reservation
+s l i2o
+buffers and bandwidth
+conditional on port
+i2o s l
+l i2o s
+the bac is
+through each port
+of the bac
+the nominal allocations
+port n is
+lossless multiplexing framework
+the total occupancy
+the min max
+port 1 is
+a lossless multiplexing
+the border fluid
+sharing the buffer
+port i at
+in the globally
+of connections through
+shared buffer management
+on off periodic
+the reservation mechanism
+rate of fluid
+4 port system
+reservation parameters are
+connections through each
+to port i
+port i is
+the design problem
+best effort traffic
+fraction fi of
+number of connections
+efficient and robust
+a single resource
+min max problem
+of the buffer
+generalized processor sharing
+the loss probability
+the best effort
+the clr conditional
+bandwidth constrained case
+periodic and extremal
+the capacity k
+port i the
+fluid simulation of
+the traffic class
+globally balanced case
+aggregate output bandwidth
+dq i dt
+traffic class profile
+ports r u
+off periodic and
+dt s l
+the globally balanced
+fair efficient and
+to all ports
+the globally bandwidth
+the buffer admission
+fluid going into
+globally bandwidth constrained
+logical queue for
+the equation dt
+traffic through port
+the lossless multiplexing
+connections for port
+by dual leaky
+of class j
+the connections for
+total buffer occupancy
+capacity k is
+leaky bucket regulators
+shared memory atm
+classes of connections
+in a lossless
+the traffic through
+connection admission control
+in the lossless
+and bandwidth to
+of fluid generated
+i e q
+bandwidth and buffer
+buffer management scheme
+of the port
+the shared buffer
+of the border
+a shared buffer
+piece wise constant
+the piece wise
+i at time
+loss probability for
+the peak rate
+problem of optimal
+a problem of
+the sources are
+to the buffer
+notion of fairness
+may be called
+reduction to a
+on account of
+at time t
+in this case
+this case the
+through port 4
+ports is admitted
+well behaved ports
+source time scale
+parameters are common
+single port systems
+from overloaded ports
+this port level
+a fifo logical
+on off waveforms
+underloaded ports and
+carrying regulated traffic
+port overload clr
+conditional on underload
+fi of border
+all connections through
+priority in accessing
+bac is active
+particular notion of
+and border ports
+best effort class
+the maximum capacity
+port 4 in
+is admitted since
+fflport i is
+analysis of events
+advantage between ports
+a 4 port
+are set conservatively
+buffer trunk system
+offered to port
+the constraint implied
+queue for port
+of virtual partitioning
+fluid from ports
+discrete event fluid
+a buffer allocation
+offered to the
+any multiplexing advantage
+integrated with connection
+for any port
+to port 1
+from sharing the
+2 s l
+are on off
+port i consists
+our bac the
+the fluid system
+nominal allocations and
+for these ports
+port i are
+class profile j
+lzt97 and rrr97
+is a fifo
+b c ton
+port underload clr
+fluid is admitted
+of fluid going
+the buffer resource
+are k connections
+single port system
+wise constant rate
+the logical queue
+bandwidth to ports
+rate waveforms which
+for regulated traffic
+connections through the
+multiplexing advantage between
+port ffl type
+after this instant
+cases the clr
+scheme for atm
+n port system
+ports that are
+is admitted i
+in their statistical
+port may support
+border fluid is
+port system is
+chernoff asymptotic approximation
+the buffer bandwidth
+amount of throughput
+traffic shaping at
+sharing and max
+r s ij
+on buffer admission
+till the next
+the unconditional clr

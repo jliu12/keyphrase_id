@@ -1,0 +1,600 @@
+schur
+preconditioners
+complement
+sapinv
+slu
+gmres
+preconditioning
+factorization
+unknowns
+bj
+dash
+lfil
+sparse
+lu
+ilu
+sapinvs
+preconditioner
+fgmres
+approximate
+ilut
+interface
+matrix
+preconditioned
+inverse
+si
+schwarz
+subdomain
+iterative
+iteration
+krylov
+raefsky1
+jacobi
+star
+solvers
+dot
+minnesota
+processors
+precon
+sherman3
+block
+matrices
+solves
+approximations
+psparslib
+laplacean
+additive
+iterations
+elliptic
+external
+sor
+processor
+pe
+viewpoint
+ext
+parpre
+nonconvergence
+360
+subdomains
+residual
+complements
+mesh
+nonzeros
+subspace
+fill
+subvector
+incomplete
+solid
+interior
+umn
+approximation
+borrows
+asterisk
+accelerator
+subproblem
+shen
+arnoldi
+decomposition
+multilevel
+grand
+enddo
+chi
+jun
+circle
+dropping
+saad
+seconds
+harwell
+platforms
+boeing
+diagonal
+norm
+convergence
+environments
+rhs
+global
+reordered
+10010305070processors
+10051525processors
+2496
+9618827
+duluth
+3242
+100100200300400processors
+systemb
+55812
+1699
+jaekel
+nordhausen
+hachiya
+neapolis
+6processors
+aztec
+subrectangle
+subrectangles
+basermann
+unsymm
+sparslib
+extracting
+inverses
+rows
+preprocessing
+primary
+induced
+approximated
+precondition
+moderate
+frobenius
+supercomputer
+parallelism
+guess
+davis
+equations
+acts
+pde
+q2s
+masha
+22316
+1275
+symm
+1685
+1284
+5005
+sosonkina
+amounted
+sparsity
+nonsymmetric
+package
+subproblems
+flexible
+petsc
+60nanb2d1272
+1475
+subvectors
+ential
+20033
+transpose
+backward
+coupled
+55455
+conformally
+heller
+af23560
+1451
+internal
+exploiting
+tech
+approximately
+exchange
+disregards
+canonically
+overheard
+kwk
+cf
+nonzero
+counts
+zhang
+multiplication
+solve
+gv
+impede
+sublists
+collections
+virtual
+subsection
+grid
+idling
+solving
+minimization
+partitioner
+reservoir
+blocks
+489
+lf
+institute
+nist
+projector
+neighboring
+rectangular
+oil
+exploits
+schur complement
+complement system
+the schur
+vector components
+approximate inverse
+lu factorization
+local schur
+global schur
+global system
+the global
+sparse linear
+complement techniques
+interface unknowns
+local equations
+linear systems
+s i
+block lu
+the local
+inverse technique
+interface vector
+dash star
+line bj
+line slu
+sapinv dash
+star line
+line sapinv
+y i
+ilu factorization
+m s
+interface variables
+interface points
+primary iteration
+local right
+bj dash
+domain decomposition
+dot line
+complement matrix
+dash dot
+the interface
+additive schwarz
+matrix vector
+fgmres 20
+complement s
+complement iteration
+solve with
+the preconditioning
+system 7
+external interface
+approximate lu
+the matrix
+preconditioners for
+line si
+dash circle
+unknowns y
+slu dash
+circle line
+distributed preconditioners
+solves with
+hand side
+an approximation
+of fgmres
+global preconditioner
+local vector
+factorization for
+components y
+system 22
+the approximate
+linear system
+an approximate
+right hand
+general sparse
+distributed sparse
+approximation s
+of processors
+local matrix
+in elements
+a block
+inverse techniques
+solid line
+global unknowns
+lu preconditioner
+and sapinvs
+sapinv and
+induced preconditioners
+local interface
+schur lu
+subproblem sizes
+schwarz preconditioning
+precon lfil
+name precon
+pe solid
+approximations to
+schur complements
+a i
+krylov subspace
+in line
+reduced system
+matrix y
+each pe
+approximation to
+block jacobi
+the preconditioners
+i ext
+parallel overhead
+each processor
+unknowns that
+shen jun
+approximate schur
+chi shen
+backward solves
+of gmres
+preconditioning techniques
+approximate block
+a solve
+iterative solvers
+matrix a
+fill in
+iterative solution
+an lu
+sparse matrix
+an ilu
+global matrix
+diagonal blocks
+preconditioner m
+these preconditioners
+jun zhang
+g 19
+20 iterations
+algorithm 3
+the external
+test problems
+preprocessing phase
+large sparse
+sparse approximate
+preconditioned gmres
+forward backward
+x i
+develop preconditioners
+laplacean problem
+approximated version
+exchange interface
+and slu
+sapinv sapinvs
+indicates nonconvergence
+pure schur
+boeing and
+interior unknowns
+360 theta
+preconditioners constructed
+sparse iterative
+nonconvergence in
+davis collections
+local subproblem
+factorization m
+reordered version
+lfil fill
+schur unknowns
+its approximated
+external vector
+processors seconds
+local unknowns
+fgmres 16
+preconditioners consist
+for sapinv
+global viewpoint
+environments iterative
+ilut preconditioned
+matrix in
+iteration counts
+iteration on
+jacobi iteration
+incomplete lu
+defined from
+solution time
+solution techniques
+a krylov
+are coupled
+data structure
+elliptic partial
+seconds in
+b i
+decomposition methods
+of nonzeros
+complement the
+the matrices
+internal vector
+approximate solve
+block vector
+g gmres
+gmres to
+preconditioned schur
+this solve
+gmres 1
+memory environments
+theta 360
+ilut with
+system related
+a reordered
+block independent
+distributed approximate
+schur complement system
+the schur complement
+the global system
+global schur complement
+the global schur
+schur complement techniques
+sparse linear systems
+approximate inverse technique
+the local schur
+line sapinv dash
+interface vector components
+sapinv dash star
+local schur complement
+dash star line
+dot line sapinv
+solid line bj
+star line slu
+block lu factorization
+the approximate inverse
+schur complement matrix
+dash dot line
+line bj dash
+local right hand
+bj dash dot
+m s i
+to the schur
+schur complement s
+schur complement iteration
+matrix y i
+circle line si
+of fgmres 20
+the primary iteration
+slu dash circle
+dash circle line
+lu factorization for
+line slu dash
+vector components y
+right hand side
+to the local
+the local matrix
+an approximate lu
+approximate lu factorization
+the external interface
+for the global
+general sparse linear
+in each pe
+fill in elements
+approximation to s
+on the global
+approximations to the
+approximate inverse techniques
+a block jacobi
+the interface points
+each pe solid
+forward backward solves
+local vector components
+fgmres 20 iterations
+pe solid line
+the interface variables
+the global unknowns
+seconds in each
+y i ext
+interface unknowns y
+the local vector
+20 iterations for
+number of fgmres
+the local right
+the local equations
+local schur complements
+complement system 7
+approximate schur lu
+name precon lfil
+sapinv and sapinvs
+additive schwarz preconditioning
+of the schur
+global preconditioner m
+a solve with
+schur complement the
+an approximation s
+matrix m s
+all the interface
+the global preconditioner
+components y i
+backward solves with
+approximate block lu
+local matrix a
+complement system is
+in each processor
+chi shen jun
+shen jun zhang
+distributed data structure
+hand side of
+an approximation to
+of these preconditioners
+number of processors
+for the schur
+the solution time
+an lu factorization
+l s i
+factorization for the
+in the preconditioning
+e g 19
+the right hand
+iteration on the
+large sparse linear
+the reduced system
+preconditioners for the
+acts on the
+domain decomposition methods
+matrix a i
+incomplete lu factorization
+algorithm 3 2
+a krylov subspace
+preconditioning techniques for
+harwell boeing and
+several distributed preconditioners
+using an ilu
+solution step with
+reordered version of
+system 5 or
+schur lu preconditioner
+given local right
+ilu factorization for
+exchange interface vector
+gmres 1 given
+with local equations
+boeing and davis
+local interface unknowns
+distributed computing environments
+distributed sparse linear
+20 22 14
+internal vector components
+its approximated version
+vector components are
+direction and n
+unknowns y i
+i which acts
+ilut preconditioned gmres
+global system 1
+approximation s i
+distributed linear systems
+on schur complement
+problem name precon
+laplacean problem with
+pure schur complement
+system related to
+and davis collections
+local equations 2
+preconditioners consist of
+reduced system 7
+an approximate solve
+external interface vector
+environments iterative methods
+distributed approximate block
+subspace methods in
+for distributed sparse
+global system 15
+lu preconditioner to
+available then an
+step with gmres
+preconditioned schur complement
+external vector components
+a reordered version
+see 20 22
+x points in
+virtual processor grid
+complement s i
+unknowns that are
+lfil fill in
+complement matrix is
+global matrix vector
+1 given local
+local subproblem sizes
+sparse iterative solvers
+to develop preconditioners
+indicates nonconvergence in
+jacobi iteration on
+external interface unknowns
+the schur unknowns
+360 theta 360
+develop preconditioners for
+inverse technique in
+factorization m s
+approximate solve with
+interface unknowns that
+with lfil fill
+complement techniques are
+flexible gmres 10
+lu factorization m
+degree of parallelism
+of nonzeros in
+can be obtained
+to a block
+iterations for the
+for sparse linear
+number of nonzeros
+the parallel overhead
+and its block
+as is known
+block independent set

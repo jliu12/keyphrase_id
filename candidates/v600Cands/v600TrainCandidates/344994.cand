@@ -1,0 +1,600 @@
+ipcg
+pcg
+cg
+inner
+inexact
+preconditioned
+convergence
+ang
+outer
+preconditioner
+mz
+orthogonality
+stopping
+conjugate
+kr
+superlinear
+res
+iteration
+steepest
+gradient
+acute
+golub
+sin
+sor
+threshold
+sd
+chebyshev
+residual
+descent
+residuals
+iterations
+richardson
+saddle
+laplacian
+overton
+oek
+kaas
+munthe
+numerical
+kunoth
+kqk
+angle
+rate
+gammag
+stanford
+iterative
+norm
+eta
+counts
+gamma1
+kpk
+manitoba
+angela
+uzawa
+extreme
+sccm
+cos
+478
+jz
+oe
+definite
+phenomenon
+criterion
+orthogonal
+insensitive
+az
+232
+norms
+solvers
+2n2
+9403899
+gammataz
+burstedde
+95stopping
+umanitoba
+kantrovich
+9stopping
+apn
+r3t
+tridiagonal
+preconditioners
+artificially
+discretization
+10000
+remark
+verses
+amath
+threshhold
+minimization
+precision
+136
+thresholds
+behaviour
+giladi
+pessimistic
+jacobi
+lemma
+fl
+slope
+formulate
+shall
+elliptic
+heuristic
+penrose
+gammasin
+matrix
+consecutive
+am
+1000
+interestingly
+recurrence
+kvk
+winnipeg
+trend
+912
+perturbation
+elman
+curves
+94305
+annihilation
+descend
+unperturbed
+mail
+keller
+inequality
+proposition
+eigenvalues
+resp
+tests
+diagonal
+carsten
+maintained
+perturbing
+benzi
+awaiting
+balancing
+triangular
+superlinearly
+appendix
+mathematics
+gamma8
+850
+unsolved
+advocate
+supposing
+itera
+ye
+berlin
+477
+nearly
+gradual
+destroyed
+ticular
+sharper
+ranging
+gammar
+lecture
+wavelets
+magnitude
+product
+gamma0
+cond
+319
+enjoy
+preserved
+tables
+sharply
+rn
+solving
+inverse
+michele
+regime
+418
+cf
+convenience
+750
+krylov
+categories
+wavelet
+inverses
+converge
+converges
+1982
+discrete
+substituting
+gamma6
+compensated
+dms
+minimizes
+solved
+299
+satisfied
+listed
+symmetric
+preconditioning
+moore
+cholesky
+seems
+prop
+canada
+inner iteration
+inexact preconditioned
+outer iteration
+of ipcg
+convergence property
+stopping threshold
+preconditioned conjugate
+outer iterations
+the inner
+conjugate gradient
+convergence rate
+pcg with
+the stopping
+linear convergence
+superlinear convergence
+m gamma1
+the superlinear
+for ipcg
+the outer
+the inexact
+r n
+the convergence
+inner outer
+z t
+numerical examples
+acute angle
+r t
+orthogonality among
+kr n
+laplacian preconditioner
+local orthogonality
+preconditioner l
+gradient algorithm
+z n
+iteration counts
+heuristic choice
+gamma1 inner
+actual convergence
+convergence bound
+minimization property
+of inner
+steepest descent
+discrete laplacian
+inner product
+larger j
+the steepest
+oe n
+the acute
+that kr
+local relation
+cg cg
+ipcg we
+kr sd
+cg sor
+algorithm ipcg
+inexact case
+cg pcg
+the preconditioner
+linear systems
+and outer
+inner and
+exact case
+actual rate
+a gamma1
+convergence of
+point problems
+an inexact
+saddle point
+the bound
+gamma1 norm
+inner solvers
+smaller j
+with sin
+golub and
+from r
+certain point
+iterative method
+the residual
+for cg
+the m
+residual norms
+gradient method
+the preconditioned
+preconditioner m
+n in
+for smaller
+fl n
+inner iterations
+angle between
+stopping criterion
+a global
+reduction factor
+iteration is
+global equation
+total inner
+criterion ang
+kaas 8
+preconditioned steepest
+exact pcg
+0 seems
+ipcg by
+kpk kqk
+eta sin
+sor cg
+theoretical convenience
+triangular relation
+exact cg
+munthe kaas
+consecutive residual
+mz n
+jz t
+threshold eta
+bound 00
+by munthe
+az n
+ang with
+with discrete
+for solving
+symmetric positive
+descent method
+the chebyshev
+with inner
+iterations a
+the orthogonality
+j 0
+cg itself
+r sd
+convergence curves
+inverse norm
+theta convergence
+cg or
+preserved which
+convergence characteristic
+a inverse
+gammag n
+let from
+sin theta
+angela kunoth
+iteration numerical
+analysis showing
+richardson iterative
+rate bound
+different inner
+kunoth fast
+cos 1
+orthogonal to
+numerical tests
+the residuals
+sd a
+a cos
+ang is
+chebyshev iteration
+two numerical
+m inner
+the rate
+we obtain
+jacobi preconditioner
+1 sin
+rate depending
+definite system
+chebyshev and
+solving linear
+iteration a
+counts for
+a preconditioner
+fast iterative
+sor with
+and overton
+direction p
+of residuals
+of pcg
+positive definite
+a heuristic
+an inner
+of exact
+for larger
+by cg
+property when
+the saddle
+in balancing
+t z
+change of
+norm of
+examples in
+of inexact
+its bound
+following local
+global minimization
+our numerical
+extremely sensitive
+product are
+step of
+k a
+trend of
+slope is
+rate may
+cg and
+even n
+norms we
+iterative solution
+the inner iteration
+the outer iteration
+inexact preconditioned conjugate
+preconditioned conjugate gradient
+superlinear convergence property
+a linear convergence
+in the inner
+the superlinear convergence
+of the stopping
+the stopping threshold
+inner outer iterations
+conjugate gradient algorithm
+laplacian preconditioner l
+kr n 1
+heuristic choice of
+discrete laplacian preconditioner
+for larger j
+an inexact preconditioned
+the inexact preconditioned
+actual convergence rate
+the m gamma1
+a heuristic choice
+gamma1 inner product
+m gamma1 inner
+and outer iterations
+inner iteration is
+the acute angle
+acute angle between
+1 k a
+n in the
+n 1 k
+numerical examples in
+the exact case
+with inner outer
+the inexact case
+linear convergence property
+with discrete laplacian
+counts for cg
+convergence of ipcg
+orthogonality among the
+linear convergence bound
+for smaller j
+inner and outer
+saddle point problems
+the steepest descent
+the actual convergence
+with a preconditioner
+the convergence rate
+from r t
+a local relation
+of the steepest
+in the m
+z t z
+for the chebyshev
+conjugate gradient method
+iteration counts for
+steepest descent method
+symmetric positive definite
+to the change
+inner product are
+between consecutive residual
+iterations a inverse
+munthe kaas 8
+theta convergence rate
+the theoretical convenience
+convergence property when
+the local orthogonality
+if z n
+magnitude of j
+kr sd a
+stopping threshold for
+two numerical examples
+a inverse norm
+have the superlinear
+numbers of inner
+balancing the numbers
+of inner iteration
+that some local
+property when the
+direction p n
+a global equation
+by munthe kaas
+gradient algorithm ipcg
+angle between u
+j 0 seems
+threshold eta sin
+iteration is carried
+preconditioned steepest descent
+follows from r
+norm of residuals
+stopping threshold in
+pcg with the
+convergence property we
+analysis showing the
+rate bound 00
+a triangular relation
+step of inner
+sin theta convergence
+different inner solvers
+convergence curves for
+bound for ipcg
+at certain point
+property of exact
+and its bound
+among the residual
+actual rate bound
+consecutive residual norms
+the a gamma1
+inner iteration numerical
+0 seems to
+eta sin theta
+that kr sd
+of ipcg we
+a gamma1 norm
+convergence bound for
+a cos 1
+cos 1 sin
+jacobi preconditioner m
+relation between consecutive
+of exact cg
+global minimization property
+inverse norm of
+r n 1
+solving linear systems
+convergence rate is
+a symmetric positive
+for solving linear
+where we note
+kunoth fast iterative
+the m inner
+m inner product
+local relation between
+gamma1 norm of
+rate and its
+orthogonal to u
+the chebyshev iteration
+obtain r t
+angela kunoth fast
+residual norms we
+fast iterative solution
+a rate depending
+by the orthogonality
+golub and overton
+that for smaller
+outer iteration in
+search direction p
+reduction factor of
+insensitive to the
+the stopping criterion
+the algorithm may
+an iterative method
+to increase significantly
+in balancing the
+rate is relatively
+outer iteration and
+the trend of
+inner iteration to
+of iterations a
+obtain the following
+one step of
+starts to increase
+block jacobi preconditioner
+an inner iteration
+of inner and
+from r n
+our numerical tests
+such that kr
+positive definite system
+rate depending on
+is the discretization
+inner iteration the
+the change of
+iterative solution of
+the saddle point
+listed in tables
+solution of elliptic
+the residual vectors
+gradient algorithm for
+rate may be
+for the theoretical
+for even n
+algorithm may have
+the slope is
+the block jacobi
+the reduction factor
+if the inner
+n 6 0
+convergence rate in
+with a rate
+gradient method for
+the discrete laplacian
+the following local
+as in 9
+results are listed
+threshold in the
+may have the
+convergence property of
+extremely sensitive to
+p n in
+convergence rate and

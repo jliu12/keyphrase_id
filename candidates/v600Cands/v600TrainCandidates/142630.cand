@@ -1,0 +1,600 @@
+server
+audio
+client
+rpc
+speech
+telnet
+sound
+servers
+clients
+asynchronous
+play
+callback
+recording
+sm
+playing
+bsm
+vox
+file
+recognition
+window
+interface
+ascii
+asynchronousmessages
+manager
+record
+remote
+socket
+xt
+media
+synchronous
+dirname
+dtmf
+int
+playback
+events
+calls
+ev
+voice
+registered
+library
+void
+recorded
+played
+recognizer
+snd
+rpcs
+debugging
+sent
+schmandt
+s_start
+telephone
+priority
+graphical
+interactively
+requests
+fd
+request
+queuing
+buffers
+sparcstation
+service
+sounds
+stub
+asynchronously
+programmatic
+string
+communicates
+prototyping
+interfaces
+reply
+generator
+message
+queued
+multimedia
+command
+tools
+files
+workstation
+interactive
+priorities
+recognizers
+speechresearch
+arons
+phoneserver
+3457
+3604
+speechskimmer
+commands
+connection
+locking
+messages
+built
+status
+speaker
+stubs
+skimming
+preemption
+keyboard
+toolkit
+interpreter
+byte
+manage
+mail
+activity
+pause
+dispatching
+stream
+communicating
+crafting
+lock
+8000
+microsystems
+descriptor
+chris
+arguments
+greeting
+receive
+callbacks
+shutdown
+temporal
+ubiquitous
+communications
+started
+mouse
+parties
+compiler
+preempt
+vu
+packets
+event
+supports
+halt
+macintosh
+dir
+services
+incoming
+silence
+internetworking
+termination
+handled
+modal
+sends
+directory
+peers
+barry
+tcp
+sockets
+device
+devices
+answering
+specification
+mechanism
+meter
+serialization
+resources
+names
+resumed
+logging
+font
+rapid
+strings
+apple
+protocol
+terminated
+shortened
+interests
+symmetrical
+finished
+supporting
+stamp
+peer
+sun
+session
+user
+specifications
+prevalent
+capturing
+ip
+locked
+dec
+604s
+betweenclients
+anrpc
+s_get_length
+synchronousrpc
+suchas
+hyperspeech
+returnvalue
+processeswithout
+slott
+managerhandles
+deserialization
+bemodifiedbyaremote
+backgroundaudio
+loudspeaker
+deserializing
+systemand
+usedby
+stifelman
+457s
+audio server
+the server
+the audio
+recognition server
+the sm
+sound file
+telnet interface
+an rpc
+window system
+server and
+the client
+a server
+remote procedure
+audio servers
+temporal media
+tools described
+procedure call
+servers and
+speech research
+ev data
+handle 0
+x window
+a sound
+a client
+data 0
+the rpc
+the vox
+the bsm
+recognition servers
+play sound
+stream manager
+specification file
+asynchronous calls
+int fd
+server to
+audio and
+procedure calls
+byte stream
+and audio
+client applications
+the speech
+asynchronous servers
+socket manager
+client defined
+vox audio
+sound b
+playing or
+or recording
+the telnet
+ascii telnet
+i o
+sound a
+media such
+and client
+user interface
+server the
+servers that
+a callback
+the recognition
+server can
+of audio
+voice mail
+speech only
+the tools
+playing a
+research group
+speech recognition
+server are
+user interfaces
+server for
+window server
+asynchronous events
+or record
+audio data
+s play
+asynchronous messages
+server such
+communicates to
+the byte
+built using
+the application
+an application
+play or
+record data
+server that
+to play
+a window
+server is
+an ascii
+of sound
+speech and
+client server
+an asynchronous
+interface to
+and arguments
+rpc generator
+interest events
+application communicates
+current sound
+rpc compiler
+void s
+asynchronous server
+telnet session
+a telnet
+priority application
+ubiquitous audio
+sm library
+fd string
+string dirname
+answering machine
+server functions
+begin ev
+chris schmandt
+status service
+done ev
+0 termination
+is recording
+audio applications
+interested clients
+several audio
+test snd
+rpc stub
+and server
+been built
+the socket
+are queued
+and clients
+interactive applications
+client and
+asynchronous message
+and dispatching
+programmatic interface
+is playing
+play b
+rpc stubs
+server models
+based speech
+recorded speech
+0 handle
+applications and
+may want
+server this
+events to
+and asynchronous
+server a
+x toolkit
+between clients
+stub generator
+client the
+file descriptor
+rpc is
+or asynchronous
+the ascii
+be played
+paper provide
+is sent
+and debugging
+the x
+low level
+the software
+server 4
+server from
+file s
+synchronous or
+the play
+server by
+time library
+can request
+to receive
+play and
+multi modal
+call is
+clients to
+registered with
+programming interface
+for graphical
+priorities are
+synchronous and
+media and
+playing sound
+code files
+0 play
+record actions
+servers built
+arons speechskimmer
+dtmf detection
+sparcstation this
+simultaneously supports
+out manner
+play started
+skimming recorded
+command queuing
+sm this
+callback mechanism
+sparcstation based
+interactively skimming
+queued until
+application registered
+play begin
+manage different
+the audio server
+tools described in
+speech research group
+ev data 0
+the tools described
+remote procedure call
+the server to
+x window system
+to the server
+servers and applications
+the speech research
+the byte stream
+the recognition server
+byte stream manager
+speech and audio
+in the server
+by the server
+to a server
+the x window
+server and client
+media such as
+the vox audio
+temporal media such
+play or record
+the telnet interface
+by the audio
+vox audio server
+a sound file
+playing or recording
+playing a sound
+remote procedure calls
+of the server
+interface to a
+described in this
+client and server
+a window system
+the server and
+server can be
+the server is
+with a server
+begin ev data
+done ev data
+audio and recognition
+an asynchronous message
+0 handle 0
+sound file s
+play sound file
+and recognition servers
+play and record
+rpc stub generator
+ascii telnet interface
+the socket manager
+data 0 handle
+with the sm
+application communicates to
+and asynchronous calls
+data 0 termination
+from the audio
+int fd string
+speech recognition server
+client server models
+servers and clients
+from the server
+between clients and
+been built using
+of an rpc
+server and a
+data from the
+synchronous or asynchronous
+to the client
+from the client
+this paper provide
+run time library
+may want to
+a remote procedure
+i o the
+synchronous and asynchronous
+provided by the
+registered with the
+is sent to
+an ascii telnet
+multiple applications to
+of the sm
+graphical i o
+based audio server
+audio server are
+and for reading
+play sound b
+to 1 play
+play begin ev
+low level connection
+handle 0 position
+in the vox
+using the audio
+names and arguments
+the sm this
+a programmatic interface
+the server such
+be handled immediately
+sound a is
+that each manage
+media and multi
+c programming interface
+connection management and
+are queued until
+both a programmatic
+output and mouse
+the software tools
+server such a
+communicates to multiple
+audio use speech
+application to play
+programming interface with
+than hand crafting
+implicitly define whether
+the ascii telnet
+server to 1
+audio server the
+device i o
+a callback mechanism
+be played in
+and record audio
+multiple servers e
+use speech recognition
+prototyping and debugging
+telnet interface that
+applications and user
+handle 0 play
+the sm library
+server functions are
+asynchronous servers and
+multi modal i
+data interests are
+start playing a
+server recognition server
+for reading incoming
+0 play started
+first out manner
+may play and
+play test snd
+speaker dependent isolated
+use a window
+sends events to
+of sound a
+queued until the
+system for graphical
+speech only interface
+becoming increasingly prevalent
+functions supported by
+shutdown and for
+to multiple servers
+manage different types
+client is recording
+code rpc stubs
+playing and recording
+interactive telnet session
+data the byte
+sound b is
+barry arons speechskimmer
+playing sound a
+programmatic interface and
+a synchronous remote
+interactively skimming recorded
+modal i o
+applications with an
+software engineering paradigms
+data interest events
+client may want
+callback mechanism for
+audio server and
+servers that each
+or recording from
+procedure call systems
+servers recognition servers
+and device i
+function is handled
+for building asynchronous
+test snd play
+debugging servers and
+an rpc compiler
+server this allows
+management and device
+the server from
+play a 2
+fd string name
+1 play a
+audio server such
+file s play
+g audio servers
+a telnet interface
+the speechresearch group
+the application communicates
+the application registered
+advanced user interface
+sparcstation based audio
+allows multiple applications
+play done ev
+x and xt
+recognition servers that
+specification file the

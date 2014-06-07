@@ -1,0 +1,600 @@
+views
+greedy
+benefit
+warehouse
+indexes
+ao
+materialized
+query
+dag
+monotonicity
+quantity
+interchange
+arc
+occupied
+selection
+sinks
+oe
+maintenance
+cubes
+queries
+inner
+absolute
+graphs
+units
+wrapper
+updates
+63
+achievable
+2s
+olap
+ig
+stage
+costs
+binds
+outgoing
+vh
+dags
+heuristics
+materialization
+cfn77
+update
+minimizes
+viz
+sales
+hru96
+ff
+answering
+occupies
+occupying
+cube
+edges
+interchanging
+467
+competitive
+stages
+constraint
+index
+fi
+warehousing
+ary
+heuristic
+frequency
+select
+monitor
+subgraph
+selected
+ancestors
+md
+descendants
+expression
+incurred
+optimizer
+cover
+my
+edge
+till
+benefits
+unit
+zgmhw95
+ghru96
+ik93
+quency
+cm82
+sel88
+interatively
+nonsink
+rdb
+wid95
+cornuejols
+rss96
+algrorithm
+x2ma
+rou82
+x2md
+fei96
+multiobjective
+gm95
+harinarayan
+semicircle
+subgraphs
+distributing
+genetic
+occupy
+children
+response
+node
+optimize
+selecting
+specifier
+unanswered
+integrator
+fre
+feige
+automobiles
+vms
+contructing
+incremental
+generalize
+label
+deliver
+manager
+plan
+om
+materialize
+subsection
+facility
+binding
+gamma
+cheapest
+ic
+arcs
+disjoint
+polynomial
+depicts
+behaves
+roussopoulos
+multiplying
+aggregate
+maintaining
+advisor
+approximability
+warehouses
+maintained
+sources
+acyclic
+ka
+competitiveness
+powerset
+ullman
+merging
+iff
+produces
+satisfies
+thought
+metadata
+accessing
+dimen
+float
+skipping
+administrator
+structures
+encouragement
+2r
+descendant
+intersection
+noteworthy
+approximated
+guarantee
+subexpressions
+jeff
+halts
+surely
+bipartite
+operator
+exceeds
+trading
+contradiction
+omit
+ignore
+prof
+augmenting
+ancestor
+delivers
+lawrence
+bank
+evolutionary
+insightful
+associate
+simplied
+sions
+breakdown
+spaces
+looked
+kn
+lems
+motivation
+np
+repository
+incurs
+sql
+view graph
+or view
+view selection
+of views
+greedy algorithm
+view graphs
+an and
+and view
+query view
+selection problem
+benefit per
+level greedy
+unit space
+the benefit
+absolute benefit
+the view
+with indexes
+the greedy
+benefit of
+an or
+view v
+benefit function
+quantity s
+a view
+data warehouse
+per unit
+monotonicity property
+inner level
+update costs
+graph g
+its indexes
+views in
+and or
+without updates
+optimal benefit
+space occupied
+the monotonicity
+and arc
+greedy interchange
+expression ao
+achievable using
+ao greedy
+benefit achievable
+interchange algorithm
+views m
+of space
+of structures
+algorithm 3
+units of
+materialized views
+much space
+s units
+solution m
+a quantity
+ao dag
+whose benefit
+total query
+the absolute
+occupied by
+the views
+data cubes
+g l
+m that
+a query
+most s
+of materialized
+selected views
+space constraint
+total space
+function b
+b satisfies
+view has
+maximum benefit
+a dag
+using as
+uses at
+outgoing edges
+is at
+quantity g
+warehouse is
+the warehouse
+maintenance cost
+dag for
+warehouse we
+2s units
+ig i
+indexes in
+by m
+o i
+the optimal
+algorithm algorithm
+property for
+m is
+expression a
+that used
+f i
+most 2s
+v oe
+c selected
+0 63
+query response
+the inner
+selection in
+view and
+node u
+each stage
+b v
+views to
+space as
+set cover
+the ao
+view maintenance
+any view
+graph with
+selection of
+that minimizes
+constraint that
+any m
+algorithm produces
+the cost
+already selected
+m under
+space also
+each view
+a solution
+a data
+select a
+label i
+no updates
+indexes for
+base relations
+indexes and
+space with
+m with
+node view
+arc binds
+structures selected
+greedy manner
+incremental benefits
+given quantity
+views u
+materialized view
+total maintenance
+view u
+r level
+occupies more
+v ff
+time heuristics
+each o
+in g
+each and
+performance guarantee
+set o
+i consists
+a node
+the queries
+the constraint
+computed from
+an expression
+cost associated
+greedy heuristic
+g m
+the and
+to m
+problem given
+in m
+than s
+least 1
+query q
+an index
+supported at
+views that
+m assuming
+arc has
+computing u
+1 gamma
+graph for
+view in
+u from
+graph in
+of v
+problem in
+heuristics for
+63 of
+multiple query
+arbitrary sets
+o such
+intersection graph
+as much
+minimizes the
+selected in
+and and
+the set
+see algorithm
+e times
+graph without
+data cube
+minimum set
+g without
+running time
+or view graph
+and or view
+set of views
+view selection problem
+and view graph
+the view selection
+view graph g
+per unit space
+an and view
+benefit per unit
+level greedy algorithm
+units of space
+absolute benefit of
+the absolute benefit
+an or view
+an and or
+the benefit function
+or view graphs
+query view graph
+inner level greedy
+the monotonicity property
+in an and
+the greedy algorithm
+selection problem in
+m is at
+the inner level
+a quantity s
+a data warehouse
+space occupied by
+monotonicity property for
+benefit of m
+a query view
+the optimal benefit
+greedy interchange algorithm
+as much space
+graph with indexes
+benefit achievable using
+view graph with
+used by m
+optimal benefit achievable
+much space as
+using as much
+achievable using as
+space as that
+selection of views
+s units of
+of its indexes
+a solution m
+ao greedy algorithm
+as that used
+total space occupied
+unit space of
+view graph for
+solution m that
+m that uses
+of views in
+greedy algorithm algorithm
+expression ao dag
+the benefit per
+and a quantity
+satisfies the monotonicity
+algorithm algorithm 3
+benefit function b
+under the constraint
+the benefit of
+that uses at
+of materialized views
+algorithm 3 3
+at most s
+is at least
+that used by
+select a set
+greedy algorithm produces
+and view graphs
+quantity s the
+a view and
+also the absolute
+view selection in
+each and arc
+expression a dag
+of views m
+maximum benefit per
+function b satisfies
+the views in
+any m with
+total query response
+b satisfies the
+occupied by the
+constraint that the
+the total space
+produces a solution
+uses at most
+m with respect
+the maximum benefit
+gamma 1 e
+respect to m
+of a view
+1 gamma 1
+of the view
+query response time
+benefit of the
+g l is
+be computed from
+the ao greedy
+view and some
+updates the benefit
+at the warehouse
+minimizes the quantity
+benefit of c
+and and and
+in an or
+m under the
+view graphs in
+with indexes and
+without updates and
+a label i
+updates and a
+whose benefit per
+problem in and
+set of structures
+g m under
+unit space with
+a view v
+without updates the
+view graph in
+quantity g m
+m that minimizes
+an expression ao
+view graphs we
+2s units of
+by the views
+most 2s units
+the quantity g
+o g l
+of space also
+query view graphs
+the constraint that
+algorithm produces a
+algorithm 3 1
+of the optimal
+in m is
+property for any
+graph g and
+for any m
+satisfy the monotonicity
+at most 2s
+times the optimal
+the greedy interchange
+set c selected
+space also the
+space with respect
+of m is
+is the cost
+set of queries
+least 1 gamma
+in a data
+at each stage
+the set o
+l is at
+by the greedy
+of the set
+the set of
+graph in this
+that minimizes the
+associated with it
+that the total
+some of its
+g and a
+a node u
+i consists of
+in or view
+the selected views
+unit space is
+has an operator
+data warehouse we
+b v m
+o i consists
+minimum set cover
+view graphs with
+time heuristics for
+of computing u
+given a quantity
+cost function associated
+each o i
+in a greedy
+given quantity s
+by m assuming
+the space constraint
+see algorithm 3
+of structures selected
+computing u from
+the r level
+and arc has
+view graph and
+g without updates
+of views that
+respect to arbitrary
+in query view
+of views u
+algorithm given g

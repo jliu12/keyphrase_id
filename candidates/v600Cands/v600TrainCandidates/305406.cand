@@ -1,0 +1,600 @@
+mutex
+continuations
+subcontinuation
+subcontinuations
+thread
+pcall
+controller
+shot
+threads
+continuation
+spawn
+subcomputation
+lambda
+invoked
+thunk
+stack
+subtree
+cons
+concurrency
+reinstated
+unblock
+invocation
+release
+captured
+acquire
+subexpressions
+tree
+fork
+child
+mutexes
+rooted
+parent
+prompts
+cloned
+subcon
+tinuations
+subcontinua
+primitives
+invoking
+leaves
+concurrent
+segments
+leaf
+abort
+lst
+prompt
+releases
+grafted
+root
+node
+felleisen
+wait
+signaling
+forks
+futures
+wakes
+returns
+invokes
+reinstates
+subcontinu
+subcontin
+chez
+reinstatement
+signaled
+uation
+nonlocal
+bruggeman
+grafts
+fact5
+unblocks
+coroutines
+hieb
+waits
+sgi
+val
+creates
+traditional
+shaped
+blocked
+acquires
+graft
+aborted
+article
+waiting
+awakened
+dybvig
+procedures
+unblocking
+blocking
+acquiring
+packaged
+irix
+exits
+signal
+threaded
+counter
+activation
+semaphores
+unblocked
+args
+multiprocessor
+cc
+cps
+obeyed
+implement
+ml
+structured
+yield
+suspend
+package
+resumed
+copied
+capture
+aborts
+ations
+insert
+succeed
+releasing
+predicate
+3c
+cda
+encapsulates
+120
+sequential
+nonblind
+reacquired
+furthered
+sigstop
+transliterating
+sigusr1
+multitasked
+subk
+posable
+9312614
+skumar
+trims
+trampolined
+03189
+mutual
+complications
+pruned
+prolog
+resume
+operational
+prune
+concurrently
+encapsulated
+deletes
+delete
+mechanisms
+executing
+blocker
+waddell
+multischeme
+rency
+sitaram
+handing
+14400
+3b
+obtains
+records
+fn
+primi
+exclu
+thunks
+ganz
+splitter
+weise
+delimiters
+packages
+continue
+languages
+mechanism
+exclusion
+reinstate
+letrec
+proc
+optional
+language
+inserts
+operator
+contin
+sting
+subcomputations
+deallocating
+dup
+flag
+kumar
+currency
+posix
+wand
+tured
+longjmp
+primitive
+base
+composable
+arguments
+concur
+aborting
+returned
+one shot
+the mutex
+shot subcontinuations
+the subcontinuation
+the controller
+a subcontinuation
+controller node
+shot continuations
+multi shot
+mutex release
+process tree
+threads yield
+yield continuations
+stack segments
+release mutex
+controller invocation
+a thread
+controller invoked
+acquire mutex
+mutex to
+mutex acquire
+pcall node
+the thread
+continuations and
+condition variables
+condition done
+mutex let
+structured concurrency
+traditional continuations
+the subcomputation
+child thread
+define controller
+a continuation
+root thread
+thread system
+condition signal
+thread primitives
+pcall is
+spawn lambda
+subcontinuation controller
+traditional continuation
+continuations 3
+subcontinuations in
+is reinstated
+subcontinuations are
+of subcontinuations
+condition wait
+implement one
+threads and
+the cons
+a subcomputation
+parent thread
+next thread
+invoked at
+a controller
+the continuation
+cons of
+the threads
+thread that
+current leaf
+mutex mutex
+given controller
+condition make
+invocation thunk
+of pcall
+thread fork
+set controller
+make mutex
+class continuations
+be invoked
+tree structured
+first class
+the implementation
+lambda c
+controller is
+waiting on
+of threads
+implementation of
+continuations in
+a mutex
+by signaling
+the subtree
+to implement
+tree shaped
+continuation is
+to spawn
+controller was
+condition variable
+of stack
+the tree
+the captured
+thread is
+subcomputation from
+subcontinuations can
+the pcall
+representing control
+thread unblock
+done mutex
+mutex parent
+segments required
+subcontinuation captured
+captured continuation
+use continuations
+continuations can
+mutex and
+of spawn
+level evaluation
+subcontinuations section
+call cc
+subcontinuation is
+current continuation
+controller root
+spawn to
+subcon tinuations
+shot subcontinuation
+done condition
+shot continuation
+thread block
+continuation mechanisms
+support multi
+threads are
+and condition
+the stack
+rooted at
+the leaves
+and continuations
+signal done
+node thread
+nonlocal exits
+mutexes and
+continuations to
+waits on
+in acquiring
+forks a
+of thread
+controller to
+given point
+signaling the
+thread based
+activation records
+is invoked
+multiple threads
+threads to
+a concurrent
+the parent
+releases the
+the child
+the condition
+never invoked
+implementation model
+was invoked
+the process
+controller and
+most once
+threads at
+the subexpressions
+concurrent implementation
+stack of
+applies the
+support for
+be implemented
+a sequential
+language implementation
+subtree rooted
+parallel search
+wakes up
+done the
+for mutual
+to support
+evaluation function
+this article
+subcontinuations the
+search lambda
+subcontinuations and
+and aborted
+pcall and
+mutex while
+continuation represents
+and wakes
+subcontinuation k
+implement threads
+node insert
+pcall expression
+pcall lambda
+tree mutex
+specified thread
+shot variants
+subcontinuation to
+continuations have
+both threads
+leaves node
+pcall the
+prompts may
+subcomputation the
+make index
+between continuations
+concurrent setting
+subcontinu ations
+entire expression
+prune subtree
+one shot subcontinuations
+the process tree
+threads yield continuations
+one shot continuations
+mutex release mutex
+of one shot
+mutex acquire mutex
+the cons of
+tree structured concurrency
+the condition done
+implement one shot
+implementation of one
+to implement one
+of a subcomputation
+implementation of subcontinuations
+invoked at most
+multi shot subcontinuations
+used to implement
+represents the rest
+of stack segments
+rest of a
+the controller is
+condition make mutex
+acquire mutex let
+support multi shot
+spawn lambda c
+set of thread
+given controller node
+the current leaf
+multi shot continuations
+a traditional continuation
+the mutex to
+the given controller
+condition done the
+first class continuations
+controller invocation thunk
+releases the mutex
+be invoked at
+the parent thread
+and condition variables
+to support multi
+the controller was
+a one shot
+given point in
+of the controller
+rooted at the
+may be invoked
+invokes the controller
+shot continuations in
+controller was invoked
+within the cons
+succeed in acquiring
+one shot continuation
+is never invoked
+level evaluation function
+by signaling the
+condition signal done
+creates a controller
+subcomputation from a
+top level evaluation
+that use continuations
+controller to be
+shot continuations 3
+cons of 2
+a subcomputation from
+wakes up the
+the child thread
+implementation of spawn
+call to spawn
+stack segments required
+signaling the condition
+thread based implementation
+done mutex release
+subcontinuations can be
+in the subcomputation
+tree of stack
+implementation of pcall
+the stack segments
+of thread primitives
+continuations can be
+the implementation of
+a given point
+mutexes and condition
+threads at the
+on the condition
+at the leaves
+a thread to
+can be implemented
+at most once
+the thread that
+from a given
+the controller to
+the subtree rooted
+subtree rooted at
+based implementation of
+at the given
+a thread is
+point in the
+the call to
+at the current
+implemented in terms
+a stack of
+and applies the
+a subcontinuation represents
+set controller invoked
+continuation needs to
+of subcontinuations in
+traditional continuation represents
+subcontinuation represents the
+compilation techniques the
+mutex mutex release
+release mutex let
+mutex let thread
+language implementation that
+thread system features
+captured and aborted
+computation from a
+computation a subcontinuation
+terms of threads
+the captured subcontinuation
+the subcontinuation is
+continuation is reinstated
+a subcontinuation controller
+a concurrent setting
+the mutex and
+continuation represents the
+one shot subcontinuation
+controller node set
+subcontinuation to be
+cons of 3
+obtains the process
+of tree shaped
+of the subcontinuation
+continuation mechanisms and
+the threads at
+representing control in
+controller is never
+that will succeed
+chez scheme on
+thread that will
+the mutex while
+forks a thread
+an explicit root
+of chez scheme
+language or language
+threads to represent
+insert pcall node
+and dybvig define
+bruggeman and dybvig
+creates a subcontinuation
+search lambda tree
+most once a
+of the subcomputation
+mutex define controller
+class but may
+expressive than traditional
+release mutex parent
+presence of tree
+where the controller
+stack of stack
+to represent stack
+to thread if
+done condition make
+represent stack segments
+the control state
+the captured continuation
+prompts may be
+like one shot
+stack segments representing
+thread fork lambda
+continuations in that
+one shot sub
+subcontinuation is reinstated
+then forks a
+acquire the mutex
+shot subcontinuations section
+each stack segment
+evaluates its subexpressions
+subcontinuations in terms
+the entire expression
+if the subcontinuation
+to any language
+condition wait done
+lambda c cons
+subtree controller node
+power challenge multiprocessor
+threads and continuations
+subtree of threads
+pcall and spawn
+process tree mutex
+subcontinuations are more
+controller node for
+done the child
+and wakes up
+segments required by
+shot subcontinuations can
+obeyed by nearly
+subcontinuations section 4
+a continuation is
+a controller invocation

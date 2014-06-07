@@ -1,0 +1,600 @@
+ssam
+atm
+trap
+cell
+handler
+traps
+messages
+reply
+message
+remote
+workstations
+payload
+buffer
+cells
+multiprocessors
+sparcstation
+clusters
+kernel
+prototype
+device
+flow
+ss
+active
+uiomove
+read
+latencies
+void
+interface
+fiber
+sba
+send
+communication
+ssam_10
+interfaces
+network
+driver
+buffers
+multiprocessor
+latency
+protection
+request
+fifo
+cluster
+operating
+receiving
+bytes
+read32_msg
+bandwidths
+window
+dest
+contention
+double
+trip
+layers
+sending
+fifos
+replies
+transfer
+1995
+scheduling
+descriptor
+pvm
+extern
+conn
+pinned
+receive
+int
+bandwidth
+overflow
+register
+read_cnt
+addt
+syscall
+multiproces
+handlers
+word
+ni
+layer
+tcp
+hardware
+registers
+coordination
+buffering
+sbus
+ovhd
+aal
+virtual
+interconnected
+microseconds
+sender
+5mb
+receiver
+fore
+supercomputing
+bulk
+workstation
+coordinated
+comparable
+cdrom
+instructions
+retransmitted
+primitives
+connection
+bus
+arrival
+polls
+networks
+reliable
+shared
+offer
+architectures
+translation
+stream
+address
+thekkath
+read32_rh
+ssam_poll
+readdouble
+ssam_req_handler
+principally
+9ms
+in_buf
+demultiplexing
+ssam_maxconn
+futile
+aal3
+rett
+read32_h
+delivery
+shelf
+memory
+file
+transferred
+net
+round
+reads
+pull
+networking
+processor
+aligned
+writes
+sent
+push
+loading
+25mhz
+kaashoek
+4mb
+culler
+losses
+protected
+ip
+reception
+peak
+overhead
+cm
+differences
+cache
+collections
+spent
+6mb
+2mb
+crc
+checksum
+millisecond
+today
+breakdown
+switches
+machines
+integration
+formatting
+decstation
+polled
+adds
+diego
+sors
+calls
+preventing
+fd
+acknowledgment
+sun
+id
+byte
+art
+poll
+08
+requests
+originating
+congestion
+counter
+destination
+incoming
+processes
+software
+corruption
+dozen
+measurements
+reliability
+across
+influenced
+paragon
+active messages
+flow control
+network interface
+the handler
+atm networks
+the network
+an atm
+atm network
+active message
+remote memory
+the device
+network interfaces
+the trap
+the kernel
+of workstations
+system call
+the receiving
+user level
+address translation
+a reply
+write system
+double word
+ss 20
+communication architectures
+the cell
+cell into
+the operating
+the traps
+operating system
+the remote
+the atm
+file descriptor
+sba 100
+the ssam
+device driver
+the message
+the read
+to send
+shared memory
+the fiber
+receiving end
+communication patterns
+process scheduling
+of ssam
+internal buffer
+remote read
+messages communication
+receive cells
+read trap
+traps to
+the prototype
+the address
+buffer overflow
+communication architecture
+reliable delivery
+cell loss
+the flow
+parallel applications
+per cell
+round trip
+the ss
+and receive
+clusters of
+message the
+send and
+connection id
+handler address
+art multiprocessors
+by ssam
+56 bytes
+reply handler
+ssam prototype
+atm payload
+s handle
+remote reads
+input fifo
+to ssam
+control transfer
+a cluster
+system calls
+buffer and
+tcp ip
+a cell
+of atm
+s check
+user kernel
+larger window
+communication layer
+bulk transfer
+the sba
+and multiprocessors
+1 cell
+communication layers
+message data
+reply message
+read and
+interconnected by
+system software
+the communication
+the active
+memory access
+parallel computing
+technical point
+communication performance
+cluster of
+operating systems
+low latency
+between clusters
+in atm
+s per
+the sending
+the receiver
+in hardware
+to clusters
+request message
+total for
+control and
+aal 5
+trap the
+0 cells
+breakdown for
+receiving network
+atm cell
+int conn
+continuous spectrum
+over atm
+node address
+3 ssam
+multiprocessor networks
+output fifo
+20 ss
+ssam is
+operation ss
+check fd
+int connection
+trap which
+device fifos
+syscall overhead
+than ssam
+handler at
+level access
+sparcstation active
+standard components
+extern void
+computing setting
+cost breakdown
+interface access
+the sparcstation
+sparcstation atm
+addt l
+word aligned
+do uiomove
+level library
+kernel interface
+be retransmitted
+ss 1
+ssam implementation
+a request
+send a
+of flow
+s read
+read write
+reads and
+the cost
+and writes
+a buffer
+on supercomputing
+in clusters
+08 1995
+and flow
+1995 acm
+december 04
+programming models
+split c
+coherent shared
+and replies
+protection mechanism
+call interface
+s 11
+trap and
+o bus
+to multiprocessors
+32 s
+experimental set
+the buffer
+comparable to
+control in
+high performance
+bytes of
+that messages
+1995 san
+address of
+message and
+the 1995
+moves the
+04 08
+supercomputing cdrom
+requests and
+cdrom p
+transfer the
+the network interface
+the flow control
+an atm network
+flow control and
+clusters of workstations
+the operating system
+the cell into
+the receiving end
+remote memory access
+at the receiving
+the remote memory
+and receive cells
+active messages communication
+by an atm
+write system call
+within the network
+send and receive
+flow control in
+to the kernel
+a reply message
+of flow control
+the address translation
+s per cell
+read write system
+the sba 100
+the art multiprocessors
+remote reads and
+on the ss
+in the receiving
+of active messages
+the ss 20
+to send and
+a cluster of
+technical point of
+the active messages
+and flow control
+in atm networks
+reads and writes
+to the network
+of an active
+operation ss 20
+the receiving network
+a request message
+of the fiber
+cache coherent shared
+receiving network interface
+buffer overflow in
+the input fifo
+network interface access
+the handler address
+interconnected by an
+sparcstation active messages
+message data into
+to clusters of
+a parallel computing
+level access to
+user kernel interface
+messages communication architecture
+of standard components
+a continuous spectrum
+20 ss 1
+ss 20 ss
+cost breakdown for
+5 0 s
+traps to send
+and the handler
+the connection id
+the ssam prototype
+clusters and multiprocessors
+parallel computing setting
+user level library
+over to clusters
+the file descriptor
+handler at the
+the device fifos
+requests and replies
+the device driver
+the internal buffer
+user level access
+of atm networks
+access to the
+conference on supercomputing
+04 08 1995
+08 1995 san
+1995 san diego
+1995 acm ieee
+the 1995 acm
+december 04 08
+the cost of
+the read and
+the communication patterns
+cell into the
+a technical point
+of the trap
+i o bus
+flow control information
+from a technical
+send a reply
+experimental set up
+integration of all
+remote memory accesses
+cluster of workstations
+user level network
+system call interface
+the active message
+read and write
+of the 1995
+the network and
+on supercomputing cdrom
+diego california united
+supercomputing cdrom p
+the address of
+allowed to send
+use of standard
+for comparison purposes
+of the art
+overflow in the
+of a request
+into the network
+to send a
+the use of
+prototype implementation of
+off the shelf
+of the read
+a user level
+acm ieee conference
+is provided for
+ieee conference on
+it into the
+on the nodes
+the message the
+of the active
+es december 04
+san diego california
+california united states
+data and control
+the scheduling of
+new communication architectures
+to the traps
+to the device
+or flow control
+incoming messages at
+is roughly comparable
+polls the receiver
+preventing buffer overflow
+well integrated into
+dec 3 1995
+aal3 4 compatible
+2 03 s
+the larger window
+become available and
+to ssam is
+over 1 s
+based network interfaces
+lack of flow
+cell loss in
+s 12 s
+the same payload
+16 bits the
+messages on multiprocessors
+trap rett 0
+protection in software
+loading the cell
+for 1 cell
+bytes of payload
+clusters use standard
+transferred directly between
+total for 1
+the current ssam
+an internal buffer
+control in atm
+on the sparcstation
+and active messages
+g tcp ip
+syscall overhead 22
+an aal3 4
+send a request
+in active messages
+into the device
+a remote read
+int connection void
+form of protection
+of cells available
+that network interfaces
+buffering and scheduling
+system call syscall
+overflow within the
+communication patterns are
+write system calls
+respect to multiprocessors
+on message arrival
+bulk transfer rates
+fd do uiomove
+write entry points
+trap which receives
+44 s 2
+of protection mechanism
+and control transfer
+internal buffer and
+and receive traps

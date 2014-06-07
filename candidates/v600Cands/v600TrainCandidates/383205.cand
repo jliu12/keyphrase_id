@@ -1,0 +1,600 @@
+sale
+auxiliary
+id
+maintenance
+views
+tuples
+insertions
+item
+deletions
+join
+warehouse
+toy
+referential
+updates
+maintainable
+protected
+sales
+relations
+warehousing
+sa
+materialized
+store
+base
+integrity
+exposed
+expressions
+month
+year
+dep
+joins
+manager
+keys
+attributes
+cal
+preserved
+ar
+foreign
+joining
+attribute
+semijoin
+5r
+tuple
+4r
+st
+self
+spj
+sigmod
+category
+warehouses
+calculating
+oe
+oer
+olap
+lechtenbrger
+1996
+selection
+sources
+old
+propagating
+relation
+4v
+selections
+ca
+replicating
+marts
+inderpal
+mumick
+view
+000
+pushing
+maintaining
+maintain
+referenced
+widom
+propagated
+key
+theodoratos
+semijoins
+vossen
+joined
+kansas
+missouri
+vr
+deleted
+ri
+entirety
+shivnath
+database
+dimitri
+city
+rule
+name
+5v
+babu
+maintained
+sql
+project
+expression
+bases
+materializing
+selectivity
+4vr
+4vl
+semijoined
+hongsong
+dsd
+youfang
+relational
+jennifer
+maintainability
+projections
+equated
+calculates
+singh
+cochrane
+mohania
+ignorable
+updateable
+houkuan
+equijoin
+incremental
+price
+tods
+timos
+gottfried
+24rd
+roberta
+bag
+subexpression
+rewriting
+sellis
+elke
+rundensteiner
+babcock
+record
+query
+090
+projection
+eliminated
+contents
+deletion
+rewritten
+jens
+updated
+cubes
+insertion
+sold
+don
+aggregate
+simplified
+fv
+materialize
+select
+propagate
+aux
+pei
+delete
+02
+queries
+pass
+eighth
+accessing
+simplify
+fundamenta
+informaticae
+sigart
+lations
+madison
+preserves
+united
+insert
+algebra
+vldb
+contribute
+disjunctions
+stored
+appearing
+li
+referencing
+management
+wisconsin
+wang
+abbreviate
+06
+5st
+gmap
+narang
+mala
+hoshi
+wilburt
+ark
+krithi
+pirahesh
+1oldkey
+goretti
+5vl
+rizzi
+barinderpal
+5sa
+quass
+auxiliary views
+base relations
+maintenance expressions
+store id
+r i
+item id
+protected updates
+the view
+base relation
+id item
+key of
+sale id
+tuples in
+view maintenance
+auxiliary view
+self maintainable
+view v
+selection conditions
+referential integrity
+insertions to
+the auxiliary
+a view
+exposed updates
+relation r
+maintenance expression
+r j
+the maintenance
+toy sales
+year 1996
+id sale
+cal toy
+ar i
+id manager
+state ca
+join with
+property 4
+oe year
+id month
+manager oe
+category toy
+item name
+in v
+preserved in
+data warehousing
+id store
+month oe
+name oe
+oe category
+oe state
+the warehouse
+of auxiliary
+existing tuples
+local selection
+join graph
+the base
+integrity constraints
+deletions to
+of tuples
+1996 sa
+toy i
+ca st
+and referential
+updates to
+rule 4
+of r
+for deletions
+to r
+st store
+dep r
+the join
+1 item
+expressions for
+i k
+in r
+in selection
+of deletions
+of insertions
+tuple t
+sa 1
+integrity constraint
+join conditions
+data sources
+the key
+i store
+foreign key
+join condition
+calculating the
+view and
+relations in
+views in
+deletions from
+data warehouse
+tuples to
+by joining
+materialized views
+base data
+insertions into
+a referential
+view ar
+sales view
+algorithm 3
+view is
+the tuples
+v of
+has exposed
+views generated
+attributes involved
+a key
+of relations
+key and
+attribute values
+materialized view
+acm sigmod
+view for
+line item
+as deletions
+sale line
+original view
+store sale
+5r i
+line id
+by insertions
+sales price
+has protected
+views that
+a base
+constraint from
+by algorithm
+for base
+referenced in
+and item
+effect on
+foreign keys
+item item
+pushing down
+the sale
+self maintenance
+to maintain
+expressions of
+that join
+data warehouses
+warehousing and
+the effect
+with existing
+if updates
+expressions are
+a join
+is preserved
+tuple in
+from r
+and protected
+of protected
+expression calculating
+accessing base
+v preserves
+sale sale
+joining r
+expressions calculating
+of dep
+of preserved
+along keys
+oer i
+preserved attributes
+propagating insertions
+relations referenced
+tuples with
+select project
+id and
+views for
+v but
+g v
+deletions and
+store store
+for insertions
+of base
+for calculating
+and olap
+those tuples
+of materialized
+is self
+an spj
+spj view
+deletions or
+the referential
+updated tuples
+to store
+be maintained
+are self
+views are
+an auxiliary
+data bases
+of table
+to base
+large data
+joining v
+algebra expression
+view self
+a sa
+each auxiliary
+not preserved
+key of r
+the auxiliary views
+the base relations
+item id item
+r i k
+the key of
+the maintenance expressions
+of r i
+maintenance expressions for
+of auxiliary views
+referential integrity constraints
+cal toy sales
+in the view
+sale id store
+id sale id
+store id manager
+preserved in v
+base relation r
+set of auxiliary
+oe state ca
+store id month
+oe year 1996
+id manager oe
+manager oe state
+relation r i
+id item name
+id store id
+id item id
+name oe category
+local selection conditions
+id month oe
+oe category toy
+item name oe
+month oe year
+store id sale
+existing tuples in
+1 item id
+view maintenance expressions
+in r i
+to r i
+a key of
+ca st store
+year 1996 sa
+state ca st
+category toy i
+of insertions to
+st store id
+a base relation
+at the warehouse
+protected updates to
+and referential integrity
+toy i store
+base relations in
+i store id
+key and referential
+in selection conditions
+view v of
+updates to r
+r i is
+of tuples in
+algorithm 3 1
+with existing tuples
+referential integrity constraint
+sa 1 item
+1996 sa 1
+the maintenance expression
+auxiliary view for
+number of tuples
+a view v
+the effect on
+by algorithm 3
+on a view
+to a base
+effect on a
+is preserved in
+the auxiliary view
+involved in selection
+integrity constraint from
+join with existing
+is self maintainable
+calculating the effect
+for base relation
+r i and
+the view maintenance
+on the key
+the data sources
+the join graph
+tuples in v
+rule 4 1
+an auxiliary view
+of base relations
+the view and
+change the values
+tuples in r
+given a view
+using the auxiliary
+auxiliary views generated
+selection conditions on
+auxiliary views for
+toy sales view
+of deletions to
+to base relations
+maintenance expressions are
+expressions for deletions
+view maintenance expression
+a referential integrity
+attributes involved in
+auxiliary view ar
+join graph g
+from r i
+the tuples to
+views generated by
+in v but
+tuple t in
+r i can
+for calculating the
+for r i
+the original view
+expression for calculating
+has protected updates
+are self maintainable
+and protected updates
+is a referential
+view ar i
+followed by insertions
+expressions of table
+base relations are
+maintenance expressions of
+the local selection
+v of insertions
+that join with
+ar i for
+view for l
+of attributes involved
+constraint from r
+sale id and
+relations in their
+calculating the effects
+auxiliary view is
+base relations can
+maintain the view
+the join condition
+set of relations
+of the auxiliary
+if the key
+in the auxiliary
+not preserved in
+only those tuples
+auxiliary views in
+base relations and
+data warehousing and
+in v that
+the effects on
+all the base
+that the auxiliary
+very large data
+order to maintain
+property 4 2
+values of attributes
+on data warehousing
+tuple in r
+updates to a
+of deletions from
+and auxiliary views
+by joining v
+expressions calculating the
+has exposed updates
+relation r j
+maintenance expressions to
+line and item
+r for base
+referenced in v
+calculating the tuples
+each auxiliary view
+the view so
+sale sale id
+auxiliary views are
+v preserves the
+relations referenced in
+preserves the key
+tuples to insert
+v of deletions
+store sale line
+insertions to r
+expression calculating the
+data sources or
+accessing base data
+if updates to
+algebra expression for
+insertions to a
+of protected updates
+a foreign key
+maintenance expression for
+in ar i
+of exposed updates
+auxiliary views is
+a view with
+sale line and
+together are self
+base relations of

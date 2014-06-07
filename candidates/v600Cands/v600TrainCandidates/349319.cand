@@ -1,0 +1,600 @@
+spill
+qf
+registers
+spilling
+register
+tf
+schedtime
+sigmaii
+traffic
+sigmatrf
+ur
+candidates
+loops
+trf
+pipelining
+heuristics
+lt
+scheduling
+schedules
+proposals
+modulo
+allocation
+p4m2l4
+cons
+ar
+schedule
+pipelined
+pressure
+registers0
+p2m2l4
+pipeliner
+loop
+lifetime
+p4m4l4
+registers2610
+64
+cc
+workbench
+josep
+configurations
+coloring
+llosa
+zalamea
+configuration
+saturate
+newtrf
+p2m2l6
+usecc
+ayguad
+eduard
+spilled
+producer
+cydra
+mem
+club
+alternatives
+maxlive
+hrms
+quantity
+prod
+resmii
+memory
+consumer
+priority
+hypernode
+cycles
+mateo
+valero
+javier
+proposal
+ideal
+decides
+reschedule
+candidate
+pimjlk
+overspilling
+600800sum
+usetf
+rgs
+2060
+reqrm
+useqf
+maxtrf
+160020002400
+200300
+initiation
+foresee
+ii
+ranges
+overlapped
+showdown
+codina
+compilation
+overlapping
+sqr
+wands
+saturation
+conscious
+recmii
+expenses
+iterations
+u3
+xiaotong
+fit
+metrics
+pande
+regs
+rescheduled
+proposes
+vliw
+rescheduling
+scheduled
+plots
+heuristic
+scheduler
+contribute
+units
+software
+ramp
+affordable
+zhuang
+store
+contributes
+santosh
+degradation
+perfect
+overestimation
+compiler
+systolic
+renaming
+dependence
+61
+constrained
+expense
+file
+termed
+code
+gonzlez
+tries
+schedulable
+requirements
+labeled
+variants
+adders
+evaluated
+live
+subtracted
+effectiveness
+accesses
+load
+execution
+processor
+cycle
+steady
+div
+useccqftf
+100300
+varcc
+reschedulings
+250sum
+5001500
+18002200sum
+1626
+35004500sum
+40005000
+varccqftf
+varqf
+4454
+8001000
+dufour
+cydra5
+ideal_mem
+registers13
+cons4
+qftf
+demystifying
+300040005000
+3791
+50150schedtime
+vartf
+notice
+decreased
+kernel
+benchmark
+aforementioned
+criterion
+architecture
+optimizing
+decrease
+rotating
+1408
+alet
+3139
+2895
+reservation
+deciding
+compilers
+notices
+adjacency
+spans
+spill of
+spill code
+memory traffic
+the ii
+64 registers
+of uses
+traffic factor
+tf traffic
+register allocation
+7 tf
+software pipelining
+register requirements
+spilling candidates
+the register
+execution rate
+the spill
+registers 64
+register pressure
+software pipelined
+modulo scheduling
+quantity factor
+when spill
+0 7
+heuristics proposed
+of variables
+the heuristics
+the memory
+0 9
+adding spill
+8 0
+qf quantity
+use cc
+pipelined loops
+9 0
+of spill
+32 registers
+the loop
+the loops
+of qf
+and tf
+the lt
+register constrained
+loops that
+0 8
+registers0 20
+sigmatrf and
+cc qf
+64 registers0
+uses is
+and spill
+and 64
+processor configurations
+more registers
+ranges between
+of registers
+of loops
+ideal case
+with registers
+compilation time
+1 1
+ur ar
+spilling candidate
+64 registers2610
+rows labeled
+schedtime for
+select candidates
+software pipeliner
+lt of
+saturate the
+graph coloring
+registers than
+to spill
+or uses
+registers the
+ii and
+traffic is
+0 0
+available registers
+josep llosa
+of candidates
+mem b
+spill process
+the ur
+critical cycle
+qf and
+than spill
+schedules with
+61 0
+the execution
+memory operations
+1 4
+spill the
+zalamea josep
+javier zalamea
+for 64
+llosa eduard
+new heuristics
+that ranges
+1 0
+ayguad mateo
+the tf
+registers and
+reduced by
+18 26
+eduard ayguad
+configuration p4m2l4
+than available
+cons 4
+and sigmatrf
+spilling variables
+the sigmaii
+b sigmatrf
+trf b
+and trf
+when tf
+tf ranges
+registers2610 mem
+each spilling
+doing spill
+schedtime c
+sigmaii b
+factor close
+of sigmaii
+ur to
+control decides
+sigmaii and
+a sigmaii
+qf is
+register conscious
+for 32
+different alternatives
+for register
+the ideal
+20 61
+notice that
+perfect club
+to memory
+the cydra
+cydra 5
+a factor
+require spill
+constrained modulo
+with spill
+spilling a
+iteration overlapping
+dynamic performance
+cons 3
+after spilling
+for spill
+1 cons
+heuristics for
+register file
+of register
+is reduced
+candidates to
+the perfect
+increase in
+registers are
+a loop
+add spill
+different spill
+the spilling
+2 cons
+0 cycles
+decides how
+for spilling
+the workbench
+contributes with
+many candidates
+of spilling
+variables or
+ii is
+cons 2
+hypernode reduction
+state phase
+registers 2
+proposals in
+cons 1
+1 registers
+registers 1
+mateo valero
+for software
+the scheduling
+of heuristics
+a register
+modulo schedules
+scheduling register
+candidates are
+decide between
+saturation of
+new memory
+allocation register
+memory units
+been evaluated
+increase of
+loops in
+between 0
+and spilling
+high register
+coloring register
+spill of uses
+spill of variables
+tf traffic factor
+0 7 tf
+7 tf traffic
+the memory traffic
+8 0 7
+9 0 8
+0 0 9
+0 8 0
+when spill of
+and 64 registers
+0 9 0
+the register pressure
+the heuristics proposed
+1 4 1
+1 1 0
+1 0 0
+4 1 3
+the register requirements
+1 3 1
+2 1 1
+software pipelined loops
+values of qf
+qf quantity factor
+the execution rate
+1 1 1
+3 1 2
+1 2 1
+memory traffic is
+adding spill code
+registers 64 registers0
+registers0 20 61
+for 64 registers
+variables or uses
+of uses is
+64 registers0 20
+the ideal case
+number of registers
+of spill code
+of the ii
+more registers than
+registers are available
+and memory traffic
+is reduced by
+all the loops
+and spill of
+the spill of
+uses is applied
+heuristics proposed in
+saturate the memory
+registers 64 registers2610
+than spill of
+the spill process
+qf and tf
+factor that ranges
+the lt of
+traffic is reduced
+that ranges between
+execution rate and
+use cc qf
+20 61 0
+by a factor
+of loops that
+increasing the ii
+of the spill
+loops that do
+a factor that
+variables to memory
+ranges between 0
+the ii and
+zalamea josep llosa
+javier zalamea josep
+josep llosa eduard
+reduce the register
+llosa eduard ayguad
+spill code in
+of variables is
+eduard ayguad mateo
+for a configuration
+heuristics for register
+ayguad mateo valero
+increases by a
+of the loop
+for software pipelined
+32 and 64
+2 cons 3
+a factor close
+a sigmaii b
+of spilling candidates
+64 registers2610 mem
+better than spill
+decides how many
+sigmatrf and c
+schedtime c 2
+registers than available
+1 and 64
+64 registers 2
+when tf ranges
+sigmaii and sigmatrf
+increases the ii
+ii and trf
+ideal case i
+registers 1 and
+32 registers 1
+the memory units
+tf ranges between
+each spilling candidate
+with spill of
+cons 1 cons
+61 0 cycles
+variables and uses
+of a sigmaii
+sigmaii b sigmatrf
+registers2610 mem b
+1 registers 64
+b sigmatrf and
+a register conscious
+factor close to
+0 cycles a
+the new memory
+new memory operations
+doing spill of
+the perfect club
+not fit in
+increase of the
+a configuration with
+the cydra 5
+of the memory
+register constrained modulo
+to saturate the
+c 2 figure
+64 registers are
+1 cons 2
+the critical cycle
+increase in compilation
+how many candidates
+between 0 7
+cons 2 cons
+addition of spill
+64 registers the
+register allocation and
+1 1 4
+loops that require
+steady state phase
+variables is used
+in compilation time
+spill code the
+64 registers and
+7 and 1
+up of 1
+coloring register allocation
+set of heuristics
+hypernode reduction modulo
+the memory unit
+increase the ii
+saturation of the
+spill code and
+of variables or
+allocation register allocation
+reduction modulo scheduling
+the spill code
+the ii is
+register allocation register
+of register pressure
+software pipelined loop
+from the perfect
+software pipelining the
+2 1 4
+constrained software pipelining
+register requirements of
+allocation and spilling
+graph coloring register
+0 7 and
+loop with a
+loops from the
+the number of
+spill code for
+number of candidates
+the lifetime of
+results are obtained
+the loop with
+a reduction of
+for register allocation
+best results are
+which measures the
+speed up of
+0 3 and
+lead to better
+are obtained when
+the dependence graph
+the paper also
+1 4 32
+that ur ar
+cycles a 1
+to each spilling
+schedtime for values
+3 rows labeled
+paper also contributes
+ii and memory

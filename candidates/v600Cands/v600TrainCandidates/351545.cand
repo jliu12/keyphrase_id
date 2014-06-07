@@ -1,0 +1,600 @@
+fosls
+helmholtz
+ray
+multigrid
+rays
+coarsening
+kh
+ruge
+pollution
+manteuffel
+wavenumber
+mccormick
+discretization
+nonstandard
+oscillatory
+coercivity
+bilinear
+squares
+sin
+norm
+relaxation
+subspace
+grid
+interpolation
+cos
+angle
+coarse
+cf
+coarser
+angles
+weighting
+multilevel
+functionals
+boulder
+curl
+norms
+troublesome
+grids
+coarsenings
+exponential
+nullspace
+solver
+sommerfeld
+boundary
+maxwell
+schwarz
+lee
+di
+equivalence
+residuals
+adjoint
+fine
+hilbert
+radiation
+functional
+cauchy
+perturbation
+scaled
+convergence
+ective
+colorado
+stencils
+cycles
+ectively
+interpolant
+triangle
+wavenumbers
+mandel
+cycling
+seidel
+culties
+approximated
+compounding
+acoustic
+correction
+ect
+homogeneous
+magnetic
+scattering
+coarsen
+perturbed
+gauss
+spaces
+div
+interpolated
+exterior
+brandt
+numerical
+interpolating
+poorly
+uniform
+ameliorate
+electromagnetic
+ritz
+levels
+exponentially
+piecewise
+deteriorate
+rescaled
+introducing
+rayleigh
+adequately
+halved
+wave
+perturbations
+accuracy
+nodal
+livermore
+inequality
+electric
+finest
+degrade
+formulations
+recast
+sobolev
+iterative
+approximation
+restrictive
+operator
+solvers
+cycle
+delayed
+analogous
+livshitz
+mirela
+lee123
+9706866
+33977
+nirenberg
+hfig
+yieldsk
+dispersive
+agmon
+2will
+thorems
+stealth
+producesk
+reran
+11111
+galerkin
+ects
+approximate
+compactness
+triangulation
+indefinite
+specially
+trace
+scalar
+93er25165
+polation
+jruge
+1934
+douglis
+1939
+propel
+1942
+stevem
+rellich
+tmanteuf
+popa
+1947
+minimization
+integration
+uniformly
+basis
+divergence
+94551
+1944
+overbar
+1948
+terpolation
+80309
+achi
+bilinearly
+1using
+1929
+subspaces
+l2
+isolate
+appealing
+formulation
+1937
+1932
+1928
+1946
+sisc
+corrected
+1936
+1931
+1938
+contaminate
+substructuring
+edu
+inequalities
+near
+cult
+er
+elemental
+coarsened
+0526
+level j
+on level
+fosls for
+for helmholtz
+manteuffel mccormick
+lee manteuffel
+mccormick and
+and ruge
+error components
+helmholtz equation
+nonstandard multigrid
+1 k
+y sin
+least squares
+u p
+cos y
+k uniform
+ray basis
+the helmholtz
+exponential interpolation
+order system
+x cos
+introduced on
+the level
+0 d
+multiple coarsening
+discretization accuracy
+w 1
+level l
+h 1
+0 cycles
+l 2
+k norm
+the wavenumber
+the fosls
+pollution free
+bilinear functions
+finite element
+the ray
+to level
+the multigrid
+fine grid
+multigrid scheme
+rays are
+kh 1
+wavenumber k
+levels l
+first order
+pollution e
+fosls formulation
+ray element
+four rays
+equivalence results
+near nullspace
+small residuals
+for levels
+coarse grid
+multigrid solver
+oscillatory error
+scaled h
+k x
+e k
+d w
+exponential weighting
+integration by
+cycles table
+j 1
+with angle
+level 3
+coarse grids
+standard multigrid
+such for
+convergence factors
+the l
+level 2
+and multigrid
+by parts
+until kh
+homogeneous parts
+exponentially interpolating
+angle perturbations
+standard coarsening
+j relaxation
+when kh
+table approximate
+approximate ray
+interpolated up
+coercivity constant
+hilbert space
+subspace of
+l j
+the homogeneous
+of w
+v cycle
+j 2
+l 1
+piecewise bilinear
+radiation condition
+squares functionals
+system least
+sommerfeld radiation
+that rays
+the triangle
+the discretization
+uniform in
+the coarser
+boundary value
+triangle inequality
+discretization error
+self adjoint
+the nonstandard
+kh is
+squares functional
+tables 6
+two level
+product norm
+colorado edu
+work units
+weighting and
+multilevel scheme
+cauchy schwarz
+these components
+1 level
+angle r
+interpolant of
+partial di
+21 and
+basis element
+maxwell s
+grid problem
+components 5
+multigrid convergence
+the coercivity
+p z
+interpolation and
+numerical solution
+coarser levels
+coarser level
+2 least
+gauss seidel
+value problem
+squares approach
+block gauss
+all u
+e ective
+e ect
+1 0
+boulder colorado
+5 y
+norm that
+the oscillatory
+solver we
+a level
+boundary condition
+element method
+and 23
+achieve optimal
+b l
+a multilevel
+s equations
+relaxation is
+in k
+called pollution
+fosls methodology
+fluid solid
+the troublesome
+simply rescaled
+d integration
+squares norm
+this nonstandard
+poorly reduced
+inequality give
+jan mandel
+exact ray
+of maxwell
+standard v
+homogeneous part
+nullspace components
+2 fosls
+squares formulations
+as kh
+ray elements
+multigrid coarsening
+troublesome components
+uniform coercivity
+ray coarsenings
+also integration
+ray delayed
+level cycles
+j level
+perturbed ray
+approximation level
+field variables
+each coarsening
+these troublesome
+exact rays
+adequately approximated
+fosls scheme
+ray 0
+j interpolant
+fosls for helmholtz
+w 1 k
+manteuffel mccormick and
+lee manteuffel mccormick
+the level j
+mccormick and ruge
+e k x
+level j 1
+k x cos
+first order system
+introduced on level
+cos y sin
+x cos y
+0 d w
+the helmholtz equation
+to level j
+on level j
+for levels l
+nonstandard multigrid scheme
+levels l j
+d w 1
+v 1 0
+k 0 d
+the l 2
+on level l
+1 k 0
+oscillatory error components
+u p z
+j 1 level
+level j 2
+1 0 cycles
+all u p
+k such for
+0 cycles table
+scaled h 1
+h 1 k
+such for all
+integration by parts
+of the helmholtz
+the least squares
+up to level
+the wavenumber k
+the fosls formulation
+1 level j
+until kh 1
+the coercivity constant
+1 k norm
+first introduced on
+interpolated up to
+hilbert space in
+components 5 7
+u p 0
+rays are first
+exponential interpolation and
+table approximate ray
+u p w
+uniform in k
+are first introduced
+5 y sin
+g u p
+the triangle inequality
+l 1 w
+l 2 least
+order system least
+21 and 23
+subspace of w
+system least squares
+j 2 can
+least squares functionals
+sommerfeld radiation condition
+b l c
+with b l
+boulder colorado edu
+defined by 5
+least squares functional
+boundary value problem
+the boundary condition
+1 be given
+coarse grid problem
+helmholtz equation with
+let 0 1
+in the multigrid
+l 2 and
+on the coarser
+maxwell s equations
+for all u
+of the level
+2 1 k
+2 least squares
+l j the
+least squares approach
+by 5 2
+block gauss seidel
+parts and the
+finite element method
+as k increases
+0 1 be
+l r l
+3 5 and
+l c l
+a hilbert space
+finite element discretization
+2 and l
+l is the
+piecewise bilinear functions
+the product ray
+and for levels
+the pollution e
+of maxwell s
+level j ray
+interpolation and weighting
+and weighting and
+appropriate hilbert space
+12 21 and
+give 0 d
+a rayleigh ritz
+appealing to level
+l 2 functional
+the error components
+begins to deteriorate
+norm 2 1
+k norm the
+near nullspace components
+least squares formulations
+find u l
+inequality give 0
+approximate ray delayed
+error components of
+and the cauchy
+y sin d
+for the fosls
+error components that
+to coarsen level
+relative to k
+also integration by
+schwarz and inequalities
+so called pollution
+two level l
+and non self
+1 0 cycle
+just begins to
+ray basis element
+the nonstandard multigrid
+level 3 ray
+least squares norm
+the homogeneous part
+level j is
+and multiple coarsening
+pollution e ect
+a standard v
+fine grid work
+ray 0 cycles
+w the discrete
+y sin where
+the near nullspace
+level j using
+optimal discretization accuracy
+the scalar helmholtz
+assume that rays
+also a hilbert
+product norms 2
+basis for w
+that rays are
+approximation on level
+as many rays
+our fosls scheme
+homogeneous parts of
+product norm 2
+simply rescaled by
+j level j
+table standard coarsening
+interpolant of the
+ray delayed until
+four rays on
+order operator corresponding
+nonstandard multigrid method
+level j interpolant
+means that standard
+the angle perturbations
+for the nonstandard
+rays on level
+l with angle
+ray with angle
+order system by
+the troublesome oscillatory
+l j relaxation
+j relaxation is
+relatively small residuals
+coupled fluid solid
+scalar helmholtz equation
+number of fine
+dimension of z
+multigrid solver we
+the discrete fine
+indefinite and non
+with angle r
+that the homogeneous
+grid work units
+3 basis function
+delayed until kh

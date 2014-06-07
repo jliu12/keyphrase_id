@@ -1,0 +1,600 @@
+dbmin
+buffers
+mg
+allocation
+buffer
+looping
+marginal
+adaptable
+tp
+references
+mix
+throughput
+queries
+disk
+faults
+ref
+edu
+reference
+query
+page
+ud
+policy
+predictors
+admission
+yao
+allocate
+pages
+utilization
+allocations
+waiting
+gains
+mini
+mru
+mixes
+gain
+policies
+throughputs
+queueing
+predictor
+allocated
+pessimistic
+load
+noh
+chou
+queue
+jobs
+manager
+flexible
+yookun
+jongmoo
+dewitt
+loads
+cho
+replacement
+allocating
+lyul
+activate
+accesses
+sequential
+td
+loop
+sharing
+sang
+optimistic
+concurrent
+management
+database
+choi
+cpu
+availability
+tc
+kim
+clustered
+simulation
+runtime
+admitted
+pool
+workload
+25simulation
+r30
+avoidable
+random
+comparably
+predictive
+instantaneous
+pass
+sam
+relational
+min
+051
+flexibly
+formulas
+hot
+accessed
+pf
+activated
+50
+lru
+selectivity
+idle
+850
+951
+locality
+resident
+150
+100
+fluctuation
+allocates
+50number
+beneficial
+harmonic
+msec
+switching
+hits
+effective
+symbols
+multiprogramming
+cur
+opt
+inflexibility
+fluctuate
+151
+weakness
+predictions
+750
+extra
+wasted
+001
+ef
+t0
+degenerates
+201
+package
+estimate
+join
+ingres
+benefited
+demand
+effectiveness
+patterns
+workloads
+recurrence
+exceeds
+activating
+adopting
+summarizes
+cornell
+adaptability
+chong
+referenced
+head
+exhibited
+401
+fewest
+cf
+activation
+pp
+85
+jong
+unified
+70
+301
+cycle
+job
+gamma
+cycles
+decisions
+sub
+response
+utility
+101
+usenix
+sigmetrics
+161
+averages
+situations
+diversity
+quantification
+usable
+simulations
+portion
+kept
+scan
+transaction
+milliseconds
+opearting
+schkolnick
+r100
+ecomonics
+junho
+hun
+oblivion
+ssequential
+fcfs
+16405060708090number
+asad
+donghee
+30number
+luxury
+admissions
+mg x
+buffer allocation
+of buffers
+marginal gain
+mg 50
+random reference
+gain values
+random references
+marginal gains
+the adaptable
+of mg
+looping reference
+page faults
+buffers to
+allocation algorithms
+looping references
+concurrent queries
+a looping
+mg 100
+adaptable algorithms
+tp o
+disk utilization
+of queries
+load control
+x y
+data sharing
+the reference
+waiting queue
+sequential reference
+the waiting
+optimal allocation
+yao estimate
+available buffers
+y algorithms
+the mg
+the marginal
+the buffers
+buffer management
+s min
+o edu
+of dbmin
+flexible buffer
+of marginal
+2 pass
+adaptable buffer
+many buffers
+the throughput
+allocation policy
+ref i
+admission policy
+effective disk
+queueing model
+clustered index
+edu o
+dbmin mg
+of page
+the disk
+a reference
+the loop
+buffer manager
+the pessimistic
+gains and
+a query
+than dbmin
+local replacement
+and edu
+tp and
+to allocate
+waiting time
+allocation policies
+edu 2
+the allocation
+of concurrent
+allocation is
+mix of
+the buffer
+s buffers
+allocated buffers
+extra buffers
+the yao
+more buffers
+buffer utilization
+of buffer
+simulation results
+reference is
+on marginal
+locality set
+dbmin and
+with dbmin
+throughputs of
+allocations to
+chou and
+h noh
+this mix
+mini cycle
+a buffer
+buffer pool
+d e
+buffers are
+buffers that
+relative throughput
+50 12
+and mg
+sub optimal
+relational database
+expected number
+buffers at
+of available
+to looping
+two predictors
+query mixes
+yookun cho
+mini cycles
+reference l
+noh sang
+50 y
+gain value
+queries r
+reference ref
+total marginal
+jongmoo choi
+dbmin the
+sam h
+optimal allocations
+k n
+the page
+access patterns
+of allocated
+the query
+the optimistic
+a random
+and dewitt
+s max
+disk load
+sang lyul
+f faults
+r 30
+lyul min
+non clustered
+hot set
+in throughput
+k t
+length k
+allocation algorithm
+query type
+number s
+in buffer
+c d
+f k
+our algorithms
+to random
+100 1
+predictors tp
+b yao
+mix 4
+buffers assigned
+reference as
+e mg
+for dbmin
+for mg
+ud i
+may allocate
+mix 1
+buffers where
+page hits
+50 18
+buffers s
+utilization ud
+sequential references
+dynamic workload
+dbmin in
+min yookun
+adaptable allocation
+disk loads
+resident pages
+total buffers
+this reference
+throughput of
+references in
+state f
+buffer to
+policy is
+buffers and
+e a
+the jobs
+references are
+references and
+b c
+reference s
+query mix
+class model
+allocate to
+y s
+l k
+the system
+a sequential
+at runtime
+buffers is
+for buffer
+2 mg
+mg x y
+number of buffers
+marginal gain values
+the marginal gain
+a looping reference
+a random reference
+of mg x
+gain values of
+of concurrent queries
+the waiting queue
+buffers to the
+the adaptable algorithms
+buffer allocation algorithms
+effective disk utilization
+of available buffers
+the mg x
+mix of queries
+adaptable buffer allocation
+flexible buffer allocation
+number of page
+e a b
+x y algorithms
+marginal gains and
+l k t
+d e a
+of page faults
+number of concurrent
+a sequential reference
+availability of buffers
+of the loop
+c d e
+the optimal allocation
+mg 100 1
+of marginal gains
+a buffer allocation
+buffers at runtime
+the 2 pass
+on marginal gains
+based on marginal
+notion of marginal
+mg 50 12
+of allocated buffers
+tp and edu
+the yao estimate
+tp o edu
+in the buffers
+expected number of
+r k n
+s k n
+b c d
+the expected number
+of the waiting
+patterns of queries
+to random references
+and the adaptable
+of buffer management
+o edu o
+sam h noh
+concurrent queries r
+queries r a
+many buffers to
+to looping references
+throughputs of dbmin
+non clustered index
+noh sang lyul
+buffer allocation algorithm
+y s and
+chou and dewitt
+h noh sang
+looping reference l
+of buffers that
+marginal gain value
+reference l k
+sub optimal allocation
+mg 50 y
+in the waiting
+number of available
+of length k
+of random references
+the number s
+the random reference
+for a looping
+sang lyul min
+number s of
+to the reference
+of the system
+access patterns of
+of queries of
+formulas for computing
+the access patterns
+simulation results show
+a b c
+to a reference
+no data sharing
+mg 50 18
+buffer utilization and
+and s max
+lyul min yookun
+of buffers assigned
+sequential reference is
+allocation algorithms based
+f faults in
+s min a
+adaptable allocation algorithms
+dbmin mg x
+predictors tp and
+of buffer allocation
+buffers assigned to
+s of allocated
+of queries with
+more buffers to
+state f k
+min yookun cho
+extra buffers to
+allocations to looping
+in buffer allocation
+disk utilization ud
+of buffers at
+sub optimal allocations
+i e mg
+min and s
+the effective disk
+of dbmin mg
+types of references
+50 y s
+queries of type
+of the reference
+in 2 3
+the hot set
+for buffer allocation
+a buffer manager
+the buffer pool
+the performance of
+at the head
+when compared with
+t a n
+s min and
+to a relation
+the disk utilization
+a sub optimal
+x and y
+the number of
+number of pages
+the throughput of
+the disk is
+the locality set
+performance of mg
+of data sharing
+of ref i
+random queries are
+151 25simulation time
+allocation policies are
+allocating extra buffers
+relation of size
+and 2 pass
+reference of length
+optimal allocations to
+ref can be
+buffer allocation in
+that of mg
+reference at the
+random reference as
+shown as path
+algorithms mg x
+come first serve
+compared with dbmin
+local replacement policies
+yao estimate of
+2 pass policy
+sequential reference s
+the adaptable ones
+to ref i
+buffers are available
+the dynamic workload
+the x parameter
+faults in k
+marginal gains which
+total marginal gain
+in k accesses
+o edu 2
+portion of avoidable
+the looping reference
+s min is
+the accessed relation
+the y parameter
+x y scheme
+001 101 201
+and random references
+850 951 051
+edu o edu
+waiting time and
+relative throughput mix
+choi sam h
+perform comparably to
+pages kept in
+allocation algorithms are
+the pessimistic approach
+adaptable algorithms running
+looping references and
+y becomes 15

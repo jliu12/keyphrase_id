@@ -1,0 +1,600 @@
+gmres
+reactor
+aaa
+pwr
+preconditioner
+core
+outer
+retran
+axial
+junctions
+preconditioning
+inner
+residual
+transient
+fgmres
+krylov
+solver
+hydrodynamics
+serial
+channel
+nested
+timestep
+nuclear
+paragon
+pressurized
+volumes
+jacobi
+iterations
+ex
+preconditioned
+hydrodynamic
+rod
+convergence
+kakf
+junction
+miter
+crossflow
+plenum
+flow
+frobenius
+cross
+semi
+water
+supernodes
+withdrawal
+supernode
+ac
+coupling
+linearized
+precond
+steam
+gauss
+iteration
+iterative
+recombined
+ilu
+speedup
+volume
+solvers
+cgs
+planes
+transients
+siedel
+processors
+03
+norm
+coefficient
+fidelity
+parallelization
+krkf
+reactors
+channels
+seidel
+matrix
+examined
+gradient
+mass
+block
+products
+bicg
+wise
+cg
+tridiagonal
+biconjugate
+kinetics
+reactivity
+preconditioners
+considerably
+32mb
+neglects
+neutron
+intel
+conjugate
+conditioned
+ill
+seconds
+timesteps
+speedups
+fig
+predominantly
+striped
+magnitude
+sequentially
+subspace
+equations
+comm
+elimination
+plane
+processor
+fluid
+dimensional
+attractive
+lend
+transfers
+diagonal
+insertion
+minor
+vertical
+tolerance
+mimd
+parametrics
+presurized
+12002006001000columns
+343111
+innerouter
+subchannel
+355769
+schimdt
+nodalization
+7177737579656
+outers
+4931
+pressurizer
+psia
+communicationoverhead
+interactions
+schematic
+gamma6
+indicated
+begun
+submatrices
+heat
+cpu
+resultant
+md
+manageable
+lu
+transfer
+bicgs
+decreasingly
+dutto
+computatinal
+hydraulics
+factorization
+nonsymmetric
+execution
+parallelized
+floating
+decomposition
+flexible
+planewise
+bottommost
+teraflop
+gmresr
+turbines
+inventories
+bulk
+effectiveness
+coupled
+deleterious
+conservatism
+rethinking
+47907
+ssor
+discourages
+orderings
+assessment
+arising
+fourth
+withdrawn
+cuted
+1173
+reordering
+acceptable
+squared
+vapor
+conducive
+tioning
+highest
+criterion
+calculations
+enforced
+physical
+lafayette
+gamma11
+cgstab
+cuthill
+communication
+energy
+equation
+level gmres
+aaa aaa
+ex core
+cross flow
+12 axial
+channel 12
+the core
+9 channel
+nested gmres
+inner level
+the preconditioner
+retran 03
+direct solver
+the ex
+outer level
+core problem
+semi iterative
+gmres algorithm
+the outer
+preconditioner equation
+pwr model
+core and
+the inner
+krylov methods
+outer iteration
+nested fgmres
+the pwr
+direct solution
+the nested
+work here
+outer iterations
+block jacobi
+serial performance
+of outer
+25 channel
+hydrodynamics equations
+axial case
+the reactor
+linear system
+execution time
+second level
+core model
+time steps
+linear systems
+the direct
+three dimensional
+reactor problem
+the transient
+time step
+a a
+reactor core
+reactor transient
+without cross
+pressurized water
+dimensional flow
+outer residual
+kakf iterations
+step outer
+nuclear reactor
+other total
+d core
+inner gmres
+water reactor
+a aaa
+the gmres
+with cross
+coefficient matrix
+gmres method
+the paragon
+13 processors
+gmres to
+volumes and
+model with
+applications were
+the solution
+the matrix
+the frobenius
+residual fig
+the parallel
+frobenius norm
+the serial
+domain decomposition
+systems resulting
+level 9
+were examined
+parallel computing
+z c
+the preconditioning
+coupling between
+serial execution
+in gmres
+a direct
+serial and
+the 9
+of nuclear
+reduction elimination
+residual fgmres
+core power
+rod withdrawal
+core ex
+dimensional core
+square solution
+junctions is
+tight convergence
+transient problem
+axial timestep
+of retran
+gmres is
+the linear
+inner products
+the residual
+two phase
+was achieved
+then recombined
+aaa a
+gmres algorithms
+core the
+and parallel
+a preconditioner
+norm of
+the coefficient
+solution vector
+of volumes
+the rod
+hydrodynamic model
+junctions and
+of gmres
+solver and
+intel paragon
+the krylov
+were performed
+table 11
+iterative solver
+performance of
+jacobi preconditioner
+iterative linear
+outer inner
+computing can
+computational load
+semi implicit
+magnitude reduction
+gmres was
+of magnitude
+3 d
+can considerably
+cg method
+speedups were
+the work
+the coupling
+table results
+high fidelity
+vector product
+gauss seidel
+preconditioner for
+minimum residual
+ilu preconditioner
+with gmres
+subsequent time
+parallel applications
+using 13
+a nested
+time necessary
+outer and
+and inner
+direct methods
+of preconditioning
+inner iterations
+convergence criterion
+and outer
+executed using
+inner and
+the block
+solution of
+as indicated
+ill conditioned
+the 25
+least square
+preconditioned gmres
+fourth column
+20 seconds
+in table
+problem the
+the intel
+for parallel
+results pwr
+condition krkf
+flow contains
+transient calculations
+reactor system
+pwr example
+fgmres 9
+when appropriately
+comm other
+in retran
+9 channels
+lower plenum
+dimensional reactor
+time core
+to nuclear
+code retran
+aaa aaa aaa
+channel 12 axial
+the ex core
+9 channel 12
+in the core
+a a a
+the work here
+the nested gmres
+the inner level
+inner level gmres
+the core and
+the direct solver
+the preconditioner equation
+second level gmres
+the outer level
+of the outer
+the core problem
+serial performance of
+12 axial case
+with cross flow
+the 9 channel
+applications were performed
+outer level gmres
+the linear systems
+of the nested
+a direct solver
+number of outer
+core and the
+of the inner
+a aaa aaa
+direct solver and
+pwr model with
+a a aaa
+3 d core
+and the ex
+without cross flow
+nested gmres algorithm
+level 9 channel
+for the pwr
+time step outer
+in the work
+the outer iteration
+systems resulting from
+linear systems resulting
+the frobenius norm
+the coefficient matrix
+a direct solution
+the second level
+serial and parallel
+frobenius norm of
+solution of the
+the block jacobi
+using a direct
+of outer iterations
+on the inner
+of semi iterative
+the core model
+using 13 processors
+12 axial timestep
+of cross flow
+parallel computing can
+gmres algorithm was
+are then recombined
+the 25 channel
+three dimensional core
+outer iteration number
+and parallel applications
+minimum residual fgmres
+the pwr model
+over an order
+semi iterative solvers
+aaa aaa a
+core ex core
+least square solution
+level gmres to
+cases a 2
+one dimensional flow
+for the 25
+aaa a a
+model with cross
+pressurized water reactor
+table results of
+for the outer
+the intel paragon
+the serial performance
+z c and
+gmres to solve
+core problem the
+the computational load
+of nested gmres
+serial execution time
+for parallel computing
+a tolerance of
+time necessary to
+than the direct
+the interactions between
+of magnitude reduction
+the gmres method
+of the preconditioning
+outer and inner
+magnitude reduction in
+solver and the
+the execution time
+an order of
+matrix vector product
+be very efficient
+the gmres algorithm
+the least square
+the matrix vector
+norm of the
+about a factor
+the time necessary
+to solve the
+coupling between the
+table 11 the
+the coupling between
+preconditioned gmres algorithm
+the inner and
+of the matrix
+shown in the
+order of magnitude
+the direct solution
+were performed on
+performance of the
+for larger problems
+the fourth column
+inner and outer
+the solution vector
+the preconditioner for
+shown in figure
+that the use
+direct solution of
+to the direct
+a linear system
+reduce the computational
+the 3 d
+of the core
+in the execution
+equation 7 the
+to the ex
+results pwr model
+sequentially by gmres
+nested fgmres method
+results here indicate
+condition krkf kakf
+results of serial
+code retran 03
+for 20 seconds
+in gmres involves
+axial timestep outer
+model and reactor
+nuclear reactor transient
+interact only at
+three dimensional reactor
+more manageable problems
+assigned the ex
+retran 03 is
+parallel applications were
+problem over an
+interactions between variables
+core and ex
+was about a
+manageable problems which
+general minimum residual
+reactor transient behavior
+computing can considerably
+several options exist
+model with 9
+problem the block
+speedups were about
+ac and u
+table parallel performance
+other time steps
+execution time core
+iii or direct
+reactor model with
+the core power
+retran solution 20
+various krylov methods
+detailed three dimensional
+hydrodynamic model and
+of transfers required
+step outer inner
+outer residual fig
+given by ac
+the parallel speedups
+a strategy was
+pwr example problem
+dimensional flow problems
+and lower plenum
+subsequent time step
+recombined sequentially by
+reduction of outer
+tight convergence was
+important physical parameters
+vector product requires
+some minor deviation
+cross flow in
+nested gmres method
+of 3 better

@@ -1,0 +1,600 @@
+ecs
+client
+ru
+server
+cs
+clients
+dbms
+jobs
+throughput
+queue
+job
+disk
+cached
+sqs
+qus
+update
+workstations
+orkload
+manager
+pages
+architectures
+curves
+rad
+database
+page
+upd
+unify
+cache
+mtts
+caching
+instr
+speedup
+concurrency
+locks
+delis
+commun
+ccm
+datapages
+ccp
+rates
+cpu
+mpl
+lock
+workstation
+configurations
+rd
+updates
+abrt
+quss
+locking
+workloads
+queuing
+streams
+blocked
+experiment
+writer
+query
+decline
+abort
+perc
+sts
+lqs
+kanitkar
+commit
+configuration
+architecture
+logs
+generator
+workload
+increments
+diskless
+instructions
+participating
+alue
+vinay
+resident
+rel
+multiprogramming
+deadlock
+curve
+accesses
+alex
+mtt
+cmt
+9msec
+rocessingqueue
+roussopoulos
+mix
+consistency
+selectivity
+queued
+56
+packages
+disks
+request
+enhanced
+cont
+aborted
+incremental
+msec
+writers
+dbmss
+simulation
+scalability
+network
+read
+pertinent
+cpus
+gains
+join
+mips
+selections
+tuples
+ready
+mainframe
+qualifying
+percentage
+light
+site
+declines
+submitting
+kill
+transaction
+binding
+adms
+logrd
+ddlock
+prc
+cs21e
+commence
+readqueue
+notify
+requests
+memories
+submits
+examine
+depicts
+queries
+serviced
+databases
+pure
+fract
+1316
+mbits
+mesg
+locked
+buffered
+retrieval
+log
+deadlocks
+requested
+stream
+resources
+lan
+dewitt
+awaiting
+ism
+routed
+stations
+queues
+modern
+readers
+clustered
+submitted
+responsible
+selectivities
+timestamped
+flushed
+bytes
+min
+volume
+requesting
+depicted
+tuple
+multiprogrammed
+modifications
+predominantly
+prototype
+serious
+rate
+counterparts
+linearly
+decides
+utilization
+simulators
+utilizing
+transfers
+soft
+principal
+centralized
+coherence
+loads
+chart
+catalog
+file
+nick
+benchmarking
+rec
+updated
+differential
+the server
+ecs cs
+the ecs
+the ru
+the cs
+server dbms
+client server
+ru cs
+the client
+cached data
+rad unify
+sqs u
+dbms architectures
+cs and
+throughput rates
+server disk
+concurrency control
+w orkload
+orkload generator
+jobs min
+6 ecs
+network manager
+56 clients
+client disk
+2 ecs
+and ru
+update curves
+of clients
+main memory
+update rates
+enhanced client
+cs 8
+0 ecs
+zero update
+and ecs
+ecs architecture
+server and
+disk access
+a job
+jobs are
+cs 6
+of ecs
+throughput speedup
+8 ecs
+server database
+blocked queue
+commun software
+client main
+over cs
+4 ecs
+alex delis
+cs 4
+the rad
+u experiment
+dbms architecture
+cs ru
+the mtts
+of server
+the network
+of client
+clients figure
+cs 2
+update rate
+clients the
+access time
+ru and
+under light
+0 update
+server relation
+workstation server
+simulation packages
+unify type
+light update
+update jobs
+ecs server
+0 ru
+update streams
+pure update
+job is
+the clients
+the throughput
+ready queue
+the w
+send queue
+control manager
+almost linearly
+client cache
+server architecture
+the log
+the workstation
+of cached
+server s
+the disk
+in client
+the 0
+0 curve
+log page
+write type
+ecs clients
+cs configuration
+ecs over
+ecs performance
+for ecs
+almost proportional
+cont caching
+one writer
+40 clients
+caching perc
+increases almost
+every client
+database architectures
+disk reduction
+ru ecs
+kanitkar alex
+update curve
+client cpu
+ru throughput
+ecs model
+cs curves
+both cs
+ecs is
+vinay kanitkar
+meaning v
+sts u
+of workstations
+cache memory
+the concurrency
+disk accesses
+clients for
+queuing model
+the update
+input queue
+shared database
+cs the
+cs is
+query update
+closed queuing
+v alue
+of dbms
+cs 0
+cache consistency
+page accesses
+a client
+of jobs
+database system
+the job
+workloads the
+non zero
+output queue
+queued in
+locking and
+new data
+parameter cont
+the increments
+demand new
+active jobs
+server relations
+page instructions
+writer at
+6 jobs
+appear much
+incremental access
+ecs throughput
+diskless client
+p rocessingqueue
+cs throughput
+the sts
+queue ccm
+lqs u
+abort queue
+at 56
+tuple selectivity
+ecs the
+update queue
+the upd
+update blocked
+queue abrt
+differential files
+ru configuration
+server concurrency
+cpu mips
+software application
+update workload
+application soft
+queue send
+the sqs
+dbms configurations
+service module
+control queue
+queue cmt
+appropriate client
+ecs 2
+the qus
+commit queue
+server main
+the jobs
+data caching
+the database
+this experiment
+architectures and
+client server dbms
+w orkload generator
+of the server
+the w orkload
+cs and ru
+number of clients
+enhanced client server
+non zero update
+from the server
+of the ru
+the rad unify
+ecs cs 8
+number of workstations
+on the server
+of cached data
+disk access time
+client main memory
+6 ecs cs
+server dbms architecture
+the ecs architecture
+2 ecs cs
+4 ecs cs
+rad unify type
+cs 4 ecs
+ecs cs 4
+cs 6 ecs
+cs 8 ecs
+zero update curves
+of the cs
+for the ecs
+unify type of
+the server s
+to the server
+the server and
+client server architecture
+in client server
+concurrency control manager
+server disk accesses
+queuing model for
+ecs cs 2
+vinay kanitkar alex
+the cs configuration
+almost linearly with
+client disk access
+cont caching perc
+meaning v alue
+both cs and
+increases almost linearly
+cs 2 ecs
+the ecs model
+of the ecs
+0 ru cs
+8 ecs cs
+ecs cs 6
+the network manager
+ru and ecs
+kanitkar alex delis
+almost proportional to
+the enhanced client
+0 ecs cs
+the 0 update
+type of dbms
+in the ecs
+server dbms architectures
+the concurrency control
+examine the performance
+the performance of
+the non zero
+we observe a
+in the client
+at the client
+the blocked queue
+scalability of client
+ru cs curves
+queue send queue
+software application soft
+writer at a
+for the cs
+is almost proportional
+clients the ecs
+the cs and
+the appropriate client
+for the ru
+commun software application
+jobs min and
+queuing network models
+server main memory
+ecs over cs
+page instructions to
+pages to be
+appear much later
+pure update workload
+server disk access
+56 clients the
+server concurrency control
+ecs 2 ecs
+performance of ecs
+the throughput speedup
+workstation server architectures
+commit queue cmt
+concurrency control queue
+of server disk
+ecs cs 0
+with tuple selectivity
+at 56 clients
+control queue ccm
+the ru configuration
+under light update
+cs and ecs
+sqs u and
+the sts u
+sqs u experiment
+parameter cont caching
+range of 4
+the update rate
+abort queue abrt
+one writer at
+client server database
+0 update curve
+demand new data
+linearly with the
+with the number
+the number of
+closed queuing network
+main memory size
+number of participating
+the server disk
+when a job
+through the network
+two phase locking
+at a time
+to be cached
+queued in the
+in a client
+the almost linear
+to the 0
+of client server
+the ready queue
+the job is
+maintaining consistency of
+in the server
+performance and scalability
+the other two
+the percentage of
+is depicted in
+for more than
+the client s
+are done on
+to the appropriate
+from 4 to
+the server is
+and scalability of
+memory of the
+data from the
+all the non
+parallel databases v
+and parallel databases
+simulation results show
+than that of
+of the database
+a client server
+et al in
+distributed and parallel
+than clients the
+of all models
+server becomes the
+update rates 1
+experiments sqs u
+the server database
+high throughput rates
+ru over cs
+queue abrt update
+throughput rates for
+1998 vinay kanitkar
+dbms architectures and
+the client main
+client s site
+disk tr average
+the ecs over
+three alternative workstation
+instr log page
+enhanced workstation server
+delis nick roussopoulos
+client client client
+and file server
+two system configurations
+jobs are not
+than 40 clients
+percentage of server
+queue workload generator
+the diskless client
+cpu set to
+pure update workloads
+server database architectures
+and ru cs
+and ecs architectures
+tradeoffs in client
+simple database operations
+mpl concurrency control
+consistency of client

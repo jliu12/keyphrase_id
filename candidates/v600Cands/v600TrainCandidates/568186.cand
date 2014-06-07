@@ -1,0 +1,600 @@
+dispatch
+obj
+datatype
+constructor
+hoas
+constructors
+int1class
+withtype
+msggetfst
+polymorphism
+fun
+msgcopy
+msgsetfst
+coloredint1class
+objclass
+redex
+typing
+pairclass
+anintpair
+coloredpairclass
+msg
+derivable
+newintpair
+newpair
+guarded
+syntax
+typed
+msggetsnd
+msgsetsnd
+msgfoo
+ml
+int
+object
+message
+intpairclass
+yref
+xref
+msggetcolor
+newcoloredpair
+newint1
+downcasting
+msgsetcolor
+mytype
+ms
+intensional
+o2
+e1
+dml
+inheritance
+cons
+val
+oriented
+erasure
+a1
+objects
+subtyping
+msgeq
+eqclass
+msgdouble
+msgset_x
+declare
+e2
+ty
+c1
+eval
+smalltalk
+datatypes
+objected
+java
+o1
+declared
+a2
+polymorphic
+superobj
+ctx
+hoasapp
+hoaslam
+msgset_c
+fixf
+newcoloredint1
+selftype
+snd
+v2
+rules
+lam
+invented
+skolemized
+erentiate
+v1
+implementing
+haskell
+di
+subclass
+tagged
+judgments
+undeniably
+declares
+color
+clauses
+xf
+mc
+erence
+nil
+clause
+please
+dom
+subclasses
+inherits
+fst
+substitutions
+associate
+c2
+c0
+quantified
+self
+sort
+clean
+recursive
+semantics
+intentional
+nat
+handling
+fix
+judgment
+overloading
+x0
+ck
+notion
+ill
+popularity
+equality
+fads
+0081316
+structors
+newint
+0092703
+msgget_x
+unknownmessage
+msgneq
+msgget
+msgget_c
+hoaslift
+hoastup
+airclass
+typecon
+cref
+typerec
+erentiation
+expression
+classes
+dictionary
+pat
+really
+arity
+returned
+derivation
+explaining
+constructing
+stuck
+annotation
+dependent
+recursor
+tup
+typecase
+uncaught
+downcasts
+dispensing
+reflexive
+reuse
+deriving
+conceptualize
+remedying
+safe
+void
+matching
+x1
+expressions
+unobtrusive
+coerced
+pepm
+monomorphic
+paradigmatic
+induction
+var
+compiling
+facilitate
+send
+sent
+aizu
+substance
+p1
+shares
+receiving
+passing
+fee
+modestly
+typ
+eq
+language
+noticed
+r datatype
+datatype constructors
+a type
+the type
+bounded polymorphism
+obj a
+oriented programming
+end withtype
+in dispatch
+fun dispatch
+dispatch end
+type constructor
+g r
+type obj
+a redex
+message constructors
+object oriented
+datatype constructor
+withtype a
+is derivable
+dependent types
+type variable
+redex that
+dispatch in
+2 g
+variable context
+val fun
+class int1class
+dispatch dispatch
+int1class and
+guarded recursive
+int obj
+message constructor
+constructors associated
+and coloredint1class
+type system
+a guarded
+of type
+typing rules
+types in
+programming objects
+type erasure
+that reduces
+types 1
+type analysis
+a obj
+of ms
+type downcasting
+dispatch msggetfst
+msgsetsnd dispatch
+recursive datatype
+dispatch msggetsnd
+guarded type
+value constructors
+yref dispatch
+msggetsnd yref
+class objclass
+msgsetfst dispatch
+dispatch msgsetfst
+dispatch msgsetsnd
+xref dispatch
+message msgcopy
+msggetfst msgsetfst
+msggetfst xref
+f bounded
+a message
+to implementing
+type classes
+well typed
+x val
+reduces to
+type constraint
+erasure semantics
+to e2
+declare a
+a class
+and associate
+polymorphism the
+type constraints
+20 18
+practical programming
+the message
+dependent ml
+constructor hoas
+solving type
+ml 20
+constructor list
+object tagged
+recently invented
+objclass and
+self type
+class coloredint1class
+fix variable
+in dml
+type hoas
+particularly clean
+withtype int
+constructor msg
+of mytype
+constructing objects
+function newintpair
+lam variable
+classes int1class
+class constructor
+anintpair msgfoo
+a lam
+type and
+following syntax
+class c
+c obj
+type index
+derivable proof
+intensional type
+objected oriented
+implementing objects
+intensional polymorphism
+in ml
+a1 a2
+type variables
+type equality
+obj c
+binary methods
+objects in
+associate with
+of object
+int int
+with dependent
+ill typed
+typed expression
+programming object
+a value
+in object
+to typing
+dynamic semantics
+for constructing
+typing rule
+constructors of
+a derivation
+the types
+kind for
+tagged by
+rules for
+the class
+an object
+syntax to
+holds if
+the syntax
+a subclass
+we send
+types to
+of guarded
+notion of
+a fix
+in ms
+constructor is
+if 1
+of g
+we write
+of types
+constructors nil
+pair objects
+a coloredpairclass
+deriving judgments
+invented notion
+msggetcolor a
+hoas a1
+msgcopy to
+hoas in
+intentional polymorphism
+hoas a
+newpair x
+at 19
+obj c1
+a2 a1
+implementing type
+coloredpairclass color
+type annotation
+msgsetfst the
+2 coloredpairclass
+pattern typing
+fun newpair
+withtype clause
+typing binary
+b obj
+newintpair x
+c msg
+how inheritance
+dispatch msgset_x
+function newpair
+types suppose
+following dependent
+dispatch msgcopy
+msg c
+e1 reduces
+typing objects
+msgfoo is
+p clauses
+of newpair
+copying method
+capturing program
+g r datatype
+r datatype constructors
+dispatch end withtype
+in dispatch end
+object oriented programming
+dispatch in dispatch
+is a redex
+that reduces to
+the type obj
+the type constructor
+a redex that
+redex that reduces
+end withtype a
+of g r
+r datatype constructor
+val fun dispatch
+int1class and coloredint1class
+a obj a
+constructors associated with
+a type variable
+f bounded polymorphism
+for 2 g
+obj a obj
+dispatch msgsetsnd dispatch
+a guarded type
+dispatch msggetsnd yref
+guarded recursive datatype
+msggetsnd yref dispatch
+yref dispatch msgsetfst
+msgsetfst dispatch msgsetsnd
+bounded polymorphism the
+dispatch msgsetfst dispatch
+type variable context
+msgsetsnd dispatch in
+msggetfst xref dispatch
+xref dispatch msggetsnd
+dispatch msggetfst xref
+a message constructor
+the type system
+approach to implementing
+a type and
+type erasure semantics
+types in practical
+and associate with
+dependent types in
+if 1 2
+types 1 and
+in practical programming
+reduces to e
+the following syntax
+type obj c
+a guarded recursive
+v of ms
+reduces to e2
+declare a class
+object tagged by
+a programming object
+a lam variable
+the class int1class
+objected oriented programming
+value constructors associated
+sequence of types
+solving type constraints
+dependent ml 20
+system of java
+a particularly clean
+withtype a b
+e of ms
+the kind for
+classes int1class and
+type constructor msg
+int int obj
+type constructor list
+for constructing objects
+end withtype int
+constructing objects in
+functions for constructing
+if we send
+the value constructors
+language 2 g
+fun dispatch msggetfst
+a fix variable
+the message msgcopy
+ml 20 18
+syntax to declare
+notion of mytype
+value of type
+of object oriented
+type system of
+in object oriented
+that is derivable
+in 2 g
+e is derivable
+case v of
+intensional type analysis
+a derivation of
+types in figure
+on a derivation
+a type constructor
+associate with it
+the types in
+induction on a
+case e of
+is a type
+to mean that
+through the use
+given a type
+typing rules for
+structural induction on
+send the message
+of the type
+a type system
+in the class
+the following types
+the notion of
+withtype int obj
+constructors nil and
+x0 val fun
+message constructors associated
+for substitutions mapping
+by a subclass
+use for type
+assigned the types
+we can declare
+class objclass and
+for deriving judgments
+1 2 int
+e1 reduces to
+fun dispatch dispatch
+msggetfst msgsetfst the
+typing programming objects
+implementing haskell overloading
+v1 v2 is
+obj a is
+of type hoas
+polymorphism f bounded
+obj c1 can
+datatype constructors we
+nil and cons
+returned if we
+datatype constructor is
+organization and reuse
+x val val
+the unit type
+to typing objects
+a2 a1 a2
+is derivable if
+programming object as
+quantified type variables
+type constructor hoas
+typing binary methods
+recently invented notion
+match bounded polymorphism
+derivable proof by
+a b obj
+dispatch dispatch msgset_x
+obj a the
+found at 19
+intentional polymorphism and
+a type annotation
+associated with hoas
+to implementing objects
+notion of g
+p is derivable
+object c as
+particularly clean solution
+can declare a
+c obj a
+v2 is a
+a recently invented
+type index expressions
+the message constructors
+a coloredpairclass color
+msgsetfst the function
+message constructors of
+on quantified type
+message msgcopy to
+outline an approach
+free occurrences in
+dispatch dispatch msg
+an object tagged
+of type downcasting
+as the kind
+ill typed if
+a class constructor
+datatype constructor the
+hoas can be
+val val fun
+fun newpair x
+recursive datatype constructor
+solution to handling
+the type constraint
+expression variable context
+guarded type where
+type 1 msg
+following syntax to
+the withtype clause
+for solving type
+objclass obj a
+the class coloredint1class

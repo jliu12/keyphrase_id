@@ -1,0 +1,600 @@
+cc
+external
+adjacency
+thread
+mst
+lw
+nc
+blog
+edges
+edge
+supersteps
+erew
+pram
+spanning
+light
+superstep
+lists
+mate
+vertices
+merged
+heavy
+forest
+trees
+primary
+secondary
+threads
+ext
+chong
+tree
+hv
+ui
+hu
+subtree
+tmp
+ic
+phase
+lam
+vi
+log
+han
+internal
+bi
+processors
+r3
+cluster
+r5
+denition
+qsm
+mates
+ramachandran
+italic
+list
+core
+remove
+randomized
+jaja
+merging
+weight
+inherits
+threshold
+merge
+vishkin
+pettie
+r1
+loglog
+schedule
+lemma
+nd
+crew
+tarjan
+kbase
+undirected
+removed
+nding
+subtrees
+satises
+exclusive
+fewer
+karger
+2x
+preprocessing
+truncated
+1986
+concurrent
+included
+incident
+half
+vertex
+connectivity
+smallest
+rst
+1992
+ci
+bridging
+gibbon
+dloglog
+connected
+induced
+cole
+wx
+ha
+retained
+hb
+forests
+concurrently
+dierent
+starts
+ts
+shiloach
+hku
+tx
+ear
+bigger
+ne
+1985
+retain
+induces
+msf
+retaining
+r4
+cient
+zy
+biconnectivity
+ltered
+logarithmic
+kept
+awerbuch
+requirement
+lg
+dene
+representing
+ciently
+supscrpt
+phases
+kansas
+chazelle
+crcw
+metaxas
+bsp
+ackermann
+specically
+kong
+connecting
+su
+fibonacci
+stage
+ai
+gc
+clusters
+contracted
+st
+connects
+jumping
+illustrating
+1987
+1997
+permissions
+heaps
+base
+essential
+logn
+1996
+accessible
+detect
+fig
+sampling
+ago
+stages
+processor
+removing
+contradicts
+5100
+yijie
+megre
+umkc
+philadel
+64110
+gazit
+maon
+fkwchong
+poon
+rockhill
+iphase
+fujito
+twlamg
+windsor
+citencv86
+terwards
+lam1
+valaint
+cstp
+ncth
+doi
+myampersandsube
+csis
+nbit
+palios
+1378
+decades
+1982
+l cc
+external edge
+external edges
+primary external
+thread i
+l nc
+light primary
+edge of
+adjacency lists
+minimum external
+of t
+phase j
+minimum spanning
+adjacency list
+secondary external
+f j
+h l
+i vertices
+e z
+the adjacency
+mst algorithm
+in f
+hu vi
+log n
+w e
+j 1
+an external
+core cluster
+blog nc
+ext m
+blog ic
+half input
+in l
+list l
+erew pram
+in q
+of thread
+2 i
+n time
+parallel mst
+lw 0
+2 bi
+procedure ext
+edges of
+lists in
+o log
+e is
+tree t
+w 0
+cc contains
+q j
+hv ui
+internal edge
+in o
+trees in
+all light
+of adjacency
+a tree
+merged lists
+in lw
+bi 2
+the erew
+edges in
+z 0
+than 2
+each list
+tree in
+edge e
+smallest edges
+its mate
+tmp h
+combined adjacency
+spanning trees
+b i
+han and
+of w
+w lam
+2 f
+internal edges
+optimal parallel
+merged list
+a light
+of z
+t 0
+m c
+cc and
+fewer than
+in half
+cc is
+subtree of
+0 cc
+light secondary
+cc w
+remove l
+trees induced
+mst problem
+the minimum
+a subtree
+a heavy
+list in
+spanning tree
+the trees
+by r3
+w chong
+chong y
+cc problem
+included in
+the light
+edge in
+w u
+in input
+y han
+another tree
+e t
+each thread
+the mst
+i starts
+the cc
+heavy internal
+light external
+least 2
+z is
+t b
+f 0
+t w
+the threshold
+contains at
+of phase
+linear number
+time using
+internal or
+connected components
+most 2
+each tree
+base f
+t g
+spanning forest
+exclusive write
+or external
+q 0
+remove all
+threads 1
+and ramachandran
+1 smallest
+non core
+l contains
+u v
+1 phase
+merged adjacency
+h lw
+length requirement
+nc contains
+by r5
+light internal
+our mst
+phase blog
+r5 h
+x supersteps
+edge hu
+t and
+is primary
+linear work
+and w
+2 edges
+and t
+1 time
+b 1
+lists of
+using n
+2 j
+smallest edge
+representing t
+heavy edge
+full edge
+a randomized
+every tree
+the lists
+m n
+of trees
+the edge
+list for
+a primary
+the core
+tree edge
+finding minimum
+be heavy
+represents w
+if l
+from l
+phase 1
+with fewer
+if e
+n processors
+an edge
+incident on
+that represents
+i 2
+single list
+by r1
+mst algorithms
+external edge of
+light primary external
+edge of t
+minimum external edge
+the minimum external
+primary external edges
+external edges of
+in l cc
+in f j
+2 i vertices
+an external edge
+primary external edge
+of thread i
+tree in f
+edge of w
+than 2 i
+h l cc
+edges of t
+trees in f
+f j 1
+the adjacency lists
+secondary external edges
+external edge e
+e z is
+2 f j
+ext m c
+lists in q
+edge of z
+procedure ext m
+in half input
+2 bi 2
+in q j
+of adjacency lists
+included in l
+is an external
+q j 1
+optimal parallel mst
+han and t
+parallel mst algorithm
+and t w
+fewer than 2
+minimum spanning trees
+of z 0
+o log n
+l cc and
+l cc is
+in o log
+log n time
+the erew pram
+the adjacency list
+t w lam
+on the erew
+l cc contains
+list l 2
+list in q
+the light primary
+j of thread
+phase j of
+tmp h l
+combined adjacency list
+t 2 f
+a subtree of
+adjacency lists of
+the core cluster
+all light primary
+edge in half
+is a subtree
+w u v
+internal edge of
+edges in l
+trees induced by
+n time using
+minimum spanning tree
+or external edge
+l cc w
+bi 2 j
+e of t
+a primary external
+that l cc
+l 0 cc
+light secondary external
+least 2 i
+a tree t
+2 j c
+of phase j
+j c 1
+the mst problem
+of t and
+w chong y
+l from q
+adjacency lists in
+k w chong
+most 2 bi
+remove l from
+chong y han
+edges in input
+of trees induced
+y han and
+all the light
+core cluster of
+l 2 q
+in f 0
+tree t 2
+the trees in
+the lists in
+0 2 f
+internal or external
+if l contains
+thread i can
+at least 2
+the minimum spanning
+edge e of
+of t 0
+of w 0
+contains an edge
+be an external
+by b 1
+induced by b
+and w 0
+in l nc
+the cc problem
+a heavy internal
+heavy internal or
+and secondary external
+1 smallest edges
+thread i starts
+merged list l
+secondary external edge
+a linear number
+at most 2
+linear number of
+in the adjacency
+an internal edge
+tree t 0
+set of trees
+with fewer than
+subtree of t
+every tree in
+minimum spanning forest
+using a linear
+finding minimum spanning
+using n m
+appear in lw
+the length requirement
+our mst algorithm
+the merged lists
+non core cluster
+thread i is
+contains a light
+threads 1 to
+must be heavy
+edge hu vi
+and its mate
+of a heavy
+l nc contains
+by r5 h
+e is primary
+r5 h lw
+another tree t
+internal and secondary
+a full edge
+a heavy edge
+cc contains a
+subtree of z
+that represents w
+time using n
+j 1 that
+a tree edge
+contains fewer than
+a minimum spanning
+is a primary
+tree edge of
+the smallest edge
+edge e t
+a non core
+represented by l
+cluster of t
+b 1 i
+phase j 1
+set of adjacency
+any tree t
+list l 0
+t 0 2
+contains at least
+o 1 time
+of t b
+m n log
+a tree in
+forest of g
+adjacency list for
+z 0 by
+most 2 i
+w a b
+m log n
+the tree in
+be the tree
+a j 1
+z is in
+for the threshold
+phase 1 phase

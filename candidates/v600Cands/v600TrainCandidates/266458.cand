@@ -1,0 +1,600 @@
+arrival
+timing
+sat
+delay
+sensitization
+xbd0
+topological
+subcircuit
+circuits
+fanins
+delays
+primary
+circuit
+yalcin
+overapproximation
+c6288
+aq
+solver
+approximation
+approx
+cpu
+gate
+iscas
+inputs
+satisfiable
+combinational
+conservatively
+hakan
+approximate
+internal
+exact
+minterms
+pure
+reconvergence
+accuracy
+false
+7000
+mcgeer93
+underapproximate
+underapproximation
+node
+labeled
+gates
+network
+stable
+losing
+labeling
+rajendran
+intensive
+signals
+satisfiability
+sensitizable
+610
+blaauw
+alphaserver
+signal
+networks
+proximation
+panda
+stability
+boolean
+art
+fn
+selectively
+timed
+characteristic
+formulas
+calculus
+estimated
+123
+thousands
+mapped
+floating
+propagation
+tighter
+tractable
+limitation
+conservative
+mode
+functional
+experimentally
+nodes
+stabilized
+datapath
+dec
+seeksto
+bamji
+nodeswhose
+lib2
+completeany
+boundaryvariables
+explic
+15610
+happeningbetween
+cyrus
+cannotmake
+sundareswaran
+strategie
+7850
+dependencyon
+underapproximating
+sensitizability
+checkwhether
+underapproximates
+thesecondapproximationscheme
+itly
+zolotov
+overapproximates
+chanhee
+underapproximated
+savithri
+18956
+mortazavi
+150mb
+beunderstood
+ae
+seconds
+mapping
+simplification
+sorted
+extraction
+secondson
+70x
+genlib
+literals
+119
+karem
+sakallah
+unveiling
+milder
+palermo
+pessimistic
+analyses
+confirmed
+functionality
+took
+c3540
+pessimism
+stripping
+c1908
+sensitized
+approximations
+tech
+separation
+heuristic
+basedon
+arr
+thereby
+criterion
+core
+huge
+degenerated
+kindly
+semi
+imation
+aggressive
+progressed
+elapses
+731
+sped
+formula
+defeats
+736
+abhijit
+727
+extracting
+minutes
+mohammad
+portion
+atpg
+714
+speed
+simplifying
+longest
+theoretically
+conditional
+off
+recursively
+1gb
+viability
+dichotomy
+hayes
+labelings
+matchings
+cancels
+paths
+automation
+whichever
+hansen
+vladimir
+schemes
+ed
+safe
+ap
+slower
+categorize
+oh
+cascade
+src
+dependency
+timing analysis
+arrival times
+required times
+exact analysis
+primary inputs
+required time
+sat solver
+arrival time
+false path
+the xbd0
+primary output
+delay models
+data variables
+the network
+topological delay
+pure data
+approximate timing
+internal node
+approximate analysis
+of networks
+estimated delay
+the exact
+labeled data
+control variables
+cpu time
+potential arrival
+floating mode
+boolean calculus
+xbd0 model
+topological approximation
+sat formulas
+a primary
+delay model
+a sat
+the sat
+sat formula
+analysis is
+of sat
+node is
+exact timing
+the subcircuit
+path problem
+data control
+boolean network
+by time
+approximation schemes
+off set
+combinational circuits
+the primary
+the approximate
+delay analysis
+each internal
+of arrival
+hakan yalcin
+mapped delay
+labeled control
+timed boolean
+topological arrival
+semi topological
+signal combinations
+7000 610
+input minterms
+output stable
+true delays
+node n
+2 exact
+on set
+the approximation
+the circuit
+times at
+primary input
+time aq
+sensitization criterion
+functional delay
+its fanins
+conditional delays
+speed up
+the topological
+exact algorithm
+network is
+without losing
+the fanins
+size limitation
+this approximation
+the node
+false paths
+the mapping
+of timing
+the output
+the delay
+to control
+stable to
+approximation technique
+using conditional
+to primary
+the size
+is labeled
+delay of
+large circuits
+analysis method
+path analysis
+circuit is
+the analysis
+each gate
+some dependency
+control types
+integrating functional
+exact delays
+approx estimated
+subcircuit extraction
+exact 35
+local functionality
+rajendran panda
+formulas generated
+maintaining accuracy
+distinct arrival
+gates topological
+control separation
+alphaserver 7000
+temporal domains
+boundary variables
+of reconvergence
+of c6288
+map gates
+circuit tech
+satisfiability call
+called approx
+mode delay
+exact analyses
+art implementations
+be earlier
+tech map
+sophisticated delay
+underapproximate true
+make analysis
+yalcin et
+tighter approximations
+delay cpu
+time tested
+estimated delays
+vs approximate
+in 8
+control the
+nodes labeled
+new approximation
+control data
+size of
+the art
+two functions
+the solver
+input vectors
+approximation is
+analysis took
+topological analysis
+the sensitization
+early 90
+calculus expression
+approx 1
+hierarchical timing
+from required
+dec alphaserver
+delay type
+to arrival
+time propagation
+is satisfiable
+of gates
+mapping f
+and gate
+can handle
+the on
+or control
+the timing
+times to
+the signal
+pure control
+fanins of
+6 gamma1
+exact approach
+losing much
+data portion
+delays an
+much accuracy
+approximation f
+analysis vs
+fanins are
+of thousands
+the sorted
+computation time
+of primary
+core idea
+technology mapped
+iscas benchmark
+90 s
+approximate method
+time computed
+datapath circuits
+ed to
+sorted set
+delay while
+original circuit
+the exact analysis
+size of networks
+approximate timing analysis
+size of sat
+of arrival times
+the primary inputs
+false path problem
+the xbd0 model
+is labeled data
+of sat formulas
+the approximate analysis
+in the network
+a primary output
+exact analysis is
+in the exact
+a sat solver
+the on set
+each internal node
+the primary output
+arrival times at
+the size of
+timed boolean calculus
+of its fanins
+set of arrival
+functional delay analysis
+the topological arrival
+at a primary
+false path analysis
+exact timing analysis
+thousands of gates
+the sat solver
+all the primary
+topological arrival time
+the false path
+of the circuit
+using conditional delays
+a boolean network
+off set of
+network is constructed
+a primary input
+of timing analysis
+the off set
+at each internal
+the timing analysis
+at each node
+primary inputs of
+the node n
+the required time
+of primary inputs
+of the art
+internal node is
+to control the
+data or control
+to a constant
+the exact algorithm
+by time t
+node is labeled
+timing analysis of
+cpu time in
+earlier than the
+f t is
+while maintaining accuracy
+sat formulas generated
+semi topological approximation
+in logic design
+exact algorithm although
+variables with some
+ed to take
+the floating mode
+data control separation
+under the xbd0
+sat formula is
+sophisticated delay models
+to primary outputs
+the local functionality
+floating mode delay
+be earlier than
+required times are
+alphaserver 7000 610
+approx estimated delay
+local functionality of
+underapproximate true delays
+exact analysis vs
+dec alphaserver 7000
+stable to a
+since this approximation
+distinct arrival times
+pure data portion
+the sat formula
+timing analysis method
+at an internal
+to arrival times
+amount of reconvergence
+pure control variables
+circuits of thousands
+core idea of
+separation of primary
+function or its
+labeled control are
+potential arrival time
+pure data variables
+sorted set of
+against the on
+data variables the
+sat solver is
+yalcin et al
+tech map gates
+topological approximation f
+output stable to
+exact analysis took
+the sorted set
+can be earlier
+new approximation scheme
+potential arrival times
+the art implementations
+for constants 0
+handle large circuits
+primary output stable
+approximate a solution
+analysis vs approximate
+integrating functional and
+construction of networks
+required times and
+domains in logic
+a selection strategy
+some dependency on
+seconds on dec
+delay in combinational
+topological delay type
+to make analysis
+method for datapath
+boolean calculus expression
+the boundary variables
+to the xbd0
+mapped delay model
+required time the
+the exact approach
+from required times
+type of approx
+on dec alphaserver
+with some dependency
+arrival time aq
+1 by time
+an approximate timing
+vs approximate analysis
+and temporal domains
+ae 6 gamma1
+of floating mode
+estimated delay cpu
+from a primary
+seconds to conclude
+gates topological delay
+temporal domains in
+labeled data are
+delay type of
+of required times
+a required time
+mode delay in
+each potential arrival
+data control types
+times to arrival
+circuit tech map
+the pure data
+conditional delays an
+of approx estimated
+nodes labeled data
+functional and temporal
+time heuristic approach
+if ae 6
+map gates topological
+required times to
+their idea of
+delays an approximate
+context of timing
+losing much accuracy
+inputs to primary
+sat solver to
+computation of floating
+an internal node
+of the network
+of the analysis
+the two functions
+if the output
+of the node
+from primary inputs
+timing analysis using
+of the fanins
+analysis using conditional
+early 90 s
+internal node n
+to set n
+time computed by
+set n to
+hierarchical timing analysis
+without losing much
+timing analysis in
+the estimated delay
+of networks without
+polynomial time heuristic
+approximation schemes are

@@ -1,0 +1,600 @@
+rrqr
+qr
+0e
+pivoting
+factorization
+golub
+0e0
+dgeqpb
+dgeqpy
+dgeqpx
+rank
+ipsen
+chandrasekaran
+bischof
+dgeqrf
+pivot
+chan
+pan
+tang
+singular
+postprocessing
+lapack
+businger
+householder
+triangular
+revealing
+dgeqpf
+sf
+quintana
+factorizations
+givens
+r8000
+ice
+ort
+columns
+nb
+matrix
+break1
+triu
+6000
+sgi
+matrices
+hansen
+blas
+rs
+stewart
+cond_no
+ibm
+oe
+501
+flops
+urv
+1992
+block
+permutation
+res
+loan
+wy
+reversed
+rotations
+370
+column
+reliable
+svd
+xlatms
+retriangularizations
+window
+mflop
+nullspace
+gragg
+1989
+rejected
+exchanges
+7e
+numerical
+1000
+1991
+estimation
+999
+min
+incremental
+platforms
+squares
+hybrid
+updating
+leading
+9e
+enrique
+746
+variant
+ill
+deficient
+grandine
+nullvectors
+klema
+pt3m
+qpy
+fig
+anderson
+kr
+orthogonal
+ws
+truncated
+degeneracy
+deficiency
+foreach
+1990
+pi
+termination
+maribel
+addressing
+subspace
+500
+dense
+1992a
+castillo
+1976
+1986
+1987
+vicente
+decomposition
+norm
+suggested
+preordering
+schreiber
+hernndez
+col
+versus
+250
+transformations
+eisenstat
+1994b
+expended
+unblocked
+suited
+precision
+1965
+posed
+windowed
+geometric
+implementations
+strategy
+spike
+hessenberg
+arithmetic
+fortran
+dongarra
+gu
+reveals
+estimated
+2e
+4e
+systolic
+cycling
+iii
+cyclic
+kernels
+strips
+touching
+codes
+dashed
+threshold
+jb
+subsections
+restricted
+ization
+phase
+revealed
+guaranteed
+roundoff
+ranging
+employ
+delta
+pseudocode
+conditioned
+estimate
+reveal
+sensible
+godetic
+subloops
+symmmetric
+kthat
+respvt
+sgimath
+p225
+subalgorithms
+tridagonal
+slaic1
+certian
+0391
+aplicaiton
+illdefined
+genhh
+conventionthat
+retriangularized
+2uz
+triangularizations
+claic1
+prexeding
+factorisations
+qr factorization
+rrqr factorization
+1 0e0
+golub i
+and dgeqpy
+and tang
+restricted pivoting
+numerical rank
+pan and
+chandrasekaran and
+chan ii
+dgeqpx and
+0e 4
+revealing qr
+pivot window
+matrix type
+oe min
+and ipsen
+rank revealing
+5 0e
+0e 7
+condition estimation
+2 0e
+min r
+incremental condition
+0e0 5
+leading triangular
+condition number
+pivoting strategy
+hybrid iii
+quintana ort
+block qr
+oe r
+the qr
+matrix types
+approximate rrqr
+rrqr factorizations
+singular value
+ibm rs
+block size
+rs 6000
+singular values
+the rank
+block algorithm
+column pivoting
+the pivot
+sgi r8000
+f factor
+distribution 501
+businger golub
+the rrqr
+rrqr algorithms
+triangular factor
+blas 3
+bischof and
+501 1
+r 11
+ii k
+and pan
+break1 distribution
+rrqr algorithm
+by chandrasekaran
+an rrqr
+ort i
+i sf
+sf f
+initial qr
+6000 370
+chan s
+matrix sizes
+factorization algorithm
+for matrix
+qr factorizations
+factorization with
+iii algorithm
+and hansen
+givens rotations
+pivot column
+smallest singular
+the postprocessing
+task 2
+of dgeqrf
+tang 1992
+estimated condition
+golub pivoting
+sf k
+reliable rrqr
+pan tang
+arithmetic distribution
+r triu
+ipsen and
+delta pi
+triu r
+the businger
+and loan
+distribution 999
+0e0 1
+task 1
+the lapack
+factorization without
+with column
+the matrix
+singular vector
+performance versus
+computing rank
+by pan
+999 1
+householder transformations
+for computing
+vector corresponding
+a qr
+size performance
+of chan
+the leading
+k 1
+a block
+type 1
+column exchanges
+next pivot
+and sgi
+least squares
+performance in
+remaining columns
+discrete ill
+the numerical
+matrices of
+squares problems
+variant of
+independent columns
+on ibm
+the block
+for triangular
+of householder
+upper triangular
+in chan
+versus block
+stewart 1976
+rank degeneracy
+chan 1987
+ipsen s
+hansen 1992
+factorization employing
+iii sf
+guaranteed reliable
+accepted col
+postprocessing steps
+ii sf
+7 0e
+versus matrix
+1000 on
+bischof 1989
+ipsen 1994
+and gragg
+in postprocessing
+r8000 platforms
+s algorithm
+r 1
+anderson et
+r 22
+f k
+500 and
+of pivoting
+in lapack
+geometric distribution
+full rank
+in bischof
+tang s
+mflop rate
+res j
+loan 1989
+triangular matrix
+value oe
+pivoting in
+i k
+an ibm
+triangular matrices
+loop ordering
+factorizations on
+wy representation
+compact wy
+the sgi
+golub and
+matrix 1
+and 1000
+posed problems
+the condition
+the columns
+pivot columns
+columns in
+r oe
+a permutation
+enrique s
+s quintana
+and golub
+the restricted
+the ibm
+and 9
+r delta
+of flops
+oe max
+pan and tang
+oe min r
+chandrasekaran and ipsen
+dgeqpx and dgeqpy
+rank revealing qr
+2 0e 7
+5 0e 4
+0e0 5 0e
+incremental condition estimation
+1 0e0 5
+golub i k
+the pivot window
+the numerical rank
+block qr factorization
+ibm rs 6000
+restricted pivoting strategy
+qr factorization algorithm
+the qr factorization
+qr factorization with
+distribution 501 1
+501 1 0e0
+chan ii k
+leading triangular factor
+revealing qr factorizations
+an rrqr factorization
+golub i sf
+rs 6000 370
+sf f k
+by chandrasekaran and
+quintana ort i
+block size performance
+approximate rrqr factorization
+hybrid iii algorithm
+size performance in
+initial qr factorization
+chan s algorithm
+matrix type 1
+the leading triangular
+condition number of
+factorization with column
+with column pivoting
+the condition number
+qr factorization without
+block algorithm for
+oe r 1
+singular vector corresponding
+an ibm rs
+the businger golub
+for matrix type
+the rrqr factorization
+and tang 1992
+the restricted pivoting
+triu r delta
+0e 7 2
+estimated condition number
+computing rank revealing
+7 2 0e
+except for matrix
+a block qr
+revealing qr factorization
+1 0e0 1
+by pan and
+999 1 0e0
+r triu r
+distribution 999 1
+r delta pi
+golub and loan
+a restricted pivoting
+golub pivoting strategy
+smallest singular value
+vector corresponding to
+performance in fig
+on ibm rs
+500 and 1000
+factorization algorithm with
+min r 11
+in the pivot
+of the matrix
+the next pivot
+for triangular matrices
+least squares problems
+on an ibm
+discrete ill posed
+a qr factorization
+singular value oe
+8 and 9
+corresponding to oe
+anderson et al
+7 0e 4
+4 r triu
+hybrid iii sf
+rrqr factorization of
+and pan and
+and sgi r8000
+i sf f
+min r 1
+and ipsen s
+and ipsen 1994
+performance in block
+and tang s
+for computing rank
+the initial qr
+factorization without any
+an approximate rrqr
+sgi r8000 platforms
+numerical rank r
+chan ii sf
+provided in lapack
+bischof and hansen
+the f factor
+chan and hansen
+businger golub pivoting
+to oe min
+and stewart 1976
+and hansen 1992
+factorizations of dense
+in the postprocessing
+versus block size
+and estimated condition
+0e 4 3
+next pivot column
+tang s algorithm
+guaranteed reliable rrqr
+columns in the
+matrices of order
+of the condition
+of the qr
+for computing an
+min r i
+performance in performance
+in block size
+algorithm for computing
+of the leading
+the smallest singular
+products of householder
+see that except
+of dense matrices
+the block algorithm
+ill posed problems
+on the ibm
+singular values of
+s quintana ort
+the rank revealing
+right singular vector
+upper triangular matrix
+block size on
+r 1 k
+enrique s quintana
+algorithms for computing
+for matrices of
+e e e
+for the rank
+in performance in
+the block size
+we also note
+triangular matrix r
+matrices of size
+of the rank
+singular values and
+f k 1
+the performance of
+figures 8 and
+18 and 19
+estimate of the
+reversed arithmetic distribution
+oe r 22
+1 golub i
+used xlatms to
+between optimal and
+computing an rrqr
+matrix sizes 100
+pan tang algorithm
+s algorithm chan
+0e0 1 0e
+dgeqpb dgeqpx and
+value oe r
+remaining columns in
+0e 7 reversed
+9 9e 6
+factorization with restricted
+rank with respect
+of flops spent
+reveal the rank
+that exchanges columns
+the matrix type
+matrix type on
+qr factorization rrqr
+al 1992a anderson
+on rank revealing
+and tang we
+matrix type 5
+traditional column pivoting
+0e 4 1
+5 9 9e
+ill determined numerical
+4 chan ii
+6000 and sgi
+arrays to linear
+and tang the
+degeneracy and least

@@ -1,0 +1,600 @@
+join
+bushy
+gmc
+query
+gmr
+joins
+processors
+sgd
+allocation
+se
+sopt
+processor
+parallelism
+heuristics
+cardinalities
+gopt
+multiprocessor
+te
+heuristic
+fragmentation
+operational
+st
+mt
+rrr
+dependency
+synchronous
+sequences
+scheduling
+pipelining
+execution
+rr
+7a
+allocated
+profile
+efficiency
+7b
+relations
+intra
+queries
+database
+curve
+termed
+sequential
+proc
+deallocation
+inter
+hash
+operands
+cumulative
+execute
+operator
+tree
+fs
+child
+skew
+schemes
+simulation
+xprs
+5b
+cardinality
+merge
+bottom
+5a
+jv
+attributes
+exploiting
+2a
+outperformed
+costs
+jr
+relational
+joining
+3a
+internal
+dbs3
+20828
+allotted
+interoperator
+9041
+7135
+6284
+5990
+resulted
+51
+efficiencies
+syan
+sort
+trees
+ongoing
+attribute
+composite
+eased
+bubba
+2b
+exploit
+prob
+light
+minimize
+exploitable
+grace
+131
+scheduler
+shall
+minimal
+alleviate
+despite
+outperform
+excessive
+employed
+evaluated
+exe
+8a
+disks
+pipelined
+selection
+concept
+opportunity
+opt
+trend
+dominating
+prevalent
+dealt
+emerges
+categorized
+106
+suffer
+nowadays
+down
+ming
+tuples
+mc
+effectiveness
+completion
+greedy
+workload
+pn
+incurred
+1a
+absent
+118
+1b
+resort
+poor
+node
+multi
+parallelizing
+efficiently
+objective
+reasonably
+300
+top
+me
+deemed
+allocates
+constraintssuch
+cross8
+decomposer
+7pm
+1195
+3639
+rrrrr
+reallocating
+rrrrrrrrrrrrrr
+nonequal
+rrrr
+intraoperator
+hc16
+multiquery
+inners
+mediocre
+7695
+gammah
+1026n
+jjej
+fragmentationthan
+uopn
+ullmann
+idleness
+rrrrrrrrrrrrrrr
+rrrrrrrrrrr
+3678
+1182
+102
+allocating
+mentioning
+mobile
+factors
+avoided
+evaluate
+explore
+rdbms
+softwares
+alleviating
+nonstop
+lengthen
+958
+informix
+1299
+shrunken
+tially
+join sequence
+processor allocation
+bushy tree
+join sequences
+the join
+the bushy
+operator parallelism
+execution time
+general join
+each join
+execution dependency
+of processors
+sequential join
+multi join
+a join
+synchronous execution
+operational point
+st se
+inter operator
+the query
+system fragmentation
+sequence scheduling
+the execution
+join query
+cardinalities of
+sequence efficiency
+operational curve
+a bushy
+r 5
+minimal cost
+intra operator
+efficiency point
+query graph
+execution costs
+the processor
+of relations
+r i
+r 4
+by sgd
+sequence heuristics
+resulting relation
+cumulative execution
+dependency and
+query execution
+5 r
+multiprocessor system
+a multiprocessor
+of synchronous
+processors allocated
+the operational
+join queries
+point selection
+join is
+bushy trees
+next join
+cost join
+to execute
+join operation
+bottom up
+the heuristics
+top down
+and processor
+join in
+internal node
+the cardinalities
+query in
+r r
+merge join
+r 6
+child nodes
+a query
+sgd and
+optimal sequential
+by gmc
+seen that
+by simulation
+join to
+se is
+of joins
+sort merge
+allocated to
+execution of
+r j
+average execution
+6 r
+different join
+tree in
+time point
+scheduling and
+the profile
+4 r
+sequence heuristic
+gmr is
+gmc and
+best efficiency
+and gmr
+heuristic se
+heuristics proposed
+resulting join
+proc no
+execution cost
+join and
+is termed
+the minimal
+of join
+parallel execution
+be seen
+joins in
+figure 7a
+r 2
+the optimal
+and evaluate
+processors to
+join r
+data skew
+sequences obtained
+by st
+processors are
+minimum time
+execute the
+r y
+simulation results
+join can
+the heuristic
+allocation heuristics
+and sopt
+resulted by
+fs mt
+se fs
+by te
+exploiting inter
+by se
+by sopt
+schemes evaluated
+built bottom
+resulting r
+sequence proc
+no starting
+sopt and
+two child
+figure 7b
+the concept
+figure 2a
+processors for
+the schemes
+in figure
+for processor
+sequence for
+a multi
+determine the
+h p
+r 3
+the cumulative
+processor system
+joins are
+for join
+concept of
+allocation for
+down approaches
+allocation efficiency
+join methods
+hash joins
+r 8
+all joins
+join method
+time end
+allocation it
+execution tree
+single processor
+2 r
+this heuristic
+join the
+3 r
+and system
+minimize the
+propose and
+parallelism is
+up approach
+the joins
+outperformed by
+scheduling schemes
+se and
+and r
+execution sequence
+relations is
+i r
+o jv
+their simplicity
+starting time
+to exploit
+p b
+heuristic to
+time of
+the resulting
+costs of
+join with
+time resulting
+query complexity
+join operations
+several heuristics
+the bushy tree
+the join sequence
+number of processors
+synchronous execution time
+the processor allocation
+inter operator parallelism
+concept of synchronous
+of synchronous execution
+join sequence scheduling
+general join sequences
+the query execution
+multi join query
+join sequence efficiency
+a multi join
+a bushy tree
+query execution time
+execution dependency and
+number of relations
+and processor allocation
+sequential join sequence
+general join sequence
+intra operator parallelism
+query in figure
+operational point selection
+r 5 r
+sequence scheduling and
+r 4 r
+dependency and system
+join sequence heuristics
+scheduling and processor
+4 r 5
+sequential join sequences
+be seen that
+of a join
+the minimal cost
+the execution time
+r 6 r
+for each join
+the operational point
+minimal cost join
+and system fragmentation
+bushy tree in
+the cumulative execution
+the next join
+of each join
+minimum time point
+r 2 r
+processors allocated to
+a multiprocessor system
+sort merge join
+execution time of
+the cardinalities of
+of processors allocated
+can be seen
+the execution of
+r i r
+the general join
+bushy tree is
+the resulting relation
+optimal sequential join
+in figure 7a
+bushy tree and
+the optimal sequential
+multi join queries
+in the bushy
+execution costs of
+2 r 4
+the average execution
+tree in figure
+to execute the
+r r r
+in a multiprocessor
+the number of
+r i and
+the query in
+when the number
+join sequence for
+the operational curve
+in figure 7b
+single processor system
+join sequences obtained
+r 3 r
+join sequence heuristic
+gmc and gmr
+of multi join
+for processor allocation
+a join sequence
+minimize the query
+cardinalities of relations
+execution of multi
+best efficiency point
+for parallel execution
+to determine the
+and r j
+for the execution
+processor allocation for
+in figure 2a
+execution time to
+time of a
+the concept of
+i and r
+for the query
+of the join
+sequence of joins
+the sort merge
+of a multi
+two child nodes
+it can be
+despite their simplicity
+the synchronous execution
+processor allocation efficiency
+processor allocation heuristics
+processor allocation it
+built bottom up
+sgd and sopt
+sequences obtained by
+6 r 8
+proc no starting
+within a query
+cumulative execution cost
+time end time
+join sequence in
+minimize the execution
+5 r 6
+resulting r i
+se fs mt
+the best efficiency
+cumulative execution costs
+resulting relation of
+no starting time
+h p j
+several heuristics to
+a general join
+sequence proc no
+5 r r
+the heuristics proposed
+each join in
+execute the join
+the join r
+join sequence proc
+database operations in
+time efficiency point
+processors to execute
+the resulting join
+by sgd and
+starting time end
+cardinalities of attributes
+time resulting r
+end time resulting
+exploiting inter operator
+join sequences are
+execution dependency is
+determine the next
+propose and evaluate
+to minimize the
+light of the
+the execution sequence
+join to be
+top down approaches
+under a single
+execution cost of
+of processor allocation
+bottom up approach
+the minimum time
+evaluated by simulation
+i r j
+a join operation
+its child nodes
+join in the
+used to execute
+join can be
+an internal node
+execution of each
+section 3 3
+i r r
+seen that the
+determine the number
+of processors is
+internal node in
+execution time is
+in light of
+r 1 r
+top down approach
+that the join
+this heuristic is
+with the minimal
+of processors for
+join sequence and
+relations attribute a
+se and st
+and general join
+form of parallelism
+a final scheduler
+the heuristic st
+by st se
+as if under
+processor allocation heuristic
+join in a
+the time efficiency
+execute each join

@@ -1,0 +1,600 @@
+barriers
+callee
+intraprocedural
+allocated
+interprocedural
+linktree
+caller
+barrier
+younger
+object
+treenode
+older
+generational
+st
+treeadd
+ow
+bisort
+em3d
+analyses
+receiver
+linkdepth
+youngest
+generations
+perimeter
+health
+garbage
+invoked
+sites
+v1
+objects
+mst
+voronoi
+instruction
+write
+olden
+benchmark
+collector
+callees
+flex
+compiler
+bh
+eliminate
+uous
+store
+java
+xed
+v2
+conservatively
+dierent
+entry
+transfer
+fvg
+instructions
+callers
+lattice
+invoke
+var
+baseline
+benets
+unnecessary
+extension
+allocation
+age
+modest
+allocate
+bitonic
+buildtree
+ccr00
+unremovable
+rst
+instrumenting
+remembered
+augments
+nursery
+tenured
+benchmarks
+signicant
+mit
+reference
+hv
+statically
+analyzed
+remove
+incorporates
+super
+scavenging
+invokes
+lived
+calling
+removable
+allocations
+statements
+initialized
+nd
+executable
+denitely
+synergistic
+elimination
+eld
+collectors
+recently
+bar
+locate
+create
+wb
+pricing
+eliminated
+allocates
+void
+ject
+greatest
+majority
+meet
+vast
+analyzes
+percentage
+subtrees
+tsp
+erations
+eectiveness
+removed
+density
+move
+statement
+nine
+salesman
+static
+executed
+dispatched
+executables
+pointer
+yes
+eliminates
+creates
+depth
+lattices
+decentralized
+references
+instrumented
+dispatch
+900mhz
+4769518
+barri
+dynamicwrite
+9bh
+gpl
+salcianu
+2053484
+call0
+ananian
+99bh
+hvar
+colombia
+mathvector
+progam
+773375
+63513
+86154
+1031059
+hfthisg
+955755
+624960
+flexc
+3286
+fthisg
+producing
+programs
+strongly
+tracks
+initializes
+removal
+presents
+segregate
+instrumen
+1692
+unanalyzable
+ufa
+intergenerational
+int
+dynamically
+propagates
+migration
+traveling
+returns
+prefetching
+densities
+contexts
+predecessors
+invoca
+perimeters
+analyzable
+930
+terministic
+nicantly
+cient
+stems
+tree
+heap
+250000
+hoisting
+write barriers
+write barrier
+recently allocated
+allocated object
+full interprocedural
+m object
+intraprocedural analysis
+the callee
+callee type
+callee only
+the write
+most recently
+caller only
+caller context
+type extension
+only analysis
+linktree method
+younger object
+the linktree
+context extension
+the intraprocedural
+the analysis
+a younger
+older object
+the caller
+interprocedural analysis
+analyzed method
+reference from
+an older
+entry point
+invoked methods
+unnecessary write
+the receiver
+receiver object
+program point
+call sites
+m variable
+store instruction
+currently analyzed
+xed point
+objects allocated
+object to
+data ow
+analysis result
+allocated types
+youngest object
+barrier elimination
+a reference
+the transfer
+type set
+older generations
+point immediately
+object at
+of write
+the entry
+the m
+allocated by
+must point
+transfer function
+barrier density
+method youngest
+property lattice
+eliminate write
+executed write
+st is
+generational garbage
+of objects
+the program
+barriers that
+perimeter power
+transfer functions
+to eliminate
+the types
+barriers for
+the method
+sites that
+the store
+method m
+analysis times
+benchmark programs
+baseline version
+barriers in
+entry m
+barriers executed
+in invoked
+flex compiler
+incorporates information
+object is
+result at
+garbage collection
+of executed
+analysis results
+m variables
+points to
+the full
+treeadd voronoi
+em3d health
+greatest xed
+bisort em3d
+never create
+instance method
+health mst
+power treeadd
+extension incorporates
+the object
+store instructions
+may invoke
+information about
+v1 2
+super uous
+mst perimeter
+modest performance
+each application
+the move
+the currently
+remove unnecessary
+st to
+execution time
+variable set
+allocated in
+meet operator
+an m
+variables that
+point of
+to remove
+the call
+barriers are
+callers m
+integer object
+ow sensitive
+use generational
+any age
+before st
+allocation statement
+variable refers
+the linkdepth
+mit flex
+must points
+types function
+producing modest
+extension augments
+linkdepth method
+analysis is
+call graph
+instructions that
+create a
+calling context
+presents the
+object the
+analysis the
+barrier removal
+object most
+lived objects
+bh bisort
+must conservatively
+int d
+barrier overhead
+but two
+point to
+program points
+the baseline
+the compiler
+strongly connected
+analysis described
+object in
+age based
+each method
+the called
+extension the
+analysis to
+invoke the
+from an
+immediately before
+lattice is
+our benchmark
+in java
+the olden
+barriers the
+right subtrees
+invoked method
+at line
+compiler to
+receiver of
+call statements
+other statements
+in older
+top element
+the most
+of up
+object allocation
+may allocate
+v2 is
+all call
+information from
+the analyses
+our analysis
+an object
+objects that
+to nd
+the calling
+most recently allocated
+recently allocated object
+the intraprocedural analysis
+the full interprocedural
+the m object
+the most recently
+full interprocedural analysis
+callee type extension
+the callee type
+the write barrier
+the write barriers
+reference from an
+the linktree method
+a younger object
+a reference from
+entry point of
+the entry point
+caller context extension
+an older object
+to a younger
+older object to
+from an older
+the caller context
+create a reference
+object to a
+unnecessary write barriers
+the receiver object
+of the write
+types of objects
+of write barriers
+the callee only
+the caller only
+an m variable
+currently analyzed method
+of objects allocated
+the analysis result
+the currently analyzed
+callee only analysis
+program point immediately
+write barrier elimination
+number of write
+to the most
+write barriers for
+point of the
+must point to
+the types of
+able to eliminate
+the program point
+call sites that
+analysis result at
+only analysis the
+method youngest object
+the method youngest
+of executed write
+allocated object at
+executed write barriers
+write barriers that
+caller only analysis
+eliminate write barriers
+the transfer function
+about the types
+the analysis results
+write barriers in
+the baseline version
+information about the
+result at the
+point to the
+transfer functions for
+of the method
+at the entry
+analysis is able
+the transfer functions
+the store instruction
+extension incorporates information
+to eliminate write
+power treeadd voronoi
+in invoked methods
+that may invoke
+xed point of
+write barriers are
+for the callee
+the type set
+that must point
+the property lattice
+receiver object of
+never create a
+m object is
+remove unnecessary write
+m object at
+the greatest xed
+incorporates information about
+point immediately before
+v1 2 v
+sites that may
+allocated in invoked
+health mst perimeter
+an instance method
+greatest xed point
+bisort em3d health
+em3d health mst
+of the move
+mst perimeter power
+perimeter power treeadd
+creates a reference
+objects allocated by
+objects allocated in
+interprocedural analysis is
+of m variables
+generational garbage collection
+to the m
+analysis described in
+the calling context
+all but two
+the variable set
+version of each
+object at the
+write barrier density
+at all call
+variable refers to
+allocated types function
+use generational garbage
+any age based
+analyzed method is
+analysis with information
+type extension and
+write barriers executed
+the object most
+the mit flex
+percentage of executed
+the linkdepth method
+immediately before st
+method m for
+object most recently
+must points to
+m variable the
+write barriers the
+mit flex compiler
+transfer function returns
+compute the greatest
+of the linktree
+barriers that the
+the allocated types
+write barrier overhead
+set of variables
+of each application
+write barrier removal
+of the olden
+at line 2
+to remove unnecessary
+the data ow
+improvements of up
+other program points
+the analysis times
+and the caller
+the method m
+the this variable
+a xed point
+receiver of the
+the receiver of
+variables that must
+points to information
+baseline version of
+object is always
+a method m
+of up to
+up to 7
+pointer analysis to
+each program point
+all call sites
+and right subtrees
+at call sites
+may invoke the
+analysis results are
+at the program
+the analysis must
+performance improvements of
+but two of
+the top element
+functions for the
+majority of the
+to an object
+if the receiver
+analysis uses a
+able to remove
+set of m
+two of our
+the analysis described
+for the entry
+method is the
+of our applications
+results are used
+each version of
+left and right
+the compiler to
+used to remove
+the left and
+points to the
+is able to
+that the full
+the set of

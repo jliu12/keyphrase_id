@@ -1,0 +1,600 @@
+preconditioner
+lfil
+preconditioners
+preconditioning
+sparse
+factorization
+preconditioned
+ilut
+residual
+nfil
+ablu
+gmres
+fidap
+nonzeros
+ilu
+lu
+stokes
+block
+approximate
+inverse
+ilutp
+matrices
+schur
+cavity
+navier
+factorizations
+incomplete
+guess
+incompressible
+indefinite
+norm
+reordering
+matrix
+nc
+seidel
+partitioned
+krylov
+fgmres
+abj
+abgs
+tridiagonal
+complement
+submatrices
+gauss
+fill
+nnz
+diagonal
+reorderings
+inverses
+dropping
+nonsymmetric
+unreduced
+laplacian
+convection
+submatrix
+decomposition
+unblocked
+ex07
+ex26
+ex36
+unpreconditioned
+pde
+options
+sparsity
+subdomains
+column
+reynolds
+deposition
+iterative
+subdomain
+jacobi
+approximating
+multiplications
+eigenvalues
+nb
+gamma1
+coupled
+segregated
+tough
+economical
+solves
+iterations
+sparskit
+tolerance
+entry
+reordered
+row
+precondition
+pivot
+steplength
+uzawa
+pressure
+ks
+drop
+elman
+instability
+blocked
+driven
+arising
+187
+ordering
+cfd
+storage
+nonzero
+discretization
+subspace
+504
+approximation
+abs
+pivots
+unstable
+nonsingular
+equations
+velocity
+stage
+dd
+48
+ordered
+continuity
+entries
+21468
+74465
+ex12
+ex28
+nopre
+19593
+1853
+2116
+42761
+1706
+ex06
+3969
+13395
+mbloc
+46626
+53099
+21063
+2603
+2209
+2575
+silvester
+77031
+13621
+10857
+ex23
+79078
+mc
+1000
+restarted
+difficulty
+supercomputer
+factors
+multigrid
+triangular
+solver
+grid
+ax
+3363
+ffq
+3973
+shadid
+howle
+2163
+ditionings
+3844
+2839
+axk
+iteration
+convergence
+heroux
+3079
+inaccurately
+tuminaro
+fountain
+meurant
+1409
+hamel
+inner
+solving
+absolute
+souhar
+frankel
+prasanth
+keane
+guessous
+saxpy
+concus
+coating
+knowns
+lid
+orderings
+diffusion
+advantageous
+equality
+solved
+dagger
+1134
+partitioners
+scaled
+unknowns
+approximate inverse
+approximate block
+block partitioned
+sparse approximate
+reduced system
+the preconditioned
+block lu
+residual norm
+domain decomposition
+the residual
+lu factorization
+schur complement
+initial guess
+the block
+the schur
+the fidap
+cavity problems
+decomposition reordering
+navier stokes
+preconditioners for
+driven cavity
+a sparse
+by 48
+the approximate
+incompressible navier
+inverse technique
+inverse algorithm
+stokes equations
+sparse vector
+fully coupled
+the driven
+partial approximate
+fidap problems
+incomplete lu
+linear systems
+block gauss
+m s
+a preconditioner
+nonzeros per
+the incomplete
+nonzeros in
+s gamma1
+lfil theta
+preconditioned reduced
+new preconditioners
+theta nc
+ablu y
+approximating s
+preconditioner described
+the preconditioner
+gauss seidel
+the incompressible
+test results
+block factorization
+ilu factorization
+with b
+search direction
+highly indefinite
+lfil nonzeros
+laplacian problem
+partitioned form
+block diagonal
+for block
+the matrix
+block preconditioners
+with lfil
+fill in
+preconditioner for
+inverse of
+preconditioned residual
+the reduced
+residual vector
+preconditioning for
+gmres iteration
+entry in
+solves with
+incomplete block
+partitioned matrices
+preconditioner to
+inverse techniques
+per row
+guess for
+some preconditioning
+lfil approximate
+partitioned factorizations
+theta lfil
+preconditioner m
+coupled system
+preconditioned with
+for sparse
+approximate inverses
+system 14
+tridiagonal matrices
+last block
+system 11
+sparse linear
+approximation to
+block jacobi
+factorization preconditioner
+fgmres 20
+complement s
+approximate solution
+test problems
+indefinite problems
+100 matrix
+unreduced system
+new fill
+preconditioners on
+48 by
+the preconditioning
+vector multiplications
+solving with
+the factorization
+matrices are
+of nonzeros
+solving the
+by 64
+block factorizations
+unit 2
+ordering where
+to solve
+a block
+sparse approximation
+sparse matrix
+matrix vector
+1 approximate
+a gmres
+block ilu
+block preconditioning
+preconditioners based
+drop tolerance
+solve with
+an ilu
+factors may
+krylov subspace
+problems the
+initial residual
+this preconditioner
+degree m
+these preconditioners
+matrix m
+the matrices
+the laplacian
+the inverse
+to s
+matrix s
+per column
+u factors
+reynolds number
+iterative process
+the storage
+second stage
+column of
+block column
+the preconditioners
+incomplete factorization
+preconditioned matrix
+be solved
+the fully
+and ilutp
+equations search
+vector sparse
+blocked dd
+c submatrix
+1 approximating
+best preconditioner
+1000 y
+nb nc
+preconditioned unreduced
+dd ordered
+b submatrix
+ordered last
+y lfil
+approximate s
+ordered 1000
+format produces
+nnz nb
+ilutp we
+ilutp is
+seidel preconditioners
+gmres on
+residual obtained
+decomposition reorderings
+used ilut
+zero initial
+have unit
+normal equations
+the b
+the sparse
+a tolerance
+matrices were
+results for
+of gmres
+are sparse
+the krylov
+m th
+table 11
+sparsity pattern
+by dropping
+to approximate
+approximate block lu
+the schur complement
+domain decomposition reordering
+the approximate inverse
+the reduced system
+incompressible navier stokes
+inverse of a
+the residual norm
+approximate inverse technique
+navier stokes equations
+block lu factorization
+the driven cavity
+driven cavity problems
+approximate inverse algorithm
+for the fidap
+test results for
+block gauss seidel
+partial approximate inverse
+the approximate block
+sparse approximate inverse
+the incompressible navier
+lfil theta nc
+from the incompressible
+preconditioned reduced system
+lfil nonzeros per
+the block partitioned
+approximate block gauss
+reduced system 14
+preconditioner described in
+fully coupled system
+block partitioned form
+the laplacian problem
+the fidap problems
+the fully coupled
+the preconditioned residual
+for the laplacian
+initial guess for
+as a preconditioner
+approximation to s
+approximate inverse techniques
+a sparse approximate
+b and s
+than 2 theta
+48 by 48
+nonzeros in s
+block partitioned factorizations
+entry in x
+lu factorization preconditioner
+in block partitioned
+2 theta lfil
+theta lfil theta
+lfil approximate block
+the preconditioned reduced
+by 48 by
+the new preconditioners
+with lfil nonzeros
+new preconditioners on
+100 matrix vector
+solve with b
+the linear systems
+l and u
+the last block
+the residual vector
+with b and
+incomplete lu factorization
+results for the
+to s gamma1
+nonzeros per column
+have unit 2
+sparse approximate solution
+a gmres iteration
+ordering where the
+matrix m s
+per row in
+last block column
+schur complement s
+matrix vector multiplications
+of nonzeros in
+sparse approximate solutions
+for the driven
+the inverse of
+an approximation to
+number of nonzeros
+with the matrix
+to a tolerance
+a tolerance of
+with m s
+unit 2 norm
+a sparse approximation
+preconditioner to be
+to solve with
+solving the reduced
+approximate solution to
+with the schur
+for the schur
+a t r
+solutions with the
+the matrices are
+block partitioned matrices
+zero initial guess
+factorization for the
+preconditioners based on
+tolerance of 10
+the incomplete factorization
+the 2 2
+of degree m
+a zero initial
+approximate inverse of
+of domain decomposition
+2 2 block
+s on a
+with a sparse
+of s on
+storage requirements for
+the domain decomposition
+a domain decomposition
+and u factors
+arising from the
+the normal equations
+the preconditioned matrix
+some results of
+the search direction
+b may be
+a preconditioner for
+about the residual
+6 to s
+approximate block diagonal
+ablu y lfil
+dd ordered 1000
+nonzero in abs
+is highly indefinite
+per column of
+problems with ilutp
+to approximate s
+iterations was used
+systems that must
+blocked dd ordered
+normal equations search
+a block factorization
+continuity equations are
+17 by 64
+domain decomposition reorderings
+where the degrees
+every 20 iterations
+fidap problems with
+1000 y y
+block lu and
+sparse this is
+with ilutp we
+cavity problems the
+the best preconditioner
+are sparse this
+2 1 approximate
+norm at each
+navier stokes problems
+the preconditioned unreduced
+the b submatrix
+fidap problems 4
+to s with
+theta nc table
+preconditioner m s
+complement matrix s
+i gamma z
+preconditioned unreduced system
+s the preconditioned
+approximating s gamma1
+sparse vector sparse
+inverse technique for
+of new fill
+degree m 1
+options when the
+direction is used
+equations search direction
+y was used
+vector sparse vector
+the upper block
+some preconditioning options
+b gamma1 f
+20 iterations was
+nnz nb nc
+systems involving b
+n nnz nb
+which x 0
+s with lfil
+1 approximating s
+preconditioning options when
+of y was
+gmres on the
+1 approximate inverse
+gauss seidel preconditioners
+2 approximating s
+with the block
+for the approximate
+the m th
+the difficulty of
+may be used
+is the order
+the block factorization
+construct a sparse
+column of y

@@ -1,0 +1,600 @@
+coord
+cubefulldist
+fulldist
+stability
+hypercube
+coordinator
+protocol
+messages
+info
+rtt
+round
+message
+multicast
+hypercubes
+protocols
+s_coord
+ack
+node
+failures
+neighbors
+array
+multicasts
+logical
+hop
+arraymin
+receive
+topology
+scalability
+count
+hm
+detection
+reliable
+received
+queue
+receives
+incomplete
+load
+fault
+tolerant
+goto
+stable
+hypercast
+middlewares
+topologies
+sent
+nodes
+network
+ensemble
+arrays
+receiving
+cube
+bitmap
+sg
+pseudo
+maintains
+periodically
+gossiping
+iteration
+ms
+label
+ids
+heard
+recipients
+hy
+scalable
+rmtp
+zooms
+fifo
+children
+hops
+regularity
+links
+log
+faulty
+totem
+horus
+endif
+physical
+sends
+ring
+connections
+toolkits
+transis
+parent
+diameter
+discarded
+superimposed
+delivery
+member
+wise
+simulations
+embed
+routing
+tolerance
+disseminate
+isis
+multicasting
+delta
+yes
+tree
+missing
+wait
+loaded
+superimposing
+root
+goals
+detect
+802
+rounds
+everyone
+initialization
+queues
+buffers
+replies
+weakening
+reflected
+bottlenecks
+detecting
+bytes
+dissemination
+communicates
+guo
+preceded
+rings
+peer
+collisions
+sending
+indices
+transport
+randomly
+19ms
+relacs
+fwjw
+024
+jsg
+percast
+heartbeats
+jitters
+180010305070last
+topolo
+percube
+refraining
+46ms
+110x
+10xx
+percubes
+82ms
+iterations
+fan
+cubes
+row
+hardly
+analytical
+connection
+unreliable
+advance
+travel
+bus
+1900
+16ms
+advisable
+ordinator
+rebuilt
+pinwheel
+mpp
+100mbps
+lookup
+finished
+imposed
+buffer
+400
+indication
+indexes
+delivered
+communication
+srm
+fitness
+tailoring
+subscribe
+underlining
+send
+counted
+seconds
+matrix
+infrastructure
+faults
+piggybacking
+topol
+gt
+mishra
+sustain
+employ
+sensitivity
+fully
+medium
+bit
+labels
+worst
+traverse
+cristian
+stability detection
+s coord
+node i
+logical hypercube
+receive from
+detection protocols
+the coordinator
+sequence number
+info message
+each node
+reliable multicast
+coord and
+message count
+network load
+the protocol
+of nodes
+hop count
+a stability
+cubefulldist coord
+incomplete hypercube
+stability information
+coord fulldist
+of messages
+based protocol
+detection protocol
+from i
+protocol round
+r i
+the stability
+log n
+in cubefulldist
+message stability
+fulldist s_coord
+in coord
+maximum queue
+an info
+i maintains
+m i
+node k
+coord protocol
+cubefulldist is
+hypercube structure
+hypercube based
+number array
+cubefulldist the
+incomplete hypercubes
+node j
+from node
+o n
+received by
+array r
+every node
+all messages
+goto step
+system size
+network topology
+n messages
+first node
+array s
+the logical
+fully distributed
+with sequence
+label all
+on cubefulldist
+coord the
+and cubefulldist
+sg z
+fulldist protocol
+a logical
+each round
+last message
+upon receiving
+of node
+messages received
+current round
+iteration number
+as stable
+average network
+the hypercube
+fault tolerant
+queue length
+number p
+queue size
+received from
+its neighbors
+distributed protocol
+group communication
+by node
+the message
+physical topology
+than cubefulldist
+become stable
+input arrays
+cubefulldist performance
+receives o
+in hm
+stability array
+stability messages
+ack messages
+coordinator receives
+coord is
+member rtt
+messages cubefulldist
+in fulldist
+stability message
+round r
+tree based
+the network
+all nodes
+node sends
+the rtt
+round number
+an incomplete
+a protocol
+g i
+failures on
+messages from
+pseudo code
+load is
+logical neighbors
+ack r
+increases r
+node failures
+nodes number
+protocol in
+the tree
+message received
+from all
+links in
+the info
+element wise
+last node
+receives an
+its logical
+of logical
+i n
+the system
+protocol messages
+physical network
+node 0
+protocol that
+round ffl
+info messages
+notice difference
+hypercube approach
+fulldist the
+receiving ack
+m cube
+its matrix
+5 failures
+logical hypercubes
+code line
+until receive
+multicasts an
+fulldist and
+cubefulldist protocol
+of coord
+s_coord figure
+hypercubes to
+between first
+3 failures
+node rtt
+start message
+messages node
+containing array
+receiving info
+failures 4
+stability g
+failures failures
+of fulldist
+1 coord
+arraymin element
+info s
+worst result
+s stability
+4 failures
+coordinator based
+whose j
+max queue
+i multicasts
+array stability
+i has
+from every
+from k
+current iteration
+network topologies
+node in
+the pseudo
+g z
+that receives
+line 1
+n o
+minimum of
+a round
+scalability of
+based protocols
+count and
+j th
+messages were
+failures 5
+stability detection protocols
+receive from i
+number of messages
+the stability detection
+stability detection protocol
+number of nodes
+of the protocol
+each node i
+node i maintains
+the logical hypercube
+an info message
+cubefulldist coord fulldist
+coord fulldist s_coord
+a logical hypercube
+the sequence number
+from i 0
+from node j
+sequence number array
+a protocol round
+with sequence number
+logical hypercube structure
+label all messages
+array r i
+sequence number p
+in s coord
+sequence number of
+messages received from
+all messages received
+received from every
+fully distributed protocol
+an incomplete hypercube
+every node k
+k with sequence
+maximum queue size
+receive from k
+i n m
+node k with
+average network load
+messages from all
+a fully distributed
+received by node
+k as stable
+number p s
+node i has
+the last message
+the current round
+of system size
+i maintains the
+of node i
+function of system
+from every node
+tree based protocol
+of messages cubefulldist
+its logical neighbors
+receives o n
+the coordinator receives
+a stability detection
+on cubefulldist performance
+round of the
+s coord and
+the maximum queue
+of nodes number
+from all nodes
+and last node
+the average network
+and s coord
+the input arrays
+in cubefulldist the
+logical hypercube based
+maintains the following
+is the sequence
+all its neighbors
+number of the
+i from node
+nodes number of
+last message received
+node i from
+matrix m i
+each node sends
+of each round
+message received by
+the pseudo code
+s i k
+in round r
+by node i
+protocol in figure
+o n messages
+r i to
+hop count and
+in the system
+i k as
+o n o
+of the last
+protocol that is
+in the hypercube
+to all its
+messages are sent
+p s i
+the current iteration
+links in the
+the first node
+coordinator based protocol
+i whose j
+first node and
+failures 4 failures
+messages cubefulldist coord
+array stability array
+4 failures 5
+a stability message
+contains all 1
+node in round
+of logical hypercubes
+connection is added
+s coord protocol
+and worst result
+info message containing
+node failures on
+of node failures
+of reliable multicast
+difference in scale
+no failures failures
+start a protocol
+node i that
+and message count
+g 2 z
+an m cube
+3 failures 4
+receives an info
+its matrix m
+increases r i
+count and message
+sg z is
+in coord the
+hypercube based protocol
+failures 3 failures
+difference between first
+logical hypercube approach
+according to node
+arraymin element wise
+i that receives
+failures 5 failures
+failures failures 3
+i receive from
+better than cubefulldist
+whose j th
+line 1 and
+code line 1
+messages node i
+first member rtt
+pseudo code line
+notice difference in
+wait until receive
+g 1 z
+of its matrix
+element wise minimum
+array s i
+coord and cubefulldist
+node and last
+all 1 s
+randomly generated network
+number array stability
+from i the
+failures on cubefulldist
+between first node
+of s coord
+multicasts an info
+ack r i
+the info message
+last node rtt
+upon receiving info
+r from node
+has received in
+a round number
+o n 2
+received in the
+minimum of the
+node i s
+i has received
+i each node
+1 and line
+wise minimum of
+in the pseudo
+system size the
+is each node
+sends and receives
+the underlying physical
+of the stability
+system load is
+r i whose
+been received by
+total number of
+scalability and fault
+a logical ring
+in an incomplete
+on all links
+node i receives
+in i n
+n 2 messages
+from all its
+all links in

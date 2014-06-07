@@ -1,0 +1,600 @@
+projective
+sfm
+euclidean
+camera
+calibration
+expts
+motion
+reconstruction
+ground
+truth
+reconstructions
+lm
+rotation
+image
+coordinates
+ratios
+mle
+hartley
+3d
+dotted
+histograms
+perturbation
+pmlse
+minimization
+minima
+homogeneous
+frame
+goodness
+convergence
+solid
+focal
+ambiguity
+rotations
+scene
+images
+fixing
+noise
+gamma1t
+emlse
+squares
+checked
+guesses
+uncalibrated
+mles
+fov
+ffip
+ffif
+stability
+stable
+translations
+puma
+perturbed
+perturbations
+neglecting
+gave
+unknowns
+coordinate
+axes
+derivatives
+166
+vs
+motions
+compactness
+reliability
+transforming
+converged
+188
+unrealistic
+plane
+varied
+minimizations
+errors
+transform
+incorrect
+shear
+frameworks
+minimizing
+matrix
+converge
+scaling
+matlab
+reconstructs
+matrices
+173
+sequences
+bases
+translation
+normalized
+recovered
+calibrated
+cameras
+volume
+partly
+flops
+error
+synthetic
+experiment
+signficantly
+perpendicu
+severly
+othogonalization
+jerks
+colinearity
+signficant
+overredundant
+difficulty
+ideal
+spot
+transforms
+tracked
+relaxing
+rotating
+curacies
+malized
+minimiza
+depth
+singular
+unknown
+smooth
+robust
+differs
+gamma30
+imizing
+bore
+unphysical
+inac
+imization
+timate
+coplanarity
+descent
+ambiguous
+basis
+recovering
+compacts
+abandoning
+jective
+photogrammetry
+calibrations
+motivation
+estimates
+overconstrained
+invariances
+projectively
+scaled
+estimating
+incorrectly
+reconstruc
+oliensis
+intrinsic
+converges
+interpretation
+estimation
+started
+plausibly
+685
+curacy
+unsurprisingly
+parameterizations
+valleys
+gamma15
+ms
+crucial
+nonlinear
+67
+constrain
+nonvanishing
+neglects
+calibrating
+orthography
+defence
+meaningfully
+center
+accuracy
+estimate
+shifted
+affine
+experimentally
+radians
+gammaw
+tomasi
+ignorance
+trans
+accelerations
+stably
+frames
+formation
+levenberg
+feet
+optimization
+512
+rig
+marquardt
+homogenous
+eliminate
+relaxed
+severity
+streams
+centered
+restate
+mization
+the projective
+fixed camera
+projective sfm
+ground truth
+euclidean sfm
+projective structure
+the euclidean
+the camera
+the ground
+5 point
+euclidean solid
+solid fixed
+dotted over
+ratios euclidean
+camera dotted
+over projective
+expts ratios
+5 points
+of projective
+euclidean algorithm
+euclidean reconstruction
+point basis
+projective algorithm
+camera matrix
+the rotation
+projective error
+projective approach
+random motion
+for projective
+basis set
+euclidean and
+rotation constraints
+best euclidean
+linear calibration
+structure coordinates
+projective reconstruction
+3d points
+euclidean structure
+calibration error
+global minimum
+euclidean representation
+camera matrices
+calibration parameters
+the reconstruction
+during minimization
+projective framework
+of euclidean
+single camera
+the motion
+calibration is
+the 3d
+projective transform
+euclidean error
+the calibration
+ratios of
+the reconstructions
+a euclidean
+standard euclidean
+minimum problem
+rotation matrix
+structure from
+and motion
+for euclidean
+the structure
+local minima
+the mle
+our experiments
+local minimum
+coordinates of
+experiments 1
+point bases
+ratio histograms
+their ground
+camera vs
+sfm is
+vs projective
+reconstructions were
+perturbed set
+respectively error
+projective optimization
+sfm with
+from motion
+the ratios
+euclidean approach
+error ratio
+error respectively
+line denote
+normalized error
+histograms the
+h th
+theta 4
+image plane
+the image
+error function
+the perturbation
+reconstruction is
+error here
+hartley s
+goodness measure
+4 camera
+focal length
+least squares
+image coordinates
+th image
+algorithm independent
+multi frame
+projective space
+the homogeneous
+r h
+to euclidean
+frame of
+and fixed
+8 point
+homogeneous coordinates
+squares error
+checked that
+motion sequences
+sequence was
+we fixed
+reference frame
+histograms of
+camera calibration
+and dotted
+the 15
+188 expts
+7 normalized
+structure projective
+43 expts
+normalized histograms
+euclidean transforms
+different 5
+motion 42
+camera reconstruction
+were euclidean
+projective figure
+sfm does
+15 coordinates
+these incorrect
+euclidean vs
+a gamma1t
+calibration projective
+67 expts
+coordinate switching
+starting guesses
+motion 188
+42 expts
+homogeneous structure
+euclidean framework
+euclidean frameworks
+than euclidean
+assumed calibration
+projective methods
+was sigma
+image axes
+motion 173
+motion 67
+173 expts
+minimum least
+sfm reconstructs
+euclidean ground
+projective vs
+motion 166
+sfm it
+computed reconstructions
+calibration errors
+sfm compute
+our lm
+motion minimizations
+motion variables
+perturbations scaled
+incorrect reconstructions
+sfm when
+lm algorithm
+euclidean rotation
+expts motion
+vs euclidean
+the pmlse
+our goodness
+ambiguous up
+expts figure
+adding noise
+166 expts
+projective random
+we checked
+the compactness
+truth values
+converged to
+of 5
+experiments 4
+the 5
+structure and
+the coordinate
+transforms of
+feature points
+the fixed
+the recovered
+for experiments
+neglecting the
+non optimal
+ms where
+the projective structure
+the ground truth
+camera dotted over
+ratios euclidean solid
+fixed camera dotted
+euclidean solid fixed
+solid fixed camera
+expts ratios euclidean
+dotted over projective
+5 point basis
+of the projective
+for the projective
+the best euclidean
+ratios of euclidean
+best euclidean representation
+for projective sfm
+the euclidean algorithm
+the projective approach
+of 5 points
+the 3d points
+the projective algorithm
+set of 5
+the projective framework
+the fixed camera
+euclidean and fixed
+local minimum problem
+and fixed camera
+the basis set
+the camera matrices
+from the ground
+in the euclidean
+the ratios of
+a single camera
+structure from motion
+in the projective
+of the camera
+that the euclidean
+camera vs projective
+euclidean sfm with
+error respectively error
+respectively error here
+the rotation constraints
+projective error respectively
+histograms the solid
+dotted line denote
+of euclidean and
+their ground truth
+h th image
+to euclidean sfm
+equivalent to euclidean
+the projective transform
+vs projective error
+fixed camera vs
+error ratio histograms
+the perturbed set
+denote the ratios
+projective sfm is
+hartley s method
+ratio histograms the
+the euclidean structure
+near the ground
+motivation for projective
+on the rotation
+5 point bases
+error here is
+normalized error ratio
+the rotation matrix
+during the minimization
+line denote the
+is the projective
+the euclidean approach
+comparison of projective
+4 camera matrix
+basis set of
+the h th
+experiments 1 2
+the projective error
+of the 3d
+frame of the
+the calibration is
+ground truth values
+theta 4 camera
+camera matrix and
+the reconstruction is
+of the calibration
+at the ground
+the 8 point
+the camera matrix
+solid and dotted
+the euclidean and
+the solid and
+homogeneous coordinates of
+a 5 point
+and dotted line
+global minimum in
+the local minimum
+least squares error
+taken with a
+3 theta 4
+checked that the
+structure and motion
+convergence to the
+of our experiments
+stability of the
+lm algorithm 4
+motion 188 expts
+euclidean and projective
+of precise calibration
+the 5 points
+of fixing one
+motion r h
+camera matrices m
+and 3 normalized
+reconstructions were euclidean
+of unknown calibration
+that the reconstructions
+motion 42 expts
+first camera position
+of projective space
+and motion minimizations
+single camera of
+camera matrix m
+ambiguous up to
+the euclidean rotation
+1 part in
+euclidean structure coordinates
+the euclidean reconstruction
+original ground truth
+stable 5 point
+different 5 point
+fixed camera euclidean
+the motion variables
+random motion 67
+standard euclidean sfm
+the 3 algorithms
+motion 173 expts
+for experiments 4
+the rotation matrices
+of ratios of
+and 7 normalized
+motion 67 expts
+motion 43 expts
+the structure x
+euclidean ground truth
+compute the structure
+the euclidean ground
+a euclidean algorithm
+for euclidean sfm
+the reconstructions were
+is our goodness
+camera euclidean error
+the original ground
+the perturbation was
+non optimal algorithms
+homogeneous structure coordinates
+euclidean transforms of
+at their ground
+projective vs euclidean
+minimum least squares
+speed and reliability
+part in 10
+10 5 6
+i ms where
+coordinate switching strategy
+x y scaling
+of euclidean vs
+projective and euclidean
+calibration projective sfm
+over projective figure
+the first camera
+over projective motion
+experiments 4 and
+histograms of ratios
+projective reconstruction for
+correct global minimum
+compactness of projective
+structure x i
+motion 166 expts
+for perturbations scaled
+over projective random
+sfm compute the
+method of fixing
+of our lm
+fixed camera reconstruction
+difficulty of precise
+improved the convergence
+projective sfm does
+euclidean vs fixed
+its ground truth
+3d points at
+onto the ideal
+points at their
+by i ms
+normalized histograms of
+our goodness measure
+perturbations scaled by
+we computed reconstructions
+of projective vs
+reconstruction is ambiguous
+vs fixed camera

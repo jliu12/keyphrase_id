@@ -1,0 +1,600 @@
+slot
+arrival
+ic
+queue
+transmitting
+mmbp
+plp
+slots
+wavelength
+packets
+queues
+packet
+receiving
+wdm
+service
+traffic
+queueing
+departure
+channel
+optical
+instant
+schedule
+frame
+broadcast
+channels
+tuning
+markov
+receivers
+arrivals
+transceiver
+transmissions
+buffer
+node
+probability
+wavelengths
+tunable
+transmitted
+polling
+transition
+probabilities
+network
+arriving
+schedules
+laser
+transmit
+transmission
+served
+capacity
+receiver
+chain
+serviced
+arrive
+networks
+destination
+lost
+instants
+bandwidth
+burstiness
+routing
+passive
+destined
+steady
+hiper
+mmbps
+mac
+phi
+scheduling
+listening
+isolation
+transceivers
+interarrival
+tune
+decrease
+bernoulli
+transmitter
+sub
+star
+bursty
+transmis
+users
+poisson
+pkts
+boundaries
+completion
+spot
+omega
+rate
+arrives
+modulated
+hot
+specif
+balancing
+listen
+correlation
+latencies
+synchronized
+decreases
+aligned
+filters
+varies
+offered
+allocated
+carried
+media
+nodes
+ically
+conversion
+loss
+rounded
+numerator
+ccfixed
+minfv
+correleated
+9701113
+minfy
+matpi
+starn
+laten
+admission
+integral
+processes
+gap
+explaining
+losses
+buffered
+medium
+lasers
+oped
+multiaccess
+spr
+atm
+cyclic
+load
+figures
+decomposition
+repeats
+beginning
+lightwave
+coupler
+devel
+maxf0
+thinned
+058
+mask
+plot
+receives
+fer
+thinning
+wave
+fifo
+quantities
+tdm
+sion
+coordination
+quantity
+listens
+latency
+sharp
+lan
+shortly
+analyze
+representative
+characterize
+ends
+slotted
+received
+tuned
+obviously
+entering
+departs
+discounts
+ncr
+sharing
+expectation
+cies
+allocation
+larly
+departures
+instrumental
+dedicated
+summation
+select
+k0
+012
+expression
+chains
+expressions
+simi
+583
+tandem
+metropolitan
+modelling
+modulo
+departing
+004
+duration
+zz
+conditional
+fl
+lu
+arrival slot
+transmitting queue
+receiving queue
+slot x
+service slots
+arrival slots
+a ic
+receiving queues
+transmitting queues
+service slot
+2 mmbp
+the plp
+the transmitting
+wavelength c
+v ic
+queue j
+sub network
+the queue
+an arrival
+ic x
+the arrival
+this queue
+loss probability
+the packet
+packet loss
+node i
+to receiving
+slot is
+queue length
+the receiving
+arrival process
+queue i
+channel c
+each transmitting
+within arrival
+on wavelength
+transceiver tuning
+transmitting side
+per arrival
+broadcast wdm
+a packet
+of service
+queue is
+markov chain
+a transmitting
+the network
+length distribution
+total traffic
+for wavelength
+arrival processes
+one arrival
+plp at
+slot boundaries
+the traffic
+departure process
+may arrive
+the service
+x phi
+routing probabilities
+arrivals to
+5 arrival
+of slot
+transmitting and
+service rate
+node 1
+buffer size
+packet will
+arrive to
+a receiving
+of node
+per frame
+process to
+on channel
+the sub
+packets per
+of channels
+a service
+arriving packet
+each arrival
+queueing network
+of packets
+traffic received
+probabilities out
+ic ic
+plp decreases
+slot service
+ic ff
+polling system
+wdm broadcast
+service completion
+probability at
+phi 1
+packets at
+state z
+queue will
+queue 1
+probability that
+of traffic
+packets may
+receiving side
+wdm networks
+at node
+of arrival
+optical networks
+end of
+each node
+broadcast and
+be transmitted
+a frame
+a wdm
+transmissions on
+and select
+j x
+and receiving
+network is
+a schedule
+integral number
+queue 2
+queues of
+slots for
+the queueing
+the buffer
+the departure
+the 2
+buffer capacity
+decrease in
+the schedule
+ic is
+each channel
+an instant
+overall departure
+mmbp is
+optical medium
+slot number
+within slot
+poisson traffic
+slot more
+tuning latency
+mmbp the
+ic service
+y packets
+receiver 1
+state arrival
+observation instants
+slot arrival
+serviced during
+individual receiving
+queueing based
+fl ic
+passive star
+wdm architecture
+r ic
+tuning latencies
+arrival instant
+cyclic markov
+omega ic
+slots long
+instant just
+arbitrary transceiver
+bernoulli process
+burstiness and
+packets will
+to figure
+l c
+state x
+in slot
+the end
+node j
+l l
+state transition
+the routing
+queues to
+ic and
+0 ic
+from transmitting
+slots per
+ic of
+ic as
+destination probabilities
+wavelength conversion
+at transmitting
+packets in
+the probability
+a queueing
+traffic in
+generated at
+x w
+the decrease
+non poisson
+given buffer
+at arrival
+quantities a
+the transceiver
+of burstiness
+number within
+c varies
+p cyclic
+with bursty
+steady state
+node is
+arrival slot x
+receiving queue j
+an arrival slot
+packet loss probability
+of service slots
+the transmitting queues
+to receiving queue
+the 2 mmbp
+transmitting queue i
+v ic x
+the packet loss
+the sub network
+arrival process to
+number of service
+of an arrival
+the arrival process
+arrival slot is
+loss probability at
+the queue length
+at the transmitting
+queue length distribution
+packets per arrival
+each transmitting queue
+broadcast and select
+the receiving queues
+per arrival slot
+a service slot
+x phi 1
+of slot x
+5 arrival slots
+the transmitting queue
+and receiving queues
+each arrival slot
+from the transmitting
+within arrival slot
+0 5 arrival
+the service rate
+transmitting and receiving
+on channel c
+a receiving queue
+to this queue
+of the transmitting
+number of packets
+that a packet
+the total traffic
+the end of
+before the end
+in the service
+the routing probabilities
+on each channel
+queues of the
+in slot x
+the transmitting side
+the plp decreases
+wdm broadcast and
+transmitting queue is
+one arrival slot
+obtain the queue
+the plp at
+sub network for
+for wavelength c
+j j x
+a transmitting queue
+by this queue
+transition probabilities out
+may arrive to
+the receiving queue
+broadcast wdm networks
+of state x
+on wavelength c
+probabilities out of
+arrival slot boundaries
+generated at node
+slot service slot
+of the network
+packet will be
+packets at the
+decrease in the
+at an instant
+length distribution of
+end of slot
+at node i
+out of state
+to j j
+each node is
+number of channels
+of the sub
+l l l
+probability at the
+integral number of
+the network is
+the probability that
+of a service
+just before the
+of the slot
+departure process from
+as c varies
+individual receiving queues
+traffic received by
+wavelength c in
+arrival slot number
+arbitrary transceiver tuning
+plp at transmitting
+probability at a
+characteristics of traffic
+plp decreases as
+slots per frame
+instant just before
+transceiver tuning latency
+network for wavelength
+given buffer size
+2 mmbp is
+queue i of
+arriving packet will
+the optical medium
+process to each
+slot x we
+in the plp
+slot arrival slot
+queue 1 of
+service slots for
+the transceiver tuning
+received by this
+ic service slots
+an instant just
+arrival processes to
+wavelength c each
+of node 8
+p cyclic markov
+service slot is
+at arrival slot
+packets may arrive
+of burstiness and
+of arrival slots
+state x w
+overall departure process
+slots during which
+receiving queues of
+ic x 0
+of traffic received
+each receiving queue
+with arbitrary transceiver
+1 of node
+wdm networks with
+slot x phi
+in a wdm
+the arrival slot
+transmitting side of
+receiving side of
+and observation instants
+be transmitted on
+a 2 mmbp
+at transmitting queue
+notion of burstiness
+a ic service
+x v ic
+of a ic
+of arrival slot
+2 mmbp the
+non poisson traffic
+setting a ic
+at each node
+the decrease in
+will be lost
+of the schedule
+amount of traffic
+of the departure
+j given that
+approximate analysis of
+transmissions on each
+traffic in high
+the transmitting and
+u j x
+queue at node
+a given buffer
+probability that a
+the buffer size
+end of an
+an arriving packet
+the departure process
+process to this
+of available channels
+the steady state
+of the arrival
+within a frame
+the arrival processes
+an integral number
+at the end
+the queue is
+as the conditional
+by node i
+the markov chain
+packets will be
+its destination node
+of traffic in
+to the receiving
+the number of
+service rate of
+of the total
+important characteristics of

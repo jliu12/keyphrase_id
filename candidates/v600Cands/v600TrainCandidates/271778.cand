@@ -1,0 +1,600 @@
+ssg
+thread
+lock
+heap
+ssgs
+java
+allocator
+intbuffer
+protected
+allocated
+producer
+object
+locks
+statement
+ev
+threads
+cfg
+invisible
+a3
+concurrency
+hourslock
+buffer
+concurrent
+ada
+transition
+worklist
+public
+protect
+runnable
+int
+consumer
+accessible
+allocators
+cfgs
+buf
+selector
+stack
+void
+field
+coarsening
+objects
+statements
+summary
+synchronized
+loc1
+static
+transformations
+reference
+arcs
+tasking
+fields
+node
+inlined
+sv
+chase
+observable
+salary
+accessing
+summarized
+nodes
+enclosing
+avrunin
+kc
+pointer
+referenced
+loop
+statically
+loc2
+salarylock
+updatehours
+extracting
+protects
+e1
+releases
+root
+hours
+transformation
+constructor
+nested
+prepending
+programmer
+wait
+reductions
+roles
+accessed
+edges
+vugranam
+naumovich
+reachable
+holding
+expression
+notifyall
+penix
+gleb
+reproduce
+verification
+mauricio
+midkiff
+deok
+accesses
+processed
+er
+idiom
+serrano
+sreedhar
+date
+escape
+corbett
+corina
+instances
+ref
+array
+locking
+ending
+env
+subtle
+compositional
+synchronization
+conservative
+visible
+transitions
+limerick
+programs
+post
+lori
+executing
+edge
+callers
+updates
+manish
+deadlock
+s1
+t3
+analyst
+a1
+employee
+body
+collect
+automated
+ireland
+tractable
+toolset
+protecting
+count
+george
+jong
+errors
+inlining
+s0
+monitor
+splitting
+ysis
+checking
+clarke
+fl1998
+newsalary
+newhours
+stuttered
+updatesalary
+koppol
+jloop
+e2
+expressions
+pre
+acquiring
+arc
+t2
+anal
+updated
+truth
+verifying
+block
+constructing
+choi
+trace
+grams
+extraction
+mhp
+premkumar
+suffixed
+lenges
+reacquire
+enviornment
+aldrich
+havelund
+pointers
+virtual
+technically
+acquire
+successors
+references
+allocates
+reduction
+plays
+guard
+eled
+elide
+structor
+propo
+stubblebine
+the lock
+summary node
+allocated by
+transition system
+heap nodes
+ssg for
+the ssg
+the thread
+statement s
+node for
+an ssg
+f observation
+object allocated
+loop block
+protected by
+the variable
+heap node
+bounded buffer
+heap structure
+ssg is
+instance allocated
+for allocator
+buffer example
+the summary
+reference analysis
+finite state
+lock object
+the producer
+concurrent java
+the heap
+the object
+f observable
+pre ssg
+allocator a
+the ssgs
+reduced f
+of heap
+local to
+run method
+l value
+instance variable
+state models
+concurrency errors
+run time
+java programs
+a lock
+lock of
+class c
+r value
+at run
+summary nodes
+the intbuffer
+static pointer
+intbuffer object
+variable object
+post ssg
+ssgs for
+virtual coarsening
+variable is
+of concurrent
+made invisible
+a thread
+concurrency models
+and consumer
+a3 a3
+a statement
+is protected
+current instance
+the worklist
+the program
+lock reduction
+splitting locks
+protect v
+variable reduction
+time heap
+buffer not
+an allocator
+thread allocator
+static variable
+f field
+protected int
+s ssg
+transformations representing
+statically allocated
+not f
+public class
+heap at
+the reference
+object containing
+the statement
+of class
+may point
+reduced transition
+a a3
+cfg for
+observation sequences
+thread is
+producer and
+instance variables
+public void
+variable and
+edge from
+an object
+the bounded
+accessible only
+variable nodes
+current node
+state variables
+other threads
+one to
+heap objects
+which locks
+ada tasking
+static variables
+referenced by
+a transformation
+pointer analysis
+are local
+each statement
+new thread
+the allocator
+code reachable
+one relationships
+its cfg
+summarized instance
+ssgs are
+step operation
+2 lock
+given thread
+heap variables
+buf public
+other cfgs
+marked one
+value e1
+locks protect
+start statement
+unique lock
+implements runnable
+allocator b
+in java
+a variable
+new a
+that thread
+java s
+for statement
+local variable
+accessed only
+fields of
+object this
+lock is
+are accessible
+concurrent programs
+the buffer
+the instance
+lock on
+a3 0
+root objects
+often subtle
+object referenced
+control location
+access v
+stack variable
+producer thread
+original transition
+java source
+3 b
+all statements
+point to
+the pre
+is local
+of fields
+models from
+the post
+at s
+lock and
+arcs between
+instance of
+from field
+variable next
+void run
+path ending
+data length
+reference value
+a otherwise
+a field
+releases the
+software engineering
+each thread
+root object
+thread a
+lock when
+is accessible
+any object
+for class
+an edge
+objects are
+a heap
+lock we
+method body
+object represented
+allocated by a
+the summary node
+object allocated by
+instance allocated by
+summary node for
+the reference analysis
+node for allocator
+finite state models
+reduced f observation
+allocated by b
+bounded buffer example
+the pre ssg
+the bounded buffer
+heap node for
+run method of
+of heap nodes
+concurrent java programs
+at run time
+the lock of
+of concurrent java
+not f observable
+be made invisible
+static pointer analysis
+the post ssg
+the lock object
+one to one
+the object containing
+models of concurrent
+the variable is
+producer and consumer
+state models of
+is protected by
+the heap at
+the current instance
+the transition system
+summary node of
+f observation sequences
+for allocator a
+in the ssg
+a summary node
+run time there
+the ssgs for
+the variable object
+run time heap
+the intbuffer object
+fields of heap
+statement s ssg
+a current node
+local variable reduction
+protected by a
+of class c
+an edge from
+may point to
+local to the
+a statement s
+in the bounded
+is not f
+lock of the
+the r value
+the heap structure
+reduced transition system
+r value of
+by a otherwise
+local to a
+to the thread
+to the summary
+by a lock
+of the heap
+of the program
+number of fields
+protected by the
+the producer and
+the lock and
+the loop block
+releases the lock
+transition system is
+the variable and
+the producer thread
+for allocator b
+b may point
+the f field
+to one relationships
+then after some
+size of finite
+a then after
+in other cfgs
+heap at run
+an object allocated
+marked one to
+only by code
+execution path ending
+the reduced transition
+ssg is the
+start statement of
+is accessible only
+transition system s
+ssg for a
+accessible only from
+ending at s
+original transition system
+f field for
+summarized instance allocated
+the ssg for
+a unique lock
+allocator a then
+buffer example the
+l value e1
+analysis could determine
+heap nodes for
+a given thread
+set of heap
+by the lock
+a a3 0
+current instance allocated
+often subtle and
+v at run
+ssg for statement
+the start statement
+heap nodes in
+a3 0 a
+which locks protect
+in the producer
+pre ssg for
+f observable and
+concurrency errors which
+by code reachable
+are often subtle
+in l value
+are local to
+and t 0
+is local to
+instance variable of
+difficult to reproduce
+is accessed only
+for all statements
+to a heap
+statements in other
+object referenced by
+to the producer
+models from java
+a3 a3 a3
+a heap node
+accessing the variable
+after some execution
+any object allocated
+the original transition
+the statement s
+reduce the size
+some execution path
+an instance variable
+path ending at
+of instance variables
+holding the lock
+method of a
+objects allocated by
+subtle and difficult
+object represented by
+to any object
+edge from the
+t and t
+time there is
+object containing the
+exists an edge
+errors which are
+instance of class
+the lock on
+the local variable
+the lock is
+to a thread
+node for a
+of the statement
+point to an
+statement s is
+of the summary
+accessed only by
+is a current
+all statements in
+is the variable
+example in figure
+on software engineering
+properties of concurrent
+in the pre
+a transformation that
+which are often
+for the expression
+may be made
+the set of
+one arcs between
+implements runnable protected
+is unlikely until
+a common idiom
+is marked one
+a specific thread
+this while count
+r value e2
+node or all
+the splitting locks
+compute protect v
+detect concurrency errors
+one cfg for

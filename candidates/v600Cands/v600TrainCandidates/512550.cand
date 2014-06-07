@@ -1,0 +1,600 @@
+unroll
+outer
+loop
+fpga
+synthesis
+fpgas
+behavioral
+nest
+unrolling
+accesses
+compiler
+designs
+saturation
+balance
+pipelined
+exploration
+parallelizing
+reconfigurable
+fir
+registers
+psat
+monet
+hardware
+loops
+reuse
+transformations
+cycles
+array
+memories
+vhdl
+nummemories
+layout
+parallelism
+sobel
+mm
+replacement
+inner
+clock
+scalar
+jam
+optimizations
+scaled
+fetch
+memory
+custom
+programmable
+defacto
+jac
+heidi
+factors
+balanced
+ziegler
+tm
+tiling
+xilinx
+handel
+factor1
+wildstar
+sat
+devices
+ids
+developers
+dependences
+designers
+virtex
+verilog
+consumption
+rotate
+suif
+chip
+mapping
+compilation
+renaming
+compiling
+diniz
+tile
+unrolled
+er
+arrays
+annapolis
+peeling
+multimedia
+multiples
+tools
+compilers
+automation
+estimation
+selectbetween
+uout
+cardoso
+factor0
+usmall
+10execution
+analyses
+body
+kernels
+monotonically
+pat
+writes
+di
+manually
+synthesizing
+subscript
+architectures
+ectiveness
+nonincreasing
+hall
+byoungro
+joonseok
+uin
+clbs
+capacity
+monotonicity
+collaboration
+programmer
+dependence
+area
+64
+ne
+selected
+40th
+explores
+scheduling
+altera
+orts
+40ns
+distances
+mary
+derives
+piperench
+pragmas
+pedro
+device
+anaheim
+baseline
+luts
+resources
+logic
+sa
+pipelining
+operators
+mentor
+latency
+selects
+configurable
+guide
+nondecreasing
+supercompilers
+bitstream
+cameron
+developer
+uniformly
+log
+customized
+rate
+synthesize
+mapped
+matches
+ripple
+subscripted
+occam
+accelerators
+read
+target
+expose
+innermost
+slices
+silicon
+register
+routing
+operator
+growing
+metric
+dataflow
+imperative
+technology
+estimates
+devote
+initialize
+ect
+specification
+ectively
+factor
+multipliers
+metrics
+invariant
+windowing
+criteria
+rapid
+automated
+c1
+prone
+gate
+scheduled
+execution
+rtl
+exposes
+motion
+engage
+erences
+unroll factor
+loop unroll
+outer loop
+design space
+unroll factors
+factor outer
+selected design
+behavioral synthesis
+the unroll
+space exploration
+log scaled
+8 outer
+saturation point
+compute bound
+2 outer
+factor 8
+memory accesses
+1 outer
+scalar replacement
+4 outer
+factor 4
+the saturation
+loop nest
+synthesis tools
+the nest
+inner loop
+factor 2
+data layout
+level synthesis
+execution cycles
+exploration algorithm
+parallelizing compiler
+fetch rate
+fpga based
+data fetch
+memory parallelism
+factor 1
+memory bound
+the design
+balance execution
+scaled selected
+design inner
+cycles log
+cycles outer
+for pipelined
+high level
+accesses to
+uniformly generated
+c area
+balance b
+space log
+the compiler
+factor selected
+64 selected
+array renaming
+factor 64
+non pipelined
+and area
+design is
+operator parallelism
+loop transformations
+area figure
+consumption rate
+array variables
+a design
+loop body
+the loop
+to fpgas
+b execution
+of unroll
+bound design
+memory ids
+of psat
+factors for
+the fpga
+fpgas are
+factor increases
+an unroll
+a balance
+design that
+j loop
+to fpga
+synthesis flow
+time c
+loops in
+compiler technology
+hardware implementation
+fpga designs
+pipelined memory
+pipelined fir
+balance metric
+chip registers
+pipelined mm
+five multimedia
+balance outer
+balanced design
+rotate registers
+monet tm
+factor vector
+and synthesis
+clock cycles
+loop unrolling
+data reuse
+execution time
+compilation and
+subscript expressions
+for reconfigurable
+registers c
+space constrained
+area for
+compiler algorithm
+of behavioral
+design points
+behavioral vhdl
+in fpga
+the unrolling
+unrolling factor
+a ne
+computations to
+space a
+fpgas proceedings
+is compute
+invariant code
+array s
+cycles and
+to memory
+all loops
+designs that
+to hardware
+by multiples
+o er
+designs with
+in parallel
+multiple memories
+c registers
+sa c
+larger unroll
+for designs
+factor vectors
+unroll factor1
+multimedia kernels
+j 64
+synthesis estimates
+wildstar tm
+selected designs
+customized data
+64 j
+a loop
+on chip
+a compiler
+loop in
+hardware design
+from behavioral
+i loop
+closely matches
+optimizations performed
+our algorithm
+dependence distances
+with comparable
+each loop
+accesses are
+explore a
+the consumption
+loop for
+accesses in
+the loops
+balance is
+custom data
+on fpgas
+data consumption
+xilinx virtex
+mary w
+of fir
+fpga as
+pedro c
+c diniz
+of transformations
+more resources
+resources should
+w hall
+single fpga
+or verilog
+synthesis estimation
+axis value
+target clock
+loop invariant
+code motion
+the selected
+large design
+of fpga
+compiler analyses
+collaboration between
+vhdl or
+nest we
+design spaces
+the programmer
+to array
+multiples of
+based systems
+reuse in
+outer loop unroll
+loop unroll factor
+factor outer loop
+unroll factor outer
+design space exploration
+unroll factor 2
+selected design space
+inner loop unroll
+8 outer loop
+factor 1 outer
+unroll factor 4
+factor 4 outer
+2 outer loop
+factor 8 outer
+unroll factor 1
+unroll factor 8
+factor 2 outer
+the unroll factor
+1 outer loop
+4 outer loop
+the saturation point
+in the nest
+unroll factors for
+the design space
+the data fetch
+data fetch rate
+high level synthesis
+time c area
+space a balance
+balance b execution
+cycles outer loop
+log scaled selected
+a balance b
+space log scaled
+execution time c
+space exploration algorithm
+cycles log scaled
+design space log
+design inner loop
+scaled selected design
+c area figure
+selected design inner
+and area for
+the loop nest
+parallelizing compiler technology
+behavioral synthesis tools
+64 selected design
+factor 64 selected
+factor selected design
+unroll factor selected
+unroll factor 64
+design space a
+b execution time
+loops in the
+pipelined memory accesses
+the unroll factors
+fpga based systems
+area for pipelined
+multiples of psat
+cycles and area
+an unroll factor
+as the unroll
+unroll factor increases
+compilation and synthesis
+execution cycles and
+rotate registers c
+balance execution cycles
+in fpga based
+of unroll factors
+is compute bound
+beyond the saturation
+unroll factor for
+virtual memory ids
+dimensional array variables
+from behavioral synthesis
+unroll factor vector
+on chip registers
+accesses to array
+balance outer loop
+loop in the
+of behavioral synthesis
+are uniformly generated
+factors for the
+the consumption rate
+loop invariant code
+a design that
+invariant code motion
+for non pipelined
+time and area
+each loop in
+0 3 of
+fpgas proceedings of
+by multiples of
+in the loop
+the j loop
+for j 0
+j 0 j
+o er a
+unroll factor that
+five multimedia kernels
+exploration algorithm in
+larger unroll factors
+data consumption rate
+balanced design is
+j 64 j
+a collaboration between
+fetch rate is
+of uniformly generated
+algorithm for design
+loop unroll factor1
+main loop body
+unroll factor is
+balance execution time
+0 j 64
+behavioral synthesis estimates
+the balance metric
+to array s
+saturation point as
+factor increases by
+unroll factor vectors
+to fpga based
+execution cycles log
+increases by multiples
+compute bound design
+memory ids to
+execution cycles outer
+it is compute
+and place and
+the selected designs
+hardware design space
+of the design
+for each loop
+a compiler algorithm
+accesses in the
+should be devoted
+that closely matches
+present a compiler
+mary w hall
+data layout is
+pedro c diniz
+with comparable performance
+vhdl or verilog
+y axis value
+fpga designs in
+saturation point and
+the application of
+only 0 3
+resources should be
+memory accesses we
+place and route
+pipelined and non
+as loop unrolling
+and non pipelined
+for design space
+performed in parallel
+on the fpga
+designs that are
+data layout and
+to explore a
+design space and
+unroll and jam
+of the j
+all loops in
+memory accesses to
+a design is
+optimizations performed by
+the hardware implementation
+set of transformations
+on design automation
+experimental results for
+number of clock
+closely matches the
+such as loop
+proceedings of the
+be devoted to
+of clock cycles
+multi dimensional array
+to guide the
+in the design
+programmable gate arrays
+june 02 06
+06 2003 anaheim
+automation june 02
+02 06 2003
+the 40th conference
+to high level
+40th conference on
+field programmable gate
+factor vectors then
+for reconfigurable accelerators
+to design space
+loop computations to
+our design space
+10 execution cycles
+total data bits
+a popular vehicle
+fetch rate increases
+level imperative programming
+registers for i
+selects the smallest

@@ -1,0 +1,600 @@
+transition
+circuit
+redd
+circuits
+pi
+bdd
+red
+predecessors
+oe
+bdds
+symbolic
+ctl
+init
+checking
+relations
+pci
+smv
+inputs
+sub
+assignment
+sequences
+generation
+gains
+sup
+bus
+subcircuit
+verification
+endfor
+backwards
+operator
+assignments
+temporal
+coverage
+ex
+atpg
+trace
+reachable
+am
+agrees
+800m
+reproduces
+dyn
+quantifier
+dynamic
+unmanageable
+reproduce
+exterior
+ef
+signals
+projection
+partial
+endwhile
+stage
+1m
+intel
+formula
+finished
+accessible
+industrial
+seq
+vec
+expand
+checkers
+print
+static
+agree
+twelve
+ffl
+designs
+dynamically
+unreachable
+receives
+precomputed
+synchronous
+cone
+ax
+st
+recreates
+sensitization
+2301
+returns
+explosion
+successors
+validation
+logic
+creating
+concise
+consumption
+relation
+critical
+created
+reuses
+verifiers
+subcircuits
+inputing
+puzzling
+quences
+verified
+designer
+unprimed
+9v
+behaviors
+granted
+architectural
+operators
+sometime
+latch
+orders
+failed
+tests
+influence
+designers
+translate
+path
+traverse
+speedup
+grow
+hierarchical
+creates
+induces
+series
+successor
+columns
+testability
+valuations
+killed
+valuation
+expensive
+arbitrarily
+exploit
+595
+eleven
+inefficiency
+frequently
+representations
+simulation
+verifying
+boolean
+arrive
+width
+gamma1
+generator
+impressive
+rounded
+sure
+succ
+vg
+rn
+asynchronous
+mostly
+iteration
+extremely
+companies
+quantifiers
+hardware
+magnitude
+seconds
+successful
+opposed
+relate
+counterexample
+enhances
+endif
+prominent
+stages
+differs
+core
+silicon
+facets
+modality
+abuse
+modalities
+produces
+plan
+symbolically
+putation
+sm
+averages
+beforehand
+megabytes
+environ
+schematic
+notice
+forward
+intermediate
+formulas
+gained
+unrestricted
+pursue
+expands
+connectives
+gamma2
+deterministically
+aspect
+popularity
+signs
+goes
+search
+gain
+reverse
+transition relations
+dynamic transition
+transition relation
+test sequence
+model checking
+p red
+test sequences
+of states
+sequence generation
+p redd
+partial assignment
+symbolic model
+partial transition
+test generation
+sub circuit
+generation algorithm
+the circuit
+sequence pi
+full design
+pi sub
+next state
+the transition
+assignment oe
+i sub
+over u
+a test
+sub circuits
+of predecessors
+the test
+variables in
+of variables
+good coverage
+s init
+predecessors of
+the pci
+backwards search
+pci local
+local bus
+pi on
+a partial
+n i
+the dynamic
+assignment over
+the support
+a bdd
+i v
+global transition
+state s
+initial state
+partial assignments
+pi in
+v 0
+the sub
+variable v
+of inputs
+of test
+an assignment
+the inputs
+init and
+red a
+large circuits
+input variables
+finite state
+support of
+circuit the
+sequences that
+inputs to
+f depends
+state value
+on v
+a transition
+projection of
+dynamic algorithm
+logic ctl
+that agrees
+static algorithm
+sequences for
+a state
+states a
+in i
+the algorithm
+v i
+relation r
+the full
+small critical
+ex operator
+several large
+the subcircuit
+stage ii
+in smv
+sup 0
+dynamic validation
+critical sub
+states in
+the projection
+variables u
+circuits the
+u 0
+stage i
+on u
+oe over
+the bdd
+and sup
+the backwards
+ef p
+on i
+relations can
+p holds
+an initial
+sequence for
+gives values
+complete circuit
+that agree
+the variables
+agrees with
+state variables
+relation is
+exploit a
+inputs i
+efficient test
+relation into
+circuits that
+r i
+state machine
+of p
+the temporal
+oe i
+a formula
+of circuits
+the ex
+variables that
+and space
+operator is
+the partial
+u that
+temporal logic
+chosen arbitrarily
+operator p
+a i
+the set
+all variables
+receives a
+set a
+through these
+that dynamic
+in lines
+transition in
+the design
+the operator
+assignment that
+their size
+same idea
+relations and
+new method
+choose oe
+reproduce pi
+unmanageable due
+checking 3
+circuit are
+circuit input
+operator ex
+smv 13
+bdd implementation
+sub in
+provide gains
+in symbolic
+redd is
+assignments over
+columns relate
+atpg algorithms
+ffl sub
+a backwards
+previously unmanageable
+as partitioned
+sub if
+sub be
+simpler relations
+red function
+endwhile stage
+reproduces the
+bus 4
+very concise
+1m of
+hierarchical design
+circuits than
+states assignments
+verify circuits
+industrial circuits
+by bdds
+pi that
+print sequence
+generation failed
+relations method
+improve symbolic
+lines 21
+init s
+intel circuits
+5 1m
+dynamically for
+dyn st
+dynamic transition relations
+set of states
+test generation algorithm
+a test sequence
+symbolic model checking
+the transition relation
+a partial assignment
+test sequence generation
+of p red
+partial transition relation
+partial assignment oe
+the sub circuit
+the full design
+the test sequence
+of the circuit
+of test sequences
+the partial transition
+the dynamic transition
+transition relation r
+test sequence pi
+set of predecessors
+the test generation
+the next state
+an initial state
+in the support
+a transition relation
+pci local bus
+variables in i
+the pci local
+of predecessors of
+transition relation is
+global transition relation
+test sequences that
+of states a
+test sequences for
+the support of
+a set of
+the set of
+number of variables
+transition relations can
+of variables u
+next state value
+partial assignment over
+the p red
+test sequence for
+of dynamic transition
+s init and
+assignment over u
+transition relations and
+the dynamic algorithm
+set of test
+set of variables
+the projection of
+predecessors of a
+over u that
+variable v i
+p red a
+of states in
+sets of states
+the global transition
+the variables in
+states in a
+initial state s
+values to all
+sequence for the
+that agrees with
+sequence of inputs
+model checking the
+these results show
+inputs to the
+a good coverage
+to all variables
+on v i
+the static algorithm
+our test generation
+and sup 0
+method can provide
+pi on i
+that dynamic transition
+assignment to i
+using dynamic transition
+state s init
+the ex operator
+state value for
+the backwards search
+sequence pi in
+transition relation into
+transition relations the
+partial transition relations
+next state variables
+u that agrees
+assignment oe over
+p holds in
+generation algorithm that
+transition relations to
+the operator p
+method in smv
+through these sets
+good coverage of
+of the design
+computation of p
+finite state machine
+variables in the
+of a we
+represents the set
+the new method
+an assignment that
+the complete circuit
+that agree with
+time and space
+support of a
+f depends on
+state variables that
+show that dynamic
+temporal logic ctl
+projection of s
+a set a
+the inputs to
+in the full
+parts of the
+the circuit the
+n i s
+model checking and
+a variable v
+that p holds
+in the circuit
+algorithm is the
+set of inputs
+means that p
+is a partial
+to the sub
+computes the set
+a finite state
+the temporal logic
+to two orders
+is an assignment
+the algorithm is
+the computation of
+up to two
+the same idea
+not exist in
+common and most
+space during verification
+v 0 does
+in i when
+pi on u
+0 over u
+receives a partial
+5 1m of
+goes through these
+often be smaller
+local bus 4
+exploit a partition
+the symbolic model
+partitioned transition relations
+relation at each
+transition in n
+the design however
+represented by bdds
+p redd is
+architectural level test
+depend on v
+assignment oe 0
+from i v
+inputs i sub
+1 6 of
+ffl sub circuits
+series of sets
+agrees with s
+every in i
+at an initial
+of states assignments
+that every n
+full design that
+of the pci
+implemented the new
+types of circuits
+from the exterior
+as partitioned transition
+of partial assignments
+level test generator
+and most expensive
+an architectural level
+value for variables
+p red function
+and symbolic model
+all all a
+in smv and
+on several large
+oe 0 over
+large circuits our
+called p redd
+circuits it is
+previously unmanageable due
+efficient test generation
+small critical sub
+transition relation and
+sub circuit and
+were previously unmanageable
+run it on

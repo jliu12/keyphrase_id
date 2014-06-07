@@ -1,0 +1,600 @@
+hpf
+zpl
+apr
+f90
+compiler
+forall
+compilers
+pgi
+mpi
+ep
+directives
+portability
+nas
+mg
+npb2
+ibm
+fortran
+ft
+benchmarks
+subroutine
+dependences
+loop
+parallelize
+benchmark
+loops
+arrays
+parallelized
+portable
+parallelization
+array
+speedup
+fft
+sp2
+secs
+npb1
+strided
+scalar
+language
+recv
+platforms
+dependence
+directive
+compiling
+optimizations
+vectorizing
+bcast
+adhere
+subroutines
+communication
+chamberlain
+bradford
+norm2u3
+snyder
+syntax
+programs
+calls
+scalable
+implementations
+sequential
+barrier
+multigrid
+suite
+replicated
+weathersby
+fftpde
+allreduce
+irecv
+vendors
+deviates
+lawrence
+90d
+transpose
+languages
+versions
+parallelizable
+capability
+derrick
+intrinsics
+xlf
+eun
+collective
+constitutes
+correction
+restructuring
+calvin
+constructs
+indication
+overhead
+foremost
+successful
+dimension
+default
+nonblocking
+scales
+differences
+batch
+parallelizing
+dot
+batches
+correlate
+parallelism
+predictable
+send
+intrinsic
+challenge
+sung
+count
+processors
+distribute
+vienna
+stencil
+fourier
+alias
+redistribution
+mimd
+across
+lewis
+scriptive
+middlecoff
+rprj3
+klepacki
+wijngaart
+2736
+pgi_do
+hmg
+pgi_f90
+9504
+58877
+126775
+apr_f90
+resid
+spotchecks
+cfft3
+cfftz
+psinv
+transcriptive
+kapf
+govett
+ibm_f90
+258048
+apr_do
+ibm_do
+intended
+platform
+difficulty
+seed
+success
+considerable
+fortunately
+passing
+choi
+grid
+incompatible
+embar
+embarrassingly
+conversative
+objectivity
+unhindered
+annuli
+xlhpf
+preallocation
+recoded
+expressly
+4041
+alltoall
+partition
+innermost
+recognize
+processor
+express
+programmer
+owner
+principal
+statistics
+metric
+lin
+rely
+scalarized
+xhpf
+6x
+pghpf
+christopher
+concise
+contract
+washington
+published
+pseudo
+isend
+compil
+detailing
+delineation
+deitz
+availabil
+supplementing
+congruential
+adjusting
+unpredictable
+notable
+limitation
+conservative
+the hpf
+f90 forall
+the apr
+hpf compilers
+the zpl
+do loop
+the compilers
+apr compiler
+loop version
+forall version
+data parallel
+scalar performance
+the ibm
+npb2 1
+the compiler
+the f90
+ibm compiler
+performance model
+class s
+the arrays
+the loop
+the do
+hpf directives
+the npb2
+hpf f90
+the pgi
+and zpl
+the mpi
+directives are
+of hpf
+parallel language
+hpf programs
+pgi compilers
+for ep
+mg class
+and pgi
+apr s
+pgi compiler
+hpf do
+the communication
+the benchmarks
+d fft
+hpf compiler
+class a
+all compilers
+to parallelize
+time secs
+3 d
+parallel languages
+the portability
+the array
+hpf s
+ft class
+zpl is
+zpl compiler
+zpl version
+not parallelize
+ep class
+ep mg
+scalable performance
+parallelize the
+the program
+the nas
+mpi calls
+each compiler
+do loops
+version is
+in hpf
+1 d
+d distribution
+the scalar
+performance fortran
+compilers we
+loop to
+the language
+ibm sp2
+loop bounds
+version the
+compiler may
+processor grid
+vectorizing the
+three nas
+size class
+apr f90
+forall programs
+recv barrier
+program portability
+all hpf
+s directives
+directives were
+portability problem
+ibm f90
+strided region
+zpl s
+compilers achieve
+hpf reduction
+compiler does
+compilers in
+ibm and
+mpi and
+processors time
+directives to
+loops in
+the programs
+compiler optimizations
+a zpl
+in vectorizing
+portable performance
+parallelize because
+array syntax
+gaussian deviates
+and apr
+apr and
+compiling high
+must adhere
+data dependences
+data distribution
+the performance
+language specification
+compilers and
+applied parallel
+d processor
+send recv
+language developed
+dependences in
+parallel programming
+specific compiler
+nas benchmarks
+parallel research
+ep is
+adhere to
+compiler in
+compiler to
+the parallelization
+l chamberlain
+and ft
+nas parallel
+bradford l
+version requires
+that scales
+array references
+the benchmark
+lawrence snyder
+portability is
+the subroutine
+the transpose
+hpf and
+third dimension
+portable across
+mg and
+an hpf
+different platforms
+the loops
+robust performance
+loops with
+output dependence
+speedup with
+more successful
+compilers are
+value x
+of washington
+are replicated
+subroutine calls
+calls and
+program that
+contract between
+correlate directly
+zpl to
+of apr
+do f90
+sp2 compiling
+benchmarks written
+ft the
+approaches mpi
+zpl and
+apr suite
+trivially parallelized
+zpl programs
+foremost criteria
+with mg
+portable hpf
+reduction intrinsic
+factor join
+replicated variables
+ft benchmark
+commercial hpf
+barrier ibm
+f90 array
+by apr
+using do
+mod operation
+that zpl
+fft along
+f90 syntax
+s forall
+some f90
+concise performance
+with dependences
+programs achieve
+hpf implementations
+the apr compiler
+f90 forall version
+do loop version
+the do loop
+the scalar performance
+the ibm compiler
+hpf f90 forall
+the hpf f90
+the npb2 1
+the hpf compilers
+the pgi compiler
+the f90 forall
+hpf do loop
+and pgi compilers
+the hpf do
+the performance model
+data parallel languages
+mpi and zpl
+the zpl version
+ibm and pgi
+processors time secs
+data parallel language
+to parallelize the
+the ibm sp2
+the 3 d
+compiler does not
+by the compilers
+1 d fft
+the ibm and
+high performance fortran
+a data parallel
+not parallelize because
+a robust performance
+program that scales
+for the compilers
+parallel language developed
+directives are added
+compiling high performance
+forall version requires
+npb2 1 implementation
+f90 forall programs
+does not parallelize
+the zpl compiler
+from the do
+problem size class
+all hpf compilers
+in vectorizing the
+to the apr
+robust performance model
+the language specification
+all data parallel
+mg class s
+forall version the
+apr s directives
+three nas benchmarks
+on the compiler
+a 1 d
+with the focus
+1 d distribution
+must adhere to
+hpf directives are
+the hpf directives
+d processor grid
+applied parallel research
+supported by all
+the results suggest
+loop bounds to
+speedup with the
+to be parallelized
+the third dimension
+bradford l chamberlain
+4 4 0
+the focus on
+dependences in the
+in the scalar
+of data parallel
+loop to be
+the array references
+for distributed memory
+in the study
+the 1 d
+to partition the
+university of washington
+differences in the
+4 0 6
+within the loop
+for data parallel
+loop version the
+to prevent unnecessary
+over the mpi
+that the foremost
+that the hpf
+compilers we first
+for ep mg
+from the apr
+some f90 forall
+ft class a
+portability issue we
+with the f90
+the compilers in
+class a time
+criteria for portability
+using do loops
+hpf s forall
+generates very conservative
+mg and ft
+different platforms and
+compiler optimizations may
+sp2 compiling high
+portable performance of
+90d hpf for
+improving compiler optimizations
+optimizations may help
+compiled with three
+or hpf s
+of rewriting all
+contract between the
+three commercial hpf
+the default distribution
+f90 constructs and
+calls are removed
+class s processors
+be trivially parallelized
+a time secs
+forall programs achieve
+into arrays of
+compiler must adhere
+in the hpf
+adhere to and
+focus on portability
+correlate directly with
+benchmarks is not
+foremost criteria for
+do f90 forall
+prevent unnecessary redistribution
+class s mpi
+scalable performance but
+mg class a
+syntax the zpl
+on the portability
+rewriting all data
+subroutine do f90
+compiling fortran 90d
+ep class a
+ibm compiler does
+arrays onto a
+role of performance
+readily parallelized by
+portability is a
+the arrays onto
+with three commercial
+f90 array syntax
+across subroutine calls
+hpf compilers we
+in f90 syntax
+s directives to
+compilers to parallelize
+apr compiler does
+the wide differences
+the compilers is
+d fft along
+send recv barrier
+vectorizing the communication
+commercial hpf compilers
+third dimension to
+using f90 constructs
+the communication generated
+8 send recv
+nas and apr
+the foremost criteria
+some hpf compilers
+step of rewriting
+with the hpf
+study because they
+partition the arrays
+loops with dependences
+concise performance model
+loop version is
+by all compilers
+the parallelization strategies
+by each compiler
+reduce some performance
+scale with any
+as with mg
+hpf compilers in
+operator r 2
+added to partition
+barrier ibm f90
+benchmarks written in
+very conservative communication
+s forall statement
+models in parallel
+incorporate a robust
+ep mg and
+array syntax and
+programming and languages
+in the npb2
+loops in f90
+computation along the
+for portability is

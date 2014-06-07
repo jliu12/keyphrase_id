@@ -1,0 +1,600 @@
+pointer
+andersen
+steensgaard
+analyses
+burke
+cfg
+alias
+choi
+precision
+ref
+lambdap
+interprocedural
+mod
+benchmarks
+live
+landi
+unexecutable
+ptr
+insensitive
+client
+mccat
+ch
+allroots
+flow
+eks
+reaching
+vs
+sensitive
+aliasing
+sigsoft
+dead
+st
+clients
+bisect
+heap
+loader
+assembler
+propagation
+benchmark
+sensitivity
+aliases
+dependences
+slicing
+dereferences
+anagram
+ks
+assignments
+flex
+dereference
+bu
+seg
+04
+compress
+pointers
+heaps1
+fixoutput
+improvement
+00
+87
+vor
+ruf
+precise
+s5
+ryder
+129
+gaard
+setjmp
+undecidability
+efficiency
+sigplan
+compiler
+aliased
+objects
+longjmp
+pcg
+worklist
+hind
+05
+referenced
+wilson
+snowbird
+associates
+empirical
+austin
+npic
+asg
+dakota
+heaps4
+definitions
+harrold
+reports
+named
+usage
+dummy
+casting
+conditional
+540
+lambdaq
+montana
+pct
+fcts
+milanova
+utah
+node
+steens
+prolangs
+simulator
+online
+kill
+java
+atanas
+zeller
+formals
+rountev
+dereferenced
+optimistic
+hankin
+pearce
+donglin
+75
+suite
+et
+argc
+871
+unioning
+867
+metric
+football
+argv
+hendren
+mock
+consumption
+79
+precomputed
+89
+86
+locals
+aix
+measurable
+66
+counted
+liang
+dependence
+object
+52
+eggers
+diwan
+effects
+73
+engineering
+nodes
+identification
+array
+avg
+initializations
+modula
+void
+statements
+09
+39
+site
+91
+killed
+536
+chris
+name
+compact
+ana
+address
+chambers
+82
+kelly
+85
+spec
+tip
+safe
+susan
+ibm
+assignment
+markus
+isolating
+suites
+loc
+five
+unreachable
+struct
+average
+92
+calls
+03
+60
+declared
+tosem
+08
+foundations
+06
+andflowdependences
+noncall
+heaps6
+333mhz
+pointer analysis
+burke et
+s analysis
+address taken
+al s
+choi et
+steensgaard s
+s analyses
+taken analysis
+client analyses
+at st
+andersen burke
+23 benchmarks
+cfg node
+mod ref
+an improvement
+flow insensitive
+flow sensitive
+pointer analyses
+et al
+reaching definitions
+live variable
+variable analysis
+ch at
+improvement in
+constant propagation
+andersen s
+the address
+b ch
+cfg nodes
+a pointer
+average of
+and steensgaard
+dead assignments
+analysis for
+analyses and
+st a
+sensitive analysis
+analysis time
+the precision
+an average
+of pointer
+benchmarks for
+points to
+mod and
+program analysis
+context sensitive
+of andersen
+ptr mod
+and burke
+andersen and
+show 1
+flow sensitivity
+the pointer
+live variables
+alias analysis
+insensitive algorithm
+of 23
+between andersen
+bu ch
+an bu
+22 benchmarks
+05 eks
+st an
+between steensgaard
+each cfg
+04 bisect
+for ptr
+a flow
+and andersen
+pointer alias
+more precise
+129 compress
+flow dependences
+pointer aliasing
+a cfg
+1 00
+ch allroots
+five pointer
+analysis clients
+unexecutable nodes
+analysis and
+precision of
+to analysis
+precision and
+i an
+context insensitive
+each function
+vs 1
+ref analysis
+of cfg
+precision over
+name at
+precision results
+sensitive pointer
+alias information
+precise analysis
+and choi
+pointer information
+the alias
+program slicing
+analysis is
+analysis i
+sensitive algorithm
+08 main
+ptr ref
+loader 129
+and unexecutable
+definitions analysis
+allroots 04
+lambdap and
+ref set
+finding dead
+the mod
+ii an
+00 0
+four columns
+c programs
+in precision
+interprocedural pointer
+memory usage
+analysis in
+sensitivity on
+alias relations
+named objects
+of choi
+one object
+software engineering
+sigplan sigsoft
+these analyses
+difference between
+and efficiency
+all benchmarks
+sigsoft workshop
+vs 2
+online cycle
+conditional constant
+analyses i
+acm sigsoft
+main function
+the client
+precise than
+on program
+and ii
+efficiency of
+benchmarks but
+aliased to
+efficient context
+acm sigplan
+and an
+context sensitivity
+modification side
+for reaching
+analysis the
+for live
+analysis algorithms
+solution set
+alias representation
+vs 20
+constants found
+precomputed kill
+compiler assembler
+for ref
+dummy main
+pointer algorithms
+unexecutable code
+over steensgaard
+ks 05
+wilson 39
+09 vor
+to lambdap
+mccat 1
+compress compiler
+insensitive analyses
+assembler simulator
+analyses improved
+the flow
+of precision
+and ref
+undecidability of
+one set
+propagation and
+the analyses
+memory consumption
+whole program
+of 22
+software tools
+partial online
+kill information
+pointer expression
+nodes detected
+results show
+data flow
+formal parameter
+of flow
+all client
+aliasing efficient
+analysis precision
+alias set
+all pointer
+burke et al
+et al s
+choi et al
+the address taken
+al s analysis
+and an improvement
+address taken analysis
+steensgaard s analysis
+al s analyses
+an improvement in
+andersen burke et
+23 benchmarks for
+of 23 benchmarks
+live variable analysis
+ch at st
+an average of
+st a b
+at st a
+a b ch
+i an average
+and steensgaard s
+results show 1
+taken analysis and
+b ch at
+the client analyses
+and burke et
+flow sensitive analysis
+pointer analysis for
+the pointer analysis
+through a pointer
+precision and efficiency
+s analysis i
+between steensgaard s
+st an bu
+s analyses and
+each cfg node
+and andersen burke
+ii an average
+a cfg node
+an bu ch
+at st an
+analysis and andersen
+analysis i an
+sensitive analysis of
+flow insensitive algorithm
+the flow sensitive
+s analysis and
+the precision of
+points to analysis
+and ii an
+mod and ii
+andersen s analysis
+between andersen burke
+show 1 a
+difference between andersen
+name at st
+increase in precision
+difference between steensgaard
+analysis and steensgaard
+improvement in only
+andersen and burke
+analyses and choi
+a flow sensitive
+analysis for c
+sensitive pointer analysis
+of cfg nodes
+between the address
+than the address
+mod ref analysis
+and choi et
+improvement in all
+the precision and
+more precise analysis
+a flow insensitive
+reaching definitions and
+in precision over
+analysis of choi
+precision results for
+analyses i an
+pointer analysis clients
+bu ch at
+loader 129 compress
+reaching definitions analysis
+address taken and
+allroots 04 bisect
+of 22 benchmarks
+mod and ref
+of choi et
+s analyses i
+of flow sensitivity
+finding dead assignments
+for reaching definitions
+ch allroots 04
+of andersen and
+the results show
+and efficiency of
+constant propagation and
+of four columns
+pointer alias analysis
+pointer analysis is
+sigplan sigsoft workshop
+workshop on program
+tools and engineering
+on program analysis
+acm sigplan sigsoft
+analysis for software
+software tools and
+sigsoft workshop on
+for software tools
+program analysis for
+the alias information
+whole program analysis
+1 00 0
+for each function
+the constant propagation
+in all benchmarks
+of the address
+context sensitive pointer
+of pointer analysis
+analysis for each
+efficient context sensitive
+solution set for
+for c programs
+measure the precision
+steensgaard s analyses
+over steensgaard s
+precomputed kill information
+for live variables
+unexecutable nodes detected
+for ptr ref
+for ptr mod
+pointer analysis the
+aliased to lambdap
+cfg nodes for
+a measurable difference
+for finding dead
+variable analysis and
+analyses of andersen
+taken and steensgaard
+analysis and dead
+improvement in 5
+2 a measurable
+the mod ref
+with each cfg
+in 5 of
+precision over the
+andersen s and
+pointer analyses and
+b ch allroots
+of five pointer
+pointer analysis precision
+improvement in 13
+benchmarks but no
+attempts to determine
+pointer for ptr
+but no difference
+insensitive algorithm that
+pointer analysis time
+benchmarks for ref
+into one object
+ks 05 eks
+benchmarks for ptr
+program and uses
+the pointer analyses
+129 compress compiler
+in 13 of
+flow insensitive analyses
+dead assignments the
+of andersen s
+difference for finding
+and dead assignment
+in the pointer
+of pointer information
+client analyses and
+dummy main function
+1 a substantial
+all client analyses
+for each benchmark
+and engineering p
+more precise than
+precision of pointer
+reports the average
+context sensitive algorithm
+partial online cycle
+measurable difference between
+which pointer analysis
+s analysis the
+in only 1
+s analysis for
+pointer analysis algorithms
+conditional constant propagation
+a pointer for
+s analysis in
+international symposium on
+set of four
+a points to
+analysis time of
+substantial difference between
+to analysis for
+affect the precision

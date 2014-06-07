@@ -1,0 +1,600 @@
+multiplication
+processor
+multiplications
+matrices
+sup
+elementary
+matrix
+cache
+replication
+tradeo
+ik
+communication
+nb
+kung
+2d
+3d
+na
+jk
+lpram
+cannon
+strassen
+bounds
+bisection
+toledo
+conventional
+snir
+tiskin
+univac
+transferred
+wp
+asymptotically
+sivan
+memory
+processors
+misses
+asymptotic
+nc
+loomis
+berntsen
+nanbnc
+aggarwal
+rows
+2m
+ij
+hong
+irony
+live
+chandra
+lemma
+cut
+whitney
+unied
+memories
+dror
+degenerates
+dag
+algebra
+multipli
+begins
+phase
+tradeoff
+cations
+reside
+geijn
+multiplicands
+dekel
+phipac
+nassimi
+lblas
+resides
+row
+constants
+cuts
+underlies
+send
+sent
+blocked
+mnr
+ncn
+power2
+compulsory
+watts
+mul
+rst
+2p
+replicate
+slow
+subroutines
+summa
+prams
+prefetch
+sa
+received
+specic
+broadcasts
+inequality
+pebble
+receive
+phases
+bulk
+mn
+alexander
+subroutine
+nan
+sahni
+caches
+sb
+multiply
+private
+across
+kalman
+regime
+cross
+evenly
+analyzes
+fa
+contributes
+mc
+blue
+israel
+columns
+cm
+sc
+dense
+ma
+cient
+hypercubes
+dene
+unlikely
+involving
+ibm
+provable
+fb
+acyclic
+synchronous
+sgi
+sp
+cellular
+arithmetic
+accesses
+1988
+hey
+mccoll
+humanities
+compres
+matri
+tflops
+rutledge
+2pd
+paterson
+mckeller
+organiza
+9060
+bining
+gustavson
+3w
+zubair
+nbn
+tiplicands
+coman
+jerrell
+feel
+amount
+perhaps
+product
+column
+dierent
+saves
+specically
+factorization
+store
+fc
+subsets
+red
+products
+contributions
+workstations
+tiplications
+claries
+partnership
+worksta
+johnsson
+forbid
+tiprocessors
+computers
+square
+clusters
+concrete
+decompose
+statement
+mb
+rigorous
+academy
+herbert
+1952
+vb
+rubinstein
+isoperimetric
+capacity
+storage
+matrix multiplication
+communication lower
+elementary multiplications
+lower bounds
+c ik
+3d algorithms
+for matrix
+2d algorithms
+multiplication algorithms
+distributed memory
+the processor
+processor must
+per processor
+b jk
+of communication
+memory parallel
+ij b
+m words
+elements of
+the amount
+local memory
+i sup
+conventional matrix
+and kung
+hong and
+parallel computer
+the phase
+memory per
+must send
+communication that
+of elementary
+amount of
+memory communication
+multiplications involving
+of words
+words of
+a ij
+words that
+2 elements
+bounds for
+must perform
+the cache
+parallel matrix
+of c
+of memory
+send or
+slow memory
+processor distributed
+least words
+asymptotic notation
+involving rows
+conventional multiplication
+strassen s
+or receive
+the conventional
+sup 2
+p processor
+the matrices
+a phase
+exactly m
+the communication
+receive at
+matrices on
+must cross
+communication across
+of b
+that must
+cache misses
+2 sup
+linear algebra
+g n
+our bounds
+at most
+asymptotically optimal
+lemma 2
+multiplication algorithm
+and snir
+words must
+sup words
+the lpram
+aggarwal chandra
+chandra and
+3 sup
+communication tradeo
+the univac
+input replication
+algorithms are
+phase or
+n matrices
+lower bound
+most n
+two n
+i o
+that 3d
+sivan toledo
+input matrices
+theorem statement
+multiplication of
+row of
+memory and
+bounds also
+phase begins
+2m since
+rows in
+are asymptotically
+the memory
+since each
+local memories
+extra memory
+computation begins
+s algorithm
+a processor
+and nb
+one processor
+the constants
+during a
+multiplication and
+least n
+processor s
+reside in
+irony sivan
+p words
+multipli cations
+loomis whitney
+cannon s
+least wp
+whitney inequality
+words per
+output combining
+lpram model
+most nanbnc
+kung 17
+discrete loomis
+communication per
+alexander tiskin
+and alexander
+toledo and
+2 2p
+communication necessary
+dror irony
+that nb
+nanbnc 1
+concrete constants
+fast cache
+words proof
+our processor
+the machine
+bounds the
+is at
+of cache
+algorithms must
+processor at
+multiplication on
+at least
+and received
+i n
+of local
+processor that
+than n
+most 2m
+perform at
+2p 2
+capacity cache
+computer where
+ik of
+that 2d
+transferred is
+be transferred
+n i
+phase is
+sup i
+the computation
+of elements
+in matrix
+argument shows
+asymptotically the
+n n
+communication in
+rows of
+our lower
+statement holds
+the input
+synchronous parallel
+basic lemma
+na and
+computer we
+bulk synchronous
+least proof
+element c
+bisection of
+f n
+a product
+communication network
+column of
+sent and
+n elements
+m r
+cross the
+replication of
+another processor
+amount of communication
+communication lower bounds
+for matrix multiplication
+matrix multiplication algorithms
+bounds for matrix
+the amount of
+consider the conventional
+ij b jk
+number of words
+distributed memory parallel
+elements of c
+a ij b
+of communication that
+number of elementary
+memory parallel computer
+lower bounds for
+conventional matrix multiplication
+of elementary multiplications
+processor must send
+hong and kung
+must send or
+during a phase
+of words that
+memory per processor
+2 elements of
+i sup 2
+n i sup
+processor distributed memory
+on a p
+3d algorithms are
+p processor distributed
+phase is at
+during the phase
+elementary multiplications involving
+lemma 2 2
+of a and
+that the processor
+elements of a
+the lower bounds
+of local memory
+of memory per
+a phase is
+send or receive
+on the amount
+n matrices on
+words of local
+at least words
+the processor must
+matrices on a
+words of memory
+multiplications involving rows
+two n n
+the conventional multiplication
+words that must
+conventional multiplication of
+receive at least
+or receive at
+parallel matrix multiplication
+i n i
+a p processor
+n n matrices
+n 2 elements
+a distributed memory
+elements of b
+1 2 a
+of two n
+multiplication of two
+at most n
+least one processor
+column of b
+sup i p
+exactly m words
+the phase or
+is m r
+aggarwal chandra and
+algorithms are asymptotically
+are asymptotically optimal
+one processor must
+that 3d algorithms
+chandra and snir
+the input matrices
+the conventional matrix
+c is m
+matrix multiplication algorithm
+involving rows in
+memory communication tradeo
+the phase the
+theorem statement holds
+n 1 2
+must be transferred
+sup 2 sup
+that must be
+amount of memory
+n elements of
+2m since each
+matrix multiplication and
+the theorem statement
+matrix multiplication on
+row of c
+bounds the number
+of the machine
+on a distributed
+is a product
+row of a
+p 2 3
+we state and
+when the computation
+of cache misses
+state and prove
+lower bounds on
+words that are
+the cache the
+on its own
+can be at
+is at least
+at least n
+2 sup i
+in the processor
+of elements of
+a product of
+lower bounds in
+sent and received
+the number of
+the basic lemma
+communication e cient
+2 p words
+the communication necessary
+the memory communication
+2d algorithms are
+strassen s algorithm
+multiplication algorithms must
+the communication across
+is n r
+perform at most
+nanbnc 1 2
+most nanbnc 1
+2p 2 3
+element c ik
+and kung 17
+dror irony sivan
+loomis whitney inequality
+algorithms must perform
+m words are
+irony sivan toledo
+at most nanbnc
+computer where each
+sivan toledo and
+in matrix multiplication
+processor at least
+2 2p 2
+most n elements
+asymptotically optimal for
+phase or is
+the discrete loomis
+communication lower bound
+words per processor
+communication that must
+communication per processor
+slow memory and
+b is n
+most 2m since
+cannon s algorithm
+of b there
+at least wp
+toledo and alexander
+must cross the
+discrete loomis whitney
+data that must
+of communication per
+c ik of
+c on its
+capacity cache misses
+n 2 2p
+b there can
+and alexander tiskin
+transferred is at
+lemma 3 1
+of c is
+i p i
+a processor that
+of the phase
+be at most
+reside in the
+the processor s
+and c is
+end of the
+required to store
+of the matrices
+argument shows that
+c 2 g
+parallel computer where
+can compute at
+cache the number
+matrix multiplication is
+p i sup
+compute at most
+at most 2m
+bulk synchronous parallel
+n c 2
+one word of

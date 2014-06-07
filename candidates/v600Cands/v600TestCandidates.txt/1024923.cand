@@ -1,0 +1,600 @@
+normed
+renement
+backward
+automaton
+renements
+simulations
+nite
+lv95
+forward
+reachable
+branching
+simulation
+automata
+prophecy
+trace
+norm
+history
+u2
+fragment
+bisimulation
+ib
+forest
+stuttering
+decidable
+s0
+traces
+specication
+transition
+unfold
+innite
+denition
+preorder
+gs95
+invariants
+soundness
+action
+inclusion
+proposition
+predicate
+preorders
+al91
+index
+nat
+completeness
+dene
+u0
+bisimulations
+gw96
+sall93
+gssl93
+nam97
+prex
+_
+specications
+transitions
+totality
+adapted
+u3
+subautomata
+tautology
+provers
+rst
+denitions
+nitely
+executions
+clause
+nal
+invisible
+dened
+tau
+proving
+relations
+bisimilarity
+gri00
+nonnal
+conjunct
+dashed
+lemma
+specied
+correspondence
+matched
+nondeterminism
+ns95
+buffer1
+ext
+ends
+actions
+founded
+ioa
+deterministic
+decidability
+pvs
+relates
+trivially
+denes
+reuse
+image
+convergent
+satises
+asserts
+primed
+execution
+formula
+safety
+reachability
+execs
+hsv94
+weijland
+klop
+i2ia
+ak96
+namjoshi
+glv97
+mue98
+dgrv00
+onig
+technically
+suces
+constitute
+seq
+vg
+i2i
+simulated
+buffer2
+glabbeek
+counterexample
+election
+veri
+turing
+routine
+formalized
+unfolding
+superposition
+9v
+niteness
+untimed
+verication
+leader
+reasoning
+hol
+injective
+acts
+relation
+isabelle
+transfer
+fifo
+ip
+mappings
+constitutes
+sound
+dierence
+past
+characterization
+proofs
+abadi
+fragments
+isomorphism
+establishing
+nondeterministic
+halt
+exive
+carry
+inductively
+cumbersome
+sucient
+corollary
+strengthen
+lamport
+assertion
+dicult
+checking
+induction
+specifications
+equivalence
+move
+logic
+indicated
+receive
+verification
+name
+liveness
+timed
+speci
+implication
+declare
+labeled
+technical
+equational
+incoming
+compositional
+specification
+restricted
+correctness
+undecidable
+send
+abstraction
+dnv95
+bcg88
+lv96
+owicki
+a normed
+normed forward
+forward simulation
+normed backward
+simulation from
+step renement
+backward simulation
+forward simulations
+backward simulations
+renement from
+a to
+step renements
+to b
+normed history
+execution fragment
+index relation
+branching forward
+norm function
+a step
+of normed
+states a
+history relation
+history relations
+an execution
+states b
+states of
+of b
+relation from
+a states
+start states
+from b
+b proof
+s a
+b then
+a t
+a forest
+a branching
+trace inclusion
+nite execution
+a nite
+automaton c
+unfold a
+execution correspondence
+image nite
+action name
+b has
+start a
+b to
+2 start
+start b
+partial completeness
+reachable states
+a ib
+prophecy relations
+adapted normed
+reachable a
+ib b
+normed prophecy
+level specication
+normed simulations
+is decidable
+automaton a
+the norm
+automaton b
+if s
+condition 2
+b is
+each action
+norm functions
+forest and
+related via
+an adapted
+an automaton
+trace s
+a a
+the automaton
+after b
+traces a
+reachable b
+and normed
+relation indicated
+that normed
+ends in
+a is
+simulations and
+b 2
+b if
+b 0
+state s
+index of
+automata a
+in u
+state variables
+a and
+from automaton
+arbitrary norm
+is image
+r related
+proof method
+is deterministic
+a h
+t b
+then b
+higher level
+that ends
+of automata
+r b
+relation i
+tautology checking
+branching bisimulation
+no normed
+to normed
+clause reachable
+invisible nondeterminism
+transfer condition
+branching backward
+in lv95
+b and
+lower level
+a forward
+from states
+c to
+a there
+by lemma
+dashed lines
+start state
+b s
+2 if
+an index
+to automaton
+a has
+a norm
+proposition 5
+name a
+be simulated
+from a
+is nite
+b u
+f s
+if b
+the dashed
+same trace
+fragment that
+simulation between
+completeness result
+and b
+a state
+a transition
+to prove
+trace of
+there exists
+a b
+branching bisimilarity
+reachable subautomata
+prophecy relation
+f related
+v predicate
+of lv95
+receive v
+founded set
+global reasoning
+gssl93 sall93
+simulations if
+regular normed
+v nat
+its reachable
+level transition
+ext a
+send v
+a u2
+nite invisible
+no step
+then a
+nite then
+are reachable
+the adapted
+decidable whether
+u 2
+in condition
+complete proof
+all states
+soundness of
+b b
+simulations are
+matched by
+theorem provers
+prex of
+a preorder
+a 0
+suppose that
+each state
+state of
+1 if
+simulations in
+s 2
+initial condition
+u2 u3
+last state
+is routine
+suppose b
+normed forward simulation
+from a to
+is a normed
+simulation from a
+a to b
+a step renement
+a normed forward
+normed backward simulation
+step renement from
+forward simulation from
+normed forward simulations
+backward simulation from
+a normed backward
+normed backward simulations
+renement from a
+is a step
+b then a
+s a t
+history relation from
+an execution fragment
+branching forward simulation
+if s a
+relation from a
+states of a
+is a forest
+from b to
+a states b
+is a branching
+a branching forward
+normed history relation
+has an execution
+a normed history
+s 2 start
+an index relation
+normed history relations
+the norm function
+a t b
+a forward simulation
+states a states
+states of b
+b to a
+n is a
+each action name
+action name a
+a ib b
+a forest and
+index relation i
+renement from b
+1 if s
+that ends in
+is an execution
+to b then
+a and b
+forward simulations and
+of step renements
+complete proof method
+s then b
+the relation indicated
+relation indicated by
+a nite execution
+b is deterministic
+from b 0
+branching forward simulations
+is image nite
+an adapted normed
+exists a normed
+a b 2
+2 if s
+for each action
+a is a
+from c to
+lemma 5 4
+b 0 to
+state of b
+then a b
+a r b
+b 2 r
+2 start a
+b is a
+the dashed lines
+s a a
+b and a
+b n is
+state s and
+by the dashed
+j b u
+checking is decidable
+t b then
+nite execution of
+ends in u
+states b and
+automata a and
+tautology checking is
+index of 0
+a are reachable
+of normed forward
+arbitrary norm function
+execution fragment that
+to b let
+a h c
+is an adapted
+start a then
+then b has
+b has n
+b if there
+f n is
+execution of a
+of a to
+if s 2
+to a 0
+in condition 2
+of a and
+start states of
+are r related
+an arbitrary norm
+proposition 5 6
+for each state
+is a nite
+in u and
+state of a
+that starts in
+i j b
+a has an
+that 1 if
+the same trace
+a there is
+0 to a
+by lemma 5
+of b with
+a complete proof
+a to c
+all states of
+a f b
+from states a
+is b related
+reachable a s
+backward simulations and
+constitutes a normed
+unfold a is
+simulations and normed
+forest and a
+higher level specication
+start b 6
+its reachable states
+if is nite
+a branching backward
+execution that ends
+nite invisible nondeterminism
+adapted normed backward
+completeness of normed
+starts in u
+no step renement
+as we observed
+r related via
+b related to
+to b consists
+of a normed
+and backward simulations
+simulation from b
+to b if
+to its reachable
+states a to
+execution fragment with
+of normed backward
+a to states
+branching backward simulation
+exists no normed
+founded set s
+trace s 0
+a transition predicate
+partial completeness result
+norm function is
+related to s
+proof method for
+b is image
+well founded set
+c to e
+and step renements
+soundness of normed
+simulation from c
+a a a
+b 2 if
+and 0 are
+of a are
+r is a
+the denition of
+execution fragment of
+some well founded
+the totality of
+a to itself
+function from states
+follows by lemma
+b consists of
+that and 0
+method for establishing
+s 0 a
+nite prex of
+a start state
+in u such
+such that 1

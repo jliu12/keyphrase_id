@@ -1,0 +1,600 @@
+subdomains
+subdomain
+grid
+nonoverlapping
+fronts
+fdm2
+gmdd
+decomposition
+elliptic
+grids
+peclet
+hypercube
+schwarz
+5e
+phenomena
+diffusion
+omega
+convection
+decompositions
+selfadjoint
+ncube2
+fdm1
+coefficients
+discretization
+fine
+freedom
+tang
+layers
+coarse
+purdue
+rice
+processors
+discontinuous
+relaxation
+degrees
+domain
+boundary
+gamma1
+tridiagonal
+capturing
+gammaq
+collaborating
+7e
+kim
+refinement
+norm
+iterative
+wayne
+wave
+4e
+iterations
+decomposed
+discretized
+outward
+discretizing
+vavalis
+despr
+27e
+tsompanopoulou
+lion
+ffor
+helmholz
+daoqi
+overlapping
+layer
+professor
+slowly
+differential
+douglas
+errors
+lu
+balancing
+pde
+41
+48202
+detroit
+32e
+21e
+dyang
+00
+interface
+incomplete
+numerical
+modification
+19e
+subdo
+26e
+99e
+gammath
+37e
+localized
+atten
+feels
+hybridized
+39e
+smoothly
+stopped
+unwinding
+unknowns
+node
+narrow
+1for
+lafayette
+dimensionless
+string
+accuracy
+bigger
+stores
+stopping
+ornl
+9e
+lions
+solvers
+advection
+employ
+spectral
+loads
+guess
+mains
+splittings
+yang
+8e
+ae
+thirds
+radius
+achievement
+459
+wild
+mathematics
+hm
+nodes
+79
+spmd
+481
+changed
+moving
+01
+variant
+omitting
+computes
+department
+3d
+mentation
+masks
+lot
+flux
+thickness
+gov
+convergence
+waves
+heuristically
+mimd
+michigan
+mu
+referee
+banded
+middle
+accuracies
+storage
+exterior
+imple
+matrix
+bisection
+interprocessor
+k1
+km
+jim
+care
+stop
+advice
+width
+dimensional
+approximately
+na
+conduct
+imaginary
+coordinated
+discretizations
+west
+processor
+r2
+sends
+load
+dr
+bit
+197
+nonuniform
+117
+virtue
+finishes
+47
+jr
+tensor
+author
+du
+machines
+2e
+dx
+diameter
+gauss
+domain decomposition
+omega k
+decomposition method
+d k
+subdomain omega
+finite difference
+local phenomena
+scheme 2
+domain decompositions
+grid modification
+gamma1 d
+scheme 1
+of subdomains
+subdomains with
+k gamma1
+the subdomains
+x k
+subdomains that
+discontinuous diffusion
+with grid
+k d
+grid refinement
+each subdomain
+grid size
+x x
+subdomains in
+order finite
+for elliptic
+convection term
+coarse grids
+1 norm
+decomposition methods
+having grid
+16 subdomains
+in subdomain
+fronts or
+node 00
+capturing moving
+or layers
+5e 2
+ae g
+of freedom
+of degrees
+elliptic problems
+modification and
+the convection
+solution changes
+schwarz domain
+hypercube machines
+of subdomain
+different numbers
+grids in
+y 2
+the subdomain
+of iterations
+boundary layer
+3 5e
+true solution
+degrees of
+diffusion coefficients
+size h
+and domain
+fine grids
+method with
+optimal parameters
+difference discretization
+grid sizes
+of 41
+dimensional problems
+parallel iterative
+difference method
+l 1
+for scheme
+different processors
+the iterative
+value among
+chosen such
+fine grid
+both scheme
+subdomain number
+layer near
+collaborating pde
+subdomains on
+solution areas
+kim 4
+the peclet
+fronts and
+localized phenomena
+changing solution
+being discretized
+00 computes
+nodes 00
+iterative nonoverlapping
+of gmdd
+apply fine
+narrow subdomains
+peclet number
+19 should
+decompositions at
+node 01
+one subdomain
+contain fronts
+nonoverlapping schwarz
+three subdomains
+subdomains number
+non selfadjoint
+moving local
+u n
+the domain
+computes and
+k 1
+for capturing
+binary string
+difference scheme
+layers and
+contain local
+21 should
+tang 8
+5e 1
+nonoverlapping domain
+decomposition solution
+subdomains is
+4e 2
+grid h
+subdomain problems
+changes slowly
+7e 2
+in subdomains
+global finite
+exact solution
+approximately the
+changed to
+matrix form
+with different
+2 y
+of processors
+hypercube machine
+in department
+on subdomains
+r rice
+3 4e
+to wave
+nonoverlapping subdomains
+00 and
+numbers of
+finite elements
+at purdue
+different domain
+global method
+different grid
+pde solvers
+overlapping schwarz
+and kim
+numerical results
+decomposed into
+that contain
+a parallel
+h c
+be changed
+into 16
+science at
+and scheme
+relation y
+cross points
+of domain
+the equation
+refinement techniques
+relaxation procedure
+processor takes
+our grid
+and stores
+is decomposed
+whose binary
+phenomena and
+subdomains the
+phenomena such
+and narrow
+outward normal
+among nodes
+variable coefficients
+with fine
+41 in
+that scheme
+a boundary
+discretized with
+the outward
+constant coefficients
+processors 8
+with discontinuous
+grids for
+consider example
+right boundary
+z z
+that ae
+second order
+sequence u
+recursive structure
+have similarly
+and grid
+dimensional hypercube
+domain decomposition method
+subdomain omega k
+k gamma1 d
+k d k
+of the subdomains
+scheme 1 and
+subdomains that contain
+grid modification and
+l 1 norm
+order finite difference
+x k gamma1
+domain decomposition methods
+degrees of freedom
+2 y 2
+the convection term
+and domain decomposition
+number of degrees
+of degrees of
+should be changed
+discontinuous diffusion coefficients
+3 5e 2
+in subdomain omega
+modification and domain
+fronts or layers
+2 3 5e
+having grid size
+a parallel iterative
+subdomains in which
+of subdomain omega
+the solution changes
+for capturing moving
+different numbers of
+x x x
+that ae g
+second order finite
+schwarz domain decomposition
+stores the maximum
+decomposition method with
+computes and stores
+to the convection
+domain is decomposed
+number of iterations
+the true solution
+for elliptic problems
+maximum value among
+x k 1
+y 2 y
+finite difference discretization
+number of subdomains
+grid size h
+finite difference method
+be changed to
+u n k
+which the solution
+a boundary layer
+with different numbers
+the domain decomposition
+exact solution to
+chosen such that
+approximately the same
+finite difference scheme
+the exact solution
+and stores the
+00 computes and
+domain decompositions at
+global method with
+node 00 computes
+being discretized with
+solution changes slowly
+method with grid
+in subdomains that
+science at purdue
+localized phenomena such
+iterative nonoverlapping domain
+that contain local
+side is chosen
+both scheme 1
+and node 00
+right boundary the
+with grid modification
+gamma1 d k
+of subdomains with
+local phenomena and
+nodes 00 and
+41 in case
+between and omega
+collaborating pde solvers
+subdomain number of
+the global method
+of domain decompositions
+processors 8 number
+contain local phenomena
+parallel iterative nonoverlapping
+optimal parameters by
+ff k d
+subdomains on the
+and scheme 2
+boundary layer near
+of one subdomain
+equation 19 should
+long and narrow
+the equation 21
+domain decomposition solution
+fine grids in
+decomposed into different
+different domain decompositions
+value among nodes
+19 should be
+the subdomains on
+subdomains number of
+the peclet number
+that contain fronts
+changing solution areas
+into different numbers
+errors in l
+5e 2 3
+capturing moving local
+one subdomain number
+changed to k
+for scheme 2
+non overlapping schwarz
+grid refinement techniques
+1 and scheme
+decompositions at different
+3 4e 2
+of 41 in
+is the peclet
+proof of 41
+whose binary string
+and narrow subdomains
+apply fine grids
+decomposition method based
+of each subdomain
+nonoverlapping schwarz domain
+with discontinuous diffusion
+discretized with grid
+layer near the
+equation 21 should
+moving local phenomena
+times for capturing
+for both scheme
+true solution has
+boundary the domain
+into 16 subdomains
+grids in subdomains
+numbers of processors
+numerical results for
+the domain is
+of processors 8
+procedure for domain
+near the right
+omega k we
+processor takes care
+grid size 1
+omega k and
+in department of
+applied the procedure
+and coarse grids
+21 should be
+different grid sizes
+is the outward
+sequence u n
+global finite difference
+decomposition methods have
+care of one
+that each subdomain
+numbers of subdomains
+d k gamma1
+decomposition methods using
+methods using finite
+of subdomains is
+nonoverlapping domain decomposition
+size h c
+with grid size
+the equation 19
+first order finite
+has a boundary
+coarse grids in
+the l 1
+in the l
+multi dimensional problems
+a non overlapping
+elliptic problems a
+problems a parallel
+among different processors
+for domain decomposition
+x k d
+each processor takes
+a relaxation procedure
+is decomposed into
+solution and the
+difference scheme for
+domain decomposition algorithm
+the outward normal
+relaxation procedure for
+the matrix form
+using finite elements
+d x x
+different times for
+a x k

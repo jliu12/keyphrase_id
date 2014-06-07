@@ -1,0 +1,600 @@
+mortar
+fl
+omega
+multigrid
+preconditioner
+gammac
+nodal
+nm
+pi
+jy
+subdomain
+triangles
+triangle
+multilevel
+mesh
+subdomains
+smoother
+ds
+prolongation
+triangulations
+oe
+stiffness
+vertices
+spaces
+jayadeep
+nonmortar
+inequality
+dm
+preconditioned
+pasciak
+gopalakrishnan
+lemma
+intervals
+triangulated
+delta
+sobolev
+segment
+norm
+trace
+vk
+deltak
+regularity
+align
+dmn
+nonnested
+projection
+vertex
+meshes
+oej
+lemmas
+interfaces
+endpoint
+foe
+kmk
+sub
+elliptic
+operator
+imbedding
+nonzero
+domains
+seminorm
+illustrating
+schwarz
+quasi
+interface
+coercivity
+bilinear
+triangulation
+element
+rm
+joseph
+ch
+uj
+cycle
+nested
+decay
+vanishes
+cauchy
+interpolation
+discretization
+projector
+fi
+estimates
+exp
+fix
+gamma1
+basis
+smoothing
+eigen
+continuity
+decomposition
+segments
+fl0000
+trace0
+fep
+65n55
+noninherited
+010366
+65f10
+descloux
+jjjv
+cjy
+65n30
+9626567
+koek
+825207
+patera
+galerkin
+strengthened
+preconditioners
+operators
+adjoint
+dist
+preconditioning
+suffices
+polygonal
+ff
+maday
+mortaring
+smoothings
+fy
+coarse
+proves
+broken
+bernardi
+triangu
+joej
+subspaces
+interior
+matrix
+jacobi
+transpose
+weak
+jumps
+discontinuous
+hp
+variational
+unshaded
+atp
+lying
+freedom
+conditioning
+arising
+lator
+deltaj
+arp
+boundary
+decom
+nonconforming
+smoothers
+summable
+meshed
+partitioned
+mh
+contained
+fem
+degrees
+chapter
+pictured
+approximation
+continuous
+jjj
+negativity
+coefficients
+eigenvalues
+completes
+delaunay
+kuk
+eigenvalue
+posed
+normed
+inner
+zz
+subspace
+recursively
+independently
+letting
+remainder
+nonstandard
+coincide
+approxima
+seek
+gamma2
+distributional
+lanczos
+preliminaries
+phd
+finest
+assemble
+integers
+nonsmooth
+split
+ka
+generator
+refines
+uniformly
+conforming
+satisfies
+jn
+accumulating
+the mortar
+mortar finite
+k fl
+finite element
+pi k
+m k
+sub intervals
+on fl
+element method
+i k
+gammac jy
+nm fl
+jy i
+r k
+non mortar
+fl and
+nodal basis
+omega nm
+fl v
+oe i
+v cycle
+lemma 4
+l 2
+subdomain interfaces
+interface segment
+multilevel mortar
+e k
+condition c
+element spaces
+k and
+omega d
+all u
+k g
+1 omega
+2 fl
+0 omega
+m fl
+of fl
+e e
+mortar domain
+across subdomain
+cycle preconditioner
+a k
+the stiffness
+the multilevel
+variable v
+l k
+oe l
+t k
+y i
+segment fl
+m pi
+fl 2
+omega is
+v ds
+element approximation
+u in
+lemma 5
+stiffness matrix
+vertices of
+b j
+y l
+in m
+k is
+into sub
+not align
+s omega
+the l
+c 1
+fl vk
+gopalakrishnan and
+e pasciak
+jayadeep gopalakrishnan
+z dm
+exp gammac
+e gammac
+joseph e
+prolongation operator
+basis decomposition
+by e
+omega e
+ds z
+q k
+2 projection
+f e
+omega m
+k k
+z rm
+delta out
+vk 2
+weak continuity
+foe i
+a mortar
+dm m
+the triangle
+the nodal
+v oe
+2 z
+y j
+triangle inequality
+delta delta
+fi omega
+k pi
+norm on
+each triangle
+proof of
+using 5
+of pi
+the vertices
+of triangles
+ds c
+and joseph
+multigrid theory
+fl on
+fl is
+basis functions
+triangles in
+j k
+in delta
+gamma1 omega
+k be
+s k
+k i
+multigrid for
+basis f
+k deltak
+quasi uniform
+gamma r
+sum on
+sub domains
+of lemma
+linear on
+omega k
+e here
+the mesh
+a u
+delta in
+e q
+the proof
+k a
+r fl
+illustrating the
+n fl
+j a
+of levels
+2 omega
+a delta
+a j
+inequality 5
+triangle in
+multigrid algorithm
+the sobolev
+preconditioned system
+in 5
+that kmk
+align across
+fl norm
+dmn ds
+of uj
+kmk 2
+imbedding f
+multigrid preconditioner
+nonnested spaces
+nonzero oe
+align at
+uniform of
+independently triangulated
+the nonmortar
+mortar mesh
+spaces 5
+deltak gamma1
+smoother r
+interface segments
+a prolongation
+mortar index
+delta nm
+usual finite
+z dmn
+method multigrid
+out gammac
+hierarchical preconditioner
+form on
+in l
+element discretization
+that omega
+functions in
+sum over
+a preconditioned
+fl for
+when y
+k defined
+trace of
+bilinear form
+non negative
+k gamma1
+the sub
+a multigrid
+independent of
+r ff
+fl k
+mortar finite element
+the mortar finite
+pi k fl
+finite element method
+for the mortar
+gammac jy i
+y i k
+oe i k
+k fl v
+variable v cycle
+all u in
+s k fl
+l 2 fl
+omega nm fl
+oe l k
+fl 2 z
+in m k
+u in m
+r k a
+multilevel mortar finite
+finite element spaces
+the l 2
+for all u
+the non mortar
+on fl and
+b j a
+k 1 omega
+independent of k
+j a j
+y j k
+v cycle preconditioner
+triangles in delta
+across subdomain interfaces
+gamma r k
+fl v ds
+into sub intervals
+of pi k
+omega m fl
+domain of fl
+mortar domain of
+the sub intervals
+the multilevel mortar
+m pi k
+the stiffness matrix
+condition c 1
+i gamma r
+finite element approximation
+of b j
+condition c 2
+k a k
+i k and
+a k is
+and y j
+l 2 projection
+for m k
+k k 1
+2 s k
+of k such
+k and y
+of the stiffness
+k pi k
+linear on each
+all 2 s
+k by e
+and joseph e
+gopalakrishnan and joseph
+an interface segment
+nodal basis decomposition
+element spaces are
+k fl is
+joseph e pasciak
+when y i
+y l k
+jayadeep gopalakrishnan and
+omega k k
+the weak continuity
+e gammac jy
+n fl k
+fl vk 2
+omega d and
+k fl vk
+c k pi
+basis f e
+f e k
+of m k
+m k and
+a variable v
+of lemma 4
+the triangle inequality
+ds c k
+sub intervals of
+e k g
+multigrid for the
+of size h
+on m k
+of t k
+proof of lemma
+by the triangle
+lemma 4 1
+bilinear form on
+term in 5
+k and oe
+u u for
+and oe j
+basis for m
+set of triangles
+fl and are
+lemma 4 4
+the sum on
+k is non
+in 5 12
+a delta delta
+i k is
+vertices of the
+is linear on
+i k g
+the nodal basis
+holds for all
+number of levels
+the proof of
+of h k
+problem 2 1
+u for all
+of the mesh
+the vertices of
+k and e
+by the vertices
+k g are
+independent of h
+finite element discretization
+first term on
+omega is the
+lemma 5 1
+k fl by
+a hierarchical preconditioner
+smoother r k
+k fl and
+posed on domains
+d and omega
+non mortar domain
+t k fl
+that kmk 2
+usual finite element
+sub intervals k
+one vertex on
+fix k be
+on omega d
+on fl is
+k i v
+q k gamma1
+required for application
+that k ch
+r k defined
+k ch gamma2
+at y l
+dmn ds z
+continuous on fl
+dm m pi
+multigrid theory for
+general not nested
+that omega d
+that the mortar
+need not align
+triangles form delta
+z dm m
+j k on
+subdomain interfaces are
+those sub intervals
+fl v on
+0 omega e
+value of pi
+delta in nm
+vertices y i
+proof of condition
+on each k
+exp gammac jy
+gamma1 fi omega
+e q k
+ds z rm
+v ds c
+omega d is
+contained in omega
+e e here
+by e q
+1 omega e
+k deltak gamma1
+vertex y l
+vertex on fl
+using 5 18
+schwarz inequality which
+fl on fl
+ds z dm
+l 2 orthogonal
+quasi uniform of
+each triangle of
+5 1 see
+non mortar mesh
+the mortar domain
+2 n fl
+in delta in

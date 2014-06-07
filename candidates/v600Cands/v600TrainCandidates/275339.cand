@@ -1,0 +1,600 @@
+correctors
+corrector
+detectors
+d2
+d1
+fault
+faults
+corrects
+multitolerance
+tolerance
+detector
+nonmasking
+multitolerant
+masking
+tolerant
+intolerant
+x1
+predicate
+z2
+detects
+z1
+safety
+x2
+specification
+actions
+token
+truthified
+sftr
+ptr
+ftr
+interfere
+tolerances
+u1
+liveness
+witness
+corrupted
+iff
+invariant
+action
+corruptions
+c2
+closed
+ring
+dependability
+c1
+safeness
+p1
+interfered
+stepwise
+suffix
+predicates
+dn
+interference
+safe
+compositional
+byzantine
+corruption
+anish
+progress
+composition
+arora
+dj
+falsifies
+fn
+fusion
+spec
+truthify
+closure
+f1
+specifications
+detect
+zg
+detectable
+fail
+fk
+correction
+eventually
+corrupts
+l1
+converges
+gammal
+designing
+concurrently
+atomically
+span
+fz
+detection
+ftr2
+hname
+failsafe
+undependability
+sptr
+ftr1
+xg
+guard
+likewise
+tolerates
+inadvertently
+abbreviates
+perturbed
+reaches
+hnamei
+ac
+fsg
+suffices
+suffixes
+programs
+witnessed
+c0
+suffice
+alpern
+schneider
+fu
+atomic
+mutual
+processes
+calculational
+falsified
+execute
+compositions
+enabled
+kulkarni
+exclusion
+presence
+undetectable
+wellknown
+truthifies
+ftr3
+haddr
+byz
+demirbas
+hguard
+altogether
+frg
+f2
+recovery
+lj
+stability
+fffi
+compose
+freedom
+permanent
+stop
+invariants
+satisfies
+graceful
+fli
+resettable
+classes
+sandeep
+intermittent
+false
+addr
+violates
+reset
+s2
+preserves
+augment
+executes
+detectably
+t21
+l2
+p2
+tolerate
+hff
+attie
+tbl
+hfi
+ffii
+intrusions
+t22
+mutually
+perturbations
+designed
+trivially
+sequences
+corrected
+murat
+cf
+convergence
+continues
+exclusive
+letting
+violated
+auxiliary
+circulated
+abstractions
+executing
+emerson
+distributes
+violate
+prefixes
+sequential
+repair
+gouda
+watchdog
+automotive
+formalization
+successor
+ln
+state where
+for u
+safety specification
+detects x
+a state
+fault classes
+problem specification
+the corrector
+state predicate
+closed in
+d1 and
+is true
+fault class
+tolerance to
+corrects x
+corrector at
+of d1
+z detects
+and correctors
+a corrector
+detectors and
+tolerant to
+masking tolerant
+x2 in
+and d2
+at j
+process j
+liveness specification
+x j
+of p
+the safety
+fail safe
+the program
+a detector
+x in
+of tolerance
+d1 d2
+masking tolerance
+not interfere
+in d1
+of faults
+interfere with
+z corrects
+witness predicate
+for u1
+is truthified
+in d
+x1 x2
+token ring
+of detectors
+of multitolerance
+of multitolerant
+intolerant program
+is closed
+state sequences
+d2 for
+an invariant
+then z
+to f
+problem specifications
+for s
+actions of
+invariant s
+invariant of
+any state
+the token
+state corruptions
+state predicates
+c d2
+the detectors
+where s
+starting from
+tolerant program
+detection predicate
+corrector components
+d for
+u1 x1
+detect x1
+correction predicate
+of fault
+the detector
+a program
+predicate is
+in f
+to design
+states where
+suffices that
+the fault
+p satisfies
+specification of
+c for
+in c
+the state
+safe tolerance
+of correctors
+interference freedom
+interfered by
+x1 in
+predicate x
+nonmasking tolerance
+not interfered
+s tr
+satisfies its
+d1 c
+corrector is
+ring program
+fz xg
+fault tolerances
+program ptr
+correct x1
+if z
+execution of
+design of
+composition of
+s iff
+reaches a
+tr is
+in p
+the faults
+s is
+its detection
+is corrupted
+x value
+anish arora
+design masking
+1 gammal
+fault tolerant
+each action
+progress of
+execute only
+in states
+f 1
+our method
+variables of
+all processes
+detector and
+the actions
+a computation
+predicate of
+resulting program
+tolerant for
+f1 fn
+fu zg
+of tr
+faults and
+x1 and
+of actions
+fault tolerance
+detect x2
+ffl z2
+d1 for
+z2 corrects
+detect x
+safe tolerant
+detects x1
+corrects x1
+z detect
+and z2
+fusion closure
+true every
+sequential composition
+the witness
+detects whether
+d2 is
+detector at
+correct x
+spec for
+a token
+converges to
+a fault
+true in
+faults in
+the variables
+each computation
+its safety
+p for
+of p1
+intolerant system
+fusion closed
+dependability properties
+the correctors
+nonmasking tolerant
+an intolerant
+the intolerant
+p is
+u theorem
+presence of
+the presence
+true at
+for designing
+action in
+programs designed
+suffix closed
+in dn
+every computation
+computation that
+designed by
+iff p
+u then
+c1 and
+a state where
+d for u
+detects x in
+c for u
+state where s
+is closed in
+z detects x
+the safety specification
+detectors and correctors
+s is true
+the corrector at
+d1 and d2
+the problem specification
+in c for
+in d for
+corrects x in
+tolerant to f
+x in d
+x in c
+any state where
+of d1 and
+not interfere with
+reaches a state
+tolerance to f
+then z detects
+type of tolerance
+a state predicate
+for u and
+an invariant of
+closed in p
+corrector at j
+closed in d
+ffl if z
+z corrects x
+state where u
+starting from any
+from any state
+masking tolerant to
+execution of p
+specification of p
+the variables of
+where s is
+x1 x2 in
+for s iff
+in the problem
+progress of q
+the fault classes
+the witness predicate
+f for s
+presence of f
+in states where
+presence of faults
+of all processes
+it suffices that
+does not interfere
+to f for
+in the presence
+state where x
+in the safety
+for u then
+not interfered by
+fail safe tolerance
+z is true
+d1 c d2
+invariant of p
+true at s
+yields a computation
+token ring program
+liveness specification of
+masking tolerance to
+for u1 x1
+of problem specifications
+n 1 gammal
+of p that
+a computation that
+t is true
+from a state
+each computation of
+do not interfere
+design masking tolerance
+x in q
+state where t
+is not interfered
+x is closed
+is true the
+the actions of
+interfere with the
+the presence of
+the resulting program
+x value of
+added to p
+sequential composition of
+is true at
+starting from a
+in a state
+be a state
+and liveness specification
+s tr is
+for u theorem
+variables of d1
+e in states
+closed in c
+u then z
+x2 in d1
+for u if
+if z corrects
+z detect x
+fail safe tolerant
+interfered by the
+detect x in
+e each computation
+fusion closure of
+of d1 d2
+in d1 for
+if z detects
+of state sequences
+p for u
+true every computation
+x values of
+x1 in d1
+computation of p
+continues to be
+the state of
+to f 1
+every computation of
+predicate is true
+is true and
+computation that is
+its safety specification
+actions in f
+a fault class
+be state predicates
+in d1 d2
+design of multitolerant
+u is true
+problem specification is
+of a detector
+q p for
+u theorem 5
+safety specification of
+may be perturbed
+the liveness specification
+to design masking
+the new components
+x1 x2 is
+tolerant for s
+closure and convergence
+the one at
+is in the
+of p for
+of fault tolerant
+it follows that
+the x values
+the x value
+in q p
+state predicate is
+parallel composition of
+to the fault
+execution of actions
+x j 6
+to execute only
+of x j
+for the design
+the design of
+j and k
+one at a
+a problem specification
+x2 is the
+suffix closed and
+token iff x
+p satisfies spec
+iff p satisfies
+a corrector for
+is true every
+satisfies spec for
+of a corrector
+respectively space taken
+actions of tr
+corrector at k
+x2 in c
+corrects x2 in
+x correct x
+all state sequences
+where s tr
+composition of d1
+faults in f
+the time respectively
+concept of multitolerance
+u and z2
+ensure that upon
+by c1 c2
+corrects x1 x2
+to correct x1
+correct x in
+example memory access
+is not corrupted
+is true p
+the detection predicate
+d2 for u1
+z2 corrects x1

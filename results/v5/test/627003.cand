@@ -1,0 +1,600 @@
+bank
+banks
+subbank
+subbanks
+queue
+buffering
+cycle
+port
+logical
+mp
+lbr
+unbuffered
+streams
+efficiency
+cray
+interconnection
+processor
+reference
+stride
+ports
+conflicts
+bailey
+register
+processors
+references
+stream
+strides
+loading
+buffered
+latency
+writes
+simulation
+slots
+arbitration
+dram
+conflict
+intraprocessor
+return
+memory
+simulations
+memories
+latch
+cycles
+queues
+pipeline
+reads
+throughput
+load
+read
+doubling
+physical
+ae
+bandwidth
+interreference
+skewing
+multiprocessor
+pipelined
+registers
+subsection
+predicted
+eight
+priority
+drams
+reserved
+initiate
+sram
+sohi
+agreement
+vector
+busy
+moderate
+initiation
+256
+taylor
+degradation
+vectorized
+vii
+designs
+probability
+successful
+varied
+arrived
+predictions
+attempts
+cessors
+smith
+2l
+freed
+slot
+cached
+handshaking
+seznec
+jegou
+9957
+initi
+llaberia
+quadrupled
+saturation
+buffers
+effective
+scaling
+relationships
+predicts
+issued
+held
+interleaved
+chip
+requests
+delayed
+briggs
+corral
+67
+probable
+robin
+queuing
+slower
+rate
+947
+chained
+club
+reordering
+network
+plotted
+drops
+estimated
+superscalar
+drop
+unpredictable
+circuitry
+blocked
+bus
+efficiencies
+arrive
+feedback
+ated
+compensated
+excellent
+loads
+analytical
+probabilities
+increased
+la
+2048
+del
+contention
+hit
+thrown
+filled
+ram
+sub
+succession
+conservation
+chips
+scalar
+caching
+unsuccessful
+viii
+doubled
+examined
+initiated
+1024
+subdivided
+juan
+instruction
+vectors
+request
+dramatically
+explores
+routed
+attempt
+runs
+dramatic
+versus
+pro
+tag
+hardware
+ili
+maximumlength
+9731
+equalizing
+ister
+dspa
+0118
+subishi
+toni
+hotspot
+bitration
+rambus
+temam
+ganization
+0950407
+multivector
+borderline
+diffi
+terization
+simulta
+fourths
+fan
+benchmarks
+substituted
+logical bank
+bank cycle
+cycle time
+logical banks
+reference streams
+the bank
+bank model
+the logical
+y mp
+cray y
+the efficiency
+queue size
+of banks
+the lbr
+the unbuffered
+efficiency is
+the cray
+the subbank
+a reference
+interconnection network
+the processor
+successful reference
+unbuffered case
+per logical
+vector simulation
+a queue
+the vector
+vector register
+lbr is
+the interconnection
+reference is
+the queue
+independent reference
+banks are
+banks is
+the effective
+efficiency in
+the return
+sub bank
+bailey model
+port line
+scaling relationships
+subbank cycle
+the bailey
+return conflicts
+probability that
+the memory
+e l
+the probability
+of stride
+read latency
+latency is
+reference stream
+banks in
+mp architecture
+bank level
+physical bank
+stride one
+bank is
+vector element
+vector registers
+without buffering
+return ports
+subbanks per
+effective efficiency
+reference rate
+the port
+at 5
+memory efficiency
+random reference
+the buffered
+the simulation
+a bank
+memory systems
+the reference
+a vector
+is free
+of logical
+for reads
+memory banks
+of return
+banks the
+is making
+reference on
+of reference
+a logical
+t c
+of processors
+infinite queue
+port is
+each port
+physical banks
+buffering at
+banks and
+initiation rate
+vector references
+return port
+each subbank
+of attempts
+taylor 20
+eight processors
+interconnection costs
+one vectors
+of subbanks
+register feedback
+the latch
+output buffering
+moderate loading
+plotted versus
+of memory
+memory cycle
+and taylor
+memory operations
+smith and
+t l
+design parameters
+an efficiency
+simulation study
+the physical
+a successful
+of four
+bank the
+interconnection cost
+memory performance
+efficiency of
+constant at
+a memory
+efficiency the
+time is
+fixed at
+per processor
+reads and
+reserved for
+for writes
+priority scheme
+streams is
+between reads
+memory bank
+stream is
+and writes
+processors and
+the simulations
+vector operation
+queue for
+a conflict
+four the
+one reference
+efficiency will
+the load
+simulation model
+element latency
+maximal loading
+bank register
+bank can
+vector simulations
+t la
+ports per
+by smith
+stride distributions
+port on
+return interconnection
+path simulation
+vector read
+additional lines
+bailey 1
+64 processor
+three ports
+of 67
+design criteria
+under moderate
+queue case
+bank hit
+reference attempt
+without logical
+latch is
+register lbr
+x mp
+port for
+by bailey
+same efficiency
+cray x
+data path
+doubling the
+physical memory
+access time
+cycles and
+is varied
+of load
+a simulation
+streams are
+processor can
+for random
+in efficiency
+agreement between
+register is
+probability of
+is plotted
+analytical model
+throughput is
+shared memory
+bank cycle time
+the logical bank
+the bank cycle
+logical bank model
+cray y mp
+number of banks
+the cray y
+the efficiency is
+cycle time is
+a logical bank
+queue size of
+a queue size
+per logical bank
+cycle time and
+of reference streams
+the unbuffered case
+a successful reference
+independent reference streams
+with a queue
+number of reference
+the number of
+size of four
+the bailey model
+of logical banks
+cycle time the
+the efficiency in
+cycle time of
+the lbr is
+subbanks per logical
+smith and taylor
+in the unbuffered
+subbank cycle time
+y mp architecture
+the probability that
+number of logical
+number of processors
+in the queue
+at the processor
+an efficiency of
+size of two
+memory cycle time
+logical bank cycle
+between reads and
+read latency is
+logical banks is
+when the bank
+the logical banks
+constant at 5
+of stride one
+buffering at the
+bank model is
+and taylor 20
+the vector register
+the vector simulation
+number of subbanks
+stride one vectors
+number of attempts
+the infinite queue
+is making a
+is plotted versus
+the effective efficiency
+the physical memory
+probability that a
+reads and writes
+probability that the
+queue size is
+the interconnection network
+is fixed at
+cycles and the
+the reference is
+the queue size
+of the logical
+to the processor
+a simulation study
+the processor in
+the vector registers
+reference streams and
+plotted versus the
+infinite queue case
+logical banks are
+reference streams is
+by smith and
+stream is making
+number of return
+logical banks the
+logical bank hit
+percentage of stride
+the sub bank
+the same efficiency
+data path simulation
+is free it
+cray x mp
+efficiency is plotted
+making a successful
+the cray x
+it is reserved
+the read latency
+to estimate e
+vector simulation model
+reference probability that
+as the bank
+the latch is
+a reference attempt
+per processor interconnection
+cycle time when
+when a reference
+banks in the
+a 64 processor
+a bank cycle
+logical banks to
+that a queue
+logical bank register
+on the return
+reference streams are
+at the bank
+three ports per
+logical bank is
+bank register lbr
+ports per processor
+the bank level
+reserved for t
+type of load
+held constant at
+return port for
+bank hit is
+of banks and
+the return interconnection
+for each subbank
+a reference on
+of banks is
+vector memory operations
+a vector read
+simulation study by
+the physical bank
+eight processors and
+initiate a reference
+element latency is
+without logical banks
+logical bank can
+of return ports
+the interconnection costs
+in the simulation
+in section vii
+efficiency in the
+of the vector
+reference on the
+for a vector
+of four is
+the memory cycle
+attempt to access
+reduce the effective
+of the banks
+that the stream
+on each cycle
+of four the
+in the cray
+and the number
+the probability of
+the throughput is
+the agreement between
+doubling the number
+the buffers and
+is the physical
+is reserved for
+state in which
+probability of a
+predicted by the
+free it is
+buffers and the
+and the logical
+efficiency will be
+each processor can
+the stream is
+maintain the same
+the next cycle
+design is to
+agreement between the
+time and the
+e l is
+on the cray
+the state in
+is not full
+is assumed that
+it is assumed
+be estimated as
+the load is
+over a range
+are assumed to
+as predicted by
+of a logical
+assumed to be
+on the next
+additional interconnection cost
+availability of that
+condition ffl 1
+that a free
+design criteria are
+logical bank design
+ae 5 the
+each logical bank

@@ -1,0 +1,600 @@
+hobs
+cbs
+calculus
+p1
+bisimulation
+p2
+congruence
+cand
+applicative
+howe
+broadcast
+equivalence
+lter
+ethernet
+prole
+q2
+q1
+calculi
+broadcasting
+chocs
+comp
+mutable
+jp2
+nameless
+substitutivity
+renement
+p3
+dened
+composition
+syntax
+message
+messages
+lazy
+profile
+bridges
+item
+associative
+candidate
+denition
+rec
+hears
+rts
+feed
+bridge
+encapsulation
+transaction
+t1
+subst
+weak
+encodings
+t2
+obj
+rst
+compatible
+processes
+proposition
+ambient
+token
+channel
+ltering
+int
+silent
+mobile
+closed
+transmit
+bare
+semantics
+object
+exive
+precedence
+transition
+formalism
+silence
+jp4
+jp3
+thomsen
+mcount
+subsystems
+datatypes
+transmission
+receive
+8m
+reception
+inconsistency
+ccs
+proving
+merge
+encoding
+embedding
+ocaml
+ambients
+relation
+hx
+translator
+style
+messenger
+ltered
+loopback
+mes
+specication
+coordination
+oid
+bool
+primitive
+lemma
+speaks
+behaviour
+induction
+di
+happened
+nil
+names
+monads
+lters
+sel
+secrecy
+develops
+denitions
+expressivity
+transitions
+behavioural
+propagate
+wx
+modelling
+eect
+precedes
+tw
+rule
+objects
+communication
+op
+subsystem
+r1
+transmitted
+subterms
+adaptation
+interpret
+selector
+resumed
+substitution
+database
+culties
+p4
+buer
+pervasive
+simulation
+sim
+cong
+church
+sends
+transmitter
+suspended
+notions
+trans
+partitions
+expressive
+late
+polymorphic
+locked
+culty
+join
+brie
+bisimula
+expressivness
+tauext
+jq2
+itation
+renes
+equiped
+jorgen
+foreshadowed
+ostrovsk
+gustavsson
+orderness
+substitutive
+msgext
+infilterb
+upon_detecting_reconnection
+terss
+outfilteri
+downtime
+pj0
+nically
+item_value
+outfilter
+cipients
+0since
+upon_partitioning
+upon_commiting_transaction
+ijx
+bayerdor
+infilter
+jp1
+bayerdorer
+chert
+commiting
+transitive
+concurrency
+communicating
+merged
+candidate relation
+r q1
+of hobs
+howe s
+process terms
+the calculus
+associative broadcast
+a congruence
+hobs is
+in hobs
+for hobs
+applicative equivalence
+r q2
+q1 p2
+p2 r
+rule cand
+lazy calculus
+p1 r
+compatible renement
+parallel composition
+the ethernet
+b calculus
+p p
+weak bisimulation
+broadcasting systems
+higher order
+a prole
+closed processes
+of cbs
+p1 jp2
+p1 q
+out lter
+profile operation
+of howe
+hobs and
+q2 comp
+underlying language
+the candidate
+the lazy
+on process
+standard proof
+relation r
+p1 p2
+relation on
+each object
+a relation
+renement b
+int mutable
+open extension
+in lter
+q2 r
+q1 q2
+r p
+an equivalence
+a bisimulation
+paper 14
+equivalence is
+congruence proof
+its compatible
+rec x
+denition of
+x p1
+syntax and
+extended version
+the prole
+a operation
+the standard
+calculus of
+of broadcasting
+order calculus
+of equivalence
+rst order
+terms then
+type a
+is dened
+p be
+the feed
+single nameless
+coordination formalism
+that hobs
+weak equivalence
+hobs the
+t2 happened
+nameless channel
+p1 this
+hobs can
+equivalence proposition
+p2 x
+q cand
+proving congruence
+cand sim
+applicative bisimulation
+hx p1
+weak transition
+x match
+chocs 18
+ethernet style
+p q
+on closed
+the denition
+and t2
+of associative
+bisimulation relations
+external system
+substitutivity of
+lter in
+process p1
+b r
+the item
+broadcast is
+s method
+equivalence relation
+5 receive
+p2 p3
+match x
+p2 to
+ambient calculus
+closed process
+and semantics
+to p1
+it hears
+precedence graph
+join calculus
+bisimulation in
+the bare
+database consistency
+terms its
+sub process
+p1 and
+composition and
+congruence of
+closed terms
+a bridge
+the precedence
+calculus the
+the extended
+a transaction
+and p1
+bisimulation is
+two closed
+re exive
+let r
+transition relation
+bisimulation for
+dened as
+the environment
+to point
+p 0
+a coordination
+a token
+2 rule
+out p
+contains its
+r r
+an underlying
+read data
+of bisimulation
+proof method
+have type
+p1 speaks
+real bridges
+lter construct
+wx p
+encapsulation primitives
+congruence when
+versus broadcast
+use howe
+hobs to
+construct represents
+to hobs
+messenger process
+applicative simulation
+message extension
+int profile
+nameless private
+translate messages
+modelling dynamic
+both hobs
+jp4 p2
+style broadcast
+everything it
+to cbs
+below proves
+cand ref
+receive condition
+hobs are
+lter constructs
+all bisimulation
+cand right
+op profile
+on syntax
+ltered through
+speaks to
+bool mutable
+asymmetric p2
+closed middle
+buer messages
+3 applicative
+represents out
+lters should
+the candidate relation
+r p p
+is a congruence
+q1 p2 r
+p2 r q2
+relation on process
+r q1 p2
+p1 r q1
+howe s method
+on process terms
+p p be
+let r p
+of the calculus
+the standard proof
+r q1 q2
+of howe s
+the lazy calculus
+the b calculus
+of broadcasting systems
+calculus of broadcasting
+the extended version
+of the candidate
+the paper 14
+compatible renement b
+q2 r q1
+r q2 r
+an underlying language
+candidate relation r
+higher order calculus
+a relation on
+be a relation
+extended version of
+equivalence is a
+denition of the
+the denition of
+syntax and semantics
+on closed process
+lemma 5 receive
+2 rule cand
+q1 q2 comp
+renement b r
+single nameless channel
+along the precedence
+contains its compatible
+process terms its
+x match x
+design of hobs
+applicative equivalence is
+rec x p
+match x with
+its compatible renement
+lemma 2 rule
+a coordination formalism
+two closed processes
+of associative broadcast
+candidate relation is
+closed process terms
+and t2 happened
+process terms then
+p1 q x
+r q cand
+parallel composition and
+be an equivalence
+have type a
+is an equivalence
+sub process of
+the join calculus
+of the ethernet
+is a bisimulation
+point to point
+p be a
+a rst order
+p 0 0
+is a simulation
+t1 and t2
+of point to
+a relation r
+p q 2
+in the calculus
+a calculus of
+coordination formalism called
+x with out
+int profile operation
+construct and behaves
+of cbs and
+p1 speaks to
+represents out lter
+congruence proof first
+the precedence edges
+stronger receive condition
+processes and p
+t1 read data
+process terms is
+possible encodings of
+method 10 to
+process terms r
+applicative equivalence for
+to point versus
+style of computer
+a candidate relation
+s basic development
+proving congruence of
+for an underlying
+style broadcast is
+p1 p2 x
+written by t2
+rule cand sim
+lters should be
+the weak transition
+type a operation
+dierent partitions and
+then 8m n
+p2 x r
+congruence of bisimulation
+x r q1
+3 applicative bisimulation
+equivalence proposition 5
+adds parallel composition
+inference of transition
+associative broadcast is
+it a nameless
+the ethernet the
+terms r is
+primitive higher order
+use howe s
+lter construct and
+token along the
+q then 8m
+connects p2 to
+b calculus 5
+versus broadcast communications
+of concurrent calculi
+modify the prole
+with out p
+both hobs and
+simulation and bisimulation
+everything it hears
+that lters should
+is suspended while
+howe s basic
+each object will
+objects to get
+channel connects p2
+nameless private channel
+and t1 read
+point versus broadcast
+p2 hears the
+whether a transaction
+p wx p
+a single nameless
+for hobs and
+to p1 this
+all bisimulation relations
+the feed construct
+associative broadcast 2
+substitutivity of equivalence
+busy state process
+associative broadcast algorithms
+equivalence for hobs
+higher order simulation
+a congruence when
+and p1 speaks
+an equivalence proposition
+bisimulation 2 is
+encodings of cbs
+ethernet style broadcast
+formalism called associative
+happened in one
+ignores everything it
+x p1 q
+of hobs is
+lemma 6 transmit
+the compatible renement
+a nameless private
+by the ethernet
+howe s proof
+hears the environment
+out lter in
+p on closed
+lemma 4 closed
+4 closed middle
+q1 q2 x
+rst order process
+private channel connects
+in p m
+bisimulation in functional
+p rec x
+communicating and mobile
+semantics of hobs
+p2 to p1
+the calculus 12
+for hobs is
+op profile obj
+q x p1
+can progress independently
+called associative broadcast
+adaptation of howe
+a primitive higher
+speaks to it
+hobs and the

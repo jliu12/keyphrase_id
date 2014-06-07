@@ -1,0 +1,600 @@
+hull
+convex
+inplace
+situ
+hulls
+graham
+chan
+planar
+clockwise
+vertices
+3n
+nding
+rst
+sorting
+seidel
+scan
+median
+vertex
+log
+bridge
+kirkpatrick
+slope
+insitu
+lexicographic
+megiddo
+recurses
+pq
+merging
+array
+recurse
+cient
+paired
+place
+round
+leftmost
+abscissa
+partitioning
+fpg
+nd
+stable
+2d
+discarded
+geometry
+storage
+swaps
+unprocessed
+tangent
+stack
+mergesort
+recaps
+yap
+ham
+csy
+candidates
+sort
+ultimate
+recomputing
+sorted
+jarvis
+leftward
+carleton
+comparisons
+bottommost
+recompute
+grouping
+dual
+mcgill
+snoeyink
+maximal
+tests
+fqg
+slopes
+signs
+dimensions
+computes
+partition
+implementable
+ks
+topmost
+rounds
+polar
+beginning
+js
+jsj
+extra
+modications
+separated
+stored
+nal
+brute
+swap
+245
+school
+modication
+consecutively
+trick
+intersection
+lp
+duality
+consecutive
+lines
+shuing
+5b6
+sandwich
+jiaconog
+fmorin
+engi
+explicity
+katajainen
+fhbr
+d3n
+algorithmxs
+gra
+jyrki
+neering
+sirakov
+danish
+godfried
+treesort
+9801749
+piercings
+morrisong
+k1s
+shamos
+diku
+smoothsort
+klee
+marily
+colonel
+council
+rightmost
+pseudo
+runs
+shifts
+groups
+opt
+care
+favourably
+horowitz
+vahrenhold
+undiscarded
+wenger
+cgm
+paritioning
+nikolay
+metrotech
+copenhagen
+herv
+tangents
+brnnimann
+unpaired
+intersecting
+half
+concatenation
+solves
+running
+radially
+ottawa
+pri
+endpoints
+sorts
+fig
+4e
+1125
+bhattacharya
+ordinate
+brooklyn
+dk
+11201
+indices
+phrased
+polytechnic
+1972
+cis
+polytopes
+voronoi
+sized
+dierent
+probably
+maximality
+postprocessing
+reordered
+programming
+movement
+constants
+cs
+2n
+resp
+identi
+collinear
+farthest
+medians
+sensitive
+convince
+referee
+randomized
+odd
+325
+download
+primal
+convex hull
+hull of
+the convex
+in situ
+in place
+upper hull
+convex hulls
+graham inplace
+n log
+hull algorithm
+log h
+inplace hull
+h time
+lower hull
+o n
+planar convex
+in o
+right turn
+g i
+of s
+graham s
+linear time
+log n
+in clockwise
+clockwise order
+space e
+the upper
+s 0
+upper bridge
+inplace scan
+linear programming
+the rst
+round i
+of graham
+of chan
+2d linear
+to graham
+inplace sort
+hull candidates
+lower convex
+3n 4
+turn tests
+hull computes
+programming problem
+e cient
+n time
+hull is
+hull algorithms
+hull the
+s 1
+an in
+place sorting
+kirkpatrick and
+median nding
+and seidel
+s scan
+hull vertices
+chan s
+n points
+s algorithm
+maximal elements
+the array
+the algorithm
+cient algorithms
+o 1
+hulls of
+computational geometry
+in linear
+s into
+sets s
+input points
+recurse z
+z recurse
+place implementation
+seidel s
+insitu hull
+recurses on
+z output
+situ and
+output hull
+situ algorithms
+of g
+running time
+time algorithm
+vertices of
+1 additional
+using o
+computes the
+additional memory
+array s
+hull figure
+s i
+and s
+o log
+additional storage
+practical in
+where h
+the points
+time using
+runs in
+0 s
+point set
+place and
+candidates z
+stable merging
+order beginning
+bridge problem
+median slope
+slope in
+chan inplace
+separated 2d
+abscissa x
+slope s
+computing convex
+seidel 21
+median abscissa
+elements problem
+hull z
+storage used
+points in
+sorting and
+upper or
+space efficient
+original algorithm
+s 2
+x 0
+of convex
+hull can
+four space
+place algorithms
+output sensitive
+place algorithm
+hulls in
+n additional
+of recomputing
+hull are
+n g
+call to
+right of
+for planar
+of vertices
+the line
+s h
+is on
+h 1
+n right
+scan to
+h is
+the leftmost
+the stack
+the solution
+an o
+fpg and
+storage where
+end result
+or lower
+constants in
+comparisons and
+rst half
+sorting in
+for computing
+of lines
+one call
+point p
+algorithm then
+l 0
+only o
+the partitioning
+on l
+set s
+the vertices
+we nd
+all points
+the running
+a point
+order at
+the lines
+the constants
+the pairs
+to partition
+algorithm is
+inplace lp
+leftmost vertex
+no lexicographic
+h vertices
+extra storage
+and recurses
+swaps to
+opt graham
+lp 2d
+z move
+log there
+hulls convex
+not above
+3n h
+ultimate planar
+describe four
+1 leftward
+ultimate algorithm
+turn test
+the convex hull
+convex hull of
+hull of s
+o n log
+n log h
+on the convex
+log h time
+the upper hull
+in o n
+space e cient
+graham inplace hull
+convex hull algorithm
+of the convex
+hull of g
+in clockwise order
+upper hull of
+computes the convex
+planar convex hull
+an in place
+the upper bridge
+graham inplace scan
+linear programming problem
+s 0 s
+n log n
+0 s 1
+right turn tests
+sets s 0
+hull computes the
+2d linear programming
+log n time
+convex hull algorithms
+of n points
+in linear time
+hull of a
+point of s
+planar convex hulls
+kirkpatrick and seidel
+to graham inplace
+n g i
+in place sorting
+call to graham
+lower convex hull
+and s 2
+vertices of the
+e cient algorithms
+points of s
+hull of n
+o 1 additional
+of the array
+where h is
+the array s
+in place and
+runs in o
+on the upper
+1 and s
+time in place
+convex hulls of
+practical in place
+of graham s
+in situ and
+inplace hull computes
+lower hull of
+output hull figure
+graham s scan
+lower hull candidates
+h time in
+the lower convex
+of chan s
+chan s algorithm
+in situ algorithms
+is in place
+in place implementation
+z output hull
+z recurse z
+s 1 and
+n points in
+an o n
+algorithm for planar
+points in o
+h is the
+is on the
+the input points
+the maximal elements
+o log n
+number of vertices
+the upper or
+of vertices of
+and s 1
+or lower hull
+computing convex hulls
+convex hull the
+abscissa x 0
+place implementation of
+1 additional memory
+clockwise order at
+computes the upper
+of planar convex
+upper bridge problem
+n time using
+the 2d linear
+place sorting algorithm
+additional storage where
+convex hulls in
+and seidel 21
+seidel s algorithm
+storage where h
+implementation of graham
+separated 2d linear
+maximal elements problem
+right of x
+time using o
+chan inplace hull
+convex hull vertices
+scan to compute
+cost of recomputing
+of graham inplace
+median abscissa x
+and three dimensions
+hull candidates z
+n right turn
+log n additional
+upper or lower
+hull of the
+the constants in
+algorithms for computing
+the algorithm then
+of s is
+of s 0
+elements of s
+in two and
+in place algorithms
+using o 1
+that the convex
+computing the convex
+computing the upper
+hull can be
+in place algorithm
+s h 1
+linear programming in
+convex hull are
+of x 0
+of the upper
+n time and
+of s that
+end result is
+of s into
+is the convex
+one call to
+of s and
+running time of
+time algorithm for
+is the upper
+the rst half
+the end result
+the running time
+that s 0
+the sets s
+log n 1
+beginning of the
+the solution to
+the linear programming
+and runs in
+for computing the
+two and three
+of the algorithm
+done in o
+the line of
+constants in the
+the original algorithm
+linear time algorithm
+at the beginning
+solution to the
+in the rst
+the vertices of
+appear on the
+the second half
+the resulting algorithm
+s that are
+the last element
+set of n
+is the index
+result is the
+algorithm megiddo inplace
+sampling in computational
+array s and
+log n levels
+and recurses on
+partitioning in linear
+o g i
+inplace hull theorem
+right turn test
+hull algorithms in
+or more s
+o n right
+recurses on s
+convex hull vertex
+to implement each
+call the convex
+the hull vertices
+the separated 2d

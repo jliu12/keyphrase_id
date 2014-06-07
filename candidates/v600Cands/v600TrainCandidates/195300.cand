@@ -1,0 +1,600 @@
+spis
+psc
+speckle
+spi
+specifications
+compiler
+defineunique
+unify
+clu
+discharge
+lsl
+checks
+optimizations
+abstraction
+map
+modifies
+opportunities
+specialized
+invariants
+specialize
+guards
+runtime
+procedures
+assertions
+specification
+clause
+ac
+insert
+sim
+cfg
+spots
+immutable
+mchugh
+intset
+sites
+iterators
+clauses
+proving
+client
+guard
+mutable
+hot
+lp
+dom
+larch
+ran
+bugs
+dynamicarray
+supplying
+debugging
+wrote
+commented
+gypsy
+substitution
+compilers
+equational
+supertypes
+modularity
+postconditions
+clients
+calling
+implementations
+dawson
+engler
+nine
+language
+optimize
+int
+rep
+abstractions
+precondition
+unsorted
+eliminating
+array
+postcondition
+discharging
+elem
+discharged
+env
+prototype
+code
+programs
+diagnostics
+checking
+iterator
+vars
+subtypes
+aliasing
+implementor
+tuning
+undefined
+objects
+occasions
+inefficiencies
+compile
+programmer
+unacceptably
+unfortunate
+compiling
+worked
+merely
+conjectures
+p1
+formal
+german
+anna
+axiomatic
+ut
+implications
+languages
+sound
+unnecessary
+places
+caller
+fmtv
+addnode
+insertpair
+clobbering
+grips
+integerset
+addnewnode
+pclu
+substitutiona
+wg2
+guttagg
+9115797
+unhappy
+hisgen
+ghemawat
+interfaces
+prover
+incorporates
+transformation
+duplicates
+rules
+deduce
+nil
+pascal
+supplied
+optimizing
+documentation
+wishful
+dorothy
+intlist
+fresh
+garbage
+abstract
+mit
+substitutions
+commutative
+interface
+signals
+detect
+manual
+mapping
+sorts
+deducible
+internalizes
+4es
+baden
+sounder
+overflow
+understand
+procedural
+sigsoft
+seven
+heap
+fications
+1795
+lclint
+reification
+kathy
+kohn
+wolski
+eliminates
+propagating
+lookup
+effort
+subsidiary
+dsl
+bets
+mandated
+griswold
+decorate
+mutations
+ensures
+null
+avoids
+logical
+simulates
+duplicate
+unimplemented
+yelick
+plenty
+horning
+detlefs
+vdm
+02139
+primitive
+examining
+ac unify
+map define
+of spis
+abstraction functions
+specialize when
+map defineunique
+the compiler
+in ac
+of map
+theorem proving
+low bound
+an spi
+a procedure
+guards of
+to discharge
+partial specifications
+specifications to
+runtime checks
+the guards
+mapping insert
+spis we
+runtime errors
+psc uses
+procedure specifications
+the spi
+map m
+specialized procedures
+of psc
+m dom
+proving technology
+specifications of
+proof rules
+dom d
+discharge the
+compiler to
+a compiler
+program state
+the specifications
+hot spots
+use spis
+spi of
+modifies clauses
+d ran
+spis in
+substitution store
+eliminate runtime
+spis to
+unify psc
+modifies clause
+spi compiler
+spis and
+spi compilers
+specialized implementations
+contains clauses
+data type
+array bounds
+in specifications
+formal specifications
+opportunities to
+calling context
+in m
+the program
+the client
+the specification
+spi for
+lsl specifications
+ran r
+of commented
+psc is
+the call
+checks in
+procedure call
+domain element
+specifications were
+the larch
+general one
+the code
+compiler must
+of procedures
+call sites
+of sim
+client code
+transformation rule
+the contains
+undefined in
+prototype compiler
+optimizations in
+the implementation
+improve program
+abstraction function
+merely by
+to optimize
+of specialized
+the procedures
+programming language
+of substitution
+their code
+detect all
+000 lines
+of runtime
+the abstraction
+of speckle
+clu reference
+env contains
+ensures defines
+speckle and
+spis for
+dual implementation
+spi eliminates
+spis can
+high bound
+ut interactive
+insert last
+defines r
+exploiting specifications
+representation invariants
+clu 14
+call iterator
+subtypes etc
+define map
+exists specialize
+make programs
+modularity to
+to subtypes
+using spis
+checking languages
+provide diagnostics
+six kinds
+m ensures
+about building
+tuning performance
+by psc
+ran map
+requires clause
+duplicate vars
+that spis
+checking nil
+null ran
+specifications worked
+bound check
+lookup map
+these hot
+eliminates just
+explained merely
+special when
+specialized implementation
+code map
+modifies m
+rep insert
+procedure say
+tuning when
+the modifies
+speckle the
+of mutable
+these opportunities
+from verified
+significant opportunities
+interactive prover
+spis are
+procedures psc
+supertypes to
+optimize p
+in speckle
+signals exists
+r ran
+nil checks
+psc could
+index low
+a runtime
+source language
+m figure
+debugging and
+worked well
+specifications can
+may exhibit
+invariants and
+and abstraction
+the nine
+places where
+program performance
+using psc
+for bugs
+vars figure
+bounds checking
+on specialized
+defined abstract
+generalized approach
+procedure specification
+iterator call
+e int
+and iterators
+seven lines
+general implementation
+what often
+all opportunities
+program documentation
+psc to
+verified programs
+when index
+specialized procedure
+in ac unify
+the guards of
+implementation of map
+guards of spis
+of map define
+map m dom
+psc uses the
+m dom d
+image of d
+theorem proving technology
+the program state
+to discharge the
+undefined in m
+the contains clauses
+discharge the guards
+d ran r
+the abstraction function
+ac unify psc
+in m figure
+to eliminate runtime
+building a compiler
+p s implementation
+an spi compiler
+to use spis
+eliminate runtime checks
+merely by examining
+dom d ran
+d in m
+the spi for
+the compiler to
+lines of commented
+d is undefined
+examining the code
+and abstraction functions
+the compiler must
+opportunities to use
+the client code
+the general one
+a prototype compiler
+is undefined in
+choose the appropriate
+improve program performance
+the proof rules
+to improve program
+the calling context
+the source language
+000 lines of
+in p s
+performance tuning when
+specifications of procedures
+absence of runtime
+defined abstract data
+insert last s
+set of proof
+six kinds of
+may exhibit behavior
+checking languages and
+the modifies clause
+specialize when index
+need to trade
+modifies m ensures
+map define map
+the ac unify
+make programs run
+of substitution store
+the spi of
+8 000 lines
+specialize when d
+spis can be
+guards of specialized
+the procedures containing
+approach to equational
+transformation language is
+uses the abstraction
+assignment procedure call
+these hot spots
+ut interactive prover
+be explained merely
+clu reference manual
+specifications worked well
+about building a
+map lookup map
+exploiting specifications to
+abstraction functions for
+the ut interactive
+can make programs
+bounds checking nil
+functions and invariants
+of spis we
+to subtypes etc
+and performance tuning
+would detect all
+when index low
+compiler would detect
+procedure call iterator
+specifications can make
+low bound checks
+spis to reduce
+in m returns
+verifying the absence
+last s e
+explained merely by
+clause which states
+a generalized approach
+all opportunities to
+go about building
+spis for the
+exists specialize when
+call iterator call
+use of spis
+the transformation language
+code from verified
+towards the generation
+invariants and abstraction
+assignments from supertypes
+optimization of user
+bound checking languages
+from verified programs
+interface for maps
+abstraction functions and
+in formal specifications
+checking nil checks
+spi of mapping
+p1 to optimize
+specifications to improve
+of mapping insert
+generalized approach to
+of runtime errors
+partial specifications worked
+to provide diagnostics
+supertypes to subtypes
+from supertypes to
+optimizations in ac
+rep insert last
+when debugging and
+performance that cannot
+ensures defines r
+procedures containing the
+m ensures defines
+defines r as
+a dual implementation
+of these opportunities
+duplicate vars figure
+define map m
+to optimize p
+lines to state
+runtime checks in
+signals exists specialize
+detect all opportunities
+a transformation rule
+eliminates just the
+of an spi
+index low bound
+abstraction function of
+the image of
+of d in
+optimizations such as
+optimizing array bound
+prototype compiler for
+cannot be explained
+used in p
+it may exhibit
+efficient code from
+on domain specific
+array bounds checking
+advantage of information
+level used in
+primitive to the
+at optimizing array
+programs run faster
+strategies used to
+user defined abstract
+checks that are
+of efficient code
+conference on domain
+merge and loop
+objects of the
+of a procedure
+the programming language
+debugging and performance
+of proof rules
+level optimizations such
+basis for computer
+call sites of
+dawson r engler
+pre and postconditions
+an axiomatic basis
+out of loops
+axiomatic basis for
+look at optimizing
+tools for formal
+defined in m
+inconsistent with each
+of the call
+of the type
+code that uses
+the optimizations in
+programming language it
+for formal specification
+built a prototype

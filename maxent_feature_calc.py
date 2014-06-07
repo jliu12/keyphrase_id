@@ -81,11 +81,11 @@ class FeatureCalculator:
 		keyphrase_len = self.ft_keyphrase_len(candidate)
 		feature_dict = keyphrase_len
 
-		#first_occurrence = self.ft_first_occurrence_position(candidate)
-		#feature_dict.update(first_occurrence)
+		first_occurrence = self.ft_first_occurrence_position(candidate)
+		feature_dict.update(first_occurrence)
 
-		#last_occurrence = self.ft_last_occurrence_position(candidate)
-		#feature_dict.update(last_occurrence)
+		last_occurrence = self.ft_last_occurrence_position(candidate)
+		feature_dict.update(last_occurrence)
 
 		#tfidf = self.ft_tfidf(candidate)
 		#feature_dict.update(tfidf)

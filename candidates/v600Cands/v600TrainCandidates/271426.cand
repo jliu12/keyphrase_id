@@ -1,0 +1,600 @@
+border
+spins
+quad
+cluster
+ising
+4d
+bonds
+swendson
+labeling
+clusters
+2d
+spin
+lattice
+optimizations
+3d
+bubble
+belkhale
+borders
+region
+bond
+ccomp
+lparx
+identification
+multidimensional
+configurations
+compression
+subcritical
+labels
+processor
+supercritical
+locality
+processors
+banerjee
+lattices
+stage
+hypercube
+dimensions
+68x68x34x34
+pdn
+elimination
+wang
+stages
+merged
+regions
+criticality
+host
+mergers
+relaxation
+paragon
+union
+monte
+bubbles
+site
+dimensionality
+carlo
+bauernfeind
+coddington
+4680x4680
+280x280x280
+slowing
+surface
+scaled
+cheese
+label
+spans
+dynamics
+baillie
+critical
+exploit
+volume
+spatial
+plane
+lists
+span
+neighboring
+mimd
+swiss
+merge
+simulations
+intel
+merging
+vlsi
+toroidal
+configuration
+message
+dimensional
+fink
+bfs
+manhattan
+connectivity
+transitions
+bottleneck
+passing
+1d
+partner
+runs
+speedup
+extraction
+rectangles
+extraneous
+touching
+sides
+cache
+decompositions
+compressed
+messages
+coupling
+dimension
+phase
+parallelization
+physics
+succession
+multiprocessor
+global
+sparse
+sigma1
+log
+sites
+doubles
+permeate
+585x585
+magnets
+2dpn
+kappa1
+mino
+70x70x70
+17x17x17x17
+scaleup
+circuit
+hierarchical
+ideal
+grows
+hyperplane
+touch
+spatially
+abstracts
+strip
+communicates
+overlap
+adjacent
+multigrid
+flanigan
+linearizes
+perturbative
+paralleliza
+perfomance
+disorder
+tamayo
+manages
+merges
+abstract
+leaving
+simplifies
+breakdown
+statistical
+compress
+mechanics
+nonuniversal
+relativistic
+namics
+hypercubic
+sigapp
+baden
+dclock
+breadth
+neighbors
+bytes
+physicists
+dynam
+percolation
+accesses
+managed
+topology
+decompressed
+configu
+connected
+overflowing
+liquids
+precluding
+communication
+sequential
+blockwise
+32mb
+debugged
+ackerman
+combining
+propagation
+mizations
+rations
+resembling
+amdahl
+traversing
+111
+interspersed
+proportional
+steady
+flipped
+liquid
+osf
+preprocessing
+information region
+quad algorithm
+cluster identification
+ising model
+3d and
+information regions
+bubble elimination
+border compression
+and 4d
+component labeling
+swendson wang
+cluster configurations
+the quad
+in 2d
+the border
+border lists
+global combining
+union find
+the cluster
+global domain
+the optimizations
+d dimensional
+in 4d
+belkhale and
+the ising
+local labeling
+of spins
+in 3d
+a border
+and banerjee
+each processor
+and border
+cluster configuration
+2d 3d
+cluster algorithm
+p stages
+multidimensional quad
+spin site
+s quad
+dimension independent
+border of
+surface area
+two dimensions
+connected component
+log p
+the global
+wang dynamics
+of bonds
+bonds in
+banerjee s
+host node
+clusters are
+each stage
+the swendson
+circuit extraction
+border list
+model simulations
+set labels
+ccomp set
+problem dimensionality
+local update
+the ccomp
+border bonds
+connectivity information
+2d the
+a bond
+small clusters
+distributed memory
+scaled speedup
+labeling algorithm
+find data
+of border
+optimizations improve
+two optimizations
+are merged
+the information
+in cluster
+phase transitions
+an information
+two information
+with sides
+the multidimensional
+2 dimensions
+identification problem
+large clusters
+s information
+than two
+the surface
+pdn d
+bonds on
+cluster algorithms
+4d for
+global stage
+region spans
+spins is
+borders are
+spins in
+global lattice
+with swendson
+merge clusters
+all spins
+neighboring spins
+vlsi circuit
+optimizations to
+a hypercube
+borders of
+of union
+current information
+a processor
+critical slowing
+region data
+each bond
+cluster labeling
+hypercube multiprocessor
+bond between
+identification on
+identification algorithms
+large cluster
+20 80
+2d lattice
+volume ratio
+multidimensional extension
+scaled together
+combining time
+the bonds
+cluster labels
+labeling method
+message passing
+performance results
+2 locality
+spin models
+a spin
+1 locality
+to volume
+regions are
+processor q
+improve performance
+by 20
+region are
+across processors
+find operations
+critical region
+entire global
+effectively exploit
+cluster merging
+monte carlo
+of locality
+processor s
+border in
+dimensional global
+for spin
+to label
+clusters in
+stage each
+hypercube with
+problem size
+a d
+runs in
+its information
+for connected
+parallel efficiency
+lattice of
+span the
+of connected
+a 2d
+type 2
+data structure
+the lattice
+slowing down
+performance by
+the 3d
+a dimension
+of processors
+the 2d
+clusters that
+for cluster
+4d ising
+extraneous spatial
+2d borders
+bonds between
+present optimizations
+ideal scaled
+away extraneous
+uniform scientific
+compute bonds
+border rectangles
+both relaxation
+sequential labeling
+image component
+abstract dimension
+carlo ising
+labeling step
+spins for
+model cluster
+coupling constant
+for supercritical
+border this
+dimensions than
+of belkhale
+3d ising
+the information region
+the quad algorithm
+3d and 4d
+in 3d and
+connected component labeling
+the ising model
+an information region
+belkhale and banerjee
+of the quad
+than two dimensions
+log p stages
+the surface area
+quad algorithm for
+and banerjee s
+banerjee s quad
+the cluster identification
+2d 3d and
+information regions are
+the multidimensional quad
+swendson wang dynamics
+s quad algorithm
+multidimensional quad algorithm
+the global domain
+in 2d the
+current information region
+information region are
+optimizations improve performance
+s information region
+ising model simulations
+the optimizations improve
+the swendson wang
+two information regions
+vlsi circuit extraction
+performance by 20
+information region is
+the cluster algorithm
+cluster identification problem
+and border compression
+in more than
+union find data
+a d dimensional
+the cluster configuration
+more than two
+improve performance by
+of connected component
+of union find
+of the information
+find data structure
+border of the
+information region spans
+entire global domain
+for vlsi circuit
+elimination and border
+the border bonds
+for spin models
+a border of
+bubble elimination and
+type 1 locality
+for connected component
+with swendson wang
+the border lists
+surface area to
+of bonds on
+a bond between
+hypercube with sides
+3d and 0
+cluster identification on
+volume ratio is
+algorithms for spin
+number of border
+cluster identification algorithms
+by 20 80
+cluster configurations the
+its information region
+the ccomp set
+a border list
+d dimensional global
+information region for
+area to volume
+ccomp set labels
+type 2 locality
+optimizations to exploit
+region spans the
+global combining time
+processor s information
+in 4d for
+bonds in the
+information region data
+the problem dimensionality
+border bonds in
+in 2d 3d
+the two information
+the local labeling
+the d dimensional
+a distributed memory
+at each stage
+of an information
+stage each processor
+span the entire
+on a border
+critical slowing down
+d 2 dimensions
+a dimension independent
+one large cluster
+of the ising
+than in 2d
+a hypercube multiprocessor
+to volume ratio
+regions are merged
+is a bond
+spans the entire
+the current information
+the critical region
+union find operations
+types of locality
+number of union
+the entire global
+communication and computation
+on a hypercube
+of the plane
+on the border
+borders of the
+gamma 1 dimensional
+at stage i
+the bottleneck in
+surface area of
+size and number
+in each stage
+number of processors
+is a d
+a processor s
+quad algorithm 1
+site the border
+two optimizations to
+model cluster configurations
+processor labels the
+simulations with swendson
+cluster algorithms for
+ising model can
+in ising model
+carlo ising model
+circuit extraction on
+may span the
+information region border
+2d 3d 4d
+d ff pdn
+dimensional global lattice
+independent manner this
+quad algorithm and
+a 2d lattice
+and present optimizations
+the basic quad
+good parallel efficiency
+problem dimensionality in
+4d ising model
+ising model cluster
+the entire plane
+model simulations with
+critical cluster configurations
+present a multidimensional
+labeling that arises
+for geometric connected
+compute bonds between
+ising model and
+of locality present
+local partition of
+clusters that span
+configurations exhibit type
+the two optimizations
+2d lattice of
+exploit cluster locality
+the bonds touching
+arises in cluster
+a toroidal topology
+information region borders
+cluster configurations and
+identification on a
+labels across processors
+for multidimensional lattices
+2d quad algorithm
+implement in d
+and 4d with
+monte carlo ising
+adjacent lattice points
+dimensional information regions
+variant of connected
+cluster identification step
+geometric connected component
+image component labeling
+global combining is
+p stages the
+of belkhale and
+algorithm takes log
+processor q 1
+of spins is
+all runs are
+and coddington consider
+optimizations work with
+structures are managed
+0 111 in

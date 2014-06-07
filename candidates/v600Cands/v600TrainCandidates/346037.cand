@@ -1,0 +1,600 @@
+pic
+vmt
+pics
+inline
+latte
+inlining
+inlined
+stub
+getfield1
+java
+jit
+monomorphic
+virtual
+vmts
+retranslation
+caches
+site
+javac
+mics
+feedback
+calls
+fail_handler
+g3
+g1
+jess
+counting
+mpegaudio
+polymorphic
+sites
+mtrt
+o7
+mov
+jack
+267
+specjvm98
+megamorphic
+228
+g2
+213
+translated
+019
+cache
+compiler
+compress
+jump
+receiver
+540
+222
+bne
+mic
+dispatcher
+ebcio
+prole
+indirect
+target
+congurations
+800
+translation
+benchmark
+o0
+227
+stubs
+urs
+holzle
+036
+486
+nop
+kemal
+oset
+obj
+895
+711
+269
+ld
+769
+728
+693
+367
+eect
+inlines
+cmp
+526
+threshold
+miss
+shared
+498
+checking
+dominant
+overhead
+checks
+reordering
+bytecode
+dierent
+dispatching
+int
+480
+266
+030
+frequent
+aigner
+field3
+next2
+field1
+field2
+periodic
+114
+dierence
+265
+invocation
+576
+programs
+eective
+next1
+32bit
+fixup
+encoun
+366
+feed
+overheads
+vm
+1000
+tf
+tered
+loads
+speedup
+856
+code
+compilation
+count
+981
+980
+repetitively
+hotspot
+misses
+sethi
+style
+lo
+202
+570
+209
+register
+507
+crease
+008
+encountered
+superclass
+conditional
+tables
+579
+488
+025
+578
+gerald
+536
+790
+load
+object
+slot
+median
+517
+aected
+020
+rst
+429
+358
+check
+excluded
+pointer
+self
+ods
+runtime
+opportunities
+optimizations
+chapter
+meth
+statically
+380
+entries
+359
+receivers
+reordered
+vtm
+benchhmarks
+timizaing
+tyeps
+inlineable
+45392
+trampoline
+geomean
+indexof
+indix
+getfield1s
+possiblility
+virtuals
+3201
+smalleiel
+monomoprhic
+24326
+fixupfailedcheckfrompic
+getfield3
+type feedback
+virtual calls
+inline caches
+pic stub
+call site
+inline cache
+target method
+stub code
+virtual call
+a pic
+virtual method
+polymorphic inline
+jit compiler
+228 jack
+213 javac
+267 1
+counting pics
+of type
+be inlined
+a vmt
+of pics
+monomorphic inline
+checking code
+1 267
+1 800
+call sites
+translation time
+type checks
+v call
+222 mpegaudio
+check inlining
+caches and
+of virtual
+in java
+800 1
+of pic
+227 mtrt
+of inlined
+non shared
+type checking
+the call
+type check
+of latte
+019 1
+address check
+inlined virtual
+conditional inlining
+latte pic
+the vmt
+1 019
+a call
+class a
+total count
+pic is
+1 269
+calls are
+1 540
+inlined with
+a getfield1
+by pic
+the jit
+pic stubs
+direct jump
+translated method
+1 367
+vmt g3
+prole information
+indirect jump
+time constant
+and type
+counting version
+method calls
+some programs
+the pic
+method inlining
+performance impact
+shared version
+1 265
+693 1
+the retranslation
+pic compress
+vmt style
+retranslation threshold
+266 1
+non counting
+1 486
+498 1
+526 1
+pics latte
+call means
+jess 1
+480 1
+target methods
+12 036
+benchmark pic
+megamorphic sites
+1 895
+shared counting
+728 1
+1 711
+711 1
+jack 1
+pic c
+1 526
+1 769
+1 266
+1 728
+1 693
+method dispatcher
+cmp g2
+367 1
+a virtual
+means the
+count of
+class c
+most programs
+1 480
+virtual methods
+kemal ebcio
+inline the
+540 1
+checks with
+instance methods
+265 1
+1 114
+is dominant
+the inline
+method call
+of inline
+1 498
+to inline
+an indirect
+compress 1
+with type
+the target
+address of
+inlining and
+call address
+oset n
+type feed
+index g1
+call overheads
+269 228
+mov o7
+urs holzle
+1 576
+and 213
+check misses
+486 1
+114 1
+receiver type
+g3 lo
+counting pic
+366 1
+receiver types
+shared pic
+vmt vmt
+periodic version
+g3 cmp
+pic p
+over vmts
+pics and
+vmt pointer
+many call
+1 366
+pics are
+036 12
+the specjvm98
+or g3
+of monomorphic
+895 1
+ld o0
+and pic
+030 1
+inlining heuristic
+feedback in
+average number
+calls in
+method table
+and class
+method is
+of class
+method invocation
+the eect
+1 030
+inlined only
+type test
+adaptive compilation
+jess and
+a monomorphic
+java vm
+counting code
+g2 g3
+576 1
+inlining are
+style code
+by inlining
+202 jess
+eect of
+translated into
+inline caches and
+pic stub code
+of virtual calls
+a call site
+1 267 1
+of type checks
+the target method
+a pic stub
+of type feedback
+and type feedback
+caches and type
+virtual calls are
+the call site
+type checking code
+number of type
+polymorphic inline caches
+number of inlined
+1 800 1
+the total count
+total count of
+monomorphic inline caches
+800 1 800
+translation time constant
+means the total
+inlined virtual calls
+1 019 1
+in a pic
+for a call
+can be inlined
+a translation time
+of inlined virtual
+type feedback in
+the pic stub
+an indirect jump
+1 266 1
+526 1 540
+call means the
+shared counting pics
+1 265 1
+267 1 269
+virtual method calls
+019 1 019
+228 jack 1
+a virtual method
+type checks with
+1 480 1
+728 1 769
+1 711 1
+1 693 1
+498 1 526
+a virtual call
+address check inlining
+711 1 728
+a vmt g3
+1 526 1
+benchmark pic compress
+be inlined with
+target method is
+pics latte pic
+eect of type
+of inline caches
+693 1 711
+pic compress 1
+1 367 1
+of type check
+1 498 1
+the jit compiler
+1 728 1
+480 1 498
+a and class
+the inline cache
+1 540 1
+class a and
+of class a
+performance impact of
+is a translation
+call site is
+virtual call overheads
+895 1 895
+g3 cmp g2
+pointer of class
+or g3 lo
+we can inline
+jess and 213
+type check inlining
+count of virtual
+vmt style code
+1 030 1
+a counting pic
+1 895 1
+12 036 12
+cmp g2 g3
+vmt pointer of
+1 576 1
+monomorphic inline cache
+367 1 367
+one target method
+type check misses
+type feed back
+can inline the
+many call sites
+and 213 javac
+non counting version
+characteristics of virtual
+269 228 jack
+virtual call sites
+call address of
+of a getfield1
+inlined with type
+540 1 480
+1 269 228
+1 366 1
+114 1 114
+vmt g3 cmp
+vmt vmt pointer
+virtual method table
+the virtual method
+1 114 1
+non shared counting
+036 12 036
+1 486 1
+number of entries
+the eect of
+for most programs
+average number of
+methods for a
+202 jess and
+only one target
+and class c
+with type checking
+virtual method call
+a polymorphic inline
+checks in a
+polymorphic inline cache
+calls are handled
+type checks in
+method calls in
+just in time
+the performance impact
+are handled by
+translated into a
+address of a
+achieve a speedup
+for some programs
+table v call
+vmt pointers bne
+translated yet and
+than two target
+359 1 267
+1 790 1
+of monomorphic inline
+264 1 265
+method inlining are
+variations of pics
+366 1 367
+120 1 359
+by type feedback
+possible methods are
+in crease in
+are equal mov
+compare two vmt
+speci kemal ebcio
+detailed type checking
+problem experienced by
+227 mtrt which
+a non shared
+the possible methods
+sethi hi a
+578 1 576
+count of type
+except for 213
+to inline virtual
+code translated method
+two vmt pointers
+inline caches can
+1 769 jess
+790 1 693
+benchmark v call
+769 jess 1
+of pic is
+in the vmt
+type feedback and
+placed at oset
+inline the call
+mov g1 o7
+their performance impact
+load 32bit constant
+using type feedback
+java vm just
+90 of virtual
+check inlining and
+222 mpegaudio 10
+to be inlined
+1 579 1
+1 488 1
+1 359 1
+g2 g3 compare
+call s target
+pics maximum number
+the reordering is

@@ -1,0 +1,600 @@
+stack
+k0
+deconstruction
+mercury
+v0
+t0
+l0
+eld
+r0
+cell
+loads
+ush
+slot
+anchor
+load
+maximal
+slots
+rst
+benets
+segment
+benet
+stores
+switch
+compiler
+store
+unmatched
+heap
+threshhold
+live
+unication
+ab
+accessing
+alternating
+matching
+disjunct
+arm
+clone
+denition
+rb
+bc
+anchors
+bipartite
+dierent
+candidate
+registers
+loading
+eect
+dodgy
+rc
+branched
+ce
+register
+rematerialization
+deconstructions
+segments
+costs
+opr
+paths
+augmenting
+optimization
+bd
+disjunction
+mmc
+unmarked
+reachable
+interval
+icfp2000
+ieldv
+arstorecost
+deconstructs
+arloadcost
+mc
+accesses
+a1
+ve
+determinism
+body
+clones
+immutable
+generator
+vars
+nd
+storing
+ushed
+b2
+c2
+prolog
+substitution
+transformation
+c1
+elds
+path
+loaded
+matched
+disjunctions
+predicate
+compress
+125
+backend
+cache
+node
+atomic
+apr
+clobber
+threshholds
+decon
+cellv
+r0g
+fstore
+8815
+nuc
+opt
+150
+predicates
+calls
+ray
+benchmark
+slowdown
+speedup
+copies
+nodes
+cells
+elses
+ushes
+clobbered
+wam
+matchings
+executable
+arms
+mb
+thresholds
+speedups
+backtracking
+accessed
+intervals
+mode
+frames
+destructively
+access
+a2
+vari
+ratio
+133
+instruction
+sinking
+frame
+c3
+jm
+eects
+worthwhile
+dead
+reaches
+goals
+compound
+candidates
+stall
+ll
+cient
+transformed
+seven
+interdependence
+kinds
+b1
+slowdowns
+signicant
+traversal
+execution
+dened
+partitions
+junctions
+benefit
+execute
+hazard
+else
+nding
+marked
+pointed
+struction
+spilling
+compilation
+disjuncts
+compilers
+slows
+allocation
+syntax
+succeed
+isn
+virtually
+doesn
+dene
+incur
+misses
+code
+prefer
+instructions
+maybe
+stacks
+pipeline
+eectively
+savings
+stack slot
+cell variable
+eld variables
+stack slots
+the stack
+eld variable
+the cell
+k0 v0
+maximal path
+the deconstruction
+l0 r0
+alternating path
+v0 l0
+loads and
+the mercury
+maximal paths
+mercury compiler
+load k0
+slot optimization
+anchor of
+maximal matching
+stack optimization
+right anchor
+via b
+check k0
+benet nodes
+the optimization
+the rst
+one store
+the eld
+a maximal
+node ratio
+switch on
+procedure body
+an alternating
+execution takes
+arm of
+start of
+optimization graph
+the call
+load t0
+r0 load
+t0 k0
+four stores
+store k0
+the program
+the switch
+via the
+1 store
+path through
+path node
+on result
+our optimization
+cost nodes
+matching m
+a eld
+the start
+and four
+and stores
+loads between
+ush points
+r0 store
+bc ce
+left anchor
+ab bc
+ratio threshhold
+variable via
+code generator
+load t
+accessing a
+the compiler
+heap cell
+generator must
+live after
+stack frame
+the code
+four loads
+of stack
+the matching
+candidate variable
+seven loads
+ush all
+must ush
+type 1
+the benet
+variables to
+if execution
+initial segment
+access via
+cost v
+v t0
+own stack
+a stack
+k v
+load of
+that stack
+the procedure
+the heap
+parameter values
+one path
+ab be
+stack accesses
+2 mc
+the transformation
+in stack
+when execution
+a via
+a cell
+then else
+load l0
+variable loads
+stack ush
+k0 load
+an unmatched
+cell pointed
+k0 check
+v0 3
+clone deconstruction
+l0 load
+candidate eld
+of via
+branched control
+benefit v
+execution reaches
+all path
+optimization can
+stores of
+variable from
+transformed program
+each maximal
+bipartite graph
+if then
+load k
+second arm
+costs benefits
+rst interval
+atomic goals
+ce ab
+a deconstruction
+loaded value
+deconstruction we
+into registers
+node in
+the interval
+slot to
+path from
+stores to
+a bipartite
+execution algorithm
+of eld
+be cache
+in rb
+to access
+an if
+loads of
+a register
+augmenting paths
+mc to
+the unmarked
+f via
+and r0
+access a
+matching algorithm
+are live
+the variables
+result then
+a switch
+stack frames
+we access
+of mercury
+call to
+variables that
+after the
+segment i
+candidate set
+and ab
+of loads
+variables in
+the stores
+optimization will
+variable f
+of stores
+accessed via
+type 3
+via stack
+three loads
+ab bd
+deconstruction b
+starts of
+v0 costs
+deconstruction t0
+on executable
+atomic goal
+its eld
+that eld
+net v
+variable instead
+150 125
+2 r0
+l0 1
+the cell variable
+via the cell
+k0 v0 l0
+v0 l0 r0
+stack slot optimization
+an alternating path
+maximal path through
+the stack optimization
+the mercury compiler
+a maximal path
+the procedure body
+arm of the
+anchor of the
+and one store
+to the stack
+on the stack
+the start of
+the right anchor
+a stack slot
+switch on result
+stack optimization graph
+loads and four
+execution takes the
+right anchor of
+alternating path from
+a eld variable
+of the switch
+loads and stores
+and four stores
+the eld variables
+load t 0
+the code generator
+code generator must
+of the deconstruction
+live after the
+eld variable via
+ab bc ce
+path node ratio
+node ratio threshhold
+accessing a via
+if execution takes
+the left anchor
+load k0 v0
+is an alternating
+the initial segment
+a via b
+number of stack
+the switch on
+path through the
+a maximal matching
+the one path
+variable via the
+loads and one
+generator must ush
+seven loads and
+on result then
+load t0 k0
+each maximal path
+stack slot to
+l0 r0 load
+must ush all
+after the call
+if then else
+bipartite graph g
+start of the
+start of a
+the matching algorithm
+of the eld
+path from c
+from c to
+an if then
+bc ce ab
+all path node
+optimization graph for
+one path node
+load k0 check
+that stack slot
+load k v
+k v t0
+instead of via
+the eld variable
+in stack slots
+load of b
+cell pointed to
+f via the
+a cell variable
+to be cache
+loads between b
+left anchor of
+2 mc to
+candidate eld variables
+r0 store k0
+node in rb
+k0 check k0
+store k0 load
+sets of parameter
+the call to
+of the cell
+a bipartite graph
+in the procedure
+own stack slot
+from some c
+path from some
+the rst interval
+the second arm
+the loaded value
+call to compare
+when execution reaches
+nodes in c
+execution reaches the
+accessed via the
+variables that are
+in the stack
+is the start
+the value of
+of parameter values
+at the start
+for each maximal
+the load of
+between b and
+program in figure
+of a variable
+variables to the
+the c compiler
+on executable size
+ten loads and
+four loads and
+via b is
+v0 1 store
+maximal matching of
+v0 costs benefits
+the elds of
+k0 load v0
+rst arm of
+anchor of an
+of variables needed
+if we access
+all maximal paths
+l0 2 r0
+variable loads and
+interval before the
+load v0 1
+clones of the
+l0 r0 store
+b 2 rb
+eld variable is
+the benet nodes
+three loads between
+store l0 load
+eld variables are
+third arm of
+type 1 loads
+after the deconstruction
+be the stack
+via the stack
+that eld variable
+store v0 costs
+and ab be
+interval in segment
+load r0 1
+the rst arm
+l0 1 store
+of a branched
+cell variable instead
+takes the rst
+of eld variables
+load and one
+control structure the
+via stack slots
+a branched control
+is input and
+store r0 store
+1 store l0
+l0 load r0
+four loads between
+cell variable loads
+2 r0 2
+its stack slot
+an atomic goal
+its eld variables
+ab bd de
+access via the
+the third arm
+cell variable b
+the starts of
+1 store r0
+result then we
+to access via
+r0 1 store
+de and ab
+the all path
+branched control structure
+of stack slots
+goal may be
+dodgy k0 v0
+load l0 1
+1 store v0
+one load and
+to be ushed
+and four loads

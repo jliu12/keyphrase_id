@@ -1,0 +1,600 @@
+supernode
+superlu
+actor
+factorization
+pivoting
+t3e
+t3d
+sparse
+subrow
+blas
+mflops
+lu
+amalgamation
+subcolumn
+dense
+scaleswap
+nonzero
+symbolic
+rapid
+dgemm
+parallelism
+2d
+update
+structurally
+submatrix
+asynchronous
+jpwh991
+subcolumns
+overestimation
+submatrices
+scheduling
+processor
+column
+processors
+pivot
+mod
+supernodes
+matrices
+goodwin
+row
+dgemv
+nonzeros
+kk
+interchange
+elimination
+gflops
+sherman3
+tasks
+rno
+partitioning
+cray
+sherman5
+irregular
+overlapping
+cholesky
+fill
+nonsymmetric
+ins
+matrix
+ij
+my
+cno
+cbuffer
+rbuffer
+ahead
+schedule
+megaflops
+bsize
+static
+lop
+unsymmetric
+block
+kj
+sequential
+ur
+updating
+balance
+code
+multifrontal
+ibuffer
+pbuffer
+buffer
+rows
+pc
+xiaoye
+numerical
+competitive
+5600
+b33
+subroutines
+ca
+owns
+pr
+mapping
+gepp
+shmem
+granularities
+task
+caching
+megaflop
+rma
+ratios
+proc
+interchanges
+gaussian
+umfpack
+dags
+dependence
+diagonal
+triangular
+upgraded
+878
+mbytes
+exploiting
+nonzerog
+vavasis3
+dense1000
+compound
+memory
+interprocessor
+communication
+parallelization
+codes
+ik
+structures
+e40r0100
+expose
+transversal
+demmel
+load
+64
+floating
+blocks
+spmd
+remote
+raefsky4
+delayed
+scalable
+multicasting
+multicast
+128
+cache
+ex11
+orsreg1
+meiko
+lops
+conducted
+utilize
+supernodal
+owned
+stages
+parallelize
+execute
+48
+exploitation
+completed
+extra
+communicated
+overlapped
+routine
+machines
+tested
+columns
+buffering
+owner
+outperforms
+655
+exploit
+speedups
+degree
+ordering
+583
+excellent
+factors
+prediction
+duff
+balancing
+executed
+frontal
+denser
+parallelizing
+cyclic
+fly
+05
+listed
+overhead
+receive
+overestimate
+entries
+388
+synchronization
+corollary
+68
+pt
+finished
+grained
+moment
+bigger
+hierarchies
+swapping
+f actor
+update 2d
+d code
+actor k
+symbolic factorization
+sparse lu
+rapid code
+column block
+2 d
+static symbolic
+supernode partitioning
+2d k
+processor column
+overlapping degree
+structurally dense
+graph scheduling
+k mod
+data mapping
+the pivoting
+blas 3
+1 d
+this processor
+pivoting sequence
+dense structures
+supernode amalgamation
+d rapid
+update k
+partial pivoting
+on t3d
+u supernode
+the rapid
+d data
+on t3e
+for sparse
+mod pc
+task update
+l kk
+compute ahead
+irregular parallelism
+lu factorization
+the 2
+l u
+numerical factorization
+p c
+u factor
+sequential code
+testing matrices
+2d s
+d asynchronous
+with partial
+a supernode
+block k
+sparse matrix
+u partitioning
+u factors
+of blas
+d codes
+blas 2
+mod pr
+asynchronous code
+step k
+fill ins
+the static
+mflops time
+task f
+parallel sparse
+load balance
+nonzero blocks
+structures of
+sparse gaussian
+parallel time
+processor row
+2d tasks
+u kj
+subcolumn k
+scaleswap k
+subrow t
+superlu code
+my rno
+time mflops
+a processor
+distributed memory
+in column
+is structurally
+processors in
+t3d and
+competitive to
+zero free
+free diagonal
+cray t3d
+a sparse
+column blocks
+balance factor
+row interchange
+memory machines
+of column
+of sparse
+submatrices in
+gaussian elimination
+code performance
+gflops on
+column m
+a ij
+the 1
+u ij
+asynchronous execution
+row t
+p r
+pivoting choices
+updating stages
+t3d or
+code proc
+my cno
+degree within
+lu algorithm
+or t3e
+dense subcolumns
+local nonzero
+numerical updates
+ca code
+nonzero fill
+the ca
+caching performance
+perform task
+the overestimation
+code with
+k j
+d l
+s approach
+pivoting is
+th column
+buffer space
+mod p
+the symbolic
+column 0
+for superlu
+exploiting irregular
+on update
+elimination process
+the overlapping
+p k
+cholesky factorization
+factorization with
+and u
+still working
+tested matrices
+row m
+matrix a
+sparse cholesky
+degree is
+fill in
+candidate pivot
+pr k
+the nonzero
+pivot rows
+row interchanges
+the numerical
+factorization we
+code is
+space complexity
+elimination with
+on cray
+all processors
+scheduling and
+the l
+on distributed
+pivoting on
+of nonsymmetric
+pivot row
+the pivot
+each processor
+overestimation ratios
+p my
+benchmark matrices
+nonzero structures
+single f
+3 subroutines
+subcolumn or
+delayed row
+ca schedule
+dense subcolumn
+subrow m
+scaleswap s
+rows according
+sec mflops
+identify dense
+t3e is
+the subcolumn
+pivoting operations
+asynchronous 2
+t3e node
+u part
+interchange rows
+6 878
+d ca
+the subrow
+ur k
+execute update
+dense structure
+b33 5600
+f actor k
+2 d code
+the 2 d
+update 2d k
+static symbolic factorization
+d data mapping
+the rapid code
+a processor column
+1 d rapid
+the pivoting sequence
+the 1 d
+the static symbolic
+l u supernode
+processors in column
+u supernode partitioning
+with partial pivoting
+sparse lu factorization
+d rapid code
+update k j
+d l u
+column block k
+1 d data
+update 2d s
+k mod pc
+2 d asynchronous
+2 d l
+within a processor
+of the rapid
+l and u
+the symbolic factorization
+task f actor
+overlapping degree is
+the overlapping degree
+task update k
+th column block
+and u factors
+of 1 d
+k 1 n
+of sparse lu
+of blas 3
+sparse gaussian elimination
+the numerical factorization
+k mod pr
+a u factor
+is structurally dense
+update 2d tasks
+the s approach
+along this processor
+1 d codes
+p k mod
+dense structures in
+d asynchronous code
+l u partitioning
+and 2 d
+k mod p
+a zero free
+zero free diagonal
+for sparse lu
+a sparse matrix
+factorization with partial
+p r gamma
+2 d data
+load balance factor
+use of blas
+sparse matrix a
+submatrices in the
+in a u
+for the 2
+lu factorization with
+a t a
+distributed memory machines
+is p c
+degree is p
+rapid code with
+d code is
+exploiting irregular parallelism
+degree within a
+k in u
+time mflops time
+overlapping degree within
+t3d or t3e
+after step k
+working on update
+local nonzero blocks
+subcolumn k in
+pr k mod
+structurally dense subcolumns
+mflops time mflops
+mod pr k
+on distributed memory
+p 16 p
+structures of l
+in column 0
+8 p 16
+p 8 p
+still working on
+and the pivoting
+16 p 32
+on cray t3d
+mod p c
+symbolic factorization and
+maximize the use
+the structures of
+elimination with partial
+given a sparse
+number of processors
+gaussian elimination with
+up to 6
+column or row
+partial pivoting on
+the elimination process
+1 d code
+than 1 d
+to 6 878
+use a ij
+graph scheduling algorithm
+nonzero fill in
+same column block
+nonzero blocks in
+candidate pivot rows
+ij is structurally
+the ca schedule
+block k and
+a subcolumn or
+bound of overlapping
+a single f
+in exploiting irregular
+878 gflops on
+processors of column
+2d k tasks
+k j figure
+that on t3d
+compute ahead scheduling
+f actor tasks
+my rno k
+actor k and
+from p my
+6 k mod
+performance of 1
+testing matrices in
+blas 3 subroutines
+this processor row
+s sequential code
+dense structures and
+rows according to
+rno k mod
+processor column is
+2 d algorithm
+6 878 gflops
+of symbolic factorization
+for those matrices
+compute ahead schedule
+after the static
+partitioned sparse lu
+perform task f
+along a processor
+be still working
+of overlapping degree
+execute f actor
+asynchronous 2 d
+p my rno
+to the pivoting
+thus the overlapping
+of update 2d
+actor k is
+using static symbolic
+call the buffer
+actor k or
+nonzero blocks of
+1 d ca
+with mixed granularities
+time sec mflops
+acyclic task graphs
+d code has
+identify dense structures
+d ca code
+owned by this
+competitive to superlu
+single f actor
+the compute ahead
+gflops on 128
+of the matrix
+structures in a
+1 n k
+k th column
+code with the
+local maximum to
+directed acyclic task
+a compound structure
+by this processor
+if this processor
+k and update
+the u factor
+p 32 p
+32 p 64
+the tested matrices
+4 p 8
+sparse lu with
+symbolic factorization is
+the superlu approach

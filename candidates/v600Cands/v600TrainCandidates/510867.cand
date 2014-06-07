@@ -1,0 +1,600 @@
+allocation
+register
+energy
+ow
+dierent
+consumption
+parent
+loop
+registers
+arc
+block
+blocks
+assignment
+dened
+nishing
+coloring
+lifetimes
+arcs
+nf
+resp
+consumed
+post
+read
+mine
+ns
+ej
+activity
+merge
+lifetime
+rst
+hamming
+capacitance
+assignments
+kn
+loops
+knlog
+vrb
+allocator
+nish
+spilled
+memory
+dicult
+allocations
+boundary
+allocating
+branch
+nlog
+child
+saved
+assigned
+switched
+branches
+references
+proling
+node
+priority
+nd
+v2bjts
+minfej
+bknlog
+brand
+allocated
+static
+objective
+weight
+grandchild
+referenced
+merges
+wv
+dash
+diers
+body
+gebotys
+phase
+accesses
+allocators
+network
+diculty
+assigning
+beyond
+live
+tiger
+parents
+phases
+saving
+dierently
+topological
+super
+modied
+writing
+occupying
+vr
+compiler
+ecient
+exiting
+unweighted
+consume
+sucient
+initialization
+consecutive
+formulation
+merging
+storage
+alive
+paths
+le
+dene
+handle
+nodes
+probability
+paragraphs
+categorized
+switchings
+bnlog
+9701416
+variabls
+bkn
+9623585
+vrbp
+summaried
+v2vr
+probabilities
+aect
+exits
+identied
+dictated
+reading
+ic
+graph
+ts
+mr
+assign
+carlisle
+0myampersandndash
+overlaps
+superior
+denitions
+backwards
+np
+consumes
+summarized
+suboptimal
+candidates
+eect
+literatures
+diculties
+vise
+rap
+italic
+nding
+microprocessor
+benefiting
+edges
+dierence
+cross
+straight
+pedram
+matroids
+bristol
+beginning
+treat
+xed
+2a
+cooling
+icting
+formulations
+binding
+stay
+solid
+improvement
+treating
+consumptions
+nished
+branching
+overlap
+access
+descendents
+uniquely
+interference
+portable
+minimization
+quadratic
+eciently
+designates
+vl
+lloyd
+descendent
+critical
+totally
+piece
+programs
+kept
+resulted
+rw
+grand
+factorial
+minimize
+investigating
+connect
+sults
+the allocation
+register allocation
+b p
+in b
+energy model
+parent blocks
+block b
+energy consumption
+network ow
+in assignment
+loop variable
+post assignment
+allocation result
+ow problem
+the energy
+allocation results
+n f
+static energy
+allocation for
+based energy
+n s
+variable v
+type n
+activity based
+parent block
+basic block
+s v
+energy consumed
+loop variables
+a register
+f v
+v is
+allocation problem
+best allocation
+e r
+the register
+if v
+c n
+graph coloring
+r i
+loop block
+assigned to
+a loop
+available registers
+consumed by
+whose lifetimes
+its post
+v f
+low energy
+merge case
+the loop
+an arc
+each loop
+variables in
+cost c
+v in
+p l
+arc from
+to memory
+of b
+allocation process
+the arc
+r r
+p v
+the activity
+read in
+dierent parent
+energy saved
+nishing time
+u n
+a variable
+n r
+of energy
+memory in
+basic blocks
+the ow
+node of
+of type
+the in
+assignment of
+critical set
+register in
+of variables
+kn 2
+global register
+dened in
+energy register
+dierent energy
+energy models
+ow algorithm
+m r
+variables whose
+our algorithm
+variable is
+e m
+to registers
+local register
+from 0
+in memory
+the merge
+o kn
+ow graph
+b i
+assignment is
+third phase
+the graph
+in register
+each basic
+model c
+all variables
+hamming distance
+coloring approach
+saved by
+a program
+loop body
+optimal allocation
+register r
+switched capacitance
+v r
+in block
+in dierent
+nish node
+allocation phases
+dierent allocation
+boundary variable
+pre assignment
+priority paths
+optimal energy
+blocks in
+cost associated
+variable in
+n p
+another node
+f u
+consumption of
+a basic
+p u
+a block
+is assigned
+p q
+one parent
+objective function
+cost network
+super block
+ns c
+beyond basic
+access models
+local r
+arc c
+the variables
+the static
+the objective
+current block
+energy of
+multiple read
+is register
+graph model
+not read
+the cost
+of loop
+same register
+consumption by
+allocation of
+the switched
+its parent
+m m
+starting time
+the hamming
+to register
+been assigned
+the lifetime
+lifetime of
+arcs are
+block in
+overall energy
+initialization phase
+the block
+is dened
+to dierent
+our approach
+end for
+b based
+known approaches
+those variables
+ns d
+knlog n
+mine mine
+from proling
+k available
+v live
+lifetimes extend
+resp memory
+the nishing
+mine 0
+ej 0
+v allocated
+d nf
+uniquely dened
+a nf
+local m
+n s v
+n f v
+in b p
+the allocation result
+static energy model
+node of type
+of type n
+c n f
+based energy model
+activity based energy
+b p l
+the in assignment
+network ow problem
+f v f
+energy consumed by
+u n s
+the activity based
+each loop variable
+memory in b
+in assignment of
+n r i
+register allocation for
+obtained from 0
+the allocation results
+to a register
+if v is
+for an arc
+the network ow
+its post assignment
+block b p
+n f u
+read in b
+the static energy
+e r r
+of b p
+cost c n
+an arc from
+the energy consumption
+the register allocation
+for the activity
+variables whose lifetimes
+p v r
+the best allocation
+amount of energy
+the energy consumed
+f u n
+register in b
+written in b
+process of b
+allocation process of
+the merge case
+type n s
+a basic block
+the allocation process
+on the allocation
+register allocation problem
+a variable v
+in memory in
+another node of
+arc from a
+dierent parent blocks
+variable in b
+type n f
+energy model c
+energy saved by
+the allocation for
+its parent blocks
+during the allocation
+of loop variables
+model c n
+allocation result from
+in block b
+to the arc
+the cost c
+allocation for the
+assignment of each
+b p i
+is in memory
+assigned to memory
+be the energy
+a loop variable
+n p u
+of each loop
+o kn 2
+is assigned to
+a n f
+in b i
+in b and
+energy consumption of
+e a n
+b and v
+cost associated to
+loop variable v
+energy model the
+assigned to zero
+parent block b
+block b 0
+in register in
+energy register allocation
+in assignment and
+and post assignment
+assignment and post
+from a node
+each basic block
+v has been
+i n s
+global register allocation
+the loop block
+of available registers
+to another node
+network ow algorithm
+a network ow
+not read in
+allocation problem for
+a node of
+the cost associated
+v is in
+r e r
+for all variables
+r i n
+p and b
+b i do
+p u n
+e m r
+local register allocation
+graph g for
+the objective function
+for low energy
+l n k
+b p the
+assigned to a
+s v is
+for the static
+has been assigned
+is the energy
+graph coloring approach
+the allocation problem
+v in b
+variables in a
+r h u
+allocation results of
+loop variable is
+as its post
+n f to
+the ow problem
+cost network ow
+arc c n
+result from 0
+v r b
+the arc c
+nish node f
+parent blocks for
+critical set c
+in assignment is
+v is written
+v c r
+energy consumption by
+c n r
+the block b
+variable v in
+blocks in this
+been assigned to
+b p and
+n s i
+of variables whose
+c p q
+the switched capacitance
+the parent blocks
+current block b
+v the cost
+v f for
+types of arcs
+probability of v
+x p q
+model the energy
+minimum cost network
+energy models and
+represents the energy
+beyond basic blocks
+s v and
+the current block
+the hamming distance
+r r e
+c n p
+nd the best
+and v has
+the optimal allocation
+b the cost
+w e r
+the energy of
+if u is
+the same register
+the third phase
+in b is
+the lifetime of
+associated to the
+u v c
+r m m
+the graph model
+the overall energy

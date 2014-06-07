@@ -1,0 +1,600 @@
+erlang
+locker
+client
+crl
+starvation
+pending
+clients
+resources
+specication
+resource
+locks
+demanded
+exclusion
+verication
+ok
+mutual
+server
+release
+eects
+request
+checker
+huch
+gen_server_reply
+identier
+callback
+rst
+requests
+supervision
+loop
+ericsson
+reply
+evtfollow
+handle_call
+mcrlarg1
+checking
+processes
+toolset
+self
+yn
+releases
+starve
+notied
+promela
+pathfinder
+send_reply
+eect
+java
+tag
+supervisor
+alternation
+viz
+y1
+transition
+requesting
+eld
+stamp
+served
+module
+translate
+gen
+scenario
+roy
+modules
+generic
+translation
+deadlock
+actions
+locks2
+fredlund
+check_availables
+erlangterm
+obtainables
+axd
+ebaran
+newlocks
+chanchal
+csar
+all_pendings
+xs
+message
+atm
+calculus
+critical
+action
+noll
+ald
+access
+tool
+hours
+prover
+dierent
+tallinn
+ication
+bandera
+estonia
+liveness
+elds
+conguration
+scheduler
+development
+translated
+sigplan
+lars
+lock
+repeatedly
+uml
+requested
+priority
+wonder
+gets
+appending
+hd
+spin
+removing
+crashes
+exclusive
+million
+301
+congurations
+instantiated
+started
+scheduling
+specic
+transformation
+eq
+monitors
+spec
+statements
+abstracts
+veried
+return
+nd
+portland
+init
+safety
+verify
+oregon
+formulating
+append
+fault
+promote_pending
+map_f
+resourcesg
+ingenuity
+svensson
+itrue
+benac
+spawn_link
+hubert
+conrmation
+cordy
+therewith
+noreply
+wcallresult
+pendings
+boil
+izak
+dilian
+map_release_lock
+earle
+claessen
+garavel
+congu
+rcallresult
+jaco
+sics
+alpes
+aldbaran
+promissing
+banani
+locks_updated
+gen_server_call
+advises
+clientserver
+ake
+gen_server
+critical_section
+langevelde
+gurov
+fty
+rhone
+nite
+programs
+list
+workshop
+lists
+calls
+kumar
+loops
+clara
+unsettled
+koen
+frequest
+fokkink
+pol
+mateescu
+caesar
+noties
+innite
+excluded
+the locker
+the erlang
+crl specication
+the client
+model checking
+the crl
+client 3
+access pending
+the pending
+mutual exclusion
+client 1
+generic server
+no starvation
+erlang programs
+in erlang
+the clients
+the resource
+pending list
+demanded resources
+of erlang
+transition system
+side eects
+clients and
+server call
+client 2
+on erlang
+handle call
+model checker
+side eect
+pending 3
+critical section
+resources are
+pending processes
+locker algorithm
+gen server
+supervision tree
+erlang code
+all demanded
+two resources
+in crl
+erlang modules
+client is
+call function
+of resources
+pending access
+callback module
+erlang to
+repeatedly request
+erlang september
+erlang program
+alternation free
+this locker
+one crl
+and locker
+y1 yn
+locker self
+locker resources
+clients repeatedly
+end locks
+starvation is
+to crl
+the specication
+a resource
+access to
+of clients
+3 access
+exclusion property
+eect free
+resources and
+three clients
+get access
+all resources
+with side
+specication the
+the resources
+verication of
+resources the
+exclusion and
+resource a
+few hours
+the mutual
+loop locker
+notied and
+free functions
+starvation problem
+gets access
+demanded resource
+requests resource
+ok self
+to erlang
+pending lists
+erlang processes
+rst come
+locker process
+come rst
+a client
+sigplan workshop
+and resources
+the generic
+case study
+return value
+resource is
+resource the
+specication language
+the gen
+is notied
+the handle
+source transformation
+case statements
+clients the
+the rst
+time stamp
+we translate
+a release
+one resource
+checking tool
+formal verication
+resource and
+data types
+available if
+the supervision
+a million
+this tool
+the critical
+design patterns
+of deadlock
+the locks
+clients that
+to source
+a rst
+the model
+the list
+list of
+the transition
+the development
+this loop
+access eld
+deadlock mutual
+resource b
+requests b
+give access
+specic conguration
+1 pending
+within ericsson
+locker are
+process identier
+check_availables resources
+stamp the
+implementation language
+rst serve
+crl a
+release client
+self locker
+resource after
+huch 15
+resources again
+1 releases
+both resources
+translate erlang
+axd 301
+ok message
+2 pending
+gen_server_reply client
+which monitors
+to starve
+obtainables locks
+erlang transformation
+starvation for
+3 requests
+list access
+scenario s
+free calculus
+requests both
+client ok
+csar ald
+access 2
+hd mcrlarg1
+a locker
+locker the
+reply ok
+erlang function
+causes client
+x y1
+classical properties
+301 atm
+xs y1
+call stack
+starvation since
+starvation in
+contain side
+access 1
+locks false
+an ok
+ald ebaran
+locker and
+self locks2
+into crl
+formally veried
+kumar roy
+atm switch
+the crl specication
+pending 3 3
+the client is
+to the resource
+in the erlang
+the pending list
+resources are available
+gen server call
+the generic server
+the transition system
+of erlang programs
+on erlang september
+3 3 access
+crl specication the
+of the pending
+side eect free
+workshop on erlang
+clients repeatedly request
+of the locker
+demanded resources are
+the erlang modules
+the clients repeatedly
+all demanded resources
+the mutual exclusion
+the model checking
+the critical section
+mutual exclusion property
+with side eects
+mutual exclusion and
+sigplan workshop on
+acm sigplan workshop
+three clients and
+rst come rst
+eect free functions
+the erlang program
+access pending access
+a rst come
+clients and locker
+pending access pending
+absence of deadlock
+clients and resources
+the supervision tree
+the gen server
+client 1 and
+access pending 3
+the handle call
+handle call function
+gets access to
+one crl specication
+loop locker resources
+to the crl
+functions with side
+is notied and
+in the pending
+the pending processes
+access to the
+number of clients
+number of resources
+of clients and
+resource and the
+to source transformation
+a model checker
+get access to
+a resource is
+model checking tool
+case study we
+a few hours
+source to source
+in the transition
+model checking for
+of the resource
+the locker process
+list of pending
+3 access pending
+if all demanded
+access 2 pending
+implementation in erlang
+ok self locker
+list of resources
+in crl a
+of the crl
+a 1 action
+to erlang transformation
+specication the erlang
+pending list access
+28 2005 tallinn
+3 to starve
+and no starvation
+want to access
+resource as an
+clients and two
+deadlock mutual exclusion
+xs y1 yn
+and 3 clients
+the erlang code
+is no starvation
+no starvation is
+which all demanded
+causes client 3
+erlang september 26
+clients that want
+come rst serve
+chanchal kumar roy
+this generic server
+resource a client
+client 3 requests
+a specic conguration
+approach of huch
+client is notied
+resource the client
+of side eect
+callback module the
+check_availables resources locks
+starvation for the
+client 3 in
+a million states
+list of clients
+and two resources
+x y1 yn
+csar ald ebaran
+generic server design
+the erlang processes
+specication is used
+into one crl
+of pending processes
+request of a
+locker is implemented
+access 1 pending
+f x y1
+in the arguments
+alternation free calculus
+in the callback
+exclusion and no
+erlang program for
+a crl specication
+the callback module
+request an arbitrary
+repeatedly request an
+contain side eects
+server call function
+301 atm switch
+requests both resources
+pending list in
+client 2 releases
+locker process is
+client 1 releases
+erlang to crl
+the pending lists
+erlang september 16
+use of model
+client ok self
+only one resource
+transition system the
+axd 301 atm
+starvation is an
+give access to
+of the erlang
+gen_server_reply client ok
+erlang to erlang
+and removing the
+client 1 requests
+2 pending 3
+are two resources
+that contain side
+call function are
+this loop we
+implemented in erlang
+requests resource a
+starvation in the
+is eventually followed
+releases and requests
+self locker self
+the process identier
+a real implementation
+time stamp the
+all resources that
+side eects in
+in the crl
+the locker the
+end locks false
+september 26 28
+erlang code that
+client 3 to
+which the clients
+using the generic
+and model checker
+non deterministic choices
+around this problem
+functions that contain
+a realistic setting
+transition system is
+16 2006 portland
+the model checker
+september 16 16
+the clients the
+16 16 2006
+the request of
+using model checking
+a side eect
+26 28 2005

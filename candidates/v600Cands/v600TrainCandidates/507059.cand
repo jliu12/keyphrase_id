@@ -1,0 +1,600 @@
+impulse
+tlb
+shadow
+cache
+superpages
+superpage
+remapping
+asap
+copying
+remap
+promotion
+controller
+indirection
+romer
+tiles
+tile
+approx
+scatter
+l2
+tiled
+pages
+hit
+graduated
+l1
+online
+image
+gather
+voxels
+dram
+misses
+isosurface
+recoloring
+ray
+remapped
+memory
+instructions
+cg
+smvp
+shear
+addresses
+physical
+miss
+contiguous
+virtual
+bus
+page
+buffers
+os
+optimizations
+million
+voxel
+benchmark
+volume
+issued
+mmc
+cycles
+rays
+vortex
+dense
+rendering
+loads
+binomial
+rotation
+accesses
+128
+tlbs
+filter
+kilobyte
+offsets
+filtering
+isosurf
+ursim
+addrcalc
+approx_online
+pvaddr
+gcc
+baseline
+diagonal
+conventional
+caches
+locality
+dmmp
+padded
+sparse
+benchmarks
+speedup
+policies
+entry
+adi
+recolor
+layout
+dm
+pseudo
+processor
+color
+tracing
+rotate
+bytes
+mem
+nas
+pixel
+aol
+mtlb
+soffset
+stream
+aligned
+mask
+strided
+macro
+rows
+cells
+tracer
+remappings
+shears
+dynamically
+outperforming
+speedups
+compress
+parker
+ratio
+prefetch
+radian
+avg
+matrix
+backed
+conjugate
+bandwidth
+drams
+sheared
+physically
+unused
+screen
+sarita
+64
+iram
+policy
+spec95
+costs
+column
+alias
+load
+hardware
+tiling
+translation
+fetches
+493m
+isosurfacing
+aonline
+262m
+215m
+24m
+scat
+zhenmin
+radram
+346m
+321024
+sin
+copied
+3000
+angles
+kernels
+conflict
+managed
+separable
+descriptors
+adve
+atom
+gradient
+overhead
+warping
+carter
+suffers
+18m
+xipeng
+68m
+operating
+promoting
+improves
+cos
+perpendicular
+mapped
+prefetching
+address
+pixels
+thresholds
+utilization
+engine
+microprocessors
+raytrace
+configure
+promote
+byte
+billion
+ipc
+associative
+outperforms
+translations
+warps
+surpassing
+yutao
+memory controller
+approx online
+entry tlb
+the impulse
+scatter gather
+hit ratio
+superpage promotion
+impulse can
+cg a
+tlb miss
+indirection vector
+romer et
+impulse s
+pseudo virtual
+l1 cache
+tlb performance
+the memory
+graduated instructions
+page recoloring
+l2 cache
+64 entry
+impulse memory
+the indirection
+shadow addresses
+shadow address
+using impulse
+physical addresses
+tlb misses
+physical pages
+memory system
+instructions total
+instructions tlb
+to remap
+the remapped
+128 entry
+the os
+the shadow
+cache hit
+how impulse
+creating superpages
+shadow memory
+without copying
+issued instructions
+a 64
+cache line
+the cache
+of tlb
+cache and
+the l1
+shadow space
+impulse to
+stream buffers
+physical address
+isosurface rendering
+mem hit
+macro cells
+dynamic superpage
+avg load
+the l2
+image filtering
+cache lines
+of impulse
+online superpage
+virtual addresses
+a 128
+memory performance
+virtual address
+conventional memory
+superpage creation
+shadow engine
+do sum
+l2 hit
+tiled version
+better with
+ray tracing
+the tiles
+of voxels
+virtual memory
+dense matrix
+the tlb
+copying is
+physical memory
+load time
+rows i
+address space
+image rotation
+color image
+the volume
+diagonal elements
+sparse matrix
+and tlb
+use impulse
+indirection vectors
+binomial filter
+data rows
+promotion policies
+physical dram
+can remap
+impulse system
+asap remap
+impulse allows
+not graduated
+promotion algorithms
+l1 hit
+create superpages
+impulse version
+unused physical
+impulse controller
+dimensional mask
+issued but
+dense cache
+each ray
+the tiled
+performance by
+physical page
+the baseline
+tlb and
+impulse is
+x column
+using superpages
+remapping the
+impulse time
+a shadow
+the nas
+the rays
+in memory
+remap the
+of copying
+conjugate gradient
+of cg
+to physical
+controller to
+an indirection
+of shadow
+voxels in
+an impulse
+of superpages
+the physical
+the processor
+to pseudo
+backed by
+matrix product
+matrix matrix
+hit rate
+pages to
+a ray
+the voxel
+non contiguous
+pages that
+of loads
+address translation
+a dense
+99 80
+impulse mmc
+to scatter
+gather remapping
+non impulse
+contiguous shadow
+exploit impulse
+vortex with
+impulse architecture
+shadow descriptors
+that impulse
+voxel offsets
+promote pages
+shadow pages
+aol remap
+clockwise through
+tile remapping
+impulse in
+normalized speedups
+when copying
+recoloring is
+three shear
+impulse project
+dram addresses
+of romer
+tlb faults
+two promotion
+impulse code
+cache performance
+rendering using
+million instructions
+et al
+original image
+copying and
+the performance
+optimizations that
+vector product
+performance of
+improve cache
+performance differences
+cache misses
+matrix vector
+per year
+tiles from
+sum 0
+one radian
+cycles tlb
+good memory
+the memory controller
+romer et al
+a 64 entry
+64 entry tlb
+128 entry tlb
+at the memory
+with a 64
+impulse can be
+the indirection vector
+the l1 cache
+the l2 cache
+a 128 entry
+cache hit ratio
+avg load time
+impulse memory controller
+mem hit ratio
+with a 128
+better with a
+online superpage promotion
+memory controller to
+of cg a
+a shadow address
+conventional memory system
+l2 hit ratio
+the impulse memory
+cache and tlb
+sparse matrix vector
+matrix matrix product
+the impulse version
+issued but not
+impulse to remap
+impulse memory system
+an indirection vector
+dense matrix matrix
+to pseudo virtual
+the shadow engine
+use impulse to
+pseudo virtual addresses
+l1 hit ratio
+issued instructions total
+are in processor
+graduated instructions tlb
+but not graduated
+issued instructions tlb
+graduated instructions total
+in the l2
+l1 cache hit
+memory controller the
+and tlb performance
+times are in
+in the l1
+number of loads
+in processor cycles
+the original image
+l2 cache and
+the impulse code
+approx online in
+isosurface rendering using
+data and column
+tiled version of
+of impulse s
+vortex with a
+on cg a
+of romer et
+and approx online
+user data misses
+configure the memory
+dynamic superpage creation
+where the rays
+unused physical addresses
+pseudo virtual address
+j rows i
+the scatter gather
+each tlb miss
+scatter gather remapping
+cg a on
+physical dram addresses
+i to rows
+level of address
+the tiled version
+of loads executed
+for j rows
+to scatter gather
+cycles tlb misses
+two dimensional mask
+data rows and
+to promote pages
+of the indirection
+physical page recoloring
+when copying is
+copying is used
+l2 cache hit
+through indirection vectors
+processor cycles tlb
+hit ratio 1
+page recoloring is
+through one radian
+dynamic superpage promotion
+entry tlb in
+virtual addresses to
+impulse version of
+the impulse controller
+shadow address space
+asap and approx
+entry tlb and
+the impulse project
+of voxels in
+entry tlb the
+rows i to
+sum 0 for
+to rows i
+1 do sum
+to remap the
+clockwise through one
+memory system impulse
+rendering using ray
+how impulse s
+an impulse system
+improve cache and
+using ray tracing
+1 1 do
+go to memory
+matrix vector product
+cache hit rate
+cg a is
+tlb misses are
+a bandwidth efficient
+rows i 1
+through an indirection
+memory performance the
+0 for j
+of tlb misses
+base page size
+can be used
+to a factor
+for isosurface rendering
+simulated results for
+tlb performance of
+of the impulse
+the diagonal elements
+an image to
+in the volume
+extra level of
+parallel to the
+as a result
+ray tracing for
+for to n
+on a conventional
+the virtual address
+when traversing the
+by the os
+processor in memory
+et al s
+be used to
+the performance of
+virtual address space
+of the l2
+to n do
+perpendicular to the
+differences in performance
+to improve cache
+the operating system
+i 1 1
+a factor of
+on the system
+the cache hit
+the accesses to
+the input image
+version of the
+number of issued
+asap when copying
+memory bandwidth limitations
+their trace driven
+hit ratio and
+handling tlb misses
+of voxels offsets
+using impulse to
+how impulse can
+in cg a
+computation of voxels
+offsets for the
+memory controller this
+instructions tlb 0
+physical pages the
+management for main
+by shadow memory
+locality of cg
+architecture for media
+on a 321024
+tlb can map
+a memory controller
+conscious cache utilization
+the best thresholds
+load time 1
+asap is on
+superpages backed by
+n do sum
+yutao zhong chen
+tlb miss handler
+approx online and

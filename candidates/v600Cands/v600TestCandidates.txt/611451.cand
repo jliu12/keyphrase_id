@@ -1,0 +1,600 @@
+psdm
+pseudospectrum
+sweep
+pseudospectra
+pf
+1107
+kahan
+triplet
+curve
+contours
+gre
+descent
+newton
+contour
+speedups
+cobra
+curves
+grid
+disconnected
+steepest
+cyclic
+min
+arpack
+processor
+zi
+singular
+static
+nished
+processors
+stepsize
+correction
+evaluations
+partitioning
+dn
+mpi
+lengths
+signicant
+boundary
+toolbox
+approximated
+load
+matrix
+dospectrum
+sparskit
+imbalance
+sweeps
+gure
+boldface
+block
+bekas
+gallopoulos
+inwards
+embarrassingly
+kokiopoulou
+pseu
+grcar
+secs
+depict
+gradient
+policy
+allocate
+approximate
+approximating
+mesh
+uncontrollability
+consecutive
+inner
+cf
+partitionings
+rst
+polygonal
+eigenvalues
+prediction
+wi
+lying
+reduction
+tasks
+dening
+suer
+rows
+triplets
+regarding
+culty
+neighboring
+adaptation
+balance
+modied
+matrices
+experimented
+readily
+noting
+matlab
+jw
+dropped
+100
+philippe
+weakness
+plane
+outermost
+proceed
+master
+vis
+seeking
+6000
+proc
+inferior
+sgi
+half
+continuation
+directional
+upatras
+secretariat
+koutis
+1390
+d64
+geo
+zh
+scgroup
+blocksize
+cuves
+ameliorated
+bruhl
+visibly
+tured
+sunstantial
+mipspro
+2700
+krg
+mezher
+springboard
+underdetermined
+spdm
+mpt
+astute
+ceid
+1560
+ene
+allgower
+2760
+3060
+hpclab
+satisfactory
+manages
+adapt
+parallelism
+parentheses
+grain
+corrected
+allocated
+sparse
+trajectories
+di
+eective
+nally
+savings
+path
+owes
+3750
+inscribed
+encircled
+1466
+shue
+harwell
+kostin
+steplength
+f90
+jmin
+embarassingly
+circle
+dropping
+iterative
+reveal
+capturing
+ect
+inside
+dene
+renements
+underline
+1300
+matics
+openmp
+wj
+840
+mathe
+boeing
+930
+hermitian
+underscore
+irix
+gauge
+versatility
+worth
+target
+moderate
+distance
+oered
+unsymmetric
+eorts
+renumbered
+arnoldi
+of psdm
+z k
+the pseudospectrum
+path following
+points computed
+sweep of
+at z
+gre 1107
+point reduction
+static block
+by psdm
+static cyclic
+that psdm
+disconnected components
+psdm is
+psdm we
+the triplet
+the sweep
+of points
+consecutive points
+contour a
+kahan 100
+psdm on
+steepest descent
+newton step
+points z
+psdm with
+initial curve
+cyclic partitioning
+one sweep
+of pf
+single sweep
+and speedups
+min zi
+of pseudospectra
+zi a
+w k
+relative error
+point z
+psdm can
+pseudospectrum descent
+kahan of
+order 100
+triplet at
+dn p
+psdm to
+each sweep
+initial contour
+the contours
+each processor
+of table
+m a
+computation of
+to approximate
+computed by
+of min
+n points
+of grid
+singular vectors
+of steepest
+curve a
+block partitioning
+reduction policy
+single newton
+level curve
+points dening
+minimum singular
+nished rst
+boundary curve
+with psdm
+psdm in
+matrix kahan
+capture disconnected
+method psdm
+parallel nature
+for gre
+single boundary
+psdm for
+for kahan
+contours computed
+triplet evaluations
+matrix gre
+the curve
+descent method
+of path
+points on
+p e
+complex plane
+the speedups
+load balance
+points of
+mean relative
+based at
+matrix toolbox
+that min
+e points
+newton iteration
+compute points
+level curves
+min u
+the computation
+table 8
+the gradient
+for computing
+table 10
+k 1
+between consecutive
+test matrix
+computed via
+the parallel
+each task
+singular value
+time secs
+load imbalance
+u min
+speedups in
+w 0
+approximated by
+in table
+cf 5
+speedups are
+points that
+each curve
+in boldface
+the points
+to compute
+on matrix
+on m
+with static
+and mean
+processor 1
+points to
+real analytic
+target points
+grcar 50
+by cobra
+original curve
+directions used
+pseudospectrum contours
+introduction cobra
+pseudospectra the
+y psdm
+sweep psdm
+stepsize of
+points approximating
+has nished
+pseudospectra by
+corrected towards
+1107 1107
+boundary curves
+that nished
+original path
+points 46
+curve if
+pseu dospectrum
+the pseudospectra
+psdm will
+secs 6000
+sweep can
+pf scheme
+cobra to
+e consecutive
+embarrassingly parallel
+use static
+cyclic partitionings
+wi a
+rows 3
+rows 7
+for pseudospectra
+contour m
+via psdm
+applied psdm
+using descent
+correction direction
+contour lengths
+curve 0
+as arpack
+corresponding speedups
+time processor
+psdm but
+adaptive point
+as psdm
+partitioning time
+polygonal path
+triplet evaluation
+parallel psdm
+contours corresponding
+nished with
+a kahan
+capturing disconnected
+move inwards
+pseudospectrum level
+the psdm
+block static
+of triplet
+by pf
+in psdm
+via pf
+prediction direction
+same contours
+sweep of psdm
+at z k
+number of points
+of the pseudospectrum
+points computed by
+of points computed
+of path following
+single sweep of
+points z k
+computed by psdm
+computation of pseudospectra
+min zi a
+the initial curve
+initial contour a
+of table 8
+kahan of order
+application of psdm
+one sweep of
+the triplet at
+implementation of psdm
+dn p e
+static cyclic partitioning
+of psdm we
+static block partitioning
+points on m
+pseudospectrum descent method
+of order 100
+the computation of
+between consecutive points
+consecutive points on
+for the computation
+z k 1
+of steepest descent
+the complex plane
+matrix gre 1107
+the parallel nature
+on m a
+version of pf
+point z k
+points of m
+of psdm is
+triplet at z
+an initial contour
+single newton step
+contours computed using
+distance between consecutive
+parallel nature of
+the point reduction
+a single sweep
+capture disconnected components
+n points z
+maximum and mean
+for gre 1107
+the minimum singular
+computing the triplet
+a single newton
+the pseudospectrum descent
+single boundary curve
+a single boundary
+of the sweep
+based at z
+the test matrix
+min u min
+points computed in
+test matrix toolbox
+times and speedups
+for computing the
+m 1 a
+the number of
+of m a
+to each processor
+0 1 a
+one half of
+parallel implementation of
+it follows that
+speedups in parentheses
+of table 11
+experimented with static
+block static cyclic
+single step of
+on matrix gre
+contours corresponding to
+psdm will be
+min q min
+partitioning in which
+e consecutive points
+of psdm the
+newton step at
+of psdm to
+corresponding to min
+rows 7 9
+directional newton methods
+gre 1107 a
+the directions used
+of triplet evaluations
+the same contours
+r min x
+sweep can be
+outlined in table
+gradient based at
+the gradient based
+psdm is the
+min z k
+indicate that psdm
+methods in n
+u min v
+the original path
+and mean relative
+such as arpack
+points to each
+for kahan 100
+real analytic in
+methods an introduction
+at z is
+cost for computing
+directions used in
+partitioning time secs
+disconnected components of
+p e consecutive
+7 9 of
+has nished with
+of singular vectors
+is embarrassingly parallel
+original method of
+continuation methods an
+the newton iteration
+9 of table
+path following method
+using static block
+psdm on matrix
+0 w y
+that psdm manages
+we move inwards
+to min zi
+7 of table
+p e points
+initial curve 0
+of psdm on
+correction direction c
+the sweep psdm
+maximum relative error
+static block static
+evaluation at z
+to the geometric
+direction c k
+z k i
+point reduction policy
+inside the initial
+lying inside the
+processor that nished
+same contours computed
+newton methods in
+and cyclic partitionings
+stepsize of the
+cyclic partitioning in
+applied psdm on
+boundary curve a
+cf 5 2
+that nished rst
+a and computed
+and speedups in
+in each sweep
+original path following
+time secs 6000
+with point reduction
+grid where the
+point w k
+time processor 1
+of parallel implementation
+by a pf
+analytic in a
+a for k
+psdm manages to
+adaptive point reduction
+number of triplet
+where the triplet
+to use static
+min v min
+candidates for dropping
+each sweep can
+points of i
+static block and
+1 determine a
+psdm can be
+policy described in
+curve 0 1
+descent method psdm
+triplet evaluation at
+w k using
+points dening the
+capturing disconnected components
+reduction policy described
+the original curve
+min x k
+of the contours
+by psdm in
+parallel psdm with
+of grid where
+a kahan of
+block and cyclic

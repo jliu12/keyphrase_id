@@ -1,0 +1,600 @@
+tapeworm
+traps
+cache
+trap
+workload
+cache2000
+mpeg_play
+miss
+tlb
+slowdowns
+kernel
+trace
+ecc
+driven
+pixie
+os
+page
+caches
+sampling
+misses
+simulation
+decstation
+tid
+ousterhout
+sdet
+workloads
+indexed
+simulator
+jpeg_play
+tw_register_page
+dilation
+espresso
+activity
+tw_replace
+tw_remove_page
+kenbus
+bsd
+privileged
+spec92
+operating
+simulations
+vm
+instruction
+simulated
+5000
+traces
+physically
+memory
+tlbs
+kbytes
+parity
+atum
+tw_set_trap
+uhlig
+handler
+trials
+simulators
+measurement
+inherit
+hardware
+virtually
+variation
+server
+slowdown
+counts
+tunnel
+task
+ratios
+host
+xlisp
+chen93b
+tw_clear_trap
+mogul91
+_______
+nagle93
+primitives
+wind
+pages
+tasks
+hits
+cleared
+monster
+allocation
+bias
+simulate
+wisconsin
+wwt
+clearing
+suite
+surpassing
+superpages
+locations
+benchmark
+word
+r3000
+managed
+mach
+wood
+handlers
+tracing
+servers
+bytes
+bits
+eqntott
+yes
+cycles
+instructions
+attributes
+breakpoint
+interference
+shell
+nagle92
+lebeck94
+agarwal86
+cmelik94
+borg90
+nagle94
+cvetanovic94
+reinhardt93
+mips88
+kessler91
+tw_attributes
+sechrest
+tw_miss
+sites88
+gee93
+portabil
+holliday91
+smith91
+uhlig94b
+measurements
+byte
+sources
+002
+004
+mudge
+spec
+simulating
+003
+multiprocessor
+asic
+associativity
+nagle
+trevor
+fork
+falsafi
+talluri
+027
+mips
+variance
+memories
+instrumentation
+fly
+configurations
+sigmetrics
+mapped
+associativities
+sdm
+trapping
+children
+effects
+paging
+sparc
+babak
+flushes
+umich
+53
+interrupts
+count
+physical
+registered
+200
+attribute
+tradeoffs
+alvin
+user
+virtual
+lebeck
+axp
+privileges
+024
+vax
+references
+alpha
+portability
+eecs
+unix
+monitoring
+inheritance
+emer
+780
+clears
+hindered
+location
+isolate
+policy
+flexibility
+resides
+breakpoints
+shade
+trace driven
+the tapeworm
+trap driven
+driven simulation
+tapeworm slowdowns
+set sampling
+simulated cache
+traps on
+indexed cache
+with tapeworm
+of tapeworm
+physically indexed
+miss counts
+4 word
+user task
+time dilation
+tapeworm s
+vm system
+kernel traps
+workload components
+page allocation
+virtually indexed
+operating system
+multi task
+tapeworm miss
+tlb simulation
+by tapeworm
+the os
+os kernel
+miss ratios
+size kbytes
+decstation 5000
+memory system
+the workload
+address traces
+5000 200
+the vm
+the page
+tapeworm to
+memory parity
+all activity
+cache size
+workload s
+cache performance
+of cache
+memory locations
+memory location
+software managed
+indexed caches
+and kernel
+slowdowns decrease
+measurement bias
+measurement variation
+memory traps
+kernel trap
+tapeworm is
+tapeworm attributes
+g g
+a workload
+variation due
+cache simulation
+kernel itself
+host hardware
+traps are
+the cache
+physical page
+line sizes
+cache structure
+trap to
+wisconsin wind
+the kernel
+direct mapped
+k bytes
+and os
+word line
+caches with
+page valid
+privileged operations
+ecc check
+that tapeworm
+kernel references
+the mpeg_play
+tapeworm ii
+tapeworm design
+tapeworm has
+a tapeworm
+the decstation
+tapeworm cache
+check bits
+cache miss
+a trap
+wind tunnel
+the miss
+yes yes
+the simulated
+miss ratio
+the spec92
+system performance
+of trap
+per address
+managed tlbs
+user tasks
+k byte
+miss handler
+valid bits
+of trace
+4 k
+task and
+of misses
+sources of
+cache and
+without sampling
+slowdowns for
+tlb performance
+a trace
+and operating
+cycles per
+other sources
+a simulated
+of measurement
+total miss
+the wisconsin
+spec92 benchmark
+memory simulation
+the trap
+a physically
+of operating
+i i
+simulations can
+cache sets
+a wood
+ecc traps
+tapeworm primitives
+tapeworm the
+underlying host
+tlb simulator
+or ecc
+tapeworm resides
+tlb or
+kbytes g
+tapeworm simulations
+because tapeworm
+tapeworm which
+line direct
+bsd server
+handling time
+setting traps
+and tw_clear_trap
+set traps
+os activity
+slowdown cache
+traps to
+task fork
+traps can
+tapeworm simulation
+tw_set_trap and
+spec92 benchmarks
+os effects
+tid p
+display server
+because traps
+simulation of
+a decstation
+design tradeoffs
+host machine
+the simulation
+kernel and
+benchmark suite
+servers and
+the tlb
+single task
+and cleared
+of traps
+miss handling
+write policy
+driven memory
+sampling this
+memory simulator
+vary cache
+parity or
+x display
+simulations are
+user level
+system kernel
+to page
+address in
+for tlb
+mach 3
+running system
+activity from
+driven simulators
+surpassing the
+superpages with
+memory errors
+new abstraction
+normal workload
+task workload
+this table
+for different
+the host
+trap driven simulation
+trace driven simulation
+the vm system
+the simulated cache
+physically indexed cache
+decstation 5000 200
+multi task and
+g g g
+cache size kbytes
+the os kernel
+i i i
+trap to the
+4 word line
+wisconsin wind tunnel
+of the workload
+simulated cache structure
+the tapeworm miss
+page valid bits
+cycles per address
+with 4 word
+a simulated cache
+of the spec92
+for software managed
+by the vm
+tradeoffs for software
+to page allocation
+virtually indexed cache
+task and os
+of operating system
+variation due to
+other sources of
+software managed tlbs
+memory system performance
+the wisconsin wind
+tlb performance of
+and operating system
+yes yes yes
+david a wood
+design tradeoffs for
+operating system design
+simulations can be
+of trace driven
+trace driven simulator
+a decstation 5000
+memory parity or
+a physically indexed
+subsequent use of
+tlb or cache
+slowdown cache size
+the tapeworm design
+tapeworm slowdowns for
+setting traps on
+and kernel references
+of set sampling
+parity or ecc
+to the tapeworm
+tid p v
+tw_set_trap and tw_clear_trap
+os kernel itself
+size kbytes g
+the underlying host
+the host hardware
+abstraction for memory
+caches with 4
+a kernel trap
+ecc check bits
+tapeworm s presence
+memory system simulation
+the spec92 benchmarks
+with tapeworm the
+x display server
+set and cleared
+4 k bytes
+different workload components
+of measurement bias
+the decstation 5000
+traps on all
+of the tapeworm
+of trap driven
+line direct mapped
+can vary cache
+new abstraction for
+by kernel traps
+tapeworm cache miss
+vary cache performance
+4 k byte
+miss handling time
+operating system kernel
+a trace driven
+sources of variation
+a workload s
+in a simulated
+to the os
+with trace driven
+s presence in
+for memory system
+a new abstraction
+of the cache
+cache performance of
+in the simulated
+the simulation of
+number of misses
+trace driven and
+of superpages with
+mach 3 0
+from the simulated
+superpages with less
+with less operating
+a virtually indexed
+the tlb performance
+performance of superpages
+cache and tlb
+surpassing the tlb
+i cache miss
+the total miss
+less operating system
+run to run
+from run to
+due to page
+memory locations in
+the miss ratios
+of a multiprocessor
+the page is
+operating system support
+on the fly
+allocate on write
+software managed tlb
+tapeworm miss handling
+minimum maximum range
+of the simulate
+underlying host hardware
+the tapeworm domain
+capturing address traces
+david nagle trevor
+multiple api operating
+by setting traps
+a tw_register_page call
+true memory errors
+host hardware for
+driven by kernel
+memory parity error
+sampling the results
+and os activity
+a spec92 benchmark
+for size bytes
+cache miss counts
+0 0 20
+decrease in direct
+interaction of architecture
+simulation driven by
+because traps are
+tapeworm miss counts
+starting at pa
+and tlb simulation
+os kernel if
+41 23 0
+r lebeck david
+most trace driven
+host machine a
+trevor mudge stuart
+0 0 08
+in the vax
+system structure on
+switches on cache
+traces but by
+kernel where tapeworm
+the parity bits
+active memory a
+simulation of other
+structure on memory
+no kernel or
+for performance debugging
+spec sdm benchmark
+all system activity
+design for efficient
+set traps on
+are for simulations
+os effects for
+buffer performance in
+all other sources
+host machine s
+bytes subsequent use
+to os effects
+caused by tapeworm
+traps to the
+intentional hardware support
+impact of operating
+a task fork
+from the mpeg_play
+large real indexed
+extending for size
+a given workload
+case of tlb
+trace sampling for
+word line sizes
+per address in
+axp performance using
+multi task workload
+the all activity
+servers and kernel

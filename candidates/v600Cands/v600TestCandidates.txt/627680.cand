@@ -1,0 +1,600 @@
+magic
+auxiliary
+ff
+pasttl
+fol
+sql
+evaluable
+formula
+dbms
+temporal
+allgen
+starburst
+formulas
+integrity
+9x
+fv
+ranf
+subformulas
+commit
+ingres
+atoms
+atom
+subformula
+toman
+chomicki
+relational
+database
+conversion
+tables
+rematerialization
+tl2fol
+simplified
+transition
+constraint
+sideways
+polyadic
+rules
+algebra
+converted
+enforcement
+active
+transaction
+delete
+rule
+create
+relations
+rematerialized
+insert
+precedes
+connective
+oe
+contents
+convert
+attribs
+fol2sql
+transformation
+approx
+quantifier
+translation
+safe
+dml
+fi
+attributes
+history
+logic
+agrees
+quantifiers
+tinserted
+ralg2sql
+sips
+tdeleted
+old
+triggered
+generator
+compiler
+inserted
+specification
+enforce
+occurrence
+conjuncts
+traverse
+transformations
+employee
+constraints
+flow
+rollback
+disjunctions
+language
+compilation
+leaf
+salary
+mula
+3t
+past
+module
+3b
+disjunction
+occurrences
+views
+passed
+rejected
+ffl
+constructors
+leaves
+tuples
+negation
+optimizations
+implementing
+docommit
+readmitted
+fol2ralg
+annotated
+syntax
+materialized
+converts
+converting
+constructor
+committing
+superscripts
+updated
+update
+reformulations
+vi
+preserve
+statements
+checking
+top
+induction
+eval
+monitor
+3p
+adornments
+deleted
+aborted
+ordering
+false
+algebraic
+4t
+cleanup
+triggers
+queries
+sub
+conjunctions
+connectives
+arity
+execute
+clause
+restrictions
+restricting
+inductive
+truth
+union
+overhead
+body
+rela
+conjunction
+maintained
+optimization
+architecture
+saving
+referenced
+gen
+references
+careful
+negations
+databases
+del
+triggering
+anomaly
+stored
+null
+she
+join
+benchmarking
+unsafe
+i2i
+languages
+modules
+safely
+clauses
+outcome
+ideal
+select
+tods
+query
+schema
+encoding
+5a
+violations
+contexts
+referring
+violate
+guard
+declare
+attribute
+subsystems
+arrangement
+agreement
+maintain
+propagate
+r ff
+magic condition
+auxiliary relations
+the magic
+the auxiliary
+auxiliary relation
+active dbms
+create rule
+simplified formula
+level constraint
+relational algebra
+fol formula
+temporal integrity
+to sql
+integrity constraints
+9x a
+the database
+to relational
+top level
+t sub
+insert into
+transition tables
+the formula
+a magic
+fol formulas
+magic conditions
+the rule
+t add
+m r
+auxiliary atoms
+rule generator
+pasttl formula
+allgen property
+subformulas of
+a fol
+the allgen
+transition information
+implementing temporal
+delete from
+the rules
+temporal constraints
+formula to
+is evaluable
+chomicki and
+auxiliary atom
+active rules
+constraints using
+the constraint
+the evaluable
+rule systems
+select from
+ff be
+condition for
+the fv
+set transformation
+rematerialization of
+toman implementing
+evaluable property
+and toman
+execute procedure
+sql statements
+a formula
+flow of
+table t
+original formula
+of r
+ff 1
+converted to
+formula is
+of temporal
+algorithm 25
+the transition
+ff is
+r fi
+the constraints
+ff 2
+algebra normal
+create procedure
+the tl2fol
+auxiliary tables
+temporal logic
+the simplified
+magic set
+the flow
+the top
+an auxiliary
+relation r
+rule system
+subformula of
+specification language
+for r
+contents of
+the starburst
+fv a
+when inserted
+create table
+state n
+the quantifier
+the sql
+formula and
+into r
+free variables
+optimization techniques
+an active
+constraint checking
+on commit
+fv 0
+when commit
+pasttl formulas
+old t
+auxiliary transition
+ff false
+overall magic
+of pasttl
+corollary 29
+of fol
+tables are
+the temporal
+the contents
+ff the
+atom r
+input formula
+constraint enforcement
+temporal constraint
+ff in
+leaf of
+the conversion
+state of
+fv and
+update r
+occurrence of
+constraint specification
+the pasttl
+procedure c
+original pasttl
+evaluation property
+additional auxiliary
+safe evaluation
+precedes c
+attributes create
+inserted then
+pasttl the
+passed sideways
+0 sets
+dbms itself
+t execute
+past temporal
+to fol
+conversion to
+rule c
+atoms are
+formulas the
+be passed
+of active
+this transformation
+translation of
+constraints is
+the table
+the fol
+agrees with
+starburst and
+and fv
+allows easy
+rule ff
+relations are
+true in
+of time
+from t
+a simplified
+is converted
+normal form
+formula we
+the integrity
+rule language
+algorithm 16
+a subformula
+space overhead
+conversion of
+formula f
+with temporal
+induction on
+the dbms
+given formula
+formula this
+commit then
+formula i
+of auxiliary
+rules that
+on t
+ff we
+the formulas
+the leaves
+the future
+first order
+free in
+ff oe
+general architecture
+0 ff
+structure of
+constraint c
+of r ff
+the auxiliary relations
+magic condition for
+of the auxiliary
+top level constraint
+m r ff
+the magic condition
+flow of time
+temporal integrity constraints
+to relational algebra
+for r ff
+of the database
+the top level
+r ff is
+with the flow
+the transition information
+an active dbms
+integrity constraints using
+implementing temporal integrity
+occurrence of r
+a fol formula
+a magic condition
+r ff 1
+the allgen property
+r ff be
+condition for r
+using an active
+constraints using an
+insert into r
+an auxiliary relation
+auxiliary relation r
+r ff 2
+r ff the
+the flow of
+of the formula
+r ff in
+toman implementing temporal
+auxiliary relations are
+chomicki and toman
+subformulas of the
+the auxiliary relation
+magic set transformation
+the rule generator
+the evaluable property
+and toman implementing
+the magic conditions
+into r ff
+the original formula
+relation r ff
+the constraint checking
+algebra normal form
+relational algebra normal
+rematerialization of the
+a simplified formula
+of the rule
+be a formula
+the contents of
+true in d
+of fol formulas
+overall magic condition
+the simplified formula
+atom r ff
+the state n
+the auxiliary tables
+auxiliary transition tables
+converted to relational
+create rule c
+occurrences of r
+r ff we
+delete from r
+from r ff
+update r ff
+we need to
+can be passed
+the input formula
+agrees with the
+contents of the
+the magic set
+set of active
+let r ff
+insert into t
+on t execute
+t execute procedure
+r 0 ff
+create rule ff
+0 ff false
+formula i e
+be a fol
+formula to a
+level constraint is
+and fv 0
+delete from t
+when inserted then
+fv 0 sets
+magic conditions for
+the overall magic
+the original pasttl
+safe evaluation property
+and r ff
+the fv and
+create table t
+when commit then
+the auxiliary atoms
+fv and fv
+state of the
+of the original
+by induction on
+a leaf of
+n a o
+relational algebra and
+transition tables are
+the rule system
+by the dbms
+of active rules
+is true in
+previous state of
+as a leaf
+of the constraints
+structure of the
+the previous state
+history of the
+induction on the
+the conversion of
+ff be the
+that the magic
+t on t
+level constraint c
+be a simplified
+auxiliary atom r
+ff 2 insert
+and corollary 29
+preserve the simplified
+inserted then delete
+an equivalent simplified
+by the tl2fol
+the dbms itself
+a o and
+that maintain the
+r ff this
+past temporal logic
+x c g
+after insert on
+transition information is
+auxiliary relations to
+the simplified property
+relations r ff
+2 insert into
+fol formula and
+has the allgen
+o and e
+to r ff
+of the rematerialization
+the rematerialization of
+r fi for
+is not evaluable
+from t add
+of temporal constraints
+tables r ff
+r ff for
+the fol formulas
+maintain the contents
+active dbms the
+t add and
+on commit execute
+commit then update
+the auxiliary atom
+original pasttl formula
+and t sub
+formula to relational
+and eventually to
+add and t
+the constraint specification
+commit when inserted
+active dbms rules
+select from t
+the fv set
+attribs create rule
+commit execute procedure
+top level fol
+constraint specification language
+the fol2sql module
+a subformula of
+r ff let
+from t sub
+restrict the contents
+c create rule
+then update r
+formula is converted
+of m r
+a since b
+relations are introduced
+auxiliary relations r
+set of fol
+then rollback work
+propagate the allgen
+magic condition is
+auxiliary tables r
+auxiliary relations introduced
+of a fol
+the active dbms

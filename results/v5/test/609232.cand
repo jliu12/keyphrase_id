@@ -1,0 +1,600 @@
+ml
+termination
+nat
+dml
+reducible
+withtype
+terminating
+cs
+int
+recursion
+reducibility
+acc
+metrics
+fun
+typing
+redex
+programmer
+hi
+xs
+metric
+typed
+derivable
+par
+funs
+ackerman
+datatypes
+cmp
+mutual
+orderings
+f91
+bool
+ack
+proving
+program
+char
+p2
+p1
+polymorphism
+structural
+recursive
+dependent
+decorated
+verification
+trss
+natg
+qs
+matches
+expressions
+proven
+dom
+liveness
+checking
+establishing
+hongwei
+nuprl
+founded
+judgments
+pvs
+quicksort
+erasure
+judgment
+index
+practicality
+syntax
+rewriting
+xi
+substitutions
+realistic
+ordering
+checker
+continuation
+nating
+feel
+datatype
+lexicographic
+attach
+body
+currying
+donnelly
+mercury
+1i
+satisfaction
+renewed
+explode
+typable
+coq
+labelling
+annotation
+readily
+verifica
+height
+labels
+closed
+verifies
+nonterminating
+termi
+isabelle
+len
+primitive
+contexts
+programs
+difficulty
+formed
+omit
+characters
+verified
+safety
+induction
+interactive
+ji
+forming
+jej
+rules
+verifying
+errors
+verify
+novelty
+accept
+derivation
+treatment
+semantics
+abstracting
+synthesize
+sorts
+calculus
+kevin
+substitution
+programming
+loop
+usual
+automated
+handled
+toplas
+hn
+clause
+string
+unclear
+calls
+detecting
+effort
+informally
+fn
+expression
+pattern
+guaranteeing
+constructors
+smoothly
+lam
+language
+prototype
+corollary
+semantic
+hesitant
+minating
+glenstrup
+easing
+0092703
+untrue
+undeniably
+belling
+endless
+carthy
+hap
+mechanized
+unobtrusiveness
+1147
+obtrusive
+amram
+ilam
+thunk
+arne
+chiyan
+ats
+cast
+contribution
+91
+else
+suffices
+spend
+normalizing
+star
+demonstrating
+interpretations
+integer
+minor
+tuples
+lambda
+unwilling
+deem
+technicality
+subscripting
+1215
+redexes
+pens
+dependently
+decorate
+trs
+godel
+checks
+label
+program termination
+in ml
+dependent types
+termination verification
+ml 0
+in dml
+mutual recursion
+is terminating
+termination checking
+index expressions
+type system
+reducible for
+the programmer
+termination of
+a redex
+program errors
+structural ordering
+ml is
+recursive function
+is reducible
+int i
+i nat
+reducible if
+are reducible
+cs matches
+for ml
+the termination
+well typed
+with metrics
+of ackerman
+cmp x
+programming features
+proven terminating
+establishing program
+redex which
+ackerman function
+metric typing
+types in
+of reducibility
+the metric
+of form
+to program
+a type
+the type
+a program
+general recursion
+interactive theorem
+typed program
+every well
+if e
+derivable in
+the dependent
+n nat
+program in
+programmer to
+a metric
+typing rules
+reducibility for
+int a
+dml can
+par cmp
+structural orderings
+hi j
+nat j
+withtype a
+metric hi
+length cs
+detecting program
+loop j
+and polymorphism
+assume derivable
+primitive recursion
+our approach
+for establishing
+higher order
+rewriting systems
+theorem proving
+e is
+reduces to
+term rewriting
+of cs
+ml in
+types int
+cs 0
+of ml
+a 7
+a list
+e 0
+type checking
+metrics for
+natural numbers
+language ml
+18 14
+nat n
+subject reduction
+an implementation
+be proven
+dynamic semantics
+recursion the
+order functions
+a derivation
+to e
+the body
+which reduces
+nat int
+usual lexicographic
+program error
+hongwei xi
+f reducible
+automated termination
+b int
+a decorated
+recursion higher
+have types
+of dml
+decorated type
+hi ji
+closed recursive
+informally explain
+fun f
+significant programming
+reducibility let
+j nat
+else acc
+termination proofs
+xs withtype
+rule type
+termination checker
+derivable and
+systems trss
+reducibility is
+acc is
+closed expression
+p1 p2
+body of
+rules for
+well founded
+satisfaction relation
+simply typed
+of index
+of dependent
+we write
+we form
+practical programming
+typed closed
+type annotation
+int j
+types developed
+char c
+terminating in
+including mutual
+founded orderings
+f 7
+and int
+facilitate program
+i int
+datatypes and
+termination analysis
+7 e
+checking in
+safety property
+a safety
+e 2
+that e
+a closed
+function call
+recursion is
+of pattern
+of type
+be readily
+programming language
+terminating with
+pattern i
+we attach
+a language
+an expression
+verify that
+to verify
+expression of
+proving the
+then e
+for verifying
+2 dom
+checker for
+metrics with
+x xs
+be formed
+the treatment
+the usual
+liveness property
+development cycle
+lexicographic ordering
+index variable
+attach the
+f in
+ordering on
+corollary 3
+type and
+implementation of
+a termination
+program termination verification
+to program termination
+dependent types in
+in ml 0
+the termination of
+the type system
+approach to program
+types in dml
+notion of reducibility
+in ml is
+for establishing program
+redex which reduces
+a redex which
+derivable in ml
+of ackerman function
+are reducible for
+establishing program termination
+is a redex
+of index expressions
+well typed program
+reduces to e
+every well typed
+interactive theorem proving
+the programmer to
+an implementation of
+typing rules for
+a language ml
+that every well
+implementation of ackerman
+be proven terminating
+typed program in
+of reducibility for
+reducible if e
+reducible for all
+the dependent types
+in dml can
+par cmp x
+detecting program errors
+the metric hi
+e is reducible
+which reduces to
+our approach to
+term rewriting systems
+type system of
+in the type
+corollary 3 10
+of dependent types
+in the body
+allows the programmer
+a safety property
+prove that every
+termination of a
+a recursive function
+need to verify
+the body of
+cannot be proven
+termination verification is
+rewriting systems trss
+of pattern i
+with a structural
+recursive function call
+for detecting program
+of form a
+types developed in
+a structural ordering
+fun f a
+program in ml
+every term in
+form of dependent
+e are reducible
+closed expression of
+reducibility let e
+attach the metric
+program errors that
+program termination is
+programming features such
+significant programming features
+ml 0 is
+mutual recursion higher
+1 of pattern
+the usual lexicographic
+a termination checker
+language ml 0
+rules for ml
+dependent types developed
+proven terminating with
+types int i
+the dynamic semantics
+i nat j
+closed recursive function
+a decorated type
+programmer to provide
+nat j nat
+is terminating in
+including mutual recursion
+well typed closed
+usual lexicographic ordering
+a closed expression
+termination proofs for
+recursion higher order
+errors that cause
+higher order functions
+of f in
+by corollary 3
+well founded orderings
+in practical programming
+types in practical
+for program termination
+programming language that
+e 2 in
+program development cycle
+contribution of the
+a type system
+is a derivation
+term in t
+to verify that
+that allows the
+of our approach
+e e 0
+lemma 3 9
+to e 2
+that e 0
+we form a
+of type and
+a liveness property
+the program in
+the satisfaction relation
+we can derive
+it is common
+be a closed
+e 0 is
+program in figure
+in t is
+let e be
+a prototype implementation
+e is a
+the notion of
+can be readily
+i pattern j
+difficult to be
+kevin donnelly hongwei
+theorem proving systems
+design a type
+e is 0
+of par we
+dependent sum type
+j funs f
+for termination checking
+par in the
+program termination and
+than 0 under
+k nat int
+decreasing when a
+p1 p2 if
+of which hold
+combines types with
+terminating in ml
+metrics for verifying
+is 0 reducible
+integer expressions with
+xs of x
+type for integer
+which hold since
+essentially extends the
+a character list
+prefix of cs
+with some significant
+a metric typing
+withtype n nat
+quicksort on a
+nested recursive function
+closed metric e
+that of ml
+structural ordering on
+donnelly hongwei xi
+only primitive recursion
+n u r
+p2 i nat
+char list i
+is terminating we
+nat int k
+a list n
+technical contribution of
+a renewed effort
+handled with a
+sequence of index
+nuprl 2 coq
+subject reduction theorem
+we informally explain
+approach to realistic
+if e are
+realistic programming language
+termination verifica tion
+example can not
+either programs or
+datatypes and polymorphism
+often have difficulty
+acc p1 cs
+algebraic datatypes and
+f 7 e

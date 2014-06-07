@@ -1,0 +1,600 @@
+quorum
+protocol
+availability
+hqc
+permission
+initiating
+availabilities
+replica
+protocols
+messages
+voting
+majority
+message
+subgroup
+request
+grid
+overhead
+sent
+votes
+node
+mgr
+ahqc
+nodes
+consensus
+subgroups
+1c
+ree
+replicated
+read
+logical
+children
+failures
+unsuccessfully
+mmaj
+respond
+rst
+root
+tree
+nr
+recurrence
+amaj
+mhqc
+proceed
+collect
+agr
+groups
+faulty
+probability
+1024
+column
+whom
+worst
+fault
+granted
+comparable
+hierarchy
+average
+expression
+replication
+send
+sends
+group
+permissions
+plot
+databases
+exchanged
+aborted
+ne
+columns
+failure
+vote
+lowest
+write
+steady
+unobtainable
+yamaguchi
+abstractmanagement
+agw
+kemme
+ammar
+inflicts
+solidifies
+tatsuhiro
+mgw
+yat
+kikuno
+asymptotically
+scalability
+matthias
+expressions
+enumerated
+sub
+tolerant
+trade
+unavailable
+sheung
+patio
+tohru
+peris
+gifford
+masatoshi
+deemed
+initiates
+depth
+wong
+requesting
+256
+ratio
+worsened
+ahamad
+bettina
+jarke
+widens
+confirmed
+leaf
+outcomes
+exclusion
+responds
+ith
+tsuchiya
+increased
+rows
+successfully
+hierarchical
+abbadi
+prone
+resiliency
+burdens
+chee
+quorums
+copies
+terminates
+terminated
+combinatorially
+hon
+jth
+trying
+jimnez
+gustavo
+stand
+chau
+requests
+serializability
+645
+organization
+delay
+wai
+672
+branch
+512
+mutual
+managing
+alonso
+concurrency
+incurred
+initiated
+sizes
+maintaining
+physical
+functional
+471
+plotted
+weighted
+none
+tods
+ricardo
+leaves
+database
+probed
+dependability
+casts
+64
+receive
+diamond
+492
+gets
+cheung
+aborts
+graphs
+nicola
+martnez
+analytical
+belonging
+plots
+terminate
+128
+unsuitable
+termination
+discriminate
+standpoint
+asymptotic
+exchange
+detrimental
+virtual
+ding
+294
+agrawal
+categories
+trees
+chu
+message overhead
+average message
+initiating node
+the initiating
+replica control
+request messages
+voting protocol
+permission from
+a quorum
+majority voting
+the grid
+system size
+a majority
+the protocols
+availability of
+quorum group
+node availabilities
+system availability
+the nodes
+control protocols
+write quorum
+a read
+rst protocol
+hqc protocol
+nodes in
+read quorum
+grid protocol
+case message
+tree protocol
+votes from
+quorum consensus
+permission is
+the hqc
+n 1c
+of request
+a write
+the average
+quorum groups
+node initiating
+node availability
+messages sent
+protocol is
+a node
+of messages
+the root
+overhead and
+the majority
+system availabilities
+availabilities greater
+logical node
+if permission
+the availability
+replicated data
+is available
+majority of
+messages to
+a subgroup
+system sizes
+best case
+and availability
+the system
+t ree
+protocols that
+node at
+an operation
+overhead of
+quorum is
+ree d
+known replica
+column respond
+sub tree
+average case
+available if
+root is
+initiating a
+protocol has
+average number
+hierarchical quorum
+relative ratio
+write availability
+the tree
+sent by
+sent to
+grid and
+the protocol
+respond in
+proceed with
+for node
+g nodes
+physical nodes
+grid is
+are functional
+the quorum
+not obtained
+first column
+be sent
+a replica
+are available
+left sub
+of availability
+node needs
+availability and
+1c nodes
+majority protocol
+collect m
+ne nodes
+for mgr
+mgr p
+needs permission
+m votes
+collect votes
+ahqc p
+q nr
+subgroups that
+that plot
+node trying
+b n
+different protocols
+a logical
+to proceed
+control protocol
+the rst
+write operation
+messages that
+messages are
+logical tree
+quorum set
+quorum from
+ith level
+against node
+read availability
+derived later
+quorum cannot
+performance parameters
+following recurrence
+to collect
+other nodes
+expected number
+nodes are
+a protocol
+protocol 8
+subgroup and
+subgroup is
+one node
+read or
+than 0
+communication overhead
+with probability
+can proceed
+are sent
+granted by
+the subgroups
+entire grid
+protocols and
+case and
+of replica
+send request
+1024 the
+weighted voting
+node system
+following expression
+this protocol
+node before
+protocol terminates
+d ne
+protocol uses
+remaining portion
+sub trees
+when none
+expression for
+protocols is
+these protocols
+worst case
+different copies
+have comparable
+needs to
+probability p
+for replicated
+the node
+expressions for
+n c
+a request
+node and
+individual nodes
+the permission
+of failures
+are organized
+been limited
+availability in
+node in
+read and
+n r
+available the
+its children
+sent before
+to nodes
+nodes at
+g quorum
+gets permission
+average mgr
+average message overhead
+the initiating node
+the average message
+message overhead and
+replica control protocols
+majority voting protocol
+of request messages
+number of request
+from a majority
+message overhead of
+the tree protocol
+the nodes in
+case message overhead
+permission from a
+a write quorum
+the grid protocol
+availability of the
+all the protocols
+the majority voting
+the rst protocol
+request messages sent
+nodes in the
+number of messages
+b n 1c
+the hqc protocol
+of the nodes
+the protocols that
+by the initiating
+protocols that we
+a majority of
+a read quorum
+overhead and availability
+for node availabilities
+availability of a
+the system size
+the availability of
+request messages to
+node initiating a
+replica control protocol
+proceed with an
+node availabilities greater
+availabilities greater than
+of the grid
+root is available
+read or a
+system size is
+in the system
+all the nodes
+the root is
+to be sent
+or a write
+is available if
+with an operation
+average number of
+if permission is
+average case message
+well known replica
+known replica control
+the system availability
+a replica control
+logical node at
+best case message
+voting protocol is
+t ree d
+system sizes of
+the node initiating
+for system sizes
+votes from a
+sent by the
+the grid and
+least one node
+the average number
+the different protocols
+nodes are organized
+hierarchical quorum consensus
+a read or
+messages are sent
+is not obtained
+needs to collect
+of messages that
+the first column
+left sub tree
+majority of the
+control protocol is
+to proceed with
+if the root
+protocol uses a
+best case and
+the left sub
+m votes from
+m t ree
+1024 the rst
+a quorum group
+expression for mgr
+to collect m
+d ne nodes
+column are available
+initiating a request
+those that plot
+message overhead for
+n 1c nodes
+to collect votes
+collect m votes
+physical nodes at
+node trying to
+against node availability
+the majority protocol
+initiating node before
+entire grid is
+needs permission from
+mgr p n
+rst protocol is
+subgroups that is
+than 0 9
+a node trying
+a subgroup is
+the column respond
+collect votes from
+of message overhead
+probability of which
+node system the
+a system size
+of average message
+quorum from the
+send request messages
+ahqc p l
+overhead and system
+for mgr p
+except the grid
+column respond in
+respond in this
+is derived later
+compare the protocols
+messages sent by
+a write operation
+greater than 0
+are sent to
+of these protocols
+expected number of
+the best case
+from the remaining
+the following recurrence
+control protocols and
+and system availability
+permission is granted
+is granted by
+permission is obtained
+first column are
+case and best
+quorum cannot be
+the write availability
+expressions for computing
+system size of
+and best case
+of replica control
+a node at
+node at the
+when the system
+trying to obtain
+p n r
+a quorum is
+node is available
+the entire grid
+of other nodes
+of the protocols
+of the hierarchy
+the following expression
+in the quorum
+for replicated data
+overhead of these
+message overhead in
+majority of its
+the remaining portion
+available when the
+when none of
+r n c
+probability p the
+protocol has the
+when the root
+been limited to
+node at level
+different copies of
+remaining portion of
+the performance parameters
+case and worst
+available if the
+with probability p
+and this would
+is given by
+to obtain a
+in the column
+and a write
+on an average
+tree of depth
+of the majority
+be sent by
+derived as follows
+average case analysis
+in this protocol
+size is increased

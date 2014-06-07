@@ -1,0 +1,600 @@
+automaton
+safety
+prex
+prexes
+ltl
+buchi
+pref
+informative
+nite
+bad
+nondeterministic
+innite
+pathologically
+automata
+safe
+formulas
+formula
+verication
+accepting
+intentionally
+checking
+vw94
+accidentally
+alternating
+blow
+sis94
+temporal
+word
+ht
+reachability
+ne
+satises
+ctl
+gp
+accepts
+qi
+hw
+exponential
+sistla
+dene
+universal
+rst
+xq
+violates
+_
+tight
+satisable
+emptiness
+branching
+mp92
+nonemptiness
+veri
+co
+bdds
+symbolic
+pspace
+satised
+cl
+tbk95
+mh84
+doubly
+logic
+propositions
+letter
+deterministic
+trap
+subformulas
+witness
+ap
+verification
+su
+denition
+recognizes
+specication
+kvw00
+kv97
+cvwy92
+trace
+reverse
+propositional
+universality
+comp
+liveness
+paradigm
+language
+accepted
+alphabet
+innitely
+f0
+nonempty
+determinization
+homogeneous
+unfoldings
+classication
+visits
+bdd
+satisability
+violation
+transition
+deciding
+nonterminating
+exptime
+forward
+rj
+atomic
+intersection
+mp95
+bcm
+gw91
+fra92
+saf88
+gpvw95
+as87
+var96
+lwa98
+hksv97
+story
+dened
+invariance
+labeled
+ri
+theoretic
+vardi
+check
+dening
+containment
+mkm
+kv98
+actl
+backwards
+syntactically
+alternation
+explosion
+checker
+assertions
+concurrent
+sc85
+complementation
+deadlock
+avor
+unsatisable
+proceed
+accept
+loop
+reactive
+formally
+quadratic
+mona
+rejecting
+accordingly
+needlessly
+violate
+empty
+words
+symbolically
+determinism
+tree
+buggy
+orna
+cient
+logics
+tell
+translation
+1g
+modal
+inf
+traversal
+assert
+transitions
+moshe
+specied
+subformula
+fairness
+enumerate
+methodology
+specications
+tableau
+sat
+fair
+stays
+fq
+ected
+cation
+veried
+computations
+cope
+reasoning
+backward
+disjunctions
+skeletons
+checked
+guarantee
+appeared
+clever
+ng
+induces
+exhaustive
+semantics
+_gq_gr
+cooperativeness
+a safety
+bad prex
+safety formula
+bad prexes
+buchi automaton
+informative for
+pathologically safe
+ltl formula
+model checking
+an automaton
+automaton a
+an ltl
+safety language
+prex for
+nondeterministic buchi
+nondeterministic automaton
+a nondeterministic
+the automaton
+nite words
+intentionally safe
+innite words
+automaton for
+accidentally safe
+is pathologically
+co safety
+u true
+of safety
+safety properties
+ltl formulas
+accepting states
+buchi automata
+safety formulas
+temporal logic
+a prex
+is informative
+on nite
+alternating buchi
+reverse deterministic
+hw qi
+is intentionally
+a nite
+pref l
+ne for
+blow up
+a true
+automaton on
+is universal
+a bad
+prexes for
+informative bad
+l n
+system m
+linear temporal
+language l
+exactly all
+q w
+of ltl
+that violates
+of states
+an innite
+exponential in
+co pref
+tight automata
+q homogeneous
+pref a
+ne automaton
+positive normal
+safe formulas
+formula is
+accepts exactly
+safety property
+error trace
+for pref
+2 ap
+computation that
+reachability analysis
+doubly exponential
+of accepting
+prex that
+n loop
+state in
+verication of
+tight for
+m a
+an informative
+subset construction
+are informative
+nite prex
+a co
+the formula
+prex of
+su x
+every computation
+is accidentally
+innite word
+if if
+exponential blow
+is ne
+accepted by
+whether is
+an alternating
+a state
+alternating automata
+automaton n
+symbolic reachability
+automaton is
+true is
+emptiness of
+l a
+in j
+j j
+word in
+violates has
+nite word
+tight automaton
+safety automaton
+branching paradigm
+prex in
+prex x
+on innite
+of m
+a computation
+not satisfy
+l max
+a run
+a word
+automata theoretic
+safe i
+formulas in
+pspace complete
+forward reachability
+alternating automaton
+automaton that
+we dene
+formula we
+states to
+the nonemptiness
+for bad
+in pref
+n m
+the emptiness
+for l
+atomic propositions
+s 0
+symbolic methods
+words is
+the bad
+state q
+m satises
+nite computation
+of informative
+safety ltl
+the prexes
+linear properties
+xq x
+in vw94
+syntactically safe
+good prexes
+its bad
+sistla s
+in n
+in cl
+in l
+branching time
+that recognizes
+assume guarantee
+the formulas
+words that
+i every
+the universality
+all innite
+ht r
+invariance checking
+his formula
+all states
+in positive
+labeled tree
+state w
+the set
+2 q
+deciding whether
+for thus
+say that
+q is
+we say
+lower bound
+of ht
+space polynomial
+r ri
+is reverse
+tree ht
+verification of
+an automata
+a 0
+the su
+theorem 3
+t r
+the branching
+the denition
+if is
+a safety formula
+is a safety
+an ltl formula
+a bad prex
+a nondeterministic automaton
+bad prex for
+nondeterministic buchi automaton
+is pathologically safe
+is informative for
+on nite words
+of safety properties
+is intentionally safe
+a safety language
+n a true
+of accepting states
+every computation that
+informative bad prex
+computation that violates
+a co safety
+set of accepting
+a nondeterministic buchi
+linear temporal logic
+the bad prexes
+given an ltl
+automaton on nite
+buchi automaton a
+in j j
+a safety property
+is ne for
+if if if
+a system m
+set of states
+does not satisfy
+the automaton a
+automaton for pref
+co safety language
+system m and
+q w i
+is accidentally safe
+positive normal form
+verication of safety
+bad prexes for
+safety formula is
+u true is
+of an automaton
+all the bad
+accepts exactly all
+on innite words
+alternating buchi automaton
+that is informative
+exponential blow up
+the set of
+of m a
+the emptiness of
+co pref l
+an informative bad
+that violates has
+the branching paradigm
+a nite word
+in positive normal
+prex for example
+an automaton a
+example the formula
+exactly all the
+m a 1
+is a bad
+an innite word
+alternating buchi automata
+an exponential blow
+we say that
+for that is
+is tight for
+an automaton for
+is a co
+accepted by a
+an automaton that
+the automaton for
+the su x
+exponential in the
+model checking of
+all the formulas
+word in l
+m and a
+pref l a
+to l max
+prexes for l
+that is intentionally
+safety formula we
+a nite prex
+a prex that
+its bad prexes
+of ltl formulas
+semantics of ltl
+i is universal
+are informative for
+given a safety
+xq x q
+the subset construction
+is reverse deterministic
+dening the set
+is an informative
+safety ltl formula
+nite words that
+2 2 ap
+prex that is
+n m u
+deciding whether is
+automaton a true
+m u true
+exponential in j
+a tight automaton
+some state in
+a language l
+a run of
+that the automaton
+states to be
+automata theoretic approach
+automaton a over
+ltl formula and
+innite words over
+nite words is
+safety in the
+an alternating buchi
+ht r ri
+in the branching
+an alternating automaton
+an automata theoretic
+in the length
+which p does
+space polynomial in
+nondeterministic automaton for
+doubly exponential in
+automaton that recognizes
+involves an exponential
+after the rst
+of the system
+the size of
+at least one
+x c 2
+in theorem 3
+q 2 q
+formula we can
+l 0 n
+construction of an
+in which p
+of states that
+f0 1g n
+the language l
+has a nite
+formula and a
+systems are often
+say that a
+the lower bound
+model checking techniques
+construct an automaton
+in f0 1g
+theoretic approach to
+of atomic propositions
+safe and is
+a true is
+prex informative for
+bad prex of
+safety formula i
+of tight automata
+not accept all
+whether is pathologically
+bad prexes we
+ltl formula in
+that m satises
+bad prex x
+search for bad
+l max i
+state hw qi
+word in f0
+u is reverse
+consider the safety
+2 ap the
+prex for l
+of bad prexes
+automaton obtained from
+an automaton tight
+for going from
+natural safety formulas
+one bad prex
+ltl formula we
+safety is a
+least one bad
+classication of safety
+a and comp
+or accidentally safe
+1g n that
+a ne automaton
+given formula is
+checking the emptiness
+product n m
+proof based approach
+further traversal of
+accepts exactly these
+a safety ltl
+prex in pref
