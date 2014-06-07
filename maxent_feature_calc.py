@@ -9,8 +9,8 @@ from nltk.classify import maxent
 #global variables for classification
 stopwords = []
 
-outputPath = "maxentOutput270.txt"#MAXENT CHANGE
-candidatesPath = "testCandidatesV1.txt"#MAXENT CHANGE
+outputPath = "maxentOutput600.txt"#MAXENT CHANGE
+candidatesPath = "test600Cands"#MAXENT CHANGE
 
 class FeatureCalculator:
 	def __init__(self, document, phrases, tfidf):
