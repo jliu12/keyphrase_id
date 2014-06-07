@@ -1,0 +1,90 @@
+dsm:0.0424998211788
+writer:0.0418314559315
+consistency:0.0361418305775
+coherence:0.0344646551017
+protocol:0.0248963104603
+lrc:0.021509446428
+invalidate:0.0154929409799
+release:0.0152924967934
+relaxed:0.013597071052
+page:0.0101465185311
+lazy:0.00877908244
+acquire:0.00828133695802
+processor:0.00812212245574
+treadmarks:0.00723772494646
+sharing:0.00689789436323
+ownership:0.00648302356965
+protocols:0.00641050776155
+coherent:0.00624465426943
+munin:0.00583480685052
+memory:0.00544158801721
+hardware:0.00527742794579
+false:0.00510161718485
+cache:0.00501519343044
+mw:0.00497848021385
+ordering:0.00496334707429
+atomicity:0.00480504178876
+shared:0.00469922055072
+processors:0.00446472140743
+event:0.00378835042482
+invalidated:0.00373690448419
+writer protocol:0.0525539950804
+consistency model:0.0476477534021
+memory consistency:0.0459708344327
+dsm systems:0.0392846604666
+software dsm:0.0370021987035
+multiple writer:0.0367877965563
+consistency models:0.0280604717619
+coherence protocol:0.0246140901229
+release consistency:0.0243190755269
+single writer:0.0243157437859
+false sharing:0.0208205941163
+hardware dsm:0.0184707293987
+relaxed single:0.0184707293987
+coherence protocols:0.0174689170844
+event ordering:0.0168362830571
+lazy release:0.015562076023
+in software:0.0128543764719
+more relaxed:0.0120384910538
+the coherence:0.0104102970581
+sequential consistency:0.010288839646
+write notices:0.00979469965681
+acquire operation:0.00963079284302
+between coherence:0.00963079284302
+in hardware:0.00926509812226
+invalidate message:0.00923536469934
+mw protocol:0.00923536469934
+shared memory:0.00901572131859
+of coherence:0.00875366776292
+entry consistency:0.00842694373764
+dsm system:0.00840863921286
+multiple writer protocol:0.0335267341101
+software dsm systems:0.0330621814826
+memory consistency model:0.0323706398304
+in software dsm:0.0279756920237
+single writer protocol:0.0242779798728
+memory consistency models:0.0234966519979
+relaxed single writer:0.0194195424524
+and memory consistency:0.0165310907413
+lazy release consistency:0.015941494001
+in hardware dsm:0.0152582119269
+consistency model is:0.0152582119269
+hardware dsm systems:0.0138711017517
+event ordering in:0.0119732934679
+protocols and memory:0.0114446012824
+coherence protocols and:0.0114446012824
+the more relaxed:0.0110968814014
+in each processor:0.0109749293577
+ordering in each:0.010836446519
+of memory consistency:0.0101729789177
+for memory consistency:0.00970977122622
+coherence protocol and:0.008901356553
+dsm systems the:0.00842834729256
+relationship between coherence:0.00832266105105
+writer protocol is:0.00832266105105
+write false sharing:0.00832266105105
+and software dsm:0.00832266105105
+strict single writer:0.00832266105105
+an acquire operation:0.00832266105105
+consistency model in:0.00809265995761
+and event ordering:0.00783221733264

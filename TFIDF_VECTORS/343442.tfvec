@@ -1,0 +1,90 @@
+hyperplane:0.0799813442627
+statement:0.0206119629941
+partitioning:0.0136383670812
+hyperplanes:0.0135931452464
+iteration:0.0130958341818
+coefficient:0.0118706588091
+array:0.0113576480557
+sis:0.0104803140758
+nested:0.0104403308672
+ker:0.00884939733949
+ds:0.0087202526783
+spaces:0.00841525211451
+imperfectly:0.00830249927209
+communication:0.0070153151183
+loop:0.0067656451068
+psi:0.00669667081923
+ref:0.00606755025441
+multicomputers:0.00572389367949
+loops:0.00479488663507
+statements:0.00458242024118
+vectors:0.00445102793157
+nontrivial:0.00441321729814
+free:0.00383851198147
+schedulable:0.00370722143085
+affine:0.00364118240042
+partitionings:0.00359431036376
+v2d:0.0034561500611
+delta:0.00342431276452
+interprocessor:0.0032863586882
+iterations:0.00325974992157
+statement iteration:0.121225990297
+communication free:0.0843727355678
+free hyperplane:0.0618757658809
+iteration hyperplane:0.0580874536841
+hyperplane partitioning:0.0492480585583
+data hyperplane:0.047985287826
+hyperplane coefficient:0.0416714341647
+coefficient vectors:0.0291658839
+statement iterations:0.0252554146453
+sis s:0.023992643913
+iteration space:0.0199908279191
+data spaces:0.0189415609839
+iteration spaces:0.0176876301387
+array reference:0.0175999273681
+s v:0.017216802708
+ds v:0.0164160195194
+the statement:0.015335336337
+psi h:0.0152256942482
+nested loop:0.0149665632451
+f s:0.014550522781
+ref s:0.0138904780549
+ker f:0.0138268037191
+hyperplane constant:0.0126277073226
+free partitioning:0.0126277073226
+two statement:0.0115223364326
+imperfectly nested:0.0110661592127
+of statement:0.010978599452
+hyperplane of:0.0104749601398
+partition group:0.0103701027893
+statement s:0.0103014517888
+statement iteration hyperplane:0.0610708810171
+communication free hyperplane:0.0597432531689
+free hyperplane partitioning:0.0477946025351
+the statement iteration:0.0411564632942
+hyperplane coefficient vectors:0.0371735797496
+f s v:0.0278801848122
+of communication free:0.0252249291158
+statement iteration space:0.0225696734194
+statement iteration spaces:0.0212420455712
+the data hyperplane:0.0212420455712
+iteration hyperplane coefficient:0.019914417723
+data hyperplane coefficient:0.019914417723
+ker f s:0.0159315341784
+the array reference:0.0143847394733
+hyperplane partitioning for:0.0119486506338
+and data spaces:0.0119486506338
+communication free partitioning:0.0119486506338
+imperfectly nested loops:0.0107090781046
+nontrivial communication free:0.0106210227856
+psi h s:0.0106210227856
+of statement iteration:0.0106210227856
+ref s v:0.0106210227856
+iteration spaces and:0.0106210227856
+two statement iterations:0.0106210227856
+hyperplane constant terms:0.0106210227856
+of sis s:0.0106210227856
+iteration and data:0.00973673926701
+same array element:0.00973673926701
+statement iteration hyperplanes:0.00929339493739
+a statement iteration:0.00929339493739

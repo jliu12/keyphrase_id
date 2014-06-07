@@ -1,0 +1,90 @@
+interprocedural:0.0341838944025
+parallelization:0.0203831932774
+privatization:0.019280913444
+array:0.0149206148264
+suif:0.0127757136316
+parallelizing:0.0102645803078
+spec77:0.00911372414967
+analyses:0.00890363144651
+loops:0.00815399820731
+appbt:0.00775489581398
+coverage:0.00737759267227
+compiler:0.00670906315711
+parallelizable:0.00659309934859
+nas:0.00658434040195
+parallelism:0.00640701202586
+loop:0.00639342185214
+scalar:0.00637886740457
+embar:0.00630950133438
+trfd:0.0062654383795
+privatizable:0.00591734090223
+parallelized:0.00587283094328
+bdna:0.00563889454155
+mdljdp2:0.00560844563056
+spec92fp:0.00542842706979
+buk:0.00542842706979
+speedup:0.00517636216467
+ocean:0.00517479141009
+cgm:0.0050123507036
+qcd:0.00490738992674
+cloning:0.00442236241092
+parallelization analysis:0.0178494898679
+array analyses:0.0152995627439
+array privatization:0.0140226183264
+interprocedural analysis:0.0137983673066
+advanced array:0.0127496356199
+array analysis:0.00934973278794
+reduction recognition:0.00934973278794
+automatic parallelization:0.00862752254432
+interprocedural array:0.00771244007951
+data flow:0.00738086670008
+privatization and:0.00698015501557
+the interprocedural:0.00675329331826
+array data:0.00666544420239
+data dependence:0.00665531294312
+interprocedural parallelization:0.0065883033045
+the advanced:0.00641578203291
+dependence analysis:0.00633908966735
+flow analysis:0.0063143988595
+mary w:0.00620458223606
+scalar analysis:0.00594982995596
+w hall:0.005856269604
+parallelizing compilers:0.00585146738524
+the programs:0.00576891296835
+symbolic analysis:0.00574328433498
+interprocedural scalar:0.00542900945656
+in suif:0.00542900945656
+an interprocedural:0.00512780719329
+procedure cloning:0.0051242359035
+array reduction:0.00509985424797
+parallelism coverage:0.00509985424797
+advanced array analyses:0.0125101859318
+the advanced array:0.00982943180357
+array data flow:0.00753104456223
+data dependence analysis:0.00752013947301
+data flow analysis:0.00745969883264
+the parallelization analysis:0.00714867767532
+mary w hall:0.00655349414399
+granularity of parallelism:0.00576635596139
+region based analysis:0.00573430737599
+privatization and reduction:0.00536150825649
+interprocedural analysis for:0.00465393597283
+selective procedure cloning:0.00446792354708
+of these programs:0.00412423400435
+shih wei liao:0.00387827997736
+monica s lam:0.00387827997736
+of automatic parallelization:0.00372381440723
+doduc mdljdp2 wave5:0.00357433883766
+applu appsp buk:0.00357433883766
+fftpde mgrid tomcatv:0.00357433883766
+arc2d trfd spec77:0.00357433883766
+top down pass:0.00357433883766
+spec77 appbt applu:0.00357433883766
+mgrid tomcatv ora:0.00357433883766
+scalar parallelization analysis:0.00357433883766
+tomcatv ora doduc:0.00357433883766
+trfd spec77 appbt:0.00357433883766
+interprocedural parallelization analysis:0.00357433883766
+bdna dyfesm arc2d:0.00357433883766
+interprocedural scalar analysis:0.00357433883766
+appsp buk cgm:0.00357433883766

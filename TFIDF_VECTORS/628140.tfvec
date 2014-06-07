@@ -1,0 +1,90 @@
+subtransactions:0.0505169899544
+subtransaction:0.0454169633103
+transaction:0.030403122469
+serialization:0.0230676250086
+rpo:0.0216487425882
+flexible:0.0214955454577
+hddbs:0.0185560650756
+compensating:0.0161594527623
+cascading:0.0148492268626
+sseg:0.014226316558
+committed:0.0138164088037
+compensation:0.0117878606796
+compensatable:0.0117521745479
+ct:0.011745719851
+commit:0.0111781054983
+retriable:0.0105151035429
+serializability:0.0104860848999
+ip:0.0104300038544
+aborts:0.010403351868
+serializable:0.00977488258902
+1p:0.00956146596005
+oe:0.00917742937187
+ls:0.00861356973923
+serialized:0.00786135539786
+rpos:0.00742242603025
+atomicity:0.00733969886636
+concurrency:0.00709395933139
+gtm:0.00658097536376
+database:0.00600634303871
+commits:0.00581954847617
+flexible transaction:0.0398540085309
+flexible transactions:0.0303112964303
+serialization point:0.0268560302719
+oe rpo:0.0241015656286
+global transaction:0.0190606127756
+t ip:0.0179040201812
+t i:0.0166609253948
+local site:0.0155950468164
+its serialization:0.0144609393772
+of flexible:0.014198073794
+the sseg:0.0137723232163
+global transactions:0.0136091534993
+subtransaction t:0.0136091534993
+a subtransaction:0.0126148082809
+the hddbs:0.0123950908947
+concurrency control:0.0121390220577
+t j:0.0121194563338
+local transactions:0.0120946554542
+transaction t:0.0120008693005
+cascading aborts:0.0115518865307
+subtransactions of:0.0115178684304
+the serialization:0.0104740944029
+compensating subtransaction:0.0103292424123
+t 1p:0.00964062625144
+ls p:0.00964062625144
+a flexible:0.00949034619657
+of subtransactions:0.00932398872937
+local database:0.00932398872937
+compensating subtransactions:0.00895201009062
+hddbs environment:0.00895201009062
+a flexible transaction:0.0196997474584
+flexible transaction t:0.0189701271822
+its serialization point:0.015322025801
+in the hddbs:0.0102146838673
+of flexible transactions:0.00948506359109
+of a flexible:0.00923483996153
+the execution of:0.00922171223412
+execution of flexible:0.00875544331485
+compensation interference free:0.00875544331485
+the serialization point:0.00802582303862
+local site ls:0.00729620276238
+the hddbs environment:0.00729620276238
+a global transaction:0.00725594568406
+of global transactions:0.00725594568406
+global concurrency control:0.00680526311004
+the flexible transaction:0.00656658248614
+committed oe rpo:0.00656658248614
+global schedule s:0.00656658248614
+executes its serialization:0.00656658248614
+of t i:0.0062840107073
+and local transactions:0.00593668283241
+a subtransaction t:0.00593668283241
+the committed oe:0.0058369622099
+subtransaction t i:0.0058369622099
+avoiding cascading aborts:0.0058369622099
+t i and:0.00567879094449
+the serialization order:0.00548525248025
+of flexible transaction:0.00510734193366
+decision to commit:0.00510734193366
+a local site:0.00510734193366
