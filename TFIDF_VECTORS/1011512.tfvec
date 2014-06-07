@@ -1,0 +1,90 @@
+coalescing:0.114097240411
+spill:0.047869716249
+spilled:0.0390662295732
+coalesced:0.0354822636282
+allocator:0.0328224938168
+coloring:0.024898654688
+chaitin:0.0247737065586
+chunks:0.0202697333521
+optimistic:0.0195865529129
+aggressive:0.0195689345402
+register:0.0189586779445
+colored:0.0149080170676
+live:0.0142794818289
+coalesce:0.0135170528107
+splitting:0.0106105521403
+briggs:0.0101593433242
+interference:0.00936828994681
+iterated:0.00930785233355
+conservative:0.00907713100662
+colorable:0.00883748607673
+allocation:0.00882851280436
+spilling:0.00857551380876
+oo:0.00852281275036
+colorability:0.00844815800672
+coalescible:0.00762267894112
+copy:0.00696367726571
+spills:0.00666984407348
+copies:0.00626995781095
+stack:0.00621764412425
+xy:0.00614863938021
+aggressive coalescing:0.0328863434229
+live range:0.0266835216289
+conservative coalescing:0.025460394908
+coalesced node:0.0233386953324
+chaitin s:0.0233386953324
+range splitting:0.0233386953324
+register allocation:0.0213605764243
+the spill:0.0212169957567
+optimistic coalescing:0.0201561459689
+copy related:0.019095296181
+spill cost:0.019095296181
+positive impact:0.0186861098041
+iterated coalescing:0.0159127468175
+of coalescing:0.0159127468175
+graph coloring:0.0156321874499
+related nodes:0.0137910472418
+a coalesced:0.012730197454
+actually spilled:0.0116693476662
+optimistic allocator:0.0116693476662
+o oo:0.0114357949838
+the allocator:0.0106084978783
+of optimistic:0.0101393647774
+the stack:0.0095656344618
+actual spill:0.00954764809051
+interference edges:0.00954764809051
+coloring register:0.00954764809051
+oo o:0.0095298291532
+num of:0.0095298291532
+interference graph:0.0095298291532
+register allocator:0.0095298291532
+live range splitting:0.0247297621149
+the positive impact:0.0202334417304
+copy related nodes:0.0146130412497
+the spill cost:0.0134889611536
+a coalesced node:0.0134889611536
+positive impact of:0.0134889611536
+impact of coalescing:0.0134889611536
+o oo o:0.0101625267376
+graph coloring register:0.0101167208652
+colorability of the:0.00899264076907
+the negative impact:0.00857817908111
+oo o oo:0.00813002139005
+can be colored:0.00813002139005
+coalescing on top:0.00786856067294
+the coalesced node:0.00786856067294
+coloring register allocation:0.00786856067294
+chaitin s allocator:0.00786856067294
+phase ordering of:0.00786856067294
+the interference graph:0.00711376871629
+of live range:0.0067444805768
+significant degree neighbors:0.0067444805768
+spilled to memory:0.0067444805768
+the colorability of:0.0067444805768
+of conservative coalescing:0.0067444805768
+briggs optimistic allocator:0.0067444805768
+nodes being coalesced:0.00562040048067
+coalescing or iterated:0.00562040048067
+the select phase:0.00562040048067
+non copy related:0.00562040048067
+or iterated coalescing:0.00562040048067

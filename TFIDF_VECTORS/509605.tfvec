@@ -1,0 +1,90 @@
+stencil:0.0530499558094
+cshift:0.0267208891217
+stencils:0.0240712380713
+intraprocessor:0.0150975849477
+movement:0.0149201045432
+shift:0.0133948352371
+hpf:0.0114788097166
+array:0.0113303941694
+fortran90:0.0113273683229
+unioning:0.0100423015621
+offset:0.0096282082394
+compiler:0.00940286373155
+overlap:0.00924792069424
+subgrid:0.00899528978496
+arrays:0.00870144231707
+scalarization:0.00849552624219
+interprocessor:0.00846938786116
+compilation:0.00794636317921
+rsd:0.00779359266049
+xlhpf:0.00704553964224
+shifts:0.00676718121241
+src:0.00676412906097
+intrinsics:0.00605535156071
+cshifts:0.00556685190035
+fortran:0.00541438368048
+nest:0.00536902245339
+statements:0.0053608971711
+dst:0.00475396574767
+cm:0.00465711602367
+optimizations:0.00464352894896
+data movement:0.028488176181
+overlap shift:0.0207462416454
+point stencil:0.017008925494
+9 point:0.0155557234976
+stencil computations:0.0150999105153
+communication unioning:0.0146444058673
+intraprocessor data:0.0146444058673
+the stencil:0.0143946806097
+stencil computation:0.0136633887231
+offset array:0.0134240387117
+offset arrays:0.0134240387117
+context partitioning:0.0134240387117
+problem 9:0.0127566941205
+interprocessor data:0.0126123588214
+stencil compilation:0.0122036715561
+single statement:0.0119637973859
+compilation strategy:0.0116667926232
+statement stencils:0.0109833044005
+overlap shifts:0.00976293724488
+stencil compiler:0.00976293724488
+a stencil:0.009722327186
+shift operations:0.0094409276187
+distributed memory:0.00856437813691
+the cshift:0.00854257008927
+xlhpf compiler:0.00854257008927
+array syntax:0.00779479315227
+the overlap:0.00738018652208
+movement associated:0.00732220293366
+array optimization:0.00732220293366
+source array:0.00732220293366
+9 point stencil:0.0167057014585
+intraprocessor data movement:0.0153964741798
+interprocessor data movement:0.0141134346648
+stencil compilation strategy:0.00898127660487
+the source array:0.00769823708989
+overlap shifts for:0.00769823708989
+single statement stencils:0.00769823708989
+offset array optimization:0.00769823708989
+movement associated with:0.00769823708989
+data movement associated:0.00769823708989
+point stencil computation:0.00705729842343
+the interprocessor data:0.00705729842343
+to overlap shift:0.00641519757491
+data movement that:0.00641519757491
+a stencil computation:0.00641519757491
+s xlhpf compiler:0.00641519757491
+the overlap shifts:0.00641519757491
+problem 9 after:0.00641519757491
+ibm s xlhpf:0.00641519757491
+the single statement:0.00588108201952
+5 point stencil:0.00556856715282
+the data movement:0.00556781475239
+the cm 2:0.00517470705209
+all stencil computations:0.00513215805993
+our context partitioning:0.00513215805993
+communication unioning optimization:0.00513215805993
+overlap shift operations:0.00513215805993
+our stencil compilation:0.00513215805993
+context partitioning optimization:0.00513215805993
+in each direction:0.00487953466958

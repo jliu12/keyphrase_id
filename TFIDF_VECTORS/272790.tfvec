@@ -1,0 +1,90 @@
+preconditioner:0.0180380525555
+lfil:0.016751362306
+preconditioners:0.0155997860611
+preconditioning:0.0142565106159
+sparse:0.010748024876
+factorization:0.0103509818147
+preconditioned:0.0101159293605
+ilut:0.00913405933705
+residual:0.00909867041057
+nfil:0.00888582694621
+ablu:0.00888582694621
+gmres:0.00861174125294
+fidap:0.00837073232732
+nonzeros:0.00824502955853
+ilu:0.00771365322782
+lu:0.00700445775555
+stokes:0.0065716700983
+block:0.00656264323535
+approximate:0.00642492275552
+inverse:0.00602181722732
+ilutp:0.00585951262912
+matrices:0.00585489904626
+schur:0.00559395638379
+cavity:0.00537555960211
+navier:0.00535477079157
+factorizations:0.00527787618811
+incomplete:0.00448580460058
+guess:0.00434395048968
+incompressible:0.00395507957676
+indefinite:0.00367909951378
+approximate inverse:0.0196760458223
+approximate block:0.0142827291813
+block partitioned:0.0122412300698
+sparse approximate:0.0103909449597
+reduced system:0.00904974273793
+the preconditioned:0.00904476810828
+block lu:0.00862141074874
+residual norm:0.00841013247222
+domain decomposition:0.00838399415749
+the residual:0.00775417277739
+lu factorization:0.00773301234707
+schur complement:0.00769568784044
+initial guess:0.00744943806648
+the block:0.00703616683477
+the schur:0.00677768809885
+the fidap:0.00652410911849
+cavity problems:0.00649306671839
+decomposition reordering:0.00649306671839
+navier stokes:0.00641809810932
+preconditioners for:0.00620834215474
+driven cavity:0.00603498752412
+a sparse:0.00595696453363
+by 48:0.00592469379412
+the approximate:0.00573531771908
+incompressible navier:0.0056217273778
+inverse technique:0.00559209353014
+inverse algorithm:0.00541088893199
+stokes equations:0.00535362393259
+sparse vector:0.00517284644924
+fully coupled:0.00502312542827
+approximate block lu:0.00834406631448
+the schur complement:0.00808381607567
+domain decomposition reordering:0.00682640122274
+the approximate inverse:0.00669841553012
+the reduced system:0.00669841553012
+incompressible navier stokes:0.00606774876819
+inverse of a:0.00600854233328
+the residual norm:0.00600122731
+approximate inverse technique:0.00592550317852
+navier stokes equations:0.00589407058151
+block lu factorization:0.00568950004514
+the driven cavity:0.00568950004514
+driven cavity problems:0.00568866768562
+approximate inverse algorithm:0.00568866768562
+for the fidap:0.00568866768562
+test results for:0.0056687522912
+block gauss seidel:0.00523020382414
+partial approximate inverse:0.00521504144655
+the approximate block:0.00521504144655
+sparse approximate inverse:0.00502381164759
+the incompressible navier:0.00478741119457
+lfil theta nc:0.0045509341485
+from the incompressible:0.0045509341485
+preconditioned reduced system:0.0045509341485
+lfil nonzeros per:0.0045509341485
+the block partitioned:0.0045509341485
+approximate block gauss:0.0045509341485
+reduced system 14:0.0045509341485
+preconditioner described in:0.0045509341485
+fully coupled system:0.0045509341485

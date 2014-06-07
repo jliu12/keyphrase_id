@@ -1,0 +1,90 @@
+ldbs:0.0422124176059
+ticket:0.0384191789396
+ldbss:0.0374742890991
+multidatabase:0.0364226342836
+subtransactions:0.0327338090867
+tickets:0.0318760422742
+otm:0.0257481264379
+transaction:0.0243700675427
+serialization:0.0222356125249
+subtransaction:0.0221539734302
+mdbs:0.0204041756678
+serializability:0.0202959582259
+commit:0.0187455722464
+ctm:0.0165176660168
+prepared:0.0161354292754
+cascadeless:0.011659528953
+concurrency:0.00877977182829
+schedules:0.00830793373848
+serializable:0.00799733793339
+autonomy:0.00784859598082
+commitment:0.00735360805288
+conflicts:0.00731391499949
+schedulers:0.00724485782844
+gsg:0.00680139188926
+itm:0.00679522091808
+optimistic:0.00651288718556
+participating:0.00593214311595
+rigorous:0.00548543624962
+rigorousness:0.00534395077014
+committed:0.00530530642613
+global transactions:0.0286652791933
+prepared to:0.0248950859617
+subtransactions of:0.0245540653207
+the subtransactions:0.0226823817633
+to commit:0.0216263506099
+global serializability:0.0204057919681
+the mdbs:0.0189295804189
+commit state:0.0185995530459
+serialization order:0.0176494785077
+their tickets:0.0156845094899
+global transaction:0.015424019599
+multidatabase transactions:0.0150614178812
+concurrency control:0.013407319804
+the ldbss:0.0121463047429
+a ticket:0.0116308730467
+transaction management:0.0113492303649
+g 1:0.0113409136006
+take their:0.0112000999708
+of multidatabase:0.0111746003635
+of g:0.0111339504766
+the ticket:0.0108875432464
+relative serialization:0.0108169030965
+subtransaction of:0.0106887481738
+g 2:0.0104327993417
+its ticket:0.0102760579417
+before g:0.0102028959841
+multidatabase transaction:0.00923119160464
+their prepared:0.00919436763201
+participating ldbss:0.00865352247719
+serialization orders:0.00861930507004
+prepared to commit:0.026932773879
+to commit state:0.0212408321461
+the subtransactions of:0.0208932992037
+subtransactions of g:0.015542072302
+take their tickets:0.0148989812948
+take a ticket:0.0137529058106
+prepared to take:0.0120337925843
+subtransaction of g:0.0120337925843
+of global transactions:0.0119155887649
+relative serialization order:0.0114607548421
+of multidatabase transactions:0.0108794506114
+their prepared to:0.00974164161583
+execution and serialization:0.00916860387372
+at each ldbs:0.00859556613161
+and serialization orders:0.00859556613161
+enter their prepared:0.0074494906474
+visible prepared to:0.0074494906474
+serialization order of:0.00732372243141
+their relative serialization:0.00687645290529
+a visible prepared:0.00687645290529
+the subtransaction of:0.00630341516318
+a ticket state:0.00630341516318
+the take a:0.00630341516318
+of the ldbss:0.00630341516318
+a global transaction:0.00621682892081
+its prepared to:0.00573037742107
+the site graph:0.00573037742107
+the serializability of:0.00573037742107
+the local serialization:0.00573037742107
+the participating ldbss:0.00573037742107

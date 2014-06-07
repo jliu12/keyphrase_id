@@ -1,0 +1,90 @@
+predictor:0.0445959915443
+trace:0.0343091444838
+prediction:0.0258078684703
+branch:0.0177432889509
+misprediction:0.0164172518757
+hashed:0.0153097322377
+history:0.0134545664642
+traces:0.0131518108606
+correlated:0.012430070498
+rhs:0.0105744881773
+branches:0.00975408248193
+pht:0.00915280373482
+predictors:0.00884577226273
+cache:0.00817845553712
+aliasing:0.00811125604525
+bhr:0.00798495403735
+identifier:0.00736124403695
+instruction:0.00718719677781
+bits:0.00649242991012
+gshare:0.00610021297602
+fetch:0.00605613447467
+alternate:0.00587951505741
+xlisp:0.00516373255836
+identifiers:0.00475158567541
+benchmarks:0.00463624128755
+histories:0.00461012555872
+instructions:0.00433444045563
+id:0.00432188581757
+entries:0.00422630630555
+sequential:0.00393030513005
+correlated predictor:0.0206125446617
+next trace:0.0194553983122
+trace cache:0.0184444059863
+misprediction rate:0.0174759069126
+the predictor:0.0164346281685
+the correlated:0.0137905116162
+multiple branch:0.0133149766953
+branch prediction:0.0132794213925
+hashed id:0.0129085516484
+history misprediction:0.0129085516484
+predictor is:0.0125733195925
+the trace:0.0125128917561
+trace prediction:0.0124227261092
+entries entries:0.0117785969496
+a trace:0.0115274213341
+history register:0.00973447878792
+id hashed:0.00968141373631
+sequential depth:0.00968141373631
+of history:0.00959109111286
+of traces:0.00892466428511
+trace predictor:0.00887337579228
+the prediction:0.00884697331803
+sequential predictor:0.00860570109895
+prediction table:0.0081891178855
+prediction accuracy:0.00802262794153
+trace identifier:0.00785239796637
+trace identifiers:0.00785239796637
+multiple branches:0.00771291422707
+alternate trace:0.00741158030942
+the hashed:0.00709870063382
+the correlated predictor:0.0176251971105
+of history misprediction:0.0135712267655
+depth of history:0.0135712267655
+history misprediction rate:0.0135712267655
+hashed id hashed:0.0101784200741
+sequential depth of:0.0101784200741
+id hashed id:0.0101784200741
+the trace cache:0.0100347435694
+the prediction table:0.00953141435633
+next trace prediction:0.00687178125266
+the next trace:0.00687178125266
+the secondary predictor:0.00678561338274
+hybrid rhs sequential:0.00678561338274
+entries infinite sequential:0.00678561338274
+entries entries infinite:0.00678561338274
+correlated hybrid rhs:0.00678561338274
+2 14 entries:0.00678561338274
+entries entries entries:0.00678561338274
+14 entries entries:0.00678561338274
+multiple branch prediction:0.00659808940596
+next trace predictor:0.00589009821656
+return history stack:0.00589009821656
+the history register:0.00589009821656
+infinite sequential depth:0.00565467781895
+misprediction rate 2:0.00565467781895
+rate correlated hybrid:0.00565467781895
+idealized sequential predictor:0.00565467781895
+previously proposed multiple:0.00565467781895
+rate 2 14:0.00565467781895
+proposed multiple branch:0.00565467781895
