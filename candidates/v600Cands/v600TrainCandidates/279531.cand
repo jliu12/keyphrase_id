@@ -1,0 +1,600 @@
+staggering
+fl
+compacting
+thrashing
+enddo
+sris
+loop
+threads
+nest
+chunk
+cache
+interleave
+ssifa
+sgefa
+gss
+nested
+loops
+subscript
+thread
+spodi
+kstep
+iteration
+nests
+sharing
+dependences
+sgi
+iterations
+proportion
+unified
+outermost
+sriss
+array
+perfectly
+restructured
+dependence
+processors
+fang
+saxpy
+multiprocessor
+pivoting
+integers
+scheduling
+references
+psj
+compiler
+linpack
+chunks
+restructure
+innermost
+restructuring
+subroutine
+lu
+snoopy
+multiprocessors
+columns
+caches
+l1
+subnest
+parpro
+locality
+compacted
+equivalence
+alignment
+staggered
+partitioning
+processor
+hierarchies
+gammag
+lb
+parallelizing
+subscripts
+gcd
+4400
+stagger
+align
+coherence
+accessed
+aligned
+schedulings
+interchange
+affine
+parallelized
+doall
+imperfectly
+eliminate
+balance
+sequential
+reference
+multilevel
+pong
+f77
+transformed
+ub
+psi
+segment
+memory
+kd
+gammaa
+shapes
+coefficients
+secondary
+abraham
+programs
+index
+dependent
+tiling
+fetches
+paging
+devided
+kranz
+adp
+cofficients
+10026101418
+powerpath
+stripmining
+outwards
+100246810
+t100
+ksteps
+embraces
+1000
+outperforms
+supercomputers
+precomputed
+endif
+transformations
+interprocessor
+elimination
+destroy
+enclosed
+abstractwhen
+sufah
+fortes
+jalby
+12345
+00
+compile
+silicon
+reuse
+benchmarks
+lastly
+load
+false
+euclidean
+sink
+definite
+t1
+restructures
+recompile
+1352
+tomko
+multiword
+timizations
+determinant
+ping
+mips
+option
+symmetric
+expressions
+lawrie
+kuck
+cae
+coherent
+jj
+thorough
+bounds
+overhead
+optimizations
+share
+peir
+gannon
+executed
+am
+arrays
+cluster
+natarajan
+hollander
+hudak
+gallivan
+transformation
+cytron
+belong
+parameter
+abu
+petroleum
+listed
+lemma
+clarity
+equals
+callahan
+clarifying
+backend
+statically
+divides
+beats
+pendent
+subscripted
+multiproces
+unimodular
+mappings
+staggering parameter
+fl 1
+reduced iteration
+staggering parameters
+iteration space
+cache thrashing
+a fl
+fl 2
+unified staggering
+b fl
+the staggering
+the compacting
+loop nest
+compacting parameter
+interleave chunk
+the reduced
+the sris
+enddo enddo
+data sharing
+true data
+l fl
+perfectly nested
+the threads
+parallel loops
+thrashing problem
+i j
+parallel loop
+c fl
+thrashing due
+dynamic gss
+the loop
+g 0
+integers r
+fang and
+reference pair
+chunk dynamic
+after staggering
+processors interleave
+gss simple
+chunk interleave
+threads in
+loop nests
+the iterations
+our method
+dependent reference
+subscript functions
+proportion with
+given staggering
+parameters l
+in proportion
+nested loop
+sequential loop
+the unified
+subscript function
+parameter d
+simple our
+loop bounds
+data dependences
+different columns
+reduce or
+iteration i
+staggering and
+staggering the
+the cache
+nested loops
+h fl
+d d
+given loop
+and lu
+t i
+g g
+a loop
+to true
+reference pairs
+k iteration
+for ssifa
+sris with
+loop index
+algorithm 1
+21 given
+the outermost
+1 l
+parameter g
+exist integers
+subscript expressions
+loop j
+dependences between
+linear functions
+the thrashing
+after compacting
+of staggering
+iterations i
+iterations in
+1 b
+the thread
+thread t
+the nested
+outermost loop
+2 b
+false sharing
+code segment
+there exist
+eliminate cache
+parameter l
+fl m
+nest in
+a dependence
+of processors
+equivalence class
+to definition
+the subscript
+l 0
+each processor
+gammag c
+thread alignment
+zero integers
+of kstep
+guarantee l
+nest model
+given iterations
+fl equal
+threads created
+necessarily perfectly
+lu s
+to gammag
+gcd fl
+local memory
+compacting the
+array references
+load balance
+i 0
+scheduling methods
+1 fl
+same equivalence
+multiple linear
+the array
+or eliminate
+fl l
+even eliminate
+with gcd
+the restructured
+linear subscript
+dependent references
+the innermost
+definition 4
+the iteration
+enddo the
+n 1000
+l1 2
+and compacting
+different processors
+equations 1
+a 1
+gamma a
+integer r
+of array
+fl i
+memory hierarchies
+work considers
+parallel compiler
+loop is
+in definition
+1000 figure
+condition l
+of threads
+two linear
+a i
+by algorithm
+parallel processing
+euclidean algorithm
+any parallel
+given iteration
+cache or
+function h
+this program
+1 c
+are integers
+of references
+s 0
+1 theta
+theta n
+nest is
+loop interchange
+multiprocessor systems
+1 1
+array subscripts
+space n
+loop indices
+restructure the
+threads we
+array subscript
+integer coefficients
+no data
+1 a
+a 2
+in different
+21 if
+transformed code
+loops are
+r 00
+reduced iteration space
+the reduced iteration
+unified staggering parameter
+true data sharing
+the compacting parameter
+a fl 2
+b fl 1
+in the reduced
+fl 1 b
+a fl 1
+to true data
+b fl 2
+1 b fl
+the unified staggering
+fl 1 a
+due to true
+g g 0
+1 a fl
+staggering parameters l
+cache thrashing due
+compacting parameter d
+thrashing due to
+the staggering parameters
+t i j
+l fl 1
+chunk dynamic gss
+simple our method
+fang and lu
+chunk interleave chunk
+interleave chunk dynamic
+processors interleave chunk
+dynamic gss simple
+gss simple our
+of processors interleave
+interleave chunk interleave
+the staggering parameter
+d d d
+to reduce or
+2 b fl
+c fl 1
+fl 1 c
+fl 2 b
+cache thrashing problem
+1 c fl
+and the compacting
+l fl 2
+the cache thrashing
+gamma a fl
+are in proportion
+given staggering parameters
+staggering parameter g
+a unified staggering
+c fl 2
+data dependences between
+iterations in the
+2 a fl
+1 2 a
+given loop nest
+to definition 4
+the threads in
+the nested loop
+if there exist
+exist integers r
+staggering parameters are
+d a fl
+eliminate cache thrashing
+no data dependences
+staggering parameter l
+2 c fl
+fl 2 a
+threads in different
+compacting the sris
+dependent reference pair
+the sris with
+fl 2 c
+parameter g g
+a parallel loop
+there exist integers
+number of processors
+two linear functions
+fl 2 gamma
+thread t i
+the outermost loop
+a 1 2
+in different columns
+according to definition
+threads in the
+the loop nest
+0 i j
+2 gamma a
+s 0 i
+parallel processing systems
+loop nest in
+equations 1 and
+s i j
+the iterations in
+reduce or eliminate
+b n 1000
+with gcd fl
+enddo enddo the
+gammag c d
+21 given staggering
+align the threads
+of dependent references
+1 fl m
+non zero integers
+m in definition
+guarantee l fl
+condition l k
+staggering and the
+staggering parameter in
+gamma b 1
+in proportion with
+value of kstep
+fl equal to
+1 gamma b
+iteration space n
+1 m in
+gcd fl equal
+of staggering parameters
+and lu s
+fl l fl
+given iterations i
+equal to gammag
+iteration i j
+method b n
+loop nest model
+to gammag c
+function h fl
+the thrashing problem
+staggering the iterations
+staggering parameter and
+space n 1
+fl 1 0
+given iteration i
+in any parallel
+to guarantee l
+not necessarily perfectly
+any parallel compiler
+the staggering and
+n 1000 figure
+necessarily perfectly nested
+after staggering the
+linear subscript functions
+then s 1
+computed by algorithm
+same equivalence class
+a 2 2
+the same equivalence
+a 1 1
+n 1 theta
+1 2 b
+or even eliminate
+loop j is
+subscript expressions of
+1 1 l
+our work considers
+reduce or even
+2 1 l
+to g c
+pair of references
+our method b
+by algorithm 1
+the iteration space
+theta n 2
+0 g 1
+efficiently implemented in
+the subscript expressions
+1 1 gamma
+the condition l
+the array subscripts
+1 theta n
+the given loop
+implemented in any
+on s 2
+our method a
+innermost loop is
+dependent on s
+nested loops which
+1 and 2
+2 a 1
+c d a
+g c d
+k 1 m
+dependences between the
+l 2 1
+enddo enddo enddo
+1 a 2
+the euclidean algorithm
+in definition 5
+theory of numbers
+i j we
+2 b 1
+i j in
+loop nest is
+g 0 g
+0 j 0
+i 0 j
+b 1 2
+n 2 theta

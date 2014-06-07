@@ -1,0 +1,600 @@
+protected
+ada
+tagged
+private
+requeue
+parent
+entry
+barrier
+inheritance
+child
+extensible
+deallocate
+locked
+package
+overridden
+pt2
+object
+primitive
+barriers
+oriented
+concurrent
+dispatching
+wellings
+dispatch
+wait_for_n
+signal_arrived
+packages
+anomaly
+calls
+pt4
+buffer
+95
+synchronization
+requeues
+some_type
+nof_items
+allocate_n
+overriding
+declared
+concurrency
+inherited
+synchronisation
+allocate
+params
+body
+pt0
+extended_class
+data_t
+pt5
+items
+entries
+mix
+anomalies
+serviced
+abstract
+wait
+yonezawa
+simple_buffer
+method1
+rsc_controller
+java
+queue
+synchronised
+generics
+mitchell
+calling
+visible
+requeued
+queues
+visibility
+matsuoka
+pt1
+lock
+queued
+language
+encapsulation
+objects
+sigada
+example5_base
+simple_resource_controller
+lockable
+base_signal
+pt7
+base_type
+current_queue
+signals
+controller
+record
+resource
+tasks
+modifier
+83
+t1
+oberon
+thread
+lund
+procedures
+resume
+debate
+encapsulated
+public
+history
+override
+arguably
+resources
+facilities
+languages
+concrete
+suspending
+publicly
+declare
+exclusion
+pt3
+release_all_signals
+nof
+integer_bounded_buffer
+example3
+method2
+advanced_resource_controller
+example1
+release_all_signal
+persistent_signal
+wait_until_zero
+persistent_signals
+advanced_controller
+no_resources_allocated
+ada9x
+ridden
+example6
+pt6
+lundqvist
+all_signals
+transient_signals
+transient_signal
+example4
+lockable_g
+shared_int
+xxv
+raised
+generic
+strengthened
+subtypes
+syntax
+signal
+1993
+unlock
+subtyping
+dispatchable
+kristina
+requeuing
+catered
+strengthening
+subprograms
+begin
+converted
+access
+typing
+req
+1996
+burns
+functionality
+mutual
+servicing
+linearizability
+accepted
+integration
+wide
+hidden
+extendable
+fr
+integrated
+integrate
+strengthen
+external
+count
+integrating
+bloom
+proposal
+returned
+false
+overrides
+raise
+expressive
+base
+privately
+forbids
+argued
+pointer
+plethora
+mechanisms
+dispatches
+wake
+attributes
+hierarchy
+guard
+monitors
+conversions
+declaration
+proposals
+accessed
+protected type
+protected types
+extensible protected
+ada 95
+tagged types
+object oriented
+primitive operations
+the parent
+a protected
+the child
+in ada
+protected object
+oriented programming
+class wide
+not locked
+is tagged
+is protected
+is begin
+inheritance anomaly
+mix in
+parent s
+s barrier
+parent entry
+the barrier
+protected body
+entry wait
+tagged protected
+is new
+is abstract
+the protected
+and wellings
+concurrent programming
+a tagged
+protected objects
+the ada
+tagged private
+private entry
+inheritance anomalies
+child entry
+ada 83
+tagged type
+concurrent object
+its parent
+child packages
+private types
+wide type
+with private
+protected action
+wellings 1996
+re dispatching
+parent type
+primitive operation
+a child
+an entry
+when not
+entry queue
+params some_type
+from pt2
+the call
+to deallocate
+is access
+mitchell and
+entry queues
+private part
+resource controller
+operations of
+type t
+types and
+calls to
+package body
+dispatch to
+in child
+types can
+in inheritance
+deallocate is
+child protected
+tagged procedure
+a requeue
+abstract entry
+re dispatch
+synchronization constraints
+that ada
+locked and
+data items
+the object
+entry calls
+entry call
+call to
+the package
+visible only
+type can
+procedure read
+ada specific
+limited private
+items etc
+procedure write
+another entry
+child can
+overridden entry
+private protected
+oriented concurrent
+allocate n
+other protected
+in out
+the entry
+private data
+for extensible
+is entry
+is procedure
+a call
+a parent
+and protected
+concurrency model
+of ada
+the primitive
+history information
+declared in
+fr lund
+operations visible
+normal tagged
+when signal_arrived
+type pt0
+extended protected
+pt4 is
+hidden inheritance
+entry barrier
+and yonezawa
+matsuoka and
+of pt4
+ordinary tagged
+example protected
+procedure deallocate
+free 0
+specific inheritance
+will dispatch
+entry requeues
+entry allocate
+an abstract
+the synchronization
+abstract type
+the language
+base type
+call is
+types are
+same protected
+wait when
+private type
+procedure send
+when free
+of extensible
+95 does
+the private
+entry is
+programming language
+external calls
+private private
+generics and
+task types
+free n
+wide types
+for concurrent
+fully integrated
+oriented languages
+be declared
+barrier of
+access types
+of inheritance
+procedure p
+to call
+the buffer
+the synchronisation
+call its
+local state
+acm sigada
+t class
+sigada ada
+ada letters
+entry and
+not returned
+from within
+programming languages
+pt2 with
+entry resume
+how extensible
+additional primitive
+anomaly matsuoka
+entry allocate_n
+parent protected
+free free
+type pt1
+fully integrate
+simple_buffer data_t
+wait_for_n for
+barrier strengthening
+type pt7
+parent call
+wellings 1998
+95 model
+typing model
+type buffer
+extensible protected types
+a protected type
+object oriented programming
+is protected type
+in ada 95
+the parent s
+when not locked
+parent s barrier
+primitive operations of
+concurrent object oriented
+of a protected
+class wide type
+mitchell and wellings
+is tagged private
+and wellings 1996
+the parent entry
+the ada 95
+the primitive operations
+a class wide
+not locked and
+in child packages
+a tagged protected
+the protected type
+in the parent
+protected type t
+t is tagged
+m in out
+for extensible protected
+mix in inheritance
+data items etc
+the child entry
+protected types are
+tagged protected type
+object oriented concurrent
+the private part
+private protected type
+protected type is
+is protected body
+the child can
+oriented programming languages
+the protected object
+of object oriented
+of the package
+a call to
+free 0 and
+ordinary tagged types
+entry wait when
+the parent type
+and not locked
+primitive operations visible
+only in child
+an abstract entry
+when free 0
+call its parent
+of extensible protected
+matsuoka and yonezawa
+wait when signal_arrived
+mix in class
+is tagged procedure
+extended protected types
+a child protected
+private data items
+normal tagged types
+ada specific inheritance
+to another entry
+language and made
+protected type are
+the mix in
+n in natural
+approaches have taken
+extensible protected type
+one entry queue
+of the language
+the object oriented
+type t is
+as a procedure
+oriented concurrent programming
+the same protected
+visible only in
+protected types can
+tagged types and
+the barrier of
+a tagged type
+and made it
+95 does not
+not returned to
+ada 95 does
+private part of
+type can be
+object oriented languages
+of a tagged
+must be serviced
+class wide types
+in object oriented
+in its parent
+is not returned
+in a child
+returned to the
+and object oriented
+concurrent programming in
+types can be
+acm sigada ada
+to the child
+ada letters v
+0 and not
+an abstract type
+sigada ada letters
+in the private
+control is not
+additional primitive operations
+procedure read m
+child protected object
+entry wait_for_n for
+tagged protected types
+is abstract private
+within a protected
+inheritance anomaly matsuoka
+parent protected type
+the synchronization constraints
+extended_class params some_type
+base pt2 with
+and wellings 1998
+buffer is tagged
+procedure write m
+potentially suspending operation
+and yonezawa 1993
+a potentially suspending
+types ada 95
+inherited from pt2
+a protected action
+tagged primitive operations
+is abstract procedure
+tagged procedure write
+view of pt4
+calls to allocate
+child packages of
+queue in boolean
+private private protected
+new t with
+when the child
+a parent entry
+concurrent and object
+the public view
+wait for n
+anomaly matsuoka and
+the inheritance anomaly
+ada 95 model
+is tagged record
+parent entry requeues
+be serviced before
+packages of package
+limited private types
+example protected type
+type buffer is
+paper will assume
+protected types and
+public view of
+a child entry
+wait_for_n for queue
+calls to deallocate
+for queue in
+is tagged primitive
+the child has
+calling the parent
+how extensible protected
+wait private entry
+new base pt2
+read m in
+protected type buffer
+entry wait private
+is begin signal_arrived
+tagged types in
+will dispatch to
+the typing model
+is new base
+can be declared
+have taken a
+operations of a
+to a class
+parent s state
+between the parent
+dispatch to the
+protected types the
+ada 95 to
+the call would
+all external calls
+class wide programming
+protected type and
+o in out
+write m in
+primitive operation of
+private entry wait
+ada 95 language
+barrier associated with
+an entry is
+the call is
+of ada 95
+entries to be
+burns and wellings
+of the inheritance

@@ -1,0 +1,600 @@
+retiming
+dfg
+unfolding
+unfolded
+period
+retimed
+mcp
+legal
+cycle
+sha
+100505
+tpds
+schedule
+inprod
+100505_1
+dfgs
+regularpaper97
+dsp
+968
+delay
+iteration
+doc
+scheduling
+sh
+prologue
+edwin
+dot
+am
+shortest
+chao
+edge
+flow
+count
+preprocessing
+loop
+fig
+lp
+trans
+ab
+epilogue
+retimings
+qingfeng
+production
+static
+mip
+counts
+zili
+cr
+vlsi
+lemma
+synthesis
+97
+zhuge
+vliw
+paths
+shao
+library
+loops
+edges
+path
+turely
+saem
+immaterial
+schedules
+vol
+notre
+jihong
+dame
+sched
+xiao
+graphs
+gers
+2a
+pipelining
+factor
+rate
+codesign
+delays
+integers
+node
+nonrecursive
+inte
+pushed
+signal
+critical
+precedence
+unfold
+pipelined
+circuitry
+neil
+ceiling
+bin
+equals
+37
+periods
+struc
+yun
+designer
+mail
+nonnegative
+dataflow
+risc
+dependencies
+beach
+resource
+copies
+fractional
+inequality
+273
+timothy
+multiprocessor
+293
+3a
+host
+resp
+iff
+hardware
+jacome
+interiteration
+iowa
+chantana
+regroups
+iastate
+dongming
+fice
+messerschmitt
+daal03
+akturan
+parhi
+transformative
+meikang
+zhiping
+saxe
+0074
+nonintegral
+thies
+durham
+0459
+warshall
+abstractloop
+asips
+ranga
+0these
+chatha
+multiproceesor
+reprints
+precedences
+lfc
+chantrapornchai
+mook
+8912100
+50011
+nice
+iterations
+oct
+inequalities
+han
+kim
+1997
+pipeline
+1270
+huntington
+vemuri
+ieeecs
+hms
+ule
+46556
+kyoto
+finer
+negative
+unit
+iterative
+december
+feedbacks
+1256
+amarasinghe
+ules
+leiserson
+matroids
+soo
+reorganizes
+teger
+veciana
+composes
+contradic
+fore
+subsection
+longest
+instant
+scheduler
+factors
+copy
+dung
+rome
+saman
+army
+multirate
+xue
+circularly
+nique
+unfolding factor
+cycle period
+retiming r
+r f
+g r
+legal retiming
+a retiming
+g f
+retiming and
+iteration period
+a dfg
+and unfolding
+unfolded graph
+the unfolded
+in g
+a legal
+factor f
+an unfolding
+dfg g
+minimum iteration
+delay count
+u v
+mcp f
+v f
+time dfg
+f c
+the dfg
+r v
+of retiming
+static schedule
+p f
+graph g
+unit time
+data flow
+o v
+period c
+original dfg
+rate optimal
+that g
+f and
+d p
+22 97
+2 inprod
+97 9
+doc regularpaper97
+library trans
+ab 19
+retiming algorithm
+the retiming
+inprod 100505
+100505 100505_1
+968 10
+100505_1 doc
+trans production
+37 am
+dot ab
+regularpaper97 dot
+production tpds
+19 968
+f library
+tpds 2
+delay counts
+time o
+9 37
+minimum cycle
+v e
+retiming on
+given unfolding
+m sha
+negative delay
+r u
+flow graphs
+f f
+every path
+10 22
+from u
+dfg c
+via retiming
+lp form
+path u
+path p
+to v
+d e
+f an
+f v
+the minimum
+7 s
+f for
+edwin h
+scheduling data
+graphs via
+edge e
+in time
+g such
+f is
+node v
+dfg and
+time dfgs
+unfolding factors
+the retimed
+f copies
+sh v
+dfg in
+retimed by
+iteration bound
+computation time
+the cycle
+the iteration
+the unfolding
+o f
+d f
+from v
+bound g
+shortest path
+in fig
+v in
+of node
+h m
+loop l
+a cycle
+c f
+for every
+edge from
+of g
+period of
+node u
+f in
+v v
+original graph
+flow graph
+having negative
+retiming technique
+sha scheduling
+chao and
+retimed dfg
+and sha
+l cr
+1997 f
+by retiming
+retimed graph
+retiming from
+8 no
+vol 8
+u to
+v and
+t p
+an edge
+u i
+in v
+f g
+schedule can
+for unit
+from lemma
+a schedule
+12 december
+path algorithms
+with unfolding
+no 12
+f r
+f the
+d l
+node set
+on g
+an unfolded
+by unfolding
+unfolding is
+critical paths
+preprocessing algorithm
+iteration j
+if part
+d r
+2a is
+the preprocessing
+and f
+v j
+v to
+t f
+e f
+v 0
+systems vol
+december 1997
+a static
+a path
+retiming algorithms
+graph dfg
+retiming the
+unfolding technique
+dfg which
+corresponding minimum
+period mip
+bin xiao
+dfg is
+dfg first
+qingfeng zhuge
+and unfolded
+dfg obtained
+retiming to
+integer where
+and retiming
+mip f
+g r f
+a legal retiming
+retiming and unfolding
+unfolding factor f
+the unfolded graph
+an unfolding factor
+that g r
+legal retiming r
+a retiming r
+minimum iteration period
+d p f
+r f c
+in g f
+such that g
+the cycle period
+is a legal
+in time o
+the minimum iteration
+a cycle period
+time o v
+cycle period c
+the original dfg
+unit time dfg
+minimum cycle period
+g f c
+100505_1 doc regularpaper97
+f an unfolding
+ab 19 968
+9 37 am
+library trans production
+production tpds 2
+968 10 22
+inprod 100505 100505_1
+f library trans
+dot ab 19
+100505 100505_1 doc
+regularpaper97 dot ab
+be a dfg
+10 22 97
+19 968 10
+97 9 37
+doc regularpaper97 dot
+22 97 9
+2 inprod 100505
+tpds 2 inprod
+trans production tpds
+for every path
+the minimum cycle
+and f an
+given unfolding factor
+a given unfolding
+data flow graphs
+p in g
+the iteration period
+h m sha
+period of g
+a static schedule
+cycle period of
+via retiming and
+flow graphs via
+a dfg g
+dfg c a
+c a cycle
+o v e
+graphs via retiming
+factor f and
+on the unfolded
+retiming r on
+path u v
+unfolded graph g
+edwin h m
+f for every
+time o f
+scheduling data flow
+of retiming and
+t p c
+dfg g r
+path p in
+f in g
+and g r
+r f is
+e in g
+g such that
+u to v
+u v e
+every path p
+of node v
+to v j
+in g r
+a unit time
+an edge from
+on the original
+order of retiming
+period and f
+delay count of
+for unit time
+retiming r f
+u v f
+g f and
+o f v
+o v 3
+data flow graph
+a dfg c
+graph g f
+from u i
+u and v
+cycle period and
+c if and
+is an edge
+original graph g
+the original graph
+v in v
+that g f
+in g if
+vol 8 no
+retiming r such
+and 7 s
+f copies of
+negative delay counts
+v f in
+from v f
+graph g r
+unfolding factor a
+having negative delay
+sha scheduling data
+exists a legal
+retiming from v
+retiming on the
+and sha scheduling
+computation of node
+find a retiming
+no 12 december
+chao and sha
+8 no 12
+at iteration j
+the unfolding factor
+december 1997 f
+12 december 1997
+1997 f library
+with unfolding factor
+and unfolding is
+function from v
+the iteration bound
+f c if
+g f such
+systems vol 8
+the retiming technique
+the delay count
+unit time dfgs
+edge from u
+from u to
+schedule can be
+v in g
+find the minimum
+fig 2a is
+shortest path algorithms
+edge e in
+is proved the
+g f r
+distributed systems vol
+from v to
+g be a
+in fig 2a
+of g r
+u v s
+r u r
+e d e
+let g be
+r is a
+runs in time
+the graph g
+that g c
+that d p
+c f g
+graph g such
+f such that
+which runs in
+f and c
+g and s
+u v v
+of g f
+a critical path
+for a dfg
+cycle period for
+mcp f for
+u i r
+mcp f f
+optimal schedule can
+j r v
+v f to
+all s where
+dfg and f
+no loops having
+i r u
+iteration period of
+v j r
+an unfolded graph
+0 s f
+dfg in fig
+delay count d

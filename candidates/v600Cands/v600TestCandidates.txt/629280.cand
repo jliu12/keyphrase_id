@@ -1,0 +1,600 @@
+arjuna
+persistent
+rpc
+object
+atomic
+binding
+server
+helios
+naming
+module
+replicas
+replication
+action
+client
+uid
+activated
+services
+abort
+gvd
+objectstate
+cid
+commit
+service
+volatile
+transparency
+actions
+passive
+remote
+ansaware
+serialisability
+statemanager
+atomicaction
+uids
+replica
+store
+manager
+lock
+migration
+concurrency
+servers
+stub
+objects
+lockrecord
+thisone
+invocation
+functioning
+crash
+invocations
+modules
+responsible
+replicated
+storage
+recordlist
+transparencies
+persistence
+stable
+invoking
+initiate
+ordinator
+port
+bindings
+rajdoot
+restore_state
+lockmanager
+recoveryrecord
+read_state
+recovery
+failures
+structuring
+invoked
+clients
+supporting
+aborted
+portable
+name
+crashes
+portability
+hostname
+rpcs
+facilities
+activation
+galileo
+op1
+save_state
+commit_shadow
+write_state
+abstractrecord
+ansa
+delete_shadow
+write_shadow
+managing
+activating
+copy
+functionality
+recoverable
+tolerant
+locks
+permitting
+destructor
+node
+fault
+locking
+active
+algol
+connection
+unix
+oriented
+operating
+binder
+atomicity
+accessing
+mutually
+abortion
+aborting
+repaired
+implementing
+capable
+identifier
+prepare
+organised
+transaction
+facility
+setlock
+get_request
+wheater
+transputers
+getmsg
+putmsg
+guardians
+cids
+rpccallrecord
+concealing
+hfs
+committed
+consistency
+interfaces
+management
+modular
+names
+subsystem
+committing
+registered
+activate
+nested
+copies
+host
+permanence
+recoverability
+trader
+send_reply
+invoker
+ensuing
+provision
+replicating
+mappings
+failure
+policy
+file
+hierarchy
+enhancements
+creation
+registering
+checkpoints
+revisions
+cohorts
+stubs
+mechanisms
+aborts
+stores
+heterogeneous
+co
+instances
+messages
+demon
+transputer
+gr
+reply
+delete
+location
+normally
+named
+primary
+sockets
+crashed
+isa
+executing
+terminating
+locate
+maintained
+string
+multicast
+invokes
+intentions
+destroyed
+recorded
+program
+examination
+interface
+stuart
+interconnecting
+atomic action
+object store
+the object
+persistent object
+object support
+atomic actions
+an object
+action module
+binding service
+rpc module
+persistent objects
+support module
+the binding
+the atomic
+the server
+active replication
+the arjuna
+naming and
+the rpc
+of arjuna
+the client
+the persistent
+and binding
+object servers
+the naming
+object server
+application program
+naming service
+the helios
+a persistent
+the gvd
+passive replication
+binding services
+in arjuna
+abort operation
+connection manager
+stable storage
+transparency mechanisms
+concurrency control
+responsible for
+the abort
+programming system
+object is
+object replicas
+store component
+object oriented
+module provides
+object storage
+the services
+distributed system
+of atomic
+is responsible
+state changes
+provided by
+an application
+objects in
+object can
+its state
+object manager
+the ansaware
+manager process
+the cid
+location information
+distributed programming
+remote procedure
+object will
+replicas of
+operation of
+co ordinator
+commit processing
+of persistent
+remote objects
+changes to
+object the
+the action
+class hierarchy
+of objects
+an operation
+mutually consistent
+object structure
+servers and
+a remote
+the recordlist
+cid of
+crash of
+persistent state
+uid of
+available replicas
+arjuna system
+invoking operations
+server processes
+store node
+group view
+volatile storage
+volatile store
+the volatile
+object b
+replicated objects
+name server
+write lock
+module the
+the application
+that object
+the functionality
+commit time
+application programs
+a passive
+state of
+be activated
+by invoking
+and server
+application level
+made available
+server process
+replica consistency
+non replicated
+passive object
+object stores
+rpc and
+an atomic
+action a
+a distributed
+fault tolerant
+a node
+the invocation
+object it
+replication in
+instances of
+at commit
+the uid
+server node
+system structuring
+the crash
+the class
+client and
+the commit
+server which
+support for
+a connection
+the operations
+on stable
+procedure call
+is invoked
+be made
+invocation of
+services provided
+name of
+x window
+of objectstate
+stub for
+arjuna distributed
+window system
+copy passive
+access transparency
+service operation
+of helios
+class specific
+store representation
+activated objects
+server managing
+activated object
+objectstate in
+system implementing
+stable object
+of initiate
+node crashes
+class objectstate
+replication policy
+helios operating
+support modules
+nested atomic
+naming module
+system services
+class statemanager
+the serialisability
+prepare operation
+concurrent invocations
+disk representation
+manager component
+the activated
+binding modules
+serialisability property
+replication transparency
+arjuna 11
+local rpc
+objectstate instance
+capable of
+user defined
+invoked to
+operating system
+for accessing
+and replication
+maintained by
+for supporting
+the state
+migration and
+as objects
+the host
+objects are
+at n
+the atomic action
+persistent object support
+atomic action module
+the object store
+the binding service
+of the object
+object support module
+naming and binding
+of an object
+a persistent object
+the rpc module
+an application program
+the persistent object
+and binding services
+the naming service
+state changes to
+an atomic action
+the abort operation
+an object store
+object store component
+object servers and
+is responsible for
+of the atomic
+provided by the
+of atomic actions
+distributed programming system
+of persistent objects
+client and server
+connection manager process
+of the server
+the object manager
+be made available
+operation of the
+object can be
+that the object
+the arjuna system
+object store node
+persistent state of
+the cid of
+the crash of
+object is responsible
+of atomic action
+an object server
+the object server
+of the arjuna
+atomic action a
+of a persistent
+objects in arjuna
+a distributed system
+with the object
+for the object
+remote procedure call
+to run on
+the application program
+a remote procedure
+for distributed computing
+a passive object
+then the object
+by the binding
+on stable storage
+support for distributed
+the connection manager
+an object oriented
+maintained by the
+migration and replication
+the location information
+at commit time
+the naming and
+can be made
+services provided by
+of the class
+to the object
+to ensure that
+the invocation of
+the name of
+about object replicas
+to system structuring
+version of arjuna
+x window system
+the x window
+passive replication in
+i an object
+the uid of
+invoking operations on
+and persistent object
+helios operating system
+uid of the
+information about object
+the persistent state
+and binding modules
+one object store
+copy passive replication
+the services of
+object manager component
+disk representation of
+single copy passive
+from the rpc
+instance of objectstate
+local rpc module
+persistent objects in
+arjuna 11 23
+cid of the
+the serialisability property
+abort operation of
+the prepare operation
+services can also
+state and methods
+the arjuna distributed
+object support modules
+the helios operating
+abort operation is
+11 23 29
+rpc and persistent
+necessary to ensure
+as a part
+of the host
+and the object
+state of the
+in a distributed
+the management of
+of the services
+operations on objects
+in effect this
+the functionality required
+of the persistent
+implementing fault tolerant
+its state to
+the services provided
+concerned mainly with
+the co ordinator
+failures such as
+changes to the
+an object is
+name of the
+by the underlying
+to the client
+if the object
+the object and
+the server for
+consider an application
+module provides a
+server for the
+the object can
+interfaces to the
+objects in a
+the object that
+where the server
+a class hierarchy
+an object it
+an operation of
+object oriented systems
+for that object
+object has been
+of the binding
+instances of the
+state of an
+itself can be
+each object is
+be capable of
+the client and
+an object are
+objects in this
+as an object
+an instance of
+to the objects
+of a node
+an object can
+a single object
+in an object
+by the naming
+that object it
+list of available
+managed through appropriate
+differ from its
+of available replicas
+once an application
+action module and
+and atomic action
+concurrency control policy
+achieved by invoking
+server managing that
+using the helios
+new states of
+consistency protocols to
+action module the
+be de activated
+classes derived from
+support modules are
+structuring fault tolerant
+operation is responsible
+replicas of a
+the group view
+guardians and actions
+robust distributed programs
+store representation e
+heterogeneous computer systems
+servers are created
+oriented transaction processing
+initiated on a
+operations initiate terminate

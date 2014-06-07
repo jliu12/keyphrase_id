@@ -1,0 +1,600 @@
+ospf
+heurospf
+routing
+unitospf
+arcs
+arc
+invcapospf
+flow
+utilization
+worldnet
+phi
+jxj
+weight
+capacity
+randomospf
+demand
+tabu
+opt
+backbone
+waxman
+shortest
+weights
+canonical
+capacities
+destination
+opt0
+neighborhood
+max
+hashing
+clause
+diversification
+mpls
+paths
+a2a
+5000
+demands
+3sat
+274
+loads
+splitting
+packet
+evenly
+satisfiable
+oblivious
+611
+inapproximability
+load
+hardness
+uncap
+going
+traffic
+units
+zegura
+routings
+links
+90
+psi
+hash
+cycling
+heuristic
+fx
+np
+2jxj
+calvert
+cisco
+internetworks
+congested
+flows
+commodity
+settings
+outgoing
+heuristics
+splits
+zemel
+l2ospf
+optospf
+woodruff
+52ff
+search
+literals
+synthetic
+recommended
+rodrigues
+router
+collisions
+internet
+escape
+descent
+astad
+dijkstra
+leading
+visited
+projected
+congestion
+701
+clauses
+1997
+graphs
+glover
+optimizing
+setting
+assignment
+leaving
+inversely
+ramakrishnan
+moves
+normalized
+jjxj
+aly
+otchel
+ffc
+tecchiolli
+wess
+capacitated
+arcs2610140
+arcs261014
+bley
+concrete
+network
+115
+iv
+intra
+1993
+optimize
+iterations
+uncapacitated
+resorted
+awduche
+jp
+balancing
+path
+incoming
+gap
+goes
+occurrences
+1996
+x2x
+rexford
+evening
+battiti
+tables
+associate
+sent
+exploration
+sat
+node
+clever
+proportional
+gammaffi
+pretty
+vx
+guiding
+morning
+stays
+objective
+maximal
+gets
+split
+tx
+jq
+scalings
+optimality
+secondary
+hard
+800
+nodes
+spreads
+sx
+attributes
+encountered
+link
+distance
+fi
+primes
+distances
+drawback
+piecewise
+vendor
+protocol
+scaled
+leaf
+approaching
+winner
+networks
+cope
+arriving
+schemes
+solutions
+207
+1979
+00
+decrease
+closer
+unit
+spots
+jn
+jennifer
+universal
+ff
+hour
+max utilization
+weight setting
+ospf routing
+local search
+canonical flow
+general routing
+t x
+unitospf heurospf
+t worldnet
+worldnet backbone
+the ospf
+of flow
+ospf weight
+jxj units
+to t
+search heuristic
+phi a
+p c
+the flow
+proposed at
+tabu search
+at t
+shortest paths
+our local
+cost function
+demand matrix
+invcapospf unitospf
+weight settings
+w a
+f x
+v x
+opt0 20
+heurospf opt0
+611 4
+90 90
+demand invcapospf
+opt figure
+utilization demand
+heurospf opt
+clause c
+q x
+optimal general
+above capacity
+setting problem
+each arc
+s x
+function phi
+4 max
+weight equal
+20 611
+the max
+an arc
+shortest path
+psi a
+even splitting
+c fx
+the neighborhood
+routing problem
+normalized cost
+optimal ospf
+cost demand
+non canonical
+a satisfiable
+demand unitospf
+90 274
+waxman graphs
+arc a
+units of
+the oblivious
+going through
+the capacity
+the optimal
+np hard
+is np
+traffic flow
+a demand
+2 level
+a weight
+each clause
+ospf weights
+splitting flow
+backbone with
+through t
+node u
+a canonical
+the arcs
+flow corresponding
+neighborhood structure
+the capacities
+commodity flow
+for max
+our cost
+x and
+flow to
+the weights
+from s
+the load
+arcs and
+the cost
+1 unit
+cost phi
+packet cost
+optimizing ospf
+flow going
+flow leads
+phi uncap
+destination t
+our concrete
+satisfiable assignment
+hashing tables
+flow from
+hard to
+a w
+in cost
+unit of
+through f
+multi commodity
+nodes and
+w 0
+the demand
+paths going
+v w
+the weight
+paths from
+single weight
+100 nodes
+in ospf
+the routing
+l t
+cost functions
+a factor
+or f
+arcs in
+00 0
+utilization in
+of cost
+c a
+heurospf is
+oblivious heuristics
+leaving u
+improving moves
+our heurospf
+non improving
+a2a psi
+and waxman
+destination pair
+by cisco
+level graphs
+neighborhood exploration
+other arcs
+capacity jxj
+source destination
+not split
+optimal cost
+leading to
+u v
+the paths
+flow between
+all paths
+x or
+1 00
+literals and
+the demands
+current solution
+s t
+unit weight
+3 literals
+50 nodes
+level graph
+of ospf
+capacities are
+intra domain
+recommended by
+clause has
+to max
+with 50
+a a
+a node
+weights for
+same weight
+weights we
+the shortest
+cost of
+routing is
+x t
+1 01
+on shortest
+cost factor
+graph with
+a flow
+the network
+s to
+a clause
+the clauses
+a 2
+theorem 4
+load on
+bit integer
+traffic engineering
+flow are
+at t worldnet
+t worldnet backbone
+units of flow
+ospf weight setting
+the max utilization
+our local search
+local search heuristic
+proposed at t
+invcapospf unitospf heurospf
+unit of flow
+to t x
+np hard to
+it is np
+max utilization demand
+jxj units of
+heurospf opt0 20
+demand invcapospf unitospf
+611 4 max
+opt0 20 611
+4 max utilization
+unitospf heurospf opt
+20 611 4
+unitospf heurospf opt0
+heurospf opt figure
+a 2 a
+s to t
+p c fx
+general routing problem
+a canonical flow
+cost function phi
+t x or
+weight setting problem
+is np hard
+weight equal to
+the general routing
+phi a a
+demand unitospf heurospf
+or f x
+the proposed at
+through t x
+x or f
+for max utilization
+from s to
+t x and
+for each arc
+a w a
+x t x
+the paths going
+the ospf weight
+our cost function
+optimal general routing
+a non canonical
+the weight setting
+psi a l
+through f x
+90 90 90
+max utilization in
+a weight equal
+of the ospf
+multi commodity flow
+flow corresponding to
+paths going through
+a a 2
+1 00 0
+the optimal ospf
+utilization demand invcapospf
+a demand matrix
+going through f
+non canonical flow
+the normalized cost
+to max utilization
+local search in
+flow leads to
+going through t
+the canonical flow
+hard to optimize
+each clause c
+arc a 2
+of flow going
+the flow to
+path p c
+shortest paths from
+within a factor
+if the flow
+the optimal cost
+100 nodes and
+the 2 level
+1 unit of
+in ospf routing
+the optimal general
+each arc a
+shortest paths to
+f x and
+normalized cost and
+worldnet backbone with
+optimal ospf routing
+3 c a
+source destination pair
+a max utilization
+clause has 3
+optimizing ospf weights
+setting with respect
+h a w
+cost demand invcapospf
+where each clause
+v x f
+weight setting with
+non improving moves
+the other arcs
+2 level graph
+2 level graphs
+50 nodes and
+level graph with
+graphs in figures
+with 100 nodes
+graph with 50
+decrease in cost
+of flow are
+the oblivious heuristics
+utilization demand unitospf
+recommended by cisco
+a satisfiable assignment
+has 3 literals
+pair s t
+graph with 100
+with 50 nodes
+and waxman graphs
+a2a psi a
+flow are sent
+in q x
+to a max
+q x and
+we associate a
+a local search
+s x and
+the shortest paths
+a single weight
+v x t
+on shortest paths
+each clause has
+distance d t
+1 01 0
+u to t
+does not split
+equal to 3
+the same weight
+for the proposed
+leading to a
+cost of at
+each node u
+flow can be
+to optimize the
+dijkstra s algorithm
+leads to a
+hard to find
+the current solution
+x and t
+and t x
+of theorem 4
+the same cost
+flow to t
+canonical flow corresponding
+literals and each
+find even an
+an approximately optimal
+and jxj units
+commodity flow routing
+of the oblivious
+701 800 of
+if the canonical
+ospf routing is
+arcs leads to
+of optimizing ospf
+the even splitting
+arc capacities are
+of the demand
+while the paths
+3 literals and
+have jxj units
+satisfiable instance of
+the direct path
+woodruff and zemel
+concrete objective function
+optimize the ospf
+the capacities of
+the flow from
+node u we
+each p c
+instance of max
+our concrete objective
+evenly splitting flow
+to avoid cycling
+a weight setting
+paths p c
+with our concrete
+worldnet backbone as
+for at t
+function phi a
+of ospf routing
+demand matrix d

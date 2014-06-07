@@ -1,0 +1,600 @@
+ts
+pn
+excitation
+petri
+regions
+nets
+irredundant
+tss
+transition
+elementarity
+elementary
+region
+ger
+places
+rg
+event
+net
+pns
+transitions
+counterflow
+ets
+synthesis
+markings
+labeled
+isomorphic
+events
+closure
+arcs
+stg
+confluence
+pre
+ai
+isomorphism
+circuit
+reachability
+ar
+saturated
+minimal
+ack_4
+tangram
+ack_3
+petrify
+splitting
+implicants
+ack_2
+circuits
+label
+pi
+pr
+labels
+kondratyev
+marking
+serc
+kishinevsky
+r2
+subregion
+cortadella
+token
+pipeline
+iff
+minimized
+legalize
+8932
+g_i
+ack_0
+ack_1
+koutny
+split
+safe
+csp
+pure
+synthesizing
+ffi
+fflp
+yakovlev
+enabled
+handshake
+minimization
+asynchronous
+stgs
+vme
+alex
+axioms
+fs
+marta
+gsr
+firing
+exit
+composition
+violating
+aimed
+er
+prime
+shake
+switching
+resynthesis
+labeling
+axiom
+gr
+dummy
+minimality
+partly
+semaphores
+reachable
+essential
+a6
+notions
+jordi
+specifications
+post
+quadruple
+expand
+ccs
+a4
+sin
+fr
+place
+covers
+internal
+r4
+cover
+equivalence
+self
+bdd
+effectiveness
+formalism
+p3
+elementarytss
+handshakecircuits
+j78334
+synthesismethod
+elementaryts
+p1p3
+ifc
+pietkiewicz
+preregion
+automaten
+opensup
+hasbeenmentioned
+occurrenceof
+dags55
+pffl
+discussedin
+edac93
+denotedby
+kommunikation
+j52327
+p2p3
+presentedby
+j72486
+producesno
+pastor
+62
+designer
+causality
+enter
+arc
+redundant
+pe
+eg
+synthesize
+0419
+legitimacy
+synthesising
+stricted
+tffl
+synchronic
+acomplete
+elementar
+ebergen
+div3
+symbiosis
+expanded
+violations
+intersection
+verification
+automation
+serve
+deriving
+removed
+rs
+signals
+rcv
+upc
+fflt
+vlsi
+synthesized
+a2
+deadlock
+composing
+isend
+molnar
+ers
+loop
+instruction
+isfied
+maciej
+unate
+basedon
+enumerations
+a ts
+pre regions
+the ts
+ts is
+excitation closure
+petri nets
+minimal regions
+the pn
+a pn
+a region
+pre region
+ger a
+event a
+of states
+the excitation
+petri net
+ts and
+labeled with
+ts from
+for event
+region r
+ts the
+non elementary
+of petri
+equivalent states
+transition systems
+a minimized
+elementary ts
+minimal pre
+nets from
+counterflow pipeline
+transition system
+transitions labeled
+the confluence
+regions which
+event effectiveness
+confluence condition
+pn with
+minimized version
+place irredundant
+loop region
+switching regions
+in ts
+rg of
+label splitting
+saturated net
+isomorphic to
+regions are
+excitation region
+of places
+self loop
+of regions
+pn is
+pipeline processor
+r 0
+not minimal
+property 3
+event e
+a transition
+trivial regions
+ai pi
+expand states
+tss are
+the rg
+minimal saturated
+ts shown
+labeled petri
+elementary transition
+net is
+is elementary
+pn which
+irredundant cover
+excitation regions
+corresponding pn
+an irredundant
+places and
+reachability graph
+transition s
+states r
+transition t
+regions r
+all minimal
+been partly
+iff r
+stage control
+two transitions
+region of
+s 1
+the stg
+states s
+state based
+all transitions
+the synthesis
+marking m
+circuit implementation
+state s
+as pre
+ffi e
+based models
+non pure
+regions property
+r2 ffi
+post regions
+the ger
+two tss
+pure nets
+synthesizing petri
+post region
+initial ts
+serc gr
+another ts
+labeled rg
+ar ai
+labeled pn
+instance numbers
+irredundant net
+of tss
+k serc
+minimal covers
+essential regions
+from figure
+place p
+transition labeled
+a place
+regions and
+r is
+isomorphism of
+internal events
+partly supported
+synthesis method
+regions of
+minimal region
+the counterflow
+ts 2
+exit r
+region conditions
+pn from
+enter r
+this ts
+states to
+net with
+each event
+a b
+states is
+unique choice
+alex kondratyev
+control circuit
+places can
+s 0
+r 2
+synthesis of
+subregion of
+closure condition
+output places
+a subregion
+rg is
+the net
+of event
+of ts
+michael kishinevsky
+an event
+free choice
+two minimal
+region for
+ffi a
+with e
+is called
+a labeled
+a minimal
+asynchronous circuits
+prime implicants
+a reachability
+each state
+events is
+minimum cost
+s 62
+is isomorphic
+same event
+minimal then
+62 s
+initial marking
+the transition
+and switching
+each place
+from state
+ts can
+ets sin
+forward closure
+synthesis analysis
+pn an
+find irredundant
+ar pr
+markings m
+ts level
+legalize eg
+shake circuits
+concurrency causality
+split isomorphism
+and excitation
+a r2
+of a ts
+the excitation closure
+set of states
+petri nets from
+a ts is
+a region r
+transitions labeled with
+of petri nets
+a ts and
+ts from figure
+minimal pre regions
+of the pn
+of the ts
+is a region
+for event a
+the confluence condition
+pre region of
+pre regions of
+self loop region
+the ts from
+minimized version of
+state based models
+ts is not
+counterflow pipeline processor
+region r is
+isomorphic to the
+set of regions
+if a ts
+the corresponding pn
+serve as pre
+all transitions labeled
+of pre regions
+labeled with e
+region of event
+pre regions and
+minimal regions which
+as pre regions
+transition s a
+to the ts
+ts is called
+the event effectiveness
+the ts shown
+a pre region
+a minimized version
+from state based
+ts shown in
+non elementary ts
+nets from state
+labeled with a
+of states to
+been partly supported
+a pn which
+transition labeled with
+r is a
+is not minimal
+has been partly
+for each event
+from figure 1
+event a is
+states s and
+non trivial regions
+the rg of
+minimal saturated net
+rg of the
+and post regions
+the ts is
+the initial ts
+this ts is
+excitation closure and
+synthesis of petri
+synthesizing petri nets
+ts and a
+pre regions are
+regions and post
+u k serc
+and switching regions
+pn with a
+expand states r
+the region conditions
+r2 ffi a
+regions property 3
+a pn with
+k serc gr
+a ts the
+post region of
+a minimal saturated
+no two transitions
+excitation closure condition
+stage control circuit
+a labeled pn
+a post region
+ts is elementary
+with a reachability
+and output places
+pn which is
+elementary transition systems
+and s 0
+r 0 is
+number of places
+a b a
+partly supported by
+a self loop
+region of a
+sets of states
+a subregion of
+net is called
+in the ts
+62 s 1
+of input and
+a reachability graph
+pair of equivalent
+the u k
+of equivalent states
+each event a
+is a transition
+this work has
+the synthesis method
+of event e
+event e if
+a transition labeled
+is a post
+c c a
+sets of input
+is isomorphic to
+is a pre
+of the transition
+the initial marking
+s and s
+the same event
+shown in figure
+work has been
+state s 2
+a transition system
+a petri net
+labeled petri net
+for equivalent states
+a region since
+r 2 ffi
+with a minimized
+like the set
+all pre regions
+states the confluence
+ts can be
+transitions arcs and
+of minimal regions
+a minimal region
+all minimal regions
+the pn from
+minimal then for
+systems petri nets
+two transitions labeled
+ar ai pi
+then all transitions
+called its reachability
+forward closure property
+property 3 2
+two minimal covers
+a saturated net
+all minimal pre
+event effectiveness conditions
+with c exit
+ets from a
+isomorphism of a
+from speed independent
+arcs and markings
+is elementary then
+states r 0
+2 ffi e
+two tss are
+graph isomorphic to
+the pre regions
+pn from figure
+the ts the
+self loop regions
+pre region events
+event effectiveness condition
+map to pn
+find irredundant cover
+net is like
+from the stg
+event a iff
+states to legalize
+rg of a
+the only pre
+eg expand states
+a place irredundant
+assigning instance numbers
+a region if
+confluence condition does
+in boolean minimization
+an irredundant set
+of label splitting
+places transitions arcs
+subregion of r
+reachability graph isomorphic
+in ts 1
+r a region
+between markings m
+classes of petri
+if s 62

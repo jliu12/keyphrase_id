@@ -1,0 +1,600 @@
+spiht
+parallelisation
+coe
+wavelet
+pe
+cients
+lis
+pes
+renement
+separators
+lip
+stream
+lsp
+coding
+bpp
+insignicant
+compression
+sm
+video
+separator
+bit
+transform
+cient
+bs
+ospring
+speedup
+signicance
+speedups
+zerotree
+ezw
+spacial
+psnr
+unevenly
+bits
+sequential
+mimd
+subband
+synchronisation
+bands
+trees
+alteration
+iterator
+band
+decomposition
+signicant
+lists
+assembly
+pixels
+scan
+threshold
+entry
+image
+decoder
+rst
+entries
+lter
+neglectable
+spacially
+processall
+parallelise
+listless
+neighbouring
+lled
+rene
+scalability
+ltered
+grandma
+coder
+encoded
+descendants
+inserted
+encoder
+ciently
+004
+desc
+termination
+ltering
+dierent
+864
+sub
+xed
+dierence
+decoded
+assembling
+compatible
+assembled
+mpeg
+parent
+necessity
+inherently
+list
+sign
+rates
+distortion
+predicates
+tree
+rate
+eect
+slices
+counter
+sig
+coarse
+frames
+appended
+decoding
+altered
+pes26100
+jumbles
+ct950051
+synchronise
+fwf
+qmf
+packetise
+p13903
+uhl
+epcc
+standardisation
+parallelised
+pes5150
+lena
+synchronises
+complexity13579
+parallelising
+signicances
+dispenses
+norcen
+processcoe
+515253510
+utilisation
+fmge
+vtc
+jpeg2000
+tracs
+visualised
+drawbacks
+copied
+slice
+_
+3d
+motion
+ow
+substitute
+ciency
+bigger
+roots
+transformed
+decodes
+cance
+1082
+austrian
+localised
+colours
+computers
+partitioning
+nevertheless
+overall
+encodes
+demands
+loop
+reads
+collections
+streams
+splitted
+bitmaps
+initialisation
+openmp
+lling
+breakdowns
+1098
+pass
+consecutive
+symbols
+false
+encode
+understands
+uous
+inconvenient
+erb
+dct
+jpeg
+pyramidal
+t3e
+multirate
+algo
+tmr
+tricks
+roland
+smps
+multiplexed
+divisibility
+edinburgh
+hierarchical
+competitive
+approximates
+frame
+suits
+competitors
+redundancies
+scientic
+reserves
+bit stream
+coe cients
+wavelet transform
+spiht algorithm
+the spiht
+renement step
+zero tree
+coe cient
+sm based
+the bit
+zero trees
+of coe
+the parallelisation
+parallelisation of
+the wavelet
+each pe
+the lis
+the sm
+output bpp
+single pe
+original spiht
+lis lip
+bpp decomposition
+sub band
+decomposition overall
+a renement
+the parallel
+compression rate
+parallel wavelet
+video data
+coding part
+each renement
+list entries
+local coe
+lip lsp
+stream assembly
+overall spiht
+direct ospring
+overall coding
+the sequential
+sequential algorithm
+d case
+the coding
+based algorithm
+of pes
+3 d
+a separator
+of separators
+insignicant coe
+approximation sub
+hierarchical trees
+set partitioning
+of insignicant
+d wavelet
+lsp bs
+cient p
+a p
+the coe
+b p
+the pes
+discrete wavelet
+unevenly distributed
+has to
+cients that
+parallel algorithm
+wavelet decomposition
+the video
+data distribution
+xed compression
+resulting bit
+lis and
+pe local
+approximation subband
+of spiht
+scan order
+sub bands
+tree coding
+transform algorithms
+spiht parallelisation
+all coe
+14 bpp
+stream bs
+the ezw
+separator entry
+cient scan
+mimd computers
+pe and
+video compression
+end of
+the speedups
+the end
+be encoded
+algorithm is
+2 d
+in hierarchical
+transformed data
+the lip
+compression rates
+d algorithms
+distributed complexity
+of transformed
+pe has
+the speedup
+the lists
+the list
+wavelet coe
+each coe
+rate 0
+cients which
+pe s
+frame size
+video sequence
+a coe
+the algorithm
+non local
+speedups for
+inherently sequential
+a list
+o p
+partitioning in
+sub tree
+inserted at
+image compression
+lists of
+signicance of
+cients in
+evaluated only
+coding for
+a counter
+of zero
+c p
+and c
+decomposition on
+low pass
+the compression
+entry of
+pixels the
+transform is
+spacially oriented
+list operations
+process synchronisation
+altered algorithm
+coding algorithm
+oriented coe
+complicated bit
+sig sign
+2 zero
+two competitive
+renement steps
+2 parallelisation
+direct parallelisation
+lists lis
+coding figure
+algorithm alteration
+embedded wavelet
+after parallel
+the lsp
+bs lis
+parent coe
+listless zerotree
+memory demands
+driven parallelisation
+distributed lists
+competitive approaches
+cient positions
+lis the
+therefore implemented
+of signicance
+share in
+mimd architectures
+rst scan
+mpeg 4
+neighbouring pes
+tree roots
+spiht output
+zerotree coding
+desc p
+pes is
+bit streams
+004 output
+spiht a
+be insignicant
+insignicant sub
+parallelisation e
+separator is
+those coe
+maps sm
+trees spiht
+entry associated
+destination list
+varying compression
+ezw algorithm
+synchronisation and
+direct spiht
+software aspects
+pass lter
+b sm
+entries after
+ospring of
+sequential part
+the bit stream
+the spiht algorithm
+parallelisation of the
+sm based algorithm
+of coe cients
+the wavelet transform
+the sm based
+a renement step
+the parallelisation of
+bpp decomposition overall
+parallel wavelet transform
+output bpp decomposition
+the sequential algorithm
+has to be
+lis lip lsp
+lists of coe
+the coding part
+spiht algorithm the
+bit stream assembly
+the original spiht
+a single pe
+each renement step
+of the wavelet
+b and c
+partitioning in hierarchical
+of the sm
+lip lsp bs
+insignicant coe cients
+approximation sub band
+spiht algorithm is
+in hierarchical trees
+the approximation sub
+set partitioning in
+local coe cients
+coe cient p
+of a list
+a b and
+the end of
+b p is
+set of coe
+coe cients that
+based algorithm is
+discrete wavelet transform
+at the end
+of the coding
+the parallel algorithm
+p has to
+end of a
+if a p
+the resulting bit
+the parallel wavelet
+zero tree coding
+wavelet transform algorithms
+3 d case
+for each renement
+wavelet transform is
+of zero trees
+3 d algorithms
+within a renement
+number of pes
+unevenly distributed complexity
+from the bit
+bit stream bs
+resulting bit stream
+coe cient scan
+3 d wavelet
+0 14 bpp
+of a coe
+compression rate 0
+the video sequence
+all coe cients
+of the spiht
+wavelet decomposition on
+number of separators
+decomposition overall coding
+rate 0 14
+d wavelet decomposition
+xed compression rate
+evaluated only if
+decomposition overall spiht
+p is true
+end of each
+the parallel architecture
+2 d case
+wavelet coe cients
+sequential algorithm is
+a coe cient
+each coe cient
+coe cients which
+inserted at the
+have to be
+p is false
+be evaluated only
+p b p
+to be encoded
+the coe cient
+of the coe
+coe cients in
+see section 2
+of a b
+performed in parallel
+of the video
+a p is
+image and video
+single entry associated
+way so that
+direct ospring of
+a p if
+signicance maps sm
+the lis and
+coder using three
+pe has to
+bit rate the
+rst scan order
+collection of transformed
+spacially oriented coe
+a direct parallelisation
+lsp bs lis
+the list entries
+therefore implemented as
+embedded wavelet video
+into the bit
+of a renement
+zerotree coding for
+a depth rst
+three dimensional set
+of pes is
+renement step threshold
+among the pes
+data has to
+of the lis
+sequential code parts
+trees are local
+wavelet transform in
+of the ezw
+p in approximation
+therefore the global
+renement step the
+of process synchronisation
+cients that are
+video coder using
+for higher numbers
+that zero trees
+an embedded wavelet
+the frame size
+lip are lled
+an insignicant sub
+to the bit
+complicated bit stream
+a separator entry
+assembling the bit
+of transformed data
+of insignicant coe
+tree without its
+3 2 parallelisation
+memory mimd computers
+parallelisation e ciency
+scalability of 2
+each pe the
+of wavelet coe
+threshold threshold 2
+containing a counter
+parent coe cient
+the lis the
+b sm based
+direct spiht parallelisation
+entry associated with
+sub tree without
+overall coding figure
+aspects for 3
+share in execution
+in the spiht
+step threshold threshold
+the decoder to
+the ezw algorithm
+video data size
+004 output bpp
+child coe cients
+zero tree based
+to be insignicant
+software aspects for
+are therefore implemented
+wavelet transform as
+of each renement
+substitute the lists
+the direct ospring
+list of insignicant
+number of renement
+with a counter
+trees of coe
+using three dimensional
+of renement steps
+transformed data is
+each pe produces
+tree coding algorithm
+zero tree roots
+signicance of a
+on the scalability
+data driven parallelisation
+overall coding b

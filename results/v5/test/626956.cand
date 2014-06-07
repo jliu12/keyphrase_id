@@ -1,0 +1,600 @@
+lapack
+sticky
+rcond
+nan
+strsv
+exception
+exceptions
+arithmetic
+flags
+overflow
+triangular
+speedups
+blas
+floating
+trap
+sgecon
+5000
+handling
+decstation
+eigenvectors
+eigenvalues
+dec
+underflow
+nans
+ctrevc
+sbdsqr
+slower
+cm
+quit
+sigma1
+c90
+cray
+ill
+matrices
+infinity
+speed
+alpha
+ov
+bisect
+bisection
+routine
+conditioned
+tridiagonal
+clatrs
+strcon
+sgbcon
+spocon
+r3000
+routines
+fortran
+endif
+reciprocal
+matrix
+eigenvector
+eigenvalue
+jja
+unexceptional
+ctrsv
+slatrs
+slow
+scalings
+mips
+subprograms
+sparcstation
+speeds
+endfor
+kahan
+count
+260
+division
+f77
+nonsticky
+jjxjj
+cgeev
+infinities
+inderjit
+denormals
+algebra
+speedup
+cc
+estimation
+calling
+cleared
+dhillon
+singular
+scaling
+algo
+default
+bits
+toms
+bidiagonal
+numerical
+slowly
+conventional
+manual
+invalid
+exceptional
+traps
+chip
+gammat
+machines
+inner
+sparc
+symmetric
+paradigm
+attained
+megaflops
+pivmin
+signbit
+120x
+demmel
+denormalized
+sstebz
+exceptionreset
+denormal
+fcr31
+status
+oe
+subroutine
+unstable
+precision
+answer
+pivot
+risc
+norm
+ipx
+buggy
+sun
+hessenberg
+fastest
+00
+grained
+rare
+terribly
+flag
+solve
+else
+abort
+jj
+handles
+5n
+rot
+reliably
+quickly
+testing
+unpleasant
+amortize
+jz
+raised
+pipelined
+ranging
+solving
+costs
+tests
+growth
+spent
+slowdown
+mp
+scaled
+gamma1
+pivoting
+fast
+diagonal
+badly
+multiplies
+moderately
+cpu
+instructions
+prefix
+loop
+inexact
+lessons
+ranged
+register
+dense
+granularity
+subroutines
+calls
+unlikely
+ae
+seldom
+recompute
+codes
+pipelining
+enormous
+scales
+52
+optimized
+transpose
+occurred
+stopping
+reasonably
+incorrectly
+gammapivmin
+trapenable
+inadvisable
+deserved
+weitek
+42x
+christof
+exception handling
+full speed
+condition estimation
+sticky flags
+speed full
+floating point
+infinity arithmetic
+nan and
+dec 5000
+exception occurs
+arithmetic with
+an exception
+cm 5
+the blas
+and infinity
+the sticky
+rcond 0
+algorithm 2
+decstation 5000
+ieee standard
+eigenvectors of
+the speedups
+except then
+in lapack
+then rcond
+the lapack
+0 quit
+if except
+ill conditioned
+speed of
+symmetric tridiagonal
+linear algebra
+dec alpha
+exceptions occur
+the speed
+strsv if
+cray c90
+calling strsv
+conventional arithmetic
+triangular system
+the cm
+basic linear
+by zero
+division by
+triangular solve
+the decstation
+trap handling
+4 260
+numerical algorithms
+using algorithm
+algorithm 7
+point arithmetic
+algorithm 4
+handling in
+no exceptions
+algebra subprograms
+when computing
+reciprocal of
+phase 2
+the eigenvalues
+condition number
+the triangular
+algorithm 1
+triangular systems
+sun 4
+most common
+lapack routine
+fast exception
+nan arithmetic
+and nan
+over underflow
+slow dec
+exception bits
+fast dec
+using exception
+solve calling
+blas routine
+quit endif
+with nans
+testing sticky
+bisection algorithms
+ieee arithmetic
+slower cc
+when exceptions
+from 1
+the fast
+of algorithm
+of overflow
+computing u
+the bisection
+the reciprocal
+inner loop
+eigenvalues of
+in algorithm
+algorithms 3
+algorithm 6
+a trap
+eigenvector computation
+triangular matrices
+phase 1
+lower triangular
+the ieee
+arithmetic the
+overflow in
+handling and
+where no
+a sparcstation
+for exceptions
+chip as
+occurs when
+were between
+eigenvalues less
+g un
+sticky bits
+speed manual
+else solve
+5000 and
+complex matrix
+all exceptions
+routine strsv
+strsv this
+pivot growth
+and sigma1
+tridiagonal eigenvalue
+of nan
+count oe
+and scalings
+general complex
+status flag
+endfor return
+matrix dimension
+nonsticky exception
+3 ae
+overflow division
+quit else
+slower full
+parallel prefix
+via exception
+nans and
+count function
+computing eigenvectors
+and eigenvector
+solve triangular
+lapack library
+return c
+normal arithmetic
+slow decstation
+oe endfor
+times slower
+00 2
+the count
+of eigenvalues
+2 00
+spent by
+the cray
+point operations
+quickly and
+the inner
+linear systems
+without exception
+bisection algorithm
+right eigenvectors
+optimized blas
+jj 1
+handling to
+avoid overflow
+mips r3000
+traps and
+one norm
+endif else
+tests and
+common case
+upper triangular
+of exception
+about n
+arithmetic on
+on machines
+complex matrices
+speed as
+as conventional
+software toms
+toms v
+max n
+error bound
+as fast
+to avoid
+n by
+by n
+singular value
+fast as
+the slow
+the eigenvalue
+point number
+and invalid
+mathematical software
+matrices of
+on mathematical
+as cpu
+the algo
+for condition
+speed full speed
+full speed full
+an exception occurs
+and infinity arithmetic
+rcond 0 quit
+except then rcond
+exception occurs when
+then rcond 0
+if except then
+occurs when computing
+nan and infinity
+the speed of
+division by zero
+strsv if except
+calling strsv if
+the cm 5
+basic linear algebra
+floating point arithmetic
+algorithms 3 and
+the sticky flags
+the ieee standard
+the decstation 5000
+sun 4 260
+linear algebra subprograms
+on the cm
+n by n
+the most common
+fast dec 5000
+where no exceptions
+no exceptions occur
+testing sticky flags
+the blas routine
+fast exception handling
+when computing u
+slow dec 5000
+the triangular solve
+using exception handling
+solve calling strsv
+0 quit endif
+on the decstation
+number of eigenvalues
+the inner loop
+exception handling and
+most common case
+k 1 a
+floating point operations
+time spent by
+the reciprocal of
+the condition number
+to solve triangular
+by zero and
+the lapack routine
+finding the eigenvalues
+overflow division by
+1 and nan
+eigenvalues less than
+triangular system 3
+and eigenvector computation
+the one norm
+of nan and
+the symmetric tridiagonal
+tridiagonal eigenvalue problem
+in condition estimation
+general complex matrices
+of the algo
+the count function
+blas routine strsv
+for condition estimation
+used in lapack
+of general complex
+trap handling in
+tests and scalings
+exception handling the
+the lapack library
+endfor return c
+condition estimation and
+equal to oe
+eigenvectors of general
+of arithmetic with
+quit endif else
+the fast dec
+of eigenvalues less
+and without exception
+max n 3
+oe endfor return
+arithmetic with nans
+decstation 5000 and
+the pivot growth
+the right eigenvectors
+chip as cpu
+the slow dec
+full speed manual
+zero and invalid
+as conventional arithmetic
+test for exceptions
+slower full speed
+via exception handling
+n 3 ae
+without exception handling
+were between 1
+speed of nan
+nonsticky exception bits
+the optimized blas
+fast as conventional
+estimation and eigenvector
+symmetric tridiagonal eigenvalue
+of a real
+the eigenvalues of
+to avoid overflow
+exception handling to
+right eigenvectors of
+of exception handling
+of the blas
+exception handling in
+as fast as
+software toms v
+mathematical software toms
+are the right
+on mathematical software
+using algorithm 2
+symmetric tridiagonal matrix
+floating point number
+spent by the
+an upper triangular
+the dec alpha
+transactions on mathematical
+a lower triangular
+eigenvectors of a
+the time spent
+both with and
+on a sparcstation
+reciprocal of the
+the eigenvectors of
+numerical linear algebra
+need to solve
+eigenvalues of a
+norm of a
+algorithms for solving
+arithmetic with denormalized
+report performance results
+computing eigenvectors of
+of fast exception
+x would overflow
+dec alpha and
+user level trap
+from 1 14
+exception handling a
+exception handling section
+21 and 1
+the bisection algorithms
+numerical algorithms via
+are five corresponding
+jx i j
+the count value
+time of 0
+the scalings inside
+triangular solves for
+inside algorithm 2
+scales carefully to
+is as fast
+2 solve a
+arithmetic is as
+for solving triangular
+that used algorithm
+point operations at
+subprograms for fortran
+extended set of
+estimate jja gamma1
+j where jz
+when exceptions occur
+exceptions occur and
+slower f77 full
+unexceptional floating point
+faster numerical algorithms
+algorithms via exception
+the answer slowly
+most common situation
+megaflops for a
+ieee single precision
+use in condition
+1 14 to
+the computed answer
+arithmetic with sigma1
+long excluding comments
+fortran codes for
+longer than phase
+r3000 chip as
+from the lapack
+the reduction can
+rcond 1 ov
+mp el 2
+the sticky bits
+accurate eigenvalues of
+floating point operation
+one norm of
+of algorithm 7
+with repeat solve
+avoid all exceptions
+conventional unexceptional floating
+eigenvectors of t

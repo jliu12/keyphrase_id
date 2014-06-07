@@ -1,0 +1,600 @@
+multimedia
+sessions
+disk
+period
+latency
+bandwidth
+session
+buffer
+equ
+video
+media
+starvation
+seek
+ms
+consumption
+latencies
+storage
+file
+audio
+leftover
+playout
+device
+ntsc
+playback
+mb
+head
+delivery
+layout
+buffering
+transfer
+streams
+utilization
+consumed
+switching
+timing
+rate
+allocation
+intermedia
+polimenis
+track
+rot
+rotate
+scheduling
+switch
+cylinder
+compression
+vbr
+organization
+interleaved
+retrieval
+files
+rotating
+block
+raid
+optical
+rates
+contiguous
+unpredictable
+disks
+policy
+interleaving
+mbyte
+bytes
+throughput
+recording
+cbr
+schedule
+robin
+theta
+subtitles
+rangan
+mpeg
+compressed
+magnetic
+requirements
+dt
+acceptance
+conventional
+tasks
+khz
+arm
+cross
+physical
+transfers
+fig
+shares
+round
+uncompressed
+miodrag
+potkonjak
+duration
+comprised
+heterogeneous
+tracks
+min
+accept
+server
+013
+tt
+jpeg
+striping
+mth
+meet
+retrieved
+placement
+uncommon
+667
+lightly
+qu
+accepted
+consume
+discipline
+synchronization
+recorded
+normalize
+pt
+sweeping
+text
+arrive
+service
+variance
+gang
+continuous
+refined
+dependent
+requirement
+layouts
+availability
+frame
+surface
+cylinders
+positioning
+demand
+park
+mbytes
+doubly
+admission
+medium
+rotational
+devices
+blocks
+object
+streaming
+request
+oe
+insertions
+163
+permitting
+rotation
+loaded
+enormous
+plus
+retrieves
+subsystems
+ith
+synthesis
+bits
+kb
+starves
+malena
+st41650n
+steams
+abstractmultimedia
+kandlur
+heon
+reserviced
+equs
+length481216200
+kiessling
+1407
+gss
+gemmell
+11172
+weikum
+mesarina
+shortages
+yeom
+timedia
+kyungoh
+spects
+enveloped
+aerts
+subsys
+nerjes
+tucson
+joep
+wren
+multizone
+probabilistic
+heads
+organizations
+differing
+drive
+busy
+read
+177
+byte
+max
+originating
+chose
+multimedia sessions
+t period
+disk bandwidth
+multimedia data
+of multimedia
+period t
+the disk
+file system
+latency i
+non multimedia
+seek latency
+r c
+the period
+min period
+of sessions
+multimedia object
+t latency
+session i
+for multimedia
+a multimedia
+t min
+the buffer
+multimedia session
+buffer requirement
+the multimedia
+the file
+period is
+consumption rate
+dependent multimedia
+a disk
+c i
+storage organization
+period length
+multimedia processes
+each multimedia
+a period
+mb s
+of disk
+multimedia file
+non real
+time dependent
+buffer space
+e t
+other non
+working period
+layout model
+different media
+multimedia objects
+starvation rate
+consumption rates
+the bandwidth
+real time
+by equ
+the starvation
+for session
+system must
+all multimedia
+n head
+ms e
+sessions plus
+rotating disk
+multimedia tasks
+max period
+task switching
+sessions supported
+switching latencies
+i latency
+i shares
+disk seek
+the seek
+period for
+period in
+bandwidth requirement
+each session
+disk storage
+organization for
+between sessions
+period ms
+the leftover
+ms 2
+compression ratio
+the consumption
+period the
+a rate
+bandwidth and
+and buffer
+sessions is
+latency between
+refined model
+disk latency
+bandwidth for
+theta r
+buffer requirements
+bound t
+buffer allocation
+lower bound
+disk access
+of period
+bandwidth utilization
+disk for
+latencies and
+disk array
+bandwidth requirements
+video and
+sessions m
+period period
+the contiguous
+media objects
+session switching
+additional multimedia
+polimenis 14
+access schedule
+period must
+compressed ntsc
+equ 10
+audio data
+hard requirements
+mb frame
+equ 8
+of starvation
+ms buffer
+allocation bytes
+mbyte s
+quality video
+dt theta
+sessions can
+intermedia synchronization
+support multimedia
+sessions 4
+media data
+t max
+continuous media
+be accepted
+a physical
+period to
+theta t
+meet the
+data transfer
+for disk
+transfer rate
+to transfer
+rate r
+consumed by
+in equ
+equ 7
+of supported
+sessions in
+physical data
+optical disks
+physical storage
+seek latencies
+robin scheduling
+probabilistic model
+to support
+multimedia applications
+the acceptance
+and audio
+of audio
+free memory
+storage device
+latency and
+i r
+t i
+during data
+bandwidth consumed
+disk head
+system synthesis
+transfer data
+to disk
+round robin
+accept a
+the heterogeneous
+data organization
+timing requirements
+and latency
+time tasks
+head to
+in fig
+a block
+upper bound
+to meet
+on demand
+data at
+for non
+system cannot
+memory for
+the lower
+buffer constraints
+r latency
+continuous retrieval
+quality audio
+that multimedia
+period be
+next track
+conventional rotating
+system transfers
+delivery requirements
+buffer consumption
+value units
+required buffering
+of multimedia sessions
+period t period
+r c i
+set of multimedia
+the file system
+t min period
+number of multimedia
+the period t
+number of sessions
+the buffer requirement
+time dependent multimedia
+of disk bandwidth
+other non real
+non real time
+dependent multimedia data
+the starvation rate
+a multimedia file
+for non multimedia
+non multimedia processes
+each multimedia session
+file system must
+multimedia file system
+for multimedia data
+at a rate
+the seek latency
+bandwidth and buffer
+for other non
+session i shares
+for multimedia sessions
+i latency i
+all multimedia sessions
+the period length
+ms e t
+t max period
+t period in
+the lower bound
+for session i
+can be accepted
+from the disk
+a period t
+for a set
+of multimedia data
+r c r
+of time dependent
+data at a
+multimedia sessions plus
+period must be
+accept a set
+of period t
+non multimedia tasks
+to support multimedia
+sessions m is
+dt theta n
+additional multimedia sessions
+bandwidth consumed by
+disk bandwidth and
+disk seek latency
+a physical data
+sessions plus the
+a multimedia object
+min period is
+storage organization for
+a working period
+t latency i
+requirements of multimedia
+ms buffer allocation
+period is chosen
+t period to
+period ms buffer
+bound t max
+within a block
+consumption rate for
+ms 2 oe
+organization for multimedia
+theta n head
+multimedia sessions can
+for a multimedia
+t period is
+physical data organization
+of sessions supported
+free memory for
+multimedia sessions m
+buffer allocation bytes
+multimedia data we
+working period t
+e t latency
+a rate of
+on the disk
+to meet the
+each session i
+for time dependent
+the disk for
+period in order
+rate r c
+round robin scheduling
+data transfer rate
+the multimedia data
+multimedia data are
+acceptance of a
+upper bound t
+the bandwidth requirement
+on a disk
+to transfer data
+period for a
+to accept a
+c i r
+from a disk
+i r c
+the disk head
+a set of
+arrive at the
+time requirements of
+head to the
+of a period
+real time tasks
+the acceptance of
+real time requirements
+to the amount
+amount of data
+must be greater
+in fig 2
+sessions including bandwidth
+the consumption rates
+of supported sessions
+latency r c
+layout model a
+the multimedia object
+buffer requirement is
+disk access schedule
+the lightly loaded
+file system cannot
+that the starvation
+switching latency between
+latency i period
+video audio text
+the mth session
+placement of audio
+sessions originating from
+physical storage organizations
+theta t min
+7 we know
+max period is
+i busy until
+seek latency and
+period is then
+seek latencies and
+equ 7 we
+a rate r
+are five multimedia
+latency between sessions
+t period must
+quality video uncompressed
+t period for
+i r period
+parallel disk array
+multimedia data delivery
+data arrive at
+equ 11 we
+5 mb s
+i theta t
+a disk it
+as a physical
+increase the period
+multimedia sessions and
+file system can
+task switching latencies
+data from or
+data read from
+availability of sufficient
+amount consumed during
+1 4 mb
+that multimedia data
+file system transfers
+from equ 11
+requirement is minimized
+multimedia object as
+consumption rates for
+average seek latency
+potkonjak system synthesis
+gamma r c
+additional disk bandwidth
+compressed ntsc video
+period otherwise the
+period length t
+multimedia sessions originating
+the next track
+of the multimedia
+sessions is the
+choosing the length
+a single device
+be recorded at
+4 mb s
+disk bandwidth r
+number of supported
+to its consumption
+period be the
+grouped sweeping scheme
+for each multimedia
+for the acceptance
+period to meet

@@ -1,0 +1,600 @@
+atr
+worker
+condor
+master
+workers
+ssn
+planning
+iterate
+pool
+mw
+flock
+adaptive
+scenarios
+wi
+debug
+grid
+000
+tasks
+runtime
+iterates
+variability
+loggp
+execution
+heterogeneous
+stochastic
+homogeneous
+lightly
+isolated
+flocks
+hosts
+400
+legion
+logp
+scheduling
+cactus
+cv
+linderoth
+basket
+argonne
+task
+configuration
+histogram
+magnetohydrodynamics
+trust
+iterations
+trip
+globus
+200
+validates
+update
+autopilot
+sec
+jobs
+msec
+host
+pvm
+job
+loaded
+thumb
+tomography
+subgradient
+allocated
+measured
+mips
+processor
+heymann
+andcompute
+condors
+measurements
+interrupts
+grids
+50
+configurations
+apples
+metasystem
+metacomputers
+processors
+conserve
+secondary
+efficiencies
+diminishing
+samr
+worldwide
+incumbent
+avg
+predictive
+gene
+multistage
+iteration
+histograms
+subgradients
+unpredictable
+storm
+round
+contracts
+jeff
+nt
+communication
+updating
+benchmark
+44
+unpredictably
+predicted
+candidate
+stage
+100
+develops
+groups
+cut
+objective
+wavefront
+widely
+min
+subproblem
+eia
+karmarkar
+recommended
+speedups
+sara
+greatly
+balancing
+message
+analyzes
+nodes
+800
+administrative
+84
+bologna
+tunable
+costs
+load
+70
+omitted
+82
+86
+150
+near
+platforms
+78
+68
+revealed
+middleware
+govern
+exposing
+collections
+evaluated
+speeds
+48
+submit
+experimentally
+impact
+minimize
+500
+assigned
+71
+wisconsin
+capacities
+group
+maximizing
+peak
+wright
+doubles
+ripeanu
+grads
+coap
+because20601001400
+ssage
+obyte
+20term
+nodes0
+eachiteration
+0127857
+might515253545
+surmised
+ribler
+135790
+x20601000
+livny
+totalmaster
+jichuan
+avgerage
+condorpvm
+grows10010000
+9975024
+karamcheti
+senar
+flocking
+2762
+uncertain
+resource
+angular
+parallelism
+environment
+unavailable
+adapts
+preferences
+codes
+ax
+tunability
+515250
+atr execution
+the atr
+the master
+execution time
+execution times
+worker execution
+of atr
+50 g
+total atr
+10 000
+model function
+m x
+of workers
+new iterate
+master execution
+isolated master
+planning problem
+planning problems
+update m
+wi pool
+of scenarios
+master processor
+the condor
+adaptive code
+master worker
+the workers
+a worker
+homogeneous workers
+condor pool
+pool ssn
+task groups
+computational grid
+task execution
+the worker
+debug i
+task group
+stage linear
+non adaptive
+iterate x
+total execution
+time to
+adaptive execution
+new iterates
+master and
+adaptive version
+ssn 10
+distributed condor
+reduced debug
+worker applications
+grid environment
+ssn planning
+stochastic optimization
+minimize total
+function m
+problem n
+each worker
+of tasks
+for master
+variability in
+new adaptive
+linear programs
+atr application
+condor mw
+for atr
+adaptive atr
+200 50
+master processing
+local condor
+scenarios n
+widely distributed
+runtime environment
+the model
+compute nodes
+optimal adaptive
+000 200
+adaptive control
+new x
+000 2
+lightly loaded
+each task
+the adaptive
+of iterations
+000 100
+near optimal
+task scheduling
+time for
+and workers
+to update
+000 b
+total master
+ssn 20
+heterogeneous workers
+solve secondary
+argonne flock
+loaded master
+secondary stage
+flock ssn
+condor flocks
+worker nodes
+x sec
+condor pvm
+wi argonne
+atr the
+atr is
+condor jobs
+master to
+to compute
+communication costs
+trust region
+performance model
+g 50
+tasks t
+t g
+applications on
+n g
+of heterogeneous
+compute each
+and communication
+workers are
+the runtime
+average time
+of iterates
+stochastic programming
+of total
+per iteration
+master is
+grid applications
+the execution
+round trip
+level scheduling
+configuration parameters
+compute new
+atr algorithm
+default debug
+o level
+debug level
+workers master
+scenarios evaluated
+workers changes
+performance contracts
+single worker
+atr that
+basket size
+candidate iterate
+updating m
+as atr
+avg min
+atr run
+gene sequence
+for condor
+atr on
+atr running
+parallel tomography
+conserve space
+n scenarios
+condor runtime
+jeff linderoth
+overall atr
+other condor
+other planning
+magnetohydrodynamics application
+trip time
+i o
+g and
+time on
+a varying
+parallel tasks
+next iterate
+grid application
+cut model
+workers with
+true objective
+worker tasks
+node processing
+heterogeneous nodes
+a magnetohydrodynamics
+on total
+for updating
+times are
+the trust
+each new
+compute x
+of task
+objective such
+worker to
+worker in
+000 50
+150 3
+workers is
+computing new
+grid nodes
+second stage
+at runtime
+processing time
+of thumb
+iterates n
+stochastic linear
+sequence comparison
+region subproblem
+100 50
+atr execution time
+update m x
+time to compute
+total atr execution
+worker execution times
+task execution times
+number of scenarios
+number of workers
+the model function
+wi pool ssn
+function m x
+master execution times
+to update m
+model function m
+planning problem n
+debug i o
+the master processor
+total execution time
+g and t
+time to update
+stage linear programs
+number of tasks
+execution time for
+adaptive version of
+a new iterate
+pool ssn 10
+ssn 10 000
+for master worker
+master worker applications
+ssn planning problem
+new iterate x
+10 000 2
+distribution of work
+the new adaptive
+widely distributed condor
+worker execution time
+version of atr
+of task groups
+master and workers
+local condor pool
+000 200 50
+of the atr
+of total atr
+worker applications on
+each new iterate
+200 50 g
+compute each new
+problem n 10
+the master and
+number of iterations
+execution time on
+n 10 000
+variability in the
+the computational grid
+average time to
+number of task
+the time to
+between the master
+solve secondary stage
+second stage linear
+wi argonne flock
+secondary stage linear
+ssn 20 000
+lightly loaded master
+the adaptive code
+application level scheduling
+new adaptive code
+each task group
+a computational grid
+minimize total execution
+non adaptive version
+000 b 1
+the atr application
+to compute each
+the non adaptive
+m x and
+the number of
+execution time is
+near optimal adaptive
+task scheduling algorithm
+number of iterates
+b 1 t
+on the master
+the master to
+planning problems and
+the runtime environment
+compute a new
+of tasks t
+to minimize total
+execution times are
+rules of thumb
+compute the next
+n g and
+on the computational
+round trip time
+the trust region
+updating the model
+flock ssn 20
+of scenarios n
+model of total
+reduced debug i
+the total master
+other planning problems
+compute new x
+10 000 100
+compute x sec
+amount and distribution
+adaptive code for
+10 000 b
+total master execution
+the condor runtime
+time a worker
+i o level
+first cut model
+master execution time
+of scenarios evaluated
+distributed condor flocks
+updating m x
+the worker execution
+master processing time
+the atr execution
+cut model of
+a local condor
+a single worker
+other condor jobs
+new adaptive atr
+the master processing
+basket size b
+a magnetohydrodynamics application
+omitted to conserve
+atr running time
+100 50 g
+to conserve space
+number time to
+avg min max
+50 g 50
+000 100 50
+argonne flock ssn
+gene sequence comparison
+for computing new
+overall atr execution
+computing new iterates
+minimize total atr
+atr execution times
+a grid environment
+task groups g
+model based adaptive
+to compute x
+execution times and
+execution times for
+as well as
+time for a
+the next iterate
+applications on the
+a worker in
+iteration number time
+of heterogeneous nodes
+the true objective
+in the condor
+by the master
+planning problem and
+planning problems the
+the adaptive execution
+the average time
+the number and
+high variability in
+processing and communication
+the high variability
+the task execution
+to the worker
+objective such as
+for the master
+of compute nodes
+trust region subproblem
+paper develops a
+the execution time
+in previous work
+the amount and
+t and g
+adaptive control of
+processing time for
+and composition of
+the simple model
+computes a new
+in a grid
+b g and
+as t increases
+a performance model
+of the master
+this paper develops
+time for computing
+as a function
+should be set
+execution time to
+the total execution
+to compute a
+values of n
+and distribution of
+assigned to each
+in the execution

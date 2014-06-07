@@ -1,0 +1,600 @@
+macros
+mrflow
+regexp
+macro
+format
+schemeql
+syntax
+formatting
+string
+embedded
+interpreters
+tmp
+stx
+plt
+match
+matcher
+runtime
+languages
+printf
+cursor
+continuation
+invariants
+interpreter
+analyses
+arguments
+subs
+drscheme
+library
+combinators
+primitive
+specifier
+datum
+dispatch
+expression
+lisp
+positives
+char
+regular
+lambda
+statically
+false
+host
+errors
+combinator
+language
+clock
+expressions
+args
+compiler
+strings
+lexical
+identifier
+transformer
+cons
+programmers
+e1
+flow
+cayenne
+hygienic
+ghost
+submatch
+submatches
+quoted
+e2
+expansion
+hoc
+unfolding
+swap
+tags
+literal
+guard
+hex
+aaa
+subpatterns
+exp
+static
+pseudo
+template
+append
+contexts
+programs
+functional
+substring
+anal
+ad
+matched
+specialize
+primitives
+program
+partially
+bbb
+suc
+parenthesized
+query
+id
+hindley
+componential
+hygiene
+hexadecimal
+augustsson
+unparsing
+formatter
+car
+ysis
+arrow
+precision
+guage
+consume
+matches
+partial
+programmer
+subexpression
+alternation
+succeeds
+prefixed
+zzz
+subpattern
+subexpressions
+spurious
+lookup
+abstract
+rules
+pattern
+conservative
+imprecise
+analyzing
+identifiers
+simulates
+specialized
+ocaml
+implementor
+renames
+compositionally
+expand
+expansions
+laying
+flagged
+analyzer
+disappear
+tag
+http
+excerpt
+flowing
+argument
+operator
+raise
+undetected
+precise
+accepts
+invokes
+debugger
+kleene
+referential
+failure
+milner
+underlined
+references
+java
+row
+binds
+arrows
+flows
+haskell
+phone
+lan
+list
+inspect
+binding
+contents
+forms
+syntactic
+cond
+specializing
+conservatively
+inside
+overloading
+gcd
+checking
+character
+expanded
+constructs
+matching
+displayed
+expects
+cess
+branch
+discover
+wrong
+branches
+rewrite
+transparency
+invoked
+text
+edu
+server
+evaluated
+success
+object
+exposed
+url
+regexp match
+embedded languages
+partial evaluation
+the macro
+regular expression
+syntax object
+the format
+plt scheme
+syntax rules
+the embedded
+host language
+macro expansion
+embedded interpreters
+embedded programs
+abstract value
+if expression
+syntax id
+id rules
+scheme macros
+formatting string
+the interpreters
+at runtime
+the regular
+of embedded
+partially evaluating
+syntax case
+format char
+the analysis
+static analysis
+of format
+macros to
+embedded language
+format specifier
+failure continuation
+format s
+the formatting
+format primitive
+string append
+stx syntax
+compiler macros
+lambda stx
+let tmp
+set based
+dependent types
+runtime the
+three elements
+the string
+s exp
+false positives
+library functions
+partially evaluated
+macro system
+a list
+the syntax
+a string
+the if
+a syntax
+the interpreter
+type system
+a z
+the primitive
+object datum
+define syntax
+the schemeql
+if expressions
+lookup subs
+cons lookup
+pseudo type
+in plt
+dispatch on
+macros and
+value flow
+case stx
+of regexp
+known statically
+embedded program
+transformer procedure
+clock e
+pseudo types
+precise analysis
+result list
+and third
+the host
+in scheme
+macros can
+macros that
+for scheme
+specific embedded
+format is
+scheme s
+ad hoc
+regular expressions
+substring s
+analyses in
+original function
+additional arguments
+based analysis
+first argument
+the result
+flow analysis
+program analysis
+case dispatch
+format function
+for printf
+analysis cannot
+schemeql query
+for mrflow
+if tmp
+tag corresponds
+pattern guard
+success continuation
+or macro
+drscheme s
+z line
+partially evaluate
+runtime errors
+macro template
+append format
+dispatch second
+to format
+closure analysis
+format hex
+tmp tmp
+aaa bbb
+spurious errors
+second pattern
+a schemeql
+three embedded
+formatting language
+http a
+third r
+the plt
+mrflow can
+of schemeql
+set clock
+string given
+and syntax
+compute precise
+bbb edu
+match http
+the partial
+second and
+to specialize
+a macro
+type checking
+of arguments
+expression and
+the pattern
+domain specific
+expressions is
+based program
+evaluation to
+match the
+of scheme
+macro that
+interpreters with
+their host
+macros this
+might evaluate
+macros are
+macro in
+second r
+imprecise analysis
+macros the
+of macros
+macros in
+a cursor
+hoc manner
+abstract values
+scheme program
+rules form
+list of
+string the
+the list
+the lexical
+s syntax
+expression language
+term 3
+the original
+the false
+precision of
+errors that
+the programmer
+the precision
+in embedded
+present case
+that constructs
+string is
+the match
+an ad
+character and
+third are
+the c
+to match
+the abstract
+expression the
+or false
+the library
+primitive is
+as strings
+the regular expression
+syntax id rules
+the partial evaluation
+the host language
+the if expression
+of embedded languages
+partial evaluation of
+of the if
+the formatting string
+the format primitive
+of the format
+the result list
+the abstract value
+precise analysis of
+at runtime the
+cons lookup subs
+lambda stx syntax
+the format specifier
+stx syntax case
+syntax object datum
+syntax case stx
+dispatch on the
+a syntax object
+set based analysis
+in plt scheme
+evaluation of embedded
+of regexp match
+either a list
+number of arguments
+second and third
+of the macro
+specific embedded languages
+the original function
+partial evaluation to
+the static analysis
+a list of
+if tmp tmp
+the analysis cannot
+based program analysis
+string append format
+for if expressions
+regexp match is
+three elements the
+http a z
+embedded languages we
+syntax rules and
+with a macro
+of format is
+value flow analysis
+the embedded languages
+the embedded programs
+the second pattern
+to partially evaluate
+and syntax id
+a z line
+their host language
+of embedded interpreters
+the embedded program
+regexp match http
+embedded languages the
+append format char
+aaa bbb edu
+regular expression language
+three embedded languages
+match http a
+of a schemeql
+host language we
+rules and syntax
+tag corresponds to
+of scheme macros
+case dispatch on
+a schemeql query
+to the original
+the precision of
+the macro expansion
+using partial evaluation
+ad hoc manner
+flow of values
+regular expression and
+list of three
+the term 3
+imprecise analysis of
+target of an
+invariants that are
+partial evaluation the
+domain specific embedded
+in the embedded
+the syntax rules
+of three elements
+the result of
+partial evaluation is
+a list with
+to the analysis
+the cases where
+an ad hoc
+the present case
+of partial evaluation
+of the result
+the c programming
+in the result
+a z a
+the results of
+in an ad
+z a z
+the target of
+result of the
+branch of the
+to a list
+the same program
+the user s
+the contents of
+in the user
+embedded interpreters with
+format substring s
+tmp e2 the
+http aaa bbb
+z line if
+plt scheme s
+raise syntax error
+implemented as macros
+the plt web
+same program as
+tmp e1 if
+the analysis correctly
+0 string append
+derived expression forms
+format s exp
+can compute precise
+each embedded language
+closure analysis in
+the three embedded
+macros to partially
+ad hoc solution
+swap a b
+might evaluate to
+whether partial evaluation
+embedded languages contain
+these arguments must
+a useful technique
+programmers know that
+flow sensitive analysis
+graph that simulates
+the analysis then
+regexp match returns
+formatting a class
+match returns a
+set clock e
+of indexed submatches
+one error because
+by regexp match
+and identifier a
+abstract values that
+the regexp match
+the original functional
+checking time to
+enforced by their
+syntax object representing
+a string given
+static analysis in
+that the primitive
+case stx swap
+clock e clock
+subs cons lookup
+tmp tmp e2
+let tmp b
+format specifier is
+value from flowing
+flow into the
+useful technique for
+in application position
+specialize dependent types
+at type checking
+embedded in scheme
+tmp b set
+web with high
+returned by regexp
+the syntax object
+the value 3
+r process url
+analysis of regexp
+dispatch second r
+when format is
+the precise analysis
+2 regular expressions
+e2 the macro
+chain of cons
+for regexp match
+bbb edu zzz
+regexp match figure
+r dispatch second
+a hindley milner
+after partial evaluation
+match a b
+a transformer procedure
+syntax rules form
+a let tmp
+specific languages and
+object datum s
+an explicit chain
+regexp match a

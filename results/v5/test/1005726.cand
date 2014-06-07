@@ -1,0 +1,600 @@
+bgp
+router
+ebgp
+routes
+route
+emulator
+ibgp
+egress
+routers
+igp
+routing
+prefixes
+learned
+import
+ingress
+traffic
+med
+configuration
+prefix
+signaling
+ases
+prediction
+rr
+sessions
+network
+rr1
+session
+policy
+hop
+outcome
+preference
+reflector
+tables
+interdomain
+operators
+rr2
+rrs
+id
+attributes
+policies
+destination
+decision
+timescales
+renata
+rexford
+speaking
+advertised
+sigcomm
+module
+reflectors
+teixeira
+selection
+predictions
+stable
+ip
+link
+isp
+protocol
+clients
+neighboring
+peering
+path
+shortest
+paths
+engineering
+predicts
+neighbors
+candidate
+jennifer
+dynamics
+simulators
+aman
+griffin
+shaikh
+selects
+incremental
+validation
+effects
+434
+live
+backtracking
+locally
+phase
+confederations
+ssfnet
+protocols
+tunable
+061
+select
+620
+advertisements
+affect
+mismatches
+fortunately
+ids
+predicted
+loading
+day
+intradomain
+rebalance
+ultimately
+predict
+tier
+neighbor
+phases
+internet
+parsed
+errors
+inconsistencies
+decisions
+prototype
+adjust
+554
+advertises
+emulating
+suddenly
+emulates
+tasks
+costs
+eliminates
+destinations
+advertise
+eliminate
+deploying
+exit
+propagate
+optimizations
+313
+operator
+correctly
+jacobus
+coast
+feamster
+tiebreaking
+uhlig
+pray
+converge
+maintenance
+gateway
+upgraded
+learns
+volumes
+visiting
+prefers
+emulate
+border
+announcing
+advertisement
+potato
+merwe
+igps
+planned
+provider
+simulating
+snapshot
+configurations
+modified
+excluded
+modeling
+applies
+mesh
+stability
+divert
+outbound
+malfunctioning
+lund
+deci
+troubleshooting
+flow
+manipulate
+inputs
+interaction
+attribute
+portland
+carsten
+envision
+subtleties
+mauricio
+everyday
+tweak
+resende
+oregon
+reachability
+configured
+origin
+database
+operational
+deferring
+configure
+failures
+converges
+lowest
+loaded
+der
+oscillation
+accurately
+congestion
+links
+emulation
+incorrect
+the emulator
+the bgp
+best route
+each router
+ebgp learned
+ebgp routes
+learned routes
+decision process
+bgp route
+igp path
+bgp decision
+best ebgp
+route selection
+route at
+the ebgp
+router id
+the as
+bgp routing
+the route
+as path
+network engineering
+import policy
+route prediction
+signaling graph
+traffic engineering
+network operators
+ingress router
+ebgp speaking
+an as
+the import
+local preference
+the egress
+speaking router
+best routes
+emulator s
+import policies
+of prefixes
+modified routes
+router in
+routing tables
+the ibgp
+routes table
+the igp
+as paths
+prediction algorithm
+of bgp
+configuration changes
+the router
+of best
+a router
+bgp emulator
+learned route
+engineering tasks
+path costs
+egress point
+an ebgp
+the routing
+routers in
+the routes
+next hop
+route that
+the outcome
+per prefix
+best bgp
+of ebgp
+each ebgp
+egress router
+these routes
+routes with
+a bgp
+second phase
+routes and
+phase of
+of routers
+of ibgp
+prefixes with
+ebgp sessions
+learned at
+routes for
+known routes
+route reflector
+ibgp signaling
+locally best
+the best
+the effects
+the routers
+network operator
+outcome of
+of routes
+routes from
+routes learned
+routes at
+a route
+bgp tables
+egress points
+modeling bgp
+candidate routes
+third phase
+effects of
+other routers
+at router
+router and
+that router
+the algorithm
+the network
+destination prefix
+same next
+configuration data
+configuration change
+other router
+hop as
+router that
+route for
+emulator to
+egress routers
+shortest igp
+ibgp session
+med value
+bgp routes
+emulator can
+operators need
+ibgp and
+router y
+ibgp sessions
+s route
+bgp path
+make modeling
+live network
+each ingress
+path selection
+routing table
+one router
+path cost
+the signaling
+selection process
+the decision
+of traffic
+ibgp configuration
+in bgp
+message ordering
+every router
+each prefix
+router the
+at each
+routing protocol
+routing protocols
+acm sigcomm
+first phase
+a network
+jennifer rexford
+link weights
+renata teixeira
+bgp neighbor
+route attributes
+without backtracking
+origin type
+and igp
+egress set
+constraint 3
+speaking routers
+router ids
+an rr
+router selects
+the med
+import table
+route reflectors
+operators must
+of egress
+emulator based
+router x
+tables and
+path length
+network configuration
+route from
+running time
+routes in
+and router
+routes the
+route learned
+the prefixes
+router configuration
+med and
+all routers
+protocol dynamics
+the locally
+routes a
+routing decisions
+router can
+applies the
+best egress
+total errors
+candidate route
+bgp session
+route among
+routes after
+down neighbors
+the ingress
+bgp configuration
+rr clients
+model bgp
+ebgp learned routes
+at each router
+the best route
+the bgp decision
+bgp decision process
+of the bgp
+bgp route selection
+set of best
+best ebgp routes
+of best ebgp
+best route at
+in the as
+phase of the
+ebgp speaking router
+the emulator s
+igp path costs
+that the emulator
+route at each
+the decision process
+the second phase
+router in the
+ebgp learned route
+best bgp route
+the outcome of
+the effects of
+a network operator
+the ebgp routes
+the route prediction
+route prediction algorithm
+the import policies
+outcome of the
+second phase of
+in an as
+of the algorithm
+the third phase
+the router id
+same next hop
+the ebgp learned
+pair of routers
+ibgp signaling graph
+as path length
+network engineering tasks
+the modified routes
+igp path cost
+the signaling graph
+for each router
+next hop as
+at one router
+the best routes
+the emulator can
+shortest igp path
+the igp path
+locally best route
+best ebgp learned
+the import policy
+the locally best
+modified routes table
+bgp path selection
+group of prefixes
+the known routes
+model of bgp
+a bgp emulator
+for each prefix
+the first phase
+the same next
+the as path
+each router in
+a best route
+emulator based on
+same as path
+prefixes with the
+the import table
+the shortest igp
+path cost to
+modeling bgp route
+the best bgp
+third phase of
+in the bgp
+the ibgp signaling
+each ingress router
+and router id
+best route for
+flow of traffic
+the emulator to
+path selection process
+ebgp speaking routers
+make modeling bgp
+the egress points
+of the emulator
+to a unique
+that each router
+bgp routing tables
+the as in
+the network configuration
+the input data
+every other router
+every router in
+parsed and loaded
+each ebgp speaking
+of egress routers
+1 620 061
+ibgp and igp
+affect the flow
+at another router
+route selection process
+its best route
+egress points table
+med and router
+the ingress router
+routes from the
+emulator s running
+a route reflector
+route at the
+for traffic engineering
+an ebgp speaking
+to end validation
+operators need to
+the egress router
+a large tier
+of ebgp learned
+routes a and
+in the egress
+known routes table
+the same egress
+of the prefixes
+the third module
+of the ebgp
+learned routes and
+within an as
+the bgp emulator
+distinct as paths
+set of egress
+between each pair
+a unique solution
+routers in the
+of the route
+the set of
+routes in the
+routes with the
+computing the best
+decision process the
+to other routers
+router has a
+tier 1 isp
+large tier 1
+router in an
+each router the
+s running time
+route that is
+the flow of
+converge to a
+to a destination
+verify that the
+first phase of
+network configuration and
+routers in a
+the routing tables
+the routers in
+end to end
+computer communication review
+sigcomm computer communication
+communication review v
+acm sigcomm computer
+if the best
+of the decision
+of the best
+with the same
+from section 4
+effects of a
+can affect the
+hop as as
+the best ebgp
+best route that
+set of ebgp
+as paths we
+modified routes tables
+ebgp routes a
+network wide bgp
+the bgp tables
+the live network
+to model bgp
+bgp routing decisions
+router can affect
+select a route
+on a live
+equally good through
+best route is
+the best egress
+routes to a
+ebgp route learned
+egress router that
+med value and
+configuration changes before
+configuration changes typically
+a full mesh
+routes learned at
+local preference attribute
+best egress router
+route for that
+each router has

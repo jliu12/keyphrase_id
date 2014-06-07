@@ -1,0 +1,600 @@
+bin
+subdesign
+isabelle
+circ
+ci
+cla
+tac
+tactics
+veritas
+bus
+lsout
+lsin
+eqout
+eqin
+subgoal
+spec
+tactic
+grout
+synthesis
+grin
+adder
+subgoaling
+metavariable
+clas
+circuit
+port
+bitless
+bitcomp
+div
+compcells
+nat
+validation
+circuits
+subdesigns
+sat
+imp
+subgoals
+hol
+reinterpretation
+carry
+rules
+instantiated
+formal
+args
+nnat
+busses
+lambda
+aux
+reveal
+specification
+ls
+parameterized
+resolution
+g0
+quantification
+synthesize
+library
+signature
+join
+subparts
+thm
+prover
+p0
+designs
+logic
+ports
+quantifiers
+eq
+induction
+constructors
+comparator
+propagate
+metavariables
+rule
+bit
+implication
+lookahead
+datatype
+elims
+9dec
+dels
+bitcomps
+nmod
+2spec
+c23
+proving
+goals
+methodologies
+gates
+existential
+theories
+definitions
+bits
+wire
+specifications
+metalogic
+tifiers
+validations
+build
+decompose
+discharges
+elide
+hi
+inside
+g1
+unify
+voltage
+verification
+proofs
+recursive
+concrete
+ands
+p1
+combinational
+claim
+unification
+gr
+digit
+standing
+conjunctive
+style
+automate
+incoming
+ripple
+ex
+hardware
+intro
+wiring
+entails
+str
+digits
+synthesized
+kent
+quantified
+compatible
+abstraction
+conjunct
+c1
+quan
+monadic
+abstractions
+claimed
+development
+split
+behavioral
+conjunction
+methodology
+adders
+supports
+parametric
+incrementally
+instantiating
+connectives
+decomposes
+xor
+outermost
+clearer
+bitlesss
+2library
+isabelles
+29dec
+simplifiers
+2subdesign
+3tm
+reinterpret
+reinterpreting
+carrys
+pitm
+d16
+2circ
+compcell
+fourman
+wires
+correctness
+instantiate
+founded
+achieves
+comp
+simplification
+synthesizing
+builds
+co
+logics
+calculus
+def
+interactive
+hooked
+reinterpreted
+metavari
+reuse
+hypothesis
+tm
+reasoning
+val
+burden
+axiomatizes
+orem
+induct
+propositional
+afterwards
+bin bus
+bus n
+formal synthesis
+g ci
+isabelle s
+b bin
+p g
+bin ci
+p bin
+g bin
+bin g
+ci bin
+s bin
+design goal
+n div
+s p
+b s
+div 2
+design theorem
+grin eqin
+a bin
+eqout lsout
+grout eqout
+clas n
+the subdesign
+eqin lsin
+sat clas
+in isabelle
+the veritas
+ci sat
+port a
+proof state
+a b
+cla n
+b grin
+order resolution
+bin cla
+lsin grout
+lower n
+the validation
+the subgoaling
+tactics that
+subgoaling function
+definition context
+and tactics
+n a
+the tactic
+compcells a
+original goal
+n b
+higher order
+incoming carry
+specification spec
+first subgoal
+a design
+n p
+the propagate
+order logic
+a metavariable
+nat b
+propagate bit
+new subdesign
+port values
+b nat
+in veritas
+nnat 1
+use isabelle
+bin ex
+a tactic
+tac to
+n s
+a circuit
+generate bit
+instantiated with
+validation functions
+carry c
+a nat
+set theory
+the metavariable
+1 spec
+spec 2
+spec 1
+binary values
+lookahead adder
+the specification
+carry lookahead
+args subdesign
+library tac
+that circ
+design tac
+n nnat
+concrete technology
+claim tac
+s hol
+subgoal 1
+reveal tac
+circ with
+c1 bin
+to isabelle
+g0 bin
+lambda system
+p0 bin
+ci a
+clas k
+g1 bin
+lsout the
+subdesigns and
+x bin
+subdesign the
+apply rules
+circ is
+values induction
+reveal and
+p1 bin
+subdesign which
+goal spec
+subdesign tac
+specification entails
+bus cla
+cla k
+our reinterpretation
+during proofs
+the design
+case analysis
+lower upper
+logic programs
+to synthesize
+design goals
+the carry
+part args
+tactics and
+validation rules
+the adder
+an adder
+synthesis based
+the tactics
+bin b
+subgoal and
+synthesized circuit
+rules and
+a proof
+based synthesis
+subgoal is
+a parameterized
+theorem prover
+the subgoals
+goal which
+resolution based
+derived rules
+to build
+the generate
+main design
+a bus
+1 port
+and inside
+by formal
+be instantiated
+a lambda
+with techniques
+rules which
+k a
+sum s
+proof rule
+new techniques
+induction hypothesis
+original design
+a carry
+the ports
+a theorem
+the like
+induction to
+entails the
+a validation
+resolution to
+circuits we
+the lambda
+existential quantification
+the signature
+s p0
+a subgoaling
+context h
+by isabelle
+of isabelle
+achieves spec
+circ to
+bin n
+internal wiring
+bin g1
+isabelle the
+s metalogic
+p0 g0
+bin p
+veritas is
+bin p1
+tactic discharges
+busses to
+eq lsin
+conjunct the
+synthesis style
+tac dels
+bin bus n
+b s p
+s p g
+p g ci
+a b s
+n a b
+g bin ci
+p bin g
+bin g bin
+bin ci bin
+n div 2
+bus n b
+bus n s
+n s bin
+b bin bus
+n b bin
+n p bin
+bus n p
+s bin bus
+port a bin
+a bin bus
+grout eqout lsout
+grin eqin lsin
+g ci sat
+ci sat clas
+lsin grout eqout
+clas n a
+eqin lsin grout
+lower n div
+bin cla n
+b grin eqin
+a b grin
+sat clas n
+cla n a
+ci bin cla
+higher order logic
+compcells a b
+the formal synthesis
+higher order resolution
+the original goal
+k a b
+the proof state
+use isabelle s
+the definition context
+nat b nat
+a new subdesign
+a nat b
+rules and tactics
+a design goal
+the subgoaling function
+the design goal
+the first subgoal
+carry lookahead adder
+all n nnat
+bin b bin
+bin bus cla
+a design theorem
+the design theorem
+cla k a
+entails the original
+nnat 1 port
+of formal synthesis
+theory of higher
+n nnat 1
+the propagate bit
+ci a bin
+we use isabelle
+the lambda system
+the incoming carry
+bus cla k
+specification entails the
+of values induction
+the generate bit
+eqout lsout the
+isabelle s hol
+1 port a
+sat clas k
+g ci a
+course of values
+in isabelle s
+clas k a
+by higher order
+kinds of reasoning
+spec 1 spec
+carry c i
+incoming carry c
+synthesis based on
+a bin b
+1 spec 2
+instantiated with the
+the main design
+the sum s
+the induction hypothesis
+the original design
+using higher order
+and the like
+of the subdesign
+ls y lsout
+reinterpretation of formal
+the library technique
+bin c1 bin
+each conjunct the
+args subdesign args
+args library part
+s the propagate
+gr bin eq
+definition context h
+p0 bin g0
+tactics that automate
+g ci 1
+synthesis in isabelle
+tactic based theorem
+div 2 nmod
+of primitive relations
+to the veritas
+library library tac
+a proof rule
+adder from two
+circ achieves spec
+a subgoaling function
+in a ripple
+in isabelle we
+div 2 lower
+split the subgoaling
+extends the signature
+reveal reveal tac
+and concrete technology
+primitive relations where
+and the generate
+bin x bin
+we can resolve
+g ci port
+as follows claim
+relations where existential
+isabelle s theory
+propagate and generate
+and generate bits
+g0 bin p1
+the veritas techniques
+veritas validation rules
+a circuit achieves
+build a circuit
+circuit abstractions and
+div 2 b
+2 lower n
+order resolution to
+as conjunctive combinations
+h has become
+binary values we
+library part args
+eq eqin eqout
+formal synthesis as
+analysis over binary
+specification spec which
+bin ls bin
+bit width n
+2 b lower
+by formal synthesis
+of parametric designs
+hol set theory
+a bus b
+over binary values
+we derive rules
+and validation functions
+resolution based synthesis
+spec the validation
+definition context of
+abstractions and concrete
+isabelle s metalogic
+original design goal
+x bin y
+following proof state
+p1 bin g1
+bin eq bin
+isabelle s set
+bin g0 bin
+s hol set
+in isabelle the
+goal is given
+using a previously
+s p0 g0
+lambda style design
+div 2 s
+b lower n
+g ci in
+ci bin n
+bin compcells a
+div 2 a
+initial design goal
+2 s p0
+formal synthesis is
+from two components
+construct a parameterized
+and b representing
+formal synthesis in
+the step case
+with our reinterpretation
+following design theorem
+bin p bin
+induction is used

@@ -1,0 +1,600 @@
+qualifiers
+qualifier
+ect
+alias
+locs
+inference
+lock
+store
+linearities
+e1
+bugs
+e2
+alloc
+ref
+ects
+sigplan
+locations
+prop
+qc
+sensitive
+notices
+locking
+location
+insensitive
+dawson
+engler
+flow
+file
+cqual
+annotations
+stores
+assign
+linearity
+linux
+fresh
+int
+unlocked
+java
+ci
+constraint
+typestate
+checking
+kobayashi
+usage
+dataflow
+subtyping
+jhala
+files
+restrict
+ranjit
+naoki
+spinlock_t
+readwrite
+opened
+majumdar
+rupak
+filter
+propagation
+lin
+qa
+junfeng
+modules
+locked
+spin
+vulnerabilities
+esp
+deref
+yichen
+updates
+security
+merge
+aliasing
+annotate
+yahav
+emu10k1_card
+pistoia
+driver
+aliases
+abstract
+aiken
+kernel
+preprocessed
+interprocedural
+dereferences
+programmer
+struct
+assert
+igarashi
+propagate
+intraprocedural
+musuvathi
+sendmail
+madanlal
+uninteresting
+c2
+sigsoft
+allocation
+stream
+app
+lclint
+card
+cyclone
+millstein
+c1
+module
+weak
+errors
+foster
+jeffrey
+xie
+acquired
+pointer
+calculus
+sound
+513
+check
+erent
+safety
+strong
+atsushi
+kodumal
+spin_lock_irqsave
+ccured
+spin_lock
+600k
+chelf
+patch_manager
+emu10k1_set_oss_vol
+5h1
+deviant
+emu10k1
+emu10k1_set_volume_gpr
+hallem
+200k
+800k
+twohey
+spinlock
+semilattices
+futoshi
+kremenek
+resource
+constructors
+soundness
+forward
+aliased
+adoption
+rules
+700k
+vault
+300k
+500k
+pluggable
+400k
+compatible
+pointers
+library
+bytecode
+sp
+iwama
+pratikakis
+mgr
+polyvios
+markstrum
+fopen
+alex
+void
+di
+cient
+esc
+monomorphic
+eclipse
+shane
+static
+incomparable
+update
+language
+released
+device
+inferred
+inferring
+100k
+coercions
+decorate
+immutability
+yang
+polymorphic
+polymorphism
+constraints
+languages
+annotated
+manuvir
+drivers
+typed
+892
+jagannathan
+ramalingam
+locks
+checks
+lazily
+decorated
+flow sensitive
+e ect
+type qualifiers
+assign c
+alias analysis
+flow insensitive
+ect inference
+prop c
+the type
+abstract location
+the store
+store c
+e ects
+sensitive type
+store constraints
+acm sigplan
+stream library
+notices v
+sigplan notices
+forward prop
+strong updates
+type system
+linux kernel
+program point
+back prop
+s c
+type systems
+locking bugs
+weak updates
+the e
+c stream
+non linear
+sensitive analysis
+our type
+usage analysis
+type errors
+ect of
+our system
+type inference
+the qualifier
+inference algorithm
+dawson engler
+strong update
+resource usage
+the lock
+s type
+the linearity
+in assign
+fresh qualifier
+y qc
+abstract locations
+whole module
+the constraint
+a location
+the location
+library usage
+naoki kobayashi
+store variable
+restrict x
+jhala rupak
+c l
+for java
+of type
+of e
+constraint resolution
+ranjit jhala
+merge c
+the linux
+a type
+lock is
+spin lock
+aliases of
+insensitive alias
+standard type
+type check
+type checking
+check e
+yichen xie
+assign stores
+int alloc
+type qualifier
+new locking
+effect inference
+qualifier variable
+ect l
+s foster
+store constructors
+store alloc
+locs t
+alias types
+point represented
+module analysis
+qualifier variables
+store constraint
+qualifiers are
+junfeng yang
+qualifier inference
+alloc x
+linear locations
+rupak majumdar
+standard types
+of e2
+constraint graph
+dataflow analysis
+finding bugs
+alloc c
+filter c
+weak update
+c c
+target language
+to type
+bugs in
+qualifiers and
+assert e
+type ref
+are flow
+intraprocedural analysis
+by store
+v 39
+39 n
+a file
+alex aiken
+single file
+s assign
+in e2
+10 october
+type based
+e q
+a fresh
+type t
+stores and
+a store
+each store
+c lin
+constraint generation
+a constraint
+with type
+locations to
+path sensitive
+then forward
+jeffrey s
+linearity computation
+store assign
+driver files
+whole modules
+513 whole
+ground store
+constructed stores
+lock already
+store variables
+fresh abstract
+assign y
+ect set
+every store
+bytecode subroutines
+l assigns
+qa int
+qualifier annotations
+alias and
+assign z
+propagation stops
+non aliasing
+level qualifier
+sp ci
+function e1
+qualifier constraints
+locking behavior
+preprocessed lines
+emu10k1_card card
+igarashi naoki
+spinlock_t lock
+and unlocked
+e yahav
+underlying standard
+struct emu10k1_card
+locs locs
+a lock
+to check
+purely local
+acm sigsoft
+constraints between
+6 june
+expression e
+software engineering
+type error
+with flow
+compute s
+system for
+file is
+our tool
+c then
+sensitive properties
+all stores
+programmer specified
+closed file
+constant qualifiers
+opened for
+our alias
+during constraint
+ref e
+e ect inference
+flow sensitive type
+the e ect
+acm sigplan notices
+sigplan notices v
+c stream library
+flow sensitive analysis
+e ect of
+and e ect
+sensitive type qualifiers
+back prop c
+resource usage analysis
+forward prop c
+stream library usage
+in assign c
+the linux kernel
+is non linear
+a strong update
+jhala rupak majumdar
+ranjit jhala rupak
+notices v 39
+the type of
+the flow insensitive
+alias analysis and
+to type check
+flow insensitive alias
+rules in figure
+insensitive alias analysis
+the lock is
+point represented by
+and store constraints
+program point represented
+whole module analysis
+s c lin
+e ect l
+represented by store
+standard type systems
+s assign c
+the type qualifiers
+then forward prop
+new locking bugs
+jeffrey s foster
+n 10 october
+of flow sensitive
+c c l
+in the linux
+merge c c
+v 39 n
+the rules in
+type system for
+the program point
+analysis for security
+proceedings of the
+the target language
+ect of the
+notices v 40
+n 6 june
+alias and e
+with type qualifiers
+igarashi naoki kobayashi
+type systems with
+underlying standard types
+c s assign
+filter c l
+top level qualifier
+c l assigns
+assign z 4
+check e q
+prop c then
+a ground store
+lin s c
+fresh abstract location
+calling the function
+the linearity computation
+the underlying standard
+case c of
+locked and unlocked
+programs with type
+store c we
+be opened for
+e ect set
+for java bytecode
+assert e q
+location of x
+with flow sensitive
+the c stream
+a fresh abstract
+of e ects
+of new locking
+preprocessed lines of
+java bytecode subroutines
+flow sensitive properties
+assign c for
+non linear locations
+store constraint graph
+l assigns the
+the store c
+of store constraints
+int alloc x
+the store alloc
+type errors are
+our flow sensitive
+a store variable
+atsushi igarashi naoki
+the store constraint
+non linear we
+restrict x e1
+a lock already
+compute s c
+type qualifiers and
+struct emu10k1_card card
+assign y qc
+of type qualifiers
+checks that the
+10 october 2004
+39 n 10
+on programming languages
+the location of
+v 40 n
+to the type
+must be opened
+x e1 in
+e ects that
+s c or
+system for java
+analysis and e
+our alias analysis
+purely local to
+file is a
+a new store
+our type system
+and e ects
+s if not
+must alias analysis
+a weak update
+the constraint 0
+e1 in e2
+the linearity of
+programming languages and
+in our system
+set of e
+an e ect
+be non linear
+of calling the
+flow insensitive analysis
+system and language
+already in s
+c or s
+and language for
+theory of type
+every program point
+c for all
+software engineering notes
+engineering notes v
+acm sigsoft software
+sigsoft software engineering
+of machine code
+a solution s
+for security june
+languages and analysis
+workshop on programming
+through the graph
+if not already
+and the type
+our implementation we
+a system for
+the precision of
+in our implementation
+symposium on partial
+we use e
+type of e
+type inference algorithm
+to s if
+not already in
+evaluation and semantics
+and analysis for
+based program manipulation
+the source language
+and semantics based
+notices v 38
+s c s
+semantics based program
+be compatible with
+on partial evaluation
+major source of
+a major source
+to the e
+i to s
+for all stores
+and forward prop
+device driver modules
+security vulnerabilities in
+stores using a
+the type ref
+e cient inference
+source lines took
+of the 513
+qualifier annotations and
+alloc x y
+system specific static

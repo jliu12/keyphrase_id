@@ -1,0 +1,600 @@
+url
+disk
+proxy
+foxy
+file
+proxies
+squid
+urls
+web
+requests
+buddy
+stream
+packetizer
+locality
+lazy
+webcosm
+cache
+buffers
+server
+read
+kbytes
+reads
+request
+movements
+head
+throughput
+latency
+caching
+delete
+utilization
+storage
+files
+loc
+polygraph
+client
+conscious
+plots
+internet
+lru
+clients
+management
+unix
+documents
+overhead
+serve
+solaris
+contiguously
+contiguous
+hit
+hbench
+unnoticeable
+directory
+tcp
+secondary
+meta
+gbyte
+servers
+simulator
+caches
+crash
+traffic
+trace
+fragmentation
+buffer
+mbytes
+requested
+a3
+improves
+load
+completion
+magnetic
+traces
+directories
+128
+000
+accesses
+serving
+contents
+soloviev
+taztool
+dirs
+bottlenecked
+ufs
+creation
+deletion
+requesting
+noticeable
+contrary
+store
+bandwidth
+prefetching
+operating
+miss
+http
+structured
+traditional
+interleaved
+news
+page
+writes
+slot
+response
+policies
+object
+layout
+hits
+blocks
+busy
+threshold
+disks
+sustain
+slots
+matters
+replacement
+write
+connection
+interleaving
+340
+ffl
+snapshot
+512
+fed
+white
+pong
+clustering
+dots
+os
+minutes
+milliseconds
+surges
+rousskov
+inktomi
+maltzahn
+lmbench
+058
+bake
+cacheflow
+metadata
+storing
+writing
+workloads
+nearby
+stores
+subsystem
+serviced
+fills
+stored
+improvements
+benchmarking
+seek
+00
+sent
+origin
+benchmark
+zebra
+serverless
+watermark
+mogul
+evicted
+custom
+plotting
+driven
+ftp
+policy
+accessed
+rotational
+bottleneck
+fsm
+filesystem
+seagate
+millisecond
+deletes
+scattered
+articles
+arrive
+grouping
+firewall
+cao
+ping
+percentage
+workload
+ultra
+mismatch
+configured
+cached
+plotted
+block
+wake
+mbyte
+locations
+outperforms
+network
+achieves
+suggest
+improvement
+html
+striped
+gbytes
+advocate
+dns
+lazy reads
+the disk
+locality buffers
+web proxies
+web proxy
+the proxy
+read requests
+file system
+stream packetizer
+read operations
+per second
+url read
+file systems
+url write
+disk head
+requests per
+log structured
+the file
+head movements
+url get
+disk utilization
+each url
+structured file
+proxy server
+write operations
+storage management
+web server
+of buddy
+input load
+the url
+figure plots
+to serve
+url requests
+reads loc
+per file
+and stream
+plots the
+squid and
+conscious storage
+proxy s
+web conscious
+url delete
+meta data
+disk i
+i o
+of disk
+of web
+disk space
+all urls
+urls that
+of locality
+free space
+secondary storage
+of squid
+file creation
+of url
+disk cache
+get operations
+and foxy
+file space
+completion time
+main memory
+of stream
+a file
+000 url
+get requests
+locality buffer
+write requests
+unix like
+disk read
+one url
+file management
+o overhead
+buffers the
+performance of
+the web
+throughput of
+stream of
+operations per
+level cache
+of lazy
+a web
+busy web
+write throughput
+caching proxies
+web polygraph
+traditional proxies
+proxies are
+space management
+the foxy
+url per
+a url
+for web
+of read
+the locality
+file i
+second level
+requests are
+the figure
+the performance
+cache simulator
+proxies and
+new url
+and delete
+of file
+on top
+single file
+web objects
+operating system
+read operation
+performance improvements
+end user
+stored in
+the completion
+file and
+url request
+proxy performance
+hbench os
+for serving
+make matters
+url operations
+serve around
+webcosm techniques
+appropriate file
+origin web
+gbyte disk
+128 kbytes
+http request
+our webcosm
+50 requests
+buddy improves
+mbytes per
+disk locations
+solaris 5
+management overhead
+like file
+in url
+serving 1
+matters worse
+traditional web
+delete requests
+buddy is
+data overhead
+proxy that
+urls in
+of urls
+delete operations
+operations will
+a proxy
+network file
+read request
+the contrary
+user level
+top of
+improves performance
+creation deletion
+level web
+00 00
+separate file
+reduce disk
+trace driven
+web documents
+disk to
+the internet
+performance by
+wide web
+stream and
+of write
+the object
+world wide
+experimental evaluation
+server and
+head position
+url from
+requests second
+system crash
+the urls
+in web
+store all
+a disk
+requests that
+significant performance
+create and
+local copy
+memory cache
+urls are
+are fed
+the http
+disk seek
+network bandwidth
+sent to
+file to
+the stream
+data to
+disk in
+single disk
+disk block
+the requested
+level disk
+340 requests
+requests per second
+log structured file
+the file system
+structured file systems
+the figure plots
+to the disk
+figure plots the
+lazy reads loc
+of locality buffers
+disk i o
+the proxy s
+web conscious storage
+a web proxy
+disk head movements
+conscious storage management
+of the disk
+to the file
+url get operations
+the proxy server
+get operations per
+locality buffers the
+operations per second
+the completion time
+of web proxies
+function of disk
+squid and foxy
+for web proxies
+url get requests
+performance of stream
+of lazy reads
+plots the completion
+of the url
+on the disk
+i o overhead
+the performance of
+the disk utilization
+file i o
+the disk head
+url write operations
+performance of buddy
+one url per
+url per file
+url read operations
+the disk i
+on top of
+as a function
+create and delete
+able to serve
+a single file
+a function of
+on the contrary
+of disk space
+50 requests per
+file to store
+second level cache
+serving 1 000
+file creation deletion
+stores all urls
+url operations as
+a file space
+for serving 1
+unix like file
+web proxies and
+mbytes per second
+improves performance by
+of squid and
+meta data overhead
+absence of locality
+source of overhead
+and stream packetizer
+the input load
+to serve around
+for each url
+000 000 url
+to make matters
+origin web server
+get requests per
+make matters worse
+lazy reads and
+a log structured
+time for serving
+read operations will
+file management overhead
+in web proxies
+the appropriate file
+000 url operations
+traditional web proxies
+file space management
+all urls in
+stored in the
+when the disk
+world wide web
+the end user
+a separate file
+of read operations
+operations as a
+of disk utilization
+fed into a
+url from the
+simulation and experimental
+urls in a
+a system crash
+main memory cache
+secondary storage management
+are fed into
+the secondary storage
+the disk in
+of write operations
+of read requests
+web server and
+that the disk
+completion time for
+a factor of
+data to the
+a single disk
+and experimental evaluation
+1 000 000
+each url in
+the web proxy
+performance of read
+the url stream
+long head movements
+previous read request
+urls per file
+in significant performance
+500 url get
+of caching proxies
+busy web proxy
+disk utilization lazy
+taken with taztool
+input load requests
+like file systems
+performance by an
+space tends to
+stream of write
+bottlenecked by their
+study the overheads
+webcosm a set
+throughput of squid
+file system operations
+like log structured
+340 requests per
+the appropriate web
+url read requests
+nearby disk locations
+the http request
+url delete requests
+read requests are
+urls larger than
+http request is
+all urls that
+lazy reads figure
+url write request
+utilization lazy reads
+ping pong effect
+stream and stream
+largest source of
+our webcosm techniques
+our experimental environment
+7 mbytes per
+load requests second
+sequential write operations
+a busy web
+o overhead of
+the requested object
+file creation and
+of url requests
+url read url
+file of their
+of buddy is
+delete a file
+that lazy reads
+free space as
+tcp ip connection
+performance of lazy
+storage management techniques
+stream packetizer by
+each url request
+reduce this overhead
+of a log
+store all urls
+much like log
+disk is plotted
+web proxies are
+the url from
+the object s
+than a factor
+to store all
+are stored in
+by more than
+from the disk
+average size of
+set of techniques
+disk in a
+disk utilization is
+a local copy
+to the proxy
+disk space utilization
+of each url
+structured file system

@@ -1,0 +1,600 @@
+ttl
+adns
+heterogeneity
+web
+prr2
+hit
+rr2
+requests
+server
+client
+overloaded
+prr
+drr2
+load
+request
+rr
+policies
+utilization
+dns
+hits
+sensitivity
+servers
+dispatching
+heterogeneous
+capacities
+varttl
+drr
+capacity
+scheduling
+alarm
+cgi
+site
+zipf
+domains
+node
+adaptive
+ip
+dispatcher
+mrl
+dierent
+clients
+hostname
+probabilistic
+policy
+hot
+alarm2
+dal
+address
+schemes
+overloading
+tier
+cumulative
+unevenly
+alarms
+coming
+name
+rates
+skew
+robin
+strategies
+collector
+http
+routing
+6667
+resolution
+gateways
+seconds
+uneven
+url
+session
+aected
+rate
+period
+cooperative
+reaching
+monitor
+assignment
+specically
+scheduler
+page
+req
+homogeneous
+prob
+deterministic
+workload
+www
+hetero
+geneity
+frequency
+residual
+gure
+feedback
+hidden
+bin
+mapping
+rst
+threshold
+round
+estimation
+perturbation
+nodes
+tra
+240
+arrivals
+authoritative
+internet
+conguration
+modication
+weight
+aects
+domain
+mechanisms
+rewalls
+logle
+alteon
+ppr2
+tilization
+heaviest
+systemmaxu
+instant
+selector
+xed
+caching
+service
+risks
+overload
+proximity
+switch
+arrival
+default
+levels
+sites
+cluster
+popular
+pure
+percentage
+busiest
+disciplines
+axis
+sharing
+accumulated
+geographical
+eectively
+uniform
+partition
+skews
+tracks
+metrics
+aect
+visible
+oered
+eect
+cached
+originated
+75
+xes
+loaded
+condence
+daemon
+inadequate
+dierence
+dynamically
+kwok
+watson
+rob
+controls
+distributions
+assign
+besides
+scenarios
+xing
+geographically
+jdj
+imbalance
+adopted
+centralized
+ve
+utilized
+robustness
+normal
+browsers
+utilizations
+org
+addresses
+versions
+arriving
+400
+max
+selects
+bursts
+schedulers
+percentile
+interval
+60
+excludes
+fraction
+probability
+modications
+65
+proportional
+the adns
+ttl value
+the ttl
+web server
+server system
+adaptive ttl
+ttl s
+the web
+constant ttl
+heterogeneity level
+hit rate
+domain hit
+name servers
+ttl k
+ttl schemes
+distributed web
+ttl values
+prr2 ttl
+ttl algorithms
+drr2 ttl
+node heterogeneity
+address mapping
+hit rates
+web site
+system heterogeneity
+web node
+web nodes
+load weight
+ttl 2
+sensitivity to
+maximum utilization
+system maximum
+the client
+ip address
+hidden load
+variable ttl
+address resolution
+client requests
+of hits
+node capacities
+address request
+cumulative frequency
+probabilistic routing
+overloaded nodes
+the hit
+each domain
+the node
+s k
+th domain
+prob not
+not overloaded
+the requests
+the heterogeneity
+and ttl
+adns control
+and prr2
+hits per
+heterogeneity levels
+adns scheduling
+domain partition
+hot domains
+each address
+server systems
+the address
+requests coming
+coming from
+minimum ttl
+frequency system
+relative capacity
+mean ttl
+ttl policies
+tier domain
+client distribution
+system max
+heterogeneous nodes
+the load
+the domain
+the domains
+two tier
+page requests
+a heterogeneous
+global scheduling
+node capacity
+max utilization
+rr2 based
+ttl i
+the prr2
+k schemes
+domain load
+ttl period
+web switch
+the rr2
+the adaptive
+dns based
+non cooperative
+requests to
+node selection
+client request
+the skew
+name server
+of overloaded
+heterogeneous web
+of ttl
+pure zipf
+each node
+a dierent
+control on
+round robin
+reaching the
+zipf s
+cooperative name
+feedback alarm
+address caching
+dierent ttl
+resolution request
+to adns
+cgi req
+address requests
+adns algorithm
+page request
+ttl interval
+adns scheduler
+algorithms heterogeneity
+requests reaching
+average ttl
+estimation error
+service time
+scheduling algorithms
+web page
+load sharing
+the performance
+is overloaded
+non uniform
+the nodes
+to address
+the hidden
+a web
+unevenly distributed
+ttl and
+limited control
+homogeneous web
+the system
+better than
+the deterministic
+the clients
+to ttl
+system capacity
+avoid overloading
+the probability
+the sensitivity
+heterogeneity is
+client domain
+request counter
+of prr2
+exponential mean
+prr and
+mapping requests
+hit service
+dispatching algorithms
+www http
+ttl base
+adns of
+load monitor
+of rr2
+i classes
+connected domain
+0 6667
+conguration information
+240 seconds
+normal domains
+prr2 alarm2
+adns to
+dynamic ttl
+restricted rr2
+web cluster
+class threshold
+probabilistic versions
+client domains
+overloaded level
+cgi type
+request assignment
+load collector
+heterogeneity of
+node and
+capacity of
+scheduling policies
+of domains
+the probabilistic
+of node
+performance of
+the hot
+perform better
+of client
+level of
+rr2 and
+heterogeneity and
+servers and
+value for
+value when
+two classes
+web server system
+ttl s k
+the web site
+the ttl value
+distributed web server
+the web server
+drr2 ttl s
+the domain hit
+domain hit rate
+adaptive ttl schemes
+the system maximum
+heterogeneity level of
+prr2 ttl k
+system maximum utilization
+of the web
+the adaptive ttl
+hidden load weight
+to the adns
+ttl value for
+the ttl s
+the constant ttl
+adaptive ttl algorithms
+ttl s 2
+prob not overloaded
+web server systems
+the heterogeneity level
+by the adns
+the hit rate
+the web nodes
+server system is
+the hidden load
+requests coming from
+domain hit rates
+s k and
+the minimum ttl
+j th domain
+the address mapping
+tier domain partition
+cumulative frequency system
+system max utilization
+two tier domain
+constant ttl algorithms
+frequency system max
+number of hits
+the name servers
+hit rate of
+load weight of
+of the adns
+heterogeneous web server
+the node selection
+name servers and
+of overloaded nodes
+a distributed web
+minimum ttl value
+to the web
+the client request
+reaching the web
+cooperative name servers
+of each domain
+server system the
+and ttl k
+the web node
+requests reaching the
+non cooperative name
+algorithms heterogeneity level
+to system heterogeneity
+the adns control
+a dierent ttl
+the feedback alarm
+homogeneous web server
+for each address
+address resolution request
+level of 20
+sensitivity to system
+each address request
+web page requests
+the variable ttl
+a heterogeneous web
+ttl value when
+of the nodes
+of non cooperative
+number of overloaded
+control on the
+in a heterogeneous
+of the domain
+perform better than
+coming from the
+hit service time
+of hits per
+domain load collector
+www http www
+web site the
+ttl value is
+popular web sites
+hits per second
+the distributed web
+rr2 based algorithms
+not overloaded level
+zipf s distribution
+the prr2 ttl
+among the domains
+full control on
+domain name server
+ttl base is
+constant ttl schemes
+sensitivity to ttl
+the average ttl
+when the heterogeneity
+probabilistic versions of
+adns scheduling algorithms
+system heterogeneity of
+to a heterogeneous
+the ttl period
+ttl value to
+adaptive ttl policies
+the adns to
+the node capacity
+pure zipf s
+each connected domain
+k and ttl
+for the ttl
+levels of node
+prr2 ttl 2
+and prr2 ttl
+of prr2 ttl
+of node heterogeneity
+the web switch
+node is overloaded
+dierent ttl value
+http www http
+ttl k schemes
+with constant ttl
+the requests coming
+of the requests
+ip address of
+value for each
+the ip address
+of the ttl
+from the j
+the client requests
+the performance of
+the j th
+better than the
+sensitivity of the
+from each domain
+the estimation error
+to avoid overloading
+of the client
+performance of the
+at time t
+by the name
+axis is the
+sensitivity to the
+the sensitivity of
+distribution of the
+two classes of
+of the system
+s 2 and
+each node and
+rate of each
+the requests reaching
+inadequate to address
+state and conguration
+ttl 2 algorithms
+the hot domains
+ttl k algorithms
+the domain load
+ttl values that
+and ttl 2
+time t where
+each node periodically
+for homogeneous web
+from hot domains
+controls only a
+the node heterogeneity
+heterogeneity level is
+address both node
+of each web
+mean ttl value
+and conguration information
+the class threshold
+address request the
+least loaded server
+a pure zipf
+node heterogeneity and
+ttl s i
+the adns scheduler
+at the adns
+address mapping requests
+each address mapping
+the address request
+hits per page
+ttl node capacities
+dynamic ttl schemes
+limited control of
+of rr2 based
+adns selects the
+overloaded level figure
+deterministic ttl s
+ttl variable ttl

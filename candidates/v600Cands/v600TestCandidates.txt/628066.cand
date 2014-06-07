@@ -1,0 +1,600 @@
+itemsets
+frequent
+tid
+itemset
+clique
+eclat
+lattice
+maxclique
+mining
+maxeclat
+atoms
+prex
+association
+actw
+apriori
+cliques
+maximal
+aprclique
+topdown
+partition3
+database
+intersections
+lattices
+infrequent
+items
+acw
+pseudo
+scans
+equivalence
+acdtw
+hybrid
+item
+transaction
+acd
+aw
+acdt
+acdw
+partition10
+atw
+t30
+bottom
+enumerates
+ecient
+atom
+ac
+i16
+t20
+adt
+partition
+lists
+semilattice
+intersecting
+discovery
+ad
+pruning
+subsets
+condent
+powerset
+t40
+bookstore
+cdw
+rst
+hash
+join
+search
+sub
+goethals
+enumerated
+condence
+vertical
+act
+scan
+dierent
+_
+datasets
+cd
+bart
+denition
+cdt
+d400k
+i12
+i8
+13480771
+candidates
+databases
+karypis
+enumeration
+ct
+enumerating
+classes
+lexicographic
+horizontal
+sublattice
+layout
+longest
+rules
+counts
+induced
+decomposition
+scanned
+identier
+covering
+doesn
+zaki
+skew
+partitions
+breadth
+eciently
+specied
+min
+ctw
+michihiro
+purdom
+toon
+yudho
+adtw
+kuramochi
+maxclique10010000
+sucahyo
+gopalan
+13564
+calders
+dtw
+bierstone
+cliqlist
+giri
+sup
+discovering
+top
+gure
+mohammed
+exive
+candidate
+enumerate
+books
+sec
+tids
+freq
+dlg
+hcmac
+austen
+mukund
+gucht
+boolean
+george
+buy
+memory
+intersection
+cw
+raj
+sublattices
+customer
+sigkdd
+conf
+intersect
+deshpande
+t10
+sampling
+meet
+customers
+identied
+counting
+dense
+75
+dirk
+cov
+jrj
+newsletter
+down
+outperform
+lemma
+cardinality
+format
+wg
+inversion
+circles
+locally
+list
+suer
+i4
+globally
+discovered
+jane
+dong
+bought
+deng
+explorations
+lowered
+identies
+signicant
+fewer
+benets
+phase
+distributive
+quickly
+nding
+usage
+density
+personalized
+australasian
+frequent itemsets
+tid list
+maximal clique
+tid lists
+clique based
+frequent itemset
+the tid
+maximal frequent
+hybrid search
+the frequent
+sub lattices
+of frequent
+all frequent
+maximal cliques
+up search
+sub lattice
+prex based
+the maximal
+bottom up
+the atoms
+new algorithms
+itemsets are
+association rules
+pseudo equivalence
+eclat clique
+equivalence relation
+down search
+association graph
+clique maxeclat
+database scans
+transaction size
+itemsets and
+the database
+smaller classes
+boolean lattice
+topdown eclat
+minimum support
+top down
+2 itemsets
+the support
+list intersections
+partition3 aprclique
+support partition3
+aprclique topdown
+of items
+an itemset
+apriori and
+relation k
+relation 1
+by intersecting
+main memory
+support of
+the hybrid
+atoms of
+the prex
+sec minimum
+frequent items
+association mining
+of transactions
+powerset lattice
+it enumerates
+act acd
+lattice p
+at ad
+locally frequent
+covering set
+itemsets of
+up phase
+class x
+intersecting the
+itemsets the
+of atoms
+data mining
+the lattice
+based pseudo
+and partition
+each class
+itemset is
+minimal infrequent
+intermediate tid
+clique generation
+k association
+25 support
+t30 i16
+pseudo class
+frequent 2
+the itemsets
+is frequent
+0 25
+equivalence class
+equivalence classes
+in main
+mining of
+each item
+time sec
+a lattice
+the association
+d t
+edge density
+0 time
+increasing transaction
+intersections for
+min sup
+itemset the
+search it
+p i
+the bottom
+of association
+pseudo code
+1 along
+hash tree
+top element
+search space
+a a
+each sub
+maxeclat maxclique
+length prex
+itemsets figure
+horizontal database
+each pseudo
+at aw
+algorithms scale
+itemset mining
+based equivalence
+subsets at
+cliques for
+maxclique figure
+uses maximal
+hybrid phase
+adt atw
+long itemsets
+acw adt
+min support
+longest frequent
+maximal itemsets
+acdw acdt
+vertical tid
+its tid
+non maximal
+of tid
+reverse lexicographic
+maximal elements
+for frequent
+75 1
+previous level
+for association
+a join
+induced by
+the equivalence
+given as
+the powerset
+mining association
+the dierent
+the search
+lattice of
+t w
+lists of
+of database
+of itemsets
+database scan
+potentially frequent
+fast discovery
+support counting
+bart goethals
+support values
+itemsets in
+the clique
+0 75
+lattice with
+memory we
+generate all
+user specied
+the top
+lists for
+the covering
+list for
+its support
+mining task
+the apriori
+lexicographic order
+the item
+it uses
+into smaller
+dierent algorithms
+george karypis
+of intersections
+prex of
+itemsets for
+item i
+breadth rst
+search the
+for mining
+support is
+in memory
+two itemsets
+infrequent itemset
+itemset search
+ct cd
+k subset
+sup then
+bottom up search
+maximal clique based
+all frequent itemsets
+maximal frequent itemsets
+pseudo equivalence relation
+top down search
+eclat clique maxeclat
+of frequent itemsets
+the frequent itemsets
+equivalence relation 1
+the tid lists
+a a a
+number of frequent
+the tid list
+the maximal clique
+topdown eclat clique
+the maximal frequent
+apriori and partition
+frequent itemsets and
+the support of
+tid lists of
+bottom up phase
+c d t
+a boolean lattice
+minimum support partition3
+aprclique topdown eclat
+frequent itemsets are
+the bottom up
+sec minimum support
+time sec minimum
+by intersecting the
+based pseudo equivalence
+the hybrid search
+lattice p i
+tid list intersections
+each sub lattice
+support partition3 aprclique
+intersecting the tid
+partition3 aprclique topdown
+clique based pseudo
+our new algorithms
+set of atoms
+number of transactions
+tid list for
+frequent 2 itemsets
+the powerset lattice
+increasing transaction size
+the prex based
+d t w
+the covering set
+0 25 support
+0 time sec
+tid lists for
+relation 1 along
+1 along with
+1 0 time
+k association graph
+search it enumerates
+equivalence relation k
+5 0 75
+in main memory
+the top element
+all the frequent
+75 1 0
+the edge density
+set of frequent
+the new algorithms
+the maximal elements
+for each item
+number of database
+set of items
+of association rules
+the previous level
+0 75 1
+a c d
+pseudo code for
+mining association rules
+longest frequent itemset
+its tid list
+a sub lattice
+based equivalence relation
+the association graph
+for frequent itemsets
+intermediate tid lists
+prex based equivalence
+for the atoms
+reverse lexicographic order
+the clique based
+each pseudo class
+it uses maximal
+locally frequent itemsets
+w a c
+tid list of
+the frequent items
+acw adt atw
+the maximal cliques
+powerset lattice p
+the longest frequent
+maximal cliques for
+uses maximal clique
+atoms of a
+the k association
+maxeclat maxclique figure
+clique maxeclat maxclique
+l is called
+edge density of
+an itemset is
+t in memory
+number of intersections
+of all frequent
+implies that u
+of atoms of
+of the atoms
+the number of
+2 p i
+new algorithms for
+element of p
+a factor of
+0 5 0
+x 2 p
+at the previous
+an ordered set
+smaller sub lattices
+association mining task
+independently in main
+non maximal ones
+ad at aw
+new algorithms against
+boolean lattice with
+in reverse lexicographic
+computing f 2
+frequent itemsets figure
+at ad acw
+be an ordered
+ac ad at
+acdtw cdt act
+with increasing transaction
+acdw acdt acdtw
+atw acdw acdt
+ct cd at
+few database scans
+min sup then
+is exive x
+the dierent algorithms
+vertical tid list
+binary relation such
+adt atw acdw
+a few database
+itemsets within each
+r min sup
+frequent itemsets within
+some non maximal
+the minimal infrequent
+exive x x
+the long maximal
+frequent itemsets the
+lattice with the
+cliques can be
+association graph increases
+support 0 25
+itemsets and their
+cdt act acd
+out of virtual
+item tid lists
+subsets at the
+long maximal frequent
+cd at ad
+t w ct
+relation k is
+the sub lattices
+relation is exive
+it enumerates the
+the frequent itemset
+frequent itemsets this
+t30 i16 d400k
+w ct cd
+the atoms of
+within each sub
+ad acw adt
+25 0 5
+frequent itemset mining
+class x induced
+if r min
+frequent itemsets of
+acdt acdtw cdt
+enumerates all frequent
+enumerates the long
+frequent itemsets which
+min support 0
+of maximal cliques
+the top down
+main memory we
+the equivalence class
+of the lattice
+the equivalence relation
+engineering v 17
+the set of
+data engineering v
+knowledge and data
+and data engineering

@@ -1,0 +1,600 @@
+sv
+incarnation
+straggler
+rolled
+orphan
+token
+optimistic
+lps
+rollback
+timestamp
+ts
+lp
+message
+rolls
+virtual
+rollbacks
+s10
+iet
+anti
+simulation
+warp
+logging
+gvt
+recovery
+s20
+announcement
+orphans
+messages
+p1
+roll
+s11
+timestamps
+protocol
+m0
+entry
+s21
+s00
+dependency
+event
+transitively
+cluster
+receiving
+failure
+broadcast
+transitive
+echoing
+s22
+lexicographical
+back
+m1
+restores
+broadcasts
+checkpoint
+receive
+blocking
+pessimistic
+th
+p2
+receives
+gler
+strag
+schedules
+m2
+happened
+acts
+acting
+r20
+protocols
+cascading
+volatile
+p0
+actions
+events
+scheduled
+logged
+sending
+stragglers
+routine
+happen
+r10
+arrival
+discarded
+correctness
+asynchronously
+dependent
+lost
+restored
+saving
+3rd
+sent
+optimism
+arrives
+induction
+optimistically
+intra
+inter
+announce
+increments
+latent
+c1
+sends
+rolling
+checkpointing
+arrows
+overwritten
+dependencies
+conservative
+incrementing
+tagging
+restarts
+discards
+p3
+9414780
+9520540
+damani
+edgements
+transit
+minimally
+refers
+simulators
+receiver
+transition
+send
+execute
+ensures
+erroneous
+overhead
+schemes
+s13
+assistantship
+reuben
+trw
+s12
+pasquini
+1610
+garbage
+clusters
+tokens
+restore
+tracking
+maintains
+vectors
+preserves
+1617
+rego
+jalote
+dickens
+tags
+lowry
+recreated
+eliminates
+broadcasting
+saying
+trigger
+clock
+unstable
+covery
+null
+happens
+logical
+maintain
+ferent
+replays
+announcements
+motors
+discard
+latest
+acknowl
+lected
+livelock
+ceiver
+garg
+queue
+entries
+sender
+sigsim
+ecs
+hypothesis
+lemma
+transi
+vernon
+comparative
+spread
+fossil
+replaying
+domino
+dep
+queues
+larly
+clus
+acted
+executions
+simi
+caused
+tolerant
+en
+om
+subramanian
+attaches
+recoverable
+virtual time
+rolled back
+a straggler
+distributed simulation
+incarnation number
+s sv
+rolls back
+distributed recovery
+the virtual
+the sv
+m ts
+simulation vector
+th timestamp
+p j
+time warp
+p i
+back due
+dependent on
+anti message
+state w
+an orphan
+an lp
+is rolled
+simulation vectors
+a token
+its sv
+the incarnation
+th entry
+state u
+roll back
+happen before
+back state
+other lps
+anti messages
+the token
+timestamp in
+optimistic logging
+w sv
+all orphan
+sv j
+sv s
+sv i
+orphan states
+the gvt
+a rollback
+execute message
+our protocol
+of simulation
+j ts
+transitively dependent
+incarnation of
+inter cluster
+a message
+schedules an
+actions needed
+message m
+of p
+p1 rolls
+u sv
+a rolled
+rollback announcement
+3rd entry
+i ts
+receive token
+above property
+dependency information
+on receiving
+before relation
+time of
+global virtual
+in distributed
+the timestamp
+is transitively
+orphan messages
+new incarnation
+j th
+acts on
+an event
+state s
+the happen
+transitive dependency
+sv and
+a state
+with virtual
+sv of
+a failure
+not less
+logical process
+are rolled
+state is
+all states
+the straggler
+lexicographical maximum
+sv by
+routine receive
+pessimistic logging
+its incarnation
+k optimistic
+orphan state
+lps in
+ts is
+receiving this
+be rolled
+by acting
+the j
+the simulation
+token from
+state saving
+acting on
+an anti
+back the
+p th
+entry of
+been rolled
+event 3
+virtual times
+condition c1
+dependency tracking
+optimistic distributed
+all lps
+lp to
+is dependent
+arrival of
+receives a
+optimistic recovery
+happens before
+back all
+by induction
+parallel simulation
+before u
+event scheduled
+constrained systems
+message logging
+state transition
+vector clock
+back or
+intra cluster
+receive message
+by sending
+is discarded
+optimistic simulation
+the arrival
+the blocking
+timestamps in
+the routine
+in optimistic
+happened before
+message for
+from p
+of lps
+memory management
+on u
+the timestamps
+to roll
+any state
+the message
+from s10
+recover efficiently
+straggler in
+latent global
+hence setting
+routine rollback
+minimally latent
+back restores
+when optimism
+transitive dependencies
+m sv
+straggler computation
+unnecessary rollbacks
+optimistic schemes
+while inter
+latest state
+other area
+cluster execution
+trigger rollbacks
+logging 6
+back s00
+the iet
+p0 rolls
+cluster executions
+simulation optimistic
+restores its
+this anti
+sv proof
+this straggler
+asynchronously when
+higher incarnation
+lost upon
+echoing 15
+dependency entry
+on m0
+strag gler
+of happen
+null entries
+back but
+straggler and
+multiple rollbacks
+rollbacks so
+so timestamps
+of sv
+virtual time of
+the virtual time
+back due to
+of p j
+rolled back due
+is rolled back
+the incarnation number
+of the sv
+with virtual time
+sv j ts
+transitively dependent on
+rolled back state
+happen before relation
+schedules an event
+the above property
+the sv of
+on a rolled
+j th timestamp
+sv i ts
+a rolled back
+p1 rolls back
+size of simulation
+of p i
+dependent on a
+global virtual time
+less than the
+time of m
+to a straggler
+by acting on
+than the gvt
+dependent on u
+is transitively dependent
+on receiving this
+the j th
+to the virtual
+state of p
+the happen before
+state u of
+than the virtual
+u of p
+rolled back the
+not less than
+the timestamp in
+of a straggler
+are rolled back
+an anti message
+timestamp in the
+j th entry
+sends an anti
+scheduled by m
+in its sv
+all orphan states
+receives a straggler
+the 3rd entry
+sv and the
+m s sv
+its incarnation number
+transitive dependency information
+incarnation of p
+is discarded by
+event scheduled by
+th timestamp in
+time constrained systems
+correctness of simulation
+the new incarnation
+p th timestamp
+the virtual times
+an orphan state
+be rolled back
+a message m
+is not less
+is dependent on
+i th entry
+the arrival of
+th entry of
+anti message for
+for distributed simulation
+of simulation vectors
+p i depends
+preserves the above
+any state w
+virtual times of
+been rolled back
+by induction hypothesis
+in distributed simulation
+token from p
+optimistic distributed simulation
+arrival of a
+p j on
+j on which
+and sends an
+p i s
+on the message
+due to a
+of the straggler
+case of rule
+in the routine
+of distributed simulation
+on a message
+an lp to
+time of p
+recovery in distributed
+on which p
+proof by induction
+lps in the
+distributed simulation and
+to roll back
+time of the
+in time warp
+the time warp
+which p i
+in the i
+be the state
+algorithm for minimally
+to m ts
+whereas our protocol
+p0 rolls back
+data m ts
+routine receive token
+incarnation end table
+updates its sv
+as an orphan
+spread of erroneous
+simulation and distributed
+timestamp in its
+cluster execution is
+straggler or a
+receiving this anti
+state w by
+the other area
+takes actions needed
+1 the timestamp
+w sv j
+its last checkpoint
+gvt are never
+other processes until
+m data m
+with k optimistic
+model of simulation
+recovery with k
+restarts from state
+receiving the anti
+increments its incarnation
+k th incarnation
+once in response
+pessimistic logging 6
+output queues and
+for minimally latent
+and restarts from
+of happen before
+a rollback announcement
+sv s can
+which schedules an
+the simulation vector
+satisfying condition c1
+maintain the correctness
+orphan states are
+hence setting the
+gvt and so
+w not satisfying
+the event scheduled
+m0 on receiving
+the gvt and
+distributed recovery can
+definition of happen
+anti message corresponding
+so timestamps less
+recover efficiently and
+and distributed recovery
+happens before u
+sv proof by
+warp simulation in
+a dependency entry
+lp receiving a
+in distributed recovery
+a simulation vector
+last checkpoint and
+simple memory management
+lexicographical maximum operation
+j ts and
+change to state
+anti message p1
+not satisfying condition
+m ts m
+th incarnation of
+to recover efficiently
+latent global virtual
+by sending message
+efficiently and asynchronously
+and so timestamps
+message p1 rolls
+rollbacks and echoing
+to state u
+parallel simulation optimistic
+sv by taking
+rolls back at
+the sv by
+one assumption per
+trigger rollbacks in
+in execute message

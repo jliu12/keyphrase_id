@@ -1,0 +1,600 @@
+preconditioner
+schur
+ainv
+nonsingular
+inverse
+markov
+irreducible
+complement
+singular
+matrix
+ilu
+sep
+tot
+sparse
+preconditioning
+separator
+ldu
+preconditioners
+inverses
+diagonal
+approximate
+cgstab
+factorization
+matrices
+krylov
+preconditioned
+biorthogonalization
+chains
+penrose
+ncd
+nonsymmetric
+mutex
+leaky
+incomplete
+nonnegative
+avg
+dom
+triangular
+bi
+processors
+nonzeros
+factorized
+gamma1
+telecom
+minors
+density
+subspace
+stationary
+chain
+frobenius
+partitioning
+nonzero
+subdomain
+sparsity
+nonsingularity
+aq
+qn
+spai
+dropping
+generator
+factorizations
+iterative
+block
+pseudoinverse
+conjugate
+aa
+gamma
+structurally
+moore
+principal
+entries
+gn
+ups
+precondi
+dayar
+cimmino
+subgraphs
+schmidt
+ergodic
+subdomains
+stochastic
+2d
+factors
+parallelization
+dense
+numerical
+queueing
+null
+scalability
+pivot
+entry
+iterations
+perron
+thetam
+tioning
+jacobi
+generalized
+processor
+ir
+nnz
+convergence
+parallelize
+reducible
+irreducibility
+projector
+gram
+norm
+blocks
+90
+solvers
+gmres
+cardinality
+oblique
+drop
+tables
+inversion
+lu
+reliability
+84
+neumann
+symmetric
+inner
+leading
+seidel
+pivoting
+ods
+meth
+gauss
+products
+coefficient
+inexact
+grows
+78
+row
+accumulation
+timings
+invertible
+converging
+breakdown
+page
+arising
+59
+multilevel
+smoothly
+gradient
+wavelet
+multiplicity
+1603
+66049
+axjj
+entrywise
+24511
+symmetrizable
+23426
+tril
+30977
+grul
+10073
+11414
+156026
+20261
+ffii
+5099
+20491
+62193
+5363
+9758
+15421
+platis
+splittings
+aliakbar
+6521
+2534
+vectorize
+17749
+onauer
+4226
+triu
+maglogiannis
+101041
+relativeley
+124729
+montazer
+agapios
+2018
+16641
+39203
+arator
+7336
+straightfoward
+593115
+104625
+3268
+gamma16
+4919
+ilias
+10229
+metis
+mishev
+6579
+schur complement
+the preconditioner
+m matrix
+approximate schur
+approximate inverse
+sparse approximate
+nonsingular m
+separator set
+a nonsingular
+it time
+the approximate
+tot time
+the ainv
+p density
+singular m
+complement s
+the separator
+a 11
+2 inverse
+p time
+markov chains
+avg dom
+sep size
+singular irreducible
+ainv algorithm
+irreducible m
+inverse factors
+a singular
+markov chain
+graph partitioning
+krylov subspace
+inverse of
+a gamma
+generalized inverse
+bi cgstab
+chain problems
+matrix a
+a biorthogonalization
+ldu factorization
+no its
+table matrix
+m matrices
+the schur
+inverse preconditioners
+inverse a
+diagonal blocks
+a gamma1
+factorization of
+the generator
+null space
+generator matrix
+inverses of
+generalized inverses
+the ldu
+biorthogonalization process
+group inverse
+leading principal
+exact schur
+principal minors
+preconditioner in
+u gamma1
+the incomplete
+a 21
+subspace methods
+a sparse
+time 1
+z 11
+approximate inverses
+preconditioner for
+inverse preconditioner
+incomplete process
+linear systems
+of markov
+the diagonal
+preconditioner is
+the matrix
+is irreducible
+moore penrose
+its it
+parallel preconditioner
+matrix hard
+6 o
+1 19
+a 22
+upper triangular
+the stationary
+s is
+distribution vector
+nonsymmetric linear
+t aq
+preconditioned krylov
+z matrix
+blocks a
+test problems
+a parallel
+chains a
+the group
+a is
+0 38
+hard p
+unit basis
+approximate 1
+diagonal block
+diagonal entry
+subspace method
+schmidt process
+aa gamma
+for markov
+ilu methods
+preconditioner has
+ergodic markov
+incomplete factorization
+unit upper
+and mutex
+drop tolerance
+to ilu
+preconditioner construction
+the moore
+structurally symmetric
+unit lower
+row stochastic
+average subdomain
+gamma1 11
+ilu factorization
+gn r
+dimensional null
+preconditioner can
+incomplete a
+ncd and
+singular case
+iterative solvers
+approximate inversion
+irreducible singular
+generalized gram
+the singular
+markov process
+l gamma1
+block a
+gamma1 and
+the markov
+11 is
+the inverse
+inverse techniques
+19 0
+finite markov
+factorized sparse
+minors of
+chains with
+large markov
+to markov
+dropping in
+in factorized
+ainv preconditioner
+ups are
+matrix all
+two level
+the exact
+8 processors
+a nonnegative
+gamma is
+the leading
+a 12
+u 11
+18 1
+pseudoinverse a
+of nonzeros
+nonzeros in
+gram schmidt
+factorized form
+parallel implementation
+0 14
+markov models
+numerical experiments
+matrix in
+and u
+of sparse
+factors of
+last one
+m gamma1
+nonzero entry
+queueing network
+38 0
+coefficient matrix
+diagonal matrix
+21 a
+large state
+complement is
+speed ups
+1 39
+an irreducible
+matrix is
+the 1
+scalability of
+q t
+solution of
+are positive
+see 26
+the parallel
+matrix with
+a z
+approximate schur complement
+the approximate schur
+a nonsingular m
+nonsingular m matrix
+the separator set
+sparse approximate inverse
+of the preconditioner
+schur complement s
+1 2 inverse
+is a nonsingular
+of a 11
+singular m matrix
+singular irreducible m
+irreducible m matrix
+is a singular
+the ainv algorithm
+a singular irreducible
+markov chain problems
+of the separator
+approximate inverse preconditioners
+a sparse approximate
+the schur complement
+krylov subspace methods
+inverse of a
+the generator matrix
+the group inverse
+leading principal minors
+the diagonal blocks
+complement s is
+separator set is
+a biorthogonalization process
+exact schur complement
+a 11 is
+diagonal blocks a
+the exact schur
+approximate inverse preconditioner
+of the approximate
+s is a
+factorization of a
+inverse of the
+q t aq
+2 inverse of
+its it time
+the ldu factorization
+preconditioned krylov subspace
+the test problems
+blocks a i
+that a gamma
+the leading principal
+in the separator
+approximate inverse factors
+a z matrix
+m matrix in
+and u gamma1
+the incomplete process
+a is a
+of the diagonal
+gamma1 and u
+the approximate inverse
+z and w
+l gamma1 and
+markov chains a
+nonsymmetric linear systems
+sparse approximate inverses
+the preconditioner is
+inverse preconditioner for
+the 1 2
+21 a 22
+inverses of the
+of markov chains
+of the generator
+the matrix a
+existence of the
+a fast and
+the preconditioner construction
+large markov models
+2 inverse a
+in the singular
+p time 1
+and upper triangular
+principal minors of
+the ainv preconditioner
+matrix hard p
+finite markov chains
+complement s of
+a singular m
+the average subdomain
+preconditioner has been
+drop tolerance in
+the singular case
+minors of a
+the graph partitioning
+hard p time
+distribution vector of
+m matrix the
+incomplete a biorthogonalization
+singular m matrices
+krylov subspace method
+pseudoinverse a y
+positive and the
+generator matrix a
+gram schmidt process
+dimensional null space
+it time 1
+matrix a the
+11 in a
+compute the preconditioner
+unit upper triangular
+irreducible singular m
+one dimensional null
+nonsingular m matrices
+1 19 0
+a 11 in
+the incomplete a
+a gamma is
+generalized gram schmidt
+no its it
+p time 0
+approximate inversion of
+m matrix a
+preconditioner can be
+a gamma1 11
+all the leading
+schur complement is
+approximate 1 2
+ldu factorization of
+the moore penrose
+a 21 a
+that s is
+scalability of the
+nonzeros in the
+speed ups are
+linear systems a
+in factorized form
+markov chains with
+factorized sparse approximate
+to 8 processors
+matrix all the
+in the incomplete
+approximate inverse techniques
+solution of markov
+the inverse of
+number of nonzeros
+the markov process
+0 38 0
+up to 8
+of nonzeros in
+the coefficient matrix
+a gamma a
+cardinality of the
+the last one
+a 1 2
+factors of a
+of the stationary
+number of processors
+approximation to a
+are positive and
+of the markov
+the existence of
+in the graph
+number of iterations
+obtained with a
+the cardinality of
+s of a
+course of the
+of the ldu
+a nonsingular approximate
+of markov chain
+very large markov
+comparison of partitioning
+p density no
+an ergodic markov
+schur complement the
+set is small
+table matrix p
+cg for the
+0 09 p
+the inverse factors
+nonsingular approximate schur
+of nonsymmetric linear
+telecom p time
+the subgraphs and
+block versions of
+ir m thetam
+in the ainv
+a 22 then
+to ilu methods
+theory of nearly
+dropping in the
+inverse techniques in
+m matrix proof
+level iterative solvers
+systems a fast
+be a singular
+14 no its
+generalized inverses of
+solution of nonsymmetric
+will see this
+formed and stored
+matrix p time

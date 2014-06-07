@@ -1,0 +1,600 @@
+cache
+fetch
+sldt
+spatial
+locality
+sctr
+mat
+rtx
+byte
+l1
+macroblocks
+l2
+macroblock
+caches
+prefetching
+tag
+026
+pcode
+bytes
+fld
+fetched
+vc
+blocks
+miss
+optimizations
+reuse
+stall
+bypassing
+compress
+bypass
+1k
+entry
+doubling
+accessed
+099
+00
+sz
+block
+misses
+cached
+opti
+perl
+085
+072
+bit
+fractions
+rtint
+lmdes2_customizer
+sctrs
+sr
+accesses
+vortex
+mats
+hit
+associative
+latency
+unsigned
+134
+0x000000
+sldts
+cycles
+hardware
+cc1
+cold
+varying
+147
+doubled
+sc
+sizes
+subblocks
+renumbered
+benchmark
+bars
+m88ksim
+instruction
+improvements
+lmdes2_custom
+int
+512
+tags
+base
+mapped
+16k
+detection
+fetching
+rtl
+izer
+gcc
+latencies
+reuses
+prefetch
+intelligently
+referenced
+tlb
+hits
+numeric
+bus
+configuration
+benchmarks
+dcache
+buffers
+capacity
+entries
+124
+compiler
+conflict
+isa
+breakdown
+routine
+enum
+256k
+counter
+operand
+memories
+cycle
+machinemode
+roblock
+rtstr
+lmdes2
+fmt
+next_real_insn
+customizer
+130
+memory
+hierarchy
+operands
+array
+initiator
+allocated
+tracking
+access
+256
+mask
+bits
+decisions
+static
+struct
+register
+displaced
+hewlett
+outperform
+512k
+wilkerson
+7100
+subblock
+invalidated
+packard
+incremented
+fetches
+item
+temporal
+absent
+000
+intelligent
+reductions
+precluding
+constituent
+underutilized
+counters
+exits
+caching
+exploitation
+tendency
+detect
+preloading
+spec92
+geared
+microarchitectures
+improvement
+speedups
+instructions
+sigarch
+risc
+bypassed
+32k
+chip
+microarchitecture
+buffer
+superscalar
+prefetched
+64k
+mahmut
+examined
+portions
+detected
+management
+hash
+items
+supercomputing
+kandemir
+initialized
+samples
+exploit
+codes
+utilizing
+li
+optimized
+tuned
+ischia
+decremented
+spatial locality
+fetch size
+fetch sizes
+data cache
+spatial reuse
+varying fetch
+026 compress
+the cache
+size block
+the mat
+32 byte
+larger fetch
+sldt entry
+the sldt
+locality detection
+cache blocks
+of spatial
+byte block
+the spatial
+data caches
+bit sctr
+the l1
+stall cycles
+8 byte
+base opti
+l2 data
+reuse fractions
+cache block
+locality optimizations
+locality optimization
+larger size
+blocks with
+the sctr
+go 147
+the macroblocks
+4 bit
+direct mapped
+134 perl
+our spatial
+147 vortex
+accesses to
+l1 and
+and l2
+fetch 4
+sc 099
+vortex pcode
+hardware cost
+with accesses
+1k entry
+tag array
+compress 072
+our optimizations
+doubling the
+072 sc
+l1 data
+099 go
+sizes when
+base configuration
+block fetch
+y fld
+miss stall
+when spatial
+start stall
+each rtx
+fld 0
+elements blocks
+was fetched
+cache performance
+cold start
+entry mat
+li 134
+sctr is
+fld i
+entry mats
+bit sctrs
+x fld
+opti base
+00 026
+a spatial
+block size
+unsigned int
+the fetch
+a macroblock
+124 m88ksim
+detection table
+bits bytes
+085 cc1
+the larger
+entry is
+is accessed
+locality in
+memory latency
+bytes bytes
+benchmark improvement
+block was
+the l2
+00 10
+10 00
+locality is
+an sldt
+lmdes2_customizer 085
+rtx structure
+1k byte
+m88ksim benchmark
+spatial reuses
+fi bit
+same larger
+sr bit
+max fetch
+spatial hit
+cost level
+sldt and
+cost size
+l2 static
+bypass buffer
+perl 124
+spatial hits
+renumbered equal
+cc1 130
+pcode lmdes2_customizer
+prefetching in
+optimization scheme
+table 12
+130 li
+over base
+set associative
+cache the
+fetched into
+the data
+fully associative
+byte lines
+spatial miss
+cache levels
+accurate spatial
+16k byte
+bars show
+512 entry
+improvements achieved
+size cost
+20 00
+way set
+bytes for
+memory latencies
+size is
+1 bit
+00 20
+256 byte
+improvement achieved
+000 instructions
+the bypass
+the improvements
+cache hierarchy
+cache memories
+little spatial
+is fetched
+block sizes
+cache with
+bit mask
+the sr
+optimizations with
+smaller blocks
+sctr value
+term tracking
+doubled caches
+rtx renumbered
+lmdes2_custom izer
+table sldt
+initiator bit
+spatial misses
+referenced element
+growing memory
+was cached
+sctr varying
+smaller fetch
+sldt is
+mat hardware
+size choice
+bypass buffers
+each macroblock
+sctr bypass
+byte l2
+byte fetch
+fetch initiator
+izer benchmark
+exits here
+bypassing optimizations
+two rtx
+size l2
+benchmark total
+200 cycle
+byte macroblocks
+pcode lmdes2_custom
+static fetch
+100 cycle
+tag cache
+locality and
+a miss
+byte cache
+bit is
+cost of
+the spatial locality
+of spatial locality
+spatial locality detection
+larger fetch size
+spatial locality optimizations
+spatial locality optimization
+4 bit sctr
+our spatial locality
+spatial reuse fractions
+go 147 vortex
+larger size block
+32 byte block
+with accesses to
+blocks with accesses
+099 go 147
+l1 and l2
+l2 data cache
+sc 099 go
+the larger fetch
+fetch 4 bit
+fetch sizes when
+147 vortex pcode
+072 sc 099
+fetch size block
+varying fetch 4
+the data cache
+compress 072 sc
+026 compress 072
+l1 data cache
+spatial locality in
+hardware cost of
+the l1 and
+sizes when spatial
+the larger size
+when spatial locality
+cold start stall
+miss stall cycles
+start stall cycles
+elements blocks with
+block fetch size
+of the macroblocks
+spatial locality is
+in the mat
+into the cache
+byte block fetch
+opti base opti
+locality detection table
+varying fetch sizes
+detection of spatial
+130 li 134
+li 134 perl
+00 026 compress
+size block was
+base opti base
+spatial locality and
+improvement over base
+benchmark improvement over
+fetched into the
+the data caches
+00 10 00
+134 perl 124
+data cache block
+l2 data caches
+locality optimization scheme
+each rtx structure
+perl 124 m88ksim
+vortex pcode lmdes2_customizer
+pcode lmdes2_customizer 085
+same larger fetch
+and l2 data
+fetch size is
+cc1 130 li
+a spatial hit
+1k entry mats
+accurate spatial locality
+max fetch size
+lmdes2_customizer 085 cc1
+124 m88ksim benchmark
+the fetch sizes
+the same larger
+block was fetched
+sldt entry is
+085 cc1 130
+improvements achieved by
+00 20 00
+way set associative
+the base configuration
+data cache the
+amount of spatial
+the cache blocks
+is accessed and
+a bit mask
+a 32 byte
+spatial locality of
+the cache block
+dual data cache
+izer benchmark improvement
+on an l1
+1k entry mat
+pcode lmdes2_custom izer
+sr bit is
+data caches at
+of doubling the
+performance improvement achieved
+the sr bit
+tag tag cache
+accessed and its
+fetch size l2
+1k byte macroblocks
+data to fetch
+fetch size was
+y fld i
+512 and 1k
+capacity miss stall
+lmdes2_custom izer benchmark
+8 byte lines
+with little spatial
+cache blocks with
+the fi bit
+locality detection and
+4 bit sctrs
+locality and bypassing
+bit sctr bypass
+and bypassing optimizations
+fetch sizes the
+their spatial reuse
+the l2 data
+size is fetched
+and 4 bit
+fetch sizes for
+detection and optimization
+locality is absent
+byte fetch size
+the smaller fetch
+at both cache
+x fld 0
+doubling the caches
+detection table sldt
+at the l1
+y fld 0
+the sldt is
+control the fetch
+locality optimizations with
+both cache levels
+size l2 static
+16k byte direct
+a spatial miss
+size cost level
+and fetch sizes
+conflict miss stall
+the dual data
+fetch initiator bit
+sctr varying fetch
+bit sctr varying
+to fetch on
+rtx renumbered equal
+by our optimizations
+the bypass buffer
+size block of
+the referenced element
+an sldt entry
+byte cache block
+if the larger
+on line 10
+vortex pcode lmdes2_custom
+smaller fetch size
+the performance improvement
+the hardware cost
+achieved by our
+data caches the
+a hit to
+and 1k entry
+64 byte block
+memory address table
+cache hierarchy management
+spatial locality within
+byte direct mapped
+spatial locality information
+spatial locality exists
+adaptive cache hierarchy
+have no spatial
+doubling the data
+amounts of spatial
+of the cache
+4 way set
+cost of the
+a miss to
+of the mat
+entry is allocated
+improvement achieved by
+when the larger
+locality in the
+the tendency for
+and capacity misses
+conflict and capacity
+data cache performance
+in the data
+bytes for the
+32 byte cache
+little spatial locality

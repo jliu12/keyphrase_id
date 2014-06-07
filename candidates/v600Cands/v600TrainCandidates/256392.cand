@@ -1,0 +1,600 @@
+affinity
+chunk
+scheduling
+ea
+loop
+workload
+loaded
+ksr
+iterations
+loops
+processor
+processors
+adaptive
+ml
+nonaffinity
+load
+granularity
+queue
+ga
+imbalance
+sor
+exemplar
+lightly
+adaptively
+se
+allocation
+ha
+la
+heavily
+ps
+overhead
+variations
+synchronization
+chunking
+locality
+ca
+imbalanced
+balanced
+iteration
+remote
+adjust
+kernel
+hl
+unpredictable
+variation
+ji
+yan
+imbalancing
+essor
+partition
+mm
+predictable
+central
+fig
+execution
+runtime
+execute
+markatos
+leblanc
+granularities
+queues
+tc
+greedily
+balancing
+adjusting
+intervoice
+local_queue_j
+grelck
+initial_partition
+readjusting
+tabirca
+executions
+finish
+shared
+aiming
+collecting
+phase
+mechanism
+x0
+clemens
+subramaniam
+adjusts
+dynamically
+vol
+remotely
+kernels
+aggressiveness
+balance
+accesses
+repeatedly
+exe
+outperformed
+grabs
+risk
+2p
+allocations
+barrier
+cute
+jobs
+sac
+adjoint
+overheads
+normally
+cache
+interference
+transitive
+convolution
+uneven
+allocates
+finishes
+jacobi
+algo
+distributions
+classify
+executed
+executes
+proc
+lock
+convex
+caused
+eager
+variance
+jth
+ccr
+took
+benefit
+heavy
+exhibit
+7b
+aggressively
+closure
+experimentally
+pseudocode
+nested
+favors
+gained
+head
+multiplication
+exploiting
+d96040
+9705594
+9219
+78249
+examplar
+transpds
+readjustments
+cjin
+nullifies
+9102854
+craul
+204092
+64157
+0664
+imbal
+local_queue_i
+abstractusing
+locality_rate
+multicores
+rencuzogullari
+nonheavily
+anced
+9702466
+find_maximum_and_minimum_of_chunk_
+9401142
+quantitatively
+accessed
+sors
+unbalanced
+nl
+conservatively
+skewed
+five
+ll
+differentiate
+1997
+history
+richest
+sotiris
+multicore
+stets
+9400719
+readjust
+preknowledge
+0215
+tianruo
+ioannidis
+cacheminer
+manuscript
+tends
+insignificant
+uniformly
+scientific
+rithms
+umit
+dura
+leiss
+bodo
+tid
+compari
+adjustment
+parallel loop
+chunk size
+affinity scheduling
+parallel loops
+loop allocation
+scheduling algorithm
+the chunk
+the ml
+processor i
+loop scheduling
+the ksr
+ksr 1
+ml algorithm
+the se
+our adaptive
+heavily loaded
+remaining iterations
+adaptive affinity
+size control
+se algorithm
+the adaptive
+scheduling algorithms
+scheduling granularity
+loaded processors
+central queue
+local scheduling
+scheduling phase
+processor affinity
+local work
+the parallel
+adaptive scheduling
+loaded processor
+the ea
+allocation overhead
+adaptive algorithm
+the affinity
+lightly loaded
+load imbalance
+the iterations
+control variable
+local queue
+of loop
+remote scheduling
+work queue
+and ga
+load state
+iterations in
+the ca
+the workload
+load distribution
+parallel iteration
+affinity algorithm
+runtime information
+potential affinity
+k i
+the execution
+n p
+initial partition
+the exemplar
+normally loaded
+adaptively scheduling
+ea la
+and loop
+the load
+execution time
+each processor
+iterations to
+queue based
+execution of
+the heavily
+its variations
+an iteration
+loops with
+loop iterations
+loops in
+ea and
+scheduling parallel
+shared memory
+ps variable
+al adaptively
+locality rate
+ha variation
+the ha
+chunking size
+affinity to
+yan et
+exemplar b
+affinity loops
+synchronization and
+and ha
+data locality
+of processors
+a parallel
+to execute
+self scheduling
+synchronization overhead
+of iterations
+la and
+the local
+the chunking
+ca with
+computational granularity
+ea with
+affinity and
+a values
+sequential loop
+the loop
+variable k
+exploiting processor
+loop partition
+la mechanism
+nonaffinity and
+scheduling granularities
+workload states
+with nonaffinity
+ca variation
+ps variables
+its chunk
+each parallel
+different a
+control function
+loop execution
+b fig
+iterations of
+granularity of
+the processors
+the sor
+vol 8
+local queues
+and unpredictable
+to processors
+performance of
+a processor
+loop and
+overhead caused
+processor j
+memory systems
+affinity of
+partition methods
+granularity is
+load distributions
+reduce synchronization
+the la
+8 no
+on processor
+the processor
+adaptive algorithms
+iteration is
+algorithm and
+loop is
+work load
+execution history
+application kernels
+in shared
+p 2
+loaded or
+the ps
+the central
+iterations from
+loops where
+most heavily
+ps value
+balanced workload
+help heavily
+predictable imbalanced
+ga mechanism
+adaptively adjust
+unpredictable workload
+partition phase
+adjusting scheduling
+iteration ji
+sor kernel
+allocation granularity
+five variations
+ga performed
+classify parallel
+processor increases
+x0 j
+iteration granularity
+affinity parallel
+those lightly
+ha performed
+always accesses
+among iterations
+la ea
+existing affinity
+heuristic variation
+adaptively adjusting
+ca mechanism
+of imbalancing
+ml affinity
+a loop
+phase on
+of sor
+each execution
+them all
+function p
+i loop
+of processor
+balancing the
+the parallel loop
+the chunk size
+affinity scheduling algorithm
+chunk size control
+the ksr 1
+the ml algorithm
+the remaining iterations
+and loop allocation
+the se algorithm
+a parallel loop
+synchronization and loop
+loop allocation overhead
+on the ksr
+adaptive scheduling algorithm
+the adaptive affinity
+of the parallel
+the affinity scheduling
+local work queue
+heavily loaded processor
+adaptive affinity scheduling
+local scheduling phase
+ksr 1 a
+size control variable
+parallel loop and
+and the exemplar
+the adaptive algorithm
+scheduling parallel loops
+of the iterations
+n p 2
+loop scheduling algorithms
+our adaptive algorithm
+the central queue
+adaptively scheduling parallel
+our adaptive scheduling
+chunk size for
+remote scheduling phase
+remaining iterations in
+the local work
+of the adaptive
+and its variations
+iterations to execute
+the local queue
+algorithm and its
+the heavily loaded
+heavily loaded processors
+iterations of a
+parallel loops in
+yan et al
+al adaptively scheduling
+among them all
+ea la and
+la and ga
+different a values
+scheduling granularity is
+variable k i
+size control function
+each parallel iteration
+the local scheduling
+improve the ml
+control variable k
+loops in shared
+ksr 1 and
+et al adaptively
+execution of the
+scheduling algorithm and
+of loop iterations
+parallel loop is
+of a parallel
+iterations in the
+the iterations in
+computational granularity of
+lightly loaded processors
+loop execution time
+of processor i
+of loop scheduling
+of the remaining
+a b fig
+k i of
+balancing the workload
+a sequential loop
+shared memory systems
+1 k i
+in the local
+the overhead caused
+the load distribution
+parallel loops by
+phase on processor
+affinity scheduling algorithms
+processor i loop
+8 no 1
+exploiting processor affinity
+load state of
+reduce synchronization and
+best among them
+queue based algorithms
+the chunking size
+with nonaffinity and
+1 january 1997
+central queue based
+the ca variation
+affinity algorithm with
+the exemplar b
+scheduling phase on
+granularity is an
+iterations in their
+than the ml
+with different a
+the ha variation
+adaptive affinity algorithm
+of an iteration
+the iterations of
+the execution times
+number of processors
+vol 8 no
+loop scheduling algorithm
+iterations from the
+of each parallel
+systems vol 8
+in shared memory
+all the iterations
+overhead caused by
+1 a and
+most heavily loaded
+synchronization overhead and
+in their local
+scheduling algorithm is
+each execution of
+for each processor
+execution times of
+no 1 january
+of parallel loops
+on processor i
+distributed systems vol
+performed the best
+the execution time
+the most heavily
+number of iterations
+the scheduling algorithms
+turn to help
+its local work
+iterations in its
+loops with potential
+loops with nonaffinity
+s ps value
+ml and the
+potential affinity parallel
+parallel iteration is
+always accesses the
+current load state
+the ml and
+its chunk size
+local work queues
+ga performed the
+the convex exemplar
+existing affinity scheduling
+runtime information to
+distributed queue based
+loop scheduling granularity
+the ml affinity
+nested in a
+and unpredictable workload
+affinity loops in
+help heavily loaded
+of our adaptive
+with potential affinity
+initial partition phase
+caused by collecting
+exemplar b a
+risk of imbalancing
+both the ksr
+to help heavily
+ps value is
+jacobi iteration ji
+the adaptive scheduling
+ksr 1 using
+ea and ga
+to adaptively adjust
+parallel loop only
+chunk size so
+processor s ps
+the load state
+and ha performed
+allocation of loop
+states of processors
+and ga performed
+processor increases or
+potential affinity and
+adjusting scheduling granularity
+se and ha
+affinity to processors
+the la mechanism
+control function p
+a values we
+the sor kernel
+those lightly loaded
+the remote scheduling
+of data sets
+the best among
+the load imbalance
+to execute and

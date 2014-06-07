@@ -1,0 +1,600 @@
+route
+reply
+adversary
+routing
+ariadne
+endaira
+corrupted
+conf
+msg
+initiator
+identifiers
+identifier
+request
+compromised
+mac
+protocol
+security
+secure
+ideal
+macs
+hoc
+attack
+protocols
+routes
+discovery
+plausibility
+signature
+ad
+plausible
+tape
+tapes
+attacks
+ini
+tar
+verifies
+honest
+cryptographic
+sys
+sndr
+rcvr
+verifications
+world
+signatures
+adversarial
+forged
+messages
+srp
+message
+neighbor
+sig
+configuration
+intermediate
+hop
+flag
+authentication
+hash
+puk
+pf
+req
+neighbors
+receives
+machines
+res
+target
+indistinguishability
+dropped
+node
+ext
+demand
+keys
+vertices
+wireless
+signing
+ban
+replay
+signed
+neighboring
+id
+radio
+statistically
+accumulated
+hypothetic
+overhear
+activated
+nodes
+negligible
+aodv
+discoveries
+public
+reactive
+requests
+informal
+initialized
+vulnerabilities
+send
+digital
+wormhole
+digitally
+received
+capabilities
+faithfully
+vertex
+ha
+flaws
+pub
+broadcasts
+preceding
+sign
+accepts
+eavesdrop
+prk
+tesla
+nessett
+sybil
+novelties
+rejoinder
+undef
+olsr
+hmac
+initiate
+discovered
+flags
+simulation
+participants
+content
+published
+adversaries
+against
+provably
+broadcast
+hungarian
+rushing
+oracle
+transmission
+rigorous
+timer
+round
+dsr
+appends
+assurances
+imperfections
+strand
+securing
+initiates
+active
+exchange
+provable
+scheduler
+verify
+false
+initialization
+existent
+defend
+indistinguishable
+parties
+devices
+forge
+sleep
+discover
+heard
+lossy
+statistical
+reads
+networks
+authenticate
+flooding
+intended
+reaches
+private
+band
+material
+verification
+partitions
+marked
+activation
+intend
+tolerable
+participant
+caught
+rounds
+mobile
+accept
+successfully
+shares
+returned
+anymore
+belong
+authenticated
+vulnerable
+repeating
+unavoidable
+nb
+subtle
+accepted
+apart
+placed
+removes
+entity
+transmissions
+receive
+route reply
+the route
+conf a
+route request
+corrupted nodes
+routing protocol
+world model
+the initiator
+ideal world
+non corrupted
+route discovery
+a route
+the adversary
+world adversary
+the reply
+hoc routing
+routing protocols
+ideal conf
+ad hoc
+node list
+corrupted node
+real conf
+sys ideal
+non plausible
+intermediate nodes
+m i
+the routing
+compromised identifiers
+plausible route
+in sys
+plausibility flag
+adversarial node
+the signature
+source routing
+demand source
+hop hash
+real world
+the mac
+the request
+the protocol
+a j
+hoc networks
+intermediate node
+the target
+per hop
+the ideal
+negligible probability
+the compromised
+endaira protocol
+non compromised
+secure routing
+configuration conf
+the identifiers
+the attack
+adversary can
+reply and
+identifiers in
+signature of
+the intermediate
+security of
+sys real
+the machines
+in msg
+neighbor discovery
+out real
+active 1
+verifies if
+on demand
+adversary a
+it verifies
+each intermediate
+req i
+these verifications
+msg is
+of security
+operation of
+the identifier
+request identifier
+its plausibility
+basic endaira
+of endaira
+ext j
+compromised identifier
+of ariadne
+reply in
+plausible routes
+for ad
+a mac
+initiator and
+of identifiers
+digital signatures
+request and
+of ad
+the honest
+reply messages
+the node
+receives the
+a configuration
+sig j
+reply that
+sndr rcvr
+routing security
+the security
+identifier of
+discovery process
+machine m
+of routing
+random input
+hash value
+the operation
+against ariadne
+ariadne with
+first adversarial
+mac list
+mac of
+discovery part
+rcvr msg
+following message
+the macs
+accumulated route
+statistically secure
+identifier z
+the per
+j q
+messages that
+attacks against
+identifiers of
+output tape
+with negligible
+of sys
+is dropped
+the real
+protocol and
+reply it
+dropped due
+the tapes
+discovery protocol
+node that
+protocol is
+protocol for
+adversary has
+initiator of
+reply is
+the neighbor
+protocols in
+reply contains
+flag set
+protocol faithfully
+2 attack
+verifies correctly
+forged the
+its identifier
+pf to
+identifiers by
+that corrupted
+on ariadne
+identifier or
+honest nodes
+has compromised
+second adversarial
+ini tar
+simulation paradigm
+corrupted neighbor
+secure on
+following identifier
+to false
+adversary is
+authentication and
+key exchange
+vertices in
+our model
+in v
+an active
+attack against
+sign the
+route in
+its neighbors
+statistical security
+the corrupted
+if msg
+input tape
+each machine
+msg are
+communication capabilities
+reply message
+route is
+signature scheme
+wireless ad
+signatures in
+a neighbor
+content of
+security analysis
+our definition
+never been
+identifier is
+request when
+exchange protocols
+secure we
+successful then
+the network
+ad hoc routing
+hoc routing protocols
+ideal conf a
+the ideal world
+the route request
+the node list
+sys ideal conf
+ideal world model
+the routing protocol
+the route reply
+a route reply
+real conf a
+the route discovery
+real world model
+in the route
+the intermediate nodes
+non corrupted node
+ideal world adversary
+of the route
+on demand source
+per hop hash
+demand source routing
+ad hoc networks
+each intermediate node
+real world adversary
+in sys ideal
+a non corrupted
+the real world
+sys real conf
+the per hop
+a non plausible
+non corrupted nodes
+a route request
+non plausible route
+that the adversary
+routing protocol for
+the signature of
+the non corrupted
+route reply messages
+in the reply
+out real conf
+the operation of
+route discovery process
+for ad hoc
+of the target
+in the node
+basic endaira protocol
+world model which
+j q 1
+route reply that
+the basic endaira
+its plausibility flag
+machine m i
+on the route
+the neighbor discovery
+with negligible probability
+the compromised identifiers
+identifier of the
+definition of security
+of the initiator
+the initiator and
+of ad hoc
+the adversary can
+initiator and the
+a route discovery
+the identifiers of
+protocol for ad
+source routing protocols
+in the request
+routing protocols in
+the first adversarial
+the following message
+by the initiator
+to its plausibility
+generates a route
+secure routing protocol
+active 1 2
+route discovery part
+hop hash value
+following message to
+world adversary a
+the accumulated route
+only with negligible
+an active 1
+discovery part of
+identifiers of the
+route reply and
+the mac of
+non compromised identifier
+conf a is
+sndr rcvr msg
+of routing security
+is a route
+corrupted nodes are
+first adversarial node
+conf a r
+route reply message
+is dropped due
+source routing protocol
+m i and
+the identifier of
+an ideal world
+initiator of the
+all a j
+dropped due to
+in the real
+the adversary has
+vertices in v
+the initiator of
+of the honest
+identifiers in the
+the signature scheme
+in our model
+set to false
+contains a non
+in the ideal
+if msg is
+secure on demand
+verifies if the
+send the following
+of on demand
+contains the identifiers
+receives a route
+conf a and
+attack on ariadne
+second adversarial node
+that corrupted nodes
+flag set to
+route reply contains
+node list and
+for any configuration
+corrupted nodes in
+attack against ariadne
+a plausible route
+compromised identifiers in
+simulation based approach
+any configuration conf
+neighbor discovery protocol
+1 2 attack
+intermediate node that
+by the reply
+operation of m
+each a j
+it verifies if
+the second adversarial
+plausibility flag set
+the request and
+the security of
+of the protocol
+wireless ad hoc
+and the target
+of the routing
+of sys ideal
+any real world
+msg is a
+the content of
+our definition of
+key exchange protocols
+by the routing
+to the route
+by the intermediate
+a real world
+operation of the
+a routing protocol
+which means that
+1 2 n
+m i is
+the vertices in
+precise definition of
+a precise definition
+a hypothetic scheduler
+tape in i
+routing protocol and
+reply message in
+must have forged
+request c i
+mac of the
+protocol under investigation
+on ext j
+c i tar
+some random input
+a single corrupted
+the reply in
+routing security is
+conf a conf
+the machines in
+a plausibility flag
+corrupted node that
+adversary has compromised
+the macs computed
+macs computed by
+it shares with
+a secure on
+a conf a
+initiates a route
+node list in
+adversary must have
+a j may
+route carried by
+a new on

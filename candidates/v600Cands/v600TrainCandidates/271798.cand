@@ -1,0 +1,600 @@
+tcas
+bdds
+bdd
+rsml
+traversals
+statecharts
+smv
+guarding
+counterexample
+microstep
+backward
+checking
+disjunctive
+aircraft
+circuiting
+conjunctive
+psfrag
+events
+transition
+symbolic
+partitioning
+statemate
+microsteps
+disjuncts
+transitions
+replacements
+abstracted
+reachable
+event
+dnf
+synchrony
+invariants
+traversal
+verification
+disjunct
+forward
+mutually
+boolean
+reachability
+exclusive
+dependency
+exclusion
+quantification
+temporal
+synchronization
+dependencies
+qm
+serialized
+trigger
+beame
+notkin
+mutual
+image
+conjunction
+machines
+p5
+enabled
+disjunction
+mistranslated
+britt
+pre
+existential
+p6
+conjuncts
+nodes
+tautology
+warner
+hydroelectric
+partition
+inefficiency
+false
+ctl
+p4
+142
+chan
+checker
+iterations
+blow
+fixpoint
+abstraction
+geist
+encode
+cp
+complexities
+dp
+synchronous
+requirements
+anderson
+kripke
+corrective
+logic
+serializing
+ii
+analyzed
+monolithic
+hardware
+collision
+optimizations
+concurrency
+specifications
+post
+mx
+external
+avoidance
+concurrent
+hypothesis
+provably
+vis
+invariant
+reach
+pruning
+counterexamples
+plant
+iteratively
+valuation
+intersection
+assignments
+burns
+inputs
+critically
+bugs
+diagrams
+tend
+triggers
+p3
+semantics
+gears
+meric
+francesmary
+strichman
+forsake
+tiemeyer
+computingy
+hye
+conjunctc
+970670
+disjunc
+modugno
+trived
+iwashita
+executions
+designer
+evident
+heuristics
+paul
+speedup
+relation
+prune
+conservatively
+disadvantage
+richard
+orders
+david
+occupy
+weiqing
+counterex
+overstreet
+cabodi
+gigamax
+disproportionally
+clusive
+tleneck
+reese
+fengdi
+wolfsthal
+disproved
+whalen
+30mb
+coauthor
+sals
+whittle
+magnitude
+outputs
+consistency
+angeles
+tends
+227
+formal
+sc
+hour
+distributing
+los
+checked
+falsifying
+titioning
+eled
+pothesis
+ofer
+naumovich
+kyo
+rive
+conjunc
+futurebus
+guoqing
+fooled
+propositional
+syntax
+steve
+intractable
+row
+tcas ii
+time nodes
+nodes time
+model checking
+backward traversals
+of tcas
+the bdd
+transition relation
+symbolic model
+disjunctive partitioning
+the guarding
+conjunctive partitioning
+of statecharts
+bdd size
+the bdds
+guarding conditions
+the tcas
+dnf partitioning
+guarding condition
+bdd for
+forward traversals
+counterexample search
+psfrag replacements
+local states
+own aircraft
+short circuiting
+the transition
+full model
+state machines
+the synchrony
+false dependencies
+synchrony hypothesis
+ii requirements
+synchronization patterns
+state sets
+simple synchronization
+a counterexample
+bdds for
+pre image
+mutually exclusive
+other aircraft
+dependency analysis
+image computation
+backward traversal
+the system
+error states
+event y
+pre e
+forward traversal
+and space
+replacements a
+temporal logic
+optimizations time
+rsml and
+smv program
+event u
+fixed point
+checking for
+verification of
+of bdd
+of states
+for tcas
+mutual exclusion
+the events
+exclusion of
+exclusive events
+abstracted model
+state machine
+the state
+the smv
+encode each
+bdd nodes
+finite state
+event x
+the disjuncts
+local state
+relation r
+trigger event
+hardware verification
+anderson paul
+rsml a
+of rsml
+efficient state
+fixpoint iterations
+bdds generated
+state hierarchy
+chan richard
+smv to
+in rsml
+relevant then
+microsteps in
+and statemate
+aircraft is
+in smv
+automatic verification
+in backward
+q 0
+requirements specification
+fixed points
+system requirements
+statecharts the
+of fixpoint
+large bdds
+intermediate bdds
+abstracted models
+traversals the
+of own
+just occurred
+concurrent executions
+j anderson
+existential quantification
+not reachable
+events are
+the mutual
+richard j
+state set
+paul beame
+bdds and
+david notkin
+hierarchical state
+no of
+reachable states
+space complexities
+the inefficiency
+of state
+model checker
+state transition
+partitioning in
+reduction obtained
+image computations
+boolean variable
+the transitions
+a boolean
+model check
+the techniques
+y x
+the property
+certain events
+initial states
+the event
+requirements were
+check ing
+the model
+collision avoidance
+external event
+the counterexample
+traversal in
+partitioning as
+boolean functions
+events may
+the abstracted
+are mutually
+iteratively compute
+bdds however
+reducing bdd
+large disjuncts
+iteratively pick
+x triggers
+traversals usually
+analyze other
+qm e
+combining constraint
+142 150
+forward state
+beame david
+for statecharts
+statecharts description
+other statecharts
+of microsteps
+disjunctive partition
+the statecharts
+partition manually
+early quantification
+serialized model
+parallel assignments
+six properties
+avoidance system
+traversals using
+changed smv
+bdds tend
+obtain dnf
+post images
+state hierarchies
+pick some
+mistranslated model
+triggers two
+reach fixed
+partitioning dp
+intractable the
+previously intractable
+improved conjunctive
+statemate semantics
+property analyzed
+monolithic bdd
+together reduce
+conjunctive and
+the statemate
+checker smv
+counterexample length
+a microstep
+nodes time nodes
+time nodes time
+of tcas ii
+the transition relation
+symbolic model checking
+the tcas ii
+the guarding conditions
+the bdd size
+the bdd for
+the synchrony hypothesis
+tcas ii requirements
+transition relation r
+of the tcas
+simple synchronization patterns
+time and space
+model checking for
+of the system
+the full model
+the guarding condition
+bdd for the
+psfrag replacements a
+mutual exclusion of
+events are mutually
+tcas ii a
+optimizations time nodes
+for tcas ii
+in backward traversals
+bdd for r
+bdd size for
+compute the pre
+a fixed point
+for the transition
+as a boolean
+mutually exclusive events
+the mutual exclusion
+the pre image
+the time and
+obtain a counterexample
+own aircraft is
+backward traversals the
+relevant then so
+of own aircraft
+has just occurred
+model of tcas
+the error states
+no of fixpoint
+anderson paul beame
+chan richard j
+of fixpoint iterations
+tcas ii we
+j anderson paul
+rsml and statemate
+the simple synchronization
+is relevant then
+the intermediate bdds
+counterexample search algorithm
+the state hierarchy
+exclusion of certain
+richard j anderson
+states that may
+of the guarding
+and space complexities
+of certain events
+y w a
+of bdd nodes
+number of bdd
+the bdds for
+automatic verification of
+the system is
+process control systems
+are not reachable
+set of states
+the state machines
+model check ing
+a local state
+for our system
+then so are
+a previous paper
+of iterations needed
+of model checking
+for finite state
+model checking to
+were written in
+guarding conditions are
+and dnf partitioning
+some to obtain
+next time operator
+depends on any
+the property analyzed
+a counterexample q
+specification of tcas
+relatively large reduction
+variants of statecharts
+on forward state
+david h jones
+most i transitions
+the state sets
+y x c
+number of microsteps
+variant of statecharts
+time operator x
+of state sets
+obtain dnf partitioning
+pick some to
+a hydroelectric power
+in rsml a
+in the abstracted
+traversals usually perform
+triggers two state
+false dependencies are
+algorithm for counterexample
+replacements a figure
+requirements were written
+improved conjunctive partitioning
+for state sets
+events may enable
+the event y
+hydroelectric power plant
+in one transition
+variables no of
+changed smv to
+paul beame david
+such false dependencies
+reach an error
+collision avoidance system
+help analyze other
+some analysis that
+conjunctive partitioning as
+backward traversals are
+exploiting functional dependencies
+the smv program
+the counterexample search
+partition the transition
+the statemate semantics
+ii requirements were
+of pre e
+semantics of statecharts
+written in rsml
+ii a complex
+and equivalence checking
+for counterexample search
+of statecharts the
+of error states
+previously intractable the
+monolithic bdd for
+conditions are complex
+error states are
+size by exploiting
+in the smv
+simple dependency analysis
+feasible some analysis
+traversals is also
+the abstracted model
+the reduction obtained
+state machine language
+ordinary finite state
+other temporal properties
+state space pruning
+we encode each
+event x triggers
+image computation we
+traversal in figure
+rest of tcas
+tcas ii and
+by exploiting functional
+statemate semantics of
+reducing bdd size
+william e warner
+implemented in smv
+combining constraint solving
+disjunctive partitioning for
+of backward traversals
+to reach fixed
+of microsteps in
+backward traversals using
+pre image computation
+tcas ii for
+space pruning in
+state sets and
+disjunctive partitioning is
+was previously intractable
+counterexample q 0
+in symbolic backward
+w cannot occur
+to the smv
+parallel state machines
+aircraft is simple
+forward state traversal
+efficient state space
+event y does
+dependency analysis on
+x triggers two
+bdds tend to
+simplify the bdds
+is the states
+conjunctive partitioning in
+traversals are used
+the base analysis
+complexities by orders
+together reduce the

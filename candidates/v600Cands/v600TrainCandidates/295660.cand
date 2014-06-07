@@ -1,0 +1,600 @@
+dts
+mpo
+slice
+rcp
+fmm
+dag
+volatile
+schedule
+fu
+yang
+sparse
+cholesky
+tasks
+rapid
+slices
+scheduling
+dcg
+processor
+lu
+irregular
+t3e
+dependence
+rma
+objects
+inspector
+megaflops
+memory
+processors
+gerasoulis
+pt
+factorization
+task
+permanent
+schedules
+object
+management
+priority
+executor
+d3
+map
+px
+merging
+dags
+cq
+ra
+multipole
+scheduled
+1996b
+jiao
+remote
+d7
+rec
+ddg
+parents
+ready
+article
+particle
+meiko
+allocate
+active
+goodwin
+dtsm
+parallelization
+usage
+acyclic
+rothberg
+tot
+d8
+bcsstk29
+suspended
+owner
+inc
+overhead
+parallelism
+1995
+tw
+deadlock
+priorities
+messages
+allocated
+tx
+dead
+send
+75
+pivoting
+executable
+d5
+packages
+1992
+nonzeros
+recycling
+unscheduled
+executing
+nonexecutable
+requirement
+static
+topological
+accessed
+d4
+reads
+execution
+cray
+submatrices
+efficiency
+t3d
+addresses
+d1
+heejo
+addrs
+buffering
+mem
+execute
+edges
+sarkar
+sunggu
+blumofe
+shmem
+1996
+elimination
+ins
+normally
+cilk
+9t
+tp
+communication
+sequential
+degradation
+block
+waiting
+mixed
+ordering
+message
+children
+sent
+particles
+read
+clusters
+million
+1997
+1994
+executed
+downward
+heuristics
+upward
+1996a
+fig
+d2
+stage
+blelloch
+schreiber
+legal
+destination
+chain
+2d
+deliver
+deallocate
+blocked
+activities
+scalability
+column
+circular
+scientific
+1d
+address
+exit
+writes
+speedup
+00
+assignment
+matrix
+siblings
+ssa
+delta
+granularity
+architectures
+produced
+content
+contradiction
+numa
+maps
+access
+addr
+strongly
+reused
+log
+consistency
+allocation
+req
+leaf
+sung
+sci
+jong
+grained
+freed
+multiprocessor
+live
+vi
+aggressive
+guided
+ta
+c fu
+yang and
+t x
+data objects
+memory management
+data object
+sparse lu
+t yang
+p x
+fu delta
+volatile objects
+t y
+active memory
+each processor
+sparse cholesky
+task t
+parallel time
+pt inc
+a dag
+column block
+map pt
+75 50
+and yang
+fu and
+50 40
+the dts
+slice merging
+dts schedule
+volatile object
+of tasks
+on processor
+ready task
+a dts
+dts is
+data node
+and dts
+in rapid
+task graph
+run time
+memory requirement
+dependence path
+p y
+a task
+space efficiency
+the mpo
+inc map
+processor px
+mpo and
+management scheme
+time efficient
+for sparse
+a volatile
+volatile data
+t u
+processor p
+space for
+schedule is
+irregular computations
+the rapid
+a schedule
+for fmm
+dts algorithm
+address packages
+yang 1996b
+volatile space
+m produced
+a processor
+in fu
+al 1995
+on p
+efficient scheduling
+space needed
+space requirement
+cholesky factorization
+dependence edges
+all tasks
+sparse matrix
+processor assignment
+reduction ratio
+inspector stage
+active messages
+each task
+the dag
+from t
+log v
+of slices
+the memory
+a dependence
+and c
+t k
+on each
+time efficiency
+space usage
+scheduling algorithms
+and fmm
+permanent data
+direct remote
+the rcp
+yang 1997
+l slices
+dependence complete
+slice l
+rapid can
+assignment r
+fast multipole
+multipole method
+same slice
+d 7
+with active
+based sparse
+fast communication
+e log
+the ready
+distributed memory
+this article
+objects on
+object m
+rcp is
+object d
+on t3e
+sequential space
+100 75
+the fmm
+schedule execution
+parallel irregular
+time priority
+40 25
+memory scalability
+data access
+object is
+processor where
+scheduling heuristics
+tasks on
+of memory
+merging algorithm
+on distributed
+a dcg
+available amount
+million nonzeros
+given dag
+and cq
+exit task
+ready tasks
+the executor
+block based
+produced by
+data nodes
+the inspector
+the volatile
+path information
+s 1
+cholesky and
+meiko cs
+dag with
+of volatile
+critical path
+strongly connected
+the space
+o e
+node d
+v log
+for cholesky
+per processor
+to t
+p 32
+et al
+proposed techniques
+memory machines
+scheduling and
+ra and
+computes rule
+remote memory
+address buffers
+mpo the
+permanent objects
+space priorities
+requirement reduction
+address consistency
+circular chain
+x mpo
+by mpo
+1d column
+fu 1997
+of rcp
+jiao 1996
+fu table
+to rcp
+using dts
+by rcp
+fmm computation
+map allocate
+of mpo
+address package
+task ordering
+gerasoulis 1992
+memory managing
+processor end
+lu 100
+and gerasoulis
+mixed granularity
+yang and c
+and c fu
+active memory management
+t yang and
+c fu delta
+fu and yang
+on each processor
+75 50 40
+map pt inc
+task t x
+memory management scheme
+a dts schedule
+on p x
+a dependence path
+processor p x
+pt inc map
+inc map pt
+sparse cholesky factorization
+from t x
+on processor p
+et al 1995
+t x is
+t x to
+x to t
+m produced by
+mpo and dts
+block based sparse
+the dts algorithm
+a volatile object
+and yang 1996b
+for sparse lu
+the ready task
+o e log
+to t y
+produced by t
+to p y
+set of tasks
+on distributed memory
+critical path information
+the same slice
+fast multipole method
+an exit task
+in fu and
+direct remote memory
+data node d
+ra and cq
+a processor assignment
+100 75 50
+the active memory
+50 40 25
+with active memory
+and yang 1997
+on processor px
+of data objects
+space for d
+a given dag
+parallel irregular computations
+parallel time of
+for the dag
+the sequential space
+a data object
+the memory requirement
+s 1 p
+space on each
+of parallel time
+available amount of
+associated with data
+p x as
+the available amount
+distributed memory machines
+for sparse cholesky
+the proposed techniques
+t x t
+each processor will
+space needed to
+meiko cs 2
+and t x
+support for parallel
+where s 1
+data object is
+is associated with
+p x is
+the owner computes
+owner computes rule
+sparse lu factorization
+remote memory access
+ratio x mpo
+volatile space requirement
+the inspector stage
+the fmm computation
+during sequential execution
+c fu table
+requirement reduction ratio
+that task t
+ready task list
+schedule is executable
+space efficiency can
+yang and gerasoulis
+a column block
+dts schedule for
+dag g and
+volatile data objects
+for d 7
+t 3 10
+processor where s
+based sparse lu
+1d column block
+processors memory requirement
+such as sparse
+memory requirement reduction
+column block based
+e log m
+the rcp algorithm
+computations on distributed
+task list on
+reduction ratio x
+time efficient scheduling
+the map state
+parallel time from
+at the executor
+dts is more
+and gerasoulis 1992
+lu 100 75
+objects on each
+data objects on
+dependence path from
+with mixed granularity
+of volatile objects
+space priorities of
+processor assignment r
+a task t
+data access patterns
+is the sequential
+total object space
+according to property
+memory management is
+sent out to
+object is no
+column block k
+per processor where
+x is associated
+the executor stage
+comparison of memory
+given a dag
+out to p
+if t y
+memory requirements for
+a schedule is
+the proposed scheduling
+p x can
+by t x
+data object and
+available memory space
+t 7 8
+node d i
+parallel sparse cholesky
+the three scheduling
+x t y
+with partial pivoting
+of memory requirements
+the space requirement
+v log v
+to t x
+the dag in
+at time 6
+each data object
+execution of t
+computation and communication
+number of processors
+figure 1 c
+and t y
+computation based on
+is o v
+waiting to receive
+path from t
+number of slices
+if the available
+the run time
+factorization with partial
+and space efficiency
+the parallel time
+if p x
+a task graph
+this object is
+s 1 is
+on p 1
+of t x
+sparse gaussian elimination
+the space for
+u and t
+efficiency can be
+static single assignment
+of tasks and
+amount of memory
+the available memory
+t u and
+time support for
+lu factorization with
+run time support
+in this article

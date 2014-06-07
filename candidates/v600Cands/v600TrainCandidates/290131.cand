@@ -1,0 +1,600 @@
+ev3
+fsm
+ecp
+centiseconds
+ev2
+bs
+jqj
+parsing
+ev1pq
+ev1
+fsms
+viterbi
+endfor
+score
+distortion
+beam
+trellis
+deletion
+sentences
+wer
+parsed
+psi
+pi
+sect
+ocr
+ts
+v2
+correcting
+jxj
+transitions
+recognition
+bucketsort
+distorted
+stage
+visited
+string
+va
+decoding
+parse
+perplexity
+symbol
+grammatical
+speech
+deletions
+fig
+backtracking
+8i
+insertions
+centisecond
+bouloutas
+lp
+topological
+stochastic
+ret
+acyclic
+undistorted
+spr
+learned
+insertion
+strings
+substitutions
+miniature
+subs
+width
+negligible
+dp
+substitution
+likelihood
+pp
+inference
+scores
+delta
+endif
+recognise
+dist
+vidal
+ranging
+enrique
+bucket
+differences
+acceleration
+init
+231
+digits
+538
+recog
+heap
+training
+parses
+recomputation
+errors
+generalisation
+labelled
+transition
+symbols
+testable
+multistage
+ins
+imperfect
+depth
+416
+straightforwardly
+language
+diagram
+correction
+buckets
+0745
+mceliece
+c01
+initialcost
+heapify
+bcjr
+ringlstetter
+binsort
+undis
+ecgi
+harpy
+30268
+wers
+fsm0
+bened
+amengual
+mihov
+changed
+preprocessing
+tended
+rate
+learning
+syntactic
+codes
+97
+sigma
+stochas
+60000
+mla
+torted
+trellises
+stoyan
+tic97
+sanchis
+wiberg
+prohibitive
+suboptimal
+coding
+block
+predecessors
+70000
+pps
+80000
+tsi
+acquisition
+ffi
+effectiveness
+ff
+edge
+argmin
+casacuberta
+properness
+warps
+underflows
+edges
+clean
+priority
+search
+sects
+touchstone
+yielded
+71
+ordering
+cycles
+87
+exhibited
+consecutive
+regard
+widest
+tanner
+hp9000
+8l
+probabilities
+recurrence
+degrade
+unsorted
+strict
+algorithmic
+sort
+copes
+belonged
+40000
+coming
+produced
+tuned
+traversed
+linked
+schulz
+ltr
+branching
+images
+55
+30000
+cicyt
+the fsm
+pi q
+stage k
+in centiseconds
+ev3 v2
+centiseconds number
+state q
+in fsm
+deletion transitions
+q j
+q l
+and ev3
+without bs
+parsing stage
+k ts
+visited states
+in stage
+ev3 and
+average computing
+delta b
+computing times
+of visited
+of states
+jqj delta
+c q
+beam width
+the parsing
+of ecp
+delta jqj
+using bs
+lp experiments
+minimum cost
+beam search
+states in
+bs in
+o jxj
+cost path
+2 q
+error correcting
+jxj delta
+q do
+viterbi algorithm
+error model
+ecp is
+trellis diagram
+ocr experiments
+ev2 and
+ts models
+symbol parsed
+viterbi parsing
+back edge
+of distortion
+input string
+psi i
+back edges
+computation time
+bs the
+of bs
+test sentences
+computing time
+i 8i
+grammatical inference
+score of
+o jqj
+bs is
+the viterbi
+per symbol
+the score
+different algorithms
+recognition rate
+the va
+for ev3
+algorithmic scheme
+parse an
+of ev1
+whose score
+and ev2
+distorted sentences
+correcting parsing
+score state
+ts model
+fsm figure
+bucket psi
+without ecp
+init block
+of ev3
+231 states
+jxj do
+ordering key
+on jqj
+list pi
+stochastic fsms
+q endif
+correcting viterbi
+wer pp
+time complexity
+8i 2
+in pi
+do 7
+string x
+ffi q
+finite state
+the lp
+the ocr
+the trellis
+ret block
+6 computation
+3 231
+lowest score
+full search
+parsing of
+q i
+2 ffi
+in sect
+to jxj
+errors produced
+parsing process
+jqj 2
+do 5
+for 10
+linear block
+depth first
+block codes
+distortion rate
+speech recognition
+fsm is
+each l
+the states
+to bucket
+substitutions and
+linear on
+higher computational
+a backtracking
+sect 2
+the beam
+best results
+of back
+each j
+the minimum
+preprocessing stage
+in fig
+stochastic k
+likelihood classification
+given parsing
+while ev3
+acyclic multistage
+experiments distortion
+and ev1pq
+trellis a
+ev3 the
+k testable
+distortion wer
+a centisecond
+insertions substitutions
+ev3 show
+using ev1
+log jqj
+dp can
+6 ts
+416 states
+jqj value
+key psi
+negligible ranging
+va 3
+through error
+ev1 ev1pq
+parsing ecp
+bucketsort the
+3 endfor
+71 538
+this trellis
+fsm computation
+each fsm
+parse errors
+miniature language
+pp wer
+observed computing
+bs was
+of bucketsort
+deletion transition
+perplexity pp
+the ecp
+ev1 is
+case ev3
+fsm 5
+score order
+further decreasing
+case ecp
+ins subs
+with beam
+18 416
+ev1pq and
+automatically learned
+centiseconds of
+ev1 and
+backtracking recomputation
+using bucketsort
+parsing deletion
+viterbi like
+undistorted test
+time in centiseconds
+centiseconds number of
+in centiseconds number
+in stage k
+states in fsm
+of the fsm
+of visited states
+computation time in
+jqj delta b
+state q j
+minimum cost path
+of states in
+ev3 and ev3
+and ev3 v2
+the lp experiments
+2 q do
+the minimum cost
+number of states
+c q j
+the score of
+input string x
+the different algorithms
+computing time per
+8i 2 q
+k ts models
+jxj delta jqj
+2 ffi q
+in pi q
+per symbol parsed
+time per symbol
+bs in the
+average computing times
+10 of distortion
+psi i 8i
+c q l
+an input string
+in the lp
+if the fsm
+o jxj delta
+i 8i 2
+number of visited
+state q l
+each l 2
+the viterbi algorithm
+the parsing of
+to state q
+state q i
+delta jqj delta
+to jxj do
+computing times in
+in fsm figure
+stage k 1
+jqj 2 delta
+ffi q l
+parsing stage k
+algorithmic scheme for
+deletion transitions in
+delta b in
+error correcting parsing
+pi q endif
+the list pi
+correcting viterbi parsing
+0 6 computation
+l in stage
+number of back
+parse an input
+stated in sect
+j 2 ffi
+3 231 states
+times in centiseconds
+by the fsm
+for to jxj
+linear on jqj
+the ocr experiments
+6 computation time
+list pi q
+to bucket psi
+each j 2
+do 5 for
+in the ocr
+errors produced by
+q j k
+linear block codes
+of back edges
+2 delta b
+i in stage
+the parsing process
+of the different
+for each l
+for 10 of
+the beam width
+cost path from
+in the fsm
+a back edge
+i 2 q
+the computing time
+in sect 2
+from state q
+the state q
+states of the
+the best results
+to each state
+q i in
+k 1 is
+each state in
+4 0 6
+in the heap
+11 in fig
+ev1pq and ev2
+pi q has
+for each fsm
+acyclic multistage graph
+l to state
+directed acyclic multistage
+parsed was never
+error correcting viterbi
+ins subs block
+in fsm computation
+computation of psi
+the average computing
+compatible with beam
+set perplexity pp
+than a centisecond
+problem of finite
+the ordering key
+insertions substitutions and
+pp wer pp
+j k has
+the fsm has
+given parsing stage
+without bs in
+with beam search
+through a trellis
+in centiseconds of
+through error correcting
+70 3 87
+l c q
+init block 2
+when parsing deletion
+jqj value of
+parse errors produced
+correcting parsing ecp
+back edges that
+further decreasing of
+pi q then
+the observed computing
+stage for ev3
+score of any
+of psi i
+substitutions and deletions
+j both of
+this case ev3
+q l to
+visited states is
+without bs the
+symbol parsed was
+q l 15
+the 6 ts
+problem of error
+wer pp wer
+different algorithms measured
+ts model with
+gets the best
+q l do
+in o jxj
+q do 13
+centiseconds of the
+endfor 4 for
+18 416 states
+1 70 3
+q do 5
+average computing time
+maximum likelihood classification
+ev1 ev1pq and
+q l c
+bucket psi j
+see sect 5
+deletion transitions 5
+of ecp in
+14 c q
+tended to degrade
+97 2 97
+psi j in
+problem of ecp
+ev2 and ev3
+computing times of
+likelihood classification rule
+and o jxj
+undistorted test sentences
+stochastic k ts
+a backtracking recomputation
+negligible ranging from
+a given parsing
+efficient error correcting
+finite state parsing
+observed computing times
+the fsm with
+for ev3 and
+of using bs
+that are topological

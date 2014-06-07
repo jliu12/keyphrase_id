@@ -1,0 +1,600 @@
+instrumentation
+monitoring
+event
+monitor
+records
+record
+proc
+intrusiveness
+loop1
+events
+l11
+trace
+l12
+p3
+cmmd
+ptr
+timing
+message
+probes
+dest
+communication
+instrumented
+intrusion
+statement
+l13
+lcom
+l8
+collected
+loop
+deadlock
+activate
+organised
+virtual
+volume
+tracing
+waiting
+synchronisation
+statistics
+p4
+intrusive
+collect
+sampling
+kei
+loop2
+calls
+behaviour
+l1
+collecting
+l4
+num
+spent
+turner
+execution
+activities
+receiving
+executions
+l6
+quartz
+tuning
+goals
+tables
+statements
+routines
+counting
+trans
+5t
+apprentice
+l5
+gprof
+caller
+messages
+pcom
+picl
+pc
+inserted
+procedures
+mpp
+probe
+ll
+accumulated
+allocated
+clock
+l3
+organisation
+cai
+transmission
+referenced
+searched
+ready
+aims
+p2
+ea
+com
+mortem
+routine
+deterministic
+kang
+chun
+sync
+manageable
+rt
+p1
+tune
+carrier
+3t
+l2
+processes
+delay
+deadlocks
+numworkers
+l9
+grof
+pmpl
+programs
+characteristics
+partner
+timings
+processor
+callers
+decisions
+count
+occurred
+focusing
+preservation
+tool
+mtype
+l7
+bsize
+worker
+visualisation
+null
+processors
+synchronous
+static
+statistical
+send
+avoidance
+collects
+pool
+master
+bytes
+relating
+responsible
+icates
+arrives
+greatest
+analyser
+receive
+loops
+achieves
+counts
+fore
+pl
+minimising
+stored
+identifier
+store
+happened
+ordering
+perturbation
+occupies
+sending
+destination
+relate
+user
+dependency
+minimisation
+unix
+selection
+predicates
+scalability
+rapidly
+1600
+pi
+fields
+pablo
+tolerance
+limitations
+traces
+communications
+monitors
+zhang
+program
+delays
+t3d
+11a
+collection
+profiled
+callee
+summarised
+profiling
+permit
+linking
+wealth
+files
+arrive
+stores
+hierarchical
+matching
+logical
+the monitor
+the program
+performance information
+performance data
+dynamic records
+static tables
+trace data
+communication statement
+proc record
+line number
+event records
+communication event
+procedure p3
+l ptr
+virtual time
+execution time
+table t
+execution selection
+procedure call
+parallel program
+event record
+activate line
+event tracing
+monitoring activities
+loop event
+of procedure
+interesting events
+the performance
+data collection
+time of
+the execution
+timing information
+program instrumentation
+event trace
+clock approach
+com records
+program event
+parallel programs
+record is
+source program
+p l
+data volume
+main procedure
+total execution
+the event
+record with
+procedure x
+the user
+run time
+the communication
+communication events
+receiving event
+virtual clock
+spent on
+non deterministic
+proc time
+are organised
+of trace
+the timing
+the line
+trans time
+of performance
+of monitoring
+event type
+call statement
+whole program
+kei chun
+chun li
+loop record
+without monitoring
+deterministic receiving
+t ll
+l pc
+com record
+time characteristics
+null message
+running programs
+the statistics
+c p
+procedure calls
+the monitoring
+long running
+a procedure
+transmission time
+in event
+communication statements
+statistics of
+and turner
+kang zhang
+program behaviour
+the collected
+a loop
+information of
+event ffl
+and kang
+cai and
+greatest impact
+program graph
+a communication
+program the
+program execution
+performance statistics
+performance tuning
+monitor can
+the proc
+statistical sampling
+event occurred
+monitor is
+searched in
+e b
+to collect
+record l11
+fashion focusing
+procedure p4
+self node
+cmmd send
+traditional event
+mpp apprentice
+l12 is
+synchronous delay
+monitor will
+instrumentation methods
+the intrusiveness
+waiting dependency
+sync delay
+carrier null
+t lcom
+proc num
+proc records
+t pc
+intrusiveness of
+records are
+call statements
+l l
+the virtual
+pre processor
+the source
+referenced by
+time performance
+events in
+volume of
+call x
+pc l
+program events
+interesting program
+procedure z
+matching event
+message pool
+call y
+goal 1
+message algorithm
+time monitoring
+the events
+the record
+execution of
+each procedure
+performance monitoring
+records for
+four communication
+real times
+l pi
+four goals
+ptr in
+performance tool
+statement whose
+of data
+count of
+deterministic communication
+instrumentation is
+can tune
+receiving process
+is waiting
+our approach
+records the
+counting and
+each event
+is searched
+the count
+the mpp
+trace files
+of parallel
+program to
+event the
+with line
+master process
+of proc
+the procedure
+li and
+table l
+call communication
+t pl
+appropriately direct
+instrumentation probes
+when monitoring
+organised according
+the intrusive
+collecting performance
+require far
+call p4
+send block
+line number of
+of the program
+p l ptr
+the line number
+execution time of
+c p l
+in table t
+timing information of
+of procedure p3
+the performance information
+time of the
+the main procedure
+total execution time
+of performance data
+is the line
+the whole program
+the execution selection
+referenced by c
+the source program
+of parallel programs
+long running programs
+by c p
+the statistics of
+the virtual time
+the performance data
+a parallel program
+a non deterministic
+of the communication
+of trace data
+relate the performance
+and kang zhang
+non deterministic receiving
+cai and turner
+searched in event
+li and kang
+in event records
+kei chun li
+procedure call statement
+chun li and
+virtual clock approach
+the execution of
+during the execution
+the program behaviour
+greatest impact on
+the monitor is
+the execution time
+is searched in
+the greatest impact
+data to be
+of a parallel
+the trace data
+the communication event
+the total execution
+l ptr in
+amount of trace
+and dynamic records
+the loop event
+four communication statements
+l pc l
+of performance statistics
+the mpp apprentice
+static tables and
+the program event
+the static tables
+matching event record
+tables and dynamic
+the matching event
+record with line
+traditional event trace
+the intrusiveness of
+down fashion focusing
+deterministic receiving event
+the monitor will
+carrier null message
+in our approach
+a communication event
+event records the
+a communication statement
+the record with
+non deterministic communication
+run time monitoring
+performance information is
+areas that have
+null message algorithm
+keep the execution
+is the accumulated
+to the source
+run time performance
+in the list
+the receiving process
+by the monitor
+record is the
+the performance of
+is ready to
+in the program
+the volume of
+back to the
+with different levels
+message transmission time
+number of a
+data collection and
+levels of performance
+this achieves the
+have the greatest
+the timing information
+of the monitor
+of a procedure
+time spent on
+e a and
+the communication statement
+single communication statement
+those areas that
+data volume is
+l ptr of
+table t pc
+monitoring the performance
+of static tables
+goals 2 and
+time and count
+event record is
+e a arrives
+by efficiently measuring
+appropriately direct the
+record with activate
+the list referenced
+of event trace
+the pre processor
+table t ll
+collecting performance data
+data are organised
+the four goals
+execution selection unchanged
+can tune the
+monitor is to
+cmmd send block
+a and matrix
+are most responsible
+event trace tools
+ptr of the
+by relating these
+the global waiting
+most responsible for
+characteristics back to
+metrics to one
+in a manageable
+user can tune
+uses the virtual
+whole program to
+these four communication
+in trans time
+event records are
+counting and timing
+the event occurred
+event the monitor
+total message transmission
+pc l pi
+global waiting dependency
+less data to
+but cannot achieve
+performance information rapidly
+proc record with
+at virtual time
+record of procedure
+tune the program
+and by relating
+list of proc
+procedure call communication
+intrusiveness of data
+performance characteristics back
+program the performance
+ptr in the
+relating these metrics
+num counts the
+are organised according
+and count of
+require far less
+table t lcom
+list referenced by
+each event record
+of the proc
+a proc record
+procedure call statements
+top down fashion
+5 4 0
+transmission time of
+l p l
+execution of the
+of the whole
+the process which
+l l l
+of the execution
+is the total
+found in table
+performance of parallel
+of the event
+record is allocated
+of the timings
+parallel program the
+call statements in
+inserted before and

@@ -1,0 +1,600 @@
+client
+servers
+transaction
+server
+tier
+request
+appserver
+abort
+database
+commit
+protocol
+wo
+replication
+vote
+dlist
+outcome
+transactional
+alist
+crashes
+consensus
+regd
+failure
+databases
+recovery
+committed
+clients
+prepare
+stateless
+crash
+cleanning
+appservers
+woregister
+eventually
+detector
+delivers
+commits
+register
+commitment
+xa
+suspects
+clist
+rega
+theappservers
+ackdecide
+termination
+yes
+aborts
+decision
+orbix
+timeout
+aborted
+flight
+practicality
+nil
+retry
+abstraction
+suspicion
+liveness
+supposed
+requests
+asynchronous
+hotel
+identifier
+voted
+backup
+primary
+business
+basically
+informs
+a3
+wait
+woregisters
+dataserver
+primitive
+reliability
+receive
+send
+suspect
+returned
+crashed
+ackack
+suspected
+corba
+appendix
+reliable
+travel
+erent
+unreliable
+a2
+seat
+suspicions
+notification
+disk
+agreement
+romano
+blocking
+channels
+ects
+registers
+quaglia
+car
+issued
+validity
+thread
+crashing
+retransmitting
+party
+returns
+decide
+broker
+period
+chained
+majority
+frees
+interact
+processes
+di
+ensuring
+browsers
+votes
+speaking
+functionality
+read
+specification
+manipulation
+message
+detection
+expires
+francesco
+guarantees
+safety
+invoke
+shelf
+host
+wenbing
+louise
+tees
+theprimary
+unpredictible
+thedataservers
+theperiod
+appserverprotocol
+oracle8
+invents
+accross
+indentifiers
+clientprotocol
+behalf
+executions
+cd
+guarantee
+presentation
+ensures
+ack
+microsoft
+logic
+company
+scenario
+paolo
+failures
+durable
+orchestrates
+resubmit
+coend
+svend
+bookings
+guaran
+frlund
+guerraoui
+unless
+reservation
+garbage
+consistency
+clusters
+bridge
+identifiers
+invocations
+oracle
+interacts
+burden
+fail
+marchetti
+availabilities
+booking
+primaries
+1578
+recover
+timed
+terminate
+correctness
+heart
+reliably
+seats
+roms
+diskless
+desir
+moser
+baldoni
+1583
+melliar
+application servers
+application server
+the client
+database server
+e transaction
+three tier
+database servers
+wo register
+j decision
+replication scheme
+exactly once
+failure detector
+the database
+our protocol
+once transaction
+transaction protocol
+a result
+client issues
+servers are
+a wo
+tier architectures
+result identifier
+appserver a
+the transaction
+request request
+request processing
+a request
+failure detection
+all application
+transaction processing
+end user
+then unless
+commit or
+e transactions
+a client
+the databases
+decision decision
+once request
+client transactional
+vote j
+nil abort
+business logic
+request a2
+transactional manipulation
+processing state
+manipulation databases
+transaction problem
+result j
+k dlist
+of appserver
+servers and
+or abort
+all database
+most once
+true do
+asynchronous replication
+our e
+appendix 2
+while true
+the crash
+the request
+integer j
+is committed
+a2 a3
+among application
+client side
+crash of
+abort a
+primary backup
+consensus protocol
+delivers the
+every database
+the protocol
+the e
+d k
+recovery information
+with third
+transaction abstraction
+regd write
+eventually delivers
+2 suspects
+theappservers list
+every result
+client delivers
+identifier begin
+tier systems
+appserver alist
+corresponding transaction
+eventually commits
+databases prepare
+ackdecide j
+committed result
+eventually perfect
+voted yes
+prepare j
+tier architecture
+fail over
+result commit
+decide primitive
+alist theappservers
+wo registers
+orbix 2
+a database
+servers the
+servers to
+back end
+of application
+the application
+servers we
+every d
+the business
+a i
+supposed to
+the decide
+j write
+outcome outcome
+our replication
+request j
+3 database
+the practicality
+corresponding result
+practicality of
+a majority
+unless it
+reliable channels
+server protocol
+informs the
+are stateless
+a committed
+it crashes
+client does
+a travel
+result and
+any application
+a process
+an application
+client s
+unreliable failure
+active replication
+yes for
+list of
+issues a
+the register
+commit the
+termination properties
+some form
+outcome of
+once and
+every application
+failure free
+timeout period
+the outcome
+server processes
+wait until
+wait free
+begin while
+the failure
+delivers a
+it eventually
+server is
+non blocking
+highly available
+is supposed
+and database
+the commitment
+high availability
+returns a
+any reliability
+properties termination
+always recover
+prepare yes
+aborts as
+chained invocation
+rega j
+do receive
+woregister r
+broker 16
+commitment processing
+tier applications
+committed resp
+pure server
+g browsers
+detector among
+dlist 4
+up long
+seat on
+reliable failure
+issue primitive
+decision regd
+abort abort
+to dlist
+very acceptable
+server decision
+detector module
+end database
+pair outcome
+clients application
+write nil
+nothing scenario
+party databases
+the application servers
+the e transaction
+an application server
+a database server
+all application servers
+application servers and
+exactly once transaction
+a result identifier
+e transaction protocol
+three tier architectures
+application servers are
+a wo register
+all database servers
+of application servers
+commit or abort
+at most once
+application servers the
+transaction processing state
+once request processing
+appserver a i
+every d k
+the database servers
+the business logic
+our e transaction
+every database server
+request a2 a3
+client transactional manipulation
+application servers we
+d k dlist
+any application server
+transactional manipulation databases
+result j decision
+among application servers
+the end user
+while true do
+a three tier
+client issues a
+the client issues
+i an application
+the database server
+of our protocol
+if the client
+issues a request
+the crash of
+a i an
+and the databases
+processes are denoted
+every application server
+the corresponding transaction
+delivers a result
+database servers to
+integer j a
+manipulation databases prepare
+e transaction problem
+three tier architecture
+appserver alist theappservers
+alist theappservers list
+unless it crashes
+a 2 suspects
+list of appserver
+majority of correct
+request request j
+represent the transaction
+array of decision
+of appserver alist
+a committed result
+the client delivers
+result identifier begin
+then unless it
+voted yes for
+in three tier
+of exactly once
+the decide primitive
+most once request
+with third party
+theappservers list of
+three tier systems
+at the client
+a majority of
+the client side
+from a i
+the practicality of
+and database servers
+begin while true
+servers are stateless
+the transaction processing
+result is committed
+database server is
+j a result
+the client s
+in the register
+for a result
+client s request
+of all application
+practicality of our
+by the client
+some form of
+most once and
+client does not
+of a majority
+from d k
+the assumption of
+for every d
+by a client
+list of all
+is supposed to
+j to a
+in a three
+the client the
+assumption of a
+is executed at
+the outcome of
+servers we assume
+clients application servers
+tier architectures are
+three tier nature
+nil abort a
+server decision decision
+decision regd j
+3 while true
+run time between
+16 over a
+the vote primitive
+the three tier
+true do receive
+three tier applications
+eventually perfect in
+server a 2
+database server has
+regd j write
+about 16 over
+4 wait until
+compute is non
+detector among application
+latency as viewed
+outcome of every
+the oracle 8
+any two application
+j decision from
+of our e
+once transaction processing
+write nil abort
+user level aborts
+side software to
+back end database
+primary application server
+transaction protocol is
+viewed by a
+g web servers
+aborts the result
+write result commit
+back o period
+does not o
+3 object request
+a pair outcome
+result identifier and
+seat on a
+abort a result
+our replication scheme
+commit the result
+returned by compute
+regular result values
+or abort a
+servers the assumption
+any reliability guarantee
+that all database
+receive result j
+application servers is
+a i 9
+in appendix 2
+request broker 16
+by the business
+vary at run
+until for every
+the consensus protocol
+servers agree on
+the transaction commitment
+3 database management
+other servers it
+request is executed
+burden of having
+has voted yes
+application server decision
+client delivers the
+a result then
+third party databases
+application servers e
+identifier begin while
+of decision woregister
+pair outcome result
+fail over with
+wait until for
+of application server
+broker 16 and
+appservers request a2
+and exactly once
+servers and database
+our protocol introduces
+baseline protocol that
+j decision to

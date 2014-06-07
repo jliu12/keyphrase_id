@@ -1,0 +1,600 @@
+writer
+lock
+queue
+locks
+readers
+service
+fcfs
+waiting
+writers
+arrival
+ww
+dt
+reader
+surviving
+upgrade
+arrivals
+customer
+survivors
+queues
+queuing
+aggregate
+locking
+wait
+renewal
+seconds
+calculate
+lasts
+enters
+pr
+thumb
+throughput
+customers
+served
+formulae
+coffman
+tw
+unconditional
+dx
+concurrent
+arrived
+finish
+entered
+arrives
+exclusive
+rate
+ae
+serve
+exponential
+arrive
+probability
+occasion
+interarrival
+ahead
+reiman
+concurrency
+survived
+courcoubetis
+asymptotic
+corollary
+poisson
+transcendental
+period
+distribution
+1r
+differential
+analytical
+entering
+upgraded
+intention
+moment
+job
+iyer
+finds
+dv
+database
+receive
+front
+gn
+simulator
+analyses
+nelson
+ab
+read
+io
+preemptive
+kp
+analyze
+shared
+gammax
+capacity
+rarely
+thomasian
+krx
+dp0
+9891
+dpn
+abel
+multigranularity
+vacationing
+ijo
+baccelli
+blocked
+server
+resource
+stability
+laplace
+concurrently
+predict
+pn
+waw
+gelenbe
+thousand
+spends
+hyperexponential
+1ffl
+queueing
+finishes
+spider
+randomize
+preempts
+rates
+hundred
+upgrades
+tay
+arriving
+starve
+removable
+predicts
+policy
+integral
+replicated
+proportion
+expansion
+finished
+granting
+qe
+rare
+simultaneously
+substitute
+file
+plateau
+1p
+conversion
+formula
+departures
+aren
+series
+ltd
+serialization
+integrate
+memoryless
+aw
+compatible
+permit
+death
+asymptotics
+held
+samples
+expected
+utilization
+survive
+threshold
+nicola
+calculation
+copies
+g1
+write
+gammar
+databases
+logarithmically
+cutoff
+deltax
+ordinary
+grow
+exponentially
+combinatorial
+algebraically
+contribution
+saturated
+regime
+scheduling
+die
+sa
+differentiating
+modeled
+calculated
+abbreviate
+pg
+wright
+gammat
+singularity
+simplify
+approximated
+obeys
+normalizing
+plus
+grant
+equals
+serving
+historical
+w lock
+writer queue
+the queue
+w queue
+u lock
+a writer
+u locks
+waiting time
+r locks
+previous writer
+service time
+one writer
+readers that
+expected waiting
+a w
+the expected
+arrival rate
+the writer
+r u
+w locks
+r lock
+queue is
+t seconds
+aggregate customer
+waiting times
+ae w
+a reader
+of readers
+the r
+reader writer
+the service
+r w
+a r
+of surviving
+lock is
+all readers
+u w
+readers in
+writer is
+the w
+the waiting
+fcfs r
+writer arrival
+writer in
+reader arrival
+queue the
+locks are
+writer must
+time for
+and writers
+dt pr
+surviving readers
+and writer
+lasts at
+wait for
+lock in
+service period
+1 model
+the readers
+in service
+g 1
+the arrival
+calculate the
+expected time
+queue and
+queue when
+reader and
+readers and
+must wait
+m m
+1 queue
+another writer
+write upgrade
+entering writer
+writer arrivals
+lock will
+renewal time
+d dt
+the distribution
+a u
+distribution of
+queue as
+service rate
+probability that
+the fcfs
+the probability
+least t
+locks in
+that entered
+e ww
+the aggregate
+expected wait
+unconditional distribution
+enters the
+queue in
+to finish
+writer and
+the unconditional
+the reader
+analyze a
+m g
+expected service
+that arrived
+the entering
+the u
+of thumb
+expected number
+m 1
+writer if
+period lasts
+finish service
+lock enters
+threshold policy
+upgrade to
+lock waiting
+arrived after
+write intention
+fcfs reader
+ww is
+reader arrivals
+scheduling readers
+survivors from
+aggregate queue
+write locks
+k readers
+intention locks
+readers to
+to serve
+1 w
+shared resource
+n ab
+lock queue
+exponential integral
+serve all
+of reader
+current writer
+arrives is
+of survivors
+served concurrently
+of ww
+time of
+1 x
+power series
+maximum throughput
+g 2
+the m
+ahead of
+ab r
+distributed service
+locks which
+fcfs service
+the renewal
+throughput of
+that arrive
+lock if
+queuing system
+an aggregate
+r a
+lock we
+a fcfs
+the lock
+entered the
+queue before
+readers may
+a queuing
+concurrent data
+w and
+service is
+and experiments
+thumb for
+the exponential
+interarrival time
+r ae
+locks the
+an expected
+r r
+readers are
+queue or
+locks and
+get r
+service the
+state k
+b c
+find the
+arrival rates
+writer queues
+only readers
+held simultaneously
+w enters
+readers immediately
+reader write
+w seconds
+arrive rarely
+dv dx
+n readers
+locking customers
+other writers
+period waiting
+writer expected
+w service
+a w lock
+in the queue
+one writer queue
+the previous writer
+the w lock
+the one writer
+r u w
+waiting time for
+the expected waiting
+u w queue
+expected waiting time
+a u lock
+r w queue
+reader writer queue
+the r u
+number of readers
+m m 1
+w lock is
+enters the queue
+the service time
+time for a
+writer queue is
+reader arrival rate
+of readers that
+fcfs r w
+service time for
+the queue when
+least t seconds
+g 1 x
+m 1 model
+writer is in
+w lock in
+writer in the
+lasts at least
+writer arrival rate
+that a writer
+reader and writer
+writer must wait
+number of surviving
+of surviving readers
+the waiting time
+time to serve
+the queue the
+m g 1
+calculate the expected
+readers and writers
+for a w
+r a r
+the distribution of
+the probability that
+service time of
+after the previous
+the aggregate customer
+writer queue and
+of r locks
+readers that arrived
+the entering writer
+the writer arrival
+the fcfs r
+readers that arrive
+expected wait for
+r lock will
+the expected wait
+the r lock
+queue is limited
+an aggregate customer
+unconditional distribution of
+and w locks
+the reader arrival
+a r a
+at least t
+expected time to
+the m m
+waiting times for
+entered the queue
+of a writer
+the unconditional distribution
+a writer is
+to a w
+lock is in
+of the w
+must wait for
+time that a
+the expected service
+for an expected
+the expected number
+g 1 model
+ahead of it
+m 1 queue
+expected number of
+for a u
+throughput of the
+the expected time
+lock in the
+probability that a
+the queue is
+distribution of the
+as an m
+w lock we
+write intention locks
+in t seconds
+when the w
+d dt pr
+all readers in
+lock waiting times
+readers that entered
+the u lock
+a threshold policy
+the aggregate queue
+an r lock
+period lasts at
+is a writer
+threshold policy for
+n ab r
+the queue before
+readers in front
+fcfs reader writer
+queue before the
+scheduling readers and
+arrived after the
+the renewal time
+r locks are
+w lock enters
+queue the expected
+queue as an
+that arrived after
+to finish service
+a writer must
+for scheduling readers
+of ww is
+and u locks
+r locks in
+w queue is
+to w locks
+number of survivors
+the r and
+writer if the
+writer queue in
+the u locks
+serve all readers
+of the r
+the arrival rate
+number of r
+r and w
+the exponential integral
+that arrive in
+that entered the
+waiting times and
+to serve all
+of a reader
+of a threshold
+the current writer
+expected service time
+readers in the
+we find the
+a reader writer
+of the readers
+a r t
+know the distribution
+queue when the
+the queue and
+probability that the
+in a b
+queue is the
+from a b
+the arrival rates
+queue in which
+wait for a
+the waiting times
+an m m
+r w and
+the point when
+policy for scheduling
+the m g
+g 2 x
+r u and
+locks in the
+r and u
+the throughput of
+of thumb for
+the second moment
+time of a
+the maximum throughput
+to calculate the
+is limited by
+optimal control of
+waiting time of
+to the service
+arrival rate is
+shows a comparison
+in front of
+of the number
+need to know
+of the one
+b c is
+comparison and experiments
+interval we integrate
+queue is modeled
+is 1 w
+designing concurrent systems

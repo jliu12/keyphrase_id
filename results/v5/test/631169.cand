@@ -1,0 +1,600 @@
+timing
+cache
+wcet
+instruction
+wcta
+reservation
+pipelined
+block
+misses
+caches
+pipeline
+miss
+risc
+wcets
+schema
+tail
+references
+reference
+hits
+struct
+interference
+worst
+rd
+instructions
+md
+wctas
+processors
+hit
+alu
+overestimation
+analyzer
+phi
+head
+execution
+loop
+pruned
+pruning
+live
+program
+blocks
+preempted
+seongsoo
+preemptive
+scenario
+accurately
+succeeding
+retargetable
+sp
+fig
+exp
+friedhelm
+ferdinand
+engblom
+jakob
+ermedahl
+80c188
+stappert
+preceding
+processor
+policy
+calculating
+compile
+constructs
+overlapped
+lyul
+wmin
+r3000
+fidge
+lee
+preemption
+assembly
+tasks
+benchmark
+board
+mapped
+surrounding
+mips
+cycle
+contents
+scheduling
+intra
+prediction
+max
+tight
+concatenate
+sang
+revised
+timer
+wp
+inherits
+pipelining
+notices
+fetched
+addresses
+cached
+sheayun
+roychoudhury
+procedurally
+abhik
+whalley
+idt7rs383
+xianfeng
+harmon
+jungkeun
+wilhelm
+dongkun
+theiling
+acsr
+ffi
+nov
+memory
+calculated
+arc
+overlap
+sigplan
+kim
+path
+nop
+jihong
+concatenates
+opcode
+fpu
+minsoo
+tulika
+rectify
+paths
+ranges
+mm
+programs
+associative
+statement
+predicted
+prune
+limitation
+calculation
+schneider
+tables
+safe
+loose
+andreas
+christian
+formula
+accurate
+estimation
+effects
+burst
+lw
+hazards
+colin
+ryu
+gmez
+accesses
+ij
+predicting
+analyzing
+ansi
+variation
+cycles
+loaded
+hayes
+reinhard
+displaced
+timers
+superscalar
+compiler
+static
+enumerates
+henrik
+tighter
+accounted
+tool
+ignoring
+resumes
+div
+dirty
+mitra
+concatenation
+predictions
+chip
+suffers
+voltage
+stage
+write
+automation
+analytical
+weight
+refine
+associativity
+null
+task
+stack
+bounds
+liu
+shin
+bb
+ian
+longest
+infeasible
+delay
+penalties
+program construct
+the timing
+first reference
+the cache
+case execution
+timing information
+timing schema
+timing analysis
+execution path
+pipelined execution
+reservation table
+cache block
+last reference
+instruction block
+execution time
+worst case
+the wcet
+of pipelined
+timing formula
+wcet bounds
+real time
+data caches
+t max
+reference i
+cache memory
+the instruction
+risc processors
+time systems
+the wcta
+struct pipeline
+wcets of
+the phi
+cache timing
+the wcets
+w 2
+basic block
+memory block
+cache miss
+pipeline cache
+phi operation
+original timing
+execution scenario
+case timing
+timing tool
+the worst
+w 1
+timing analyzer
+wcet of
+program constructs
+miss in
+reservation tables
+or misses
+the program
+of cache
+loop statement
+write back
+cycle mean
+hits or
+block in
+maximum cycle
+timing effects
+preceding program
+extended timing
+the loop
+for risc
+execution and
+and cache
+reference to
+proposed technique
+wcet analysis
+the reservation
+execution times
+write access
+live ranges
+the execution
+task interference
+succeeding program
+intra task
+information w
+alu rd
+references whose
+s wcet
+case scenario
+each program
+the write
+in w
+instruction cache
+pipelined processors
+basic blocks
+an instruction
+rd if
+this timing
+the succeeding
+cache contents
+memory blocks
+be pruned
+of instruction
+cache misses
+reference and
+time bound
+block is
+data cache
+timing variation
+revised timing
+if md
+history sensitive
+ffi tail
+loop timing
+block address
+hit in
+cache in
+a cache
+at compile
+of tasks
+a tail
+to b
+a timing
+information of
+call graph
+w 3
+p i
+of instructions
+write through
+misses of
+simple time
+same cache
+a program
+d i
+execution paths
+preemptive scheduling
+benchmark programs
+time of
+analysis technique
+i j
+compile time
+cache the
+cache and
+b 4
+each instruction
+for real
+instruction references
+of wcet
+the hits
+construct is
+construct in
+path p
+policy is
+element in
+p j
+instruction caches
+set associative
+direct mapped
+with path
+weighted directed
+s head
+cache hits
+analysis for
+b 2
+timing behavior
+the proposed
+s first
+cache partitioning
+ffi head
+write run
+our extended
+pipelining effects
+the wctas
+whose hits
+schema approach
+timing abstraction
+through policy
+wp n
+accurately accounted
+wcta can
+program syntax
+mean weight
+a wcta
+pipelined processor
+timing variations
+md fig
+jakob engblom
+write accesses
+a reservation
+two reservation
+one cache
+block addresses
+30 overestimation
+exp s
+back policy
+friedhelm stappert
+andreas ermedahl
+wcet estimation
+christian ferdinand
+wcta wp
+block fetched
+wcta of
+fetched on
+differ depending
+measured execution
+head and
+worst case execution
+in the cache
+of pipelined execution
+the program construct
+case execution path
+pipelined execution and
+real time systems
+the worst case
+timing analysis of
+case execution scenario
+the wcets of
+the timing information
+cache timing information
+the original timing
+execution and cache
+reference to b
+pipeline cache timing
+original timing schema
+and cache memory
+struct pipeline cache
+d i j
+worst case timing
+execution time of
+each program construct
+timing information of
+of data caches
+the phi operation
+hits or misses
+miss in the
+the first reference
+the execution time
+with each program
+first reference to
+for risc processors
+the wcet of
+the instruction block
+timing effects of
+the maximum cycle
+first reference i
+maximum cycle mean
+extended timing schema
+the preceding program
+last reference i
+w 2 s
+the timing analysis
+the proposed technique
+time systems v
+the reservation table
+a program construct
+analysis of data
+the timing effects
+of the succeeding
+for the timing
+timing information w
+the timing formula
+and last reference
+cycle mean of
+w 1 s
+timing formula of
+s first reference
+effects of pipelined
+program construct in
+succeeding program construct
+reference and last
+the succeeding program
+be the worst
+program construct is
+the loop statement
+first reference and
+case execution time
+of the loop
+can be pruned
+to b 2
+the cache in
+the cache and
+into the cache
+sequence of instructions
+at compile time
+loop timing analysis
+simple time bound
+of timing information
+bit is set
+the cache contents
+in the wcta
+with path p
+analysis of pipelined
+write access is
+the cache block
+alu rd if
+execution path that
+timing information associated
+preceding program construct
+revised timing schema
+in the reservation
+of the phi
+this program construct
+wcets of tasks
+2 s first
+same cache block
+wcet bounds of
+this timing formula
+in w 2
+or misses of
+rd if md
+a simple time
+the timing tool
+of the program
+for real time
+the timing schema
+in w 1
+the same cache
+mean of g
+a cache miss
+execution path of
+construct is a
+weighted directed graph
+hit in the
+of cache misses
+path p i
+case timing analysis
+block in the
+of the preceding
+reference to the
+systems v 17
+information associated with
+block can be
+s execution time
+references whose hits
+timing schema the
+about the factors
+instruction block references
+best case scenario
+cache memory we
+schema the timing
+within a maximum
+fetched on a
+t max is
+cache block in
+history sensitive nature
+timing schema approach
+the timing variation
+whose hits or
+burst of cache
+instruction block addresses
+each instruction block
+will differ depending
+of cache miss
+our extended timing
+a loop statement
+write back policy
+of instruction caches
+path not necessarily
+and pruning operations
+wcta wp n
+the data cache
+of about 30
+program construct this
+the wcet bounds
+program construct the
+maximum of about
+s last reference
+write through policy
+in a wcta
+reference i else
+accurately accounted for
+accessed in w
+is a tail
+the extended timing
+time bound in
+the hits or
+reservation table in
+case timing abstraction
+timing analysis technique
+of wcet analysis
+program constructs can
+execution scenario of
+the write through
+instruction block can
+measured execution times
+the program syntax
+exp s 1
+what the surrounding
+scenario for w
+b 2 will
+each cache block
+about 30 overestimation
+a reservation table
+inter task interference
+two reservation tables
+due to write
+reference i w
+cache block is
+cache simulation approach
+differ depending on
+i w 2
+the history sensitive
+block fetched on
+path that might
+worst case scenario
+of the instruction

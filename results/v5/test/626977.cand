@@ -1,0 +1,600 @@
+tmr
+rshw
+rhwr
+permanent
+faults
+voting
+fault
+failure
+voter
+redundancy
+unsuccessful
+faulty
+probabilities
+reconfiguration
+rshws
+voters
+module
+spares
+modules
+retry
+nominal
+recovery
+failures
+transient
+phi
+mnr
+likelihoods
+comparator
+disappearance
+modular
+detection
+fs
+ovrs
+ovr
+occurrence
+pdf
+transition
+km
+policy
+disagreement
+ftmp
+retries
+switching
+recover
+triple
+rollback
+tolerant
+vmp
+microcomputer
+votings
+merger
+markov
+reliability
+coincident
+hardware
+hours
+inducing
+omega
+renewed
+evolved
+prior
+fig
+figs
+8g
+oe
+sm
+transitions
+spare
+ij
+disappear
+checkpointing
+chain
+detected
+resynchronizing
+koren
+watchdog
+i2f2
+hagbae
+pmn
+task
+recovers
+detectors
+bayes
+kim
+shin
+multiprocessor
+successful
+nonfaulty
+healthy
+purging
+effects
+simplified
+processor
+simplex
+replacement
+caused
+resynchronization
+i2f0
+comparators
+upon
+restart
+reload
+eq
+instruction
+adaptive
+reconfigure
+resetting
+overhead
+buses
+estimating
+frequent
+costs
+simulations
+execution
+self
+probability
+spatial
+infrequent
+laplace
+persistence
+majority
+manifest
+4g
+rates
+redundant
+accurately
+arrival
+units
+diagnosis
+unlimited
+occurrences
+detecting
+merged
+kang
+masks
+likewise
+tasks
+allowable
+occurred
+estimated
+prob
+effective
+mismatch
+minimizing
+ccoincident
+redun
+kolmogrov
+kook
+tfa
+recoverying
+jpl
+rhwrs
+chuck
+dancy
+collectors
+naresh
+triplicated
+currence
+metra
+intercheckpoint
+meissner
+demerit
+oereconfiguration
+hasty
+mmp
+nonpermanent
+byonghyo
+shanbhag
+cazeaux
+transited
+byung
+1217
+mask
+paths
+tolerate
+shift
+tolerance
+star
+recovering
+controller
+recovered
+erroneous
+persistency
+1337
+fij
+hfa
+1225
+daniele
+rollbacks
+cecilia
+rail
+standby
+sojourn
+1331
+hypercube
+chip
+hybrid
+priori
+update
+gammaf
+a tmr
+tmr failure
+tmr system
+permanent faults
+non permanent
+permanent fault
+of permanent
+the tmr
+possible states
+tmr failures
+upon detection
+rshw and
+of rshw
+task execution
+and rhwr
+of rhwr
+unsuccessful rshw
+time x
+phi phi
+system state
+i f
+faulty module
+modular redundancy
+x f
+triple modular
+probabilities of
+fault state
+system reconfiguration
+detection of
+the fault
+chain model
+prior state
+execution time
+t i
+between rshw
+re execution
+nominal task
+the probabilities
+faults and
+expected cost
+recover from
+fault s
+transition probabilities
+in fig
+fault states
+most tmr
+tmr systems
+spatial redundancy
+switching operation
+two voters
+retry policy
+or rhwr
+rshw is
+of spares
+the rshw
+of tmr
+the occurrence
+likelihoods of
+omega omega
+method 1
+the probability
+faulty modules
+time overhead
+markov chain
+of voting
+a voter
+probability of
+occurrence of
+the transition
+from s
+all possible
+a task
+multiple module
+voting policy
+rshw or
+occurrence rate
+ovrs of
+rshw becomes
+voting failure
+simplified markov
+tmr structure
+the mnr
+voting interval
+of unsuccessful
+frequent voting
+with rshw
+time redundancy
+adaptive method
+fault parameters
+nominal execution
+the ovrs
+voter fault
+rhwr based
+transient faults
+the prior
+at time
+a permanent
+the likelihoods
+an unsuccessful
+the pdf
+voters and
+optimal recovery
+possible fault
+during x
+c ij
+the nominal
+states at
+prior probabilities
+faults is
+state model
+back off
+the task
+oe oe
+faults are
+method 2
+increases with
+transition matrix
+voting and
+bayes theorem
+cost of
+the expected
+the system
+fault tolerant
+failure detection
+state probabilities
+pdf of
+from most
+rhwr the
+for tmr
+c vmp
+recovers from
+module replacement
+rshw upon
+general rollback
+unsuccessful rshws
+module faults
+x increases
+one rshw
+voting time
+off time
+rhwr is
+instruction retry
+either until
+optimal voting
+failure possible
+having caused
+of rshws
+path j
+th voting
+model fs
+rshw will
+rshw which
+without estimating
+failure increases
+fault modules
+shift out
+to recover
+of non
+an optimal
+in figs
+evolved from
+faults can
+the bayes
+s 5
+fault detection
+s 8
+coincident faults
+fs 1
+the comparator
+failure during
+fs 0
+error s
+sub paths
+re executed
+prior states
+fault occurrence
+fig 3
+states which
+the simplified
+type ii
+the faulty
+the effects
+the time
+self checking
+transient fault
+processing modules
+expected costs
+eq 3
+p n
+s i
+failure is
+time of
+overhead of
+failure the
+voting in
+and restart
+in method
+hardware cost
+detecting a
+e gamma
+a tmr failure
+of a tmr
+of permanent faults
+a tmr system
+t i f
+upon detection of
+all possible states
+rshw and rhwr
+non permanent faults
+the system state
+detection of a
+of non permanent
+task execution time
+phi phi phi
+the tmr system
+the tmr failure
+time x f
+cost of rshw
+non permanent fault
+the probabilities of
+markov chain model
+nominal task execution
+between rshw and
+occurrence of permanent
+execution time x
+the expected cost
+expected cost of
+probabilities of all
+of all possible
+triple modular redundancy
+the probability of
+most tmr failures
+of permanent fault
+permanent fault s
+that of rhwr
+at time x
+an unsuccessful rshw
+from s i
+a permanent fault
+the likelihoods of
+the occurrence of
+omega omega omega
+time overhead of
+of the task
+the time overhead
+possible fault states
+voters and a
+behavior of non
+estimating the system
+simplified markov chain
+the nominal task
+likelihoods of all
+a non permanent
+tmr failure the
+model in fig
+f t i
+number of unsuccessful
+tmr system with
+the bayes theorem
+the ovrs of
+time of voting
+a voter fault
+possible states at
+nominal execution time
+permanent faults and
+rhwr based on
+rshw or rhwr
+number of spares
+tmr failure is
+from most tmr
+the time of
+to recover from
+states at time
+i f and
+the transition probabilities
+larger than that
+probability of a
+time t i
+due to multiple
+in fig 3
+the prior probabilities
+at the time
+faults and the
+gamma 1 th
+multiple module faults
+of rshw and
+caused the tmr
+chain model in
+number of rshws
+having caused the
+2 n t
+e gamma 2
+increases with x
+back off time
+detecting a tmr
+when a tmr
+two voters and
+of an unsuccessful
+one faulty module
+the faulty module
+of unsuccessful rshws
+of one faulty
+gamma 2 n
+as x increases
+failure possible states
+the optimal voting
+tmr failure during
+tmr failure or
+becomes larger than
+during x f
+until the expected
+the hardware cost
+permanent fault modules
+state model fs
+tmr failure increases
+rshw becomes larger
+the fault parameters
+of tmr failures
+tmr failure detection
+without estimating the
+the effects of
+of a task
+a transient fault
+possible states and
+the prior state
+because the probability
+the transition matrix
+to the occurrence
+the pdf of
+can recover from
+of t i
+faults can be
+oe oe oe
+or until the
+n t a
+at time t
+t i j
+units of time
+state at the
+p and r
+is derived by
+2 i n
+than that of
+the behavior of
+during the execution
+be the time
+the comparator can
+5 or s
+x i2f2 5
+x without estimating
+and the bayes
+detected and recovered
+x f evolved
+same hardware rshw
+the next rshw
+using triple modular
+cost of rhwr
+i2f0 1 4g
+modular tmr multiprocessor
+tmr system can
+p n s
+5 8g i2f0
+rshw increases with
+is made while
+optimal checkpointing of
+time and hardware
+multi voting policy
+and a comparator
+the simplified markov
+type ii failure
+with the nominal
+the optimal recovery
+c 1 k
+th and i
+prior state i
+ii and type
+failure increases with
+probability of permanent
+1 k x
+re executed without
+tmr system is
+each unsuccessful rshw
+of rshw becomes
+on their expected
+of system states
+and rhwr based
+to eq 3
+bayes theorem the
+faults in different
+vs x for
+tmr failure and
+failure or until
+an optimal retry
+in a tmr
+costs of rshw
+to type i
+transitions over the
+of one rshw
+modular redundancy fault
+on fault classification

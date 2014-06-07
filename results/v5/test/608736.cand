@@ -1,0 +1,600 @@
+ard
+dependence
+ards
+grains
+rw
+ro
+00000000000000
+wf
+interprocedural
+grain
+dependences
+loop
+subscripting
+oset
+writefirst
+accesses
+array
+stride
+summary
+privatization
+readonly
+readwrite
+subscript
+000000000000
+art
+intersection
+classication
+ne
+summaries
+summarization
+compiler
+loops
+parallelization
+anti
+polaris
+idiom
+dimension
+reshaping
+expressions
+lmad
+tfft2
+descriptor
+rst
+parallelizing
+osets
+overlap
+parallelize
+0000
+arc2d
+rlist1
+enclosing
+omega
+read
+subscripts
+span
+mca
+classifying
+testing
+access
+transformations
+strides
+outer
+references
+symbolic
+simplication
+intersections
+arc
+tests
+representative
+memory
+interprocedurally
+bdna
+swim
+privatized
+ocean
+privatizing
+locations
+region
+induction
+ow
+intersect
+eective
+dim
+flo52
+parallelism
+enclosed
+expansion
+classied
+codes
+declared
+inductions
+tomcatv
+dierence
+subroutine
+summarizing
+flow
+endif
+location
+army
+intersecting
+index
+compilers
+removed
+benchmark
+scientic
+nested
+conservative
+expand
+descriptors
+boundaries
+new_writefirst
+dimnew
+lmads
+oating
+dierent
+ag
+inner
+marked
+trfd
+removable
+statements
+nest
+recognition
+dimensions
+mdg
+intersected
+happened
+iteration
+dimensionality
+safely
+fm
+referencing
+unwieldy
+gated
+program
+dened
+expanded
+parallelized
+remove
+indivisible
+writes
+brie
+contexts
+reduction
+depen
+fpg
+comma
+ssa
+analyses
+coupled
+contract
+ignored
+patterns
+nd
+write
+ron
+reductions
+nding
+translated
+doing
+calling
+interpretation
+universal
+sink
+gcd
+reference
+triplet
+instruction
+translate
+subroutines
+reads
+perfect
+passed
+cross
+spec
+likewise
+implication
+abstract
+classify
+nonlinear
+spans
+vi
+across
+dimensional
+declaration
+indices
+eliminating
+internal
+predicate
+rethink
+rwn
+viet
+intraprocedurally
+recursing
+interpretion
+kaist
+benchmarksmyampersand
+nga
+agged
+dierentiated
+summary sets
+the ard
+dependence analysis
+00000000000000 00000000000000
+summary scheme
+range test
+dependence testing
+non a
+an ard
+access region
+write order
+a ne
+loop index
+the art
+data dependence
+list ard
+summary set
+ard is
+omega test
+subscript expressions
+the accesses
+read only
+the access
+a dependence
+ard list
+dependence grain
+representative dependence
+later grain
+order summary
+the omega
+memory location
+the loop
+two ards
+two grains
+dependence grains
+region test
+stride equivalent
+ard for
+000000000000 000000000000
+end do
+removed by
+the summary
+and rw
+the write
+subscripting expressions
+by privatization
+ro wf
+base oset
+procedure boundaries
+access summaries
+enclosing context
+dependence arc
+only summary
+do do
+dependence test
+memory accesses
+ard in
+ne expressions
+input dependence
+of ards
+between grains
+ne subscript
+anti output
+the ards
+ards are
+the subscripting
+memory locations
+memory references
+across procedure
+compiler transformations
+array access
+wf and
+intersection algorithm
+memory access
+the read
+a dimension
+subscripting oset
+flow anti
+internal overlap
+array reshaping
+recursive intersection
+dim ard
+dimensional recursive
+sets ro
+oset sequence
+enclosed context
+access patterns
+be removed
+the range
+an intersection
+for dependence
+test could
+dependence between
+expansion by
+loop based
+dimension index
+linear memory
+memory related
+the array
+the dependence
+the program
+outer loop
+accesses within
+sets for
+abstract interpretation
+memory classication
+or reduction
+region descriptor
+classication analysis
+classifying memory
+actual argument
+single ard
+execution predicate
+multiple subscript
+ard rlist1
+overlap due
+complex array
+art the
+remove dim
+0000 0000
+order summarization
+rst access
+rw 2
+or rw
+art can
+general dependence
+point dependence
+of memory
+interprocedural dependence
+cross iteration
+the later
+a loop
+for parallelizing
+accesses to
+the compiler
+to list
+the enclosing
+intersection between
+output dependence
+array dependence
+based dependence
+anti and
+array subscripting
+of classifying
+a memory
+level 2
+of loops
+to point
+test is
+marked as
+array reference
+single memory
+parallelism detection
+coupled subscripts
+flow dependence
+art is
+an array
+symbolic analysis
+intersection operation
+do i
+base address
+loop indices
+execution order
+multi dimensional
+dependence tests
+do end
+induction variable
+the intersection
+rw 1
+simplication operations
+ro t
+happened rst
+new summary
+do j
+of osets
+wf 1
+dependence this
+two dependence
+grains in
+idiom recognition
+could parallelize
+ro ro
+access representation
+by privatizing
+the grains
+expand i
+writefirst and
+our dependence
+the lmad
+for ards
+not stride
+real u
+iteration dependence
+wf ro
+type input
+grain and
+span is
+conservative direction
+both grains
+summaries for
+00000000000000 00000000000000 00000000000000
+the range test
+non a ne
+the summary sets
+the access region
+the write order
+the omega test
+order summary scheme
+write order summary
+only summary scheme
+summary sets for
+access region test
+read only summary
+the ard is
+be removed by
+the read only
+across procedure boundaries
+000000000000 000000000000 000000000000
+of the ard
+a ne expressions
+the later grain
+the two grains
+wf and rw
+removed by privatization
+a ne subscript
+of the accesses
+the loop index
+by the loop
+of an ard
+list ard list
+ro wf and
+to list ard
+recursive intersection algorithm
+the enclosing context
+the subscripting oset
+ne subscript expressions
+multi dimensional recursive
+flow anti output
+dimensional recursive intersection
+linear memory access
+the ard for
+add to list
+ard list ard
+that the art
+subscripting oset sequence
+point to point
+in the later
+of memory references
+memory classication analysis
+do end do
+an input dependence
+to point dependence
+test could not
+the actual argument
+access region descriptor
+dependence between grains
+as a dependence
+a single ard
+ard for the
+classifying memory locations
+single memory location
+representative dependence arc
+summary sets to
+in execution order
+accesses within a
+remove dim ard
+a representative dependence
+end do end
+the non a
+loops that the
+the art can
+write order summarization
+a summary set
+the rst access
+overlap due to
+anti and output
+section of code
+a dependence test
+array dependence analysis
+can be removed
+a loop index
+a single memory
+sets for the
+interprocedural dependence analysis
+by a loop
+dependence exists between
+in the program
+accesses to a
+input flow anti
+two ards are
+cross iteration dependence
+1 rw 2
+set of memory
+removed by induction
+memory access descriptor
+two dependence grains
+list ard rlist1
+induction or reduction
+marked as having
+the array access
+loop index of
+new summary sets
+summary sets ro
+do j 1
+of loops that
+0000 0000 0000
+construct and return
+three summary sets
+based dependence testing
+fails level 2
+anti output flow
+the memory accesses
+5 4 0
+internal overlap due
+expansion by a
+of the summary
+the notation should
+an execution predicate
+parallelize and the
+by privatizing the
+access summaries for
+in both grains
+a dependence grain
+the two ards
+end do real
+omega test could
+could parallelize and
+it fails level
+memory accesses within
+the art the
+dependence testing to
+range test can
+sets ro wf
+array subscripting expressions
+range test could
+dependence type input
+type input flow
+ard is a
+memory referencing unit
+subscripting expressions such
+an intersection operation
+summary sets by
+for parallelizing compilers
+number of loops
+of the art
+must be done
+and return a
+based on access
+the linear memory
+a dimension of
+the power test
+the dimension index
+return a new
+a technique for
+the outer loop
+dependences can be
+the variable in
+are read only
+the art is
+rst in the
+dependence can be
+is the rst
+non empty intersection
+of data dependence
+analysis for parallelizing
+the dierence between
+data dependence analysis
+is marked as
+for the array
+the multi dimensional
+for dependence analysis
+a section of
+the intersection is
+would correspond to
+expressions such as
+to a memory
+in a nested
+the same memory
+parallelization of the
+a nested loop
+of the loop
+to a single
+of the dimension
+loops in the
+of the dependence
+for the variable
+between any pair
+3 5 1
+programming with polaris
+with new as
+in either induction
+with summary sets
+in many scientic
+interprocedural array region
+to point testing
+of d comma
+analysis exact side
+represent memory accesses
+new construct and
+real u 1

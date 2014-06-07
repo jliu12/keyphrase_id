@@ -1,0 +1,600 @@
+quorum
+ts
+rw
+hrw
+atom
+denition
+pseudoregular
+atomic
+gtf
+byzantine
+protocol
+read
+timestamp
+pseudoatomic
+writeback
+op
+reg
+nonrestricted
+readsfrom
+dene
+hsize
+voucher
+regular
+writes
+mr98a
+masking
+denitions
+servers
+classic
+semantics
+informed
+mr98b
+dened
+timestamped
+safe
+lam86
+timestamps
+dissemination
+concurrent
+server
+calculational
+op1
+pseudohistories
+8op
+precedence
+write
+ordered
+sees
+unresolvable
+aborted
+histories
+totally
+irre
+qw
+asynchronous
+lamport
+quorums
+op2
+serializable
+malkhi
+specically
+exive
+images
+query
+stubbornly
+mininf
+dmininf
+pseudohistory
+baz97
+phalanx
+hsizes
+reads
+dening
+serialization
+protocols
+atomicity
+executions
+8w
+8r
+responses
+specication
+dahlia
+theorems
+heretofore
+hereafter
+satises
+reiter
+signicant
+benign
+stipulate
+elusive
+image
+completed
+returns
+specic
+requests
+history
+formalizing
+rst
+danger
+reasoning
+straightforwardly
+uniqueness
+brie
+rwatom
+hsizei
+ratom
+pseudoatomicity
+occasonal
+lenging
+amprw00
+hyunyoung
+mrwr97
+weidmann
+concurrency
+concepts
+formalisms
+execution
+convention
+stricted
+legitimately
+nonre
+writebacks
+codomains
+multireader
+breaker
+mrw97
+pseudoregularity
+expanded
+request
+notably
+weaker
+precedes
+nonregularity
+manolios
+phoebe
+subclass
+solvable
+consistent
+faulty
+tolerate
+responds
+sans
+safeness
+idit
+timescale
+ittai
+chal
+sincere
+subscripts
+register
+secure
+provoking
+subsidiary
+bullets
+chockler
+keidar
+su
+replication
+pete
+oor
+lifetime
+semantic
+date
+queries
+fall
+exp
+spite
+sequentiality
+returned
+informal
+return
+ciently
+retried
+serial
+regularity
+sites
+proving
+booleans
+maintains
+runs
+pigeonhole
+bullet
+corollary
+dierent
+postulate
+italics
+antisymmetric
+displace
+ceiling
+identier
+crashes
+concept
+obligations
+simplies
+serially
+welch
+unsolved
+act
+shared
+quorum systems
+ts variables
+v atom
+ts 0
+byzantine quorum
+ts variable
+quorum system
+classic m
+write ordered
+v reg
+a ts
+a read
+masking quorum
+execution hrw
+informed set
+hrw i
+m set
+safe regular
+nonrestricted system
+a nonrestricted
+atomic semantics
+concurrent with
+given read
+a write
+2 rw
+rw atom
+regular atomic
+read operation
+of ts
+such variables
+image list
+variable protocol
+voucher set
+dissemination quorum
+write operation
+of v
+write operations
+system variables
+ts op
+quorum protocol
+precedence relation
+pseudoatomic semantics
+recently completed
+set quorum
+regular semantics
+regular protocol
+op is
+is concurrent
+time consistent
+asynchronous environment
+that ts
+the informed
+a variable
+is regular
+op a
+of mr98b
+hrw ts
+pseudoregular and
+ordered execution
+set protocol
+and pseudoatomic
+ts i
+run rw
+timestamped variable
+bounded image
+of pseudoregular
+runs rw
+read r
+now dene
+a classic
+write that
+a precedence
+the timestamp
+atomic variable
+completed write
+possible histories
+operations of
+is atomic
+protocol is
+and write
+is safe
+totally ordered
+rw is
+is write
+read and
+op b
+timestamp of
+an execution
+each server
+servers that
+of quorum
+if op
+read operations
+protocol for
+operation r
+a quorum
+an asynchronous
+and theorems
+shared variables
+atom ts
+read reg
+atomic with
+calculational proof
+w ts
+rw to
+is pseudoregular
+histories rw
+atomic protocol
+that hrw
+readsfrom for
+write writeback
+pseudoregular pseudoatomic
+writeback mechanism
+hrw atom
+dene ts
+ts r
+variables implemented
+run consisting
+ts w
+that readsfrom
+readsfrom r
+atom consists
+to reason
+the operations
+lamport s
+regular in
+atom of
+not regular
+atom is
+variable v
+of writes
+atomic if
+write protocol
+irre exive
+for ts
+rw be
+total order
+we dene
+some types
+the protocol
+regular and
+variable is
+semantics for
+a run
+a protocol
+r w
+all runs
+variables we
+reg and
+the writeback
+same timestamp
+a timestamped
+a regular
+operation of
+and atomic
+the write
+or atomic
+server maintains
+of timestamps
+op 2
+most recently
+servers in
+of servers
+of shared
+and timestamp
+atomic execution
+quorum of
+the read
+variables as
+any read
+denition 9
+of lamport
+denition of
+partial order
+real time
+for r
+one write
+protocol p
+every read
+traditional approaches
+follows denition
+implemented by
+that return
+for reasoning
+denitions and
+write w
+regular or
+r let
+dene a
+rw consistent
+atom atomic
+proving v
+value op
+fully calculational
+pseudoatomic with
+dmininf k
+systems mr98a
+serializable operations
+of gtf
+to quorum
+of v atom
+byzantine quorum systems
+classic m set
+a nonrestricted system
+masking quorum systems
+a ts variable
+execution hrw i
+of v reg
+hrw i is
+operation of v
+of ts variables
+dissemination quorum systems
+quorum system variables
+in a nonrestricted
+safe regular atomic
+is safe regular
+is concurrent with
+m set quorum
+real time consistent
+an asynchronous environment
+set quorum protocol
+the informed set
+most recently completed
+ts 0 i
+a classic m
+write operation of
+a given read
+a precedence relation
+we now dene
+operations of v
+pseudoregular and pseudoatomic
+and pseudoatomic semantics
+is write ordered
+v atom is
+rw atom of
+byzantine quorum system
+all runs rw
+m set protocol
+of pseudoregular and
+a write ordered
+atom of v
+op a ts
+the execution hrw
+informed set for
+bounded image list
+regular and atomic
+recently completed write
+an execution hrw
+write ordered execution
+of shared variables
+if op is
+set for r
+read and write
+op is a
+read operation r
+for such variables
+the timestamp of
+us to reason
+op is the
+in an asynchronous
+a total order
+for some types
+of a variable
+is not regular
+of regular semantics
+shared variables implemented
+regular or atomic
+that is concurrent
+variable protocol is
+types of quorum
+for a ts
+problem of atomic
+a ts 0
+concurrent with r
+the run consisting
+that v atom
+i is atomic
+denitions and theorems
+is pseudoregular pseudoatomic
+that readsfrom r
+readsfrom r w
+protocol is safe
+variables implemented by
+op 2 rw
+atomic semantics for
+hrw atom ts
+v atom consists
+operations in real
+for ts variables
+value and timestamp
+atom ts 0
+run consisting of
+atomic with respect
+a timestamped variable
+and atomic semantics
+class of shared
+each server maintains
+with bounded image
+a variable protocol
+quorum systems of
+the most recently
+a read operation
+some types of
+read write protocol
+is real time
+of lamport s
+servers that return
+regular in a
+all possible histories
+i is real
+server maintains a
+any given read
+for m 1
+protocol for a
+is regular in
+the same timestamp
+r let i
+a quorum of
+a variable is
+0 i is
+is a read
+for a write
+of the operations
+variables as a
+operations performed on
+as follows denition
+to reason about
+of the most
+to prove that
+timestamp of the
+partial order of
+r and w
+with the partial
+the smallest informed
+that includes those
+fully calculational proof
+the various byzantine
+quorum system protocols
+necessarily ordered by
+regular atomic with
+ts variables we
+a run rw
+rw consistent with
+atomic a protocol
+it is write
+a regular ts
+ts variables a
+value only if
+read if op
+of atomic semantics
+1 each server
+write that is
+v atom the
+the variable image
+and scalable replication
+operation r let
+a write then
+now dene ts
+proving v atom
+i is write
+operation in global
+op b op
+variables that includes
+set of writes
+rw if op
+subclass of ts
+these formalisms to
+version of lamport
+now dene our
+about byzantine quorum
+if each server
+then ts op
+ts variables including
+variable during its
+to protocol design
+relation if for
+nonrestricted system any
+scalable replication in
+ts w ts
+hrw ts 0
+then value op
+v reg and
+pseudoregular protocol for
+maintains a bounded
+ts 0 3
+real time denition
+to a precedence
+op b 2
+ts op is
+last write that
+systems secure and
+of safe regular
+precedence relation if
+q r qw
+s formal denitions
+not necessarily ordered
+includes those implemented
+systems of mr98a
+notions of pseudoregular
+hrw ts i

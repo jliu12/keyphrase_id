@@ -1,0 +1,600 @@
+leader
+election
+sp
+alive
+locktime
+aliveset
+partition
+processes
+leaders
+clock
+expires
+service
+timely
+reply
+elect
+message
+logical
+stable
+ls
+supportive
+replies
+rectime
+protocol
+partitions
+locked
+replyset
+datagram
+lastrequest
+ep
+messages
+supports
+partitionable
+leadership
+checkifleader
+units
+fetzer
+id
+lastmsg
+lockt
+elected
+bi
+myid
+disconnected
+timeliness
+transmission
+cristian
+ime
+membership
+asynchronous
+lans
+connected
+trio
+timed
+updatealiveset
+targetset
+delta
+broadcast
+unstable
+hardware
+crash
+expirationtime
+drift
+elects
+delay
+crashed
+aware
+stays
+receives
+ix
+predicate
+demoted
+iff
+lock
+request
+lockeduntil
+fig
+sender
+const
+init
+fail
+ucsd
+elections
+stamp
+slow
+2ae
+lp
+unicast
+cs
+renew
+clocks
+rg
+sent
+fp
+delivers
+broadcasts
+viii
+nominbefore
+230ms
+newleader
+lockedto
+imleader
+purgealiveset
+stablepartition
+minnumsupporters
+sends
+ms
+endif
+requirement
+sure
+failures
+cfetzer
+flaviu
+gammadeliver
+failure
+send
+5ms
+50ms
+crashes
+receive
+specification
+gammaae
+timeout
+alarm
+duration
+ae
+undirected
+neglect
+delivered
+fa
+participating
+msg
+overloaded
+ffi
+round
+wakeup
+releasetimer
+blepartition
+aliveac
+collation
+expirationt
+alivetimer
+supportset
+releaseac
+expired
+stamps
+ids
+locks
+received
+varname
+collate
+extinction
+supporters
+setalarm
+min
+communicate
+0ms
+release
+splits
+services
+transitive
+replied
+quartz
+broadcasting
+assessment
+tolerant
+synchronization
+iv
+vote
+flag
+highly
+piggy
+replying
+nected
+succeeds
+stay
+sending
+christof
+inconsistency
+overlap
+requests
+reflexive
+deliver
+expire
+closure
+fault
+outside
+becoming
+measurements
+wg
+backs
+sta
+exclusion
+scheduling
+schema
+parti
+iii
+synchronous
+timeouts
+checks
+enhancement
+local leader
+stable partition
+logical partition
+alive set
+a process
+process p
+process q
+election message
+leader election
+processes in
+all processes
+logical partitions
+hardware clock
+election service
+in sp
+local leaders
+time units
+leader service
+become leader
+leader in
+a stable
+its alive
+fail aware
+locked to
+partition sp
+election messages
+delta partition
+a local
+the election
+to elect
+supportive reply
+a timely
+p s
+an election
+one leader
+election time
+the alive
+datagram service
+transmission delay
+clock time
+one local
+leader p
+partitionable systems
+leader at
+message m
+and q
+most one
+available local
+s election
+the processes
+highly available
+of processes
+two processes
+becomes leader
+a supportive
+s t
+aware datagram
+at most
+s hardware
+elect a
+p and
+a leader
+delta disconnected
+one process
+alive sets
+requirement bi
+for partitionable
+q supports
+time t
+q s
+see figure
+fast message
+fp q
+p has
+at time
+clock shows
+s alive
+delay of
+leader and
+connected relation
+minimum id
+first election
+unstable partition
+partition lp
+its election
+leader l
+process r
+p at
+connected to
+p q
+processes p
+the protocol
+timeliness requirement
+cristian a
+fetzer and
+leader problem
+election protocol
+bounded amount
+is locked
+a logical
+election problem
+timed asynchronous
+timely manner
+support t
+q rg
+two lans
+supports itself
+maximum connected
+its leadership
+constant expires
+locktime 1
+fast rectime
+leader see
+are connected
+id in
+to p
+another process
+and cristian
+p is
+within time
+p receives
+a fail
+stable partitions
+drift rate
+the timed
+t iff
+processes that
+than time
+section ix
+is leader
+sp is
+the timeliness
+the local
+an unstable
+leader per
+support itself
+lockt ime
+leader supports
+supports p
+sender fast
+service 23
+most ep
+supports t
+no later
+to become
+hardware clocks
+when p
+the transmission
+partition are
+at t
+s id
+new leader
+p will
+q is
+other processes
+interval s
+leader the
+service has
+than delta
+clock synchronization
+that p
+forms at
+support p
+supports at
+sp will
+that q
+q receives
+membership service
+all messages
+the supports
+reply message
+q are
+process in
+in its
+leader when
+performance failure
+election of
+the support
+leader is
+each process
+ffl p
+support at
+undirected path
+connected set
+other process
+sure that
+has received
+has to
+reply to
+the leader
+election request
+independent assessment
+partition fp
+set init
+2 sp
+its aliveset
+p stays
+global leader
+elect exactly
+proposed local
+a local leader
+a stable partition
+local leader election
+all processes in
+a process q
+the local leader
+leader election service
+local leader service
+processes in sp
+local leader in
+its alive set
+one local leader
+a logical partition
+a process p
+transmission delay of
+p and q
+set of processes
+at most one
+clock time units
+in its alive
+in a stable
+in s t
+the processes in
+available local leader
+highly available local
+an election message
+most one process
+to become leader
+s hardware clock
+a supportive reply
+processes in a
+aware datagram service
+fail aware datagram
+a process r
+processes in its
+most one leader
+is locked to
+p s hardware
+that a process
+election message m
+s alive set
+for partitionable systems
+in a timely
+hardware clock shows
+by all processes
+leader in each
+to elect a
+of a stable
+a delta partition
+the alive set
+logical partition lp
+p s election
+and cristian a
+stable partition sp
+leader at time
+delta partition sp
+local leader problem
+the minimum id
+a fail aware
+a highly available
+a bounded amount
+bounded amount of
+within time units
+cristian a highly
+a fast message
+interval s t
+fetzer and cristian
+a timely manner
+leader election problem
+fp q rg
+supported by all
+process p is
+that a local
+an unstable partition
+alive set of
+the election time
+maximum connected set
+the connected relation
+at time t
+of a local
+when a process
+in a logical
+the transmission delay
+a transmission delay
+later than time
+p at t
+processes p and
+any other process
+in q s
+no later than
+s t iff
+engineering to appear
+to support itself
+sender fast rectime
+local leader p
+at most ep
+the two lans
+the alive sets
+the logical partition
+as local leader
+stable partition are
+q s alive
+p s id
+supports at most
+datagram service 23
+minimum id in
+received a fast
+d d fig
+q is locked
+of local leaders
+in a delta
+to another process
+leader election protocol
+point in time
+and q are
+delay of m
+within a bounded
+delta disconnected from
+connected to p
+support at most
+appear in 1999
+any two processes
+the timeliness requirement
+exactly one local
+of a process
+two processes p
+the fail aware
+all processes that
+a new leader
+software engineering to
+one process at
+service for partitionable
+logical partitions with
+the proposed local
+partition can communicate
+proposed local leader
+supportive reply from
+time units there
+leader can be
+local leader l
+locktime 1 2ae
+partition lp that
+local leader is
+leader service is
+the first election
+two local leaders
+expires clock time
+locked to another
+partition fp q
+elect exactly one
+than the id
+outside of sp
+leaders p and
+processes sp is
+next election message
+two stable partitions
+process q supports
+time units see
+lp that contains
+locked to p
+ffl p has
+locked to at
+processes in one
+local leader at
+from all processes
+in sp will
+forms at time
+amount of time
+processes that are
+to make sure
+make sure that
+at time s
+is at most
+between p and
+process at a
+the highly available
+of processes sp
+is leader at
+have a transmission
+time out delay
+other process in
+drift rate of
+least time units
+delay of more
+most one local
+cs ucsd edu
+hardware clock of
+the timed model
+process q is
+is delta disconnected
+a timely process
+id of any
+p becomes leader
+process p at
+q would be
+p and r
+time a process
+for at least
+p q r
+a message m

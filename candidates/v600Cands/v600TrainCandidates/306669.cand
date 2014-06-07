@@ -1,0 +1,600 @@
+voltage
+uut
+safe_to_test
+dc_signal
+constrain
+rt
+run_tests
+vout
+vmeas
+whole_test_program
+gnd_pin
+oscillator
+some_test
+trig_delay
+oscillator_trigger
+vread
+trig_up
+osc_on
+abs
+behaviors
+resource
+vin
+temperature
+st
+2mv
+vcc1
+v2
+signal
+10v
+100uv
+stto
+ita_loss
+safe_to_turn_on
+rt_low
+rt_room
+establish_ps_1
+v1
+amplifier
+stop
+lo
+ambient
+signals
+5v
+hi
+offset
+execute
+ac_signal
+rt_high
+measure_spec
+osc_off
+osc_ok
+frequency_stable
+ps_1
+legal
+trace
+declarative
+trigger
+constraint
+voltages
+oscillators
+ground
+entities
+pins
+triggers
+amp_ok
+trig_down
+75v
+ps1_pin
+25v
+ps_2
+b2
+osc
+ps1
+b1
+requirements
+ps2
+capturing
+tolerance
+entity
+located
+programmed
+3v
+executes
+supply
+timing
+capabilities
+diagnostics
+input_pin
+dc_high
+oscillator_on
+constrained_by
+freq_error
+dc_low
+trig_error
+high_range
+low_range
+room_range
+oscillator_off
+osc_pin
+props
+out_pin
+in_pin
+tests
+synthesis
+relationships
+prescribe
+delay
+rising
+vcc
+allocation
+4v
+defining
+chart
+establish
+0v
+sub
+something
+boolean
+named
+simplified
+frequency
+verification
+constrained
+adapter
+stable
+traces
+void
+tester
+constraints
+supposed
+safe
+formal
+room
+diagnostic
+measurement
+specification
+govern
+tolerances
+instantiating
+captures
+execution
+engineers
+mhz
+characterizing
+trsl
+newberg
+hardenburg
+understable
+establish_ps_2
+rolince
+clamp
+some_test_using_resource
+10303
+wolz
+008502v
+test_b
+some_voltage_test
+ps_x
+hogger
+caunegre
+stoplocation
+psuedo
+hanking
+9mv
+abbet
+test_a
+992502v
+brokent
+miegler
+communities
+constrains
+evident
+stability
+predicted
+duration
+ps
+setup
+nagy
+papachristou
+carletta
+transportable
+volt
+requirement
+supplies
+hardware
+equipment
+verified
+resources
+branches
+atkins
+nichols
+ita
+statements
+procedural
+synthesized
+specifying
+declaration
+accuracy
+capture
+faulty
+test program
+behavior model
+test requirements
+the uut
+the behavior
+the test
+constrain abs
+sub behaviors
+execution trace
+constrain if
+test resource
+at hi
+lo gnd_pin
+a behavior
+execute then
+the oscillator
+dc_signal located
+rt execute
+the resource
+a test
+output voltage
+the voltage
+input voltage
+stop constrain
+behavior information
+gnd_pin signal
+trig_up start
+st safe_to_test
+information model
+osc_on start
+uut is
+test requirement
+the stto
+the amplifier
+resource capabilities
+establish ground
+st stop
+run_tests constrain
+then rt
+start and
+test systems
+located at
+required behavior
+legal values
+of behavior
+resource is
+run tests
+behavior rt
+v1 voltage
+vout voltage
+rt start
+start st
+oscillator is
+behavior st
+trigger signal
+voltage 2mv
+sub behavior
+stop times
+vout is
+the programmed
+if rt
+requirements in
+power supply
+requirements test
+the trigger
+and stop
+turn on
+formal methods
+behavior that
+program itself
+a voltage
+ambient temperature
+offset and
+safe_to_turn_on safe_to_test
+rt_high execute
+frequency stability
+rt_low execute
+5 25v
+signal vcc1
+if rt_room
+five entities
+actually executes
+rising edge
+if rt_low
+safe_to_test parameter
+vmeas voltage
+whole_test_program behavior
+constrain osc_on
+ambient in
+4 75v
+and vmeas
+than 100uv
+rt ambient
+rt_room execute
+uut and
+gnd_pin constrain
+voltage must
+and tolerance
+if rt_high
+a uut
+start trig_up
+stto test
+safe_to_test constrain
+property amp_ok
+start trig_delay
+then st
+of test
+two sub
+to turn
+resource input
+voltage to
+and st
+that rt
+behavior is
+execution traces
+test programs
+timing relationships
+generation test
+behavior in
+triggers and
+room temperature
+behavior description
+behavior does
+by constraint
+3 3v
+v2 and
+within some
+the execution
+a trigger
+flow chart
+in defining
+several examples
+safe to
+trace can
+test environment
+constraint that
+test test
+once with
+program executes
+and rt
+requirements on
+the model
+requirement a
+during test
+capturing the
+and b2
+is constrained
+approach taken
+resource the
+behavior has
+to specifying
+resource allocation
+v2 dc_signal
+examples applying
+behavior two
+3 5v
+the run_tests
+vmeas and
+ac_signal located
+behavior frequency_stable
+vmeas dc_signal
+voltage vout
+st safe_to_turn_on
+stability test
+vmeas vread
+abs vmeas
+facilitate capturing
+measurement resource
+vin and
+boolean behavior
+property offset
+behavior notice
+the safe_to_test
+diagnostic controller
+stto behavior
+0 props
+reported voltages
+voltage property
+temperature range
+in_pin lo
+for v2
+behavior defined
+requirements defining
+if behavior
+within 2mv
+constrain 0v
+is declarative
+safe_to_test is
+stop attributes
+entirely consistent
+offset voltage
+if safe_to_test
+test equipment
+voltage ita_loss
+ita_loss is
+as whole_test_program
+signal vin
+10v vmeas
+signals constraints
+signal vout
+the behavior model
+the test program
+a test program
+located at hi
+the test requirements
+dc_signal located at
+the execution trace
+lo gnd_pin signal
+of the behavior
+of the test
+start and stop
+test requirements in
+two sub behaviors
+test program itself
+the uut is
+the required behavior
+the oscillator is
+safe to turn
+stop constrain if
+then st safe_to_test
+and stop times
+the behavior information
+on the uut
+test resource allocation
+run_tests constrain if
+execute then rt
+test program the
+execute then st
+a test resource
+start st stop
+the trigger signal
+behavior information model
+st stop constrain
+to turn on
+test program to
+the resource is
+the start and
+in the test
+if rt_high execute
+trig_up start trig_delay
+the sub behavior
+test requirements and
+st safe_to_test constrain
+start trig_up start
+rt_room execute then
+next generation test
+taken in defining
+turn on test
+osc_on start trig_up
+with the behavior
+rt_low execute then
+if rt_room execute
+constrain if rt_room
+behavior model can
+rt_high execute then
+constrain if rt_high
+rt ambient in
+to the uut
+if rt_low execute
+if rt execute
+lo gnd_pin constrain
+the test resource
+using the behavior
+constrain if rt_low
+execution trace can
+safe_to_test constrain if
+the output voltage
+then rt ambient
+the input voltage
+with the temperature
+test requirements test
+behavior model for
+input voltage to
+defining the behavior
+of test requirements
+approach to specifying
+the behavior that
+of a behavior
+applying the model
+execution trace of
+test program is
+behavior does not
+once with the
+in a test
+trace can be
+the approach taken
+an execution trace
+behavior that is
+used to capture
+requirements in the
+in defining the
+with the test
+and tolerance 2e
+gnd_pin signal v2
+behavior model was
+signal vread dc_signal
+interface test adapter
+capturing the relationships
+several examples applying
+dc_signal property amp_ok
+vout dc_signal located
+all other tests
+the rising edge
+examples applying the
+2mv of the
+test program synthesis
+rt actually executes
+vout voltage 2mv
+rt start and
+capturing the required
+be exactly trig_delay
+gnd_pin signal vout
+the five entities
+within 2mv of
+constrain osc_on start
+voltage must be
+by automatic test
+test systems frequently
+and reported voltages
+v2 dc_signal property
+if the oscillator
+automatic test systems
+abs v1 voltage
+ita_loss if the
+5v to 4
+actual input voltage
+is entirely consistent
+at hi input_pin
+property offset voltage
+v1 voltage 2mv
+between essential entities
+essential entities characterizing
+good one can
+behavior model and
+out_pin lo gnd_pin
+v1 voltage 4v
+abs v2 voltage
+the resource capabilities
+the uut and
+relationships between essential
+v1 dc_signal signal
+voltage property tolerance
+st safe_to_turn_on safe_to_test
+4v 0 5v
+vmeas dc_signal located
+information model and
+test program however
+the programmed and
+entirely consistent with
+behavior information in
+involves a description
+is good one
+test program generation
+vmeas voltage ita_loss
+at hi osc_pin
+ac_signal located at
+if safe_to_test is
+programmed and reported
+this entity is
+offset voltage property
+to facilitate capturing
+gnd_pin signal vread
+is constrained relative
+constrained relative to
+voltage as reported
+the synthesis program
+and offset 100uv
+behavior model in
+whole_test_program behavior st
+ps_2 run tests
+temperature near the
+props s 0
+required behavior information
+the test equipment
+programmer selects a
+of the run_tests
+several examples using
+safe_to_turn_on safe_to_test boolean
+a safe to
+offset and offset
+trig_up start and
+a behavior model
+voltage vout voltage
+constrain abs v1
+input_pin lo gnd_pin
+within some error
+rt execute is
+properties and relationships
+more than 100uv
+hi out_pin lo
+and rt behavior
+of the uut
+behavior rt run_tests
+frequently involves a
+0 props s
+flow chart in
+test programmer selects
+the diagnostic controller
+hi ps1_pin lo
+three sub behaviors

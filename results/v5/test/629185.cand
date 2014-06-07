@@ -1,0 +1,600 @@
+race
+release
+consistency
+unset
+vax
+synchronization
+acquire
+processor
+po
+paired
+weak
+hardware
+races
+programmers
+stall
+buffer
+releasing
+sequentially
+incomplete
+pairable
+acq
+conflicting
+completes
+unifies
+processors
+coherence
+syncread
+ordering
+sequential
+cache
+read
+unpaired
+reserve
+shared
+fetch
+instructions
+ownership
+multiprocessors
+programmer
+syncwrite
+free
+proposal
+rel
+acquires
+memory
+obey
+uniprocessor
+issued
+datawrite
+acquiring
+writes
+serialization
+preceding
+barrier
+inc
+programs
+empties
+synchronized
+sistency
+buffers
+implementations
+flag
+consistent
+restrictive
+designers
+obeys
+designer
+multiprocessor
+releases
+caches
+execute
+distinguished
+optimizations
+reads
+kontothanassis
+local_flag
+so1
+dataread
+directory
+stalls
+correctly
+sees
+delay
+transferred
+program
+distinguishing
+leonidas
+uniprocessors
+dwarkadas
+happens
+critical
+distinguishes
+executions
+ensures
+completion
+conflict
+remembers
+ops
+properly
+370
+adve
+write
+execution
+location
+semaphores
+protocol
+requirement
+deadlock
+atomically
+semaphore
+keleher
+gharachorloo
+drf1
+galen
+nsyncs
+prefer
+deleted
+released
+request
+labeled
+instruction
+sigops
+cox
+sigplan
+viewpoint
+dependencies
+overrelaxation
+writable
+stets
+rajamony
+bershad
+sandhya
+lockup
+manson
+causally
+sarita
+retaining
+returned
+transfers
+formalizes
+opera
+3b
+notices
+pram
+interlock
+sigarch
+zwaenepoel
+larus
+livelock
+2a
+violations
+message
+asynchronous
+fong
+wo
+hunt
+causal
+retains
+delays
+1994
+jose
+executes
+stalling
+pugh
+dubois
+california
+robert
+discusses
+returns
+logic
+pong
+parthasarathy
+zucker
+complementarity
+remote
+requests
+detecting
+post
+permission
+2b
+invalidated
+p0
+rc
+scott
+intuition
+coherent
+concurrent
+tagged
+monterey
+drafts
+pro
+disadvantages
+scalable
+restrictions
+retain
+delayed
+count
+rollback
+interconnection
+writing
+race free
+data race
+free 1
+release consistency
+free 0
+weak ordering
+sequential consistency
+synchronization operations
+sequentially consistent
+memory operations
+ordering release
+the vax
+program order
+memory model
+po po
+test set
+shared memory
+data operations
+special buffer
+data requirement
+four models
+vax model
+the releasing
+releasing processor
+data races
+fetch inc
+happens before
+cache coherence
+before 1
+an acquire
+operations of
+a processor
+the release
+properly labeled
+acquire condition
+reserve buffer
+a read
+for hardware
+is data
+a release
+this processor
+data operation
+synchronization operation
+hardware designer
+1 unifies
+requirement conditions
+correctly synchronized
+the acquire
+hardware designers
+acquiring processor
+implementation proposal
+memory models
+paired with
+ordering and
+the write
+a memory
+for programmers
+processor to
+an execution
+a write
+operations are
+all implementations
+an operation
+vax and
+obey data
+incomplete buffer
+consistency the
+reason with
+memory consistency
+consistency or
+p 0
+1 memory
+execution is
+s test
+than weak
+implementations of
+and release
+and data
+the read
+programmers prefer
+unpaired synchronization
+unset s
+the unset
+labeled programs
+incomplete operations
+release acquire
+critical section
+of weak
+conflicting operations
+memory multiprocessors
+a data
+operations and
+operations from
+distributed shared
+or data
+of release
+unifies the
+the synchronization
+p 1
+free program
+are incomplete
+the data
+write on
+same location
+programs that
+release and
+consistency models
+free programs
+coherence protocol
+consistent to
+the hardware
+the execution
+syncread flag
+buffer empties
+consistent hardware
+read returns
+consistent execution
+empty special
+on sequentially
+pairable relation
+its incomplete
+inc count
+write due
+post acquire
+formal interface
+appear sequentially
+the happens
+and acquire
+special operations
+memory location
+less restrictive
+the four
+the programmer
+read on
+0 s
+of data
+consistency and
+a hardware
+p rel
+pre release
+operations preceding
+processor sees
+a synchronization
+to delay
+an implementation
+consistency to
+to reason
+all processors
+a program
+a programmer
+address of
+ownership of
+consistency for
+in program
+s data
+on x
+most programmers
+paired release
+with sequentially
+ensures sequential
+read due
+the pairable
+designers since
+coherence logic
+data write
+serialization operations
+serialization operation
+release condition
+the acquiring
+consistent special
+appears sequentially
+con sistency
+an unset
+released line
+by program
+restrictive than
+with sequential
+are distinguished
+the program
+the processor
+s write
+1 relation
+model data
+completion of
+consistency with
+execution of
+the operations
+buffer message
+release operation
+consistency 11
+issued and
+acquire and
+before y
+operation until
+consistency by
+incomplete data
+value written
+transferred to
+other models
+the completion
+data race free
+race free 1
+race free 0
+weak ordering release
+ordering release consistency
+and data race
+of data race
+a data race
+the data race
+po po po
+the four models
+the data requirement
+the vax model
+weak ordering and
+happens before 1
+the releasing processor
+p 0 s
+is data race
+for data race
+test set s
+free 1 is
+consistency the vax
+1 memory model
+or data race
+release consistency the
+free 1 memory
+all implementations of
+data requirement conditions
+and release consistency
+to reason with
+model and data
+of weak ordering
+consistency or data
+is less restrictive
+release consistency or
+in program order
+obey data race
+s test set
+vax model and
+for hardware designers
+free 1 unifies
+p 1 s
+shared memory multiprocessors
+a memory location
+prefer to reason
+race free program
+ordering and release
+a memory model
+unifies the four
+synchronization operations and
+and the vax
+sequentially consistent to
+free 0 for
+appear to execute
+properly labeled programs
+vax and data
+than weak ordering
+to data race
+programmers prefer to
+race free programs
+a hardware designer
+by all processors
+implementations of data
+paired with the
+cache coherence protocol
+ordering and the
+the same location
+distributed shared memory
+read on x
+release and acquire
+implementation proposal for
+sequential consistency to
+model data race
+appear sequentially consistent
+write due to
+0 s write
+sequentially consistent hardware
+of this processor
+release acquire condition
+sequentially consistent execution
+by program order
+before 1 relation
+release consistency and
+of sequential consistency
+operations are distinguished
+reason with sequential
+1 unifies the
+the vax and
+of release consistency
+for a hardware
+release consistency with
+fetch inc count
+empty special buffer
+on sequentially consistent
+special buffer empties
+the happens before
+free 1 if
+operations of the
+returns the value
+an execution is
+a test set
+1 is less
+definition of data
+in an execution
+memory consistency models
+the completion of
+test set and
+explicit and formal
+group of programs
+a read due
+a data operation
+less restrictive than
+most programmers prefer
+program order and
+implementations of weak
+read returns the
+consistency and data
+read due to
+free 1 provides
+and a read
+appears sequentially consistent
+the release acquire
+ensures sequential consistency
+with sequentially consistent
+the implementation proposal
+allowed by weak
+hardware designers since
+post acquire condition
+0 for hardware
+the acquiring processor
+the synchronization operations
+free 1 that
+the pairable relation
+consistent special operations
+memory operations of
+for hardware to
+0 s data
+implementation of data
+memory operations in
+consistency with sequentially
+pre release condition
+cache coherence logic
+that most programmers
+the memory operations
+execution is possible
+with sequential consistency
+free 1 because
+race free and
+1 s test
+sequential consistency for
+to weak ordering
+process as usual
+synchronization operations of
+allows an implementation
+the read returns
+free 0 1
+unpaired synchronization operations
+special buffer message
+the execution is
+programs that are
+value written by
+of a data
+the critical section
+a synchronization operation
+conflicting data operations
+seen by all
+write on x
+not allowed by
+the pre release
+models for shared
+consistency models for
+will appear to
+of memory consistency
+for shared memory
+for an execution
+the value written
+1 provides a
+to the acquiring
+for correctly synchronized
+not data race
+the reading processor
+1 relation for
+paired release and
+until datawrite completes
+conflicting operations from
+data operations of
+free program on
+programmers can expect
+before 1 orders
+memory operations and
+14 17 1994
+release consistency 11
+retain ownership of
+can expect sequential
+detecting data races
+free 1 system
+are data race
+the control requirement
+s data write
+an implementation proposal

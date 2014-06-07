@@ -1,0 +1,600 @@
+global1
+ioa
+automaton
+ballot
+daikon
+invariants
+paxos
+chooseval
+cons
+interpreter
+consensus
+assignval
+internaldecide
+specication
+lp
+automata
+verication
+actions
+abstain
+init
+makeballot
+inv6
+ndr
+ballots
+prover
+toolkit
+thenodes
+simulation
+internal
+executions
+paired
+larch
+action
+detector
+val
+vote
+nondeterminism
+eort
+voted
+inv3
+suite
+purported
+od
+methodology
+quorums
+invariant
+inv1
+lemmas
+verifying
+human
+lockstep
+witness
+scripts
+block
+forward
+failed
+unsound
+proofs
+veried
+provers
+correctness
+behaviors
+simulated
+inv4
+inv2
+dilsun
+abstained
+lsl
+inv5
+aballot
+ecgn01
+mocha
+tlc
+kcd
+fail
+nite
+imple
+mentation
+corrected
+specications
+succeeded
+signature
+decide
+guidance
+veri
+proving
+ignore
+execution
+smv
+prelude
+supply
+assist
+traces
+tomata
+correspondence
+formulating
+dead
+discover
+toolset
+denition
+dynamically
+se
+auxiliary
+unexpected
+tools
+trace
+checking
+departures
+reveal
+external
+pre
+checked
+transition
+specializing
+resume
+bookkeeping
+initiated
+fragment
+checks
+speci
+reported
+validity
+provable
+nil
+nd
+legal
+eects
+automating
+au
+formal
+prz01
+peppered
+explicating
+pll00
+lengthier
+rintanen
+falsied
+ly01
+lt89
+prompting
+solidify
+gl98
+ghg
+abstaining
+ne02
+gsv01
+lam98
+bog01
+ahm
+multisorted
+reies
+veriers
+cutions
+ioa2lsl
+buttress
+ecutions
+imaginative
+parliament
+rin00
+inductiveness
+reporting
+attempting
+node
+organizing
+deductive
+assistance
+existential
+transitions
+style
+program
+soundness
+denes
+detected
+freeing
+gg91
+asml
+transcription
+eters
+investing
+approval
+lyn96
+hindrance
+automates
+rst
+examining
+imperative
+reachable
+candidate
+innite
+cope
+detection
+implements
+programmers
+succeed
+simulates
+theories
+obscuring
+axiomatize
+fate
+postulate
+the ioa
+simulation relation
+i node
+b ballot
+v value
+proof block
+ioa interpreter
+o automaton
+forward simulation
+the automaton
+level automaton
+simulated execution
+decide i
+output decide
+init i
+the interpreter
+for internal
+input fail
+in ioa
+ioa toolkit
+fail i
+step correspondence
+i re
+dynamic invariant
+invariant detector
+internal chooseval
+automaton global1
+automaton cons
+ignore for
+specication automaton
+i o
+start state
+the specication
+ioa language
+a ballot
+reported properties
+internal actions
+test suite
+i v
+paxos algorithm
+consensus value
+set ballot
+paired execution
+assignval b
+ballot ignore
+the paxos
+machine checked
+in global1
+internaldecide b
+input init
+b pre
+chooseval v
+v pre
+two automata
+the proof
+an automaton
+theorem prover
+case study
+a proof
+the purported
+od for
+of cons
+daikon s
+of correctness
+invariant detection
+to cons
+the daikon
+invariants and
+automaton the
+in verifying
+execution can
+do f
+a specication
+node v
+node b
+by daikon
+internal internaldecide
+re internal
+abstain i
+global1 succeeded
+internal start
+implementation automaton
+l se
+consensus the
+invariants such
+and inv6
+checked proof
+vote i
+makeballot b
+ballot v
+ndr program
+ballot in
+global1 val
+global1 to
+internal assignval
+from global1
+actions of
+consensus in
+denition 1
+program properties
+the lp
+simulation relations
+verifying distributed
+value do
+execution fragment
+v representing
+the larch
+value v
+the simulation
+is unsound
+o automata
+daikon invariant
+of consensus
+external actions
+formal verication
+our methodology
+a forward
+execution or
+automaton model
+cons the
+the methodology
+actions are
+distributed algorithms
+the consensus
+imple mentation
+b set
+theorem provers
+state systems
+model checking
+properties that
+of automata
+potential problems
+an i
+theorem proving
+f i
+nite state
+b such
+execution based
+a machine
+the test
+executions and
+block in
+automaton is
+and internaldecide
+inv4 and
+signature input
+invariants inv1
+predicate relating
+b val
+failed failed
+assignval and
+human guidance
+candidate simulation
+chooseval global1
+value internal
+ndr programs
+decide action
+via simulated
+start thenodes
+daikon reported
+ballot do
+human eort
+the decide
+machine veried
+satises property
+imperative style
+node init
+value output
+detected invariants
+global1 with
+global1 the
+simulates execution
+lp proof
+daikon provide
+purported simulation
+block contains
+larch prover
+1 specication
+re chooseval
+interpreter simulates
+re output
+and vote
+re input
+in cons
+automaton paxos
+such bookkeeping
+global1 allows
+execution provides
+v od
+internal makeballot
+internal vote
+abstain and
+using lp
+makeballot abstain
+fully characterizes
+veried proof
+auxiliary invariants
+the ndr
+val b
+internal abstain
+the ioa interpreter
+i o automaton
+the simulation relation
+node v value
+the proof block
+f i re
+the ioa toolkit
+i node v
+output decide i
+input fail i
+forward simulation relation
+the ioa language
+of the automaton
+the paxos algorithm
+ignore for internal
+a simulation relation
+the specication automaton
+decide i v
+init i v
+do f i
+i node b
+input init i
+ballot ignore for
+the test suite
+a forward simulation
+our case study
+dynamic invariant detection
+of b such
+an i o
+internal chooseval v
+v representing the
+in the ioa
+decide i node
+ballot v value
+v value do
+internal assignval b
+machine checked proof
+of the paxos
+i re internal
+internaldecide b ballot
+b set ballot
+init i node
+e l se
+a machine checked
+from global1 to
+internal internaldecide b
+global1 to cons
+simulation relation is
+node b set
+reported properties are
+fail i node
+that the purported
+b ballot v
+invariants such as
+re internal chooseval
+o automaton model
+assignval b ballot
+ioa language and
+o automata and
+correctness of an
+the reported properties
+verifying distributed algorithms
+the start state
+the daikon invariant
+daikon invariant detector
+i o automata
+a theorem prover
+b such that
+that f a
+of an implementation
+proof of correctness
+a distributed algorithm
+actions of the
+proof that the
+chooseval global1 val
+else f i
+node init i
+invariants and simulation
+b ballot ignore
+ioa interpreter the
+the internal actions
+how to cope
+prelude to formal
+simulates execution of
+v od for
+high level automaton
+that value must
+a predicate relating
+consensus in ioa
+automata in ioa
+abstain i node
+vote i node
+low level automaton
+pre output decide
+daikon s output
+the decide action
+simulation relation and
+implementation of consensus
+machine veried proof
+i re input
+v value internal
+invariants and lemmas
+and that value
+b pre internal
+an input action
+of two automata
+the automaton global1
+b ballot do
+checked proof of
+signature input fail
+fail i failed
+makeballot b ballot
+the implementation automaton
+re output decide
+simulation relation from
+simulated execution can
+style as a
+i v representing
+purported simulation relation
+to a specication
+the larch prover
+and simulation relations
+can reveal unexpected
+as a prelude
+fully characterizes the
+automaton cons the
+dynamically detected invariants
+ballot in global1
+interpreter simulates execution
+implementation automaton the
+the purported simulation
+ioa toolkit the
+for the init
+value output decide
+paired execution provides
+inv4 and inv6
+formulating and checking
+cons figure 1
+simulated execution to
+v value output
+of this invariant
+an imperative style
+the automaton s
+proof block the
+the consensus value
+for internal internaldecide
+in formulating and
+do e l
+val b val
+proof block in
+internal makeballot b
+i v od
+failed failed i
+input actions are
+of consensus in
+internal chooseval global1
+makeballot abstain and
+assignval and internaldecide
+the automaton cons
+a step correspondence
+set ballot ignore
+reported properties may
+suite fully characterizes
+simulation relation in
+global1 val b
+preserve the simulation
+via simulated execution
+se else f
+l se else
+lp proof that
+the lp proof
+i node init
+resume by specializing
+the ioa simulator
+relation satises property
+internal start thenodes
+internal abstain i
+value do f
+in ioa the
+test suite fully
+step in verifying
+execution based techniques
+i b pre
+value must have
+action with the
+abstain and vote
+what a human
+internal vote i
+o automaton is
+candidate simulation relation
+i failed failed
+the for statements
+for internal assignval
+i v pre
+the witness execution
+node b ballot
+simulation relation satises
+we did not
+f a b
+of the implementation

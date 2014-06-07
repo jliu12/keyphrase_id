@@ -1,0 +1,600 @@
+prover
+stack
+newstack
+constructor
+specifications
+concat
+rewriting
+accumulator
+inductive
+axioms
+rewrite
+lemmas
+const
+specification
+pf
+stmt
+constructors
+recenter
+pntr
+equational
+proofs
+pop
+circle
+weakest
+elem
+precondition
+annotations
+verification
+nat
+conjunct
+generic
+push
+chunk
+larch
+wp
+subtype
+template
+termination
+completeness
+arguments
+underspecification
+isnewstack
+shape
+induction
+double
+confluence
+superclass
+recursive
+subprogram
+abstract
+correctness
+stripping
+fertilize
+accumulation
+algebraic
+inductions
+tuples
+drop
+reverse
+lp
+fertilized
+overspecification
+center
+chunks
+subclass
+inline
+incompleteness
+symbols
+a1
+sides
+theorems
+inheritance
+antecedent
+radius
+void
+strategies
+loop
+axiom
+stacks
+exponentiation
+skolem
+axiomatize
+hoare
+a2
+equations
+proving
+confluent
+array
+instantiations
+replaces
+truth
+virtual
+successor
+obligations
+postcondition
+discrepancies
+canonical
+expressiveness
+automated
+subtyping
+naturals
+undecidable
+enumeration
+instantiated
+units
+sufficiently
+tactic
+underspecified
+alphard
+bendix
+huet
+natarray
+stepwise
+annotate
+automatically
+sort
+reasoning
+proved
+member
+minimization
+subclasses
+power
+syntactic
+tasks
+decrementing
+induct
+isempty
+completion
+hints
+reversal
+statements
+designing
+outermost
+statement
+forever
+hypothesizes
+exempt
+implementations
+manipulate
+validation
+return
+init
+max
+peculiarity
+monoid
+h0
+unsolvable
+formulas
+lack
+complexities
+semantic
+annotated
+formula
+postconditions
+templates
+verify
+oriented
+portions
+body
+flaws
+underflow
+boyer
+tactics
+annotating
+0i
+obligation
+permit
+formal
+entails
+programs
+instances
+expressive
+topmost
+subterm
+associative
+p2
+generalization
+rewritten
+crucial
+abstraction
+concepts
+program
+chose
+supplied
+symbol
+knuth
+subexpression
+guidance
+reduction
+languages
+factoring
+attempts
+axiomatic
+package
+removes
+public
+concrete
+moore
+abstractions
+move
+power function
+our prover
+the prover
+sufficient completeness
+recursive reduction
+while statement
+theorem prover
+term rewriting
+design strategies
+sufficiently complete
+weakest precondition
+a constructor
+type stack
+power functions
+left sides
+const return
+defined operations
+left side
+a stack
+rewrite system
+while statements
+q pntr
+program units
+constructor based
+the recursive
+a specification
+the weakest
+and sufficiently
+equational reasoning
+return center
+subprogram parameters
+constructor enumeration
+inductive variable
+theta nat
+constructor terms
+wp w
+const point
+newstack and
+an inductive
+the specification
+abstract data
+a rewrite
+tuples of
+right side
+rewriting systems
+of specifications
+data types
+data type
+rewriting and
+inductive hypothesis
+of shape
+instance of
+virtual double
+next q
+generic formal
+abstract properties
+binary choice
+inductive variables
+stack is
+the axioms
+a while
+be proved
+correctness of
+the stack
+the power
+rewrite systems
+generic program
+abstract class
+abstract base
+prover is
+sort s
+s i
+of arguments
+an equation
+the loop
+the specifications
+is canonical
+prover for
+constructor c
+each constructor
+proving theorems
+the operation
+rewrite rules
+of tuples
+specification is
+verification of
+an instance
+canonical and
+lemmas to
+a superclass
+the constructors
+the inductive
+sides of
+specifications and
+properties of
+termination of
+truth of
+the lemmas
+by cases
+axiom of
+and push
+the truth
+push s
+types generic
+function pf
+procedure pop
+inductive for
+defined operation
+syntactic properties
+manipulate objects
+nat theta
+type shape
+program components
+inline void
+verification tasks
+our strategies
+recursive constructors
+only syntactic
+of stmt
+of while
+pure virtual
+crucial properties
+type induction
+consistent extension
+body stmt
+critical pairs
+stack newstack
+new templates
+templates one
+center const
+the proof
+to rewrite
+a subtype
+specifications the
+of sort
+rewrite rule
+precondition of
+of type
+completeness of
+the type
+example 2
+the formula
+in example
+the theorem
+in position
+object oriented
+type t
+of term
+base classes
+the conjunct
+representation mapping
+constructors the
+drop is
+stmt is
+extend s
+of circle
+verification problems
+inductive arguments
+algebraic specifications
+is begin
+an accumulator
+of accumulator
+the correctness
+operations which
+the types
+expressiveness of
+the equation
+and verification
+the proofs
+specifications our
+constructors of
+which manipulate
+of constructor
+completely defined
+program correctness
+remaining arguments
+of expressiveness
+type parameters
+an abstract
+the verification
+argument of
+instances of
+an automated
+strategies for
+the generic
+s 0
+then return
+s center
+formal proofs
+equational specification
+our specification
+circle is
+actual parameters
+algebraic specification
+s operations
+reduction of
+a lemma
+lack of
+of correctness
+verification techniques
+the recursive reduction
+power function of
+the power function
+the weakest precondition
+a while statement
+recursive reduction of
+and sufficiently complete
+design strategies for
+of a stack
+a constructor enumeration
+const return center
+wp w r
+the theorem prover
+of a while
+to be proved
+abstract data types
+of tuples of
+the left side
+discussed in example
+the binary choice
+precondition of a
+weakest precondition of
+the type stack
+of sort s
+canonical and sufficiently
+left sides of
+an abstract class
+by the prover
+of a specification
+an instance of
+of the loop
+the right side
+set of tuples
+an inductive hypothesis
+term rewriting systems
+the correctness of
+the truth of
+s i 1
+its power function
+combination of arguments
+of remaining arguments
+the left sides
+extension of s
+data type induction
+of while statements
+and consistent extension
+new templates one
+and sufficient completeness
+sufficient completeness of
+our theorem prover
+generic program units
+sort s i
+a defined operation
+constructor based systems
+tuples of remaining
+which manipulate objects
+consistent extension of
+theta nat theta
+the prover for
+nat theta nat
+the constructors of
+tuples of arguments
+between the types
+of expressiveness of
+rewriting and induction
+left side is
+of type shape
+an inductive variable
+lack of expressiveness
+in example 2
+of the specification
+types of the
+is the power
+of arguments of
+symbol in the
+complete and consistent
+a rewrite system
+abstract base classes
+of term rewriting
+a rewrite rule
+reduction of the
+by means of
+attempt to prove
+a complete and
+the types of
+of the procedure
+and verification of
+in position 1
+of the axioms
+the original proof
+suggested by the
+the function computed
+the axioms of
+sides of the
+is an instance
+correctness of the
+function computed by
+of type t
+left side of
+parallel implementation of
+the specification of
+of the generic
+the expressive theory
+s left side
+of each constructor
+as a lemma
+a constructor based
+extend s 0
+while statement is
+identity of concat
+the prover automatically
+recursive argument of
+3 holds when
+systems rewriting systems
+const point c
+hoare s system
+tuples of constructor
+new incompleteness result
+reductions abstract properties
+sort of this
+its left identity
+continue by cases
+not a peculiarity
+right identity of
+only syntactic discrepancies
+a canonical and
+we chose inductive
+where max a
+in the axioms
+selected place with
+inductive variable and
+a peculiarity of
+templates one associated
+program state after
+drop discussed in
+of our specification
+symbols of a
+reduced to true
+as rewrite systems
+the formula being
+of naturals and
+step is associative
+with newstack and
+with a fresh
+type stack is
+replaces the selected
+is a monoid
+lemma replaces instances
+an equation does
+and reverse are
+calculate wp w
+with inheritance and
+place since the
+types generic program
+of a defined
+rewrite system is
+a new incompleteness
+via inheritance a
+stack represented by
+recursive reduction strategies
+that some computation
+result for hoare
+shared language specifications
+strategies for rewrite
+the second theorem
+we extend s
+operations which manipulate
+when a generic
+are pure virtual
+we replace instances
+using the binary
+generic formal subprogram
+e we replace
+center const return
+equation cannot be
+of sufficient completeness
+program units and
+power function pf
+function of stmt
+since the sort
+generic subprogram parameters
+data types generic
+are representative of
+first three instantiations
+two new templates
+the other lemma
+left sides we
+objects of type
+used to rewrite
+specification s i
+annotating abstract base
+by equational reasoning
+show its application
+a right identity
+of constructor terms
+return center y
+axioms are developed
+stack discussed in
+incompleteness result for
+elem return elem

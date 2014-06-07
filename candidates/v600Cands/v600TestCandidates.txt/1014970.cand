@@ -1,0 +1,600 @@
+primal
+dual
+routers
+byers
+lps
+lp
+feasible
+router
+connections
+flow
+agents
+ln
+bartal
+raz
+xl
+rounds
+nm
+approximation
+luby
+opt
+makers
+yl
+feasibility
+connection
+agent
+nisan
+phase
+od
+iteration
+inequality
+sequential
+monotonically
+amax
+polylogarithmic
+papadimitriou
+claims
+ratio
+tradeo
+claim
+optimum
+centralized
+precondition
+yannakakis
+technion
+solutions
+phases
+normalized
+israel
+ect
+neighbors
+logarithmic
+serial
+globally
+azar
+distributively
+initialize
+iterations
+policies
+completes
+packing
+ij
+awerbuch
+transmits
+convert
+rates
+message
+intermediate
+round
+repeatedly
+network
+amin
+multicommodity
+objectives
+running
+administrator
+atm
+objective
+final
+quality
+berkeley
+fractional
+capacities
+competitive
+broadcast
+cs
+duality
+deadlock
+polynomially
+min
+routes
+corollary
+lemma
+yairb
+formulative
+huji
+dorit
+9416101
+shmoys
+accrues
+intranetwork
+9304722
+sicomp
+safe
+trials
+fairness
+program
+ciently
+rate
+initialization
+routing
+transformation
+termination
+programs
+boston
+binational
+una
+regulating
+liated
+recombine
+hebrew
+depiction
+hochbaum
+haifa
+stated
+il
+share
+substituting
+pp
+incident
+ending
+flows
+bandwidth
+clarifies
+regulatory
+inject
+awaiting
+jerusalem
+associate
+communicate
+send
+multiplicative
+runs
+instant
+revenue
+emulating
+upcoming
+tardos
+35th
+allocation
+bounds
+department
+eliminates
+terminates
+danny
+iq
+ncr
+panel
+stimulating
+subprogram
+multiplying
+fast
+ac
+dividing
+throughput
+karp
+subprograms
+informing
+complicating
+understandable
+dick
+ecting
+unsatisfied
+packet
+passing
+constituting
+christos
+plotkin
+simplifications
+act
+working
+cient
+obtains
+establishing
+bottleneck
+mentation
+retransmissions
+imple
+erations
+implemen
+implementable
+programming
+scaled
+settings
+neighboring
+violated
+paying
+complications
+bu
+subdivide
+proving
+positive linear
+primal feasible
+y j
+flow control
+approximation ratio
+dual feasible
+fast approximation
+primal variables
+ln m
+byers and
+d raz
+y bartal
+bartal j
+positive lps
+feasible solution
+feasible solutions
+dual variables
+for positive
+connection j
+w byers
+approximation algorithms
+claim 2
+final inequality
+linear program
+each connection
+linear programs
+linear programming
+the primal
+g q
+the distributed
+running time
+primal and
+o nm
+the approximation
+fact 2
+for z
+do until
+r ln
+primal variable
+and routers
+inequality holds
+the dual
+j w
+of primal
+the sequential
+and dual
+of rounds
+each phase
+of phases
+intermediate primal
+connections and
+standard form
+r r
+router i
+solution y
+special form
+distributed algorithm
+a phase
+sequential case
+normalized form
+each router
+of dual
+decision makers
+a primal
+1 approximation
+the value
+phase i
+holds by
+local information
+of flow
+nm ln
+distributed decision
+to connections
+approximately solving
+phase number
+1 factor
+dual feasibility
+primal agent
+is primal
+the network
+the final
+distributed setting
+variables y
+to positive
+approximation to
+local communication
+the lp
+of connections
+value of
+have that
+the algorithm
+global objective
+holds from
+increase monotonically
+2 7
+bound the
+o r
+y y
+control policies
+the optimum
+2 8
+a ij
+the centralized
+an iteration
+in o
+generate feasible
+between connections
+may broadcast
+dual agents
+safe algorithm
+router update
+claims 2
+globally known
+xl r
+luby and
+dual agent
+each primal
+intermediate dual
+feasible r
+of luby
+distributed rounds
+distributed model
+global objectives
+r time
+our algorithm
+the running
+rounds and
+connections in
+the routers
+of claim
+the quality
+based only
+tradeo between
+end of
+papadimitriou and
+global operations
+fast distributed
+lp in
+polylogarithmic number
+r approximation
+optimal solution
+the values
+the solution
+algorithms for
+quality of
+algorithm produces
+a 1
+feasible for
+a polylogarithmic
+ratio obtained
+centralized algorithm
+a approximation
+sequential implementation
+rate based
+current phase
+to special
+theorem 2
+the connections
+a feasible
+connections which
+and yannakakis
+for approximately
+per phase
+desired approximation
+solutions to
+values of
+of iterations
+approximation algorithm
+on local
+programming solution
+to flow
+a distributed
+runs in
+an lp
+the tradeo
+phase by
+in standard
+x i
+first inequality
+all j
+prove that
+program in
+iteration i
+and d
+the bound
+the course
+2 1
+stated in
+each agent
+working on
+the end
+phase do
+lp z
+distributed case
+case knowledge
+having distributed
+optimum primal
+increase all
+logarithmic approximation
+final primal
+fast approximation algorithms
+algorithms for positive
+byers and d
+w byers and
+y bartal j
+j w byers
+for positive lps
+bartal j w
+and d raz
+positive linear programs
+approximation algorithms for
+connections and routers
+the final inequality
+primal feasible solution
+the approximation ratio
+the value of
+r ln m
+a 1 approximation
+variables y j
+inequality holds by
+primal and dual
+in the sequential
+theorem 2 1
+in o nm
+positive linear programming
+to positive linear
+the distributed algorithm
+final inequality holds
+solutions to positive
+figure 2 1
+of flow control
+approximation to the
+number of rounds
+to the optimum
+dual feasible solutions
+each router i
+of each phase
+holds by the
+y y y
+the values of
+number of phases
+the sequential case
+value of the
+for positive linear
+primal feasible solutions
+flow control policies
+is primal feasible
+claim 2 8
+positive linear program
+of dual variables
+nm ln m
+holds from the
+dual variables x
+o nm ln
+feasible for z
+distributed decision makers
+solution for z
+each connection j
+for z and
+primal variables y
+1 approximation ratio
+of the approximation
+y j is
+of the solution
+quality of the
+the dual variables
+dual feasible solution
+of claim 2
+we have that
+and the quality
+tradeo between the
+in standard form
+the running time
+the optimal solution
+the linear program
+the quality of
+algorithm produces a
+of the dual
+the algorithm produces
+feasible solutions are
+primal feasible for
+solution y j
+papadimitriou and yannakakis
+o r 1
+the distributed setting
+to special form
+the centralized algorithm
+ln m the
+of local communication
+approximation ratio obtained
+and dual feasible
+a 1 factor
+feasible r approximation
+claim 2 7
+ln m r
+of primal variables
+m the algorithm
+number of connections
+approximation ratio and
+a positive linear
+values of dual
+algorithm of luby
+between connections and
+for approximately solving
+inequality holds from
+a primal feasible
+claims 2 7
+fact 2 5
+generate feasible solutions
+1 the distributed
+0 r ln
+y j s
+feasible solution y
+intermediate dual feasible
+bound the approximation
+of our algorithm
+the end of
+at the end
+r r r
+based only on
+end of each
+in the distributed
+stated in theorem
+only on local
+linear programming solution
+a polylogarithmic number
+of the primal
+in o r
+feasible solution by
+7 and 2
+and 2 8
+the solution y
+polylogarithmic number of
+to flow control
+fact 2 4
+the sequential implementation
+in the network
+number of iterations
+to the value
+values of the
+e r r
+the desired approximation
+of the algorithm
+prove that the
+in theorem 2
+the tradeo between
+let x denote
+we let x
+over the course
+feasible solutions to
+denote the value
+the course of
+of the optimal
+the first inequality
+we bound the
+2 7 and
+of the program
+the x i
+feasibility of the
+a distributed algorithm
+x i t
+proof of claim
+the number of
+the network and
+the change in
+runs in o
+variables x i
+a feasible solution
+sum of the
+dual agent i
+globally known in
+the modified lp
+lp z in
+1 5 16
+distributed model we
+take a feasible
+lemma 9 to
+turn to bound
+solutions are necessarily
+transformation to special
+sequence of inequalities
+a primal agent
+prior to an
+m r time
+decisions based only
+fact 2 6
+values of primal
+optimum primal linear
+approximate solutions to
+extend their model
+control problem and
+act as the
+case knowledge of
+agent with each
+linear program lp
+where the final
+on phase i
+dual feasible and
+of intermediate primal
+the safe algorithm

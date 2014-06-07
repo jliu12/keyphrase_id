@@ -1,0 +1,600 @@
+gencan
+extrapolation
+spg
+lancelot
+tn
+fe
+quacan
+gradient
+cg
+backtracking
+evaluations
+ge
+unconstrained
+chebyqad
+kg
+box
+iterations
+trust
+trial
+06
+ks
+iterate
+conjugate
+functional
+armijo
+steplength
+extrap
+386d
+625d
+sif
+cute
+spectral
+qrtquad
+scon1ls
+projected
+constrained
+minimization
+innite
+unsuccessful
+expquad
+descent
+rst
+face
+faces
+extrapolations
+quadratic
+gradients
+newton
+nishes
+directional
+convergence
+aatrial
+unicamp
+nonscomp
+hadamals
+secant
+aamax
+borwein
+ime
+birgin
+barzilai
+qr3dls
+dened
+subproblems
+lagrangian
+convergent
+fortran
+120
+stationary
+hg
+iteration
+k1
+region
+stops
+nal
+minimizer
+derivative
+augmented
+satises
+interior
+unitary
+hessian
+quotient
+ao
+packing
+cient
+xnew
+newtonian
+pronex
+04597
+usp
+quot
+bdexp
+387d
+624d
+fapesp
+549d
+projections
+martnez
+boundary
+nish
+direction
+1025
+1340
+k2k
+schrage
+modications
+judge
+satised
+xed
+fx
+cylinder
+dene
+842
+multipoint
+1008
+cnpq
+preconditioned
+stopping
+lim
+numerical
+su
+truncated
+incremental
+preconditioning
+43
+accepted
+go
+leave
+ug
+599
+complementarity
+max
+radius
+nonlinear
+subsequence
+successful
+optimization
+continuity
+10000
+paulo
+fullled
+br
+criterion
+else
+angle
+perhaps
+kd
+leaving
+subspace
+aa
+subroutines
+178
+surprisingly
+79
+dierence
+seed
+objective
+active
+4995260
+spg2
+896d
+ronconi
+236d
+388d
+mccormck
+559d
+kbkks
+monitorized
+nnaa
+2072
+trapolation
+campinas
+5750468
+467d
+rua
+nishihara
+1853
+973d
+linverse
+films
+05508
+retards
+969d
+deconvb
+300151
+224d
+813d
+lagrangean
+810d
+2286
+explin
+imecc
+133d
+subalgorithms
+nondegen
+sociometry
+egbirgin
+742d
+535d
+functional evaluations
+x k
+it fe
+trust region
+ge cg
+fe ge
+line search
+kg p
+of gencan
+box quacan
+box constrained
+iterations with
+spectral projected
+tn iterations
+projected gradient
+step 4
+k 2
+fe functional
+trial point
+spg iterations
+cg time
+algorithm 2
+to step
+conjugate gradient
+all k
+step 3
+algorithm 3
+gradient method
+3 625d
+625d 06
+functional value
+5 386d
+2 k
+the box
+at step
+directional derivative
+global convergence
+armijo condition
+x kg
+bound constrained
+with extrapolation
+in gencan
+fe it
+current face
+of spg
+x k1
+constrained optimization
+problem n
+d k
+f x
+step 2
+is innite
+go to
+k max
+else go
+augmented lagrangian
+an unconstrained
+limit point
+k 5
+step 1
+unconstrained minimization
+fx k
+new iterate
+k 1
+of algorithm
+p x
+incremental quotient
+the extrapolation
+the trial
+ks k
+cient descent
+hg x
+simple bounds
+tn extrap
+computer time
+06 table
+evaluations at
+chebyqad 50
+it tn
+the cute
+06 3
+time f
+f i
+step 5
+direction d
+exists k
+by algorithm
+iterate x
+search direction
+the spg
+compute step
+iterations where
+the armijo
+functional values
+active set
+well dened
+to leave
+the conjugate
+free variables
+k 4
+large scale
+the faces
+the rst
+the face
+k k
+of cg
+constrained minimization
+the spectral
+minimization algorithm
+the directional
+for unconstrained
+taking limits
+qrtquad 120
+do backtracking
+using sif
+projected gradients
+every limit
+lancelot in
+order stationary
+truncated newton
+of lancelot
+barzilai and
+g birgin
+gencan incremental
+spg iteration
+06 chebyqad
+set trial
+expquad 120
+angle condition
+quotient version
+the barzilai
+backtracking step
+ks 0
+stops at
+gradient iterations
+convergent subsequence
+the steplength
+judge that
+nonscomp 10000
+region algorithms
+386d 5
+iterations tn
+constrained algorithm
+region radius
+cg iterations
+06 nonscomp
+extrapolation tn
+unconstrained stationary
+we judge
+in lancelot
+quadratic subproblems
+that kg
+4 backtracking
+cylinder packing
+28 23
+tn step
+and borwein
+working set
+the unitary
+point is
+the boundary
+optimization with
+x di
+else set
+unconstrained optimization
+evaluations per
+a descent
+m martnez
+the algorithm
+k is
+for optimization
+and go
+k g
+1 compute
+that ks
+descent direction
+many constraints
+we report
+we test
+problems where
+the direction
+the feasible
+strictly decreasing
+indices such
+5 else
+conjugate gradients
+s step
+n it
+objective function
+boundary of
+is computed
+evaluations in
+feasible set
+an unsuccessful
+the working
+bounds a
+number generator
+of trust
+22 28
+theorem 3
+algorithm 2 1
+k 2 k
+fe ge cg
+all k 2
+it fe ge
+for all k
+ge cg time
+fe functional evaluations
+x k 1
+f x k
+go to step
+kg p x
+3 625d 06
+of algorithm 2
+the current face
+iterations with extrapolation
+time f x
+spectral projected gradient
+it fe it
+fe it fe
+f x kg
+problem n it
+p x k1
+n it fe
+x kg p
+algorithm 3 1
+direction d k
+else go to
+algorithm 3 2
+exists k 2
+step 2 2
+fx k g
+step 3 1
+the trial point
+k is computed
+the box constrained
+for optimization with
+trial point is
+the armijo condition
+su cient descent
+functional evaluations at
+625d 06 3
+cg time f
+2 k 5
+there exists k
+is well dened
+the conjugate gradient
+2 k 4
+global convergence of
+the line search
+iterate x k
+the directional derivative
+the search direction
+step 4 2
+gradient method for
+by algorithm 3
+to step 5
+if x k
+k g is
+the working set
+2 k 1
+k 1 is
+generated by algorithm
+box constrained optimization
+hg x di
+of trust region
+rst order stationary
+the spectral projected
+simple bounds a
+x k d
+we judge that
+it tn iterations
+j m martnez
+06 nonscomp 10000
+conjugate gradient iterations
+trust region algorithms
+incremental quotient version
+step 5 else
+of functional evaluations
+box constrained algorithm
+tn step 1
+the barzilai and
+barzilai and borwein
+with extrapolation tn
+trust region radius
+functional evaluations in
+5 386d 5
+that ks k
+spectral projected gradients
+of indices such
+region algorithms for
+extrapolation tn extrap
+step 4 1
+ks k k
+within the faces
+boundary of b
+set s step
+4 backtracking step
+computed at step
+06 3 625d
+step 4 backtracking
+22 28 23
+every limit point
+tn iterations where
+the objective function
+and go to
+2 theorem 3
+the solution of
+step 2 1
+not hold we
+step 3 3
+very large problems
+2 f x
+a descent direction
+to the working
+k is not
+the boundary of
+to step 4
+to the free
+1 is computed
+the new iterate
+at step 3
+r 2 f
+the matrix vector
+is rst order
+well dened and
+the feasible set
+k d k
+indices such that
+at step 2
+k 2 f0
+random number generator
+4 2 if
+is computed at
+by algorithm 2
+sequence generated by
+algorithm 4 1
+that k is
+for each method
+the free variables
+x k is
+this implies that
+to leave the
+the nal point
+sequence stops at
+birgin j m
+unconstrained minimization problem
+bound constrained minimization
+this line search
+to add many
+gencan true hessian
+4 1 compute
+leave the current
+tn iterations tn
+2 f0 i
+and simple bounds
+the sequence stops
+1 line search
+large scale unconstrained
+an unsuccessful extrapolation
+constraints and simple
+06 chebyqad 50
+methods for unconstrained
+evaluations per iteration
+that lim k2k
+the problems where
+set to step
+bounds a globally
+with general constraints
+that kg p
+line search procedure
+truncated newton approach
+perform the test
+stationary point or
+the rst trial
+bound constrained optimization
+but by 2
+an innite subset
+were the default
+projected gradient method
+the trust region
+order stationary proof
+optimization 76 79
+limit point of
+for bound constrained
+backtracking was necessary
+additional unnecessary functional
+of cg iterations
+constrained algorithm the
+where backtracking was
+trust region methods
+a successful extrapolation
+onto the box
+cg time it
+criterion kg p
+continuous projected gradient
+5 is innite
+iterations where the
+line search of
+of 6 2

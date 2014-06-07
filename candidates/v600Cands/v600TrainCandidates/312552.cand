@@ -1,0 +1,600 @@
+parents
+hbmg
+multigraph
+vertex
+fill
+ilu
+factorization
+amg
+parent
+vertices
+multigrid
+elimination
+incomplete
+sparse
+milu
+omega
+jcn
+phi
+grid
+edges
+heap
+sparsity
+adj
+coarse
+tentative
+ruge
+mg
+multilevel
+triangulation
+classical
+hierarchical
+gammacr
+dirichlet
+coarsening
+matrix
+gaussian
+ijk
+ordering
+algebraic
+eliminated
+fine
+nodal
+ucsd
+stiffness
+pap
+mesh
+boundary
+quartet
+uben
+grids
+hole
+preconditioning
+preconditioner
+diagonal
+digits
+homogeneous
+semiconductor
+pltmg
+pq
+convection
+nonzeros
+coarsened
+biconjugate
+meshes
+incident
+indefinite
+mccormick
+discretizations
+nonsymmetric
+factorizations
+convective
+subregions
+clique
+quality
+factored
+interpolation
+accidental
+triangles
+consisted
+lu
+diffusion
+superior
+differential
+inductively
+lake
+solves
+gammar
+arising
+singularities
+texas
+composite
+refinement
+dendy
+7nae
+csbcg
+9706090
+16nis
+cscg
+4n
+timings
+numerical
+artificially
+imposed
+setup
+factoriza
+unrefinement
+16n
+jimack
+logo
+fig
+blocking
+preconditioned
+seidel
+reinitializing
+multicolor
+octane
+hempel
+unstructured
+theoretic
+pattern
+recursively
+neumann
+submatrix
+reinitialize
+randolph
+ents
+jolla
+region
+gauss
+permutation
+gradient
+basis
+elliptic
+92093
+eliminations
+07974
+nested
+connecting
+decompositions
+iterative
+compromise
+elimi
+multipoint
+decomposi
+middle
+sharp
+ordered
+tern
+civil
+brandt
+incompletely
+filled
+experimentally
+conjugate
+midpoints
+cu
+180
+approximately
+matri
+continuity
+phases
+zeros
+pairwise
+distinctly
+radially
+enjoyed
+tetrahedral
+eliminate
+illustrated
+6n
+posed
+edge
+internal
+ensuing
+device
+benzi
+grew
+fl
+helmholtz
+graph
+outer
+triangular
+f77
+restarting
+lucent
+invaluable
+triangle
+growth
+recursion
+deg
+iii
+package
+layers
+interpreted
+symmetric
+edinburgh
+decomposition
+definite
+initialization
+residual
+fill in
+vertex parents
+in edges
+omega omega
+multigraph algorithm
+a a
+v i
+two parents
+phi phi
+hierarchical basis
+the multigraph
+vertex parent
+ilu mg
+of fill
+quality function
+coarse grid
+q p
+adj v
+incomplete factorization
+one parent
+tentative parents
+the elimination
+p v
+sparse matrix
+the coarse
+gaussian elimination
+an incomplete
+elimination process
+the fill
+parents of
+fine grid
+the vertex
+classical hbmg
+the heap
+parents for
+algebraic multigrid
+sparsity pattern
+v j
+parent algorithm
+grid vertices
+two parent
+the matrix
+the sparsity
+dirichlet boundary
+multigrid method
+the graph
+the fine
+algebraic multilevel
+vertex v
+vertices are
+matrix a
+ilu factorization
+nodal basis
+two vertex
+actual parents
+of multigraph
+classical sparse
+digits time
+milu factorization
+hbmg ilu
+basis multigrid
+eliminate vertex
+gammacr t
+of hbmg
+1 eliminate
+incomplete sparse
+s ijk
+fine graph
+f pq
+matching strategies
+the incomplete
+the hierarchical
+boundary conditions
+function q
+homogeneous dirichlet
+remaining vertices
+each vertex
+of edges
+nested meshes
+parents is
+stiffness matrix
+its incident
+of vertex
+in pattern
+standard nodal
+from discretizations
+parents to
+graph g
+incomplete lu
+pap t
+vertices in
+the quality
+v 1
+incident edges
+phi omega
+step iii
+factorization using
+parents the
+factorization the
+the ordering
+g set
+sparse gaussian
+partial differential
+are imposed
+of v
+edges 2
+the classical
+of classical
+numerical factorization
+element triangulation
+st uben
+lake superior
+time solves
+case parent
+superior this
+jcn 180
+grid triangulation
+add fill
+ideas ilu
+for multigraph
+omega phi
+hbmg the
+called accidental
+matrix gammacr
+in experimentally
+mg based
+our multigraph
+multigraph with
+quartet of
+internal interfaces
+hbmg algorithm
+box multigrid
+sharp internal
+each quartet
+two fill
+solves digits
+problems fig
+recursively coarsened
+accidental zeros
+and multigraph
+hbmg as
+examples arising
+coarsened by
+parents v
+one fill
+artificially set
+composite step
+basis preconditioner
+multigrid ideas
+problem jcn
+parent versions
+classical gaussian
+grid vertex
+jcn 0
+multigraph method
+convective term
+the milu
+general graphs
+convection diffusion
+g 0
+the sparse
+elimination the
+matrix elements
+general sparse
+parent is
+edges from
+resulting set
+already present
+grid triangle
+with amg
+single parent
+graph elimination
+amg one
+1 ordering
+2 adj
+parent two
+matrix pap
+classical ilu
+multigraph is
+e already
+between choosing
+set adj
+the vertices
+factorization of
+each problem
+matrix factorization
+discretizations of
+edges in
+1 set
+numerical values
+experimentally we
+multilevel preconditioning
+hierarchical bases
+our factorization
+pattern using
+180 the
+can artificially
+sparse incomplete
+interpolation operators
+g denote
+a a a
+fill in edges
+omega omega omega
+q p v
+of fill in
+the vertex parents
+the quality function
+the multigraph algorithm
+phi phi phi
+the coarse grid
+the fill in
+the hierarchical basis
+adj v i
+quality function q
+fill in pattern
+of two parents
+case of two
+dirichlet boundary conditions
+the elimination process
+in edges are
+of v i
+p v i
+number of fill
+boundary conditions are
+an incomplete factorization
+homogeneous dirichlet boundary
+conditions are imposed
+e 1 set
+g set g
+incomplete sparse matrix
+elimination the original
+of edges 2
+an incomplete sparse
+parents of v
+classical sparse gaussian
+of vertex parents
+basis multigrid method
+f of fill
+fine grid vertices
+set g denote
+phi omega omega
+q 2 v
+1 eliminate vertex
+one vertex parent
+function q 2
+gammacr t d
+hierarchical basis multigrid
+from g set
+vertex parents for
+its incident edges
+the case of
+v i is
+of the coarse
+v i and
+the sparsity pattern
+incident edges from
+present in e
+parents for each
+edges from g
+stiffness matrix a
+case of one
+of the matrix
+case of classical
+standard nodal basis
+the standard nodal
+from discretizations of
+arising from discretizations
+for the case
+graph g 0
+in e 1
+create a set
+incomplete factorization of
+discretizations of partial
+parent of v
+2 v i
+the incomplete factorization
+and the vertex
+the remaining vertices
+edges in the
+the fine grid
+denote the resulting
+for each vertex
+sparse matrix factorization
+a set f
+set f of
+already present in
+vertex v i
+numerical values of
+v i for
+permutation matrix p
+the graph of
+one fill in
+order v 1
+matrix gammacr t
+upon an incomplete
+of classical hbmg
+examples arising from
+concept of vertex
+one parent two
+mg based upon
+j 2 adj
+v f are
+the elimination algorithm
+time solves digits
+the fine graph
+the one parent
+of nested meshes
+two fill in
+v i create
+classical ilu factorization
+black box multigrid
+can artificially set
+our multigraph algorithm
+multigraph algorithm is
+two parent algorithm
+ilu mg based
+case parent algorithm
+in experimentally we
+multigrid ideas ilu
+occurrence of so
+the set adj
+ideas ilu mg
+step iii we
+of classical sparse
+grid vertices are
+form e already
+parents of vertex
+compromise between choosing
+amg one parent
+finite element triangulation
+vertex parents to
+two parent versions
+vertices are ordered
+using two parents
+and allowing a
+recursively coarsened by
+fine grid vertex
+of one parent
+vertex parents is
+convective term is
+the internal interfaces
+jcn 180 the
+experimentally we determined
+milu factorization is
+ilu mg is
+edges 2 let
+vertex parents of
+two vertex parent
+factorization using a
+set q p
+the multigraph method
+eliminate vertex its
+filled in graph
+ordering and allowing
+in the filled
+hierarchical basis preconditioner
+add fill in
+or two parents
+grid vertex v
+fill in experimentally
+parent two parents
+vectors and u
+the two parent
+the filled in
+each quartet of
+two vertex parents
+e already present
+omega omega phi
+in edges as
+parents for all
+the solution shown
+coarse grid triangle
+solves digits time
+region the equation
+vertex its incident
+family of multigraph
+so called accidental
+phi phi omega
+classical gaussian elimination
+fill in while
+the single parent
+and two vertex
+omega phi phi
+matrix factorization using
+matrix pap t
+coarse grid triangulation
+some examples arising
+the composite step
+classical hbmg the
+called accidental zeros
+in pattern using
+in edges which
+fill in edge
+the convective term
+digits time solves
+remaining vertices are
+tentative parents for
+is recursively coarsened
+artificially set q
+two parents the

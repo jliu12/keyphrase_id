@@ -1,0 +1,600 @@
+t3d
+speedup
+2d40
+cm
+3d40
+graphs
+phase
+remote
+dfs
+pram
+processors
+meiko
+3d20
+cray
+connected
+italic
+2d
+phases
+scaled
+disconnected
+c90
+cs
+volume
+surface
+lattice
+processor
+machines
+mn
+meshes
+unconnected
+hybrid
+erew
+edge
+transition
+split
+probabilistic
+2d60
+greiner
+physics
+swendsen
+shiloach
+portable
+mostly
+edges
+3d
+thinking
+dynamics
+cluster
+sparc
+nodes
+subgraphs
+mpp
+global
+supscrpt
+vishkin
+scaling
+nearly
+imbalance
+2d50
+erl
+presences
+mesh
+ratio
+platforms
+millions
+abstractions
+boundary
+node
+pointers
+monte
+256
+subgraph
+ucb
+elan
+200x200
+deviation
+bulk
+200
+carlo
+256x256
+balance
+rise
+presence
+saw
+portion
+representative
+labeling
+fraction
+probability
+expect
+graph
+061
+temperatures
+communication
+contention
+load
+owner
+vectorized
+crcw
+fatal
+sheds
+processed
+challenging
+sp
+behaved
+crew
+depth
+dma
+clocked
+microprocessor
+grows
+skipping
+linearly
+predict
+understand
+memory
+phenomenon
+corp
+paragon
+offer
+locality
+fairly
+classic
+partitioning
+characteristics
+access
+largest
+modern
+rises
+intel
+rapidly
+instruction
+multiprocessors
+workstations
+inherent
+costs
+across
+mhz
+sequential
+3dp
+hackl
+taper
+00220
+eightfold
+addressability
+goudreau
+200000400000600000800000
+2dp
+cmaml
+30x30x30
+alogithm
+crossovers
+binned
+0scaled
+thanasis
+tsantilas
+predictions
+percentages
+areas
+ideal
+materials
+read
+cache
+dominated
+portability
+flanigan
+tenths
+tamayo
+culler
+suel
+cypress
+chaotically
+specmarks
+underlying
+uniprocessor
+samples
+optimized
+nonuniversal
+hierachy
+msf
+hooking
+vahdat
+breadth
+fellowship
+simulations
+pointer
+percentage
+064
+128x128
+loglog
+ancing
+uncongested
+hybridization
+sigcse
+ultracomputer
+execution
+examine
+fractional
+2e
+purely
+connected components
+cm 5
+global phase
+local phase
+edge presence
+to volume
+cs 2
+connected phase
+a t3d
+global phases
+the connected
+volume ratio
+phase transition
+scaled speedup
+split c
+the global
+surface to
+probabilistic meshes
+disconnected phase
+the local
+of processors
+underlying lattice
+the disconnected
+speedup on
+2d graphs
+mn s
+of connected
+remote edges
+presence probability
+the meiko
+large component
+a cm
+graph types
+the graph
+components per
+global graph
+meiko cs
+local and
+t3d the
+s mn
+2d40 200
+3d20 30
+3d40 30
+hybrid algorithm
+the cm
+the phase
+graphs in
+of nodes
+and global
+cray t3d
+local portion
+mostly unconnected
+scaled number
+cluster dynamics
+nodes processed
+execution time
+components in
+components algorithm
+communication performance
+3d graphs
+global execution
+nodes per
+edge probability
+processed per
+global algorithm
+connected graphs
+per second
+distributed memory
+graph size
+the cray
+of components
+per node
+the algorithm
+processors scaled
+presence percentage
+transition boundary
+predict speedup
+mostly connected
+for 2d
+in split
+the thinking
+global address
+finding connected
+thinking machines
+global pointers
+the graphs
+memory machines
+of graphs
+expected number
+components algorithms
+global cost
+cost model
+the surface
+the speedup
+the t3d
+we expect
+ideal speedup
+a graph
+each processor
+and 3d40
+graph instance
+dfs with
+percentage 2d
+edge structures
+relative communication
+2d40 graph
+scaling rule
+representative nodes
+shiloach vishkin
+subgraph local
+for 2d40
+for 3d20
+for 3d40
+time number
+single node
+depth first
+of subgraphs
+erew pram
+relative costs
+of ideal
+connected component
+nearly constant
+constant fraction
+computational performance
+the hybrid
+italic n
+global read
+swendsen wang
+fast connected
+programming abstractions
+boundary the
+graph structure
+a cray
+performance on
+the scaled
+t3d is
+italic o
+dfs on
+graph type
+o italic
+and mostly
+phase of
+per processor
+components on
+phase the
+of communication
+address space
+time for
+standard deviation
+second metric
+subgraphs we
+relative cost
+machine characteristics
+physics a
+component labeling
+largest component
+c global
+first search
+a hybrid
+c p
+the balance
+remote memory
+of remote
+linearly in
+random graphs
+on graphs
+to rise
+of physics
+purely global
+four graphs
+access remote
+load imbalance
+machines cm
+cray c90
+speedup is
+parallel algorithm
+speedup results
+active messages
+the erew
+node performance
+millions of
+speedup for
+p local
+30 on
+single large
+the performance
+the edge
+the cost
+the cs
+the split
+graph is
+phase for
+cost of
+expect the
+second on
+256 processors
+graphs is
+and cs
+the remote
+parallel machines
+the global phase
+the local phase
+surface to volume
+to volume ratio
+the connected phase
+the phase transition
+the disconnected phase
+number of processors
+of connected components
+and global phases
+a cm 5
+connected components in
+local and global
+in the connected
+edge presence probability
+components per node
+the meiko cs
+the cm 5
+graphs in the
+meiko cs 2
+the local and
+the connected components
+number of connected
+the edge presence
+in the disconnected
+scaled speedup on
+s mn s
+mn s mn
+the surface to
+number of nodes
+speedup on the
+scaled number of
+the global phases
+nodes processed per
+the underlying lattice
+of nodes processed
+of the graph
+connected components algorithm
+number of components
+cs 2 and
+processed per second
+the cray t3d
+in the global
+of the global
+in split c
+of the algorithm
+class of graphs
+global address space
+finding connected components
+the thinking machines
+to predict speedup
+nodes per second
+edge presence percentage
+millions of nodes
+processors scaled speedup
+of ideal speedup
+fraction of ideal
+on a t3d
+for 2d graphs
+of a t3d
+global phases of
+phase transition boundary
+local phase of
+of processors scaled
+cray t3d the
+of the local
+expected number of
+finding the connected
+the global graph
+the scaled speedup
+connected components algorithms
+on the meiko
+the split c
+the global cost
+connected components on
+distributed memory machines
+cost of the
+phase of the
+numbers of processors
+components in a
+the number of
+linearly in the
+cm 5 and
+time number of
+execution time for
+and cs 2
+split c global
+global phase of
+global cost for
+for 3d40 30
+connected components per
+the nodes per
+presence probability the
+global phases the
+5 and cs
+the large component
+per second metric
+use of connected
+c global read
+predict speedup on
+presence percentage 2d
+a t3d the
+the cs 2
+local phase for
+the subgraph local
+of components per
+t3d the meiko
+for 3d20 30
+underlying lattice is
+subgraph local to
+c p local
+of physics a
+global phase is
+on graphs in
+journal of physics
+mostly connected graphs
+single large component
+graph in the
+the expected number
+constant fraction of
+the local portion
+fast connected components
+italic o italic
+of subgraphs we
+distribution of number
+30 on a
+the hybrid algorithm
+for finding connected
+with active messages
+the graph size
+we expect the
+as we saw
+connected component labeling
+and the thinking
+algorithm for finding
+the relative cost
+relative cost of
+execution time number
+on a cm
+the graphs in
+machines cm 5
+giving us a
+on the subgraph
+the graph is
+in the table
+local to each
+a hybrid algorithm
+thinking machines cm
+the erew pram
+for the global
+connected components of
+performance on this
+per second on
+depth first search
+cm 5 the
+a constant fraction
+on a cray
+number of remote
+the relative costs
+cost model for
+the cost of
+a single node
+of nodes in
+2d and 3d
+the cost model
+the boundary the
+the table are
+in a graph
+between the local
+in the local
+the performance characteristics
+small numbers of
+time required for
+for a graph
+global algorithm on
+purely global algorithm
+large component and
+global graph of
+on this challenging
+implementing an efficient
+the shiloach vishkin
+for dfs of
+performance on graphs
+3d mesh figure
+around the phase
+vishkin pram algorithm
+efficient portable global
+c90 as reported
+percentage 2d mesh
+global memory layer
+classic dfs on
+mn s 4
+of a 2d50
+sequential programming abstractions
+and global execution
+cm 5 execution
+modern distributed memory
+a cs 2
+volume ratio and
+physics a 17

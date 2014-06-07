@@ -1,0 +1,600 @@
+hosts
+election
+reset
+feedback
+skip
+rounds
+round
+host
+multicast
+btw94
+reply
+messages
+implosion
+elect
+bolot
+rnd
+population
+collision
+receivers
+history
+send
+transmissions
+aggressive
+rv97
+idmaps
+pip81
+undershoot
+replies
+representatives
+tracers
+channel
+overshoot
+polled
+entity
+elected
+electing
+estimation
+active
+rs90
+maxguess
+rfijmg
+packets
+council
+fig
+polling
+else
+tsybakov
+bits
+message
+penalty
+dependency
+users
+init
+leader
+maxfn
+multiplicity
+colliding
+elections
+sends
+packet
+ma
+resolution
+protocols
+unicast
+ternary
+conservative
+transmitted
+joining
+robustness
+initialization
+transmitting
+500
+bit
+representative
+drawings
+transmission
+measurement
+draws
+optimum
+convergence
+converges
+regardless
+balanced
+vi
+improvement
+video
+anonymous
+suggest
+sent
+collided
+tsy80
+kazakos
+collides
+5log2
+tatives
+candi
+23number
+dershot
+astonishingly
+am94
+pervious
+likhanov
+plicity
+papantoni
+gpk82
+lyn97
+nb98
+pippenger
+matias
+tml83
+3basic
+14number
+abku99
+candidacy
+vanroose
+ruszink
+tire
+fijng
+rs
+target
+pseudo
+inaccurate
+congestion
+leaving
+5000
+received
+receives
+massey
+jargon
+georgiadis
+lps
+silence
+tracer
+therefor
+sidi
+reactivation
+nificantly
+lixia
+enyi
+responders
+members
+servers
+group
+feed
+aware
+estimating
+sender
+rom
+jjj
+popu
+erd
+1970s
+rolls
+distributively
+steep
+stayed
+azar
+elects
+1980s
+confidence
+receiver
+unknown
+successful
+spirit
+simulations
+flat
+afek
+underestimation
+depicts
+probability
+suggested
+drops
+big
+polls
+ues
+quarter
+pay
+net
+gain
+iv
+achieves
+payment
+poll
+overestimation
+dates
+occurred
+synchronous
+examined
+advertised
+formance
+framing
+decoded
+suppression
+allocations
+coins
+balls
+central
+represen
+simulation
+knows
+skip reset
+algorithm skip
+n c
+the hosts
+expected number
+users n
+of rounds
+of messages
+u 8
+the election
+reset with
+hosts is
+send reply
+send feedback
+basic algorithm
+the feedback
+of hosts
+n expected
+feedback implosion
+feedback n
+active hosts
+election process
+to elect
+the host
+with history
+one round
+n n
+than l
+of users
+feedback message
+target range
+bolot et
+if n
+t n
+elect a
+8 c
+previous round
+reset choice
+election the
+by bolot
+each host
+the expected
+multiple access
+c l
+of replies
+collision resolution
+algorithm t
+feedback is
+reset is
+a reset
+c number
+of n
+while n
+population size
+c u
+be polled
+ma networks
+multicast video
+rnd c
+multiplicity feedback
+feedback 3
+received feedback
+video distribution
+host algorithm
+n hosts
+implosion problem
+estimating n
+hosts to
+al btw94
+initialization round
+in btw94
+if rnd
+the aggressive
+1 u
+l 4
+the estimation
+this round
+a collision
+improved algorithm
+round is
+of algorithm
+transmitting entity
+successful transmissions
+c sends
+c 8
+the population
+reset when
+1 init
+init 2
+history for
+in ma
+of receivers
+the receivers
+of active
+estimation is
+algorithm that
+two rounds
+penalty of
+hosts are
+the multicast
+examined a
+6 else
+and n
+a round
+c n
+host to
+0 fig
+4 u
+of representatives
+n bits
+hosts and
+round and
+leader election
+else if
+suggest itself
+feedback messages
+reply 11
+u 10
+inaccurate estimation
+colliding hosts
+and rounds
+assumes hosts
+hosts it
+election rounds
+multicast feedback
+the idmaps
+rounds that
+central entity
+8 send
+n dependency
+6 conservative
+13 send
+pip81 rv97
+c 13
+n 500
+balanced allocation
+conservative aggressive
+avoid feedback
+9 else
+aggressive algorithm
+replies fig
+6 send
+10 send
+representatives out
+distributed leader
+maxfn n
+p rfijmg
+reply 14
+confidence simulations
+full multiplicity
+11 else
+typical rs
+7 send
+choice algorithm
+rounds skip
+like multicast
+n 5000
+feedback bounds
+else 12
+messages skip
+election message
+r received
+additional round
+t 500
+hosts this
+rounds required
+overshoot is
+choice history
+small number
+for t
+the improvement
+for typical
+n is
+for algorithm
+c 5
+l u
+round the
+for n
+the algorithm
+a pseudo
+the penalty
+8 n
+of anonymous
+messages algorithm
+else 7
+of colliding
+feedback the
+history 1
+round c
+in multicast
+15 s
+size when
+hosts may
+networks scalable
+protocols performance
+5 send
+n maxfn
+reset 1
+else 15
+with estimating
+algorithm skip reset
+number of messages
+expected number of
+number of rounds
+of users n
+if n c
+skip reset with
+users n expected
+n expected number
+the expected number
+u 8 c
+send feedback n
+n c l
+the basic algorithm
+and n n
+number of users
+reset with history
+of algorithm skip
+1 u 8
+bolot et al
+of active hosts
+number of hosts
+c n c
+l 1 u
+to elect a
+in the feedback
+number of replies
+algorithm t n
+skip reset choice
+the previous round
+n c u
+n c number
+by bolot et
+t n and
+1 n c
+n c 0
+less than l
+the number of
+c number of
+the estimation is
+in one round
+for the host
+n and n
+c 0 2
+elect a small
+the hosts to
+skip reset is
+et al btw94
+1 6 else
+basic algorithm t
+regardless of n
+feedback n c
+feedback n 1
+the feedback message
+the election the
+feedback implosion problem
+feedback 3 if
+if rnd c
+8 c 5
+for algorithm skip
+the feedback implosion
+hosts is known
+l 4 u
+with history for
+rnd c n
+multicast video distribution
+4 u 8
+received feedback 3
+when the feedback
+1 init 2
+the host algorithm
+video distribution in
+c 5 6
+2 n c
+of hosts is
+algorithm that requires
+init 2 n
+number of active
+the improvement in
+0 2 n
+n n for
+value of n
+performance of algorithm
+n n i
+the population size
+a pseudo code
+an algorithm that
+a small number
+small number of
+log n bits
+n n is
+is a need
+a need to
+of n the
+the algorithms presented
+of messages sent
+protocols performance and
+examined a model
+with history 1
+s 1 8
+a central entity
+round and n
+messages for typical
+6 conservative aggressive
+to be polled
+while n 4
+messages and rounds
+c u 10
+the target range
+for typical rs
+the distributed leader
+estimation is reduced
+l 5 send
+messages skip reset
+send reply 14
+else 12 if
+of rounds skip
+feedback the hosts
+inaccurate estimation of
+0 3 while
+host to maintain
+colliding hosts is
+for the election
+of replies fig
+send reply 11
+skip reset 1
+s 1 5
+multiplicity feedback is
+13 send reply
+feedback message to
+representatives out of
+8 n 500
+basic algorithm for
+n l 1
+number of colliding
+reply 11 else
+5 6 conservative
+active hosts this
+3 send feedback
+group of hosts
+c r received
+l 6 send
+of messages skip
+applications like multicast
+skip reset when
+for t 500
+15 s 0
+in ma networks
+around the optimum
+distributed leader election
+n hosts and
+c l 6
+model assumes hosts
+c sends the
+host algorithm skip
+control for multicast
+n dependency on
+else 7 send
+reset with estimating
+full multiplicity feedback
+r received feedback
+4 s 1
+that requires each
+access protocols performance
+of hosts may
+of successful transmissions
+multiple access protocols
+c l 5
+reply 7 s
+n c 8
+estimation of n
+of rounds that
+the choice algorithm
+else if 9
+if 9 if
+6 send reply
+anonymous networks scalable
+users n l
+12 if rnd
+will be elected
+with estimating n
+rounds to elect
+5 if n
+n c r
+avoid feedback implosion
+to avoid feedback
+u 10 send
+3 while n
+4 if n
+c g fig
+n 0 3
+9 if n
+n c 13
+suggest itself as
+1 8 else
+rounds skip reset
+n n 5000
+the aggressive algorithm
+10 send reply
+of n decreases

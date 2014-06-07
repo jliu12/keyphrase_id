@@ -1,0 +1,600 @@
+ray
+multipass
+graphics
+rays
+tracing
+gpu
+texture
+stencil
+rendering
+tracer
+fragment
+triangle
+programmable
+shadow
+caster
+voxel
+siggraph
+branching
+bandwidth
+shading
+triangles
+scenes
+textures
+streaming
+bunny
+hardware
+traversal
+casting
+whitted
+intersection
+scene
+eye
+framebuffer
+wald
+eurographics
+gpus
+passes
+grid
+kernel
+nvidia
+voxels
+stream
+instructions
+vertex
+hall
+hit
+kernels
+pipeline
+rasterization
+simd
+acceleration
+pass
+forest
+courses
+intersector
+tog
+interactive
+hanrahan
+cache
+woolley
+instruction
+ingo
+floating
+soda
+directx
+ati
+traverser
+nolan
+goodnight
+rendered
+architecture
+cliff
+carr
+shade
+geforce3
+humphreys
+2001b
+secondary
+buffer
+shader
+saarbrucken
+pixel
+intersections
+mike
+shaders
+slusallek
+grids
+pipelines
+delany
+kniss
+pat
+greg
+reflection
+color
+caching
+geometry
+philipp
+screen
+cammarano
+3d
+houston
+cpu
+oracle
+render
+luebke
+cacheable
+pierced
+accelerate
+pixels
+float
+grenoble
+photon
+stage
+visualization
+processor
+1024
+nathan
+tests
+opengl
+2003
+kill
+august
+texturing
+image
+intersect
+consumed
+programmability
+fernandez
+fetches
+3dlabs
+schmittler
+lastra
+elez
+anido
+molinov
+coombe
+purcell
+hillesland
+peercy
+8gb
+kayvon
+anselmo
+radeon
+lefohn
+tabrizi
+float4
+bolz
+inside
+chips
+parker
+simulators
+unrolling
+bounding
+rgb
+multigrid
+farmer
+fatahalian
+donner
+boulos
+sugerman
+rasterizer
+grinspun
+refraction
+westermann
+shadows
+feed
+hart
+traced
+tile
+rgba
+lewin
+wann
+grzeszczuk
+kajiya
+govindaraju
+naga
+shing
+morphosys
+culling
+architectures
+cpus
+bars
+aaron
+games
+theirs
+reading
+read
+pointer
+cast
+traverse
+brandon
+bagherzadeh
+8500
+radek
+manocha
+bounces
+texels
+shad
+sergey
+foley
+ray tracing
+graphics hardware
+the multipass
+ray triangle
+programmable graphics
+triangle intersection
+on graphics
+branching architecture
+ray tracer
+the ray
+acm siggraph
+fragment program
+graphics pipeline
+a ray
+multipass architecture
+rendering passes
+per ray
+the gpu
+eye ray
+ray casting
+ray caster
+intersection tests
+stencil buffer
+texture cache
+triangle list
+eurographics conference
+the stencil
+the branching
+secondary rays
+the fragment
+path tracing
+time ray
+siggraph 2005
+2005 courses
+siggraph eurographics
+july 31
+the scene
+acceleration data
+31 august
+courses july
+and bandwidth
+fragment programs
+vertex program
+traversal steps
+whitted ray
+shadow rays
+hardware proceedings
+of passes
+z x
+the traversal
+passes and
+texture memory
+streaming ray
+bunny ray
+inside forest
+wald et
+grid traversal
+rendering pass
+and fragment
+of ray
+interactive ray
+tracing on
+a streaming
+y z
+graphics processor
+triangle data
+ingo wald
+based ray
+the shading
+rays are
+each kernel
+tog v
+graphics tog
+the streaming
+the bandwidth
+a texture
+floating point
+the graphics
+proceedings of
+fragment processor
+eye rays
+list texture
+multipass and
+shadow casting
+shading kernel
+shadow caster
+shade hit
+path tracer
+stencil bit
+test scenes
+ray generator
+the framebuffer
+using programmable
+containing triangles
+cliff woolley
+multipass rendering
+of rendering
+on programmable
+the acm
+each ray
+for ray
+rendered at
+of rays
+and intersection
+hardware acm
+tracing and
+the grid
+soda hall
+the triangle
+pat hanrahan
+a voxel
+ray is
+the bunny
+tracer for
+instruction set
+data structures
+our system
+traversal and
+tracing in
+dynamic scenes
+computation and
+nolan goodnight
+implement ray
+inside hall
+rays generate
+forest bunny
+down inside
+scene bounding
+bit stencil
+al 2001b
+intersection kernels
+fragment kill
+greg humphreys
+outside inside
+scenes on
+hall top
+ray cast
+programmable vertex
+accelerate ray
+all scenes
+cpu based
+mike houston
+each pass
+conference on
+instructions and
+bandwidth consumed
+et al
+hardware september
+that ray
+hardware august
+august 29
+traversal stage
+2002 saarbrucken
+hardware july
+fixed function
+that voxel
+tracer on
+tracing of
+real time
+a stream
+vertex and
+graphics interface
+uniform grids
+saarbrucken germany
+program instruction
+were rendered
+bandwidth required
+philipp slusallek
+3 july
+current hardware
+02 2002
+september 01
+bandwidth requirements
+triangles in
+01 02
+hardware as
+scenes the
+simd floating
+of shading
+bandwidth ratio
+triangle rendering
+gpu implementation
+stencil value
+compute limited
+programmable shading
+on gpus
+branching architectures
+acceleration structure
+our streaming
+voxels pierced
+vertex programs
+intersection kernel
+traversal kernel
+intersection eye
+nearest intersection
+early fragment
+shading calculations
+stencil test
+active rays
+voxels containing
+programmable graphics hardware
+ray triangle intersection
+on graphics hardware
+the branching architecture
+conference on graphics
+y z x
+siggraph eurographics conference
+eurographics conference on
+the multipass architecture
+time ray tracing
+real time ray
+computation and bandwidth
+the acm siggraph
+z x y
+acm siggraph 2005
+siggraph 2005 courses
+courses july 31
+2005 courses july
+acm siggraph eurographics
+july 31 august
+the stencil buffer
+graphics hardware proceedings
+proceedings of the
+hardware proceedings of
+the fragment program
+ray tracing on
+x y z
+on programmable graphics
+vertex and fragment
+of rendering passes
+wald et al
+interactive ray tracing
+graphics tog v
+on graphics tog
+transactions on graphics
+of the acm
+graphics hardware acm
+number of passes
+the triangle list
+eye ray generator
+triangle intersection tests
+traversal and intersection
+the multipass and
+a texture cache
+triangle list texture
+streaming ray tracer
+using programmable graphics
+the ray caster
+of the ray
+ray tracing in
+ray tracer for
+the computation and
+ray tracing of
+graphics hardware to
+program instruction set
+implement ray tracing
+down inside forest
+inside forest bunny
+acceleration data structure
+our test scenes
+hall top down
+et al 2001b
+hardware acm siggraph
+on the gpu
+and intersection kernels
+top down inside
+rendering passes and
+8 bit stencil
+acceleration data structures
+in the multipass
+were rendered at
+both the multipass
+to the framebuffer
+to accelerate ray
+forest bunny ray
+whitted ray tracing
+the shading kernel
+outside inside hall
+the scene bounding
+inside hall top
+of traversal steps
+number of traversal
+scene bounding box
+the traversal stage
+august 29 30
+for ray tracing
+hardware august 29
+by a ray
+graphics hardware july
+2002 saarbrucken germany
+ray tracer on
+graphics hardware september
+02 2002 saarbrucken
+29 30 2004
+the eye ray
+september 01 02
+30 2004 grenoble
+the ray tracer
+number of rendering
+hardware september 01
+graphics hardware august
+the traversal and
+n 3 july
+the average number
+written to the
+average number of
+tog v 22
+01 02 2002
+on graphics interface
+2004 grenoble france
+simd floating point
+texture cache is
+based ray tracing
+branching architecture is
+the traversal kernel
+performed per ray
+the texture cache
+programmable graphics pipeline
+stencil bit is
+an eye ray
+bunny ray cast
+mike houston pat
+vertex program instruction
+at 1024 1024
+gpu based ray
+hit find nearest
+voxels pierced by
+of ray tracing
+in texture memory
+for the multipass
+standard graphics pipeline
+scenes were rendered
+rendered at 1024
+rays generate shade
+find nearest intersection
+the graphics processor
+whitted ray tracer
+path tracing and
+the standard graphics
+all scenes were
+generate shade hit
+early fragment kill
+the intersection kernel
+a ray triangle
+tracing of dynamic
+of our ray
+by data type
+voxels containing triangles
+programmable vertex and
+et al 2002
+shade hit find
+bit stencil value
+our ray tracer
+multipass and the
+accelerate ray tracing
+ray tracing proceedings
+houston pat hanrahan
+hardware july 26
+nearest intersection eye
+the fragment processor
+1024 1024 pixels
+bandwidth requirements of
+number of instructions
+22 n 3
+the ray casting
+in that voxel
+ray tracing and
+into the scene
+the 8 bit
+is the average
+is the cost
+et al 2000
+acm transactions on
+tracing proceedings of
+interface june 07
+for each kernel
+graphics interface june
+the bandwidth consumed
+09 2006 quebec
+broken down by
+2006 quebec canada
+requirements of our
+all the triangles
+of the 2006
+on interactive 3d
+symposium on interactive
+interactive 3d graphics
+of a ray
+and the branching
+carr et al
+nathan a carr
+the caching behavior
+and bandwidth requirements
+a stream of
+the number of
+floating point instructions
+ray tracing for
+the bandwidth required
+for the scene
+bandwidth consumed by

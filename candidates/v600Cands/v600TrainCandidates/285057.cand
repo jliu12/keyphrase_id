@@ -1,0 +1,600 @@
+ssm
+murj
+cache
+wmp
+invalidation
+caches
+reqsc
+reqoc
+protocol
+directory
+coherence
+doxmr
+nack
+expansion
+verification
+livelock
+iack
+copy
+repetition
+transition
+owner
+request
+constructors
+composite
+receives
+exclusive
+messages
+protocols
+c2
+memory
+message
+reqo
+synch1
+sack
+ownership
+constructor
+miss
+enumeration
+ch
+xownc
+fifo
+obsolete
+s3
+invalidations
+invalid
+c1
+home
+controller
+rmp
+invo
+txoi
+iacks
+pending
+reception
+s2
+livelocks
+accesses
+aborts
+machines
+fresh
+multiprocessors
+shared
+channel
+consistency
+transitions
+essential
+xc
+block
+inv
+cached
+dirty
+verifying
+s1
+inconsistency
+g2
+race
+0r
+ns
+aggregation
+transient
+requests
+g1
+containment
+symbolic
+processors
+processor
+s4
+acknowledgment
+doxmu
+qc1
+xdata
+nodata
+copies
+synchronization
+atomic
+null
+mm
+base
+sent
+js
+forwarded
+acknowledge
+invalidated
+diagram
+abstraction
+receiving
+monotonic
+jt
+expanded
+bm
+numa
+abstract
+specifies
+d1
+unspecified
+races
+xm
+reachability
+read
+issued
+cc
+explosion
+trapped
+channels
+correspondence
+es
+locked
+respond
+dill
+wmpinvo
+metastate
+txoif
+txsi
+synch2
+txos
+invalida
+updm
+transit
+usage
+d2
+manageable
+multiprocessor
+invalidate
+verifies
+idation
+inval
+detected
+stale
+visited
+typhoon
+tempest
+abstractly
+reachable
+rules
+delayed
+reach
+unlocks
+multicache
+status
+track
+progress
+s0
+empty
+verify
+postfix
+strongly
+mbytes
+deadlocks
+mp
+s6
+replacement
+instances
+sn
+sending
+entry
+si
+originated
+requester
+interleavings
+modeled
+s5
+expanding
+universe
+coincident
+counting
+verified
+write
+flash
+bits
+writes
+stanford
+event
+supplied
+latency
+star
+123
+cols
+meanwhile
+resumed
+singleton
+memory receives
+invalidation set
+global state
+essential states
+the memory
+repetition constructors
+expansion process
+exclusive copy
+state expansion
+caches in
+base machines
+the protocol
+the verification
+the ssm
+state transition
+composite states
+cache coherence
+the cache
+the state
+the invalidation
+the expansion
+state enumeration
+composite state
+write back
+an exclusive
+ssm method
+wmp f
+reqsc wmp
+cache receives
+nack f
+f reqsc
+f iack
+non fifo
+m r
+directory based
+coherence protocols
+in state
+murj system
+murj ns
+murj s
+the block
+receives the
+verification of
+memory controller
+directory entry
+state space
+machines in
+the directory
+f reqoc
+shared copy
+base machine
+global states
+t r
+symbolic state
+state s
+from caches
+state is
+read miss
+q 1
+ssm is
+protocol machine
+and aborts
+synchronization message
+data inconsistency
+ch ch
+the nack
+request for
+of essential
+s r
+of caches
+contained by
+block copy
+data f
+back message
+sending channel
+cached copy
+fifo networks
+correspondence relation
+q mm
+a livelock
+in ssm
+presence bits
+an invalidation
+memory accesses
+memory copy
+error state
+of cache
+receives and
+data consistency
+the murj
+to caches
+an owner
+copy is
+aborts the
+system model
+s 1
+data copies
+all caches
+coherence messages
+caches are
+wmp n
+iacks from
+f wmp
+sack or
+r jt
+of murj
+receiving channel
+fifo network
+null case
+r js
+i nack
+f rmp
+specifies zero
+nack cache
+in murj
+event counting
+empty invalidation
+rmp f
+f reqo
+atomic memory
+wmp nack
+receives iacks
+reqoc wmp
+complex protocols
+or multiple
+new state
+a cache
+state graph
+transition system
+in c2
+the request
+states is
+a request
+a state
+states in
+the global
+delayed consistency
+message channels
+the repetition
+of states
+transition diagram
+finite state
+memory usage
+a protocol
+cache states
+in c1
+initial state
+strongly connected
+s 2
+verification time
+state representation
+the owner
+same state
+the reqsc
+home memory
+enumeration approaches
+if caches
+zero instance
+iack f
+s 0r
+u constructor
+of ssm
+expansion steps
+copy supplied
+expansion of
+the write
+caches and
+states of
+states are
+multiple instances
+memory state
+message reception
+write miss
+states which
+cache state
+home node
+r corresponds
+state model
+a directory
+state machines
+state in
+essential state
+among global
+memory states
+enumeration method
+forwarded request
+state of
+step transition
+and memory
+the home
+copy and
+system m
+possible states
+specifies one
+between caches
+has structure
+s1 r
+cache protocols
+expansion step
+diagram is
+an exclusive copy
+the invalidation set
+the memory receives
+the global state
+the state expansion
+base machines in
+the ssm method
+for an exclusive
+state expansion process
+f reqsc wmp
+cache receives the
+the memory controller
+the expansion process
+request for an
+the verification of
+receives the nack
+a shared copy
+memory receives and
+receives and aborts
+of essential states
+when the memory
+global state transition
+caches in state
+from caches in
+and aborts the
+the write back
+cache coherence protocols
+model of figure
+write back message
+verification of cache
+set of essential
+memory receives the
+state transition system
+of m r
+or multiple instances
+the murj system
+in the expansion
+one or multiple
+of the protocol
+of cache coherence
+of the block
+symbolic state model
+a request for
+global state space
+a global state
+reqsc wmp n
+non empty invalidation
+f wmp f
+nack f wmp
+atomic memory accesses
+nack cache receives
+f rmp f
+rmp f reqsc
+iacks from caches
+nack f rmp
+receives iacks from
+data f f
+invalidation set is
+wmp f reqo
+caches in c2
+transition system m
+wmp nack f
+data inconsistency is
+f reqoc wmp
+for non fifo
+the nack cache
+s r js
+memory receives iacks
+wmp f reqoc
+reqsc wmp nack
+reqoc wmp f
+caches in c1
+the null case
+i nack f
+of base machines
+non fifo networks
+by the cache
+by the memory
+state transition diagram
+the expansion of
+in the protocol
+of global states
+one step transition
+the directory entry
+of figure 2
+the same state
+an error state
+m s 0
+q q 1
+0 a s
+aborts the request
+the protocol machine
+composite state s
+with their presence
+a non fifo
+among global states
+sent to caches
+an empty and
+aborts the reqsc
+their presence bits
+non fifo network
+state enumeration method
+t r jt
+the memory state
+hold in t
+ch ch ch
+a synchronization message
+f f reqsc
+i n data
+of caches in
+the repetition constructors
+f iack f
+m q j
+empty invalidation set
+in global state
+the memory copy
+the u constructor
+in the ssm
+the properties to
+n data f
+number of caches
+iack f iack
+m r corresponds
+block copy supplied
+state enumeration approaches
+if caches in
+fifo networks the
+copy supplied by
+the state graph
+directory based cache
+the state space
+r corresponds to
+based cache coherence
+s 0 a
+in state q
+expansion of m
+properties to verify
+transition diagram is
+system m s
+verification time and
+between caches and
+must be invalidated
+the state of
+the new state
+is strongly connected
+machines in the
+finite state machines
+verification of the
+copy of the
+1 m q
+more complex protocols
+for the verification
+to the properties
+of the state
+of the global
+state q 1
+states represented by
+applied to s
+a write miss
+the cache has
+at the memory
+represented by s
+the reception of
+s s d
+the home node
+the system model
+s 1 and
+i 1 m
+caches in the
+zero one or
+the state enumeration
+qc1 f iack
+essential states is
+c2 the memory
+event counting in
+state the block
+sack or sack
+reqsc memory receives
+machines in state
+nack memory receives
+an invalidation acknowledgment
+request memory receives
+in state c1
+memory controller receives
+presence bits set
+the reqsc memory
+the block frame
+caches are in
+of murj ns
+the memory machine
+of composite states
+specifies zero one
+miss read miss
+or sack or
+the request memory
+cache in state
+all caches in
+of the ssm
+the presence bit
+ch ch home

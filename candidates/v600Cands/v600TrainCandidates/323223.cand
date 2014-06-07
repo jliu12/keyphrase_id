@@ -1,0 +1,600 @@
+footprint
+cache
+interference
+miss
+footprints
+ry
+reuse
+misses
+references
+array
+overlap
+regions
+translation
+region
+spatial
+accessed
+32768
+16384
+analytical
+reference
+enddo
+ratio
+loop
+oe
+predicted
+associativity
+compulsory
+positions
+psfrag
+external
+group
+sharing
+wrap
+stencil
+self
+replacements
+simulation
+reusable
+dependence
+nesting
+cross
+associative
+predictions
+cylinder
+multiply
+iteration
+dependences
+caches
+fraguela
+doallo
+reused
+internal
+examined
+ejected
+areas
+accesses
+area
+prediction
+rx
+papaefstathiou
+iterations
+multiplied
+overlapping
+pong
+innermost
+multiplying
+referenced
+loops
+upsilon
+examining
+mod
+temporal
+jacobi
+predict
+circumference
+interfere
+calculating
+joe
+kernels
+calculated
+reusing
+ascending
+accessing
+distance
+pr
+position
+phenomena
+zapata
+merging
+la
+quantitative
+groups
+summation
+predicting
+modeling
+arrays
+ping
+percent
+ratios
+occurring
+ns
+modeled
+mapped
+tile
+dimensions
+entered
+2j
+interfering
+intersection
+suffered
+toolset
+fragments
+wherever
+doesn
+affecting
+2x
+repeating
+nested
+euromicro
+ffi
+arounds
+arijit
+ratios10305070900
+ivx
+00093
+dinero
+8530
+multipled
+nosc
+maxp
+blocked
+contiguous
+looping
+stride
+enumerated
+nest
+kernel
+mapping
+rotated
+accurate
+fortunately
+combined
+triples
+boundary
+warwick
+kerbyson
+renganarayana
+incom
+hanlon
+wilcox
+certainties
+obstruct
+parable
+nudd
+labeled
+validated
+definitely
+dividing
+probability
+rajopadhye
+sirable
+nestings
+167mhz
+abstractcache
+ivy
+erin
+feared
+obstructs
+descended
+widens
+locality
+subtracting
+multiplications
+mostly
+hsing
+curred
+dcs
+givargis
+disproportionate
+basilio
+tourio
+randomising
+darkly
+gulf
+element
+combinatorial
+stands
+unstable
+counting
+lakshminarayanan
+2q
+classifying
+fr
+capacity
+cumulative
+recombined
+awarded
+envisaged
+ramn
+calculation
+the cache
+miss ratio
+cache footprint
+translation group
+predicted miss
+footprint of
+n predicted
+simulation c
+ratio difference
+of cache
+loop l
+array footprint
+from simulation
+footprint region
+self interference
+difference from
+references in
+array references
+the footprint
+of loop
+oe s
+interference is
+32768 l
+16384 l
+c 16384
+footprint regions
+c 32768
+cross interference
+cache misses
+the array
+array reference
+first region
+l 32
+reference r
+external interference
+l 16
+two references
+spatial reuse
+of overlap
+spatial miss
+r x
+internal interference
+average overlap
+of elements
+oe t
+each region
+elements accessed
+the reference
+interference the
+interference on
+32 a
+iteration space
+spatial interference
+the footprints
+sharing r
+x ry
+level of
+of regions
+the level
+a reference
+cache behavior
+accessed by
+of associativity
+group dependence
+translation groups
+and ry
+size oe
+interference occurs
+overlap of
+elements in
+analytical models
+self dependence
+mod c
+footprints as
+a cache
+16 a
+cache line
+same translation
+reference s
+cache footprints
+of array
+l s
+oe k
+psfrag replacements
+loop nesting
+internal cross
+two regions
+the translation
+the area
+enddo enddo
+iteration of
+the region
+c la
+reference being
+data elements
+cache performance
+positions in
+in translation
+matrix multiply
+the spatial
+all references
+wrap around
+an array
+a footprint
+dependence reuse
+external cross
+of sharing
+being examined
+sharing between
+gives the
+the start
+c a
+the overlap
+average level
+footprint is
+single iteration
+footprints of
+each reference
+set associative
+being accessed
+the miss
+distance between
+is defined
+iterations of
+references r
+analytical model
+data accessed
+using analytical
+end positions
+single regions
+spatial self
+interference as
+theta miss
+cache boundary
+of footprint
+pong interference
+each footprint
+group dependences
+footprints the
+single area
+ry is
+q footprints
+x regions
+oe upsilon
+footprint it
+the distance
+of misses
+of interference
+the position
+cache is
+region in
+f r
+cache interference
+when modeling
+an area
+the models
+the combined
+cache to
+region is
+the loop
+reuse loop
+quantitative predictions
+associativity a
+regions oe
+found by
+the references
+actual number
+a self
+the cylinder
+interference from
+s 1
+s cache
+regions overlap
+ejected from
+reuse occurs
+other translation
+total number
+first element
+a 4
+the average
+is greater
+ratio due
+multiplied by
+reuse and
+defined as
+associative caches
+4 n
+greater than
+position c
+b fraguela
+interference are
+area i
+numerical order
+of size
+containing x
+is found
+same cache
+group is
+examining the
+compulsory misses
+predicted miss ratio
+difference from simulation
+ratio difference from
+n predicted miss
+miss ratio difference
+the cache footprint
+from simulation c
+cache footprint of
+of loop l
+footprint of the
+of cache misses
+level of overlap
+number of cache
+of the cache
+number of elements
+16384 l 32
+l 32 a
+l 16 a
+the array footprint
+simulation c 32768
+32768 l 16
+c 32768 l
+c 16384 l
+loop l s
+the translation group
+spatial miss ratio
+level of associativity
+iteration of loop
+the level of
+the first region
+the spatial miss
+the number of
+oe s 1
+f r x
+interference on a
+into the cache
+1 n predicted
+in the footprint
+r x ry
+simulation c 16384
+2 n predicted
+4 n predicted
+a 4 n
+of size oe
+than the level
+iterations of loop
+references in the
+of each region
+an array reference
+the footprint of
+x and ry
+of sharing between
+greater than the
+of elements in
+a self dependence
+each region in
+the same translation
+same translation group
+internal cross interference
+the two references
+a reference r
+of array references
+a 1 n
+r x and
+in the area
+for a reference
+a 2 n
+single iteration of
+array footprint of
+the average level
+sharing r x
+mod c a
+the average overlap
+oe s from
+average overlap of
+footprint of each
+sequence of regions
+s cache footprint
+of the translation
+array references in
+the cache is
+external cross interference
+overlap of a
+translation group is
+average level of
+size oe s
+is defined as
+in the cache
+a single iteration
+of a reference
+region in the
+number of regions
+loop l is
+area of size
+by the reference
+the miss ratio
+the iteration space
+the array reference
+all references in
+elements in the
+number of misses
+data accessed by
+by the number
+the total number
+multiplied by the
+references in a
+total number of
+oe k 1
+gives the total
+defined by the
+containing x regions
+each footprint region
+spatial self interference
+ping pong interference
+32 a 4
+types of area
+predictions of miss
+the reference being
+first region to
+reference r the
+position c a
+elements accessed on
+number of footprint
+loop on which
+a footprint region
+group for a
+translation group for
+of cache reuse
+loop l g
+l is entered
+cache footprint is
+reference r i
+references in translation
+32 a 2
+of miss ratio
+reference being examined
+the area i
+16 a 1
+the cache boundary
+16 a 2
+a single area
+32 a 1
+size oe k
+16 a 4
+accessed by the
+is found by
+section 3 1
+is greater than
+the cache to
+the position of
+is defined by
+cache behavior of
+elements in a
+actual number of
+the actual number
+number of references
+the distance between
+the cache behavior
+of overlap is
+number of reusable
+the reference s
+accessed by r
+around the end
+to self interference
+find the average
+a loop nesting
+miss ratio due
+areas of size
+group dependence reuse
+a translation group
+on a self
+using analytical models
+of elements accessed
+a group dependence
+set associative caches
+a cache line
+access the same
+sharing between the
+miss ratio and
+footprint of a
+map into the
+t oe t
+ejected from the
+analytical models of
+on the cache
+the start and
+position of the
+the start of
+s from the
+start and end
+ratio due to
+the loop nesting
+x gives the
+cache performance is
+the matrix multiply
+area i e
+of the area
+analytical modeling of
+wrap around the
+of each reference

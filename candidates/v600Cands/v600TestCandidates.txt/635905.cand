@@ -1,0 +1,600 @@
+bdy
+frontwidth
+fem
+boundary
+stiness
+cholesky
+jv
+numbering
+meshes
+dissection
+partitioning
+mesh
+concentrated
+shape
+subdomains
+dist
+factorization
+jvj
+steklov
+balanced
+geometric
+bem
+nnz
+poincare
+frontwidths
+chol
+vn
+dirichlet
+regularity
+hp
+cone
+denition
+neumann
+ops
+fk
+nested
+sparsity
+triangle
+psfrag
+rened
+recursion
+tn
+dene
+yn
+k2t
+remark
+fig
+proposition
+neighbor
+matrix
+bsp
+subdomain
+denite
+replacements
+sparse
+vectors
+triangulation
+elliptic
+conrm
+freedom
+edge
+log
+assembling
+schur
+polylogarithmically
+dims
+dimvn
+degrees
+triangulations
+degree
+hk
+interior
+supp
+clover
+k2k
+cients
+coe
+satised
+figs
+vertex
+2d
+storage
+unknowns
+fe
+spaces
+analytic
+lemma
+verbatim
+exposition
+jx
+nn
+operator
+submatrices
+delaunay
+preconditioner
+slope
+cient
+rst
+estimates
+nite
+tangential
+oating
+un
+center
+dened
+estimate
+solver
+toward
+square
+smooth
+vertices
+eectiveness
+sup
+cn
+thick
+vanish
+polynomial
+nodes
+variational
+numerical
+symmetric
+neighbors
+multiplications
+uniformly
+expect
+118
+guidelines
+arising
+cf
+mixed
+internal
+multiplicity
+node
+529340
+cjvj
+shewchuck
+4079
+analyticity
+nlog4n
+bdya
+264600
+holdsjv
+v2en
+2022
+columnwise
+trefethen
+fhx
+cea
+profs
+barycenter
+withanitedimensionalsubspace
+dumbbell
+njg
+262144
+cuthill
+diamk
+nlog8n
+picture
+logarithmic
+trace
+complement
+200
+ll
+violated
+vector
+triangles
+ciently
+enumerate
+visible
+element
+refinement
+motivates
+131072
+hanging
+poole
+ruppert
+kuk
+inmum
+mckee
+hackbusch
+approximation
+median
+collected
+constants
+mention
+quasi
+realization
+rigorous
+numerically
+justies
+legendre
+coercivity
+577
+lef
+equilateral
+sobolev
+1043
+associate
+suited
+splits
+shape functions
+boundary concentrated
+concentrated fem
+algorithm 3
+the boundary
+stiness matrix
+nested dissection
+the stiness
+linear degree
+geometric meshes
+the frontwidth
+geometric mesh
+the partitioning
+the cholesky
+cholesky factorization
+1 balanced
+partitioning vector
+partitioning vectors
+degree vector
+vectors t
+cone condition
+jv bdy
+3 10
+3 9
+polynomial degree
+v bdy
+v left
+internal shape
+vector t
+example 4
+element k
+shape function
+v right
+poincare steklov
+denition 2
+size h
+hp fem
+sparsity pattern
+boundary mesh
+the recursion
+partitioning strategy
+dist x
+a geometric
+q balanced
+fem in
+frontwidth a
+degree vectors
+t chol
+remark 3
+mesh size
+a neighbor
+mesh with
+boundary conditions
+2 7
+node numbering
+binary space
+examples 4
+meshes and
+the cone
+lemma 3
+proposition 3
+t i
+the numbering
+jv j
+steklov operator
+right j
+bdy j
+bdy the
+a jv
+the poincare
+rened toward
+edge shape
+dist dist
+side shape
+a bdy
+ops t
+for triangle
+neighbor in
+element method
+factorization of
+space partitioning
+with boundary
+nodes v
+log 2
+functions associated
+in example
+psfrag replacements
+subdomains i
+factorization scheme
+dissection algorithm
+in view
+condition 3
+mesh t
+the hp
+symmetric positive
+of partitioning
+of freedom
+cholesky factor
+balanced for
+nite element
+of nodes
+space s
+numbering of
+the shape
+3 12
+dirichlet problem
+logarithmic complexity
+reference element
+left v
+the frontwidths
+analytic on
+bdy starting
+nnz and
+dissection v
+fem we
+the bem
+vertex shape
+n frontwidth
+chol sec
+k bdy
+frontwidth to
+direct solver
+solution u
+function associated
+the subdomains
+in fig
+3 8
+of denition
+storage requirement
+positive denite
+3 4
+example 3
+standard basis
+then dene
+boundary shape
+mixed boundary
+r nn
+j jv
+numbering scheme
+slope 0
+the schur
+linear logarithmic
+edge e
+see fig
+degrees of
+t be
+of v
+of boundary
+the constants
+degree p
+jv i
+figs 5
+triangle s
+balanced in
+schur complement
+in h
+node v
+2 0
+points on
+a boundary
+number n
+let t
+problem size
+of geometric
+2 n
+the dirichlet
+boundary point
+meshes that
+sets v
+pattern of
+2 4
+3 11
+the storage
+partitioning in
+the nodes
+n 0
+chosen such
+toward a
+view of
+the element
+with slope
+and work
+log 4
+half spaces
+in examples
+the triangulation
+point b
+theorem 2
+n log
+scheme for
+by algorithm
+the meshes
+our procedure
+functions i
+log n
+the solution
+functions is
+left and
+of lemma
+coe cients
+boundary concentrated fem
+the boundary concentrated
+the stiness matrix
+algorithm 3 10
+of the stiness
+algorithm 3 9
+a geometric mesh
+the cholesky factorization
+linear degree vector
+vectors t i
+partitioning vectors t
+algorithm 3 2
+the cone condition
+lemma 3 4
+of the recursion
+be a geometric
+boundary mesh size
+geometric meshes and
+neighbor in h
+mesh size h
+denition 2 7
+a neighbor in
+condition 3 9
+linear degree vectors
+geometric mesh with
+shape functions associated
+cone condition 3
+mesh with boundary
+with boundary mesh
+binary space partitioning
+internal shape functions
+partitioning vector t
+concentrated fem in
+a linear degree
+theorem 2 4
+has a neighbor
+in the boundary
+sparsity pattern of
+on the boundary
+factorization of the
+cholesky factorization of
+scheme for the
+and linear degree
+vector t i
+frontwidth a of
+the partitioning vectors
+subdomains i and
+meshes and linear
+shape function associated
+nested dissection algorithm
+ops t chol
+the poincare steklov
+the internal shape
+be 1 balanced
+the frontwidth a
+stiness matrix a
+side shape functions
+shape functions is
+of geometric meshes
+the partitioning vector
+poincare steklov operator
+jv bdy j
+number n 0
+that a jv
+functions associated with
+in view of
+be a linear
+for the cholesky
+the shape functions
+log 2 n
+degrees of freedom
+let t be
+example 4 3
+of lemma 3
+t be a
+for the boundary
+by algorithm 3
+on the reference
+of the partitioning
+sense of denition
+examples 4 1
+in algorithm 3
+in example 3
+function associated with
+the solution u
+symmetric positive denite
+linear logarithmic complexity
+the reference element
+concentrated fem we
+the geometric mesh
+results are collected
+of denition 2
+the frontwidth to
+triangle s output
+of v bdy
+the side shape
+the space s
+with slope 0
+reference element k
+a polynomial degree
+the partitioning in
+v left v
+describing the geometric
+the dirichlet problem
+expect the frontwidth
+jv j h
+collected in table
+factorization scheme for
+and partitioning vectors
+associated with edge
+are collected in
+left v right
+t chol sec
+nested dissection v
+standard basis in
+with edge e
+rened toward a
+edge shape functions
+h g has
+cholesky factorization scheme
+a standard basis
+v bdy starting
+picture of fig
+log n frontwidth
+a jv bdy
+for triangle s
+frontwidth to be
+j h 1
+with linear logarithmic
+figs 5 6
+the partitioning strategy
+example 4 5
+of fig 3
+2 0 1
+a basis of
+numbering of the
+in examples 4
+2 n figure
+mixed boundary conditions
+example 3 11
+2 r nn
+in h g
+the schur complement
+a node v
+in example 4
+proposition 3 1
+set of nodes
+the problem size
+the nite element
+problem 2 1
+points in space
+assign to the
+o log 2
+example 3 3
+we expect the
+1 4 2
+the constants c
+we assign to
+the cholesky factor
+arising in the
+near the boundary
+on a domain
+4 1 4
+example 4 1
+chosen such that
+and the constants
+the storage requirement
+in lemma 3
+denote by v
+proposition 3 6
+o n log
+to the case
+a 2 r
+of the nite
+g has a
+system of linear
+of a node
+at each stage
+as in example
+finite element method
+of linear equations
+denition 2 1
+bdy the partitioning
+psfrag replacements x
+shape functions v
+to their multiplicity
+choice of partitioning
+the linear degree
+the number return
+if v left
+requirements nnz and
+clover leaf log
+replace the square
+however that an
+jv bdy the
+the hp fem
+if supp consists
+on geometric meshes
+10 are chosen
+cholesky factor l

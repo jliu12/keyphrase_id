@@ -1,0 +1,600 @@
+slap
+dft
+uh
+image
+scan
+hulls
+pixel
+processor
+convolution
+hull
+idft
+tangent
+pixels
+array
+jbj
+slope
+candidate
+simd
+median
+processors
+subimages
+label
+extreme
+shrinking
+subsequence
+convex
+shuffled
+histogram
+2m
+dct
+pass
+theta
+log
+monotonically
+njbj
+template
+filtering
+columns
+preprocessing
+labels
+merging
+segment
+latency
+2d
+pa
+completed
+pipelining
+row
+projection
+sweeps
+intermediate
+window
+pyramidal
+lie
+mimd
+subsequences
+papia
+dpb
+netra
+psubimages
+sarnoff
+pw
+jaj
+conquer
+00
+block
+perpendicular
+sweep
+pb
+dfts
+gam
+divide
+neighbors
+mesh
+column
+coordinates
+drawn
+maspar
+architecture
+asp
+statistic
+angle
+passes
+indexed
+mod
+steeper
+across
+rm
+engine
+translation
+bandwidth
+massively
+circular
+hough
+insures
+tasks
+kernel
+padded
+broadcasts
+princeton
+merge
+df
+predecessor
+labelling
+pad
+connected
+stream
+fp
+blocks
+succeeding
+geometric
+accomplished
+examines
+pyramid
+1k
+divides
+successor
+pl
+multiplication
+uh1
+clipp
+okazaki
+sanso
+arai
+reyneri
+clip7a
+shorin
+iua
+gapp
+tamio
+th
+expanding
+repetitions
+favorably
+received
+decreasing
+matching
+neighborhoods
+demanding
+queue
+expansion
+centered
+disadvantage
+passing
+architectures
+lfloor
+rfloor
+digitalized
+progressively
+polygon
+draws
+spans
+governed
+microcomputer
+kyo
+ichiro
+repectively
+gregoretti
+analogous
+transform
+lies
+recursively
+dap
+compensations
+hdtv
+passerone
+relocates
+concatenations
+develop
+connecting
+labelled
+surrounding
+arrays
+positions
+carrying
+shift
+recurrence
+overlapping
+eliminating
+belong
+elaborate
+mpp
+interconnection
+fourier
+labeled
+identically
+clarity
+omega
+handwriting
+uppermost
+insuring
+convolve
+unconnected
+180
+sorting
+pictured
+frames
+respective
+outputs
+ffi
+scan line
+m operations
+processor p
+per scan
+input image
+o n
+p k
+each processor
+o m
+p p
+image x
+uh 1
+extreme points
+n theta
+intermediate level
+theta n
+the slap
+uh 2
+operations per
+candidate point
+n time
+right pass
+and uh
+a slap
+slap with
+p l
+theta m
+upper hulls
+image processing
+processor array
+candidate points
+upper hull
+in o
+line array
+2d dft
+the image
+real time
+scan lines
+hulls of
+the slope
+level image
+convex hulls
+dft of
+m theta
+block dft
+two subimages
+of o
+n image
+median filtering
+line segment
+level operations
+n log
+pixel j
+slope of
+n processors
+of size
+each label
+p t
+connected components
+log n
+x 00
+the idft
+shrinking and
+major distribution
+pass across
+dft x
+the line
+size n
+gamma 1
+per processor
+each pixel
+to right
+shuffled row
+tangent p
+columns n
+m c
+m time
+array processor
+column per
+of dft
+through n
+a latency
+n input
+the convex
+template matching
+n labels
+across the
+size m
+and intermediate
+00 a
+n gamma
+m scan
+point pa
+left pass
+idft of
+jbj columns
+tangent drawn
+circular convolution
+pa must
+linear array
+hence we
+must lie
+distributed one
+segment p
+left to
+projection of
+the processor
+the tangent
+output image
+m step
+image of
+m gamma
+to left
+the connected
+mod m
+the upper
+latency of
+convolution of
+the extreme
+p i
+points which
+than o
+j k
+the median
+log m
+the shuffled
+right to
+the coordinates
+angle formed
+convex hull
+log 2
+the m
+low and
+points of
+theorem theorem
+m blocks
+an n
+a cost
+coordinates of
+n through
+by pipelining
+one column
+row major
+labels the
+almost real
+subimages x
+level tasks
+histogram computation
+step shrinking
+previous left
+queue k
+labeled sets
+possible pixel
+statistic tree
+in real
+of columns
+the projection
+time image
+o log
+l g
+also develop
+the dft
+drawn by
+be completed
+the pixels
+points p
+convolution and
+a scan
+p a
+line and
+of extreme
+that label
+on or
+global communication
+this pyramidal
+hull to
+our divide
+k broadcasts
+kernel w
+an image
+p u
+completed in
+running time
+pixel values
+low level
+s p
+monotonically increasing
+the window
+assume for
+a b
+p b
+m log
+any three
+with n
+possible labels
+image y
+columns 0
+points fp
+order statistic
+jbj n
+processor p k
+p p l
+per scan line
+each processor p
+o m operations
+operations per scan
+m operations per
+n theta n
+to right pass
+and uh 2
+a slap with
+slap with n
+1 and uh
+input image x
+of o m
+the processor array
+across the processor
+uh 1 and
+image of size
+in o n
+m theta m
+size n theta
+scan line array
+level image processing
+extreme points of
+through n gamma
+n input image
+given a slap
+the line segment
+with n processors
+o n log
+the extreme points
+theta n input
+theta n image
+size m theta
+x 00 a
+p l g
+and intermediate level
+00 a b
+scan line and
+low and intermediate
+of p p
+for each label
+and a latency
+the slope of
+of size n
+the convex hulls
+input image of
+an n theta
+the input image
+real time at
+convex hulls of
+a latency of
+n log 2
+left to right
+distributed one column
+intermediate level operations
+row major distribution
+tangent p p
+intermediate level image
+dft x 00
+o n labels
+of dft x
+line and a
+o n time
+time at a
+of size m
+line segment p
+column per processor
+line array processor
+shuffled row major
+an input image
+more than o
+m gamma 1
+the connected components
+the upper hull
+one column per
+the n theta
+log 2 n
+2 n time
+of the convex
+in real time
+n gamma 1
+cost of o
+x j k
+projection of p
+processors and an
+the m step
+right to left
+the upper hulls
+one of o
+columns n through
+the block dft
+half the slope
+l p t
+k m c
+to left pass
+time image processing
+n through n
+b k m
+a scan line
+m scan lines
+candidate point p
+tangent drawn by
+pass across the
+on the slap
+of candidate points
+the idft of
+theta m blocks
+the tangent drawn
+p p i
+n processors and
+p p a
+points of the
+can be completed
+at a cost
+the coordinates of
+following theorem theorem
+the projection of
+the o n
+a p b
+the shuffled row
+determine the extreme
+consists of columns
+the candidate point
+p a p
+a cost of
+hence we have
+in o m
+the scan line
+rate of o
+than o m
+lie on or
+the output image
+1 p k
+be completed in
+and an input
+the angle formed
+of extreme points
+angle formed by
+p u p
+each processor can
+on the running
+m log m
+o m log
+of the image
+of the o
+o log n
+u p v
+of an n
+n log n
+completed in o
+n time to
+real time image
+time each processor
+we also develop
+p l p
+p k broadcasts
+point pa must
+order statistic tree
+k mod m
+pa must lie
+labeled sets in
+candidate points which
+l g must
+log m operations
+segment p p
+o n possible
+on or above
+almost real time
+the two subimages
+image x is
+of columns n
+shrinking and expanding
+idft of dft
+n labels the
+two subimages x
+intermediate level tasks
+image x into
+each candidate point
+previous left to
+into two subimages
+in almost real
+mod m th
+subimages x 1
+each label we
+along the coordinates
+level operations we
+0 through n
+by any three
+any three consecutive
+pixel x j
+p l f
+the previous left
+of the idft
+columns 0 through
+c theta m
+m c theta
+for intermediate level
+assume for our

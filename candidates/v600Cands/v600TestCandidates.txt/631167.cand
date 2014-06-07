@@ -1,0 +1,600 @@
+freshness
+harmonicity
+atg
+utilization
+periods
+producer
+consumer
+tasks
+period
+deadlines
+offsets
+sampler
+pruning
+deadline
+timing
+correlation
+separation
+correlated
+offset
+inputs
+intermediate
+solver
+chain
+foreach
+task
+precedence
+constraints
+lcm
+priority
+producers
+scheduling
+channels
+consumers
+constraint
+preemptive
+feasible
+asynchronous
+schedulability
+restructuring
+rates
+tightened
+10ms
+jt
+buffer
+allowable
+dinesh
+ramanathan
+phi
+40ms
+outputs
+rajesh
+periodic
+reads
+tightly
+seongsoo
+dasdan
+gerber
+assignment
+window
+feasibility
+chains
+external
+engineers
+succ
+harmonic
+replication
+writer
+sampling
+gcd
+possess
+bottlenecks
+schedulable
+writes
+read
+samples
+correlate
+subsystems
+shadow
+cpu
+tight
+driven
+derivation
+saksena
+30ms
+7619
+ladan
+d2
+polytope
+requirements
+channel
+successors
+elimination
+sampled
+rate
+macros
+possesses
+gupta
+slack
+ingredients
+esterel
+avionics
+minsoo
+braberman
+venture
+80ms
+fabricated
+blocking
+schedule
+imposed
+slots
+ali
+automation
+merging
+compiler
+delivered
+rtl
+blown
+ipc
+linearities
+synthesizing
+kang
+constrains
+scheduler
+buffers
+guaranteeing
+dm
+circularly
+confluence
+ryu
+codesign
+solutions
+tool
+outputting
+revisit
+looser
+stamps
+jx
+d1
+rendered
+earliest
+handful
+mandate
+dispatching
+drift
+delay
+tighten
+vastly
+aggressively
+temporally
+eliminating
+exclusively
+head
+impose
+dong
+instantiates
+parent
+latest
+allocation
+item
+thumb
+eliminated
+reactive
+child
+restrictions
+outgoing
+burns
+subgraph
+simplification
+perhaps
+calibration
+slicing
+objective
+imposing
+buffered
+constituent
+replicating
+jeff
+constraining
+bill
+predecessors
+hong
+designs
+replicate
+accommodate
+transformed
+analogue
+robotics
+42
+deriving
+constrained
+merged
+restricting
+greatest
+instantiate
+hopefully
+coupled
+denoting
+nonlinear
+temperature
+synthesis
+task graph
+end constraints
+to end
+end to
+intermediate constraints
+separation constraints
+freshness constraints
+real time
+a task
+the atg
+the harmonicity
+constraint solver
+i s
+producer consumer
+task i
+t i
+offsets and
+correlated inputs
+the freshness
+end requirements
+each task
+the constraint
+the intermediate
+timing constraints
+and deadlines
+o i
+correlation constraints
+the periods
+constraint set
+task s
+the task
+the tasks
+solution space
+the t
+and offsets
+restructuring tool
+period variables
+atg s
+freshness and
+constraints are
+the utilization
+w 4
+deadlines and
+task set
+time systems
+external inputs
+and separation
+assignment algorithm
+data object
+output y
+a producer
+the sampler
+variable elimination
+different rates
+consumer pair
+tightly correlated
+output tasks
+parent pruning
+sampler s
+lcm child
+output task
+period assignment
+asynchronous task
+child pruning
+gcd parent
+constraint derivation
+u min
+buffer allocation
+period t
+hard real
+y 1
+the producer
+the end
+a period
+f y
+our example
+constraints on
+the constraints
+dinesh ramanathan
+static priority
+correlated data
+utilization bound
+task periods
+a freshness
+example application
+the period
+a solution
+correlation and
+4 s
+delivered at
+execution time
+d i
+tasks which
+offset and
+ffl a
+search space
+linear constraints
+ensure that
+feasible set
+fully periodic
+from slots
+consumer task
+timing parameters
+slots 0
+harmonicity assumptions
+pruning takes
+succ i
+harmonic chain
+d2 6
+solution strategy
+intermediate task
+virtual sequence
+harmonicity constraints
+sampler task
+harmonicity relationship
+deadline variables
+constraint assignment
+chain merging
+output separation
+intermediate tasks
+foreach t
+free variables
+the derived
+of constraints
+the precedence
+constraints c
+t 4
+inputs and
+constraints may
+and writes
+constraints for
+compiler tool
+min u
+following ingredients
+maximum execution
+s period
+derivation algorithm
+rajesh k
+k gupta
+timing driven
+seongsoo hong
+candidate solutions
+jt 2
+ali dasdan
+the window
+of intermediate
+the deadline
+the system
+the consumers
+compute y
+minimum rate
+the offsets
+phi i
+object d
+s l
+design automation
+input x
+to c
+the feasible
+constraints which
+and deadline
+simple fact
+outgoing edge
+on task
+reduced set
+cpu utilization
+periods for
+a utilization
+feasible schedule
+the search
+the scheduler
+the chain
+is delivered
+tasks 4
+are sampled
+integer solutions
+small example
+d1 d2
+algorithm fails
+fixed priority
+as possible
+set c
+constraints the
+tasks and
+reads and
+tasks are
+the consumer
+the shadow
+time tasks
+deadline and
+the deadlines
+the separation
+constraints and
+to y
+assign the
+with period
+deadline for
+time scheduling
+the buffer
+the head
+end to end
+to end constraints
+the end to
+t i s
+the constraint solver
+the t i
+offsets and deadlines
+a task graph
+to end requirements
+the intermediate constraints
+i s and
+o i s
+for each task
+and d i
+s and d
+real time systems
+d i s
+the task graph
+constraint set c
+hard real time
+producer consumer pair
+asynchronous task graph
+of the atg
+lcm child pruning
+gcd parent pruning
+the separation constraints
+deadlines and offsets
+the atg s
+solution to c
+period t i
+the example application
+for the t
+3 5 6
+set of constraints
+i s we
+data object d
+external inputs and
+the harmonicity relationship
+intermediate constraints and
+offset and deadline
+the constraint derivation
+the freshness and
+d1 d2 6
+s period is
+set of intermediate
+window of execution
+tasks 4 and
+the assignment algorithm
+the o i
+y is delivered
+and deadline variables
+is delivered at
+constraint derivation algorithm
+from slots 0
+a minimum rate
+freshness and separation
+harmonic chain merging
+the search space
+task graph with
+to compute y
+the utilization bound
+f y 1
+a task i
+on the utilization
+the constraint set
+rajesh k gupta
+the following ingredients
+maximum execution time
+at this point
+as possible and
+inputs and outputs
+the window of
+a producer consumer
+a small example
+and a maximum
+reads and writes
+for the intermediate
+non linear constraints
+in a hard
+through the system
+a hard real
+linear constraints on
+of the task
+finding a solution
+values for the
+real time tasks
+real time scheduling
+read and write
+much as possible
+interval of time
+x to y
+minimum rate of
+precedence requirement is
+the period variables
+task periods and
+atg s structure
+end requirements we
+within t when
+intermediate constraint assignment
+to end timing
+of intermediate constraints
+separation constraints will
+delivered at time
+dasdan dinesh ramanathan
+the buffer allocation
+and deadlines and
+utilization based pruning
+on task periods
+sampling of x
+of the periods
+windows for each
+straightforward priority assignment
+set of asynchronous
+a single outgoing
+a single cpu
+end requirements into
+o i and
+single outgoing edge
+base clock rate
+from the harmonicity
+period variables and
+running at different
+sampler s l
+edge in figure
+constraint w 4
+2 jt 1
+real time designs
+the intermediate components
+consider a task
+t 2 jt
+correlation and allowable
+original task graph
+jt 2 and
+the intermediate tasks
+of efficient scheduling
+the derived constraints
+burns et al
+a straightforward priority
+i s hence
+in the analogue
+if a task
+s o i
+separation constraints for
+different rates and
+intermediate constraints c
+correlation constraints may
+u min u
+then the x
+each output task
+be subject to
+foreach t l
+the harmonicity assumption
+periods offsets and
+each task s
+victor a braberman
+be if y
+tightly correlated inputs
+denote this constraint
+1999 dinesh ramanathan
+this simple fact
+systems external inputs
+real time producer
+the analogue to
+the output task
+the last intermediate
+the periods deadlines
+end constraints are
+deadline and period
+the tasks that
+thus the separation
+with period t
+search time required
+reader may use
+is then re
+producer consumer pairs
+a maximum rate
+for example y
+and separation constraints
+graph and b
+example application from
+y latest y
+freshness constraints the
+ali dasdan dinesh
+output tasks 4
+n dimensional polytope
+task s period
+priority based scheduling
+sampler task s
+re submitted into
+s sampling of
+after the buffer
+the entity relationships
+periods deadlines and
+solved for the
+child pruning in
+freshness and correlation
+transmission time is
+the windows for
+constraint solver in
+for the o

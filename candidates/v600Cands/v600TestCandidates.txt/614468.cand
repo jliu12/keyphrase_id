@@ -1,0 +1,600 @@
+radiosity
+illumination
+scene
+patch
+texture
+light
+unoccluded
+shadows
+textures
+shadow
+virtual
+relighting
+reflectance
+radiance
+patches
+lighting
+visibility
+photographs
+lights
+irradiance
+subdivision
+occluded
+interactive
+correction
+refinement
+color
+frontier
+rendering
+reconstruction
+bi
+scenes
+images
+display
+mesh
+links
+modulated
+intensity
+sources
+blocked
+fis
+preprocess
+intensities
+hierarchy
+reflectances
+debevec
+interactively
+photograph
+emittance
+ei
+visible
+diffuse
+modulation
+reprojection
+insertion
+calibration
+modification
+reality
+mosaics
+reprojected
+imag
+regions
+rgb
+3d
+darker
+eq
+camera
+vision
+tex
+image
+switched
+outdoors
+modulating
+corr
+casting
+objects
+augmented
+subdivided
+off
+pixel
+graphics
+subdivide
+viewpoint
+ray
+floor
+modulate
+orange
+virtually
+inserted
+totalcalib
+loscos
+tvcg00
+quicktime
+frs
+reproject
+exchanges
+source
+boundaries
+polygons
+preprocessing
+geometric
+inter
+reconstructed
+indoors
+imagis
+occlusion
+polygon
+hierarchical
+pull
+attenuation
+geometry
+indirect
+leaves
+registration
+projected
+video
+manually
+final
+environments
+specular
+modifications
+switch
+extracted
+wall
+sec
+photo
+modify
+onto
+di
+publications
+inaccuracies
+colors
+lumination
+rekon
+photos
+flectance
+finement
+bfv
+fournier
+mincolor
+mindistance
+distancecolor
+effects
+viewpoints
+invisible
+ev
+2t
+red
+push
+secondary
+poulin
+shaft
+onyx2
+occluders
+quadtrees
+polyhedra
+insert
+progressive
+passive
+refine
+creation
+object
+estimated
+coarser
+reference
+fr
+modifica
+soler
+cyril
+mosaic
+illuminate
+ture
+correspondences
+leaf
+epipolar
+convincing
+sillion
+updates
+appropriately
+ratio
+removal
+cast
+bf
+lit
+opengl
+bright
+notably
+world
+clusters
+turned
+inria
+recovering
+removed
+adapted
+limitation
+exposure
+solu
+accurate
+tracing
+gather
+heuristic
+real scene
+virtual objects
+virtual light
+common illumination
+the radiosity
+the texture
+virtual object
+light source
+light sources
+unoccluded illumination
+the real
+the scene
+hierarchical radiosity
+and virtual
+the patch
+correction factor
+patch i
+real light
+texture t
+reference patch
+shadow boundaries
+radiosity solution
+scene is
+augmented reality
+blocked light
+in shadow
+the unoccluded
+real and
+texture based
+a virtual
+real shadows
+radiosity system
+real objects
+based refinement
+modulated by
+of real
+the illumination
+radiance images
+patch hierarchy
+illumination effects
+shadows are
+switched off
+real scenes
+the visibility
+the light
+the textures
+global illumination
+of virtual
+illumination textures
+virtual lights
+original texture
+form factor
+bi di
+display correction
+two patches
+the occluded
+the color
+the display
+insertion of
+each patch
+the insertion
+lighting conditions
+dynamic range
+of radiosity
+left light
+reflectance values
+virtual and
+illumination of
+textures the
+form factors
+real lights
+new reflectance
+visibility information
+hand light
+heuristic correction
+lights and
+using radiance
+right light
+a radiosity
+intensity of
+reconstruction of
+vision based
+the frontier
+multi pass
+the subdivision
+a original
+light is
+a patch
+scene the
+scene and
+switch off
+of shadow
+the reflectance
+the patches
+the shadow
+color of
+the virtual
+light has
+radiosity to
+interactive relighting
+additional irradiance
+new texture
+radiosity in
+modulating the
+light intensities
+current radiosity
+radiosity step
+high dynamic
+irradiance is
+illumination for
+passive links
+of unoccluded
+debevec et
+occluded patch
+radiosity value
+in blocked
+virtual source
+shadows from
+from photographs
+unoccluded patches
+patch is
+illumination tex
+radiosity bi
+the orange
+mesh subdivision
+illumination we
+virtual sources
+illumination between
+visibility type
+of debevec
+shadow regions
+video sequences
+objects into
+real world
+the intensity
+off the
+the blocked
+scene we
+figure 20
+viewed from
+inserted into
+in figure
+modification of
+b c
+for shadow
+sec 0
+resulting texture
+of patch
+interactive modification
+illumination and
+scene using
+geometric model
+illumination is
+the floor
+the preprocess
+computer graphics
+from real
+subdivision and
+effects such
+push pull
+different lighting
+adding in
+source we
+between real
+the original
+a real
+c d
+ray casting
+patch in
+the hierarchy
+all links
+leaves of
+subdivision the
+3d model
+b figure
+a b
+links are
+the emittance
+www imagis
+illumination texture
+fis s
+shadow calculations
+loscos tvcg00
+texture modification
+light exchanges
+insert virtual
+imagis imag
+for indoors
+similar color
+original photographs
+illumination as
+publications loscos
+for radiosity
+dynamic object
+as shadows
+from textures
+patch r
+source intensities
+pass display
+original illumination
+the real scene
+real and virtual
+of the real
+texture based refinement
+a real scene
+virtual light source
+of the scene
+a virtual light
+and virtual objects
+the unoccluded illumination
+the patch hierarchy
+a virtual object
+unoccluded illumination textures
+real scene is
+modulated by the
+by the ratio
+shown in figure
+the insertion of
+of the radiosity
+display correction factor
+common illumination effects
+the radiosity solution
+and virtual light
+real light sources
+left hand light
+the light sources
+the reference patch
+virtual light sources
+of the patch
+a b c
+method of 8
+into a real
+b c d
+real scene using
+modification of real
+the blocked light
+debevec et al
+in blocked light
+radiosity solution is
+the illumination of
+virtual lights and
+unoccluded illumination tex
+real scene the
+for shadow boundaries
+high dynamic range
+virtual and real
+insertion of virtual
+of real objects
+the form factor
+on the floor
+of real scenes
+of each patch
+the radiosity system
+viewed from our
+intensity of the
+the color of
+a b figure
+the intensity of
+between real and
+if i has
+the resulting texture
+leaves of the
+effects such as
+of the texture
+of the light
+the scene is
+shadow due to
+we modulate the
+inserted into a
+virtual objects in
+in the radiosity
+resulting texture t
+the additional irradiance
+real world textures
+workshop on rendering
+is modulated by
+at 3 frames
+2 sec 0
+a heuristic correction
+textures extracted from
+light source visibility
+of debevec et
+lights and objects
+real shadows were
+http www imagis
+the two patches
+adding in blocked
+to augmented reality
+of the textures
+by modulating the
+fr publications loscos
+sequences on the
+of virtual objects
+the hierarchical radiosity
+modulating the texture
+the right light
+algorithm of debevec
+virtual objects all
+between virtual and
+video sequences on
+real objects the
+the patches are
+the display correction
+regions of shadow
+the web http
+using radiance images
+real scene a
+the correction factor
+illumination of the
+imagis imag fr
+form factor and
+of patch i
+when the patches
+switch off the
+the texture based
+a reference patch
+into the real
+hierarchical radiosity system
+real scene viewed
+new reflectance values
+virtually switched off
+a similar color
+the virtual light
+real scene and
+quicktime video sequences
+to insert virtual
+dynamic virtual object
+unoccluded illumination texture
+of common illumination
+such as shadows
+refinement for shadow
+the original texture
+the original illumination
+of the unoccluded
+then subdivide i
+loscos tvcg00 index
+the original photographs
+imag fr publications
+the totalcalib system
+www imagis imag
+publications loscos tvcg00
+under different lighting
+multi pass display
+in the frontier
+the current radiosity
+scene viewed from
+common illumination between
+original real scene
+virtual objects into
+the ratio of
+in the scene
+an approximation of
+the method of
+by the user
+in figure 17
+is shown in
+different lighting conditions
+the multi pass
+3 frames per
+to the radiosity
+0 2 sec
+figure 20 a
+of the illumination
+was inserted into
+inaccuracies of the
+b the resulting
+from our system
+web http www
+the attenuation factor
+the subdivision and
+scene from a
+the hierarchy of
+c d figure
+color of the
+of a virtual
+inserted into the
+of real and
+and the color
+the modification of
+presented in detail
+the scene and
+the left hand
+model of the
+which results in
+the creation of
+figure 15 a
+the leaves of
+reconstruction of the
+of the camera
+the reconstruction of
+visible in the
+ratio of the
+is performed using
+and interactive techniques
+graphics and interactive
+first step is
+patch chosen in
+should also have
+of the attenuation
+exposure time t

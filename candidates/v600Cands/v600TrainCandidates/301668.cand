@@ -1,0 +1,600 @@
+tiling
+tile
+loop
+j2
+nest
+loops
+j1
+nstep
+imperfectly
+dependence
+r5k
+tiled
+anti
+jacobi
+r10k
+locality
+dependences
+peel
+cache
+outmost
+dj
+profitability
+array
+nested
+subgraph
+skewing
+wset
+swim
+slope
+fusion
+tomcatv
+lmax
+i2
+stencil
+duplication
+cls
+transformed
+i1
+dt
+pingali
+offset
+supercomputing
+profitable
+iteration
+rollback
+nstepj
+compatible
+exit
+backward
+conforms
+compiler
+odd
+distance
+itmax
+chunk
+reuse
+iterations
+enhancement
+flow
+transformations
+orig
+speedup
+speculative
+legal
+n1
+arrays
+keshav
+gd
+sadayappan
+mindt
+nstepi
+kodukula
+temporal
+panorama
+jj
+checkpointing
+chau
+distances
+prog
+nawaaz
+krishnamoorthy
+permutation
+nests
+mateev
+body
+cdrom
+overflow
+shorten
+transpose
+tiles
+carter
+nikolay
+caches
+privatization
+accum
+iter
+tseng
+eq
+s2
+backup
+inner
+misses
+workstations
+chunks
+s1
+sorrento
+goto
+sriram
+memcount
+guohua
+copy
+edges
+perfectly
+legally
+ramanujam
+edge
+kernel
+convergence
+optimizations
+exec
+instructions
+manjikian
+collard
+strout
+164
+duplicated
+secondary
+premature
+references
+yonghong
+wen
+mips
+circular
+wonnacott
+baumgartner
+untransformed
+dupli
+upwardly
+jeanne
+imperfect
+ahmed
+lp
+mellor
+rivera
+crummey
+dup
+subspace
+italy
+iterative
+padding
+offsets
+regrouping
+pugh
+substitution
+n2
+improving
+venkata
+dallas
+zhiyuan
+ferrante
+profitably
+jingling
+perm
+exits
+forward
+nontrivial
+trans
+skeleton
+32kb
+sally
+sgi
+mg
+csg
+unduly
+fused
+executed
+restore
+native
+shooting
+15th
+working
+mckee
+l2
+statements
+xue
+transformation
+cs
+jv
+parallelism
+solid
+seconds
+mod
+statement
+o3
+code
+memory
+spec95
+checkpoint
+g1
+branch
+end do
+do end
+loop nest
+imperfectly nested
+j i
+distance subgraph
+loop distance
+program model
+t iteration
+i loops
+i loop
+j loop
+g l
+t loop
+nested loops
+output dependence
+peel and
+t iterations
+flow dependence
+distance vector
+anti or
+our tiling
+anti dependence
+and fusion
+ffl step
+our program
+the r5k
+tile size
+the r10k
+the tile
+jacobi code
+j2 j2
+j i2
+dependence edges
+odd even
+loop body
+the j
+dependence edge
+which conforms
+same t
+the transformed
+the tiled
+if end
+compatible set
+of imperfectly
+dt dj
+outmost allowed
+even duplication
+tiling scheme
+array transpose
+dependence subgraph
+wset x
+along j1
+on supercomputing
+locality enhancement
+anti and
+j i1
+time step
+nest which
+the loop
+tiling with
+step loop
+j1 j2
+or output
+loop j
+effective cache
+flow dependences
+subgraph g
+tile the
+loop j2
+find cls
+r5k and
+cls parameter
+end if
+exit condition
+output dependences
+loop bounds
+dependence from
+transformed loop
+the t
+the jacobi
+convergence tests
+iteration subspace
+working set
+loops which
+a loop
+the distance
+backward dependence
+the profitability
+for tiling
+of loop
+conforms to
+perfectly nested
+dependence distances
+direction along
+loop transformations
+code figure
+transformed code
+cache size
+array duplication
+any anti
+to 164
+to j1
+if outmost
+improve profitability
+minimum legal
+vector dt
+tile shape
+across t
+copy b
+nontrivial imperfectly
+i1 and
+forward substitution
+to tile
+transformations for
+data locality
+in g
+ieee conference
+temporal reuse
+j1 and
+dependence in
+jacobi kernel
+of j1
+j2 to
+of jacobi
+speculative execution
+temporal locality
+p sadayappan
+in jacobi
+iterations executed
+circular loop
+supercomputing p
+dependence distance
+then end
+jacobi s
+stencil computations
+i2 are
+the outmost
+wen tseng
+chau wen
+array a
+loop skewing
+2 eq
+if mod
+loop tiling
+tiling for
+mod t
+algorithm 4
+acm ieee
+backup copy
+convergence test
+keshav pingali
+the exit
+each j
+edges with
+in figure
+procedure find
+the secondary
+tiled j
+offset j1
+computation stencil
+backward dependences
+shorten backward
+mateev keshav
+ahmed nikolay
+sriram krishnamoorthy
+size nstep
+nstep is
+imperfect loop
+size lmax
+i2 with
+exit conditions
+offset j
+tiling imperfectly
+subgraph figure
+from j2
+the imperfectly
+nest lp
+even array
+jj loop
+a tile
+compiler algorithms
+in iterative
+store instructions
+loop nests
+the cache
+the dependence
+to shorten
+secondary cache
+loops and
+locality with
+given loop
+supercomputing cdrom
+cdrom p
+in algorithm
+nawaaz ahmed
+adjacent t
+loops respectively
+n1 to
+in gd
+end do end
+do end do
+j i loop
+j loop distance
+imperfectly nested loops
+loop distance subgraph
+j i loops
+our program model
+peel and fusion
+the t loop
+in g l
+subgraph g l
+distance subgraph g
+anti or output
+the j loop
+the distance vector
+or output dependence
+if end do
+end if end
+a loop nest
+anti and output
+the same t
+which conforms to
+conference on supercomputing
+of imperfectly nested
+odd even duplication
+along j1 j2
+direction along j1
+time step loop
+our tiling scheme
+loop nest which
+to our program
+transformed loop nest
+the effective cache
+within the same
+nest which conforms
+conforms to our
+effective cache size
+input a loop
+the dependence subgraph
+find cls parameter
+the j i
+with the distance
+do end if
+and output dependences
+shown in figure
+end do a
+each j i
+the transformed code
+distance vector dt
+the minimum legal
+nontrivial imperfectly nested
+if mod t
+in loop j
+on the r5k
+j2 j2 j2
+eq 1 then
+procedure find cls
+same t iteration
+then end do
+i loop body
+t 2 eq
+if outmost allowed
+2 eq 1
+any anti or
+mod t 2
+backup copy b
+the jacobi code
+and array transpose
+across t iterations
+vector dt dj
+to improve profitability
+acm ieee conference
+nodes in g
+ieee conference on
+load store instructions
+j i1 and
+of our tiling
+flow dependence edge
+output dependence edges
+circular loop skewing
+on supercomputing p
+the time step
+given loop nest
+the exit condition
+1 then end
+the loop nest
+the loop body
+chau wen tseng
+the secondary cache
+working set size
+proceedings of the
+9 to 164
+profitability of our
+dependence in straight
+i i loops
+permutation and array
+and the r10k
+tiling imperfectly nested
+subgraph figure 6
+imperfect loop nest
+t loop and
+i loops and
+backward direction along
+i2 with the
+j i1 to
+i loops respectively
+by 9 to
+straight or forward
+the peel and
+loop j2 is
+tiling with speculative
+into a perfect
+t loop is
+tiled j i
+t iterations executed
+from j2 to
+odd even array
+transformations for locality
+ahmed nikolay mateev
+loop nest lp
+j2 is flow
+for locality enhancement
+to j i2
+the r5k and
+forward direction along
+iterations of j1
+dependence in backward
+j2 to j1
+anti dependence edges
+dependence edges with
+i1 to j
+nikolay mateev keshav
+ffl step a
+of loop j2
+mateev keshav pingali
+distance vector 0
+between adjacent t
+j i2 with
+r5k and the
+to shorten backward
+known loop transformation
+t iteration in
+adjacent t iterations
+loop j i
+locality enhancement of
+or forward direction
+in straight or
+vector 0 0
+the imperfectly nested
+distance subgraph figure
+nawaaz ahmed nikolay
+backward dependence distances
+jacobi code figure
+nested loop nests
+from j i1
+figure 2 c
+for j i
+of j i
+on supercomputing cdrom
+supercomputing cdrom p
+in algorithm 3
+code figure 2
+on the r10k
+imperfectly nested loop
+speculative execution to
+tiled loop nest
+with speculative execution
+to g l
+the anti dependence
+loop body size
+dependence edge with
+loop bounds of
+flow dependence from
+with odd even
+output dependence edge
+of t iterations
+edge with 1
+dependence exists from
+program model the
+in backward direction
+loop nest if
+a perfect nest
+class of imperfectly
+tomcatv and swim
+indices appear in
+the original program
+techniques to improve
+is flow dependent
+iteration of loop
+the transformed programs
+journal of parallel
+w r t
+the tile size
+the native compiler
+for array privatization
+different time steps
+locality proceedings of
+et al present
+original loop nest

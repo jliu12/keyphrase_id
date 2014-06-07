@@ -10,9 +10,9 @@ import math
 
 #defaults
 corpusName = "corpus/dummy"
-versionName = "2";
+versionName = "unknown";
 dataSet = "train"
-predSuffix = ".pred"
+predSuffix = ".cand"
 
 pScoresTotal = 0
 rScoresTotal = 0

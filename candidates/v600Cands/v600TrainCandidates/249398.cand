@@ -1,0 +1,600 @@
+forest
+profile
+makespan
+policy
+ms
+forests
+epoch
+tasks
+st
+policies
+processors
+scheduling
+stochastically
+js
+successors
+psi
+coffman
+precedence
+monotonic
+stochastic
+fa
+hlf
+task
+fvg
+preemptive
+epochs
+embedding
+uniform
+priority
+graphs
+intree
+fastest
+instants
+completion
+schedule
+strassen
+interval
+assigns
+decision
+processor
+nonidling
+pinedo
+kulkari
+chimento
+exponential
+ae
+majorized
+vertices
+predecessors
+optimality
+minimizes
+roots
+vertex
+ordered
+liu
+preemptions
+deletion
+referred
+distributions
+root
+warmuth
+dolev
+opposing
+idling
+schedules
+fc
+profiles
+papadimitriou
+completions
+memoryless
+jv
+counterexamples
+weiss
+running
+finished
+ir
+permutation
+successor
+tg
+frostig
+sanlaville
+remaks
+outforests
+superposition
+immediate
+resp
+jobs
+list
+assigned
+repair
+convention
+nonpreemptive
+monotonicities
+zigzag
+unconditioning
+leaf
+priorities
+coupled
+marginals
+majorization
+tsitsiklis
+subtrees
+trivially
+cf
+availability
+ff
+subtree
+6g
+unfinished
+flat
+deleting
+deterministic
+minimization
+said
+assertion
+fug
+garey
+repairs
+identical
+varies
+f1
+executions
+mimicking
+yannakakis
+multiprogrammed
+preempted
+fictitious
+antisymmetric
+acyclic
+subcases
+oe
+failures
+enabled
+inductive
+chandy
+underway
+indexed
+confine
+preliminaries
+lemma
+reynolds
+changed
+integers
+random
+beside
+injective
+finishing
+ullman
+concluding
+generality
+closure
+sg
+continually
+owing
+proofs
+modification
+inequalities
+establishment
+relation
+straints
+tree
+m2
+bruno
+induction
+surely
+probability
+jp
+omitted
+fd
+closed
+speed
+reader
+embed
+classes
+partially
+imply
+subgraphs
+modifications
+paid
+helped
+finishes
+graph
+minimize
+failure
+expectations
+reversed
+couple
+singleton
+induced
+isomorphic
+degenerate
+ambiguity
+investigated
+finish
+showed
+predecessor
+coupling
+ties
+highest
+belong
+out forest
+uniform out
+in forest
+forest g
+the makespan
+interval order
+decision epoch
+out forests
+ms policy
+st g
+g 2
+profile scheduling
+profile fa
+o f
+initial tasks
+first decision
+any profile
+available processors
+g 1
+p monotonic
+policy ae
+task graphs
+fa n
+r uniform
+the profile
+a task
+list schedule
+uniform processors
+monotonic for
+variable profile
+epoch policy
+ms policies
+that st
+the ms
+task graph
+the tasks
+stochastic scheduling
+precedence constraints
+2 c
+ordered tasks
+liu 3
+stochastically minimizes
+assigns tasks
+tasks k
+relation 12
+js u
+running times
+j js
+of out
+the processors
+profile and
+of g
+js v
+coffman and
+profile is
+priority list
+task running
+12 holds
+of tasks
+fastest available
+processors q
+makespan of
+stochastically minimize
+embedding relation
+stochastic profile
+constant profile
+interval ordered
+epoch at
+tasks u
+forests and
+tasks of
+r o
+the task
+scheduling of
+identical parallel
+initial task
+policy assigns
+order graph
+st ae
+processors respectively
+some list
+any increasing
+decision epochs
+is ms
+random variables
+a policy
+2 psi
+task completion
+c o
+an in
+the stochastic
+of task
+for any
+and liu
+identical processors
+time except
+stochastic minimization
+ms g
+remaining running
+policy stochastically
+of coffman
+profile modification
+in forests
+time epoch
+parallel identical
+x st
+embedding function
+under deletion
+list schedules
+root embedding
+psi denote
+order graphs
+intree precedence
+common exponential
+the priority
+list scheduling
+1 bounded
+u o
+optimal policy
+exponential distributions
+an interval
+a root
+parallel processors
+of successors
+gamma fvg
+st y
+both policies
+with exponential
+tasks are
+tasks with
+the fastest
+c r
+probability space
+permutation on
+1 oe
+assigned to
+scheduling policies
+2 monotonic
+constraints scheduling
+available processor
+processors the
+referred to
+ae 1
+scheduling problem
+the running
+g gamma
+minimizes the
+two roots
+v j
+if js
+processor k
+of interval
+1 n
+scheduling policy
+u j
+variables with
+n 1
+processing requirements
+g st
+holds for
+policies are
+v h
+exponential distribution
+an out
+in psi
+to as
+n g
+of graphs
+forest and
+equivalent definition
+t 2
+the out
+except at
+ff k
+processors available
+c u
+c i
+let g
+scheduling with
+detailed proof
+task is
+times of
+policy is
+the scheduling
+completion times
+of ms
+varies in
+running time
+for case
+task v
+profile modifications
+profile bounded
+chimento 9
+uniform forest
+nonidling and
+forest or
+epoch corresponds
+kulkari and
+whereas policy
+common probability
+g 2 c
+first decision epoch
+uniform out forest
+out forest g
+the first decision
+for any profile
+uniform out forests
+fa n 1
+any profile fa
+the ms policy
+an in forest
+profile fa n
+g 1 n
+of out forest
+r o f
+an interval order
+minimizes the makespan
+c r o
+12 holds for
+the profile is
+at the first
+task running times
+coffman and liu
+tasks k to
+and liu 3
+forest g 2
+r uniform out
+c o f
+stochastically minimizes the
+p monotonic for
+decision epoch policy
+j js v
+u j js
+the priority list
+js u j
+of the tasks
+c i o
+js v j
+g 1 oe
+the makespan of
+the fastest available
+to the processors
+some list schedule
+relation 12 holds
+forest g if
+decision epoch at
+stochastic profile scheduling
+monotonic for some
+the permutation on
+stochastically minimize the
+n 1 bounded
+interval ordered tasks
+a uniform out
+interval order graph
+assigns tasks k
+of in forest
+time except at
+an out forest
+identical parallel processors
+of task graphs
+for some list
+under the ms
+minimize the makespan
+profile scheduling of
+tasks of g
+u o f
+the time except
+1 bounded by
+c u o
+in forest g
+epoch at the
+fastest available processors
+for any increasing
+priority list of
+the processors respectively
+2 c i
+g 2 if
+e 2 c
+the available processors
+random variables with
+all the time
+n g 1
+a task is
+the task graph
+use the fastest
+list schedule and
+variables with exponential
+the task running
+common exponential distribution
+st g proof
+epoch policy assigns
+policy stochastically minimizes
+a common exponential
+holds for case
+x st y
+o f be
+list scheduling policy
+of coffman and
+the stochastic minimization
+available processors at
+intree precedence constraints
+monotonic for any
+precedence constraints scheduling
+parallel identical processors
+variable profile and
+closed under deletion
+any increasing function
+interval order graphs
+schedule and some
+follows the priority
+epoch policy ae
+policies in psi
+stochastic minimization of
+is p monotonic
+scheduling of out
+stochastic scheduling with
+g gamma fvg
+makespan of g
+exponential distributions we
+that st g
+a task completion
+k to the
+of a task
+referred to as
+except at the
+identical processors the
+and some p
+the processors q
+increasing function f
+tasks in g
+c i f
+all i b
+graphs which is
+varies in time
+an initial task
+class of graphs
+a policy is
+v j then
+such that st
+processing requirements of
+some p 2
+bounded by 2
+of the processors
+tasks are independent
+at time d
+f be an
+running times of
+the running times
+set of tasks
+to as the
+for the stochastic
+of available processors
+2 c r
+all n 1
+times of the
+are assigned to
+and g 2
+to the fastest
+g 1 and
+1 and g
+for any g
+to the available
+list of all
+let g 2
+d n 1
+is an in
+a list scheduling
+to a task
+be a class
+are independent random
+for all i
+which follows the
+for case 2
+1 n 1
+p 2 in
+if for any
+the makespan when
+profile and precedence
+r uniform forest
+kulkari and chimento
+common probability space
+not necessarily immediate
+optimality properties we
+scheduling with variable
+that js u
+initial task if
+with exponential distributions
+there are integers
+to uniform processors
+psi denote by
+processors q 1
+necessarily immediate successors
+st ae 1
+if js u
+unit execution time
+respectively r uniform
+tasks varies in
+constant profile and
+1 g st
+policy which follows

@@ -1,0 +1,600 @@
+instruction
+branch
+sequencing
+pipeline
+instructions
+branches
+slots
+inline
+insertion
+fetch
+predicted
+target
+scratched
+refill
+redirects
+pif
+prediction
+successors
+incorrectly
+compiler
+pipelined
+fetched
+mcfarling
+iti
+delayed
+expansion
+hardware
+unlikely
+ref
+inclusively
+hennessy
+risc
+squashing
+sif
+interrupt
+ill
+likely
+restructuring
+exception
+threshhold
+benchmarks
+mips
+compile
+processors
+cycle
+ps
+fallthru
+88000
+interrupts
+redirect
+deep
+address
+pipelining
+delay
+buffers
+slot
+timing
+sequential
+illinois
+cycles
+addresses
+static
+freeze
+incorrect
+unconditional
+pipelines
+branching
+contract
+profile
+cyclone
+microarchitecture
+r2000
+processor
+code
+frequency
+clock
+036
+stage
+assisted
+stages
+freezes
+reload
+af
+inserted
+clean
+n00014
+ex
+801
+efficiency
+executed
+superpipelined
+originals
+wisq
+nonproductive
+61801
+uncond
+refilling
+8809478
+jsep
+restartable
+0656
+minicomputer
+hoevel
+iclass
+locations
+fetches
+tradeoffs
+nasa
+correctness
+exceptions
+accuracy
+diagram
+successor
+hps
+1270
+rupt
+bison
+opcode
+spur
+crisp
+nonstop
+cs
+executing
+compiling
+execution
+fill
+repair
+fetching
+aerospace
+espresso
+conte
+motorola
+hwu
+vax
+inputs
+microprocessor
+program
+lemma
+return
+microcode
+aeronautics
+percentage
+programs
+arc
+architecture
+predicting
+780
+stanford
+ncr
+checkpoint
+nag
+threshold
+predict
+superscalar
+machines
+impact
+613
+subdividing
+ao
+mip
+ensures
+reaches
+emerging
+issue
+champaign
+folding
+naval
+urbana
+administration
+saved
+peak
+chip
+correctly
+subsequent
+supercomputer
+save
+cancel
+infrequently
+filled
+visited
+unix
+adjusted
+cad
+profiling
+startup
+cond
+duplicate
+buffer
+scalar
+resume
+architectures
+rate
+office
+inserting
+dynamic
+counter
+issuing
+column
+ibm
+format
+target insertion
+inline target
+sequencing pipeline
+instruction sequencing
+the sequencing
+the instruction
+instruction fetch
+likely branch
+likely branches
+original address
+code expansion
+i n
+insertion slots
+the branch
+instruction issue
+predicted successors
+multiple instruction
+branch prediction
+incorrectly predicted
+a likely
+branch target
+branch slots
+sequencing efficiency
+a branch
+instruction sequence
+per instruction
+the pipeline
+instructions in
+of inline
+delay slots
+ref ill
+s t
+a f
+instructions to
+of branches
+redirects the
+branch instructions
+the instructions
+pipelined processors
+code restructuring
+predicted branch
+sequential instruction
+order execution
+exception return
+insertion is
+are true
+an unlikely
+instruction i
+subsequent instructions
+target buffers
+mcfarling and
+sequencing cost
+delayed branches
+pipeline implementation
+unlikely branch
+next sequential
+be scratched
+interrupt exception
+deep pipelining
+slots for
+an original
+branches in
+an instruction
+branches the
+address of
+branch the
+target address
+and hennessy
+the benchmarks
+ps i
+r t
+the compiler
+it i
+code size
+n inclusively
+clock frequency
+execution machines
+ex stage
+hardware methods
+branch direction
+delayed branching
+sequential locations
+an incorrectly
+dynamic instructions
+branch between
+branch i
+pif performs
+impact i
+fetched from
+compile time
+dynamic instruction
+successors of
+instruction is
+of branch
+h 0
+of slots
+with inline
+timing diagram
+prediction accuracy
+c compiler
+of instruction
+pipeline is
+branches to
+predicted successor
+fetch pipeline
+true proof
+unlikely branches
+with squashing
+fetch algorithm
+scratched from
+branch delay
+branches into
+per cycle
+branch is
+the code
+between i
+address is
+not taken
+of instructions
+branches with
+slots are
+pipelining and
+also true
+and branch
+branch to
+branch instruction
+compiler implementation
+slots the
+8 e
+instruction execution
+pipeline the
+cycles per
+the prediction
+compiler and
+the address
+in pipelined
+cs i
+instruction can
+the dynamic
+the static
+the clock
+the hardware
+pipelines with
+that inline
+pipelined instruction
+into branch
+compiler assisted
+taken pif
+fallthru i
+target instruction
+freeze cycles
+target addresses
+branches among
+no likely
+incorrect branch
+sequencing rate
+redirect the
+time branch
+relative sequencing
+taken then
+unit processors
+expansion control
+are scratched
+branch redirects
+return from
+and pipeline
+under contract
+each branch
+the predicted
+i 0
+be fetched
+in cycle
+the ex
+t are
+and multiple
+successors in
+time code
+i s
+n is
+machine language
+sequencing for
+insertion a
+static code
+target buffer
+fetch address
+cycle this
+if i
+is fetched
+and s
+of order
+profile information
+pipeline for
+branches are
+cycle t
+cost per
+and i
+the fetch
+all instructions
+contract n00014
+of likely
+inline target insertion
+the sequencing pipeline
+multiple instruction issue
+the instruction fetch
+a likely branch
+of inline target
+i n is
+instruction sequencing efficiency
+the instruction sequencing
+i s t
+is a likely
+the instruction sequence
+redirects the instruction
+and s t
+instructions in the
+incorrectly predicted branch
+of order execution
+t are true
+of the sequencing
+target insertion is
+i n 1
+the subsequent instructions
+an original address
+and multiple instruction
+branch target buffers
+if i n
+predicted successors of
+between i n
+an unlikely branch
+mcfarling and hennessy
+instructions to be
+in the sequencing
+t and s
+the code expansion
+branch between i
+pipelining and multiple
+order execution machines
+the impact i
+an incorrectly predicted
+of instruction sequencing
+i n inclusively
+the next sequential
+the clock frequency
+deep pipelining and
+with inline target
+r t and
+out of order
+s t are
+from the pipeline
+number of slots
+cycles per instruction
+if r t
+predicted successors in
+the insertion slots
+figure 8 e
+sequencing cost per
+delayed branches with
+the predicted successors
+sequential instruction fetch
+i c compiler
+instruction fetch algorithm
+the ex stage
+per cycle this
+scratched from the
+and pipeline implementation
+compiler and pipeline
+instruction fetch pipeline
+cost per instruction
+the branch direction
+branches with squashing
+impact i c
+compile time code
+a f i
+number of instructions
+is an original
+r t 1
+that r t
+s t will
+compare and branch
+redirect the instruction
+from the sequencing
+that inline target
+target insertion a
+under contract n00014
+s t 1
+code expansion control
+original address of
+pipelined instruction fetch
+instruction sequencing for
+sequencing pipeline the
+cost of branches
+branches among all
+relative sequencing cost
+likely branch i
+a dynamic instruction
+static code size
+the original address
+is an unlikely
+of code expansion
+of likely branches
+incorrect branch prediction
+the static code
+the delay slots
+interrupt exception return
+time branch prediction
+time code restructuring
+compile time branch
+its original address
+taken pif performs
+ps i 1
+fetched from its
+the address of
+is also true
+is not taken
+the instructions in
+of a branch
+target address is
+in pipelined processors
+successors in the
+from its original
+that the instruction
+a threshold value
+branch target buffer
+branch prediction accuracy
+t will be
+instructions per cycle
+for pipelined processors
+be fetched from
+of instructions to
+instruction can be
+a branch is
+and i 0
+reducing the cost
+is fetched from
+else if i
+n is not
+branches in the
+f and i
+by inline target
+predicted successor of
+an insertion slot
+of branch prediction
+no likely branch
+performs a f
+interrupts and exceptions
+instruction issue and
+better performance and
+the timing diagram
+predict the branch
+insertion is correct
+pif performs a
+sequencing for pipelined
+because i n
+but is taken
+likely branch between
+next sequential instruction
+sequencing pipeline for
+multiple functional unit
+not a branch
+reaches the end
+next n sequential
+insertion slots of
+the dynamic instructions
+the branch decision
+instruction is 1
+a branch redirects
+ref ill is
+was no likely
+insertion slots are
+to be scratched
+target insertion the
+machine language program
+code restructuring algorithm
+case the branch
+branch redirects the
+functional unit processors
+into branch slots
+n predicted successors
+may be scratched
+also true proof
+case 2 i
+a f else
+insertion slots see
+instruction fetch the
+target insertion and
+instruction fetch unit
+target insertion to
+cs i n
+the benchmarks the
+likely branch the
+stage in cycle
+from an original
+the alternative address
+for pipelines with
+branch prediction strategies
+the relative sequencing
+instruction sequencing mechanism
+predicted branch between
+because there was
+the branch slots

@@ -1,0 +1,600 @@
+oid
+oids
+pph
+hashing
+bucket
+mvbt
+alive
+page
+alh
+buckets
+pages
+lifespan
+overflows
+ephemeral
+lifespans
+persistent
+snapshot
+query
+acceptor
+evolution
+evolving
+overflow
+nt
+ri
+nb
+additions
+end_time
+temporal
+start_time
+records
+membership
+lh
+round
+instants
+copies
+rehashing
+workload
+workloads
+queries
+rp
+lb
+array
+mvas
+tk95
+partially
+multiversion
+ub
+pid
+update
+avg
+bgo
+atemporal
+split
+record
+2m
+deletions
+forest
+deletion
+poisson
+tree
+usefulness
+deleted
+ft
+updating
+maxtime
+ls89
+l80
+tsb
+object
+history
+transaction
+appended
+amortized
+indexes
+evolves
+index
+searched
+rehashed
+start_times
+vv97
+tsotras
+logarithmic
+created
+timestamped
+instant
+occurred
+file
+searching
+remapped
+utilization
+answering
+copying
+load
+mapped
+stores
+splits
+objects
+buffer
+ptr
+create
+sibling
+answer
+insertions
+artificial
+reconstructing
+contents
+pure
+updated
+115878
+poisson1
+rehashings
+overflown
+ktf98
+evolutions
+r97
+clr90
+tgh95
+en94
+dsst89
+truncated
+artificially
+hashed
+copied
+sees
+universe
+persistence
+stored
+behaves
+observes
+merged
+database
+equivalently
+copy
+updates
+exponential
+balanced
+entries
+intervals
+2mb
+5m
+histories
+accessing
+arrays
+branched
+5k
+happens
+queried
+500
+external
+directory
+96
+list
+zaniolo
+deleting
+maintained
+traversed
+store
+proceeds
+overlapping
+pointer
+uniform
+05
+locating
+clustering
+03
+reconstruct
+indexing
+serially
+uncontrolled
+databases
+entry
+mb
+existed
+basics
+join
+added
+const
+efficiently
+changes
+ideally
+traditional
+falls
+height
+schemes
+contradiction
+splitting
+access
+insertion
+interval
+controlled
+normal
+conceptually
+trees
+answers
+dept
+had
+possessed
+bitemporal
+sa85
+rehashes
+pph s
+partially persistent
+hashing scheme
+linear hashing
+persistent hashing
+oid k
+useful page
+the mvbt
+pph l
+alive oids
+snapshot index
+b j
+j t
+bucket b
+hashing function
+of alive
+i o
+the snapshot
+acceptor page
+s pph
+non useful
+query performance
+b tree
+the hashing
+useful pages
+temporal membership
+snapshot query
+membership query
+o s
+bucket 0
+alive records
+l mvbt
+alh pph
+oids in
+set s
+the evolving
+dynamic hashing
+page a
+the pph
+evolving set
+a page
+the page
+ephemeral hashing
+oid additions
+the oids
+oid lifespan
+time t
+the bucket
+membership queries
+avg number
+o per
+lb j
+the acceptor
+range snapshot
+to bucket
+of bucket
+s t
+data pages
+of buckets
+first overflow
+oids are
+of lifespans
+of oids
+object additions
+alive objects
+lifespan at
+the alive
+evolving list
+temporal hashing
+at time
+evolution of
+time tree
+per query
+the ephemeral
+transaction time
+an oid
+ft j
+1 oid
+the useful
+r tree
+at t
+each bucket
+time instants
+a temporal
+parameter u
+nt a
+of oid
+new bucket
+pure snapshot
+mvbt and
+lifespans per
+per oid
+space performance
+the ri
+usefulness parameter
+ephemeral linear
+the alh
+access forest
+lh file
+this page
+the evolution
+b 1
+the list
+the oid
+buckets are
+the lh
+page in
+bucket 5
+oids and
+per change
+distinct oids
+oids of
+s history
+first useful
+array h
+now oid
+given oid
+oid is
+data page
+n b
+round i
+hashing in
+the partially
+pages of
+in bucket
+an evolving
+of pages
+of partially
+page is
+a bucket
+the query
+same bucket
+last page
+b total
+update performance
+next useful
+oids at
+for oid
+temporal environment
+real oid
+with oid
+oid and
+bucket s
+oid copies
+oids from
+mvbt is
+bucket the
+bgo 96
+appropriate bucket
+hashing problem
+list page
+multiversion b
+exponential step
+same oid
+c space
+the multiversion
+nt array
+ub alive
+of page
+buckets for
+overflow occurs
+page can
+query time
+o 1
+update and
+the space
+s evolution
+load factor
+b update
+page s
+uniform workload
+time proceeds
+page after
+the nt
+new page
+hashing the
+an ephemeral
+additions are
+variable p
+of set
+b r
+added in
+of changes
+page has
+set approach
+per update
+the rp
+query about
+more space
+h 0
+object with
+oid records
+n overflows
+than pph
+temporal indexes
+create at
+real changes
+oid was
+lh t
+of pph
+partially persistent hashing
+b j t
+the snapshot index
+i o s
+bucket b j
+pph s pph
+s pph l
+number of alive
+pph l mvbt
+alh pph s
+the hashing scheme
+i o per
+of alive oids
+avg number of
+oid k is
+oid lifespan at
+the acceptor page
+lb j t
+at time t
+number of i
+of the snapshot
+hashing scheme is
+the evolving set
+the pph s
+the first overflow
+the partially persistent
+the range snapshot
+range snapshot query
+of partially persistent
+number of lifespans
+of i o
+of set s
+the useful pages
+linear hashing scheme
+b 1 oid
+ephemeral linear hashing
+temporal membership queries
+temporal membership query
+usefulness parameter u
+the evolving list
+the lh file
+in the list
+the evolution of
+the hashing function
+query performance of
+number of changes
+first useful page
+the oids in
+dynamic hashing scheme
+the time tree
+a temporal membership
+ephemeral hashing scheme
+the alive oids
+the access forest
+now oid lifespan
+the pure snapshot
+of page a
+of lifespans per
+of the mvbt
+j t is
+the query performance
+the r tree
+the same bucket
+o n b
+the number of
+the same oid
+evolution of set
+with oid k
+of bucket b
+the first useful
+evolving set approach
+of distinct oids
+useful pages at
+space performance for
+object with oid
+multiversion b tree
+c space performance
+1 oid copies
+and c space
+the appropriate bucket
+update and c
+the data pages
+a given oid
+becomes non useful
+b update and
+pure snapshot query
+lifespans per oid
+for oid k
+query b update
+total number of
+of the ephemeral
+as time proceeds
+a query b
+number of real
+the total number
+the last page
+is added in
+number of buckets
+in set s
+set s and
+than pph s
+a temporal environment
+0 avg number
+as an evolving
+o per query
+the next useful
+exponential step normal
+the load factor
+s s evolution
+external dynamic hashing
+oids in the
+of pph s
+to non useful
+ephemeral dynamic hashing
+ub alive records
+the multiversion b
+mvbt and ri
+list lb j
+snapshot index and
+in the evolving
+from bucket 0
+in that bucket
+next useful page
+o per update
+real oid additions
+hashing function h
+array ft j
+bucket 0 and
+k t now
+the ephemeral hashing
+temporal hashing problem
+a new bucket
+useful page in
+o s per
+the nt array
+a membership query
+create at most
+the temporal hashing
+real object additions
+the usefulness parameter
+evolution of bucket
+number of pages
+page in the
+of the bucket
+page a is
+expected o 1
+in the evolution
+in s t
+the most current
+a a a
+in i o
+more space than
+in a temporal
+for each t
+the second round
+number of copies
+this search is
+the first round
+time t a
+for as long
+number of queries
+membership query for
+l mvbt alh
+k is deleted
+as nb increases
+can create at
+the mvbt and
+case query performance
+pph s and
+copy of page
+for temporal membership
+records in bucket
+the useful page
+and ri methods
+hashing scheme at
+lifespan at records
+additions are needed
+alive objects at
+collection of buckets
+addition of oid
+at records in
+its end_time is
+of this oid
+query for oid
+answer a temporal
+alive oids in
+most current state
+17 now oid
+performance for alh
+of temporal hashing
+page becomes non
+10 1 now
+an artificial copy
+the mvbt tree
+the exponential step
+time tree is
+it partially persistent
+a good ephemeral
+1 real object
+useful pages of

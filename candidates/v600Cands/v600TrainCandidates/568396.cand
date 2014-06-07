@@ -1,0 +1,600 @@
+igsmp
+gsmp
+recx
+gsmps
+delay
+semantic
+delays
+bisimulation
+tact
+transitions
+observational
+actions
+probabilistic
+congruence
+sg
+sect
+transition
+duration
+timed
+operational
+terminations
+denition
+semantics
+dened
+durations
+st
+names
+specication
+npact
+el
+fig
+nite
+termination
+priority
+algebras
+lts
+bisimilarity
+preselection
+bisimilar
+axiomatization
+qs
+lm4
+lm5
+sm3
+algebra
+distributions
+dene
+recursion
+equivalence
+action
+expressing
+durational
+axioms
+guarded
+stochastic
+ranged
+queue
+dierent
+markov
+katoen
+iassoc
+argenio
+ri2
+clocks
+multiset
+stands
+processes
+server
+probability
+arrivals
+joost
+labeled
+associates
+pdf
+ccs
+events
+choices
+clock
+silent
+par
+pieter
+viewpoint
+aggregating
+loc
+express
+semi
+operators
+race
+event
+axiomatising
+synchronizable
+igsmps
+pfrecx
+elst
+policy
+weakly
+operator
+rst
+axiom
+identied
+specications
+fin
+notion
+starts
+xed
+calculus
+weight
+qss
+weights
+interruption
+interarrival
+terminates
+sm
+specied
+premises
+queueing
+weak
+association
+representing
+incoming
+derives
+seats
+pedro
+internal
+interaction
+outgoing
+interactive
+ctmc
+sos
+axiomatizing
+integrated
+markovian
+mu
+lifetime
+moves
+leaving
+csp
+deriving
+rules
+probabilistically
+act
+name
+seman
+dies
+compositionality
+exponential
+indexes
+compositional
+relabeling
+queuing
+init
+employing
+derive
+decay
+parameterizing
+resolved
+concurrent
+index
+aq
+prioritized
+syntactical
+terminating
+drawback
+establishing
+tics
+preprint
+distribution
+stochastically
+strongly
+identifying
+syntax
+adequate
+subterm
+bb
+behavioral
+viewpoints
+closed
+composition
+innite
+summing
+recursive
+trees
+arfun
+underspecication
+gorrieri
+rec2
+symbolical
+bravetti
+lotos
+sm4
+sm1
+relabels
+eef
+zenoness
+rec3
+ri1
+levelwise
+formal
+xg
+automata
+semantic models
+semantic model
+the gsmp
+of igsmp
+observational congruence
+igsmp sg
+a delay
+delay f
+a gsmp
+st semantics
+of fig
+delay start
+in igsmp
+delay starts
+operational semantics
+process algebra
+delay termination
+recx f
+a igsmp
+of delay
+process algebras
+of delays
+the semantic
+of observational
+standard actions
+probabilistic transitions
+st bisimulation
+delay terminations
+in semantic
+duration distribution
+delays with
+generalized semi
+distribution f
+generally distributed
+the operational
+in gsmps
+over delays
+an igsmp
+igsmp is
+delay is
+general distributions
+s p
+choice among
+ranged over
+a choice
+semi markov
+probabilistic choices
+gsmp is
+denition of
+the delay
+in sect
+over by
+operational rules
+applying par
+preselection policy
+for igsmp
+standard action
+strongly guarded
+choice tree
+qs g
+zero duration
+formal procedure
+integrated semantic
+igsmp the
+probabilistic transition
+choice state
+2 npact
+s m
+is dened
+priority of
+closed terms
+timed state
+the denition
+1 q
+p k
+equivalent term
+19 17
+k s
+axiomatization for
+see sect
+each delay
+sect 4
+complete axiomatization
+stochastic process
+g g
+f i
+p p
+notion of
+of actions
+to dene
+queue h
+probabilistic bisimulation
+name f
+igsmp g
+action transitions
+incoming probabilistic
+over delay
+delays f
+choice trees
+igsmp process
+stands for
+its equivalent
+markov processes
+parallel operator
+events of
+a timed
+delays and
+starts over
+distributed durations
+systems g
+gsmp from
+nite state
+transition system
+by applying
+the axioms
+and probabilistic
+the system
+m q
+actions have
+probabilistic choice
+similarly as
+with general
+labeled by
+is complete
+actions over
+of start
+of interactive
+p r
+that associates
+g 1
+a transition
+transitions representing
+to delays
+labeled transition
+by aggregating
+internal actions
+performance model
+state p
+congruence for
+explicitly expressed
+model of
+actions a
+transitions of
+state s
+outgoing transitions
+complete both
+durational actions
+npact for
+termination transitions
+other delays
+2 pdf
+resulting lts
+d argenio
+clock names
+interactive generalized
+over closed
+pieter katoen
+recx p
+joost pieter
+bisimulation of
+silent states
+equations generates
+el 0
+st semantic
+state terms
+igsmp in
+par lm4
+pedro r
+g server
+static names
+mu fin
+p ri2
+dynamic names
+start moves
+choice states
+2 igsmp
+interactive gsmps
+termination transition
+negative premises
+every 2
+the priority
+semantics of
+event of
+a stochastic
+algebra with
+two events
+termination of
+names of
+exponential distributions
+p a
+dene the
+of bisimulation
+sect 3
+the names
+f w
+the transitions
+transition of
+of st
+whose outgoing
+2 el
+of a delay
+of the gsmp
+g 1 q
+the semantic model
+in semantic models
+of observational congruence
+terms of igsmp
+a delay is
+semantic model of
+the delay f
+recx f x
+of igsmp sg
+g g 1
+k s m
+notion of observational
+generalized semi markov
+of delay start
+the operational semantics
+ranged over by
+in a choice
+s m q
+the denition of
+s p p
+semi markov processes
+qs g g
+represented in semantic
+by applying par
+as in igsmp
+the semantic models
+integrated semantic model
+the gsmp is
+in 19 17
+of delay starts
+its equivalent term
+calculus of interactive
+every 2 npact
+p k s
+transitions of fig
+of fig 2
+model of fig
+function that associates
+similarly as in
+p a a
+part of fig
+delay starts over
+by the operational
+a delay f
+as in gsmps
+priority of actions
+of a gsmp
+over delay terminations
+congruence for igsmp
+a choice tree
+generally distributed durations
+in igsmp the
+systems g g
+starts over delay
+an igsmp process
+delay is represented
+a gsmp from
+queueing systems g
+with general distributions
+process algebra with
+priority of delay
+complete axiomatization for
+observational congruence for
+of the delay
+the priority of
+of the system
+stochastic process algebra
+of actions over
+have by applying
+both from the
+introduced in 7
+a complete axiomatization
+a timed state
+a stochastic process
+for every 2
+is represented in
+a a p
+equivalence class c
+each transition of
+transition of the
+as a combination
+a p a
+the termination of
+behavioral and performance
+formal procedure for
+2 npact for
+semantic models by
+a choice state
+incoming probabilistic transitions
+the formal procedure
+states states whose
+gsmp from a
+applying par lm4
+timed process algebras
+for observational congruence
+igsmp sg by
+p p k
+transitions are all
+the name f
+and p ri2
+delay termination transitions
+with zero duration
+relation over closed
+pedro r d
+over closed terms
+substituting the state
+r t performance
+to a timed
+igsmp sg is
+semantic model is
+f 2 pdf
+standard action transitions
+two closed terms
+whose outgoing transitions
+duration distribution f
+complete both from
+interactive generalized semi
+algebras see e
+actions over delays
+of interactive gsmps
+e 2 el
+the resulting lts
+is complete both
+of st semantics
+closed terms are
+st semantic models
+p 2 igsmp
+r d argenio
+equations generates the
+semantic models and
+of interactive generalized
+and standard actions
+the integrated semantic
+the new equation
+states whose outgoing
+on dynamic names
+event of delay
+zero duration and
+actions with zero
+equivalent term in
+of delays with
+igsmp process is
+observational congruence and
+p init is
+of a igsmp
+of delay termination
+two events of
+priority over delays
+with its equivalent
+joost pieter katoen
+npact for every
+of a system
+the two events
+by expressing the
+in the semantic
+p r is
+how to derive
+which is based
+class c of
+the calculus of
+explicitly expressed in
+closed terms of
+outgoing transitions are
+markovian process algebras
+process algebras see
+actions have priority
+see sect 4
+the minimal model
+1 g p
+state with its
+generates the new
+with generally distributed
+k ff 1
+states of the
+of p k
+to dene the
+the set of
+theorem 3 8
+start of a
+a generalized semi
+applying the formal
+procedure for deriving
+the parallel operator
+sg is a
+of exponential distributions
+a d a
+w r t
+in this way
+notion of bisimulation
+of stochastic systems
+as in 19
+the performance model
+probability p r
+equivalence relation over
+probability distribution functions
+m q is
+a process algebra

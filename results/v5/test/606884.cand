@@ -1,0 +1,600 @@
+gu
+skorokhod
+t1
+gj
+entrant
+qi
+dv
+rf
+nonnegative
+ni
+xi
+mq
+j1
+idling
+gi
+rn
+saddle
+hamiltonian
+uniqueness
+complementarity
+lipschitz
+orthant
+xb
+queueing
+dynamics
+server
+u0
+queue
+load
+boundary
+filippov
+ej
+bf
+aj
+ji
+interior
+dierential
+54
+hu
+dt
+fluid
+uu
+hamilton
+service
+gub
+gua
+pgu
+optimality
+ai
+ik
+exogenous
+maximizer
+52
+loads
+g2
+verifications
+viscosity
+xa
+queues
+continuity
+supremum
+x2
+trajectory
+family
+53
+reflection
+0fori
+gtj
+tn1
+gei
+mjt
+jk
+wi
+tn
+dai
+calculations
+confirmed
+mj
+di
+arrivals
+x1
+andi
+policy
+customers
+feedback
+s1
+jj
+inequalities
+integrable
+dj
+convex
+jacobi
+virtue
+ui
+q2
+confirmation
+accord
+idi
+jk1
+siui
+uand
+nlt
+isaacs
+draining
+andq
+akj
+0andq
+2s2
+uis
+s1s
+inflow
+game
+stability
+1k
+nonempty
+projection
+strategies
+confirming
+departures
+eect
+calculation
+velocity
+xj
+nonzero
+coordinate
+unserved
+dupuis
+s2
+piecewise
+strategy
+scalar
+existence
+dicult
+x3
+maximal
+exit
+singleton
+pi
+p1
+45
+trac
+uwe
+infimum
+stochastic
+nj
+backwards
+1x
+qualifications
+formulas
+l2
+origin
+66
+entries
+exceptions
+criterion
+confirm
+dierent
+assertions
+region
+outer
+deductive
+qualification
+xk
+lag
+staged
+72
+gradient
+imply
+compact
+q1
+j2
+ray
+reaches
+representable
+invariant
+exclude
+suciently
+ak
+suces
+maximizes
+entry
+observe
+formulation
+lemma
+confirms
+e1
+sn
+coecients
+numerically
+invoke
+sucient
+manifold
+satisfied
+exception
+servers
+assertion
+e2
+insist
+pl
+verify
+x t
+q gu
+q t
+u t
+the skorokhod
+gu 0
+re entrant
+dv x
+any u
+x v
+i x
+skorokhod problem
+load q
+v x
+u x
+skorokhod dynamics
+x q
+t x
+t 0
+non idling
+p gu
+x k
+p t
+0 t
+p x
+t1 0
+qi t
+minimum performance
+qi 0
+t p
+t t1
+x 0
+that ni
+p t1
+gu t
+x t1
+j j
+saddle point
+given x
+t1 p
+invariant control
+nonnegative orthant
+ni p
+0 for
+with x
+complementarity problem
+performance criterion
+the complementarity
+x p
+0 q
+observe that
+the interior
+maximal sequence
+server re
+mq g2
+x dv
+strategy x
+gu q
+p rf
+t gu
+loads q
+which x
+t remains
+t t
+t in
+52 54
+of 52
+projection map
+state feedback
+that x
+follows that
+the nonnegative
+in 45
+it follows
+single server
+x is
+and 26
+mq gu
+gu and
+the hamilton
+robust control
+to 54
+x gu
+optimal service
+fluid models
+rf q
+hamilton jacobi
+hu x
+dynamics on
+viscosity sense
+our family
+control vector
+velocity projection
+entry queue
+x mq
+state trajectory
+all t
+we know
+of section
+optimal control
+the saddle
+all u
+of x
+are positive
+30 33
+queueing systems
+t which
+the boundary
+the uniqueness
+control functions
+j j1
+xi 0
+new arrivals
+point conditions
+for t
+over u
+in 2
+check that
+solution of
+all i
+supremum is
+rn and
+control function
+interior of
+i i
+of 30
+for x
+the hamiltonian
+scalar multiple
+u is
+25 and
+a scalar
+optimal policy
+lipschitz in
+rf v
+gtj gj
+control vectors
+mjt mj
+boundary verifications
+special solution
+gj x
+server examples
+feasible maximizer
+t dv
+bf p
+that gj
+our single
+stability property
+1 t1
+vertical boundary
+gj j
+exit k
+compact subset
+u0 of
+reflection matrix
+verifications of
+nonnegative load
+individual hamiltonian
+outer boundary
+dynamics will
+of dv
+v rn
+0fori f
+a skorokhod
+queueing applications
+ni gu
+lipschitz continuity
+gi j
+entrant line
+x for
+remains in
+is indeed
+the service
+quadratic programming
+function v
+t for
+the supremum
+a load
+0 when
+the optimal
+f l
+the optimality
+exception to
+hamiltonian system
+multiple server
+a dierential
+trajectory x
+t1 x
+nonnegative entries
+those q
+conditions 25
+numerous examples
+simply take
+check by
+and u0
+t 2
+that which
+we will
+that u
+the system
+x t p
+x q gu
+u t x
+t p t
+load q t
+i i x
+any u x
+the skorokhod dynamics
+x 0 q
+t1 p t1
+t x t
+minimum performance criterion
+the nonnegative orthant
+of the skorokhod
+p gu 0
+the minimum performance
+x t remains
+0 t t
+0 for all
+it follows that
+dv x t
+the skorokhod problem
+l i x
+gu 0 for
+the complementarity problem
+gu q gu
+t remains in
+q gu q
+ni p gu
+server re entrant
+of x t
+25 and 26
+t x 0
+for which x
+for any u
+of x v
+x t 2
+of our family
+q gu and
+t gu t
+invariant control vector
+q t which
+for t t1
+q t gu
+1 x t
+the invariant control
+a load q
+x q t
+any u t
+loads q t
+skorokhod dynamics on
+rf q gu
+x t1 p
+saddle point conditions
+velocity projection map
+as in 45
+the saddle point
+is a scalar
+a given x
+x t x
+0 q t
+all t 0
+t x q
+the load q
+x t k
+all u x
+x 0 k
+a scalar multiple
+the interior of
+section 2 4
+t 0 for
+that p x
+f l i
+scalar multiple of
+of v x
+that x t
+f i x
+for all t
+for all u
+that for 0
+t 0 we
+x t for
+that ni gu
+the vertical boundary
+and u0 of
+control functions u
+t dv x
+v 0 when
+state trajectory x
+the strict inequality
+p t1 p
+queues are empty
+have so that
+qi t 0
+given x k
+single server re
+the service rates
+boundary verifications of
+the supremum is
+t t1 0
+x t1 x
+a skorokhod problem
+u0 of our
+which x t
+verifications of section
+g and u0
+the boundary verifications
+resulting state trajectory
+outer boundary of
+the viscosity sense
+the outer boundary
+bf p gu
+function u t
+point conditions 25
+the velocity projection
+control function u
+construction of v
+when i x
+the hamilton jacobi
+x x q
+all 0 t
+of the nonnegative
+the j j
+re entrant line
+t1 x t1
+q t and
+invariant control vectors
+our single server
+of dv x
+conditions 25 and
+complementarity problem is
+the reflection matrix
+t the resulting
+x dv x
+the form for
+for all i
+for purposes of
+on the boundary
+is a singleton
+u x and
+x v are
+function v x
+given x 0
+trajectory x t
+any x 0
+x k with
+solution x t
+the quadratic programming
+p t as
+x v in
+for x k
+family of solutions
+j j j
+by virtue of
+for a given
+we know that
+x v is
+x t in
+there does exist
+x t to
+t t we
+on the interior
+the optimal control
+t 0 the
+with x t
+q t in
+the final stage
+i x for
+the right side
+in the interior
+of section 3
+form for some
+the resulting state
+is an exception
+an exception to
+in accord with
+are positive in
+construction of the
+of our model
+the optimal policy
+problem subject to
+q t is
+for all 0
+with x 0
+to see that
+turns out that
+the following hold
+x k and
+p x is
+that which is
+observe that since
+we have so
+it turns out
+a solution of
+as in 2
+we have already
+that for some
+x is a
+properties of the
+first observe that

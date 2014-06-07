@@ -1,0 +1,600 @@
+homing
+walk
+learning
+reset
+automata
+learn
+automaton
+learner
+elr
+angluin
+dfa
+dfas
+string
+distinguishing
+ffi
+walks
+elrr
+noise
+noisy
+enlr
+teacher
+entry
+strings
+schapire
+queries
+player
+cover
+opponent
+rivest
+probability
+counterexamples
+equivalence
+nc
+5n
+executions
+fill
+reached
+f0
+target
+jhj
+copy
+outputs
+1g
+exact
+games
+learned
+observes
+copies
+hypothesis
+2n
+8c
+discard
+labeled
+performing
+log
+prefix
+restart
+pac
+lock
+closed
+hoeffding
+game
+q1
+robot
+orient
+polynomial
+dean
+dana
+leveled
+reach
+bender
+fallible
+gammakv
+hypotheses
+majority
+prefixes
+oe
+event
+pseudo
+simulate
+deltas
+whang
+incorrect
+output
+completed
+learnability
+multiplicity
+filled
+ff
+branching
+entries
+membership
+observed
+deltaoe
+8q
+sahai
+penny
+payoff
+fraction
+repeated
+conductance
+running
+cycle
+players
+distinguishes
+random
+unknown
+kearns
+ignorant
+label
+deterministic
+ron
+indegree
+row
+reaches
+executing
+consistent
+pebble
+inference
+subroutine
+executed
+outdegree
+directed
+vadhan
+playing
+salil
+fernndez
+learns
+fortnow
+traverse
+probabilistic
+domination
+irreducible
+oracle
+outgoing
+bounding
+effective
+randomized
+randomly
+adversaries
+confidence
+action
+accepting
+candidate
+width
+efficiently
+freund
+biases
+computationally
+resetting
+constructs
+qn
+amit
+robots
+inferring
+fills
+vote
+gabrijel
+colt90
+couterexamples
+bergando
+gammakp
+alnece
+tinguishes
+tyranny
+dobnikar
+languaages
+varricchio
+columned
+rump
+0reaches
+overcome
+passes
+cryptographic
+outcome
+rate
+actively
+filling
+period
+erroneous
+variant
+edge
+differ
+scenario
+njt
+eshkol
+dmin
+answers
+suffix
+regular
+play
+observation
+hard
+polynomially
+detect
+multiples
+execution
+andrej
+slonim
+rack
+homing sequence
+exact learn
+a homing
+with reset
+cover time
+learn with
+target automaton
+output sequence
+effective starting
+the learner
+distinguishing entry
+a reset
+algorithm exact
+learning algorithm
+observation table
+walk corresponding
+nc m
+noisy learn
+exact noisy
+noise rate
+of exact
+of h
+state q
+from q
+c m
+random walk
+finite automata
+equivalence queries
+state reached
+starting states
+the noise
+exact learning
+the cover
+a distinguishing
+learn given
+given homing
+the walk
+table t
+correct output
+starting state
+q 2
+walk of
+walk on
+the player
+sequence corresponding
+a teacher
+with probability
+q 0
+rivest and
+probability at
+sequence h
+m log
+exactly learning
+reset r
+a walk
+the target
+5n 2
+each walk
+small cover
+walk starting
+target dfa
+r i
+starting from
+a string
+the learning
+high probability
+of strings
+noise free
+most n
+states q
+ffi 5
+running time
+and schapire
+q m
+least 1
+the output
+2 q
+the algorithm
+fill in
+the opponent
+the running
+to fill
+walk to
+angluin s
+log 5n
+exactly learned
+estimate noise
+learning dfas
+for every
+every state
+2 ffi
+executions of
+1 ffi
+f0 1g
+sequence is
+th execution
+procedure estimate
+reset in
+combination lock
+output of
+with high
+repeated games
+o nc
+closed then
+entry in
+log 1
+2 f0
+has means
+corresponding to
+learner has
+1 gamma
+time of
+of automata
+is at
+labeled by
+at most
+deterministic finite
+the state
+string r
+of length
+single walk
+strings r
+gamma j
+means of
+probability that
+an entry
+q 1
+such entry
+execution of
+same equivalence
+by performing
+q there
+computationally bounded
+row t
+ff log
+m ffi
+a hypothesis
+polynomial in
+equivalence class
+free case
+gamma ffi
+maximum length
+same state
+a state
+entry is
+8c m
+existing copies
+ff 8c
+executing h
+sequence observed
+learner performs
+teacher that
+schapire s
+of elr
+corresponding walk
+majority observed
+the probability
+states it
+automata from
+performing a
+a random
+string s
+branching programs
+counterexamples to
+reset and
+the correct
+of states
+in t
+underlying graph
+h is
+the automaton
+dean et
+reaches q
+m executions
+output observed
+h which
+membership queries
+in m
+2 r
+corresponding output
+n executions
+learner does
+learning regular
+that q
+start state
+t r
+every string
+2n 2
+an observation
+of angluin
+h takes
+automaton m
+each phase
+state in
+random walks
+of outputs
+pseudo code
+is o
+the fraction
+learning from
+a homing sequence
+learn with reset
+exact learn with
+the target automaton
+of a reset
+of exact learn
+algorithm exact learn
+execution of h
+the cover time
+homing sequence is
+exact noisy learn
+walk corresponding to
+output sequence corresponding
+executions of h
+effective starting states
+cover time of
+the walk corresponding
+starting from q
+a distinguishing entry
+given homing sequence
+learn given homing
+c m log
+exact learn given
+the correct output
+probability at least
+sequence corresponding to
+with probability at
+a random walk
+with high probability
+rivest and schapire
+correct output sequence
+observation table t
+homing sequence h
+with reset r
+the noise free
+the state reached
+log 1 ffi
+the learning algorithm
+random walk of
+to fill in
+means of a
+q 2 q
+effective starting state
+noisy learn with
+when the learner
+small cover time
+copies of exact
+the algorithm exact
+at most n
+walk on the
+at least 1
+walk of length
+every state q
+exact learning algorithm
+running time of
+a state q
+the output sequence
+walk to fill
+estimate noise rate
+noise free case
+procedure estimate noise
+log 5n 2
+each walk to
+5n 2 ffi
+an observation table
+from q m
+the target dfa
+o nc m
+m log 5n
+2 f0 1g
+state q 2
+r i 2
+the running time
+angluin s algorithm
+the noise rate
+fill in an
+th execution of
+for every state
+in the noise
+the learner has
+i 2 r
+in an entry
+row t r
+of exactly learning
+sequence of outputs
+1 gamma j
+when a homing
+algorithm exact noisy
+has means of
+with reset in
+of exact noisy
+nc m ffi
+be exactly learned
+of effective starting
+nc m log
+perform the walk
+homing sequence and
+starting state and
+a walk on
+the probability that
+of h which
+1 gamma ffi
+of the state
+output of the
+maximum length of
+q there exists
+string r i
+entry in t
+a string r
+an exact learning
+a single walk
+the maximum length
+of finite automata
+same equivalence class
+it is at
+the output of
+r 1 such
+the same equivalence
+that for every
+an entry in
+on the target
+the same state
+ffl the number
+exists a string
+the state it
+starting at q
+consistent and closed
+length c m
+the observation table
+copy of exact
+and schapire s
+i th execution
+walk starting from
+row in t
+o c m
+h is executed
+learner has means
+ff 8c m
+not closed then
+the learner performs
+one effective starting
+a teacher that
+output sequence observed
+the corresponding walk
+all existing copies
+than one effective
+of strings r
+single walk on
+corresponding output sequence
+learner performs a
+the majority observed
+repeated games against
+pair of effective
+h which is
+set of strings
+type of event
+least 1 gamma
+such that q
+is at most
+time of the
+the corresponding output
+can be exactly
+of states q
+time of m
+j of j
+no means of
+is a distinguishing
+dean et al
+the learner does
+m executions of
+m log 1
+learning when a
+most n values
+has no means
+the start state
+which is o
+of the algorithm
+the fraction of
+problem of exactly
+oe 2 f0
+learner does not
+and log 1
+performs a single
+state in b
+in b q
+from queries and
+n executions of
+presence of noise
+pair of states
+entry in the
+high probability the
+n times and
+corresponding to h
+0 in q
+the algorithm is
+after at most
+that with probability
+for each value
+2 r 1
+the underlying graph

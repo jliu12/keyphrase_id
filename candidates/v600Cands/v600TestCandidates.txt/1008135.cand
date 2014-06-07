@@ -1,0 +1,600 @@
+cgls
+lanczos
+multishift
+attainable
+recurrences
+alg
+krylov
+residual
+cg
+shifted
+squares
+conjugate
+iterates
+tridiagonal
+rounding
+precision
+perturbation
+gradient
+matrix
+residuals
+roundo
+accuracy
+subspace
+erence
+errors
+recurrence
+perturbed
+arithmetic
+paige
+tikhonov
+damped
+quantities
+qmr
+di
+orthonormal
+norm
+coupled
+ill
+numerical
+proposition
+inversion
+diagonal
+greenbaum
+conditioned
+vectors
+roundoff
+cients
+coe
+regularization
+factorized
+recursions
+dstqds
+chromodynamics
+normwise
+quantity
+erences
+floating
+scaling
+stagnates
+orthogonalization
+utrecht
+qd
+restarted
+quantum
+picture
+bidiagonal
+phillips
+ingredient
+shift
+ax
+products
+eigenvalues
+dash
+gmres
+dl
+summarized
+computations
+families
+implementations
+iterate
+stable
+ects
+error
+vector
+impact
+shifts
+mathematically
+symmetric
+cult
+proposals
+consult
+influence
+ciently
+forward
+ingredients
+cancellation
+iterations
+perturbations
+orthogonal
+overwhelming
+eigenvector
+columns
+convenience
+accurate
+cient
+confirm
+solving
+argued
+lemma
+mr
+attain
+expression
+subspaces
+bold
+norms
+euclidean
+exact
+attained
+1iteration
+elfving
+foxgood
+lscg
+modynamics
+ursell
+stroke
+3508
+colinear
+tridiagonalizing
+algorithmus
+chro
+quotienten
+erenzen
+eshof
+quark
+financially
+2iteration
+strako
+capitals
+insight
+minus
+stability
+contribution
+alternative
+monotonically
+ultimate
+characters
+factorization
+relations
+definite
+eventually
+inequality
+orck
+rences
+stiefel
+bidiagonalization
+sylvester
+dhillon
+parlett
+rutishauser
+035
+hestenes
+dot
+band
+zeros
+bounding
+gap
+su
+variants
+formulation
+guess
+unconventional
+masses
+warn
+canceled
+precisions
+outlook
+inspection
+stress
+plays
+variant
+250
+tries
+inner
+stationary
+dotted
+cf
+celebrated
+arnoldi
+countless
+bicgstab
+approximations
+lattice
+outcome
+thankful
+positivity
+erential
+nwo
+dutch
+dashed
+multiplying
+cgls method
+the cgls
+multishift cgls
+the multishift
+the lanczos
+lanczos method
+lanczos part
+attainable accuracy
+the attainable
+cgls lanczos
+least squares
+cg method
+conjugate gradient
+standard lanczos
+the shifted
+krylov subspace
+shifted systems
+finite precision
+the cg
+the iterates
+alg 1
+matrix a
+cgls recurrences
+rounding errors
+the matrix
+the krylov
+accuracy of
+16 alg
+lanczos relation
+the perturbation
+gradient method
+precision computations
+alg 2
+tridiagonal matrix
+squares problems
+shifted system
+alternative lanczos
+forward error
+squares problem
+the vector
+linear systems
+computer arithmetic
+shifted linear
+true residual
+the computed
+method based
+di erence
+errors in
+starting vector
+damped least
+perturbed lanczos
+w vectors
+iterates for
+inversion part
+perturbation term
+for shifted
+numerical experiments
+a t
+relative error
+the conjugate
+method applied
+in finite
+two term
+coupled two
+on coupled
+condition number
+w 3
+7 16
+of rounding
+a perturbed
+the residuals
+term recurrence
+w 1
+method the
+of shifted
+stable method
+qmr method
+recurrences in
+squares residual
+the qmr
+coupled recurrences
+of cgls
+for solving
+matrix vector
+the standard
+proposition 2
+ill conditioned
+method is
+t k
+exact arithmetic
+lanczos vectors
+normal equations
+orthogonal basis
+roundo errors
+term recurrences
+the tridiagonal
+r k
+2 6
+the di
+basis for
+in exact
+three term
+matrix t
+method it
+6 5
+errors made
+with starting
+relatively close
+orthonormal basis
+vector a
+the residual
+an orthonormal
+error analysis
+to applying
+the error
+a multishift
+cg type
+x cgls
+multishift version
+cgls methods
+vector updates
+for least
+multishift versions
+lanczos process
+the damped
+future convenience
+exact conjugate
+the least
+diagonal elements
+erence in
+computation of
+the quantities
+t b
+6 4
+r j
+solution of
+summarized by
+special structure
+vector w
+method and
+direct application
+method for
+lanczos type
+b ax
+residuals r
+recurrence relations
+subspace k
+residual gap
+that depends
+the norm
+the inversion
+g 12
+expression for
+coe cients
+norm of
+approximate solution
+erence between
+s k
+6 3
+in 5
+side b
+mathematically equivalent
+the ill
+the iterate
+previous proposals
+factorized form
+recurrences for
+lanczos and
+abstract formulation
+the contribution
+the computation
+the true
+square of
+right hand
+with diagonal
+point arithmetic
+16 theorem
+in 2
+hand side
+vector product
+15 6
+matrix s
+the impact
+to bound
+method in
+is summarized
+inner products
+floating point
+a with
+v k
+key ingredient
+part on
+di erences
+part as
+quantities in
+type methods
+implementations of
+this quantity
+test problems
+an orthogonal
+multishift cgls method
+the multishift cgls
+of the multishift
+the cgls method
+the lanczos part
+the attainable accuracy
+attainable accuracy of
+of the cgls
+the cgls lanczos
+the standard lanczos
+cgls lanczos method
+the cg method
+standard lanczos method
+the matrix a
+for the lanczos
+of the lanczos
+cgls method is
+on the attainable
+accuracy of the
+for the krylov
+the krylov subspace
+conjugate gradient method
+the shifted systems
+cgls method based
+the cgls recurrences
+in the lanczos
+for the shifted
+the least squares
+the lanczos method
+least squares problems
+errors in the
+in the cgls
+shifted linear systems
+in finite precision
+least squares problem
+method based on
+finite precision computations
+rounding errors in
+the conjugate gradient
+the true residual
+starting vector a
+damped least squares
+cgls method it
+vector a t
+the perturbation term
+matrix t k
+the lanczos relation
+cgls method the
+contribution of w
+in the multishift
+to the matrix
+method applied to
+based on coupled
+lanczos method for
+coupled two term
+for the least
+basis for the
+a t b
+a t a
+of rounding errors
+in 2 6
+for the multishift
+the iterates for
+the qmr method
+for shifted linear
+iterates for the
+errors made in
+of the cg
+least squares residual
+a with starting
+for the cg
+orthogonal basis for
+on the cgls
+vector w 3
+of the perturbation
+the forward error
+in exact arithmetic
+the condition number
+implementation of the
+with starting vector
+on the square
+of the iterates
+two term recurrences
+the di erence
+the computation of
+expression for the
+proposition 2 1
+summarized by the
+three term recurrence
+the vector w
+the norm of
+computation of the
+orthonormal basis for
+matrix a t
+di erence in
+of the matrix
+exact conjugate gradient
+lanczos part and
+multishift cgls methods
+with diagonal elements
+rounding errors made
+cgls method in
+in computer arithmetic
+recurrences in 2
+cgls method and
+w vectors for
+hand side b
+that the cgls
+the inversion part
+forward error is
+of the shifted
+5 4 8
+multishift versions of
+cg type methods
+matrix s k
+applying the cgls
+for the cgls
+16 alg 1
+recurrences for the
+that the multishift
+for future convenience
+16 alg 2
+cgls method for
+the multishift version
+lanczos part on
+for least squares
+the damped least
+a multishift cgls
+the w vectors
+an abstract formulation
+a perturbed lanczos
+the shifted system
+the ill conditioned
+7 16 alg
+cgls method to
+the alternative lanczos
+influence of rounding
+future convenience we
+in the computation
+lemma 4 1
+on the error
+that depends on
+the contribution of
+direct application of
+an orthonormal basis
+right hand side
+of the vector
+applied to the
+e g 12
+of the attainable
+the normal equations
+to applying the
+j 1 6
+2 6 can
+abstract formulation of
+special structure of
+t a with
+floating point arithmetic
+krylov subspace k
+tridiagonal matrix t
+the residual gap
+an orthogonal basis
+on the numerical
+given in 4
+the three term
+k j a
+on coupled two
+the finite precision
+4 5 4
+relatively close to
+matrix vector product
+di erence between
+norm of the
+of the standard
+w 1 and
+a direct application
+the matrix vector
+of the conjugate
+the error in
+the square of
+as an alternative
+the expression for
+for solving linear
+solving linear systems
+6 2 6
+the vector x
+of t k
+in 6 2
+the special structure
+condition number of
+j a b
+made in the
+numerical experiments in
+of w 1
+and therefore the
+of the method
+matrix a with
+upper bounds on
+and right hand
+the numerical solution

@@ -1,0 +1,600 @@
+leader
+replicas
+replication
+followers
+rapids
+ada
+replica
+follower
+rpc
+events
+event
+abortions
+partitions
+transparency
+the_event
+logging
+determinism
+tasking
+observable
+abort
+replicated
+dispatching
+garlic
+deterministic
+replay
+multicast
+repl
+wol98
+tasked
+iso95
+95
+consensus
+logged
+transparent
+partition
+active
+replaying
+deferred
+signaling
+fault
+pcs
+duplicate
+frontmost
+piecewise
+protected
+subprogram
+req
+message
+log
+replayed
+calendar
+semi
+remote
+atc
+passive
+rpcs
+finalization
+calls
+task
+failure
+replays
+tolerant
+deliveries
+scheduling
+synchronization
+tasks
+the_operation
+do_operation
+is_follower
+repli
+rep
+messages
+group
+failures
+gnat
+maft
+sch90
+request
+reliable
+unprotected
+aborted
+sift
+logs
+synchronized
+creations
+abortion
+package
+synchronous
+delivery
+cas
+decisions
+mars
+dependencies
+executions
+intervals
+tolerance
+timed
+transactional
+calling
+execute
+tagged
+phoenix
+fifo
+heterogeneous
+timing
+sync
+sending
+retained
+objects
+identifier
+consistency
+checkpointing
+prototype
+subsumed
+checkpoint
+impractical
+actions
+conse
+occurred
+statements
+accesses
+transparently
+fig
+crash
+iso
+interface
+diverge
+bmd93
+ss93
+sy85
+pra96
+send_log
+eln93
+pow91
+8652
+erro
+finalization_implementation
+kpt95
+ht94
+external_tag
+gnarl
+do_rpc
+real_time
+mfsw95
+wol97
+buffer
+totally
+synchronizing
+client
+encapsulated
+locking
+interval
+abstracts
+erroneous
+configured
+agreement
+coordinated
+regions
+lic
+abortable
+vagaries
+gar
+indistinguishable
+my
+garbage
+reply
+identifiers
+toolkit
+initialization
+synchronize
+failed
+asynchronous
+requeueing
+xpa
+deferral
+lockstep
+fortu
+upheld
+recreates
+cooperation
+delay
+entry
+recovery
+id
+offers
+pragma
+neous
+pleted
+manetho
+threatens
+lock
+controlled
+manager
+internal
+clock
+waited
+piled
+tition
+unlocking
+dard
+ada 95
+the leader
+active replication
+semi active
+the followers
+event log
+all replicas
+a follower
+extended state
+task dispatching
+piecewise deterministic
+deterministic computation
+abort deferred
+replicated partition
+the event
+state interval
+computation model
+replica transparency
+in ada
+distributed ada
+observable event
+state intervals
+the log
+non determinism
+group wide
+deferred regions
+its followers
+duplicate message
+partitions in
+task scheduling
+new leader
+non deterministic
+system rpc
+an rpc
+the pcs
+replication is
+a failure
+passive replication
+reliable multicast
+the piecewise
+dispatching points
+multi tasked
+message detection
+follower is
+dispatching point
+ada calendar
+rpc replication
+the group
+determinism in
+in distributed
+delay statements
+active partitions
+rpc result
+controlled objects
+rpc request
+leader and
+internal events
+observable events
+a replicated
+replicas are
+logging and
+of replicas
+and replay
+other partition
+group communication
+wide id
+req b
+transparent replication
+replicas execute
+leader f
+replicated ada
+rapids replicated
+abortions in
+iso95 9
+95 partitions
+replication transparency
+timing dependencies
+full tasking
+ada partitions
+of rapids
+signaling actions
+in atc
+log buffer
+calendar clock
+of controlled
+fault tolerant
+replication the
+a leader
+of ada
+view change
+view synchronous
+replica consistency
+synchronous group
+type event
+and replaying
+rep a
+event logging
+tasking model
+replaying events
+scheduling decisions
+with valid
+valid set
+remote calls
+sending an
+time support
+replication of
+message deliveries
+one replica
+entry calls
+replay the
+a partition
+fault tolerance
+leader to
+application level
+the events
+the application
+and passive
+tolerance in
+other active
+machine approach
+all task
+log to
+replication in
+of replication
+some other
+distributed application
+of retained
+95 application
+transparency cannot
+state accesses
+former leader
+cause replicas
+e transparency
+transparency i
+timed entry
+get returns
+task creations
+to rapids
+next extended
+garlic rapids
+followers using
+frontmost event
+replication manager
+retained results
+initialization finalization
+deterministic events
+multicast primitive
+followers in
+replica synchronization
+logging events
+tasked partition
+followers must
+partition sending
+this replica
+deterministic executions
+system garlic
+follower replays
+abortions and
+interactive agreement
+all go
+the gnat
+replica organization
+req a
+nested remote
+replay events
+followers are
+implicit timing
+replicas instead
+if replicas
+selective accept
+partition itself
+deferred region
+rapids is
+transparency towards
+repl event
+out occurred
+reply rep
+repli cas
+wide task
+event with
+the replicated
+of events
+events the
+the observable
+the language
+of non
+communication system
+logs it
+continues executing
+for logging
+state transfer
+prototype stage
+remote call
+protected actions
+finalization and
+deterministic task
+has replayed
+deliveries are
+matching event
+leader it
+semi active replication
+deterministic computation model
+the event log
+extended state interval
+in ada 95
+on the leader
+piecewise deterministic computation
+the piecewise deterministic
+distributed ada 95
+abort deferred regions
+the new leader
+non determinism in
+some other partition
+task dispatching point
+in distributed ada
+on all replicas
+task dispatching points
+a replicated partition
+duplicate message detection
+system rpc replication
+of controlled objects
+partitions in distributed
+sending an rpc
+the leader and
+of ada 95
+tolerance in distributed
+of non deterministic
+an rpc request
+task scheduling decisions
+ada calendar clock
+an rpc result
+and passive replication
+group wide id
+beyond the group
+for non determinism
+view synchronous group
+on a follower
+abortions in atc
+valid set to
+full tasking model
+rapids replicated ada
+replication of non
+the full tasking
+new leader f
+event log buffer
+the replicated partition
+ada partitions in
+replicated ada partitions
+tasking model of
+with valid set
+to the followers
+active replication the
+determinism in ada
+ada 95 partitions
+the observable event
+group of replicas
+a failure of
+other active partitions
+run time support
+in distributed systems
+from the leader
+fault tolerance in
+of non determinism
+active and passive
+state machine approach
+of the replicated
+group communication system
+the application level
+through the same
+each and every
+ada 95 application
+present a consistent
+and every event
+signaling actions and
+non deterministic executions
+for the gnat
+replicated partition itself
+replica transparency cannot
+as delay statements
+to its followers
+get the lock
+all go through
+followers in order
+the reply rep
+the abort deferred
+the followers must
+time support and
+cause replicas to
+a view synchronous
+finalization and assignment
+log the event
+partition sending an
+within the pcs
+and replaying events
+rpc result back
+abort deferred region
+active replication is
+initialization finalization and
+using semi active
+collection of retained
+of deterministic state
+partitions in ada
+message deliveries are
+issue of replication
+group wide task
+all task scheduling
+log and replay
+synchronous group communication
+system garlic rapids
+nested remote call
+95 partitions using
+events the leader
+a follower replays
+this state transfer
+the next extended
+an observable event
+by observable events
+i e transparency
+observable events the
+its followers using
+replicas are organized
+to log and
+replicas to diverge
+a multi tasked
+repl event with
+determinism in the
+send the log
+type event is
+transparency i e
+state interval s
+iso95 9 8
+log to its
+task scheduling decision
+and replay events
+leader f 1
+the task dispatching
+of replicas instead
+a replication manager
+e transparency towards
+state interval as
+assignment of controlled
+sequence of deterministic
+rpc request to
+extended state intervals
+wise deterministic computation
+reliable multicast primitive
+replay the event
+deterministic state intervals
+of retained results
+transparent replication of
+event logging and
+a follower is
+execute the observable
+account for non
+in a duplicate
+it has replayed
+group communication layer
+multi tasked partition
+the former leader
+time out occurred
+state accesses must
+non deterministic events
+logging and replay
+next extended state
+for logging and
+organized as a
+go through the
+same sequence of
+the run time
+to other active
+logging and replaying
+request to some
+delivery of an
+cooperation of the
+ada 95 in
+replication for fault
+a distributed ada
+the group communication
+of a replication
+at point r
+of the followers
+identically on all
+an application task
+the extended state
+to replay the
+partitions must be
+entering and leaving
+a system task
+be offered in
+to some other
+the group of
+the same sequence
+re execute the
+and assignment of
+an extended state
+model of ada
+remote access to
+list of events
+totally ordered multicast
+the event for

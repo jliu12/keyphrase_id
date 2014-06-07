@@ -1,0 +1,600 @@
+synchronizer
+processor
+delays
+rate
+synchronizers
+processors
+stochastic
+ro83
+petri
+dilation
+network
+nbue
+markov
+embedding
+nets
+transmission
+distributions
+firing
+chain
+er2
+er1
+ws
+negligible
+message
+transits
+bt89
+s84
+topologies
+networks
+messages
+ff
+exponentially
+directed
+enabled
+delta
+log
+cycle
+limiting
+vertex
+subadditive
+gx
+ck
+ae
+ffi
+shuffle
+pr
+fork
+convex
+ergodic
+edges
+marked
+topology
+synchronization
+exponential
+a1
+asynchronous
+queueing
+quiescent
+clock
+vertices
+realization
+beats
+proposition
+edge
+embed
+queuing
+incoming
+ps
+deterministic
+ba89
+mmz88
+rajsbaum
+r88
+ma89
+awakened
+debruijn
+bg89
+chep
+d70
+bl91
+pu89
+slowdown
+slow
+combinatorial
+vg
+unam
+bs88
+spanner
+probabilities
+degraded
+synchronous
+grows
+gamma1
+random
+remark
+queues
+indegree
+kb
+outdegree
+completion
+degree
+corollary
+fi
+recursions
+cb
+logarithmic
+induction
+butterfly
+completed
+graphs
+arrived
+coming
+slows
+ending
+slower
+schedulers
+diminishes
+tentative
+sends
+join
+kd
+gammak
+sent
+identically
+strongly
+probability
+transition
+rates
+shall
+m2
+links
+bounds
+son
+inductive
+eg
+jv
+snapshots
+acyclic
+regular
+breadth
+st
+fx
+gamma
+techsel
+cl85
+ciudad
+dgsca
+transmissiondelays
+fikm
+b88
+v2v
+simplesynchronizer
+rm92
+theassumption
+ps89
+04510
+exponentialdistribution
+awake
+pv89
+unittime
+bm89
+redvax1
+quentin
+westudy
+bmt89
+liberty
+bk91
+sy86
+matematicas
+instituto
+sideman
+k73
+c67
+ra91
+unison
+therandom
+forthe
+gurdip
+grst92
+selfloop
+theaverage
+bfs
+lipman
+og87
+bakr
+bms89
+synchronousnetwork
+abottleneck
+leastlog
+path
+minus
+bottleneck
+finishes
+token
+a2
+recurrence
+investigations
+routing
+optimistic
+definite
+processing times
+the rate
+processor v
+rate of
+k v
+transmission delays
+the network
+a processor
+computational step
+stochastic petri
+the synchronizer
+the processing
+directed cycle
+random variables
+g v
+log delta
+petri nets
+delta in
+markov chain
+level l
+networks with
+limiting probability
+k 0
+exponentially distributed
+network is
+the markov
+every k
+of processors
+marked graphs
+mean gamma1
+simple synchronizer
+negligible delays
+log ffi
+the limiting
+ff v
+rate is
+k n
+slow processor
+v k
+with dilation
+in g
+s 0
+complete graph
+e t
+simple directed
+network synchronization
+times k
+ws k
+v e
+processor in
+t v
+delays are
+m k
+with mean
+order n
+log n
+in v
+non negligible
+r v
+its in
+asynchronous network
+network with
+theorem 3
+t k
+state s
+a network
+of distributions
+time t
+the processors
+ck log
+state ws
+ro83 s84
+more variable
+computation rate
+synchronizer is
+potential rate
+negligible transmission
+processing state
+d out
+topology but
+regular degree
+synchronizer for
+ergodic theory
+a synchronizer
+chain associated
+variable than
+for every
+dilation 2
+arbitrary topology
+at level
+the random
+times in
+states in
+distributed networks
+in h
+n g
+one message
+processor is
+computational steps
+different topologies
+fork join
+v and
+v in
+edge to
+have that
+are independent
+strongly connected
+can embed
+variables k
+mean 1
+distribution f
+a complete
+all processors
+deterministic case
+complete network
+processors in
+probability distributions
+t g
+times are
+r g
+k 1
+of states
+h v
+an embedding
+4 log
+incoming edge
+embed the
+different networks
+global clock
+n gamma
+length k
+the slow
+lemma 4
+subadditive ergodic
+random processing
+of synchronizers
+kb n
+enabled processors
+exact computations
+in er1
+stochastic ordering
+network k
+general distributions
+ffi out
+corresponding processing
+degree network
+ps k
+marked graph
+stochastic marked
+compare networks
+steps executed
+transits to
+limiting probabilities
+general probability
+pr ck
+state ps
+same arbitrary
+same rate
+a processing
+theorem 4
+each processor
+v is
+g t
+ff j
+distributions of
+ffi in
+of distributed
+path of
+equal to
+v of
+we compare
+v for
+h are
+of length
+distributed with
+are random
+the delays
+lower bounds
+deterministic processing
+degraded by
+out degree
+same mean
+adding edges
+combinatorial approach
+a path
+network we
+n t
+v 0
+it follows
+of messages
+variables with
+of computation
+of v
+of stochastic
+follows that
+c n
+the behavior
+constant factor
+the exponential
+embedding is
+the rate of
+the processing times
+the rate is
+stochastic petri nets
+rate of a
+rate of the
+log delta in
+processing times in
+of the network
+that the rate
+t k v
+processing times are
+the order n
+in the network
+for every k
+the markov chain
+the random variables
+of a processor
+the limiting probability
+with mean gamma1
+e t i
+limiting probability of
+on the rate
+each of its
+a complete graph
+the network is
+a processor in
+of the synchronizer
+processing times k
+processing times and
+n g t
+times k v
+a simple directed
+every k 0
+the slow processor
+simple directed cycle
+a computational step
+at level l
+a network with
+of states in
+transmission delays are
+rate of any
+in distributed networks
+path of length
+g v e
+negligible transmission delays
+v e be
+random variables k
+chain associated with
+rate of computation
+message m k
+v k 0
+graph with dilation
+a processor v
+which the processing
+ck log delta
+can embed the
+embed the order
+variables k v
+the simple synchronizer
+number of states
+we have that
+k n is
+exponentially distributed with
+d in v
+of its in
+k v k
+one can embed
+an asynchronous network
+random variables with
+of the random
+on each of
+s 0 by
+level l is
+with dilation 2
+number of processors
+by theorem 3
+of length k
+the number of
+of the processing
+is at least
+e be a
+to s 0
+from s 0
+it follows that
+of the processors
+theorem 3 3
+up to time
+the same rate
+time t v
+logarithmic factor in
+random processing times
+edge to processor
+the synchronizer is
+the transmission delays
+of non negligible
+processor v in
+exponentially distributed processing
+v or simply
+deterministic processing times
+computational steps executed
+markov chain associated
+arbitrary topology but
+corresponding processing times
+more variable than
+the limiting probabilities
+the potential rate
+strongly connected graph
+same arbitrary topology
+of graph embedding
+non negligible transmission
+bounds for stochastic
+non negligible delays
+the same arbitrary
+the computation rate
+rate of v
+subadditive ergodic theory
+reached from s
+in k n
+ending in v
+the same mean
+of any network
+limiting probabilities of
+with different topologies
+n gamma l
+a directed cycle
+processor is enabled
+its in coming
+stochastic marked graphs
+distributed processing times
+of network synchronization
+general probability distributions
+n t v
+network k n
+mean gamma1 we
+by the firing
+state ws k
+r g v
+we compare networks
+with mean 1
+of computational steps
+transmission delays and
+the effect of
+lemma 4 1
+study the effect
+to time t
+maximum degree of
+n is at
+the network we
+processors in the
+in an asynchronous
+theorem 2 1
+a constant factor
+lower bounds on
+number of messages
+the behavior of
+realization of the
+are independent and
+the maximum degree
+1 the rate
+in the maximum
+h k v
+rate is at
+message transmission delays
+4 log n
+independent r v
+if the processing
+of different networks
+the incoming edge
+number of computational
+a program designed
+k 0 there
+variables with mean
+show that adding
+and lower bounds
+of a simple
+v 2 v
+graph in the
+is equal to
+an edge to
+incoming edge to
+path in h
+proof of part
+one message is
+a complete network
+theorem 3 8
+that the processing
+in networks with
+k 1 v
+distributed with mean
+be a network
+that lemma 4
+of distributed algorithms
+class of distributions
+networks with different
+distributions of the
+probabilities of the
+with the same
+of theorem 3
+upper and lower

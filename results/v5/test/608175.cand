@@ -1,0 +1,600 @@
+bmd
+sov
+bmds
+fulladder
+substitution
+circuit
+nonterminal
+adder
+terminal
+multipliers
+jf
+subst
+multiplier
+backward
+wallace
+diagrams
+substitute
+bits
+verification
+calls
+multiplication
+substituted
+gates
+moment
+mult
+cells
+circuits
+topological
+lambdab
+word
+gate
+cut
+labeled
+substituting
+arithmetic
+successor
+successors
+boolean
+su
+xm
+reverse
+substitutions
+ca
+hsis
+aand
+edge
+product
+combinational
+recursive
+unsigned
+node
+md
+multiplicative
+outputs
+ast
+costs
+vlsi
+bdds
+additionally
+partial
+verifying
+cir
+carry
+primary
+integer
+pointing
+products
+binary
+subsection
+polynomially
+inputs
+crossing
+rema
+theorema
+fullad
+mediately
+4to2
+fulladders
+phdd
+hamaguchi
+boole
+3to2
+makenode
+dividers
+automatical
+subtraction
+forming
+vertices
+moved
+ends
+depth
+processed
+bit
+weight
+diagram
+predecessor
+reaches
+gamma2x
+cuit
+e4
+substitu
+representations
+realization
+specifications
+weights
+outgoing
+encoding
+verified
+fa
+645
+figured
+oneself
+handed
+ladder
+1176
+2w
+cuits
+mtbdds
+vertex
+bounded
+256
+dfg
+watching
+prematurely
+orders
+lemma
+phi
+final
+simplifies
+multipli
+theo
+totally
+feasibility
+summing
+bdd
+testable
+intermediate
+2n
+incoming
+synthesis
+onto
+ful
+superfluous
+destroyed
+decision
+suggestion
+argu
+thermore
+ally
+formal
+sure
+downward
+stant
+manipulation
+constructing
+named
+diagonal
+ago
+adds
+interrupt
+feasible
+unchanged
+destroy
+dag
+middle
+symbolic
+shannon
+visualized
+spectively
+errors
+hybrid
+mo
+divisor
+overcoming
+add
+representatives
+decomposes
+tree
+continually
+attain
+fur
+analyzed
+proves
+maximally
+considerably
+breadth
+specification
+polynomial
+extracts
+composition
+resolving
+sizes
+afterwards
+logic
+der
+orderings
+analyze
+please
+calculates
+nally
+the bmd
+partial product
+a bmd
+product bits
+backward construction
+initial partial
+variable order
+the substitution
+sov structure
+bmd for
+in sov
+adder part
+the sov
+bmd f
+substitution of
+the adder
+binary moment
+the circuit
+o jf
+terminal node
+the bmds
+moment diagrams
+by backward
+labeled with
+bmd is
+of wallace
+fulladder cells
+wallace tree
+high edge
+topological order
+reverse topological
+by su
+high successor
+like multipliers
+subst calls
+verification by
+a terminal
+the variable
+input word
+nonterminal node
+recursive subst
+resulting bmd
+substitute algorithm
+bmd in
+the substitute
+the fulladder
+substitution process
+by o
+the cut
+f 0
+variable x
+the multiplication
+a i
+the multiplier
+arithmetic circuits
+of backward
+node for
+bounded by
+bmd after
+su and
+low path
+l xm
+bmd constructed
+partial products
+bmds for
+chosen reverse
+carry output
+product bit
+add calls
+tree like
+is bounded
+o n
+b j
+of verification
+by ca
+jf 0
+and gates
+word sizes
+been substituted
+and carry
+decision diagrams
+of variable
+substitution is
+node x
+verification of
+calls of
+execution steps
+sum and
+lemma 4
+linear moment
+final bmd
+b variables
+bmds have
+md a
+lambdab md
+calls because
+only experimental
+construction applied
+multiplier circuit
+verifying arithmetic
+bmd has
+bmd representing
+multiplicative binary
+to mult
+all fulladder
+same fulladder
+of multipliers
+method of
+of f
+x i
+the chosen
+x variables
+arithmetic functions
+theorem 4
+low and
+time independent
+the variables
+the costs
+the method
+in f
+the low
+variable a
+x k
+the complexity
+node labeled
+substituting x
+variable orders
+integer multiplication
+of arithmetic
+with binary
+recursive calls
+word level
+terminal vertices
+a nonterminal
+one nonterminal
+of substitutions
+functions with
+to time
+has size
+primary inputs
+algorithm calls
+a variable
+independent of
+bits a
+level specifications
+edge of
+the node
+formal verification
+and high
+the partial
+substituted by
+calls is
+to space
+outputs of
+jf j
+upper part
+boolean variables
+cut is
+to integer
+constructing the
+give classes
+phase lines
+high f
+time vlsi
+named low
+variables denote
+aand b
+hybrid decision
+bmd 2
+products bits
+bmd by
+ca we
+low x
+moment diagram
+unchanged otherwise
+unsigned integer
+mult ends
+high successors
+sov and
+bmds are
+v labeled
+intermediate bmds
+terminal value
+specific multiplier
+multipliers a
+4 complexity
+by lambdab
+fulladder in
+fulladder the
+multipliers is
+diagonal line
+256 bits
+su is
+starting bmd
+bits into
+i obviously
+b variable
+weighted variables
+add during
+ends immediately
+partial product bits
+initial partial product
+the adder part
+the sov structure
+the variable order
+the substitution of
+by backward construction
+for the adder
+verification by backward
+bmd for the
+the bmd for
+binary moment diagrams
+wallace tree like
+of wallace tree
+reverse topological order
+of the circuit
+of backward construction
+adder part of
+of the bmd
+a terminal node
+class of wallace
+tree like multipliers
+bounded by o
+is bounded by
+sum and carry
+the substitute algorithm
+i by su
+of verification by
+bmd in sov
+the partial product
+recursive subst calls
+a bmd in
+by o jf
+the substitution process
+substitution of x
+method of verification
+the resulting bmd
+of the substitution
+variable a i
+x i by
+the method of
+respect to time
+constructing the bmd
+jf 0 j
+chosen reverse topological
+and carry output
+method of backward
+input word sizes
+sov structure of
+is in sov
+to time independent
+the initial partial
+of o jf
+an initial partial
+j by ca
+partial product bit
+of the multiplier
+n 4 with
+high edge of
+the chosen reverse
+the bmds for
+x j by
+the sum and
+low and high
+4 with respect
+respect to space
+with binary moment
+by o n
+lemma 4 1
+independent of the
+node labeled with
+of execution steps
+number of execution
+verification of arithmetic
+with a variable
+o n 2
+time independent of
+the bmd representing
+bmds for the
+all fulladder cells
+to space and
+x l xm
+experimental data has
+carry output of
+for verifying arithmetic
+by su and
+and high edge
+the low path
+is a bmd
+lambdab md a
+md a i
+topological order for
+n 2 with
+bmd f 0
+backward construction applied
+resulting bmd is
+the same fulladder
+substitution is bounded
+verification of multipliers
+to be substituted
+be a bmd
+call to mult
+for the substitution
+the bmd constructed
+multiplicative binary moment
+construction applied to
+in a bmd
+o jf 0
+of variable orders
+only experimental data
+calls to add
+product bits a
+calls because of
+of binary moment
+nonterminal node for
+o n 4
+of the variable
+are labeled with
+of the method
+bits a i
+one nonterminal node
+the primary inputs
+k x l
+size of f
+the low and
+is a terminal
+arithmetic functions with
+the complexity of
+of the chosen
+topological order of
+x k x
+of node x
+labeled with a
+node for each
+substitution of the
+part of the
+the size of
+on the variable
+the class of
+the upper part
+data has been
+to the class
+with respect to
+formal verification of
+2 with respect
+2 lemma 4
+in the variable
+order for the
+we can give
+a formal proof
+of f 0
+i reaches its
+primary inputs of
+give classes of
+non terminal node
+multiplication of a
+add calls because
+circuits with binary
+on the bmds
+in bmd f
+node with value
+as can easily
+by lambdab md
+a b variable
+each variable representing
+sov structure as
+reaches its final
+substitution of node
+diagrams for verifying
+structure of f
+space and o
+a bmd for
+backward construction the
+we give classes
+are named low
+the final bmd
+4 4 complexity
+product bits into
+multipliers is bounded
+by the bmds
+output lines of
+diagonal line the
+bmd f is
+delta b j
+verifying arithmetic circuits
+product bit a
+the variables representing
+remains unchanged otherwise
+starting bmd f
+su and x
+substitute the variables
+product bits if
+functions over boolean
+node x by
+with input word
+terminal high successor
+the chosen variable
+by su the
+during the substitution
+the and gates

@@ -1,0 +1,600 @@
+cfa
+subtyping
+flow
+heintze
+typable
+safety
+succ
+recursive
+occurrence
+cmap
+subterm
+fintg
+subsumption
+amadio
+palsberg
+judgment
+hxi
+derivation
+abs
+cardelli
+rs
+defouw
+bondorf
+typed
+polyvariant
+site
+derivable
+equality
+safe
+grove
+constraint
+chambers
+inclusions
+assertion
+judgments
+naoki
+rgensen
+henglein
+abbreviation
+keefe
+kobayashi
+jens
+occurrences
+inconsistent
+cl
+unusual
+java
+flows
+typing
+constraints
+ml
+cubic
+unfold
+derive
+unfolding
+checked
+delta
+asserted
+jrgensen
+outlaw
+accepts
+match
+induction
+eg
+interprocedural
+pavlopoulou
+subtransitive
+int
+equalities
+seldomly
+slogan
+grammar
+analyses
+notice
+glew
+reminds
+var
+notational
+rule
+ashley
+905
+similix
+functional
+converse
+wand
+christina
+useless
+consistent
+unfoldings
+cousins
+taming
+hind
+intuitively
+insensitive
+falsify
+lemma
+snowbird
+mcallester
+overkill
+horwitz
+suggestive
+maps
+intersection
+923
+phrased
+cps
+disallow
+text
+answer
+forced
+countably
+neal
+haven
+callee
+tv
+restriction
+wise
+subterms
+subtype
+oriented
+mixes
+shapiro
+utah
+body
+ff
+abbreviations
+says
+inference
+vacuously
+plug
+sigplan
+languages
+evaluator
+akin
+trivial
+x0
+pointer
+map
+ask
+hypothesis
+inlining
+false
+closure
+insist
+disappears
+convenience
+union
+polymorphic
+mitchell
+satisfiable
+beta
+306
+argument
+counterexample
+260
+trouble
+rules
+assigning
+relations
+restricted
+tiny
+opens
+unification
+rejects
+elimination
+317
+263
+281
+bidirectional
+reflexive
+consistency
+221
+quadratic
+derivations
+executed
+precision
+ffl
+1995
+flexible
+lambda
+nov
+ambiguous
+answered
+confirms
+sigsoft
+infinite
+stems
+questions
+language
+leave
+counterparts
+concluded
+approximate
+admits
+regular
+formal
+complexities
+why
+preferable
+binding
+0 cfa
+recursive types
+flow analysis
+type derivation
+x e
+type system
+equality based
+flow sets
+flow set
+e 1
+cfa and
+cfa is
+with recursive
+delta contains
+succ e
+a type
+a subterm
+control flow
+heintze s
+based control
+every occurrence
+rs typable
+based safety
+safety checked
+cmap p
+cfa safe
+subtyping between
+flow constraints
+flow information
+the type
+safety analysis
+subterm of
+e 2
+abs p
+safety constraints
+subsumption rule
+be typed
+occurrence in
+function types
+be safety
+e 0
+call site
+between function
+cfa can
+trivial subtyping
+finite types
+occurrence x
+least solution
+a flow
+the constraints
+judgment of
+ffl for
+an occurrence
+a e
+have that
+constraint ffl
+site e
+subset based
+2 cmap
+the constraint
+can derive
+a judgment
+checked with
+constraint system
+typed with
+is rs
+the flow
+s assertion
+derivation for
+a program
+of subtyping
+1 e
+term p
+subset inclusions
+defouw grove
+both recursive
+grove and
+cardelli subtyping
+cfa if
+a subsumption
+amadio cardelli
+contains judgments
+empty flow
+derive a
+gamma p
+is derivable
+to intersection
+and chambers
+subtyping recursive
+cfa for
+polyvariant flow
+more approximate
+in p
+that delta
+p is
+lemma 4
+from polyvariant
+cl p
+subtyping is
+flow relations
+binary methods
+types but
+same flow
+match 0
+formal argument
+union types
+types and
+c p
+bondorf and
+p of
+of 0
+cubic time
+system equivalent
+occurrence of
+the form
+both 0
+program can
+cases if
+assertion is
+the abbreviation
+an unusual
+for 0
+types to
+jens palsberg
+judgments of
+of flow
+program text
+order languages
+constraints for
+e of
+to types
+and union
+no subtyping
+restricted 0
+rgensen 3
+e become
+types fast
+1 abs
+fast interprocedural
+heintze asserted
+chambers 5
+occurrence e
+no subsumption
+interprocedural class
+cfa in
+based useless
+fintg for
+to flows
+inclusions this
+kobayashi type
+derive flow
+analysis accepts
+wise least
+cfa 12
+occurrences x
+x eg
+accepts this
+match recursive
+useless variable
+again where
+t unfold
+for e
+flow based
+w 1
+almost linear
+type systems
+to match
+e and
+notice that
+linear time
+e e
+constraints are
+constraints from
+form a
+a 0
+to flow
+over type
+system gamma
+var p
+types does
+unfold to
+constraint form
+by henglein
+modified flow
+subtyping we
+palsberg and
+class analysis
+naoki kobayashi
+derivation uses
+type in
+non trivial
+to analysis
+the forms
+for every
+insensitive points
+types then
+flow variables
+approximate than
+and succ
+flexible flow
+control flow analysis
+based control flow
+with recursive types
+0 cfa and
+for every occurrence
+equality based control
+of 0 cfa
+occurrence in p
+0 cfa is
+every occurrence in
+of a subterm
+in p of
+for an occurrence
+1 e 2
+can be typed
+e 1 e
+a subterm of
+subterm of the
+contains a judgment
+safety checked with
+delta contains a
+subtyping between function
+the type derivation
+between function types
+be safety checked
+can be safety
+to 0 cfa
+based safety analysis
+0 cfa safe
+type derivation for
+a type system
+a flow analysis
+have that delta
+that delta contains
+p of a
+can derive a
+ffl for every
+a judgment of
+e of p
+we can derive
+judgment of the
+contains the equation
+non trivial subtyping
+derive a e
+cfa and 0
+with 0 cfa
+is rs typable
+trivial subtyping between
+typed with recursive
+0 cfa can
+call site e
+be typed with
+heintze s assertion
+and 0 cfa
+constraint ffl for
+is 0 cfa
+2 cmap p
+site e 1
+we have that
+of the form
+the constraint ffl
+type system with
+p is 0
+a e t
+a term p
+x e 0
+recursive types and
+the form a
+x e e
+is the type
+a program can
+two cases if
+flow based safety
+flow relations are
+the flow information
+grove and chambers
+checked with 0
+defouw grove and
+of finite types
+where delta contains
+cfa if and
+s assertion is
+same flow set
+both recursive types
+amadio cardelli subtyping
+an occurrence x
+match 0 cfa
+for 0 cfa
+0 cfa if
+0 cfa for
+both 0 cfa
+cfa can be
+delta contains judgments
+p where delta
+p is rs
+occurrence x e
+a subsumption rule
+contains judgments of
+to match 0
+the flow sets
+e e 0
+information to intersection
+subtyping recursive types
+from polyvariant flow
+flow information for
+recursive types but
+polyvariant flow information
+to intersection and
+program can be
+are two cases
+and the constraint
+type system equivalent
+s is consistent
+the forms a
+the same flow
+of p where
+and union types
+the type system
+that a program
+x e and
+flow information to
+the constraint system
+condition of finite
+x e of
+intersection and union
+judgments of the
+system equivalent to
+have that we
+b x x
+in almost linear
+the program text
+have a type
+in a type
+almost linear time
+of the forms
+and b x
+points to analysis
+hypothesis we have
+higher order languages
+that w 1
+a call site
+p we say
+from the induction
+be executed in
+if it can
+the call site
+is consistent if
+the type of
+the constraints for
+given a program
+kobayashi type based
+succ e become
+regular tree and
+consider first we
+text and 2
+more approximate than
+fast interprocedural class
+and succ e
+union types fast
+approximate than 0
+recursive types a
+unfold to the
+has the point
+t is derivable
+subset inclusions this
+and functions cannot
+all flow sets
+1 derive flow
+an occurrence e
+types and an
+form a for
+subsumption rule then
+studied by henglein
+an equality based
+palsberg and o
+type based useless
+is no subsumption
+derivation for e
+heintze asserted in
+t unfold to
+occurrences x e
+finite types does
+assertion is false
+cfa safe if
+derive a x
+analysis accepts this
+naoki kobayashi type
+map 2 cmap
+a map 2
+on type correctness
+flow constraints used
+no subsumption rule
+system gamma p
+j rgensen 3
+functions cannot occur
+flow sets for
+that lemma we
+accepts this program
+empty flow set
+subset based control

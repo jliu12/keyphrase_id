@@ -1,0 +1,600 @@
+causal
+ct
+bcast
+dlv
+messages
+pak
+message
+broadcast
+ack
+delivered
+protocol
+broadcasting
+sent
+tm
+window
+credit
+delivery
+fifo
+sc
+acks
+causally
+events
+windows
+synchronizations
+credits
+ordering
+nak
+counters
+arrived
+send
+width
+cw
+acknowledged
+oem
+violation
+sender
+po
+arrival
+arr
+s6
+receiver
+event
+isis
+channels
+asynchrony
+birman
+consecutive
+ng
+acknowledgment
+r2
+modulo
+s2
+sliding
+unreliable
+deliveries
+r1
+s1
+oe1
+tm1
+2ct
+1358
+ackm
+absurdity
+ackmx
+tm2
+concurrency
+dc
+arrives
+causality
+concurrent
+synchronization
+precede
+reliable
+s3
+oen
+ndlog
+r4
+od
+transis
+protocols
+variation
+predecessor
+transport
+fall
+violate
+happened
+processes
+timestamping
+pitfall
+sending
+piggybacking
+piggyback
+communication
+delayed
+till
+mx
+duplex
+precedes
+instantaneous
+wait
+sooner
+layers
+atomic
+asynchronous
+prohibited
+rendezvous
+transmission
+waits
+variants
+exhausted
+acknowledgement
+r3
+contradicts
+abstractcausal
+vtmp
+clok
+tp4
+anadaptive
+layer
+stability
+successive
+group
+co
+receipt
+1355
+sc1
+unacknowledged
+robbert
+fidge
+mastered
+giannini
+upon
+tcp
+init
+mod
+st
+bartoli
+ahamad
+toggles
+mattern
+daisy
+anastasi
+aoe
+unbounded
+channel
+immediate
+1g
+variations
+payed
+baldoni
+unpredictable
+suited
+renesse
+violating
+logical
+latencies
+succesive
+initialised
+achour
+gossiping
+8h
+ciciani
+giacomo
+receiving
+buffer
+logically
+mukesh
+depicted
+osi
+mostefaoui
+oe
+false
+proposes
+wider
+lemma
+raynal
+wt
+weakens
+endow
+duplications
+s5
+tocols
+soon
+managing
+wr
+piggybacked
+singhal
+pw
+internal
+diffuse
+securing
+suffer
+poset
+employs
+controlling
+networks
+environments
+s4
+gammah
+prakash
+causal ordering
+causal window
+message m
+bcast m
+causal broadcasting
+v tm
+processing broadcast
+sent by
+process p
+dlv m
+send condition
+p i
+a causal
+m x
+the causal
+causal windows
+vector time
+a pak
+broadcasting protocol
+p j
+vector times
+ack m
+a message
+delivery condition
+consecutive messages
+sc 1
+of causal
+a process
+condition sc
+by p
+m sent
+the send
+the protocol
+the delivery
+ct consecutive
+local synchronizations
+v t
+delivered to
+concurrent to
+protocol based
+messages sent
+at process
+the credit
+on causal
+po m
+pak nak
+k implementation
+m ct
+width of
+the width
+each process
+ack messages
+fifo property
+of vector
+modulo k
+pak causal
+line r1
+dc m
+counters of
+distributed computation
+at p
+m event
+a credit
+ct ct
+positive acknowledgment
+to p
+arrival of
+message sent
+the arrival
+fully acknowledged
+arr m
+successive messages
+cw j
+ct gamma
+e bcast
+s ack
+line r2
+ct 1
+messages m
+m 1
+of messages
+broadcast messages
+is delivered
+condition dc
+credit of
+causally precede
+by process
+b e
+broadcast message
+relevant events
+just arrived
+a modulo
+same process
+window of
+of variation
+p h
+for causal
+the ct
+that causally
+arrived at
+credit is
+of ct
+k greater
+each h
+an ack
+when considering
+group communication
+a distributed
+and delivered
+ack message
+ordering violation
+variable processing
+causality violation
+counters whose
+delivery events
+that bcast
+considering k
+ct messages
+implementing causal
+f ack
+m oem
+broadcast false
+causal communication
+co j
+i dlv
+upon the
+m 2
+one message
+concurrency of
+protocol of
+m oe
+underlying system
+violation between
+by ack
+two broadcast
+window cw
+with ct
+nak scheme
+h od
+on sc
+p k
+immediate predecessor
+of events
+the sender
+flow control
+of processes
+of message
+a broadcast
+all counters
+local synchronization
+transport layers
+ng do
+synchronizations is
+the happened
+can send
+gamma 1g
+time v
+of channels
+a vector
+are delivered
+j i
+application messages
+th message
+a causality
+before relation
+m v
+m at
+of local
+not arrived
+be delivered
+predecessor of
+remark on
+before receiving
+two variations
+i without
+broadcast protocol
+happened before
+the receiver
+delivery of
+of counters
+m b
+t i
+are concurrent
+a positive
+delivered in
+broadcast of
+broadcast true
+wait approach
+broadcast processing
+from po
+acknowledgment protocol
+protocols implementing
+ng event
+prohibited because
+an absurdity
+have bcast
+time counters
+than ct
+becomes processing
+line s6
+sent by p
+the send condition
+a message m
+process p i
+causal broadcasting protocol
+the causal window
+of vector times
+of the causal
+delivered to p
+m sent by
+a causal window
+message m x
+send condition sc
+by p j
+the delivery condition
+messages sent by
+a causal broadcasting
+consecutive messages sent
+condition sc 1
+ct consecutive messages
+bcast m x
+causal window of
+broadcasting protocol based
+process p j
+by p i
+the width of
+protocol based on
+upon the arrival
+v t i
+at process p
+of causal ordering
+k implementation of
+of local synchronizations
+modulo k implementation
+message m sent
+a process p
+a vector time
+a distributed computation
+based on causal
+m x 0
+of a causal
+the credit is
+pak causal broadcasting
+a pak causal
+a modulo k
+on causal windows
+message sent by
+of the protocol
+range of variation
+implementation of vector
+width of the
+the arrival of
+by process p
+to p h
+each h 2
+of a message
+at p i
+m at process
+condition dc m
+e bcast m
+dlv m oe
+vector time of
+one message m
+concurrent to m
+delivery of m
+a pak nak
+s ack m
+window of each
+arrived at p
+the causal windows
+m v tm
+delivery condition dc
+concept of causal
+i e bcast
+of causal window
+for each h
+sent by process
+of message m
+number of local
+a causal ordering
+arrival of message
+and delivered to
+the same process
+p i and
+a positive acknowledgment
+arrives at p
+message m can
+the protocol of
+to p i
+sent by the
+message m at
+concurrency of the
+to the send
+v t a
+k greater than
+a broadcast message
+immediate predecessor of
+p j i
+for each process
+causal ordering is
+successive messages sent
+a causality violation
+i dlv m
+pak nak scheme
+causal ordering violation
+protocol for causal
+receiving the corresponding
+m oe i
+two broadcast messages
+vector time v
+po m x
+b e be
+allows a modulo
+not arrived at
+for causal broadcasting
+of ct messages
+considering k greater
+when considering k
+on sc 1
+h 2 ng
+p h od
+that bcast m
+f ack m
+broadcast messages are
+credit of the
+property of channels
+ct gamma 1g
+processing broadcast false
+ordering violation between
+bcast m ct
+all counters of
+variable processing broadcast
+based on sc
+oe i dlv
+messages m sent
+by ack messages
+sc 1 m
+if the credit
+vector times when
+times when considering
+th message sent
+by p k
+the fifo property
+in the delivery
+m b e
+p i without
+time v t
+fifo property of
+process can send
+that causally precede
+2 ng do
+the credit of
+m is delivered
+than the width
+of consecutive messages
+the delivery of
+of each process
+the causal ordering
+broadcast a message
+and p j
+arrival of a
+m x 2
+happened before relation
+are delivered in
+before receiving the
+j i 6
+the happened before
+a remark on
+at p j
+p j and
+protocol of section
+window of a
+an immediate predecessor
+is a causal
+in a group
+most one message
+i and p
+and m 2
+be a message
+p k that
+of the width
+by the same
+and v t
+p i from
+m 1 and
+of a distributed
+be delivered to
+of variation of
+shown in figure
+the underlying system
+p i a
+p i as
+of a process
+provided by ack
+fall either in
+3 the causal
+v tm arrives
+e g isis
+have not arrived
+local synchronizations is

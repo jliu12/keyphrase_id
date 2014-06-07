@@ -1,0 +1,600 @@
+controller
+datapath
+faults
+fault
+register
+ms
+misr
+tpgr
+functionally
+multiplexer
+piggyback
+rl
+testability
+sfr
+coverage
+stuck
+controllers
+irredundant
+circuits
+cfi
+outputs
+fsm
+registers
+testable
+bist
+consumption
+redundant
+multiplexers
+carletta
+circuitry
+integrated
+compass
+alu
+load
+muxes
+synthesis
+clocks
+loaded
+cfr
+papachristou
+testing
+bit
+datapaths
+fummi
+synthesized
+outnumber
+signals
+85950
+syntest
+tpgrs
+facet
+functionality
+alus
+1995
+breuer
+curves
+solver
+manufacturing
+inadvertent
+noticeable
+select
+bus
+sfi
+logic
+vlsi
+watts
+observability
+overhead
+bits
+fanouts
+behavioral
+devadas
+mode
+observing
+separate
+insertion
+tested
+observable
+gated
+harmanani
+kime
+ms2
+ctl_clock
+akron
+nourani
+signal
+supposed
+interacting
+differential
+causes
+lifespans
+gentest
+dout
+wunderlich
+demicheli
+detected
+latch
+power
+transistor
+architectural
+cracks
+behaviorally
+fig
+rtl
+inputs
+randomness
+bitwidth
+crosstalk
+designer
+schedule
+status
+affects
+affect
+troller
+effects
+undesirable
+circuit
+automation
+gajski
+shorts
+lines
+content
+dept
+overlaying
+care
+erroneous
+benini
+savings
+1993
+clock
+inseparable
+propagate
+separately
+watch
+dey
+interacts
+micron
+729
+hot
+normal
+faulty
+1994
+self
+poly
+defects
+transistors
+pseudorandom
+loading
+observation
+drive
+oh
+patterns
+rises
+1988
+functional
+complemented
+facilitating
+neglecting
+flow
+excessive
+detect
+schemes
+cause
+1989
+bakoglu
+2413
+jone
+lagnese
+arate
+3904
+sparmann
+10900
+9increase
+1empirically
+tiplexers
+7functionally
+ms3
+ms1
+test_mode
+44325
+datapth
+13460
+ms3g
+datapath8090100
+vcc4dp3
+pprocedure
+rlrl
+44106
+9296100
+7071
+9839
+6controller
+mukherejee
+tapped
+fms1
+joersz
+830688
+mustang
+14371
+eschermann
+the controller
+the datapath
+fault coverage
+test scheme
+system functionally
+functionally redundant
+datapath and
+controller datapath
+controller faults
+controller outputs
+load line
+register load
+multiplexer select
+and controller
+the register
+the fault
+the piggyback
+stuck at
+time step
+ms ms
+of controller
+select lines
+datapath pair
+datapath registers
+datapath controller
+together test
+controller functionally
+power consumption
+controller and
+select line
+functionally irredundant
+separate test
+control line
+coverage curves
+the tpgr
+ms rl
+and datapath
+test schemes
+on rl
+a fault
+controller are
+fault effect
+the multiplexer
+piggyback test
+piggyback scheme
+sfr faults
+register r
+finite state
+for testability
+normal mode
+faults that
+coverage time
+be stuck
+state machine
+controller in
+clocks separate
+rl ms
+a controller
+equation solver
+test circuitry
+in clocks
+example circuits
+of datapath
+redundant faults
+bit i
+the separate
+location d
+the together
+tpgr and
+compass design
+integrated test
+the control
+testability of
+control lines
+self testable
+original controller
+on ms
+the misr
+of register
+a register
+these faults
+a differential
+test of
+time steps
+load lines
+observation circuitry
+misr tpgr
+outputs directly
+synthesized controller
+tpgr misr
+register output
+separate scheme
+fummi et
+cfi faults
+controller pairs
+causes rl
+ms f
+four example
+controller output
+test together
+test piggyback
+outnumber the
+controller to
+at 0
+al 1995
+are tested
+data flow
+differential equation
+testing of
+et al
+fault free
+irredundant faults
+at 1
+a multiplexer
+rl to
+fault causes
+extra load
+observe the
+fault that
+an integrated
+functionality of
+the system
+outputs of
+fault will
+datapath are
+three test
+in normal
+the test
+faults within
+self test
+state assignment
+faults in
+the select
+is noticeable
+controller is
+care specifications
+in carletta
+tested together
+of sfr
+testability insertion
+integrated controller
+and papachristou
+carletta and
+together piggyback
+completely integrated
+integrated datapath
+inputs power
+fault which
+control schedule
+manufacturing problem
+the inadvertent
+test corresponds
+between datapath
+carletta et
+outputs outnumber
+level multiplexers
+inadvertent load
+datapath outputs
+in fummi
+consumption in
+the alu
+datapath is
+rl is
+the functionality
+synthesis of
+new value
+single bit
+insertion for
+line will
+and observe
+a scheme
+design for
+non functional
+controllers are
+output behavior
+faults are
+the outputs
+scheme should
+observation of
+controllers for
+integrated way
+datapath register
+control status
+noticeable at
+all datapath
+line during
+ms i
+an misr
+all controller
+scheme test
+of multiplexer
+we drive
+be observed
+or 1
+testing the
+the scheme
+state machines
+affect the
+content of
+registers rather
+datapath and controller
+of the controller
+system functionally redundant
+the controller outputs
+the datapath and
+register load line
+controller datapath pair
+ms ms ms
+the datapath registers
+multiplexer select lines
+of the datapath
+controller and datapath
+the controller and
+fault coverage curves
+through the datapath
+for the controller
+differential equation solver
+fault coverage time
+coverage time in
+the piggyback scheme
+finite state machine
+stuck at 0
+be stuck at
+to be stuck
+in the controller
+time in clocks
+and controller are
+content of register
+functionally redundant faults
+of controller faults
+in clocks separate
+the controller in
+a differential equation
+stuck at 1
+the control lines
+in normal mode
+of register r
+controller are tested
+the controller datapath
+controller functionally redundant
+the select line
+three test schemes
+controller functionally irredundant
+at the datapath
+1 on ms
+together test scheme
+ms rl ms
+compass design automation
+a controller datapath
+the data flow
+at the controller
+design for testability
+bit i of
+the original controller
+functionality of the
+for the datapath
+et al 1995
+functionally irredundant faults
+the separate scheme
+the register load
+within the controller
+the controller output
+test together test
+into the datapath
+multiplexer select line
+the together test
+piggyback test together
+causes rl to
+observe the controller
+from the tpgr
+separate test piggyback
+fummi et al
+some time step
+datapath controller pairs
+the register output
+rl to be
+in time steps
+coverage curves for
+at location d
+controller outputs directly
+separate test scheme
+test piggyback test
+four example circuits
+clocks separate test
+register load lines
+the extra load
+in an integrated
+the scheme should
+in some time
+faults within the
+a register load
+outputs of the
+of the register
+test of the
+in self test
+datapath and the
+at 0 or
+power consumption in
+in the fault
+of the control
+at time step
+of the fault
+the functionality of
+built in self
+c i t
+the fault effect
+at the outputs
+and observe the
+the datapath is
+be observed at
+the register is
+observed at the
+the fault coverage
+the three test
+of datapath and
+between datapath and
+the control schedule
+datapath registers rather
+a control line
+the inadvertent load
+of multiplexer select
+the datapath controller
+ms on rl
+in fummi et
+system functionally irredundant
+rl ms rl
+test schemes in
+datapath registers the
+excessive power consumption
+the tpgr and
+the separate test
+outputs outnumber the
+0 on rl
+carletta et al
+test scheme test
+select line will
+scheme test scheme
+the controller are
+multi level multiplexers
+cfi faults within
+datapath pair is
+datapaths and controllers
+test corresponds to
+whether a fault
+of sfr faults
+independent test of
+testing of datapath
+the multiplexer select
+integrated datapath controller
+integrated controller datapath
+amount of observation
+number of multiplexer
+the synthesized controller
+tpgr and observe
+of observation circuitry
+functionally redundant or
+carletta and papachristou
+for the piggyback
+small finite state
+a new value
+finite state machines
+input output behavior
+output behavior of
+a scheme for
+the outputs of
+curves for the
+into the data
+the fault free
+a multiplexer select
+for the separate
+functionally redundant and
+a fault effect
+we drive the
+this time step
+an integrated way
+an independent test
+or 1 on
+drive the inputs
+and datapath are
+only in time
+fault effect on
+a time step
+registers rather than
+if the controller
+for testability technique
+time steps when
+ffl the scheme
+a single bit
+the input output
+bits of the
+wide enough to
+of these faults
+directly at the
+a small finite
+fault coverage is
+bit of each
+to the system
+0 or 1
+a fault that
+the control signals

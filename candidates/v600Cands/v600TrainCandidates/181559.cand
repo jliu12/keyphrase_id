@@ -1,0 +1,600 @@
+cache
+locality
+vls
+virtual
+cpr
+pollution
+spmv
+secondary
+prefetching
+spatial
+prefetched
+bdna
+physical
+exploitation
+mm
+tex
+ll
+codes
+victim
+ls
+temporal
+cc
+hit
+caches
+traffic
+fetched
+stride
+bytes
+loaded
+prefetch
+arc
+misses
+ws2
+ap
+informations
+banks
+buffer
+memory
+miss
+0average
+lines
+ws
+coherence
+nest
+accesses
+request
+stall
+dirty
+benchmarks
+associativity
+chip
+subblock
+exploited
+fraction
+pollu
+numerical
+latency
+tradeoff
+reference
+bank
+conflicts
+8192
+ws1
+assoc
+associative
+besides
+transferred
+hits
+references
+array
+cycles
+hardware
+c2
+requested
+processor
+cycle
+flawless
+ws0
+byte
+soft
+flaws
+kbyte
+issued
+flaw
+bypassing
+access
+exhibit
+subblocks
+exploiting
+pollute
+16384
+multiply
+nearly
+loop
+induce
+referenced
+utilization
+tag
+i860
+fetching
+optimizing
+requests
+rs6000
+mechanism
+efficiency
+primary
+64
+04
+assist
+degradations
+tags
+sizes
+assisting
+alike
+increased
+enddo
+simulations
+illusion
+1024
+ratio
+mapped
+replacement
+preferably
+numerous
+exhibits
+tolerable
+scarce
+128
+word
+lru
+store
+bypass
+invalidated
+induces
+resumes
+dgxiii
+monoprocessor
+sectored
+pendendencies
+requests0
+accesss
+urging
+fen
+figure7
+bounteous
+fers
+buffers
+words
+bit
+default
+cs
+juan
+resume
+constantly
+ment
+acts
+gornish
+deprived
+somes
+projet
+breed
+actu
+solicited
+sparing
+cality
+speculative
+reuse
+wrong
+tested
+risc
+manual
+leiden
+reloads
+1218
+pollutes
+ibm
+compiler
+superscalar
+08
+priorities
+memories
+exploit
+degrades
+adopted
+stream
+favoured
+limiting
+06
+preventing
+penalty
+occurred
+facility
+optimizations
+outperform
+spectacular
+veidenbaum
+dictions
+inspite
+loading
+c1
+virtual line
+physical line
+line scheme
+spatial locality
+secondary cache
+physical lines
+standard cache
+the virtual
+the secondary
+temporal locality
+line size
+numerical codes
+memory traffic
+cache line
+ll mm
+large virtual
+cache pollution
+ap arc
+arc bdna
+mm spmv
+cc cpr
+cpr ll
+virtual lines
+spmv tex
+bdna cc
+cache lines
+access time
+average memory
+non numerical
+c 2
+line is
+exploitation of
+line sizes
+the cache
+large physical
+words prefetched
+memory access
+the hit
+in cache
+large cache
+of cache
+cache c
+32 standard
+ls 32
+c 1
+a physical
+a virtual
+chip space
+locality exploitation
+victim cache
+the physical
+better exploitation
+of prefetched
+words fetched
+hit ratio
+of spatial
+cache conflicts
+line of
+physical cache
+primary cache
+from memory
+ws2 04
+tex ws2
+on chip
+in c
+l s
+large line
+hit time
+a victim
+lines are
+cache size
+loop nest
+strong spatial
+vls prefetching
+prefetched words
+cache ls
+of vls
+soft vls
+0average memory
+the memory
+both caches
+a cache
+line that
+memory latency
+write buffer
+cache the
+coherence issues
+virtual cache
+memory request
+locality the
+is loaded
+the processor
+fetched in
+loaded into
+victim of
+exploiting spatial
+software directed
+locality while
+16 bytes
+cache is
+line are
+be exploited
+fraction of
+words used
+data locality
+conflicts and
+on figure
+reduction of
+transferred into
+0 average
+stride 1
+direct mapped
+lines of
+some codes
+to c
+and temporal
+is transferred
+fetched from
+a buffer
+with prefetching
+vls fraction
+locality such
+tex ws1
+tex ws
+l cycles
+pollu tion
+words referenced
+prefetched vls
+ls 128
+pollution 3
+software informations
+cache pollu
+cache ap
+cache cs
+128 standard
+cache c2
+small physical
+cache virtual
+byte cache
+spatial and
+of temporal
+locality can
+locality optimizing
+seen on
+see figure
+locality of
+into c
+caches are
+cache figure
+the victim
+locality therefore
+08 0
+the tradeoff
+equal to
+the line
+simple software
+exhibit spatial
+next physical
+one cycle
+the spatial
+size is
+hits in
+other codes
+s words
+for mm
+of codes
+cache miss
+are loaded
+lines in
+increases significantly
+no temporal
+cache would
+cache entries
+array d
+is prefetched
+the reference
+the performance
+a reference
+of words
+better exploit
+7 cycles
+of c
+locality is
+a standard
+each bank
+stream buffers
+of accesses
+other physical
+one physical
+nearly always
+of large
+line would
+prefetching the
+first word
+traffic which
+physical or
+array c
+the utilization
+the primary
+of replacement
+the virtual line
+virtual line scheme
+the secondary cache
+ll mm spmv
+ap arc bdna
+bdna cc cpr
+arc bdna cc
+cc cpr ll
+mm spmv tex
+cpr ll mm
+the physical line
+a physical line
+a virtual line
+memory access time
+average memory access
+of the virtual
+non numerical codes
+physical line is
+large cache lines
+physical lines of
+exploitation of spatial
+physical line size
+a standard cache
+large virtual lines
+in c 2
+the memory traffic
+cache c 2
+32 standard cache
+ls 32 standard
+cache line size
+of spatial locality
+of the secondary
+on chip space
+the average memory
+better exploitation of
+virtual line size
+large virtual line
+physical line of
+c 2 is
+in c 1
+a victim cache
+a better exploitation
+tex ws2 04
+the physical lines
+physical line and
+spmv tex ws2
+physical cache line
+physical line that
+the primary cache
+of a virtual
+of temporal locality
+and temporal locality
+line size is
+exploitation of temporal
+the spatial locality
+the hit ratio
+cache conflicts and
+hit ratio of
+0 average memory
+a large virtual
+for numerical codes
+line is loaded
+large physical lines
+of words prefetched
+utilization of large
+virtual line are
+standard cache ls
+of prefetched words
+transferred into c
+standard cache figure
+06 08 0
+line scheme is
+temporal locality exploitation
+large line sizes
+08 0 average
+fraction of prefetched
+0average memory access
+secondary cache is
+ws2 04 06
+fetched from memory
+the cache line
+lines of a
+fraction of words
+04 06 08
+exploiting spatial locality
+of c 2
+number of cache
+example of figure
+cache line is
+the hit time
+seen on figure
+spatial and temporal
+locality can be
+spatial locality of
+with the virtual
+and the secondary
+of c 1
+spmv tex ws1
+line size should
+cache pollution 3
+strong spatial locality
+cache ap arc
+words prefetched vls
+2 12 16
+prefetched words used
+words fetched in
+secondary cache size
+virtual line the
+fetched in memory
+virtual line sizes
+one physical line
+l s words
+line scheme with
+a write buffer
+of large virtual
+physical line in
+virtual line is
+physical lines is
+is transferred into
+victim of replacement
+ls 128 standard
+conflicts and cache
+memory traffic which
+other physical lines
+line of c
+cache pollu tion
+spatial locality such
+stored in c
+128 standard cache
+spmv tex ws
+numerical codes the
+hit ratio in
+line scheme can
+standard cache virtual
+for non numerical
+hits in c
+physical lines are
+cache virtual line
+standard cache cs
+t l cycles
+data locality optimizing
+c 1 is
+to c 2
+if the processor
+locality is exploited
+to l s
+spatial locality while
+as a victim
+of large cache
+allow a better
+of cache entries
+of cache c
+line size increases
+hit time of
+into c 2
+allows the utilization
+reference to c
+exhibit spatial locality
+cache with a
+ratio of c
+memory traffic for
+the next physical
+line size the
+as a write
+spatial locality can
+c 2 the
+temporal locality the
+to the secondary
+byte cache line
+in the secondary
+be seen on
+cache lines for
+line in c
+a cache miss
+both caches are
+a line size
+to better exploit
+from memory the
+the utilization of
+of figure 2
+matrix matrix multiply
+cache lines in
+are fetched from
+all the more
+cache line sizes
+line is not
+reduction of the
+spatial locality and
+spatial locality in
+spatial locality the
+4 way associative
+buffer is used
+lines of the
+is loaded into
+to assist the
+equal to one
+enough so that
+size should be
+the line size
+and spatial locality

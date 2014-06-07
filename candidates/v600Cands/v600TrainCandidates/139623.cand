@@ -1,0 +1,600 @@
+td
+sutton
+vn
+watkins
+absorbing
+learning
+terminal
+chain
+markov
+predictions
+xd
+convergence
+prediction
+temporal
+discounted
+xv
+converges
+barto
+rwn
+werbos
+tadi
+vladislav
+absorbs
+lms
+dp
+reinforcement
+estimator
+visited
+absorb
+eigenvalues
+ab
+ie
+diagonally
+myampersandlambda
+punctate
+zji
+tr2t
+rewards
+unhelpful
+localist
+satinder
+happen
+weights
+policy
+contraction
+probabilities
+ffx
+wn
+neural
+bias
+absorbed
+transitions
+lim
+action
+varga
+transition
+training
+probability
+checkers
+unbiased
+barrier
+learn
+weight
+estimators
+estimates
+rank
+stochastic
+equation
+backwards
+exponentially
+eigenvector
+absorption
+weighted
+dominant
+discount
+generalisation
+reward
+completing
+representations
+kj
+biological
+variance
+qn
+8i
+moves
+he
+summing
+ff
+obeisance
+differencelearning
+statesdemonstrating
+walkshown
+draughts
+hedonistic
+connectionistic
+criticise
+hdp
+cmacs
+upended
+anexample
+policyreinforcement
+pineda
+9ffl
+themean
+lgr
+fromwhich
+wrgtter
+hampson
+wherewithal
+disembodied
+fiechter
+kazushi
+heterostatic
+szepesvri
+cerebellar
+converge
+viz
+ended
+singh
+modulus
+strictly
+correlations
+ultimate
+ik
+porr
+iwata
+1419
+brunswick
+colearning
+gammastep
+ikeda
+conflates
+sheppard
+boutilier
+equipartition
+klopf
+zenith
+recency
+swoop
+reinforcing
+cmac
+dayan
+faulted
+forwards
+defining
+rule
+behaviour
+visits
+diagonal
+actions
+vectors
+nadir
+florentin
+brigade
+pathologically
+neuronlike
+tommi
+manipulator
+brittleness
+jaakkola
+bootstraps
+regrouped
+his
+squares
+matrix
+games
+tend
+inaccurate
+adaptive
+mutatis
+mutandis
+auer
+connectionism
+linearly
+predictor
+sakai
+degenerate
+kazunori
+michie
+holland
+tangled
+elemental
+ultimately
+game
+sequences
+witten
+abusing
+1403
+formalising
+littman
+uncoupled
+arranges
+hideaki
+csaba
+articulation
+workings
+claude
+predict
+controller
+incrementally
+vn i
+absorbing markov
+sutton s
+terminal value
+of td
+td 0
+the chain
+terminal values
+state i
+temporal difference
+markov chain
+probability one
+q learning
+an absorbing
+theorem t
+that td
+watkins 19
+observed sequence
+of watkins
+vn 1
+expected values
+each state
+i t
+the terminal
+r steps
+the expected
+td is
+terminal states
+v r
+i 0
+of sutton
+sutton 17
+non absorbing
+t xd
+linear representation
+1 vn
+the states
+e e
+weight vector
+the v
+td 1
+the td
+i vn
+with probability
+strictly diagonally
+in equation
+full rank
+barto sutton
+sutton and
+difference learning
+one state
+machine learning
+the predictions
+the estimates
+converges with
+at state
+learning v
+z otherwise
+a td
+0 vn
+extend sutton
+td algorithm
+watkins analysis
+watkins theorem
+stochastic convergence
+observed terminal
+and watkins
+of temporal
+chain has
+reinforcement learning
+td for
+non terminal
+state j
+dynamic programming
+prediction and
+of absorbing
+random variables
+diagonally dominant
+td and
+of vn
+r random
+stage n
+the q
+up at
+from equation
+learning and
+the observed
+x i
+vectors representing
+i gamma
+these predictions
+states they
+equivalent of
+chain is
+w r
+to learn
+the markov
+the transition
+s theorem
+of equation
+learning algorithms
+the weights
+the equivalent
+td with
+rwn vn
+watkins in
+hand barrier
+again following
+differences td
+gamma ffx
+dp 4
+xv xv
+rank sutton
+contraction properties
+ff vn
+contraction mappings
+19 proved
+t vn
+significant are
+unbiased terminal
+following sutton
+observation vectors
+to sutton
+absorbed before
+sutton used
+prediction converges
+e zji
+expected terminal
+mean squares
+viz convergence
+representation equation
+chain absorbs
+xd e
+action learning
+otherwise vn
+by sutton
+value starting
+ideal predictions
+like state
+td procedure
+varga 18
+converges since
+ffx t
+linear td
+vladislav tadi
+watkins 3
+that sutton
+q kj
+sutton showed
+learning his
+future values
+control efficient
+discounted non
+convergence with
+the mean
+error reduction
+real parts
+one sequence
+value z
+gamma q
+i r
+and so
+convergence theorem
+more like
+just the
+of states
+estimates from
+expected value
+the transitions
+the prediction
+of starting
+transition matrix
+full set
+at stage
+to td
+absorbing barrier
+ab denote
+its estimate
+td methods
+of absorption
+to vn
+least mean
+ik q
+absorbing states
+is absorbing
+satinder singh
+one he
+kj for
+2 n
+s proof
+the conditions
+on line
+markov process
+be strictly
+of eigenvalues
+q is
+equation 10
+sum converges
+complete sequence
+whose real
+absorbing markov chain
+an absorbing markov
+with probability one
+vn i t
+of an absorbing
+vn i 0
+version of td
+the terminal value
+sutton s theorem
+the v r
+1 vn i
+vn 1 i
+if the chain
+of td 0
+i vn i
+sutton s proof
+of sutton s
+converges with probability
+barto sutton and
+the chain has
+of temporal difference
+the expected values
+i t 1
+strictly diagonally dominant
+the linear representation
+temporal difference learning
+machine learning v
+convergence with probability
+vn i vn
+r random variables
+observed terminal value
+extend sutton s
+v r random
+state i t
+of theorem t
+0 vn i
+vn i r
+sutton and watkins
+t 1 vn
+the observed sequence
+equivalent of equation
+the observed terminal
+vn i 1
+i 0 vn
+terminal value z
+to extend sutton
+expected values of
+from one state
+w r n
+value of state
+that td 0
+non terminal states
+i gamma q
+at state i
+of the v
+the equivalent of
+a full set
+set of eigenvalues
+at stage n
+the markov chain
+e e e
+of the terminal
+in equation 10
+at each state
+the chain is
+the transition matrix
+in the mean
+eigenvalues all of
+sum converges since
+states and terminal
+gamma ffx t
+watkins theorem that
+and watkins 3
+e and so
+rwn vn i
+left hand one
+whose real parts
+least mean squares
+in one sequence
+like state i
+non absorbing markov
+the ideal predictions
+i at stage
+with linear function
+their desired values
+it more like
+that td is
+the unbiased terminal
+i gamma ffx
+ff vn i
+and action learning
+within r steps
+of whose real
+case that 6
+x t xd
+full rank sutton
+a complete sequence
+conditions of sutton
+an observed sequence
+prediction and action
+adjust its estimate
+be strictly diagonally
+their temporal distance
+contraction properties of
+absorbing markov process
+chain is absorbing
+the chain absorbs
+8i 2 n
+prediction and control
+ik q kj
+z otherwise vn
+of eigenvalues all
+right hand barrier
+the estimates will
+sequence is d
+estimate to make
+difference learning algorithms
+terminal values and
+completing the derivative
+q kj for
+probability one to
+case of td
+terminal value starting
+temporal differences td
+q learning his
+its estimate to
+watkins analysis of
+of watkins theorem
+theorem t for
+watkins 19 proved
+significant are the
+of observation vectors
+more like state
+i t vn
+absorbing markov chains
+discounted non absorbing
+unbiased terminal values
+t vn 1
+state i 0
+ffx t xd
+full set of
+of the chain
+from the next
+on line version
+sum in equation
+i 8i 2
+of states they
+d i gamma
+q and hence
+it also considers
+not full rank
+learning algorithms with
+i 1 vn
+action a at
+studies in machine
+v r for
+sequence w r
+eigenvalues of i
+vector representation of
+some studies in
+and to follow
+ended up at
+line version of
+parts are positive
+be visited infinitely
+for 6 1
+presented an example
+ab denote the
+the vectors representing
+that 6 0
+effects of actions
+the sum converges
+linear function approximation
+the on line
+to the case
+the next state
+machine learning using
+for state i
+the discount factor
+visited infinitely often
+is the discount
+states a and
+methods of temporal
+representing the states
+analysis of temporal
+the estimates from
+state x i
+due to state
+game of checkers
+from each state
+of temporal differences
+from every state
+the game of
+real parts are
+of times the
+for each state
+state j and
+the vector representation
+using the game
+learning using the

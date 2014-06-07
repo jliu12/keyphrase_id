@@ -1,0 +1,600 @@
+transaction
+lock
+slowdowns
+vf
+locking
+vv
+blocking
+occ
+thomasian
+ryu
+concurrency
+slowdown
+permanent
+commit
+conflict
+concurrent
+transient
+silent
+snapshot
+queue
+commits
+optimistic
+aborted
+herlihy
+locks
+analytical
+conflicts
+committing
+calculate
+aborts
+numa
+predictions
+gammafl
+processors
+nonblocking
+synchronization
+processor
+object
+shared
+residence
+utilization
+contention
+executes
+ana
+throughput
+slow
+granule
+abort
+broadcast
+enqueue
+spin
+my
+response
+cns
+executing
+priority
+multiprocessors
+utilizations
+execute
+faults
+executions
+stage
+pointer
+phi
+enqueues
+lazowska
+architectures
+items
+ticket
+fl
+approx
+conflicting
+uma
+prakash
+atomic
+instruction
+protocol
+static
+validation
+dequeue
+goodman
+multitasking
+unsuccessful
+rate
+processes
+formulae
+bus
+simulation
+swap
+multiprocessor
+spends
+proportion
+atomically
+accesses
+jobs
+queues
+dequeues
+valois
+plj
+backoff
+zahoran
+51
+cache
+anderson
+discrimination
+45
+probability
+calculates
+execution
+blocked
+kills
+avl
+turek
+spinning
+unconditional
+read
+ff
+old
+calculated
+ss
+exponentially
+exclusive
+shasha
+mellor
+crummey
+experience
+heterogeneous
+restart
+seconds
+protocols
+instructions
+queuing
+free
+switch
+cleanup
+mf
+temporarily
+closed
+analyzing
+stages
+composite
+compete
+56
+access
+59
+dt
+agreement
+plot
+58
+database
+johnson
+formula
+poisson
+calculations
+spite
+accurate
+service
+restarts
+stone
+workspace
+eager
+occupancy
+validate
+kernel
+trees
+interfering
+reserve
+ran
+considerable
+thread
+distributions
+resource
+objects
+failed
+accessed
+permits
+idle
+enters
+researchers
+simultaneous
+bias
+mimd
+agrawal
+update
+permitting
+record
+poor
+frontiers
+1e
+page
+analyses
+variety
+executed
+pessimistic
+mechanisms
+phenomenon
+randomly
+6366
+regains
+9700
+lock free
+c transaction
+non blocking
+free algorithms
+concurrency control
+a transaction
+the vf
+ryu and
+and thomasian
+class c
+locking algorithms
+the vv
+non locking
+conflict rate
+vv model
+execution time
+a class
+per class
+structure algorithms
+k transaction
+vf model
+permanent slowdowns
+concurrent data
+blocking algorithm
+permanent slowdown
+blocking algorithms
+transaction is
+optimistic concurrency
+closed system
+the lock
+slowdown model
+fl c
+silent static
+the transaction
+calculate the
+p c
+class k
+of lock
+the per
+an operation
+response times
+slowdowns are
+transaction class
+transient slowdowns
+transient slowdown
+probability that
+c t
+lock based
+system utilization
+the operation
+transaction model
+transaction commits
+the permanent
+the locking
+the v
+transaction aborts
+gammafl c
+slow processors
+the ryu
+variable time
+a lock
+conflicts with
+shared memory
+the ff
+the conflict
+object instance
+the object
+performance of
+the probability
+the performance
+data items
+concurrent objects
+a process
+can calculate
+in code
+shared object
+calculate p
+transaction conflicts
+fixed fixed
+dynamic broadcast
+commit its
+blocking queue
+slowdowns can
+f model
+committing transactions
+locking algorithm
+class utilizations
+fixed class
+the silent
+time fixed
+vf approx
+the snapshot
+to commit
+test and
+stage i
+lock is
+data structure
+to calculate
+c i
+uniformly randomly
+residence time
+object protocol
+numa architectures
+its commit
+time of
+execution times
+predictions of
+f c
+the analytical
+a committing
+the transient
+processor models
+aborted transaction
+phi k
+processor slowdowns
+occ in
+small slowdowns
+object pointer
+line faults
+code 4
+ff model
+vf models
+composite snapshot
+data granule
+dynamic concurrency
+vv transaction
+numa architecture
+aborts at
+slow operations
+slowdown processor
+broadcast occ
+of slowdowns
+old object
+of committing
+the slowdowns
+occ and
+operation execution
+open system
+occur due
+response time
+algorithms have
+a shared
+cache line
+that lock
+b f
+a conflict
+v f
+b c
+validation study
+atomic snapshot
+and swap
+e gammafl
+will commit
+data conflicts
+architectures or
+the execution
+model the
+memory multiprocessors
+analytical models
+shared data
+the system
+locking protocols
+code 2
+model makes
+of occ
+and permanent
+snapshot is
+transaction processing
+is aborted
+r c
+and set
+resource contention
+time distributions
+in stage
+expected execution
+context switch
+1 class
+the closed
+executing a
+the proportion
+to execute
+of concurrency
+2 variable
+t seconds
+1 fixed
+contention for
+transient and
+than others
+of synchronization
+exponentially distributed
+contention page
+my a
+use formula
+variable fixed
+point old
+operation executes
+makes poor
+transaction executes
+executes for
+poor predictions
+lock free algorithms
+class c transaction
+a class c
+ryu and thomasian
+the per class
+a class k
+class k transaction
+optimistic concurrency control
+non blocking algorithm
+the vv model
+the vf model
+non locking algorithms
+data structure algorithms
+probability that a
+a non blocking
+the probability that
+c transaction is
+non blocking algorithms
+the conflict rate
+the performance of
+that a class
+of lock free
+executing a class
+free algorithms have
+the permanent slowdown
+performance of lock
+the system utilization
+the transient slowdown
+calculate p c
+the v f
+transaction conflicts with
+test and set
+a transaction aborts
+we can calculate
+that a transaction
+with a class
+the closed system
+b f c
+concurrent data structure
+that the vf
+free algorithms are
+vf model is
+the non blocking
+that lock free
+per class utilizations
+the silent static
+time fixed class
+can occur due
+non blocking queue
+to commit its
+gammafl c t
+execution time of
+b c t
+the ff and
+been done to
+can calculate the
+the v v
+residence time of
+dynamic concurrency control
+calculate the per
+c transaction with
+cache line faults
+slowdowns can occur
+the ff model
+closed system model
+the variable time
+and permanent slowdowns
+the object pointer
+in the silent
+the ryu and
+1 class 2
+class 1 class
+phi k c
+performance of concurrent
+if the slowdowns
+permanent slowdown model
+the slowdowns are
+calculate the conflict
+the locking algorithm
+transient slowdown model
+the transaction is
+occur due to
+the lock is
+shared memory multiprocessors
+the execution time
+compare and swap
+in stage i
+transient and permanent
+b s c
+a closed system
+and b f
+the snapshot is
+to calculate the
+if a transaction
+time of a
+predictions of the
+calculate the probability
+conflicts with a
+in the system
+the proportion of
+an open system
+expected execution time
+of a class
+has been done
+time to execute
+of concurrent data
+memory and bus
+the locking queue
+stage ends when
+that non locking
+committing transaction conflicts
+page faults context
+in code 2
+26 to calculate
+faults memory and
+2 class 1
+formula 26 to
+the analytical tools
+vv model we
+the nonblocking queue
+free algorithms in
+architectures heterogeneous architectures
+and test and
+the vf approx
+1 fixed fixed
+large object protocol
+transaction aborts at
+conflict rate we
+variable time fixed
+support lock free
+transaction in stage
+that the vv
+e gammafl c
+in the vf
+the transaction processing
+for the v
+vv model is
+slowdown processor model
+a shared object
+in code 4
+of lock based
+architectures or differences
+locking algorithms in
+concurrent data structures
+response times but
+poor predictions of
+of processor slowdowns
+and the vf
+in operation execution
+of ryu and
+contention page faults
+a context switch
+b k seconds
+in the permanent
+conflict rate for
+heterogeneous architectures or
+2 variable fixed
+than locking algorithms
+a permanent slowdown
+and set lock
+of slowdowns on
+c transaction in
+class 2 class
+slowdown model the
+aborts at stage
+non blocking data
+the operation tries
+bus contention page
+faults context switching
+v f model
+model is too
+static concurrency control
+makes poor predictions
+permanent slowdowns in
+lock based concurrent
+differences in operation
+operation execution time
+vv transaction model
+due to cache
+line faults memory
+two transaction classes
+that a committing
+numa architectures heterogeneous
+that support lock
+from the per
+to cache line
+p c i
+and thomasian 51
+for the vv
+than the locking
+time that a
+transaction is aborted
+in the variable
+access to a
+p c and
+at stage i
+close agreement between
+a new transaction
+and the v
+calculated by taking

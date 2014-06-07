@@ -1,0 +1,600 @@
+hpmcp
+ppes
+tpes
+mcp
+vpmcp
+pbsa
+ppe
+tpe
+scheduling
+scheduled
+alap
+schedule
+vpmcp1
+rpn
+schedules
+bsa
+lengths
+earliest
+pe
+speedup
+node
+insertion
+horizontal
+vertical
+nodes
+ccr
+estimation
+permut
+est
+concatenated
+pes
+partitions
+000
+macro
+permutation
+former
+quality
+dataflow
+parent
+concatenation
+produced
+slot
+conflict
+sequential
+paragon
+partition
+post
+ratio
+ratios
+sized
+ready
+4000
+lpst
+rpns
+epst
+pivot
+3000
+sub
+ties
+sorted
+partitioning
+concatenate
+parallelization
+hueristics
+ix
+speedups
+multiprocessors
+xii
+running
+dependences
+xiii
+parallelizes
+obtains
+list
+broken
+parallelism
+resultant
+insert
+graphs
+scheduler
+exchange
+critical
+viii
+parallelizing
+sort
+broadcast
+target
+randomly
+vi
+estimated
+dsh
+ishfaq
+p1target
+ffepst
+hueristic
+1000
+superlinear
+vii
+processors
+idle
+en
+delete
+partitioned
+etf
+cyclicly
+ish
+abstractmost
+taniguchi
+suranauwarat
+ccrs
+sukanya
+spends
+xi
+maintains
+static
+successors
+walk
+hideo
+cooperates
+dsc
+manners
+dls
+breadth
+precedence
+shorter
+slots
+simultaneously
+titions
+permuta
+latest
+ans
+heuristics
+heavy
+intel
+tables
+edges
+sorting
+contention
+excluding
+kwong
+successor
+weights
+competes
+task
+communication
+topological
+permutes
+repeat
+cution
+injecting
+corresponded
+ahmad
+graph
+migrated
+longest
+degradation
+kwok
+conflicts
+acyclic
+granularity
+migrating
+children
+produces
+compile
+quit
+cyclic
+2n
+deterioration
+simplified
+succinctly
+faster
+remote
+dags
+processor
+slower
+assigned
+adjacent
+weight
+generator
+weather
+freed
+calculating
+multiprocessor
+routing
+logn
+overhead
+exe
+resolves
+calculated
+contradict
+spent
+completion
+portion
+concatenating
+horizontally
+pertaining
+interprocessor
+tasks
+updated
+sigops
+of ppes
+scheduling lengths
+of tpes
+start time
+each ppe
+the vpmcp
+scheduling length
+length ratio
+the hpmcp
+scheduling quality
+earliest start
+horizontal scheme
+hpmcp algorithm
+ratio length
+vertical scheme
+vpmcp algorithm
+alap time
+the scheduling
+mcp algorithm
+lengths produced
+parallel scheduling
+its former
+tpes the
+sub schedule
+vpmcp and
+post insertion
+the mcp
+scheduled to
+be scheduled
+sub schedules
+of mcp
+the alap
+ready list
+and hpmcp
+by hpmcp
+of vpmcp
+node list
+the node
+pbsa algorithm
+former nodes
+ccr number
+the pbsa
+produced by
+macro dataflow
+is scheduled
+scheduling algorithms
+former sub
+of hpmcp
+parent information
+hpmcp and
+node is
+graph size
+a node
+and speedup
+the vertical
+of nodes
+hpmcp algorithms
+a tpe
+sequential mcp
+rpn is
+in hpmcp
+all ppes
+the rpn
+by mcp
+mcp running
+and pbsa
+mcp the
+o e
+critical path
+equal sized
+running time
+000 nodes
+the horizontal
+increasing alap
+alap order
+length running
+scheduled simultaneously
+the start
+time s
+time slot
+its earliest
+permutation algorithm
+that produced
+start times
+each node
+time of
+quality scheduling
+number 1000
+4000 of
+pivot pe
+of pbsa
+order ties
+nodes ccr
+tpes in
+second ccr
+ppes length
+former partitions
+mcp is
+a ppe
+same tpe
+the tpe
+one ppe
+number scheduling
+hpmcp pbsa
+pbsa estimation
+ppes exchange
+are scheduled
+concatenated to
+the earliest
+the ready
+4 000
+the nodes
+a parallel
+list is
+p equal
+scheduled each
+ccr of
+ratio table
+dataflow graph
+schedules of
+lengths and
+scheduling algorithm
+possible start
+broken randomly
+nodes are
+s time
+final schedule
+domain partitioning
+static scheduling
+000 0
+1000 2000
+2000 3000
+insertion algorithm
+ppe maintains
+than mcp
+parallel concatenation
+ppe is
+parallel mcp
+tpe that
+more tpes
+maintains schedules
+mcp scheduling
+pbsa est
+four tpes
+every ppe
+ppes pbsa
+ppes figure
+ppes is
+algorithms number
+ppes hpmcp
+bsa algorithm
+hpmcp est
+pe list
+randomly b
+estimated start
+the bsa
+more ppes
+hpmcp is
+pbsa hpmcp
+tpes ccr
+by vpmcp
+0 scheduling
+is o
+3000 4000
+the pe
+of scheduling
+size number
+into p
+its sub
+its partition
+high quality
+time second
+the list
+times of
+different number
+graphs of
+graph is
+scheduled in
+task graph
+2 000
+scheme each
+ties are
+exchange information
+in second
+list in
+sort the
+resultant schedule
+scheduled node
+one node
+p 2
+nodes in
+e n
+speedup of
+running times
+sized blocks
+space domain
+2 en
+schedule the
+each partition
+this post
+the scheduling lengths
+number of tpes
+number of ppes
+the vpmcp algorithm
+lengths produced by
+ratio length ratio
+scheduling lengths produced
+length ratio length
+the hpmcp algorithm
+earliest start time
+the vertical scheme
+the alap time
+the horizontal scheme
+scheduled to the
+produced by hpmcp
+vpmcp and hpmcp
+the mcp algorithm
+the node list
+its former nodes
+start time of
+time of each
+scheduling lengths and
+than that produced
+the scheduling length
+the pbsa algorithm
+s time s
+is scheduled to
+of each node
+that produced by
+node is scheduled
+the ready list
+time s time
+nodes are scheduled
+produced by mcp
+4 000 nodes
+macro dataflow graph
+list in an
+o e n
+and hpmcp algorithms
+its earliest start
+scheduling length running
+graph size number
+hpmcp and pbsa
+an increasing alap
+in the horizontal
+the start time
+number of nodes
+increasing alap order
+the earliest start
+of its former
+alap time of
+length running time
+a node is
+is o e
+in the vertical
+allows the earliest
+in an increasing
+the start times
+alap order ties
+of ppes length
+with its former
+ccr of ppes
+to the tpe
+second ccr of
+running time second
+second and speedup
+in second and
+of vpmcp and
+the same tpe
+the rpn is
+ccr number 1000
+ppes exchange information
+length ratio table
+of nodes ccr
+the sequential mcp
+sort the node
+scheduled each time
+for parallel scheduling
+time in second
+nodes ccr number
+order ties are
+number scheduling length
+those of mcp
+high quality scheduling
+vpmcp algorithm is
+scheme each ppe
+4000 of ppes
+3000 4000 of
+number 1000 2000
+time second ccr
+by hpmcp and
+to all ppes
+ppes length ratio
+be scheduled each
+and speedup of
+parallel scheduling algorithms
+possible start time
+p equal sized
+node list in
+of the scheduling
+to be scheduled
+into p equal
+scheduled in parallel
+that allows the
+1000 2000 3000
+longer than that
+the final schedule
+for different number
+start times of
+2000 3000 4000
+size number of
+of the vpmcp
+maintains schedules for
+to four tpes
+version of parallel
+of the hpmcp
+this post insertion
+to a ppe
+partition is assigned
+its former partitions
+equal sized blocks
+estimated start time
+node and sort
+the tpe that
+and each partition
+compute the alap
+scheduling lengths of
+scheduled to four
+the vpmcp and
+e n log
+000 nodes for
+scheduling quality the
+of ppes pbsa
+000 0 scheduling
+its sub schedule
+on one ppe
+the former sub
+or more tpes
+former nodes it
+hpmcp algorithm the
+in the hpmcp
+performance of hpmcp
+pbsa hpmcp pbsa
+former sub schedule
+post insertion algorithm
+algorithms number scheduling
+lengths and running
+produced by vpmcp
+the bsa algorithm
+tpes in the
+broken randomly b
+mcp running time
+of scheduling quality
+a macro dataflow
+tpe that allows
+2 of ppes
+hpmcp pbsa hpmcp
+alap time and
+of tpes ccr
+graphs of 4
+ccr number 2
+scheduling length number
+of parallel mcp
+schedules for one
+0 scheduling length
+each ppe maintains
+of 4 000
+tpes ccr number
+of ppes figure
+former sub schedules
+the number of
+different number of
+ties are broken
+be scheduled simultaneously
+p 2 en
+1 a compute
+parallel scheduling is
+30 000 0
+running time in
+the resultant schedule
+concatenated to the
+time and speedup
+and running times
+number 2 of
+the critical path
+the time slot
+are broken randomly
+and sort the
+into equal sized
+of static scheduling
+a compute the
+can be scheduled
+set of graphs
+set of nodes
+each partition is
+are scheduled to
+list is empty
+length number of
+be scheduled to
+o p 2

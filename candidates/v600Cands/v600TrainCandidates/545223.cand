@@ -1,0 +1,600 @@
+wib
+instructions
+instruction
+queue
+banked
+olden
+spec
+window
+register
+speedups
+ipc
+cache
+issue
+latency
+miss
+load
+wakeup
+outstanding
+cycle
+reinsertion
+2k
+benchmarks
+windows
+reinserted
+bank
+microarchitecture
+banks
+bit
+clock
+fp
+128
+pretend
+file
+haitham
+akkary
+rename
+misses
+entry
+sigarch
+rajwar
+active
+policies
+prediction
+logic
+21264
+mgrid
+mst
+processors
+multicycle
+conventional
+entries
+ilp
+loads
+wait
+floating
+mateo
+valero
+operands
+ready
+32kb
+squashing
+treeadd
+reinsert
+2048
+news
+srikanth
+kilo
+cfp2000
+cint2000
+perlbmk
+galgel
+facerec
+wupwise
+cpu2000
+l2
+organization
+registers
+401
+branch
+designs
+taco
+buffer
+gandhi
+speculative
+int
+priority
+eligible
+64kb
+dependence
+bahar
+srinivasan
+superscalar
+vectors
+cristal
+em3d
+renau
+ravi
+pipeline
+bits
+processor
+execute
+waiting
+perimeter
+mikko
+gzip
+capacity
+001
+martnez
+committed
+architecture
+speedup
+iq
+leverage
+36th
+lipasti
+vortex
+parallelism
+oliverio
+files
+operand
+alpha
+chain
+multiscalar
+reg
+santana
+80integer
+shayesteh
+ergin
+anahita
+ponomarev
+yongxiang
+brekelbaum
+moreshet
+oguz
+rupley
+sharkey
+ilhyun
+parser
+simplescalar
+explore
+601
+8kb
+moved
+prescheduling
+tali
+nonpipelined
+4way
+fixup
+ipcs
+noticable
+desikan
+upton
+adrin
+policy
+completes
+scheduling
+microprocessors
+dependent
+vpr
+kanad
+sethumadhavan
+simha
+pajuelo
+multithreading
+benchmark
+queues
+checkpoint
+simulations
+microprocessor
+amit
+iris
+allocating
+vinals
+l1
+josep
+width
+store
+rates
+configuration
+completed
+ischia
+1024
+tolerating
+oldest
+gokhan
+huiyang
+ghose
+fetch
+cycles
+memik
+flight
+84
+base
+03
+reinman
+keckler
+livelock
+energy
+scalable
+repair
+issue queue
+the wib
+active list
+the issue
+bit vectors
+long latency
+bit vector
+issue window
+instruction windows
+wib and
+latency operation
+banked wib
+instruction window
+register file
+large instruction
+entry issue
+and olden
+spec fp
+program order
+wib design
+non banked
+instructions in
+issue logic
+32 entry
+load cache
+olden benchmarks
+spec int
+latency operations
+cycle time
+wakeup select
+pretend ready
+wib entries
+outstanding loads
+load miss
+the instructions
+dependence chain
+instructions are
+the spec
+for spec
+conventional issue
+clock cycle
+instructions dependent
+wib based
+wait bits
+wib can
+wib organization
+a wib
+waiting instruction
+dependent instructions
+an instruction
+cache miss
+dependent on
+2k entry
+average speedups
+instructions to
+the active
+outstanding load
+the load
+fp and
+the banked
+all instructions
+queue and
+wib with
+001 401
+are reinserted
+wib capacity
+wib access
+wib to
+entry wib
+a 2k
+acm sigarch
+sigarch computer
+architecture news
+operation completes
+instruction buffer
+select logic
+each bank
+news v
+instructions per
+register files
+ravi rajwar
+level register
+base configuration
+per cycle
+in program
+data cache
+the bit
+a load
+load s
+the wakeup
+t srinivasan
+computer architecture
+limited bit
+wib entry
+olden figure
+int spec
+wait bit
+for reinsertion
+entry active
+buffer wib
+eligible instructions
+srikanth t
+haitham akkary
+independent instructions
+instruction is
+speedups over
+clock rates
+speedups of
+mateo valero
+to reinsert
+wakeup logic
+spec 2000
+critical path
+instructions from
+4 cycle
+of outstanding
+superscalar processors
+on architecture
+kilo instruction
+queue entries
+a conventional
+and 50
+that instructions
+branch prediction
+the alpha
+the 2k
+the olden
+20 84
+reinserted into
+84 and
+reg file
+design is
+cache misses
+larger instruction
+the wait
+of order
+cycle access
+the window
+level parallelism
+source operand
+50 for
+window size
+perlbmk vortex
+spec cpu2000
+r iris
+reinsertion into
+execute out
+window design
+2k issue
+wib this
+iris bahar
+601 001
+vector index
+amit gandhi
+priority bank
+spec cint2000
+fp olden
+wib in
+to 64kb
+cfp2000 and
+wib is
+for olden
+indirectly dependent
+wib when
+spec cfp2000
+8kb for
+completed loads
+floating point
+on microarchitecture
+the instruction
+optimization taco
+taco v
+alpha 21264
+queue the
+two level
+to issue
+international symposium
+the base
+the register
+36th annual
+8 way
+window can
+memory latency
+cycle times
+dynamic multithreading
+reinserted in
+200 601
+way processor
+akkary ravi
+128 registers
+rajwar srikanth
+scheduling logic
+selecting instructions
+benchmarks respectively
+of instructions
+out of
+on long
+its operands
+03 05
+code optimization
+the issue queue
+the active list
+in the wib
+long latency operation
+issue queue and
+into the issue
+large instruction windows
+32 entry issue
+the issue window
+clock cycle time
+instructions in the
+long latency operations
+the wib and
+to the wib
+spec fp and
+entry issue queue
+from the issue
+instructions dependent on
+waiting instruction buffer
+for the spec
+a 2k entry
+in program order
+the bit vector
+out of order
+a long latency
+the long latency
+computer architecture news
+architecture news v
+sigarch computer architecture
+acm sigarch computer
+in the issue
+active list and
+and olden benchmarks
+and 50 for
+load cache miss
+latency operation completes
+into the wib
+from the wib
+instructions per cycle
+issue queue the
+the dependence chain
+issue queue for
+dependent on a
+srikanth t srinivasan
+a 32 entry
+instruction buffer wib
+the wib to
+the wib can
+20 84 and
+2k entry wib
+to issue queue
+of the wib
+fp and olden
+entry active list
+for spec int
+two level register
+bit vectors is
+non banked wib
+issue queue entries
+limited bit vectors
+the spec int
+dependent on long
+that instructions dependent
+between the wib
+int spec fp
+spec int spec
+a load cache
+84 and 50
+on long latency
+an instruction is
+number of outstanding
+of the issue
+of bit vectors
+the average speedups
+all instructions in
+on a long
+a load miss
+larger instruction windows
+instructions from the
+to the issue
+reinserted into the
+in the dependence
+symposium on microarchitecture
+the alpha 21264
+number of bit
+international symposium on
+the instructions are
+transactions on architecture
+architecture and code
+optimization taco v
+code optimization taco
+on architecture and
+proceedings of the
+and code optimization
+36th annual ieee
+our design is
+december 03 05
+wakeup select logic
+entry wib with
+wib when the
+the wakeup select
+policies for selecting
+dependence chain of
+for reinsertion into
+wib can achieve
+2k issue queue
+each bit vector
+a waiting instruction
+are reinserted into
+2k entry active
+indirectly dependent on
+banked wib organization
+for spec fp
+or indirectly dependent
+execute out of
+load cache misses
+of larger instruction
+when the long
+for selecting instructions
+reinsertion into the
+r iris bahar
+bit vectors the
+200 601 001
+the 2k issue
+speedups of 20
+level register files
+by the issue
+our technique could
+spec cfp2000 and
+the wait bit
+601 001 401
+high clock rates
+of 20 84
+8 way processor
+cannot execute until
+instructions are reinserted
+the wib in
+bit vector index
+n 2 may
+the 36th annual
+limiting the number
+program order the
+issue queue to
+haitham akkary ravi
+the bit vectors
+the olden benchmarks
+average speedups of
+akkary ravi rajwar
+rajwar srikanth t
+memory level parallelism
+conventional issue queue
+each load s
+a conventional issue
+ravi rajwar srikanth
+issue logic for
+reducing the complexity
+the instructions in
+single cycle access
+the base configuration
+speedups over the
+the issue logic
+kilo instruction processors
+the critical path
+on the critical
+mikko h lipasti
+address stack repair
+an 8 way
+jos f martnez
+return address stack
+cycle time and
+the clock cycle
+all the instructions
+of the 36th
+annual ieee acm
+with a 32
+per cycle ipc
+an instruction to
+register file in
+branch prediction and
+moved to the
+taco v 1
+for an 8
+instructions to be
+oliverio j santana
+removed from the
+on supercomputing june
+an important difference
+2 may 2007
+on microarchitecture p
+acm international symposium
+1 00 0
+ieee micro v
+be dependent on
+annual international conference
+limited wib capacity
+in dynamic superscalar
+issue queue requires
+buffer wib and
+can achieve speedups
+critical path 4

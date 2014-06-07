@@ -1,0 +1,600 @@
+quantum
+pir
+ldcs
+decodable
+decoder
+ldc
+server
+trevisan
+query
+codes
+classical
+codeword
+queries
+lqdc
+pirs
+qubit
+bit
+katz
+lqdcs
+smooth
+xor
+cj
+ja
+answers
+locally
+ju
+beimel
+recovery
+decoding
+randomness
+corrupted
+private
+bits
+recover
+ji
+retrieval
+ldec
+goldreich
+qubits
+j0i
+1g
+servers
+codewords
+probability
+positions
+bounds
+measurement
+f0
+outputs
+hadamard
+outcome
+j1i
+entanglement
+rst
+nayak
+ldecs
+obata
+qpir
+gasarch
+extractors
+alphabets
+exponential
+code
+unitary
+pcps
+semidenite
+jji
+jbi
+hyer
+correcting
+workspace
+schemes
+string
+2q
+0j
+subexponential
+log
+pr
+answer
+strings
+recovered
+superposition
+ib
+pure
+queried
+amplitudes
+ist
+correctors
+ashwin
+publishable
+j0ij1i
+beigel
+chor
+multioracle
+bitvectors
+jcijji
+gisin
+orthonormal
+don
+communication
+denition
+polynomials
+j1
+alphabet
+klauck
+fortnow
+interrogation
+oracle
+sends
+amplitude
+adaptively
+tuple
+buhrman
+j0
+copies
+bpp
+hj
+jbj
+erasure
+success
+signicantly
+2g
+smoothness
+tuples
+mann
+exptime
+parity
+ln
+disjointness
+y2
+mixed
+j2
+random
+lemma
+reduction
+polylogarithmic
+bx
+adaptive
+inner
+alice
+pseudorandom
+sen
+guess
+averaging
+privacy
+n1
+gf
+extract
+density
+y1
+bob
+luca
+fraction
+operators
+binary
+hamming
+ce
+secret
+averaged
+xed
+querying
+round
+membership
+evolves
+straightforwardly
+certainty
+tensor
+getting
+resilient
+reals
+appendix
+somewhat
+subsystems
+cryptography
+agreement
+uniform
+hiding
+indices
+uncorrupted
+bitpositions
+jjihjj
+renner
+resq
+fet
+jcss
+wehner
+jcijjij0i
+jri
+superpolynomial
+cj2a
+37559
+ijbi
+sasson
+hji
+pranab
+gkst
+queryp
+0524
+tradeos
+postdoc
+server pir
+locally decodable
+2 server
+a quantum
+recovery probability
+pir scheme
+decodable codes
+smooth code
+private information
+bit answers
+pir schemes
+access code
+lower bounds
+2 query
+x i
+ju x
+the quantum
+the decoder
+decodable code
+random access
+quantum random
+ja x
+bounds for
+best known
+lower bound
+and trevisan
+classical 2
+query ldcs
+the xor
+1 bit
+exponential lower
+ldcs with
+quantum pir
+recover x
+katz and
+quantum query
+communication complexity
+information retrieval
+xor of
+the codeword
+a q
+1 query
+t bit
+query locally
+with probability
+a classical
+c x
+a ja
+bit queries
+q tuple
+classical queries
+scheme with
+bound for
+2 classical
+m qubit
+f0 1g
+known classical
+beimel et
+smooth codes
+server pirs
+goldreich et
+trevisan 21
+quantum decodable
+query ldc
+ldc is
+1 quantum
+query lqdc
+a 2
+q queries
+one quantum
+2 servers
+log m
+11 14
+of ldcs
+classical pir
+quantum decoder
+quantum queries
+c smooth
+density matrix
+state ju
+answer length
+control bit
+locally quantum
+pirs with
+decoder s
+probability 1
+log n
+the server
+for 2
+q 1
+q 2
+state ji
+one query
+basis states
+quantum computing
+and quantum
+qubit state
+to recover
+n bit
+answers and
+success probability
+the user
+outputs 1
+decoding algorithm
+y m
+bit strings
+the classical
+q tuples
+quantum argument
+s randomness
+a pir
+query lqdcs
+with recovery
+hadamard code
+corrupted in
+corrupted codeword
+adaptive queries
+any bit
+pir with
+queried bits
+2 ldc
+classical proof
+bit x
+known ldcs
+quantum server
+code then
+the hadamard
+of queries
+queries to
+et al
+bits of
+our lower
+o n
+for classical
+i with
+server s
+code is
+the best
+quantum state
+quantum computer
+recovered with
+ji is
+q locally
+for quantum
+of katz
+known upper
+m bit
+bit string
+the rst
+the bits
+a bit
+is corrupted
+of quantum
+user sends
+our 2
+1g m
+bounds in
+with 1
+f a
+positions of
+our proof
+for x
+better lower
+two queries
+the measurement
+can recover
+improved the
+the probability
+upper bounds
+extend our
+schemes with
+2 f0
+2 queries
+optimal lower
+bound on
+the 2
+probability 11
+good q
+same randomness
+an ldc
+and j1i
+pure states
+larger answers
+classical decoder
+binary 2
+from ju
+bit answer
+ja ib
+pure state
+strings x
+quantum 2
+perfect recovery
+about i
+j0i and
+non adaptively
+decoder just
+polynomial lower
+ldcs over
+exactly 11
+katz trevisan
+2 server pir
+private information retrieval
+random access code
+locally decodable codes
+ju x i
+server pir scheme
+pir scheme with
+quantum random access
+1 bit answers
+lower bounds for
+the best known
+classical 2 server
+ja x i
+katz and trevisan
+the xor of
+a quantum random
+exponential lower bound
+locally decodable code
+recover x i
+for 2 query
+lower bound for
+1 a ja
+2 query ldcs
+a ja x
+query locally decodable
+with 1 bit
+t bit queries
+x i with
+of the codeword
+is a q
+bit answers and
+goldreich et al
+one quantum query
+bounds for 2
+beimel et al
+to recover x
+with t bit
+2 query locally
+best known classical
+server pir schemes
+xor of the
+communication complexity of
+o n 1
+ldc is a
+where the decoder
+scheme with t
+locally quantum decodable
+c smooth code
+a q c
+and trevisan 21
+the decoder s
+to 1 quantum
+pir schemes with
+state ju x
+bound for 2
+the communication complexity
+number of queries
+that the decoder
+best known ldcs
+2 server pirs
+a classical proof
+decodable code then
+a 2 query
+is the xor
+code for x
+with recovery probability
+ldcs with q
+q c smooth
+bit x i
+a classical 2
+server pir with
+a s y
+and recovery probability
+1 query lqdc
+the recovery probability
+a bit answers
+access code for
+a pir scheme
+a quantum argument
+known upper bounds
+the control bit
+2 classical queries
+k 2 servers
+n 3 10
+2 query ldc
+lower bound on
+is a 2
+code is a
+of katz and
+n bit strings
+bound for 1
+a 1 query
+the user sends
+be recovered with
+an exponential lower
+better lower bounds
+than the best
+i with probability
+2 f0 1g
+the bits of
+m y m
+complexity of set
+f0 1g m
+1 a 2
+positions of the
+best known upper
+optimal lower bounds
+output is the
+all x and
+upper bounds for
+with probability 1
+we can reduce
+for x i
+of the bits
+n lower bound
+least 1 2
+lower bounds in
+is a classical
+bit strings x
+1 quantum query
+codes and private
+extend our lower
+recently improved the
+server pirs with
+i with good
+for 1 query
+the polynomial lower
+to 1 reduction
+smoothness of c
+a smooth code
+then for proof
+decodable codes via
+hadamard code is
+code c 0
+quantum 2 server
+1 bit answer
+1 query lqdcs
+exactly 11 14
+codewords c x
+recovery probability is
+information retrieval in
+c x j
+communication complexity o
+same randomness as
+a corrupted codeword
+improve the polynomial
+code then for
+the log m
+codes via a
+recovered with probability
+over the user
+of 2 server
+answers and recovery
+classical lower bounds
+classical and quantum
+known classical 2
+bits of x
+a 2 ldc
+probability of output
+a good q
+for locally decodable
+a quantum 2
+the same randomness
+and private information
+from ju x
+the exponential lower
+the hadamard code
+q locally decodable
+quantum decodable codes
+some constant depending
+j0i and j1i
+our 2 to
+a 2 locally
+information retrieval pir
+a locally decodable
+quantum decodable code
+decodable codes and
+best known bounds
+schemes with 1
+via a quantum
+polynomial lower bounds
+good q tuple
+user s randomness
+randomness as the
+is corrupted in
+can recover x
+probability 11 14
+than 2 queries
+depend on i
+bit queries and
+qubit state ju
+a q locally
+2 locally decodable
+for all x
+complexity o n
+et al 8
+et al 20
+probability 1 2
+more than 2
+we extend our

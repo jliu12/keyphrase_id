@@ -1,0 +1,600 @@
+document
+corpus
+documents
+pd
+clusters
+baseline
+facetsq
+prec
+lm
+topclusters
+retrieval
+precision
+cluster
+ap88
+aspect
+ap89
+interpolation
+ranking
+bag
+idf
+pc
+smoothing
+tf
+scoring
+zhai
+score
+specic
+rank
+facets
+language
+58
+corpora
+57
+89
+template
+la
+qjc
+qjd
+topdocs
+latent
+query
+fr
+chengxiang
+stemmer
+avg
+dirichlet
+trec
+select
+relevance
+similarity
+sigir
+cjd
+jfacetsq
+cluster_size
+c2facetsq
+hyeok
+lillian
+kurland
+interpolated
+ranked
+hoc
+seung
+hoon
+lemur
+interp
+feedback
+oren
+clustering
+ad
+cohort
+stemmed
+tao
+eect
+pseudo
+yes
+smoothed
+chains
+pus
+lavrenko
+laerty
+salvador
+inquery
+stopword
+modeling
+incorporation
+bremen
+pt
+probabilistic
+classic
+induced
+jong
+stemming
+optional
+unsupervised
+porter
+xuanhui
+reexamining
+qiaozhu
+dint
+croft
+lee
+overlapping
+markov
+thought
+statistics
+hofmann
+kang
+na
+hyperlinks
+ndings
+mei
+association
+selection
+divergence
+nal
+emphasizing
+sloan
+suers
+competitive
+incorporating
+dierent
+incorporate
+29th
+curves
+92
+docu
+eective
+lambda
+statistically
+queries
+14th
+formation
+020
+aggregates
+reliance
+leibler
+brazil
+text
+utilizing
+improvements
+kullback
+46
+ir
+specied
+vocabulary
+iis
+28th
+diers
+signicance
+65
+degradation
+kl
+bruce
+instantiations
+wherein
+06
+management
+concatenating
+scores
+enhance
+1000
+05
+germany
+cor
+dependence
+uniform
+re
+toolkit
+yielded
+fee
+dierences
+ment
+annual
+cussion
+3261
+detemine
+drugs
+frequen
+mykola
+roh
+lms
+breck
+cacy
+demonstrably
+4805
+stoyanov
+ves
+trieved
+rooney
+shimon
+0329064
+domshlak
+uage
+compel
+krovetz
+detrimen
+carmel
+conceives
+xiaoyong
+upset
+aspect x
+pd q
+language models
+language modeling
+re ranking
+interpolation algorithm
+facetsq d
+topclusters q
+language model
+the aspect
+pc q
+basis select
+re rank
+ap88 89
+uniform aspect
+bag select
+information retrieval
+average precision
+the baseline
+set select
+la fr
+aspect model
+x algorithm
+tf idf
+q m
+lm approach
+the interpolation
+document specic
+avg prec
+baseline lm
+cluster based
+precision at
+corpus structure
+modeling approach
+by pd
+pseudo feedback
+and ap88
+select set
+similarity structure
+prec at
+select algorithm
+the corpus
+clusters in
+select bag
+baseline basis
+ap89 and
+document information
+at 0
+documents in
+based language
+individual document
+the document
+cluster information
+precision recall
+the clusters
+retrieval information
+interpolated precision
+information representation
+hoc information
+topdocs n
+hoc retrieval
+in topclusters
+document language
+feedback markov
+standard language
+p qjc
+p qjd
+relevance model
+optional re
+pc d
+ranking step
+rank step
+x uniform
+algorithm template
+a document
+relevant documents
+the cluster
+our algorithms
+retrieval august
+m pd
+document s
+scoring function
+chengxiang zhai
+ad hoc
+of clusters
+particular document
+retrieval time
+specic information
+c p
+in information
+international acm
+sigir conference
+acm sigir
+the bag
+to information
+and interpolation
+and corpus
+2 facetsq
+induced language
+precision curves
+inter document
+for la
+c2facetsq d
+curves corpus
+to choice
+11 pt
+jfacetsq d
+recall 11
+in facetsq
+hoon na
+seung hoon
+x precision
+recall 48
+lm based
+at retrieval
+cohort d
+non interpolated
+standard lm
+three corpora
+interpolation algorithms
+p cjd
+oren kurland
+hyeok lee
+select aspect
+average non
+kurland lillian
+qjc p
+su kang
+component documents
+basic lm
+jong hyeok
+for ap89
+information drawn
+qjd c
+q jfacetsq
+pt precision
+our aspect
+document clusters
+lillian lee
+clusters c
+on research
+induced from
+management an
+precision for
+ranking is
+document d
+competitive with
+query independent
+overlapping clusters
+the lm
+22 45
+smoothed language
+d pc
+smoothing method
+eect of
+facets of
+markov chains
+on pc
+58 2
+representation e
+free parameter
+in su
+the scoring
+na in
+the documents
+annual international
+a cluster
+development in
+the optional
+model 9
+clusters as
+our framework
+corpus we
+from documents
+cluster size
+a query
+incorporation of
+of documents
+and management
+the language
+and development
+models proceedings
+unsupervised learning
+recall and
+31 november
+october 31
+0 57
+an international
+2005 bremen
+bremen germany
+14th acm
+yes no
+05 2005
+v 43
+methods we
+k 40
+chains algorithm
+s emphasizing
+57 89
+tao xuanhui
+topclusters q m
+the interpolation algorithm
+the aspect x
+uniform aspect x
+language modeling approach
+aspect x algorithm
+select set select
+prec at 0
+based language models
+by pd q
+basis select set
+and ap88 89
+baseline basis select
+set select bag
+aspect x and
+modeling approach to
+select bag select
+ap89 and ap88
+to information retrieval
+the clusters in
+approach to information
+of the corpus
+pd q and
+re ranking step
+m pd q
+x and interpolation
+q m pd
+in topclusters q
+pseudo feedback markov
+c p qjc
+re rank step
+cluster based language
+document specic information
+ad hoc information
+lm approach and
+ad hoc retrieval
+standard language modeling
+re ranking is
+x uniform aspect
+hoc information retrieval
+aspect x uniform
+in information retrieval
+of the interpolation
+information retrieval august
+the language model
+sigir conference on
+development in information
+conference on research
+acm sigir conference
+international acm sigir
+annual international acm
+on research and
+and development in
+in facetsq d
+non interpolated precision
+document language models
+individual document information
+the standard lm
+to choice of
+our aspect x
+p qjd c
+the optional re
+clusters in topclusters
+induced language models
+c2facetsq d pc
+precision curves corpus
+language models proceedings
+recall 11 pt
+jfacetsq d j
+feedback markov chains
+the baseline lm
+for la fr
+interpolation algorithm s
+the aspect model
+in su kang
+the standard language
+at retrieval time
+information drawn from
+bag select aspect
+for ap89 and
+q jfacetsq d
+the basis select
+the basic lm
+at 0 57
+and interpolation algorithms
+the bag select
+hoon na in
+precision recall 11
+11 pt precision
+2 facetsq d
+of re rank
+precision at 0
+seung hoon na
+d pc q
+aspect model 9
+similarity structure of
+pd q jfacetsq
+that the aspect
+p qjc p
+bag select algorithm
+of dependence on
+pt precision curves
+oren kurland lillian
+optional re ranking
+aspect x precision
+kurland lillian lee
+c 2 facetsq
+select aspect x
+information retrieval information
+jong hyeok lee
+for our algorithms
+na in su
+average non interpolated
+clusters in facetsq
+information processing and
+and management an
+processing and management
+management an international
+degree of dependence
+of the aspect
+with respect to
+documents in the
+precision for the
+a particular document
+representation e g
+research and development
+competitive with the
+journal v 43
+an international journal
+for information retrieval
+14th acm international
+05 2005 bremen
+in the nal
+october 31 november
+november 05 2005
+management october 31
+models proceedings of
+31 november 05
+international journal v
+2005 bremen germany
+for the language
+facets of the
+can be thought
+number of documents
+knowledge management october
+the 14th acm
+v 43 n
+original aspect model
+respect to average
+cluster induced language
+all three corpora
+learning by probabilistic
+the re rank
+avg prec 21
+prec 21 03
+smoothed language models
+in the bag
+recall at n
+j 0 redundant
+xuanhui wang qiaozhu
+top ranked documents
+by dint of
+eect of using
+ranking by pd
+induced from d
+pd q is
+lm basis s
+and zhai s
+n top scoring
+language models and
+retrieval information retrieval
+corpus similarity structure
+algorithm see table
+aspect x interp
+the similarity structure
+facetsq d score
+latent dirichlet allocation
+our algorithm template
+expanded query language
+ap88 89 k
+89 k 40
+aspect x algorithms
+unsupervised learning by
+bayesian extension to
+q m c2facetsq
+11 point precision
+document expansion proceedings
+our novel algorithms
+the uniform aspect
+model induced from
+89 58 16
+average precision corpus
+nal output list
+the 29th annual
+dirichlet smoothed language
+eect of re
+august 06 11
+methods we used
+s set s
+cluster_size 40 baseline

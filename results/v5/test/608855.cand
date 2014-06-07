@@ -1,0 +1,600 @@
+cores
+bypass
+core
+port
+tpgr
+misr
+scan
+bit
+shortest
+sink
+ports
+circuitry
+bypassing
+schedule
+pcf
+mode
+cbg
+circuit
+infinity
+wires
+accessibility
+cycles
+testing
+packets
+dijkstra
+controller
+interconnections
+transfer
+paths
+stop_4
+bypasses
+read_port_1
+read_port_2
+read_port_3
+send_port_1
+stop_3
+stop_2
+stop_1
+bist
+isolation
+coverage
+scheduling
+fault
+chip
+interconnects
+po1
+send_port_2
+structural
+transferred
+parenthesis
+widths
+registers
+asap
+route
+serial
+isolated
+c3
+mergeable
+asic
+reusable
+dft
+factorizing
+inputs
+po2
+2c1
+syntest
+multiplexors
+transistor
+clock
+circuits
+signatures
+primary
+faults
+fastest
+micron
+compass
+yoneda
+tomokazu
+interconnect
+activities
+match
+automation
+path
+routes
+outputs
+chains
+tentative
+cmos
+factorize
+rtl
+fujiwara
+datapath
+intellectual
+hideo
+embedded
+unmarked
+signal
+schedules
+overhead
+chain
+pipeline
+bus
+signature
+bypassed
+soft
+buses
+testable
+synthesis
+factorized
+programmable
+testability
+tri
+hpcn92
+programmability
+j_k
+bomu76
+mabd98
+comp93
+6062
+abbr85
+packetization
+15390
+cota
+9180
+packetizing
+kowa97
+packetize
+lubaszewski
+demi94
+i_k
+bhgv96
+carro
+rika
+width
+logic
+vlsi
+europe
+source
+pile
+gentest
+busses
+mux
+ston90
+nin
+interfering
+flip
+char
+c2
+characteristic
+scrambled
+501
+packetized
+vertex
+c1
+overlap
+pipelining
+socs
+vq
+manuals
+signals
+protection
+consumes
+interface
+predefined
+eight
+luigi
+bellman
+munich
+stages
+packet
+pipelined
+connections
+marcelo
+flops
+jej
+electronic
+ort
+entirety
+shaded
+wrapper
+pursued
+designer
+summarized
+tester
+providers
+cycle
+ij
+session
+output
+pseudocode
+buffers
+thoroughly
+reusing
+gate
+cheaper
+modes
+library
+methodology
+patterns
+reflecting
+test time
+core 1
+the core
+test data
+the bypass
+a core
+each core
+infinity infinity
+bit match
+bit data
+output test
+system primary
+core k
+under test
+shortest paths
+cost values
+fault coverage
+the test
+test paths
+test path
+structural test
+bypass mode
+time cost
+shortest path
+cores in
+core input
+tpgr misr
+test controller
+four cores
+dijkstra algorithm
+to bypass
+the shortest
+of core
+b bit
+output ports
+output port
+to transfer
+core 2
+bypass scheduling
+port i
+test shortest
+port j
+core is
+input test
+packets of
+bit widths
+the pcf
+bypass circuitry
+bypassing data
+between cores
+isolated core
+bypass schedule
+test point
+core 4
+bit width
+input port
+the cores
+input ports
+cores are
+test points
+and sink
+input output
+core based
+for core
+port to
+cores signal
+stop_2 stop_1
+stop_1 send_port_1
+signal name
+match circuit
+misr stop_4
+misr misr
+core under
+stop_3 stop_2
+tpgr tpgr
+core environment
+of bypass
+read_port_2 read_port_3
+read_port_1 read_port_2
+stop_4 stop_3
+send_port_1 read_port_1
+m bit
+primary inputs
+on chip
+for test
+test patterns
+core and
+test overhead
+of cores
+scheduling method
+to port
+hard cores
+source and
+embedded cores
+cores with
+of test
+the system
+data between
+global source
+i mode
+complete bypass
+bypasses data
+directed weighted
+existing interconnections
+test methodology
+bit test
+ports to
+read_port_3 send_port_2
+serial to
+when core
+that core
+fastest route
+name 17
+bypass routes
+send_port_2 cores
+transfer test
+core in
+inputs outputs
+accessibility of
+to overlap
+design automation
+a test
+system on
+the bit
+paths 1
+scan out
+17 under
+and test
+is transferred
+1 bit
+characteristic function
+to serial
+source sink
+logic level
+4 bit
+between source
+primary outputs
+and core
+mode and
+time overhead
+n bit
+path algorithm
+data will
+the existing
+on design
+reusable blocks
+isolation techniques
+n stages
+bypass data
+s bit
+e cycles
+2 c1
+without interfering
+state buffers
+the cbg
+tri state
+are reusable
+scan registers
+proposed structural
+tentative path
+micron cmos
+global global
+through core
+core circuitry
+path weights
+graph modeling
+one core
+core when
+existing wires
+a bypass
+8 micron
+cycles cores
+cbg graph
+interface cost
+programmable e
+core output
+our structural
+core 3
+po1 po1
+interconnects and
+data from
+is under
+schedule for
+16 bit
+packet of
+k bit
+scan in
+of figure
+the circuit
+transferred in
+two test
+m n
+for system
+the fault
+route to
+weighted graph
+cores a
+the dijkstra
+cores the
+core to
+the test time
+infinity infinity infinity
+for each core
+the shortest path
+test shortest paths
+cores in the
+of a core
+of the core
+source and sink
+system on chip
+misr stop_4 stop_3
+core under test
+bypass schedule for
+stop_2 stop_1 send_port_1
+is under test
+stop_4 stop_3 stop_2
+stop_3 stop_2 stop_1
+bit match circuit
+stop_1 send_port_1 read_port_1
+cores signal name
+read_port_1 read_port_2 read_port_3
+the bypass mode
+output test shortest
+send_port_1 read_port_1 read_port_2
+tpgr misr stop_4
+input port to
+b bit data
+input output test
+data is transferred
+the shortest paths
+the time cost
+to the core
+dijkstra algorithm to
+fastest route to
+directed weighted graph
+the output port
+tpgr tpgr tpgr
+to port j
+schedule for core
+signal name 17
+a directed weighted
+of 4 bit
+and output ports
+two test points
+parallel to serial
+a b bit
+name 17 under
+read_port_2 read_port_3 send_port_2
+between two test
+transfer test data
+send_port_2 cores signal
+system primary inputs
+for core 1
+test data between
+bit test data
+misr misr misr
+is transferred in
+the existing interconnections
+read_port_3 send_port_2 cores
+serial to parallel
+the bit width
+of figure 7
+of test data
+the cost values
+between source and
+finding the shortest
+time cost of
+of core k
+our proposed structural
+of the bypass
+the dijkstra algorithm
+the core under
+test methodology for
+tri state buffers
+test data distribution
+8 micron cmos
+accessibility of the
+cost d b
+bit data from
+input test paths
+weighted graph in
+are reusable blocks
+to bypass data
+0 8 micron
+isolated core environment
+environment of core
+the cbg graph
+bit input port
+system primary outputs
+the core circuitry
+i to port
+port of a
+programmable e g
+the system primary
+the existing wires
+the test controller
+to overlap the
+the core input
+input test path
+of core 1
+the fastest route
+core is under
+output test path
+packets of data
+output test paths
+4 bit data
+the bypass circuitry
+route to transfer
+s bit match
+core input ports
+the i mode
+packets of 4
+global global source
+scan and our
+for all core
+to transfer test
+p s bit
+port i to
+from system primary
+bit width of
+cores are reusable
+2 2 c1
+the data is
+to the output
+shortest path between
+all the input
+from the system
+as a whole
+a core based
+of core based
+a core is
+core based system
+time cost d
+core does not
+design for test
+the fault coverage
+on design automation
+example of figure
+in the system
+m n m
+data will be
+an n bit
+shortest path problem
+core based systems
+a packet of
+all vertices are
+under test and
+as a directed
+the time overhead
+the core and
+test data for
+data distribution and
+shortest path algorithm
+system as a
+terms of time
+which the data
+input and output
+test in europe
+design automation and
+testing theory and
+figure 8 b
+for the test
+of electronic testing
+automation and test
+and test in
+electronic testing theory
+figure 7 c
+the characteristic function
+by which the
+journal of electronic
+graph in which
+algorithm to find
+in terms of
+the bit match
+m bit input
+transferred in 8
+paths 1 i
+8 cycles using
+the above issues
+fault coverage in
+rika cota luigi
+to carry test
+available bypass connections
+n bit output
+the participating core
+factorize the characteristic
+for 4 cycles
+the core output
+point 2nd test
+input ports to
+wires if the
+char interface cost
+test data b
+cores with s
+the overall test
+our method test
+problem as finding
+user manuals for
+test time for
+and core 4

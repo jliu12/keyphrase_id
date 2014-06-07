@@ -1,0 +1,600 @@
+quorum
+deliverupdate
+masking
+quorums
+servers
+client
+byzantine
+faulty
+server
+timestamp
+clients
+opaque
+initiateupdate
+load
+replicated
+echo
+dissemination
+prone
+universe
+executes
+lam86
+read
+protocol
+dahlia
+op
+serialization
+o1
+constructions
+grid
+secure
+malkhi
+member
+nw94
+failures
+fail
+signatures
+u2q
+dominated
+preceding
+tolerant
+writer
+availability
+secret
+fault
+services
+m1
+public
+concurrent
+iff
+mema
+undetectably
+correct
+2f
+intersect
+exclusion
+service
+alvisi
+m2
+consensus
+o2
+update
+reiter
+failure
+schneider
+writes
+ready
+atomic
+timestamps
+agreement
+threshold
+i2i
+repositories
+maniatis
+lidong
+bazzi
+giuli
+benignly
+rida
+precede
+scenarios
+protocols
+roussopoulos
+sends
+verifying
+induces
+receives
+authority
+o3
+benign
+hadamard
+petros
+busiest
+rosenthal
+lorenzo
+fred
+security
+peer
+reply
+write
+wool
+dispersal
+coterie
+assigns
+corollary
+precedes
+tocs
+digitally
+eventually
+michael
+consistency
+digital
+voting
+members
+certificates
+authenticate
+message
+ltv96
+ittai
+mr96
+bt85
+echoed
+cheuk
+2fe
+gb85
+robbert
+ccit88
+ht88
+ncommon
+pw95
+odlyzko
+rsa78
+5f
+caa90
+evelyn
+is92
+accessing
+certificate
+tolerate
+self
+baker
+confidentiality
+intersects
+certification
+validity
+integrity
+pierce
+merritt
+coteries
+domination
+neves
+survivable
+dahlin
+u2u
+renesse
+era
+bg
+reader
+lemma
+chooses
+rcd
+liskov
+rampart
+signed
+replication
+authentication
+rows
+satisfied
+nineteenth
+denver
+lemmata
+lau
+zhou
+annual
+mask
+votes
+wright
+bolton
+fortiori
+disable
+rebecca
+sharing
+mary
+fg
+date
+databases
+d1
+variations
+received
+executed
+propagation
+naor
+strategy
+multicast
+registers
+preservation
+propagating
+constructible
+landing
+3k
+rad
+quorum system
+quorum systems
+masking quorum
+v t
+correct server
+deliverupdate c
+c v
+a quorum
+fail prone
+prone system
+write operation
+a masking
+faulty servers
+executes deliverupdate
+load of
+quorum q
+server executes
+dissemination quorum
+the quorum
+echo q
+q v
+a correct
+opaque quorum
+the client
+q c
+initiateupdate q
+preceding write
+servers in
+read operation
+for b
+server in
+replicated data
+write operations
+of servers
+correct servers
+the load
+some quorum
+a client
+a load
+update q
+a universe
+each quorum
+byzantine quorum
+in q
+self verifying
+assigns equal
+opaque masking
+non dominated
+a dissemination
+a faulty
+each server
+system b
+a fail
+serialization of
+system for
+op 1
+value timestamp
+our quorum
+update protocol
+failure scenarios
+quorum induces
+an opaque
+system q
+value written
+client c
+the read
+client to
+is concurrent
+op 2
+concurrent with
+of q
+masking quorums
+some serialization
+highest timestamp
+ready q
+universe u
+public key
+any q
+of masking
+equal probability
+execute deliverupdate
+satisfied because
+grid construction
+faulty client
+executes initiateupdate
+correct client
+last preceding
+timestamp pairs
+q is
+dahlia malkhi
+b iff
+that assigns
+q 2
+member of
+the write
+correct then
+it queries
+operation in
+fault tolerant
+lemma 6
+servers that
+all servers
+all preceding
+probability to
+the grid
+c executed
+correct member
+f echo
+faulty server
+higher timestamp
+server u
+g u2q
+sends echo
+operations returns
+faulty clients
+arbitrarily faulty
+intersect in
+q 1
+t from
+the service
+each member
+then eventually
+queries each
+a strategy
+strategy that
+2 q
+are correct
+byzantine fault
+k reiter
+two quorums
+michael k
+quorum of
+every correct
+universe of
+threshold of
+corollary 4
+c q
+holds since
+a threshold
+t u
+in w
+of quorum
+single reader
+q to
+client can
+the system
+fred b
+no write
+executed initiateupdate
+m2 holds
+mema roussopoulos
+correct clients
+propagation if
+regular masking
+load induced
+q similarly
+b schneider
+given fail
+l exclusion
+validity if
+quorums intersect
+system over
+induces a
+a read
+of correct
+and secure
+the arbitrary
+t only
+secret sharing
+the servers
+servers is
+if op
+correct process
+byzantine failures
+lorenzo alvisi
+quorums q
+that clients
+digital signatures
+the universe
+a server
+system 2
+example 5
+services that
+w on
+the protocol
+distributed computing
+an update
+servers to
+multi reader
+is satisfied
+suppose that
+u g
+in some
+the members
+operation that
+variable x
+the replicated
+server receives
+servers such
+read for
+c v t
+quorum system for
+deliverupdate c v
+system for b
+fail prone system
+a correct server
+a masking quorum
+masking quorum system
+q v t
+masking quorum systems
+a quorum system
+q c v
+executes deliverupdate c
+correct server executes
+server executes deliverupdate
+prone system b
+a load of
+member of q
+initiateupdate q v
+write operation in
+echo q c
+a fail prone
+if a correct
+is a masking
+dissemination quorum system
+quorum system q
+some quorum q
+the quorum system
+opaque quorum system
+the read operation
+byzantine quorum systems
+the load of
+a dissemination quorum
+v t u
+in some quorum
+to each quorum
+servers in q
+strategy that assigns
+that assigns equal
+assigns equal probability
+quorum system is
+each server in
+equal probability to
+probability to each
+quorum induces a
+v t from
+induces a load
+update q v
+opaque masking quorum
+an opaque quorum
+each quorum induces
+server in some
+is concurrent with
+of a quorum
+in some serialization
+is non dominated
+ready q c
+the highest timestamp
+some serialization of
+for b iff
+of masking quorum
+the write operation
+a client to
+v t and
+a universe u
+load of the
+the value written
+that is concurrent
+value timestamp pairs
+server in q
+execute deliverupdate c
+operation in some
+all preceding write
+is a dissemination
+a faulty client
+last preceding write
+serialization of all
+is satisfied because
+the last preceding
+preceding write operations
+quorum q to
+operation in w
+preceding write operation
+it queries each
+of all preceding
+quorum systems and
+executes initiateupdate q
+queries each server
+each member of
+all servers in
+intersect in at
+v t to
+corollary 4 2
+obtain a set
+the system 2
+for a client
+to each member
+q to obtain
+the failure scenarios
+quorum systems that
+client to obtain
+concurrent with no
+system over a
+for a universe
+then it sends
+value written in
+is an opaque
+a faulty server
+u g u2q
+a correct client
+members of q
+write operations returns
+quorum system over
+v t only
+our quorum systems
+t u g
+update protocol that
+v t then
+of value timestamp
+system q is
+set of value
+f echo q
+q are correct
+if c executed
+a strategy that
+system for a
+a universe of
+if a server
+over a universe
+michael k reiter
+dissemination quorum systems
+value written by
+in at least
+read operation that
+load of 1
+a client c
+t only if
+on the system
+written by the
+correct servers in
+x it queries
+read for a
+1 let b
+no write operations
+given fail prone
+an update protocol
+client to read
+quorum q 2
+by w on
+the fail prone
+t from a
+with no write
+pair v t
+induced by w
+c executed initiateupdate
+quorums intersect in
+of data repositories
+to execute deliverupdate
+of servers such
+load induced by
+be a fail
+validity if a
+then the quorum
+a higher timestamp
+fred b schneider
+prone system for
+operations returns the
+executed initiateupdate q
+u 2 q
+byzantine fault tolerant
+every correct server
+correct server in
+quorum systems for
+arbitrarily faulty servers
+v t proof
+2 t c
+universe u then
+the grid construction
+quorum systems with
+sent by all
+set of correct
+t to each
+q is a
+2 lemma 6
+is the load
+a threshold of
+by the last
+a read operation
+operation that is
+only if c
+at each server
+quorum systems the
+q 2 if
+v t for
+a server receives
+q is non
+v t 2
+a quorum of
+been sent by
+u then there

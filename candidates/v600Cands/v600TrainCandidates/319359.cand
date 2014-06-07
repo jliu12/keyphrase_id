@@ -1,0 +1,600 @@
+stitches
+stitch
+manifold
+vertex
+v_father
+vertices
+wrl
+stitching
+mesh
+meshes
+v_cluster
+anchor_stack
+stack
+decoder
+decoding
+pop
+father
+connectivity
+decoded
+encoding
+compression
+anchor
+push
+total_length
+clustering
+encoder
+fig
+stitch_length
+encode
+cluster
+commands
+triangle
+command
+pop_or_get
+surgery
+bits
+polygonal
+triangles
+compressed
+stitching_command
+compressing
+stream
+geometry
+incident
+syntax
+has_stitches
+stack_index
+differential_length
+faces
+stitched
+replications
+encoded
+naive
+rossignac
+singular
+polygon
+decompression
+polygons
+v0
+reverse_bit
+stitching_anchor
+gen_nm
+push_bit
+quantization
+topological
+reverse
+coding
+progressive
+clusters
+parallelogram
+303
+forest
+longest
+bit
+nv1
+incremental_length
+briggso
+isenburg
+gumhold
+stitch_to
+unsigned
+buffer
+bitstream
+child
+deering
+ffj
+edges
+replicated
+saturn
+cardoze
+prediction
+indices
+maze
+engine
+graphics
+encoders
+bajaj
+coordinates
+retrieve
+brain
+mpeg
+singularities
+manifolds
+visualization
+coder
+fathers
+edgebreaker
+superfemur
+pajarola
+bpt
+bpv
+planet0
+_bit
+_length
+nv0
+cow
+sierpinski
+valences
+mlog
+fvig
+162
+3d
+marching
+pushed
+strasser
+inconsistently
+tree
+boolean
+bart
+fans
+sohler
+traversal
+rendering
+recording
+array
+reassign
+bitstreams
+none
+representatives
+loops
+snoeyink
+ancestors
+coordinate
+300
+enterprise
+spanning
+worst
+lamp
+queue
+converting
+timings
+arithmetic
+renato
+forward
+artifacts
+standardization
+hoppe
+genus
+bytes
+006
+conversion
+v1
+log2
+vf
+duplicated
+outperforms
+underestimates
+ng
+topology
+perturbing
+transmitted
+log
+boundary
+pictorial
+quantized
+edge
+devising
+600
+admits
+compliance
+normals
+supposing
+388
+clustered
+gathered
+topologically
+recover
+temporary
+storage
+functionalities
+shortened
+scatter
+formula
+pseudo
+face
+figs
+incidence
+000
+priority
+jump
+non manifold
+manifold mesh
+length method
+variable length
+stack based
+decoder order
+the stack
+bit stream
+of vertices
+per vertex
+bits per
+vertex clustering
+the stitch
+the stitching
+manifold meshes
+a manifold
+the vertex
+naive method
+stack buffer
+the stitches
+manifold vertices
+in fig
+and pop
+mesh compression
+a stitch
+of stitches
+father child
+topological surgery
+stitching information
+a vertex
+is decoded
+the variable
+push get
+reverse stitch
+based method
+the decoder
+and properties
+the connectivity
+the v_father
+stitches are
+10 bits
+child relationship
+the father
+the mesh
+get and
+the naive
+stitch of
+polygonal mesh
+forward stitch
+stitch is
+singular vertex
+triangle tree
+be stitched
+stream syntax
+vertices are
+each vertex
+vertices that
+encoding the
+current vertex
+vertex of
+vertex coordinates
+of fig
+vertex and
+for stitches
+anchor_stack if
+longest stitch
+stream size
+the anchor_stack
+stitches the
+vertex replications
+length methods
+stitch starting
+wrl 0
+to encode
+the encoder
+geometry and
+first vertex
+father of
+storage cost
+per triangle
+incident faces
+vertices in
+or pop
+of quantization
+r vertices
+unsigned integer
+the vertices
+of vertex
+a reverse
+encoding and
+a length
+vertex i
+vertex is
+a stack
+manifold polygonal
+surgery method
+per replicated
+from anchor_stack
+v_father is
+manifold to
+manifold compression
+the v_cluster
+per coordinate
+length stitches
+pop commands
+gen_nm wrl
+in decoder
+stitches in
+none command
+stitch length
+replicated vertex
+stitching command
+the commands
+polygonal meshes
+vertex graph
+and decoding
+the bit
+fig 14
+boolean value
+simple polygon
+a push
+meshes with
+case storage
+to manifold
+current component
+vertex tree
+decoding order
+vertex that
+decoding the
+r log
+command is
+the anchor
+the manifold
+vertices along
+get or
+push i
+manifold or
+arithmetic coding
+after decompression
+vertices and
+compression for
+a worst
+the decoding
+formula r
+back of
+self loops
+of polygons
+syntax that
+mesh is
+for encoding
+the longest
+mpeg 4
+and variable
+vertices the
+a mesh
+a get
+encoder and
+marching pattern
+14 meshes
+non manifolds
+martin isenburg
+clustering array
+stitches we
+encoding stitches
+decoded if
+push_bit is
+compressed bit
+vertex layer
+and cardoze
+stitching commands
+to total_length
+stitches of
+stitches a
+stitching_anchor from
+stitches and
+from none
+stitches one
+all stitches
+compressing a
+reverse stitches
+singular vertices
+of anchor_stack
+wrl model
+stitch 1
+regular vertex
+a none
+stitch_length at
+previously transmitted
+saturn wrl
+v_father entries
+special codes
+two stitches
+compressing non
+stitch 2
+cluster representatives
+none push
+using stitches
+compressed syntax
+ffj g
+enterprise wrl
+variable length method
+the variable length
+the stack based
+stack based method
+a non manifold
+the naive method
+bits per vertex
+non manifold vertices
+get and pop
+geometry and properties
+non manifold mesh
+the bit stream
+the stitching information
+decoder order of
+a manifold mesh
+father child relationship
+number of vertices
+10 bits per
+the vertex clustering
+of non manifold
+based and variable
+stack based and
+manifold mesh compression
+stitch of length
+bit stream syntax
+a reverse stitch
+current vertex i
+the current vertex
+and variable length
+illustrated in fig
+the longest stitch
+the topological surgery
+variable length methods
+the decoder order
+stitch starting at
+the stack buffer
+non manifold meshes
+push get and
+bit stream size
+the first vertex
+the father of
+in the stack
+example of fig
+to the back
+encoding and decoding
+bits per replicated
+the manifold mesh
+manifold polygonal meshes
+naive method we
+the triangle tree
+a stack buffer
+in decoder order
+to a manifold
+a vertex clustering
+of the stitch
+get or pop
+of vertex replications
+non manifold polygonal
+per replicated vertex
+bits per coordinate
+push i to
+topological surgery method
+a singular vertex
+case storage cost
+with a get
+non manifold to
+of the variable
+the back of
+the current component
+worst case storage
+a worst case
+each vertex that
+that the encoder
+the formula r
+method for compressing
+set of vertices
+vertex of the
+the example of
+a bit stream
+the number of
+for each vertex
+of the mesh
+of length zero
+associated with a
+for the variable
+of the connectivity
+for the stack
+i to the
+worst case cost
+of the naive
+pair of vertices
+length of 1
+a father child
+is a manifold
+length method outperforms
+compressing manifold meshes
+the vertex graph
+bits per triangle
+both the stack
+from anchor_stack if
+v_father father child
+the v_father entries
+a stitch is
+vertex clustering array
+different from none
+the polygonal mesh
+none push get
+of vertex coordinates
+back of anchor_stack
+vertices that cluster
+vertices for instance
+from the anchor_stack
+current component and
+variable length stitches
+compressed bit stream
+push get or
+coordinates and properties
+special codes to
+starting at each
+is decoded if
+theoretical best case
+manifold to manifold
+without the stitching
+a stitch length
+method the process
+equal to total_length
+be stitched together
+or non manifold
+syntax for stitches
+and pop commands
+per vertex and
+length method we
+length method the
+a none command
+a regular vertex
+unsigned integer is
+rossignac and cardoze
+longest stitch starting
+stack buffer we
+with a none
+a forward stitch
+stitching_anchor from anchor_stack
+a length equal
+non manifold compression
+the boolean value
+of the vertices
+vertex is a
+r log n
+of a mesh
+number of triangles
+and properties are
+fig 14 b
+cluster that is
+the command is
+with a push
+order of vertices
+is associated with
+method we have
+storage cost of
+edge incident on
+for the naive
+the mpeg 4
+of fig 2
+vertices that are
+first vertex of
+case cost of
+if the boolean
+self loops in
+the mesh is
+log m bits
+order of traversal
+is true then
+for the example
+an edge incident
+the longest possible
+of bits per
+a given component
+has a worst
+mesh is a
+a simple polygon
+in fig 9
+the vertices that
+of vertices the
+is a forest
+the last vertex
+of vertices in
+with a vertex
+length equal to
+true then the
+for the vertex
+the priority queue
+order of decreasing
+the original model
+to the stack
+bits of quantization
+vertices comprising the
+that are repeated
+stitching_command pop_or_get and
+wrl saturn wrl
+child relationship for

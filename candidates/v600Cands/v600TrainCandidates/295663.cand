@@ -1,0 +1,600 @@
+microtree
+idom
+pxdom
+microtrees
+dominators
+vertex
+lt
+micro
+dfs
+bkrw
+iidom
+vertices
+ms
+xdom
+aug
+evals
+tarjan
+memoization
+buchsbaum
+arcs
+eval
+alstrup
+iidoms
+lengauer
+mtroot
+owgraph
+bucket
+dominator
+arc
+endif
+semidominator
+root
+blue
+pxdoms
+label
+harel
+sdom
+dfsnum
+nd
+unions
+catenated
+evalnode
+nontrivial
+pushing
+union
+adam
+flowgraphs
+ordinary
+singleton
+62
+sccs
+encoding
+suif
+links
+owgraphs
+nonroot
+processmt
+augmented
+tree
+1985
+ancestor
+link
+pmt
+00
+path
+semi
+leeuwen
+ahlt
+iidomencoding
+processv
+denition
+1979
+heaps
+immediate
+parent
+roots
+rst
+descendents
+subtree
+1997
+graphs
+forest
+contradicting
+gure
+idoms
+semidominators
+sccencoding
+iidommemo
+jaug
+ab2
+medlock
+computedom
+trivmtroot
+ab1
+lorry
+isolated
+fredman
+1972
+gabow
+scc
+compression
+avoids
+external
+pushed
+atis
+nca
+pseudocode
+incident
+nds
+rooted
+phone
+subpath
+willard
+internal
+linking
+prex
+paths
+aho
+dotted
+mt
+spec
+disjoint
+leaf
+bits
+simpler
+pointer
+1984
+children
+dene
+trivial
+fig
+reverse
+subgraph
+postorder
+buckets
+1969
+xdoms
+nma
+predominators
+pmtroot
+dubrova
+sccmemo
+cfp95
+georgiadis
+microsets
+samedom
+topological
+leaves
+induced
+plain
+bottom
+plus
+encodings
+mst
+pd
+suite
+chariots
+memoize
+loukas
+uniting
+labels
+su
+vg
+cint95
+2097152
+classed
+2048
+contradicts
+lemma
+ullman
+holloway
+bitstring
+46
+initialize
+null
+dierence
+resolves
+dierences
+child
+outside
+atomic
+precomputed
+benchmark
+compiler
+abbreviated
+turb3d
+flowgraph
+partition
+tables
+dominates
+rogers
+fpppp
+plot
+argue
+obviates
+ces
+identiers
+pereira
+van
+weight
+aug t
+idom v
+micro v
+the microtree
+dominators algorithm
+pxdom path
+time dominators
+idom w
+62 micro
+linear time
+00 ms
+root micro
+lt algorithm
+tree path
+the lt
+simpler linear
+new simpler
+a pxdom
+alstrup et
+buchsbaum et
+pxdom v
+lengauer and
+label v
+2 micro
+trivial microtree
+link eval
+blue arc
+xdom path
+nontrivial microtrees
+immediate dominators
+path from
+l buchsbaum
+a microtree
+and evals
+adam l
+the microtrees
+ordinary vertex
+special vertices
+vertex v
+and tarjan
+dominators in
+dfs order
+an xdom
+set union
+sdom path
+dfs number
+micro x
+microtree roots
+into microtrees
+the pxdom
+microtree t
+to v
+augmented graph
+reverse dfs
+each vertex
+vertices in
+iidom v
+blue arcs
+harel 1985
+in aug
+evals on
+special vertex
+dfs tree
+the memoization
+the root
+an sdom
+v idom
+catenated with
+38 ms
+the iidom
+a semidominator
+of aug
+semidominator path
+semi w
+endif done
+v for
+path compression
+path p
+al 1997
+links and
+order do
+tarjan 1979
+a owgraph
+ms 3
+the tree
+a path
+from w
+disjoint set
+v to
+p from
+immediate dominator
+aug micro
+machine suif
+microtree root
+incident external
+ms 0
+that idom
+pxdom w
+arc t
+v 62
+root of
+then label
+to x
+union nd
+of d
+et al
+vertex in
+that avoids
+tree d
+a singleton
+vertex x
+o m
+using memoization
+v label
+m n
+leeuwen 1984
+idom x
+microtrees and
+microtree vertices
+dfsnum v
+semi v
+arcs dotted
+of bkrw
+path root
+algorithm idom
+trivial microtrees
+label z
+eval data
+in dfs
+d into
+v in
+v be
+all vertices
+any vertex
+w to
+in linear
+lines are
+for do
+vertex is
+least vertex
+tarjan and
+the unions
+25 ms
+done fig
+arc u
+memoization to
+are paths
+v then
+the dfs
+data structure
+the immediate
+a vertex
+the bucket
+d 0
+in reverse
+p 0
+our algorithm
+van leeuwen
+link v
+each v
+in g
+of v
+p catenated
+micro w
+gure then
+reduced encoding
+and alstrup
+dominators of
+root aug
+plus incident
+ms 7
+ms 9
+up linking
+label evalnode
+atomic heaps
+microtrees to
+bkrw is
+singleton microtree
+no blue
+the xdom
+bkrw with
+g solid
+arcs paths
+of pxdom
+avoids y
+isolated microtrees
+iidom x
+pxdom values
+nontrivial microtree
+internal microtree
+microtrees which
+61 us
+ordinary vertices
+lt is
+iidom values
+dfs numbers
+z idom
+graph aug
+microtree and
+microtrees we
+time dominators algorithm
+linear time dominators
+new simpler linear
+simpler linear time
+root micro v
+the lt algorithm
+a new simpler
+alstrup et al
+a pxdom path
+the tree path
+lengauer and tarjan
+buchsbaum et al
+2 micro v
+adam l buchsbaum
+links and evals
+l buchsbaum et
+62 micro v
+v 62 micro
+is a pxdom
+an xdom path
+the link eval
+disjoint set union
+the root of
+reverse dfs order
+in reverse dfs
+on the tree
+d into microtrees
+of aug t
+and tarjan 1979
+in aug t
+an sdom path
+et al 1997
+o m m
+is a path
+path from w
+lines are paths
+aug t 0
+tree path from
+x that avoids
+sdom path from
+is an xdom
+a trivial microtree
+catenated with the
+pxdom path from
+in a microtree
+is an sdom
+path p from
+in linear time
+dfs order do
+more than g
+from w to
+path from u
+a linear time
+dotted lines are
+to x that
+ordinary vertex is
+idom v 62
+an ordinary vertex
+link eval data
+trivial microtree roots
+dfs tree d
+pxdom path to
+00 ms 0
+van leeuwen 1984
+ms 0 00
+a blue arc
+v idom w
+tree path root
+idom v idom
+arc t v
+blue arc t
+the immediate dominators
+a semidominator path
+tarjan and van
+v 2 micro
+aug t from
+the pxdom path
+eval data structure
+that idom v
+the least vertex
+pxdom path p
+the path from
+from u to
+arc u v
+and van leeuwen
+label v label
+a path in
+linear time algorithm
+d f g
+to the root
+arcs dotted lines
+label v then
+is a semidominator
+are arcs dotted
+from w 0
+external arcs paths
+arcs paths from
+z idom x
+the microtree root
+that avoids y
+least vertex in
+path root micro
+and alstrup et
+immediate dominators in
+dfs number of
+link and eval
+no blue arcs
+p in aug
+contains no blue
+that z idom
+the gure then
+aug micro x
+bottom up linking
+w 62 micro
+paths from g
+m m l
+lines are arcs
+xdom path from
+harel 1985 and
+forms a singleton
+link eval time
+a singleton microtree
+idom v 2
+plus incident external
+62 micro x
+idom w 62
+incident external arcs
+micro v for
+p catenated with
+on tree path
+of the microtree
+1985 and alstrup
+micro v and
+from some y
+internal microtree vertices
+in a owgraph
+graph aug t
+in the microtree
+for any vertex
+d 0 of
+p from w
+for each v
+a path p
+m m n
+in the gure
+there is a
+vertices in a
+from x to
+dominators in a
+then label v
+with the tree
+vertex in p
+in p on
+x to w
+the immediate dominator
+the bucket of
+v be the
+path in g
+in o m
+p contains no
+numbers indicate that
+a special vertex
+n plus the
+v then label
+x to v
+root of the
+v such that
+add v to
+if p contains
+0 of d
+path to v
+the spec 95
+from r to
+a d f
+vertex v that
+that forms a
+solid lines are
+vertices in t
+vertices in d
+corollary 6 2
+w 0 to
+plus the time
+micro v v
+v is there
+v that avoids
+g solid lines
+prex p 0
+5 00 ms
+compute immediate dominators
+the memoization tables
+union data structure
+denition of pxdom
+the prex p
+v for do
+immediate dominators of
+x in aug
+partition d into
+cannot lie on
+immediate dominators for
+encoding of aug

@@ -1,0 +1,600 @@
+c2p
+p2c
+pk
+nextact
+fsm
+miv
+repetitive
+outer
+array
+stride
+accessed
+cyclic
+pos
+block
+affine
+processor
+siv
+subscripts
+loop
+jump
+fig
+offset
+tables
+compiling
+processors
+subscript
+gcd
+nested
+position
+access
+cyclically
+addresses
+blocks
+colored
+fortran
+accesses
+mivs
+corresponded
+inner
+active
+element
+iteration
+hpf
+recorded
+ordered
+address
+distributions
+memory
+record
+virtual
+reference
+iterations
+references
+generation
+termed
+deltam
+endif
+constructions
+orderly
+analyses
+sequences
+preprocessing
+s2
+traverse
+ramanujam
+plexity
+s1
+enddo
+layout
+compilation
+comparisons
+cessor
+positions
+evidently
+viewpoint
+vienna
+distribution
+allocated
+classes
+classified
+mimd
+lambdak
+nextactive
+asoffset
+nex
+istics
+induction
+comp
+spectively
+dist
+please
+generating
+global
+discovery
+programs
+na
+fortranmyampersandmdash
+gaps
+records
+robin
+starting
+loops
+tact
+gradations
+enumerate
+pattern
+findings
+speaking
+trary
+limi
+parallelizing
+asymptotical
+group
+ited
+complexities
+gray
+distribute
+iterate
+illustrates
+posi
+optimizing
+sorting
+shaded
+lattice
+groups
+patterns
+diophantine
+likewise
+execu
+butions
+mutually
+addressing
+hitting
+enumerates
+ments
+onto
+formulates
+sition
+compiler
+strides
+concrete
+invalidation
+recomputation
+recognize
+communication
+preprocess
+distance
+concretely
+spmd
+obviously
+jumping
+notified
+distri
+multiprocessing
+views
+kennedy
+thoroughly
+ele
+figs
+machines
+ta
+po
+sake
+go
+enumerating
+round
+forum
+scripts
+ble
+dealing
+proces
+sor
+shortcomings
+iterating
+omitted
+2i
+enclosed
+algebra
+assumes
+illustrated
+correspond
+paragraph
+avoidance
+respec
+49
+handbook
+transmitting
+suitable
+recording
+lem
+hash
+mathematics
+name
+induced
+mapped
+skip
+tation
+transition
+tively
+incurs
+starting element
+class number
+global start
+starting elements
+accessed element
+element on
+access stride
+the starting
+outer loop
+c2p table
+local address
+start computation
+address generation
+active block
+array reference
+the accessed
+access sequences
+local memory
+array elements
+affine subscripts
+miv address
+block cyclic
+the local
+with affine
+elements on
+a block
+computation algorithm
+the block
+memory access
+repetitive pattern
+class numbers
+the fsm
+ordered sequence
+the miv
+p2c table
+local addresses
+access sequence
+nested loop
+the outer
+the array
+the access
+on processor
+data parallel
+gcd pk
+pk gcd
+fsm approach
+two nested
+generation problem
+loop iteration
+stride is
+o pk
+cyclic distribution
+a repetitive
+references with
+the class
+compiling array
+nextact and
+parallel programs
+communication sets
+of array
+on processors
+in fig
+array references
+and jump
+address of
+addresses of
+jump tables
+pos s
+class 0
+pk s
+affine subscript
+each outer
+the position
+processor p
+block size
+accessed elements
+of class
+table is
+no accessed
+distribution block
+tables used
+o 1
+elements accessed
+element for
+block on
+recorded by
+cyclic distributions
+the c2p
+suitable class
+to c2p
+nextact table
+siv problem
+position of
+all blocks
+tables are
+to correspond
+given global
+reference with
+processor q
+with cyclic
+program model
+the global
+each processor
+sequences for
+sequence for
+one group
+table based
+repetitive patterns
+global addresses
+inner loop
+the ordered
+generation for
+a processor
+p 0
+current block
+table to
+in data
+block according
+position 0
+block cyclically
+memory accesses
+to record
+for compiling
+stride for
+every processor
+block is
+numbers on
+accesses of
+performance analyses
+start is
+these tables
+subscripts in
+cyclically distributed
+the memory
+for block
+can obtain
+the repetitive
+for affine
+onto processors
+an active
+if pos
+subscript within
+subscripts within
+real position
+of c2p
+corresponded by
+go direct
+number corresponded
+improved work
+are pk
+repetitive iterations
+an siv
+table for
+elements are
+generate the
+array subscripts
+machine fsm
+accessed by
+to generate
+for processor
+position 1
+of classes
+example shown
+to jump
+fsm for
+start g
+next active
+affine array
+an accessed
+initial state
+record the
+total complexity
+the tables
+a global
+the processor
+s q
+the virtual
+since pos
+empty block
+cyclic 4
+subscript is
+offset table
+virtual processors
+no class
+direct to
+array element
+fig 2
+figure out
+fig 7
+distributed memory
+the inner
+by position
+is o
+processor for
+a table
+start in
+processor from
+state machine
+efficient address
+local iteration
+the starting element
+the class number
+the starting elements
+class number of
+the access stride
+local memory access
+accessed element on
+the local memory
+start computation algorithm
+starting element on
+of the starting
+outer loop iteration
+local address of
+the array reference
+memory access sequences
+two nested loop
+the local address
+the outer loop
+the global start
+generate the local
+miv address generation
+data parallel programs
+access stride is
+memory access sequence
+a global start
+starting elements on
+the miv address
+address generation problem
+element on the
+array references with
+processor p 0
+a two nested
+pk gcd pk
+local addresses of
+references with affine
+an active block
+access sequences for
+a repetitive pattern
+the accessed element
+on the block
+in data parallel
+the ordered sequence
+of array elements
+nextact and jump
+element on processor
+and jump tables
+starting element for
+on a block
+for each outer
+element on a
+and the access
+the memory accesses
+block cyclic distribution
+address generation for
+within a two
+shown in fig
+of a block
+address of the
+the accessed elements
+of the fsm
+case of s
+elements accessed by
+with affine subscripts
+the local addresses
+class numbers on
+each outer loop
+gcd pk s
+processors with cyclic
+no accessed element
+elements on processors
+pk s 1
+compiling array references
+of class numbers
+distribution block size
+given global start
+sequence of class
+access sequence for
+the distribution block
+is the access
+on processor p
+obtain the class
+memory accesses of
+the position of
+communication sets for
+to correspond to
+than the block
+array elements accessed
+a given global
+on a processor
+can obtain the
+for block cyclic
+the inner loop
+reference with affine
+with affine subscript
+a block according
+elements on every
+table based approach
+have a repetitive
+class number to
+number to correspond
+stride for the
+subscripts in data
+outer loop iterations
+global start is
+block of class
+find the starting
+array elements on
+the tables used
+accessed elements on
+access stride for
+of the accessed
+number of the
+to generate the
+is recorded by
+layout of array
+block cyclically distributed
+addresses of array
+computation algorithm is
+on every processor
+of the outer
+on each processor
+to record the
+the block of
+of s k
+array reference with
+elements are distributed
+nested loop is
+block according to
+table to record
+position of the
+the program model
+a table based
+p 0 is
+initial state of
+of classes is
+number of classes
+array elements are
+block cyclic distributions
+the example shown
+affine subscripts within
+the next active
+the c2p table
+starting elements in
+global start g
+at position 0
+for affine subscripts
+generation for affine
+number corresponded by
+element for each
+p2c table is
+for compiling array
+all blocks can
+elements in case
+accessed by every
+the two nested
+correspond to we
+since pos s
+class number corresponded
+corresponded by position
+next active block
+numbers on each
+subscript within a
+terms of global
+that the repetitive
+an accessed element
+get the position
+global addresses of
+distributed over 4
+complexity to generate
+4 processors with
+repetitive pattern in
+find an active
+cyclic distribution as
+go direct to
+offset table is
+to c2p table
+affine subscript within
+an siv problem
+cyclic 4 distribution
+direct to step
+c2p table for
+classes is smaller
+evaluate the starting
+that array elements
+subscripts within a
+local address is
+with cyclic 4
+the start computation
+starting elements for
+according to c2p
+state machine fsm
+o 1 o
+example shown in
+finite state machine
+are distributed over
+0 4 3
+of the tables
+can get the
+the total complexity
+the block size

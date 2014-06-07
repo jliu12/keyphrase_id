@@ -1,0 +1,600 @@
+dsm
+writer
+consistency
+coherence
+protocol
+lrc
+invalidate
+release
+relaxed
+page
+lazy
+acquire
+processor
+treadmarks
+sharing
+ownership
+protocols
+coherent
+munin
+memory
+hardware
+false
+cache
+mw
+ordering
+atomicity
+shared
+processors
+event
+invalidated
+message
+read
+relaxing
+synchronization
+delay
+notices
+entailed
+events
+writes
+diffing
+write
+singer
+transition
+p2
+messages
+lock
+x3
+midway
+unrelated
+strictest
+adopted
+multiprocessors
+rj
+affinity
+dubios
+plpc
+interchangely
+twinning
+update
+strict
+pages
+locks
+fault
+complier
+numa
+stale
+behaviours
+alewife
+ivy
+faulting
+cvm
+writers
+home
+erc
+sequential
+trapping
+receive
+send
+ec
+wj
+diffi
+traffic
+timestamps
+ri
+rc
+acquiring
+scc
+timestamp
+software
+tell
+acknowledgement
+happen
+delayed
+relationship
+copies
+cc
+flash
+stanford
+l0
+receiving
+adve
+granularity
+x1
+wi
+location
+vague
+draw
+remote
+useless
+didn
+rice
+eager
+carlos
+scope
+x0
+doesn
+thread
+interaction
+x2
+multiprocessor
+dash
+weak
+accesses
+demand
+barriers
+improtant
+valided
+midwary
+adsm
+nlls
+cccur
+intergrating
+quarks
+marland
+twining
+whch
+mdrc
+startt
+coexisted
+drf1
+24ask
+softare
+scheurish
+ncp2
+depict
+entry
+executes
+exploited
+protected
+store
+subsection
+buffered
+stenstrom
+shrimp
+multaneously
+coherences
+hlrc
+censier
+immedi
+aurc
+transfering
+releasers
+mit
+eliminated
+x4
+equalized
+acquirer
+gharachorloo
+president
+repectively
+ately
+tiprocessors
+l2
+understanding
+greatly
+voyager
+diku
+releaser
+multicache
+relax
+allocated
+mainly
+diffs
+conductor
+unnecessary
+categories
+feautrier
+twin
+simultane
+iram
+p1
+years
+hybrid
+rudolph
+dubois
+viewpoint
+analyze
+indirectly
+aware
+issued
+writer protocol
+consistency model
+memory consistency
+dsm systems
+software dsm
+multiple writer
+consistency models
+coherence protocol
+release consistency
+single writer
+false sharing
+hardware dsm
+relaxed single
+coherence protocols
+event ordering
+lazy release
+in software
+more relaxed
+the coherence
+sequential consistency
+write notices
+acquire operation
+between coherence
+in hardware
+invalidate message
+mw protocol
+shared memory
+of coherence
+entry consistency
+dsm system
+relaxed consistency
+ordering in
+each processor
+strict single
+write false
+state transition
+an acquire
+coherence and
+cache coherence
+coherence unit
+lrc as
+delay update
+new consistency
+relaxed coherence
+distributed shared
+sharing problem
+protocol is
+and memory
+synchronization operation
+protocol and
+write invalidate
+the write
+protocols and
+the ownership
+hardware and
+and event
+based multiple
+page 2
+page fault
+atomicity demand
+when p2
+singer writer
+read false
+delay receive
+coherent view
+invalidate page
+scope consistency
+before write
+general definition
+write write
+of memory
+transition for
+the relationship
+page 0
+of lrc
+protocol needed
+other processors
+the atomicity
+same page
+for memory
+the happen
+write update
+and consistency
+protocol we
+relationship between
+transition graph
+weak ordering
+happen before
+must obtain
+shared data
+update protocol
+page 1
+immediately and
+the page
+invalidated based
+of acknowledgement
+logical sum
+traditional multiple
+affinity entry
+messages entailed
+improved multiple
+unrelated messages
+receive invalidate
+page simultaneously
+acknowledgement can
+we aware
+following release
+memory scheme
+write invalidated
+lrc and
+relaxing coherence
+support it
+write read
+entailed by
+before 1
+and software
+memory system
+includes two
+a processor
+same location
+consistency as
+shared virtual
+and write
+automatic update
+next acquire
+release synchronization
+corresponding coherence
+invalidate messages
+home based
+of events
+this processor
+message traffic
+invalidate based
+in treadmarks
+2 send
+consistency lrc
+based lazy
+hardware coherent
+model is
+when other
+we design
+systems the
+some improvements
+t tell
+receiving of
+protocol will
+this conclusion
+new definition
+ordering of
+of cache
+invalidate protocol
+atomicity is
+written value
+two issues
+is adopted
+be delayed
+allocated on
+cc numa
+on traditional
+for hardware
+partial order
+and multiple
+in dsm
+coherence is
+the state
+definition for
+consistency in
+adopted in
+new state
+1 partial
+we draw
+tell us
+one processor
+memory access
+conclusion is
+r w
+a page
+very useful
+improvements on
+and coherence
+the receiving
+useful when
+consistency and
+send and
+protocol when
+systems include
+as such
+operation lrc
+in midway
+on relaxing
+12 automatic
+aspect called
+lrc can
+strong ordering
+in lrc
+consistency 24
+lrc uses
+pages immediately
+and complier
+write collection
+multiple writer protocol
+software dsm systems
+memory consistency model
+in software dsm
+single writer protocol
+memory consistency models
+relaxed single writer
+and memory consistency
+lazy release consistency
+in hardware dsm
+consistency model is
+hardware dsm systems
+event ordering in
+protocols and memory
+coherence protocols and
+the more relaxed
+in each processor
+ordering in each
+of memory consistency
+for memory consistency
+coherence protocol and
+dsm systems the
+relationship between coherence
+writer protocol is
+write false sharing
+and software dsm
+strict single writer
+an acquire operation
+consistency model in
+and event ordering
+relaxed consistency model
+false sharing problem
+distributed shared memory
+based multiple writer
+definition for memory
+writer protocol for
+that in hardware
+writer protocol we
+state transition for
+consistency models are
+the state transition
+the relationship between
+consistency models in
+general definition for
+software dsm system
+analyze the relationship
+a general definition
+ordering of events
+transition graph for
+the event ordering
+support it this
+and multiple writer
+new consistency model
+it this conclusion
+read false sharing
+coherence protocol needed
+a new consistency
+more relaxed coherence
+write write false
+the atomicity demand
+between coherence protocol
+relaxed coherence protocol
+when we design
+lrc as an
+more relaxed consistency
+conclusion is very
+write read false
+happen before 1
+state transition graph
+the same page
+dsm systems in
+protocol needed to
+useful when we
+relationship between them
+to support it
+very useful when
+model is the
+design a new
+hardware and software
+this conclusion is
+the coherence protocols
+invalidated based multiple
+dsm systems include
+while in software
+between coherence protocols
+coherence unit is
+and consistency model
+of coherence protocol
+the following release
+the strict single
+traditional multiple writer
+the logical sum
+coherence protocol is
+model in software
+as we aware
+affinity entry consistency
+sequential consistency as
+and message traffic
+some improvements on
+logical sum of
+example we analyze
+following release synchronization
+the coherence unit
+release synchronization operation
+writer protocol by
+adopted in software
+receiving of acknowledgement
+of acknowledgement can
+for multiple writer
+dsm systems and
+acknowledgement can be
+write invalidated based
+on traditional multiple
+improvements on traditional
+1 the atomicity
+for software dsm
+protocol and event
+messages entailed by
+improved multiple writer
+relaxing coherence protocol
+writer protocol when
+protocol and consistency
+delay update protocol
+make some improvements
+the same location
+cache coherence protocols
+shared virtual memory
+we design a
+needed to support
+can be delayed
+coherence and event
+the write notices
+processor executes an
+dsm system the
+home based lazy
+based lazy release
+1 partial order
+before 1 partial
+consistency model and
+the write write
+3 the receiving
+executes an acquire
+t tell us
+the happen before
+consistency model we
+the coherence protocol
+release consistency lrc
+the receiving of
+until the following
+coherence and consistency
+modify the same
+a new state
+is very useful
+consistency models for
+tell us the
+the false sharing
+the ordering of
+of cache coherence
+we draw the
+is the logical
+protocol will be
+is the more
+describe the state
+these two issues
+be delayed until
+propose a general
+delayed until the
+by other processors
+the first time
+protocol is used
+as such the
+x that follows
+sequential consistency in
+coherence unit in
+dsm systems over
+receive invalidate message
+writer protocol if
+only one writer
+describe the complex
+to implement dsm
+of coherence is
+consistency model focuses
+years there are
+but the ownership
+also point that
+read write false
+coherence protocol further
+memory access until
+pages which will
+atomicity demand relaxed
+as w r
+processor may not
+at an acquire
+protocol is adopted
+dubios et al
+message driven release
+the coherent view
+on relaxing coherence
+another memory access
+same page simultaneously

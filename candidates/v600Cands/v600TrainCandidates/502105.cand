@@ -1,0 +1,600 @@
+op
+pid
+word
+locking
+id
+sc
+lock
+unlocking
+ll
+sensitivity
+locked
+tmp
+addr
+unary
+unmark
+mark
+blocking
+processor
+marking
+unmarked
+monotone
+intersection
+stage
+unlocked
+unlock
+marked
+executing
+intersected
+helping
+upstream
+conflict
+initiating
+blocked
+timestamp
+ff
+downstream
+contention
+memory
+unmarks
+field
+tossing
+unlocks
+neighbor
+cell
+processors
+transactional
+locks
+lemma
+decision
+sc2
+fm
+helps
+linial
+philosophers
+operation
+address
+hot
+h5
+rappoport
+binary
+directed
+synchronization
+ts
+invalid
+universal
+tries
+shared
+concurrent
+directions
+marks
+spot
+coin
+decide
+distance
+herlihy
+return
+prev
+flag
+stages
+edge
+moir
+touitou
+ascending
+reads
+succeeds
+neighboring
+knows
+decides
+philosopher
+contending
+dlog
+picks
+s3
+alternation
+round
+cleared
+array
+terminates
+overlapping
+implementing
+post
+member
+precedes
+atomically
+invalidated
+log
+heap
+returns
+vishkin
+paths
+interfere
+stalls
+ast
+neighbors
+israeli
+cole
+mis
+maxima
+descending
+implementations
+interval
+ring
+omega
+linked
+path
+undirected
+ending
+swap
+wait
+ne
+proves
+fork
+completes
+asynchronous
+gammaat
+disentangling
+help
+delayed
+words
+rounds
+addresses
+coloring
+minima
+shavit
+linearizable
+pseudocode
+color
+afek
+rightmost
+fails
+hungry
+finds
+accessed
+induce
+access
+else
+induction
+h4
+ids
+false
+anderson
+axp
+segment
+dining
+interference
+numbered
+validate
+read
+procedures
+consecutive
+parity
+synergy
+accesses
+guaranteeing
+localizing
+longest
+validates
+sitting
+bubble
+powerpc
+guarantees
+deterministic
+passed
+breaking
+contend
+encapsulating
+locality
+execution
+successful
+phase
+spots
+bit
+symmetry
+direction
+intervals
+depths
+odd
+restarts
+clockwise
+intervening
+address word
+op i
+op id
+low address
+high address
+memory word
+an operation
+pid s
+of op
+locking stage
+mark high
+the operation
+memory words
+executing processor
+the locking
+step complexity
+data set
+operation op
+conflict graph
+m high
+pid 0
+word is
+word of
+edge operation
+op details
+the pid
+addr op
+of pid
+ll sc
+locked by
+locking directions
+initiating processor
+id then
+op j
+another operation
+the sensitivity
+locking direction
+from unary
+first executing
+monotone path
+monotone paths
+decision stage
+pid 1
+and op
+its low
+in ff
+if op
+the conflict
+the initiating
+sc m
+high field
+unlocking stage
+post decision
+op 2
+right algorithm
+the word
+some operation
+operation is
+if tmp
+in mark
+ll m
+binary ll
+directed path
+op is
+the low
+is locked
+unary operations
+non blocking
+sc operations
+low field
+word m
+neighboring operations
+cell lock
+unary ll
+left right
+blocking operation
+lemma 4
+in op
+set intersection
+multi word
+then return
+word operations
+operation s
+the high
+the unlocking
+high op
+m intersection
+intersection flag
+mark end
+h ff
+is unmarked
+two operations
+word first
+universal operations
+operations in
+op 1
+word if
+processor of
+binary operations
+a memory
+shared memory
+g ff
+operations with
+id array
+to mark
+help op
+tmp low
+details op
+blocked operation
+cell unlock
+operations lock
+is unlocked
+its high
+to lock
+the path
+f n
+sensitivity of
+op 0
+by another
+sensitivity is
+ll and
+the blocking
+id pid
+and pid
+local computation
+that op
+an edge
+its data
+0 i
+is marked
+for implementing
+let op
+then op
+deterministic coin
+transactional memory
+return true
+operation and
+marking stage
+intersected operation
+unlocking stages
+new pid
+pid k
+executing processors
+unmark high
+tmp high
+its locking
+and unlocking
+constant sensitivity
+downstream neighbor
+unmarks its
+operation id
+operation helps
+wait free
+the decision
+the memory
+field is
+decision algorithm
+log n
+other operations
+the data
+round t
+m j
+execution segment
+lock their
+mark its
+marked high
+only unary
+overlapping operations
+the addresses
+ff 0
+helps the
+coin tossing
+i 1
+return false
+the step
+high in
+field of
+m i
+ff is
+a word
+set fm
+19 25
+is invalid
+op and
+operation in
+interval of
+words in
+marked when
+operations op
+by op
+operations from
+a directed
+o log
+check intersection
+upstream operations
+pid computed
+procedure unmark
+their locking
+decide left
+using unary
+low address word
+high address word
+address word of
+the locking stage
+the high address
+pid 0 i
+its low address
+data set of
+addr op id
+word of op
+a memory word
+op id then
+an edge operation
+the conflict graph
+of an operation
+the data set
+the low address
+op i 1
+the pid s
+left right algorithm
+an operation op
+and op i
+the first executing
+the step complexity
+in mark high
+the initiating processor
+the left right
+its high address
+executing processor of
+op i and
+step complexity of
+id then return
+set of an
+its data set
+processor of op
+the low field
+i and op
+of pid s
+binary ll sc
+is locked by
+of some operation
+by another operation
+word is locked
+m high in
+first executing processor
+memory word of
+if op i
+the high field
+memory word is
+multi word operations
+the intersection flag
+high op id
+in h ff
+address word first
+pid 1 i
+the blocking operation
+the unlocking stage
+address word is
+the decision stage
+the sensitivity of
+of op i
+the operation is
+the operation s
+operations from unary
+op details op
+in set intersection
+high in mark
+some operation op
+sc m high
+the word is
+in the conflict
+then return true
+then the operation
+of the operation
+a directed path
+memory words in
+in ff 0
+is the low
+deterministic coin tossing
+by the operation
+of memory words
+helps the blocking
+an executing processor
+op id pid
+details op id
+high field of
+memory word m
+the new pid
+and pid 0
+op id if
+mark the high
+with data set
+the post decision
+7 19 25
+data set fm
+tries to mark
+19 25 27
+range of pid
+from unary operations
+ll m high
+if tmp high
+ll sc operations
+of op is
+m intersection in
+locking and unlocking
+then op i
+low field of
+the memory words
+word m i
+an operation is
+when the first
+of its low
+no directed path
+field of its
+locked by another
+m is marked
+directed path is
+marked when the
+of the conflict
+is marked when
+on the path
+of the path
+of an implementation
+the shared memory
+processor p i
+then return false
+a hot spot
+is at most
+word is not
+new pid computed
+of op 0
+the alternation property
+the memory word
+are neighboring operations
+op i is
+a monotone path
+the marking stage
+pid computed for
+op i be
+from unary ll
+unary ll and
+word is unlocked
+the locking directions
+in the locking
+local minima or
+binary operations from
+post decision stage
+if tmp low
+memory words accessed
+op j in
+operation s details
+y op id
+neighboring operations on
+1 are neighboring
+unary ll sc
+operations in ff
+pid s are
+using binary ll
+local step complexity
+an interval ff
+only unary operations
+low high op
+same memory words
+word i in
+monotone path and
+to mark its
+address word if
+pid s and
+m i and
+the addresses of
+in the low
+let ff be
+by the initiating
+b x n
+non blocking synchronization
+locked by the
+interval of some
+minima or maxima
+rightmost bit in
+conflict graph of
+next lemma lemma
+o log n
+field of the
+the operation and
+set of op
+in g ff
+in which operations
+h ff is
+and the addresses
+sensitivity of an
+algorithm for implementing
+the next lemma
+op is the
+the last word
+conflict graph is
+most f n
+of a directed
+lemma 4 8
+if the word
+ascending or descending

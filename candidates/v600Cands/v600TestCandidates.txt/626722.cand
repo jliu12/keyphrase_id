@@ -1,0 +1,600 @@
+precision
+mlp
+bits
+jamming
+retrieving
+learning
+neural
+neurons
+eq
+decimal
+layer
+neuron
+rounding
+propagation
+weight
+variance
+squared
+truncation
+hidden
+weights
+propagated
+bit
+nonlinear
+1w
+f1w
+perceptron
+error
+statistical
+forward
+i3
+oe
+activation
+dive
+chops
+errors
+training
+ffl
+calculation
+curve
+regression
+operators
+convergence
+squares
+fx
+statistically
+descent
+hardware
+updating
+derivatives
+derivative
+delta
+layers
+evaluations
+compound
+finite
+stages
+lowest
+r01
+alippi
+dives
+eqs
+multilayer
+operator
+ij
+sign
+cesare
+chopped
+fffl
+network
+gradient
+multiplication
+j0
+propagates
+fffi
+stage
+inputs
+evaluated
+undertaken
+truncating
+affine
+02
+central
+interleaved
+successive
+contributing
+sigmoid
+random
+ratio
+silicon
+outputs
+xor
+uniformly
+converges
+artificial
+fw
+formulated
+sums
+attained
+seok
+unwisely
+jammed
+k04
+delgado
+wffl
+749
+vassiliadis
+propensity
+yongsoon
+r09
+pizer
+hiddens
+stamatis
+briozzo
+truncated
+xy
+simplified
+update
+invoking
+analytical
+learn
+discrete
+sources
+taylor
+fy
+trained
+indicator
+propagating
+approximated
+multiply
+synaptic
+j3
+k3
+0x
+fpga
+frias
+luciano
+soft
+ffi
+back
+08
+accuracy
+divert
+bum
+wx
+1049
+precisions
+momentum
+fyg
+off
+256
+lations
+foe
+740
+060
+accumulator
+th
+vlsi
+1045
+disturbance
+dallas
+dating
+ko
+leaning
+dashed
+backward
+devoted
+degradations
+guideline
+intermediate
+generates
+vs
+sigmoidal
+simu
+versatile
+477
+connecting
+predicted
+output
+concluding
+interconnecting
+020
+systolic
+converge
+download
+electronics
+iterative
+limit
+drastic
+inability
+caused
+unified
+employed
+mac
+manipulations
+intent
+wseas
+products
+surface
+impact
+summed
+finite precision
+precision computation
+forward retrieving
+precision error
+calculation graph
+an mlp
+back propagation
+the finite
+statistical evaluation
+propagation learning
+ffl y
+random variables
+and variance
+weight updating
+error generated
+neural network
+independent random
+mean and
+error ffl
+retrieving and
+lowest order
+average sum
+precision analysis
+weight bits
+the decimal
+bits to
+precision errors
+16 bits
+of finite
+eq 9
+discrete random
+output delta
+y i3
+2 layer
+one sign
+successive operators
+hidden delta
+bit value
+precision ratio
+the weights
+ffl x
+the error
+of learning
+8 bit
+squares of
+weight update
+average squared
+the forward
+the statistical
+the squares
+limit theorem
+central limit
+propagated error
+of back
+sign bit
+r th
+bit 3
+simplified notation
+bits assigned
+total finite
+new lowest
+normal curve
+truncation jamming
+delta computation
+ffl 1w
+precision hardware
+convergence stage
+with range
+statistically evaluated
+bit weights
+evaluation values
+the output
+output layer
+network algorithms
+bits for
+j g
+right of
+computation of
+regression problem
+with simplified
+curve shows
+order bit
+i g
+of bits
+l j
+hidden layer
+the 2
+different stages
+partial derivatives
+24 bit
+statistical properties
+ij g
+gradient descent
+graph for
+desired and
+3 bits
+decimal with
+retrieving of
+generates error
+range 08
+ffl w
+th neuron
+squared figure
+back propagated
+neuron at
+network converges
+fx l
+bits average
+q lowest
+learning convergence
+the retrieving
+descent search
+transformation interleaved
+layer mlp
+stages of
+8 bits
+and weight
+the q
+the back
+high precision
+for artificial
+the hidden
+and actual
+the network
+r 02
+ffl oe
+possible error
+th layer
+squared difference
+bits one
+th place
+mlp the
+actual outputs
+the mean
+artificial neural
+of independent
+the learning
+of weight
+random variable
+ffl 3
+low precision
+order bits
+02 3
+output neuron
+error values
+in eqs
+uniformly distributed
+from eq
+convergence and
+and accuracy
+error in
+of error
+bits of
+the calculation
+y y
+neurons of
+affine transformation
+multilayer perceptron
+activation values
+layer perceptron
+the statistically
+ratio for
+a nonlinear
+oe i
+activation function
+problem after
+neurons and
+sum of
+four different
+oe 2
+an 8
+error with
+in eq
+the computation
+2 r
+the central
+error for
+using high
+y i
+can again
+interleaved with
+for neural
+of bit
+variance of
+iterative learning
+rounding techniques
+precision weight
+y j0
+evaluated average
+layer weights
+training pattern
+values fx
+most neural
+these error
+9 ffl
+jamming or
+similar partial
+retrieving phase
+neurons between
+input errors
+the finite precision
+finite precision error
+finite precision computation
+of finite precision
+the forward retrieving
+back propagation learning
+of an mlp
+mean and variance
+independent random variables
+bits to the
+the statistical evaluation
+calculation graph for
+of the decimal
+the error generated
+finite precision analysis
+finite precision errors
+average sum of
+the squares of
+of the squares
+a 2 layer
+l j g
+one sign bit
+the calculation graph
+forward retrieving and
+finite precision ratio
+the 2 r
+stages of learning
+2 r th
+of the finite
+of independent random
+neural network algorithms
+for the weights
+central limit theorem
+right of the
+the back propagation
+total finite precision
+new lowest order
+precision ratio for
+statistical evaluation values
+with simplified notation
+convergence and accuracy
+a normal curve
+evaluation values of
+the total finite
+bits assigned to
+lowest order bit
+high precision computation
+precision analysis of
+the output delta
+statistical evaluation of
+3 bits to
+precision computation of
+between the desired
+sign bit 3
+precision error for
+number of bits
+the mean and
+the central limit
+of the error
+desired and actual
+the average sum
+different stages of
+the desired and
+the output layer
+for artificial neural
+the right of
+the partial derivatives
+the computation of
+to the finite
+retrieving and back
+four different stages
+gradient descent search
+simplified notation is
+to finite precision
+bits average squared
+bit 3 bits
+precision computation on
+and actual outputs
+q lowest order
+and back propagation
+in eq 9
+affine transformation interleaved
+possible error values
+th neuron at
+bits one sign
+average squared figure
+forward retrieving of
+error generated by
+decimal with range
+order bit in
+r th place
+learning convergence and
+lowest order bits
+neuron at the
+transformation interleaved with
+output delta computation
+retrieving of an
+notation is shown
+a discrete random
+the new lowest
+the decimal with
+the statistically evaluated
+using high precision
+finite precision hardware
+2 layer mlp
+the q lowest
+error ffl y
+fx l j
+weight bits average
+actual outputs of
+back propagated error
+shows the statistical
+the network converges
+r 02 3
+of the 2
+and variance of
+ratio for the
+to the right
+in a 2
+due to finite
+two independent random
+discrete random variable
+problem after the
+of back propagation
+discrete random variables
+neurons of the
+graph for the
+in the forward
+of the back
+an 8 bit
+error at the
+sources of error
+i g and
+layer and the
+statistical properties of
+for the forward
+given in eq
+after the network
+sum of the
+with mean and
+multiplication of the
+in the 2
+bit in the
+artificial neural networks
+of the output
+formulated as a
+generates error which
+8 bit weights
+nonlinear activation function
+an output neuron
+the jamming operator
+precision error ffl
+2 d regression
+which most neural
+regression problem after
+in a hidden
+16 bits one
+being of equal
+can again compute
+first hidden layer
+squared differences between
+jamming and rounding
+error values being
+8 bit value
+back propagation of
+the retrieving phase
+i th neuron
+derivative evaluations using
+in an output
+mlp four different
+hidden layer and
+the nonlinear activation
+12 bits to
+weight bits finite
+values being of
+probability therefore 1
+precision error in
+computation of back
+ij g and
+jamming or rounding
+by which most
+chops off the
+of mean and
+precision error analysis
+error equations are
+values fx l
+error generation and
+updating error ffl
+products of independent
+bits of weights
+shows that of
+weight updating error
+say k bits
+fffi l j
+fx 0 i
+f1w l i
+properties of independent
+of bits for
+weights connecting the
+dashed curve shows

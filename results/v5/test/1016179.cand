@@ -1,0 +1,600 @@
+cedf
+wfq
+session
+packet
+sessions
+hop
+delay
+deadlines
+rate
+percentile
+deadline
+1030507090110130150
+server
+98th
+ae
+lights
+hops
+packets
+edf
+traffic
+gm
+rpps
+03
+additive
+token
+earliest
+queueing
+service
+multiplicative
+delays
+coordination
+randomness
+servers
+link
+burst
+coordinated
+scheduling
+injection
+tokens
+protocol
+4l
+inj
+disciplines
+ki
+analytical
+98
+parekh
+backlogged
+liebeherr
+gps
+fig
+green
+fair
+fifo
+discipline
+network
+rand
+conserving
+leighton
+sharing
+qos
+ferrari
+bits
+tenet
+lmax
+gallager
+erin
+andez
+fern
+switching
+rates
+congestion
+serviced
+networks
+plots
+georgiadis
+prev
+preemptive
+oe
+services
+admission
+ring
+light
+curves
+obtains
+vin
+maggs
+leaky
+manhattan
+shaping
+goyal
+verma
+accumulate
+links
+weighted
+1ms
+car
+processor
+rabani
+paths
+double
+cbr
+1mb
+jitter
+mk
+figures
+integrated
+simulation
+bounds
+coexist
+passes
+cut
+gu
+quickly
+suffer
+injected
+interfering
+subsequent
+randomization
+40
+robin
+bucket
+emphasize
+configuration
+success
+plot
+sivarajan
+gm1
+wrege
+harchol
+richa
+simistic
+hluchyj
+pgps
+maxft
+essentiallyae
+1245
+ostrovsky
+golestani
+cipline
+balter
+1000b
+priority
+dead
+utilization
+scenarios
+probabilistic
+italic
+interfere
+neighboring
+comparable
+outperform
+antonio
+off
+incremented
+routing
+waiting
+entering
+red
+switched
+reshaping
+unconsumed
+strained
+reshaped
+wrr
+peris
+grossglauser
+ofae
+buffer
+achievable
+generalized
+suffers
+suite
+delayed
+contention
+theta
+contend
+tention
+kurose
+jorg
+passed
+successful
+buffers
+emulates
+pes
+shenker
+keshav
+tardos
+mth
+stamping
+spread
+networking
+showed
+traversing
+behaves
+avenue
+cruz
+ther
+towsley
+slopes
+rate 0
+delay bound
+session i
+s cedf
+long session
+03 rate
+1 rate
+end delay
+mean delay
+15 rate
+0 03
+session length
+length rate
+to end
+end to
+the deadlines
+hop sessions
+1 hop
+0 15
+delay due
+4 rate
+6 rate
+a packet
+of wfq
+3 rate
+2 rate
+delay bounds
+the long
+98 percentile
+long sessions
+processor sharing
+i packet
+percentile delay
+7 fig
+fair queueing
+hop delay
+to wfq
+additive bound
+earliest deadline
+98th percentile
+k i
+ae i
+1030507090110130150 98th
+percentile session
+delay session
+generalized processor
+weighted fair
+wfq 1030507090110130150
+0 7
+a session
+all sessions
+multiple long
+server m
+integrated services
+each link
+the packet
+under wfq
+session rate
+hop paths
+probabilistic on
+wfq and
+of cedf
+40 hop
+cedf the
+0 6
+theta k
+each session
+the network
+the bound
+first server
+under s
+off source
+deadline first
+0 4
+delay of
+0 2
+an additive
+for session
+burst size
+0 3
+r m
+session due
+analytical bound
+services networks
+servers quickly
+multiplicative bound
+subsequent servers
+delay guarantees
+for wfq
+packet service
+sharing approach
+ae s
+per session
+packet switching
+0 1
+deadlines are
+our protocol
+hop path
+multiple hop
+double link
+link network
+network rate
+bound of
+a server
+on off
+curves for
+the delays
+15 fig
+its subsequent
+a delay
+the session
+packet with
+in integrated
+scheduling discipline
+single hop
+that once
+the multiplicative
+the analytical
+the additive
+server it
+to flow
+the 1
+the curves
+form 1
+analytical bounds
+4l i
+coordinated earliest
+delay guarantee
+cedf is
+1030507090110130150 mean
+packet passes
+rpps in
+simple coordination
+uniform packet
+small burst
+gives priority
+cedf 1030507090110130150
+additive delay
+non cut
+session processing
+simple cedf
+the gm
+work conserving
+i ki
+gm s
+in packet
+oe i
+the delay
+deadline for
+packet size
+speed networks
+to s
+the earliest
+the sessions
+meet all
+actual delays
+packet p
+rate ae
+sessions have
+size oe
+sessions at
+each server
+bound for
+randomness is
+of sessions
+service time
+scheduling in
+flow control
+through its
+2 fig
+the traffic
+packets are
+packet is
+packet from
+each hop
+cut through
+packet has
+of session
+packet sizes
+simulation results
+a multiplicative
+through all
+1 theta
+bound 1
+bounds in
+once a
+deadlines for
+can pass
+its first
+chosen from
+protocol is
+bound in
+the protocol
+for networks
+passed through
+success probability
+real time
+t i
+all packets
+each packet
+1 rate 0
+0 03 rate
+rate 0 1
+0 1 rate
+rate 0 15
+03 rate 0
+the long session
+rate 0 03
+to end delay
+15 rate 0
+0 15 rate
+rate 0 2
+end to end
+session length rate
+length rate 0
+delay due to
+0 6 rate
+3 rate 0
+2 rate 0
+rate 0 7
+0 4 rate
+6 rate 0
+rate 0 3
+0 2 rate
+0 3 rate
+4 rate 0
+rate 0 6
+rate 0 4
+0 7 fig
+1 hop sessions
+session i packet
+to s cedf
+98 percentile delay
+due to wfq
+due to s
+the 1 hop
+of the long
+mean delay due
+delay session length
+an additive bound
+1030507090110130150 98th percentile
+weighted fair queueing
+generalized processor sharing
+98th percentile session
+percentile delay due
+multiple long sessions
+to wfq 1030507090110130150
+percentile session length
+a session i
+probabilistic on off
+theta k i
+under s cedf
+the curves for
+on off source
+earliest deadline first
+delay of the
+end delay bound
+a delay bound
+long session due
+its subsequent servers
+session due to
+mean delay session
+control in integrated
+subsequent servers quickly
+in integrated services
+first server it
+packet service time
+through its first
+double link network
+1 theta k
+the delay bound
+deadlines are defined
+of network rate
+40 hop paths
+0 15 fig
+processor sharing approach
+a generalized processor
+delay bound of
+length of network
+s cedf the
+network rate 0
+integrated services networks
+sharing approach to
+from the long
+its first server
+the end to
+the earliest deadline
+each session i
+through all its
+once a packet
+all its subsequent
+for session i
+to flow control
+approach to flow
+that once a
+0 2 fig
+in high speed
+protocol is successful
+cedf 1030507090110130150 98th
+meet all their
+the single hop
+end delay bounds
+s cedf 1030507090110130150
+additive delay bound
+out the deadlines
+single hop delay
+1 i ki
+burst size oe
+means that once
+wfq 1030507090110130150 98th
+has passed through
+the multiple hop
+size oe i
+1030507090110130150 mean delay
+of a session
+non cut through
+gives priority to
+wfq 1030507090110130150 mean
+the analytical bound
+all their deadlines
+the deadlines are
+coordinated earliest deadline
+all sessions have
+rate ae i
+of session i
+mean delay of
+a packet passes
+it can pass
+of wfq and
+the gm s
+to 0 8
+services networks the
+multiple hop delay
+packet with the
+pass through all
+per session processing
+flow control in
+high speed networks
+session i is
+the packet with
+packet from the
+server it can
+can pass through
+i ae i
+at each link
+the deadline for
+with the earliest
+to the packet
+curves for the
+the protocol is
+priority to the
+the parameter is
+number of servers
+the bound for
+the path of
+k i and
+bound of the
+the form 1
+networks with a
+delay bounds in
+network mean delay
+small burst sizes
+guarantees of o
+ensure that once
+fair queueing wfq
+wfq scheduling discipline
+delay bound is
+session is likely
+scheduling in packet
+form 1 ae
+processor sharing rpps
+traffic entering the
+and r m
+hop delay bound
+distributed packet switching
+routing with per
+link network mean
+r mk log
+time protocol suite
+an integrated services
+illustrate the end
+long session is
+cedf does not
+hop path and
+server utilization factor
+not accumulate a
+for time 1
+comparable to their
+integrated services packet
+the multiplicative bound
+the logarithmic term
+must suffer delay
+path of session
+georgiadis gu erin
+passed through its
+a packet from
+session rate ae
+bound for cedf
+packet delay guarantees
+accumulate a delay

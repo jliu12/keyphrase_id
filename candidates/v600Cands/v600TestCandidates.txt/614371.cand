@@ -1,0 +1,600 @@
+isosurface
+cells
+dataset
+cell
+unstructured
+datasets
+intervals
+extraction
+active
+interval
+isovalue
+visualization
+coherence
+marching
+chess
+black
+volume
+dr
+hash
+tetrahedra
+vertex
+vertices
+normals
+3h
+bluntfin
+grids
+board
+isosurfaces
+white
+fighter
+surface
+visited
+tetrahedral
+speedup
+tree
+span
+structured
+cubes
+mesh
+graphics
+facets
+cthead
+seed
+extremes
+bajaj
+strip
+gridded
+gradients
+hexahedra
+occupancy
+1997
+prisms
+forest
+overhead
+big
+auxiliary
+lists
+intersected
+pyramids
+discriminant
+traversal
+sigma
+seeds
+bucky
+unstr
+tmin
+connectivity
+field
+2m
+chandrajit
+livnat
+edelsbrunner
+exploit
+adjacencies
+rendering
+trees
+array
+shen
+lying
+adopting
+scanned
+query
+storage
+wilhelms
+grid
+iso
+october
+layers
+adjacent
+edges
+encoded
+flag
+redundant
+curvilinear
+gelder
+interpolation
+addressing
+bong
+dataset0
+sohn
+siddavanahalli
+normal
+efficiency
+regular
+courtesy
+hansen
+advancing
+hexahedral
+nasa
+traversed
+arrays
+extracted
+han
+sorted
+fig
+adopted
+fitting
+deepest
+itoh
+isocontouring
+16k
+pascucci
+individuate
+exploiting
+oe
+implicit
+edge
+stored
+tradeoff
+interpolated
+propagation
+ffi
+layer
+san
+storing
+accelerated
+indexes
+sutton
+isosurfacing
+vinay
+tmax
+isovalues
+thinning
+soo
+3d
+interactive
+triangular
+arrangement
+spans
+subdivision
+classification
+redundancy
+ertl
+warrant
+langley
+haimes
+ascending
+collisions
+indices
+arc
+patches
+conceptual
+traverse
+octrees
+stripe
+dashed
+spanned
+scalar
+california
+backward
+node
+triangles
+triangulated
+playback
+octree
+finkelstein
+list
+march
+wei
+united
+charles
+gradient
+depth
+lutz
+celebrating
+sector
+bare
+sectors
+massachusetts
+irregular
+boston
+francisco
+adam
+chiang
+optimally
+meshes
+searched
+timing
+jen
+coordinates
+interval tree
+isosurface extraction
+active cells
+the isosurface
+the interval
+local coherence
+white cells
+black cell
+march 7
+7 1997
+black cells
+the dataset
+unstructured datasets
+chess board
+the chess
+of cells
+isovalue q
+range based
+structured datasets
+span space
+of intervals
+interval trees
+data structure
+on visualization
+marching cubes
+board approach
+cell selection
+the intervals
+the span
+q 0
+tree data
+at q
+hash table
+the active
+each active
+it off
+visualization and
+cell classification
+the black
+the hash
+unstructured grids
+of unstructured
+and normals
+ffi r
+vertex normal
+active intervals
+storage cost
+based methods
+al and
+normal data
+an interval
+volume data
+the cells
+the marching
+active cell
+input mesh
+to speedup
+intervals of
+active white
+query value
+gradients at
+isosurface vertices
+global coherence
+seed set
+active black
+value q
+active at
+the unstructured
+active list
+computer graphics
+space based
+cells of
+each cell
+the tree
+of structured
+of isosurface
+auxiliary structures
+and unstructured
+and dr
+it on
+a dataset
+found move
+cell oe
+between isosurfaces
+exploit local
+connectivity list
+dr lists
+dr list
+off fig
+big al
+edges of
+surface normal
+memory overhead
+and normal
+structured and
+an isosurface
+the al
+intervals in
+the big
+is visited
+graphics v
+to exploit
+an isovalue
+while intervals
+extremes a
+isosurface facets
+search structure
+active edges
+varying fields
+coherence between
+cells for
+are visited
+tree is
+by adopting
+vertices and
+auxiliary data
+of tetrahedra
+surface based
+move i
+timing for
+of active
+dataset is
+memory requirements
+vertex and
+the conference
+for structured
+intersected by
+the vertex
+dataset are
+not active
+all intervals
+and graphics
+cells that
+datasets the
+be stored
+speedup the
+all active
+tetrahedral cells
+the cell
+interval i
+of vertices
+normal computations
+livnat et
+edelsbrunner 5
+visited recursively
+i ffi
+of 3h
+memory words
+unstructured case
+big dr
+else while
+other range
+branching node
+3h 2m
+hash indexing
+adjacent white
+1997 fig
+white cell
+at isovalue
+the gridded
+structured ones
+by edelsbrunner
+standard marching
+range domain
+conceptual organization
+the structured
+made of
+on it
+graphics october
+coherence in
+grids in
+of surface
+extraction process
+cells in
+time varying
+efficiency and
+time efficiency
+cells at
+volume visualization
+an active
+a hash
+cells can
+the seed
+oe j
+for unstructured
+volume dataset
+marching tetrahedra
+regular dataset
+isosurface is
+facets it
+wilhelms and
+new conceptual
+scanned until
+optimally efficient
+active edge
+prisms and
+list of
+dataset the
+proceedings of
+vertices of
+the interval tree
+march 7 1997
+the chess board
+interval tree data
+of the dataset
+the span space
+of the interval
+chess board approach
+case of unstructured
+the black cells
+range based methods
+case of structured
+an interval tree
+of active cells
+vertices and normals
+vertex normal data
+of unstructured datasets
+al and dr
+active at q
+it on it
+on it off
+the hash table
+the input mesh
+at q 0
+q 0 are
+number of cells
+conference on visualization
+of the isosurface
+structured and unstructured
+the vertex normal
+normal data structure
+active white cells
+the local coherence
+the case of
+number of intervals
+tree data structure
+in the span
+the isosurface extraction
+vertex and normal
+in the case
+of the black
+the intervals of
+the marching cubes
+found move i
+of structured datasets
+the big al
+each active black
+active black cell
+it off fig
+interval tree for
+tree data structures
+are found move
+the active intervals
+exploit local coherence
+0 are found
+the seed set
+timing for the
+the dataset are
+active cells at
+black cell the
+coherence between isosurfaces
+local coherence in
+query value q
+and dr lists
+interval tree can
+a black cell
+computer graphics v
+on visualization and
+visualization and computer
+and computer graphics
+transactions on visualization
+proceedings of the
+the conference on
+visualization and graphics
+and q 0
+of the conference
+edges of the
+auxiliary data structure
+interval tree is
+for each active
+intervals of i
+to speedup the
+time varying fields
+on the interval
+q and q
+intervals in the
+the number of
+of the cell
+of the tree
+the dataset is
+in the vertex
+cells of the
+data structure the
+to exploit local
+for cell selection
+and unstructured datasets
+by edelsbrunner 5
+of the gradients
+forest of interval
+interval trees and
+proposed by edelsbrunner
+livnat et al
+hash table in
+hash indexing technique
+a range based
+interval tree the
+the dr list
+efficiency and memory
+else while intervals
+interval tree and
+of interval trees
+storage cost of
+is visited recursively
+order to speedup
+the range domain
+not active at
+surface based methods
+of i ffi
+active cells for
+and normal computations
+facets it on
+isovalue q 0
+in the gridded
+lists of type
+of intervals to
+other range based
+the interval trees
+an isovalue q
+wilhelms and van
+new conceptual organization
+interval tree of
+the unstructured case
+7 1997 fig
+at isovalue q
+i ffi r
+seed set is
+white cells that
+interval trees the
+to be stored
+on the basis
+and graphics october
+cells can be
+in order to
+intersected by the
+a new conceptual
+input mesh is
+and van gelder
+isosurface extraction in
+list of cells
+using an interval
+by adopting a
+in the dashed
+span space is
+given an isovalue
+the storage cost
+computation of surface
+layers in the
+with the interval
+in the unstructured
+to avoid redundant
+the min max
+pre computation of
+extraction in time
+the vertices of
+in the worst
+with the use
+the list of
+of surface normals
+is searched for
+both structured and
+of volume data
+the basis of
+in the example
+by using an
+tree can be
+are reported the
+of unstructured grids
+han wei shen
+the output size
+intervals to be
+isosurface extraction and
+grids proceedings of
+are not captured
+ratio between the
+the use of
+edge of the
+2002 boston massachusetts
+interval in the
+in time varying
+an interval i
+for the interval
+the current node
+lying in the
+an array of
+1999 san francisco
+2001 san diego
+and memory requirements
+data structure for
+vertices of the
+a hash table

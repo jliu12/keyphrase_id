@@ -1,0 +1,600 @@
+sn
+checkpoint
+checkpoints
+bqf
+provisional
+en
+bcf
+lsn
+recovery
+checkpointing
+bcs
+message
+forced
+ckpt
+eq
+ms
+bursted
+tot
+orphan
+send
+index
+permanent
+8h
+equivalence
+en3
+domino
+autonomous
+receipt
+rollback
+skip
+provisionally
+past
+processes
+manivannan
+sent
+contradicted
+heterogeneity
+piggybacks
+permanently
+ci
+briatico
+singhal
+optimistically
+event
+falls
+8j
+causal
+events
+clock
+endows
+period
+false
+c3
+coordination
+consistent
+indices
+scheduled
+receive
+successive
+piggybacked
+private
+derives
+wrt
+induced
+overhead
+environment
+slowest
+suited
+burst
+interval
+advance
+csn
+eqk
+fnext
+erb4050pl932483
+1695
+80tot
+olos
+received
+equivalences
+gamma1
+rule
+upon
+coordinated
+1728
+simoncini
+ciuffoletti
+trackability
+assignement
+helary
+00
+sketched
+michel
+gory
+sic
+coasting
+saves
+belonging
+proposals
+lazy
+manetho
+simulation
+brings
+fault
+occurred
+copied
+dumps
+plicity
+belongs
+messages
+protocol
+ciciani
+disseminated
+achour
+check
+vironments
+executes
+assign
+piggy
+lowing
+mostefaoui
+price
+lemma
+sending
+piggybacking
+raynal
+deliveries
+undetermined
+chain
+pay
+sends
+observation
+contradicts
+cate
+deed
+processed
+resp
+arrives
+ratio
+internal
+sketch
+pointing
+initiator
+disseminate
+amplified
+causally
+updated
+rollbacks
+arrival
+granularity
+else
+environments
+failure
+backing
+begin
+wise
+blocking
+heterogeneous
+volatile
+versus
+logging
+directs
+initialized
+seeds
+uniform
+gener
+ally
+periodic
+pace
+pushes
+quantifies
+consequent
+computa
+lived
+refines
+8000
+banerjee
+replaced
+encoded
+roll
+decentralized
+abstractthis
+owns
+tolerance
+diverge
+got
+fol
+relation
+handler
+cesses
+timestamps
+interchangeably
+fashion
+restarted
+rules
+cess
+updating
+contradiction
+mimic
+bruno
+i sn
+sn en
+recovery line
+sn i
+sn 0
+m sn
+en i
+checkpoint c
+basic checkpoint
+message m
+of checkpoints
+next c
+sequence number
+checkpoint is
+a checkpoint
+c i
+eq i
+point environment
+process p
+index based
+present i
+take forced
+global checkpoint
+the index
+consistent global
+sn and
+index sn
+i en
+total ckpt
+a recovery
+local checkpoints
+number sn
+past i
+local checkpoint
+first send
+l sn
+forced checkpoint
+each process
+checkpoint period
+the recovery
+check point
+i h
+send event
+a message
+forced checkpoints
+m eq
+0 sn
+checkpoint interval
+last checkpoint
+j sn
+sn sn
+provisional i
+forced bqf
+h gamma1
+p i
+a basic
+send i
+after first
+m sent
+sn is
+a process
+based checkpointing
+checkpoint with
+sn to
+of bcf
+uniform point
+k sn
+provisional index
+bursted point
+the checkpoint
+index is
+checkpoints in
+i false
+with sequence
+the receipt
+equivalence relation
+2 sn
+if sn
+equivalence number
+3 sn
+checkpoint ci
+skip i
+is orphan
+sn en3
+provisional indices
+checkpoints compared
+lsn then
+ckpt total
+gamma1 8h
+ckpt ms
+1 sn
+line l
+sn 1
+falls in
+in i
+of forced
+the checkpointing
+to point
+current checkpoint
+c sn
+is permanent
+basic checkpoints
+other processes
+receipt of
+ms figure
+pair c
+for autonomous
+application message
+checkpointing algorithm
+is taken
+upon the
+sn in
+basic one
+en is
+checkpointing overhead
+the equivalence
+distributed systems
+sent by
+private information
+checkpoints are
+checkpoints and
+bcs in
+ci m
+rule take
+eq j
+replaced permanently
+c3 sn
+message chain
+orphan with
+successive checkpoints
+en lsn
+8h present
+ratio tot
+c provisional
+tot versus
+bcf in
+bcf checkpoint
+if skip
+checkpoint next
+is provisional
+the bursted
+sn 00
+versus bcf
+point to
+been sent
+checkpoint of
+a forced
+i i
+rollback recovery
+received in
+c j
+sn figure
+causal message
+checkpoints one
+index becomes
+suppose process
+sn then
+autonomous distributed
+period total
+no send
+of heterogeneity
+the message
+p j
+take a
+lemma 4
+event in
+becomes permanent
+global checkpoints
+is contradicted
+checkpoints with
+any checkpoint
+sn as
+where sn
+with sn
+to previous
+simulation study
+checkpointing algorithms
+between checkpoints
+checkpoints taken
+is scheduled
+is set
+en the
+checkpoints as
+checkpoints of
+domino effect
+communication induced
+receive events
+l 0
+each time
+taken by
+and next
+checkpoint in
+interval i
+the sequence
+by p
+set to
+index of
+if at
+sent from
+bcf is
+c i sn
+i sn en
+next c i
+the recovery line
+a basic checkpoint
+i i sn
+number of checkpoints
+a recovery line
+to point environment
+a message m
+i sn i
+i h gamma1
+sn i en
+sequence number sn
+consistent global checkpoint
+process p i
+c j sn
+past i h
+first send i
+the index sn
+i en i
+after first send
+basic checkpoint is
+the last checkpoint
+in i i
+checkpoint c i
+index based checkpointing
+last checkpoint c
+recovery line l
+is a recovery
+take forced bqf
+message m sent
+m sent by
+upon the receipt
+the index is
+the sequence number
+with sequence number
+checkpoint is scheduled
+c 1 sn
+m sn sn
+present i h
+m sn and
+uniform point to
+falls in case
+l 0 sn
+bursted point to
+point to point
+the receipt of
+of forced checkpoints
+when a basic
+send event in
+exists a message
+a consistent global
+number of forced
+sn en i
+h gamma1 8h
+sn to the
+index sn to
+sn 0 is
+an index based
+index is permanent
+checkpoints compared to
+ckpt total ckpt
+event in i
+i m sn
+ckpt ms figure
+a checkpoint c
+the pair c
+line l sn
+total ckpt ms
+present i j
+assign the index
+3 sn en3
+index based algorithms
+c k sn
+j sn 0
+sn i m
+total ckpt total
+each application message
+checkpoint interval i
+suited for autonomous
+the current checkpoint
+a forced checkpoint
+been sent from
+of local checkpoints
+and next c
+sn i is
+of a message
+to the recovery
+receipt of a
+checkpoint is taken
+2 of section
+compared to previous
+is set to
+checkpoints of a
+bcf checkpoint period
+m eq j
+based checkpointing algorithm
+send i false
+of successive checkpoints
+have a checkpoint
+0 sn as
+a basic one
+the uniform point
+received in i
+ci m sn
+sn en lsn
+pair c j
+no send event
+l sn 1
+rule take forced
+en i and
+sn en is
+bcf in the
+checkpoints one for
+sn 0 with
+checkpoint with sequence
+successive checkpoints of
+the ratio tot
+execution time 0
+causal message chain
+basic checkpoint c
+sn is taken
+index becomes permanent
+the checkpoint next
+global checkpoint c
+been no send
+1 sn 0
+j m eq
+take a basic
+checkpoint ci m
+gamma1 8h present
+current checkpoint interval
+8h present i
+checkpoint c provisional
+next c 1
+of checkpoints taken
+tot versus bcf
+k sn 0
+degree of heterogeneity
+period total execution
+autonomous distributed systems
+a checkpoint with
+sn sn i
+c provisional i
+sn and next
+assumption is contradicted
+checkpoint next c
+c 3 sn
+checkpoint period total
+orphan with respect
+each time a
+a simulation study
+of the recovery
+i is set
+basic one is
+if sn i
+sn and the
+checkpoints in other
+update the sequence
+c 2 sn
+number sn i
+m is received
+consistent global checkpoints
+suppose process p
+in other processes
+message m if
+of checkpoints in
+private information of
+the equivalence relation
+checkpoints taken by
+a global checkpoint
+message m is
+sent from the
+to take a
+of a process
+i then begin
+the checkpointing overhead
+time a basic
+case 2 of
+the index of
+as c i
+to l 0
+process p k
+by p i
+interval i i
+set to false
+well suited for
+has been sent
+the time of
+at the time
+sent by p
+process p j
+i j m
+has been no
+total execution time
+to the last
+a basic check
+measured the ratio
+optimistically and provisionally

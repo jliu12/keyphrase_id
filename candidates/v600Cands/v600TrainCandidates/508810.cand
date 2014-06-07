@@ -1,0 +1,600 @@
+agent
+agents
+mobile
+pres
+site
+directory
+forwarding
+sites
+s1
+mobility
+pointers
+messages
+loc
+s2
+message
+acknowledgement
+failures
+service
+home
+location
+migrate
+formalisation
+coq
+router
+visited
+fault
+tolerant
+conguration
+failure
+route
+transit
+s3
+counter
+intermediary
+redundancy
+hloc
+timestamps
+inform
+chains
+transitions
+dierent
+ack
+liveness
+aglets
+hosts
+migration
+routing
+emitter
+summarise
+stopping
+mi
+mob
+constructive
+peer
+shadow
+assistant
+migra
+grates
+gration
+dened
+rst
+tuple
+transition
+coordination
+timestamp
+communication
+remember
+transportable
+tolerance
+correctness
+delivery
+mechanical
+oer
+reliable
+mechanically
+layer
+safety
+pict
+communications
+abstract
+adopted
+recipient
+deploying
+25000
+specication
+sent
+tactic
+migratory
+dene
+delivered
+stations
+parent
+tables
+formalised
+legal
+migrates
+queues
+forwards
+negotiating
+origin
+spaces
+congurations
+enqueued
+resilience
+migrated
+arrival
+mechanism
+dated
+reliably
+locations
+propagating
+temporarily
+shadows
+rpc
+behaviour
+posted
+destination
+replication
+sequently
+pointer
+concerned
+coming
+downloaded
+s0
+infrastructure
+informs
+resilient
+collapsed
+deliver
+host
+picco
+n35816
+qinetiq
+lime
+runaway
+centralisation
+messageagent
+sns
+realiable
+homebase
+unbuered
+tiable
+sofar
+algorithmandproofdiscussion
+q1xq2
+reconnections
+java
+communicate
+propagate
+arrives
+exhibiting
+tracks
+collapse
+copies
+positions
+acyclic
+sending
+stop
+communicated
+caromel
+endeavour
+itinerant
+baumann
+dickman
+lazar
+notications
+michaelides
+hamper
+buered
+grating
+cyclic
+cations
+rule
+tracking
+guard
+exhibits
+jini
+birrell
+performative
+invo
+structuring
+belief
+disconnected
+channel
+services
+nding
+creation
+tolerate
+lazy
+reinstate
+ubiquity
+gibbins
+ures
+fipa
+voyager
+previ
+1344
+ve
+stopped
+clients
+the agent
+mobile agents
+directory service
+pres s
+s pres
+forwarding pointers
+mobility counter
+agent s
+mobile agent
+distributed directory
+message router
+s loc
+loc s
+an agent
+home agent
+s location
+for mobile
+agent is
+a site
+location table
+the site
+abstract machine
+acknowledgement message
+each site
+on forwarding
+present table
+route messages
+stopping failures
+location information
+communication layer
+chains of
+acknowledgement messages
+of forwarding
+to route
+site s
+fault tolerant
+in transit
+assistant coq
+forwarding pointer
+agents migrate
+agents positions
+of pointers
+agent a
+agent has
+table at
+t s1
+tuple spaces
+home agents
+at s1
+the acknowledgement
+its new
+service and
+new location
+mechanical proof
+n previous
+to failures
+reliable communication
+an acknowledgement
+sites that
+the algorithm
+a mobile
+proof assistant
+failures the
+agent message
+tolerant directory
+present t
+intermediary nodes
+associated mobility
+fail t
+cyclic routing
+visited sites
+agent arrives
+counter l
+site s3
+our formalisation
+mob t
+acknowledgement table
+the home
+messages to
+the abstract
+previously visited
+constructive logic
+n sites
+t s2
+fault tolerance
+the mobile
+agents and
+of messages
+the message
+of failures
+agent in
+to mobile
+dierent sites
+a communication
+the liveness
+a message
+new position
+tuple space
+failure state
+n dierent
+the distributed
+s position
+sites it
+from s1
+s l
+a failure
+a forwarding
+of figure
+and running
+s memory
+we summarise
+service for
+other sites
+redundancy in
+constructive proof
+a conguration
+a mobility
+the rst
+summarise the
+counter the
+tolerant to
+s2 the
+base stations
+the constructive
+of mobile
+failures is
+pointers in
+site that
+arrival acknowledgement
+deriving its
+1 failures
+rule inform
+on s1
+once agents
+message representing
+and deploying
+formalisation can
+agent mi
+the emitter
+temporarily disconnected
+mobility counters
+agent migrates
+java mobile
+direct communications
+migra tion
+on home
+after transition
+pointers 10
+it visited
+counter mob
+agents become
+remember n
+some 25000
+migrate agent
+mi gration
+graph leading
+mi grates
+agent location
+25000 tactic
+agents based
+collapse chains
+acknowledgements have
+containing forwarding
+relationship parent
+previous sites
+stopping failure
+hloc present
+of intermediary
+about agents
+migration part
+site s1
+migratory applications
+for transportable
+magnitude project
+transportable agents
+reactive tuple
+deploying java
+s2 s
+site s2
+coq 1
+message routing
+the location
+mobile hosts
+be sent
+and message
+a fault
+agents the
+the sites
+a mechanism
+of sites
+a reliable
+the present
+the mobility
+agent and
+its location
+rpc mechanism
+visited once
+rst ve
+complete source
+that s2
+s pres s
+distributed directory service
+for mobile agents
+agent s location
+s loc s
+pres s loc
+loc s pres
+the agent s
+pres s pres
+chains of pointers
+the abstract machine
+the agent is
+on forwarding pointers
+the location table
+the present table
+directory service and
+based on forwarding
+to route messages
+of forwarding pointers
+a mobile agent
+to the agent
+that the agent
+the distributed directory
+an acknowledgement message
+the home agent
+agent s memory
+proof assistant coq
+present table at
+directory service for
+up and running
+agent s position
+service for mobile
+the mobile agent
+used to route
+its new position
+a new location
+fault tolerant directory
+forwarding pointers in
+the mobility counter
+tolerant distributed directory
+table at s1
+the acknowledgement table
+a forwarding pointer
+mobility counter the
+with a mobility
+forwarding pointers are
+a mobility counter
+agent arrives at
+mobile agents the
+a message router
+tolerant directory service
+mobility counter l
+of the algorithm
+part of figure
+at a new
+the directory service
+the agent a
+the proof assistant
+a memory is
+route messages to
+to mobile agents
+mobile agent is
+the constructive proof
+to be sent
+a communication layer
+for each site
+a reliable communication
+agent a is
+s location in
+the site s
+when the agent
+of figure 2
+a fault tolerant
+a site s
+using the proof
+of the abstract
+an abstract machine
+presence of failures
+the agent has
+when an agent
+dierent sites that
+agent has migrated
+contains the site
+two mobile agents
+correctness using the
+message router which
+associated mobility counter
+processes are allowed
+communication layer for
+n 1 failures
+exhibits a failure
+memory is o
+contains the sites
+failures of intermediary
+for transportable agents
+agent migration part
+mobility counter mob
+mobile agents based
+site s that
+t s2 s
+exhibiting a failure
+agent mi grates
+on home agents
+to collapse chains
+new agent s
+intermediary nodes we
+message representing an
+s memory have
+simpler because it
+mobile agents with
+each mobile agent
+agent in transit
+new directory service
+deriving its proof
+mechanism for transportable
+rpc mechanism for
+fail t s
+present t s1
+algorithm and deriving
+complete source code
+location information with
+some 25000 tactic
+agents based on
+counter mob t
+an arrival acknowledgement
+previous sites it
+layer for mobile
+agent location information
+allowed to stop
+the new agent
+spaces for mobile
+java mobile agents
+information about agents
+location transparent communication
+about agents positions
+sites it visited
+their execution 7
+acyclic graph leading
+the acknowledgement message
+reactive tuple spaces
+reliable communication layer
+and deriving its
+propagate information about
+its location table
+previously visited sites
+s l contains
+the mechanical proof
+graph leading to
+and associated mobility
+home agent approach
+sites of s
+mobile agents become
+similar notation is
+redundancy in order
+its correctness using
+assistant coq 1
+new location it
+collapse chains of
+for mobile agent
+s2 s 0
+based on home
+containing forwarding pointers
+an agent arrives
+the message representing
+of intermediary nodes
+message router this
+directory service based
+pres s figure
+constructive logic the
+experience of designing
+an rpc mechanism
+tion forwarding pointers
+mobile agent coordination
+mob t s1
+resilient to failures
+deploying java mobile
+service and message
+and deploying java
+visited the site
+to which processes
+n previous sites
+tuple spaces for
+the agent message
+arrives at a
+in the abstract
+a distributed directory
+highly mobile agents
+all other sites
+abstract machine is
+to its associated
+it informs its
+the complete source
+location as a
+messages to mobile
+mobile agent system
+for highly mobile
+not tolerant to
+the rst ve
+the tuple space
+a site that

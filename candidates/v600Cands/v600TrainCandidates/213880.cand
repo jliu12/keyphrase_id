@@ -1,0 +1,600 @@
+mbb
+interior
+pfi
+pivoting
+convergence
+34a
+complementarity
+15a
+6a
+corrector
+superlinear
+roundoff
+23b
+23a
+iterates
+safe
+wright
+34b
+primal
+lcp
+oe
+24a
+poncele
+nonbasic
+infeasible
+predictor
+gaussian
+elimination
+nonsingular
+marsten
+lustig
+potra
+kr
+shanno
+orthant
+ff
+deficient
+dual
+coefficient
+sufficiently
+24b
+enn
+ebn
+27a
+ye
+fl
+conditioning
+diagonal
+nonnegative
+rapid
+floating
+nl
+vanderbei
+nonsingularity
+mizuno
+mehrotra
+newton
+iteration
+kojima
+errors
+perturbations
+matrix
+pivots
+argonne
+rank
+quadratic
+hung
+rearrange
+quantities
+stephen
+gammay
+indices
+conditioned
+6b
+numbered
+ill
+ebb
+kmnb
+kmbn
+divorce
+32c
+fikr
+kmbb
+mnn
+gamma1699
+kmnn
+experience
+certainly
+decreasing
+pivot
+drawn
+theoretically
+semidefinite
+indefinite
+gammai
+logarithmic
+codes
+20a
+dgetrs
+28a
+kurita
+32a
+kxn
+27b
+mnb
+20d
+20c
+lcps
+mbn
+fourer
+32d
+28b
+growth
+3a
+matrices
+columns
+tables
+scalars
+rounding
+anstreicher
+steplengths
+constants
+submatrix
+row
+inequality
+equations
+dgetrf
+gence
+gamma100
+asymptotic
+rows
+subscripts
+permutation
+groundwork
+contaminate
+minor
+violating
+nonzero
+dense
+9700
+cass
+15b
+yoshise
+ji
+barrier
+60439
+thetap
+formulations
+xu
+disastrous
+centering
+huang
+iterate
+affine
+conver
+late
+nonpositive
+formula
+formation
+tends
+monteiro
+asterisk
+nonnegativity
+tabulate
+assumptions
+monotone
+gamma1
+modifications
+pi
+moderate
+higham
+loan
+estimates
+uninteresting
+adler
+fast
+nondegeneracy
+complementary
+strictly
+implied
+advancing
+lays
+increasingly
+decrease
+triangular
+stages
+infeasibility
+un
+preprint
+2n
+accord
+ub
+38
+gammab
+plays
+threshold
+deficiency
+eventually
+absorbed
+terminate
+interior point
+fast step
+point methods
+fast steps
+in interior
+algorithm pfi
+assumption 1
+o u
+complete pivoting
+table convergence
+oe k
+the computed
+linear programming
+safe step
+ff k
+path following
+gaussian elimination
+linear equations
+problem type
+assumption 2
+partial pivoting
+have from
+i fast
+algorithm problem
+safe steps
+of mbb
+convergence of
+predictor corrector
+equations in
+elimination with
+kr k
+infeasible interior
+linear complementarity
+u v
+from assumption
+coefficient matrix
+local convergence
+for linear
+the algorithm
+mbb is
+from 15a
+numbered components
+computed steps
+primal dual
+all ff
+which oe
+roundoff error
+r l
+38 we
+the nonbasic
+poncele on
+34 with
+theorem 3
+sufficiently large
+and 34
+the coefficient
+ff 2
+from 38
+decreasing on
+nonnegative orthant
+point method
+all sufficiently
+fl k
+lustig marsten
+the safe
+the step
+k oe
+11 7
+iterates generated
+marsten and
+and shanno
+rapid convergence
+rank deficient
+j wright
+theorem 4
+with assumption
+conditioning of
+components of
+that fast
+type i
+oe and
+practical algorithms
+k sufficiently
+33 and
+have for
+stephen j
+2 0
+linear systems
+error analysis
+ye 17
+pfi is
+34a holds
+increasingly ill
+complementarity gap
+deficient the
+wright 14
+formula 6b
+15a we
+23a and
+shanno 8
+un where
+vanderbei 13
+following infeasible
+ji potra
+zhang 19
+to 6a
+steps ensure
+huang 4
+that 34a
+nonbasic columns
+fl min
+dual interior
+step is
+a safe
+matrix in
+with row
+a primal
+i 2
+large k
+0 1
+1 b
+each iteration
+floating point
+linear system
+with minor
+from 14
+errors in
+search direction
+is decreasing
+steps for
+row partial
+xu hung
+dense with
+steps u
+hung and
+corrector methods
+well conditioning
+the nonnegative
+methods see
+the fast
+y are
+the matrix
+superlinear convergence
+near unit
+for lcp
+v replaced
+rapid local
+iterates in
+l n
+positive constants
+point algorithm
+by u
+sufficiently small
+step 4
+order terms
+t k
+strictly positive
+drawn from
+two floating
+strong theoretical
+and huang
+potra and
+and ye
+p nl
+z and
+steps are
+of section
+is nonsingular
+algorithm of
+11 33
+some manipulation
+and superlinear
+step ff
+that therefore
+constants c
+vector pair
+the roundoff
+factor ae
+of algorithm
+of gaussian
+convergence properties
+find k
+that near
+holds provided
+step length
+nonsingularity of
+7 11
+k at
+i y
+we obtain
+growth factor
+of roundoff
+in assumption
+triangular factor
+the behavior
+of linear
+k 1
+symmetric indefinite
+roundoff errors
+the diagonal
+equations in interior
+interior point methods
+in interior point
+linear equations in
+assumption 1 b
+we have from
+ff 2 0
+theorem 3 2
+of algorithm pfi
+oe k oe
+type i fast
+fast step 4
+i fast step
+algorithm problem type
+the algorithm problem
+fast step is
+table convergence of
+problem type i
+gaussian elimination with
+all ff 2
+infeasible interior point
+38 we have
+for which oe
+a fast step
+r l n
+a safe step
+step is taken
+convergence of the
+33 and 34
+2 r l
+i 2 n
+the coefficient matrix
+coefficient matrix in
+the safe steps
+the computed steps
+numbered components of
+that fast steps
+from 38 we
+fast steps are
+of the algorithm
+together with assumption
+the fast step
+1 b and
+interior point method
+2 0 1
+for all sufficiently
+for all ff
+steps for which
+k oe and
+methods see for
+the nonnegative orthant
+for linear programming
+lustig marsten and
+by u v
+from assumption 2
+iterates generated by
+for linear complementarity
+k at each
+marsten and shanno
+errors in the
+stephen j wright
+all k sufficiently
+fl k 1
+i 2 b
+at each iteration
+we have for
+the algorithm of
+theorem 4 5
+k sufficiently large
+positive constants c
+theorem 2 2
+primal dual interior
+dual interior point
+in the computed
+and ye 17
+in 36 we
+path following infeasible
+elimination with row
+algorithm pfi is
+potra and huang
+and huang 4
+34a holds provided
+algorithm is affected
+of fast steps
+that near unit
+rank deficient the
+that linear equations
+with row partial
+with assumption 1
+k from 11
+find k from
+have from 15a
+in assumption 1
+when j k
+the complementarity gap
+safe steps for
+is decreasing on
+row partial pivoting
+increasingly ill conditioned
+accept this step
+11 33 and
+to next k
+ji potra and
+the nonbasic columns
+and shanno 8
+which oe k
+triangular factor by
+this step t
+step t k
+for complete pivoting
+well conditioning of
+that o u
+15a we have
+26 are performed
+become increasingly ill
+provided that and
+safe step is
+u v replaced
+following infeasible interior
+from 11 33
+from 15a we
+problem of table
+these estimates in
+even numbered components
+a primal dual
+of gaussian elimination
+interior point algorithm
+method for linear
+then for all
+j k is
+all i 2
+point methods for
+of z and
+b and lemma
+have from assumption
+hung and ye
+2 0 ff
+0 ff k
+the exact analysis
+and xu hung
+and g 22
+x gamma1 y
+decreasing on 0
+growth factor ae
+suppose the assumptions
+predictor corrector methods
+11 and g
+step is accepted
+xu hung and
+from assumption 1
+and 34 with
+that is decreasing
+step ff k
+and y are
+has the form
+and theorem 3
+algorithm of section
+with complete pivoting
+for partial pivoting
+assumption 2 and
+this last inequality
+assumption 2 theorem
+of the complementarity
+rapid local convergence
+tables 1 4
+v replaced by
+matrix m has
+algorithm for lcp
+of roundoff error
+complete pivoting strategy
+when the computed
+7 11 7
+these linear systems
+the matrix m
+on 0 1
+assumption 2 we
+kr k k
+o p nl
+step 4 3
+two floating point
+the iterates generated
+of o u
+rounding errors in
+g 11 and
+replaced by u
+with u v
+on the diagonal
+convergence of a
+k is sufficiently
+rapid convergence of
+partial pivoting in
+the even numbered
+which the operations
+partial pivoting to
+the later stages
+later stages of
+are strictly positive
+holds provided that
+case of i
+components of z

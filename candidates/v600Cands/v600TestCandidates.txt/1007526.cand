@@ -1,0 +1,600 @@
+repok
+java
+coverage
+red
+symbolic
+precondition
+black
+treemap
+elds
+checker
+jpf
+korat
+testing
+box
+lazy
+uninitialized
+inputs
+trees
+specication
+preconditions
+testera
+white
+util
+initialization
+specications
+elem
+eld
+conservative
+checking
+cr
+tests
+pc
+tvla
+symbolically
+initialized
+cl
+generation
+pathfinder
+destructive
+concrete
+null
+worklist
+primitive
+koushik
+rst
+structural
+xd
+branch
+godefroid
+ignoreif
+fixafterdeletion
+marinov
+psreanu
+deleteentry
+structures
+manipulating
+entry
+instrumented
+automated
+static
+software
+deos
+darko
+patrice
+public
+shelf
+isomorphic
+sen
+del
+corina
+rover
+backtracks
+nondeterministically
+infeasible
+sigsoft
+helper
+thread
+color
+foo
+cloud
+execution
+boolean
+xi
+maine
+invariant
+remove
+counterexamples
+tree
+predicate
+nikolai
+k9
+tillmann
+pelnek
+fixafterinsertion
+redhasonlyblackchildren
+_right_is_initialized
+conservative_repok
+schulte
+astoot
+removefirst
+_next_is_initialized
+_left_is_initialized
+scp
+verisoft
+elems
+concolic
+_get_elem
+rupak
+_get_next
+programs
+heap
+code
+dierent
+backtrack
+systematically
+initializes
+branches
+engine
+radek
+slam
+isempty
+asml
+ecient
+predicates
+put
+aliasing
+void
+library
+wolfram
+majumdar
+visser
+notes
+verication
+portland
+willem
+doong
+structs
+declaration
+int
+colored
+generating
+lastly
+satisability
+threaded
+swaps
+29th
+kingdom
+program
+acyclic
+temporal
+uml
+created
+path
+violates
+instrumentation
+reconstruct
+verify
+generate
+paths
+linked
+notices
+logic
+false
+shape
+e1
+oracles
+specied
+exibility
+proach
+checkers
+exploration
+cond
+20th
+beach
+assertion
+node
+doubly
+pointers
+unreachable
+london
+sigplan
+object
+mem
+initializing
+dene
+engineering
+sequences
+checks
+satises
+explores
+conguration
+parenthesis
+constraints
+criteria
+validating
+criterion
+behavioral
+automating
+concurrency
+algebraic
+symbolic execution
+input generation
+red black
+test input
+model checking
+model checker
+lazy initialization
+white box
+path condition
+black trees
+black box
+next next
+branch coverage
+test inputs
+input structures
+black tree
+box approach
+the code
+the java
+the symbolic
+input trees
+java util
+the precondition
+input structure
+box testing
+class invariant
+execution tree
+structures that
+our framework
+util treemap
+during lazy
+if current
+color red
+uninitialized elds
+for black
+conservative precondition
+generate tests
+framework can
+software testing
+elds and
+put and
+box test
+complex data
+to generate
+checker to
+manipulating complex
+of repok
+generalized symbolic
+execution framework
+conservative repok
+pc x
+generating tests
+concrete precondition
+tests from
+the inputs
+the input
+generate test
+non isomorphic
+software engineering
+generation for
+on primitive
+java pathfinder
+the conservative
+primitive data
+checking as
+checking to
+remove methods
+specication based
+y pc
+jpf model
+koushik sen
+java treemap
+cr null
+cl null
+solve constraints
+java predicate
+java predicates
+reference elds
+as java
+code manipulating
+unit testing
+using model
+the concrete
+a specication
+java programs
+of method
+y x
+test data
+the black
+on software
+the lazy
+based testing
+and remove
+y y
+structural coverage
+precondition that
+public static
+data structures
+a red
+test generation
+the model
+the coverage
+the trees
+inputs that
+for white
+in java
+the red
+used during
+of java
+shape analysis
+testing criterion
+under test
+the path
+execution and
+coverage of
+method calls
+analysis july
+testing and
+destructive updates
+method preconditions
+and korat
+isomorphic input
+from specications
+treemap library
+input elds
+darko marinov
+of put
+red return
+xd xi
+red if
+initialized and
+checker backtracks
+logic engine
+patrice godefroid
+by get
+the repok
+symbolically executing
+s precondition
+conservative preconditions
+the jpf
+precondition the
+s psreanu
+precondition by
+primitive elds
+algebraic specication
+pointer assertion
+with uninitialized
+del xd
+repok on
+coverage on
+program testing
+method s
+trees we
+x y
+oriented programs
+the shelf
+testing proceedings
+a symbolic
+a java
+size 5
+static analysis
+space exploration
+trees up
+our symbolic
+assertion logic
+class node
+on reference
+the put
+and black
+code under
+corina s
+left entry
+testing our
+an uninitialized
+for red
+not initialized
+based coverage
+sigsoft software
+notes v
+trees of
+engineering notes
+acm sigsoft
+return false
+as testing
+execution to
+should note
+constraints on
+software model
+preconditions can
+international symposium
+execution of
+checking and
+also reports
+code coverage
+thread scheduling
+5 september
+checking of
+a path
+of test
+code of
+test input generation
+the model checker
+red black trees
+red black tree
+next next next
+the path condition
+input generation for
+the symbolic execution
+the input structures
+a path condition
+for black box
+java util treemap
+during lazy initialization
+box test input
+symbolic execution and
+put and remove
+symbolic execution of
+x y y
+to generate tests
+model checking to
+model checker to
+a model checker
+to generate test
+black box testing
+black box approach
+trees of size
+manipulating complex data
+the lazy initialization
+symbolic execution tree
+generalized symbolic execution
+model checking as
+the red black
+our framework can
+a red black
+framework can be
+x x y
+of the code
+jpf model checker
+the concrete precondition
+used during lazy
+y y pc
+symbolic execution framework
+white box test
+pc x y
+code manipulating complex
+checking as testing
+the java treemap
+and remove methods
+white box approach
+for white box
+the black box
+up to a
+on software testing
+testing and analysis
+software testing and
+the input trees
+using model checking
+the class invariant
+o the shelf
+theory of test
+symposium on software
+x y x
+model checking and
+the method s
+model checking of
+complex data structures
+and analysis july
+in the java
+we should note
+with uninitialized elds
+black trees we
+sequences of put
+coverage on the
+constraints on primitive
+path condition is
+non isomorphic input
+color red if
+the test input
+the put and
+method s precondition
+generate test inputs
+as java predicates
+in java util
+for red black
+symbolic execution to
+and symbolic execution
+y pc x
+trees up to
+on reference elds
+java treemap library
+model checker backtracks
+of red black
+is not initialized
+the conservative precondition
+red return false
+for test input
+to solve constraints
+checking to generate
+that are created
+a java predicate
+color red return
+uninitialized elds and
+to test input
+del xd xi
+assertion logic engine
+the jpf model
+corina s psreanu
+eld is not
+pointer assertion logic
+the pointer assertion
+solve constraints on
+generate tests from
+our symbolic execution
+lazy initialization of
+constraints on reference
+coverage of the
+y x x
+y y x
+object oriented programs
+testing proceedings of
+software engineering notes
+engineering notes v
+acm sigsoft software
+sigsoft software engineering
+should note that
+on primitive data
+return false if
+a white box
+preconditions can be
+state space exploration
+5 september 2005
+the code under
+1 model checking
+if the path
+the input structure
+international symposium on
+the code of
+to a given
+a symbolic execution
+structures that can
+n 5 september
+can be used
+automated software engineering
+proceedings of the
+our framework is
+30 n 5
+20 2006 portland
+2006 portland maine
+we show how
+notes v 30
+of the trees
+structures that are
+data structures that
+of the inputs
+stop the analysis
+generates inputs from
+black box fashion
+as red black
+symbolic execution for
+all non isomorphic
+encodes constraints on
+with destructive updating
+current color red
+_left_is_initialized cl null
+of time partitioning
+generating tests from
+entry cl current
+cl current left
+input generation can
+of interfaces the
+static final boolean
+properties of interfaces
+during white box
+java data structures
+validating temporal safety
+if current _right_is_initialized
+current entry worklist
+repok returns true
+removefirst entry cl
+model checking used
+java pathfinder jpf
+method under test
+null nodes are
+the eld to
+logic based theory
+nodes represent entries
+either red or
+generating test inputs
+a given small
+cr current right
+testera and korat
+inputs from constraints
+parameterized unit tests
+straight model checking
+of conservative repok
+right if current
+entry worklist removefirst
+an input structure
+branch coverage on
+by symbolically executing

@@ -87,11 +87,13 @@ class FeatureCalculator:
 		first_occurrence = self.ft_first_occurrence_position(candidate)
 		feature_dict.update(first_occurrence)
 
+
 		last_occurrence = self.ft_last_occurrence_position(candidate)
 		feature_dict.update(last_occurrence)
 
 		spread = self.ft_spread(first_occurrence['first_occur'], last_occurrence['last_occur'])
 		feature_dict.update(spread)
+
 
 		tfidf = self.ft_tfidf(candidate)
 		feature_dict.update(tfidf)

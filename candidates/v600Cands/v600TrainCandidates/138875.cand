@@ -1,0 +1,600 @@
+cmfs
+sessions
+session
+workahead
+disk
+slack
+client
+multimedia
+file
+mbps
+buffer
+cushion
+fifo
+hysteresis
+scheduling
+read
+media
+video
+policy
+audio
+interactive
+policies
+cyclical
+request_session
+vin
+seek
+servers
+clients
+shenoy
+harrick
+clock
+prashant
+feasible
+traffic
+kbps
+max_rate
+cpu
+rate
+disks
+startup
+response
+ms
+layout
+bytes
+ahead
+eqs
+admission
+workload
+rates
+axioms
+augmenting
+files
+acceptance
+arrival
+cylinder
+zden
+etherphone
+jadav
+divyesh
+banu
+byte
+playback
+logical
+mb
+continuous
+safe
+reads
+wren
+unix
+greedy
+streams
+storage
+silberschatz
+1994
+server
+starves
+rastogi
+jaideep
+blocks
+reading
+buffers
+accepted
+buffered
+demand
+fifos
+100mb
+1mb
+offset
+allocation
+device
+plan
+started
+pause
+towsley
+kurose
+sectors
+background
+chang
+throughput
+choudhary
+alok
+hosekote
+bradshaw
+ruei
+kenchammana
+wonjun
+subhabrata
+start_clock
+berra
+jenwei
+interrupt
+timestamps
+schedule
+srivastava
+static
+delay
+starvation
+semantics
+1997
+requests
+eq
+ghandeharizadeh
+spindle
+shahram
+block
+rotation
+minimal
+berkeley
+united
+concurrent
+rangan
+sustains
+tsun
+cello
+hamidzadeh
+editing
+rajeev
+vldb
+cylinders
+yueh
+jan
+guarantees
+10kb
+gemmell
+scsi
+resource
+retrieval
+seconds
+cm
+meta
+babak
+mandate
+expandable
+goyal
+kuan
+int
+voice
+cdc
+gao
+kernel
+interface
+resume
+bases
+patching
+tai
+lixin
+sound
+huang
+streaming
+sigops
+aggressive
+jim
+vcr
+hsieh
+deepak
+sigmod
+synchronization
+shim
+950
+sony
+catches
+reservation
+interrelated
+thereafter
+bandwidth
+contiguous
+scan
+arrivals
+permutation
+striping
+transfer
+chuan
+raid
+clip
+bing
+overflow
+latency
+933
+francisco
+track
+non real
+real time
+disk scheduling
+buffer space
+the cmfs
+slack time
+continuous media
+the client
+session s
+feasible was
+the fifo
+read session
+data rate
+h i
+minimal was
+logical clock
+time operations
+time traffic
+4 mbps
+cmfs can
+write session
+cyclical plan
+workahead augmenting
+by cmfs
+mbps sessions
+file system
+slack times
+a session
+multimedia systems
+data rates
+operation set
+of sessions
+f i
+that cmfs
+session axioms
+cmfs is
+media file
+i o
+the disk
+bounded rate
+time workload
+on multimedia
+scheduling policy
+each session
+operation sequence
+multimedia p
+seek time
+hysteresis limits
+m vin
+static minimal
+safe relative
+harrick m
+rate file
+minimal feasible
+write sessions
+of cmfs
+the file
+the slack
+l f
+interactive response
+video servers
+servers proceedings
+a disk
+fifo buffer
+file f
+response time
+disk layout
+64 kbps
+h max
+scheduling policies
+is safe
+the logical
+s i
+the minimal
+sessions the
+sessions s
+audio data
+all sessions
+a client
+t start
+variable rate
+was and
+bounds functions
+mbps transfer
+session acceptance
+the cushion
+the workahead
+cmfs client
+shenoy harrick
+was f
+meta scheduling
+next byte
+cmfs in
+cmfs interface
+two sessions
+the session
+disk bandwidth
+s n
+transfer rate
+total buffer
+data read
+f n
+per second
+at time
+the hysteresis
+servers multimedia
+in sessions
+of session
+read for
+on demand
+d f
+systems v
+three 1
+interactive requests
+acceptance test
+is feasible
+an operation
+arrival rate
+sessions can
+minimum data
+time access
+sessions and
+acm international
+f is
+to read
+performance guarantees
+for s
+if h
+i 2
+session is
+byte to
+read or
+international conference
+for continuous
+file systems
+a feasible
+divyesh jadav
+time sessions
+mean interactive
+as cmfs
+cm data
+request_session call
+cmfs session
+cushion y
+cmfs provides
+cmfs prototype
+jaideep srivastava
+fifo by
+workahead session
+system cmfs
+time file
+etherphone system
+the cyclical
+1997 seattle
+s cushion
+read sessions
+fifo cmfs
+jadav alok
+static policy
+cmfs the
+least workahead
+banu zden
+cmfs performs
+and cmfs
+cmfs uses
+concurrent sessions
+j shenoy
+prashant shenoy
+workahead w
+client cmfs
+plan policy
+axioms eqs
+is workahead
+7 n
+disk block
+v 7
+read and
+a write
+united states
+is read
+in video
+multimedia servers
+admission control
+of data
+the read
+buffer size
+functions u
+system state
+i 1
+be accepted
+to f
+video on
+ms maximum
+time disk
+35 ms
+8 mbps
+write point
+o server
+prashant j
+maximum seek
+non real time
+h i 2
+real time operations
+1 4 mbps
+real time traffic
+multimedia systems v
+the logical clock
+the minimal was
+4 mbps sessions
+h i 1
+relative to f
+from the fifo
+a write session
+real time workload
+disk scheduling policies
+conference on multimedia
+on multimedia p
+safe relative to
+continuous media file
+bounded rate file
+an operation set
+media file system
+harrick m vin
+minimal feasible was
+servers proceedings of
+for each session
+disk scheduling policy
+the slack times
+f is feasible
+session s i
+acm international conference
+s n 1
+and non real
+d f i
+of the logical
+state is safe
+next byte to
+seek time and
+byte to be
+the minimal feasible
+sessions s 1
+shenoy harrick m
+three 1 4
+mbps transfer rate
+a read session
+a feasible was
+real time access
+the cmfs interface
+is safe relative
+the next byte
+minimum data rate
+read session axioms
+suppose a client
+proceedings of the
+international conference on
+1 s n
+a bounded rate
+a disk scheduling
+f n 1
+for continuous media
+total buffer space
+systems v 5
+ahead of the
+interactive response time
+number of sessions
+v 7 n
+of buffer space
+7 n 4
+logical clock c
+the fifo by
+real time disk
+13 1997 seattle
+guaranteed minimum data
+clock c t
+f is workahead
+fifth acm international
+11 8 mbps
+continuous media data
+f starting at
+1997 seattle washington
+slack times of
+mbps sessions and
+the read session
+divyesh jadav alok
+a guaranteed minimum
+the least workahead
+data read in
+rate file f
+maximum seek time
+5 2 mbps
+read in f
+j shenoy harrick
+session axioms eqs
+the hysteresis limits
+ms maximum seek
+t t start
+of concurrent sessions
+of total buffer
+real time sessions
+real time file
+file system cmfs
+logical clock by
+cyclical plan policy
+operation set f
+time disk scheduling
+8 6 mbps
+slack time h
+least workahead session
+files in sessions
+mean interactive response
+i o server
+in sessions each
+prashant j shenoy
+is workahead augmenting
+the cyclical plan
+for s i
+read or write
+s 1 s
+can be accepted
+systems v 7
+distributed multimedia applications
+for non real
+servers multimedia systems
+client to read
+of the fifo
+real time semantics
+the fifo buffer
+sessions that can
+of disk scheduling
+when h i
+disk scheduling in
+an operation sequence
+system for unix
+the two sessions
+large data bases
+very large data
+n 1 p
+of the disk
+that the client
+the client s
+the slack time
+a session is
+of slack time
+at time zero
+multimedia tools and
+reading and writing
+read and write
+tools and applications
+functions u and
+to f n
+parameters r and
+the data read
+user level process
+this holds if
+time and non
+data rate and
+is a feasible
+digital audio and
+all t t
+i o device
+the data rate
+a continuous media
+that d f
+on very large
+if f is
+amount of data
+for real time
+blocks for each
+system state is
+buffer space is
+f i is
+for s n
+in the fifo
+r and e
+file system for
+f i i
+of s i
+the client can
+n 1 is
+video on demand
+storage and retrieval
+at time t
+audio and video
+number of concurrent
+data engineering v
+on knowledge and
+and data engineering
+transactions on knowledge
+upper bound on
+knowledge and data
+the fifth acm
+index of the
+different data rates
+machine as cmfs
+the continuous media
+r whenever the
+that cmfs can
+services implementation measurement
+mbps 180 ms
+m vin cello

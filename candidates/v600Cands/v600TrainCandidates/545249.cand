@@ -1,0 +1,600 @@
+predictor
+ev8
+branch
+gskew
+lghist
+history
+prediction
+2bc
+fetch
+bim
+alpha
+hysteresis
+predictors
+wordline
+bank
+g0
+indexing
+bimodal
+g1
+kbits
+tables
+bits
+meta
+64k
+skewed
+branches
+pc
+blocks
+yags
+instruction
+cycle
+y5
+predictions
+banks
+aliasing
+y6
+unshuffle
+old
+xor
+i15
+phih4
+i14
+ghist
+inflight
+hashing
+hybrid
+succesive
+ported
+i11
+i13
+16k
+bit
+i4
+entries
+sigarch
+accuracy
+i12
+multithreading
+phi
+i3
+microarchitecture
+lengths
+a9
+block
+predic
+compressed
+caches
+bimode
+phih6
+phia6
+phia14
+phia5
+unshuffling
+512kbits
+indexed
+conditional
+interleaved
+i2
+pipeline
+ramirez
+352
+array
+benchmark
+outcome
+news
+memorization
+i5
+i10
+policy
+index
+update
+aliased
+mispredictions
+word
+a4
+gshare
+xored
+cache
+mateo
+misprediction
+valero
+arrays
+speculative
+seznec
+fetched
+lai
+wo
+counters
+instructions
+superscalar
+strengthen
+jared
+phih9
+phih12
+phih13
+phih10
+phih11
+h8
+phia10
+bramha
+phih7
+allu
+z6
+phih14
+z5
+stark
+konrad
+conflict
+ba
+featuring
+32k
+read
+skewing
+h7
+i8
+jamison
+fig
+address
+istanbul
+compress
+turkey
+falcon
+prophet
+pumped
+chooser
+interference
+alex
+rationale
+taco
+simultaneous
+associative
+microprocessor
+h5
+dictor
+hardware
+vortex
+column
+ayose
+critic
+i7
+i9
+accesses
+budget
+vote
+entry
+logical
+selection
+larriba
+pey
+bles
+strengthened
+bz
+dynamically
+h4
+jimnez
+i6
+ahead
+tor
+35th
+conventional
+reads
+architecture
+oliverio
+dispersion
+diction
+skadron
+steal
+silicon
+santana
+cascaded
+register
+tullsen
+21264
+m88ksim
+agreeing
+leakage
+compaq
+chip
+hashed
+ijpeg
+branch predictor
+alpha ev8
+fetch blocks
+2bc gskew
+ev8 branch
+the alpha
+fetch block
+branch prediction
+history length
+global history
+three fetch
+blocks old
+the ev8
+branch history
+the predictor
+bank number
+predictor tables
+the branch
+path information
+branch predictors
+indexing functions
+the prediction
+information vector
+the hysteresis
+history lengths
+history branch
+gskew predictor
+prediction accuracy
+pc address
+number computation
+hysteresis tables
+g0 g1
+in lghist
+bimodal table
+prediction scheme
+the indexing
+local history
+the bank
+skewed branch
+implementation constraints
+update policy
+e gskew
+4 64k
+the wordline
+predictor 2bc
+hybrid skewed
+wordline number
+for g0
+old lghist
+g1 and
+the bimodal
+line predictor
+predictor table
+table sizes
+partial update
+prediction tables
+history bits
+prediction table
+instruction fetch
+different history
+two dynamically
+64k entries
+and g1
+predictor components
+ev8 predictor
+and meta
+vector used
+column selection
+g0 and
+index functions
+conditional branch
+correct prediction
+indexing the
+predictor is
+address history
+for indexing
+i3 i2
+352 kbits
+dynamically succesive
+the 2bc
+y6 y5
+bank interleaved
+i4 i3
+lghist history
+prediction array
+shared index
+entries 2bc
+conventional branch
+indexed using
+address bits
+per cycle
+predictor the
+branch outcome
+history and
+prediction and
+benchmark set
+on alpha
+bit prediction
+four logical
+and hysteresis
+history pair
+meta and
+best history
+address generation
+the hybrid
+on branch
+simultaneous multithreading
+the yags
+skewed associative
+log 2
+the fetch
+history information
+logical predictor
+i12 i11
+predictions associated
+column bits
+old history
+ev8 the
+hysteresis table
+yags predictor
+hysteresis array
+of lghist
+tables g0
+lghist is
+i13 i12
+wordline selection
+path assumes
+block address
+acm sigarch
+sigarch computer
+architecture news
+8 bit
+our benchmark
+not taken
+phase 1
+hybrid predictor
+two fetch
+8 instruction
+three last
+news v
+the pc
+16 branch
+bank selection
+of branch
+read of
+to 16
+history for
+single ported
+word line
+table size
+prediction acm
+computer architecture
+design space
+predictor and
+predictor as
+and path
+indexing function
+prediction on
+improving branch
+associative caches
+memory array
+no path
+alpha branch
+bim is
+succesive fetch
+history lghist
+for bim
+kbits of
+hysteresis bit
+the unshuffle
+dynamically successive
+the bim
+entry xor
+i2 a4
+bim table
+block compressed
+bimode predictor
+compressed branch
+prediction entries
+i14 i13
+previous fetch
+information bits
+gskew prediction
+i15 i14
+4 history
+and bim
+predicted per
+ported memory
+prediction words
+by i15
+half size
+direction cache
+on microarchitecture
+the four
+the three
+information from
+1 out
+predictor a
+alex ramirez
+every cycle
+the alpha ev8
+ev8 branch predictor
+the branch predictor
+alpha ev8 branch
+three fetch blocks
+fetch blocks old
+the indexing functions
+the ev8 branch
+global history branch
+bank number computation
+the information vector
+the bank number
+2bc gskew predictor
+skewed branch predictor
+of the branch
+g0 g1 and
+predictor 2bc gskew
+information vector used
+the hybrid skewed
+different history lengths
+the fetch block
+the predictor tables
+of the predictor
+blocks old lghist
+the wordline number
+history branch predictors
+conventional branch history
+g1 and meta
+pc address generation
+instruction fetch block
+branch predictor tables
+log 2 of
+our benchmark set
+on the alpha
+branch prediction accuracy
+branch predictor is
+for indexing the
+the shared index
+8 bit prediction
+i4 i3 i2
+hybrid skewed branch
+the three fetch
+entries 2bc gskew
+a 4 64k
+4 64k entries
+the bimodal table
+on alpha ev8
+on branch prediction
+up to 16
+in the alpha
+address history pair
+the line predictor
+on our benchmark
+branch predictor the
+path information from
+skewed associative caches
+computer architecture news
+acm sigarch computer
+architecture news v
+sigarch computer architecture
+the pc address
+branch prediction scheme
+read of the
+the four logical
+blocks old history
+g0 and g1
+branch history information
+fetch block address
+to 16 branch
+i13 i12 i11
+predictions associated with
+branch predictor as
+prediction and hysteresis
+for g0 g1
+the 2bc gskew
+alpha ev8 predictor
+two fetch blocks
+and the hysteresis
+fetch block is
+of the alpha
+a global history
+for the alpha
+in the predictor
+partial update policy
+used for indexing
+conditional branch predictor
+the best history
+best history length
+the predictor table
+the three last
+index functions for
+functions for the
+for the predictor
+path information is
+a correct prediction
+the branch prediction
+path information in
+of the prediction
+phase 1 phase
+symposium on microarchitecture
+a hybrid predictor
+international symposium on
+fetch blocks are
+in block d
+history and path
+on the ev8
+each word line
+column selection is
+the yags predictor
+the column bits
+the hysteresis array
+given by i15
+succesive fetch blocks
+for the ev8
+ported memory cells
+by i4 i3
+another address history
+the prediction array
+i3 i2 a4
+history branch predictor
+the hysteresis tables
+and path information
+alpha branch predictor
+information in lghist
+prediction array and
+alpha ev8 the
+and simultaneous multithreading
+4 history bits
+single ported memory
+entry xor gate
+i15 i14 i13
+indexing the branch
+the three predictors
+on a correct
+the prediction scheme
+path assumes that
+16 branch predictions
+of the ev8
+i14 i13 i12
+stands the comparison
+by i15 i14
+two dynamically successive
+fetch block the
+and path history
+four logical predictor
+branch predictor 2bc
+selection is given
+no path assumes
+compressed branch history
+any two dynamically
+dynamically succesive fetch
+instruction fetch blocks
+64k entries 2bc
+two dynamically succesive
+used to index
+branch prediction acm
+in the history
+of branch prediction
+vector used for
+of the hysteresis
+the prediction tables
+defined by i4
+information used to
+table sizes in
+global history prediction
+vector of information
+the local history
+the agree predictor
+branch predictor this
+on global history
+indexing functions for
+higher prediction accuracy
+addresses of the
+history length for
+on every cycle
+history length is
+branch predictors the
+branch prediction table
+the addresses of
+on the branch
+for branch predictors
+would have had
+branch history for
+than log 2
+a very large
+a read of
+2 bit counters
+the global history
+prediction accuracy the
+1 out of
+in the fetch
+prediction accuracy than
+the prediction table
+information from the
+have had to
+was found to
+prediction acm sigarch
+the accuracy of
+2 of the
+bits are used

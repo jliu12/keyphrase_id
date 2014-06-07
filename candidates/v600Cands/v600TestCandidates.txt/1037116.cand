@@ -1,0 +1,600 @@
+dst
+pkt
+dsr
+routing
+packets
+packet
+destination
+route
+hop
+destinations
+ood
+hops
+routes
+query
+nbr
+buer
+pause
+rd
+timeout
+tag
+update
+src
+protocol
+neighbor
+attachment
+protocols
+predecessor
+reply
+mac
+tracing
+broadcast
+hoc
+driven
+updates
+innity
+send
+link
+ns
+sent
+demand
+distance
+ad
+wireless
+routers
+bdcast
+lh
+dropped
+router
+node
+rt
+successor
+neighbors
+fig
+newpath
+forwarding
+seconds
+layer
+nite
+else
+source
+addr
+ows
+tables
+overhead
+percentage
+sender
+scenarios
+permanent
+forwarded
+tora
+wrp
+msecs
+promiscuous
+entries
+identier
+entry
+tra
+internet
+aodv
+infty
+simulations
+900
+peer
+satised
+received
+delays
+jk
+loop
+topology
+discovery
+queries
+count
+suers
+t3
+sends
+receive
+delay
+dierent
+scenario
+innite
+loops
+header
+radio
+stale
+unicast
+kbps
+stack
+zqs
+dsdv
+unreliably
+rebroadcast
+buered
+rmv
+delivery
+looping
+attenuation
+unreliable
+congestion
+ow
+headers
+networks
+cient
+suered
+listening
+regular
+movement
+network
+cumulative
+bandwidth
+prevent
+t1
+sequenced
+sce
+parenthesis
+paths
+mobile
+broadcasts
+implied
+cpt
+ection
+mimics
+rst
+static
+incurs
+started
+stamps
+miles
+bellman
+mobility
+community
+_
+connectivity
+throughput
+learns
+picks
+ssa
+ford
+dt
+path
+caches
+searches
+links
+ciency
+emergency
+simulation
+qr
+mimic
+km
+resets
+picking
+receiver
+whom
+loses
+secs
+metric
+maintaining
+updating
+eect
+helps
+receives
+false
+specication
+routed
+distances
+host
+pending
+ip
+elapsed
+aect
+dierences
+collisions
+plot
+300
+zrp
+ilmj
+bys
+received2000600010000140001
+timeline
+thatthe
+bat
+pkt dst
+data packets
+table driven
+data packet
+source tracing
+in dst
+routing table
+pkt src
+driven routing
+control packets
+the routing
+tag i
+routing protocols
+packet is
+node d
+routing protocol
+on demand
+demand routing
+distance table
+regular update
+dst and
+query receive
+receive timeout
+reply update
+of dsr
+ood search
+control overhead
+hoc networks
+neighbor k
+hop query
+packet overhead
+pkt hops
+control packet
+of attachment
+ad hoc
+the destination
+to destinations
+rt update
+pause times
+routing information
+to innity
+hop count
+distance to
+in best
+pause time
+route discovery
+route to
+in dsr
+0 lh
+if rd
+query send
+zero hop
+distance vector
+predecessor to
+limited broadcast
+send timeout
+broadcast address
+all destinations
+dsr and
+routing tables
+packets received
+in fig
+the packet
+a route
+node e
+path to
+the mac
+node c
+set to
+a node
+and pkt
+send update
+vector routing
+pkt nbr
+for destination
+if pkt
+the buer
+i pkt
+bdcast addr
+its distance
+of control
+percentage of
+and best
+update from
+a destination
+and destination
+of hops
+the route
+last hop
+of routing
+the path
+the query
+update is
+a neighbor
+the link
+is dropped
+else if
+packets run
+data buer
+max hops
+to pkt
+rd add
+destination bdcast
+src set
+than query
+dst set
+of dst
+than dsr
+maximum hop
+destination j
+known neighbors
+dsr percentage
+j rd
+than dst
+900 seconds
+and dst
+run number
+packets sent
+for ad
+an update
+paths to
+the distance
+d i
+to j
+a reply
+each entry
+the sender
+a link
+packet delivery
+to last
+of source
+the source
+dst is
+query table
+update send
+add else
+dst a
+dynamic source
+delivery ratio
+routes to
+a distance
+a regular
+that best
+destination and
+table entry
+with source
+source routing
+source i
+destination a
+the limited
+e cient
+node i
+overhead than
+update with
+which routers
+scenario 2
+packet from
+and predecessor
+packets in
+tra c
+conditions are
+is set
+second to
+when node
+other on
+a query
+the control
+in ad
+link connectivity
+community networks
+dsr which
+distance predecessor
+timeout seconds
+update routing
+regular updates
+permanent loops
+dst or
+counting to
+infty _
+forwarding layer
+ood searches
+distance tables
+update source
+unreliable updates
+dsr dst
+required destination
+else procedure
+packet pkt
+routers maintain
+procedure dt
+dst correct
+destination pkt
+addr else
+constants used
+routing message
+send false
+buer is
+timeout the
+dt update
+known destinations
+table driven routing
+of data packets
+percentage of data
+of control packets
+on demand routing
+query receive timeout
+a regular update
+the data packet
+ad hoc networks
+control packet overhead
+the routing table
+point of attachment
+number of control
+a data packet
+data packet is
+to the destination
+the limited broadcast
+a 0 lh
+data packets received
+a table driven
+query send timeout
+dst and best
+demand routing protocols
+a reply update
+limited broadcast address
+to last hop
+zero hop query
+driven routing protocol
+distance vector routing
+the control packet
+the packet is
+number of hops
+second to last
+to the limited
+for ad hoc
+driven routing protocols
+update is sent
+for destination a
+source i and
+destination bdcast addr
+routing table entries
+rt update send
+i pkt dst
+packets run number
+regular update is
+the distance table
+overhead of dsr
+if rd add
+rd add else
+and pkt src
+else if rd
+pkt src set
+tag i pkt
+distance table entry
+other on demand
+pkt dst set
+routing information for
+src set to
+of source tracing
+and destination bdcast
+dst set to
+dsr percentage of
+is set to
+packet delivery ratio
+routing protocol that
+its distance to
+in ad hoc
+to a destination
+when node i
+a route to
+in which routers
+the point of
+broadcast to the
+each entry j
+dropped and a
+entry j rd
+maintain routing information
+procedure rt update
+used in best
+pkt hops 1
+broadcast address and
+than query receive
+a zero hop
+control packets sent
+routers maintain routing
+performance of dsr
+longer be sent
+dsr and dst
+source tracing algorithm
+node d is
+a neighbor the
+data packet from
+sent percentage of
+path to j
+and and destination
+packet overhead of
+send update with
+bdcast addr else
+procedure dt update
+for all destinations
+of the delays
+see that best
+send false rt
+pkt dst correct
+information for all
+last time a
+update source i
+control overhead than
+0 lh a
+to all destinations
+counting to innity
+to pkt dst
+a nite and
+paths to destinations
+to update routing
+update pkt nbr
+update with source
+constants used in
+which routers maintain
+overhead than dst
+the reply update
+packets sent percentage
+of dsr and
+is a table
+false rt update
+path to the
+set to the
+e cient routing
+the mac layer
+then the packet
+begin for all
+else end for
+conditions a and
+control overhead of
+the route discovery
+the entries are
+end for all
+the path to
+in fig 2
+is dropped and
+i and and
+to a neighbor
+to that destination
+the control overhead
+the last query
+to the internet
+route to the
+the routing protocol
+in fig 4
+if d i
+all j 2
+route to a
+destination of the
+routing in ad
+routing protocols for
+is kept constant
+the data packets
+ad hoc network
+packet is dropped
+the destination of
+in the routing
+the second to
+the two conditions
+j 2 n
+the path from
+distance to a
+is called to
+e f and
+shown in fig
+two conditions are
+it is set
+the last time
+the link between
+can no longer
+source of the
+times more control
+4 maintaining routes
+update routing tables
+identier j the
+either on demand
+nodes e f
+with dsr which
+dst is a
+count which are
+overhead of dst
+n if rd
+continue else if
+of update packets
+if pkt dst
+star 9 which
+called for processing
+number of pending
+and the predecessor
+nbr k called
+the rst protocol
+maximum hop count
+due to unreliable
+simulations for two
+the counting to
+all known destinations

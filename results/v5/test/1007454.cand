@@ -1,0 +1,600 @@
+pivot
+cycling
+expand
+simplex
+cycle
+steepest
+tableau
+2k
+degeneracy
+row
+degenerate
+indefinitely
+iterations
+column
+devex
+iteration
+tie
+nonbasic
+columns
+behaviour
+expanded
+pivotal
+gill
+pivots
+proposition
+shall
+perturbation
+tolerance
+objective
+cyclically
+dantzig
+cycles
+primal
+eigenvalues
+coefficients
+unbounded
+vertex
+acceptable
+lp
+wolfe
+fletcher
+a11
+beale
+bqpd
+a21s
+osl
+shifted
+resolving
+ffi
+odd
+criterion
+dual
+indefinite
+selection
+arithmetic
+deltag
+minos
+redundant
+edge
+breaks
+analyse
+inexact
+constraint
+leave
+harris
+coefficient
+roundoff
+unshaded
+enter
+largest
+negative
+stalling
+feasibility
+ratio
+pattern
+scaling
+reset
+guaranteed
+simplest
+resolves
+nonnegative
+preprocessing
+gamma
+terminate
+ff
+relied
+preprint
+repeat
+perturbed
+candidate
+anti
+stay
+j0842
+2262
+minos5
+2247
+gammaaa
+coap
+12the
+reinversion
+mckinnon
+ifa
+xpressmp
+zrnig
+likelyhood
+087
+gammaa120
+unboundedness
+balin
+reversed
+signs
+conjugate
+sufficient
+repeats
+entries
+leaving
+inequality
+gomory
+4x
+returns
+characteristic
+encountered
+prevent
+breaking
+theta
+breaker
+detached
+tableaux
+direction
+infeasible
+rows
+matrix
+feasible
+gammaffi
+enlargement
+normally
+singular
+extra
+numerical
+ski
+summarises
+recalculated
+cplex
+resetting
+julian
+perturbing
+nonzero
+min
+entry
+tance
+tightest
+11a
+itera
+whilst
+unaltered
+impor
+broken
+bounds
+destroying
+relaxes
+characterise
+rule
+break
+simplify
+stability
+encountering
+interchanged
+solu
+pass
+finiteness
+lexicographic
+eventual
+basis
+met
+escape
+pivoting
+visits
+invert
+formed
+prohibitively
+alternation
+slack
+epsrc
+analysed
+termination
+danger
+award
+submatrix
+sole
+55
+induction
+zeroes
+strict
+established
+introducing
+131
+elsevier
+violations
+sided
+straightforwardly
+a 11
+6 cycle
+the expand
+11 a
+cycle examples
+a 12
+cycle pattern
+steepest edge
+the pivot
+x 2k
+2 6
+the 2
+the simplex
+simplex method
+2k 2
+most negative
+reduced cost
+pivot in
+negative reduced
+expand ratio
+in row
+ratio test
+tableau t
+largest pivot
+row 2
+column selection
+column 2
+row 1
+degenerate vertex
+basic variables
+a 21
+column 1
+two iterations
+the steepest
+cycle indefinitely
+row selection
+expand procedure
+pivot row
+it follows
+the objective
+and sufficient
+follows that
+objective function
+12 a
+11 1
+using expand
+edge column
+necessary and
+sufficient conditions
+x x
+we shall
+the degeneracy
+simplex algorithm
+11 which
+of iteration
+start of
+prevent cycling
+expand row
+the nonbasic
+the pivotal
+odd iterations
+pivotal column
+objective row
+degeneracy in
+full step
+iteration 2k
+shifted cyclically
+the devex
+gill et
+iteration 2
+table 4
+the basis
+min step
+pivot is
+of expand
+to leave
+g k
+2k 1
+11 0
+the start
+acceptable if
+to cycle
+leave the
+of column
+in iteration
+theta 2
+proposition 1
+guaranteed to
+in column
+columns are
+selection rule
+5 19
+the values
+selected in
+s k
+cost criterion
+cost row
+also cycle
+characteristic equation
+than column
+repeat after
+unique pivot
+cycling examples
+unbounded direction
+cycle order
+step ff
+resolving degeneracy
+feasibility tolerance
+chosen rather
+16 holds
+inexact arithmetic
+for cycling
+without scaling
+even iteration
+expand method
+conditions for
+2 theta
+a tie
+such examples
+exact arithmetic
+simplest possible
+s gamma
+t 1
+be chosen
+gamma s
+the examples
+19 5
+shall now
+is acceptable
+variables are
+in table
+variable values
+in exact
+the variable
+cost column
+real eigenvalues
+11 x
+now shown
+satisfies its
+are as
+to enter
+when using
+the necessary
+iteration the
+the changes
+cycles for
+lp problem
+cycling in
+of pivot
+iterations are
+the largest
+linear programming
+if and
+iterations and
+x r
+test returns
+redundant if
+2 constraint
+so there
+of iterations
+return to
+the conditions
+k 0
+in iterations
+as given
+row in
+the min
+m 1
+12 1
+m 2
+changes in
+terminate in
+examples a
+the behaviour
+this occurs
+enter the
+is chosen
+iterations we
+the dual
+of table
+2 matrix
+a degenerate
+columns to
+vertex is
+entries in
+2 of
+to repeat
+reversed then
+even iterations
+cycling still
+as beale
+gamma a11
+cycling example
+shows is
+new expanded
+nonbasic variables
+13 55
+problem cycles
+nonbasic variable
+pivot will
+2 6 cycle
+a 11 a
+the 2 6
+11 a 11
+6 cycle examples
+6 cycle pattern
+x 2k 2
+the simplex method
+expand ratio test
+the most negative
+a 11 1
+most negative reduced
+the expand ratio
+negative reduced cost
+if a 11
+of the expand
+a 12 a
+the largest pivot
+in row 2
+the steepest edge
+the basic variables
+x x x
+12 a 11
+the objective function
+a 11 which
+leave the basis
+in row 1
+necessary and sufficient
+it follows that
+and sufficient conditions
+steepest edge column
+edge column selection
+pivot in row
+the expand procedure
+and a 12
+row 2 is
+the pivot in
+a 11 0
+the necessary and
+sufficient conditions for
+in table 4
+at the start
+11 a 12
+11 which is
+in the 2
+the start of
+2 theta 2
+are as given
+to leave the
+2k 2 a
+to prevent cycling
+the objective row
+expand row selection
+tableau t 1
+the pivotal column
+a 11 and
+a 12 1
+gill et al
+enter the basis
+when using expand
+the changes in
+column 2 of
+that a 11
+5 19 5
+start of iteration
+is acceptable if
+return to a
+in column 2
+of the simplex
+if and only
+the values of
+to enter the
+in exact arithmetic
+the simplest possible
+values of variables
+is redundant if
+redundant if a
+rather than column
+reduced cost criterion
+1 in iteration
+given in row
+degenerate vertex is
+cost column selection
+6 cycle order
+breaks the 2
+the expand row
+column selection rule
+cycle examples the
+pivot in the
+so it follows
+11 x 2k
+a 11 x
+that a 12
+the min step
+columns are selected
+a degenerate vertex
+tableau t 3
+21 a 11
+the pivot is
+acceptable if and
+gamma s gamma
+be in row
+the full step
+reduced cost column
+be chosen rather
+variable values are
+ratio test returns
+that the pivot
+in iteration 2
+values are as
+the expand method
+will be chosen
+and only if
+we shall now
+only if a
+columns to the
+at every iteration
+theta 2 matrix
+conditions of proposition
+g k 0
+11 1 2
+and the expand
+the simplex algorithm
+1 a 11
+2 is acceptable
+1 of table
+have now shown
+since a 11
+simplex method to
+step is taken
+of column 1
+follows that a
+are selected in
+are the simplest
+the variable to
+11 a 21
+of proposition 1
+to terminate in
+so there is
+by the most
+values in table
+as given in
+1 is chosen
+in the objective
+selected in the
+if the conditions
+it follows from
+examples in this
+and it follows
+for all k
+of table 3
+variables at the
+a 21 a
+in the values
+the conditions of
+of the basic
+for the values
+which is true
+the first iteration
+2 5 19
+determines the maximum
+is a tie
+variable columns shifted
+feasibility tolerance ffi
+any two iterations
+unbounded direction is
+the iteration are
+have the 2
+over two iterations
+direction is found
+area in figure
+4 columns to
+row 1 in
+2 of t
+the x variable
+a complex conjugate
+holds which implies
+column selection criterion
+the x columns
+of pivot row
+and cycle indefinitely
+11 gamma a
+cycles when using
+the nonbasic variables
+and 4 columns
+after two iterations
+iteration 2k 1
+of iteration 2
+chosen rather than
+x x pivot
+degeneracy in linear
+cycle pattern will
+problem is unbounded
+2 is chosen
+pattern will be
+resolves the degeneracy
+3 a 11
+so the pivot
+a 12 0
+cycle order then

@@ -1,0 +1,600 @@
+igp
+cutset
+partitioning
+layering
+partitions
+bisection
+repartitioning
+incremental
+vertices
+spectral
+partition
+reconfiguration
+meshes
+multilevel
+mesh
+partitioner
+balancing
+refinement
+scratch
+load
+success
+vertex
+cm
+edges
+random_list
+simplex
+ching
+irregular
+neighbor
+aykanat
+cevdet
+recursive
+1071
+proximate
+balance
+gammal
+formulation
+unstructured
+trial
+processors
+spent
+weight
+30471
+xadj
+tmps
+2139
+dime
+elog
+10166
+cross
+mark
+remapping
+parallelization
+stages
+1096
+catalyurek
+yeh
+balanced
+refinements
+liao
+umit
+rsb
+1192
+nodes
+adaptive
+winner
+moved
+deleted
+jung
+seconds
+max
+mapping
+1152
+minimized
+imbalance
+broadcast
+min
+1121
+graph
+microscopic
+processor
+672
+super
+hypergraph
+hierarchy
+movement
+ij
+graphs
+chung
+considerably
+timing
+dominate
+supercomputing
+deterioration
+quality
+kd
+sung
+formulations
+inherently
+annealing
+20incremental
+2040
+2137
+2158
+2270
+20initial
+ferit
+deformity
+2418
+mincut
+abstractpartitioning
+2099
+findik
+10838
+2572
+elogp
+multicomputers
+56
+node
+communication
+yang
+2162
+2057
+deteriorating
+tahsin
+npac
+bong
+enviroment
+kurc
+3185
+reapply
+parallelized
+suboptimal
+89
+2295
+barla
+calcula
+cambazoglu
+judd
+initio
+syracuse
+localized
+sparse
+assignment
+229
+68
+genetic
+edge
+tries
+fraction
+instant
+34
+heuristic
+multisection
+814
+repartitioned
+partitioners
+139
+loosely
+reconfiguring
+774
+ties
+94
+approximated
+constraint
+decomposition
+labeling
+tag
+853
+741
+lui
+63
+733
+716
+morse
+physically
+flanagan
+752
+proportional
+815
+woo
+904
+727
+levels
+54
+feasible
+673
+clement
+779
+blake
+757
+reconstruction
+comparable
+ordinarily
+693
+boundaries
+loads
+outgoing
+speedup
+747
+linear programming
+incremental graph
+graph partitioning
+spectral bisection
+total cutset
+recursive spectral
+max cutset
+min cutset
+cutset min
+cutset max
+partition i
+p total
+partitioner time
+cutset spectral
+cross edges
+of partitions
+global success
+partitioning achieved
+node cm
+load balancing
+cm 5
+time required
+additional nodes
+the layering
+time p
+multilevel approach
+for repartitioning
+of vertices
+time s
+total time
+the partitioning
+in partition
+the multilevel
+s time
+figure 15
+the graph
+from scratch
+32 node
+partition j
+programming formulation
+programming based
+34 igp
+bisection from
+meshes in
+partitioning using
+of cross
+after refinement
+figure 14
+the load
+the linear
+partitioning problem
+of partitioning
+load balance
+each partition
+a multilevel
+layering linear
+by igp
+applying recursive
+success mark
+layering is
+igp using
+igp before
+pair success
+level reconfiguration
+igp after
+reconfiguration layering
+before refinement
+from partition
+igp with
+using igp
+igp starting
+communication cost
+the time
+partitioning algorithm
+required for
+for layering
+timing on
+a partitioner
+partition to
+the partition
+to partition
+achieve load
+o p
+of edges
+balancing step
+its comparison
+partitioning is
+for meshes
+time spent
+multilevel algorithm
+parallel time
+15 a
+the simplex
+meshes are
+total figure
+the mapping
+with refinement
+scratch further
+explicit graph
+56 33
+33 igp
+igp for
+random_list random_list
+success false
+repartitioning algorithm
+refinement 18
+super partitions
+incremental partitioning
+partitioning of
+assignment by
+graph in
+partition of
+mesh in
+using linear
+simplex method
+v j
+the vertices
+in figure
+different steps
+14 d
+by o
+irregular and
+initial assignment
+l ij
+scratch for
+ching jung
+jung liao
+unique neighbor
+a graph
+cost of
+of vertex
+that achieved
+do for
+the repartitioning
+partitions figure
+based incremental
+partitions using
+a 32
+of partition
+each level
+mesh a
+mapping of
+in seconds
+parallelization of
+o e
+considerably lower
+cevdet aykanat
+new partitioning
+partitioning problems
+graph information
+be moved
+the quality
+figure 17
+unit in
+computational structure
+reconfiguration is
+initial mesh
+5 figure
+edges b
+00 k
+the communication
+inherently parallel
+add v
+initial partition
+feasible solution
+quality of
+m 0
+the partitions
+these meshes
+achieved is
+m 00
+a neighbor
+g represents
+refinement step
+ching chung
+unstructured mesh
+yeh ching
+the incremental
+initial graph
+two partitions
+15 b
+of levels
+programming and
+programming problem
+the total
+0 step
+broadcast of
+for vertex
+our methods
+achieved by
+an incremental
+and 1192
+physically proximate
+do count
+at considerably
+refinement 16
+seconds balancing
+edge global
+repartitioning is
+ij constraint
+incremental graph partitioning
+the linear programming
+recursive spectral bisection
+cutset min cutset
+time p total
+s time p
+max cutset min
+total cutset max
+p total cutset
+cutset max cutset
+time s time
+cutset spectral bisection
+min cutset spectral
+partitioner time s
+of cross edges
+meshes in figure
+quality of partitioning
+node cm 5
+time required for
+linear programming based
+the time required
+linear programming formulation
+32 node cm
+number of cross
+partition of figure
+bisection from scratch
+spectral bisection from
+of partitioning achieved
+for meshes in
+number of partitions
+the total time
+graph partitioning problem
+graph partitioning using
+to partition j
+cm 5 figure
+using the partition
+the number of
+number of vertices
+a 32 node
+figure 15 a
+on a 32
+programming and its
+15 a partitioner
+a multilevel approach
+unit in seconds
+igp using the
+using igp starting
+of partition i
+igp starting from
+pair success mark
+applying recursive spectral
+a partitioner time
+assignment by igp
+igp after refinement
+initial assignment by
+igp with refinement
+mesh a with
+by igp using
+level reconfiguration layering
+reconfiguration layering linear
+layering linear programming
+igp before refinement
+partitioning using linear
+using linear programming
+and its comparison
+the partition of
+number of edges
+the partitioning of
+the time spent
+in figure 14
+its comparison with
+load balancing step
+figure 14 d
+mesh in figure
+time unit in
+of figure 15
+linear programming and
+to that achieved
+achieved by applying
+for linear programming
+given in figure
+for each partition
+the parallel time
+for layering is
+partition i to
+partitioning achieved is
+the multilevel algorithm
+graph partitioning is
+m 00 k
+partitioning problems the
+the multilevel approach
+cross edges the
+from partition i
+of the layering
+for the multilevel
+programming based incremental
+time for layering
+partition i g
+from scratch further
+for different steps
+given by o
+use explicit graph
+time is considerably
+irregular and adaptive
+by applying recursive
+explicit graph information
+add v j
+that achieved by
+the quality of
+the mapping of
+in figure 15
+are inherently parallel
+graph partitioning algorithm
+from scratch for
+the new partitioning
+graph partitioning problems
+m 0 v
+in partition i
+the computational structure
+ching jung liao
+v j into
+of linear programming
+of the graph
+linear programming problem
+can be moved
+the new nodes
+required for different
+a broadcast of
+parallel time is
+dominate the total
+the communication cost
+g represents the
+proportional to o
+set of vertices
+the cost of
+the load balancing
+the initial mesh
+a feasible solution
+from a 0
+linear programming is
+figure 15 b
+the time for
+close to that
+the load balance
+starting from a
+yeh ching chung
+the simplex method
+of the linear
+graph in figure
+partitioning of the
+and its solution
+let the number
+the graph in
+represent the number
+the constraint in
+on each node
+is given in
+reduced by using
+initial graph figure
+catalyurek cevdet aykanat
+global success then
+timing on 1
+using the simplex
+or success if
+new partitioning is
+level description time
+incremental multilevel graph
+weight edge global
+using recursive spectral
+find pair success
+linear programming requires
+for repartitioning a
+microscopic view of
+local adjacent list
+our incremental graph
+1121 1152 and
+parallel applications such
+timing on a
+cost of layering
+class of irregular
+inequalities l ij
+spectral bisection based
+s timing on
+assuming the changes
+for unstructured mesh
+d level reconfiguration
+which use explicit
+not global success
+1 node cm
+15 b level
+computational structure changes
+broadcast of length
+refinements in a
+based incremental graph
+an incremental graph
+total cutset time
+do for vertex
+partition m 00
+edge global success
+programming requires a

@@ -1,0 +1,600 @@
+flows
+rat
+flights
+packets
+packet
+rtt
+congestion
+traces
+tcp
+flight
+window
+tra
+receiver
+flow
+mss
+bytes
+sender
+transport
+internet
+limiting
+rates
+rate
+bandwidth
+regional2
+duration
+acknowledgment
+trace
+sf
+connections
+delayed
+connection
+slow
+sigcomm
+link
+opportunity
+limited
+bu
+peering1
+regional1b
+regional1a
+fac
+correlations
+mbps
+stream
+avoidance
+bottleneck
+fastest
+msec
+correlation
+di
+er
+tool
+trip
+host
+determinations
+access1c
+access1b
+tcpanaly
+fraction
+advertised
+routers
+estimation
+nagle
+erent
+acknowledgments
+transferred
+transmit
+kbps
+logr
+npd
+knowledgments
+dummynet
+datasets
+skewed
+mbyte
+accounted
+router
+adus
+rtts
+deemed
+identified
+cumulative
+big
+round
+limits
+behaviors
+transmission
+links
+dynamics
+sizes
+loss
+peering
+plot
+networking
+backbone
+trace0
+logd
+ss
+experiencing
+factors
+ack
+rcvr
+mtu
+sndr
+network
+captured
+validated
+traffic
+evident
+analyzer
+lived
+measurement
+cdf
+statistics
+90
+candidate
+normality
+inter
+fc
+layer
+determination
+idle
+dominant
+arrival
+lasting
+file
+exhibited
+jan
+periodic
+routing
+saturated
+characteristics
+plots
+80
+sec
+experience
+simulations
+ect
+burst
+ca
+million
+percentage
+predicted
+sarvotham
+seqb
+specif
+lukas
+ssthresh
+kencl
+awndmax
+ackf
+wilk
+validate
+summary
+origins
+duplicate
+256
+un
+cult
+background
+across
+congested
+validation
+assess
+tests
+complementary
+causes
+n2
+percentile
+transitions
+competing
+durations
+review
+aggregate
+varied
+successive
+transitioned
+freebsd
+kortebi
+erentiate
+muscariello
+corr
+wetherall
+janeriro
+oueslati
+provider
+consistent
+ip
+hours
+hour
+dataset
+experienced
+bandwidths
+web
+estimate
+category
+spaced
+sigmetrics
+logs
+load
+t rat
+window limited
+rate limiting
+packet traces
+receiver window
+flow rates
+tra c
+application limited
+transport limited
+bandwidth limited
+slow start
+delayed acknowledgments
+the bytes
+congestion limited
+bottleneck link
+the tool
+rtt estimation
+of flows
+opportunity limited
+fast flows
+acknowledgment packets
+the sender
+flight sizes
+without delayed
+of bytes
+and duration
+the rate
+a flow
+summary flow
+limiting factors
+congestion avoidance
+packet loss
+host window
+acknowledgment stream
+sender window
+the flight
+flows in
+data packets
+acm sigcomm
+each connection
+limited the
+the rtt
+the acknowledgment
+bu er
+the link
+correlation between
+limited if
+the mss
+of flow
+rate limit
+cumulative fraction
+limiting behavior
+and rate
+the traces
+limiting factor
+packets at
+candidate rtt
+successive flights
+flow rate
+flows account
+limited behavior
+the rates
+the internet
+the receiver
+the bottleneck
+a connection
+bytes in
+flows are
+the packet
+between size
+of tcp
+8 packet
+flow is
+round trip
+fastest flows
+limited congestion
+flight size
+fraction flow
+sf i
+receiver limited
+internet flow
+limited flows
+for between
+of internet
+tcp connections
+congestion window
+access links
+traces and
+a rate
+link bandwidth
+fraction of
+traces the
+limited by
+the connection
+accurate within
+connections as
+window sizes
+of packets
+size and
+di erent
+advertised window
+in flight
+transmit data
+traces we
+of flights
+nagle algorithm
+rtt we
+inter packet
+flows transmit
+rat to
+periodic determinations
+consecutive flights
+background load
+regional2 figure
+flight f
+flights f
+regional1b regional2
+regional1a regional1b
+other flow
+rat was
+and acknowledgment
+bytes transferred
+100 msec
+peering1 regional1a
+data stream
+consistent with
+the connections
+identified the
+packet level
+trip time
+and receiver
+first packet
+correctly identified
+review v
+computer communication
+communication review
+sigcomm computer
+flow size
+limited application
+as bandwidth
+packet trace
+limited a
+flow characteristics
+rate distribution
+s transitions
+a flight
+duration and
+for over
+rates and
+the trace
+rate and
+limited in
+the 8
+the correlations
+accounted for
+per flow
+for flows
+sender s
+the flows
+account for
+90 of
+delayed ac
+connections were
+into flights
+trace contains
+flow sizes
+deemed the
+4 flights
+q plot
+limited tra
+rate analyzer
+limited receiver
+the nagle
+single direction
+window limits
+limited transport
+each rate
+flow level
+flows bytes
+flow statistics
+between rate
+8 traces
+limited when
+limiting behaviors
+network limits
+packets into
+side estimation
+connection sizes
+complementary distribution
+rat works
+mbyte file
+total bytes
+mss sized
+limit determination
+ac knowledgments
+distribution of
+measurement october
+tool was
+and host
+each trace
+receiver window limited
+of the bytes
+the rate limiting
+rate limiting factor
+the bottleneck link
+a flow is
+size and rate
+size and duration
+sender window limited
+rate limiting factors
+of flow rates
+packets at the
+distribution of flow
+for each connection
+between size and
+correlation between size
+without delayed acknowledgments
+fraction of bytes
+and without delayed
+flows account for
+8 packet traces
+rate limiting behavior
+host window limited
+flow rates and
+the rtt estimation
+limited congestion limited
+cumulative fraction flow
+of successive flights
+the acknowledgment stream
+of a connection
+of the traces
+data packets at
+accurate within a
+in the internet
+flights f i
+limited application limited
+packet traces we
+set of flights
+as bandwidth limited
+rate and duration
+t rat to
+peering1 regional1a regional1b
+of t rat
+internet flow rates
+s transitions to
+and acknowledgment packets
+a rate limiting
+regional1a regional1b regional2
+correctly identified the
+when the trace
+limited a flow
+the packet traces
+packet traces and
+round trip time
+the first packet
+computer communication review
+sigcomm computer communication
+communication review v
+acm sigcomm computer
+with and without
+the sender s
+tra c is
+of the flows
+number of packets
+of the periodic
+tra c in
+within a factor
+the tool was
+of the rates
+internet measurement october
+the flight size
+flows transmit data
+flow rates in
+summary flow data
+packets into flights
+the receiver window
+make a rate
+complementary distribution of
+the total bytes
+correlation between rate
+in each trace
+application limited tra
+delayed ac knowledgments
+rate limit determination
+by t rat
+the trace contains
+the 8 traces
+and host window
+the flight sizes
+acknowledgment packets at
+t rat works
+regional1b regional2 figure
+window limited the
+percentage of bytes
+limited tra c
+the 4 flights
+each rate limiting
+the periodic determinations
+a candidate rtt
+q q plot
+of 2 packets
+the connections as
+the 8 packet
+as receiver window
+limited transport limited
+flow is considered
+a rate limit
+and receiver window
+between rate and
+t rat was
+the nagle algorithm
+rate limiting behaviors
+and summary flow
+a single direction
+the distribution of
+of the rate
+on internet measurement
+the data stream
+of the 4
+of the connections
+the link bandwidth
+sender and receiver
+factor of 1
+the congestion window
+for a candidate
+the transport layer
+direction of a
+of the rtt
+the correlation between
+number of flows
+90 of the
+at the sender
+of the link
+are consistent with
+review v 36
+congestion limited transport
+fast flows are
+window limited using
+the bytes in
+t rat deemed
+limited receiver limited
+mss sized packets
+by rate limiting
+limited the sender
+sequence number seen
+million 1 in
+receiver limited figure
+bandwidth limited if
+limited flows have
+bytes flows bytes
+flows limited by
+the largest sequence
+both directions of
+data and acknowledgment
+rat deemed the
+jan 3 2002
+the flows in
+flows bytes flows
+traces and summary
+fraction of flows
+duration and rate
+as highly skewed
+with congestion avoidance
+largest sequence number
+t rat we
+in 256 no
+sender s window
+most flows are
+highly skewed as
+dominant rate limiting
+summary flow level
+the advertised window
+and duration and
+sizes of 2
+experience any loss
+for flows lasting
+flows lasting longer
+big and fast
+rat correctly identified
+application limited congestion
+consistent with slow
+other flow characteristics
+flow s transmission
+a log normal
+transitions to un
+s transmission rate
+the dominant rate
+flow level statistics
+with slow start
+lasting longer than
+limited behavior was
+the inter packet
+host sndr rcvr
+can not reject
+limited if it
+rates of flows
+transport limited receiver
+rate and size
+of internet flow
+background tra c

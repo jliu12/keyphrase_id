@@ -1,0 +1,600 @@
+router
+lsu
+star
+lora
+routing
+link
+dsr
+lsus
+routers
+destinations
+packets
+neighbor
+ora
+topology
+alp
+links
+neighbors
+wireless
+destination
+protocols
+protocol
+update
+newst
+demand
+message
+radio
+unreachable
+tree
+packet
+st
+hoc
+connectivity
+source
+pause
+broadcast
+ad
+hops
+wirp
+driven
+mac
+flows
+paths
+1800
+updates
+tos
+networks
+bandwidth
+seconds
+tob
+pkts
+successor
+messages
+900
+optimum
+reporting
+mobile
+network
+untethered
+layer
+trees
+send
+sn
+failure
+flood
+flooding
+wrp
+simulated
+shortest
+hop
+sent
+head
+permanent
+suc
+erased
+preferred
+relay
+failed
+node
+reports
+date
+infinity
+subtree
+msg
+spf
+cbr
+sends
+failures
+overhead
+quiet
+pred
+nodes
+originated
+traffic
+battery
+dsdv
+disseminating
+scenarios
+dissemination
+sources
+delivered
+clustering
+simulation
+reach
+broadcasting
+multihop
+neighbordown
+sendst
+oldst
+fprp
+cpt
+updateneighbortree
+loops
+transmission
+outperform
+reported
+ospf
+sending
+transmitted
+exchanged
+clusters
+incur
+collision
+darpa
+periodic
+arrowheads
+loop
+polling
+route
+distance
+path
+periodically
+scenario
+del
+tables
+routes
+aggregation
+hierarchical
+ns2
+destina
+detects
+incurs
+triggers
+fails
+reliable
+mse
+tg
+accordingly
+deletion
+looping
+adjacent
+aging
+flooded
+promiscuous
+sec
+else
+aodv
+incident
+updated
+filled
+polls
+internet
+mobility
+moving
+propagate
+heard
+sequenced
+poll
+ssa
+delete
+deleted
+proposals
+life
+broadcasts
+conserve
+listen
+ascertain
+adhere
+adaptive
+received
+workload
+identifier
+prior
+running
+metric
+traversed
+inserted
+dijkstra
+hierarchically
+reset
+802
+specifying
+connecting
+null
+wired
+interference
+receives
+deviate
+cluster
+neighborup
+affiliations
+source tree
+update message
+a router
+routing protocols
+link state
+the router
+demand routing
+the link
+table driven
+an lsu
+source trees
+routing protocol
+topology graph
+st i
+on demand
+an update
+update messages
+the lsu
+lora 3
+in star
+update packets
+driven routing
+a link
+router s
+its neighbors
+its source
+the topology
+router i
+of lora
+packet radio
+a neighbor
+finite time
+routers running
+the source
+the network
+that star
+wireless networks
+running star
+tree st
+new source
+the routers
+simulated time
+star and
+data packets
+the links
+ad hoc
+neighbor protocol
+new successor
+s source
+of link
+star is
+link layer
+hoc networks
+state information
+900 seconds
+preferred paths
+topology broadcast
+of simulated
+lsus for
+lsu for
+of update
+link connectivity
+link u
+head node
+the routing
+to destinations
+link in
+paths to
+topology graphs
+adjacent links
+1800 seconds
+of star
+the failure
+seconds of
+send an
+link is
+d e
+distance vector
+f d
+router to
+lora and
+moving during
+alp and
+failure of
+routing table
+a destination
+hierarchical routing
+u v
+pause time
+path to
+sequence number
+radio networks
+neighbor k
+time after
+c f
+the neighbor
+the destinations
+each router
+star s
+becomes unreachable
+infinite cost
+efficient than
+in link
+during 900
+flood search
+during 1800
+star can
+under lora
+lsus in
+f description
+of hops
+reported by
+shortest path
+each link
+routing approach
+all routers
+destinations to
+the head
+simulation experiments
+failed link
+link cost
+to send
+because star
+ora and
+a finite
+changes to
+in st
+router that
+to j
+packets sec
+router must
+packets than
+bandwidth efficient
+third part
+state routing
+to date
+erased from
+the simulation
+f else
+a c
+t 0
+reporting the
+neighbors the
+router sends
+star dsr
+prior table
+data pkts
+star alp
+and alp
+ora is
+cost infinity
+of lsus
+protocol reports
+lsu reporting
+destination j
+routers must
+trees reported
+to reach
+the neighbors
+links that
+radio network
+and dsr
+protocols 4
+after t
+the path
+the destination
+packets generated
+tree of
+f f
+in wireless
+new destination
+routing tables
+routing in
+wireless network
+unreachable destinations
+routing loop
+than dsr
+link f
+nodes moving
+least overhead
+destination v
+l sn
+star to
+darpa packet
+network topology
+b e
+for ad
+destination and
+control traffic
+link d
+current source
+to star
+node wireless
+new neighbor
+dsr for
+mac protocol
+links in
+its preferred
+with filled
+routing loops
+an update message
+on demand routing
+demand routing protocols
+the source tree
+its source tree
+table driven routing
+new source tree
+a finite time
+the topology graph
+link state information
+the source trees
+s source tree
+within a finite
+of the link
+f d e
+c f d
+seconds of simulated
+of simulated time
+a c f
+source tree of
+finite time after
+driven routing protocol
+of a link
+tree st i
+part of lora
+of lora 3
+the link layer
+send an update
+router s source
+source tree st
+ad hoc networks
+if the link
+the failure of
+of update packets
+link u v
+to its neighbors
+routers running star
+a table driven
+the router s
+the head node
+in the network
+number of update
+of data packets
+packet radio networks
+time after t
+in link connectivity
+source tree and
+in st i
+source tree that
+failure of link
+the routing protocol
+the link is
+for each link
+update message is
+to send an
+after t 0
+changes in link
+to its source
+number of hops
+all the links
+driven routing protocols
+that star is
+during 1800 seconds
+the new successor
+during 900 seconds
+show that star
+source tree to
+an lsu for
+star and dsr
+routing protocols 4
+1800 seconds of
+900 seconds of
+the new source
+in the topology
+in wireless networks
+links that are
+of the router
+third part of
+u v l
+a router i
+from the topology
+packet radio network
+erased from the
+the third part
+link state routing
+routing protocol for
+the update message
+its neighbors the
+the links in
+a new destination
+f f else
+driven and on
+neighbor protocol reports
+current source tree
+more bandwidth efficient
+star can be
+table driven and
+for nodes moving
+their source trees
+prior table driven
+source trees reported
+source tree is
+st i x
+nodes moving during
+according to star
+bandwidth efficient than
+link d g
+topology graph of
+an infinite cost
+used in star
+v l sn
+performance of star
+when a router
+the neighbor protocol
+trees reported by
+of a router
+a link in
+link in the
+f for each
+the cost of
+the sequence number
+for wireless networks
+to a destination
+in the source
+for ad hoc
+and on demand
+node wireless network
+head node of
+each link u
+its topology graph
+darpa packet radio
+by its neighbors
+a source tree
+routing protocol that
+adjacent links and
+the darpa packet
+of link c
+more efficient than
+used to reach
+of update messages
+for packet radio
+a link u
+paths to all
+the current source
+to all destinations
+been shown to
+the dissemination of
+data packets delivered
+demand routing protocol
+a router to
+ad hoc network
+at the routers
+the router to
+the link state
+a router that
+to the neighbors
+the links that
+proposed to date
+number of link
+the network topology
+path from s
+has been shown
+cost of the
+is the head
+are optimum with
+source tree newst
+dsr which has
+a router running
+performing on demand
+in their source
+based on lora
+routing protocol of
+path information for
+moving during 1800
+moving during 900
+optimum with respect
+in its preferred
+forced to send
+lsu has a
+star based on
+tree of node
+k f description
+different pause times
+lora and ora
+the router sends
+lsu for link
+update message reporting
+best performing on
+the topology graphs
+b e infinity
+neighbor k f
+processing the failure
+new successor towards
+of star and
+alp and tob
+term routing loops
+a destination j
+provide paths that
+path to j
+that are optimum

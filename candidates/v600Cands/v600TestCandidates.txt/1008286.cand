@@ -1,0 +1,600 @@
+dc
+gb
+des
+leak
+ltl
+tts
+gas
+chop
+dpe
+transition
+duration
+trajectory
+burner
+timed
+hmp94
+burn
+ignition
+ae
+transitions
+formulas
+axiom
+temporal
+oe
+flame
+premises
+logic
+invariance
+trajectories
+tltl
+zhr91
+ignite2
+rrh93
+req
+refinement
+tla
+stuttering
+untimed
+lam93
+ignite1
+goidle
+sigma
+axioms
+ht
+formula
+durations
+action
+primed
+pe
+pi
+predicate
+actions
+lam94
+interval
+reactive
+units
+modality
+def
+sound
+iff
+separation
+linking
+induction
+purge
+verification
+calculus
+specification
+specifications
+modalities
+idle
+fqg
+reals
+asserts
+position
+positions
+al92
+zh96a
+dqe
+consecution
+lrl98
+mp92
+mp81
+recapitulates
+ttss
+timing
+heat
+dense
+deduced
+bounded
+structural
+premise
+validity
+diligent
+css
+yardstick
+al91
+rules
+semantics
+ss
+satisfaction
+frameworks
+neighbourhoods
+liveness
+methodologies
+corollary
+suffix
+satisfies
+style
+connectives
+responsiveness
+sequencing
+fairness
+variability
+fpg
+lasts
+reasoned
+overlapping
+proving
+elementary
+rule
+valid
+modelling
+occurrence
+modelled
+correctness
+initiation
+disciplines
+operators
+reasoning
+2p
+ni
+response
+predicates
+denotational
+enters
+stopped
+stand
+inductive
+enabled
+provable
+satisfied
+behaviour
+entered
+compositional
+safety
+meaning
+koy89
+hz97
+ors96
+rehr98
+dre
+fpgt
+lrl97
+intv
+liu96
+flon
+zh96b
+rav95
+manna
+lam77
+xu97
+unlit
+ah90
+dimensionaldomain
+traj
+durational
+fld
+instanta
+consolidation
+pnu77
+ad90
+fae
+ph88
+reoccur
+heaton
+seconds
+clocks
+automaton
+specifying
+link
+linked
+refined
+observable
+stable
+abstract
+progress
+critical
+soundness
+safeness
+kel76
+chopped
+neously
+pnueli
+valve
+culus
+operational
+rigid
+saying
+singleton
+refine
+hybrid
+gb 1
+transition system
+trajectory ae
+timed transition
+gb 2
+a trajectory
+transition systems
+of gb
+the gas
+system gb
+gas burner
+position p
+minimal separation
+in dc
+time units
+in hmp94
+duration calculus
+ae over
+the chop
+state variables
+real time
+s sound
+bounded response
+bounded invariance
+temporal logic
+a state
+state predicate
+linear temporal
+r r
+temporal formula
+state transitions
+the premises
+invariance property
+temporal formulas
+time point
+of des
+d pe
+within e
+des 2
+chop operator
+and ltl
+bounded unless
+duration formula
+induction rules
+time domain
+the timed
+time systems
+in gb
+an action
+of state
+the dc
+s valid
+a tts
+bounded progress
+chop modality
+leak in
+of leak
+a dc
+des 1
+dc this
+bounded critical
+gb 3
+tts framework
+des des
+interval logic
+critical duration
+original dc
+the tts
+a duration
+structural induction
+at position
+over sigma
+the logic
+a transition
+an implementation
+reactive systems
+and verification
+a temporal
+r true
+an interval
+a bounded
+holds at
+least l
+rules for
+specification and
+verification of
+p holds
+satisfied by
+system s
+r 0
+of states
+properties and
+action formulas
+of trajectories
+duration formulas
+for durations
+finite variability
+dpe is
+untimed transition
+let leak
+for gb
+duration properties
+in rrh93
+combined logic
+ltl style
+hold iff
+property d
+dc framework
+req of
+separation property
+heat request
+position ht
+in zhr91
+duration terms
+3 ss
+leak 2
+style specification
+leak 1
+the conclusion
+by ae
+ae 1
+trajectories and
+dc to
+primed variables
+induction rule
+dc for
+to dc
+p state
+and leak
+formula f
+meaning of
+proof system
+taken at
+dynamic systems
+asserts that
+rule 3
+timing constraints
+dc and
+any trajectory
+dc is
+for bounded
+requirement and
+oe is
+validity of
+oe 0
+and bounded
+for at
+remain valid
+true over
+state predicates
+a timed
+state sequence
+any state
+time bound
+the temporal
+first order
+r x
+high level
+satisfies the
+stable for
+embedded real
+d time
+predicate over
+invariance properties
+axioms and
+of positions
+the semantics
+state transition
+predicate p
+p is
+and reasoning
+is satisfied
+invariance and
+of duration
+a position
+the meaning
+the structural
+logic is
+p should
+ae and
+semantics of
+logic of
+the transition
+d e
+formulas we
+of actions
+of time
+position m
+s validity
+super dense
+flame failure
+sound rules
+observation over
+x dpe
+the burn
+axiom 8
+premise in
+explicit clocks
+interval b
+axiom 6
+a trajectory ae
+transition system gb
+timed transition system
+the gas burner
+r r r
+at position p
+of gb 1
+a temporal formula
+a transition system
+timed transition systems
+the timed transition
+system gb 2
+real time systems
+a state predicate
+linear temporal logic
+taken at position
+transition system s
+the chop modality
+in gb 1
+leak in gb
+state predicate p
+property of gb
+rules for bounded
+the original dc
+bounded critical duration
+of the gas
+ae 1 p
+the structural induction
+is satisfied by
+is a temporal
+a time point
+the logic is
+at least l
+oe is a
+specification and verification
+temporal logic of
+of state transitions
+and verification of
+trajectory ae over
+the chop operator
+untimed transition systems
+a duration formula
+refinement of gb
+system gb 1
+position p 2
+d time units
+of a duration
+the finite variability
+true over a
+for gb 1
+is s valid
+by a trajectory
+oe oe 0
+by ae over
+for a trajectory
+requirement and design
+2 r 0
+of gb 2
+in dc this
+a minimal separation
+minimal separation property
+satisfied by ae
+gb 2 has
+stable for at
+dc and ltl
+the tts framework
+for at least
+a state transition
+of the conclusion
+axioms and rules
+holds at the
+p holds at
+a p state
+a timed transition
+of a transition
+set of state
+is true over
+the transition system
+the meaning of
+validity of the
+is taken at
+state variables and
+of real time
+the time domain
+embedded real time
+time systems the
+2 has the
+an invariant of
+formula f is
+and high level
+the temporal logic
+a real time
+the semantics of
+can be proved
+an occurrence of
+the correctness of
+is any state
+reflects the engineering
+can establish by
+for the gas
+the combined logic
+a special action
+r true holds
+bounded response property
+interval b e
+bounded response properties
+until p has
+if r d
+oe 0 it
+engineering disciplines of
+structural induction rules
+as a dc
+temporal formula and
+holds and r
+by 3 ss
+prove a bounded
+gas burner example
+premise in the
+units since the
+corollary 2 and
+des des des
+reasoned about in
+within e time
+any trajectory ae
+req of the
+a bounded invariance
+the yardstick properties
+any state predicate
+hold until p
+the requirement req
+conventional dynamic systems
+temporal formula it
+abstract liveness and
+over an observation
+bounded invariance property
+of leak in
+e holds and
+ae and an
+the premise in
+proofs of des
+dpe d pe
+and leak 2
+bounded invariance properties
+the interval logic
+section 4 satisfies
+transition system consists
+still s sound
+system gb 3
+simple error recovery
+for timed transition
+convention that the
+f is s
+their values for
+chop operator is
+ae over sigma
+real time point
+timed linear temporal
+and design specifications
+property is of
+since the change
+ae over an
+the burn phase
+position p there
+critical duration property
+deduced from corollary
+for a position
+hold iff phase
+occurrence of q
+gb 1 of
+a semantics and
+an observation if
+a dc formula
+3 ss with
+ltl style specification
+liveness and fairness
+bounded invariance and
+c time units
+s validity of
+e 1 property
+d e holds
+2 property of
+a non overlapping
+of the premises
+value from r
+underlying transition system
+dense chop operator
+this time domain
+from dc and
+for bounded progress
+than c time
+property asserts that
+trajectory over sigma
+cannot hold until
+least l time
+observation over an
+minimal separation is
+for bounded unless
+a step is
+s sound rules
+des 1 is

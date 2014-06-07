@@ -1,0 +1,600 @@
+capacitance
+vdd
+cdfg
+switched
+scalp
+clock
+csteps
+voltage
+period
+consumption
+module
+behavioral
+adder
+laxity
+synthesis
+power
+dct
+functional
+resource
+moves
+supply
+sharing
+fu
+multiplier
+ripple
+scheduling
+template
+sample
+clk2
+slack
+slacks
+5v
+controller
+circuits
+dp
+voltages
+55ns
+synthesized
+schedule
+selection
+chained
+clk
+clk1
+rrdelay
+200ns
+vmin
+30ns
+cur
+pruned
+delay
+ratios
+library
+area
+units
+jha
+automation
+cap
+lakshminarayana
+gate
+niraj
+move
+iterative
+chaining
+optimized
+carry
+templates
+pipelined
+tasks
+todaes
+allocation
+iirfilter
+tclk1
+irsim
+pruning
+periods
+prune
+candidate
+scaling
+wdf
+constraint
+upto
+netlist
+sarrafzadeh
+40ns
+multicycling
+gain
+explore
+resistances
+register
+op
+datapath
+kbit
+layout
+cmos
+dissipation
+paulin
+architectural
+tradeoffs
+wallace
+netlists
+vlsi
+assignment
+cl
+synthesize
+ts
+capacitances
+transformations
+affects
+improvement
+microarchitectural
+path
+raghunathan
+additions
+multiplication
+multiplications
+switching
+dot
+ganesh
+elliptic
+multiplexers
+unit
+samples
+curves
+pipelining
+replication
+hwang
+electronic
+digital
+plate
+folding
+rtl
+activity
+anand
+architectures
+sw
+lookahead
+allen
+reducepower
+pacitance
+pmyampersandtimes
+165ns
+out13530ns
+theterm
+6pf
+tclk
+seda
+sequencethat
+discussionsin
+helms
+becomes200ns
+sequencesthat
+9pf
+1286ns
+decreasingvdd
+capacitancetradeoff
+23303pj
+minimizingswitched
+shalash
+octtools
+beneficialeven
+crenshaw
+technologyand
+px64
+25ns
+escapefrom
+2912
+kursun
+consumptionwas
+movewe
+beadded
+tsample
+ogrenci
+daehong
+benchmarksfrom
+optimizingpowerusing
+interdependenceamong
+gaink
+capacitancematrices
+180ns
+suchsequencecanbe
+dcts
+25920
+meet
+dotted
+switch
+enable
+refers
+descriptions
+layouts
+cosine
+chemical
+dist
+enabling
+1997
+dominated
+faster
+vth
+dependenciesbetween
+sincewe
+cif
+switched capacitance
+data path
+sample period
+the cdfg
+module selection
+clock period
+resource sharing
+the switched
+period constraint
+functional unit
+power consumption
+clock selection
+low power
+iterative improvement
+control steps
+re scheduling
+area ratios
+vdd scaling
+area optimized
+ratios s
+the clock
+of class
+s area
+supply voltage
+moves of
+behavioral synthesis
+s power
+power s
+functional units
+current vdd
+unit template
+laxity factor
+and area
+the sample
+carry adder
+clock periods
+fu 1
+ripple carry
+fu 2
+class b
+power and
+cur dp
+selection module
+of vdd
+library template
+vdd and
+by scalp
+supply voltages
+performed by
+controller data
+the delay
+class a
+t clk2
+selection clock
+unit templates
+capacitance matrices
+physical capacitance
+minimizing power
+template t
+and assignment
+capacitance in
+a power
+for low
+allocation and
+path synthesis
+control step
+cdfg shown
+synthesis tasks
+procedure iterative
+the supply
+switch level
+capacitance matrix
+unit fu
+input sample
+cdfg of
+op i
+array multiplier
+and switched
+delay of
+and clock
+input samples
+on design
+move of
+design automation
+perform resource
+area a
+the schedule
+the slack
+selection and
+by fu
+k jha
+and resource
+t clk1
+path replication
+rrdelay t
+optimized architectures
+selection scheduling
+faster functional
+scheduling moves
+optimized circuits
+power a
+voltage and
+a move
+explore the
+these tasks
+reduce power
+capacitance per
+example cdfg
+cdfg and
+cdfg to
+data dominated
+candidate supply
+and csteps
+design space
+each functional
+the controller
+power vlsi
+voltages and
+candidate clock
+other moves
+operations that
+that perform
+each operation
+average switching
+power power
+the library
+the power
+scheduling module
+period was
+the laxity
+architectural power
+pipelined multiplier
+of control
+the functional
+the behavioral
+behavioral descriptions
+or resource
+niraj k
+improvement algorithm
+vector pair
+moves that
+two functional
+level synthesis
+todaes v
+systems todaes
+8 point
+selection or
+electronic systems
+power analysis
+level simulator
+a clock
+chosen based
+power than
+the module
+synthesis of
+automation of
+period is
+architectural transformations
+dominated behavioral
+best dp
+laxity factors
+dimensional 8
+gain list
+slacks can
+using switched
+is 55ns
+h wu
+vdd can
+estimate min
+schedule assignment
+min voltage
+see curves
+l cur
+and capacitances
+lower switched
+higher switched
+both vdd
+minimum switched
+curves marked
+lowest switched
+l rrdelay
+adder carry
+reduce vdd
+consumption 2
+type ripple
+scheduling affects
+hardware allocation
+allen c
+continue move
+t clk
+cdfg thus
+delay operators
+capacitance data
+prune g
+csteps csteps
+enabling re
+called scalp
+combined controller
+of ripple
+sharing moves
+the sample period
+the switched capacitance
+sample period constraint
+moves of class
+and area ratios
+power and area
+the data path
+area ratios s
+the clock period
+a power s
+of class b
+of class a
+in the cdfg
+of the cdfg
+functional unit template
+allocation and assignment
+the current vdd
+ripple carry adder
+for low power
+of control steps
+a data path
+s area a
+move of class
+selection module selection
+ratios s area
+module selection and
+switched capacitance in
+controller data path
+the delay of
+the supply voltage
+performed by fu
+power s power
+procedure iterative improvement
+functional unit templates
+area a power
+selection and resource
+s power a
+switched capacitance matrix
+clock selection module
+class b that
+power a power
+period constraint is
+behavioral synthesis tasks
+switched capacitance matrices
+selection clock selection
+data path synthesis
+functional unit fu
+cdfg shown in
+the module selection
+minimizing power consumption
+the cdfg of
+clock period is
+a move of
+on design automation
+number of control
+to reduce power
+the laxity factor
+constraint is just
+module selection or
+switched capacitance per
+perform resource sharing
+that perform resource
+and resource sharing
+ratios s power
+candidate clock periods
+area optimized circuits
+selection or resource
+vdd and csteps
+clock selection scheduling
+and switched capacitance
+faster functional units
+explore the tradeoffs
+power s area
+power power and
+re scheduling moves
+module selection clock
+data path replication
+the physical capacitance
+switch level simulator
+by fu 1
+reduce power consumption
+in the data
+each operation in
+each functional unit
+are performed by
+input vector pair
+scheduling module selection
+supply voltages and
+a switch level
+data path that
+candidate supply voltages
+digital signal and
+cdfg of figure
+the controller data
+of minimizing power
+low power vlsi
+capacitance in the
+in the library
+for the cdfg
+supply voltage and
+iterative improvement algorithm
+two functional units
+an iterative improvement
+functional units that
+a clock period
+signal and image
+for each functional
+high level synthesis
+niraj k jha
+the behavioral synthesis
+electronic systems todaes
+systems todaes v
+design automation of
+automation of electronic
+of electronic systems
+transactions on design
+chosen based on
+operation in the
+power consumption in
+move on to
+the power consumption
+the functional unit
+processing each input
+enabling re scheduling
+to different functional
+satisfies the sample
+cdfg which is
+s power power
+procedure sw cap
+circuits synthesized by
+synthesized by scalp
+allen c h
+continue move on
+annotated with resistances
+curves marked s
+of vdd and
+the lowest switched
+a switched capacitance
+estimate min voltage
+2 module selection
+unit template t
+scalp see curves
+and clock periods
+selection scheduling and
+l rrdelay t
+optimized circuits that
+each input sample
+40ns a b
+voltages and clock
+modified data path
+by functional unit
+scalp is a
+unit instances of
+given sample period
+higher switched capacitance
+on to next
+area optimized architecture
+at t clk2
+the delay degradation
+changed to 30ns
+switched capacitance when
+other moves that
+a re scheduling
+lowest switched capacitance
+of the tem
+fu 1 and
+clock period was
+or resource sharing
+the cdfg to
+combined controller data
+meet the sample
+multiplier whereas all
+one dimensional 8
+e the sample
+all additions are
+of ripple carry
+by scalp see
+is just met
+with re scheduling
+path as indicated
+capacitance matrix is
+type ripple carry
+sharing moves of
+low power applications
+resource sharing moves
+data path at
+c h wu
+minimum switched capacitance
+clock period would
+control steps to
+hwang allen c
+on the possibilities
+kbit s video
+times less power
+dimensional 8 point
+delay of fu
+for moves of
+functional unit instances
+complete data path
+the cdfg and

@@ -1,0 +1,600 @@
+bu
+flows
+tcp
+router
+er
+ers
+packets
+lived
+congestion
+rtt
+window
+routers
+ns2
+tra
+queue
+link
+ering
+backbone
+pkts
+flow
+packet
+bursts
+utilization
+thumb
+sawtooth
+afct
+wmax
+burst
+sizing
+sender
+bottleneck
+synchronized
+gsr
+outstanding
+bandwidth
+linecard
+overbu
+12410
+dram
+ect
+sigcomm
+ered
+short
+internet
+10gb
+sawtooths
+pauses
+trip
+cisco
+mb
+avoidance
+slow
+buffer
+erent
+throughput
+queueing
+di
+250ms
+oc3
+desynchronized
+delay
+simulations
+buffers
+fifo
+doesn
+today
+links
+synchronization
+occupancy
+aggregate
+persuade
+dynamics
+busy
+sram
+underutilized
+5gb
+networking
+nick
+simulation
+40gb
+2tp
+mckeown
+windows
+acks
+mix
+99
+dropped
+bw
+drop
+arrivals
+evolution
+tail
+predicts
+leith
+mtu
+util
+sommers
+barford
+200
+poisson
+completion
+erence
+attacks
+latency
+congested
+000
+round
+reno
+goodput
+job
+measurements
+ll
+fairness
+chips
+pareto
+trough
+modem
+dos
+senders
+network
+sending
+red
+arrive
+drops
+lengths
+mixes
+manufacturers
+lose
+bytes
+sure
+ected
+capacity
+speeds
+chip
+ack
+underflow
+steadily
+provisioning
+pause
+halved
+10500
+ansnet
+yashar
+155mb
+25ms
+villamizar
+drains
+underflows
+linecards
+ganjali
+5gbits
+propagation
+shorten
+rate
+goes
+net
+cult
+pins
+timeouts
+devices
+halves
+load
+500
+duffield
+aimd
+rtts
+drams
+joel
+commercial
+exp
+1500
+carrying
+400
+fill
+review
+cascades
+rfc
+11000
+lockstep
+outdated
+card
+networks
+ram
+gateways
+amos
+asics
+gsm
+mbit
+topology
+aggregated
+complicates
+loss
+ton
+telecommunications
+idle
+argue
+board
+oscillating
+multiplexed
+tailed
+bu er
+the bu
+bu ers
+er size
+of flows
+window size
+long flows
+tcp flows
+short flows
+router bu
+the router
+long lived
+bottleneck link
+of bu
+lived flows
+rtt c
+queue length
+of tcp
+bu ering
+tra c
+tcp flow
+of thumb
+the sender
+the queue
+access links
+short lived
+flows and
+slow start
+mb s
+the window
+flows are
+rule of
+a router
+flows the
+congestion control
+er is
+a bu
+the link
+the bottleneck
+the flows
+lived tcp
+er requirements
+flow completion
+goes empty
+flows we
+congestion window
+many flows
+congestion avoidance
+of long
+m g
+e ect
+wmax 2
+of congestion
+flows in
+cisco gsr
+required bu
+bu ered
+gsr 12410
+smaller bu
+pkts figure
+the congestion
+minimum required
+computer communication
+acm sigcomm
+communication review
+sigcomm computer
+round trip
+backbone routers
+s link
+router with
+outstanding packets
+the rule
+the bandwidth
+di erent
+dynamics of
+the dynamics
+flows as
+of rtt
+queueing delay
+a bottleneck
+10gb s
+sizing the
+thumb comes
+short flow
+internet routers
+backbone router
+ns2 simulations
+flow lengths
+congestion windows
+000 flows
+ers in
+queue pkts
+aggregate window
+link utilization
+review v
+average queue
+the tcp
+packet loss
+simulation and
+control algorithm
+the short
+single flow
+single tcp
+a congestion
+and experiments
+doesn t
+1 model
+a tcp
+tcp s
+our model
+trip time
+go empty
+large bu
+with bu
+delay bandwidth
+rtt bw
+the afct
+flow length
+queue occupancy
+ns2 and
+using ns2
+ers of
+ers are
+overbu ering
+to persuade
+lose throughput
+phase synchronization
+12410 router
+concurrent flows
+er to
+small bu
+packets outstanding
+5gb s
+routers with
+ect on
+we ll
+the flow
+evolution of
+g 1
+a flow
+window sizes
+the average
+link the
+model predicts
+and so
+2 5gb
+in backbone
+ns2 simulation
+never goes
+bandwidth product
+not synchronized
+flows with
+the utilization
+graph shows
+size is
+network tra
+sending rate
+synchronized and
+length distribution
+1 queue
+avoidance mode
+average flow
+flows is
+access link
+backbone networks
+net work
+a burst
+in phase
+a backbone
+all flows
+our results
+of short
+rate c
+completion time
+link is
+utilization and
+n shorten
+sender pauses
+required buffer
+backbone links
+lived flow
+infinite bu
+non tcp
+a 10gb
+bottleneck router
+s queue
+er will
+ering needed
+er never
+core router
+nick mckeown
+the sawtooth
+40gb s
+packet bu
+router design
+over bu
+physical router
+router linecard
+internet backbone
+200 mb
+the bu er
+bu er size
+number of flows
+rule of thumb
+of bu ering
+the bottleneck link
+router bu er
+long lived flows
+the rule of
+the window size
+bu er is
+amount of bu
+router bu ers
+number of long
+m g 1
+a bu er
+lived tcp flows
+the bu ers
+bu er requirements
+the queue length
+long lived tcp
+short lived flows
+the router bu
+computer communication review
+sigcomm computer communication
+communication review v
+acm sigcomm computer
+required bu er
+of long lived
+of rtt c
+that the bu
+congestion control algorithm
+a tcp flow
+the dynamics of
+a bottleneck link
+average queue length
+bu ers in
+smaller bu ers
+of thumb comes
+queue pkts figure
+thumb comes from
+g 1 model
+dynamics of tcp
+simulations and experiments
+of the flows
+of the router
+round trip time
+e ect on
+sizing the bu
+delay bandwidth product
+the short flows
+flow completion time
+with many flows
+flows we will
+large bu ers
+a backbone router
+the delay bandwidth
+aggregate window size
+in backbone routers
+er size is
+the flows are
+cisco gsr 12410
+single tcp flow
+small bu ers
+never goes empty
+the aggregate window
+a congestion control
+minimum required bu
+observations on the
+er size we
+bu er to
+of a congestion
+rtt c n
+of the bu
+the long flows
+point of congestion
+average flow completion
+bu ers of
+gsr 12410 router
+2 5gb s
+bu ers are
+on the dynamics
+a single flow
+a single tcp
+g 1 queue
+of flows and
+the link and
+graph shows the
+the congestion window
+the model predicts
+congestion avoidance mode
+the average queue
+dynamics of a
+single point of
+of the queue
+evolution of the
+of the link
+review v 36
+the number of
+the flow length
+at the bottleneck
+in a backbone
+short flows in
+the time evolution
+flow completion times
+length distribution is
+an e ect
+congestion control algorithms
+and 200 mb
+the sender pauses
+200 mb s
+network of real
+flows in practice
+bu er will
+80 and 200
+of the sawtooth
+with a bu
+bu er never
+wmax 2 packets
+single long lived
+for short flows
+if the bu
+long flows as
+bu ering needed
+tcp flow through
+are not synchronized
+at rate c
+a 10gb s
+of long flows
+model predicts the
+a cisco gsr
+infinite bu ers
+10 000 flows
+with bu ers
+minimum required buffer
+time evolution of
+bu ers for
+through a bottleneck
+of bu er
+trough of the
+short and long
+an m g
+of tcp s
+and the bu
+to make sure
+review v 35
+in an m
+of network tra
+bu er of
+while the sender
+of the congestion
+of tcp flows
+average congestion window
+the minimum required
+bottleneck link the
+s congestion control
+40 80 and
+the sender has
+through a router
+and the sender
+of flows the
+the average flow
+of short and
+in slow start
+the line rate
+tcp s congestion
+its window size
+of flows we
+and so the
+window size and
+window size in
+bandwidth delay product
+where the rule
+network tra c
+topology in figure
+completion times for
+a single point
+the amount of
+probability distribution of
+it only depends
+size we can
+on the load
+random early detection
+slow start and
+the first packet
+number of outstanding
+of the sum
+v 36 n
+is to make
+a small multiple
+q t is
+that the queue
+standard deviation of
+that the rule
+networking v 51
+window size is
+a mix of
+v 35 n
+the standard deviation
+the probability distribution

@@ -1,0 +1,600 @@
+broadcast
+uplink
+periodic
+ahb
+requests
+items
+item
+bandwidth
+server
+tc
+deadlines
+edf
+demanded
+channel
+workload
+deadline
+periodically
+demand
+missed
+adaptive
+scheduled
+overload
+broadcasting
+cycle
+bod
+workloads
+hybrid
+asymmetric
+batching
+batch
+bw
+request
+saturation
+clients
+downlink
+zipf
+scheduling
+users
+dissemination
+client
+profiles
+transmission
+zipftian
+capacity
+frequency
+mode
+schedule
+static
+bidirectional
+disks
+priority
+pull
+cooling
+environments
+frequencies
+adaptation
+program
+pages
+pinwheel
+population
+critical
+demands
+percentage
+receive
+received
+congested
+heavily
+period
+pfair
+threshold
+sampling
+unsatisfied
+unlimited
+push
+fountain
+scalability
+fraction
+coming
+dynamically
+bd
+bad
+requested
+adapt
+access
+allocated
+issued
+ffl
+frequently
+uniform
+integrates
+satisfied
+200000
+knapsack
+broadcasts
+cutoff
+waste
+slot
+pseudodeadline
+proportionate
+aida
+600000
+index
+indexing
+fairness
+unit
+channels
+saving
+crossover
+prioritizes
+contending
+driver
+interleaved
+included
+slots
+policy
+becoming
+arriving
+400000
+800000
+saturated
+requirements
+sample
+timing
+mobile
+simulation
+air
+collisions
+minimize
+consequently
+reserved
+page
+wasting
+incorporating
+bulk
+popularity
+priorities
+estimated
+effectively
+trying
+predetermined
+calculate
+off
+accessed
+overwhelmed
+congestion
+communication
+listen
+tolerant
+dynamic
+decreased
+traffic
+offered
+suffers
+logn
+met
+decreases
+contention
+layout
+interval
+functionality
+strong
+contents
+queue
+moderate
+pure
+potential
+multiset
+status
+worse
+grows
+overhead
+protocols
+worst
+modes
+yes
+units
+occupies
+expects
+wasted
+worth
+situations
+devoted
+dy
+precomputed
+dummy
+unable
+equals
+allocation
+effective
+transmitted
+energy
+routes
+sent
+fault
+portray
+1000g
+f200
+lacuna
+suffering
+kee
+periodic broadcast
+broadcast program
+the periodic
+uplink channel
+tc ahb
+the server
+the uplink
+non adaptive
+on demand
+of requests
+demand broadcast
+time unit
+edf batch
+broadcast periodically
+deadlines missed
+of deadlines
+asymmetric communication
+requests scheduled
+of bandwidth
+access frequency
+broadcast cycle
+the item
+adaptive hybrid
+demanded items
+the bandwidth
+adaptive 1
+user access
+time critical
+the broadcast
+adaptive 2
+the items
+bw threshold
+items demanded
+access distribution
+that item
+per time
+broadcast mode
+critical asymmetric
+the workload
+requests received
+communication environments
+items are
+channel saturation
+hybrid broadcast
+actual user
+deadline constraints
+broadcast disks
+overload conditions
+the on
+workload is
+broadcast model
+broadcast models
+frequency distribution
+critical adaptive
+demanded time
+heavily demanded
+client profiles
+zipf distribution
+an item
+to broadcast
+be broadcast
+bandwidth requirements
+length cycle
+data broadcast
+level uniform
+the users
+20 items
+edf batching
+bandwidth assigned
+the tc
+workload items
+limited uplink
+communication environment
+strong overload
+broadcast and
+cycle length
+hybrid model
+missed deadlines
+available bandwidth
+the index
+broadcast length
+workload increases
+given item
+in tc
+data dissemination
+item i
+cycle i
+cooling factor
+unit edf
+adaptive models
+low workloads
+dynamic uniform
+unit workload
+demanded per
+the bw
+frequently demanded
+workload range
+data items
+bandwidth for
+broadcast the
+each broadcast
+deadline requirements
+requests that
+the requests
+item is
+requests for
+uniform distribution
+included in
+required i
+for periodic
+periodic and
+program is
+bandwidth required
+the deadline
+and consequently
+the edf
+information server
+being broadcast
+periodically and
+fixed fraction
+relative deadlines
+hybrid models
+static uniform
+potential requests
+i pages
+scheduled figure
+static zipf
+batching a
+scheduled time
+deadlines b
+bandwidth is
+percentage of
+to receive
+access frequencies
+requests are
+needs of
+sample size
+satisfied by
+each item
+of users
+b requests
+a missed
+first 20
+bandwidth allocated
+broadcast period
+in asymmetric
+broadcast frequency
+item with
+server should
+periodically broadcast
+be scheduled
+broadcasting the
+server has
+by broadcasting
+items that
+the needs
+two level
+item in
+adaptive model
+in overload
+fraction of
+server to
+distribution the
+the access
+low capacity
+dynamic time
+request per
+items periodically
+broadcasting periodically
+deadline distribution
+transmission mode
+every item
+broadcast frequencies
+downlink channel
+bandwidth effectively
+distribution limited
+some bandwidth
+dynamic zipf
+low overload
+worth broadcasting
+whole workload
+ahb is
+item during
+dynamic client
+capacity uplink
+single transmission
+periodically in
+broadcast on
+to satisfy
+data item
+sampling technique
+received for
+channel is
+total bandwidth
+is broadcast
+broadcast a
+the clients
+static and
+users to
+pull based
+the periodic broadcast
+periodic broadcast program
+the uplink channel
+in the periodic
+number of requests
+on demand broadcast
+of deadlines missed
+number of deadlines
+amount of bandwidth
+per time unit
+broadcast program is
+the on demand
+non adaptive 1
+non adaptive 2
+the non adaptive
+of the bandwidth
+critical asymmetric communication
+time critical asymmetric
+to the periodic
+asymmetric communication environments
+of the periodic
+user access distribution
+the actual user
+when the workload
+of the uplink
+actual user access
+critical adaptive hybrid
+access frequency distribution
+two level uniform
+heavily demanded items
+time critical adaptive
+for that item
+demanded time unit
+items demanded time
+to the server
+of the item
+of requests that
+broadcast cycle length
+limited uplink channel
+in tc ahb
+the tc ahb
+adaptive hybrid broadcast
+uplink channel saturation
+bandwidth assigned to
+workload items demanded
+included in the
+the available bandwidth
+of the items
+for the on
+a given item
+by the periodic
+the workload is
+at the server
+of bandwidth assigned
+non adaptive models
+time unit workload
+via the uplink
+time unit edf
+of requests received
+broadcast program the
+broadcast program and
+broadcast periodically and
+demanded per time
+the user access
+length cycle i
+unit edf batching
+the bw threshold
+level uniform distribution
+asymmetric communication environment
+the access frequency
+and consequently the
+satisfied by the
+and on demand
+the number of
+static zipf distribution
+unit workload items
+deadlines b requests
+b requests scheduled
+periodic broadcast and
+broadcast on demand
+scheduled time unit
+for periodic broadcast
+edf batching a
+the edf batch
+fixed fraction of
+batching a missed
+requests scheduled figure
+missed deadlines b
+first 20 items
+uplink channel is
+frequently demanded items
+the bandwidth is
+requests scheduled time
+a missed deadlines
+hybrid broadcast model
+to be broadcast
+the needs of
+the first 20
+bandwidth allocated to
+in asymmetric communication
+to be scheduled
+needs of the
+number of users
+the server has
+a single transmission
+fraction of the
+user access pattern
+periodic and on
+cycle the server
+a fixed fraction
+being broadcast periodically
+be broadcast periodically
+broadcast program to
+to satisfy as
+bw threshold the
+adaptive hybrid data
+request per time
+the whole workload
+one request per
+should be broadcast
+server has to
+non adaptive model
+deadlines missed and
+that the periodic
+dynamic client profiles
+requests for that
+total bandwidth required
+dynamic time critical
+tc ahb is
+demanded items are
+the broadcast program
+adaptive 2 model
+strong overload conditions
+satisfy as many
+the item in
+the workload increases
+distribution limited uplink
+via a single
+tolerant broadcast disks
+demand broadcast mode
+dynamic zipf distribution
+broadcast periodically in
+the server needs
+deadline constraints associated
+whole workload range
+of requests scheduled
+in strong overload
+for the periodic
+broadcast length cycle
+to on demand
+items are not
+program is computed
+items that are
+the total bandwidth
+the index is
+in order to
+the amount of
+the server to
+assigned to each
+fault tolerant broadcast
+bandwidth for the
+number of unsatisfied
+item in the
+capacity of the
+in the worst
+number of items
+items should be
+in overload conditions
+as the workload
+of the index
+the percentage of
+to the needs
+of the broadcast
+constraints associated with
+the users to
+minimize the number
+all the requests
+that the server
+change with time
+needed to broadcast
+use the available
+the sampling technique
+on demand processing
+as the periodic
+a low capacity
+program is static
+requests corresponding to
+offered workload is
+capacity uplink channel
+percentage of deadlines
+uplink channel in
+item during the
+from the periodic
+perform effectively in
+the relative access
+potential requests for
+item with the
+on demand mode
+consequently the server
+under low workloads

@@ -1,0 +1,600 @@
+sorting
+multiway
+sorted
+sorter
+row
+rows
+merge
+bucket
+columnsort
+cu
+device
+buckets
+mp
+sort
+leader
+module
+pipelining
+gamma2
+memory
+impure
+endfor
+calls
+2mp
+registers
+movement
+gamma1c
+interleaved
+auxiliary
+register
+log
+column
+ar
+word
+permutation
+columns
+dmp
+leaders
+modules
+consecutive
+sample
+stored
+jmodule
+batcher
+field
+si
+groups
+bitonic
+samples
+fields
+rank
+conflicts
+concatenating
+b3
+individually
+architectural
+read
+2m
+bits
+belonged
+sorts
+odd
+nc
+element
+involving
+iteration
+subsequences
+strictly
+leftmost
+b2
+subsequence
+matrix
+rightmost
+endif
+th
+pe
+qp
+indices
+companion
+classic
+termed
+network
+sigma
+empty
+regular
+b1
+architecture
+gamma4
+merging
+vlsi
+virtue
+sequences
+belong
+offset
+allocated
+depth
+bounding
+jm
+permuting
+implementable
+offsets
+broadcast
+reconfigurable
+compaction
+concatenation
+spelled
+permuted
+position
+involve
+lemma
+flipped
+belongs
+store
+lies
+pc
+perfectly
+accesses
+loaded
+iterations
+assigned
+immaterial
+enforcing
+half
+guarantees
+copy
+marked
+altogether
+sj
+gamma1
+ends
+hardware
+2s
+richardson
+positions
+major
+cleared
+halves
+hx
+preceding
+codesign
+gm
+pure
+extracted
+stand
+ne
+confirm
+storing
+task
+pipelined
+group
+permute
+resolves
+numbered
+spent
+adder
+1consecutive
+frecursively
+ksorted
+1sorted
+sjk
+1buckets
+1non
+p2elements
+contents
+decreasing
+rc
+article
+dummy
+candidate
+standing
+referred
+reverse
+picks
+grattan
+9626215
+stitt
+flog
+elaborazione
+phases
+generic
+lemmas
+items
+aside
+picking
+0162
+56126
+gem
+pinotti
+23529
+leqsf
+campobello
+consequently
+retaining
+conflict
+index
+signs
+mesh
+phase
+arithmetic
+bottom
+claim
+multiway merge
+sorting device
+memory rows
+memory row
+the sorting
+p sorter
+the cu
+sorting network
+mp i
+i gamma2
+a sorting
+level u
+of step
+column c
+to sort
+row r
+bucket b
+merge calls
+basic algorithm
+memory module
+size p
+o size
+merge call
+interleaved pipelining
+to bucket
+the multiway
+of level
+auxiliary field
+o mp
+sorted matrix
+module m
+the sorted
+b j
+data movement
+elements in
+data registers
+log p
+calls of
+empty rows
+short auxiliary
+involving sorting
+empty elements
+be sorted
+call of
+element x
+step 1
+of sorting
+sorted in
+sorting algorithm
+consecutive memory
+calls to
+step 4
+strictly larger
+register r
+no element
+the elements
+row x
+memory modules
+in column
+step columnsort
+of multiway
+all multiway
+sorter or
+procedure multiway
+major order
+device of
+not involving
+data memory
+the buckets
+n log
+step 5
+a p
+o r
+access conflicts
+i o
+in step
+c gamma
+in row
+r k
+stored in
+th word
+samples s
+sequence index
+merge s
+p elements
+m memory
+r j
+by o
+increasing order
+s u
+ar ar
+a multiway
+impure row
+involve sorting
+movement not
+end of
+sorted sequence
+in o
+device and
+of column
+step 2
+correct position
+element in
+data register
+sorting step
+module x
+columnsort algorithm
+the permutation
+row major
+rows of
+depth o
+sorting n
+elements using
+the leader
+for sorting
+non empty
+the end
+the basic
+to buckets
+merge for
+without memory
+sequences each
+pipelining with
+the sample
+in memory
+k j
+step 8
+c j
+p time
+log n
+gamma1 m
+of row
+step 3
+row s
+gamma2 data
+auxiliary fields
+extended interleaved
+long auxiliary
+simple pipelining
+extended columnsort
+gamma 1
+movement operations
+sort all
+leader of
+columns c
+sample s
+our architecture
+rows the
+o log
+k u
+network of
+s b
+task of
+n elements
+the element
+sequence indices
+sorted at
+level b
+p 1
+o n
+regular with
+p bits
+row with
+total time
+row of
+parallel write
+our sorting
+parallel read
+element field
+sorted sequences
+the task
+some element
+parallel sorting
+are sorted
+row is
+sequence obtained
+one call
+rows a
+larger than
+b nc
+c at
+the row
+sorting in
+u k
+rightmost b
+j endfor
+copy memory
+bounding pair
+of columnsort
+row allocated
+2mp elements
+offset matrix
+dmp i
+marked elements
+i gamma4
+call multiway
+2m memory
+the memory
+rows with
+8 step
+the sorting device
+mp i gamma2
+end of step
+a p sorter
+of level u
+the basic algorithm
+i o size
+to the sorting
+merge calls of
+bucket b j
+a sorting network
+multiway merge calls
+the multiway merge
+o size p
+to bucket b
+memory module m
+o mp i
+merge call of
+calls of level
+multiway merge call
+the sorted matrix
+sorting network of
+half of column
+of column c
+level u is
+the data registers
+call of level
+consecutive memory rows
+o r k
+not involving sorting
+column c gamma
+sorting device and
+in the sorted
+calls to the
+at the end
+strictly larger than
+be sorted in
+a sorting device
+s u k
+column c at
+the memory row
+m memory rows
+memory row r
+c gamma 1
+the end of
+in column c
+n log p
+bounded by o
+r k u
+of i o
+sorting device of
+the short auxiliary
+all multiway merge
+of row r
+multiway merge s
+of memory module
+ar ar ar
+procedure multiway merge
+short auxiliary field
+interleaved pipelining with
+of multiway merge
+p sorter or
+task of sorting
+memory access conflicts
+respect to bucket
+word of memory
+a multiway merge
+j gamma1 m
+th word of
+size p and
+in row major
+to b j
+s j gamma1
+basic algorithm to
+of step 8
+than any element
+the samples s
+to column c
+permutation of step
+movement not involving
+all the multiway
+data movement not
+non empty rows
+in o mp
+auxiliary field of
+multiway merge for
+non empty elements
+row major order
+algorithm to sort
+log 2 p
+any element in
+the task of
+fixed i o
+regular with respect
+compare and set
+in memory rows
+n elements using
+device of i
+assigned to bucket
+of fixed i
+without memory access
+of step 4
+can be sorted
+larger than any
+c at the
+use the basic
+no element in
+sequences each of
+log n log
+data movement operations
+log p bits
+sequence obtained by
+module m j
+8 step columnsort
+row r a
+s r j
+i gamma2 data
+gamma2 data movement
+row of e
+belong to column
+empty rows of
+samples s u
+of all multiway
+not involve sorting
+memory rows with
+extended interleaved pipelining
+memory rows r
+increasing order of
+the total time
+is bounded by
+of size p
+elements using a
+u k j
+depth o log
+one call to
+of step 3
+of the sorting
+of step 5
+a memory row
+using a sorting
+be the row
+that no element
+our architectural model
+network of i
+as the sorting
+sorted at the
+row r is
+sort all the
+either a p
+to the basic
+the elements in
+step 2 of
+the leader of
+the sorting network
+sorting n elements
+each of size
+o log 2
+step 1 of
+the permutation of
+rows of b
+elements in the
+call to the
+positions of row
+the address registers
+of level b
+x ends up
+call multiway merge
+the 8 step
+sorter or a
+sorted in one
+the rightmost b
+in m memory
+memory row and
+if some element
+row r c
+i gamma2 2
+5 log p
+the call multiway
+rightmost b pc
+step of multiway
+are sorted at
+1 memory rows
+correct position of
+long auxiliary field
+row allocated to
+columns c or
+dmp i gamma4
+row c j
+copy memory row
+element x ends
+as step 1
+of a multiway
+in one call
+memory row in
+leftmost d pe
+the marked elements
+or a sorting
+m j endfor
+p 1 memory
+the offset matrix

@@ -1,0 +1,600 @@
+prediction
+indirect
+branch
+calls
+groff
+profile
+instructions
+breaks
+branches
+targets
+instruction
+morpher
+2brs
+nibb
+btb
+target
+congress
+cuse
+gammaif
+btar
+site
+idraw
+inlining
+notices
+idl
+oct
+sweeney
+conversion
+rtsh
+btars
+predicted
+static
+sigplan
+typed
+doc
+conditional
+compiler
+programs
+oriented
+qpt
+icalls
+bp
+mispredicted
+predicting
+inline
+object
+optimizations
+foo
+misprediction
+hlzle
+tip
+sites
+languages
+ryder
+speculative
+customization
+architectures
+urs
+cpredict
+dataflow
+predict
+axp
+compile
+java
+21064
+86
+driesen
+mechanisms
+bar
+accurately
+compilers
+cache
+tracing
+flow
+frank
+karel
+pic
+nakatani
+komatsu
+hideaki
+interviews
+toshio
+1996
+jump
+pipeline
+decoded
+polymorphism
+instrumented
+dec
+stalls
+dispatch
+cnopredict
+benifit
+dynamicly
+porat
+gamma97
+devirtualization
+dmc
+likelyhood
+decstation
+bit
+fetch
+grove
+sara
+patt
+penalty
+optimizing
+stub
+olzle
+mispredicting
+ogasawara
+misfetch
+sigarch
+statically
+yale
+pipelined
+imc
+softwarepractice
+superscalar
+modern
+self
+formatter
+profiling
+dynamically
+92
+architecture
+pritpal
+peter
+polymorphic
+95
+david
+eliot
+takeshi
+buffer
+hardware
+registers
+burke
+pande
+83
+converting
+parallelism
+percentage
+interprocedural
+penalties
+tera
+designs
+trace
+saved
+skadron
+179
+lastly
+destinations
+99
+moss
+diwan
+execu
+kathryn
+foremost
+news
+libraries
+toronto
+modula
+ontario
+00
+benefit
+calling
+optimize
+customize
+microarchitecture
+94
+613
+amer
+martonosi
+increasingly
+mckinley
+linker
+miss
+88
+accurate
+toplas
+unpredictable
+library
+ahuja
+graphics
+limits
+ray
+chambers
+89
+85
+1998
+96
+subprogram
+dispatching
+margaret
+optimization
+deeply
+rely
+beneficial
+signature
+measured
+indirect function
+function calls
+i call
+call prediction
+profile based
+i calls
+c programs
+branch prediction
+static prediction
+if conversion
+call targets
+branch target
+object oriented
+function call
+call site
+based prediction
+breaks in
+control flow
+prediction techniques
+static profile
+call target
+an indirect
+notices v
+sigplan notices
+acm sigplan
+conditional branches
+for indirect
+predicted using
+dynamic prediction
+cuse gammaif
+typed object
+indirect call
+dynamically typed
+prediction mechanisms
+f sweeney
+existing c
+peter f
+of indirect
+calls in
+branches and
+frank tip
+10 p
+the branch
+2 bit
+of instructions
+between breaks
+groff 3
+gammaif p
+n 10
+single target
+in control
+programs we
+prediction is
+prediction information
+and indirect
+indirect calls
+instructions between
+call sites
+target buffer
+input was
+optimizing dynamically
+calls predicted
+congress doc
+nibb bp
+calls can
+oriented languages
+of branch
+oct 1996
+branch targets
+oriented programs
+flow prediction
+of breaks
+likely target
+inline cache
+branch site
+existing branch
+a foo
+unique name
+conditional branch
+calls and
+each program
+speculative execution
+virtual function
+urs hlzle
+axp 21064
+accurately predicted
+dynamic branch
+prediction with
+method call
+1 bit
+predicting the
+targets for
+indirect method
+converting an
+conversion on
+prediction for
+compile time
+the programs
+86 4
+modern architectures
+prediction to
+oriented programming
+saved across
+btar s
+bp nibb
+type determination
+remaining breaks
+object polymorphism
+idl idraw
+the btar
+driesen urs
+library example
+call graph
+most likely
+branch or
+the if
+we measured
+languages such
+in c
+link time
+unique call
+target branches
+c virtual
+btb s
+branch history
+99 9
+calls this
+prediction acm
+java acm
+the interviews
+for c
+the cost
+using static
+the instruction
+to predict
+level parallelism
+instructions per
+instruction level
+karel driesen
+indirect jump
+a study
+by comparison
+and branch
+oct 2000
+bar indicates
+target address
+prediction mechanism
+architectures use
+accurately predicting
+prediction hardware
+using using
+instructions and
+of prediction
+an i
+based static
+using if
+the program
+calls the
+instruction fetch
+the prediction
+always beneficial
+buffer design
+toshio nakatani
+david grove
+alpha axp
+hideaki komatsu
+komatsu toshio
+this information
+35 n
+n patt
+yale n
+prediction methods
+9 99
+v 35
+percentage of
+instruction type
+statically typed
+type analysis
+of calling
+calls we
+techniques we
+calls are
+typed languages
+call c
+how accurate
+time type
+prediction and
+second most
+calls with
+each call
+was a
+calls for
+the like
+penalty for
+as c
+the c
+recorded the
+type check
+other optimizations
+best case
+indirect function calls
+i call prediction
+indirect function call
+profile based prediction
+an indirect function
+acm sigplan notices
+sigplan notices v
+of indirect function
+for indirect function
+breaks in control
+number of instructions
+branches and indirect
+n 10 p
+static profile based
+peter f sweeney
+dynamically typed object
+typed object oriented
+the if conversion
+cuse gammaif p
+function calls can
+and indirect function
+instructions between breaks
+of i calls
+existing c programs
+of instructions between
+conditional branches and
+function calls in
+branch prediction mechanisms
+31 n 10
+branch target buffer
+object oriented languages
+object oriented programs
+programs we measured
+call prediction is
+most likely target
+static prediction with
+an i call
+existing branch prediction
+c programs we
+if conversion on
+control flow prediction
+notices v 31
+function calls this
+a call site
+function calls the
+object oriented programming
+reducing the cost
+35 n 10
+for each program
+languages such as
+function calls and
+the programs we
+driesen urs hlzle
+calls in c
+the prediction information
+optimizing dynamically typed
+percentage of i
+the static profile
+conversion on an
+library example was
+based static prediction
+9 99 9
+bp nibb bp
+second most likely
+i calls predicted
+dynamic prediction techniques
+converting an indirect
+nibb bp nibb
+input was a
+calls predicted using
+profile based static
+c programs can
+on the interviews
+the remaining breaks
+karel driesen urs
+do the if
+each call site
+such as c
+of c programs
+a study of
+instruction level parallelism
+the branch target
+virtual function calls
+99 9 99
+and dynamic prediction
+prediction to be
+notices v 30
+bar indicates the
+dec alpha axp
+always beneficial to
+alpha axp 21064
+on an architecture
+is always beneficial
+the cost of
+target buffer design
+the 2 bit
+accurately predicting the
+notices v 35
+v 35 n
+function calls are
+an architecture that
+of dynamic branch
+in c programs
+hideaki komatsu toshio
+komatsu toshio nakatani
+of the remaining
+yale n patt
+the instruction stream
+the 1 bit
+branch prediction acm
+it is always
+a conditional branch
+calls can be
+and the like
+the address of
+v 31 n
+for each call
+lists the number
+instructions per cycle
+c and c
+computer architecture news
+acm sigarch computer
+architecture news v
+sigarch computer architecture
+and extended message
+predicted using static
+a high likelyhood
+30 n 10
+assumptions this occurs
+h olzle et
+eliminate indirect function
+i calls unique
+and indirect calls
+likely call target
+extended message splitting
+control flow misprediction
+prediction with our
+f sweeney frank
+determination for c
+not provide static
+2brs icalls 2brs
+and i calls
+unique call targets
+an indirect call
+based and dynamic
+that c programs
+bit method would
+customization optimizing compiler
+most function calls
+2brs is a
+issue more instructions
+convert an indirect
+single target static
+indirect call prediction
+oriented programming style
+2 90 9
+congress doc groff
+and incremental interprocedural
+message splitting optimizing
+indirect branches via
+oct 17 1995
+cause a long
+static prediction methods
+85 6 86
+architecture that does
+case if conversion
+a c programmer
+designs eliminate the
+idraw morpher rtsh
+indirect calls we
+using static prediction
+prediction is important
+techniques by comparison
+c virtual function
+indirect jump hardware
+bit techniques that
+function calls ffl
+direct method call
+remaining breaks in
+to indicate what
+call prediction we
+use existing branch
+profile based and
+by each program
+cost of indirect
+c acm sigplan
+idl idraw morpher
+static i call
+or i call
+of call targets
+the c type
+support object polymorphism
+2 6 library
+cost for converting
+calls this information
+1996 frank tip
+level parallelism he
+are compiling for
+dynamicly typed language
+indirect method call

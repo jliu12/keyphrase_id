@@ -1,0 +1,600 @@
+nic
+endpoint
+endpoints
+message
+messages
+firmware
+virtual
+packet
+dma
+packets
+logp
+nacks
+gam
+server
+retransmission
+am
+myrinet
+sender
+acks
+destination
+microseconds
+timer
+sbus
+outstanding
+resident
+network
+nics
+host
+interfaces
+bulk
+daemons
+receiver
+clients
+medium
+nack
+delivery
+retransmissions
+channel
+senders
+interface
+client
+multiprogramming
+transport
+resources
+hamlyn
+protocols
+active
+receiving
+unloaded
+send
+transfers
+timeout
+receive
+trip
+interconnect
+sending
+protection
+protocol
+bandwidth
+overruns
+rates
+rtt
+mb
+bisection
+thread
+microbenchmarks
+shrimp
+api
+reliable
+scheduling
+reply
+layers
+round
+virtualized
+communication
+bandwidths
+channels
+aggregate
+hosts
+buffer
+ack
+gap
+unacknowledged
+microsecond
+mechanisms
+management
+mapper
+undeliverable
+msgs
+backing
+threaded
+sequencing
+bw
+switches
+streaming
+workstations
+credits
+cables
+culler
+transmission
+fm
+latency
+requests
+routes
+overheads
+switch
+contention
+staging
+gigabit
+virtualization
+benchmarks
+net
+flow
+privileged
+topology
+cluster
+costs
+layer
+unreachable
+queue
+delivered
+transient
+pm
+deadlock
+timestamp
+networks
+addressable
+semaphore
+supercomputing
+pressure
+avg
+queues
+martin
+virtualizing
+8722788
+pageable
+microbenchmark
+overcommitted
+0014
+frees
+unduplicated
+multiplexing
+arpa
+graceful
+request
+catastrophic
+accommodate
+bytes
+handler
+hardware
+copy
+eicken
+clm
+payloads
+f30602
+unloading
+driver
+protected
+latest
+scheduled
+replies
+fellowship
+destined
+berkeley
+micro
+tags
+retries
+tention
+mainstream
+posted
+traffic
+unavailable
+storage
+acknowledged
+manage
+event
+robin
+nsf
+faults
+8kb
+indirection
+retransmitted
+graduate
+positively
+arrives
+tag
+latencies
+actively
+corrupted
+errors
+spmd
+responsiveness
+word
+probe
+baseline
+handling
+acknowledgment
+load
+clusters
+received
+am ii
+the nic
+virtual networks
+active message
+virtual network
+network interface
+message rates
+to nic
+message delivery
+network interfaces
+reliable message
+the network
+the am
+per client
+timer management
+outstanding messages
+nic to
+mb s
+flow control
+an endpoint
+the server
+active messages
+the logp
+non resident
+endpoint scheduling
+medium messages
+client message
+message rate
+destination endpoint
+k user
+per endpoint
+error model
+virtual memory
+round trip
+the endpoint
+transport protocols
+the protocols
+and nacks
+host memory
+resident endpoints
+logical channels
+medium message
+destination nic
+server thread
+and bulk
+the sbus
+4 word
+u net
+sequencing information
+sequence number
+timeout and
+of clients
+the virtual
+our system
+of endpoints
+average per
+ii api
+nic transport
+independent logical
+interface architecture
+virtual interface
+resident endpoint
+active endpoints
+bulk messages
+retransmission mechanisms
+interface firmware
+rates with
+single virtual
+the sender
+of outstanding
+trip times
+receive queue
+endpoints with
+and retransmission
+each endpoint
+endpoint to
+re transmission
+buffer overruns
+back pressure
+communication layers
+acks and
+the receiver
+interfaces and
+address space
+communication system
+send and
+and receiving
+and per
+the send
+messages are
+network management
+user level
+of network
+successfully written
+cluster interconnect
+nic flow
+level back
+rate msgs
+server endpoints
+request receive
+and retransmissions
+server message
+nics delta
+destination endpoints
+latest nack
+endpoint contention
+overhead o
+interface memory
+the backing
+additional messages
+receive table
+31 mb
+dma transfers
+copy on
+control timer
+message staging
+send table
+the interface
+per packet
+delivery and
+endpoint is
+communication resources
+an acknowledgment
+and receive
+a message
+an ack
+medium and
+s address
+the gap
+on supercomputing
+a packet
+endpoints are
+a sender
+trip time
+thread is
+protection checks
+channel table
+common destination
+message layer
+packet retransmissions
+the interconnect
+fast communication
+microseconds the
+network system
+performance communication
+contention within
+microseconds for
+automatic network
+scheduling of
+general purpose
+high performance
+and error
+message system
+transport protocol
+of am
+the sending
+messages with
+receiving an
+multi threaded
+per message
+error handling
+the transport
+multiple independent
+with destination
+net work
+these systems
+parallel programs
+to send
+the packet
+an active
+resources and
+link level
+short messages
+endpoints and
+of senders
+the system
+communication subsystem
+the latest
+sender and
+network access
+the timer
+the bisection
+the protection
+detecting and
+per second
+messages from
+end points
+endpoints in
+packets the
+communication model
+the communication
+table entries
+delta channels
+error models
+bisection 5
+unrelated applications
+the gam
+because endpoints
+outstanding requests
+endpoint each
+the am ii
+reliable message delivery
+the network interface
+nic to nic
+per client message
+message rates with
+client message rates
+number of clients
+network interfaces and
+an active message
+nic transport protocols
+virtual interface architecture
+of network interfaces
+am ii api
+the nic to
+to nic transport
+a non resident
+acks and nacks
+average per client
+independent logical channels
+medium and bulk
+single virtual network
+round trip times
+s address space
+a single virtual
+message delivery and
+send and receive
+contention within a
+flow control timer
+and retransmission mechanisms
+31 mb s
+level back pressure
+and per client
+sending a packet
+destination endpoint contention
+error model and
+one copy on
+of outstanding messages
+of virtual networks
+nic flow control
+to nic flow
+an endpoint is
+link level back
+of am ii
+active message system
+non resident endpoint
+copy on the
+the latest nack
+the virtual interface
+the virtual network
+virtual network system
+error model for
+multiple independent logical
+active message layer
+server thread is
+active messages with
+message rate msgs
+network interface firmware
+in the send
+and bulk messages
+medium message staging
+conference on supercomputing
+round trip time
+interfaces and communication
+and communication resources
+the protection checks
+high performance communication
+the average per
+on the receiver
+to the network
+within a single
+and error handling
+number of outstanding
+on the sender
+destined for the
+of the virtual
+the network s
+in our system
+of the server
+the destination endpoint
+s topology and
+back pressure the
+per endpoint error
+direct network access
+that this hybrid
+collections of endpoints
+the nic must
+endpoints may be
+a virtual network
+channel management tables
+acks that may
+it and receiving
+virtual memory regions
+the packet for
+this hybrid scheme
+and retransmissions for
+our virtual network
+delay product is
+and robust communication
+rate msgs s
+unduplicated message delivery
+of mutually deadlock
+short medium and
+no acks or
+endpoint to endpoint
+general purpose and
+f30602 95 c
+backing store for
+clients message rate
+nics delta channels
+server message rates
+arrives for a
+network management daemons
+resident endpoint or
+channel table state
+logp communication model
+stop and wait
+bandwidth and low
+in the sbus
+timeout and re
+for non resident
+a retransmission event
+server and per
+a medium message
+endpoint contention within
+additional microseconds the
+communication system must
+support automatic network
+messages to it
+and easily addressable
+sun ultrasparc workstations
+and re transmission
+the server thread
+the protocols must
+with nics delta
+k user is
+the nic can
+40 myrinet switches
+message round trip
+management reliable message
+workstations interconnected with
+wait flow control
+the send table
+successfully written into
+0014 the california
+our cluster protocol
+am ii library
+into their destination
+to sender error
+scheduling flow control
+microseconds the protection
+deadlock free routes
+programming i o
+non resident endpoints
+u net and
+virtual network segment
+sequencing information for
+interface architecture proceedings
+receiving 4 word
+topology acquisition and
+with destination endpoint
+the virtual networks
+c 0014 the
+the interconnect and
+thorsten von eicken
+california state micro
+server client figure
+beyond a baseline
+control timer management
+ultrasparc workstations interconnected
+using medium messages
+an error model
+microseconds for the
+the timer and
+arriving for non
+network interface card
+short message rates
+timer management to
+dropped or corrupted
+add another 1
+network segment driver
+return to sender
+and wait flow
+retransmission event on
+timer and retransmission
+virtualization of network
+duplicate acks that
+1 is spent
+per message round
+using per endpoint
+aggregate server and
+the logp communication
+bandwidth mb s
+message staging areas
+by arpa grant
+nsf infrastructure grant
+sending messages from
+in an endpoint
+our system addresses
+written into their

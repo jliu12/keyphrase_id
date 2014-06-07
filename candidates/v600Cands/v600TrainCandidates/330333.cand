@@ -1,0 +1,600 @@
+ptg
+retiming
+mrt
+schedule
+probabilistic
+retimed
+condence
+pg
+prs
+scheduling
+dependency
+psl
+rotation
+vd
+lter
+pe
+longest
+temp
+dag
+distances
+uncertain
+pole
+rescheduling
+iir
+benchmarks
+template
+edges
+volterra
+node
+rescheduled
+fuzzy
+dfg
+ls
+tasks
+timing
+incoming
+ts
+ow
+lattice
+resource
+uf
+probability
+vertex
+exibility
+parents
+pr
+iteration
+elliptic
+nodes
+outgoing
+modied
+reaching
+conveys
+avg
+rst
+genetic
+pushed
+xed
+denition
+dequeued
+traditional
+vertices
+heuristic
+parallelism
+constrained
+rotated
+dummy
+microcode
+summation
+nal
+sha
+pipelining
+modulo
+scheduled
+dierent
+dependencies
+reschedule
+strives
+distance
+225
+units
+edge
+pl
+jvjjej
+variablesg
+lapaugh
+nodesg
+nds
+imprecise
+queue
+unfolded
+heuristics
+dsp
+wdf
+steinberg
+loop
+graph
+eectiveness
+static
+legal
+nd
+ti
+worst
+biquad
+retime
+pgs
+retimings
+dags
+functional
+assignment
+unfolding
+dfgs
+131
+slot
+289
+293
+reshaping
+indegree
+th
+cyclic
+requirement
+optimizes
+ecs
+uncertainty
+execution
+120
+ilp
+dotted
+136
+period
+794
+793
+movement
+iterations
+path
+138
+floyd
+229
+probabilities
+147
+synthesis
+multiplier
+di
+weighted
+window
+133
+synchronous
+318
+columns
+segment
+iter
+synchronization
+parent
+ultrasparc
+314
+leaf
+executed
+loops
+chao
+optimized
+clock
+decrement
+294
+resources
+graphs
+274
+optimize
+adder
+nonresource
+jaunmann
+fpe
+retimes
+dlfex
+abstractone
+rehab
+karkowski
+fthese
+fconnected
+rearraging
+psls
+ecacy
+ptgs
+dummies
+meikang
+multiproceesor
+otten
+fconnects
+fnding
+fconsidering
+fadding
+fmaximizing
+muls
+zhiping
+07818
+04365
+rotatedg
+rstg
+3pes
+kader
+occurances
+computation time
+rotation scheduling
+dependency distance
+dependency distances
+schedule length
+path computation
+probabilistic retiming
+the probabilistic
+condence probability
+longest path
+computation times
+probabilistic graph
+probabilistic rotation
+node v
+v s
+retimed graph
+all pole
+pole lattice
+template scheduling
+the mrt
+temp mrt
+mrt v
+the retiming
+maximum reaching
+the ptg
+reaching time
+execution order
+a pg
+non resource
+retiming function
+psl g
+traditional retiming
+mrt g
+the pg
+resource constrained
+control step
+of dependency
+one dependency
+th elliptic
+mrt of
+ptg is
+zero dependency
+5 th
+retiming algorithm
+to pe
+pe 0
+a probabilistic
+expected control
+a ptg
+distance edges
+probabilistic schedule
+traditional rotation
+re mapping
+of node
+time of
+of exibility
+the retimed
+the schedule
+incoming edges
+uncertain computation
+modied list
+pr mrt
+the graph
+a node
+initial schedule
+pe i
+execution pattern
+probabilistic computation
+list scheduling
+a schedule
+pe 1
+be rescheduled
+the longest
+g r
+di equation
+graph pg
+fuzzy application
+iteration window
+genetic application
+desired longest
+of mrt
+expected computation
+the condence
+average computation
+case computation
+data ow
+ow graph
+pg and
+outgoing edges
+retiming value
+edges of
+functional unit
+each node
+2 v
+the computation
+probability distribution
+3 stage
+static schedule
+the expected
+node a
+timing information
+given condence
+and vd
+stage iir
+possible computation
+dag portion
+lattice 15
+d ex
+elliptic 34
+ptg and
+volterra 5
+application 24
+rotated nodes
+prs algorithm
+application fuzzy
+requirement pr
+resulting ptg
+scheduling prs
+probabilistic task
+this ptg
+lter benchmarks
+the temp
+lattice uf
+lattice lter
+the parallelism
+no dependency
+all incoming
+all outgoing
+node u
+g f
+algorithm 2
+task assignment
+graph in
+ptg with
+assignment graph
+static execution
+r avg
+pg is
+processing elements
+nodes b
+total computation
+resulting schedule
+in pe
+th order
+modulo scheduling
+time units
+these tasks
+code segment
+denition 4
+this graph
+exibility of
+time nodes
+and ts
+the dag
+input graph
+end for
+across iterations
+graph ti
+80 condence
+condence probabilities
+nal retimed
+iir lter
+underlying schedule
+retiming functions
+to vd
+cyclic dfg
+an unfolded
+showing probability
+retiming on
+graph ptg
+dummy node
+acceptable probability
+ptg b
+lter an
+where psl
+iir 12
+iteration showing
+probabilistic tasks
+elliptic lter
+rescheduled one
+retiming using
+probabilistic timing
+running traditional
+uncertain tasks
+vd to
+new ptg
+vd are
+tasks normally
+length is
+limited number
+with uncertain
+constrained scheduling
+the resulting
+i g
+the benchmarks
+are assigned
+nodes c
+the summation
+the template
+presents the
+longest path computation
+path computation time
+computation time of
+probabilistic rotation scheduling
+all pole lattice
+mrt v s
+the computation time
+of dependency distances
+maximum reaching time
+5 th elliptic
+non resource constrained
+a probabilistic graph
+one dependency distance
+number of dependency
+the longest path
+probabilistic schedule length
+degree of exibility
+dependency distance edges
+the retiming function
+g f a
+the retimed graph
+of node v
+v s to
+assigned to pe
+dependency distance from
+the expected control
+zero dependency distance
+the probabilistic schedule
+expected control step
+the maximum reaching
+probabilistic retiming algorithm
+incoming edges of
+i g f
+data ow graph
+the schedule length
+desired longest path
+traditional rotation scheduling
+mrt g c
+the probabilistic retiming
+modied list scheduling
+the condence probability
+the mrt of
+to the benchmarks
+to pe 0
+v 2 v
+computation time the
+of the graph
+time of the
+probabilistic task assignment
+uncertain computation times
+the probabilistic rotation
+the retiming value
+the resulting ptg
+expected computation time
+fuzzy application 24
+the template scheduling
+temp mrt v
+task assignment graph
+probabilistic computation times
+3 stage iir
+g r avg
+the temp mrt
+genetic application fuzzy
+rotation scheduling prs
+th elliptic 34
+pole lattice uf
+pole lattice 15
+volterra 5 th
+possible computation time
+rotation scheduling algorithm
+di equation 11
+application fuzzy application
+of exibility of
+average computation times
+dependency distances in
+non zero dependency
+pr mrt g
+of a pg
+total computation time
+edges of node
+computation time c
+case computation times
+resulting schedule length
+to all outgoing
+from v s
+edges of a
+node v 2
+for each node
+all incoming edges
+f a a
+are assigned to
+obtained from applying
+computation times are
+all outgoing edges
+of node u
+2 time units
+limited number of
+schedule length is
+resource constrained scheduling
+outgoing edges of
+probability distribution of
+the total computation
+where psl g
+a probabilistic task
+a ptg is
+the underlying schedule
+presents the probabilistic
+the expected computation
+probabilistic data ow
+of mrt v
+4 th order
+dag portion of
+pole lattice lter
+iteration showing probability
+assignment graph ptg
+the dependency distances
+the dag portion
+2 probabilistic retiming
+be rescheduled one
+the requirement pr
+a given condence
+dependency distance is
+the rotation scheduling
+al and ts
+to the condence
+pe 0 and
+resulting ptg and
+average case computation
+of the ptg
+probabilistic graph pg
+from all incoming
+the non resource
+underlying schedule length
+given condence probability
+re mapping strategy
+considering the probabilistic
+template scheduling heuristic
+computation time being
+d are assigned
+no dependency distances
+pushed from all
+lter an unfolded
+from running traditional
+and probabilistic rotation
+nal retimed graph
+is pushed from
+of the tasks
+of this graph
+the resulting schedule
+of the schedule
+of the computation
+computation times of
+since the computation
+the execution order
+computation time is
+the probability distribution
+node v s
+a schedule length
+static execution order
+retiming function r
+the re mapping
+being greater than
+execution order figure
+with the retiming
+the initial schedule
+of a node
+the input graph
+scheduling is applied
+node v will
+to be rescheduled
+o c 2
+worst case computation
+obtained from running
+of target processors
+with respect to
+is used to
+of the nodes
+results obtained from
+than or equal
+the graph model
+and resource constrained
+the parallelism is
+of the retiming
+a random variable
+the summation of
+of each iteration
+or equal to
+figure 1 b
+nodes b and
+of edges representing
+graph g r
+associated with nodes
+is o c
+from the incoming
+of a probabilistic
+in the dfg
+the movement of
+set of edges
+high level synthesis
+schedule length of

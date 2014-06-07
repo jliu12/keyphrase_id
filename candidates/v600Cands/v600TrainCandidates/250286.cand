@@ -1,0 +1,600 @@
+qr
+gammaa
+factorization
+conditioned
+rowspace
+rows
+nsh
+triangular
+pivoting
+columns
+squares
+ill
+vavasis
+gammat
+kd
+nonbasis
+rd
+matrix
+barrier
+scaling
+x1
+conditioning
+substitution
+norm
+column
+orthogonal
+kc
+gamma1
+interior
+stability
+dm
+stable
+norms
+equilibrium
+cod
+weighted
+weights
+reordered
+14853
+stably
+pivoted
+ithaca
+decomposition
+entries
+x3
+linearly
+stewart
+definite
+residual
+inequality
+rank
+degeneracy
+cornell
+1m
+kth
+ka
+1i
+diagonal
+ith
+flops
+stabilizing
+tolerance
+arithmetic
+wright
+equibrium
+minkh
+ki3
+pseudoinverses
+sofer
+ii3
+dependence
+pivot
+row
+basis
+todd
+weight
+notice
+intuitive
+kck
+electrical
+orthonormal
+modifi
+partioned
+theta
+a2
+submatrix
+inaccurate
+gamma20
+dantzig
+fld
+errors
+coefficient
+completed
+normwise
+uneliminated
+nash
+numerical
+claimed
+kvk
+skinny
+coleman
+rigorous
+nullspace
+presidential
+relationships
+perturbation
+sides
+tell
+argued
+min
+karmarkar
+elementwise
+wilkinson
+gould
+vectors
+accounts
+mization
+wolfe
+ay
+nondegeneracy
+upcoming
+manifested
+xk
+proceeded
+remainder
+nonstandard
+multiply
+portions
+multiplying
+th
+wild
+telling
+ordered
+strive
+rescaling
+funds
+floating
+something
+investigator
+upper
+corp
+xerox
+unwanted
+epsilon
+contrasted
+roundoff
+york
+contribute
+jej
+golub
+lows
+recall
+ck
+asserted
+relied
+gramming
+a3
+exact
+fol
+opti
+hessian
+schwarz
+rr
+suspect
+qualitatively
+accurate
+imposed
+kr
+sparsity
+factorizations
+precision
+n1
+thetan
+factored
+cauchy
+monitors
+accounted
+solving
+ff
+mn
+looked
+nearby
+questions
+a1
+couple
+dependences
+missed
+partition
+ordering
+differentiable
+error
+lemma
+rithm
+loosely
+cation
+confusion
+practically
+arises
+optimization
+analogously
+qr factorization
+conditioned up
+d gamma1
+gamma1 2
+u 1
+well conditioned
+d a
+upper triangular
+gammaa d
+the columns
+r t
+2 gammaa
+least squares
+a t
+triangular matrix
+t d
+complete orthogonal
+the rowspace
+a scaling
+scaling of
+the qr
+orthogonal decomposition
+back substitution
+the rows
+basis rows
+rowspace of
+weighted least
+columns of
+column of
+in x1
+squares problem
+m theta
+column pivoting
+the nsh
+kc gammat
+k a
+a u
+rows of
+a j
+ill conditioning
+an m
+condition number
+factorization have
+bound on
+i n
+squares problems
+an upper
+ill conditioned
+a l
+rd gammaa
+by vavasis
+substitution step
+kd gammaa
+nsh method
+numerical tolerance
+n kd
+is linearly
+theta m
+error bound
+the weights
+of r
+kd 1
+first n
+n rows
+first k
+interior point
+matrix r
+with column
+k basis
+the ill
+rows or
+theta n
+conditioned for
+linearly independent
+accurate solution
+is stable
+the algorithm
+second step
+in step
+norm bound
+no pivoting
+0 steps
+d 1
+matrix that
+point methods
+the condition
+norms of
+the norms
+barrier methods
+weight matrix
+been completed
+ith column
+r r
+notice that
+a qr
+this algorithm
+that r
+is well
+that k
+in interior
+1 k
+of x3
+for gamma
+1 i
+recall that
+j n
+basis for
+1i ff
+thus 13
+d gammaa
+nonbasis rows
+first vectors
+then kc
+algorithm stable
+t rd
+rigorous stability
+basis consisting
+definite m
+r 1m
+the nonbasis
+matrix step
+ff 1i
+pre pivoted
+c gammat
+residual portions
+dm a
+cod algorithm
+ka i
+exact upper
+gammat 1
+completed partition
+a rd
+nsh algorithm
+equilibrium system
+entries of
+the back
+k 1
+the computed
+z t
+a r
+computed solution
+a i
+pivoting is
+a basis
+n columns
+decomposition algorithm
+1 j
+weights of
+matrix e
+column 4
+gammaa is
+a dm
+know something
+electrical networks
+the weight
+for y
+basis vectors
+stability analysis
+row of
+upper bound
+y be
+these other
+step of
+steps of
+factorization in
+ordered in
+factorization with
+a barrier
+york 14853
+been reordered
+3 position
+underlying optimization
+our stability
+above then
+matrix a
+n theta
+k k
+step is
+up to
+an accurate
+n matrix
+1 d
+bound is
+step then
+an n
+t r
+the errors
+conditioned matrix
+ithaca new
+intuitive discussion
+reordered so
+in barrier
+is upper
+coefficient matrix
+then k
+th column
+small entries
+following d
+n upper
+barrier method
+d gamma1 2
+well conditioned up
+conditioned up to
+a scaling of
+a t d
+t d gamma1
+to a scaling
+d a u
+1 2 gammaa
+a u 1
+upper triangular matrix
+gammaa d a
+of the rows
+is well conditioned
+scaling of the
+r r t
+of a t
+the qr factorization
+complete orthogonal decomposition
+the columns of
+for the rowspace
+the rowspace of
+rowspace of a
+weighted least squares
+columns of a
+rows of a
+d 1 2
+column of r
+least squares problem
+up to a
+an m theta
+linearly independent of
+u 1 d
+2 gammaa d
+1 i n
+is an m
+the condition number
+k k a
+j is linearly
+d a r
+factorization have been
+rows or the
+or the columns
+that the columns
+1 j n
+of the columns
+t r r
+an accurate solution
+the back substitution
+algorithm is stable
+of the algorithm
+least squares problems
+the rows or
+with column pivoting
+of u 1
+a j is
+qr factorization have
+k 0 steps
+t d 1
+k a j
+first k basis
+pivoting is necessary
+the complete orthogonal
+back substitution step
+rd gammaa d
+orthogonal decomposition algorithm
+i n kd
+for gamma 1
+kd 1 2
+the basis rows
+matrix that is
+m theta m
+is linearly independent
+gamma 1 a
+an upper triangular
+the first n
+that is well
+the first k
+triangular matrix that
+0 steps of
+no pivoting is
+be the computed
+gamma1 2 have
+between the weights
+upper bound on
+the second step
+have been completed
+second step of
+the norms of
+qr factorization in
+first n rows
+a r t
+z t d
+1 a 1
+the rows of
+is the ith
+n rows of
+entries of d
+basis for the
+an n theta
+norms of the
+is an n
+a qr factorization
+of the first
+step of the
+interior point methods
+an upper bound
+j k k
+that d a
+1 d 1
+ith column of
+error bound is
+of r t
+u 1 is
+qr factorization with
+the weight matrix
+bound on k
+m theta n
+to show that
+in the back
+show that there
+weights of the
+a j k
+the ith column
+2 have been
+y be the
+the ill conditioning
+the weights of
+of the qr
+in interior point
+1 is an
+qr factorization of
+r t r
+r i is
+k a k
+that r is
+i is the
+theta n matrix
+then kc gammat
+the nsh algorithm
+gamma1 2 are
+been completed partition
+conditioning of d
+about the condition
+the nsh method
+r t rd
+the nonbasis rows
+1 are small
+kc gammat 1
+basis consisting of
+n columns are
+d a rd
+norm of that
+of c gammat
+these other works
+the exact upper
+requires less work
+the residual portions
+been pre pivoted
+exact upper triangular
+the first vectors
+of the nonbasis
+2 gammaa is
+columns and u
+ff 1i ff
+definition of stability
+there are upper
+discussion in x1
+positive definite m
+a dm a
+definite m theta
+where z 1
+matrix u 1
+residual portions of
+thus 13 holds
+gammaa is well
+lemma 2 then
+conditioned for gamma
+basis rows and
+rigorous stability analysis
+given in x1
+n kd 1
+a rigorous stability
+to know something
+t rd gammaa
+k basis vectors
+small error introduced
+us that r
+is upper triangular
+the computed solution
+i n 1
+the upper triangular
+a t is
+is an upper
+steps of the
+t a t
+gives an upper
+2 are ordered
+any basis for
+intuitive discussion in

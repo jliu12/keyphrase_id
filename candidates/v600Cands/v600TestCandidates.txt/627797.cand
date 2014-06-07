@@ -1,0 +1,600 @@
+dma
+itemsets
+site
+polling
+candidate
+mining
+association
+cd
+sites
+pruning
+counts
+itemset
+apriori
+ch
+db
+heavy
+skewness
+database
+sup
+count
+locally
+dhp
+ll
+maxsup
+partitions
+globally
+databases
+broadcast
+candidates
+bed
+gen
+exchange
+scan
+rules
+t10
+hl
+discovery
+hash
+bc
+pdm
+i4
+partition
+thresholds
+message
+500k
+messages
+secondary
+iteration
+ratios
+minsup
+ab
+clifton
+900k
+75
+threshold
+requests
+experiment
+broadcasts
+collect
+reduction
+prune
+shichao
+kubat
+buckets
+items
+hashing
+primary
+zaki
+lp
+transaction
+vaidya
+fef
+fefg
+d500k0
+fbc
+adaptation
+request
+mohammed
+plotted
+scanning
+pruned
+sequential
+away
+jaideep
+fab
+ranges
+ling
+centralized
+horizontally
+273
+broadcasted
+hongjun
+xindong
+pvm
+synthesizing
+sigkdd
+sent
+chris
+zhang
+feng
+miroslav
+chengqi
+100k
+jiawei
+synthetic
+acts
+partitioned
+broadcasting
+vipin
+parthasarathy
+sp2
+deduced
+picked
+han
+subsets
+gg
+1000
+transmitted
+finds
+lemma
+privacy
+chart
+srinivasan
+sizes
+against
+multidimensional
+synchronization
+scans
+vertically
+receive
+evolutionary
+ac
+6000
+clustering
+jeffrey
+tutorial
+ef
+ninth
+wei
+popular
+centers
+reply
+recorded
+send
+kantarcioglu
+cdg
+dbminer
+1037
+hbc
+0026
+gudes
+065
+jingkai
+silvestre
+pendharkar
+como
+literatures
+wthrich
+ycel
+d500k11
+parag
+fbcg
+sap
+d500k501502
+bcg
+jianning
+acg
+databasess
+sanseverino
+d500k40012002
+unfavourable
+perrizo
+rgc
+700k
+netweaver
+saygin
+12100k
+legler
+bar
+sends
+rs
+originating
+kumar
+gamma
+effective
+responsible
+communication
+lu
+workstations
+receives
+300k
+murat
+2400
+masaru
+rozenberg
+1534
+kargupta
+morinaga
+1387
+lekkala
+candidate sets
+site s
+support counts
+locally large
+association rules
+at site
+large itemsets
+of candidate
+local pruning
+polling site
+candidate set
+globally large
+x sup
+local support
+s i
+large at
+support count
+count exchange
+in dma
+global pruning
+dma is
+dma and
+mining of
+counts of
+itemsets in
+of association
+the candidate
+each site
+apriori gen
+every site
+other sites
+mining association
+itemset x
+dma cd
+ch k
+heavy at
+and cd
+the support
+the apriori
+the polling
+the sites
+k itemsets
+a site
+minimum support
+ch i
+db i
+heavy itemsets
+the heavy
+an itemset
+sets generated
+in db
+a polling
+in ch
+rules in
+polling requests
+of dma
+message size
+support threshold
+i k
+the local
+data mining
+global support
+itemsets at
+sets at
+ll i
+cd figure
+the database
+distributed database
+apriori algorithm
+0 75
+association rule
+of mining
+secondary range
+against cd
+primary range
+dma against
+75 minimum
+polling sites
+heavy k
+maxsup x
+s 1
+sets in
+itemsets are
+itemsets found
+are locally
+for mining
+the mining
+is heavy
+distributed databases
+a candidate
+x is
+the partitions
+t10 i4
+distributed mining
+total message
+message communication
+test bed
+these candidate
+partition db
+algorithm dma
+in ll
+dma has
+between dma
+data skewness
+of sites
+the ratios
+l k
+each candidate
+the large
+the partition
+parallel mining
+for count
+the itemsets
+site of
+sup i
+for support
+gen function
+prune away
+2 candidate
+large k
+sites in
+sites the
+transactions in
+knowledge discovery
+not locally
+all large
+hash tree
+k itemset
+partitions are
+s j
+messages for
+to collect
+execution time
+on knowledge
+is locally
+polling request
+sets ch
+that dma
+hl i
+sites s
+the dma
+than cd
+5 databases
+secondary ranges
+cd are
+its subsets
+remaining candidate
+counts and
+parallel environment
+s 3
+size 2
+first experiment
+50 1
+1 50
+the reduction
+candidates in
+s 2
+of apriori
+site for
+of message
+experiment is
+experiment the
+and secondary
+the globally
+th iteration
+k to
+rule mining
+direct application
+database db
+set generation
+sets per
+1 itemsets
+lp i
+away some
+set x
+x must
+subsets are
+at s
+database is
+a distributed
+of items
+and data
+scan on
+database mining
+generalized association
+be locally
+rules from
+adaptation of
+iteration the
+reduction in
+of transactions
+exchange for
+large 2
+the counts
+message sizes
+itemsets for
+pruned away
+size reduction
+average number
+sizes in
+site s i
+of candidate sets
+at site s
+locally large at
+support counts of
+local support counts
+the local support
+the candidate sets
+number of candidate
+set of candidate
+mining of association
+the support counts
+candidate sets in
+association rules in
+of association rules
+large at site
+dma and cd
+the other sites
+mining association rules
+candidate sets generated
+a site s
+at each site
+candidate sets at
+the local pruning
+a candidate set
+an itemset x
+the large itemsets
+each candidate set
+are locally large
+candidate sets and
+heavy at site
+ch i k
+each site s
+counts of the
+site s 1
+large itemsets in
+a polling site
+x sup i
+the heavy itemsets
+is locally large
+dma cd figure
+globally large itemsets
+support count exchange
+the polling site
+candidate set x
+all the sites
+of mining association
+a distributed database
+for each candidate
+75 minimum support
+is heavy at
+rules in distributed
+1 0 75
+itemset x is
+dma against cd
+0 75 minimum
+these candidate sets
+heavy k itemsets
+number of sites
+candidate sets are
+50 1 0
+the apriori algorithm
+at a site
+1 50 1
+the mining of
+x is locally
+not locally large
+its subsets are
+of large itemsets
+polling site of
+the apriori gen
+for support count
+x is heavy
+for count exchange
+applying the apriori
+between dma and
+sets in ch
+local support count
+be locally large
+the globally large
+apriori gen function
+large k itemsets
+at every site
+ch k is
+support counts and
+large itemsets are
+rules in a
+in distributed databases
+for mining association
+must be locally
+minimum support threshold
+all its subsets
+size 2 candidate
+counts of all
+the support threshold
+the first experiment
+distributed mining of
+of the candidate
+k th iteration
+if an itemset
+problem of mining
+gen function on
+and cd are
+x is globally
+2 candidate sets
+in ll i
+itemsets at each
+exists a site
+ll i k
+large itemsets found
+as a polling
+remaining candidate sets
+globally large k
+of support counts
+candidate set generation
+candidate sets per
+global support counts
+the heavy k
+k itemsets at
+global support count
+the secondary range
+in ch i
+the global support
+count exchange for
+partition db i
+local pruning and
+candidate sets ch
+transactions in db
+candidate sets by
+prune away some
+in ch k
+and secondary ranges
+support count of
+site s 3
+the primary range
+performance of dma
+message size reduction
+is globally large
+x must be
+k the set
+the set of
+of the apriori
+to prune away
+site s 2
+set of large
+direct application of
+association rule mining
+of the itemsets
+all the candidate
+s i then
+the total message
+a direct application
+o n messages
+the number of
+data engineering v
+of transactions in
+knowledge and data
+and data engineering
+average number of
+on knowledge and
+the remaining candidate
+the candidate set
+l k gamma1
+parallel mining of
+itemsets in the
+generalized association rules
+transactions on knowledge
+in a distributed
+the ratios of
+k to denote
+i k to
+i k the
+primary and secondary
+on the partition
+cd t10 i4
+the dma algorithm
+candidate set at
+sites s j
+sets per site
+the partition db
+candidate set where
+for every candidate
+large at s
+ratios between them
+globally large then
+large in s
+of message communication
+heavy itemsets at
+their support counts
+is pruned away
+sets at every
+5 databases for
+i acts as
+some candidate sets
+itemsets in db
+sets generated at
+x large sites
+the size 2
+of dma and
+all the 5

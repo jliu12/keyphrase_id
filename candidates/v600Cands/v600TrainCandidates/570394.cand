@@ -1,0 +1,600 @@
+preference
+grammars
+stmtseq
+clause
+logic
+parse
+ifstmt
+grammar
+nonterminal
+parsing
+sh
+clauses
+dcg
+stmt
+pref
+arbiter
+ambiguity
+dctgs
+parses
+o1
+attachment
+definite
+plgs
+sentence
+nonterminals
+predicate
+bitstring
+preferred
+preferences
+plp
+gjm96
+para
+verb
+plg
+dcgs
+stretchability
+kp81
+shrinkability
+gov97
+memoization
+badness
+clp
+boy
+preferential
+relaxation
+translated
+girl
+declarative
+c1
+ss
+jl87
+assign1
+dctg
+binoculars
+cond2
+cond1
+ad89
+nounphrase
+bmw92
+assign2
+predicates
+prolog
+semantics
+shortest
+jm94
+literal
+paragraph
+document
+paragraphs
+ambiguous
+semantic
+specifying
+translation
+vp
+dist
+woman
+phrase
+worlds
+resolving
+dl
+cond
+c2
+adjustment
+expr
+llo87
+verbphrase
+standardizer
+relaxable
+abr84
+prepphrase
+linestretchbound
+naturallength
+lineshrinkbound
+desiredlength
+resolution
+o2
+logical
+attached
+atom
+else
+productions
+syntactic
+layout
+suboptimal
+attribute
+jayaraman
+sld
+preposition
+rules
+syntax
+derivation
+formatter
+unpaired
+xsb
+prepositional
+breaking
+quantifier
+saw
+founded
+arguments
+standardization
+regimes
+heads
+formalism
+programs
+scoping
+bharat
+spanned
+attributes
+assign
+noun
+resolve
+antecedents
+dangling
+existentially
+laying
+language
+hai
+negation
+var
+pp
+pruning
+constraint
+tree
+subtree
+np
+parsed
+essence
+statements
+stands
+sentences
+accompanied
+disambiguation
+head
+optionally
+declarativity
+kewen
+usz91
+war92
+per85
+ilustrate
+ptsld
+pw80
+knu68
+agt89
+loves
+ssw
+gjm95
+preferene
+necesary
+psychiatric
+plps
+vh89
+bitval
+wb93
+erb92
+schaub
+kim73
+guo
+nt
+association
+body
+rule
+pruned
+modular
+languages
+feng
+commit
+criterion
+correcting
+specifies
+internat
+typifies
+memoing
+reformat
+plass
+toplevel
+bitstrings
+misspellings
+recursion
+preference logic
+logic grammars
+definite clause
+of preference
+logic programs
+stmt s
+optimal parsing
+logic grammar
+o stmt
+clause grammars
+logic programming
+ambiguity resolution
+i o
+pref n
+preference clause
+preference clauses
+sh path
+o1 o
+clause grammar
+preferred parse
+o stmtseq
+the parse
+a preference
+clause translation
+translation grammars
+grammars we
+stmtseq t
+pref ifstmt
+sh dist
+attribute grammars
+the sentence
+grammars and
+the arbiter
+logic program
+each nonterminal
+parse tree
+path x
+o assign
+arbiter clauses
+i o1
+adjustment d
+stmtseq ss
+minimal attachment
+optimization clause
+the girl
+preference rules
+o predicates
+gjm96 gov97
+o predicate
+ifstmt if
+dcg rule
+constraint logic
+clause is
+t e
+the boy
+t o1
+definite clauses
+nonterminal n
+s difference
+c1 t
+s i
+shortest path
+the preferred
+grammars can
+if c1
+resolving ambiguity
+natural language
+in clp
+and declarative
+difference d
+context free
+translated into
+then else
+grammars a
+optimal parse
+else assign2
+for sh
+o pref
+language grammars
+how preference
+sh sh
+of plgs
+line breaking
+cond1 then
+then assign1
+parsing problems
+right association
+assign1 else
+rules attached
+with binoculars
+if cond1
+then stmtseq
+nounphrase n
+ifstmt s
+s stmt
+para line
+sentence spanned
+less preferred
+above dcg
+arbiter clause
+if cond2
+into preference
+stmtseq s
+cond2 then
+the nonterminal
+the shortest
+semantics of
+for specifying
+a logic
+in logic
+badness of
+a paragraph
+predicates appear
+the badness
+for preference
+feature structures
+line line
+of logic
+if then
+parsing and
+y c
+the optimal
+preferred than
+nonterminals that
+document layout
+for ambiguity
+np the
+the ambiguity
+else statements
+language parsing
+if cond
+dist x
+attached to
+x y
+of definite
+assign s
+predicate and
+above specification
+as optimal
+resolution in
+predicate or
+the paragraph
+the grammar
+a nonterminal
+clause are
+translation of
+the predicate
+the syntax
+clause for
+this clause
+tree for
+of ambiguity
+modular and
+heads of
+and relaxation
+in natural
+a definite
+the heads
+path problem
+be translated
+more preference
+declarative grammars
+grammar dcg
+clause attached
+else o2
+grammars optimal
+clp jl87
+vp v
+language sentences
+nonterminal with
+plp program
+unpaired then
+o var
+d predicates
+by productions
+sent np
+parse corresponding
+c predicates
+target plp
+of preferential
+parsing strategy
+in dctgs
+free rules
+o1 stmtseq
+grammars dctgs
+preference values
+preferred reading
+line para
+boy vp
+to declarative
+v nounphrase
+parse in
+optionally accompanied
+c predicate
+previous unpaired
+nonterminal nt
+attachment problem
+o1 expr
+verb v
+each else
+preference logic grammars
+of preference logic
+preference logic programs
+s i o
+o stmt s
+stmt s i
+clause translation grammars
+i o stmt
+definite clause grammar
+path x y
+a preference logic
+logic grammars we
+a logic grammar
+preference logic program
+definite clause grammars
+ambiguity resolution in
+definite clause translation
+logic grammars and
+s difference d
+o stmtseq t
+the preferred parse
+o1 o stmtseq
+i o assign
+c1 t e
+c if c1
+d s difference
+as in clp
+if c1 t
+adjustment d s
+stmtseq t o1
+difference d d
+x y c
+grammars can be
+if then else
+if c if
+the shortest path
+the parse tree
+d d 0
+sequence of words
+modular and declarative
+if cond2 then
+sentence spanned by
+then assign1 else
+if cond1 then
+programming language grammars
+rules attached to
+optimal parsing and
+preference rules attached
+translation of preference
+sh path x
+s stmt s
+assign1 else assign2
+y c p
+a definite clause
+sh dist x
+use of preference
+preference logic programming
+an optimization clause
+cond2 then assign1
+optimal parsing problems
+an o predicate
+else statements in
+cond1 then if
+is less preferred
+the above dcg
+ifstmt if c
+then if cond2
+the optimal parse
+semantics of preference
+into preference logic
+for ambiguity resolution
+less preferred than
+the use of
+optimization and relaxation
+each nonterminal n
+the badness of
+predicate or a
+natural language parsing
+attached to them
+then else statements
+parse tree for
+in the heads
+of logic programming
+of an optimization
+the above specification
+of the sentence
+t e x
+can be translated
+shortest path problem
+the translation of
+the heads of
+an if then
+of the clause
+constraint logic programming
+of the shortest
+called definite clause
+verb v nounphrase
+resolution in natural
+var v i
+representing the parse
+clause attached to
+the boy saw
+a substantial research
+stmtseq ss o1
+the target plp
+rules are specified
+parses the parse
+o1 stmtseq ss
+translated into preference
+is optionally accompanied
+clause and it
+that are suboptimal
+ss o1 o
+two possible parses
+or a constraint
+ambiguous definite clause
+sent np the
+naturallength n adjustment
+sh path the
+grammars optimal parsing
+o assign s
+constructs the optimal
+np the boy
+vp v n
+verb saw np
+o var v
+i o1 stmtseq
+how preference logic
+laying out paragraphs
+s ss i
+as optimal parsing
+such as optimal
+closest previous unpaired
+the preferred reading
+logic programming was
+parse corresponding to
+girl pp with
+t o1 o
+e i o
+logic grammars can
+o predicate and
+boy saw the
+parsing and natural
+lineshrinkbound a linestretchbound
+is some subset
+specifies that is
+to them give
+context free rules
+ss s ss
+logic grammars are
+else o2 stmtseq
+the parse corresponding
+assign s i
+saw the girl
+stmtseq s i
+a preference clause
+t o1 else
+clause is an
+pp with binoculars
+cond then stmtseq
+o stmtseq ss
+or more preference
+vp verb saw
+specified by productions
+commit to any
+dctgs can be
+stmtseq e o2
+definite clauses and
+optionally accompanied by
+v i o1
+ss i o
+s adjustment d
+grammars in that
+line line para
+use for ambiguity
+read as antecedents
+dl naturallength n
+pref ifstmt if
+dl n desiredlength
+i o stmtseq
+previous unpaired then
+as antecedents of
+d 0 stretchability
+and right association
+unpaired then we
+0 shrinkability s
+ambiguity resolution the
+preference clause attached
+e o1 o
+attachment and right
+boy vp verb
+target plp program
+o1 expr e
+the line breaking
+nonterminal n that
+o1 else o2
+sh sh dist
+clause grammars a
+natural language sentences
+0 stretchability s

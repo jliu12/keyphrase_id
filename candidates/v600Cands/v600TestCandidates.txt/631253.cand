@@ -1,0 +1,600 @@
+lqn
+requesthandler
+client
+ioout
+server
+uml
+architectural
+pipeline
+collaboration
+filter1
+ioin
+filter2
+filters
+buffer
+processor
+semaphore
+replications
+utilization
+ioexec
+downstreamfilter
+upstreamfilter
+rh
+software
+fig
+proc
+request
+stackout
+stackin
+telecommunication
+collaborations
+phase1
+throughput
+serialization
+message
+services
+requests
+accessor
+submodel
+filter
+bottleneck
+container
+synchronous
+configurations
+queueing
+reply
+modelling
+behavioural
+processors
+entry
+service
+behalf
+servers
+asynchronous
+upstrmfilter
+coallocation
+shmem1
+downstrmfilter
+proc_item
+phase2
+modelled
+architecture
+forwarding
+hardware
+rectangle
+configuration
+utilizations
+waiting
+critical
+clients
+passive
+devices
+user1
+system0
+usern
+pulls
+case0
+mirandola
+raffaela
+proc1
+entries
+thread
+busy
+attributes
+proposes
+connector
+arc
+dummy
+io
+database
+phases
+demands
+tasks
+visits
+patterns
+task
+queue
+messages
+rendezvous
+rome
+interactions
+object
+idle
+item
+shared
+bottlenecks
+achievable
+diagrams
+toolset
+behaviour
+allocation
+script
+replication
+cortellessa
+active2
+petriu
+proc2
+utilization0
+lifeline
+grassi
+phase3
+server2
+active1
+shmem2
+allocated
+excessive
+read
+measurements
+served
+sect
+submodels
+lifecycle
+blackboard
+callers
+wait
+transformation
+roles
+early
+alternatives
+612
+serializes
+weaknesses
+saturated
+active
+structural
+quantify
+vincenzo
+vittorio
+arcs
+frequently
+systematic
+slave
+broker
+61
+arrow
+sigsoft
+transformations
+qn
+613
+delegates
+accepting
+capacity
+pattern
+response
+circle
+scenarios
+optionally
+corba
+stochastic
+objects
+running
+utilized
+exchanged
+loads
+layered
+bridging
+pushes
+exposes
+insure
+exclusive
+3rd
+delays
+italy
+invoke
+named
+handler
+scheduling
+responsible
+diagram
+cpu
+offer
+stages
+replies
+initiating
+contained
+assess
+processes
+threads
+device
+contributions
+development
+lqn model
+the lqn
+architectural patterns
+in fig
+client server
+an lqn
+processor node
+software architecture
+performance models
+are running
+telecommunication system
+with buffer
+of requesthandler
+the pipeline
+performance attributes
+task entry
+requesthandler replications
+of lqn
+the client
+pipeline with
+the software
+running on
+the server
+and filters
+software performance
+asynchronous message
+upstreamfilter downstreamfilter
+replications utilization
+request arc
+performance modelling
+a lqn
+filters are
+processor configuration
+processor nodes
+each software
+the filters
+critical section
+pipeline and
+same processor
+the system
+shared object
+the uml
+the requesthandler
+stackin stackout
+processor database
+task utilizations
+performance engineering
+lqn submodel
+lqn task
+the architectural
+client to
+behalf of
+on behalf
+passive object
+achievable throughput
+a client
+performance analysis
+software components
+useful work
+performance model
+a software
+different processor
+synchronous message
+utilizations for
+server systems
+level architecture
+downstreamfilter buffer
+utilization ioout
+proc base
+forwarding message
+excessive serialization
+database requesthandler
+buffer upstrmfilter
+included services
+accessor shared
+software bottleneck
+architectural pattern
+4 proc
+software task
+buffer upstreamfilter
+semaphore task
+to excessive
+object operations
+filter1 filter2
+61 number
+fully modified
+upstrmfilter downstrmfilter
+lqn was
+6 processors
+server client
+class object
+queueing network
+high level
+performance limitations
+modified system
+structural and
+server may
+software and
+a task
+model parameters
+of services
+to building
+as entries
+of visits
+a telecommunication
+active objects
+demands for
+and behavioural
+an entry
+allocation of
+modelled as
+execution times
+the bottleneck
+on different
+an asynchronous
+a reply
+entries of
+see fig
+models from
+4 processor
+the allocation
+system0 20
+server pattern
+uml a
+multi server
+serialization constraints
+case0 20
+into lqn
+section accessor
+phase1 phase2
+critical sect
+half way
+building performance
+base case0
+modified system0
+container contained
+raffaela mirandola
+into performance
+lqn models
+2002 rome
+6 processor
+level architectural
+software server
+distributed software
+the collaboration
+performance july
+from hardware
+constraint sequential
+thread of
+configuration base
+each architectural
+early performance
+coallocation container
+time demands
+way modified
+the shared
+each user
+to processors
+the utilization
+a server
+processing power
+critical sections
+a performance
+the high
+contributions to
+frequently used
+requests for
+a pipeline
+systematic approach
+and performance
+20 61
+each request
+a collaboration
+a uml
+buffer figure
+software architectures
+service requests
+different software
+other servers
+system request
+and configurations
+queue where
+next item
+hardware devices
+architectural connection
+for performance
+transformation of
+the performance
+with message
+performance characteristics
+of control
+entry for
+a rectangle
+task that
+the message
+entry of
+configurations and
+is saturated
+may offer
+different configurations
+the lqn model
+are running on
+pipeline and filters
+same processor node
+number of requesthandler
+on different processor
+different processor nodes
+as in fig
+the same processor
+a client to
+the shared object
+an lqn model
+of the lqn
+performance models from
+requesthandler replications utilization
+for each software
+of requesthandler replications
+running on different
+task utilizations for
+pipeline with buffer
+client server client
+shown in fig
+on behalf of
+the high level
+the software architecture
+approach to building
+high level architecture
+upstreamfilter downstreamfilter buffer
+due to excessive
+20 61 number
+structural and behavioural
+buffer upstrmfilter downstrmfilter
+buffer upstreamfilter downstreamfilter
+client server systems
+lqn model is
+an asynchronous message
+the architectural patterns
+users are running
+as entries of
+filters are running
+61 number of
+proc base case
+pipeline with message
+to excessive serialization
+the filters are
+the pipeline with
+each request arc
+replications utilization ioout
+proposes a systematic
+the performance attributes
+running on the
+the allocation of
+number of visits
+in fig 4
+transformation of the
+as a client
+on the same
+an entry of
+for each request
+a systematic approach
+systematic approach to
+hardware to software
+behalf of different
+high level architectural
+software task entry
+section accessor shared
+of a pipeline
+described in fig
+critical section accessor
+case of 6
+in the lqn
+server client server
+modified system0 20
+each software task
+a reply from
+the class object
+and performance july
+from hardware to
+of an lqn
+building performance models
+thread of control
+software performance engineering
+24 26 2002
+2002 rome italy
+processor database requesthandler
+the constraint sequential
+each architectural pattern
+shared object operations
+of 6 processors
+base case0 20
+4 processor configuration
+into a performance
+system is saturated
+to other servers
+client server pattern
+the telecommunication system
+processor configuration base
+the semaphore task
+lqn model for
+july 24 26
+performance july 24
+of the requesthandler
+case0 20 61
+level architecture of
+modelled as entries
+26 2002 rome
+coallocation container contained
+half way modified
+6 processor configuration
+configuration base case0
+from the high
+of a system
+of the system
+a pipeline with
+reply from the
+a performance model
+on software and
+behalf of a
+maximum achievable throughput
+3rd international workshop
+is running on
+software and performance
+a telecommunication system
+fig 4 a
+in the case
+in fig 2
+entry for each
+the real system
+fig 5 and
+to the software
+of the pipeline
+the system bottleneck
+entry of the
+for the 4
+weaknesses in the
+fig 1 and
+a rectangle with
+1 january 2004
+entries of the
+software and hardware
+the work to
+when the system
+workshop on software
+the client server
+the critical section
+for each user
+architecture of a
+entries of a
+be modelled as
+as shown in
+performance analysis of
+of a task
+notes v 29
+as a process
+n 1 january
+execution times for
+executed on the
+the role of
+the 3rd international
+of different types
+the case of
+of the server
+performance engineering of
+co allocation collaboration
+request handler ioout
+an lqn task
+20 613 4
+system0 20 612
+that the callers
+a multi server
+software architecture of
+level architectural patterns
+processor node the
+task that plays
+buffer filter1 1
+a new software
+task are executed
+processor ioexec database
+the pipeline connector
+filter1 1 n
+a system request
+request arc from
+object flow carried
+task entry seen
+of rh replications
+queueing network lqn
+execution time demands
+level software architecture
+the bottleneck moves
+configurations with one
+sequential attached to
+architectural patterns into
+coordinate outside the
+the first filter
+database requesthandler figure
+as response time
+to building performance
+is saturated in
+of the telecommunication
+cause for performance

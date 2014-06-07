@@ -1,0 +1,600 @@
+declustering
+dlb
+load
+gis
+polygons
+polygon
+spatial
+llb
+processor
+query
+processors
+grr
+speedups
+pool
+hpgis
+balancing
+4x
+queries
+sigma
+arr
+static
+extent
+balance
+pbm
+pdb
+chunks
+window
+declustered
+terrain
+ids
+chunk
+polygonization
+75
+partitioning
+bounding
+map
+donor
+axis
+2x
+sim
+transferring
+filtering
+idling
+parallelizing
+hilbert
+box
+similarity
+t_s
+proceccors
+clipped
+t3d
+intersection
+imbalance
+polygonal
+idle
+objects
+speedup
+geographic
+avg
+metric
+decluster
+pidset
+transferred
+overlay
+cray
+003
+edges
+alternatives
+graphics
+transfer
+clipping
+maps
+engine
+iv
+1x
+004
+pw
+population
+boxes
+visualization
+killeen
+wsg
+apprx
+0454
+viewport
+006
+chains
+object
+robin
+options
+peer
+secondary
+daah04
+preprocessing
+division
+100
+parallelization
+army
+segments
+granularity
+mimd
+density
+transfers
+grid
+008
+leader
+sp
+iii
+otal
+lldb
+ramachandran
+ool
+creek
+150hz
+llb_edge_box
+s_p
+apprxfil
+481216
+0518
+bbox
+41162
+s_1
+82324
+9667
+8kmx8km
+s_2
+experimentally
+sequential
+estimator
+sample
+trends
+parallelizable
+dividing
+ferhatosmanoglu
+678
+imposed
+ith
+overhead
+experiment
+finish
+subsets
+estimating
+cells
+collections
+chunking
+overestimates
+imbalances
+approximator
+unpacking
+aravind
+minimization
+increased
+files
+texas
+experimental
+achieving
+replicated
+007
+distributions
+join
+np
+mismatch
+approximated
+averaged
+partition
+allocating
+hakan
+raster
+pid
+distribute
+varied
+approximate
+requesting
+188
+intersects
+round
+drawback
+uniform
+disk
+expensive
+sec
+duplicating
+dynamic
+grids
+formulations
+allocation
+generator
+issues
+minnesota
+adequate
+sends
+dp
+bb
+storage
+replication
+scheduling
+statically
+8x
+systematic
+dotted
+range query
+work load
+range queries
+spatial extent
+the gis
+declustering methods
+extended spatial
+similarity graph
+gis range
+query problem
+static declustering
+declustering method
+load balance
+sigma 0
+load balancing
+load metric
+spatial objects
+the declustering
+the spatial
+75 range
+dynamic load
+spatial data
+speedups for
+for declustering
+dlb methods
+the work
+axis gives
+the dlb
+of polygons
+of processors
+the load
+the polygon
+declustering problem
+the static
+idle processor
+bounding box
+of extended
+extent of
+declustering and
+extended objects
+the pool
+graphics engine
+load density
+declustering of
+processors and
+each processor
+data partitioning
+different processors
+of range
+alternatives for
+for polygon
+of work
+over 75
+cost t
+in declustering
+terrain visualization
+clipped load
+each range
+polygonal data
+sample window
+pool size
+polygons in
+of edges
+more work
+the data
+the bounding
+object ids
+an idle
+load distribution
+the range
+declustering spatial
+polygon data
+polygonization of
+4x map
+llb method
+processor idling
+gis declustering
+intersection computation
+of declustering
+local load
+x axis
+the polygons
+intersection points
+among different
+local data
+load imbalance
+issues in
+minimization function
+main memory
+transferring the
+and similarity
+methods for
+the graphics
+cray t3d
+ith processor
+per chunk
+different declustering
+map overlay
+of proceccors
+0 003
+the hpgis
+query operation
+density over
+of dlb
+the llb
+declustered into
+is declustered
+dlb method
+approximate filtering
+gives the
+total work
+data from
+between processors
+t s
+of spatial
+y axis
+data is
+16 processors
+chunks of
+distribution based
+cost of
+extent is
+be uniform
+balancing methods
+work transfer
+average speedups
+the processors
+good load
+by transferring
+based method
+in increased
+static load
+over 16
+static part
+set s
+line segments
+trends observed
+declustering the
+filtering computation
+and polygons
+static gives
+75 queries
+max static
+polygon pw
+dlb phase
+003 0
+based declustering
+pool based
+dlb issues
+25 75
+systematic declustering
+map 4x
+polygon ids
+time terrain
+declustering extended
+static execution
+population distribution
+donor processor
+2x map
+sim 100
+100 llb
+main trends
+avg static
+gis operations
+leader processor
+polygon level
+approximated with
+iv schemes
+balancing techniques
+of intersection
+type ii
+p processors
+the cost
+run time
+for parallelizing
+chains of
+the x
+point data
+mapping function
+local processing
+the y
+processor for
+the filtering
+a polygon
+processors the
+bounding boxes
+work required
+spatial object
+in gis
+work transfers
+0 004
+declustering for
+p subsets
+s b
+geographic information
+the cray
+a sample
+high performance
+for extended
+this experiment
+the work load
+range query problem
+the range query
+gis range query
+the spatial extent
+the gis range
+work load metric
+dynamic load balancing
+75 range queries
+number of processors
+axis gives the
+extended spatial objects
+spatial extent of
+the static declustering
+extended spatial data
+of extended spatial
+among different processors
+of the work
+an idle processor
+static declustering methods
+the graphics engine
+extent of the
+the bounding box
+number of edges
+work load distribution
+issues in declustering
+and similarity graph
+each range query
+x axis gives
+the x axis
+the load balance
+y axis gives
+declustering methods for
+the load density
+the gis declustering
+of extended objects
+chains of line
+over the spatial
+the declustering method
+polygons in the
+polygonization of the
+similarity graph and
+alternatives for each
+gis declustering problem
+for the gis
+range query and
+gives the average
+of range queries
+of processors and
+the y axis
+at each processor
+the minimization function
+and the y
+to the static
+good load balance
+for more work
+a range query
+declustering problem is
+of the gis
+number of proceccors
+set of polygons
+and dynamic load
+sigma 0 003
+load density over
+a good load
+different declustering methods
+extent is assumed
+declustering spatial data
+local load balance
+spatial extent is
+range queries the
+over 16 processors
+over 75 range
+for each range
+range queries in
+the cost of
+the number of
+of line segments
+processors and the
+speedups for different
+load balancing methods
+spatial data in
+the average speedups
+of the minimization
+improved by using
+the static part
+method with a
+of the result
+load balancing techniques
+the cray t3d
+collections of extended
+since the declustering
+population distribution based
+is approximated with
+the polygon ids
+between processors during
+main trends observed
+declustering and load
+objects from this
+time terrain visualization
+the ith processor
+of intersection points
+for extended spatial
+trends observed from
+methods for parallelizing
+the llb method
+static declustering of
+a sample window
+of dlb methods
+the main trends
+segments and polygons
+the dlb method
+and an idle
+time over 16
+range query q
+the polygon data
+as the declustering
+the dlb phase
+to be uniform
+the pool size
+real time terrain
+static execution time
+declustering extended spatial
+static load imbalance
+static gives the
+pool based method
+0 003 0
+a is approximated
+granularity of work
+range query operation
+density over the
+sigma 0 004
+the spatial data
+range query is
+sets of extended
+load metric the
+sigma 0 006
+cost t t
+and load balancing
+in the case
+of edges and
+used as the
+gives the number
+amount of work
+the case of
+that the static
+to 16 and
+of range query
+load balance and
+the polygons in
+by transferring the
+intersection points of
+is assumed to
+and the load
+is used as
+paper we focus
+of the total
+due to the
+of the data
+shown in figure
+a b figure
+we compare the
+provide a framework
+for the spatial
+of the range
+the set s
+assumed to be
+the main memory
+be the number
+the local data
+number of polygons
+line segments and
+in estimating the
+in addition we
+be improved by
+problem is np
+the total work
+with a sample
+declustered into p
+query problem the
+metric the spatial
+in increased total
+30 sim 30
+work load over
+be transferred during
+the hpgis component
+sigma 0 008
+similarity graph 100
+sim 100 llb
+work is transferred
+of different declustering
+a donor processor
+and iv schemes
+cost t s
+declustering method is
+ask for more
+proceccors hilbert sim
+the declustering problem
+0454 sigma 0
+as the work

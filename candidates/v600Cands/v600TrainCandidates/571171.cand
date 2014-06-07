@@ -1,0 +1,600 @@
+eil
+b32
+prolog
+il
+predicate
+oldarray
+oldvar
+applyatom
+int
+transformations
+array
+logic
+vertex
+initvert
+listof
+brif
+newarr
+atomic
+stack
+ldc
+b2
+nop
+branch
+arrays
+b1
+obfuscating
+vlabel
+branchvert
+transformation
+di
+initialisation
+instruction
+soot
+obfuscation
+cond
+eval
+ticked
+apts
+tpred
+obfuscations
+stloc
+oldvert
+nopvert
+ctype
+newvar
+rewriting
+optimisations
+constructor
+expr
+sname
+dead
+predicates
+old
+language
+propagation
+erent
+div
+initialise
+unused
+instr
+primitives
+replace
+bytecode
+expressions
+syntax
+queries
+label
+mercury
+temporal
+edges
+labels
+newvert
+jimple
+trueedge
+newvarname
+astlog
+isnode
+assmann
+predsym
+secondinitvert
+occursvert
+elabel
+newuse
+interconvertibility
+grimp
+verifiable
+shall
+flow
+typed
+edge
+volder
+mt1
+unindexed
+sittampalam
+oege
+assignment
+modal
+fn
+literal
+decompilation
+ppdp
+refactoring
+whitfield
+analyses
+pattern
+rewrite
+propagate
+binds
+bindings
+tabling
+labelled
+entry
+cult
+goals
+bind
+exp
+moor
+curly
+branches
+regular
+occurrences
+path
+elimination
+universal
+microsoft
+transformed
+conduct
+fresh
+java
+semistructured
+expression
+instructions
+node
+outgoing
+overflow
+guages
+patterns
+compile
+tick
+inspiration
+declarative
+paths
+net
+bijective
+prompted
+ganesh
+whilst
+newly
+statement
+spec
+query
+assignments
+rays
+expres
+modest
+splitting
+specifications
+alias
+replacing
+es
+culty
+exhaustively
+brfalse
+initialisations
+initialising
+ldarg
+brtrue
+pointcuts
+localvar
+obfuscators
+cdiv
+kwiatkowski
+ldloc
+decompile
+masuahara
+commmon
+falseedge
+starg
+oldvarvert
+modularisation
+determinised
+primitive
+transform
+ects
+m2
+v2
+existential
+m1
+exit
+target
+convenient
+signed
+split
+nanjun
+sations
+obfuscate
+lacey
+jungl
+verbaere
+nonsensical
+int true
+logic programming
+true b32
+path logic
+new arrays
+local variable
+the il
+flow graph
+of eil
+the predicate
+of il
+replace vertex
+path queries
+new local
+il code
+atomic propagation
+and b2
+the stack
+regular path
+predicate all
+old array
+standard prolog
+new vertex
+atomic value
+program transformations
+node n
+the flow
+at edge
+instr label
+il instruction
+term term
+unused other
+obfuscating transformations
+b1 and
+of prolog
+vertex n
+an array
+path patterns
+il to
+use x
+intermediate language
+the old
+uses of
+a predicate
+edge e
+transformation system
+x e
+the transformation
+local variables
+than at
+side conditions
+type spec
+path pattern
+dead branch
+array splitting
+temporal goal
+logic term
+strategy language
+brif i
+of obfuscating
+replacing uses
+use fn
+ldc int
+exp expr
+b32 int
+array type
+solving regular
+il that
+holds true
+instruction at
+the prolog
+di erent
+program transformation
+x v
+array split
+exists set
+the soot
+soot framework
+branch cond
+assignment elimination
+array transformations
+net intermediate
+variable transformation
+expr type
+one path
+modal logic
+java bytecode
+two new
+we shall
+dead assignment
+entry n
+a path
+a use
+all paths
+x use
+array variable
+true branch
+labelled with
+presented here
+il is
+div 2
+new int
+original array
+predicate that
+at node
+abstract syntax
+holds at
+branch we
+outgoing edges
+paths from
+literature on
+to replace
+stack based
+shall be
+program analyses
+is atomic
+transformations the
+n x
+predicate is
+transformed to
+a temporal
+transformations are
+parameter to
+program analysis
+eil in
+prolog primitives
+compiler optimisations
+oldarray is
+transformations 13
+occurs r
+brif j
+type applyatom
+language il
+div two
+pattern tpred
+unindexed oldarray
+an eil
+nop void
+specifying program
+applyatom nop
+our obfuscations
+vlabel n
+applyatom ldc
+b32 n
+programming goals
+modest extension
+interconvertibility of
+a ticked
+optimisations and
+transformations 8
+predsym term
+use build
+build n
+pattern term
+array occurs
+ctype from
+purpose logic
+newarr and
+initvert oldarray
+original arrays
+rewriting solving
+vertex instr
+logic terms
+oldvar newvar
+arrays b1
+method reaches
+elabel e
+label labels
+graph rewrite
+15 loop
+eil instruction
+eil terms
+specify program
+the eil
+jimple and
+use oldvar
+exists use
+cond branch
+to eil
+temporal goals
+tick mark
+in apts
+pattern pattern
+new ar
+verifiable il
+used afterwards
+the obfuscation
+ticked predicate
+propagate n
+in prolog
+of path
+a list
+a type
+aspect oriented
+variable is
+us look
+takes a
+list of
+the constructor
+6 2
+int true b32
+path logic programming
+the flow graph
+use x e
+regular path queries
+other than at
+b1 and b2
+on the stack
+at edge e
+unused other than
+two new arrays
+a local variable
+the old array
+all paths from
+in the flow
+than at n
+the il instruction
+true b32 int
+an array split
+b32 int true
+replace vertex n
+dead assignment elimination
+a temporal goal
+have an array
+an atomic value
+ldc int true
+solving regular path
+of obfuscating transformations
+of path logic
+least one path
+the soot framework
+x use x
+net intermediate language
+at n x
+uses of x
+at node n
+holds true if
+new local variable
+local variable is
+the original array
+of the form
+pattern is a
+those presented here
+a list of
+of the old
+of i are
+a predicate that
+a logic programming
+a regular expression
+general purpose logic
+all expressions are
+should be transformed
+every path through
+type applyatom nop
+introduction to c
+predsym term term
+new arrays b1
+predicate all p
+and transformation with
+source n e
+imperative program transformation
+i 20 loop
+expr type applyatom
+specify program analysis
+holds at edge
+the pattern q
+logic programming goals
+ctype from type
+new local variables
+regular expression whose
+use build to
+x entry n
+a path pattern
+from type spec
+of eil in
+purpose logic programming
+eil instruction at
+list of outgoing
+transformation with graph
+at the conditions
+of variable transformation
+il to eil
+to initialise the
+interconvertibility of a
+path patterns are
+rewriting solving regular
+intermediate language il
+through the method
+new vertex instr
+strategy language is
+use or definition
+forms of predicate
+v local x
+applyatom ldc int
+exp expr type
+graph rewrite systems
+uses and definitions
+to implementing higher
+logic programming is
+our transformation system
+new ar rays
+of program paths
+brif i 20
+arrays b1 and
+new int 10
+program transformation by
+use fn a
+the old variable
+class of set
+x v local
+standard compiler optimisations
+form x v
+temporal goal is
+a modest extension
+all and exists
+the logic term
+convert from il
+true b32 n
+position the stack
+dead branch elimination
+from il to
+code that results
+tick mark in
+the eil instruction
+vertex instr label
+occurs r x
+universal path patterns
+the new ar
+applyatom nop void
+outgoing edges and
+transformation system at
+atomic propagation the
+by rewriting solving
+definition of propagate
+pattern term term
+expressions are typed
+with graph rewrite
+overview of temporal
+practical program analysis
+programming and model
+the method reaches
+modal logic programming
+b2 is given
+the original arrays
+logic term the
+modest extension of
+original array size
+whitfield and so
+expression whose alphabet
+transformation by rewriting
+instr label l
+the new arrays
+ar rays we
+between a b1
+a ticked predicate
+applying program transformations
+taxonomy of obfuscating
+replacing uses of
+programmer s introduction
+implementing higher order
+viewing a program
+system at work
+specification of program
+analysis using general
+x and v
+us look at
+let us look
+be transformed to
+to an element
+mark in front
+bytecode using the
+the old vertex
+the instruction at
+in words there
+program transformation system
+using the soot
+optimizing java bytecode
+of prolog for
+of our transformation
+the extensive literature
+oege de moor
+set constraints and
+semistructured data based
+the net intermediate
+order term rewriting
+free language reachability
+extension of prolog
+the predicate all
+takes a type
+use of prolog
+approach for exploring
+two new forms
+local variable to
+loop should be
+a b1 and
+a return statement
+universal regular path
+constraints and context
+logic programming for
+for exploring code
