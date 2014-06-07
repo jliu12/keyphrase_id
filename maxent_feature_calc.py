@@ -13,8 +13,8 @@ stopwords = []
 #outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
 #candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
 
-outputPath = "maxentOutput600.txt"#MAXENT CHANGE
-candidatesPath = "test600Cands"#MAXENT CHANGE
+outputPath = "v600TrainMaxentFullFeatureSetOutput.txt"#MAXENT CHANGE
+candidatesPath = "train600cands"#MAXENT CHANGE
 
 
 class FeatureCalculator:
@@ -252,7 +252,7 @@ def main():
 	
 	#MAXENT CHANGE
 	encoding = maxent.TypedMaxentFeatureEncoding.train(train_featureset, count_cutoff=3, alwayson_features=True)#MAXENT CHANGE
-	classifier = maxent.MaxentClassifier.train(train_featureset, algorithm='iis', bernoulli=False, encoding=encoding, trace=1)#MAXENT CHANGE
+	classifier = maxent.MaxentClassifier.train(train_featureset, algorithm='iis', bernoulli=False, encoding=encoding, trace=3)#MAXENT CHANGE
 	
 	run_classifier(classifier, test_featureset)
 
