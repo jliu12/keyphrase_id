@@ -1,0 +1,600 @@
+dbb
+wire
+sinks
+floorplanning
+buffers
+elmore
+delay
+spt
+buffer
+mst
+capacitance
+spanning
+steiner
+sink
+buffered
+insertion
+timing
+resistance
+tree
+routability
+interconnect
+wiring
+deltac
+slack
+loading
+nets
+sizing
+driver
+routing
+repeater
+fanout
+placement
+deletion
+subtree
+inserted
+driven
+critical
+meeting
+trees
+chip
+pins
+edge
+dbmst
+alpert
+cong
+submicron
+cl
+net
+prim
+devgan
+10mm
+rectilinear
+rc
+pin
+terminals
+05pf
+brbc
+intermediate
+planning
+eq
+yuantao
+layout
+driving
+minimized
+increased
+unbuffered
+tianming
+lillis
+xun
+signal
+dijkstra
+drives
+connecting
+objectives
+topology
+zhigang
+floorplan
+deep
+inverting
+area
+deleting
+mm
+source
+kn
+capacitances
+freedom
+placing
+tw
+minimize
+deleted
+vs
+radius
+lumped
+infeasible
+automation
+segmenting
+bounds
+violating
+interconnects
+vlsi
+rl
+phase
+placed
+charged
+blocks
+shrink
+pan
+san
+fig
+jose
+aided
+274
+annealing
+prasitjutrakul
+gammatype
+15ff
+cohoon
+selamat
+59mm
+38mm
+quay
+omatu
+47mm
+6039
+16339
+15pf
+legnth
+zhuo
+7037
+dreyfus
+repowering
+sigeru
+gamma1000
+formulating
+peng
+calculate
+deletes
+omega
+oe
+kubitz
+weiping
+ruiming
+mndoiu
+dhar
+papaefthymiou
+boese
+ahhk
+2696
+zelikovsky
+anirudh
+probir
+jason
+randomly
+methodology
+buffering
+213
+optimization
+kong
+constraints
+parent
+sundararaman
+cosynthesis
+1455
+muddu
+calcula
+macromodeling
+veloped
+calculated
+genetic
+satisfied
+zhou
+early
+stochastic
+formulate
+titled
+maze
+okamoto
+feodor
+dragan
+marios
+ns
+subtrees
+diameter
+liu
+california
+1ns
+937
+unload
+dian
+path
+calculates
+shortest
+aziz
+hur
+slew
+nlogn
+circuit
+delays
+sudhakar
+sciencesinformatics
+dbb tree
+wire length
+elmore delay
+dbb spanning
+buffer insertion
+critical sinks
+of dbb
+tree algorithm
+total wire
+of buffers
+the delay
+spanning tree
+delay bounds
+the dbb
+loading capacitance
+v w
+timing constraints
+floorplanning and
+steiner tree
+the floorplanning
+t v
+buffers inserted
+tree construction
+delay of
+sink s
+e v
+s v
+buffer deletion
+dbb mst
+sinks meeting
+the timing
+the elmore
+mst and
+capacitance of
+sinks in
+of elmore
+delay slack
+and placement
+source to
+the buffers
+wire sizing
+for interconnect
+the wire
+of sinks
+delay bounded
+the driver
+inserted on
+timing driven
+performance driven
+signal nets
+the wiring
+buffered tree
+intermediate buffers
+wire delay
+slack of
+delay model
+edge e
+deltac v
+wiring length
+spt dbb
+of floorplanning
+bounded buffered
+mst spt
+area and
+to sink
+s i
+spanning trees
+delay bound
+the source
+chip area
+total wiring
+and spt
+minimum elmore
+spt is
+capacitance slack
+in dbb
+buffers estimated
+last buffer
+intermediate buffer
+by deltac
+meeting bound
+during floorplanning
+both chip
+sinks which
+floorplanning stage
+dbb vs
+buffered trees
+buffers on
+to s
+of buffer
+of t
+critical sink
+fanout problem
+output resistance
+wiring delay
+driven floorplanning
+wire e
+fanout optimization
+the sinks
+one buffer
+and total
+subtree t
+sinks the
+rectilinear steiner
+the loading
+steiner trees
+on edge
+tree to
+the buffer
+new edge
+oe v
+increased by
+0 i
+single edge
+resistance of
+to mst
+and dbb
+mst dbb
+uniform line
+spt respectively
+increased loading
+driven fanout
+wire capacitance
+dbmst algorithm
+buffered edge
+drives t
+edge delay
+resistance at
+deltac cl
+w buffers
+last buffered
+inverting buffers
+v deltac
+buffered spanning
+floorplanning solutions
+source s
+deep submicron
+delay for
+routing tree
+global routing
+performance oriented
+buffers are
+r 0
+the path
+the fanout
+in t
+stage yields
+buffers placed
+block planning
+net size
+length subject
+yields significantly
+routability driven
+using buffer
+in subtree
+length and
+phase 2
+re inserted
+given delay
+repeater insertion
+uniform wire
+identified critical
+slack and
+s 0
+a buffer
+s u
+buffer is
+of critical
+insertion at
+interconnect layout
+average results
+buffer block
+insertion proceedings
+driven global
+interconnect design
+minimize the
+to minimize
+after adding
+resistance and
+routing trees
+total capacitance
+with critical
+no buffer
+and loading
+buffer on
+distributed rc
+t i
+u v
+in fig
+bounded delay
+tree mst
+meeting the
+four examples
+new methodology
+of terminals
+layout optimization
+critical path
+v the
+delay is
+path from
+dbb tree algorithm
+dbb spanning tree
+of dbb tree
+total wire length
+e v w
+the delay bounds
+number of buffers
+edge e v
+the timing constraints
+floorplanning and placement
+source to s
+of t v
+of elmore delay
+the elmore delay
+sink s i
+bound of elmore
+the delay slack
+the dbb tree
+and total wire
+loading capacitance of
+to s v
+the total wire
+elmore delay of
+elmore delay for
+delay of sinks
+dbb tree to
+dbb spanning trees
+delay bounded buffered
+area and total
+dbb mst spt
+source s 0
+the source to
+spanning tree algorithm
+of critical sinks
+of sinks in
+from the source
+timing constraints of
+intermediate buffer insertion
+meeting the delay
+both chip area
+the dbb spanning
+of buffers inserted
+increased by deltac
+total wiring length
+constraints of t
+minimum elmore delay
+v is increased
+loading capacitance slack
+capacitance slack of
+the wiring delay
+the last buffer
+sinks meeting bound
+of both chip
+t v is
+the path from
+spanning tree construction
+rectilinear steiner trees
+the fanout problem
+the loading capacitance
+chip area and
+source to sink
+capacitance of t
+steiner tree construction
+delay of the
+the delay of
+will be increased
+length and the
+to s i
+s v the
+sinks in subtree
+is no buffer
+v w buffers
+the last buffered
+buffered tree construction
+dbb tree approach
+at the floorplanning
+given delay bound
+spt dbb mst
+of the dbb
+significantly better solutions
+slack and loading
+driven fanout optimization
+number of terminals
+satisfying the delay
+last buffered edge
+a uniform line
+using buffer insertion
+mst and spt
+on signal nets
+by deltac cl
+critical sinks the
+better solutions in
+sinks meeting the
+buffers inserted on
+delay slack and
+oe v deltac
+r 0 c
+tree mst and
+the total wiring
+the floorplanning stage
+and loading capacitance
+phase of dbb
+stage yields significantly
+floorplanning stage yields
+buffer insertion at
+wiring length and
+the increased loading
+increased loading capacitance
+timing driven floorplanning
+the given delay
+for critical sinks
+critical sinks meeting
+wire length subject
+mst spt dbb
+bounded buffered tree
+buffers inserted in
+buffers estimated by
+minimize the total
+v w is
+lower bound of
+planning for interconnect
+associated with critical
+u to s
+wire length and
+block planning for
+length subject to
+of the sinks
+checked in constant
+new edge e
+yields significantly better
+to timing constraints
+given a uniform
+subject to timing
+s i can
+slack of each
+from s u
+insertion at the
+of each subtree
+third phase of
+r t v
+shown in fig
+solutions in terms
+the average results
+e 0 i
+insertion proceedings of
+interconnect layout optimization
+the total capacitance
+adding the new
+and s v
+the new edge
+on the wire
+elmore delay model
+and buffer insertion
+degree of freedom
+to minimize the
+shortest path tree
+spanning tree and
+a new methodology
+s u to
+timing constraints are
+tree algorithm for
+by r t
+is increased by
+are randomly chosen
+delay from the
+not in t
+after adding the
+propagation delay of
+algorithm to construct
+while satisfying the
+and the timing
+tree algorithm is
+the propagation delay
+the third phase
+be increased by
+to the increased
+in constant time
+right after s
+buffer the load
+delay for critical
+i connecting sink
+formulating the delay
+buffer on edge
+percentage of critical
+buffers placed on
+the detailed dbb
+unbuffered edge after
+s v defined
+driven floorplanning and
+new methodology of
+lumped rc model
+s w can
+t v denoted
+of buffers while
+2 and total
+i to source
+the wire delay
+deltac v and
+delay bounds associated
+defined as driving

@@ -1,0 +1,600 @@
+mumps
+superlu
+mc64
+factorization
+amd
+uns
+bbmat
+t3e
+amestoy
+dissection
+solvers
+unsymmetric
+twotone
+mixtank
+multifrontal
+megaflop
+cray
+sparsity
+lhr71c
+sym
+pivoting
+solver
+sparse
+processors
+duff
+refinement
+grids
+matrices
+berr
+frontal
+invextr1
+pivots
+demmel
+parallelism
+supernodal
+diagonal
+ordering
+nx
+blas
+matrix
+nested
+fidapm11
+sp2
+rutherford
+hsl
+puglisi
+cubic
+elimination
+iterative
+xiaoye
+ecl32
+preordering
+www
+supernodes
+koster
+codes
+asymmetry
+orderings
+mbytes
+supernode
+spd
+wang4
+parasol
+boeing
+modulus
+2d
+fan
+mpi
+nd
+flops
+lu
+permuting
+ibm
+processor
+3e
+phase
+mhertz
+clrc
+henon
+factorize
+pivot
+volume
+scheduling
+mess
+behaviour
+messages
+1999
+dags
+davis
+0e
+block
+entries
+grid
+spooles
+garon2
+pastix
+strsym
+zeros
+900
+factorizing
+numerical
+scalability
+ldl
+cfd
+markedly
+assembly
+rectangular
+symmetry
+backward
+nersc
+fill
+mflops
+symmetric
+jjajj
+asymmetric
+asynchronous
+mmd
+schenk
+uniprocessor
+gemm
+li
+permutation
+9e
+pivotal
+processes
+ord
+diagonals
+spent
+2e
+uniproc
+parallab
+mc47
+pspases
+preprocessing
+cse
+column
+memory
+structural
+nz
+analyse
+grund
+vampir
+120750
+wsmp
+ramet
+nprocs
+tree
+00
+worker
+rows
+preprocess
+blocks
+1d
+default
+iter
+rma10
+delayed
+peak
+scalable
+partitioning
+communication
+512
+http
+128
+benefit
+phases
+vol
+onto
+gov
+nonzeros
+gilbert
+symbolic
+grimes
+metis
+heath
+pardiso
+static
+exploit
+nagel
+peyton
+karypis
+schur
+partly
+rothberg
+permuted
+toms
+sgi
+6e
+1993
+columns
+efficiency
+berkeley
+prospective
+gaussian
+root
+netlib
+nonzero
+avg
+uk
+factors
+of mumps
+iterative refinement
+mumps uns
+cray t3e
+nested dissection
+the factorization
+mumps sym
+than mumps
+for mumps
+mumps the
+amd mumps
+both solvers
+megaflop rate
+nd mumps
+the cray
+of processors
+in mumps
+mumps amd
+with mumps
+per processor
+with superlu
+two solvers
+analysis phase
+cubic grids
+mc64 is
+static pivoting
+factorization phase
+mumps and
+for superlu
+factorization time
+the diagonal
+mumps is
+superlu the
+amestoy et
+superlu is
+the frontal
+of iterative
+solver number
+rutherford boeing
+uns www
+mc64 on
+grids nested
+large entries
+minimum degree
+the matrix
+and superlu
+ibm sp2
+node parallelism
+during factorization
+table 5
+sym mumps
+the mumps
+twotone mc64
+of mc64
+that superlu
+bbmat amd
+dissection ordering
+frontal matrix
+in superlu
+test matrices
+al 1999
+process process
+backward error
+block size
+structural symmetry
+table 4
+3 blas
+of superlu
+grid problems
+rate per
+on cubic
+average volume
+dynamic scheduling
+enough memory
+delayed pivots
+level 3
+superlu and
+amestoy and
+sparse direct
+numerical factorization
+in table
+mumps 1
+bbmat mumps
+mc64 mumps
+in amestoy
+and twotone
+uns figure
+using mc64
+amd 1
+mixtank mumps
+our solvers
+uns and
+twotone mumps
+by mumps
+parallel sparse
+permuting large
+asymmetry of
+a supernodal
+1 00
+off diagonal
+the analysis
+rectangular grids
+lu factorization
+fill in
+of operations
+parallel efficiency
+both codes
+behaviour of
+distributed memory
+the solvers
+duff and
+sparse matrix
+entries onto
+numerical behaviour
+and mumps
+elimination dags
+superlu does
+koster 1999
+and puglisi
+matrix solver
+and koster
+volume of
+the ibm
+scheduling algorithm
+page http
+solve phase
+multifrontal solver
+frontal matrices
+the elimination
+a nested
+assembly tree
+left looking
+the numerical
+initial solution
+u k
+results with
+and duff
+ldl t
+a multifrontal
+the block
+li and
+the assembly
+for permuting
+initial matrix
+and demmel
+solvers we
+matrix ordering
+the off
+max vol
+mumps in
+fairly symmetric
+ordering solver
+general superlu
+clrc ac
+mumps note
+this preordering
+matrices lhr71c
+factorizing column
+the megaflop
+use mc64
+mixtank nd
+uk activity
+cse clrc
+matrix ord
+mc64 can
+mc64 amd
+from hsl
+vol mess
+ord solver
+looking uns
+see bbmat
+parallel node
+that mc64
+superlu can
+1 3e
+flops time
+superlu usually
+memory used
+matrices on
+the sparsity
+processors we
+sparse gaussian
+symbolic factorization
+factorization and
+the factors
+the asymmetry
+to factorize
+time spent
+steps of
+the unsymmetric
+of delayed
+ordering is
+not enough
+relatively more
+the superlu
+indicates not
+t3e 900
+than superlu
+refinement was
+mumps uses
+the cray t3e
+number of processors
+of iterative refinement
+the analysis phase
+on the cray
+the two solvers
+the factorization phase
+amestoy et al
+megaflop rate per
+solver number of
+grids nested dissection
+a nested dissection
+rate per processor
+not enough memory
+number of operations
+et al 1999
+steps of iterative
+nested dissection ordering
+sym mumps uns
+for both solvers
+average volume of
+bbmat amd mumps
+mumps sym mumps
+the ibm sp2
+level 3 blas
+volume of communication
+used in mumps
+on a large
+process process process
+asymmetry of the
+of the frontal
+the frontal matrix
+in table 5
+permuting large entries
+with mumps the
+amd 1 00
+of mumps the
+used in superlu
+mumps amd 1
+of our solvers
+mumps and superlu
+mc64 is not
+large entries onto
+twotone mc64 mumps
+mumps uns figure
+superlu does not
+uns figure 6
+entries onto the
+the numerical behaviour
+than mumps uns
+use of mc64
+mumps uns and
+u k j
+in table 4
+of the factors
+and koster 1999
+web page http
+the average volume
+step of iterative
+li and demmel
+onto the diagonal
+of delayed pivots
+of processors we
+the backward error
+during the analysis
+the assembly tree
+the number of
+table 4 1
+on the ibm
+the asymmetry of
+analysis phase of
+during the factorization
+table 2 2
+the initial matrix
+behaviour of the
+of the factorization
+time in seconds
+of the mumps
+version of mumps
+max vol mess
+in superlu the
+www cse clrc
+our solvers we
+dimensional parallel node
+off diagonal pivots
+cse clrc ac
+ord solver number
+efficient than mumps
+ac uk activity
+on cubic grids
+iterative refinement was
+using mc64 on
+used during factorization
+in mumps the
+mixtank nd mumps
+mumps note that
+mc64 on the
+the megaflop rate
+numerical behaviour of
+matrix ord solver
+rectangular grids nested
+one dimensional parallel
+from hsl 2000
+case of mumps
+clrc ac uk
+in general superlu
+cubic grids nested
+matrix ordering solver
+the time spent
+sparse gaussian elimination
+the initial solution
+a large number
+matrix so that
+the block size
+of steps of
+matrices on the
+fill in and
+initial matrix is
+block cyclic layout
+processors we also
+amestoy and puglisi
+and demmel 1999
+cray t3e 900
+and puglisi 2000
+the elimination dags
+iterative refinement the
+indicates not enough
+table 4 2
+table 5 2
+of the ordering
+of the matrix
+the frontal matrices
+two state of
+duff and koster
+the directed acyclic
+parallel sparse direct
+operations per processor
+show in table
+number of delayed
+results with both
+large number of
+the off diagonal
+of the two
+figure 3 2
+on the matrix
+number of messages
+maximum block size
+the solve phase
+the back substitution
+page http www
+the structural symmetry
+dynamic scheduling algorithm
+factorization time in
+large entries to
+of the solvers
+for permuting large
+the factors and
+algorithms for permuting
+ldl t factorization
+to the off
+the maximum block
+onto the processors
+the same ordering
+of the tree
+of the analysis
+characteristics of the
+the factorization time
+such a comparison
+of off diagonal
+table 4 4
+table 5 3
+algorithm for parallel
+xiaoye s li
+for the factorization
+entries to the
+the permuted matrix
+ordering is used
+the memory used
+table 6 2
+when increasing the
+of the messages
+of the numerical
+floating point operations
+block size for
+l i k
+number of off
+approximate minimum degree
+of operations per
+sparse direct solver
+for parallel sparse
+algorithms used in
+the diagonal and
+of the elimination
+the dynamic scheduling
+distributed memory computers
+table 6 1
+minimum degree ordering
+increasing the number
+to the root
+section 4 1

@@ -1,0 +1,600 @@
+sinking
+hoisting
+predication
+resource
+anticipatable
+dead
+speculation
+anticipatability
+paths
+pde
+exit
+deadness
+availability
+instruction
+enabled
+profiling
+profiles
+delayability
+benefit
+entry
+optimizability
+profile
+inhibited
+onp
+flow
+hoisted
+join
+node
+redundancy
+gammadlys
+elimination
+statement
+motion
+enabling
+expression
+knoop
+assignment
+speculative
+pres
+frequencies
+subpath
+unioning
+earliestness
+pre
+superscalar
+instructions
+vliw
+sensitive
+confluence
+resources
+placement
+redundant
+optimizations
+executed
+infrequently
+opportunities
+aps
+10x
+evaluations
+dependences
+frequency
+identifies
+code
+scheduling
+lack
+enable
+path
+past
+insertion
+guided
+schedulers
+inhibits
+anticipatabil
+gammarants
+gammadlya
+owise
+gammadsafeearliest
+onps
+gammaerlye
+partially
+unoptimized
+1694
+renvoise
+soffa
+notices
+merge
+safety
+safe
+optimization
+fu
+blocked
+lou
+sigplan
+split
+optimizable
+2304
+incorporate
+movement
+morel
+eliminated
+drive
+sentinel
+aggressive
+inhibiting
+incapable
+earliest
+1c
+eliminates
+superblock
+sink
+locally
+successors
+optimized
+frequently
+intersected
+mary
+p2
+functional
+ops
+compilation
+suppression
+redefined
+redundancies
+predicated
+rajiv
+benefits
+spec95
+bit
+issued
+inserted
+av
+moved
+migrate
+conditional
+ness
+cessors
+delayed
+gammaavl
+spilt
+epreda
+10resource
+9614
+timizable
+maximumvalue
+patability
+vasilevskiy
+sunk
+10earliest
+antici
+conisdered
+sinkable
+unoptimizable
+gammaopt
+anticipata
+presa
+safe2
+gammadly
+mizability
+vikki
+usede
+gammaravle
+joran
+slicing
+1000
+propagate
+exploited
+removal
+acyclic
+scalar
+identifying
+mitran
+rede
+9402226
+anticipability
+2022
+anticipable
+rps
+3966
+xiangyu
+origi
+unop
+delayable
+placed
+execution
+upon
+assist
+originating
+down
+expense
+predecessors
+butts
+9157371
+guri
+hailperin
+frameworks
+assignments
+prevented
+1b
+eliminate
+free
+hoisting and
+sinking of
+along which
+s entry
+at n
+resource is
+resource sensitive
+n s
+the resource
+is anticipatable
+s exit
+and predication
+the sinking
+and sinking
+code hoisting
+resource availability
+node 7
+resource anticipatability
+anticipatable at
+data flow
+required resource
+availability analysis
+benefit analysis
+resource required
+code sinking
+cost benefit
+path profiles
+the paths
+speculation and
+anticipatability analysis
+path profiling
+code motion
+partial dead
+of paths
+dead code
+predication enabled
+sinking is
+locally free
+partially dead
+and pde
+additional instruction
+executed paths
+program paths
+predication based
+code elimination
+available at
+node 6
+paths along
+flow analysis
+hoisting of
+delayability analysis
+sinking and
+enabled sinking
+sensitive code
+down safe
+past node
+is dead
+entry exit
+node n
+flow graph
+paths that
+above node
+path profile
+analysis are
+is available
+at node
+split point
+profiles is
+optimizability analysis
+the hoisting
+based hoisting
+onp s
+down safety
+enabling predication
+sinking past
+join node
+partial redundancy
+flow equations
+exit of
+the expression
+paths with
+of enabling
+node 8
+inhibited by
+paths through
+of speculation
+the statement
+is 1
+functional unit
+by path
+profile guided
+infrequently executed
+analysis identifies
+dead at
+free resource
+7 6
+by s
+for pre
+to enable
+and benefit
+partially redundant
+profiling information
+frequencies of
+and pre
+sinking framework
+placement points
+hoisting above
+sensitive pde
+identifying paths
+sinking at
+assignment sinking
+not inhibited
+by knoop
+expression evaluations
+knoop et
+predication of
+enabling speculation
+based sinking
+above paths
+hoisting will
+identifies paths
+along paths
+expression e
+perform resource
+n is
+instruction is
+elimination using
+pde and
+s n
+enabled at
+instruction scheduling
+assignment s
+an expression
+performed if
+10 8
+10 9
+is free
+code placement
+unit resource
+code statement
+hoisting the
+instructions along
+join point
+bit variable
+its movement
+insertion points
+10 along
+merge point
+the entry
+of resources
+redundancy elimination
+h x
+a node
+pre and
+speculation based
+introduced are
+execution frequencies
+profile directed
+path 1
+node 5
+is 0
+the benefit
+otherwise it
+x y
+program points
+statement is
+by lack
+8 7
+lack of
+data dependences
+8 10
+frequently executed
+allow its
+be hoisted
+zero frequency
+variable defined
+a partially
+n if
+a join
+through n
+the exit
+y h
+9 7
+entry of
+availability and
+redundant expression
+unoptimized program
+pde optimizations
+computation identifies
+zero execution
+of sinking
+sink ing
+for sinking
+sinking will
+through hoisting
+subpath 7
+and hoisting
+through sinking
+10x x
+fully dead
+at n s
+n s entry
+hoisting and sinking
+n s exit
+speculation and predication
+the required resource
+n is 1
+cost benefit analysis
+required resource is
+the resource required
+is anticipatable at
+the resource is
+is 1 if
+sinking of a
+the sinking of
+partial dead code
+available at n
+lack of resources
+anticipatable at n
+additional instruction is
+resource availability analysis
+instruction is introduced
+code hoisting and
+10 8 7
+resource anticipatability analysis
+paths with non
+paths along which
+an additional instruction
+data flow analysis
+dead code elimination
+is available at
+by s is
+along which an
+s entry exit
+pre and pde
+resource sensitive code
+predication enabled sinking
+data flow equations
+the flow graph
+path profiles is
+along which a
+by path profiles
+the paths that
+resource is available
+it is 0
+frequencies of the
+resource is locally
+y h x
+onp s n
+is locally free
+x a b
+h x y
+7 8 10
+7 6 4
+resource required by
+e is available
+cost and benefit
+x y h
+with non zero
+partial redundancy elimination
+10 9 7
+of a partially
+otherwise it is
+for pre and
+if the resource
+the data flow
+at the entry
+9 7 6
+by knoop et
+s is anticipatable
+while the paths
+code elimination using
+speculation based hoisting
+a node along
+10 along which
+code sinking and
+hoisting above node
+sinking past node
+the above paths
+identifying paths through
+resource is anticipatable
+variable defined by
+down safety analysis
+of paths along
+node along which
+past node 7
+above paths as
+resource required for
+execution frequencies of
+analysis will determine
+profiles is the
+infrequently executed paths
+resource sensitive pde
+which an additional
+paths as indicated
+point along which
+above node 7
+allow its movement
+dead at n
+knoop et al
+is not inhibited
+is introduced are
+is 0 n
+1 along which
+sets of paths
+predication based sinking
+analysis identifies paths
+one bit variable
+resource is free
+indicated by path
+by identifying paths
+path 1 2
+2 4 6
+7 9 10
+6 4 2
+4 6 7
+1 3 7
+will determine that
+functional unit resource
+not blocked by
+required by s
+the variable defined
+only performed if
+is dead at
+non zero frequency
+determined by identifying
+10 and 1
+at node 6
+the execution frequencies
+to perform resource
+1 if the
+1 2 4
+number of functions
+7 3 1
+7 6 5
+is only performed
+6 7 9
+flow analysis with
+node n if
+resource availability and
+frequently executed paths
+by lack of
+point n is
+8 7 3
+paths through a
+to n s
+the cost benefit
+to allow its
+s n is
+a one bit
+6 5 2
+that the paths
+and 1 2
+n is determined
+performed if the
+s entry and
+benefit analysis that
+of speculation and
+some program paths
+n along which
+blocked by data
+along paths where
+a code statement
+the unoptimized program
+and benefit of
+s entry if
+and predication based
+predication and speculation
+partially redundant expression
+of enabling speculation
+bit variable which
+hoisting and pre
+the optimized program
+path profiling 1
+inhibited by the
+and pde optimizations
+anticipatable at the
+s exit if
+along infrequently executed
+by data dependences
+the statement at
+non zero execution
+2 1 along
+developed by knoop
+that the sinking
+other program paths
+entry of node
+9 10x x
+path profiling information
+path that benefits
+pde and pre
+available for sinking
+if p2 9
+is not dead
+otherwise its value
+sinking of s
+required by e
+in node 8
+additional instructions along
+p2 9 10x

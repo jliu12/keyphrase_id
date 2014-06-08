@@ -1,0 +1,600 @@
+thread
+pilot
+frame
+antenna
+frames
+dma
+threads
+timing
+event
+dsp
+interrupt
+demodulator
+demod
+synthesis
+msbn
+decorrelator
+demodulate
+ev
+scheduling
+interrupts
+vocoder
+manage_data
+demodulated
+kernels
+scheduler
+specification
+slack
+carrier
+concurrent
+triggered
+executive
+peripheral
+demodulation
+track_pilot
+_demod
+send_vocoder
+leds
+nco
+events
+cg
+tasking
+traffic
+clustering
+cmd
+man
+embedded
+static
+compile
+constraint
+read_decorr
+terrupt
+frame_demodulate
+decorr
+yosinori
+acqu
+display_leds
+frame_read_antenna
+1024th
+read_antenna
+manage
+1024
+pc
+concurrency
+unmasked
+hardware
+fpga
+mem
+execution
+serial
+channel
+preemptive
+processor
+vincentelli
+sangiovanni
+satellite
+sys
+lavagno
+external
+int
+bill
+automation
+loop
+preceeding
+asynchronously
+script
+deadline
+activation
+mapped
+delay
+watanabe
+robin
+background
+priority
+luciano
+tuning
+precedence
+activated
+outlines
+setup
+retargetable
+activates
+read
+kernel
+blocking
+ant
+preemption
+uncertainties
+timeliness
+rate
+mobile
+co
+manual
+lin
+art
+internal
+functionalities
+polling
+tries
+processes
+occurrence
+schedule
+controller
+statically
+contemporary
+conversion
+constraints
+release
+alberto
+rs_decode
+corr_symbols
+thoen
+focuss
+event2
+schedulingprocesses
+frame_pilot_dsp_functions
+read_sys
+cillator
+frame_read_sys_cmd
+workwas
+undercontract
+frame_pilot
+europeancommission
+read_decorr8from
+youngsoo
+serial2
+cmd_ready
+_leds
+1to
+10event
+_symbols
+3unmask
+_dma1024send_buffer
+moverover
+_cmd
+traffic_statuspilot_status
+peripherals1024
+serial_periph
+whichworks
+massot
+ant_ready
+tuningand
+frame_read
+individualthread
+dma_interrupt
+pilot_dsp_functions
+_function
+functionswrite
+individualoperations
+_dsp_functions
+3static
+format_data
+_sys_cmd
+read_sys_cmd
+latency
+artificial
+straints
+communicating
+software
+stringent
+transformations
+automate
+synchronization
+decoding
+riodic
+stim
+sgroi
+uli
+vercauteren
+vertexes
+kiyoung
+chinook
+event1
+operating
+cyclic
+primitives
+cutting
+tracking
+utilization
+nd
+periodic
+thread frames
+software synthesis
+timing constraints
+pilot dsp
+thread frame
+event loop
+program threads
+run time
+event nodes
+execution model
+dsp functions
+frame slack
+frame clustering
+the frame
+the pilot
+constraint graph
+manage data
+time scheduler
+concurrent process
+real time
+time kernels
+timing constraint
+the timing
+system specification
+different thread
+representation model
+execution models
+the msbn
+mem mapped
+frame demodulate
+dma process
+send vocoder
+art event
+frame pilot
+read antenna
+process specification
+other frames
+event 2
+program thread
+the antenna
+the thread
+event 1
+multi tasking
+the execution
+frames are
+man machine
+the run
+co synthesis
+the threads
+started up
+pilot demod
+setup dma
+processor interrupts
+imposed timing
+pilot data
+transmission carrier
+track pilot
+frame scheduling
+antenna controller
+msbn demodulator
+background event
+ev cut
+traffic _demod
+frame read
+serial peripheral
+at run
+the event
+triggered by
+compile time
+are triggered
+at compile
+cyclic executive
+a cg
+rate conversion
+nd operations
+data send
+the dma
+bill lin
+v i
+synthesis approach
+frames according
+for real
+event set
+the frames
+synthesis of
+multi rate
+the imposed
+input specifications
+software scheduling
+on design
+of embedded
+concurrency and
+execution delay
+threads are
+interrupts are
+thread 3
+constraint graphs
+embedded systems
+the man
+precedence and
+static schedule
+automation p
+memory mapped
+the concurrent
+synthesis is
+design automation
+pc mem
+blocking execution
+scheduling metric
+decorrelator fpga
+read sys
+the demodulated
+functions frame
+artificial event
+watanabe alberto
+demodulate frame
+dma int
+allow interrupt
+the manage
+bytes modify
+uncertainties related
+read 8
+artificial events
+satellite communication
+pilot manage
+the demodulation
+traffic demod
+receiver demodulator
+cg node
+thread ordering
+most kernels
+nco serial
+dsp proc
+kernels tend
+functions setup
+to nco
+of pilot
+pilot channel
+synthesis script
+2nd dsp
+ev sys
+sequence edge
+yosinori watanabe
+timing delay
+functions process
+to leds
+during frame
+interrupt routine
+static frame
+executive based
+antenna process
+maximum timing
+concurrent c
+sys cmd
+ready acqu
+mobile satellite
+the demodulator
+reset ready
+terminal receiver
+time executive
+the decorrelator
+event art
+channel decoding
+from antenna
+demod process
+to antenna
+demodulated pilot
+digital embedded
+1024th execution
+pilot manage_data
+ev ant
+the cg
+external events
+processing systems
+static scheduling
+static analysis
+time support
+response time
+outlines the
+embedded software
+process priorities
+j units
+possible software
+blocking model
+concurrent communicating
+the 1024
+data process
+scheduled thread
+dma engine
+specific solution
+process concurrency
+time kernel
+after thread
+exclusion relations
+hardware interrupt
+interrupt from
+hardware resources
+the background
+events are
+time information
+pilot dsp functions
+run time scheduler
+the timing constraints
+real time kernels
+different thread frames
+the frame slack
+the event loop
+the execution model
+frame pilot dsp
+the pilot dsp
+thread frame clustering
+of the thread
+the run time
+co synthesis of
+information processing systems
+for real time
+at run time
+of the msbn
+of software synthesis
+the software synthesis
+background event loop
+the background event
+concurrent process specification
+the msbn demodulator
+other frames are
+the frame demodulate
+software synthesis approach
+real time information
+imposed timing constraints
+manage data send
+event loop and
+which are triggered
+the imposed timing
+the antenna controller
+the different thread
+data send vocoder
+track pilot demod
+at compile time
+timing constraints and
+the input specifications
+the man machine
+software synthesis is
+conference on design
+execution models and
+frames according to
+time information processing
+a constraint graph
+the constraint graph
+the system specification
+of the frames
+on design automation
+design automation p
+run time support
+software synthesis script
+nd operations are
+event 1 event
+events are introduced
+available time and
+an artificial event
+frame demodulate frame
+2 the run
+the frame pilot
+executive based execution
+dsp functions process
+read sys cmd
+process based concurrent
+software for digital
+thread frames and
+a cg node
+for digital embedded
+possible software synthesis
+from the concurrent
+of pilot dsp
+the thread execution
+frame 2 frame
+demodulated pilot data
+the manage data
+event loop in
+uncertainties related to
+time multi tasking
+all the uncertainties
+both the frame
+event art event
+timing constraint between
+program threads are
+hardware resources can
+scheduled thread frames
+thread execution times
+bytes modify parameters
+to nco serial
+frame read antenna
+be started up
+a manual task
+specification is fully
+functions setup dma
+static frame scheduling
+blocking execution model
+modify parameters from
+of process based
+process communication and
+cyclic executive based
+the track pilot
+8 bytes modify
+threads are extracted
+the frame read
+watanabe alberto sangiovanni
+from pc mem
+program threads and
+of time later
+manage data process
+terminal receiver demodulator
+the concurrent process
+nco serial peripheral
+dsp functions frame
+compile time event
+interrupts are not
+static information provided
+reset ready acqu
+the pilot channel
+art event 2
+thread frames according
+parameters from pc
+event ev cut
+pc mem mapped
+start of pilot
+digital embedded systems
+run time executive
+interrupt from the
+time scheduler is
+the transmission carrier
+kernels tend to
+sys cmd and
+yosinori watanabe alberto
+process specification of
+read 8 bytes
+pilot manage data
+based concurrent programs
+and hardware resources
+the concurrent c
+which checks for
+triggered by an
+frame clustering and
+2nd dsp proc
+dsp functions setup
+thread frames are
+application specific solution
+the pilot manage
+the uncertainties related
+concurrent c programming
+in the background
+w i j
+of embedded systems
+man machine interface
+real time multi
+a program thread
+real time kernel
+time later than
+and exclusion relations
+is fully exploited
+time of v
+a concurrent process
+the static information
+synthesis of hardware
+j units of
+the end time
+frames are to
+because the static
+precedence and exclusion
+a system specification
+a b frame
+the co synthesis
+scheduling under timing
+the appropriate frames
+event and thus
+timing constraints can
+software scheduling in
+time and hardware
+the target application
+relative scheduling under
+of the pilot
+execution model which
+d a l
+alberto sangiovanni vincentelli
+the final implementation
+and software for
+based execution model
+a better utilization
+frame is not
+response time to
+system specification is
+transformations and optimizations
+execution model is
+execution delay of
+the execution delay
+with release times
+software synthesis for
+threads of the
+the available time
+the threads of
+with the timing

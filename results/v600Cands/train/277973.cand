@@ -1,0 +1,600 @@
+advection
+viscosity
+upstream
+relaxation
+sweep
+ivu1
+grid
+multigrid
+discretization
+downstream
+2h
+quadrant
+overweighting
+flows
+recirculating
+residuals
+diffusion
+ivu2
+vortices
+sweeps
+clockwise
+isotropic
+mgd9v
+residual
+counterclockwise
+vortex
+nonpositive
+amplification
+coarse
+reynolds
+diffusivity
+fine
+recirculation
+streamlines
+fda
+incompressible
+intergrid
+gauss
+stagnation
+seidel
+truncation
+relaxed
+su
+quadrants
+cycles
+artificial
+convergence
+elliptic
+cycle
+jb
+discretizations
+spurious
+bands
+evidently
+characteristics
+transfers
+solver
+ellipticity
+j1
+correction
+numerical
+streamwise
+opt
+calculations
+navier
+tl
+stokes
+weighting
+i1
+129
+ja
+israel
+zeeuw
+meshsize
+illu
+nonnegative
+257
+band
+entering
+borderlines
+operator
+finest
+boundary
+closed
+periodicity
+predictions
+quarter
+isotropy
+borderline
+iso
+5h
+vanishing
+characteristic
+tests
+discretized
+nonvanishing
+prelude
+deltau
+ordering
+neglected
+experimentally
+homogeneous
+inviscid
+relaxing
+jump
+schemes
+stencils
+truncated
+smooth
+flow
+relax
+differential
+grids
+alignment
+corrector
+resolutions
+nonsmooth
+viscous
+efficiency
+differencing
+stencil
+stream
+averaging
+gamma0
+supremum
+coordinate
+asymptotic
+purely
+neglecting
+solvers
+steady
+anisotropic
+gridlines
+gammaindependent
+nonalignment
+0750
+0163
+perforce
+yavneh
+0057
+vicinity
+approximation
+physical
+employing
+cross
+nominal
+excellent
+corrections
+bilinear
+netherlands
+restriction
+erring
+0098
+twente
+rehovot
+0439
+acteristics
+00250
+vanishingly
+begins
+vanishes
+terpolation
+efficients
+enschede
+incre
+indefiniteness
+unforced
+minerva
+feinberg
+069
+ds
+usual
+royal
+anisotropies
+advected
+sequen
+upshot
+cretization
+dynam
+factors
+locations
+weighted
+1a
+143
+fourth
+streamline
+sawtooth
+mixed
+investigated
+exhibited
+poisson
+calculate
+germane
+831
+redoing
+amplifies
+narrow
+stable
+tested
+everywhere
+the advection
+advection diffusion
+downstream relaxation
+upstream discretization
+closed characteristics
+coarse grid
+fine grid
+two level
+upstream scheme
+relaxation ordering
+relaxation sweeps
+artificial viscosity
+relaxation sweep
+order upstream
+advection operator
+error amplification
+level cycle
+clockwise sweep
+the fine
+the coarse
+with closed
+isotropic viscosity
+su ivu1
+standard upstream
+recirculating flows
+physical viscosity
+high reynolds
+w opt
+numerical calculations
+diffusion problem
+viscosity is
+cross stream
+sweep only
+in downstream
+advection problem
+purely upstream
+and downstream
+entering flows
+truncation terms
+counterclockwise sweep
+isotropic artificial
+residual weighting
+diffusion equation
+characteristic direction
+j jb
+1 cycles
+l h
+are relaxed
+gauss seidel
+level error
+ja i
+the relaxation
+spurious solutions
+jb i
+of residuals
+for flows
+optimal w
+the artificial
+residual overweighting
+usual multigrid
+intergrid transfers
+relaxation begins
+i1 j1
+several bands
+efficient multigrid
+first differential
+downstream ordering
+artificial diffusivity
+residuals per
+quadrant in
+su scheme
+stagnation points
+full relaxation
+amplification factor
+per vortex
+the fda
+fully efficient
+ivu2 and
+j j
+only variables
+v h
+the numerical
+model problem
+first order
+the characteristics
+a 2h
+viscosity we
+differential approximation
+grid relaxation
+using upstream
+present approach
+optimal residual
+amplification factors
+w were
+weighted residual
+locations where
+error reduction
+opt the
+the incompressible
+factors obtained
+small viscosity
+the quadrants
+discretization and
+some approximation
+finest grid
+a h
+the optimal
+o h
+evidently the
+bands of
+the residuals
+the homogeneous
+r h
+seidel relaxation
+grid correction
+grid in
+the domain
+the discretization
+x y
+u h
+flows with
+i j
+stokes equations
+b x
+the boundary
+the present
+navier stokes
+v 1
+multigrid algorithms
+the characteristic
+difference schemes
+the multigrid
+multigrid algorithm
+band of
+the convergence
+the su
+t h
+first truncated
+single clockwise
+square centered
+by 129
+residuals remain
+quadrant a
+at stagnation
+5h a
+de zeeuw
+fda is
+inviscid limit
+terms approximate
+upstream schemes
+terms determine
+grid 2h
+residuals except
+viscous terms
+advection part
+for recirculating
+upstream differencing
+theta 257
+ivu1 ivu2
+small ellipticity
+ivu1 is
+2h a
+residual transfers
+ivu1 table
+upstream su
+truncated term
+either add
+additional viscosity
+viscosity elsewhere
+full weighted
+excellent even
+j deltau
+ordering yields
+sign vortices
+of ivu2
+example su
+flows has
+ellipticity measures
+between vortices
+level tests
+nonvanishing residuals
+scheme ivu1
+whose truncation
+nonpositive are
+homogeneous advection
+257 theta
+remains excellent
+l 2h
+fourth quadrant
+optimal value
+the solution
+incompressible navier
+of w
+the grid
+the cross
+example 2
+the finest
+flow solver
+recirculation problem
+scalar advection
+downstream relaxation ordering
+the fine grid
+the coarse grid
+two level cycle
+with closed characteristics
+of the advection
+i j j
+the two level
+advection diffusion equation
+the advection diffusion
+advection diffusion problem
+the advection operator
+sweep only variables
+and downstream relaxation
+w opt the
+first order upstream
+two level error
+j j jb
+v 1 1
+on the coarse
+and b x
+j jb i
+b x y
+ja i j
+jb i j
+a x y
+v 2 1
+on the fine
+the usual multigrid
+the advection problem
+the physical viscosity
+several bands of
+error amplification factor
+error amplification factors
+upstream discretization and
+the standard upstream
+residuals per vortex
+the cross stream
+using upstream discretization
+optimal residual weighting
+the characteristics are
+level error amplification
+discretization and downstream
+amplification factors obtained
+full relaxation sweep
+isotropic artificial viscosity
+the artificial viscosity
+to the advection
+a fully efficient
+quadrant in the
+first differential approximation
+for flows with
+the characteristic direction
+fine grid relaxation
+the present approach
+the optimal w
+2 1 cycles
+for the advection
+of l h
+the finest grid
+gauss seidel relaxation
+navier stokes equations
+with the grid
+coarse grid correction
+the o h
+the optimal value
+tables 5 and
+the incompressible navier
+of example 2
+in tables 5
+w were obtained
+at high reynolds
+upstream scheme as
+at stagnation points
+only variables at
+standard upstream scheme
+if ja i
+predictions of section
+at locations where
+2h a h
+the first truncated
+the downstream relaxation
+of w were
+a heuristic analysis
+present approach is
+variables at locations
+obtained with v
+finest grid in
+calculations of example
+order upstream discretization
+were found experimentally
+in downstream ordering
+truncation terms approximate
+residual weighting factors
+locations where both
+homogeneous advection diffusion
+latter solution is
+band of residuals
+square centered at
+the su scheme
+closed characteristics and
+diffusion problem in
+the viscous terms
+problem with closed
+for and w
+corresponding to locations
+latter were found
+nonpositive and b
+only variables corresponding
+that of ivu2
+relaxation sweeps performed
+finally the first
+approximation of 0
+multigrid solvers for
+by if ja
+relaxation ordering yields
+3 9 where
+relaxation begins at
+usual multigrid algorithms
+unit square centered
+the residuals except
+and w opt
+grid relaxation begins
+all the residuals
+example su ivu1
+level cycle the
+the artificial diffusivity
+an error component
+flows as well
+some approximation of
+opposite sign vortices
+locations where a
+scalar advection diffusion
+nonpositive are relaxed
+match the predictions
+j j deltau
+two level tests
+the clockwise sweep
+averaging is used
+flows with closed
+the advection part
+full weighted residual
+of residuals per
+of the borderlines
+an upstream scheme
+except at stagnation
+y is nonpositive
+the inviscid limit
+types of flow
+second order upstream
+advection operator are
+of de zeeuw
+the fda is
+opt the latter
+both a x
+257 theta 257
+residuals remain after
+borderlines between vortices
+su ivu1 table
+domain of solution
+that using upstream
+convergent solutions but
+standard upstream su
+for recirculating flows
+of 0 5h
+weighted residual transfers
+numerical performance is
+0 5h a
+first truncated term
+a single clockwise
+remains excellent even
+performed in downstream
+artificial viscosity of
+fine grid error
+nonnegative are relaxed
+5h a gamma
+ivu2 and also
+su ivu1 ivu2
+the automatic method
+in the inviscid
+a 2h a
+incompressible navier stokes
+alignment of the
+tested on the
+a and b
+x y is
+1 cycles for
+gamma b u
+the boundary but
+on the advection
+the scalar advection
+the same discretization
+j and otherwise
+method of de
+examples 3 5
+to locations where
+limit of vanishing
+9 where it
+efficient solver for
+y is nonnegative

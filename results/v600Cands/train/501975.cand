@@ -1,0 +1,600 @@
+transducers
+td
+transducer
+st
+bu
+tree
+os
+fl
+dexptime
+flf
+branching
+sigma
+hfl
+exponential
+derivation
+trees
+ct
+nl
+rank
+totality
+dom
+bifurcation
+bottom
+logarithmic
+rule
+top
+down
+subtrees
+subtree
+string
+deterministic
+derivations
+rstates
+wd
+symbols
+transduction
+deltai
+monadic
+polynomially
+unlabelled
+signature
+rules
+transductions
+symbol
+height
+ta
+generalised
+claim
+polynomial
+vv
+nondeterministic
+index
+ancestors
+delta
+mon
+jt
+macro
+engelfriet
+seidl
+labelled
+automata
+pi
+induction
+exponentiality
+corollary
+rewrite
+depth
+j0
+labels
+syntax
+output
+lemma
+hardness
+jlj
+jct
+lstates
+intuitively
+ht
+copies
+emptiness
+claimed
+mso
+js
+generalisation
+joost
+overloading
+translations
+lemmas
+definability
+processed
+characterises
+grammars
+boundedness
+sides
+directed
+leaf
+jsj
+formalise
+recalled
+usefulness
+reachability
+conversely
+proves
+th
+turned
+completes
+ul
+turing
+signatures
+finishes
+juj
+indices
+hypothesis
+powerset
+distinct
+aho
+copied
+inequality
+haskell
+preserves
+translation
+completeness
+ae
+ullman
+affecting
+theta
+lows
+notions
+compositions
+nodes
+inequalities
+tranducers
+maneth
+jujg
+tablish
+standardisation
+getgrats
+appligraph
+szelepsc
+dexp
+drewes
+nential
+ramifying
+smallest
+complement
+tape
+forced
+turns
+determinism
+deleted
+maximal
+carried
+prefix
+jg
+closed
+vogler
+fle
+subderivations
+nf0g
+enyi
+thatcher
+binary
+node
+label
+strings
+technically
+decidable
+zolt
+fflg
+sixties
+subderivation
+dashes
+unbounded
+obviously
+solvable
+generality
+i2n
+denotation
+inductions
+fct
+expo
+closure
+construction
+immerman
+fffl
+ng
+es
+generalising
+hollow
+claims
+cope
+deletion
+notice
+helmut
+modestly
+disregarded
+enumeration
+tmr
+pumping
+lowercase
+tree transducers
+down tree
+tree transducer
+output size
+top down
+up tree
+exponential output
+branching index
+os td
+size problem
+bottom up
+total deterministic
+os st
+on logarithmic
+branching depth
+output trees
+logarithmic space
+td is
+flf rule
+td 0
+a tree
+the branching
+that os
+fl f
+st t
+s bu
+total top
+input tree
+computation tree
+fl s
+t sigma
+the exponential
+rule fl
+transducers in
+transducer td
+os bu
+to tree
+a derivation
+a top
+tree of
+bu 0
+st n
+of td
+hfl deltai
+deterministic top
+td n
+of rank
+string to
+tree s
+s st
+s 0
+2 n
+for total
+st is
+the rule
+is exponential
+a bifurcation
+state fl
+derivation fl
+transducer st
+transducers are
+bu fl
+deterministic string
+transducer is
+for bottom
+v 0
+index of
+p complete
+tree t
+transducers and
+ct st
+rule in
+in r
+polynomially bounded
+input trees
+transducers is
+theta such
+n os
+dexptime complete
+derivation st
+every tree
+of trees
+of output
+syntax directed
+all n
+output tree
+is total
+2 t
+macro tree
+for every
+f fl
+st 2
+t 0
+nl complete
+fl t
+2 theta
+of branching
+sigma and
+tree transductions
+tree ct
+tree transduction
+deterministic bottom
+the output
+2 th
+the proof
+the tree
+a rule
+rank 2
+right hand
+complete for
+a delta
+sigma 0
+exponential if
+td t
+tree in
+fl is
+of top
+fl 1
+a bottom
+fl 0
+denoted by
+in nl
+let st
+rules in
+a subtree
+rank 1
+of t
+n for
+st st
+the rules
+trees in
+constant a
+generalised syntax
+output symbol
+wd t
+transducer bu
+direct subtrees
+derivation has
+vv 0
+the derivation
+every rule
+of derivations
+tree automata
+rank of
+every state
+such that
+is polynomially
+td a
+1 os
+construction can
+hand side
+input symbol
+symbol f
+trees is
+problem for
+derivation s
+form fl
+of st
+of states
+s 2
+delta n
+size of
+t 2
+td and
+degree b
+full binary
+every derivation
+the construction
+if fl
+ancestors of
+rule f
+in ct
+lemma for
+r 0
+trees t
+proof of
+all states
+finite tree
+the claim
+rewrite rules
+the rank
+n max
+induction hypothesis
+t is
+2 os
+construction preserves
+smallest natural
+t mon
+string case
+td into
+depth b
+inequality os
+transducers whose
+processing copies
+unlabelled tree
+exponential which
+states processing
+flf rules
+st containing
+every top
+top down tree
+down tree transducers
+bottom up tree
+down tree transducer
+exponential output size
+output size problem
+the exponential output
+up tree transducers
+the output size
+the branching index
+on logarithmic space
+string to tree
+branching index of
+up tree transducer
+size problem for
+output size of
+a top down
+contains the rule
+size problem is
+of output trees
+tree transducers in
+total top down
+tree transducer td
+n 2 n
+all n 2
+os td n
+to tree transducer
+deterministic top down
+the rule fl
+rule in r
+for total top
+n for all
+for bottom up
+2 t sigma
+size of output
+for all n
+s 2 t
+the computation tree
+total deterministic string
+tree transducer is
+deterministic string to
+a total deterministic
+st 2 theta
+fl 1 x
+tree transducers and
+tree transducers are
+s bu fl
+os st n
+f fl 1
+constant a 2
+tree transducer st
+s st t
+derivation fl s
+an input tree
+is a tree
+of top down
+theta such that
+index of t
+rule fl f
+os st is
+transducer st 2
+branching depth of
+that os st
+the branching depth
+tree transducers is
+problem for bottom
+os td is
+2 theta such
+a tree s
+of a top
+t sigma and
+output size is
+a delta n
+is a derivation
+of rank 2
+is p complete
+of rank 1
+such that os
+total deterministic bottom
+every tree s
+fl s st
+containing a bifurcation
+computation tree ct
+deterministic bottom up
+flf rule in
+bu fl t
+fl f x
+out on logarithmic
+ancestors of rank
+tree s 2
+to tree transducers
+1 x 1
+a 2 n
+a bottom up
+set of all
+n the construction
+of t is
+the proof of
+some constant a
+a tree t
+rules in r
+lemma for every
+is polynomially bounded
+one can construct
+in order to
+exponential if and
+of tree transducers
+state fl 2
+max 1 os
+a state fl
+nl complete for
+st n max
+derivation has the
+an output tree
+complete for total
+output trees is
+output tree of
+tree transducer bu
+bu 0 is
+index of trees
+in ct st
+n max 1
+td is exponential
+that os td
+contains a bifurcation
+of branching depth
+st is exponential
+derivation s bu
+input symbol f
+a deterministic top
+t 2 th
+a derivation fl
+os td 0
+for top down
+of branching index
+generalised syntax directed
+of a derivation
+there is a
+a tree in
+computation tree of
+that the exponential
+construction can be
+the set of
+a rule in
+fl 2 gamma
+for every tree
+length of derivations
+input tree of
+of degree b
+of input trees
+right hand side
+has the form
+is the tree
+the construction can
+v 0 v
+of all states
+is denoted by
+2 n the
+of a rule
+is in nl
+delta n for
+a tree containing
+is total and
+full binary tree
+the form fl
+set of trees
+the induction hypothesis
+of the derivation
+v 0 u
+for every state
+the top down
+right hand sides
+of the exponential
+such that for
+of lemma 3
+by induction on
+lemma 3 5
+in the proof
+can construct a
+tree t 2
+binary tree of
+output size as
+symbols in sigma
+logarithmic space proof
+td a delta
+td is total
+ct st containing
+is exponential if
+the construction preserves
+processing copies of
+macro tree transducers
+derivation st st
+tree ct of
+sigma h gamma
+problem for top
+th flf rule
+bu a delta
+for every top
+deltai s st
+transducer td 0

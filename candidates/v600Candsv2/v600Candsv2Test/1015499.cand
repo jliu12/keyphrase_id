@@ -1,0 +1,354 @@
+bu
+flows
+tcp
+router
+er
+ers
+packets
+lived
+congestion
+rtt
+window
+routers
+tra
+queue
+link
+ering
+backbone
+pkts
+flow
+packet
+bursts
+utilization
+thumb
+sawtooth
+afct
+wmax
+burst
+sizing
+sender
+bottleneck
+synchronized
+gsr
+outstanding
+bandwidth
+linecard
+overbu
+dram
+ect
+sigcomm
+ered
+short
+internet
+sawtooths
+pauses
+trip
+cisco
+mb
+avoidance
+slow
+buffer
+erent
+throughput
+queueing
+di
+desynchronized
+delay
+simulations
+buffers
+fifo
+doesn
+today
+links
+synchronization
+occupancy
+aggregate
+persuade
+dynamics
+busy
+sram
+underutilized
+networking
+nick
+simulation
+mckeown
+windows
+acks
+mix
+dropped
+bw
+drop
+arrivals
+evolution
+tail
+predicts
+leith
+mtu
+util
+sommers
+barford
+poisson
+completion
+erence
+attacks
+latency
+congested
+round
+reno
+goodput
+job
+measurements
+ll
+fairness
+chips
+pareto
+trough
+modem
+dos
+senders
+network
+sending
+red
+arrive
+drops
+lengths
+mixes
+manufacturers
+lose
+bytes
+sure
+ected
+capacity
+speeds
+chip
+ack
+underflow
+steadily
+provisioning
+pause
+halved
+ansnet
+yashar
+villamizar
+drains
+underflows
+linecards
+ganjali
+propagation
+shorten
+rate
+goes
+net
+cult
+pins
+timeouts
+devices
+halves
+load
+duffield
+aimd
+rtts
+drams
+joel
+commercial
+exp
+carrying
+fill
+review
+cascades
+rfc
+lockstep
+outdated
+card
+networks
+ram
+gateways
+amos
+asics
+gsm
+mbit
+topology
+aggregated
+complicates
+loss
+ton
+telecommunications
+idle
+argue
+board
+oscillating
+multiplexed
+tailed
+bu er
+bu ers
+er size
+window size
+long flows
+tcp flows
+short flows
+router bu
+long lived
+bottleneck link
+lived flows
+rtt c
+queue length
+bu ering
+tra c
+tcp flow
+access links
+short lived
+slow start
+congestion control
+lived tcp
+er requirements
+flow completion
+goes empty
+congestion window
+many flows
+congestion avoidance
+m g
+e ect
+wmax 2
+cisco gsr
+required bu
+bu ered
+gsr 12410
+smaller bu
+pkts figure
+minimum required
+computer communication
+acm sigcomm
+communication review
+sigcomm computer
+round trip
+backbone routers
+outstanding packets
+di erent
+queueing delay
+thumb comes
+short flow
+internet routers
+backbone router
+flow lengths
+congestion windows
+queue pkts
+aggregate window
+link utilization
+review v
+average queue
+packet loss
+control algorithm
+single flow
+single tcp
+trip time
+go empty
+large bu
+delay bandwidth
+rtt bw
+flow length
+queue occupancy
+using ns2
+overbu ering
+lose throughput
+phase synchronization
+concurrent flows
+small bu
+packets outstanding
+g 1
+window sizes
+model predicts
+never goes
+bandwidth product
+graph shows
+network tra
+sending rate
+length distribution
+avoidance mode
+average flow
+access link
+backbone networks
+net work
+rate c
+completion time
+n shorten
+sender pauses
+required buffer
+backbone links
+lived flow
+infinite bu
+non tcp
+bottleneck router
+ering needed
+er never
+core router
+nick mckeown
+packet bu
+router design
+physical router
+router linecard
+internet backbone
+bu er size
+number of flows
+rule of thumb
+router bu er
+long lived flows
+amount of bu
+router bu ers
+number of long
+m g 1
+lived tcp flows
+bu er requirements
+long lived tcp
+short lived flows
+computer communication review
+sigcomm computer communication
+communication review v
+acm sigcomm computer
+required bu er
+congestion control algorithm
+average queue length
+smaller bu ers
+queue pkts figure
+g 1 model
+dynamics of tcp
+simulations and experiments
+round trip time
+sizing the bu
+delay bandwidth product
+flow completion time
+large bu ers
+aggregate window size
+cisco gsr 12410
+single tcp flow
+small bu ers
+never goes empty
+minimum required bu
+rtt c n
+point of congestion
+average flow completion
+gsr 12410 router
+g 1 queue
+congestion avoidance mode
+review v 36
+flow completion times
+congestion control algorithms
+network of real
+flows in practice
+bu er never
+wmax 2 packets
+single long lived
+bu ering needed
+infinite bu ers
+minimum required buffer
+short and long
+review v 35
+average congestion window
+tcp s congestion
+bandwidth delay product
+network tra c
+topology in figure
+random early detection
+number of outstanding
+v 36 n
+networking v 51
+v 35 n

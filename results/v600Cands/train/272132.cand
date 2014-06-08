@@ -1,0 +1,600 @@
+parallelization
+skeleton
+polytope
+homomorphism
+skeletons
+dependences
+conquer
+loops
+loop
+seqfor
+divide
+parallelism
+karatsuba
+nest
+spmd
+parfor
+processors
+polynomials
+polynomial
+systolic
+spatial
+divcon
+sublinear
+recursions
+xs
+haskell
+dimensionality
+homomorphisms
+red
+nests
+ys
+polyprod
+indata
+sect
+equational
+dist
+bh
+phrased
+dependence
+eh
+affine
+sequential
+dh
+parallelized
+unary
+combine
+map
+promotion
+dimensions
+product
+homomorphic
+dim
+accumulations
+loopo
+bouclettes
+postadapt
+preadapt
+schema
+scan
+algorithmic
+bl
+mesh
+target
+implementations
+ah
+promoted
+nested
+processor
+arrays
+dimension
+zips
+subsect
+dth
+enumerate
+deltan
+static
+dl
+specification
+coefficients
+topology
+pips
+parallelizer
+fh
+temporal
+partitioning
+division
+maintaining
+architectural
+sublists
+fig
+parallelize
+concatenation
+phi
+restrictive
+zip
+yardstick
+cl
+opera
+mpi
+customizing
+automatic
+lelism
+fft
+ch
+log
+fst
+snd
+el
+recur
+systematic
+partitionings
+community
+fi
+neighbours
+channels
+broadcast
+programmer
+compilers
+radix
+list
+transformations
+paral
+mapping
+downwards
+distribute
+upwards
+simd
+her
+foundations
+pays
+lists
+gcel
+atained
+recur2
+parsytec
+procope
+postmorphism
+resursions
+sioned
+bmf
+unhurried
+asymptotically
+departure
+dimensional
+scans
+digit
+vertex
+synthesizing
+trading
+subsection
+optimizing
+associativity
+logarithmic
+save
+passau
+collard
+decks
+dusty
+zipped
+restructuring
+compile
+recursion
+speculative
+compilation
+indexed
+subproblems
+extent
+digits
+polarizing
+sideways
+administering
+worsened
+unpacks
+arbitary
+trees
+stage
+topologies
+format
+slice
+italic
+viable
+bet
+meertens
+paderborn
+distributable
+daad
+bor
+grossly
+capped
+parallelizers
+paf
+parallelizing
+cited
+exchange
+clock
+paradigm
+eastern
+tabulating
+summands
+redone
+s s
+polynomial product
+polytope model
+the polytope
+static parallelization
+time mapping
+loop parallelization
+divide and
+the parallelization
+homomorphism skeleton
+parallelization of
+and conquer
+the polynomial
+space time
+d c
+r r
+problem size
+spmd program
+the homomorphism
+cost maintaining
+call graph
+the skeleton
+of divide
+spatial dimensions
+parallel implementations
+skeleton is
+dependence graph
+of processors
+loop nest
+algorithmic skeletons
+karatsuba algorithm
+product polynomial
+the karatsuba
+sublinear execution
+promotion property
+parallelization in
+the dependence
+source program
+in dim
+execution time
+the call
+loop nests
+n p
+while loops
+the target
+computation domain
+nest with
+automatic parallelization
+the divide
+containing while
+c skeleton
+nests containing
+list homomorphisms
+fh fl
+save processors
+division degree
+ch cl
+combine phase
+dh dl
+skeleton approach
+architectural skeletons
+mpi like
+an spmd
+target program
+of loops
+of parallelism
+all to
+the loops
+l map
+algorithmic skeleton
+skeleton the
+polytope and
+target programs
+we parallelize
+complexity considerations
+the dimensionality
+the promotion
+nested loops
+parallelization is
+the dependences
+time complexity
+sequential loop
+and recursions
+operation fi
+on segments
+spatial partitioning
+and map
+the spatial
+and space
+for parallelism
+to time
+log n
+parallel programming
+and combine
+homomorphism is
+to nested
+phrased as
+n do
+loops and
+the product
+skeleton for
+spatial dimension
+the polynomials
+equational reasoning
+each dimension
+higher dimensional
+program with
+two dimensional
+3 evaluation
+conquer algorithms
+sequential and
+t o
+two polynomials
+o n
+of work
+parallel program
+parallel loop
+extent of
+dimension is
+implementations of
+2 complexity
+loop is
+in fig
+asynchronous program
+cost maintenance
+call balanced
+target polytope
+common yardstick
+al bh
+do parfor
+systolic design
+these skeletons
+basic divide
+k basic
+map snd
+from transformations
+loops classifying
+eh el
+cl dh
+unary homomorphism
+divide phase
+binary homomorphism
+parallelization has
+temporal loop
+optimizing search
+result polynomial
+addition phi
+list xs
+promoted homomorphism
+karatsuba or
+model upwards
+fixed degree
+c skeletons
+affine bounds
+seqfor to
+accumulations on
+by equational
+haskell skeleton
+designing divide
+ah bh
+systematic extraction
+seqfor t
+parallelizing compilation
+bh al
+source polytope
+homomorphic form
+dynamic parallelism
+our skeleton
+to methodology
+balanced fixed
+size systolic
+conquer recursions
+problem independent
+downwards accumulations
+dth digit
+parfor p
+regular partitioning
+dl eh
+automatic methods
+systematic efficient
+synthesizing fixed
+parallelization methods
+el fh
+serious departure
+skeleton which
+homomorphism approach
+parallelization one
+product fi
+classifying loops
+his her
+previous subsection
+red and
+n on
+the static
+efficient implementations
+parallel loops
+a parallel
+of loop
+of dependences
+graph of
+s s s
+the polytope model
+the polynomial product
+r r r
+space time mapping
+divide and conquer
+the problem size
+the dependence graph
+the call graph
+of divide and
+in the polytope
+number of processors
+an spmd program
+the promotion property
+the static parallelization
+the product polynomial
+sublinear execution time
+static parallelization of
+the parallelization of
+on the polytope
+parallelization in the
+of d c
+the computation domain
+of the polynomial
+for the polynomial
+loop nest with
+the source program
+parallelization of loops
+all to all
+the target program
+loops and recursions
+nests containing while
+the d c
+spatial dimensions are
+d c skeleton
+and cost maintaining
+the skeleton approach
+the homomorphism skeleton
+parallelization of loop
+divide and combine
+containing while loops
+parallelization of d
+the karatsuba algorithm
+2 complexity considerations
+loop nests containing
+processors is asymptotically
+the space time
+of loops and
+in loop parallelization
+n on n
+d c which
+if the dimensionality
+problem size 2
+source program to
+phrased as a
+on the parallelization
+potential for parallelism
+amount of work
+in the parallelization
+list of values
+a parallel loop
+the extent of
+of loop nests
+of the call
+dependence graph of
+a d c
+implementations of these
+and conquer algorithms
+in the problem
+the number of
+the previous subsection
+program to the
+parallel implementations of
+coefficients of the
+of the polynomials
+optimizing search is
+basic phase on
+2 the extent
+with our skeleton
+of processor arrays
+product polynomial we
+digits of q
+loop parallelization loop
+regular partitioning for
+strategy for designing
+polytope model upwards
+d c skeletons
+any one vertex
+transformations for restructuring
+evaluation let us
+for d c
+loops for space
+parallelism at run
+which we parallelize
+to time i
+implementations of combinations
+fixed degree d
+alternatively the user
+for call balanced
+with affine bounds
+and parallel loops
+the dth digit
+of the karatsuba
+accumulations on trees
+loops classifying loops
+cost maintaining for
+ch cl dh
+and downwards accumulations
+extraction and implementation
+polytope model is
+all list of
+implementation of divide
+is problem independent
+values received by
+refine the specification
+el fh fl
+spatial dimension is
+the divide phase
+to some objective
+by equational reasoning
+q executes the
+polytope model the
+size systolic arrays
+scan and other
+d c polynomial
+karatsuba or fft
+other list homomorphisms
+with mpi like
+a static parallelization
+target polytope and
+dh dl eh
+spmd program for
+parallelization of scan
+balanced fixed degree
+and conquer recursions
+synthesizing fixed size
+restructuring compilers the
+algorithmic skeleton for
+the unary homomorphism
+in the homomorphism
+choice of dependences
+to all list
+affine bounds and
+systematic efficient parallelization
+in dim 1
+of scan and
+dl eh el
+for restructuring compilers
+from transformations to
+design of processor
+foundations of parallel
+c polynomial product
+of execution steps
+execution steps processors
+q in radix
+model upwards and
+combinations of broadcast
+seqfor to r
+for synthesizing fixed
+polynomial product fi
+processor q executes
+transformations to methodology
+to methodology in
+phase on segments
+each spatial dimension
+the temporal loop
+in dim 0
+promoted homomorphism skeleton
+eh el fh
+a virtual square
+the homomorphism approach
+nest of sequential
+d c algorithm
+serious departure from
+in radix k
+fixed size systolic
+parallel program development
+methodology in parallel
+red and map
+some regular structure
+the target polytope
+algorithmic skeletons and
+divide in dim
+mapping method based
+fft based algorithm
+static parallelization is
+for designing divide
+the basic phase
+spmd program in
+combine in dim
+time mapping method
+as in loop
+by all to
+call balanced fixed
+the division degree
+polynomial product with
+objective function like
+and other list
+skeleton for call
+downwards accumulations on

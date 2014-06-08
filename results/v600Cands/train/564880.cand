@@ -1,0 +1,600 @@
+sliding
+wave
+stream
+streams
+window
+party
+item
+pos
+rank
+bits
+positions
+counting
+synopsis
+datar
+eh
+windows
+query
+items
+log
+referee
+randomized
+parties
+union
+queue
+expired
+aggregates
+r2
+waves
+z1
+deterministic
+tail
+position
+r1
+edith
+discard
+sigmod
+bucket
+imation
+signicant
+buckets
+p1
+streaming
+hash
+ranks
+rst
+worst
+egr
+modulo
+workspace
+z2
+sampling
+approx
+maintaining
+coins
+bit
+r3
+head
+decaying
+babcock
+wise
+discarded
+queues
+sigart
+levels
+store
+approximation
+dierent
+haim
+scenarios
+cohen
+amortized
+linked
+trevisan
+answering
+answer
+hamming
+prespecied
+wpositions
+distinct
+v2
+massive
+stored
+dierence
+kaplan
+estimate
+hashed
+logarithmic
+ipped
+synopses
+cycling
+sigact
+statistics
+bitwise
+earliest
+sm
+ganguly
+arasu
+kout
+midpoint
+monitoring
+integers
+increment
+p2
+histograms
+scenario
+sums
+sends
+sgr
+private
+answers
+round
+estimation
+queries
+4n
+sample
+absolute
+continual
+strauss
+numbering
+largest
+eld
+sumit
+recurse
+retail
+sampled
+recent
+doubly
+nth
+splice
+moments
+twenty
+estimating
+additions
+thirtieth
+inputs
+axis
+receiving
+retains
+specif
+arvind
+altogether
+cascading
+stores
+2n
+aggregation
+buer
+sensor
+rajeev
+correlated
+maintains
+counters
+probability
+aggregate
+storing
+ically
+numbered
+izchak
+9199
+olour
+yishan
+2for
+k2g
+telecommunica
+abhinandan
+7672
+safari
+golynski
+ortiz
+sharfman
+linfeng
+2nr
+91847284
+putting
+database
+dier
+merged
+sketch
+gap
+k1
+comparisons
+spatially
+spot
+coin
+overlap
+matches
+coordinated
+seshan
+matias
+crest
+yossef
+manku
+schuster
+assaf
+urry
+ceives
+return
+seek
+denitions
+gure
+weaker
+distributed streams
+sliding window
+a sliding
+1 rank
+sliding windows
+approximation scheme
+recent 1
+basic counting
+the wave
+window over
+data streams
+1 s
+single stream
+o 1
+log n
+deterministic wave
+query time
+data stream
+relative error
+counting problem
+item processing
+basic wave
+wave level
+union counting
+each party
+1 bits
+window of
+distinct values
+the referee
+o log
+most recent
+per item
+randomized wave
+datar et
+scheme for
+log r
+1 log
+s in
+streams model
+the window
+position wise
+1 ranks
+exact answer
+n 0
+the stream
+the union
+memory words
+j l
+level j
+wave we
+tail of
+log 1
+the 1
+1 bit
+processing time
+wave for
+round communication
+wave algorithm
+the eh
+logarithmic memory
+communication complexity
+worst case
+size n
+the tail
+the positions
+n items
+level i
+an approximation
+case time
+space bound
+1 worst
+the position
+level l
+only logarithmic
+of 1
+modulo n
+last n
+signicant 1
+over sliding
+imation scheme
+bounded integers
+positions in
+over a
+items in
+of size
+edith cohen
+constant relative
+item is
+over distributed
+union of
+an estimate
+linked list
+is at
+wave the
+statistics over
+q j
+each level
+al 4
+of distinct
+n worst
+the sliding
+n log
+acm sigmod
+synopsis data
+desired wave
+earliest 1
+windows setting
+stream statistics
+its wave
+any sliding
+j queue
+n bits
+a query
+positions of
+we store
+the linked
+the deterministic
+an item
+approx imation
+2 j
+in total
+answering a
+buckets of
+for basic
+wise union
+wave to
+per party
+above estimation
+the head
+absolute error
+the parties
+an approx
+least signicant
+time bounds
+stream and
+constant time
+h p
+largest 1
+windows proceedings
+each stream
+the rst
+the per
+1 amortized
+in constant
+in level
+at most
+integers in
+error of
+0 bits
+the largest
+bits in
+the basic
+to o
+2 i
+for massive
+then discard
+functions over
+list l
+a level
+window size
+logical stream
+sum discarded
+own stream
+wave synopsis
+first egr
+its stream
+add pos
+recent positions
+randomized waves
+rank discarded
+window sum
+cohen haim
+z2 v2
+increment pos
+it altogether
+l answering
+computing correlated
+basic randomized
+t streams
+stored coins
+weaker machine
+maintaining stream
+expired i
+nth most
+to sliding
+whose 1
+pos note
+correlated aggregates
+recent items
+r1 and
+0 r
+bit in
+of distributed
+minimum level
+rank at
+the distributed
+the space
+in o
+massive data
+the level
+a sliding window
+in a sliding
+1 s in
+number of 1
+of 1 s
+approximation scheme for
+sliding window over
+an approximation scheme
+sliding window of
+most recent 1
+scheme for the
+in the wave
+per item processing
+window of size
+q j l
+over a sliding
+the basic wave
+for a sliding
+o 1 log
+modulo n 0
+datar et al
+of distributed streams
+item processing time
+n log r
+a single stream
+the exact answer
+last n items
+recent 1 s
+distributed streams model
+the union counting
+the position wise
+the basic counting
+the 1 bits
+the distributed streams
+of distinct values
+the tail of
+o log 1
+log n 0
+log n log
+s in the
+s in a
+o 1 worst
+for the number
+for basic counting
+of bounded integers
+the per item
+only logarithmic memory
+logarithmic memory words
+union of distributed
+the single stream
+window over a
+in 0 r
+the deterministic wave
+basic counting problem
+union counting problem
+sum of bounded
+in the stream
+is at most
+o log n
+worst case time
+distinct values in
+over a single
+n items in
+1 worst case
+for the sum
+1 bit in
+the last n
+1 log n
+a data stream
+signicant 1 bit
+contains the positions
+over sliding windows
+uses only logarithmic
+imation scheme for
+over the union
+to the referee
+the 1 rank
+approx imation scheme
+over distributed streams
+the wave level
+of size n
+multiple of 2
+range of q
+constant relative error
+in o 1
+number of distinct
+the union of
+et al 4
+of data streams
+1 bits in
+the linked list
+the data stream
+the absolute error
+the query time
+n worst case
+log n worst
+linked list l
+to o 1
+relative error of
+as the exact
+size n n
+log 1 log
+the positions of
+any sliding window
+synopsis data structures
+n 0 bits
+the earliest 1
+the 1 ranks
+wave level is
+the desired wave
+window size n
+an approx imation
+level j queue
+1 rank at
+one round communication
+largest 1 rank
+round communication complexity
+earliest 1 rank
+distributed streams that
+stream statistics over
+least signicant 1
+the sliding windows
+sliding windows setting
+desired wave level
+window over the
+above estimation procedure
+for massive data
+streams that uses
+is a multiple
+answering a query
+the number of
+the most recent
+of q j
+for the basic
+the above estimation
+of the linked
+error is at
+s j l
+the largest 1
+the least signicant
+functions over a
+a relative error
+window of the
+positions in the
+that uses only
+positions of the
+a multiple of
+within a relative
+the minimum level
+the level j
+produce an estimate
+the space bound
+level j 1
+power of 2
+of the 1
+values in a
+case time and
+buckets of size
+and query time
+o 1 amortized
+windows proceedings of
+obtain an approximation
+in communication complexity
+each level i
+for the union
+for each level
+level i is
+1 log 2
+relative error is
+step 3 a
+in the window
+estimate the number
+in constant time
+the positions in
+exact answer let
+edith cohen haim
+sliding windows proceedings
+window over distributed
+wave level in
+sliding window that
+cohen haim kaplan
+the randomized wave
+position wise union
+done modulo n
+case per item
+the recent 1
+small constant relative
+of 2 greater
+computing correlated aggregates
+largest partial sum
+scheme for basic
+sum of integers
+all additions and
+it altogether we
+note all additions
+wave algorithm for
+basic wave for
+support this operation
+1 rank discarded
+partial sum discarded

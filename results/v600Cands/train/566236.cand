@@ -1,0 +1,600 @@
+stratum
+frontier
+visiting
+backtrack
+congested
+dag
+visit
+pram
+visited
+processors
+rogues
+nodes
+rings
+ring
+crcw
+dormant
+visits
+tree
+prex
+processor
+strata
+children
+qe
+minff
+balance
+weight
+bfsu92
+rst
+log
+descriptor
+butter
+qg
+embeddings
+extrovert
+height
+cdf
+active
+lab93
+kz93
+exploration
+sums
+stage
+degree
+ecient
+balancing
+descriptors
+node
+forest
+breadth
+redistribution
+deterministic
+jaj92
+gz95
+ran94
+equitably
+minfjf
+cv88
+kp94
+descendants
+jf
+beginning
+trees
+phase
+neighbours
+row
+branch
+evenly
+successors
+dags
+triply
+revealed
+3p
+redistributes
+dene
+2k
+enclose
+approximate
+conquer
+phases
+specically
+predecessors
+sub
+logarithmic
+pictorial
+pointers
+regarded
+preprint
+search
+elds
+parent
+topmost
+karp
+4c
+round
+ct07
+wk91
+hpp99b
+02538
+geppcom
+bgll91
+ran90
+cdjf
+phg
+extrovertness
+logloglogp
+ajv
+al91
+minfs
+hpp99a
+bjsj
+subdag
+cnr96
+9072
+lnrs92
+mosaico
+hypercubes
+reducing
+randomized
+identied
+thick
+eld
+timestamp
+2i
+shared
+strategy
+notionally
+manipulations
+executed
+levels
+tradeos
+colloquium
+operand
+fashion
+favourably
+paderborn
+uncongested
+induction
+bad
+devise
+stays
+accomplished
+litera
+liter
+fig
+nal
+operands
+employed
+cluster
+ature
+ohgr
+minfn
+broder
+perfect
+column
+discussing
+butterflies
+tth
+layer
+quasi
+eciency
+murst
+expander
+stipulated
+dures
+lemma
+running
+zwick
+father
+redistribute
+erew
+cnr
+numbered
+eciently
+conceptually
+8c
+ies
+vertices
+claim
+employing
+proceed
+maintained
+concurrent
+closes
+unexplored
+divide
+redistributing
+encloses
+italy
+dominated
+receives
+extraction
+rened
+thirds
+putation
+aq
+accessing
+concreteness
+batches
+heavily
+clusters
+backtrack search
+visiting step
+tree ring
+active nodes
+visiting steps
+the frontier
+k active
+tree rings
+the stratum
+frontier weight
+congested processor
+the visiting
+log log
+the dag
+prex sums
+common crcw
+frontier nodes
+sub step
+nodes at
+processor degree
+approximate prex
+congested processors
+the backtrack
+log p
+stratum of
+maximum processor
+the tree
+the processors
+a stratum
+processor common
+dag evaluation
+o log
+crcw pram
+good nodes
+at most
+tree nodes
+parallel visiting
+most k
+the stage
+at level
+n p
+p processor
+in d
+tree embeddings
+p h
+for backtrack
+a stage
+dag d
+a visiting
+beginning of
+and bound
+visited in
+than cdf
+balance sub
+cdf k
+minff k
+qg 2k
+initial frontier
+k qg
+rogues at
+of rogues
+approximate parallel
+parallel backtrack
+most minff
+k qe
+search problem
+step is
+o p
+the beginning
+bounded degree
+of processors
+branch and
+the nodes
+in o
+the exploration
+visiting a
+a tree
+p 2
+either full
+the step
+of phase
+breadth rst
+than k
+d 0
+degree is
+each processor
+running time
+phase j
+height h
+level j
+nodes and
+processors in
+its children
+visited nodes
+rings of
+the balance
+a node
+kz93 lab93
+frontier node
+visits any
+extrovert graph
+node visit
+butter y
+dag construction
+frontier at
+dormant nodes
+any stratum
+bad nodes
+its tree
+of balance
+or reducing
+full or
+nodes in
+search on
+balance is
+of frontier
+nodes maintained
+exploration process
+evaluation problem
+k nodes
+a p
+out degree
+size o
+visit of
+non congested
+h log
+sums algorithm
+descriptor of
+qe is
+time o
+of tree
+node is
+p time
+to visit
+jf j
+0 i
+processor in
+nodes among
+processors of
+be visited
+distributed among
+search algorithm
+the phase
+the children
+being visited
+parallel branch
+a frontier
+dynamic tree
+children of
+of height
+of nodes
+w f
+always either
+phase 0
+a visit
+initially only
+executed in
+children if
+the descriptor
+level i
+shared memory
+the rst
+the node
+o n
+nodes from
+m p
+steps is
+any tree
+j 3p
+lines enclose
+stage visiting
+minfjf j
+stratum is
+b extrovert
+j distinct
+j qg
+stratum with
+processor stays
+ecient deterministic
+rogues is
+in bfsu92
+degree tree
+visit any
+of dormant
+degree trees
+deterministic approximate
+sub dag
+atomic model
+p visiting
+y network
+deterministic pram
+italy under
+weight driven
+fast deterministic
+reducing visiting
+topmost nodes
+perfect balancing
+the butter
+reducing steps
+line tree
+k active nodes
+log log p
+the backtrack search
+the visiting step
+the tree rings
+of the stratum
+the frontier weight
+n p h
+common crcw pram
+approximate prex sums
+the maximum processor
+maximum processor degree
+o n p
+active nodes and
+most k active
+p processor common
+backtrack search problem
+for backtrack search
+the dag evaluation
+processor common crcw
+nodes at level
+at most k
+a p processor
+o p 2
+o log log
+log log log
+log p 2
+backtrack search on
+congested processor in
+a visiting step
+than k active
+a tree ring
+frontier nodes at
+the approximate prex
+backtrack search algorithm
+of the visiting
+beginning of phase
+the beginning of
+branch and bound
+processor in d
+at the beginning
+a stratum of
+on a p
+of the stage
+the step is
+among the processors
+balance sub step
+parallel backtrack search
+the initial frontier
+o m p
+at most minff
+stratum of size
+parallel visiting steps
+full or reducing
+minff k qg
+of the frontier
+sub step is
+tree rings of
+cdf k qe
+the balance sub
+its tree ring
+rogues at the
+at level j
+more than k
+either full or
+size o p
+in o log
+beginning of the
+c j 1
+than cdf k
+of tree nodes
+prex sums algorithm
+number of rogues
+k qe is
+p h log
+a frontier node
+shared memory of
+always either full
+most minff k
+visiting a stratum
+be the frontier
+the descriptor of
+rings of the
+the frontier at
+processors of degree
+dynamic tree embeddings
+frontier at the
+dag evaluation problem
+k qg 2k
+tree nodes maintained
+in the backtrack
+qe is at
+processor degree is
+of height h
+of size o
+tree of height
+in d 0
+is at most
+at level i
+nodes maintained by
+of frontier nodes
+of good nodes
+of phase j
+of phase 0
+nodes and at
+any 0 i
+children if any
+the children of
+of the balance
+its children if
+parallel branch and
+the common crcw
+is always either
+in time o
+the node s
+all the nodes
+the number of
+number of nodes
+search on a
+of a stage
+to the processors
+log p time
+of processors of
+of bounded degree
+distributed among the
+the end of
+is executed in
+time on a
+the processors in
+the property holds
+number of good
+evenly distributed among
+the total number
+end of the
+prior to the
+level of the
+by the processors
+upper bound to
+total number of
+and at most
+in the shared
+of the tree
+phase of balance
+tree ring are
+consider a stage
+phase j will
+for the backtrack
+all congested processors
+initial frontier for
+constant degree is
+2 j distinct
+algorithms for backtrack
+visiting steps are
+denote an upper
+most k nodes
+tree ring is
+complexity for parallel
+dag d 0
+a visit of
+number of frontier
+the tree being
+karp zhang parallel
+a b extrovert
+p 2 nodes
+nodes in f
+p visiting steps
+deterministic approximate parallel
+bounded degree tree
+atomic model for
+of rogues is
+visit sub step
+gives its children
+any n node
+a stage visiting
+line tree embeddings
+of a visiting
+tree being visited
+of italy under
+within the stratum
+for parallel divide
+a processor stays
+visits any stratum
+the descriptors of
+for visiting small
+search and branch
+h log log
+its in degree
+degree are regarded
+number of dormant
+a congested processor
+frontier weight is
+number of visiting
+height h in
+are visited in
+than its in
+of parallel visiting
+tree embeddings in
+minfjf j j
+each tree ring
+of dormant nodes

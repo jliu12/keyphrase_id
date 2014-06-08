@@ -1,0 +1,600 @@
+schedulability
+deadline
+sporadic
+unschedulability
+schedulable
+monotonic
+unschedulable
+deadlines
+priority
+processes
+release
+interference
+executions
+periodic
+released
+scheduling
+liu73a
+instant
+releases
+period
+utilisation
+substituting2
+leu82a
+sha89a
+server
+tests
+aperiodic
+incomplete
+polling
+outstanding
+whilst
+utilised
+sha88a
+substituting3
+schedule
+interval
+guaranteeing
+scheduled
+upto
+rate
+periods
+termed
+priorities
+aud90a
+substituting6
+substituting4
+leh89a
+leh87a
+substituting7
+equation
+critical
+workload
+deferrable
+replenished
+met
+exact
+synchronisation
+equations
+meet
+constraint
+recheck
+sufficient
+check
+plateaus
+utilise
+confines
+synchronise
+identifies
+allotted
+feasibility
+timing
+plateau
+pessimistic
+mixtures
+lies
+behaviour
+sha
+generalise
+resorting
+highest
+weakened
+static
+assignment
+evaluates
+pass
+leung
+exhausted
+implication
+units
+permitting
+fails
+phasings
+bur89a
+substituting5
+sha89b
+sha87a
+substituting14
+diatribes
+sha90a
+generati
+upon
+characteristics
+frequency
+guaranteed
+endif
+guarantee
+inversely
+arrival
+ada
+miss
+elapsed
+utilisations
+inflicted
+sporadics
+inheritance
+definitely
+interleaving
+theorems
+worst
+failed
+merely
+fail
+utilising
+decisively
+surmount
+allowable
+outlines
+prevented
+replenishment
+wellings
+dormant
+maximises
+wil
+fractionally
+processor
+missed
+minimised
+maximised
+caters
+allowance
+stepped
+demand
+successive
+firstly
+illustrated
+maximise
+misconceptions
+intermittently
+passes
+summary
+noting
+substituting
+defers
+enumeration
+meeting
+demands
+minimises
+proposes
+meets
+simultaneously
+rigidly
+falsely
+equates
+polls
+coincides
+late
+semaphores
+imposition
+permitted
+feasibly
+circumvents
+monotonically
+responsiveness
+restate
+behaving
+tk
+behaves
+execute
+catastrophic
+coarsest
+conventionally
+relaxes
+observing
+restated
+endwhile
+execution
+evaluated
+confine
+characterised
+hard
+active
+fundamental
+interleave
+weakening
+finest
+richardson
+multiprogramming
+endfor
+instants
+defaults
+process system
+the schedulability
+process t
+schedulability test
+i i
+deadline monotonic
+rate monotonic
+check process
+sporadic processes
+monotonic scheduling
+is schedulable
+t i
+sufficient and
+priority processes
+critical instant
+the deadline
+unschedulability test
+schedulability of
+the sporadic
+hence t
+monotonic algorithm
+higher priority
+schedulability tests
+t 1
+incomplete executions
+the interference
+sporadic process
+process systems
+computation time
+t 2
+i 2
+the unschedulability
+t 3
+where i
+deadline of
+all processes
+processes are
+the process
+not necessary
+b check
+necessary schedulability
+schedulability constraint
+of t
+scheduling algorithm
+i 3
+the rate
+priority process
+by equation
+time time
+a process
+and deadline
+release of
+periodic process
+maximum interference
+and necessary
+the deadlines
+and unschedulability
+complete executions
+schedulability and
+schedulable b
+deadlines of
+the interval
+equation 5
+interference on
+releases of
+priority assignment
+test is
+monotonic priority
+the test
+example run
+test given
+its deadline
+a schedulability
+schedulable the
+substituting2 hence
+unschedulability of
+i substituting2
+release t
+unschedulability tests
+processes the
+timing characteristics
+be schedulable
+executions of
+d i
+periodic processes
+the server
+equation 7
+is unschedulable
+not schedulable
+deadline period
+released simultaneously
+c check
+2 i
+given by
+a check
+is sufficient
+static priority
+all deadlines
+t 4
+are released
+3 i
+the system
+processes in
+equation 8
+of equations
+of i
+real time
+of sporadic
+two processes
+a sufficient
+and not
+3 where
+a critical
+feasibility decision
+unschedulable systems
+necessary unschedulability
+schedulable c
+of higher
+be scheduled
+deadline at
+time 0
+equation 9
+a periodic
+unschedulable the
+and sporadic
+many processes
+processes with
+time figure
+of processes
+highest priority
+the processes
+consider figure
+hard real
+deadlines are
+processes have
+test was
+system is
+interference due
+process is
+2 is
+for t
+all higher
+following process
+the polling
+after d
+on t
+in equation
+i where
+process i
+outstanding computational
+process deadlines
+schedulable an
+proved schedulable
+polling process
+aperiodic processes
+processes consider
+of releases
+successive equations
+system schedulable
+release frequency
+sporadic is
+substituting3 hence
+i substituting3
+the incomplete
+are exact
+before d
+of process
+is released
+exact value
+2 where
+test that
+scheduled with
+1 hence
+processes to
+sufficient but
+guarantee the
+monotonic and
+test equation
+necessary test
+interference i
+to period
+the utilisation
+schedulable we
+processes t
+release release
+guaranteeing the
+necessary a
+a release
+in time
+at time
+fails the
+priority scheduling
+for i
+the release
+executions is
+schedulable by
+minimum inter
+time deadline
+unschedulable by
+by sufficient
+the process system
+check process t
+sufficient and not
+higher priority processes
+the rate monotonic
+and not necessary
+the schedulability of
+the schedulability test
+deadline monotonic scheduling
+where i i
+the deadline monotonic
+monotonic scheduling algorithm
+2 i 2
+a critical instant
+rate monotonic algorithm
+rate monotonic scheduling
+process t 2
+a process system
+3 i 3
+i i i
+i 3 where
+hence t 2
+process t 1
+2 where i
+sufficient and necessary
+of t 1
+of t i
+process t 3
+schedulability test given
+a check process
+2 is schedulable
+interference on t
+of the sporadic
+time time figure
+b check process
+t 2 is
+a sufficient and
+i 2 is
+of higher priority
+of i i
+schedulability of the
+i 2 where
+3 where i
+1 hence t
+deadline of t
+number of equations
+process t i
+hence t 1
+the deadlines of
+necessary schedulability test
+1 is schedulable
+test given by
+is schedulable b
+processes are released
+schedulability and unschedulability
+process system is
+the unschedulability test
+schedulable b check
+a periodic process
+release of t
+is sufficient and
+the deadline of
+higher priority process
+equation 5 is
+i i where
+guarantee the deadlines
+substituting2 hence t
+c check process
+i substituting2 hence
+and unschedulability tests
+the interference on
+an example run
+deadline monotonic algorithm
+1 the schedulability
+executions of t
+the critical instant
+the sporadic process
+incomplete executions of
+hence t 3
+for i i
+i where i
+in the interval
+on t i
+i 1 hence
+is not schedulable
+its deadline at
+deadline monotonic priority
+the computation time
+t 1 is
+i 2 i
+of i 2
+i i is
+is given by
+t 2 i
+of a process
+monotonic priority assignment
+necessary unschedulability test
+and necessary schedulability
+of sporadic processes
+schedulability test that
+deadlines of sporadic
+check process i
+the unschedulability of
+t 3 i
+process system that
+schedulability of t
+is schedulable c
+is schedulable the
+following process system
+monotonic and deadline
+guaranteeing the deadlines
+and deadline monotonic
+process system the
+not necessary schedulability
+schedulable c check
+of process t
+not necessary unschedulability
+of the process
+deadline of the
+t 3 is
+i 3 i
+all processes have
+i i are
+point in time
+all processes are
+and deadline of
+3 is schedulable
+of the deadline
+all higher priority
+rate monotonic and
+at a critical
+the maximum interference
+executions of higher
+test that is
+the highest priority
+t i is
+not necessary a
+is sufficient but
+of the system
+hard real time
+by equation 5
+execution of t
+priority assignment is
+processes in the
+for t 2
+interference due to
+be scheduled with
+t i 1
+the system is
+but not necessary
+sufficient but not
+the following process
+by equation 8
+cannot be scheduled
+at time 0
+values of i
+a higher priority
+time that t
+the incomplete executions
+show the unschedulability
+now given example
+interval is given
+that have deadlines
+time deadline period
+unschedulability of the
+computation time deadline
+sporadic process the
+due to incomplete
+the sporadic processes
+example we return
+is schedulable an
+many processes the
+c 3 lies
+when c 3
+all deadlines are
+number of releases
+to incomplete executions
+schedulable by equation
+fails the unschedulability
+critical instant this
+like a periodic
+the sporadic is
+release t 1
+unschedulable by equation
+the schedulability and
+process system to
+processes the schedulability
+a schedulability constraint
+i substituting3 hence
+substituting3 hence t
+the interference due
+processes t 1
+after d i
+3 lies in
+more process systems
+a schedulability test
+processes are those
+where i substituting2
+between the release
+sporadic processes the

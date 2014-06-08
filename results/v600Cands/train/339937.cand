@@ -1,0 +1,600 @@
+tridiagonal
+householder
+sided
+vpp500
+eigenvectors
+hegland
+multiplications
+osborne
+additions
+kahn
+orthogonal
+matrix
+eigenvalue
+fujitsu
+transformations
+eigenvalues
+matrices
+processors
+vpp
+lanczos
+eigendecomposition
+cholesky
+jacobi
+gflop
+orthogonality
+transforms
+processor
+symmetric
+factorization
+reduction
+peak
+orthogonalisation
+orthogonalization
+timings
+hull
+gramian
+similarity
+factored
+cyclically
+qv
+offdiagonal
+tridiagonalization
+rank
+australian
+multiplication
+lambdan
+layout
+cyclic
+torus
+columns
+wrap
+2n
+gflops
+intel
+givens
+zeros
+wilkinson
+ij
+ah
+crossbar
+condensed
+dongarra
+spmd
+2048
+speeds
+accumulating
+fl
+65y05
+reinterprets
+multisectioning
+vectorisable
+flbw
+jessup
+tridiagonality
+65f30
+rediagonalization
+makato
+qpv
+calculations
+schmidt
+accumulation
+supercomputer
+calculation
+nakanishi
+anu
+vantages
+isoefficiency
+disad
+3072
+reductions
+singular
+sequential
+0200
+hendrickson
+subclass
+gathering
+tenth
+gbyte
+canberra
+rows
+gram
+geijn
+reinterpretation
+lending
+touchstone
+accumulated
+redundantly
+846
+column
+preferable
+orthogonalize
+scalapack
+mflop
+fortran77
+eigensolver
+gershgorin
+shifted
+stage
+scribed
+018
+smith
+imbalanced
+brent
+duction
+communication
+precision
+orthogonally
+chemistry
+coefficients
+proposition
+gamma1
+diagonal
+sparse
+update
+sturm
+dated
+extrapolating
+transformation
+architectures
+carried
+equating
+3k
+national
+520
+load
+gamma2
+definite
+vectorization
+whilst
+mod
+forming
+factorized
+wrapped
+calculate
+kronecker
+4096
+locally
+difficulties
+371
+kj
+ization
+blas
+published
+renders
+walker
+overwritten
+lapack
+directives
+unmodified
+mentation
+suited
+permutation
+retrieves
+pseudocode
+phrases
+mbytes
+laid
+ng
+inspect
+4000
+proportional
+prof
+svd
+pg
+identity
+transform
+2p
+banded
+panel
+4n
+3n
+shift
+multiplies
+demanding
+formed
+submatrices
+iteration
+updating
+imple
+induction
+to tridiagonal
+one sided
+tridiagonal form
+reduction to
+sided reduction
+sided algorithm
+multiplications and
+kahn m
+m hegland
+hegland m
+r osborne
+h kahn
+the tridiagonal
+tridiagonal matrix
+c k
+the matrix
+the householder
+householder transformations
+and additions
+the eigenvectors
+processor vpp500
+two sided
+eigenvectors of
+similarity transforms
+eigenvalue problem
+symmetric eigenvalue
+m h
+matrix q
+the reduction
+2 additions
+m r
+of eigenvectors
+symmetric matrix
+linear hull
+the vpp500
+orthogonal to
+the lanczos
+k end
+2 multiplications
+the fujitsu
+parallel algorithm
+a parallel
+is tridiagonal
+h w
+the cholesky
+rank two
+sided algorithms
+out locally
+vpp500 the
+torus wrap
+sided householder
+timings and
+an orthogonal
+the eigenvalues
+cholesky factorization
+k gamma1
+matrix of
+orthogonal matrix
+c 1
+australian national
+two update
+processor version
+n multiplications
+householder algorithm
+the symmetric
+the c
+2n 2
+the one
+additions for
+tridiagonal and
+tridiagonal the
+national university
+orthogonal similarity
+additions the
+hull of
+the eigendecomposition
+eigenvalue problems
+the processors
+matrix is
+to c
+of methods
+lanczos method
+16 processor
+are orthogonal
+matrix this
+matrix a
+communication required
+is orthogonal
+and eigenvectors
+eigenvalues and
+householder reductions
+orthogonalization procedure
+same householder
+11 equation
+fujitsu vpp
+ah w
+fujitsu vpp500
+vpp500 is
+w ah
+original householder
+osborne where
+an orthogonalization
+wrap mapping
+calculate fl
+gflop rate
+wilkinson 11
+tridiagonal as
+sequential householder
+element form
+matrix until
+requires multiplications
+gramian of
+n tridiagonal
+tridiagonal is
+has zeros
+lambdan is
+n lambdan
+factor matrix
+offdiagonal elements
+matrix elements
+peak performance
+the sequential
+c m
+calculation of
+the orthogonality
+zeros in
+householder reduction
+dongarra and
+the gramian
+orthogonality relations
+first reduces
+the offdiagonal
+of gflop
+a matrix
+multi processor
+h v
+all processors
+distributed cyclically
+for calculate
+cyclic layout
+to condensed
+uses induction
+multiplication from
+a householder
+matrix distributed
+crossbar network
+rank one
+on all
+computation of
+form is
+speeds for
+similarity transform
+jacobi s
+the eigenvalue
+for symmetric
+factorization is
+each iteration
+one modification
+parallel reduction
+fl w
+j refers
+eigenvectors v
+k j
+gamma2 is
+sparse matrices
+algorithm is
+transformations are
+end for
+of multiplications
+eigendecomposition of
+householder matrices
+the transformations
+the gathering
+in factored
+high relative
+c n
+processors the
+to n
+matrix the
+a 16
+the gram
+for sparse
+the computation
+of size
+one tenth
+jacobi method
+for reduction
+tridiagonal matrices
+factored form
+published results
+in rows
+orthogonal transformations
+of processors
+the parallel
+column of
+tenth of
+and 2n
+matrix vector
+to parallel
+matrices of
+reduction to tridiagonal
+to tridiagonal form
+the one sided
+one sided reduction
+one sided algorithm
+the tridiagonal matrix
+m r osborne
+kahn m r
+m hegland m
+hegland m h
+h kahn m
+m h kahn
+orthogonal to c
+multiplications and additions
+of the tridiagonal
+sided reduction to
+the reduction to
+the eigenvectors of
+linear hull of
+for the reduction
+the c k
+the linear hull
+tridiagonal form is
+c k gamma1
+2 multiplications and
+eigenvectors of the
+c k j
+orthogonal matrix q
+2 n multiplications
+sided algorithm is
+rank two update
+n multiplications and
+and additions the
+carried out locally
+two sided householder
+hull of c
+additions for the
+multiplications and n
+the cholesky factorization
+to n in
+on all processors
+the symmetric matrix
+are orthogonal to
+the eigenvalues and
+k end for
+australian national university
+a matrix of
+of the c
+eigenvectors of a
+symmetric eigenvalue problems
+matrix of size
+the symmetric eigenvalue
+matrix of eigenvectors
+the two sided
+of the symmetric
+the computation of
+symmetric eigenvalue problem
+the matrix of
+a one sided
+c k are
+the lanczos method
+a 16 processor
+the eigenvalue problem
+eigenvalues and eigenvectors
+class of methods
+the matrix q
+previous algorithm and
+orthogonal similarity transforms
+h w ah
+lanczos method has
+has zeros in
+torus wrap mapping
+processors the one
+two sided algorithms
+multi processor version
+sided algorithm the
+calculate fl w
+sided reduction is
+2n 2 multiplications
+c n tridiagonal
+an orthogonalization procedure
+tridiagonal and there
+the offdiagonal elements
+multiplications and 2n
+calculation of eigenvectors
+by the householder
+processor vpp500 the
+gramian of the
+n tridiagonal and
+two sided algorithm
+for calculate fl
+identity matrix distributed
+the factor matrix
+j be computed
+as an orthogonalization
+problem a parallel
+same householder transformations
+parallel reduction to
+w ah w
+the sequential householder
+fl w from
+the gramian of
+multiplication from the
+finding the eigendecomposition
+and additions for
+requires multiplications and
+matrix distributed cyclically
+of eigenvectors v
+to tridiagonal is
+summary the sequential
+the rank two
+to tridiagonal as
+the vpp500 is
+r osborne where
+the fujitsu vpp
+the fujitsu vpp500
+the same householder
+16 processor vpp500
+a k end
+n 2 additions
+follows for calculate
+n lambdan is
+the original householder
+on the fujitsu
+wilkinson 11 equation
+an orthogonal matrix
+for sparse matrices
+is an orthogonal
+to c 1
+of h w
+to a 16
+a parallel reduction
+tridiagonal matrix is
+4 to n
+algorithm for reduction
+3 to n
+with the cholesky
+about one tenth
+w from a
+ij are such
+algorithm and c
+householder transformations are
+symmetric matrix the
+a gamma i
+these performance figures
+n 2 multiplications
+n in the
+matrix q such
+tridiagonal form and
+c n gamma2
+eigenvalue problem a
+jacobi s method
+the jacobi method
+the multi processor
+n gamma2 is
+communication required for
+tridiagonal matrix the
+rank one modification
+n is orthogonal
+parallel algorithm for
+from the left
+the gram schmidt
+where c n
+c m 1
+q and n
+is discussed and
+over the processors
+and n 2
+to the eigenvectors
+parallel algorithm in
+cholesky factorization is
+the eigendecomposition of
+gives a total
+j refers to
+k j be
+calculation of the
+n 2 n
+for matrices of
+which is carried
+from a k
+column of b
+1 for k
+of c m
+by the one
+eigenvalue problem for
+in factored form
+and eigenvectors of
+symmetric matrices a
+matrix q is
+of the matrix
+matrix a is
+the first column
+using the one
+in the conventional
+matrices of size
+one tenth of
+second class of
+of methods to
+after the k
+c 1 for

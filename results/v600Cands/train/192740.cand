@@ -1,0 +1,600 @@
+aaaa
+relocation
+drp
+cache
+precollect
+preallocate
+relocated
+prefetching
+nests
+loop
+nest
+await
+instruction
+array
+buffer
+misses
+finishup
+distribute
+instructions
+arc2d
+matrix300
+outer
+ocean
+accesses
+adm
+nasa7
+prefetch
+queue
+bus
+stride
+tomcatv
+blocking
+transformed
+inner
+compiler
+accessed
+benchmarks
+addr
+miss
+mmu
+copying
+utilization
+conflict
+loops
+operand
+relocate
+insure
+200j
+rhsx
+unrolling
+speedup
+stall
+completed
+preloading
+emulation
+body
+arrays
+transformations
+hardware
+prefetched
+read
+locations
+benchmark
+1j
+relocates
+operands
+counter
+latency
+references
+compression
+speedups
+sub
+superscalar
+stalls
+superblock
+filery
+loopnests
+tkinv
+100j
+eigval
+rhsy
+cray
+fetch
+pipelining
+optimizations
+addresses
+address
+working
+insertion
+cycles
+processor
+buffers
+unit
+memory
+compressing
+allocated
+inserted
+register
+associatively
+7100
+conflicts
+4c
+capacity
+execution
+000
+finished
+referenced
+overhead
+emulated
+fetching
+destination
+associativity
+timothy
+requests
+overlapped
+generator
+caches
+request
+code
+microarchitectures
+tullsen
+access
+wasted
+sampling
+tk
+localized
+stalled
+edwin
+percentage
+dependences
+reuse
+samples
+sha
+insufficient
+calder
+unrolled
+identifier
+neil
+bd
+billion
+dirty
+brad
+hit
+penalty
+hewlett
+tolerating
+nested
+dean
+packard
+allocate
+pipelined
+port
+fetches
+sgl
+501i
+outweighes
+ypenta
+cholsky
+stepfy
+20j
+30j
+38j
+35j
+blocked
+dependence
+transformation
+entry
+iteration
+writes
+cpu
+vliw
+omega
+partitioning
+assisted
+copy
+accessing
+supercom
+weifeng
+scoreboarded
+insured
+compile
+branch
+begins
+utilize
+registers
+architectural
+risc
+allocates
+packing
+optimized
+relocating
+luddy
+gather
+locality
+finishes
+memories
+interlock
+prefetcher
+pending
+unused
+aaaa aaaa
+the drp
+data relocation
+relocation and
+the cache
+drp unit
+sub operation
+the relocation
+the relocated
+relocation buffer
+relocated data
+the precollect
+loop nests
+and prefetching
+loop nest
+outer loop
+array data
+original code
+the data
+drp transformed
+precollect and
+operation queue
+inner loop
+loop body
+and prefetch
+data cache
+the await
+transformed loop
+the array
+and preallocate
+distribute instructions
+precollect preallocate
+read buffer
+drp technique
+the loop
+source address
+accessed in
+transformed code
+first outer
+cache performance
+data copying
+the inner
+bus utilization
+cache misses
+working set
+arc2d ocean
+buffer address
+matrix300 nasa7
+distribute operations
+tomcatv matrix300
+await instruction
+precollect or
+or preallocate
+data prefetching
+address generator
+non unit
+data is
+unit stride
+of cache
+the sub
+reduce cache
+loop blocking
+instruction queue
+conflict misses
+the transformed
+preallocate instruction
+addr size
+nasa7 figure
+precollect instruction
+preallocate instructions
+ocean tomcatv
+distribute instruction
+cache unit
+of array
+nests is
+inner most
+original array
+the processor
+cache miss
+array elements
+operations are
+cache the
+data accessed
+the read
+unit data
+second outer
+data access
+cray 1
+original address
+most loop
+omega test
+may conflict
+the computation
+the queue
+the outer
+the instruction
+the address
+address and
+to insure
+000 instructions
+the distribute
+destination address
+data buffer
+address field
+and distribute
+cache does
+stall the
+cache line
+the working
+address of
+loop structures
+data in
+relocated array
+drp instructions
+element counter
+nest execution
+with relocated
+with drp
+preallocate operations
+buffer references
+the mmu
+rhsx 200j
+blocking transformations
+adm arc2d
+preallocate c
+finishup instruction
+a precollect
+the preallocate
+data counter
+prefetching optimization
+preallocate and
+transformed loops
+operation is
+data into
+the original
+array references
+instruction is
+50 0
+cache lines
+body for
+cache conflict
+cache using
+loop unrolling
+conflict with
+overhead of
+40 0
+of copying
+30 0
+special hardware
+the source
+entire benchmark
+50 samples
+low utilization
+execution time
+in cache
+the overhead
+accesses for
+cache before
+not block
+array accesses
+prefetching in
+the compiler
+the omega
+compiler transformations
+addresses for
+read request
+instruction has
+localized region
+not stall
+data referenced
+mapping conflicts
+starting addresses
+nests which
+queue for
+completed before
+array based
+are completed
+code for
+this instruction
+0 30
+the execution
+prefetching are
+miss ratio
+a write
+to reduce
+software pipelining
+unit since
+execution of
+locations in
+is allocated
+the cray
+program execution
+for loop
+the accesses
+20 0
+before the
+0 40
+accesses in
+least 50
+second operand
+aaaa aaaa aaaa
+data relocation and
+relocation and prefetching
+the drp unit
+the data relocation
+outer loop body
+of the drp
+the relocation buffer
+the relocated data
+the sub operation
+in the cache
+sub operation queue
+the original code
+the precollect and
+relocation and prefetch
+the drp transformed
+the data cache
+the inner loop
+the source address
+original code for
+into the cache
+the array data
+of the relocated
+the drp technique
+sub operation is
+precollect and preallocate
+first outer loop
+the loop nests
+transformed loop nests
+tomcatv matrix300 nasa7
+the read buffer
+drp transformed code
+by the drp
+accessed in the
+non unit stride
+the outer loop
+data in the
+loop nests is
+0 j n
+j n j
+matrix300 nasa7 figure
+operations are inserted
+and distribute instructions
+in the relocation
+array data is
+ocean tomcatv matrix300
+and preallocate instructions
+source address field
+precollect or preallocate
+the precollect instruction
+arc2d ocean tomcatv
+in the drp
+the cache using
+the await instruction
+of the precollect
+read request to
+for the drp
+second outer loop
+distribute operations are
+to the relocation
+to the cache
+the working set
+the cache the
+j 0 j
+for j 0
+the cray 1
+to reduce cache
+cache using the
+the data is
+the destination address
+the overhead of
+the instruction queue
+overhead of copying
+40 0 50
+10 0 20
+for loop nests
+the omega test
+the loop nest
+the original array
+destination address and
+may conflict with
+20 0 30
+30 0 40
+0 30 0
+data into the
+cache does not
+loop body for
+loop in order
+the cache before
+cache conflict misses
+0 40 0
+address of the
+of the relocation
+drp unit data
+drp unit since
+for the relocated
+nest execution time
+the distribute instruction
+operation queue for
+fetch the data
+preallocate and distribute
+utilization of cache
+not stall the
+loop nest execution
+transformed code and
+drp unit is
+and prefetching optimization
+with relocated data
+data cache to
+cache to block
+address and size
+code for loop
+for data relocation
+the relocation and
+the relocated array
+adm arc2d ocean
+sub operation the
+line is allocated
+precollect preallocate and
+relocated data in
+the address generator
+loops to reduce
+8 n for
+preallocate c 8
+c 8 n
+the execution of
+0 20 0
+0 50 0
+data accessed in
+low utilization of
+stall the processor
+starting addresses for
+000 000 instructions
+least 50 samples
+and prefetching are
+technique called data
+bus utilization for
+operation is removed
+before the inner
+of the cache
+the cache performance
+of the array
+the original address
+90 0 100
+50 0 70
+inner most loop
+the cache does
+code over the
+70 0 80
+using the destination
+causes the data
+loop nests which
+80 0 90
+in the loop
+in order to
+using the source
+inner loop in
+to their original
+addresses for the
+the inner most
+the cache and
+data is not
+does not block
+array references with
+the transformed loop
+completed before the
+is used to
+to block until
+number of cache
+locations in the
+conflict with each
+at least 50
+data cache miss
+loop nests in
+the second operand
+0 80 0
+each array element
+in the queue
+of the data
+for the transformed
+cache miss ratio
+than the cache
+inner loop is
+code and the
+if the data
+cache performance and
+0 70 0
+the transformed code
+the first operand
+0 100 0
+0 90 0
+overlapped with the
+address in the
+write allocate cache
+for first outer
+utilization for the
+eliminating false data
+nests which are
+and prefetch unit
+address at this

@@ -1,0 +1,600 @@
+redistribution
+fis
+bs
+tensor
+bases
+array
+processor
+cyclic
+s2
+fi
+gammab
+distributions
+permutations
+d2
+ching
+omega
+communication
+arrays
+te
+ts
+processors
+phase
+remapping
+contention
+hpf
+ipsc
+pbs
+compatible
+distribution
+fortran
+bd
+hsien
+ps
+communicated
+basis
+index
+fi1
+q2
+860
+yeh
+factorized
+factorization
+communicate
+fid
+hsu
+dist
+indexing
+perfect
+pande
+regular
+target
+intel
+ir
+block
+permutation
+div
+36te
+dsend
+d22
+message
+chung
+multicomputers
+template
+mesh
+santosh
+messages
+subramanian
+aligned
+startup
+d21
+located
+aeg
+neungsoo
+q1
+s1
+cauligi
+proc
+wormhole
+ae
+permuta
+minyi
+intermediate
+q0
+chyi
+supercomputing
+tributed
+raghavendra
+indices
+proces
+worm
+unpacking
+viktor
+overrides
+communicates
+factorizations
+strategies
+massively
+routing
+prasanna
+nist
+alignments
+vr
+wen
+bai
+commack
+dow
+nova
+routed
+switched
+send
+sent
+sheng
+covers
+phases
+transmission
+analytical
+strategy
+source
+cover
+vienna
+gammap
+directives
+ren
+ram
+statements
+redistribute
+union
+resident
+mimd
+chu
+dis
+60nanb1d1151
+manojkumar
+si2
+dices
+drecv
+7898
+jbd
+psend
+8ts
+tirendezvous
+7ts
+redistribu
+7899
+jpbs
+fi2
+28k
+guo
+sors
+communicating
+expressions
+receive
+hole
+milliseconds
+sis
+t2
+expressing
+machines
+conflicts
+destination
+kr
+closed
+1247
+lambdal
+fortranmyampersandmdash
+mclock
+redistribution1
+pbd
+nieplocha
+pep
+kalns
+remappings
+s11
+nte
+monitored
+compile
+compilation
+virtual
+delta
+packing
+wallclock
+peizong
+ramasubramanian
+performing
+hypercube
+powers
+product
+tention
+1368
+1329
+ikuo
+roumeliotis
+izations
+scribe
+1240
+souravlas
+redistributions
+t22
+1217
+runtime
+data redistribution
+distribution bases
+fis fi
+fi d
+distribution basis
+l s2
+q fis
+vector basis
+l l
+communication cost
+the tensor
+basis e
+l d2
+phase redistribution
+tensor basis
+single phase
+phase strategy
+redistribution is
+the redistribution
+data distributions
+fi l
+bs l
+target distribution
+multi phase
+phase data
+d bs
+regular data
+array redistribution
+redistribution from
+the communication
+ps omega
+redistribution strategy
+tensor product
+two phase
+omega e
+the distribution
+perfect power
+processor basis
+gammab s
+d gammab
+p gammab
+vector bases
+gammab d
+s2 l
+tensor bases
+the processor
+processor array
+block cyclic
+processor q
+d permutations
+data basis
+e bs
+phase strategies
+processor u
+a processor
+for data
+array a
+communication for
+e r
+communicate with
+local index
+b d
+r b
+free steps
+bases e
+bases are
+source and
+the array
+and target
+intel ipsc
+s2 and
+redistribution ieee
+distributed memory
+redistribution using
+ching hsien
+e 4
+redistribution requires
+difference q
+processor bases
+intermediate distributions
+ts te
+d2 the
+indexing functions
+processor index
+of permutations
+of contention
+on processor
+communication efficient
+to processor
+hsien hsu
+the vector
+delta omega
+redistribution are
+permutations each
+l ps
+product representation
+dimensional array
+yeh ching
+ching chung
+the source
+ipsc 860
+contention free
+of array
+source distribution
+cost estimates
+data index
+cost model
+efficient data
+r c
+the data
+global index
+are compatible
+total communication
+redistribution in
+re distribution
+during data
+located on
+of regular
+distributions is
+of processors
+processor sets
+ir p
+virtual processor
+l 12
+array statements
+redistribution corresponds
+exactly cover
+l s1
+pbs bs
+processors ir
+u fis
+develop cost
+24 l
+subramanian santosh
+c fis
+bs thus
+p te
+ram subramanian
+element a
+to communicate
+indices of
+a 0
+redistribution of
+arrays on
+cyclic distribution
+a i
+each permutation
+to cyclic
+te the
+e 24
+remapping the
+compatible distribution
+communicated is
+8 ps
+i div
+ae 8
+processor and
+cost of
+statements for
+fortran d
+network contention
+e m
+and fi
+corresponds to
+required communication
+intermediate distribution
+s2 to
+hsu yeh
+basis fi
+the single
+be communicated
+for block
+the intel
+efficient methods
+omega l
+redistribution for
+will communicate
+target distributions
+transmission cost
+the factorization
+analytical model
+a cyclic
+to fi
+q will
+of data
+the multi
+distribution on
+closed forms
+communication sets
+array sizes
+from cyclic
+power data
+the difference
+cost for
+and distributed
+total cost
+s l
+and q2
+santosh pande
+general data
+fis fi d
+q fis fi
+l l d2
+the vector basis
+fi l l
+for data redistribution
+the distribution basis
+vector basis e
+r b d
+the distribution bases
+phase data redistribution
+single phase data
+the single phase
+the tensor product
+the tensor basis
+regular data distributions
+ps omega e
+the communication cost
+r c d
+the two phase
+data redistribution is
+d gammab s
+gammab d bs
+l s2 l
+l s2 and
+p gammab d
+b d gammab
+l l s2
+of regular data
+array a 0
+source and target
+the multi phase
+l l l
+efficient data redistribution
+sequence of permutations
+s2 and fi
+bs l s2
+omega e bs
+located on processor
+l d2 the
+e bs l
+communication for data
+two phase strategy
+needs to communicate
+fi d is
+the data redistribution
+contention free steps
+and fi l
+redistribution ieee transactions
+e r c
+the source and
+ching hsien hsu
+on processor q
+distribution bases are
+fi d permutations
+and processor array
+target distribution bases
+basis e 4
+during data redistribution
+of processor u
+phase redistribution strategy
+representation of regular
+data redistribution requires
+data redistribution using
+l ps omega
+the difference q
+intel ipsc 860
+total communication cost
+the intel ipsc
+the target distribution
+element a i
+to communicate with
+yeh ching chung
+of the tensor
+bases are compatible
+number of contention
+multi phase redistribution
+tensor product representation
+single phase redistribution
+product representation of
+of contention free
+distribution basis for
+tensor product of
+set of processor
+the processor index
+communication efficient data
+the total communication
+cost of the
+communication cost of
+for block cyclic
+communication cost for
+the communication for
+distributed systems v
+difference q fis
+perfect power data
+processors ir p
+permutations that exactly
+distribution on p
+of array statements
+and target distributions
+two phase redistribution
+q will communicate
+p te the
+subramanian santosh pande
+a processor basis
+8 ps omega
+the processor basis
+basis e r
+l s2 to
+redistribution from fi
+r p gammab
+data and processor
+compatible distribution bases
+redistribution corresponds to
+e 24 l
+24 l s
+a perfect power
+multi phase strategy
+ram subramanian santosh
+e 4 corresponds
+the data basis
+to processor bases
+u fis fi
+vector bases e
+of single phase
+given by ts
+power data and
+ir p gammab
+ae 8 ps
+exactly cover the
+omega e 24
+of q fis
+transactions on parallel
+parallel and distributed
+indices of the
+and distributed systems
+on parallel and
+to be communicated
+multi dimensional array
+of the vector
+to the processor
+a tensor basis
+communication cost model
+data redistribution of
+distribution basis fi
+consider an array
+estimation of communication
+and target distribution
+will communicate with
+the local index
+be communicated is
+processor q will
+distribution basis is
+perfect power of
+data redistribution in
+a vector basis
+the vector bases
+the redistribution from
+array statements for
+efficient methods for
+the difference of
+corresponds to the
+the total cost
+as a sequence
+with all processors
+array redistribution ieee
+a multi phase
+hsu yeh ching
+to communication efficient
+for the redistribution
+redistribution using the
+hsien hsu yeh
+approach to communication
+on the intel
+a i is
+of the distribution
+for array redistribution
+cyclic distribution on
+basis for a
+consider a processor
+processor communicates with
+with block size
+cost model the
+processor needs to
+in a fixed
+can be factorized
+communication with a
+distributed memory machines
+massively parallel machines
+processors using a
+communication for the
+to a processor
+4 corresponds to
+are developed in
+an array a
+the array a
+for a multi
+communication can be
+of a i
+of the array

@@ -1,0 +1,600 @@
+grading
+nitsche
+mesh
+mortaring
+bvp
+mortar
+entrant
+meshes
+0h
+corner
+triangles
+ch
+triangulation
+nite
+triangulations
+jh
+owing
+subdomains
+interpolation
+quasi
+norms
+renement
+norm
+vertex
+singularity
+dierent
+lagrange
+triangle
+satised
+inequalities
+cf
+singularities
+h2
+jj
+ellipticity
+inequality
+kfk
+corners
+estimates
+interpolant
+touching
+tf
+2l
+convergence
+interface
+diameter
+matching
+elliptic
+bilinear
+trace
+rened
+mr
+hf
+sector
+jju
+t2t
+poisson
+ku
+employ
+estimate
+touch
+boundedness
+i1
+pointwise
+fem
+satises
+boundary
+dirichlet
+conrm
+dened
+vectorized
+kuk
+regular
+su
+uk
+interpolants
+discretization
+uniform
+variational
+multiplier
+xs
+ix
+sk
+constants
+saddle
+i2
+shall
+spaces
+ciently
+treating
+polar
+he
+continuity
+regularity
+correspondence
+ki
+abbreviation
+isosceles
+hj2
+0j
+0093
+0863
+0835
+2252
+conormale
+wjj
+subdomainsand
+pwith
+assertion
+rates
+stabilization
+pairing
+stability
+relations
+ks
+traces
+error
+lipschitz
+radius
+vantages
+jjw
+sjj
+stenberg
+jln
+ujj
+4y
+stiness
+lemma
+layers
+inf
+singular
+behaviour
+modied
+bvps
+remeshing
+approch
+jjs
+2ab
+equilateral
+cauchy
+shaped
+duality
+vj
+multipliers
+sin
+yields
+angles
+milgram
+axisymmetric
+kwk
+grids
+segments
+seminorm
+diam
+inequal
+nonconforming
+sup
+decomposition
+inscribed
+conrms
+4x
+faces
+coordinates
+wk
+estimated
+endpoints
+classical
+explicitely
+obs
+tacitly
+treatment
+denite
+summation
+asymptotically
+polynomials
+kw
+uj
+domains
+circumvented
+papers
+numerical
+neighbourhood
+denoting
+ea
+lax
+occuring
+ities
+angle
+domain
+derivatives
+dividing
+diminishing
+uence
+touches
+around
+modications
+quoted
+locally
+subdomain
+functionals
+i h
+h u
+u i
+v h
+nitsche type
+non matching
+nite element
+type mortaring
+u h
+the bvp
+interpolation error
+re entrant
+the nitsche
+matching meshes
+quasi uniform
+mesh grading
+vertex p
+regular solutions
+i u
+the mesh
+the mortar
+corner singularities
+solution u
+bvp 2
+h t
+1 h
+triangles t
+entrant corner
+error u
+triangulation t
+the vertex
+the triangulation
+the corner
+assumption 6
+owing to
+with grading
+entrant corners
+t h
+h from
+triangle t
+assumption 3
+lemma 6
+on quasi
+h h
+i ch
+ch 2l
+t 2
+b h
+from 6
+uniform meshes
+u u
+e h
+meshes with
+p 0
+of h
+mr 2
+mortar method
+element approximation
+the lagrange
+with mesh
+s i
+h and
+let assumption
+trace theorem
+error s
+the nite
+c i
+the triangle
+the interface
+the interpolation
+of triangles
+the norm
+cf also
+case i1
+c 0h
+d jh
+grading parameter
+one re
+ku u
+c kfk
+dierent subdomains
+singularity function
+h ellipticity
+3 7
+2 t
+the error
+norms on
+local mesh
+the triangulations
+h on
+v i
+error estimate
+h is
+estimate holds
+domain decomposition
+the solution
+estimated easily
+satised then
+h 2
+error estimates
+h i
+be satised
+the diameter
+inequality 4
+and get
+element method
+the singularity
+the inequalities
+h 0
+estimate 6
+norm jj
+triangulations with
+pointwise error
+bilinear form
+of convergence
+a mesh
+the trace
+ellipticity of
+not touch
+variational equation
+6 6
+of corner
+jj jj
+case t
+the estimate
+mesh with
+2 be
+t he
+in dierent
+see e
+solutions u
+all triangles
+function v
+the norms
+ch 2
+side f
+2 cf
+2 h
+for regular
+h for
+h of
+r g
+6 2
+l 2
+touch the
+with h
+the l
+norms 1
+u uk
+c ix
+3 mr
+h norm
+ki h
+mortar interface
+500 20
+bvp in
+its nite
+local renement
+h sk
+50 500
+elements error
+case i2
+mesh renement
+h boundedness
+renement right
+norm mr
+ratio renement
+kuk c
+0h n
+known interpolation
+7 estimate
+shaped domain
+classical mortar
+jh with
+in correspondence
+h s
+poisson equation
+d i
+right hand
+from 3
+ciently small
+lagrange multiplier
+h denote
+1 t
+let u
+7 i
+decomposition methods
+the v
+size h
+of t
+i xs
+ks i
+triangulation e
+lagrange interpolant
+t ch
+y pointwise
+grading and
+local polar
+dierent pairs
+2l 2
+i h u
+h u i
+u i u
+i u i
+nitsche type mortaring
+non matching meshes
+vertex p 0
+of the bvp
+the nitsche type
+the vertex p
+u u h
+assumption 6 2
+the bvp 2
+re entrant corner
+the interpolation error
+on quasi uniform
+the error u
+nite element approximation
+quasi uniform meshes
+bvp 2 1
+re entrant corners
+the nite element
+i i h
+the triangle t
+triangulation t h
+assumption 3 1
+around the vertex
+the v h
+h from 3
+2 be satised
+for regular solutions
+error u u
+u i ch
+interpolation error s
+case t 2
+triangles t 2
+the triangulation t
+t 2 d
+the solution u
+of the corner
+3 2 be
+i t s
+with non matching
+p 0 of
+independent of h
+r i h
+k 1 h
+t s i
+in dierent subdomains
+of the nitsche
+with mesh grading
+h u u
+i h s
+mesh with grading
+error s i
+6 2 cf
+i ch 2l
+h from 6
+let assumption 3
+ku u h
+be satised then
+v h ellipticity
+h t he
+from 6 7
+one re entrant
+h h t
+all triangles t
+of corner singularities
+2 d i
+h s i
+norm jj jj
+0 h h
+inequality 4 3
+not touch the
+u i h
+v h 2
+in the norm
+s i i
+h h 0
+u h in
+2 v h
+u h k
+0 of the
+of the triangle
+see e g
+of h t
+i 1 t
+h 2 v
+h i h
+t 2 t
+and error estimates
+h and t
+poisson equation with
+t h is
+of the triangulation
+u i in
+the lagrange multiplier
+the poisson equation
+domain decomposition methods
+rate of convergence
+solution u of
+and 3 2
+in v i
+of u i
+the solution of
+8 and get
+3 mr 2
+known interpolation error
+levels for and
+touch the vertex
+meshes with appropriate
+mr 2 3
+0 50 500
+ellipticity of b
+3 7 i
+v h this
+l shaped domain
+mesh ratio renement
+pairs h i
+v by i
+nite element equations
+quasi uniform the
+method or by
+jj 1 h
+a r sin
+ch 2l 2
+of h levels
+with center at
+1 h by
+h t of
+h on v
+entrant corners with
+system of nite
+the singularity function
+2 3 mr
+kuk c kfk
+c 0h n
+with 0 h
+diameter h t
+h here r
+well known interpolation
+its nite element
+the classical mortar
+elements error in
+with mesh ratio
+observed convergence rates
+i h sk
+meshes with grading
+of re entrant
+b h we
+assumptions 3 1
+ks i h
+of nite element
+inequalities 5 10
+0h n d
+norms 1 h
+2 c 0h
+local mesh renement
+corner singularities we
+grading parameter the
+norm mr 2
+rates for dierent
+6 7 estimate
+with h from
+h norm mr
+u i i
+u h from
+triangle t the
+different norms 1
+h levels for
+any v h
+i case t
+h is now
+the norms on
+treatment of corner
+classical mortar method
+for 1 proof
+form b h
+x y pointwise
+of elements error
+triangulation e h
+the diameter h
+h ellipticity of
+the bvp in
+dierent pairs h
+in different norms
+2 cf also
+mesh grading is
+regular solutions u
+element approximation according
+g from 6
+corners with angles
+h u uk
+to assumption 6
+interpolation error estimate
+entrant corner and
+y pointwise error
+error u i
+ki h u
+the mortar interface

@@ -1,0 +1,600 @@
+diffusing
+nonmasking
+masking
+fault
+intolerant
+byzantine
+tolerant
+actions
+corrector
+holder
+token
+faults
+tolerance
+detectors
+detector
+correctors
+action
+predicate
+superposition
+parent
+nt
+gd
+item
+nh
+invariant
+safety
+safe
+exclusion
+nm
+interfere
+span
+np
+specification
+mutual
+tmr
+ns
+liveness
+finalizes
+processes
+nr
+ib
+acknowledgment
+false
+nm3
+nm8
+nm7
+nm5
+nm2
+cr
+cs
+fail
+rs
+agreement
+comp
+root
+unrooted
+nr1
+snh
+smb
+stops
+abort
+converges
+stop
+finalized
+res
+corrects
+designing
+restores
+obligations
+eventually
+im
+prefixes
+nb
+stepwise
+superposing
+red
+initiator
+iff
+suffix
+tree
+id
+hnsi
+bsi
+snepscheut
+tnb
+majdefined
+composition
+bs
+sn
+completes
+enhance
+multitolerance
+hns
+multitolerant
+receives
+colored
+init
+guard
+maj
+br
+recovery
+wave
+propagating
+enabled
+decision
+stage
+rr
+initiate
+mm
+compositional
+alternating
+prop
+detectable
+aborts
+finalize
+designs
+leader
+children
+programs
+rooted
+sent
+propagated
+array
+witnessing
+nr2
+snh1
+nb4
+hstatementi
+snt
+smr
+id2
+nb3
+snh2
+copied
+repairs
+critical
+neighbors
+presence
+suffixes
+execute
+col
+corrupted
+corruption
+election
+reconstructs
+mr
+closed
+fli
+sgd
+hnamei
+smd
+tnt
+raymond
+corrupt
+sender
+request
+propagates
+lets
+enhancing
+interference
+hi
+message
+executing
+participating
+ld
+decisions
+suffices
+hff
+alpern
+hfi
+ffii
+resets
+lost
+receiver
+green
+aborted
+concurrently
+ruled
+rollback
+continually
+color
+verification
+detection
+replication
+prefix
+incorrectly
+auxiliary
+duplicate
+circulated
+unboundedly
+reaches
+safely
+majority
+exception
+transfer
+program
+formally
+repair
+reset
+extant
+diffusing computation
+safe predicate
+the holder
+a diffusing
+masking tolerant
+fault span
+intolerant program
+process j
+masking fault
+nonmasking tolerant
+holder relation
+state where
+the corrector
+the nonmasking
+safety specification
+nonmasking fault
+actions of
+the diffusing
+problem specification
+tolerant for
+a state
+fail stops
+tolerant program
+the fault
+fault tolerance
+fault tolerant
+fault actions
+non byzantine
+nonmasking program
+the token
+to masking
+the parent
+the safe
+mutual exclusion
+liveness specification
+fault intolerant
+parent tree
+not interfere
+tolerance to
+the actions
+the detectors
+invariant of
+of masking
+its decision
+the intolerant
+interfere with
+masking program
+the invariant
+byzantine agreement
+fail stop
+holder of
+result false
+of j
+the faults
+its diffusing
+a nonmasking
+of np
+an acknowledgment
+p j
+every computation
+p starting
+the program
+a token
+each process
+parent relation
+f tolerant
+is nonmasking
+fault classes
+program is
+in j
+the tolerance
+an item
+of faults
+the safety
+exclusion program
+global detector
+of p
+critical section
+each action
+state predicate
+d j
+q converges
+masking tolerance
+res j
+is masking
+nonmasking tolerance
+tolerant programs
+a corrector
+a process
+converges to
+root process
+j is
+detector gd
+detector components
+add nonmasking
+that diffusing
+action of
+all processes
+the masking
+tolerant to
+its parent
+designing masking
+t np
+satisfies its
+a fault
+s p
+an action
+token based
+of program
+result true
+four actions
+in p
+actions are
+finalizes its
+nm5 nm7
+verification obligations
+program ib
+and nonmasking
+of fault
+phase j
+h j
+s holds
+starting from
+program p
+computation with
+span of
+s q
+alternating bit
+specification is
+d g
+the method
+root j
+superposition on
+is byzantine
+holds satisfies
+fault action
+byzantine processes
+invariant s
+resulting program
+of actions
+j to
+the presence
+and nh
+root value
+new token
+its problem
+formally the
+presence of
+a program
+designed by
+colored red
+are as
+design of
+variables of
+its critical
+to s
+nm7 and
+array item
+corrector nt
+detector composition
+superposition variables
+program mm
+improved masking
+superposition actions
+process fail
+program id
+of corrector
+action nr1
+and nm8
+program nm
+completion wave
+byzantine process
+6 hi
+program mr
+nonmasking f
+up j
+gamma up
+program nb
+of nm
+byzantine faults
+nm is
+usually associated
+j false
+actions that
+closed in
+predicate of
+corrects the
+the liveness
+data transfer
+t p
+the item
+masking and
+receives an
+the byzantine
+follows gamma
+computation prefixes
+is intolerant
+byzantine the
+the correctors
+np holds
+a diffusing computation
+the safe predicate
+a state where
+the diffusing computation
+the holder relation
+masking fault tolerant
+the fault span
+not interfere with
+the safety specification
+the parent tree
+the nonmasking program
+the actions of
+the invariant of
+the problem specification
+in a diffusing
+diffusing computation with
+fault span of
+the result false
+tolerance to masking
+each process j
+of p starting
+nonmasking fault tolerance
+state where s
+the intolerant program
+with the result
+formally the actions
+its diffusing computation
+p starting from
+computation with the
+does not interfere
+the holder of
+converges to s
+nonmasking tolerant program
+the parent relation
+tolerant for s
+every computation of
+actions of the
+computation of p
+mutual exclusion program
+diffusing computation and
+the global detector
+invariant of program
+of masking fault
+q converges to
+the tolerance to
+in the presence
+problem specification is
+fault intolerant program
+f tolerant for
+holder of j
+the masking program
+that diffusing computation
+action of np
+enhance the tolerance
+nonmasking fault tolerant
+add nonmasking tolerance
+are as follows
+of fault classes
+fault tolerant programs
+the liveness specification
+masking fault tolerance
+the presence of
+starting from a
+each action of
+its critical section
+where s holds
+finalizes its decision
+hence the invariant
+safe predicate of
+masking and nonmasking
+the fault intolerant
+of the nonmasking
+variety of fault
+initiate a diffusing
+presence of faults
+nonmasking tolerance to
+satisfies its problem
+has the token
+its problem specification
+the result true
+a state predicate
+a new token
+of the corrector
+the fail stop
+of j is
+variables of q
+has a token
+to s p
+the variables of
+it follows that
+usually associated with
+non byzantine process
+root value of
+is not participating
+safe predicate for
+enhancing the tolerance
+to add nonmasking
+diffusing computation to
+fault span and
+is nonmasking f
+thus the invariant
+a nonmasking tolerant
+nt and nh
+its safe predicate
+that the corrector
+and the holder
+span and invariant
+diffusing computation that
+nm5 nm7 and
+nm7 and nm8
+parent of j
+6 hi gamma
+of the intolerant
+to the faults
+non byzantine processes
+the resulting program
+variables of p
+j to denote
+is closed in
+from a state
+do not interfere
+in p and
+restricted to execute
+the fault action
+execute only when
+receives an acknowledgment
+closed in p
+masking tolerant to
+yields a state
+h j to
+an intolerant program
+design of masking
+as follows gamma
+is masking tolerant
+designing masking fault
+token based mutual
+not participating in
+intolerant program is
+is the same
+for each process
+the parent of
+reaches a state
+its result to
+actions are as
+the token the
+of that action
+in a stepwise
+resulting program is
+the root value
+triple modular redundancy
+s receives an
+the design of
+the mutual exclusion
+to execute only
+of its parent
+the second stage
+the same as
+d j is
+based mutual exclusion
+alternating bit protocol
+action of p
+p s q
+the alternating bit
+not update the
+participating in a
+the token to
+to enhance the
+program consists of
+of all processes
+decision only when
+fail stop of
+if cs is
+nonmasking to masking
+is fusion closed
+to masking we
+fault tolerant for
+finalized its decision
+our two stage
+corrector and detector
+components to a
+and nonmasking fault
+equation continues to
+for process j
+fault intolerant system
+nm2 and nm3
+improved masking tolerant
+receives an item
+a program component
+from nonmasking to
+finalize its decision
+examples of masking
+gamma out in
+byzantine agreement program
+diffusing computation completes
+potential for efficient
+and every computation
+this equation continues
+decisions reached by
+completes its diffusing
+computations of np

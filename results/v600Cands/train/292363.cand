@@ -1,0 +1,600 @@
+velocity
+pressure
+miscible
+div
+concentration
+porous
+ipm
+displacement
+perturbation
+deltat
+kck
+omega
+iterative
+mixed
+media
+reservoir
+brezzi
+babuska
+galerkin
+regularization
+convergence
+darcy
+1are
+fluid
+oil
+numerical
+definite
+norm
+epsilon
+1i
+fp
+errors
+grid
+fu
+1and
+5div
+spaces
+iteration
+differential
+presuming
+discretized
+iterations
+1m
+kgk
+convection
+elliptic
+hydrocarbon
+boundary
+cg
+lagrangian
+uzawa
+raviart
+stokes
+daes
+equation
+penalty
+coefficient
+tertiary
+wells
+characteristic
+wayne
+calculated
+mixture
+iterates
+stiffness
+approximation
+kc
+differencing
+58
+accuracy
+stepping
+kp
+asymptotic
+stopping
+ck
+uniqueness
+resident
+pg
+incompressible
+glas
+dominates2
+misplacement
+solvent
+kukh
+invading
+chemicals
+waterflooding
+navier
+gamma6
+nonlinear
+injection
+expansion
+guesses
+guess
+symmetric
+production
+dominated
+lipschitz
+48202
+1z2
+detroit
+xx4
+dyang
+british
+mobility
+sequential
+ascher
+marini
+gammath
+columbia
+triangles
+characteristics
+recovery
+tensor
+neumann
+discontinuous
+augmented
+coupled
+powers
+professors
+dou
+rectangles
+diffusion
+mathematics
+sin
+estimate
+v6t
+gronwall
+upwinding
+element
+math
+poisson
+2m
+gotten
+criterion
+accurate
+65
+noting
+2z
+porosity
+ubc
+index
+norms
+permeability
+coercivity
+petroleum
+simulation
+tables
+63
+ornl
+displacing
+ffl
+discrete
+stop
+dispersion
+rock
+nonpositive
+theta
+reminder
+75
+mail
+rate
+polynomials
+nonhomogeneous
+kuk
+spectral
+estimates
+assembling
+pursuit
+normed
+wg
+plugging
+mean
+intimately
+inspiration
+gravity
+uri
+substitution
+70
+trapezoidal
+lemma
+gammag
+saddle
+decouple
+exact
+ipc
+sobolev
+adopted
+thomas
+freedom
+trivially
+flux
+equations
+gov
+gamma5
+60
+capable
+herein
+solutions
+salient
+pressure velocity
+velocity pressure
+concentration equation
+iterative perturbation
+and pressure
+miscible displacement
+the pressure
+the concentration
+our iterative
+perturbation method
+omega theta
+in porous
+velocity equation
+porous media
+iteration velocity
+pressure p
+theta j
+the velocity
+finite element
+mixed finite
+mean value
+calculated relative
+pressure errors
+deltat n
+for velocity
+2 omega
+c kck
+displacement in
+of miscible
+sequential regularization
+velocity u
+with grid
+exact solutions
+element methods
+both velocity
+the ipm
+errors are
+iterative procedure
+1 norm
+velocity errors
+div u
+pressure equation
+the iterative
+grid size
+satisfy div
+5 div
+kck 2
+value zero
+and shown
+u and
+norm iteration
+babuska brezzi
+brezzi condition
+iteration level
+pressure table
+velocity variable
+spaces for
+of characteristics
+velocity and
+9 10
+are calculated
+zero mean
+o ffl
+solutions and
+pressure variable
+modified method
+numerical experiments
+linear systems
+div 2
+element method
+small positive
+for u
+l 1
+choose u
+let velocity
+fp u
+o epsilon
+sizes 1and
+j div
+u cg
+1and 1are
+1are shown
+u s
+regularization methods
+iterative scheme
+size 1
+w h
+positive definite
+and p
+1 both
+for miscible
+true solutions
+darcy velocity
+fluid mixture
+the miscible
+displacement problems
+the l
+positive number
+boundary condition
+definite coefficient
+numerical simulation
+solution of
+have mean
+perturbation parameter
+p satisfy
+65 and
+scheme 9
+the exact
+convergence rate
+to satisfy
+definite linear
+regularization method
+mixed methods
+grid sizes
+penalty methods
+augmented lagrangian
+convection dominated
+mixed method
+has mean
+that deltat
+the mixed
+errors and
+thus have
+2 20
+the discrete
+system 9
+the solution
+an iterative
+convergence analysis
+asymptotic expansion
+we obtain
+the convergence
+2 iterations
+element spaces
+numerical results
+our method
+case gamma6
+problem div
+n kc
+or rectangles
+dynamic finite
+from penalty
+like powers
+criterion 96
+norm all
+approximate velocity
+w 1m
+called babuska
+u 1i
+nonlinear coupled
+ipm for
+combining 52
+p 1i
+applying perturbation
+vector part
+kck l
+58 60
+22 space
+thomas 22
+runs stop
+method ipm
+equation finally
+required iteration
+fu pg
+the babuska
+ipm scheme
+scheme 58
+resident oil
+w 2m
+trivially applying
+fp s
+discrete version
+of iterations
+p are
+21 for
+the error
+pressure and
+approximation scheme
+relative to
+z h
+1 omega
+perturbation methods
+discrete spaces
+displacement problem
+u 10
+velocity approximation
+error o
+div where
+in reservoir
+for iterates
+u 20
+the tertiary
+edge ff
+63 64
+differential problem
+guesses are
+producing as
+20 j
+equation which
+9 11
+velocity pressure velocity
+pressure velocity pressure
+the concentration equation
+omega theta j
+2 omega theta
+iterative perturbation method
+pressure velocity equation
+the pressure velocity
+in porous media
+iteration velocity pressure
+solutions and shown
+are calculated relative
+the exact solutions
+miscible displacement in
+displacement in porous
+velocity u and
+calculated relative to
+exact solutions and
+pressure errors are
+errors are calculated
+and pressure p
+u and pressure
+mixed finite element
+of miscible displacement
+l 1 norm
+mean value zero
+zero mean value
+for the pressure
+errors and pressure
+both velocity errors
+an iterative perturbation
+size 1 both
+velocity errors and
+1 both velocity
+and pressure errors
+and shown in
+velocity and pressure
+the l 1
+grid size 1
+the velocity pressure
+with grid size
+method of characteristics
+finite element methods
+in the l
+to the exact
+div 2 omega
+c kck 2
+5 div u
+velocity pressure table
+for velocity u
+our iterative scheme
+the iterative perturbation
+perturbation method for
+1 norm iteration
+norm iteration velocity
+babuska brezzi condition
+simulation of miscible
+the velocity variable
+of our iterative
+a small positive
+the iterative procedure
+modified method of
+results for example
+finite element method
+the pressure variable
+small positive number
+numerical results for
+u and p
+the solution of
+true solutions for
+1and 1are shown
+let velocity u
+1are shown in
+th iteration level
+velocity equation which
+as the mixed
+velocity pressure equation
+to satisfy div
+have mean value
+theta j div
+velocity equation and
+theta j where
+fp u cg
+sizes 1and 1are
+solutions for velocity
+has mean value
+space of index
+pressure p satisfy
+j div 2
+pressure p are
+grid sizes 1and
+system 9 10
+the true solutions
+sequential regularization methods
+sequential regularization method
+for miscible displacement
+the fluid mixture
+our iterative method
+method for the
+definite coefficient matrix
+approximation of miscible
+for velocity and
+p are given
+solution of symmetric
+for the concentration
+a modified method
+rate of our
+relative to the
+definite linear systems
+the mixed finite
+positive definite linear
+11 15 16
+and the estimate
+regularization methods for
+for the velocity
+analysis and numerical
+the discrete version
+number of iterations
+numerical experiments show
+shown in the
+and numerical experiments
+1 omega gamma
+the finite dimensional
+finite element spaces
+and a modified
+requires the solution
+of our method
+of the fluid
+for u and
+with zero mean
+numerical simulation of
+8 and 4
+symmetric and positive
+we obtain the
+called babuska brezzi
+two partial differential
+u 20 j
+to non symmetric
+o ffl where
+the babuska brezzi
+measured for iterates
+media is modeled
+of two partial
+the approximate velocity
+a nonlinear coupled
+since the concentration
+boundary condition 10
+only the velocity
+difference or element
+time discretized problem
+like powers of
+fp s g
+variable is obtained
+raviart thomas 22
+or three iterations
+2 with grid
+concentration equation is
+trivially applying perturbation
+velocity approximation as
+regularization method 2
+satisfy the babuska
+1 norm all
+have c kck
+dimensional spaces for
+method of asymptotic
+variable is involved
+scheme 9 11
+1i and p
+required iteration velocity
+stop after 2
+triangles or rectangles
+with dynamic finite
+iterative scheme can
+perturbation method ipm
+are 1 00
+scheme 58 60
+20 j u
+into triangles or
+or element methods
+different from penalty
+1 with grid
+of producing as
+norm all runs
+concentration equation finally
+by taking m
+concentration equation 3
+u 1i and
+the case gamma6
+of asymptotic expansion
+using the ipm
+pressure variable is
+3 with grid
+velocity variable is
+an error o
+producing as accurate
+our iterative procedure
+deltat n kc
+2 iterations except
+21 for u
+errors are 1

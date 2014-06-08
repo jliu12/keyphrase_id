@@ -1,0 +1,600 @@
+load
+renaming
+confidence
+instructions
+mis
+speculation
+instruction
+loads
+pipeline
+store
+predictor
+speculative
+dependence
+422
+file
+prediction
+sourcing
+hydro
+cc1
+cache
+renamed
+register
+queue
+speculated
+speculations
+squash
+ldd
+recovery
+memory
+dependencies
+tomcatv
+mgrid
+latency
+speculatively
+sohi
+fetch
+microarchitecture
+stores
+predictions
+accesses
+tlb
+su2cor
+coverage
+gurindar
+moshovos
+comp
+211
+stack
+sigarch
+844
+std
+sq
+bypassing
+configuration
+gonzlez
+baseline
+misspeculation
+gyungho
+simulator
+simplescalar
+locality
+entry
+flight
+sangyeun
+mechanism
+rename
+forwarding
+reservation
+news
+speedup
+producer
+2d
+roth
+ayguad
+counters
+bypass
+ortega
+writeback
+amir
+heap
+eduard
+regularity
+31st
+predictors
+squashed
+resv
+tingting
+yew
+mult
+32k
+stations
+cycle
+decode
+pred
+lsq
+processor
+hit
+bandwidth
+mateo
+valero
+references
+boosts
+cregs
+pen
+predicted
+cho
+operand
+ld
+leverage
+associative
+lru
+andreas
+executions
+bottlenecked
+chung
+38th
+perl
+execute
+annual
+yoaz
+architected
+dcache
+specifiers
+barcelona
+employs
+gnu
+collapsing
+miss
+spec
+mil
+div
+serviced
+mechanisms
+buffer
+benchmarks
+registers
+supercomputing
+retirement
+reinman
+benchmark
+dallas
+lipasti
+jourdan
+milo
+labeled
+execution
+aggressive
+architecture
+communication
+nism
+retired
+forwards
+allocated
+experiment
+branch
+station
+tullsen
+pairings
+speedups
+1998
+breakdown
+m88ksim
+loaded
+addresses
+throwing
+ronny
+stalled
+mips
+index
+daniel
+superscalar
+opcode
+aliased
+spain
+effected
+ronen
+hits
+address
+mecha
+reuse
+access
+symposium
+sha
+segment
+operands
+sim
+reordering
+history
+go
+adi
+calder
+promote
+glenn
+forward
+loc
+brad
+delivery
+referenced
+reference
+haifa
+value file
+memory renaming
+store queue
+store load
+load store
+re execution
+the load
+load instructions
+dependence predictor
+load cache
+load instruction
+mis speculated
+effective address
+mis speculation
+the pipeline
+the store
+hydro 2d
+confidence mechanism
+memory dependencies
+value prediction
+mis speculations
+comp go
+squash recovery
+a load
+memory dependence
+processor pipeline
+memory communication
+the memory
+dependence prediction
+store data
+re 422
+experiment labeled
+load mis
+cc1 comp
+2d mgrid
+sourcing store
+speculated load
+go hydro
+on microarchitecture
+the confidence
+instructions to
+microarchitecture p
+file index
+of memory
+re execute
+mgrid su2cor
+lower confidence
+su2cor tomcatv
+the predictor
+execution recovery
+speculation recovery
+the sourcing
+renamed store
+re 211
+renamed load
+confidence loads
+422 confidence
+a renamed
+confidence counters
+confidence configuration
+pipeline to
+of load
+dependent instructions
+international symposium
+dependence speculation
+and load
+data cache
+loads may
+computer architecture
+load value
+store forward
+order issue
+correct predictions
+gurindar s
+s sohi
+moshovos gurindar
+in flight
+memory operations
+architecture news
+sigarch computer
+acm sigarch
+the speculative
+when speculation
+speculative load
+the mis
+the register
+loads and
+all instructions
+store instruction
+the value
+order buffer
+lower cost
+news v
+address calculations
+re order
+of loads
+program performance
+instructions after
+ieee international
+labeled re
+global accesses
+file entry
+pred ldd
+forward latency
+re generated
+term communication
+ld pred
+a 422
+file indices
+ldd st
+baseline simulator
+load result
+st std
+sq 422
+the processor
+store and
+all loads
+amir roth
+memory system
+way set
+andreas moshovos
+the simplescalar
+renaming mechanism
+between store
+register communication
+a mis
+overall on
+prediction confidence
+queue ld
+reservation station
+daniel ortega
+set associative
+high confidence
+speculation and
+per cycle
+the baseline
+and dependence
+much as
+store value
+yew gyungho
+cho pen
+all dependent
+confidence is
+gyungho lee
+instruction delivery
+mis prediction
+and stores
+hit rate
+sangyeun cho
+producer of
+speculative value
+renaming is
+symposium on
+in value
+to load
+all memory
+data value
+confidence and
+store instructions
+acm ieee
+a speculative
+tlb miss
+load data
+early in
+instruction fetch
+this configuration
+the re
+as much
+load and
+eduard ayguad
+predictor performance
+serviced by
+the data
+annual ieee
+accesses to
+the 31st
+execute when
+address calculation
+value locality
+memory instruction
+fetch bandwidth
+re executed
+of order
+speculation is
+chung yew
+pen chung
+dependence edge
+proceedings of
+the effective
+the count
+a store
+2005 barcelona
+stores are
+the instruction
+to improve
+on supercomputing
+the tlb
+stores that
+1 integer
+and coverage
+the value file
+load store queue
+store load cache
+load instructions to
+the store load
+the load store
+memory dependence predictor
+symposium on microarchitecture
+hydro 2d mgrid
+2d mgrid su2cor
+comp go hydro
+mis speculated load
+mgrid su2cor tomcatv
+go hydro 2d
+cc1 comp go
+value file index
+in the pipeline
+the processor pipeline
+on microarchitecture p
+a load instruction
+international symposium on
+store and load
+of memory renaming
+re execution recovery
+the sourcing store
+the memory dependence
+load mis speculations
+mis speculation recovery
+the mis speculated
+the effective address
+of order issue
+out of order
+of the load
+computer architecture news
+acm sigarch computer
+architecture news v
+sigarch computer architecture
+gurindar s sohi
+moshovos gurindar s
+andreas moshovos gurindar
+annual acm ieee
+and load instructions
+re order buffer
+the load instruction
+acm ieee international
+ieee international symposium
+of the memory
+data dependence speculation
+for memory renaming
+proceedings of the
+loads and stores
+the data cache
+a value file
+value file entry
+a 422 confidence
+the register communication
+short term communication
+ldd st std
+confidence and coverage
+a renamed load
+instructions in flight
+ld pred ldd
+when a renamed
+value file indices
+store forward latency
+renamed store data
+memory renaming is
+a prediction confidence
+store queue ld
+all instructions after
+all dependent instructions
+queue ld pred
+the dependence predictor
+store queue in
+memory communication to
+pred ldd st
+re execution we
+memory renaming the
+the experiment labeled
+way set associative
+as much as
+in the store
+by the load
+between store and
+the pipeline to
+overall on the
+an effective address
+execute when all
+of re execution
+producer of the
+instructions after the
+of load instructions
+memory dependence prediction
+cho pen chung
+yew gyungho lee
+in value prediction
+sangyeun cho pen
+chung yew gyungho
+for many of
+load instruction is
+when the predictor
+early in the
+load value prediction
+annual ieee acm
+is the count
+potential of data
+reference the same
+to re execute
+of memory operations
+conference on supercomputing
+pen chung yew
+queue in the
+12 16 2005
+november 12 16
+2005 barcelona spain
+to the baseline
+38th annual ieee
+16 2005 barcelona
+acm international symposium
+many of the
+1 3 of
+of the experiments
+the load and
+up to 8
+on supercomputing p
+from the value
+2 way set
+access off the
+parameters to see
+predictions as much
+much as 41
+represent forwarding through
+the predictor fails
+store data into
+and coverage for
+communication into the
+leverage the predictions
+the baseline simulator
+stack and global
+daniel ortega mateo
+confidence mecha nism
+211 confidence configuration
+an access off
+1 integer mult
+forward latency is
+experiment labeled re
+entry re order
+a novel renaming
+load cache entry
+execution benefits from
+ffl accesses to
+k martin amir
+after the mis
+station index is
+term communication is
+confidence configuration and
+the count increment
+and global accesses
+identify when speculation
+32k 2 way
+value and dependence
+a load value
+value file the
+prediction confidence mechanism
+effective address calculations
+such as cc1
+sourcing store value
+sha milo m
+away all instructions
+with memory renaming
+count increment used
+load indicates an
+labeled re 422
+mis speculated loads
+e g cc1
+cache 32k 2
+load instructions early
+non blocking cache
+the integer codes
+martin amir roth
+and re execution
+and dependence prediction
+complex address calculations
+loads cc1 comp
+bypassing international journal
+422 confidence mechanism
+indicates an access
+ortega mateo valero
+comp go perl
+loads the experiment
+identifier associated with
+enables load instructions
+opcode of the
+experiment labeled sq
+index is returned
+the speculative value
+of squash recovery
+figure 5 confidence
+lower confidence 211
+memory communication into

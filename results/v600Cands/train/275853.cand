@@ -1,0 +1,600 @@
+redistribution
+grid
+cyclic
+otto
+schedule
+caterpillar
+walker
+qs
+processor
+messages
+message
+communication
+nbr
+msg
+mpi
+stepwise
+processors
+hpf
+redistributed
+communications
+scheduling
+bipartite
+pq
+divides
+ching
+greedy
+ns
+send
+slice
+hsien
+array
+prime
+receivers
+receive
+senders
+lengths
+redistributions
+hsu
+matchings
+vol
+motivating
+arrays
+paragon
+sends
+modulo
+article
+buffering
+contentions
+scalapack
+costs
+jej
+exchanged
+matching
+exchange
+supercomputing
+block
+numbered
+gen_block
+gyoo
+yook
+myong
+alltoallv
+buffers
+receives
+organize
+kr
+nonzero
+proposition
+contention
+petitet
+berge
+schedules
+spots
+composed
+deduce
+rows
+strategy
+minyi
+euclid
+chyi
+mc
+pr
+raghavendra
+mod
+intel
+unpack
+viktor
+lcm
+hyun
+repeats
+entries
+prasanna
+saturates
+hot
+coloring
+dow
+jv
+disjoint
+opt
+vertex
+yeh
+grids
+polyhedron
+sent
+dealt
+distribution
+tc
+onto
+advocated
+row
+congruent
+succession
+ren
+lattices
+gcd
+multidimensional
+evenly
+redistribute
+distributions
+columns
+park
+1666
+saeri
+modg
+tourancheau
+rqs
+maxfmr
+regroup
+hypergraphes
+wildcarded
+reeuwijk
+volr
+500015000
+40008000microseconds
+prylli
+maxflength
+prashanth
+receiving
+guo
+pack
+induced
+timer
+unbalanced
+indicated
+symmetrically
+piecewise
+pairs
+longest
+devoted
+turns
+mr
+stichnoth
+thirumalai
+kalns
+wakatani
+alltoall
+onig
+jeannot
+classes
+slices
+build
+vectors
+asynchronous
+neungsoo
+peizong
+ancourt
+koo
+bhat
+112
+assignment
+lemma
+participating
+exchanging
+ikuo
+1329
+cauligi
+roumeliotis
+1240
+realignment
+souravlas
+1368
+1217
+chung
+library
+weighted
+deltal
+woei
+1216
+graphes
+manos
+decompositions
+going
+wang
+synchronized
+antoine
+fortiori
+nakata
+arranged
+moving
+barrier
+communication grid
+the redistribution
+and otto
+communication steps
+walker and
+processor grid
+block cyclic
+total cost
+cyclic r
+redistribution problem
+the communication
+a redistribution
+of msg
+the caterpillar
+cyclic s
+of steps
+caterpillar algorithm
+stepwise strategy
+p q
+nbr of
+to example
+a schedule
+communication costs
+message lengths
+the communications
+each processor
+otto 21
+16 steps
+msg nbr
+same length
+communication step
+array redistribution
+grid for
+one message
+redistribution operation
+q processor
+a cyclic
+message generation
+distribution on
+relatively prime
+each step
+otto s
+modulo g
+steps ns
+class k
+grid is
+vector x
+greedy strategy
+indicated for
+data redistribution
+each class
+processor pairs
+s distribution
+costs for
+6 9
+messages to
+steps for
+ching hsien
+processor pair
+for step
+steps is
+p processor
+length p
+the schedule
+prime with
+linear grid
+of walker
+r distribution
+communications induced
+redistribution equation
+steps at
+grid to
+9 6
+steps and
+the stepwise
+maximum matching
+maximum degree
+for communication
+messages of
+hsien hsu
+and qs
+processor messages
+schedule whose
+numbered from
+multiple of
+motivating examples
+redistribution with
+single slice
+distribution cyclic
+be redistributed
+processors numbered
+total exchange
+supercomputing v
+of supercomputing
+6 6
+processor sends
+at each
+from cyclic
+communication scheduling
+array assignment
+step a
+grid of
+bipartite graph
+in table
+are indicated
+communication scheme
+in position
+for table
+r and
+solution schedule
+theoretical ratio
+pattern repeats
+experiment corresponds
+gamma qs
+table communication
+ns opt
+vol k
+slice vector
+qs the
+examples back
+pr gamma
+redistribution schedule
+the messages
+x of
+is optimal
+whose number
+see table
+cost of
+parameters p
+r s
+a message
+of maximum
+lengths are
+p r
+redistribution of
+cyclic data
+cyclic distribution
+the journal
+the cost
+all to
+to cyclic
+parameters r
+a q
+schedule messages
+our redistribution
+receiving processors
+redistribution parameters
+by walker
+d e
+strategy for
+message to
+a vector
+grid as
+of size
+our motivating
+time redistribution
+schedule requires
+redistribution algorithm
+s 0
+for block
+intel paragon
+composed of
+7 steps
+to send
+this article
+organize the
+cost is
+pair p
+schedule is
+step each
+receives no
+edge coloring
+q processors
+no message
+to organize
+the message
+be exchanged
+a p
+of elements
+maximum weighted
+messages only
+all buffers
+wang et
+a bipartite
+the grid
+and q
+of buffering
+per row
+moving from
+f g
+schedule that
+weighted matching
+processor mapping
+e f
+the total
+of receivers
+any schedule
+our scheduling
+cyclic fashion
+redistribution the
+the communication grid
+walker and otto
+number of steps
+the redistribution problem
+the caterpillar algorithm
+nbr of msg
+communication grid is
+communication costs for
+of the redistribution
+communication grid for
+back to example
+step a b
+for step a
+vector x of
+communication steps for
+9 6 6
+6 6 9
+6 9 6
+the total cost
+distribution on a
+on a q
+are indicated for
+and otto 21
+indicated for a
+q processor grid
+a q processor
+a cyclic s
+cyclic s distribution
+msg nbr of
+at each step
+x of size
+of the communication
+s distribution on
+steps at each
+and otto s
+consider a redistribution
+redistribution problem with
+of steps ns
+a cyclic r
+the stepwise strategy
+of msg nbr
+a vector x
+than one message
+a p processor
+for a vector
+the same length
+steps and the
+of steps and
+on a p
+to a cyclic
+a block cyclic
+ching hsien hsu
+messages of the
+total cost is
+for block cyclic
+lengths are indicated
+stepwise strategy for
+schedule whose number
+of walker and
+steps for communication
+length p q
+a redistribution with
+r and qs
+costs for step
+the communications induced
+from a cyclic
+relatively prime with
+the redistribution equation
+communication grid as
+p processor grid
+otto s work
+cyclic r distribution
+for communication steps
+r distribution on
+processor grid to
+for communication costs
+communications induced by
+r and s
+of maximum degree
+grid to a
+to example 3
+costs for communication
+the redistribution operation
+a schedule whose
+processors numbered from
+processor pair p
+of steps is
+of supercomputing v
+journal of supercomputing
+both the number
+of the communications
+g h i
+message lengths are
+e f g
+a single slice
+whose number of
+communication step is
+greedy strategy for
+moving from a
+optimal in terms
+d e f
+the cost of
+a communication step
+each step each
+all to all
+each processor sends
+of communication steps
+the number of
+c d e
+to organize the
+h i j
+pair p q
+block cyclic data
+p and q
+terms of both
+the journal of
+p q in
+table communication costs
+motivating examples back
+the solution schedule
+redistribution schedule requires
+cyclic r on
+by walker and
+examples back to
+experiment corresponds to
+redistribution problem that
+the theoretical ratio
+single slice vector
+from cyclic r
+redistribution with parameters
+of our motivating
+grid of p
+our motivating examples
+send and or
+b c d
+in the communication
+in each class
+of total cost
+maximum weighted matching
+a maximum matching
+a maximum weighted
+in position p
+that is moving
+parameters p q
+corresponds to example
+cyclic distribution cyclic
+redistribution parameters p
+the redistribution parameters
+of the caterpillar
+block cyclic fashion
+grid as a
+to example 4
+with parameters r
+parameters r s
+and the total
+p r and
+cost of a
+f g h
+solve the general
+multiple of g
+the greedy strategy
+to be redistributed
+message to q
+run time redistribution
+is moving from
+section 4 3
+in this article
+4 3 2
+r s p
+redistribution the journal
+the processor grid
+each communication step
+to processor q
+the schedule we
+by the redistribution
+a bipartite graph
+all the messages
+messages to be
+s work in
+terms of total
+q r and
+work in order
+a b c
+of elements in
+block cyclic distributions
+pairs of processors
+most one message
+notation of lemma
+is relatively prime
+wang et al
+of the message
+the scheduling of
+of the grid
+multiple of p
+and s we
+r on a
+of p processors
+schedule that is
+a step is
+block cyclic distribution

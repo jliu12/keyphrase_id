@@ -1,0 +1,600 @@
+cdfg
+schedulable
+speculative
+wavesched
+stg
+speculatively
+op4
+scheduling
+op
+schedule
+scheduled
+successors
+unscheduled
+op2
+op1
+speculation
+op0
+schedules
+behavioral
+cc
+scheduler
+op7
+conditioned
+cycles
+clock
+fanout
+synthesis
+gupta
+findmin
+intensive
+sumit
+barcode
+op3
+speculate
+branch
+conditional
+resource
+nikil
+nicolau
+dutt
+rajesh
+mult1
+eqc1
+dependencies
+ws
+pj
+savoiu
+comp1
+gcd
+sub1
+alse
+operands
+paths
+spec
+probabilities
+loop
+fanins
+automation
+execution
+adder
+s5
+inc1
+2_2
+sel1
+1_2
+mbp
+1_0
+2_3
+generic
+fanin
+op6
+op5
+allocation
+comparator
+sp
+s7
+add1
+incrementer
+tlc
+alex
+fragment
+rtl
+europe
+uled
+chaining
+cond
+evaluates
+longest
+clk
+nick
+c1
+annotated
+speculating
+bottlenecks
+flow
+descriptions
+incorporating
+unrolling
+honor
+sentinel
+designs
+wc
+criticality
+upto
+fine
+sched
+pipelining
+executed
+execute
+grained
+functional
+tagging
+s0
+pseudocode
+produced
+junscheduled
+m1_4
+synopsysvss
+opi
+m2_1
+2_4
+pseudocodeshown
+1_5
+intractibility
+opj
+2_1
+1_3
+1_1
+soha
+operationsj
+m1_1
+10270
+c_1
+m2_0
+snthesis
+opk
+schedu
+dependenciesbased
+10114
+compaction
+period
+incorporate
+specially
+invalidate
+hsinchu
+sunwoo
+lable
+opn
+sbir
+tiplier
+10422
+hassoun
+bc
+feed
+benchmarks
+inf
+cycle
+louisiana
+orleans
+9319269
+stgs
+srivaths
+motivational
+test1
+jacome
+rotem
+margarida
+scriptions
+intra
+italic
+constraints
+preference
+dependency
+operation
+s8
+subtracter
+multiplier
+routine
+heuristic
+pillai
+msu
+lakshminarayana
+troller
+improbable
+grain
+iteration
+select
+belongs
+statement
+kirovski
+kishinevsky
+niraj
+threads
+circuit
+illustrating
+ample
+expression
+fee
+adjective
+miodrag
+speculative execution
+schedulable operations
+the cdfg
+schedulable successors
+the stg
+speculatively performed
+an operation
+branch probabilities
+operation op
+resource constraints
+behavioral description
+conditioned on
+flow intensive
+is conditioned
+level synthesis
+execution into
+operation 1
+of cycles
+generic scheduler
+wavesched spec
+set schedulable
+unscheduled operations
+operations whose
+cycles cc
+compute schedulable
+cdfg fragment
+incorporating speculative
+performed operations
+the schedule
+control flow
+scheduling algorithm
+speculatively executed
+generic scheduling
+allocation constraints
+dutt rajesh
+op2 and
+clock cycles
+operations which
+to speculate
+sumit gupta
+stg of
+control dependencies
+cycles taken
+incorporate speculative
+gupta alex
+cc b
+schedulable operation
+intensive behavioral
+ws sp
+into scheduling
+wavesched 6
+rajesh gupta
+op is
+intensive designs
+p c1
+stg in
+executed operations
+cdfg shown
+high level
+of figure
+nikil dutt
+the behavioral
+been scheduled
+of operations
+target clock
+is scheduled
+operations in
+of clock
+conditional operations
+fragment shown
+schedules produced
+alex nicolau
+clock period
+multiple paths
+just been
+behavioral descriptions
+during scheduling
+along multiple
+expected number
+of control
+schedule of
+the speculation
+and branch
+gupta nick
+successors need
+conditional paths
+op4 are
+are unscheduled
+speculate upon
+and op0
+sp ws
+cc d
+l op
+and loop
+a generic
+on design
+the scheduling
+design automation
+evaluates to
+of speculative
+and op4
+speculatively scheduled
+of schedulable
+nick savoiu
+of speculatively
+its operands
+scheduled operations
+cc a
+speculative computation
+1 evaluates
+comparison 1
+f alse
+execution along
+a cdfg
+iteration data
+for scheduling
+has just
+successors of
+execution is
+given resource
+4 b
+scheduled in
+longest path
+data dependencies
+average number
+a fine
+schedules for
+our scheduling
+annotated with
+synthesis of
+scheduling of
+operations are
+whose execution
+europe p
+whose fanins
+fanout relationships
+states bc
+speculating along
+op1 c
+invalidate speculatively
+remove operation
+op1 op3
+operation op4
+m inf
+op1 evaluates
+bottlenecks imposed
+all schedulable
+conditioned operations
+dependencies have
+path pj
+c op1
+operation fanout
+that wavesched
+execution refers
+savoiu nikil
+speculative schedules
+op4 and
+grained manner
+and schedulable
+operations op2
+and op6
+its schedulable
+fanin fanout
+operation op0
+for wavesched
+op7 0
+which feed
+and findmin
+various conditional
+mbp speculative
+loop directed
+states sumit
+over schedules
+of cdfg
+speculation condition
+cdfg operation
+feed primary
+by wavesched
+rtl implementation
+c op4
+speculative schedule
+using op2
+and wavesched
+honor allocation
+combining mbp
+op7 00
+upto seven
+without speculative
+significantly sub
+07 sumit
+op2 has
+stg produced
+operation is
+the scheduler
+execute the
+in figure
+conditional and
+to execute
+in europe
+for conditional
+is conditioned on
+in the stg
+speculative execution into
+number of cycles
+high level synthesis
+control flow intensive
+schedule of figure
+the behavioral description
+stg of figure
+incorporating speculative execution
+compute schedulable successors
+a generic scheduling
+constraints and branch
+speculatively performed operations
+set schedulable operations
+dutt rajesh gupta
+taken to execute
+cycles taken to
+nikil dutt rajesh
+number of clock
+the stg of
+of clock cycles
+of cycles taken
+of figure 4
+incorporate speculative execution
+target clock period
+cdfg fragment shown
+speculatively executed operations
+rajesh gupta alex
+for the stg
+the set schedulable
+and branch probabilities
+clock cycles cc
+gupta alex nicolau
+flow intensive behavioral
+the schedule of
+operations which are
+resource constraints and
+the target clock
+the stg in
+stg in figure
+cdfg shown in
+along multiple paths
+level synthesis of
+an operation is
+fragment shown in
+for the cdfg
+expected number of
+of control flow
+conference on design
+shown in figure
+on design automation
+of an operation
+of the cdfg
+of speculative execution
+the cdfg fragment
+results of operations
+ws sp ws
+conditioned on c
+intensive behavioral descriptions
+speculative execution along
+to f alse
+generic scheduling algorithm
+just been scheduled
+paths to speculate
+schedulable successors of
+to incorporate speculative
+into a generic
+a generic scheduler
+gupta nick savoiu
+sp ws sp
+to speculate upon
+operations whose execution
+operation 1 1
+allocation constraints for
+into scheduling of
+sumit gupta nick
+as its operands
+execution into scheduling
+has just been
+behavioral description and
+in a fine
+execution into a
+whose execution is
+1 evaluates to
+the cdfg shown
+figure 4 b
+our scheduling algorithm
+scheduling of control
+to execute the
+for conditional and
+synthesis of control
+and control dependencies
+conditional and loop
+average number of
+in the cdfg
+data and control
+the longest path
+the execution of
+a behavioral description
+annotated with the
+in europe p
+the result of
+a fine grained
+the average number
+test in europe
+design automation and
+automation and test
+and test in
+figure 4 c
+significantly sub optimal
+the stg produced
+whose fanins are
+feed primary outputs
+remove operation op
+op is scheduled
+fanin fanout relationships
+execution along multiple
+control intensive designs
+the generic scheduler
+or invalidate speculatively
+united states sumit
+all schedulable successors
+for the schedules
+nick savoiu nikil
+operands the results
+speculation condition cond
+instance of cdfg
+honor allocation and
+use of speculative
+is between operations
+of cdfg operation
+pseudocode for a
+conditioned on some
+loop pipelining in
+directed scheduling 7
+speculative execution refers
+on some event
+comparison 1 evaluates
+gupta nikil dutt
+procedure compute schedulable
+by operation 1
+a computation before
+consider operation 1
+savoiu nikil dutt
+input of fanout
+execute the stg
+and op4 are
+intra iteration data
+op2 has just
+scheduler which supports
+c op1 c
+loop directed scheduling
+operations remove operation
+of schedulable operations
+p c1 thus
+of comparison 1
+schedulable operations or
+the routine compute
+cycles cc a
+to significantly sub
+op4 are unscheduled
+branch probabilities and
+dependency is between
+schedulable successors need
+op1 c op4
+ffl the target
+03 07 sumit
+list of schedulable
+the conditional operations
+validate or invalidate
+combining mbp speculative
+evaluates to f
+07 sumit gupta
+scheduler shown in
+speculatively scheduled in
+using different resource
+executing operations from
+routine compute schedulable
+bottlenecks imposed by
+present techniques to
+computation and loop
+op1 evaluates to
+on c op1
+without speculative execution
+generic scheduler shown
+the corresponding cdfg
+invalidate speculatively performed
+op is conditioned
+fine grained manner
+speculative computation and
+the speculation condition
+states sumit gupta
+produced by wavesched
+using op2 and
+primary outputs through
+synthesis scheduling heuristics
+operation to schedule
+l op to
+execute the behavioral

@@ -1,0 +1,600 @@
+cancelback
+salvage
+warp
+gvt
+fossil
+knee
+timestamp
+lps
+message
+events
+memory
+rollback
+lp
+phold
+rollbacks
+event
+buffers
+optimism
+messages
+rolled
+overheads
+sendback
+protocol
+workload
+simulation
+regulator
+gtw
+throttling
+ksr
+pool
+busy
+management
+pcs
+asymmetry
+reclaimed
+send
+asymmetric
+hot
+processors
+anti
+workloads
+tw
+optimistic
+exec
+virtual
+buffer
+reclaim
+synthetic
+cache
+canceled
+transit
+timestamps
+sm
+progress
+curve
+portables
+portable
+causality
+receive
+spots
+population
+rolls
+timestamped
+objects
+profile
+cancellations
+gafni
+starvation
+breakdown
+uncommitted
+reclaims
+proportionately
+wait
+invocation
+barrier
+hypercube
+queueing
+speedup
+parallelism
+processor
+propagating
+density
+synchronization
+storage
+grain
+committed
+cancellation
+locality
+cell
+granularity
+usage
+increment
+destination
+shared
+curves
+sequential
+sent
+execution
+overhead
+sec
+sender
+allocated
+modest
+commitment
+simulations
+saving
+yarong
+unthrottled
+sendtime
+unsending
+pruneback
+lvts
+fujimoto
+processed
+furthest
+undoing
+optimistically
+spot
+sending
+karimabadi
+omelchenko
+homa
+delivery
+object
+collection
+conserving
+artificial
+collected
+saved
+allocate
+resynchronization
+knees
+mtw
+severe
+yuri
+preemptive
+varying
+physical
+allocation
+incorrect
+seq
+cells
+regenerated
+perumalla
+pointers
+discarded
+room
+quaglia
+driscoll
+collect
+affecting
+initiating
+lin
+unprocessed
+uma
+cancelled
+kalyan
+canceling
+straggler
+back
+unlimited
+network
+schemes
+monitored
+invoked
+invocations
+rapidly
+sink
+deallocated
+tradeoff
+active
+entails
+marginal
+beyond
+samir
+allocates
+instantaneous
+operating
+amounts
+forward
+mechanism
+vs
+slow
+passive
+processes
+page
+benchmark
+increments
+tomacs
+mobile
+past
+bottom
+increased
+fcfs
+rolling
+checkpointing
+architecture
+channel
+responsible
+insensitive
+time warp
+salvage parameter
+the salvage
+memory management
+of memory
+cancelback protocol
+the cancelback
+the knee
+future events
+fossil collection
+memory curve
+event computation
+message density
+performance memory
+memory buffers
+management overheads
+by cancelback
+gvt regulator
+warp system
+additional memory
+virtual time
+the gvt
+for memory
+rolled back
+phold workload
+the simulation
+busy wait
+execution time
+the phold
+limited memory
+overhead other
+tw overhead
+physical parallelism
+message sendback
+of cancelback
+bottom memory
+breakdown shown
+time breakdown
+a salvage
+future objects
+other tw
+overhead busy
+amount of
+management overhead
+receive time
+artificial rollback
+memory event
+timestamp order
+send time
+order top
+message population
+gvt is
+salvage value
+cancelback is
+runs out
+memory is
+be rolled
+optimism in
+timestamp increment
+of future
+exec time
+the timestamp
+vs memory
+fossil collected
+simulation model
+the performance
+than gvt
+and ii
+shared pool
+positive message
+receive timestamp
+sec additional
+storage optimal
+gtw sm
+application nodes
+in timestamp
+memory this
+knee of
+in virtual
+the amount
+other lps
+the memory
+following order
+free pool
+buffers execution
+warp execution
+anti messages
+for time
+available memory
+management schemes
+the message
+the event
+arbitrary flow
+event granularity
+parallel simulation
+the sequential
+the lps
+asymmetry in
+of processors
+of time
+system runs
+sequential simulation
+ksr 1
+the gtw
+event pool
+optimal property
+highest send
+memory value
+sm system
+shared free
+sequential amount
+warp can
+stored object
+knee is
+fossil collect
+gafni s
+synthetic workloads
+of experiments
+the lp
+in message
+future event
+anti message
+the execution
+memory usage
+memory required
+top to
+time sec
+to bottom
+parameter is
+hot spots
+collection cancelback
+memory execution
+per event
+the pcs
+rolls back
+distributed simulation
+memory and
+memory behavior
+each lp
+state saving
+to gvt
+warp programs
+with send
+flow network
+gvt computation
+of gvt
+gvt are
+sending lp
+events in
+future messages
+the ksr
+pcs network
+shared memory
+messages are
+this workload
+simulation events
+critical path
+events are
+global computation
+be reclaimed
+timestamp less
+a modest
+barrier synchronization
+modest amount
+of optimism
+invocation of
+time receive
+causality record
+initiating behavior
+for cancelback
+past objects
+m seq
+extra buffers
+throttling mechanism
+correct events
+cancelback to
+unlimited memory
+implementing cancelback
+behind in
+correct future
+to cancelback
+canceled back
+cancelback are
+collection fails
+warp in
+synthetic simulation
+defined knee
+over optimism
+memory tradeoff
+asymmetric phold
+furthest behind
+on 8
+of timestamp
+to reclaim
+the time
+message delivery
+messages in
+wait for
+memory buffer
+interesting aspect
+the salvage parameter
+the cancelback protocol
+amount of memory
+of the salvage
+the time warp
+of time warp
+number of future
+memory management overheads
+time warp system
+the performance memory
+the gvt regulator
+of the cancelback
+performance memory curve
+additional memory buffers
+salvage parameter is
+for time warp
+memory management overhead
+of future events
+tw overhead busy
+execution time breakdown
+breakdown shown in
+following order top
+busy wait for
+bottom memory management
+to bottom memory
+exec time sec
+overhead busy wait
+other tw overhead
+memory event computation
+time breakdown shown
+management overhead other
+for memory event
+overhead other tw
+wait for memory
+in virtual time
+in time warp
+order top to
+the phold workload
+of the knee
+the simulation model
+be rolled back
+optimism in the
+memory management schemes
+runs out of
+in the simulation
+the knee of
+knee of the
+in message density
+memory buffers execution
+limited memory behavior
+sec additional memory
+buffers execution time
+behavior of time
+a salvage parameter
+system runs out
+time sec additional
+out of memory
+the amount of
+the limited memory
+the following order
+the memory management
+less than gvt
+time warp execution
+number of processors
+in the system
+amounts of memory
+set of experiments
+in timestamp order
+a time warp
+top to bottom
+performance of time
+the execution time
+invocation of cancelback
+the system runs
+the salvage value
+gafni s protocol
+the arbitrary flow
+storage optimal property
+the sequential amount
+sequential amount of
+cancelback protocol is
+arbitrary flow network
+the storage optimal
+future event pool
+by time warp
+the gtw sm
+gtw sm system
+time warp can
+asymmetry in the
+of the future
+on the critical
+equal to gvt
+fossil collection cancelback
+future events in
+the timestamp increment
+the sequential simulation
+time warp programs
+out of timestamp
+increase in message
+the future event
+the rate of
+for memory management
+of timestamp order
+progress of the
+of the performance
+timestamp less than
+modest amount of
+value of the
+the critical path
+of memory is
+a modest amount
+interesting aspect of
+flow network model
+gvt are called
+salvage parameter the
+warp can be
+self initiating behavior
+fossil collection fails
+event computation time
+memory on demand
+the performance vs
+the synthetic workloads
+ahead in virtual
+for the phold
+time receive time
+collection fails to
+fails to reclaim
+well defined knee
+vs memory curve
+shared free pool
+as memory is
+artificial rollback protocol
+of future objects
+management overheads and
+memory curve for
+busy wait time
+salvage parameter value
+the knee is
+definition of gvt
+buffers per processor
+performance vs memory
+time warp in
+fossil collection and
+per unit real
+conserving processor scheduling
+the number of
+location of the
+on 8 processors
+memory required by
+a single shared
+evaluating the performance
+a non work
+the destination portable
+of the phold
+the ksr 1
+work conserving processor
+phold workload the
+unit real time
+active memory management
+message population of
+time profile for
+execution time profile
+of memory this
+the self initiating
+the sending lp
+and fossil collection
+the global computation
+that time warp
+to be reclaimed
+for memory to
+performance is relatively
+parameter is set
+future events are
+time warp operating
+warp operating system
+be sent back
+of memory and
+of the simulation
+in the time
+of the lps
+waiting for memory
+only a modest
+memory behavior of
+of the profile
+of the execution
+the performance of
+this set of
+non work conserving
+the memory required
+of additional memory
+richard m fujimoto
+if the event
+to be rolled
+an increase in
+shown in the
+events in the
+set of curves
+there is a
+loss of performance
+an optimal value

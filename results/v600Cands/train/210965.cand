@@ -1,0 +1,600 @@
+scss
+vertex
+meg
+edges
+contracted
+contract
+vertices
+cycles
+gadget
+cycle
+dfs
+digraph
+edge
+exchange
+snp
+cover
+transitive
+contracting
+subgraph
+strongly
+connectivity
+75
+2m
+mff
+root
+guarantee
+reverse
+contraction
+minimumscss
+spanning
+opt
+branching
+active
+np
+undirected
+contracts
+acyclic
+clause
+traversing
+biconnected
+outgoing
+color
+hardness
+returned
+fig
+inactive
+traverses
+labeled
+digraphs
+graphs
+hamilton
+aho
+maintains
+polynomial
+branchings
+frederickson
+invariant
+biconnectivity
+khuller
+discovers
+hamiltonian
+lca
+connected
+approximating
+incoming
+sccs
+aj
+reachability
+garey
+visits
+layered
+maintained
+approximation
+directed
+layering
+steiner
+colors
+destroying
+parent
+connects
+cornell
+ullman
+outward
+strong
+closure
+clockwise
+siam
+visited
+satisfiable
+seese
+86148613fig
+moyles
+lagergren
+singla
+3for
+orie
+bessy
+arn
+vizing
+7524752475243168
+9111348
+minimumsubgraphs
+carvings
+raghavachari
+thomass
+soroker
+super
+graph
+lemma
+deleted
+max
+child
+3801
+vetta
+umiacs
+3and
+5for
+minimumweight
+8906949
+bridge
+improvement
+hard
+union
+modification
+stphan
+polynomialtime
+elude
+borg
+nagamochi
+contributed
+finishes
+seven
+ccr
+20742
+toshihide
+7n
+reduction
+ibaraki
+harold
+gadgets
+achieves
+ney
+mimicked
+path
+garg
+gabow
+outdegree
+14853
+unassigned
+optimally
+traversed
+2k
+russian
+8g
+fernandes
+achieving
+vishkin
+recurses
+ramachandran
+contractions
+iteration
+arcs
+fvg
+ackermann
+ithaca
+tail
+bounds
+cristina
+creates
+restricted
+santosh
+617
+p6
+decomposable
+adrian
+464
+gibbons
+existentially
+426
+degree
+3k
+goes
+weighted
+paths
+returns
+2n
+stphane
+jcj
+applicable
+thompson
+iff
+forming
+chromatic
+karp
+richardson
+smallest
+nearly
+executing
+yielding
+cnf
+contract cycles
+g 0
+performance guarantee
+minimum scss
+the scss
+2 exchange
+vertex cover
+meg problem
+guarantee of
+cycles 3
+an scss
+1 75
+edge u
+0 s
+in g
+the meg
+scss problem
+scss of
+cycles k
+current vertex
+strongly connected
+reverse edges
+u w
+transitive reduction
+of contract
+opt g
+any scss
+the contracted
+the edges
+of g
+the dfs
+0 h
+no cycle
+contracted graph
+active path
+the gadget
+to active
+max snp
+the minimum
+reverse edge
+scss 17
+active u
+edges returned
+spanning subgraph
+vertices in
+cover of
+of edges
+long cycles
+to contract
+root vertex
+the graph
+2 cycles
+the vertices
+connected spanning
+2m s
+size 2m
+polynomial time
+a performance
+the cycle
+a digraph
+original graph
+minimum equivalent
+contracting cycles
+acyclic meg
+traversing edge
+cycle longer
+active find
+edge 6
+scss the
+improvement step
+vertex w
+the invariant
+strong connectivity
+non root
+u v
+cycle length
+snp hard
+o mff
+17 problem
+mff m
+to g
+in d
+a vertex
+edges in
+vertex of
+equivalent graph
+of vertices
+the edge
+the algorithm
+np hard
+graph has
+3 g
+graph g
+the performance
+after traversing
+local improvement
+subgraph problem
+a cycle
+first iteration
+labeled v
+contracts the
+invariant is
+e 0
+the transitive
+in polynomial
+linear time
+no cycles
+lower bound
+in fig
+cover to
+strongly connects
+long cycle
+by seven
+visits vertices
+cover testing
+cycle contraction
+scss 5
+labeled u
+reachability relations
+scss is
+clearly maintained
+edge creates
+k exchange
+clause vertex
+edges contracted
+edges labeled
+add two
+size s
+union find
+of size
+new vertex
+of d
+edge is
+the reverse
+is max
+super vertex
+contract the
+exchange is
+problem is
+vertex in
+the acyclic
+lemma 7
+a smallest
+k g
+hamilton cycle
+smallest subset
+by contract
+than 17
+d of
+path from
+n vertices
+reduction from
+undirected graphs
+numbers assigned
+new current
+problem restricted
+vertices x
+each vertex
+the root
+edges and
+cycle in
+cycle of
+v in
+no long
+whose maximum
+5 problem
+approximation algorithm
+hardness of
+edges where
+nearly linear
+two edges
+w to
+h has
+the active
+an edge
+has no
+approximation algorithms
+edges of
+cycles with
+in undirected
+lower bounds
+part i
+it visits
+is np
+of u
+from vertex
+longer than
+at most
+by 2
+scss strongly
+outward branching
+in containing
+variable gadget
+desired scss
+clockwise edges
+contracted edges
+scss c
+recursive dfs
+discovers and
+minimum strongly
+g 0 s
+the minimum scss
+performance guarantee of
+contract cycles 3
+the performance guarantee
+in g 0
+g 0 h
+contract cycles k
+a performance guarantee
+edge u w
+of contract cycles
+in the scss
+the meg problem
+minimum scss problem
+vertex cover of
+to g 0
+of 1 75
+cover of g
+cycles 3 g
+cycles k g
+scss of d
+guarantee of 1
+by 2 exchange
+an scss of
+the contracted graph
+a vertex cover
+size 2m s
+current vertex of
+is 1 75
+the current vertex
+guarantee of 2
+connected spanning subgraph
+of size 2m
+the transitive reduction
+the original graph
+edge u v
+of the edges
+d of size
+spanning subgraph problem
+the reverse edge
+no cycle longer
+scss 17 problem
+to active u
+cycle longer than
+is max snp
+meg problem is
+2 exchange is
+of edges returned
+non root vertex
+the acyclic meg
+to active find
+of d of
+when the dfs
+acyclic meg problem
+after traversing edge
+to the vertices
+on the performance
+the invariant is
+o mff m
+of the gadget
+mff m n
+max snp hard
+an edge u
+of a digraph
+the active path
+of the invariant
+of size s
+the first iteration
+in polynomial time
+set of edges
+g of size
+added to g
+has no cycles
+of g of
+m n time
+no long cycles
+edges returned by
+only 2 cycles
+problem is max
+bounded by seven
+a long cycle
+and no cycle
+achieving a performance
+degree is bounded
+contracting cycles with
+has no long
+exchange is 1
+is clearly maintained
+it visits vertices
+contracts the cycle
+5 problem is
+minimum scss 17
+vertex cover to
+of edges contracted
+whose maximum degree
+by contract cycles
+strongly connected spanning
+guarantee of contract
+new current vertex
+minimum equivalent graph
+u w to
+17 problem is
+for the minimum
+of g 0
+finding a minimal
+the numbers assigned
+the strong connectivity
+the super vertex
+the new current
+the reverse edges
+maximum degree is
+find a smallest
+strong connectivity of
+no cycle is
+a smallest subset
+0 s has
+problem is np
+number of edges
+u and w
+problem restricted to
+nearly linear time
+smallest subset of
+is np hard
+the vertices in
+0 s to
+numbers assigned to
+vertices in the
+graph g 0
+every cycle of
+achieves a performance
+edges of g
+approximation algorithms for
+part i of
+the lower bound
+graph has no
+illustrated in fig
+0 s the
+the edges of
+for each vertex
+the vertices of
+this yields an
+1 the lower
+is strongly connected
+the edge u
+edge x y
+of vertices in
+u v of
+edge 6 4
+traversing edge 6
+maintains all reachability
+that strongly connects
+edges this yields
+2 cycles the
+added and no
+to contract a
+a to active
+2m s can
+any scss of
+add the other
+graphs we call
+traverses an edge
+the scss corresponding
+scss 3 problem
+seven let g
+by seven let
+for the scss
+edge connected spanning
+cycle contraction algorithm
+is contracted so
+the desired scss
+gamma 1 36
+head of p
+the minimum strongly
+it discovers and
+every vertex cover
+strongly connected digraphs
+contracted graph has
+and w denote
+equivalent graph of
+y and add
+general approximation technique
+contracted so part
+either all of
+size s can
+0 s it
+guarantee of k
+with no cycle
+scss corresponding to
+to 2 exchange
+an o mff
+the edge 6
+gamma for some
+snp hardness of
+of 2 exchange
+current vertex in
+frederickson and j
+if u w
+output by 2
+reverse edges can
+is an scss

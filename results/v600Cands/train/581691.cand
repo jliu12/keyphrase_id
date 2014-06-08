@@ -1,0 +1,600 @@
+haskell
+expr
+splice
+pvar
+app
+quasi
+template
+var
+gensym
+quotes
+tre
+metaml
+meta
+cl
+quotation
+genswap
+monad
+printf
+compile
+quote
+reification
+scoping
+zipn
+lift
+macros
+tup
+exp
+swap
+mkzip
+declarations
+sel
+patt
+lam
+monadic
+declaration
+ptup
+string
+splicing
+staged
+programmer
+compiler
+syntax
+boilerplate
+foo
+pat
+cross2a
+reifydecl
+int
+apps
+typing
+binding
+trp
+splices
+ordinary
+gen
+quoted
+reifylocn
+zip
+constructors
+sigplan
+macro
+module
+macroml
+venv
+decl
+templates
+typed
+checked
+lit
+cross2c
+scrap
+reify
+assert
+datatypes
+scope
+fragments
+site
+tres
+hygienic
+xs
+checking
+algebraic
+datatype
+names
+scoped
+ps
+staging
+fresh
+expand
+sheard
+ghc
+dec
+geneq
+reifytype
+zip3
+metao
+genpat
+cross2d
+reifyopt
+rept
+lexically
+bind
+functional
+fork
+name
+_
+spliced
+caml
+import
+statically
+compiling
+lmmel
+quotations
+tvar
+vf
+programmers
+lambda
+cpp
+ralf
+format
+rep
+translation
+expression
+brackets
+y3
+inadvertent
+your
+body
+lisp
+code
+constructor
+tip
+persistence
+peyton
+language
+inside
+concrete
+checker
+static
+generative
+expressions
+bindings
+parse
+msg
+you
+deed
+y2
+teach
+trps
+quasiquote
+pxs
+tcon
+cross2b
+varclass
+baggage
+bringert
+casee
+zip2
+zip1
+zp0
+pcons
+genswapdyn
+runq
+urk
+genzips
+reifyfixity
+compiled
+workshop
+safe
+top
+tricks
+programs
+patterns
+renamed
+y1
+oregon
+lexical
+portland
+bracket
+syntactic
+erwig
+cased
+gument
+prompt
+object
+returns
+notices
+trans
+alpha
+fail
+tapp
+baroque
+pasalic
+emir
+lifted
+copy
+pattern
+returned
+judgment
+think
+template haskell
+quasi quotes
+quasi quote
+compile time
+meta programming
+the quasi
+expr expr
+tre cl
+in template
+quotation monad
+quote notation
+the quotation
+haskell s
+ordinary haskell
+type checked
+the splice
+app var
+type checking
+var x
+top level
+at compile
+the compiler
+the programmer
+static scoping
+syntax construction
+construction functions
+pvar x
+t swap
+the meta
+inside quasi
+scoping and
+a splice
+copy cl
+data type
+the type
+f var
+scheme macros
+var y
+the call
+type check
+int expr
+type expr
+expr the
+haskell is
+acm sigplan
+in scope
+on haskell
+of haskell
+type system
+run time
+gensym x
+time meta
+algebraic datatype
+ptup pvar
+c templates
+quasi quoted
+cl app
+tup app
+cl es
+printf error
+x gensym
+splice e
+app f
+string expr
+level splice
+x pvar
+quasi quotation
+meta function
+expand to
+and splice
+code fragments
+type safe
+a haskell
+splice in
+algebraic datatypes
+in state
+of type
+exp exp
+the let
+state c
+call to
+for haskell
+meta program
+sigplan workshop
+error s
+object variables
+for template
+quotes and
+var f
+exp dec
+checked but
+lexical scoping
+ary zip
+swap x
+q string
+haskell that
+template meta
+lit int
+pvar f
+module t
+scrap your
+lam pvar
+f gensym
+gensym f
+in haskell
+line d
+at top
+type classes
+programmer to
+quotes in
+swap 4
+original name
+x app
+cross stage
+stage persistence
+scope at
+original names
+functional programming
+is bound
+the monadic
+the body
+multi stage
+is statically
+haskell and
+algebraic data
+of declarations
+meta programs
+cl e
+var s
+fresh names
+type checker
+state b
+strongly typed
+is type
+x var
+object programs
+that template
+returns a
+a compile
+type declaration
+variables bound
+data types
+compiler s
+like this
+the code
+the syntax
+functional language
+an expression
+zipn int
+function mkzip
+metao caml
+your boilerplate
+bound outside
+lam ptup
+lift t
+sel int
+y2 y3
+pat statement
+x lam
+alpha renamed
+haskell programs
+splice site
+an expr
+app expr
+inadvertent capture
+pat exp
+dec pat
+to mkzip
+declaration splicing
+using haskell
+fork t
+macros have
+f lam
+into scope
+quote and
+dynamic scoping
+zip function
+write zipn
+definition site
+expr gen
+expr sel
+haskell function
+t genswap
+statement pat
+expr do
+boilerplate code
+module foo
+haskell the
+like printf
+reification is
+venv exp
+lisp community
+define printf
+patt expr
+oregon usa
+to type
+2006 portland
+module m
+section 9
+concrete syntax
+in template haskell
+quasi quote notation
+the quotation monad
+the quasi quote
+at compile time
+the quasi quotes
+syntax construction functions
+inside quasi quotes
+expr expr expr
+type check the
+workshop on haskell
+pvar x pvar
+ptup pvar x
+of type expr
+top level splice
+for template haskell
+the syntax construction
+f var x
+x gensym x
+printf error s
+a top level
+in state c
+at top level
+sigplan workshop on
+acm sigplan workshop
+the programmer to
+template haskell is
+scope at the
+time meta programming
+n ary zip
+f gensym f
+error s on
+compile time meta
+that template haskell
+quasi quotes and
+x var y
+on line d
+static scoping and
+returns a computation
+tre cl app
+quasi quotes in
+var x var
+the meta function
+swap 4 5
+the type system
+the type checker
+s on line
+in scope at
+cross stage persistence
+of the splice
+case x of
+the compiler s
+a compile time
+compile time and
+2006 portland oregon
+functional programming v
+journal of functional
+portland oregon usa
+the type of
+proceedings of the
+the programmer may
+f lam pvar
+fork t a
+tip a fork
+do f gensym
+be in scope
+pat exp dec
+type checked and
+expr expr do
+do x gensym
+template haskell and
+var f var
+lam ptup pvar
+int expr sel
+gensym f lam
+venv exp exp
+y1 y2 y3
+t a tip
+zipn int expr
+app app var
+template meta programming
+type expr the
+int int expr
+using haskell s
+of quasi quotes
+quote notation is
+exp dec pat
+app var t
+statement pat exp
+quasi quotes to
+app expr expr
+a fork t
+data t a
+var t swap
+type checked but
+is type checked
+the lisp community
+pat statement pat
+data type declaration
+lam pvar f
+tup app f
+in ordinary haskell
+scrap your boilerplate
+group of declarations
+sel int int
+quasi quotes are
+the quasi quoted
+checked in state
+bound outside the
+haskell s existing
+app var f
+compile time execution
+a tip a
+outside the quasi
+of functional programming
+allows the programmer
+in section 9
+a meta program
+on haskell september
+of the let
+simon peyton jones
+v is bound
+be type checked
+the body of
+the call to
+at run time
+in state b
+section 9 1
+on haskell p
+the meta programming
+a data structure
+body of the
+acm sigplan notices
+sigplan notices v
+and component engineering
+on generative programming
+programming and component
+conference on generative
+generative programming and
+type of the
+in the type
+built on top
+a strongly typed
+type checking the
+n 9 september
+section 8 1
+of the call
+the call in
+want to generate
+an n ary
+type system of
+of the type
+think of this
+on top of
+top of the
+for example consider
+that the programmer
+the code for
+the call site
+give it an
+template haskell there
+programmer had written
+d msg line
+check the body
+pvar ptup etc
+the says evaluate
+are just ordinary
+exp tres cl
+is the monadic
+checking the body
+a pattern variable
+your boilerplate with
+scheme macros have
+an ordinary haskell
+do vf p
+haskell function we
+then type checked
+term t exp
+m t tvar
+library of syntax
+a constr m
+the definition site
+the quasiquote notation
+complicated way on
+transitions on from
+the alpha renamed
+quote and splice
+call to printf
+the algebraic datatypes
+of its string
+peyton jones scrap
+when in one
+expr sel where
+between template haskell
+functions that execute
+quote notation for
+swap and x
+case y1 y2
+haskell compiler ghc
+construction functions such

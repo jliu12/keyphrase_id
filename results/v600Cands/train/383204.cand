@@ -1,0 +1,600 @@
+warehouse
+strobe
+mv
+wh
+transaction
+updates
+sources
+warehousing
+query
+materialized
+consistency
+maintenance
+queries
+views
+source
+update
+warehouses
+deletion
+ss
+eca
+ws
+delete
+scenarios
+tuples
+psj
+answer
+receives
+relations
+elke
+rundensteiner
+batch
+uqs
+scenario
+compensating
+insertion
+sent
+atomically
+actions
+tuple
+action
+trans
+pending
+integrator
+ul
+monitor
+incremental
+insertions
+serializable
+centralized
+companies
+olap
+batching
+deletions
+transac
+schedule
+batches
+join
+consistent
+send
+arrives
+tt
+sends
+insert
+house
+widom
+received
+base
+ware
+entional
+qha
+bellahsene
+zohra
+tstrobe
+date
+relational
+timestamps
+concurrency
+rithm
+updated
+deletes
+deleted
+whips
+compen
+theodoratos
+mainte
+attributes
+adds
+strong
+database
+processed
+inconsistent
+atomic
+legacy
+commits
+achieves
+serial
+messages
+arrive
+nance
+conventional
+periodically
+anomaly
+reflect
+keys
+algo
+dimitri
+abbadi
+compensate
+duplicate
+subquery
+day
+quiescent
+jennifer
+janet
+residing
+inconsistencies
+conv
+subqueries
+view
+prototype
+company
+receipt
+sigmod
+serializability
+batched
+completeness
+delta
+kansas
+key
+missouri
+wiener
+correctness
+el
+prism
+incorrect
+querying
+intelligently
+collects
+sce
+crux
+serialization
+comprise
+mclean
+queue
+inserts
+tods
+weakly
+sending
+reflects
+mobile
+arriving
+complexities
+prices
+ample
+autonomous
+theirs
+replicated
+convergent
+maria
+modifications
+believe
+dates
+generates
+delivered
+evaluated
+xin
+incrementally
+stock
+ding
+environments
+agrawal
+family
+moro
+quent
+sartori
+pequeno
+maintenable
+yousry
+quiescing
+clemente
+0237
+babin
+firsts
+gstrobe
+mentary
+waiman
+sated
+nagwa
+karenos
+backboned
+vnia
+metadatabase
+magalhes
+achiev
+makky
+reflected
+workshop
+strongly
+compensated
+updating
+the warehouse
+the wh
+the strobe
+strobe algorithm
+t strobe
+c strobe
+wh receives
+the sources
+the view
+source x
+view maintenance
+source local
+to mv
+strong consistency
+source states
+data warehousing
+local transactions
+transaction scenarios
+global transactions
+strobe is
+consistency for
+of consistency
+strobe algorithms
+warehouse state
+source z
+key delete
+base relations
+each source
+a deletion
+data warehouse
+warehouse is
+the materialized
+query q
+u i
+materialized views
+source data
+single update
+source state
+materialized view
+mv after
+multiple sources
+to source
+warehouse may
+action list
+evaluate q
+receives u
+updates mv
+data warehouses
+answer a
+mv is
+the transaction
+a warehouse
+each update
+next source
+source updates
+the updates
+base relation
+from source
+the source
+transactions at
+warehouse view
+ul t
+pending q
+deletion u
+u source
+eca key
+strobe family
+g strobe
+transaction scenario
+update mv
+mv u
+serial schedule
+procedure source
+source evaluate
+delete mv
+list al
+view at
+key attributes
+maintenance algorithms
+view v
+the algorithms
+warehouse the
+q 1
+of updates
+u 2
+warehouse and
+sources run
+q i
+warehousing and
+multi source
+the query
+to al
+update transaction
+incremental view
+update transactions
+one source
+sent to
+u j
+trans action
+the answer
+receives a
+update u
+warehouse data
+elke a
+a rundensteiner
+a delete
+single source
+compensating queries
+strobe and
+warehouse at
+warehouse states
+wh first
+sources x
+generates query
+sends query
+ware house
+warehouse can
+strobe can
+global transaction
+strobe the
+transaction strobe
+the ware
+view mv
+updates from
+strongly consistent
+a query
+view is
+of materialized
+a source
+source y
+warehouse as
+for warehouse
+ws i
+received between
+warehouse we
+al is
+a i
+in example
+local transaction
+warehousing environment
+warehouse views
+mv the
+warehouse in
+a warehousing
+an insertion
+final answer
+incremental maintenance
+transaction at
+up date
+all of
+an insert
+the integrator
+maintenance of
+to delta
+our algorithms
+u k
+warehouse to
+an update
+first sends
+and olap
+on sources
+guarantees strong
+adding duplicate
+provide consistency
+x query
+v ss
+processing scenarios
+ss x
+wh generates
+global strobe
+warehouse initially
+respectively initially
+atomically at
+complete strobe
+all companies
+three transaction
+serializable schedule
+wh updates
+warehouse must
+strobe t
+in tt
+project select
+global trans
+each warehouse
+warehouse receives
+together comprise
+end algorithm
+update trans
+relations residing
+duplicate tuples
+for evaluation
+a transaction
+of source
+concurrency control
+query 3
+r 3
+update to
+query is
+tuples to
+four levels
+at the warehouse
+the wh receives
+to the warehouse
+the strobe algorithm
+source local transactions
+wh receives a
+levels of consistency
+the source data
+at the sources
+strong consistency for
+to source x
+is a deletion
+the strobe algorithms
+the warehouse is
+t strobe algorithm
+wh receives u
+the materialized view
+the warehouse may
+of the updates
+all of the
+1 1 0
+the warehouse the
+receives u source
+single update transactions
+view at the
+the t strobe
+the strobe family
+key delete mv
+of consistency for
+1 the wh
+sent to source
+delete mv u
+procedure source evaluate
+to source z
+action list al
+q 1 1
+to the sources
+the warehouse and
+data warehousing and
+incremental view maintenance
+elke a rundensteiner
+at each source
+from the sources
+to the view
+warehouse at the
+first sends query
+receives a 1
+the warehouse at
+for source local
+evaluate q 1
+3 to source
+the warehouse as
+to evaluate q
+2 the wh
+that the warehouse
+wh first sends
+it generates query
+update u i
+mv is updated
+source local transaction
+u source x
+the wh first
+4 the wh
+answer a i
+transactions at the
+sends query 3
+the ware house
+3 the wh
+the warehouse can
+query 3 to
+strobe algorithm is
+at the ware
+the view at
+source x 2
+view maintenance algorithms
+the warehouse view
+a source state
+the warehouse we
+in example 1
+of query q
+query is sent
+a warehousing environment
+the warehouse in
+3 to evaluate
+workshop on data
+the warehouse to
+the final answer
+is the final
+on data warehousing
+r 3 to
+warehousing and olap
+of materialized views
+i i 0
+from source z
+consistency for warehouse
+the wh updates
+sources x y
+3 from source
+define four levels
+strobe family of
+source x query
+1 3 from
+source z for
+consistency for source
+for global transactions
+achieves strong consistency
+warehouse as a
+the warehouse must
+source x it
+each warehouse state
+to update mv
+by the warehouse
+transaction scenarios we
+respectively initially the
+consider two source
+transaction processing scenarios
+view v be
+and the warehouse
+from source x
+evaluation 3 the
+three relations residing
+relations residing on
+deletion u 2
+the action list
+residing on sources
+x query is
+single update trans
+c strobe is
+when the warehouse
+the c strobe
+on sources x
+of the warehouse
+initially the relations
+atomically at the
+without adding duplicate
+z for evaluation
+guarantees strong consistency
+at the wh
+some sources run
+strobe t strobe
+the warehouse receives
+the key attributes
+adding duplicate tuples
+from source y
+source updates u
+the warehouse initially
+to mv after
+serial schedule r
+0 the wh
+z respectively initially
+update the warehouse
+as are three
+strongly consistent for
+the wh generates
+ul t i
+two source updates
+are the materialized
+the three transaction
+strobe algorithm to
+strobe algorithms are
+four levels of
+an update to
+of the sources
+multi source warehouse
+a deletion it
+2 3 r
+the correct view
+we define four
+v be defined
+the source state
+for evaluation 3
+are three relations
+relations are the
+are no pending
+3 r 3
+with data from
+is an insertion
+family of algorithms
+sends it to
+acm international workshop
+we believe it
+at a source
+incremental maintenance of
+from one source
+view maintenance in
+and olap p
+the same tuple
+a 1 3
+is strongly consistent
+x 2 the
+a single source
+q i i
+defined as are
+the sources is
+of the source
+the view to
+a single transaction
+query q 2
+the relations are
+query q i

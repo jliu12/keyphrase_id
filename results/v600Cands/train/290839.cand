@@ -1,0 +1,600 @@
+msat
+dfg
+asap
+estimation
+schedules
+schedule
+unfinished
+scheduled
+scheduling
+dfgs
+resource
+maha
+synthesis
+unscheduled
+pipelined
+rim
+sharma
+conditional
+chained
+finished
+speculative
+branches
+completion
+resources
+jacome
+dps
+margarida
+branch
+parker
+chaining
+filter
+unsch
+benchmarks
+ready
+multiplier
+precedences
+bounds
+intervals
+behavioral
+adder
+interval
+veciana
+jain
+predecessor
+units
+configuration
+gustavo
+oe
+functional
+precedence
+estimating
+weights
+cdfgs
+latency
+successors
+unrolled
+biquad
+y6
+designs
+dependencies
+exploding
+datapath
+delay
+multiplication
+nullified
+asip
+vliw
+unlimited
+tight
+inferior
+datapaths
+cdfg
+successor
+configurations
+optimum
+mutually
+lengths
+nc
+depth
+asics
+exclusive
+overlapping
+wave
+select
+faster
+ms
+ar
+scheduler
+pipelines
+infinity
+spent
+fmsat
+peixoto
+3497
+helvio
+lapinskii
+33182
+maxfijoe
+zhaoxuan
+producint
+27767
+chuen
+nck
+puune
+y7
+fatser
+exploration
+fi
+adam
+cosine
+dominated
+multicycle
+waka
+rims
+exising
+subtracters
+exclusiveness
+bussell
+interconnect
+partially
+execution
+explained
+predecessors
+sehwa
+partial
+literature
+circuits
+1769
+elliptic
+exploded
+ohm
+critical
+fastest
+tested
+executing
+bandpass
+slicer
+tradeoffs
+cpu
+892
+synthesizer
+tables
+subtractions
+asips
+viktor
+outweigh
+overlap
+pipeline
+sharing
+earliest
+fernandez
+718
+770
+aided
+jose
+handle
+688
+requirement
+blocks
+transitive
+constructively
+computes
+unfolded
+mult
+730
+predicting
+estimate
+comparators
+share
+investigating
+comprehensive
+equally
+slow
+relaxes
+exec
+723
+produces
+erations
+farthest
+registers
+microcode
+optimisation
+cycle
+dividing
+operation
+cycles
+groupings
+going
+search
+constraints
+lakes
+ours
+readings
+theirs
+jong
+adders
+concentration
+mentation
+freed
+ching
+type t
+bound estimation
+lower bound
+partial schedules
+time steps
+lower bounds
+and msat
+msat values
+of operations
+our method
+c select
+t operations
+ready r
+level synthesis
+asap and
+bound performance
+conditional branches
+partial schedule
+operations in
+select implementation
+oe a
+and bound
+our lower
+configuration r
+in ready
+branch and
+t operation
+resource type
+unfinished r
+scheduling algorithm
+operation x
+completion time
+speculative execution
+the lower
+partially scheduled
+be chained
+any schedule
+scheduling algorithms
+bound scheduling
+chained to
+entire dfg
+their method
+time step
+the operations
+estimation of
+of type
+the dfg
+be scheduled
+operations of
+high level
+resource constraints
+oe m
+depth r
+each interval
+start execution
+that interval
+weights of
+an operation
+for partial
+a predecessor
+estimating lower
+rim 17
+entire dfgs
+handle conditional
+the asap
+resource requirement
+pipelined multiplier
+of lower
+method in
+at r
+functional units
+bound for
+design space
+of time
+estimation for
+search space
+bound completion
+unscheduled operations
+and chaining
+better lower
+path length
+j t
+method is
+a type
+f jacome
+dfg is
+unscheduled operation
+resource types
+chaining of
+margarida f
+estimation method
+produces better
+of partial
+synthesis system
+precedence constraints
+critical path
+operations into
+the completion
+fi u
+of ready
+dfgs the
+t successor
+asap value
+operations pipelined
+jacome gustavo
+jain 7
+in unfinished
+msat value
+generally bounded
+other lower
+scheduled dfgs
+method rim
+estimation itself
+least 20
+ar filter
+dps algorithm
+multiplication takes
+multi schedule
+unfinished operations
+and unfinished
+unsch r
+finished at
+sharma s
+rim s
+sharma 20
+each operation
+the estimation
+and j
+that type
+performance estimation
+steps that
+scheduled to
+operation v
+minimum number
+a lower
+value less
+scheduled in
+given dfg
+exclusive with
+assuming unlimited
+gustavo de
+nc 2
+filter 13
+dfg the
+u t
+the search
+non pipelined
+global scheduling
+estimation is
+each type
+estimate lower
+extended method
+synthesis applications
+o nc
+pipelined functional
+complete schedule
+programming scheduling
+a dfg
+finished executing
+all resource
+delay of
+operations with
+can start
+dfg and
+literature 17
+on latency
+equally effective
+o c
+i j
+wave filter
+not finished
+compute lower
+de veciana
+time units
+bounds on
+bound is
+methods in
+d t
+multi cycle
+the delay
+unlimited resources
+the minimum
+predecessor of
+functional unit
+schedule from
+bound methods
+steps after
+not scheduled
+from behavioral
+the critical
+bounds in
+interval i
+as branch
+ff u
+20 times
+be computed
+i time
+control dependencies
+o n
+complexity of
+lower bound estimation
+asap and msat
+and msat values
+of time steps
+high level synthesis
+of type t
+for partial schedules
+branch and bound
+of partial schedules
+number of time
+a type t
+estimation of lower
+c select implementation
+type t operation
+type t operations
+in ready r
+the lower bound
+lower bound performance
+of operations in
+lower bound for
+our lower bound
+completion time of
+resource type t
+the entire dfg
+steps that any
+bound estimation of
+be chained to
+and bound scheduling
+critical path length
+i j t
+in the dfg
+time steps that
+number of operations
+bound for a
+in that interval
+a lower bound
+estimation for the
+the search space
+the number of
+their method is
+is a predecessor
+the entire dfgs
+handle conditional branches
+produces better lower
+weights of operations
+to handle conditional
+operations in that
+unscheduled operations of
+all the operations
+operations of type
+a partial schedule
+q i j
+of lower bounds
+the design space
+i and j
+lower bound completion
+bound completion time
+oe a i
+chaining of operations
+on the completion
+bound performance estimation
+the operations in
+our method is
+for the lower
+lower bound is
+any schedule of
+and oe m
+of any schedule
+margarida f jacome
+type t the
+the method in
+speculative execution in
+of that type
+operations in the
+for the entire
+lower bounds in
+lower bounds on
+the lower bounds
+the asap and
+better lower bounds
+is the number
+the minimum number
+scheduling algorithms such
+search space we
+the critical path
+of each type
+minimum number of
+a predecessor of
+number of type
+for estimating lower
+cases the lower
+jacome gustavo de
+but not finished
+f jacome gustavo
+cannot be chained
+fi u t
+bound scheduling algorithm
+in scheduling algorithms
+in unfinished r
+t operations with
+chained to u
+is generally bounded
+at least 20
+our method rim
+the extended method
+partially scheduled dfgs
+bounds for partial
+least 20 times
+in c select
+all resource types
+for lower bound
+bound estimation for
+and chaining of
+i time steps
+other lower bounds
+o nc 2
+t operations in
+extended method is
+operations pipelined functional
+to estimate lower
+msat values of
+1 1 11
+non pipelined multiplier
+generally bounded by
+on latency for
+dynamic programming scheduling
+estimating lower bounds
+type t successor
+ff u t
+unsch r t
+at each configuration
+for high level
+value less than
+is the critical
+the completion time
+assuming unlimited resources
+is not scheduled
+operations of that
+partial schedules is
+mutually exclusive with
+that any schedule
+to start execution
+partial schedules the
+the literature 17
+time of partial
+scheduled to start
+predecessor of x
+gustavo de veciana
+k time where
+going to take
+lower bounds with
+to compute lower
+the delay of
+the weights of
+for the estimation
+be scheduled in
+a complexity of
+the methods in
+of lower bound
+j t as
+can be chained
+pipelined functional units
+level synthesis applications
+o c 2
+operations that cannot
+can be computed
+a branch and
+o k time
+time where k
+can start execution
+as branch and
+a and oe
+r is denoted
+oe a and
+number of benchmarks
+in the literature
+is a type
+reducing the size
+of the search
+the partial schedule
+of time units
+lower bounds for
+lower bound on
+h i j
+such as branch
+in each interval
+and bound methods
+number of configurations
+number of partial
+be scheduled to
+of each operation
+complexity of o
+of i and
+faster than the
+in reducing the
+same time step
+sum of weights
+of weights of
+has a complexity
+method is very

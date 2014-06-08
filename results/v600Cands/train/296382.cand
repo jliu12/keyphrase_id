@@ -1,0 +1,600 @@
+expert
+trial
+experts
+warmuth
+vovk
+share
+loss
+herbster
+segment
+weight
+prediction
+littlestone
+pred
+trials
+haussler
+partition
+predictions
+weights
+learning
+realizable
+gammajl
+proximity
+update
+ln
+segments
+wmean
+entropy
+auer
+hellinger
+ff
+1998
+shifting
+outcome
+helmbold
+static
+tracking
+transferred
+bianchi
+cesa
+updates
+gammaj
+tuning
+adversary
+nats
+absolute
+shifts
+losses
+1994
+shares
+schapire
+ck
+1997
+collapsed
+outcomes
+lemma
+vee
+manfred
+kivinen
+predicts
+shift
+metrical
+bounds
+tuple
+master
+cf
+simulations
+ent
+gammajt
+cjl
+unbounded
+singer
+gentile
+weighted
+corollary
+freund
+tunings
+hel
+realizability
+fraction
+disjunctions
+wml
+winnow
+predicting
+ell
+telescoping
+mistakes
+specialist
+gammat
+reals
+tth
+burch
+quickly
+sharing
+ek
+ith
+perfect
+601
+slope
+disjunction
+stationary
+claudio
+abs
+predict
+401
+incurs
+accumulates
+recover
+log
+lemmas
+blum
+prior
+1995
+provable
+tuned
+incur
+generalization
+partitions
+square
+vote
+collapsing
+abbreviate
+gutman
+blaine
+partitionwith
+brier
+atsuyoshi
+merhav
+adversarially
+sears
+sherrod
+pkq
+aresimple
+parens
+rain
+volodya
+tygar
+portfolios
+sigmoided
+plateaued
+unlearn
+barreno
+9scaled
+expanding
+additive
+artificial
+inequality
+mistake
+evidence
+bounding
+threshold
+integers
+advice
+disk
+tight
+ives
+kolter
+kff
+cavallanti
+intensifies
+furthers
+amol
+plugs
+clack
+9700201
+vijayshankar
+mesterharm
+tune
+preliminaries
+rithms
+walk
+regressor
+201
+pool
+belief
+accordance
+avrim
+bousquet
+exponentiated
+derandomizing
+posteriors
+track
+sophisticated
+800
+exponentially
+counting
+deshpande
+feder
+zachary
+peter
+past
+tempered
+maloof
+nakamura
+majority
+multiplicative
+game
+worst
+lent
+recovered
+grows
+share algorithm
+variable share
+the loss
+fixed share
+static expert
+additional loss
+best expert
+share update
+expert algorithm
+trial t
+loss of
+expert i
+loss functions
+the share
+k warmuth
+best partition
+m herbster
+loss update
+t e
+the expert
+proximity variable
+k t
+n k
+loss function
+herbster and
+share updates
+on trial
+absolute loss
+each expert
+the fixed
+of expert
+the weight
+total loss
+loss bound
+j realizable
+per trial
+p n
+the variable
+e s
+littlestone warmuth
+vovk 1998
+share algorithms
+of experts
+warmuth 1994
+relative entropy
+the static
+the best
+loss over
+haussler et
+weight of
+the experts
+y t
+of examples
+prediction function
+trial sequence
+an expert
+the prediction
+segment the
+outcome y
+per expert
+e gammajl
+expert is
+t i
+the proximity
+the trial
+loss bounds
+expert q
+expert p
+entropy loss
+al 1998
+the predictions
+partition p
+its weight
+to expert
+expert the
+predictions of
+expert associated
+e gammaj
+other experts
+w s
+algorithm over
+m k
+bound the
+each trial
+and pred
+any sequence
+l p
+the additional
+expert in
+t 0
+loss is
+in trial
+weighted mean
+tracking the
+function l
+bound of
+of trial
+best experts
+pred vovk
+1998 haussler
+expert shares
+collapsed partition
+trials t
+unbounded loss
+share analysis
+pred wmean
+expert per
+expert and
+each segment
+sequence of
+of loss
+ln n
+share and
+any partition
+k partition
+prediction of
+the algorithm
+function pred
+last sum
+warmuth 1997
+expert for
+expert to
+the bound
+parameter ff
+its loss
+experts the
+first segment
+the absolute
+l and
+prediction functions
+w t
+loss in
+machine learning
+expert algorithms
+weight however
+trial i
+final weights
+sub algorithms
+current trial
+expert of
+pred be
+mean prediction
+experts in
+relative weights
+the outcome
+x t
+total weight
+weights of
+warmuth 1998
+expert e
+n experts
+two share
+ith segment
+warmuth tracking
+be any
+upper bound
+c j
+we bound
+sequence s
+cesa bianchi
+one weight
+trial is
+loss and
+and m
+loss then
+artificial data
+manfred k
+weight per
+lower bound
+the weights
+partition is
+the algorithms
+the sequence
+ff satisfies
+relative weight
+partition with
+weight with
+and k
+t t
+the segment
+trial the
+two experts
+perfect expert
+weight transferred
+algorithm vovk
+prior segment
+one expert
+the hellinger
+c ln
+vovk s
+algorithm ff
+vovk vovk
+of vovk
+the vee
+master algorithm
+typical expert
+by expert
+in vovk
+expert 2
+wmean v
+variable share algorithm
+loss of the
+the variable share
+the fixed share
+n k t
+t e s
+p n k
+k t e
+the static expert
+the loss of
+fixed share algorithm
+static expert algorithm
+the best expert
+the additional loss
+sequence of examples
+herbster and m
+m herbster and
+the best partition
+of the best
+proximity variable share
+m k warmuth
+the loss update
+total loss of
+and m k
+littlestone warmuth 1994
+the absolute loss
+the total loss
+of expert i
+the proximity variable
+over the loss
+haussler et al
+additional loss of
+on trial t
+partition p n
+l p n
+the relative entropy
+weight of expert
+loss over the
+the share update
+c j realizable
+outcome y t
+the weight of
+loss function l
+the predictions of
+the share updates
+relative entropy loss
+additional loss over
+share algorithm is
+the algorithm over
+any sequence of
+et al 1998
+trial t the
+for the fixed
+algorithm over the
+tracking the best
+of the expert
+the bound of
+expert associated with
+bound the weight
+the outcome y
+the expert associated
+variable share update
+be any sequence
+of the fixed
+for the variable
+the loss function
+of the algorithm
+t t 0
+of trial t
+in each trial
+predictions of the
+of the trial
+when the loss
+s be any
+expert in the
+prediction function pred
+the other experts
+best expert for
+l and pred
+1998 haussler et
+loss of expert
+trial t 0
+the trial sequence
+start of trial
+share algorithm and
+vovk 1998 haussler
+expert q in
+share algorithm the
+sequence of experts
+to expert q
+expert per trial
+the prediction of
+over the best
+of the loss
+class of loss
+trial t is
+function l and
+that the loss
+the first segment
+of its weight
+of loss functions
+on the additional
+the weighted mean
+the share algorithms
+loss functions in
+and variable share
+share algorithm with
+parameter ff satisfies
+per expert per
+the loss bound
+share and variable
+weight per expert
+the current trial
+p to expert
+pred be c
+fixed share update
+be c j
+expert i on
+tuple x t
+share algorithm we
+share algorithm theorem
+trial sequence s
+of an expert
+fixed share and
+expert of the
+the best experts
+best expert is
+and pred be
+weighted mean prediction
+unbounded loss functions
+expert p to
+of the variable
+e s the
+let l and
+lower bound the
+weights of the
+is the loss
+l and k
+t the algorithm
+loss of a
+the last sum
+bound the additional
+the ith segment
+k warmuth tracking
+e s l
+the two share
+e s by
+algorithm with parameter
+of the sequence
+after the loss
+best partition of
+any partition p
+bound of theorem
+of examples and
+in 0 1
+manfred k warmuth
+k be any
+the prediction function
+bound of the
+and the variable
+with parameter ff
+x t i
+arbitrary sequence of
+for any partition
+s the total
+n k 0
+weight of the
+be any positive
+and k be
+the prior segment
+expert e i
+expert algorithm is
+experts in the
+share updates are
+loss functions such
+each expert shares
+share algorithm ff
+the final weights
+j realizable for
+trials t t
+vovk vovk 1998
+any positive reals
+1994 vovk 1995
+condition 4 ii
+segment is at
+lemma 6 b
+on artificial data
+pred wmean v
+expert shares a
+are c j
+upper bound equation
+collapsed partition p
+of the experts
+for unbounded loss
+time per expert
+best partition is
+for each expert
+first segment the
+share update is
+the experts predictions

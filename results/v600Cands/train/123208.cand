@@ -1,0 +1,600 @@
+routing
+looping
+jd
+aprs
+spl
+ov
+dly
+adaptability
+sb
+sp
+strategy
+delay
+eq
+loops
+operational
+nt
+configuration
+node
+xample
+link
+loop
+network
+stra
+configurations
+failures
+______
+acrs
+nodes
+message
+eqs
+nonfaulty
+indiscriminately
+egy
+oop
+rm
+rt
+recovery
+uv
+faulty
+outing
+etwork
+tidas
+heorem
+learly
+trategy
+overhead
+compatibility
+assignments
+eac
+umber
+th
+minimal
+excep
+ode
+rom
+strategies
+wil
+neighboring
+sent
+delays
+skipped
+path
+adopted
+evaluated
+pong
+topology
+attached
+missions
+s1
+odes
+he
+ther
+rigorously
+fig
+nd
+eliminate
+compromise
+sl
+messages
+maximal
+intervals
+paths
+se
+adopts
+infrequent
+all__
+enote
+letely
+utations
+epresented
+rpanet
+uted
+routin
+onfigurations
+ttain
+equired
+recalcu
+ssigned
+ssignments
+_____
+orresponding
+aths
+expresse
+denot
+olerable
+multiorder
+conveni
+orde
+ained
+djacent
+ulti
+inne
+obtai
+networ
+essages
+ystematically
+radiction
+aximal
+umbers
+varie
+ijn
+inimal
+typica
+tmessages
+raph
+entir
+thana
+pape
+elay
+fromnode
+ardinality
+uces
+rocedure
+become1
+uently
+tegy
+straightforwar
+ptimal
+ddressed
+ntervals
+llustration
+ij
+sam
+formulas
+rc
+ge
+shin
+corollary
+kang
+adjacent
+links
+striking
+numbe
+oncludes
+inimum
+assumethat
+ssume
+smalle
+1319
+espectively
+ote
+otice
+pfor
+patibility
+2410
+1308
+canno
+tables
+s2
+vectors
+hop
+modification
+ach
+1416
+rder
+asy
+1406
+econd
+nod
+sud
+arpanet
+ately
+respec
+neighbors
+ping
+possesses
+failure
+formu
+oes
+ree
+abou
+hose
+tha
+ents
+shor
+syan
+linearly
+attained
+rout
+adap
+routing strategy
+i jd
+order routing
+minimal order
+d d
+routing message
+operational overhead
+of routing
+loop free
+jd i
+spl c
+the network
+n n
+routing strategies
+from n
+the routing
+delay table
+configuration c
+to n
+order loop
+optimal path
+n to
+strategy vector
+free routing
+order of
+p nodes
+each node
+th order
+m c
+a routing
+link node
+the minimal
+eliminate looping
+looping completely
+potential looping
+p sp
+strategy compatibility
+new optimal
+the operational
+l becomes
+network delay
+v n
+link delays
+c property
+node n
+0 0
+configurations to
+node to
+becomes faulty
+the configuration
+strategy required
+of spl
+routing stra
+uv ij
+rt c
+dly i
+required order
+looping effects
+network adaptability
+maximal function
+optimal paths
+1 1
+the delay
+of loop
+loops in
+strategy for
+network recovery
+strategy is
+routing messages
+avoid all
+a path
+for n
+the order
+be determined
+all potential
+neighboring nodes
+recovery process
+sent from
+remove looping
+handling routing
+applied indiscriminately
+average order
+node loops
+ov 8
+under aprs
+stra egy
+strategy vectors
+2nd l
+whose strategy
+nt dly
+multi order
+delay of
+path with
+d vectors
+h l
+of loops
+network in
+given network
+of configurations
+k th
+eq 12
+obtain m
+no looping
+design objective
+indiscriminately to
+path p
+sp and
+n v
+be evaluated
+1 0
+time intervals
+can determine
+loop l
+jd d
+shortest delay
+n a
+path from
+its neighboring
+nodes in
+the path
+node failures
+adaptability and
+loop n
+minimal delay
+some nodes
+a node
+from eq
+nodes to
+of assignments
+the optimal
+q e
+adjacent nodes
+d vector
+with p
+optimal configuration
+assigned 0
+above modification
+example network
+determine the
+in eq
+a loop
+network structure
+routing algorithms
+34 a
+corollary 1
+table of
+c can
+of link
+every node
+node in
+of nodes
+possible configurations
+their new
+c whose
+message sent
+in fig
+he above
+ov i
+eac ode
+keep and
+rc c
+learly the
+free strategy
+nt set
+to aprs
+heorem 1
+rigorously analyzed
+new nonfaulty
+ov 7
+traffic density
+looping it
+node computer
+______ using
+2 evaluated
+8 ov
+egy adopted
+maintenance protocol
+v sb
+second optimal
+delay tables
+via l
+outer maximal
+looping i
+pong type
+rm dly
+link l
+eq 7
+path in
+n which
+we get
+r o
+o and
+global information
+striking a
+oop is
+order vector
+information maintenance
+more node
+adaptability the
+and ov
+order routing strategy
+order of routing
+of routing strategy
+the minimal order
+d d d
+i jd i
+jd i jd
+n n n
+routing strategy is
+the operational overhead
+routing strategy for
+loop free routing
+from n to
+the routing message
+free routing strategy
+n to n
+of loop free
+minimal order routing
+minimal order of
+with p nodes
+the configuration c
+path from n
+order of loop
+determine the minimal
+configurations to be
+for each node
+a routing strategy
+k th order
+of configurations to
+to eliminate looping
+l becomes faulty
+sent from n
+network delay table
+delay table of
+th order routing
+in the network
+the order of
+table of n
+strategy for each
+0 0 0
+optimal path from
+corollary 1 1
+of the routing
+n v n
+to be evaluated
+the network delay
+strategy required for
+required order of
+obtain m c
+the c property
+strategy vector is
+of spl c
+the network recovery
+dly i jd
+routing strategy required
+avoid all potential
+path p sp
+network recovery process
+operational overhead and
+all potential looping
+eliminate looping completely
+operational overhead in
+link node failures
+1 1 1
+the delay of
+routing message sent
+a to n
+the routing strategy
+be determined by
+1 1 0
+from n a
+network in fig
+in a path
+number of assignments
+each node to
+some nodes to
+its neighboring nodes
+n a to
+set of loops
+a given network
+the optimal path
+number of configurations
+can be determined
+2 1 1
+3 2 3
+i jd d
+minimal order loop
+paths to n
+the required order
+the strategy compatibility
+multi order routing
+strategy for n
+configuration c whose
+their new optimal
+node to eliminate
+is applied indiscriminately
+vector is 1
+applied indiscriminately to
+a routing message
+adopted by n
+whose strategy vector
+routing stra egy
+of link node
+new optimal path
+optimal paths to
+configuration c can
+new optimal paths
+order loop free
+the d vectors
+d vectors of
+c whose strategy
+average order of
+order routing strategies
+order of the
+message sent from
+q e d
+1 0 0
+can obtain m
+to avoid all
+of routing strategies
+routing strategy in
+n is assigned
+loop n n
+the number of
+a path with
+v n and
+m c 2
+eq 7 we
+1 1 2
+can determine the
+n n and
+n to avoid
+with the configuration
+3 m 1
+for n to
+the optimal configuration
+strategy is applied
+loops in the
+of time intervals
+n and n
+for n n
+two adjacent nodes
+the k th
+2 3 2
+a b g
+and n to
+in the configuration
+want to prove
+of loops in
+j j 1
+of a path
+1 0 1
+in the resulting
+a compromise between
+loop l then
+uv ij a
+conventional methods in
+strategy for eac
+is assigned 0
+order loop n
+1 2 evaluated
+vectors 1 0
+network adaptability and
+shortest delay path
+the multi order
+required for n
+to n which
+in link delays
+o 1 i
+information maintenance protocol
+topology information maintenance
+th order loop
+2 evaluated 3
+link delays in
+spl c and
+a strategy vector
+configuration is c
+1 i 8
+second order routing
+striking a compromise
+multi node loops
+for eac ode
+link l becomes
+the routing stra
+vectors of n
+pair j j
+loops in sb
+a topology information
+strategy is increased
+of eq 12
+second optimal path
+outer maximal function
+recovery process after
+ov 8 ov
+intervals for n
+e loops with
+routing algorithms proposed
+routing message is
+get their new
+p sp and

@@ -1,0 +1,600 @@
+csms
+chl
+stall
+ipa
+esa
+prefetch
+ipt
+ipl
+instructions
+esl
+cache
+spill
+turb3d
+scheduling
+dcompute
+mgrid
+latency
+nonbinding
+hydro2d
+miss
+prefetching
+su2cor
+vliw
+locality
+recurrences
+opt
+tomcatv
+instruction
+swim
+hit
+stalls
+rec
+sch1
+initiation
+aggressive
+schemes
+pressure
+pipelining
+epilog
+modulo
+pipelined
+snchez
+register
+inserting
+optimistic
+binding
+csms0
+jess
+prefetches
+memory
+schedule
+gibert
+schedules
+gonzlez
+dependences
+schedulers
+clustered
+lockup
+sch2
+endfunction
+enric
+architecture
+outstanding
+antonio
+ictineo
+scheduled
+misses
+zalamea
+prolog
+references
+reuse
+loop
+insert
+josep
+ayguad
+penalty
+llosa
+microarchitecture
+eduard
+niter
+computeschedminreceffect
+res
+op
+61
+powerpc
+interferences
+opt0
+innermost
+benchmarks
+normalized
+early
+mateo
+valero
+scheduler
+specfp95
+upperbound
+est
+javier
+architectures
+outperform
+lifetime
+recurrence
+endif
+penalties
+selective
+dependence
+tries
+030
+execution
+increment
+99
+outperforms
+mem
+ii
+tagged
+besides
+processor
+inaccurate
+exec
+060
+interfere
+stretched
+load
+57
+trade
+architec
+spatial
+latencies
+68
+software
+loops
+33rd
+34th
+decrement
+geometric
+minimize
+87
+austin
+calculated
+percentage
+innerloop
+latmiss
+computescheduling
+grph2
+recurrencesingraph
+cycleprod
+nonfaulting
+store1357n1
+orderinstructionsbylocality
+missratio
+specfp95chl
+minimizerecurrenceeffect
+grph1
+nfus
+nonprefetching
+cycleuse
+iterations
+heuristic
+stride
+benchmark
+cycles
+achieves
+code
+184
+worse
+discrepancy
+086
+alet
+codina
+084
+00
+compile
+84
+54
+n1
+static
+sc
+expense
+exhibit
+ules
+hrms
+1241
+arch
+endforeach
+units
+ture
+interval
+evaluated
+monterey
+proposals
+return
+caused
+interleaved
+067
+lapped
+1227
+055
+090
+hypernode
+98
+stall time
+the csms
+the stall
+csms algorithm
+prefetch instructions
+the chl
+esa esl
+ipa ipt
+ipt ipl
+esl csms
+compute time
+early scheduling
+memory instructions
+spill code
+ipa esa
+chl ipa
+chl esa
+hit latency
+inserting prefetch
+memory operations
+esa opt
+csms chl
+ipl csms
+csms ipa
+dcompute stall
+opt chl
+aggressive architecture
+miss latency
+execution time
+the cache
+modulo scheduling
+cache miss
+the ii
+cache hit
+software pipelined
+locality analysis
+software pipelining
+su2cor hydro2d
+stall dcompute
+register pressure
+swim su2cor
+simple architecture
+ii rec
+chl scheme
+mgrid turb3d
+time tomcatv
+normalized loop
+hydro2d mgrid
+initiation interval
+tomcatv swim
+the compute
+jess snchez
+snchez antonio
+on inserting
+clustered vliw
+insert prefetch
+0 normalized
+memory references
+ipa scheme
+the prefetch
+the initiation
+and stall
+schemes based
+prefetching schemes
+the esa
+the aggressive
+schedule memory
+the ipa
+on early
+miss ratio
+additional spill
+61 0
+prefetch schemes
+nonbinding prefetch
+in compute
+and nonbinding
+esa scheme
+geometric table
+csms0 20
+csms scheme
+antonio gonzlez
+increase in
+software prefetching
+loop execution
+the optimistic
+the locality
+the spill
+memory instruction
+static locality
+turb3d 1
+architecture the
+the prolog
+prolog and
+20 61
+scheme is
+enric gibert
+scheme increases
+different prefetching
+the schemes
+to dependences
+basic schemes
+the register
+of memory
+optimistic execution
+outstanding misses
+dependences with
+lockup free
+additional memory
+prefetch for
+all memory
+rather inaccurate
+and epilog
+in recurrences
+modeled architectures
+sch1 is
+rec r
+b aggressive
+the ipl
+are scheduled
+the execution
+instructions are
+this scheme
+additional instructions
+instructions in
+for clustered
+vliw architectures
+an increase
+binding prefetch
+memory pressure
+mgrid 1
+selective scheduling
+gibert jess
+dependence graph
+scheduling for
+to schedule
+time is
+memory operation
+that tries
+schemes that
+the latency
+may increase
+and turb3d
+of stall
+recurrences the
+scheduling memory
+vliw processor
+between compute
+time represents
+compared with
+ieee international
+some programs
+on microarchitecture
+pipelined schedules
+zalamea josep
+hydro2d 1
+javier zalamea
+international symposium
+the memory
+compute and
+of locality
+functional units
+scheme will
+llosa eduard
+best trade
+calculated as
+architecture b
+ayguad mateo
+given architecture
+sensitive modulo
+for vliw
+the processor
+to spill
+eduard ayguad
+pipelined loop
+processor stalls
+minimize both
+an heuristic
+1 00
+schemes to
+memory latency
+josep llosa
+00 1
+the powerpc
+scheduled before
+the miss
+scheduling schemes
+a vliw
+a prefetch
+latency this
+increase the
+the increase
+scheduling of
+the performance
+the selective
+between software
+binding and
+performance of
+lower bound
+function computeschedminreceffect
+stall su2cor
+the stall time
+ipa ipt ipl
+esa esl csms
+the csms algorithm
+cache hit latency
+chl esa esl
+chl ipa esa
+cache miss latency
+inserting prefetch instructions
+esl csms chl
+ipt ipl csms
+ipa esa opt
+esa opt chl
+ipl csms ipa
+opt chl ipa
+csms ipa ipt
+csms chl esa
+using the cache
+of the csms
+the cache miss
+dcompute stall dcompute
+the compute time
+stall dcompute stall
+su2cor hydro2d mgrid
+tomcatv swim su2cor
+swim su2cor hydro2d
+stall time is
+time tomcatv swim
+the aggressive architecture
+the chl scheme
+0 normalized loop
+hydro2d mgrid turb3d
+execution time tomcatv
+normalized loop execution
+the register pressure
+61 0 normalized
+snchez antonio gonzlez
+and stall time
+jess snchez antonio
+based on inserting
+loop execution time
+the cache hit
+compute time and
+the prolog and
+based on early
+to the chl
+early scheduling of
+on early scheduling
+a simple architecture
+on inserting prefetch
+the ipa scheme
+schemes based on
+the execution time
+20 61 0
+the initiation interval
+increase in the
+the locality analysis
+additional spill code
+prefetch instructions in
+the spill code
+a software pipelined
+in compute time
+schedule memory operations
+optimistic execution time
+the esa scheme
+scheduling of memory
+the csms scheme
+to schedule memory
+compute and stall
+csms algorithm is
+csms0 20 61
+for the aggressive
+static locality analysis
+of the prolog
+instructions are scheduled
+type of locality
+due to dependences
+stall time in
+stall time the
+an increase in
+it is calculated
+it may increase
+scheme will be
+scheme increases the
+simple architecture b
+the selective scheduling
+simple architecture the
+be rather inaccurate
+additional memory instructions
+of stall time
+architecture b aggressive
+stall time represents
+binding and nonbinding
+off between compute
+prolog and epilog
+and the stall
+b aggressive architecture
+the different prefetching
+the prefetch schemes
+compute time for
+memory operations using
+csms algorithm achieves
+miss ratio of
+annual acm ieee
+gibert jess snchez
+enric gibert jess
+interaction between software
+the schemes that
+hit latency and
+clustered vliw processor
+of memory instructions
+between software prefetching
+the schemes based
+acm ieee international
+in an increase
+that tries to
+ieee international symposium
+international symposium on
+symposium on microarchitecture
+reasons for the
+memory instructions are
+due to spill
+software pipelined schedules
+to the locality
+and software pipelining
+in the ii
+to spill code
+of the stall
+initiation interval and
+may increase the
+scheme is the
+the performance of
+this scheme will
+operations using the
+best trade off
+spill code and
+the best trade
+javier zalamea josep
+zalamea josep llosa
+performance of the
+scheduling for a
+software pipelined loop
+a given architecture
+josep llosa eduard
+llosa eduard ayguad
+the increase in
+is calculated as
+ayguad mateo valero
+to minimize both
+eduard ayguad mateo
+for clustered vliw
+sensitive modulo scheduling
+of the execution
+minimize both the
+actual execution time
+of memory operations
+of additional memory
+for some programs
+with the cache
+execution time of
+1 00 1
+the miss ratio
+therefore it may
+will be called
+with previous memory
+184 94 35
+modulo scheduling schemes
+outperform the chl
+with cache hit
+others the esa
+scheme s it
+the ipl scheme
+with memory instructions
+a static locality
+2 47 table
+opt0 20 61
+decrease in stall
+called early scheduling
+split into compute
+in the stall
+for the mgrid
+return scheduling is
+csms algorithm with
+to dependences with
+execution time opt
+ii rec ii
+a sample scheduling
+prefetching and software
+aggressive architecture in
+outstanding miss table
+esa esl csms0
+locality even if
+hit latency chl
+architecture is called
+software pipelined schedulers
+scheduling memory instructions
+recurrences on the
+than the chl
+increase the initiation
+prefetch instructions and

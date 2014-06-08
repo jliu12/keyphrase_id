@@ -1,0 +1,600 @@
+accelerator
+asu
+sfg
+controller
+pipeline
+reservation
+dii
+collision
+qmf
+micro
+initiation
+interconnect
+bitparallel
+conflict
+synthesis
+dsp
+cluster
+datapath
+io
+doack
+imec
+clustering
+clusters
+pipelined
+signals
+retiming
+m0
+sharing
+silage
+shifter
+latch
+multiplexing
+netlist
+clock
+instruction
+mirror
+fadd1
+dolphin
+wether
+schedule
+scheduling
+shift
+quadrature
+registers
+instructions
+processor
+flip
+cathedral
+decimated
+flop
+interconnection
+hardware
+latency
+bank
+register
+throughput
+filter
+signal
+latencies
+delay
+conflicts
+pin
+forbidden
+diagram
+bus
+accelerators
+shareable
+microinstruction
+nonmanifest
+buses
+tap
+gates
+cycle
+architecture
+cells
+operator
+behavioral
+cycles
+interleaving
+sehwa
+initiations
+cell
+bit
+interface
+clustered
+leuven
+cmos
+dff
+strobe
+m1
+m4
+coprocessor
+fig
+timing
+datapaths
+port
+iii
+ffl
+schedules
+dct
+belgium
+occuring
+nand
+fir
+area
+multiplexer
+operators
+ready
+vlsi
+manifest
+slave
+filters
+path
+runtime
+stand
+tools
+electronics
+ip
+pipelines
+adder
+reg
+optimzed
+hp700
+kapeldreef
+teruniversitary
+addsubfbb
+cicruit
+wouters
+mux2
+m40fig
+sodas
+table24
+zohair
+compfbb
+inflected
+vanthournout
+katholieke
+performant
+shiftfbb
+videophone
+morestate
+interuniversitary
+mumthroughput
+in2
+pisyn
+subsignals
+27mhz
+resynchronizes
+schaumont
+reconstructor
+more3
+muxfbb
+throughputsignal
+maryse
+asus
+rijnders
+vernalde
+regfbb
+multfbb
+regfilefbb
+kyosun
+the2
+derudder
+omplex
+videotelephony
+description2
+streams
+banks
+expansion
+op
+idct
+universiteit
+switchable
+in1
+catv
+structed
+acteristics
+decimate
+apath
+bolsens
+flipflop
+rompaey
+precedences
+strobes
+filterbank
+compile
+sequencing
+silicon
+video
+fix
+acknowledged
+assigned
+tain
+3001
+1894
+csd
+sahraoui
+counterflow
+pls
+paths
+the accelerator
+collision vector
+data path
+reservation table
+accelerator controller
+conflict controller
+the sfg
+micro instruction
+the asu
+accelerator processor
+initial collision
+processor interface
+micro instructions
+pipeline registers
+io 1
+accelerator data
+accelerator datapath
+an accelerator
+the qmf
+the conflict
+path synthesis
+new initiation
+multiplexing cost
+qmf bank
+ffl the
+the cluster
+the do
+quadrature mirror
+hardware sharing
+system control
+controller is
+the micro
+the reservation
+the dii
+asu micro
+instruction shifter
+conflict model
+m0 io
+cluster schedule
+throughput dsp
+accelerator processors
+io 0
+from imec
+0 m0
+do pin
+pipeline conflict
+asu definition
+dsp algorithms
+data paths
+design flow
+the controller
+start signal
+clock cycles
+in z
+state diagram
+controller architecture
+1 z
+the pipeline
+an initiation
+flip flop
+of pipelined
+high throughput
+clustering the
+a pipeline
+of accelerator
+per asu
+an asu
+do doack
+gates bit
+to asu
+signals o
+wether a
+sfg operations
+cluster scheduling
+path interconnect
+called dolphin
+timing view
+instruction bus
+derived out
+bitparallel data
+forbidden latencies
+the silage
+pin is
+asu s
+clustered graph
+sfg clustering
+of asu
+controller the
+the multiplexing
+mirror filter
+netlist optimization
+initiation latency
+pipeline conflicts
+synthesis tools
+shift register
+standard cell
+pipelined data
+synthesis of
+of pipeline
+the collision
+application specific
+path cost
+area cost
+assigned to
+conflict occurs
+and retiming
+the clustered
+the processing
+out of
+z and
+bit parallel
+the interconnection
+clock cycle
+the synthesis
+operations are
+next cycle
+architecture of
+for pipelined
+available bitparallel
+asu structure
+sfg frames
+1 m4
+clusters assigned
+a nonmanifest
+different micro
+a bitparallel
+sfg the
+add shift
+initiation is
+asu is
+dsp accelerators
+cluster latency
+electronics center
+ffl optimization
+dii at
+7 standard
+dual latch
+cathedral iii
+asu 0
+o tuple
+cluster subgraph
+channel qmf
+fadd1 cells
+local controller
+register controller
+retiming tools
+initiation latencies
+table instance
+indicates wether
+bitparallel operators
+interconnection buses
+one asu
+accelerator algorithm
+micro electronics
+from asu
+area gain
+shift reg
+1 m0
+area needed
+new reservation
+operator netlist
+doack done
+of fadd1
+current collision
+operator area
+tuple io
+accelerator component
+tap multiplications
+output port
+processing of
+the hardware
+z k
+a reservation
+vector is
+the processor
+the design
+transition diagram
+the interconnect
+o 2
+clustering and
+the initiation
+interconnection cost
+pipeline architecture
+pipelined computers
+cmos 0
+pipelined systems
+1 m1
+cost exceeds
+that sharing
+functional operations
+interface makes
+delay operations
+highly pipelined
+two channel
+mirror filters
+stand alone
+the sharing
+2 z
+the initial
+allows to
+the accelerator controller
+of the accelerator
+initial collision vector
+the conflict controller
+the accelerator processor
+the initial collision
+the reservation table
+the processor interface
+data path synthesis
+the accelerator datapath
+accelerator data path
+the data path
+the system control
+path synthesis tools
+io 0 m0
+the cluster schedule
+the accelerator data
+collision vector is
+o 2 z
+high throughput dsp
+the collision vector
+m0 io 1
+the do pin
+o 1 z
+micro instruction shifter
+z and o
+the micro instruction
+1 z and
+and o 2
+pipelined data paths
+an initiation latency
+a pipeline conflict
+data path cost
+derived out of
+a new initiation
+for the accelerator
+signals o 1
+the clustered graph
+accelerator controller the
+of pipeline registers
+0 m0 io
+sfg clustering and
+asu micro instruction
+data path interconnect
+the multiplexing cost
+do pin is
+bitparallel data path
+the start signal
+quadrature mirror filter
+of the pipeline
+the processing of
+the next cycle
+needed to implement
+into the current
+clusters assigned to
+in z z
+the sfg operations
+the current collision
+of the sfg
+to the accelerator
+system control thread
+the timing view
+schedules are available
+io 1 m4
+cluster latency is
+the cluster latency
+collision vector a
+clustering and assignment
+the output signals
+delay operations are
+complete design flow
+controller the accelerator
+of in z
+the delay operations
+io 1 m0
+accelerator processors we
+do doack done
+new initiation is
+the micro instructions
+multiplexing cost and
+collision vector and
+ffl the conflict
+conflict controller is
+of quadrature mirror
+of clusters assigned
+initiation is possible
+add shift operations
+area needed to
+0 7 standard
+the operator area
+in dsp algorithms
+processor interface makes
+and retiming tools
+cost exceeds the
+clustering the sfg
+ffl optimization for
+micro electronics center
+the qmf bank
+an area cost
+current collision vector
+the available bitparallel
+netlist optimization tools
+control for pipelined
+the accelerator algorithm
+a new reservation
+in the accelerator
+reservation table instance
+cluster subgraph that
+alone and slave
+signal in z
+the pipeline conflicts
+a collision vector
+different micro instructions
+system control component
+of fadd1 cells
+the dii at
+a processor interface
+indicates wether a
+conflict controller the
+cmos 0 7
+output signals o
+the asu definition
+state diagram can
+shift register controller
+an asu is
+channel qmf bank
+of high throughput
+z k fig
+new reservation table
+the design steps
+the initiation latencies
+a bitparallel data
+bit parallel hardware
+collision vector this
+through a processor
+ffl the accelerator
+assigned to asu
+allows to generate
+o tuple io
+synthesis process we
+conflict model is
+area cost of
+subgraph that can
+be derived out
+to the asu
+as the conflict
+io 1 m1
+i o tuple
+the hardware sharing
+data path is
+the shift register
+bit vector which
+obtain the data
+a reservation table
+operations are assigned
+of the qmf
+quadrature mirror filters
+this state diagram
+the interconnection cost
+the flip flop
+number of pipeline
+to i o
+out of the
+integration vlsi systems
+scale integration vlsi
+transactions on very
+large scale integration
+of the reservation
+are available within
+a conflict occurs
+design flow is
+has an area
+stand alone and
+and the interconnect
+of the do
+h 0 z
+of data path
+h 1 z
+in the reservation
+state diagram is
+this output is
+in the collision
+the leftmost one
+the design flow
+assigned to i
+very large scale
+schedule using the
+z and h
+in z is
+can be interleaved
+0 z and
+is the processing
+of the synthesis
+processors we will
+z k z
+diagram can be
+data path the
+number of clock
+signals for the
+list scheduling algorithm

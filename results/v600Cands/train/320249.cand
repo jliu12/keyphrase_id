@@ -1,0 +1,600 @@
+predicates
+join
+plans
+plan
+predicate
+pullrank
+cs96
+joins
+tags
+query
+selections
+pruning
+queries
+tag
+migration
+optimizer
+expensive
+unprunable
+relations
+pullover
+hs93
+pushdown
+heuristic
+hel94
+naive
+conservative
+prune
+enumeration
+subplans
+pruned
+ldl
+optimization
+sigmod
+rank
+evaluable
+lantable
+bestplan
+optimizers
+kamesh
+munagala
+ordering
+deferring
+database
+traditional
+rating
+utkarsh
+optimizing
+widom
+user
+pushed
+cheaper
+sql
+selectivities
+selection
+sales
+exhaustive
+diff
+spj
+relational
+credit
+rng
+trees
+gravano
+selectivity
+pruneset
+cgk89
+ms79
+udps
+traina
+cs93
+joinplan
+addtotable
+plantable
+kbz86
+optimality
+unconstrained
+deferred
+jennifer
+enumerated
+fr
+evaluated
+motwani
+srivastava
+costs
+style
+rule
+evaluating
+surajit
+chaudhuri
+ranks
+dominates
+relation
+generous
+rajeev
+pushes
+greedily
+orders
+shivnath
+orderings
+altogether
+pull
+luis
+polynomial
+compromising
+resident
+enumerating
+bay
+selec
+management
+pushing
+bases
+9g
+babu
+sac
+shortcomings
+secondary
+commercial
+zip
+joined
+stream
+designates
+scan
+oe
+nonrecursive
+zhen
+beijing
+china
+execution
+prior
+heuristics
+person
+push
+sigart
+operands
+past
+annotated
+subexpression
+foreign
+suffers
+varied
+randomly
+down
+sharply
+defer
+guarantees
+street
+attributes
+quality
+shortcoming
+chooses
+agma
+ghk92
+lazaridis
+nishizawa
+cokrowijoyo
+papyrus
+korn
+optplan
+mincost
+manco
+arantes
+ik90
+fosca
+debjani
+snapp
+enumer
+giannotti
+wk90
+inaugural
+parthasarthy
+amelie
+khaw
+phh92
+adriano
+dengfeng
+tjioe
+timizers
+haorianto
+pardede
+commuted
+cs94
+yesook
+2521
+kms92
+jayaprakash
+pisharath
+srinath
+2493
+itaru
+ameet
+extjoinp
+dilys
+dp
+hashing
+completion
+treat
+extending
+tuples
+soundness
+dummy
+expensive predicates
+defined predicates
+user defined
+optimization algorithm
+the plan
+the join
+predicate migration
+optimal plan
+local heuristic
+conservative local
+plan p
+execution space
+plans that
+naive optimization
+of expensive
+system r
+linear join
+selection ordering
+join trees
+of relations
+two plans
+r 1
+a join
+query optimization
+defined predicate
+r style
+with pruning
+the optimization
+oe e
+a plan
+predicates on
+of user
+queries with
+tag vector
+expensive predicate
+optimal plans
+dynamic programming
+the optimal
+predicates that
+of plans
+of predicates
+the tag
+cost of
+of joins
+the predicate
+p 0
+migration algorithm
+interesting orders
+the cost
+of join
+the selections
+defined functions
+selection predicates
+plans generated
+the predicates
+plan that
+exhaustive enumeration
+the plans
+predicates are
+plans for
+cost p
+pushed down
+plan for
+pullover rule
+high credit
+unconstrained linear
+plan over
+pushdown rule
+join among
+in hs93
+plans over
+different tags
+programming algorithm
+plan in
+on r
+with user
+the conservative
+e r
+a query
+the query
+be pruned
+acm sigmod
+relation r
+n relations
+evaluating predicates
+credit rating
+of evaluating
+the traditional
+join step
+database systems
+algorithm with
+the naive
+all expensive
+prune p
+join ordering
+style optimizer
+p lantable
+by pullrank
+the pullover
+prune plans
+join orderings
+join enumeration
+unprunable plans
+interesting order
+among relations
+plan where
+predicates the
+the ldl
+tag t
+relations and
+same set
+predicates as
+plan with
+pruning techniques
+predicates in
+of predicate
+one relation
+polynomial in
+kamesh munagala
+diff t
+to prune
+space of
+the algorithm
+predicates and
+optimization algorithms
+each join
+a relation
+predicate e
+join between
+optimizing queries
+these plans
+an expensive
+query that
+t 0
+sigmod international
+r algorithm
+same tag
+join queries
+join is
+data june
+on management
+plans with
+evaluated in
+r 2
+prior to
+apply on
+jennifer widom
+of unconstrained
+generous upper
+multiple plans
+traditional optimizer
+1 rng
+defined selections
+desired execution
+of subplans
+pushes down
+plan generated
+predicates applied
+completion cost
+predicates applicable
+utkarsh srivastava
+traditional join
+optimization overhead
+tags t
+expensive selection
+predicate u
+rank algorithm
+deferring evaluation
+per tuple
+subplans that
+another plan
+in cs96
+join cost
+hs93 hel94
+join predicate
+enumerated plans
+pull rank
+relation in
+early as
+the selection
+is polynomial
+optimization in
+as early
+of tags
+if cost
+commercial database
+join tree
+plans where
+for join
+pruned for
+t dominates
+with expensive
+can prune
+join predicates
+traditional optimization
+such plans
+of enumerated
+style dynamic
+join of
+the relation
+user defined predicates
+conservative local heuristic
+of expensive predicates
+the plan p
+optimization algorithm with
+naive optimization algorithm
+the optimal plan
+of user defined
+oe e r
+number of user
+the optimization algorithm
+algorithm with pruning
+the conservative local
+number of expensive
+to the join
+linear join trees
+system r style
+user defined predicate
+set of relations
+the system r
+of the join
+predicate migration algorithm
+an optimal plan
+queries with user
+the cost of
+user defined functions
+with user defined
+the execution space
+the naive optimization
+dynamic programming algorithm
+may be pruned
+plan p 0
+of the plan
+over the same
+the relation r
+on r 1
+plans over the
+plan over the
+the selection ordering
+plans generated by
+high credit rating
+of predicate migration
+cost of the
+e r 1
+query optimization in
+same set of
+number of joins
+in the number
+r 1 and
+of predicates that
+the space of
+and p 0
+the number of
+the user defined
+expensive predicates and
+an expensive predicate
+r style optimizer
+system r algorithm
+plans that represent
+diff t t
+a system r
+all expensive predicates
+of evaluating predicates
+of unconstrained linear
+optimal plan over
+expensive predicates the
+expensive predicates that
+the plan that
+space of unconstrained
+the pullover rule
+the tag vector
+plans that have
+predicates that are
+in the query
+if the cost
+r 1 s
+cost of evaluating
+the same set
+a query that
+for oe e
+the optimization algorithms
+polynomial in the
+is polynomial in
+plans that are
+conference on management
+of data june
+sigmod international conference
+acm sigmod international
+the dynamic programming
+on management of
+management of data
+of a join
+set of predicates
+the same tag
+1 and r
+prior to the
+and r 2
+p and p
+5 4 8
+number of relations
+with the tag
+if cost p
+optimization algorithm that
+be pruned for
+guarantees the optimal
+space of join
+the p lantable
+of selection ordering
+when user defined
+of subplans that
+number of subplans
+subplans that need
+user defined selections
+r style dynamic
+defined predicates on
+the pushdown rule
+style dynamic programming
+this execution space
+each join step
+of enumerated plans
+relations and k
+desired execution space
+the predicate migration
+only linear join
+local heuristic algorithm
+tags t and
+one relation in
+we can prune
+the plans generated
+local heuristic that
+defined predicates are
+plan generated by
+number of enumerated
+optimization algorithm which
+execution space and
+n relations and
+deferring evaluation of
+generous upper bound
+fr 1 rng
+of plan generated
+evaluated in t
+the selection predicates
+defined predicates in
+predicates on s
+the desired execution
+pull rank algorithm
+the traditional optimization
+predicates are evaluated
+unconstrained linear join
+plans that need
+of relations but
+that apply on
+optimal plan in
+at each join
+as early as
+that need to
+the join in
+optimization algorithm and
+been evaluated in
+cost of p
+optimal plan for
+of these plans
+are pushed down
+the tag t
+optimal plans for
+for the join
+of joins and
+have been evaluated
+international conference on
+plan p is
+where the predicate
+after the join
+6 4 9
+predicates on the
+evaluation of predicates
+relations r 1
+number of tags
+optimization algorithm we
+set of plans
+on a relation
+represent the same
+to the optimal
+optimizing queries with
+exhaustive enumeration of
+the predicates are
+by extending a
+the plan for
+the complexity is
+than the cost
+a query optimizer
+of queries with
+on s j
+plan in the
+all the predicates
+consider a query
+of relations and
+let us consider
+next the algorithm
+linear sequence of
+us assume that

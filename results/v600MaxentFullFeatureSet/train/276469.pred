@@ -1,0 +1,37 @@
+newton
+jacobian
+nonlinear
+continuation
+convergence
+transient
+let assumption
+fffi n
+transient continuation
+pseudo transient
+1 hold
+n g
+steady state
+let fffi
+assumption 1
+ffi max
+defect correction
+terminal phase
+assumption 2
+fx n
+inexact newton
+pseudo timestep
+temporal truncation
+ffi n
+state solution
+initial phase
+fffi n g
+g be given
+pseudo transient continuation
+n g be
+let fffi n
+let assumption 1
+fx n g
+steady state solution
+hold let assumption
+let assumption 2
+given by either

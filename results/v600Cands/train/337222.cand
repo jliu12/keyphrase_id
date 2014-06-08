@@ -1,0 +1,600 @@
+callsite
+loc
+slicer
+contextrecovery
+obj
+slicing
+processcall
+alias
+markq
+slice
+markp
+lh
+interprocedural
+backbind
+objq
+locations
+aset
+callsites
+modp
+recovery
+objp
+referenced
+ars
+objr
+lrz
+analyses
+light
+ciency
+accessed
+reuse
+calleev
+spurious
+weight
+ci
+mod
+name
+statement
+f1
+endfor
+nonlocal
+foreach
+dereferences
+memory
+indirect
+slices
+ects
+precision
+pointer
+endif
+mark
+exit
+computepslice
+pslice
+markr
+propagates
+landi
+location
+checks
+aliased
+driven
+object
+ryder
+invokes
+update
+propagated
+ectiveness
+calls
+cr
+cfg
+ect
+statements
+andersen
+invoked
+harrold
+aliasing
+cache
+erent
+names
+standards
+candidate
+ev
+elseif
+cient
+modification
+darren
+mock
+reports
+polyvariant
+atkinson
+binds
+sigsoft
+conditional
+adds
+markmain
+2161
+5705
+4331
+4327
+twmc
+relinputs
+5704
+inputs
+eggers
+modifies
+intraprocedural
+di
+liang
+ectively
+larn
+smail
+int
+studies
+computes
+chambers
+equivalence
+modified
+moria
+dixie
+1178
+ine
+susan
+markus
+formal
+ineligible
+paf
+updated
+binkley
+procedures
+site
+globals
+creates
+programs
+craig
+1174
+insensitive
+reps
+ciently
+dependence
+horwitz
+partial
+99
+processed
+propagate
+98
+callers
+procedural
+loca
+501
+648
+puts
+propagating
+pointers
+identifies
+safe
+proce
+relevant
+ac
+associations
+eligible
+bar
+ness
+ec
+ective
+olated
+anatoliy
+sso
+ruslan
+7820
+slicers
+pocedures
+doroshenko
+4612
+3955
+22167
+modr
+4603
+23922
+7822
+enif
+7325
+4590
+2510
+shevchenko
+espre
+ultra30
+assem
+77
+precise
+identify
+241
+reaching
+93
+gorithm
+def
+prefix
+identifying
+12864
+2992
+5601
+25002
+loc is
+memory locations
+context recovery
+weight context
+a callsite
+object name
+reuse driven
+partial slicer
+program analyses
+light weight
+memory location
+procedure under
+callsite to
+specific callsite
+driven slicer
+partial slicing
+alias information
+markq l
+information provided
+objq l
+the reuse
+locations that
+program analysis
+q exit
+mod at
+modified by
+a procedure
+modification side
+mark f
+location loc
+calls update
+by light
+if loc
+markp loc
+the precision
+at statement
+the e
+the callsite
+statement 16
+slicing standard
+spurious information
+partial slice
+ciency of
+at c
+side e
+interprocedural slicing
+under c
+the partial
+e ciency
+in p
+name set
+nonlocal memory
+obj at
+objr loc
+name obj
+relevant inputs
+exit u
+statement 8
+using information
+program information
+update p
+obj is
+slicer on
+formal parameter
+p under
+the slice
+referenced by
+accessed by
+then loc
+mark f1
+callsite c
+improved slicer
+lrz algorithm
+the lrz
+the memory
+s v
+of mod
+p loc
+indirect object
+program slicing
+precision and
+the slicer
+callsite computed
+callsite the
+each callsite
+calleev ars
+objp loc
+information propagated
+and objq
+object names
+provided by
+a memory
+under a
+of program
+e ects
+loc in
+slicer computes
+use pointer
+a slice
+procedure p
+many program
+average size
+the spurious
+slice for
+computed by
+p s
+called procedure
+modp loc
+c objr
+that loc
+in aset
+the ci
+interprocedural phase
+slicer propagates
+cache q
+contextrecovery processes
+conditional analysis
+slicing standards
+ci mod
+statement 3
+f mark
+by statement
+l is
+the program
+a specific
+by q
+not modified
+aliased to
+alias analysis
+locations in
+locations accessed
+c obj
+updated with
+results computed
+a program
+of memory
+the procedure
+is accessed
+the called
+our algorithm
+out n
+be referenced
+is invoked
+c line
+a candidate
+invokes the
+mod algorithm
+locations supporting
+loc f
+spurious program
+contextrecovery calls
+markr loc
+propagates w
+l objq
+ev ars
+slicer first
+contextrecovery also
+obj s
+conditional alias
+and objp
+driven slicing
+loc if
+new processcall
+reports that
+algorithm reports
+algorithm calls
+candidate in
+improve the
+in out
+invoked at
+precision of
+recovery algorithm
+recovery can
+statements in
+location l
+slicing algorithm
+statement s
+is referenced
+is modified
+at s
+recovery to
+loc can
+obj and
+out c
+by p
+the light
+pointer variables
+if obj
+andersen s
+propagated from
+the improved
+s algorithm
+called by
+direct object
+equivalence analysis
+subject programs
+q at
+is updated
+checks whether
+e ectiveness
+light weight context
+weight context recovery
+the reuse driven
+the partial slicer
+a procedure under
+a specific callsite
+under a specific
+reuse driven slicer
+memory locations that
+procedure under a
+information provided by
+at a callsite
+using information provided
+by a procedure
+the memory locations
+of program analyses
+modification side e
+memory location loc
+mod at a
+a program analysis
+by light weight
+a memory location
+of memory locations
+partial slicing standard
+provided by light
+of mod at
+if loc is
+the e ciency
+e ciency of
+the precision and
+modified by q
+q exit u
+partial slicer on
+by p under
+memory locations in
+invokes the partial
+p under c
+the improved slicer
+markp loc is
+the lrz algorithm
+ciency of program
+size of mod
+the light weight
+l is updated
+improve the precision
+locations that are
+alias information provided
+update p loc
+accessed by a
+the spurious information
+and objq l
+callsite computed by
+mark f mark
+indirect object name
+object name obj
+specific callsite to
+reduce the spurious
+the relevant inputs
+the partial slice
+markq l is
+a callsite computed
+referenced by p
+the name set
+loc is not
+spurious information propagated
+the callsite to
+an object name
+precision and the
+set of memory
+improve the e
+is updated with
+many program analyses
+locations accessed by
+a formal parameter
+the called procedure
+side e ects
+context recovery to
+loc is accessed
+cache q exit
+context recovery can
+by q at
+the ci mod
+algorithm calls update
+at statement 8
+context recovery algorithm
+c objr loc
+q at c
+a c objr
+nonlocal memory location
+use pointer variables
+partial slicer computes
+the procedure under
+that loc is
+name set of
+loc is in
+that use pointer
+partial slicing standards
+the memory location
+is invoked at
+the results computed
+be modified by
+memory locations accessed
+to the slice
+modified by p
+a candidate in
+f mark f
+the program analysis
+memory location l
+the precision of
+referenced by a
+is not modified
+by our algorithm
+average size of
+the algorithm calls
+and the e
+of the reuse
+reuse driven slicing
+conditional alias information
+by the lrz
+locations that may
+callsite to the
+driven slicing algorithm
+loc can be
+markq l objq
+at c then
+updated with and
+by r under
+direct object name
+u in out
+objq l is
+f is invoked
+if obj is
+callsite c to
+at a statement
+each callsite to
+modified in p
+under each callsite
+calls update p
+recovery to improve
+an indirect object
+the new processcall
+and objp loc
+l objq l
+ci mod algorithm
+locations that can
+aliased to w
+with and objq
+context recovery the
+to w at
+callsite to p
+memory locations supporting
+identify the memory
+p loc f
+location loc in
+is modified by
+memory location is
+modified by a
+not modified by
+technique that uses
+be referenced by
+the average size
+statements in p
+invoked at statement
+compute a slice
+a c obj
+computed by the
+in a procedure
+not a candidate
+side e ect
+a direct object
+programs that use
+can be accessed
+the information for
+is a candidate
+evaluate the e
+each memory location
+by the procedure
+when f is
+can be referenced
+results computed by
+in p if
+of a slice
+partial slicer as
+propagate the information
+name obj is
+location is accessed
+goal of study
+from the callsite
+callsite to reduce
+loc is and
+loc is then
+it can identify
+if markr loc
+the slice for
+p loc t
+for 3 x
+computing modification side
+loc in p
+objr loc is
+to statement 16

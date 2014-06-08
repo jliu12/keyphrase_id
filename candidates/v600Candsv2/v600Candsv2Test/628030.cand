@@ -1,0 +1,345 @@
+weak
+transaction
+strict
+copies
+ias
+quasi
+cluster
+reconciliation
+schedule
+consistency
+writes
+mobile
+core
+intracluster
+wt
+iasg
+item
+read
+copy
+serializability
+ww
+clusters
+sw
+disconnections
+intercluster
+sr
+updates
+reads
+ies
+replication
+iesg
+disconnected
+hot
+st
+cold
+items
+op
+coherency
+schema
+inconsistency
+disconnection
+wr
+connectivity
+bandwidth
+quorum
+transactions
+serial
+lock
+conflicts
+integrity
+cl
+serialization
+committed
+sites
+database
+conflict
+divergence
+weakly
+commit
+permanent
+networking
+messages
+correctness
+abort
+rowa
+locality
+divergent
+throughput
+bayou
+acyclic
+allowable
+vacation
+replicated
+clients
+nl
+response
+currency
+aborted
+sg
+eventual
+client
+concurrency
+ignorant
+initiated
+commitment
+iots
+consistent
+contention
+translation
+wireless
+reconciling
+intermittent
+projection
+adaptivity
+locally
+criterion
+host
+tentative
+granule
+esr
+inconsistent
+availability
+roll
+server
+update
+rolled
+reconciled
+replica
+trans
+hosts
+latency
+operate
+ranges
+arrival
+coda
+file
+middleware
+locks
+strongly
+sec
+immediate
+adaptability
+acyclicity
+conservative
+compatibility
+cached
+tuned
+semantics
+bellavista
+stefanelli
+hotspots
+corradi
+dependency
+conditionally
+undone
+serializable
+rate
+duration
+queries
+edge
+modes
+environments
+managers
+wired
+protocols
+optimistic
+plugged
+cesare
+roncancio
+alvarado
+montanari
+date
+management
+wrote
+propagate
+service
+aware
+probability
+synchronizing
+iff
+located
+intervals
+globally
+laptops
+claudia
+intermittently
+users
+attain
+projections
+session
+write
+network
+belong
+prevailing
+serrano
+extremes
+percentage
+frequently
+effort
+depicts
+accesses
+interface
+barriers
+rebecca
+transmission
+imposed
+databases
+accepted
+precedence
+portable
+requirements
+ignorance
+connected
+weak transactions
+strict transactions
+core copies
+quasi copies
+data item
+strict transaction
+weak transaction
+consistency factor
+intracluster schedule
+one copy
+strict read
+data items
+weak read
+core copy
+weak connectivity
+weak operations
+copy serializability
+serial schedule
+quasi copy
+strict write
+networking conditions
+weak writes
+among copies
+st j
+hot data
+reads x
+serialization graph
+response time
+strict operations
+weak write
+sw x
+ias schedule
+data copies
+bounded inconsistency
+database state
+consistency requirements
+disconnected operation
+translation function
+data copy
+read operation
+since weak
+connected sites
+intercluster schedule
+replication schema
+cold data
+wr ww
+ww sr
+input rate
+transaction wt
+sr sw
+cluster cl
+mobile computing
+different clusters
+integrity constraints
+available bandwidth
+correctness criterion
+allowable input
+divergent copies
+disconnection intervals
+coherency control
+copy serial
+strongly correct
+d consistency
+write operations
+item x
+conflict equivalent
+system throughput
+best effort
+read operations
+maximum allowable
+j reads
+transactions read
+value read
+copies located
+currency requirements
+data contention
+locally available
+abort times
+transaction st
+access hot
+x reads
+weakly correct
+dependency edge
+since strict
+local quasi
+q r
+write operation
+factor c
+processing time
+arrival rate
+read quorum
+strict consistency
+database interface
+per cluster
+mobile file
+per data
+weak and strict
+one copy serializability
+number of messages
+core and quasi
+read only transactions
+copies of x
+number of weak
+operations on data
+weak transaction wt
+wr ww sr
+probability of abort
+ww sr sw
+one copy serial
+st j reads
+j reads x
+copy serial schedule
+consistency factor c
+allowable input rate
+since weak transactions
+data item x
+order of transactions
+reads from relationship
+strict transaction st
+sw x x
+transactions at different
+copy of x
+conflicts between weak
+rate for updates
+transaction of type
+strongly connected sites
+sr sw x
+maximum allowable input
+per data item
+strict and weak
+schedule s ias
+percentage of weak
+consistency factor figure
+ranges from 0
+read and write
+degree of divergence
+number of read
+types of translation
+weak write ww
+duration of disconnections
+local quasi copies
+among copies located
+data items per
+connected sites belong
+copies and weak
+items per cluster
+divergence among copies
+strict write operation
+strict write sw
+strict read sr
+database state x
+values of bandwidth

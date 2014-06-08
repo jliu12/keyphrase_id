@@ -1,0 +1,600 @@
+rfu
+onechip
+reconfigurable
+fpga
+blt
+instructions
+instruction
+configuration
+fir
+rbt
+sim
+jpeg
+outorder
+speedup
+addr
+pipeline
+oc
+configurations
+max_inputs
+cpu
+stalls
+29x
+simplescalar
+07x
+33x
+fpgas
+dst
+simulator
+wr
+writes
+erent
+latency
+writeback
+0x7fffc000
+08x
+bfu
+recq
+destination
+int
+adpcm
+ruu
+architecture
+operand
+reconfiguration
+pegwit
+chimaera
+16x
+lsq
+processor
+memory
+coprocessors
+controller
+dispatch
+rd
+fabric
+register
+encoder
+func
+commit
+stage
+mediabench
+reads
+decoder
+mem
+35x
+oc_index
+00x
+oc_result
+36x
+24x
+programmable
+filter
+queue
+compiler
+di
+stations
+cache
+src
+medium
+25x
+lru
+reservation
+custom
+mpeg2
+hazard
+stalled
+functional
+hazards
+issue
+addresses
+locks
+loading
+prevent
+fetch
+ported
+macros
+xilinx
+chameleon
+execute
+kernel
+logic
+lib
+benchmarks
+scheduling
+processors
+superscalar
+hardware
+locked
+units
+consistency
+lock
+src2
+34x
+43x
+28x
+32x
+87x
+62x
+41mm
+13x
+18432
+18x
+38x
+oc_word
+encodesize
+ssgcc
+27x
+20x
+defconf
+transmogrifier
+block
+latencies
+decode
+executing
+annotation
+src1
+xc6200
+unsigned
+conf
+interfacing
+stdio
+hauck
+garp
+morphosys
+unmodified
+loaded
+encode
+encoded
+compression
+blk
+napa
+accesses
+gates
+multimedia
+modifications
+core
+bits
+floating
+specialized
+executed
+divider
+streaming
+remained
+outstanding
+file
+32kb
+scheduler
+dependencies
+cycles
+queues
+applica
+log2
+blocks
+gcc
+improvement
+coef
+capable
+risc
+assembler
+dct
+microarchitecture
+opcode
+acts
+stages
+profiling
+pending
+track
+configuring
+registers
+overlap
+interface
+compiled
+gain
+scott
+pre
+bu
+rec
+execution
+source
+alu
+the rfu
+the onechip
+sim onechip
+rfu instructions
+rfu instruction
+the fpga
+the blt
+order issue
+onechip s
+the reconfigurable
+an rfu
+reconfigurable unit
+the configuration
+speedup obtained
+onechip architecture
+reconfigurable processors
+rfu is
+in onechip
+destination block
+fir filter
+instructions are
+memory consistency
+of order
+dynamic scheduling
+fpga controller
+rfu writes
+prevent rfu
+the rbt
+rfu in
+performance improvement
+consistency scheme
+reconfigurable functional
+instruction stalls
+the fir
+sim outorder
+s pipeline
+reconfigurable instructions
+for onechip
+blt instruction
+of onechip
+rfu destination
+context memory
+fir c
+memory interface
+reservation stations
+di erent
+the simulator
+the memory
+reconfigurable logic
+for reconfigurable
+functional unit
+out of
+the applications
+the jpeg
+memory blocks
+the architecture
+configuration management
+configurations are
+onechip is
+reconfiguration bits
+2 29x
+rfu rd
+fir oc
+operation latency
+rfu and
+encode small
+rfu wr
+of rfu
+dst addr
+no blt
+of reconfigurable
+issue and
+the processor
+large 1
+instructions in
+processor core
+configuration is
+configuration compression
+medium 1
+reconfigurable coprocessors
+oc c
+small 1
+the dispatch
+a reconfigurable
+data size
+bits table
+pre loading
+the speedup
+filter kernel
+for sim
+the fpgas
+this instruction
+now been
+are outstanding
+block lock
+fpga conf
+rfu the
+onechip this
+prevent cpu
+3 00x
+rfu reads
+onechip a
+cpu wr
+memory locks
+kernel oriented
+3 rfu
+to onechip
+onechip has
+lru configuration
+lock table
+dispatch issue
+locked rfu
+to rfu
+lines 25
+configuration latency
+pending cpu
+loading configurations
+when rfu
+lib h
+onechip library
+oc lib
+after rfu
+1 16x
+file fir
+operand rfu
+cpu reads
+three operand
+blt is
+29x 2
+remained unmodified
+while pending
+configuration address
+unit rfu
+rfu source
+table rbt
+stage is
+instructions that
+the address
+an fpga
+other groups
+that target
+each application
+instruction is
+functional units
+the encoder
+applications were
+has now
+the simplescalar
+addresses until
+memory interfacing
+mem stage
+chimaera reconfigurable
+the chimaera
+instruction specification
+func is
+reconfigurable instruction
+scheduler queues
+fpga function
+jpeg decoder
+fpga the
+memory streaming
+function func
+operand instruction
+m process
+the pipeline
+s performance
+block sizes
+configuration 0
+oriented applications
+latency will
+pre load
+issue stage
+two operand
+program order
+the cpu
+been extended
+was executing
+memory accesses
+pipeline the
+of sim
+and commit
+and dst
+one configuration
+source addresses
+instructions and
+unit to
+and destination
+to memory
+writes to
+the application
+instructions will
+data dependencies
+and writes
+general purpose
+four applications
+new instructions
+destination addresses
+instruction will
+dynamic reconfiguration
+programmable logic
+of order issue
+out of order
+of the onechip
+the reconfigurable unit
+the onechip architecture
+the rfu is
+memory consistency scheme
+reconfigurable functional unit
+speedup obtained by
+the speedup obtained
+for reconfigurable processors
+in the blt
+sim onechip s
+blt instruction stalls
+in the rfu
+the rfu in
+the memory interface
+the fir filter
+the performance improvement
+rfu in onechip
+reconfigurable unit to
+fir filter kernel
+prevent rfu writes
+and destination block
+now been extended
+fir oc c
+and the reconfigurable
+the fpga controller
+onechip s pipeline
+of the rfu
+reconfiguration bits table
+for sim onechip
+no blt instruction
+stage is where
+order issue and
+for the jpeg
+of the applications
+the memory consistency
+of the configuration
+has now been
+the configuration is
+operand rfu instruction
+instructions are outstanding
+2 29x 2
+rfu destination addresses
+the rfu and
+configurations are defined
+rfu instruction is
+instructions that target
+bits table rbt
+of rfu instructions
+oc lib h
+functional unit rfu
+for the rfu
+the jpeg decoder
+for the onechip
+lines 25 27
+speedup obtained from
+lru configuration management
+kernel oriented applications
+rfu source addresses
+are no blt
+a reconfigurable unit
+reconfigurable unit the
+an rfu instruction
+while pending cpu
+block lock table
+experiment was executing
+where the fpga
+the blt is
+been extended to
+shows the speedup
+latency will be
+chimaera reconfigurable functional
+the chimaera reconfigurable
+the fpga function
+the reservation stations
+that target the
+the issue stage
+in the fpga
+instruction will be
+reads and writes
+of the reconfigurable
+the architecture s
+stored in the
+there are no
+and the out
+keep track of
+extended to support
+in program order
+the data size
+in the pipeline
+the address of
+source and destination
+the general purpose
+the out of
+instructions from the
+d shows the
+and dst addr
+destination block addresses
+improvement by the
+2 3 include
+and an fpga
+configuration latency in
+in chameleon processors
+operation and issue
+1 28x 1
+configuration 0 and
+reconfigurable unit and
+the fpga the
+2 08x 2
+reconfigurable instruction func
+coprocessors for multimedia
+define max_inputs 1024
+cpu reads and
+consistency scheme by
+rfu and the
+filter kernel on
+locked rfu destination
+after instructions are
+of sim onechip
+pre load instruction
+some random numbers
+3 00x large
+memory accesses performed
+cpu writes to
+issue and commit
+fpga function number
+the onechip library
+the reconfigurable instructions
+into the transmogrifier
+configurations are located
+overlap of approximately
+to sim outorder
+writes to locked
+11 overlapping instructions
+that dynamic scheduling
+store queue lsq
+the rfu the
+implemented in onechip
+analysis of reconfigurable
+the napa adaptive
+modifications were done
+to some random
+the fpga fabric
+until after rfu
+to support configuration
+reads a word
+addr src2 addr
+in fpga conf
+onechip architecture 1
+rfu instructions are
+programming for sim
+the configuration address
+destination block sizes
+of reconfigurable coprocessors
+in this instruction
+operand instruction one
+destination after addresses
+instructions queue recq
+stage remained unmodified
+to locked rfu
+onechip s rfu
+was executing the
+the address stored
+rfu writes to
+writes while pending
+larger the data
+addr and dst
+approach to hiding
+parallel reconfigurable system
+rfu writes while
+through the memory
+the rfu instruction
+addr dst addr
+manager that will
+onechip this section
+s rfu instructions
+from memory streaming
+remained unmodified and
+stalls per rfu
+in the fir
+applications except for
+int y max_inputs
+context reconfigurable coprocessors
+version of onechip
+1 16x 1
+the context memory
+memory streaming applications
+2 rfu architecture
+for single context
+encode small 1
+the onechip reconfigurable
+by only using
+blt need to
+pending cpu store
+a 3 operand
+onechip architecture several
+compiler directed approach
+jpeg encode small

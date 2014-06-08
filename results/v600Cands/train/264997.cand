@@ -1,0 +1,600 @@
+voltage
+voltages
+supply
+mover
+converter
+datapath
+energy
+nr
+dfg
+dc
+ilp
+dissipation
+conversions
+mults
+latency
+resource
+savings
+5v
+circuit
+schedule
+capacitance
+gebotys
+slack
+register
+clock
+scheduling
+supplies
+dcvs
+adder
+yingtao
+raje
+2econv
+selvaraj
+clks
+lat
+resources
+synthesis
+delay
+1995
+power
+sarrafzadeh
+conversion
+rabaey
+op
+chandrakasan
+cmos
+deming
+mohanty
+junjuan
+saraju
+multiplexer
+vlsi
+penalties
+area
+adds
+del
+automation
+period
+2v
+raghunathan
+clocking
+multiplier
+jha
+transistor
+enforces
+operator
+constraint
+chip
+3v
+henry
+switching
+ling
+ranganathan
+capacitances
+scaling
+inequalities
+signals
+gammadel
+i2vfree
+1pf
+voper
+chappidi
+mesvs
+maxres
+inki
+stratakos
+i2vfix
+5ff
+multivoltage
+aream
+johnson
+designs
+v2
+qu
+roy
+circuits
+candidate
+ic
+allocated
+isolation
+unlimited
+taewhan
+demicheli
+v1
+jiang
+formulation
+multiplexers
+pf
+filter
+delays
+cong
+1994
+aided
+goodby
+accumulates
+precedence
+battery
+permitted
+summation
+gang
+transitive
+regions
+sample
+propagation
+destination
+unused
+fanout
+sunil
+midway
+5ns
+0v
+gate
+a3
+todaes
+oper
+hspice
+cheol
+pedram
+layout
+partitioning
+registers
+mani
+miodrag
+circuitry
+1996
+behavioral
+operating
+nominal
+efficiency
+pj
+potkonjak
+converters
+conv
+logic
+ranged
+searches
+specifies
+datapaths
+cplex
+increased
+arcs
+jason
+woo
+penalty
+swing
+microarchitectural
+bottleneck
+arc
+srivastava
+kwon
+exec
+fan
+ops
+latch
+costs
+objective
+switched
+simultaneous
+purdue
+trade
+architectural
+kumar
+minimization
+group
+dd
+binding
+permissions
+exercised
+vertices
+constraints
+benefit
+xu
+shanghai
+feasibility
+routing
+san
+publications
+bar
+load
+electronics
+supply voltage
+supply voltages
+nr nr
+level converter
+level conversions
+energy savings
+3 6
+low power
+multiple voltage
+multiple voltages
+3 0
+the voltage
+energy dissipation
+single supply
+latency constraints
+fixed to
+dc dc
+voltage v
+data path
+the energy
+dc converter
+multiple supply
+a voltage
+operation j
+the dfg
+no op
+voltage scaling
+single voltage
+schedule slack
+0 3
+of supply
+power supply
+variable voltage
+ilp formulation
+voltage s
+minimum single
+area penalties
+latency constraint
+circuit resources
+destination operations
+lower supply
+voltage group
+voltage selection
+by mover
+three supply
+each operation
+the datapath
+for low
+voltage for
+type m
+resource constraints
+adds 3
+voltage results
+been fixed
+sample period
+energy and
+the supply
+control steps
+constraint inequalities
+voltage design
+of voltages
+two supply
+converter efficiency
+circuit area
+clock period
+4 9
+voltages and
+level conversion
+9 2
+and level
+operating at
+a supply
+power supplies
+operation i
+mults nr
+to 5v
+voltages to
+new supply
+wang yingtao
+raje and
+already fixed
+area penalty
+gebotys 1995
+different voltages
+2econv and
+and sarrafzadeh
+henry selvaraj
+yingtao jiang
+jiang henry
+mults 3
+j 2econv
+and supply
+m s
+a datapath
+voltage of
+between regions
+maximum latency
+a m
+minimum voltage
+free operations
+voltage a
+voltage scheduling
+voltage reduction
+lower voltage
+voltage assignment
+candidate supply
+design automation
+power dissipation
+each operator
+dissipation of
+chandrakasan et
+voltage the
+ling wang
+operations are
+raghunathan and
+the converter
+and jha
+a dc
+load capacitance
+ij i
+1 9
+2 4
+allocated to
+all operations
+s indicates
+of circuit
+of resource
+sarrafzadeh 1995
+ilp constraint
+capacitance on
+uniform path
+p mohanty
+minimum supply
+ic layout
+particular supply
+voltage regions
+higher supply
+reduced supply
+energy estimate
+nested summation
+saraju p
+transitive no
+voltage result
+area estimate
+voltage search
+lat clks
+assign voltages
+voltage constraints
+junjuan xu
+1995 gebotys
+voltage assignments
+deming chen
+partition operations
+lower group
+converter designs
+optimal voltage
+of dfg
+roy 1996
+voltage processors
+area costs
+mover was
+the dcvs
+voltages could
+mohanty n
+latency resource
+voltage could
+candidate voltages
+unused slack
+datapath specifications
+voltage and
+3 3
+of operation
+on design
+assigned to
+a minimum
+to supply
+clock cycles
+resource and
+unlimited resource
+rabaey 1996
+power scheduling
+voltages in
+to dc
+n ranganathan
+pass gate
+datapath scheduling
+chen jason
+voltages the
+and roy
+voltages that
+of power
+3 5
+data flow
+one two
+scheduling and
+i l
+dc to
+simplified versions
+dynamically variable
+voltages are
+3 0 3
+fixed to a
+3 3 6
+2 3 3
+nr nr nr
+2 4 3
+for low power
+0 3 6
+to a voltage
+5 4 9
+single supply voltage
+a m s
+multiple supply voltages
+3 5 4
+4 3 6
+supply voltage v
+9 2 4
+4 3 0
+of type m
+lower supply voltage
+supply voltage s
+in the dfg
+1 9 2
+dc dc converter
+0 3 5
+to each operation
+destination operations are
+the level converter
+the energy dissipation
+of supply voltages
+3 6 0
+the supply voltage
+the data path
+of control steps
+a supply voltage
+energy and delay
+energy dissipation of
+3 3 0
+been fixed to
+and supply voltage
+mults nr nr
+minimum single supply
+ling wang yingtao
+raje and sarrafzadeh
+new supply voltage
+j 2econv and
+mults 3 0
+the voltage of
+to supply voltage
+yingtao jiang henry
+voltage v 2
+i j 2econv
+adds 3 5
+of operation j
+jiang henry selvaraj
+scheduling and partitioning
+register and level
+wang yingtao jiang
+number of control
+s indicates the
+chandrakasan et al
+x i l
+ij i j
+6 3 0
+raghunathan and jha
+the energy and
+on design automation
+dissipation of the
+for a minimum
+no op s
+the single supply
+clock cycle l
+at different voltages
+transitive no op
+the lower group
+and sarrafzadeh 1995
+the minimum single
+to a supply
+and assign voltages
+two supply voltages
+m s indicates
+or destination operations
+set of dfg
+logic level conversions
+dc to dc
+and destination operations
+assign voltages to
+and level converter
+the lower voltage
+of multiple supply
+multiple voltage design
+latency resource and
+higher supply voltage
+p mohanty n
+a lower supply
+deming chen jason
+three supply voltages
+for dynamically variable
+minimum supply voltage
+1995 gebotys 1995
+johnson and roy
+circuit resources required
+minimum voltage for
+resource and supply
+variable voltage processors
+ilp constraint inequalities
+operations are fixed
+supply voltage constraints
+to dc converter
+already fixed to
+using multiple supply
+saraju p mohanty
+lower voltage group
+of multiple voltages
+mohanty n ranganathan
+used by mover
+non uniform path
+of circuit resources
+dynamically variable voltage
+a particular supply
+and roy 1996
+particular supply voltage
+chen jason cong
+voltage v 1
+1 6 3
+ilp formulation is
+of supply voltage
+4 9 0
+supply voltages and
+and v b
+of resources of
+candidate supply voltages
+supply voltage results
+x j l
+voltages and level
+low power scheduling
+and power supply
+number of resources
+proceedings of the
+resources of type
+simplified versions of
+et al 1995
+v a and
+voltage for the
+3 6 12
+voltage of the
+a data flow
+use of multiple
+allocated to the
+type of resource
+source or destination
+assigned to v
+clock period and
+are fixed to
+synthesis for low
+under resource constraints
+two and three
+through use of
+behavioral synthesis for
+resources required to
+low power design
+a and v
+all operations are
+one two and
+of the datapath
+vlsi journal v
+the vlsi journal
+integration the vlsi
+needed at the
+each type of
+et al 1994
+on computer aided
+l l 1
+the energy of
+for each operation
+3 6 2
+are allocated to
+assigned to each
+1 l gammadel
+adds 2 3
+name lat clks
+latency lat i
+operations are allocated
+scheduling with voltage
+vs 1 supply
+energy savings was
+operations not already
+0 to 50
+datapath energy dissipation
+maximum latency constraint
+50 were observed
+level converter designs
+dc conversion efficiency
+26 adds 2
+constraint inequalities corresponding
+allocated to supply
+voltage processors proceedings
+each operation j
+power supply requirements
+energy minimization using

@@ -1,0 +1,600 @@
+cascade
+classifiers
+sigma0
+bayes
+c4
+classifier
+stacked
+ok
+generalization
+attributes
+cgbltree
+sigma1
+bias
+c5
+discriminant
+cgltree
+boosting
+bagging
+learning
+dtree
+naive
+dataset
+variance
+datasets
+discrim
+0boosting
+cgtree
+training
+cgbtree
+attribute
+constructive
+decision
+wolpert
+sigma2
+smiling
+monks
+correlation
+0boost
+breiman
+conquer
+trees
+tree
+arbiter
+predictions
+stacking
+5rnaive
+5rbayes
+learners
+classification
+brodley
+voting
+mahalanobis
+multivariate
+wins
+validation
+kohavi
+pazzani
+representational
+composition
+ionosphere
+base
+paired
+banding
+composite
+gama
+bayrbay
+5rdis
+bayrc4
+5rbay
+5rnaivebayes
+bayrdis
+ltree
+discrimrbayes
+uci
+hyper
+quinlan
+probability
+diabetes
+fahlman
+langley
+vs
+mcs
+cross
+1996
+tie
+ting
+stolfo
+combiner
+bayesian
+glass
+empirical
+meta
+coupling
+built
+votes
+utgoff
+german
+operator
+iris
+centroid
+divide
+pooled
+ali
+australian
+cluster
+round
+ensemble
+5rdiscrimrnaive
+5rdiscrbay
+disrbay
+5rbayrdisc
+disrc4
+5rdiscrim
+c4rbay
+5rc4
+liacc
+c5brbayes
+bayes_7
+sifiers
+bayesrdiscrim
+disrdis
+generalizer
+letter
+pruning
+sonar
+yn
+distributions
+cl
+combine
+lebiere
+satimage
+skalak
+insertion
+subproblems
+classes
+deeper
+brazdil
+hepatitis
+dougherty
+dnf
+1997
+ree
+alization
+induction
+predictor
+mainly
+schaffer
+classifying
+fit
+against
+1995
+sword
+wilcoxon
+nr
+combining
+1992
+locally
+tests
+fiers
+yes
+interpretability
+phi
+fold
+adult
+breast
+leaf
+vehicle
+promising
+rank
+81
+credit
+1995a
+replications
+language
+recursive
+neural
+maximizes
+merges
+domingos
+balloon
+covariance
+99
+rate
+combines
+clas
+thresholds
+1984
+balance
+98
+node
+chan
+cart
+stratified
+loose
+plausible
+distance
+72
+classify
+planes
+oblique
+cascade generalization
+local cascade
+new attributes
+naive bayes
+stacked generalization
+not ok
+of cascade
+base classifiers
+probability class
+c4 5
+linear discriminant
+decision tree
+bias variance
+constructive operator
+combining classifiers
+class distribution
+base classifier
+error rate
+sigma0 4
+bayes and
+c5 0boosting
+original attributes
+ok not
+the training
+level 1
+sigma0 6
+ok p
+training set
+class distributions
+instance space
+the error
+discriminant function
+a decision
+c5 0
+the bias
+cross validation
+decision trees
+level classifiers
+error correlation
+of classifiers
+the constructive
+the cascade
+sigma0 7
+using paired
+variance analysis
+machine learning
+sigma0 8
+boosting and
+class distance
+p ok
+sigma0 9
+sigma1 2
+p not
+the level
+the between
+t tests
+and conquer
+paired t
+divide and
+representational language
+generalization locally
+level learners
+by naive
+as constructive
+wolpert 1992
+variance decomposition
+c5 0boost
+composite models
+monks 2
+generalization is
+built at
+classifier is
+the base
+of bias
+sigma0 5
+level classifier
+classes distance
+the tree
+attributes are
+sigma0 3
+class i
+each example
+the dataset
+the instance
+cascade algorithm
+a cascade
+conquer algorithm
+classifiers the
+for combining
+and stacked
+constructive step
+c4 5rbayes
+cgbtree cgltree
+deeper nodes
+gamma sign
+multivariate trees
+cgltree cgbltree
+attributes built
+vs vs
+41 sigma0
+cgbltree c5
+learning times
+c4 5rnaive
+ting 1997
+0boost stacked
+a cgtree
+of stacking
+between classes
+and naive
+decision node
+sigma1 8
+constructive induction
+final model
+empirical evaluation
+the classifier
+new attribute
+multiple models
+the representational
+representation language
+of wins
+round round
+combine classifiers
+class predictions
+cascade correlation
+of stacked
+ali and
+the attribute
+classifiers and
+against its
+learning algorithm
+a divide
+of new
+language of
+variance but
+breiman 1996
+and bayes
+low variance
+1 attributes
+internal cross
+two classifiers
+average rank
+the probability
+compared against
+and c4
+generalization and
+high level
+all datasets
+of boosting
+within class
+sigma1 4
+of classes
+a classifier
+the examples
+final classification
+by c4
+and pazzani
+composition of
+example x
+this node
+to c4
+d 0
+low level
+classifiers is
+tree generated
+the naive
+german glass
+generalization using
+better worse
+c4 5rbay
+at statistically
+99 sigma0
+35 sigma0
+bayes c4
+any divide
+that cascade
+promising combinations
+cascade models
+pazzani 1996
+than bagging
+in ting
+cascade composition
+recursive bayesian
+any cgtree
+that naive
+c4 5rdis
+apply cascade
+boosting or
+bias component
+5rbay c4
+stacking generalization
+correlation architecture
+bayes the
+generalization improve
+than stacked
+bayes 7
+does cascade
+c4 5rnaivebayes
+attributes and
+training data
+a bias
+local cascade generalization
+of cascade generalization
+of new attributes
+the error rate
+probability class distribution
+the original attributes
+a decision tree
+of local cascade
+ok p not
+p not ok
+ok not ok
+the base classifiers
+the linear discriminant
+the instance space
+bias variance analysis
+the level 1
+a linear discriminant
+the new attributes
+the training set
+new attributes are
+not ok not
+using paired t
+the probability class
+error rate of
+paired t tests
+divide and conquer
+bias variance decomposition
+bayes and c4
+high level classifier
+the constructive operator
+cascade generalization locally
+cascade generalization is
+the between classes
+not ok p
+of bias variance
+by naive bayes
+as constructive operator
+between classes distance
+the representational language
+the naive bayes
+and naive bayes
+for combining classifiers
+the example x
+number of classes
+each example in
+the final model
+by the insertion
+of the error
+and conquer algorithm
+results of cascade
+sigma0 6 14
+examples at this
+probability class distributions
+error correlation between
+cgltree cgbltree c5
+cascade generalization in
+variance decomposition of
+class distribution for
+sigma0 4 13
+level 1 attributes
+within class distance
+low level classifiers
+c5 0boost stacked
+representational language of
+cgbltree c5 0boost
+internal cross validation
+the high level
+a divide and
+at each iteration
+compared against its
+of base classifiers
+the within class
+the base classifier
+ali and pazzani
+at this node
+set of models
+classifiers and the
+generated by c4
+each decision node
+to class i
+tree generated by
+are compared against
+a naive bayes
+of a divide
+for each example
+the decision tree
+of the base
+language of the
+extended by the
+against its components
+and pazzani 1996
+boosting and stacked
+does cascade generalization
+composition of classifiers
+any divide and
+cascade generalization to
+in ting 1997
+the error correlation
+when classifying a
+a gamma sign
+original attributes and
+increase of performance
+the examples at
+t tests with
+that naive bayes
+a bias variance
+significantly better worse
+attribute p ok
+c4 5rbay c4
+coupling of classifiers
+classifier is generated
+significance level set
+and c4 5rnaive
+new attributes these
+cascade correlation architecture
+most promising combinations
+vs vs vs
+behavior of cascade
+the bias component
+of naive bayes
+low variance but
+a probability class
+p ok p
+that one example
+apply cascade generalization
+sigma0 8 13
+composite models are
+at statistically significant
+of error correlation
+models are compared
+classifiers at each
+the constructive step
+cgbtree cgltree cgbltree
+and class predictions
+generalization improve performance
+41 sigma0 8
+sigma1 2 23
+new attributes built
+cascade generalization improve
+diabetes german glass
+the insertion of
+mainly due to
+number of new
+of the training
+the available attributes
+as level 1
+analysis of bias
+linear discriminant function
+attributes and class
+p e n
+to combine classifiers
+a base classifier
+of stacked generalization
+the representation language
+discriminant function is
+the model d
+is extended by
+in the training
+the most promising
+at the root
+the centroid of
+level 1 data
+naive bayes with
+of results of
+linear discriminant is
+a cascade algorithm
+the final classification
+summary of results
+iteration of a
+insertion of new
+at each decision
+a query point
+methods for combining
+with a decision
+naive bayes and
+to c4 5
+is mainly due
+the probability that
+to the reduction
+nearest neighbor classifiers
+probability that one
+bias and variance
+fit the data
+breiman et al
+a classifier is
+each iteration of
+c4 5 and
+zero one loss
+decision tree the
+the original data
+presents the results
+of c4 5
+it is computed
+decision tree is
+should be possible
+performs significantly better
+of the dataset
+that the error
+centroid of the
+of machine learning

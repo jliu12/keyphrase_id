@@ -1,0 +1,600 @@
+routing
+channels
+channel
+deadlock
+flit
+wormhole
+flits
+khaoua
+ould
+message
+adaptive
+virtual
+queue
+header
+dally
+duato
+interconnection
+dependency
+messages
+traffic
+deadlocked
+pinkston
+tolerant
+throughput
+subfunction
+networks
+chalasani
+rajendra
+fault
+cube
+methodologies
+multicomputers
+delay
+routed
+boppana
+contention
+belonging
+ary
+sarbazi
+azad
+suresh
+router
+destination
+network
+blocked
+supercomputing
+cubes
+destined
+mohamed
+geyong
+mackenzie
+sink
+jos
+head
+multiplexing
+deadlocks
+static
+cycles
+physical
+methodology
+multicomputer
+hypercube
+bandwidth
+timothy
+dependencies
+chita
+yalamanchili
+queues
+supplies
+configuration
+4096
+silla
+shahrabi
+schwiebert
+switched
+torus
+hypercubes
+binh
+dao
+saturation
+route
+nonempty
+cyclic
+faulty
+busy
+noticed
+federico
+sigarch
+warnakulasuriya
+sugath
+khonsari
+loucif
+minimals
+latency
+das
+loren
+sudhakar
+meshes
+jose
+dhabaleswar
+vien
+indirect
+euromicro
+aniruddha
+free
+tori
+node
+news
+rhodes
+chip
+panda
+sivasubramaniam
+acyclic
+intense
+1999
+multigraph
+vaidya
+reserved
+arcs
+hamid
+hypermeshes
+garcs
+mazin
+dongkook
+nicopoulos
+yousif
+jongman
+suet
+chrysostomos
+tail
+theorems
+mesh
+supplied
+heads
+routers
+clock
+occupy
+split
+schimmel
+kesavan
+almasi
+hyperswitch
+jayasimha
+jer
+21364
+jau
+gaughan
+bannon
+systolic
+connected
+duplicated
+sinks
+greece
+legal
+1995
+ieee
+multiplexed
+1994
+avoidance
+shubhendu
+noc
+multicomput
+13th
+holding
+anand
+ruoming
+webb
+status
+278
+accepting
+madrid
+forward
+irregular
+mega
+1158
+oblivious
+firstly
+mark
+topology
+options
+ferguson
+hing
+tse
+packet
+chips
+architecture
+1997
+rhode
+iff
+reception
+computers
+prasant
+vijaykrishnan
+275
+dimension
+spot
+nodes
+fabric
+mukherjee
+chiu
+virtual channels
+routing function
+deadlock free
+adaptive routing
+channel dependency
+routing algorithms
+ould khaoua
+message delay
+physical channel
+dependency graph
+adaptive algorithm
+c i
+of virtual
+virtual channel
+on parallel
+wormhole routing
+network size
+static algorithm
+the routing
+is deadlock
+flit at
+and distributed
+routing in
+free adaptive
+channels belonging
+parallel and
+in wormhole
+distributed systems
+m ould
+queue head
+the channels
+channels per
+the flit
+per physical
+ary n
+channel contention
+fault tolerant
+deadlocked configuration
+extended channel
+ieee transactions
+a channel
+systems v
+the adaptive
+wormhole networks
+mohamed ould
+interconnection networks
+r 1
+function r
+a message
+routing algorithm
+physical channels
+output channels
+k ary
+of channels
+c 1
+cyclic dependencies
+suresh chalasani
+free routing
+the queue
+the network
+n cube
+channel multiplexing
+network i
+average message
+static routing
+rajendra v
+v boppana
+routing subfunction
+belonging to
+n cubes
+the static
+jos duato
+a deadlocked
+nonempty queue
+channels are
+interconnection network
+selection function
+the channel
+cycles in
+tolerant routing
+channel bandwidth
+channels in
+flit generation
+three virtual
+mark pinkston
+timothy mark
+networks ieee
+transactions on
+generation rate
+channel c
+a routing
+flow control
+alternative paths
+subfunction r
+useful dimension
+4096 nodes
+sarbazi azad
+the queues
+new routing
+to c
+its destination
+an interconnection
+the flits
+the message
+be noticed
+a sink
+wormhole routed
+a nonempty
+is connected
+of deadlock
+c j
+the header
+a deadlock
+a header
+channel is
+channels less
+m mackenzie
+for 4096
+indirect dependency
+geyong min
+channel belonging
+networks proceedings
+for deadlock
+header flit
+tolerant wormhole
+adaptive wormhole
+jose duato
+channel flow
+no deadlock
+on supercomputing
+boppana suresh
+channel subset
+data flit
+by dally
+dally s
+dimension using
+of adaptive
+binary n
+dependency from
+design methodologies
+an adaptive
+a minimal
+destined to
+computers v
+supercomputing p
+for wormhole
+noticed that
+and forward
+header flits
+duato a
+wormhole switched
+on computers
+no cycles
+connected and
+routing functions
+route over
+chita r
+channels of
+let c
+for r
+head of
+virtual ones
+khaoua a
+fourth virtual
+reducing channel
+generation multicomputers
+message routing
+minimal path
+algorithm obtained
+each physical
+store and
+adaptive algorithms
+and message
+and adaptive
+with cyclic
+torus networks
+theoretical background
+the router
+fully adaptive
+and deadlock
+first flit
+queue heads
+deadlock 2
+increases throughput
+loren schwiebert
+no channels
+flits stored
+more virtual
+blocked messages
+chalasani rajendra
+federico silla
+a shahrabi
+the step
+v 10
+10 n
+r das
+messages are
+than c
+contention and
+message header
+channel dependency graph
+of virtual channels
+distributed systems v
+transactions on parallel
+and distributed systems
+routing function r
+on parallel and
+parallel and distributed
+the adaptive algorithm
+is deadlock free
+the static algorithm
+ieee transactions on
+the routing function
+adaptive routing algorithms
+deadlock free adaptive
+per physical channel
+channels belonging to
+number of virtual
+m ould khaoua
+channels per physical
+k ary n
+virtual channels per
+the channel dependency
+extended channel dependency
+flit at the
+belonging to c
+average message delay
+free adaptive routing
+interconnection network i
+the queue head
+mohamed ould khaoua
+deadlock free routing
+r 1 is
+a deadlocked configuration
+adaptive routing function
+networks ieee transactions
+a nonempty queue
+channel c i
+rajendra v boppana
+at the queue
+must be noticed
+fault tolerant routing
+to c 1
+the flit at
+three virtual channels
+the new routing
+timothy mark pinkston
+with a nonempty
+dependency graph for
+be noticed that
+of deadlock free
+graph for r
+new routing function
+than c i
+an interconnection network
+subfunction r 1
+routing subfunction r
+flit generation rate
+contention and message
+channel contention and
+ary n cubes
+1 is connected
+routing algorithms for
+c i has
+in the channel
+no cycles in
+set of channels
+store and forward
+deadlocked configuration for
+is no deadlock
+dependency from c
+the extended channel
+and message delay
+the step 2
+routing in wormhole
+the selection function
+in wormhole networks
+networks proceedings of
+the channels of
+the average message
+less than c
+virtual channel flow
+fault tolerant wormhole
+channel flow control
+and adaptive routing
+tolerant wormhole routing
+channels less than
+channel belonging to
+useful dimension using
+static algorithm with
+an indirect dependency
+all the flits
+channels of c
+the flit generation
+well with network
+proceedings of the
+conference on supercomputing
+ary n cube
+systems v 10
+each physical channel
+for deadlock free
+on computers v
+transactions on computers
+on supercomputing p
+a data flit
+physical channel is
+the queues for
+of output channels
+with cyclic dependencies
+with network size
+v boppana suresh
+network i is
+boppana suresh chalasani
+c i is
+the routing algorithms
+adaptive routing in
+cycles in the
+all the channels
+design of deadlock
+free routing algorithms
+cyclic dependencies between
+a routing subfunction
+from c i
+is connected and
+c i with
+chita r das
+channels in the
+c i to
+of network size
+use of virtual
+evaluated by simulation
+a minimal path
+ould khaoua a
+indirect dependency from
+for 4096 nodes
+destined to d
+the flits stored
+a channel subset
+message delay as
+nonempty queue such
+queues for channels
+no channels less
+are no channels
+a channel belonging
+for channels belonging
+fourth virtual channel
+suppose that there
+is not any
+i to c
+to c j
+a routing function
+v 10 n
+c 1 are
+it must be
+the design of
+as r 1
+acm symposium on
+of fault tolerant
+that r 1
+is not blocked
+configuration for r
+flits stored in
+chalasani rajendra v
+more virtual channels
+i and routing
+is a deadlocked
+given an interconnection
+in wormhole switched
+defines a routing
+the first flit
+four virtual channels
+suresh chalasani rajendra
+for the design
+computer architecture news
+acm sigarch computer
+architecture news v
+sigarch computer architecture
+for r 1
+the queue for
+of cycles in
+systems v 11
+of supercomputing v
+journal of supercomputing
+be a channel
+theoretical background for
+the theoretical background
+background for the
+a channel of
+cycles in its
+queue such that
+jos duato a
+to the channels
+r is deadlock
+wormhole networks ieee
+n 8 p
+c i be
+binary n cube
+n cube networks
+for the step
+a given interconnection

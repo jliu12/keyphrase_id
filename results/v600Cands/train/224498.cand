@@ -1,0 +1,600 @@
+compaction
+rts
+rt
+dsps
+nop
+dsp
+instruction
+ip
+register
+retargetable
+tmax
+formats
+asips
+nops
+tms320c25
+encoding
+registers
+vertical
+mimola
+m56000
+conflicts
+dd
+retargetability
+cs
+ar
+code
+ise
+tms320c2x
+scheduled
+macs
+parser
+instructions
+shuffling
+encodings
+scheduling
+od
+datapath
+generation
+compiler
+schedule
+agu
+rdg
+processor
+versions
+rtl
+dortmund
+tcc
+parallelism
+motorola
+br
+dfl
+ets
+synthesis
+asip
+effects
+horizontal
+multiply
+incompatibility
+compilation
+hdl
+vars
+compilers
+runtimes
+embedded
+extraction
+permit
+conflicting
+addressable
+processors
+microcode
+marwedel
+bi
+exploitation
+leupers
+hardly
+allocation
+bb
+dad
+dependencies
+programmable
+live
+ai
+bus
+record
+hardware
+cdfg
+codesyn
+agus
+eijk
+compacted
+format
+pruning
+cad
+mode
+dependency
+chess
+encoded
+ik
+solv
+heijligers
+timmer
+undesired
+target
+mobility
+pairwise
+conflict
+parsing
+constrained
+permits
+editable
+dspstone
+selection
+modelling
+weakly
+heuristic
+limitations
+peculiarities
+inequations
+contentions
+demands
+alap
+vlsi
+santos
+assignment
+architectures
+luiz
+blocks
+np
+busses
+capable
+anti
+jess
+van
+quality
+activated
+chained
+dos
+comprising
+european
+rainer
+inter
+stationary
+oscar
+compatible
+integrated
+semantical
+rigid
+compensation
+trees
+automation
+constraints
+strongly
+resource
+cycle
+spill
+formulation
+mutation
+cores
+accumulates
+storage
+exemplified
+critical
+house
+generator
+patterns
+yes
+extracted
+tree
+comparatively
+meets
+packed
+decrement
+wilson
+language
+iv
+externally
+heuristically
+acceptable
+contemporary
+gnu
+advance
+drivers
+eijnhoven
+dsp56k
+uture
+inition
+adsp210x
+mssq
+fnop
+consec
+utively
+56xxx
+augusli
+deac
+desig
+dsp56xxx
+leupersjmarwedel
+ecently
+mallett
+kifli
+code compaction
+code generation
+control step
+side effects
+rt r
+cs t
+r i
+vertical code
+partial instructions
+instruction formats
+of rts
+solution variables
+code selection
+time constraints
+set extraction
+tree parser
+an rt
+vertical side
+rt patterns
+for dsps
+control steps
+r j
+compaction is
+compaction techniques
+nop version
+inter rt
+dsp code
+a nop
+complex multiply
+generation for
+instruction set
+encoding conflicts
+alternative encodings
+based compaction
+step cs
+encoding versions
+rtl basic
+the ip
+target processor
+address register
+address assignment
+scheduled in
+register allocation
+basic block
+compaction problem
+encoding version
+mode register
+all rts
+each rt
+version shuffling
+ip based
+instruction format
+time constrained
+v variables
+expression trees
+local code
+processor specific
+actual lower
+constrained code
+code quality
+critical path
+for embedded
+alternative versions
+version e
+n variables
+retargetable code
+processor model
+in dsp
+machine program
+dd od
+addressable storage
+ar br
+rt dependencies
+ip formulation
+for ip
+for asips
+and register
+ip is
+each control
+compilation speed
+tight time
+ip solution
+exact code
+compaction technique
+dsps in
+the tms320c2x
+an rtl
+of instruction
+versions for
+potential parallelism
+encoded instruction
+language compilers
+the mimola
+the tms320c25
+ip model
+is scheduled
+of code
+be scheduled
+compaction the
+parallel schedule
+dependency relations
+during code
+machine code
+basic blocks
+path length
+e ik
+nop versions
+during compaction
+dsps for
+rt dependency
+register states
+bi ar
+weakly encoded
+horizontal instruction
+horizontal side
+dd gamma
+br ai
+heuristic compaction
+an rdg
+for compaction
+rdg is
+rt conflicts
+partial instruction
+strongly encoded
+alternative encoding
+extracted rt
+stationary macs
+rts are
+two rts
+standard dsps
+relevant size
+point to
+level language
+processor models
+permit to
+software synthesis
+single cycle
+gamma r
+compaction of
+integer programming
+all registers
+in presence
+exploitation of
+for horizontal
+search space
+data moves
+runtimes for
+multiply program
+mobility ranges
+for rt
+local compaction
+tcc is
+rts in
+parser generation
+register updates
+compaction by
+live value
+version selection
+rts to
+2 cs
+to tmax
+data anti
+j van
+generation techniques
+time constraint
+versions and
+selection and
+of alternative
+output dependent
+local techniques
+tree parsing
+selection register
+ai bi
+compaction in
+the instruction
+computation time
+embedded processors
+instruction level
+version for
+ik for
+conflicts are
+effects are
+quality in
+the compaction
+x s
+dsp algorithms
+compaction and
+demands for
+the rt
+constraints are
+code for
+and side
+no operations
+in parallel
+rt level
+a retargetable
+the critical
+optimal code
+instruction word
+compaction for
+rt r i
+instruction set extraction
+code generation for
+vertical side effects
+local code compaction
+control step cs
+step cs t
+each control step
+selection and register
+code selection and
+a nop version
+ip based compaction
+an rtl basic
+an rt r
+rtl basic block
+and register allocation
+time constrained code
+generation for embedded
+critical path length
+r i is
+retargetable code generation
+exact code compaction
+gamma r j
+code compaction is
+inter rt dependencies
+of code compaction
+tight time constraints
+code generation techniques
+the actual lower
+actual lower bound
+level language compilers
+the ip model
+for complex multiply
+the code compaction
+side effects are
+and r j
+be scheduled in
+high level language
+the critical path
+set of alternative
+for an rtl
+address register updates
+code selection register
+cs t 2
+encoded instruction formats
+inter rt conflicts
+versions for r
+each rt r
+the partial instructions
+horizontal side effects
+vertical code generation
+ar br ai
+e ik for
+code quality in
+path length l
+for each rt
+for ip based
+of alternative encodings
+of no operations
+control step t
+mode register states
+nop version for
+br ai bi
+complex multiply program
+of instruction formats
+code compaction techniques
+setting of n
+tree parser generation
+alternative versions and
+of relevant size
+vertical code for
+rt dependency graph
+of solution variables
+target processor model
+compaction is not
+t 2 cs
+dd gamma r
+in presence of
+for r i
+is scheduled in
+for embedded processors
+the target processor
+of computation time
+dsp code generation
+amounts of computation
+code compaction and
+constrained code compaction
+length l c
+of rts in
+in dsp code
+r i and
+in parallel to
+scheduled in parallel
+dependent on r
+selection register allocation
+the instruction word
+code for complex
+r i r
+a control step
+r j is
+number of control
+and side effects
+in each control
+on r i
+are not violated
+time constraints in
+side effects and
+of code generation
+of control steps
+in relation to
+instruction level parallelism
+of side effects
+be executed in
+symposium on system
+on system synthesis
+x s is
+register allocation and
+point to 2
+tcc is the
+versions and side
+ip formulation of
+the rt versions
+ip solution variables
+an rdg is
+that a nop
+during code compaction
+after address assignment
+j van eijk
+a retargetable manner
+the mutual dependence
+to 2 ai
+acceptable amounts of
+j m heijligers
+j is scheduled
+analyzed and is
+permit to tolerate
+required mode register
+ai point to
+feasible alternative to
+alternative encoding versions
+then a nop
+blocks of relevant
+language compilers for
+turn this demands
+versions and vertical
+compaction runtimes for
+nop is present
+ar point to
+during instruction set
+defined as dd
+1 br point
+auto increment decrement
+all rts assigned
+occurs in presence
+point to 3
+schedule cs such
+solution v vars
+asips an integrated
+van eijk j
+instruction word length
+for asips an
+to 3 bi
+alternative to heuristic
+on chip program
+if no nop
+step number t
+scheduled in control
+a j van
+for rt r
+weakly encoded instruction
+this demands for
+exploitation of potential
+exists an rt
+in the mimola
+rt r j
+side effect is
+rts assigned to
+extracted rt patterns
+code compaction in
+specific machine code
+processor specific machine
+general optimization goal
+must be activated
+santos m j
+r i od
+the tree parser
+since ip is
+used the interpretation
+and vertical side
+compaction is a
+solution variables are
+a version e
+heijligers c a
+for control step
+the ip solver
+system level cad
+two rts r
+an encoding version
+compaction techniques for
+point to 1

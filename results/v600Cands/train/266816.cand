@@ -1,0 +1,600 @@
+ooova
+registers
+register
+sle
+renaming
+trfd
+dyfesm
+instruction
+instructions
+bdna
+commit
+ph12
+latency
+regs
+spill
+rename
+flo52
+cycles
+port
+memory
+speedups
+tag
+hydro2d
+load
+arc2d
+vle
+nasa7
+espasa
+latencies
+physical
+scalar
+tomcatv
+swm256
+c3400
+su2cor
+reorder
+speedup
+fu1
+rf
+perf
+mateo
+valero
+tags
+spills
+idle
+fu2
+architectures
+roger
+mem
+late
+decode
+traffic
+specfp92
+pipeline
+exceptions
+elimination
+queues
+corbal
+buffer
+5speedup
+vl
+disambiguation
+dixie
+reference
+store
+stage
+architecture
+tecture
+superscalar
+supercomputers
+ref
+supercomputer
+programs
+architected
+fetch
+file
+archi
+units
+jesus
+functional
+stores
+pipelines
+hfu2
+rxbar
+dyfesm1
+nasa71
+flo521
+francisca
+arc2d1
+c3480
+trfd1
+precise
+slot
+cray
+club
+loads
+vect
+vpp500
+v3
+spilling
+ops
+benchmarks
+supercomputing
+machines
+bar
+krste
+ideal
+benchmark
+issue
+microarchitecture
+128
+vectorizable
+r10000
+released
+tagging
+degradation
+conflicts
+tolerated
+multimedia
+processors
+kozyrakis
+iram
+interrupts
+stride
+decoupled
+convex
+usage
+quintana
+ahead
+renamed
+overlapped
+patterson
+spilled
+vector
+slip
+wb
+logical
+ten
+sx
+microprocessors
+traps
+mask
+execution
+virtual
+slots
+microprocessor
+nec
+queue
+dependences
+sustain
+64
+cache
+ports
+commits
+requests
+dram
+ready
+unit
+executables
+producer
+chaining
+australia
+alu
+referencing
+bypass
+aggressive
+bandwidths
+availability
+pursued
+cycle
+caches
+functionally
+peak
+perfect
+bottlenecks
+8traffic
+dyfesm5001500
+beai96
+christoforos
+0429
+multivector
+asanovic
+dyfesm103050
+dyfesm2060
+hnsx
+dyfesm51525
+trfd15cycles
+dyfesm10ref
+memorywhen
+4086
+dyfesm0
+c34
+gerding
+aggravated
+ph9
+batten
+5cycles
+implementingdynamic
+supercomput
+3356
+vector registers
+the ooova
+physical vector
+vector register
+register renaming
+memory latency
+vector architectures
+load elimination
+physical registers
+memory port
+ooova machine
+the memory
+physical register
+vector instructions
+the reference
+memory latencies
+of order
+reference architecture
+issue rf
+commit model
+late commit
+in vector
+of vector
+order vector
+registers is
+reference machine
+vector load
+espasa mateo
+scalar registers
+reorder buffer
+50 cycles
+dynamic load
+out of
+hydro2d arc2d
+sle vle
+vector instruction
+precise exceptions
+roger espasa
+registers are
+su2cor tomcatv
+and trfd
+the reorder
+vector machines
+order issue
+swm256 hydro2d
+dyfesm and
+and dyfesm
+nasa7 su2cor
+ooova with
+flo52 nasa7
+tomcatv bdna
+bdna trfd
+traffic reduction
+register file
+the register
+arc2d flo52
+trfd and
+all vector
+functional units
+vector processor
+vector unit
+vector architecture
+idle memory
+mateo valero
+vector processors
+and renaming
+instruction issue
+early commit
+ph12 is
+and specfp92
+and ooova
+order execution
+registers the
+the vector
+a vector
+of out
+logical register
+implementing precise
+100 cycles
+benchmark programs
+the decode
+the rename
+for vector
+renaming is
+register is
+a memory
+the store
+latencies of
+34 9
+memory pipeline
+cycles where
+speedups over
+free list
+club and
+vector implementation
+for dyfesm
+regs issue
+order through
+vector store
+16 physical
+v regs
+four queues
+convex c3400
+a regs
+jesus corbal
+rename table
+corbal roger
+s regs
+ooova 128
+the sle
+reference archi
+of sle
+decoupled vector
+virtual memory
+with physical
+memory instruction
+instruction is
+the ten
+scalar processors
+of memory
+memory system
+compared against
+the late
+functional unit
+the out
+ten benchmark
+to spills
+specfp92 programs
+traditional vector
+buffer slot
+and register
+of precise
+execution cycles
+of cycles
+archi tecture
+main memory
+the tag
+for scalar
+cray 1
+tag is
+21 6
+vector machine
+all instructions
+against all
+speedup of
+the disambiguation
+speedups of
+the programs
+renaming and
+memory cycles
+its tag
+instruction queues
+more physical
+precise interrupts
+of physical
+total execution
+the cray
+decode stage
+mapping table
+scalar data
+in scalar
+an instruction
+vector length
+valero a
+a tag
+per cycle
+registers in
+the range
+registers each
+on supercomputing
+execution time
+instructions the
+perfect club
+1 72
+1 20
+set at
+registers and
+of 50
+by vector
+fetch issue
+load spill
+renaming version
+9 nasa71
+fu1 mem
+old mapping
+renaming out
+5speedup 9
+16 vector
+regs v
+latency problems
+9 trfd1
+in bdna
+range start
+range stage
+nasa71 21
+12 registers
+vector stride
+nec sx
+vpp500 parallel
+quintana jesus
+out of order
+physical vector registers
+the ooova machine
+the reference architecture
+dynamic load elimination
+of vector registers
+espasa mateo valero
+roger espasa mateo
+of the ooova
+the reference machine
+the memory port
+of order vector
+vector register file
+over the reference
+of order issue
+the reorder buffer
+vector registers are
+tomcatv bdna trfd
+the vector register
+su2cor tomcatv bdna
+flo52 nasa7 su2cor
+nasa7 su2cor tomcatv
+swm256 hydro2d arc2d
+arc2d flo52 nasa7
+the late commit
+hydro2d arc2d flo52
+of out of
+number of vector
+of the memory
+the ooova with
+dyfesm and trfd
+trfd and dyfesm
+late commit model
+21 6 9
+memory latencies of
+of precise exceptions
+of order execution
+the memory system
+and register renaming
+the memory pipeline
+speedups over the
+of 50 cycles
+cycles where the
+the out of
+memory latency of
+memory latency is
+16 physical vector
+physical vector register
+club and specfp92
+vector registers the
+and specfp92 programs
+the ten benchmark
+corbal roger espasa
+benefits of out
+memory instruction is
+more physical registers
+decoupled vector architectures
+order and renaming
+in vector architectures
+vector registers in
+performance in vector
+of cycles where
+scalar registers is
+in order through
+at 50 cycles
+reference archi tecture
+regs issue rf
+the early commit
+vector instructions the
+for scalar registers
+order vector architecture
+speedup of sle
+set at 50
+perfect club and
+register renaming is
+jesus corbal roger
+vector registers and
+of physical vector
+vector registers is
+ten benchmark programs
+ooova machine for
+a vector load
+the reference archi
+in vector machines
+the cray 1
+main memory latency
+latency of 50
+order issue and
+a memory latency
+compared against all
+due to spills
+high as 1
+for the reference
+physical register is
+a vector processor
+the free list
+total execution time
+register renaming and
+the physical register
+order execution and
+in scalar processors
+a physical register
+the decode stage
+mateo valero a
+be compared against
+conference on supercomputing
+of order and
+number of physical
+for different numbers
+of the ten
+in the memory
+in a vector
+symposium on microarchitecture
+limited number of
+number of cycles
+for sle vle
+vector registers as
+with physical registers
+machine for 3
+reorder buffer slot
+memory cycles is
+numbers of vector
+gap between theoretical
+24 1 72
+the ten programs
+between average and
+the logical register
+and real memory
+latencies of 1
+bdna is due
+average and real
+renaming provides a
+for trfd and
+register spilling the
+vector instructions and
+logical register is
+the vpp500 parallel
+francisca quintana jesus
+all vector instructions
+latency is set
+commit model the
+9 trfd1 5speedup
+extra physical registers
+free of exceptions
+and real performance
+has physical vector
+fu1 mem i
+the dependence stage
+in the reorder
+and renaming version
+the ooova over
+memory latency even
+new logical register
+vector architectures quantitative
+quintana jesus corbal
+architecture for different
+vector instruction issue
+execution and register
+model the store
+the four queues
+of order techniques
+the old mapping
+renaming and out
+fetch issue rf
+vector architectures and
+ooova over the
+between 1 10
+kozyrakis david patterson
+ooova machine has
+architectures quantitative analysis
+the range stage
+tolerate main memory
+be easily tolerated
+aggressive commit model
+3 9 arc2d1
+the dynamic out
+at the decode
+rename fetch issue
+with load elimination
+ability to bypass
+say physical register
+main memory latencies
+regs rename fetch
+vector load is
+numbers of physical
+in the ooova
+vector machines have
+explaining the gap
+with vector registers
+register a s
+to 64 does
+alu wb a
+vector architectures for
+in order vector
+at the rename
+16 vector registers
+in bdna is
+over the ooova
+at dynamically eliminating
+the traffic reduction

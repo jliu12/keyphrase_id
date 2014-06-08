@@ -1,0 +1,600 @@
+mpi
+tmpi
+mpich
+daemon
+collective
+cluster
+smp
+thread
+mpich1
+threads
+bu
+mpich2
+sender
+erent
+daemons
+message
+receiver
+threaded
+mpi_bcast
+netd
+di
+communication
+ws
+clusters
+er
+recv
+mpi_allreduce
+mpi_reduce
+intra
+send
+messages
+pong
+ering
+dat
+nodes
+shared
+bcast
+ping
+spanning
+node
+synchronization
+channels
+device
+mpi_bsend
+big_size
+adi
+tcp
+layer
+copying
+rotate
+ge
+eager
+inter
+primitives
+mm
+multiprogrammed
+devices
+mpi_recv
+smms
+tsd
+request
+receive
+linux
+queue
+abstraction
+got
+os
+buf
+processes
+pthread
+interface
+outstanding
+req
+bytes
+memory
+erences
+trip
+network
+header
+saving
+collectives
+lingkun
+lpvm
+communicators
+combo
+acir
+magpie
+tpvm
+micro
+benchmark
+hierarchy
+incoming
+sockets
+protocol
+lightweight
+transfer
+ectiveness
+munication
+benchmarks
+metadata
+threading
+remote
+bonding
+spinning
+itives
+aware
+dedicated
+cient
+blocked
+channel
+runtime
+separation
+root
+intermediate
+fm
+kilo
+contentions
+redhat
+communicate
+pushing
+mflop
+scattered
+safe
+macro
+sharing
+lam
+rank
+ready
+portability
+2mb
+prim
+resource
+responsible
+manages
+sgi
+deallocate
+bandwidth
+scalability
+gain
+adaptive
+op
+optimize
+comes
+deadlock
+setup
+smps
+payload
+unexpected
+connec
+transfered
+couple
+broadcast
+basically
+fat
+sync
+push
+targeted
+requests
+pipelining
+synchronized
+configure
+socket
+polling
+passing
+similarities
+facilities
+operating
+machines
+anomaly
+pipe
+api
+optimizations
+programs
+msg
+port
+chu
+deliver
+round
+1412
+mpi_thread_serialized
+25100300500700900number
+benchmarkperformance
+0082666
+messanes
+canjun
+weirong
+mpi_thread_single
+lsc
+200mbps
+fastcomm
+mpi_any_source
+combo16125322242856656622204102462054
+distr
+100kbytes
+yanwei
+trollius
+19914
+0086061
+wildcard
+150mflop
+mpi nodes
+cluster node
+cluster nodes
+collective communication
+in tmpi
+mpi node
+based mpi
+point communication
+threaded mpi
+mpi execution
+shared memory
+to point
+thread based
+of mpi
+di erent
+point to
+smp clusters
+the mpi
+mpi system
+the sender
+and mpich
+bu er
+way send
+tmpi mpich
+same cluster
+smp cluster
+cluster environment
+erent cluster
+mpi systems
+message tmpi
+a thread
+mpi implementation
+send recv
+nodes on
+communication channels
+for threaded
+mpi programs
+process based
+each mpi
+message size
+ws ws
+an mpi
+er space
+two mpi
+bu ering
+device abstraction
+threads on
+data copying
+the receiver
+receiver side
+on di
+and collective
+ping pong
+mpi program
+network device
+daemon processes
+the daemon
+using threads
+of mpich
+tmpi the
+of tmpi
+daemon thread
+inter cluster
+hierarchy aware
+on smp
+address space
+4 mpi
+mpich s
+mpich1 and
+mpich with
+dat r
+for mpich
+network edges
+tmpi and
+in mpich
+that tmpi
+for mpi
+mpi communication
+three phase
+space sharing
+among threads
+the message
+intra cluster
+execution on
+collective and
+for collective
+communication primitives
+transfer rate
+an smp
+a message
+spanning tree
+collective operations
+thread safe
+mpich without
+mainly comes
+three mpi
+daemon threads
+big_size type
+message handle
+buf big_size
+handle will
+adi layer
+mpich figure
+same rotate
+memory mpich1
+mpich which
+side daemon
+of point
+synchronization among
+with shared
+performance gain
+node point
+driven synchronization
+without shared
+intermediate data
+in mpi
+and thread
+the mpich
+phase protocol
+node mpi
+long message
+the daemons
+short message
+mpi collective
+each cluster
+two level
+rate b
+level communication
+the communication
+node communication
+for smp
+communication devices
+send request
+one way
+nodes involved
+a cluster
+memory machines
+of collective
+short messages
+large messages
+tmpi is
+among mpi
+blocked send
+systems tmpi
+eager pushing
+linux smp
+scale smp
+over mpich
+receive daemon
+between mpi
+macro benchmark
+r got
+internal bu
+got dat
+mpich design
+tmpi mpich1
+tmpi to
+mpich1 mpich2
+op time
+recv performance
+pushing protocol
+mpi fm
+mpich system
+tmpi has
+eager push
+tmpi s
+mpich for
+execute mpi
+mpich performance
+s collective
+mpich is
+memory mpich2
+saving from
+system tmpi
+mpi_bcast or
+mpich are
+pong performance
+mpi start
+our thread
+clusters our
+a spanning
+the saving
+message header
+and point
+event driven
+4 case
+non blocked
+relevant processes
+fast synchronization
+communication design
+a mpi
+unexpected message
+scattered on
+advantage of
+inter process
+on multiprogrammed
+mpi s
+mpi point
+each smp
+node distribution
+point to point
+to point communication
+mpi nodes on
+same cluster node
+threaded mpi execution
+thread based mpi
+of mpi nodes
+the mpi nodes
+one way send
+way send recv
+based mpi system
+the same cluster
+a thread based
+for threaded mpi
+mpi execution on
+each mpi node
+inter cluster node
+all the mpi
+di erent cluster
+on di erent
+network device abstraction
+process based mpi
+and collective communication
+bu er space
+erent cluster nodes
+number of mpi
+the receiver side
+ws ws ws
+two mpi nodes
+a process based
+intra cluster node
+on smp clusters
+address space sharing
+each cluster node
+of point to
+point and collective
+an smp cluster
+an mpi program
+point communication channels
+mpich with shared
+collective and point
+the message size
+on the same
+in an smp
+collective communication primitives
+nodes on the
+with shared memory
+to point and
+cluster node communication
+mainly comes from
+smp cluster environment
+the 1 4
+shared memory mpich1
+event driven synchronization
+tmpi mpich figure
+mpich1 and mpich
+for two mpi
+without shared memory
+of cluster nodes
+three mpi systems
+transfer rate b
+three phase protocol
+intermediate data copying
+cluster node point
+handle will be
+long message tmpi
+memory mpich1 and
+collective communication channels
+message tmpi mpich
+based mpi implementation
+short message tmpi
+buf big_size type
+execution on smp
+and mpich without
+mpi node to
+shared memory machines
+for smp clusters
+on each cluster
+space sharing and
+for collective communication
+node point to
+nodes on di
+in the mpi
+for short messages
+and point to
+execution on shared
+a spanning tree
+on the receiver
+of a thread
+among threads on
+to execute mpi
+cluster node mpi
+between mpi nodes
+two level communication
+mpi nodes to
+tmpi mpich1 mpich2
+an mpi node
+thread based system
+non blocked send
+execute mpi programs
+eager pushing protocol
+mpi node has
+mpi s collective
+cluster nodes as
+the ping pong
+smp clusters our
+mpi system tmpi
+of mpich are
+based mpi systems
+a cluster environment
+separation of point
+our thread based
+s collective communication
+r got dat
+cluster nodes involved
+large scale smp
+er space available
+unexpected message queue
+ping pong performance
+advantage over mpich
+threaded mpi implementation
+dat r got
+tmpi and mpich
+cluster node and
+mpich without shared
+send recv performance
+mpi nodes we
+of our thread
+shared memory mpich2
+among mpi nodes
+threads to execute
+cluster node the
+internal bu er
+node mpi node
+in tmpi the
+1 4 case
+message size is
+on a cluster
+when the message
+how to optimize
+threads on the
+the sender side
+point communication the
+a thread safe
+of collective communication
+using threads to
+number of cluster
+shared memory for
+performance for two
+mpi point to
+of shared memory
+the actual data
+the network device
+for large messages
+the two level
+a message between
+threads on a
+the shared memory
+on shared memory
+when the receiver
+both point to
+is di erent
+have to go
+the average time
+be responsible for
+size is small
+as we can
+node to a
+di erent from
+the point to
+same rotate same
+communication in tmpi
+advantages of tmpi
+such as tmpi
+ping pong long
+mpi nodes also
+mpi_recv buf big_size
+nodes we compare
+to optimize mpi
+both tmpi and
+cluster node ping
+and thread synchronization
+of tmpi to
+figure 1 mpich
+high level mpi
+root for a
+collective communication among
+block the sender
+cluster node will
+4 performance is
+a message handle
+scheme for threaded
+fast synchronization among
+process inter process
+bu ering and
+or mpi_reduce operation
+a single mpi
+collective mpi point
+in tmpi it
+any thread based

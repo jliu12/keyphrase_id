@@ -1,0 +1,375 @@
+ioa
+automaton
+ballot
+daikon
+invariants
+paxos
+chooseval
+cons
+interpreter
+consensus
+assignval
+internaldecide
+specication
+lp
+automata
+verication
+actions
+abstain
+init
+makeballot
+ndr
+ballots
+prover
+toolkit
+thenodes
+simulation
+internal
+executions
+paired
+larch
+action
+detector
+val
+vote
+nondeterminism
+eort
+voted
+suite
+purported
+od
+methodology
+quorums
+invariant
+lemmas
+verifying
+human
+lockstep
+witness
+scripts
+block
+forward
+failed
+unsound
+proofs
+veried
+provers
+correctness
+behaviors
+simulated
+dilsun
+abstained
+lsl
+aballot
+mocha
+tlc
+kcd
+fail
+nite
+imple
+mentation
+corrected
+specications
+succeeded
+signature
+decide
+guidance
+veri
+proving
+ignore
+execution
+smv
+prelude
+supply
+assist
+traces
+tomata
+correspondence
+formulating
+dead
+discover
+toolset
+denition
+dynamically
+se
+auxiliary
+unexpected
+tools
+trace
+checking
+departures
+reveal
+external
+pre
+checked
+transition
+specializing
+resume
+bookkeeping
+initiated
+fragment
+checks
+speci
+reported
+validity
+provable
+nil
+nd
+legal
+eects
+automating
+au
+formal
+peppered
+explicating
+lengthier
+rintanen
+falsied
+prompting
+solidify
+ghg
+abstaining
+ahm
+multisorted
+reies
+veriers
+cutions
+buttress
+ecutions
+imaginative
+parliament
+inductiveness
+reporting
+attempting
+node
+organizing
+deductive
+assistance
+existential
+transitions
+style
+program
+soundness
+denes
+detected
+freeing
+asml
+transcription
+eters
+investing
+approval
+hindrance
+automates
+rst
+examining
+imperative
+reachable
+candidate
+innite
+cope
+detection
+implements
+programmers
+succeed
+simulates
+theories
+obscuring
+axiomatize
+fate
+postulate
+simulation relation
+b ballot
+v value
+proof block
+ioa interpreter
+o automaton
+forward simulation
+level automaton
+simulated execution
+output decide
+input fail
+ioa toolkit
+step correspondence
+dynamic invariant
+invariant detector
+internal chooseval
+automaton global1
+automaton cons
+specication automaton
+start state
+ioa language
+reported properties
+internal actions
+test suite
+paxos algorithm
+consensus value
+set ballot
+paired execution
+assignval b
+ballot ignore
+machine checked
+internaldecide b
+input init
+b pre
+chooseval v
+v pre
+two automata
+theorem prover
+case study
+invariant detection
+node v
+node b
+internal internaldecide
+re internal
+internal start
+implementation automaton
+l se
+checked proof
+makeballot b
+ballot v
+ndr program
+internal assignval
+denition 1
+program properties
+simulation relations
+verifying distributed
+execution fragment
+v representing
+value v
+o automata
+daikon invariant
+external actions
+formal verication
+automaton model
+distributed algorithms
+imple mentation
+b set
+theorem provers
+state systems
+model checking
+potential problems
+theorem proving
+nite state
+execution based
+signature input
+invariants inv1
+predicate relating
+b val
+failed failed
+human guidance
+candidate simulation
+chooseval global1
+value internal
+ndr programs
+decide action
+via simulated
+start thenodes
+daikon reported
+human eort
+machine veried
+satises property
+imperative style
+node init
+value output
+detected invariants
+simulates execution
+lp proof
+daikon provide
+purported simulation
+block contains
+larch prover
+re chooseval
+interpreter simulates
+re output
+re input
+automaton paxos
+execution provides
+v od
+internal makeballot
+internal vote
+using lp
+makeballot abstain
+fully characterizes
+veried proof
+auxiliary invariants
+val b
+internal abstain
+node v value
+f i re
+forward simulation relation
+ignore for internal
+decide i v
+init i v
+dynamic invariant detection
+internal chooseval v
+decide i node
+ballot v value
+internal assignval b
+machine checked proof
+internaldecide b ballot
+b set ballot
+init i node
+e l se
+internal internaldecide b
+node b set
+fail i node
+b ballot v
+re internal chooseval
+o automaton model
+assignval b ballot
+verifying distributed algorithms
+daikon invariant detector
+proof of correctness
+chooseval global1 val
+invariants and simulation
+b ballot ignore
+prelude to formal
+high level automaton
+consensus in ioa
+automata in ioa
+abstain i node
+vote i node
+low level automaton
+pre output decide
+daikon s output
+implementation of consensus
+machine veried proof
+v value internal
+invariants and lemmas
+b pre internal
+signature input fail
+fail i failed
+makeballot b ballot
+re output decide
+purported simulation relation
+dynamically detected invariants
+ballot in global1
+interpreter simulates execution
+value output decide
+paired execution provides
+formulating and checking
+cons figure 1
+v value output
+val b val
+internal makeballot b
+internal chooseval global1
+assignval and internaldecide
+set ballot ignore
+reported properties may
+suite fully characterizes
+preserve the simulation
+via simulated execution
+se else f
+l se else
+resume by specializing
+relation satises property
+internal start thenodes
+value do f
+test suite fully
+step in verifying
+execution based techniques
+abstain and vote
+candidate simulation relation
+node b ballot
+simulation relation satises
+f a b

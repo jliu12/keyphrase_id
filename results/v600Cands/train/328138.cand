@@ -1,0 +1,600 @@
+unreduced
+1d
+splitting
+jacobi
+spectral
+2d
+sor
+reynolds
+seidel
+gridpoints
+radius
+splittings
+gauss
+cd
+di
+ordering
+fg
+thm
+matrix
+matrices
+block
+cyclic
+plane
+consistently
+solver
+convection
+elman
+centered
+varah
+upwind
+greif
+mesh
+cients
+tridiagonal
+erence
+golub
+iteration
+coe
+radii
+gs
+proposition
+sparsity
+2ce
+2bd
+2de
+diagonal
+usion
+symmetrized
+cyclically
+hb
+erences
+symmetrizer
+gridpoint
+convergence
+young
+superiority
+pde
+inner
+nonzeros
+15n
+sp
+partitioning
+planes
+fig
+taylor
+ordered
+unknowns
+2n
+relaxation
+superdiagonal
+7n
+solvers
+adjoint
+varga
+cient
+stationary
+blocks
+diagonally
+convective
+subdiagonal
+buzbee
+hageman
+iterative
+elliptic
+poisson
+discretization
+partitionings
+grid
+nonsymmetric
+floating
+256
+pentadiagonal
+expansion
+evident
+arising
+sects
+strategies
+uzawa
+lexicographic
+inexact
+red
+mb
+uppermost
+attach
+approximately
+james
+molecule
+eigenvalue
+iterations
+nonzero
+erent
+stanford
+schemes
+converges
+ectively
+numerically
+orderings
+rates
+dominant
+sect
+768
+sl
+tight
+chen
+hermitian
+concerned
+3d
+fourier
+asymptotic
+spectra
+rise
+symmetrizes
+9fig
+usive
+hockney
+befg
+approximately9
+31771
+192123252729316
+strako
+inverting
+ting
+departure
+depicted
+patterns
+irregular
+dominated
+operator
+boundary
+3030
+symmet
+2cf
+simax
+symmetrizability
+dirichlet
+magnitude
+preconditioned
+cheaper
+bounds
+phenomenon
+entries
+numerical
+15c
+planewise
+1z4
+1030
+inital
+buneman
+bcde
+sparse
+sign
+submatrix
+matlab
+propositions
+examined
+rowwise
+gustafsson
+1054
+diagonalizations
+concus
+nomenon
+frankel
+12n
+1052
+examine
+diffusion
+faster
+odd
+black
+stands
+1058
+v6t
+quoting
+055
+colors
+reduction
+cult
+similarity
+analytically
+10n
+the unreduced
+1d splitting
+unreduced system
+the reduced
+2d splitting
+iteration matrix
+two plane
+plane ordering
+block jacobi
+consistently ordered
+spectral radius
+mesh reynolds
+be cd
+the 1d
+reduced system
+cd fg
+cyclic reduction
+reduced matrix
+property a
+the spectral
+fg 0
+splitting for
+reynolds numbers
+gauss seidel
+jacobi scheme
+line ordering
+the block
+two line
+radius of
+centered di
+the 2d
+matrix associated
+ordering strategies
+23 thm
+have property
+spectral radii
+cyclically reduced
+and golub
+seidel and
+if be
+1d partitioning
+splitting is
+block gauss
+the matrix
+jacobi iteration
+elman and
+to 1d
+block tridiagonal
+coe cients
+block sor
+di erence
+pde coe
+inner system
+is consistently
+the gauss
+sor scheme
+optimal relaxation
+iteration matrices
+young s
+matrix is
+james varah
+of cyclic
+seidel iteration
+sparsity patterns
+computational work
+the matrices
+relaxation parameter
+thm 4
+has property
+reduced solver
+ordered relative
+chen greif
+and sor
+the iteration
+the sor
+3 floating
+greif and
+s analysis
+associated with
+solver is
+on convergence
+di erences
+and 2d
+convection di
+of gridpoints
+ordering strategy
+is block
+proposition 5
+block splittings
+2ce e
+2d solver
+1d solver
+di usion
+relative to
+d 1
+more e
+the inner
+the bound
+in solving
+taylor expansion
+and james
+matrices associated
+in fig
+of nonzeros
+unreduced systems
+for cyclically
+nonzeros of
+inner solve
+of mesh
+bound for
+convergence rates
+the sparsity
+stationary methods
+2n 2n
+dimensional convection
+two ordering
+superiority of
+the superiority
+sor iteration
+minimal eigenvalue
+the unknowns
+self adjoint
+in 14
+erences are
+point operations
+e cient
+if block
+the pde
+splitting and
+2 2de
+block consistently
+golub s
+seidel scheme
+7n 3
+2d splittings
+2de 2ce
+15n 3
+splittings are
+matrix and
+proposition 3
+reduced and
+the jacobi
+i j
+matrices are
+work involved
+1d and
+thm 3
+non self
+a relative
+iterative methods
+upwind di
+partitioning proof
+hb is
+reduced grid
+block property
+dominant m
+two splittings
+2n blocks
+the superdiagonal
+unreduced solver
+if centered
+erence operator
+ordered matrices
+near property
+solving the
+the mesh
+is approximately
+radius is
+block diagonal
+block stationary
+convective terms
+erence discretization
+not consistently
+sor schemes
+one step
+n c
+diagonally dominant
+patterns of
+linear systems
+systems arising
+matrix can
+matrix which
+256 256
+the symmetrized
+matrix into
+arising from
+scheme associated
+ordered we
+the subdiagonal
+matrix satisfies
+blocks of
+case be
+convection dominated
+the convective
+theorem 3
+floating point
+see 14
+than 1
+lines correspond
+with 2d
+the unreduced system
+two plane ordering
+the reduced system
+mesh reynolds numbers
+cd fg 0
+be cd fg
+the spectral radius
+the 1d splitting
+the block jacobi
+spectral radius of
+splitting for the
+for the reduced
+the reduced matrix
+radius of the
+the two plane
+the 2d splitting
+two line ordering
+for the unreduced
+1d splitting for
+matrix associated with
+have property a
+block jacobi scheme
+if be cd
+of cyclic reduction
+young s analysis
+iteration matrix associated
+is consistently ordered
+jacobi iteration matrix
+of the block
+the iteration matrix
+the gauss seidel
+n 2 2
+gauss seidel and
+the bound for
+block gauss seidel
+of the reduced
+elman and golub
+not have property
+2d splitting for
+of mesh reynolds
+seidel iteration matrix
+property a relative
+the two line
+bounds on convergence
+pde coe cients
+the inner system
+step of cyclic
+the block gauss
+seidel and sor
+optimal relaxation parameter
+for the 1d
+a relative to
+the spectral radii
+fg 0 then
+greif and james
+the mesh reynolds
+and james varah
+property a and
+has property a
+relative to 1d
+gauss seidel iteration
+block jacobi iteration
+sparsity patterns of
+in solving the
+associated with two
+the reduced and
+c in n
+the reduced solver
+consistently ordered relative
+chen greif and
+ordered relative to
+for the two
+s i j
+on convergence rates
+3 floating point
+the optimal relaxation
+centered di erences
+more e cient
+for the block
+convection di usion
+s j j
+superiority of the
+associated with the
+of the iteration
+2ce e 2
+the 1d solver
+with the 1d
+23 thm 4
+to 1d partitioning
+with two plane
+2d splitting is
+1d splitting is
+of nonzeros of
+the 2d solver
+one step of
+number of nonzeros
+patterns of the
+matrices associated with
+methods for cyclically
+three dimensional convection
+involved in solving
+unreduced system and
+property a for
+for cyclically reduced
+reduced system and
+the pde coe
+erences are used
+both the reduced
+the block sor
+of the unreduced
+unreduced system is
+two ordering strategies
+2 2 n
+is of size
+the superiority of
+reduced matrix is
+matrix is block
+centered di erence
+spectral radius is
+is block tridiagonal
+of computational work
+is more e
+that the spectral
+of the matrix
+floating point operations
+the minimal eigenvalue
+non self adjoint
+iterative methods for
+bound for the
+the sparsity patterns
+reduced system is
+di erences are
+with the 2d
+of the gauss
+d 1 is
+1d and 2d
+see 14 for
+work involved in
+reduced matrix associated
+1d solver is
+block sor scheme
+consistently ordered matrices
+reynolds numbers is
+e 2 2de
+block consistently ordered
+not consistently ordered
+over the unreduced
+with 2d splitting
+b s then
+2de 2ce e
+gauss seidel scheme
+to two plane
+block s i
+14 for specification
+and sor schemes
+a two plane
+reduced system over
+and golub s
+case be cd
+planes of gridpoints
+and 2d splittings
+consistently ordered we
+23 thm 3
+theorem 3 6
+the matrix into
+in theorem 3
+for the 2d
+taylor expansion of
+for the spectral
+matrix and the
+the sor scheme
+matrix is consistently
+sor iteration matrix
+and 2d splitting
+the reduced grid
+the unreduced systems
+iteration matrix is
+cyclic reduction for
+associated with 2d
+the case be
+plane ordering and
+the two splittings
+2n 2n blocks
+reynolds numbers are
+diagonally dominant m
+the convective terms
+iteration matrix of
+block property a
+computational work per
+di erence operator
+the sor iteration
+if centered di
+solving the inner
+near property a
+1d splitting and
+and the unreduced
+the unreduced solver
+systems arising from
+fig 2 1
+matrix can be

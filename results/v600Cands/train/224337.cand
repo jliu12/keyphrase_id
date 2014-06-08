@@ -1,0 +1,600 @@
+interprocedural
+parallelization
+privatization
+array
+suif
+parallelizing
+spec77
+analyses
+loops
+appbt
+coverage
+compiler
+parallelizable
+nas
+parallelism
+loop
+scalar
+embar
+trfd
+privatizable
+parallelized
+bdna
+mdljdp2
+spec92fp
+buk
+speedup
+ocean
+cgm
+qcd
+cloning
+mdg
+adm
+compilers
+appsp
+fftpde
+dependence
+benchmark
+arc2d
+granularity
+parallelize
+dyfesm
+programs
+doduc
+inlining
+reductions
+ora
+symbolic
+rinard
+mgrid
+suites
+advanced
+flow
+applu
+perfect
+multiprocessors
+hall
+exposedread
+sungdo
+tomcatv
+speedups
+diniz
+summaries
+arrays
+polaris
+mary
+recognition
+monica
+wave5
+baseline
+outer
+fiat
+intraprocedural
+dependences
+accesses
+pips
+synchronization
+liao
+measurements
+fortran
+grain
+byoungro
+pedro
+shih
+subscript
+automatic
+1002
+procedural
+ze
+subscripts
+benchmarks
+notices
+moon
+lam
+parallelizer
+precision
+sigplan
+calling
+saman
+amarasinghe
+region
+pass
+affine
+selective
+effectiveness
+coarse
+reshapes
+mustwrite
+mrsij
+locality
+jennifer
+transformations
+anderson
+su2cor
+murphy
+empirical
+edouard
+bugnion
+mg3d
+reduction
+insensitive
+grained
+lines
+wei
+martin
+rugina
+privatized
+saltz
+lelization
+privatize
+heidi
+taylan
+yuan
+locates
+fine
+parallelizers
+nasa7
+unrealizable
+toplas
+precise
+ziegler
+suite
+pdes
+parallelizes
+recognize
+read
+barrier
+nasa
+recognizing
+sparse
+indices
+referenced
+iterations
+safe
+track
+aug
+numbering
+sensitive
+200mhz
+enclosing
+codes
+spice
+procedures
+sgi
+radu
+padua
+scalars
+overwhelm
+nested
+boundaries
+selectively
+regions
+stanford
+callers
+inner
+inlined
+overviews
+manish
+static
+private
+eliminating
+hydro2d
+mahmut
+locating
+propagating
+compile
+semantical
+supercomputing
+brian
+kandemir
+pervasive
+replication
+paral
+hwang
+bottom
+challenge
+induction
+joel
+ms
+upwards
+directives
+parallelization analysis
+array analyses
+array privatization
+interprocedural analysis
+advanced array
+array analysis
+reduction recognition
+automatic parallelization
+interprocedural array
+data flow
+privatization and
+the interprocedural
+array data
+data dependence
+interprocedural parallelization
+the advanced
+dependence analysis
+flow analysis
+mary w
+scalar analysis
+w hall
+parallelizing compilers
+the programs
+symbolic analysis
+interprocedural scalar
+in suif
+an interprocedural
+procedure cloning
+array reduction
+parallelism coverage
+the array
+the loop
+parallelization of
+benchmark suites
+parallelization system
+the parallelization
+of interprocedural
+of parallelism
+scalar parallelization
+full inlining
+bdna dyfesm
+fftpde mgrid
+selective procedure
+of array
+flow sensitive
+the compiler
+region based
+scalar variables
+calling context
+ffl find
+baseline system
+monica s
+shih wei
+wei liao
+and reduction
+each procedure
+dyfesm arc2d
+arc2d trfd
+array reductions
+mgrid tomcatv
+spec77 appbt
+buk cgm
+sungdo moon
+embar fftpde
+cgm embar
+is parallelizable
+applu appsp
+appbt applu
+rinard pedro
+mdljdp2 wave5
+interprocedural reduction
+appsp buk
+tomcatv ora
+ora doduc
+doduc mdljdp2
+based analysis
+s lam
+these programs
+analysis is
+the program
+outer loop
+our system
+procedure boundaries
+induction variable
+coverage is
+granularity of
+perfect benchmark
+c rinard
+line loop
+static measurements
+dynamic measurements
+analysis interprocedural
+qcd mdg
+trfd spec77
+privatizable arrays
+track bdna
+mdg track
+pedro c
+down pass
+c diniz
+analysis techniques
+flow insensitive
+parallelism in
+be parallelizable
+analysis array
+variable recognition
+coarse grain
+loops that
+the suif
+a loop
+to parallelize
+martin c
+parallel speedup
+of parallelizing
+parallel loops
+the baseline
+bottom up
+perfect benchmarks
+array variables
+subscript expressions
+saman p
+wave5 ocean
+p amarasinghe
+array ze
+and spec77
+subscript variables
+reduction transformations
+increased granularity
+m anderson
+scalar symbolic
+eliminating barrier
+reduction array
+privatization with
+interprocedural framework
+run time
+notices v
+sigplan notices
+loops containing
+and loop
+array subscripts
+loop indices
+effectiveness of
+the benchmark
+the parallelism
+acm sigplan
+suif compiler
+high coverage
+privatization is
+can parallelize
+jennifer m
+advanced analyses
+r murphy
+above 80
+advanced analysis
+adm qcd
+time parallelization
+interprocedural analyses
+byoungro so
+parallelizing compiler
+the analysis
+array accesses
+of automatic
+and scalar
+in parallelizing
+lines 2
+with initialization
+interprocedural information
+up pass
+value numbering
+10 programs
+individual array
+inter procedural
+a procedure
+empirical evaluation
+analyses are
+analysis results
+different iterations
+for parallelizing
+brian r
+system incorporates
+parallelized with
+dependence testing
+parallelizable loops
+analysis ffl
+efficient interprocedural
+computation transformations
+nas benchmarks
+grain parallel
+to array
+for parallelization
+indices and
+of advanced
+compiler must
+inner loops
+p p
+non linear
+analysis for
+analyses the
+call graph
+sensitive analysis
+advanced array analyses
+the advanced array
+array data flow
+data dependence analysis
+data flow analysis
+the parallelization analysis
+mary w hall
+granularity of parallelism
+region based analysis
+privatization and reduction
+interprocedural analysis for
+selective procedure cloning
+of these programs
+shih wei liao
+monica s lam
+of automatic parallelization
+doduc mdljdp2 wave5
+applu appsp buk
+fftpde mgrid tomcatv
+arc2d trfd spec77
+top down pass
+spec77 appbt applu
+mgrid tomcatv ora
+scalar parallelization analysis
+tomcatv ora doduc
+trfd spec77 appbt
+interprocedural parallelization analysis
+bdna dyfesm arc2d
+interprocedural scalar analysis
+appsp buk cgm
+track bdna dyfesm
+and reduction recognition
+cgm embar fftpde
+dyfesm arc2d trfd
+embar fftpde mgrid
+appbt applu appsp
+buk cgm embar
+ora doduc mdljdp2
+of the programs
+mdg track bdna
+induction variable recognition
+qcd mdg track
+the baseline system
+pedro c diniz
+martin c rinard
+analysis for parallelization
+the interprocedural analysis
+the region based
+sigplan notices v
+acm sigplan notices
+of the advanced
+the calling context
+p p p
+number of programs
+the parallelism coverage
+c rinard pedro
+privatization with initialization
+saman p amarasinghe
+of advanced analyses
+automatic parallelization system
+high coverage is
+array reduction recognition
+array analyses the
+analysis array privatization
+jennifer m anderson
+parallelization in suif
+mdljdp2 wave5 ocean
+lines 2 d
+to be parallelizable
+the interprocedural parallelization
+that the advanced
+rinard pedro c
+interprocedural array privatization
+array privatization with
+all the interprocedural
+interprocedural array analysis
+efficient interprocedural analysis
+eliminating barrier synchronization
+in the benchmark
+individual array elements
+run time parallelization
+array privatization and
+indices and loop
+bottom up pass
+brian r murphy
+automatic parallelization in
+adm qcd mdg
+the 10 programs
+array privatization is
+flow sensitive analysis
+loop indices and
+the effectiveness of
+across procedure boundaries
+and computation transformations
+a private copy
+computation transformations for
+the programs on
+the outer loop
+34 n 8
+analysis in our
+of array accesses
+coarse grain parallelism
+passes over the
+programs on a
+for parallelizing compilers
+all the programs
+the programs in
+the benchmark suite
+in our system
+data flow information
+6 3 2
+data and computation
+200mhz sgi challenge
+standard benchmark suites
+little loop level
+with high coverage
+each procedure to
+lines equations of
+bottom up interprocedural
+the array analysis
+the standard analyses
+interprocedural framework as
+and reduction transformations
+pass scalar analysis
+recognition and privatization
+analyses are important
+14 18 24
+80 for 8
+measuring the effectiveness
+murphy shih wei
+parallelism the programs
+very little loop
+eliminating synchronization bottlenecks
+overviews the parallelization
+original fortran source
+and exact data
+10 programs in
+array analyses are
+loops containing calls
+interprocedural symbolic analysis
+main computation in
+flow analysis array
+using adaptive replication
+2 array analysis
+and both reduction
+speedups measure the
+benchmark suites we
+coarser granularity of
+reduction array privatization
+programs with cyclic
+reduction recognition and
+of loop indices
+variable values on
+exact data dependence
+perfect benchmark suites
+higher order induction
+run time tests
+suif and the
+parallelization analysis in
+of array ze
+numbering and induction
+in data dependences
+privatization or reduction
+sungdo moon mary
+speedup from 2
+the range test
+amarasinghe brian r
+nas sample benchmark
+c diniz commutativity
+and perfect benchmark
+advanced analysis techniques
+parallelization analysis techniques
+the system incorporates
+interprocedural analysis systems
+study of precise
+commercial parallelizing compilers
+analysis of parallelizing
+good speedup results
+columns measure the
+the advanced analysis
+with cyclic graphs
+as full inlining
+interprocedural parallelization system
+subscript variables in
+the baseline compiler
+sungdo moon byoungro
+p amarasinghe brian
+r murphy shih
+18 24 we
+row shows how
+moon mary w
+compiler can parallelize
+safe to parallelize
+processor a private
+the benchmark suites
+loop is parallelizable
+of interprocedural parallelization
+parallelization analysis algorithms
+diniz eliminating synchronization
+analysis on arrays

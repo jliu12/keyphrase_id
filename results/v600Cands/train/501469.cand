@@ -1,0 +1,600 @@
+preemption
+cache
+preemptions
+refill
+priority
+preempted
+invocations
+tasks
+response
+phasing
+delay
+task
+jk
+schedulability
+blocks
+worst
+scenarios
+lee
+prediction
+infeasible
+scenario
+wcet
+fig
+preempt
+cycles
+preemptive
+overestimation
+dc
+scheduling
+executes
+invocation
+reloading
+overlapped
+constraint
+fft
+widening
+costs
+fir
+mapping
+deadline
+safe
+counted
+schedulers
+lms
+scheduler
+mappings
+maximizex
+36000000worst
+pc
+bounding
+gap
+execute
+dma
+busquets
+lud
+mataix
+staschulat
+memory
+objective
+multiplied
+block
+regions
+constraints
+proportionally
+displaced
+increasingly
+tighter
+resumes
+predictability
+explained
+queue
+trend
+misses
+reloaded
+disjoint
+multitasking
+extendible
+rectify
+unpredictability
+doubly
+instruction
+ifip
+execution
+rolf
+reload
+inequalities
+pessimistic
+interactions
+lowest
+sensitive
+m3
+newport
+lock
+sram
+utilization
+eliminate
+ernst
+subsets
+multiprogramming
+conflict
+readers
+partitioning
+codesign
+target
+intervals
+referenced
+subsumes
+iv
+classified
+beach
+interference
+jaudelice
+hyojun
+axil
+sunghwan
+berkelaar
+caterina
+scoglio
+jaeyu
+bumsoo
+time10000000worst
+tms390z80
+arex
+shinhan
+summation
+advanced
+interrupt
+predictions
+mapped
+vii
+analyzing
+stringent
+cpu
+kim
+highest
+ada
+dsp
+involved
+theta
+tue
+diffserv
+idt7rs383
+noh
+doolittle
+hemendra
+basumallick
+uhl
+hyperperiod
+multiplying
+drawback
+continues
+filter
+accounting
+ftp
+negi
+time0
+abstractcache
+abhik
+r3010
+fpa
+roychoudhury
+nilsen
+xip
+chanik
+groups
+microarchitecture
+associates
+jumps
+priorities
+os
+percentage
+layland
+akyildiz
+tulika
+mpls
+supersparc
+tech
+calculating
+lp
+cooley
+r3000
+preempting
+overlooks
+bumps
+categorizes
+threads
+oliveira
+ql
+suffers
+busy
+vi
+caching
+733
+unschedulable
+qs
+60
+subsection
+1st
+earliest
+bae
+preemption delay
+related preemption
+cache related
+case response
+priority task
+the cache
+preemption cost
+cache blocks
+cache refill
+preemptions of
+refill time
+useful cache
+response time
+the preemption
+of preemptions
+cache mapping
+preemption scenarios
+higher priority
+lee et
+proposed technique
+al s
+worst case
+task set
+priority tasks
+s technique
+invocations of
+the worst
+during r
+of cache
+e theta
+preemption costs
+of useful
+r 4
+execute during
+real time
+lower priority
+time prediction
+j h
+r i
+blocks used
+execution point
+preempted task
+case preemption
+preemption scenario
+cache regions
+0 jk
+fixed priority
+of tasks
+of lee
+d r
+theta d
+cache block
+the proposed
+sensitive preemption
+scenario sensitive
+in fig
+previous techniques
+schedulability analysis
+task j
+the task
+a preempted
+cost table
+the tasks
+is preempted
+by dc
+during which
+of invocations
+infeasible task
+tasks 1
+linear programming
+j during
+main memory
+regions used
+time increases
+task is
+cache partitioning
+four tasks
+the technique
+infeasible preemption
+during preemption
+task phasing
+many infeasible
+response times
+each task
+used by
+time systems
+function value
+g j
+preempted by
+preemptions in
+the preemptions
+target machine
+tasks in
+cache memory
+the higher
+be preempted
+memory blocks
+prediction by
+delay due
+u u
+technique the
+blocks that
+delay in
+objective function
+of j
+et al
+r k
+widening speed
+phasing of
+advanced constraints
+unit cycles
+maximum objective
+cache mappings
+memory continues
+jk can
+memory block
+speed gap
+pc i
+delay of
+task sets
+accurate prediction
+block c
+prediction of
+mapping 2
+mapping 1
+for real
+of widening
+technique explained
+task preemption
+delay takes
+jk and
+executes but
+task and
+4 e
+tasks that
+time needed
+that execute
+a cache
+constraints that
+our target
+task 4
+related by
+in lee
+eliminate many
+task k
+priority schedulers
+the response
+lowest priority
+of i
+maximum number
+preemptive scheduling
+to bound
+following constraint
+time equation
+priority preemptive
+hard real
+jk is
+of task
+of preemption
+and main
+blocks of
+that accurate
+preemption of
+current trend
+four invocations
+it measured
+three preemption
+tighter prediction
+preemption when
+possible preemption
+refill times
+proportionally large
+to preemptions
+delay becomes
+doubly counted
+preempt preempt
+free real
+time r
+the invocations
+fig 3
+highest priority
+those by
+task from
+1 executes
+100 cycles
+trend of
+a task
+i cannot
+explained in
+times that
+the schedulability
+two constraints
+total number
+technique takes
+n jk
+analyzed independently
+refill a
+task interactions
+include 2
+mapping 3
+cache related preemption
+related preemption delay
+worst case response
+case response time
+cache refill time
+useful cache blocks
+number of preemptions
+the cache related
+the cache refill
+al s technique
+lee et al
+higher priority task
+the proposed technique
+of preemptions of
+of useful cache
+et al s
+the worst case
+e theta d
+of cache related
+during r i
+the preemption cost
+response time prediction
+d r 4
+higher priority tasks
+the higher priority
+blocks used by
+cache blocks used
+of lee et
+theta d r
+lower priority task
+preemption delay in
+worst case preemption
+preemption delay of
+refill time increases
+as the cache
+cache blocks of
+preemption cost table
+scenario sensitive preemption
+the cache regions
+related by dc
+of invocations of
+number of useful
+number of invocations
+the execution point
+of j during
+a preempted task
+objective function value
+g j h
+execute during the
+r 4 e
+that execute during
+time prediction by
+preemptions of j
+tasks that execute
+sensitive preemption cost
+the preemption costs
+time increases the
+u u u
+regions used by
+preemption cost of
+refill time is
+the cache blocks
+a higher priority
+the lower priority
+the task set
+real time systems
+tasks 1 2
+4 e theta
+j h s
+cache mapping 1
+prediction of cache
+priority task j
+cache regions used
+cache mapping 2
+when the cache
+our target machine
+by the proposed
+example in fig
+for real time
+pc i r
+during the preemption
+delay of i
+task is preempted
+preempted task and
+cache block c
+memory blocks that
+j during r
+of the worst
+on the cache
+response time r
+delay due to
+time needed to
+by the tasks
+the response time
+the time needed
+j and k
+accurate prediction of
+of memory blocks
+processor and main
+set of useful
+speed gap between
+trend of widening
+of preemptions in
+n 0 jk
+main memory continues
+account the relationship
+task is involved
+phasing of tasks
+between a preempted
+maximum objective function
+in lee et
+priority task 4
+widening speed gap
+indicates that accurate
+many infeasible task
+of widening speed
+tasks to eliminate
+jk can be
+jk and n
+preemptions in which
+that accurate prediction
+jk is the
+m 0 jk
+constraint of lee
+eliminate many infeasible
+the number of
+maximum number of
+to bound the
+task and the
+between the processor
+used to bound
+in fig 3
+set of tasks
+preemption cost is
+delay in fixed
+response time equation
+preemptions of the
+priority task k
+current trend of
+fixed priority schedulers
+r i cannot
+technique explained in
+cost table for
+give the worst
+case response times
+preemption delay takes
+the preemptions of
+of times that
+the maximum number
+from the cache
+that as the
+the lowest priority
+cycles in our
+the invocations of
+to eliminate many
+lower priority tasks
+j h the
+priority preemptive scheduling
+in fixed priority
+highest priority task
+the following constraint
+and main memory
+hard real time
+total number of
+priority task is
+fixed priority preemptive
+task set is
+show that as
+of tasks that
+linear programming problem
+the tasks in
+of lower priority
+the delay due
+lowest priority task
+the current trend
+task from the
+i cannot be
+becomes increasingly important
+cache blocks are
+that give the
+cache blocks in
+r i is
+bound the number
+a linear programming
+gap between the
+of the higher
+in the cache
+analysis of cache
+time r i
+the processor and
+the highest priority
+cannot be larger
+preemption scenarios during
+infeasible preemption scenario
+the technique considers
+priority task and
+1 cache mapping
+proportionally large percentage
+of preemption scenarios
+are three preemption

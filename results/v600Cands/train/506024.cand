@@ -1,0 +1,600 @@
+quorum
+servers
+byzantine
+alarm
+faulty
+failures
+client
+server
+mr97a
+justifying
+rejection
+read
+fault
+quorums
+masking
+faults
+reiter
+alvisi
+marker
+malkhi
+pierce
+timestamp
+replicated
+highreject
+probability
+2t
+detecting
+hypothesis
+alarms
+detection
+statistical
+doob
+protocols
+threshold
+detectors
+null
+hypergeometric
+reads
+unreliable
+failure
+protocol
+detect
+diagnosis
+intrusion
+risk
+martingale
+diagnostic
+gammaj
+consensus
+lowreject
+clients
+triggered
+returned
+integrity
+unresponsive
+utexas
+rcd
+universe
+expectation
+triple
+protecting
+writes
+initiate
+intersection
+infection
+responses
+identification
+reliable
+write
+region
+rad
+false
+exceeded
+intersect
+exceeds
+triples
+texas
+tolerance
+alteration
+chernoff
+markers
+replication
+dangerous
+precision
+compromised
+inline
+reasonably
+jersey
+gammay
+updates
+labs
+certainty
+austin
+bell
+739333
+kmm98
+8911
+lrm98
+pg89
+9734185
+kmm97
+999660
+rei94
+130284
+997720
+sestt92
+051857
+ct96
+mr95
+ds97
+alizability
+muteness
+mr97b
+gamma07
+haeberlen
+gammat
+date
+timestamps
+timely
+selections
+detector
+response
+rampart
+spawar
+lam86
+sch90
+tumlin
+voltan
+kouznetsov
+dalia
+disagreeing
+999999
+mrw97
+securering
+seri
+overlaps
+esis
+druschel
+8q
+wanyu
+dcca
+zang
+hypoth
+countermeasures
+detectably
+intersects
+services
+formula
+azuma
+recalculating
+safest
+narrowly
+tection
+survivable
+pinpoints
+estimating
+tems
+specification
+incorrect
+availability
+sent
+disagrees
+019
+martingales
+chooses
+ff
+ji
+catastrophically
+florham
+071
+petr
+revised
+falsity
+tmr
+cise
+658
+warnings
+unavailability
+n66001
+mine
+921
+monitoring
+delayed
+request
+ffi
+lorenzo
+hypotheses
+accepts
+gammaf
+negatives
+fatal
+tighten
+ifip
+foremost
+623
+resilience
+concurrent
+stipulate
+complicating
+behaving
+quorum systems
+faulty servers
+byzantine quorum
+the read
+justifying set
+masking quorum
+read quorum
+servers in
+read operation
+of rejection
+server failures
+of servers
+t masking
+write marker
+correct servers
+for byzantine
+the justifying
+the client
+each server
+alvisi malkhi
+pierce reiter
+server u
+malkhi pierce
+fault detection
+a quorum
+t a
+the probability
+failures in
+probability of
+quorum q
+rejection for
+alarm line
+of detecting
+write quorum
+null hypothesis
+the quorum
+detection for
+quorum system
+write protocols
+the write
+z u
+previous write
+correct server
+threshold quorum
+marker protocol
+rejection level
+t u
+given read
+n 2t
+read operations
+of faulty
+of faults
+a client
+of failures
+q 0
+quorum is
+single read
+q gammaj
+detecting f
+in mr97a
+quorum used
+region of
+a read
+the null
+of byzantine
+read and
+least t
+the alarm
+fault identification
+tolerance threshold
+quorum size
+2t 1
+to detect
+quorum in
+the servers
+servers that
+level ff
+alarm is
+quorum of
+two statistical
+and write
+faults in
+our methods
+the fault
+failure detectors
+h 0
+detect faulty
+alarm threshold
+t servers
+j failures
+replicated variable
+martingale sequence
+highest timestamp
+updates z
+experimental hypothesis
+doob martingale
+using quorum
+value timestamp
+replicated data
+w u
+probability that
+the system
+servers the
+the region
+servers with
+write operation
+size d
+faulty server
+write protocol
+read protocol
+systems unreliable
+x correct
+a justifying
+servers whose
+replicated using
+f exceeds
+variable z
+client can
+an alarm
+a t
+f faults
+some quorum
+our statistical
+detecting faults
+the quorums
+greater precision
+of server
+is triggered
+unreliable failure
+of quorum
+byzantine failures
+we initiate
+a faulty
+fault tolerance
+detectors for
+client c
+timestamp t
+a false
+byzantine fault
+f t
+set size
+u and
+intrusion detection
+false alarm
+d n
+is x
+alarm lines
+a hypergeometric
+suffer byzantine
+subset quorum
+gammat a
+mr97a the
+client chooses
+arbitrary failures
+specific servers
+highreject x
+line placement
+unresponsive servers
+unreliable intrusion
+whose returned
+of mr97a
+hypothesis he
+hypergeometric distribution
+q 46
+hand expression
+certainty example
+diagnostic method
+quorum overlaps
+identification protocol
+n gammat
+fault levels
+gammay s
+e alarms
+quorum markers
+alarm on
+triples returned
+triggered within
+delayed alarms
+i selections
+marker method
+u updates
+false positive
+hypothesis h
+each read
+integrity of
+random variable
+detection in
+of replicated
+and t
+system model
+of size
+its specification
+and availability
+the integrity
+servers are
+v t
+initiate the
+cs utexas
+last written
+u maintains
+byzantine quorum systems
+region of rejection
+the read quorum
+the write marker
+for byzantine quorum
+t masking quorum
+detection for byzantine
+the justifying set
+fault detection for
+probability of detecting
+masking quorum systems
+each server u
+malkhi pierce reiter
+of rejection for
+alvisi malkhi pierce
+of faulty servers
+servers in the
+in the read
+faulty servers in
+and write protocols
+failures in the
+the null hypothesis
+a t masking
+d n 2t
+write marker protocol
+the probability of
+the read operation
+masking quorum system
+in the system
+the region of
+a single read
+z u and
+read and write
+justifying set size
+correct servers in
+of detecting f
+n 2t 1
+fault tolerance threshold
+threshold quorum systems
+the previous write
+a correct server
+previous write quorum
+of server failures
+the quorum used
+the read and
+at least t
+and t u
+size d n
+rejection for the
+of byzantine quorum
+servers in q
+a given read
+u and t
+a read operation
+t a is
+of the read
+number of faults
+the probability that
+of a false
+of size d
+updates z u
+a fault tolerance
+replicated variable z
+to detect faulty
+detect faulty servers
+some quorum q
+server failures in
+read quorum is
+the highest timestamp
+rejection level ff
+returned by at
+of detecting faults
+system the probability
+j failures in
+a justifying set
+z u t
+of the justifying
+in some quorum
+a faulty server
+x correct servers
+alarm is triggered
+at a quorum
+the read protocol
+quorum used in
+least t servers
+proposed in mr97a
+doob martingale sequence
+the fault identification
+number of faulty
+servers with a
+f t a
+quorum of servers
+quorum size of
+quorum systems and
+and w u
+we initiate the
+number of failures
+that the client
+null hypothesis h
+t a 0
+u t u
+values of f
+faults in the
+probability of a
+t a we
+read operation is
+the servers in
+for the null
+a client can
+of replicated data
+number of server
+to the read
+our system model
+and availability of
+size of q
+of failures in
+of the servers
+all sets of
+of the write
+t u and
+the integrity of
+the intersection between
+u updates z
+fault identification protocol
+at all correct
+are all sets
+client chooses the
+the client chooses
+unreliable intrusion detection
+quorum overlaps the
+server u updates
+a subset quorum
+2t 1 e
+construction of mr97a
+rejection for h
+protocols proposed in
+exactly j failures
+probability of exactly
+alarm line placement
+left hand expression
+of date after
+load and availability
+whose returned values
+responses to read
+read operation to
+first method has
+of value timestamp
+threshold t a
+client can reasonably
+the alarm threshold
+a timestamp t
+f 5 in
+line placement in
+t a where
+again the system
+q 46 and
+systems unreliable intrusion
+in mr97a the
+experimental hypothesis he
+suggest the truth
+value timestamp pairs
+i e alarms
+can reasonably expect
+if each read
+present an asymptotic
+z it queries
+of exactly j
+quorum systems 9
+it queries each
+quorum systems the
+universe of servers
+quorum q 0
+detecting f 0
+mr97a the second
+an alarm line
+write quorum q
+servers whose returned
+specific servers that
+given read quorum
+detect a dangerous
+line t a
+quorum systems unreliable
+justifying set for
+server u in
+subset quorum of
+quorum in exactly
+of servers whose
+than the present
+read quorum q
+pair v t
+justifying set sizes
+server in some
+of threshold quorum
+operation for various
+x q gammaj
+server u maintains
+availability of byzantine
+received values v
+of alarm on
+quorum q to

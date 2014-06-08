@@ -1,0 +1,600 @@
+races
+race
+debugging
+executions
+synchronization
+apparent
+detection
+sync
+shared
+nondeterministic
+diff
+feasible
+dependences
+programs
+bufempty
+manifestations
+accesses
+locating
+anomaly
+bugs
+concurrently
+exclusion
+events
+orderings
+spurious
+incapable
+critical
+mutual
+fly
+characterize
+atomically
+withdrawals
+tellers
+intended
+atomicity
+execute
+exhibit
+locate
+ronsse
+exhibited
+execution
+nondeterminacy
+deterministic
+exhaustively
+nondeterminism
+iff
+sigplan
+np
+leiserson
+debugged
+michiel
+failures
+replay
+notices
+exhaustive
+bosschere
+detecting
+flowback
+mingdong
+located
+koen
+inherently
+uncover
+buffer
+event
+debug
+fork
+anomalies
+utpal
+praun
+occurring
+cilk
+deok
+prefix
+portions
+attiya
+programmer
+notion
+rastislav
+determinacy
+deposits
+unaffected
+atomic
+prefixes
+pertaining
+hagit
+threaded
+detected
+inconsistent
+uncovers
+callahan
+multithreaded
+semaphores
+intuitive
+memory
+characterizing
+notions
+occurred
+characterizations
+maine
+access
+potentially
+harder
+bank
+conflicting
+behave
+parallelism
+charles
+semantics
+deposit
+harmful
+sections
+frontier
+implications
+roundoff
+jong
+argue
+accuracy
+banerjee
+sigmetrics
+balance
+bug
+relied
+friedman
+membership
+externally
+monitoring
+misleading
+join
+implicitly
+christoph
+perkovic
+exhi
+bited
+bubak
+uppuluri
+keunwoo
+titanium
+bliss
+wodzimierz
+wg10
+keremoglu
+wotawa
+christiaens
+kergommeaux
+cherri
+bartosz
+kranzlmller
+mhlenfeld
+chassin
+buhr
+emrath
+welches
+loginov
+arndt
+wismller
+funika
+elmas
+nishiyama
+cataudella
+datarace
+hiroyasu
+unambiguous
+dependence
+explicit
+exhibiting
+symposium
+guaranteed
+roy
+intent
+efficiently
+united
+feng
+mexico
+determinism
+erroneous
+ada
+detector
+choi
+trace
+fundamentally
+grams
+kdb
+kamil
+wel
+tayfun
+velen
+erkan
+recplay
+bali
+arnab
+limassol
+vojnar
+sridharan
+jcilk
+sence
+tzoref
+angelina
+tesei
+letko
+data races
+general races
+data race
+race detection
+apparent races
+general race
+race conditions
+critical sections
+of race
+race a
+f sync
+races can
+for debugging
+races are
+program executions
+a race
+shared memory
+races and
+f diff
+races in
+parallel programs
+explicit synchronization
+feasible races
+shared data
+races is
+apparent general
+exists iff
+the program
+races that
+race condition
+nondeterministic programs
+races which
+program execution
+of races
+access anomaly
+feasible race
+executions that
+execute concurrently
+programs intended
+manifestations of
+data dependences
+detection methods
+mutual exclusion
+feasible program
+debugging general
+races requires
+all apparent
+implementing mutual
+apparent data
+b over
+be deterministic
+memory parallel
+in p
+an actual
+execution p
+dynamic race
+b exists
+anomaly detection
+an execution
+the apparent
+race exists
+f same
+np hard
+intended to
+programs containing
+over f
+different types
+actual data
+accesses to
+programs that
+accurate notion
+potentially execute
+synchronization incapable
+apparent race
+feasible general
+inherently harder
+executions p
+condition detection
+a data
+actual program
+on parallel
+the fly
+less accurate
+iff a
+of bugs
+program s
+s explicit
+spurious races
+alternative orderings
+intuitive notion
+incapable of
+parallel program
+for programs
+of synchronization
+same shared
+race and
+debugging parallel
+race is
+the execution
+of program
+to shared
+concurrently or
+exhibit no
+inconsistent data
+exhibited by
+formal model
+t d
+such programs
+atomic execution
+deterministic programs
+a b
+p e
+a feasible
+the feasible
+race version
+races capture
+detecting access
+intended critical
+exhaustive race
+races have
+races we
+computing alternative
+races occur
+using synchronization
+containing general
+data conflicting
+proposed race
+we uncover
+order different
+e t
+a shared
+programs with
+the intuitive
+two events
+program could
+of debugging
+and b
+detection of
+types of
+acm sigplan
+exists if
+in programs
+are race
+requires exhaustive
+data conflict
+michiel ronsse
+races however
+program bugs
+races the
+debugging data
+races to
+race free
+access shared
+analyze only
+debugging july
+e leiserson
+are manifestations
+ronsse koen
+access anomalies
+is inherently
+could have
+no data
+sigplan notices
+notices v
+post wait
+programs exhibit
+race in
+detecting data
+use critical
+given input
+interest for
+and data
+sections to
+of implementing
+programs using
+sync is
+conflict exists
+dependences as
+any shared
+that locating
+execution instance
+is np
+architectures p
+20 22
+a prefix
+execution order
+same events
+as occurring
+containing data
+fork join
+the accuracy
+a and
+prefix of
+debugging with
+be efficiently
+that use
+the buffer
+are feasible
+of parallel
+execution is
+race a b
+of race conditions
+a data race
+general races and
+and data races
+shared data dependences
+races can be
+a general race
+data race a
+races and data
+race detection methods
+a b over
+e t d
+b over f
+exists iff a
+programs intended to
+memory parallel programs
+shared memory parallel
+to be deterministic
+p e t
+data race detection
+intended to be
+of a race
+apparent general race
+types of race
+program execution p
+b exists iff
+general race a
+the apparent races
+types of races
+implementing mutual exclusion
+debugging general races
+of implementing mutual
+apparent races can
+a and b
+programs that use
+different types of
+dynamic race detection
+data races are
+incapable of implementing
+data races in
+a b exists
+of program executions
+on the fly
+general races requires
+an actual data
+nondeterministic programs that
+apparent data races
+feasible races is
+data races can
+iff a data
+general races are
+shared data dependence
+less accurate notion
+executions p e
+is inherently harder
+program executions p
+synchronization incapable of
+actual data race
+program s explicit
+accuracy and complexity
+the program s
+the intuitive notion
+of the program
+of parallel programs
+actual program execution
+the program could
+critical sections to
+of data race
+race conditions in
+access anomaly detection
+set of program
+to shared memory
+shared memory accesses
+process in p
+debugging parallel programs
+for debugging parallel
+prefix of p
+the same shared
+notion of a
+symposium on parallel
+exhibited by the
+of the apparent
+using a formal
+intuitive notion of
+of an actual
+a race condition
+accesses to shared
+is np hard
+a formal model
+a program execution
+proposed race detection
+f sync is
+races which are
+s explicit synchronization
+data conflict exists
+had the potential
+an actual program
+containing general races
+that use critical
+use critical sections
+apparent races which
+order different than
+set denoted f
+can potentially execute
+t d such
+feasible program execution
+potential of occurring
+only for programs
+debugging data races
+manifestations of bugs
+type of race
+containing data races
+exhaustive race detection
+potentially execute concurrently
+apparent general races
+races that are
+races requires exhaustive
+general race detection
+over f diff
+an order different
+represents an execution
+in f sync
+same shared data
+race conditions can
+data races which
+previously proposed race
+condition detection for
+work is novel
+regarding the accuracy
+detecting access anomalies
+race condition detection
+data race version
+a feasible race
+of interest for
+on parallel and
+proceedings of the
+a t b
+acm sigplan notices
+sigplan notices v
+if a and
+by the program
+data dependences as
+exists if a
+data races is
+a data conflict
+ronsse koen de
+execute concurrently or
+distributed systems testing
+michiel ronsse koen
+charles e leiserson
+no data races
+any shared data
+the execution instance
+than in p
+events a and
+and debugging july
+are manifestations of
+of dynamic race
+actual data races
+execution instance of
+the feasible races
+a prefix of
+in an order
+detecting data races
+race conditions that
+two events a
+different than in
+type of synchronization
+types of synchronization
+a less accurate
+assumed by most
+the potential of
+parallel and distributed
+and architectures p
+b t a
+complexity of dynamic
+formal model and
+that had the
+the same events
+of critical sections
+classes of parallel
+order is not
+the atomicity of
+and complexity of
+systems testing and
+the accuracy and
+of the execution
+accesses to the
+a shared variable
+show that two
+portions of the
+on parallel algorithms
+that the program
+exists between two
+testing and debugging
+issues regarding the
+is not guaranteed
+parallel algorithms and
+and distributed systems

@@ -1,0 +1,600 @@
+dga
+dba
+sag
+sab
+dgr
+dbr
+srb
+srg
+0dba
+greenres
+grl
+abnn
+emptyr
+loc
+fin_reg
+reservoir
+dg
+blueres
+grnl
+brl
+rbab
+leaking
+abnl
+agll
+hytech
+abln
+rgab
+agnl
+valvea
+rgag
+aileron
+agln
+agnn
+abll
+rudder
+rbag
+servodyne
+emptyg
+endreach
+0dbr
+init_reg
+endhide
+non_parameters
+brnl
+automata
+servodynes
+diagnosis
+rbln
+rnl
+nomoreleaks
+pilot
+red
+rgln
+rgll
+rbll
+rgnl
+green
+blue
+leak
+rbnn
+sagsagsagsagsag
+rgnn
+0dg
+rbnl
+start_leak
+sabsabsabsabsab
+db
+prints
+reached
+hydraulics
+analog
+print
+br
+automaton
+valves
+reservoirs
+gr
+ba
+fluid
+ga
+asap
+rl
+reachable
+dgadg
+config
+res
+reachability
+leaks
+valve
+srgsrgsrgsrgsrg
+valver
+srbsrbsrbsrbsrb
+hide
+var
+hydraulic
+secondary
+hybrid
+locations
+clock
+sit2
+user
+synchronised
+reach
+human
+leaky
+omit
+specification
+liquid
+0db
+dbadb
+1red
+deck
+modelling
+forward
+synchronisation
+region
+leakage
+transitions
+transition
+tank
+autograph
+uppaal
+emptyremptyremptyremptyremptyr
+usability
+flight
+switches
+fig
+inferences
+continuous
+situation
+observes
+switched
+behaviour
+interactive
+empty
+reasoning
+surprises
+label
+indicators
+primary
+checker
+safety
+reg
+synchronises
+emptygemptygemptygemptygemptyg
+grnlgrnlgrnlgrnlgrnl
+abllabllabllabllabll
+syndetic
+greenresgreenresgreenresgreenresgreenres
+dyne
+agllagllagllagllagll
+rbagrbagrbagrbagrbag
+rbabrbabrbabrbabrbab
+agnlagnlagnlagnlagnl
+agnnagnnagnnagnnagnn
+abnnabnnabnnabnnabnn
+aglnaglnaglnaglnagln
+ablnablnablnablnabln
+rgabrgabrgabrgabrgab
+grlgrlgrlgrlgrl
+rgagrgagrgagrgagrgag
+sit3
+kronos
+abnlabnlabnlabnlabnl
+useruseruseruseruser
+urgent
+interaction
+activity
+eg
+status
+fin
+surface
+specifications
+conformance
+fix
+settings
+haptic
+timed
+surfaces
+s1
+aircraft
+display
+tanks
+location
+guards
+environmental
+servo
+invariants
+supervisory
+cognition
+decrease
+trace
+analyse
+signifying
+monitoring
+else
+capabilities
+modelled
+s2
+concerns
+dga 0
+0 dba
+0 dga
+sag sag
+sab sab
+dba 0
+0 dgr
+start true
+true start
+0 dbr
+dgr 0
+srb srb
+srg srg
+dg 0
+1 dga
+dbr 0
+dga 0dba
+dba 1
+0 dg
+1 dgr
+reached fin_reg
+0dba 0
+emptyr emptyr
+dgr dga
+dbr 1
+dga dg
+db 0
+loc valvea
+abnl abnl
+rgab rgab
+grnl grnl
+rbab rbab
+grl grl
+agln agln
+reach forward
+loc greenres
+greenres greenres
+abln abln
+rgag rgag
+agnl agnl
+abnn abnn
+dgr 0dbr
+rbag rbag
+agll agll
+agnn agnn
+loc blueres
+from init_reg
+greenres grl
+reached reach
+red 0
+init_reg endreach
+emptyg emptyg
+abll abll
+blueres brl
+the diagnosis
+the pilot
+start red
+g gr
+ba analog
+empty reached
+gr ga
+grl loc
+b br
+br ba
+locations hide
+print omit
+non_parameters in
+fin_reg endhide
+abnn loc
+prints situation
+valvea abnn
+fin_reg then
+in reached
+hide non_parameters
+the reservoir
+reachable prints
+brl loc
+green reservoir
+endreach reached
+0dba 1
+analog var
+endhide print
+user user
+clock t
+start g
+ga b
+forward from
+if empty
+var g
+omit all
+3 start
+hybrid automata
+t clock
+0 start
+the rudder
+red 1
+dbr dba
+reservoir is
+sab sabsabsabsabsab
+sabsabsabsabsab sab
+sagsagsagsagsag sag
+0dbr 0
+sag sagsagsagsagsag
+dba db
+0 db
+all locations
+not reachable
+1 red
+rnl rnl
+nomoreleaks nomoreleaks
+rbnl rbnl
+leak leak
+rbln rbln
+config config
+brl brl
+rgnn rgnn
+observe observe
+rl rl
+rgnl rgnl
+rgll rgll
+rbnn rbnn
+the aileron
+rbll rbll
+start_leak start_leak
+blueres blueres
+brnl brnl
+asap asap
+rgln rgln
+are leaking
+the user
+the blue
+not leaking
+blue reservoir
+0dg 0dg
+the green
+analysis analysis
+sag sab
+dgr dgadg
+0dbr 1
+dgadg 0
+rudder and
+the hydraulics
+res res
+g 3
+else else
+assumption assumption
+srg srgsrgsrgsrgsrg
+secondary servodyne
+srb srbsrbsrbsrbsrb
+srgsrgsrgsrgsrg srg
+and aileron
+srbsrbsrbsrbsrb srb
+situation is
+reachability analysis
+the secondary
+then if
+is leaking
+of hytech
+to green
+user and
+to blue
+initial region
+interactive systems
+flight deck
+srg srb
+sab sag
+the valves
+pilot is
+hydraulics system
+loc valver
+human factors
+observation of
+a fix
+case study
+of fluid
+pilot can
+location vector
+the system
+fluid in
+control surface
+of hybrid
+the automata
+dbr dbadb
+analog variables
+usability reasoning
+aileron are
+servodynes are
+the servodynes
+dbadb 0
+servodyne of
+diagnosis strategy
+srb srg
+servodyne is
+reservoirs and
+the reservoirs
+final region
+of system
+green and
+of states
+between user
+dga 0 dba
+dba 0 dga
+0 dga 0
+sag sag sag
+start true start
+true start true
+0 dba 0
+sab sab sab
+dgr 0 dbr
+srg srg srg
+srb srb srb
+dbr 0 dgr
+0 dgr 0
+0 dbr 0
+1 dga 0
+dba 1 dga
+0 dba 1
+0 dg 0
+dg 0 dg
+0dba 0 dga
+0 dga 0dba
+dga 0dba 0
+dg 0 dgr
+dbr 1 dgr
+1 dgr 0
+emptyr emptyr emptyr
+0 dgr dga
+dgr dga dg
+0 dbr 1
+dga dg 0
+reach forward from
+from init_reg endreach
+loc blueres brl
+loc greenres grl
+forward from init_reg
+reached reach forward
+var g gr
+non_parameters in reached
+b br ba
+gr ga b
+prints situation is
+g gr ga
+loc valvea abnn
+reached fin_reg then
+print omit all
+ga b br
+br ba analog
+omit all locations
+start g 3
+greenres grl loc
+abnn loc greenres
+valvea abnn loc
+in reached fin_reg
+hide non_parameters in
+all locations hide
+reached fin_reg endhide
+locations hide non_parameters
+empty reached fin_reg
+if empty reached
+start red 0
+agln agln agln
+endhide print omit
+abln abln abln
+not reachable prints
+greenres greenres greenres
+0dba 1 dga
+agll agll agll
+agnl agnl agnl
+rgab rgab rgab
+clock t clock
+grl loc valvea
+3 start g
+rbag rbag rbag
+grl grl grl
+blueres brl loc
+fin_reg endhide print
+0 start red
+brl loc blueres
+dga 0dba 1
+1 dga 0dba
+rbab rbab rbab
+rgag rgag rgag
+reachable prints situation
+analog var g
+abnn abnn abnn
+red 0 start
+user user user
+g 3 start
+init_reg endreach reached
+grnl grnl grnl
+agnn agnn agnn
+endreach reached reach
+fin_reg then if
+then if empty
+abnl abnl abnl
+ba analog var
+t clock t
+abll abll abll
+emptyg emptyg emptyg
+situation is not
+is not reachable
+db 0 dbr
+0 dbr dba
+sab sabsabsabsabsab sab
+sabsabsabsabsab sab sab
+the green reservoir
+sag sag sagsagsagsagsag
+0 db 0
+0 dgr 0dbr
+sagsagsagsagsag sag sag
+dgr 0dbr 0
+sab sab sabsabsabsabsab
+sag sagsagsagsagsag sag
+dba db 0
+dbr dba db
+0dbr 0 dgr
+db 0 db
+red 1 red
+1 red 1
+sag sab sab
+brnl brnl brnl
+observe observe observe
+blueres blueres blueres
+rgnl rgnl rgnl
+nomoreleaks nomoreleaks nomoreleaks
+sag sag sab
+rl rl rl
+analysis analysis analysis
+leak leak leak
+asap asap asap
+rbln rbln rbln
+config config config
+rgnn rgnn rgnn
+0 dgr dgadg
+start_leak start_leak start_leak
+brl brl brl
+rbnl rbnl rbnl
+0dbr 1 dgr
+rbnn rbnn rbnn
+rbll rbll rbll
+1 dgr 0dbr
+rgll rgll rgll
+the blue reservoir
+dgadg 0 dgr
+rnl rnl rnl
+rgln rgln rgln
+dgr 0dbr 1
+res res res
+dgr dgadg 0
+assumption assumption assumption
+else else else
+srbsrbsrbsrbsrb srb srb
+srg srgsrgsrgsrgsrg srg
+srg srg srgsrgsrgsrgsrg
+srb srbsrbsrbsrbsrb srb
+srgsrgsrgsrgsrg srg srg
+srb srb srbsrbsrbsrbsrb
+by the pilot
+is not leaking
+of hybrid automata
+0dg 0dg 0dg
+reservoir is not
+of the system
+in the reservoir
+of the rudder
+the rudder and
+that the pilot
+the pilot is
+of the aileron
+green reservoir is
+the reservoir is
+srg srb srb
+srg srg srb
+of the diagnosis
+to green and
+the pilot can
+the user and
+of the user
+each control surface
+dbadb 0 dbr
+servodyne of the
+sab sab sag
+level of fluid
+the hydraulics system
+dbr dbadb 0
+the secondary servodyne
+of fluid in
+sab sag sag
+during the diagnosis
+rudder and aileron
+0 dbr dbadb
+which the user
+in the diagnosis
+in the blue
+by means of
+the diagnosis of
+set of states
+situation in which
+system and user
+of interactive systems

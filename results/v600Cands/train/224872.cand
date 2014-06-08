@@ -1,0 +1,600 @@
+wire
+bot
+sizing
+buffer
+slew
+delay
+capacitance
+insertion
+lprev
+interconnect
+cong
+repeater
+elmore
+sink
+load
+capacitive
+timing
+rc
+pwl
+signal
+ginneken
+foreach
+arrival
+murgai
+automation
+piece
+buffers
+koh
+pruning
+unbuffered
+wise
+power
+buffered
+aided
+jose
+jason
+dissipation
+resistance
+soln
+lei
+sinks
+routing
+tree
+layout
+california
+wiresizing
+width
+sizeable
+wong
+yokohama
+polarity
+driver
+prune
+top
+pacific
+vlsi
+san
+rajeev
+req
+bottom
+max
+xiaoping
+gate
+asia
+fanout
+tradeoff
+func
+cmos
+widths
+children
+vdd
+united
+mw
+simultaneous
+solutions
+inverted
+zhigang
+subtree
+js
+planning
+buffering
+pseudo
+routine
+sensitivities
+kok
+curve
+inverters
+09
+south
+japan
+minghorng
+prop7
+gdp
+mcm
+net
+wires
+segment
+driven
+buf
+zelikovsky
+yuantao
+placement
+formulation
+polynomially
+delays
+merging
+routability
+tam
+muddu
+tianming
+lillis
+interconnects
+lakes
+1996
+visit
+1997
+monterey
+sub
+augmented
+considerations
+zhou
+minimizing
+sapatnekar
+feodor
+dragan
+xun
+scenario
+subtrees
+root
+pan
+leung
+routines
+dian
+van
+floorplanning
+pairing
+cr
+descendants
+sudhakar
+2000
+kahng
+submicron
+ho
+tang
+cheng
+sorting
+contributor
+triple
+driving
+he
+zeng
+min
+inverter
+478
+9x
+utilized
+segments
+wg
+ion
+sorted
+provably
+pairs
+else
+europe
+generalization
+king
+polynomial
+diego
+nets
+symposium
+maximized
+sarkar
+electronic
+shrinking
+node
+physical
+jbj
+manipulation
+adopt
+optimization
+lai
+analogously
+liu
+alone
+recursively
+6b
+geometries
+straight
+subject
+todaes
+austin
+ancestors
+powerg
+kouji
+blockages
+bartoschek
+esbensen
+ncmax
+rautenbach
+hirendu
+bot v
+wire sizing
+buffer insertion
+required time
+s bot
+signal slew
+load required
+top solutions
+bottom solutions
+top v
+c q
+s top
+required arrival
+d lprev
+wise linear
+solution sets
+delay model
+property 5
+piece wise
+s p
+capacitance of
+property 7
+v s
+at v
+buffer delay
+and wire
+arrival time
+elmore delay
+power delay
+design p
+and buffer
+jason cong
+design automation
+buffer b
+physical design
+of wire
+solutions routine
+t v
+of signal
+jose california
+sub optimal
+sizing and
+node v
+aided design
+load c
+van ginneken
+input capacitance
+power p
+san jose
+on physical
+california united
+computer aided
+by property
+low power
+increasing order
+sets s
+req time
+sink v
+time sets
+rajeev murgai
+ginneken 17
+solutions v
+timing optimization
+power dissipation
+timing constraints
+rc delay
+minimizing power
+lei he
+time q
+ieee acm
+proceedings of
+given timing
+c f
+in increasing
+dynamic power
+f wong
+conference on
+routing tree
+repeater insertion
+the capacitance
+and right
+l v
+insertion proceedings
+on design
+performance driven
+data structure
+on computer
+slew is
+basic grid
+q bot
+optimal soln
+power subject
+p bot
+power values
+l max
+united states
+acm international
+t c
+our algorithms
+routine for
+right children
+the elmore
+for interconnect
+sizing for
+optimal solutions
+f l
+property 6
+q l
+of buffer
+to timing
+the buffer
+r v
+sizing buffer
+top l
+foreach c
+block planning
+slew into
+wire e
+tradeoff curve
+left and
+run time
+insertion and
+the solution
+a buffer
+the load
+pairs c
+sizing in
+top r
+time pairs
+delay of
+search tree
+asia south
+on asia
+south pacific
+pacific design
+e v
+solutions in
+of piece
+c t
+q t
+the driver
+of property
+yokohama japan
+time set
+on buffer
+interconnect optimization
+delay tradeoff
+international symposium
+the 2000
+linear functions
+automation p
+design november
+7 2
+the tree
+c max
+optimization under
+solution set
+2000 san
+algorithm bottom
+time func
+func sets
+xiaoping tang
+load func
+sink net
+incoming signal
+sizing alone
+slew on
+wire from
+slew algorithm
+capacitive value
+pwl min
+basic rc
+capacitive values
+time formulation
+buf delay
+js l
+unbuffered solutions
+additional pruning
+max required
+the algorithm
+insertion for
+at node
+pseudo code
+time at
+the piece
+to given
+p l
+programming algorithm
+sizing proceedings
+simultaneous wire
+solutions c
+output resistance
+algorithm top
+3 foreach
+wire segments
+these sets
+v and
+linear function
+v is
+subject to
+load required time
+s bot v
+piece wise linear
+required arrival time
+property 5 2
+of signal slew
+s top v
+property 7 2
+and wire sizing
+v s top
+the solution sets
+and buffer insertion
+effect of signal
+proceedings of the
+the required arrival
+sub optimal solutions
+on computer aided
+increasing order of
+san jose california
+v s bot
+wise linear functions
+solutions v s
+solutions routine for
+computer aided design
+symposium on physical
+on physical design
+california united states
+ieee acm international
+wire sizing and
+f l i
+in increasing order
+by property 5
+acm international conference
+buffer insertion and
+sets s bot
+dynamic power dissipation
+van ginneken 17
+given timing constraints
+required time sets
+conference on computer
+left and right
+sizing and buffer
+input capacitance of
+property 6 1
+of buffer b
+wise linear function
+subject to timing
+d f wong
+on design automation
+at node v
+the capacitance of
+insertion proceedings of
+capacitance of the
+and right children
+arrival time at
+subject to given
+required time pairs
+bot v and
+c q 2
+required time q
+q at v
+wire sizing in
+c q bot
+top l v
+p by property
+to given timing
+sizing buffer insertion
+top r v
+the load required
+manipulation of piece
+required time set
+routine for low
+power subject to
+q bot v
+aided design p
+the elmore delay
+physical design p
+at the root
+of piece wise
+wire e v
+s p by
+the input capacitance
+for low power
+conference on design
+jose california united
+v and s
+the data structure
+international symposium on
+on asia south
+asia south pacific
+insertion and wire
+c and q
+pacific design automation
+south pacific design
+conference on asia
+of the 2000
+rc delay model
+design automation p
+dynamic programming algorithm
+low power and
+s p l
+the piece wise
+elmore delay model
+aided design november
+international conference on
+q 2 s
+wire sizing for
+time pairs c
+signal slew is
+time q at
+required time func
+on buffer delay
+bottom solutions and
+time set s
+bot v s
+top solutions v
+of d lprev
+bottom solutions routine
+solution sets s
+top solutions in
+top solutions routine
+by van ginneken
+signal slew on
+algorithm top solutions
+required time formulation
+wire sizing buffer
+and s top
+with buffer insertion
+pairs c q
+bottom solutions v
+l v s
+the basic rc
+of wire sizing
+incoming signal is
+js l j
+algorithm bottom solutions
+solutions and top
+s t f
+to overall delay
+s top l
+slew on buffer
+solution c q
+minimizing power subject
+solution set at
+property 7 1
+inserting a buffer
+max required time
+of property 7
+s top r
+delay tradeoff curve
+and top solutions
+the incoming signal
+edge e c
+q l max
+the search tree
+t q l
+to timing constraints
+sizing proceedings of
+of inserting a
+c is maximized
+for t v
+timing optimization by
+simultaneous wire sizing
+planning for interconnect
+block planning for
+under the basic
+power delay tradeoff
+05 09 2000
+the solution set
+jason cong lei
+cong lei he
+buffer insertion proceedings
+c t v
+2 s p
+f r j
+and right subtrees
+sizing for performance
+q we now
+s t c
+a piece wise
+time at the
+cheng kok koh
+states jason cong
+are given as
+merging of two
+in the tree
+performance and power
+may be eliminated
+united states jason
+t v is
+of edge e
+taken into account
+the basic algorithm
+09 2000 san
+q 0 q
+2000 ieee acm
+2000 san jose
+for performance and
+delay of the
+the 2000 ieee

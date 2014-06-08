@@ -1,0 +1,600 @@
+synchronization
+iter
+cpg
+redundant
+dependences
+synchronizations
+doacross
+sink
+iteration
+dependence
+adfo
+oedc
+isdg
+dfs
+trapezoid
+loops
+loop
+rectangle
+seodfs
+height
+adco
+ipath
+parallelogram
+7a
+nested
+iterations
+dmax
+chain
+statements
+middle
+doubly
+alliant
+corners
+region
+statement
+rectangular
+multiply
+nonuniformity
+slope
+redundancy
+transitive
+branches
+jth
+examination
+cond
+gammam
+lock
+anmin
+krothapalli
+dhe
+edge
+pcount
+trapezoids
+slopes
+1b
+bottom
+downto
+path
+rows
+forward
+midkiff
+checking
+mark
+pmax
+compiler
+traversed
+elimination
+boundary
+padua
+distance
+critical
+instructions
+successors
+exit
+regions
+inner
+edges
+head
+depth
+gammah
+check
+markers
+marker
+source
+enforcement
+flow
+cover
+covered
+origin
+multiprocessors
+unnecessary
+align
+arcs
+contradicts
+uniformredundant
+testset
+defnitions
+nonredundant
+synchronizationsthus
+programbecomes
+abstractcross
+exploitingmore
+cpgs
+sychronizations
+foundusing
+oedf
+minisupercomputers
+fco
+multiprocessed
+gammadimension
+jinquan
+nonexisting
+tail
+body
+alternative
+cross
+row
+dist
+dimension
+examine
+locks
+column
+1c
+theta
+ronsse
+shaffer
+chaudhary
+sufah
+colohan
+ixp
+0theorem
+entirely
+columns
+antonia
+steffan
+gammadimensional
+luddy
+searched
+enforcing
+examined
+outmost
+rectangles
+parallelizing
+1a
+dimensions
+vipin
+sadayappan
+fewer
+examining
+room
+eliminating
+identify
+paths
+michiel
+abu
+parallelism
+zhai
+await
+callahan
+segment
+record
+dai
+intrusive
+begin
+successor
+visited
+mowry
+7c
+branch
+nothing
+flows
+doall
+checked
+outgoing
+beneath
+axis
+sequentially
+bosschere
+removal
+acyclic
+else
+outer
+bo
+subpath
+koen
+dominant
+lexically
+singly
+top
+harrison
+nodes
+initialized
+sufficient
+uniform
+sequential
+corp
+calculate
+multithreading
+433
+distances
+iteration space
+redundant synchronization
+alternative path
+synchronization chain
+the iteration
+doacross loops
+redundant synchronizations
+synchronization for
+critical height
+multiply nested
+source iteration
+dependence distance
+in region
+the synchronization
+sink iter
+region 1
+a dependence
+redundant in
+rectangular iteration
+a synchronization
+synchronization is
+is redundant
+for d
+dfs algorithm
+no synchronization
+figure 7a
+distance vector
+boundary iterations
+sink m
+data dependences
+nested loop
+an iteration
+loops with
+the dependence
+doubly nested
+iter path
+synchronization elimination
+the cpg
+redundant for
+the dependences
+h 0
+rectangle with
+sufficient condition
+dependence slope
+dependence d
+path iter
+a cpg
+trapezoid adfo
+in doacross
+data synchronizations
+forward edge
+theta a
+o to
+an alternative
+multiple statements
+m theta
+middle section
+the trapezoid
+all iterations
+region 2
+chain p
+the parallelogram
+identify redundant
+d is
+single loop
+the rectangular
+iteration in
+its source
+the sink
+and sufficient
+the rectangle
+check iter
+trapezoid oedc
+check 0
+iter sink
+if sink
+the isdg
+iter start
+parallelogram adco
+cond check
+be redundant
+from o
+point g
+jth row
+data synchronization
+the loop
+synchronization in
+the dfs
+control flow
+synchronizations in
+iteration level
+necessary and
+the middle
+a doubly
+bottom section
+synchronization instructions
+the redundant
+statements in
+path in
+procedure check
+of redundant
+the source
+the critical
+dependences in
+path for
+0 0
+path i
+with corners
+inner loop
+flow path
+possible control
+not redundant
+uniformly redundant
+dmax then
+mark iter
+adfo and
+the seodfs
+iter dmax
+iter 0
+start begin
+oedc is
+height larger
+adfo is
+if iter
+head statement
+bottom sections
+redundant dependences
+and oedc
+execution order
+dependences from
+depth first
+contain an
+the alliant
+for doacross
+entire iteration
+cpg the
+height for
+graph cpg
+nested loops
+loop index
+loop body
+the jth
+a forward
+in figure
+origin o
+path graph
+with multiple
+vector d
+cross iteration
+space in
+space has
+forward edges
+iteration data
+control branches
+statement level
+theta m
+figure 1b
+a redundant
+space since
+to contain
+sequential execution
+chain from
+level instead
+exit loop
+a theta
+the bottom
+branches in
+entirely in
+control path
+for regions
+each dimension
+p from
+is unnecessary
+slope and
+tree edge
+to examine
+first iteration
+sink of
+space because
+flow paths
+large enough
+to identify
+the transitive
+for procedure
+last statement
+a height
+synchronization to
+end for
+vector space
+recursive examination
+synchronizations that
+the nonuniformity
+examination is
+m sink
+entire trapezoid
+adco in
+statement start
+mark sink
+oedc we
+space dependence
+the iteration space
+an alternative path
+synchronization for d
+alternative path in
+dependence distance vector
+rectangular iteration space
+the critical height
+for d is
+in the iteration
+the rectangular iteration
+in region 1
+from o to
+of the iteration
+doubly nested loop
+a synchronization chain
+redundant synchronization elimination
+with its source
+m theta a
+d is redundant
+no synchronization chain
+iteration space in
+redundant for all
+the synchronization for
+alternative path for
+redundant in the
+a doubly nested
+for all iterations
+the synchronization is
+contain an alternative
+chain p from
+multiply nested loops
+its source iteration
+in doacross loops
+synchronization chain p
+g in region
+source iteration in
+iteration in the
+in figure 7a
+and sufficient condition
+is redundant in
+a forward edge
+theta m theta
+to identify redundant
+a dependence distance
+is in region
+necessary and sufficient
+iteration space is
+if the iteration
+the jth row
+to contain an
+distance vector d
+sink iter sink
+the redundant synchronization
+the source iteration
+point g in
+rectangle with corners
+iteration space has
+a point g
+the iteration level
+iter sink m
+path for d
+doacross loops with
+p from o
+d with its
+the dependence slope
+iter path iter
+the parallelogram adco
+a redundant synchronization
+sequential execution order
+for d with
+iteration space the
+if the source
+at the iteration
+iteration space since
+be redundant in
+the dfs algorithm
+the rectangle with
+is not redundant
+possible control flow
+path in the
+in the loop
+and h 0
+in region 2
+loops with multiple
+with multiple statements
+is redundant for
+is a synchronization
+space since there
+an iteration space
+in the rectangular
+space in figure
+g is in
+h and h
+enough to contain
+control flow path
+to be redundant
+and the sink
+d is not
+o to d
+dependence slope and
+distance vector space
+redundant synchronizations in
+vector d a
+the trapezoid oedc
+in the isdg
+synchronization chain from
+the boundary iterations
+end for procedure
+then do nothing
+a synchronization is
+a synchronization to
+control path graph
+the trapezoid adfo
+redundant synchronization in
+to multiply nested
+check 0 0
+for doacross loops
+of redundant synchronization
+height larger than
+dependences in doacross
+adfo and oedc
+identify redundant synchronizations
+height for d
+if a dependence
+path graph cpg
+then no synchronization
+synchronization is redundant
+a height larger
+iter dmax then
+critical height for
+d is unnecessary
+entirely in the
+in figure 4
+dfs algorithm in
+no synchronization is
+entire iteration space
+the entire iteration
+for a synchronization
+the middle section
+iteration space because
+synchronization to be
+iteration space then
+the origin o
+is an alternative
+the necessary and
+of an iteration
+the bottom section
+iteration data dependences
+the statement level
+space is large
+the forward edges
+cross iteration data
+has a height
+a single loop
+synchronization is needed
+of the dependences
+synchronization in a
+in the top
+of the dependence
+space has a
+a necessary and
+all of the
+in a doubly
+in the rectangle
+data dependences in
+level instead of
+the sink of
+in the middle
+is also in
+of d is
+it is because
+of a dependence
+number of statements
+depth first search
+0 0 0
+the first iteration
+of statements in
+in an iteration
+the last statement
+a gamma b
+in figure 1b
+also in the
+section of the
+in one iteration
+in the jth
+proof if the
+need to examine
+large enough to
+is uniformly redundant
+synchronizations in multiply
+d iteration space
+procedure check iter
+unnecessary if the
+those boundary iterations
+sink iter dmax
+iter 0 then
+doacross loops allows
+sections because the
+if mark sink
+dmax then do

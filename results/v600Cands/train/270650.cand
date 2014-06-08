@@ -1,0 +1,600 @@
+chorin
+alternating
+pressure
+boundary
+projection
+stokes
+layer
+incompressible
+errors
+layers
+parasitic
+divergence
+regularized
+navier
+gradient
+expansion
+viscous
+velocities
+modes
+expansions
+tangential
+incompressibility
+differencing
+pure
+velocity
+discrete
+discretization
+smooth
+centered
+uncoupled
+stencil
+convergence
+regular
+spatially
+grid
+regularizations
+equations
+numerical
+walls
+subgrids
+compatible
+pressures
+deltau
+interior
+rq
+asymptotic
+stencils
+ih
+vertical
+regularization
+split
+neumann
+stability
+error
+jh
+fluid
+acting
+fields
+stepping
+rp
+ryabenki
+spectal
+poiseuille
+horizontal
+decoupled
+nk
+corrections
+corollary
+adjoint
+flow
+mismatch
+pointwise
+spacing
+wall
+verifies
+dirichlet
+lemmas
+lemma
+laplacian
+action
+delta
+boundaries
+contour
+fourthly
+jagged
+fogelson
+weinan
+unsplit
+gradients
+solvable
+modern
+brackets
+diffusion
+dominate
+compatibility
+deltaq
+simplified
+null
+effects
+multiplication
+amplifies
+highest
+convenient
+godunov
+rigorous
+perturbation
+scalar
+fully
+suppresses
+computationally
+vorticity
+technical
+normalized
+asymptotically
+increment
+orthogonally
+nonhomogeneous
+checkerboard
+operator
+approximates
+enter
+staggered
+538
+1968
+divide
+regularizing
+picture
+kinematic
+historically
+dominated
+implicitly
+approximations
+dominant
+approximate
+suppression
+accuracy
+viscosity
+marker
+thirdly
+fourth
+trapezoidal
+adi
+periodic
+dynamics
+midpoint
+homogeneous
+cell
+517
+integrable
+believes
+alternates
+guy
+aaron
+sign
+channel
+refined
+2d
+kp
+liu
+shrink
+suppressed
+convection
+fig
+laid
+confined
+ago
+quantity
+near
+tour
+communities
+reciprocal
+mac
+guo
+converges
+artificial
+missing
+primes
+suppress
+horizontally
+omit
+bringing
+illustrative
+neglected
+relationships
+understood
+listed
+derivation
+jian
+shorthand
+derive
+intermediate
+degraded
+width
+spatial
+incompatible
+reader
+discretizations
+cancel
+237
+field
+boundary layer
+alternating errors
+boundary layers
+chorin s
+projection step
+numerical boundary
+error expansion
+alternating terms
+stokes equations
+the pressure
+regular errors
+boundary conditions
+the projection
+at second
+pure gradient
+the boundary
+second order
+divergence free
+o h
+computed pressure
+g h
+the discrete
+the alternating
+p h
+for chorin
+split step
+navier stokes
+d h
+errors from
+discrete projection
+pressure errors
+no alternating
+from chorin
+computed velocities
+parasitic modes
+projection method
+s original
+viscous incompressible
+the computed
+the errors
+regularized scheme
+error terms
+a 2
+errors at
+the stokes
+incompressibility condition
+centered differencing
+at third
+layers at
+and alternating
+in space
+a boundary
+the incompressible
+incompressible navier
+incompressible flow
+third order
+pressure has
+h and
+2 d
+error analysis
+the error
+u p
+a pure
+an alternating
+fully discrete
+layer is
+errors are
+the incompressibility
+highest order
+q 2
+for viscous
+interior equations
+velocities w
+alternating error
+chorin 3
+fully regularized
+original fully
+gradient fields
+tangential boundary
+four null
+layer 14
+the parasitic
+order alternating
+expansion for
+order and
+expansions for
+and gradient
+in 20
+computational results
+normal boundary
+like multiplication
+discrete divergence
+for u
+projection operator
+lemma 1
+conditions for
+for alternating
+u 2
+order numerical
+layer due
+is divergence
+vertical boundary
+asymptotic error
+original scheme
+expansion with
+determined from
+u 3
+at o
+following error
+discrete equations
+the scheme
+errors and
+2 u
+h p
+errors in
+precise description
+first order
+h delta
+regular and
+projection methods
+step and
+and boundary
+in h
+d u
+the tangential
+global error
+equations 13
+a projection
+we note
+errors e
+gradient field
+when relatively
+alternating or
+alternating term
+jh nk
+term described
+pointwise pressure
+regularized d
+the uncoupled
+discrete pressure
+dominant boundary
+estimated convergence
+layer terms
+null modes
+free fields
+order reducing
+projection acting
+flow finite
+upper wall
+h global
+discrete setting
+reducing effects
+layers begin
+of parasitic
+step projection
+increment scheme
+non split
+with spacing
+computing viscous
+regular error
+layer effects
+differencing in
+alternating modes
+normalized pointwise
+where centered
+gradient part
+pressure increment
+h alternating
+spatially regularized
+convenient scaling
+four subgrids
+pure gradients
+scheme 18
+k relatively
+delta h
+in 9
+an error
+terms from
+finite difference
+gradient and
+order accurate
+o k
+fourth order
+the spatially
+expansion i
+free part
+stencil for
+continuous analysis
+layer errors
+and tangential
+error expansions
+approximate projection
+pressure equations
+scheme have
+order regular
+errors appear
+regularized projection
+scheme 42
+this scheme
+for w
+the projection step
+numerical boundary layers
+chorin s original
+the boundary layer
+at second order
+a pure gradient
+navier stokes equations
+a boundary layer
+errors at second
+regular errors at
+for chorin s
+d h and
+the computed pressure
+boundary layers at
+from chorin s
+an error expansion
+viscous incompressible flow
+boundary layer is
+errors from the
+the discrete projection
+is a pure
+order and no
+and g h
+from the projection
+boundary conditions for
+of the errors
+computed pressure has
+d h delta
+no alternating errors
+the computed velocities
+the alternating errors
+the incompressibility condition
+at third order
+and no alternating
+incompressible navier stokes
+u 2 d
+for the pressure
+the stokes equations
+in space and
+h and g
+projection step and
+error expansion for
+the incompressible navier
+the errors from
+third order and
+u p 2
+a 2 u
+for viscous incompressible
+of the stokes
+fully regularized scheme
+alternating errors from
+the pressure errors
+the interior equations
+like multiplication by
+computed velocities w
+expansions for u
+with regular errors
+regular and alternating
+original fully discrete
+numerical boundary layer
+and alternating errors
+order in h
+on an alternating
+q 2 y
+boundary layer 14
+order numerical boundary
+at o 1
+second order numerical
+boundary layer due
+following error expansion
+layer is like
+s original fully
+the split step
+is like multiplication
+expansion with regular
+a is divergence
+alternating errors and
+discrete equations 13
+a 2 d
+for the incompressible
+to the alternating
+in the pressure
+error expansion with
+boundary layer of
+the numerical boundary
+s original scheme
+the error analysis
+space and time
+divergence free and
+at first order
+we note that
+second order in
+of p h
+layer due to
+the boundary layers
+in the discrete
+of g h
+precise description of
+the discrete equations
+the following error
+u and p
+the o h
+to the projection
+o h 2
+a 2 x
+projection method for
+error analysis for
+the action of
+p n 1
+for u and
+analysis for chorin
+o h global
+split step projection
+errors e p
+pure gradient and
+chorin s method
+for computing viscous
+boundary layers from
+non split step
+alternating errors the
+boundary layer that
+centered differencing in
+pressure increment scheme
+alternating terms we
+by h gamma1
+a pressure increment
+error terms from
+the scheme 42
+the parasitic modes
+errors from chorin
+reducing effects on
+and estimated convergence
+the alternating terms
+p h of
+divergence free fields
+boundary layer terms
+the tangential boundary
+the upper wall
+vertical boundary layer
+the error expansion
+order reducing effects
+convenient scaling for
+computing viscous incompressible
+four null modes
+dominant boundary layer
+from the parasitic
+pointwise pressure errors
+free and gradient
+full accuracy for
+o h alternating
+h delta g
+2 d u
+chorin 3 proposed
+split step time
+determine q 2
+layers at first
+the alternating modes
+ih jh nk
+projection acting on
+acting on an
+discrete projection acting
+normalized pointwise pressure
+lemma 1 are
+the dominant boundary
+rates in h
+the discrete setting
+scheme 42 43
+convergence rates in
+layers at third
+size o h
+the discrete pressure
+boundary layer effects
+pressure errors e
+scheme 18 6
+o h p
+term described by
+from this scheme
+expansion for w
+global error due
+a non split
+proposed a computationally
+scheme 10 12
+increment scheme 18
+the four subgrids
+the four null
+and k relatively
+and numerical boundary
+tangential boundary conditions
+and alternating terms
+are pure gradients
+of parasitic modes
+incompressibility condition and
+and gradient operators
+gradient fields we
+estimated convergence rates
+alternating terms in
+an alternating term
+projection step in
+where centered differencing
+the term described

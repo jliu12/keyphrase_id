@@ -1,0 +1,600 @@
+sage
+convolve
+filter
+antialiasing
+sample
+antialiased
+rasterize
+chips
+chip
+3dram
+rendering
+video
+pixel
+buffer
+samples
+convolution
+supersampling
+swath
+majc
+supersampled
+pixels
+reconstruction
+graphics
+filters
+sched
+filtering
+render
+raster
+hardware
+dram
+rgba
+coeff
+renderman
+texture
+rasterization
+jaggies
+bee
+netravali
+buffered
+mcode
+prman
+interleave
+display
+opengl
+textured
+rasterizer
+frame
+polygon
+screen
+streams
+programmable
+fill
+renderers
+lobes
+lighting
+1280
+pins
+fifos
+3drams
+triangles
+accumulation
+artifacts
+pipeline
+akeley
+route
+board
+window
+crt
+mitchell
+color
+scene
+flight
+token
+rendered
+triangle
+quality
+image
+sync
+luts
+density
+legacy
+stencil
+photo
+vertex
+light
+floating
+lit
+kernely
+rasters
+montrym
+supersamples
+ramdac
+rates
+tent
+radial
+pass
+rgb
+gigabytes
+dma
+million
+polygons
+deering
+pixar
+blending
+command
+swap
+ram
+coefficients
+densities
+alpha
+custom
+shader
+cpus
+buffers
+stream
+double
+5x5
+center
+images
+visible
+coefficient
+1024
+xy
+bit
+squared
+accelerated
+sam
+bandpass
+photorealistic
+normalization
+tog
+front
+256
+resizing
+gigabyte
+architecture
+interleaves
+converters
+sorting
+filtered
+3d
+radially
+bandwidth
+aliasing
+digital
+anti
+writes
+blur
+master
+supports
+aliased
+balancing
+imaging
+interleaved
+numeric
+batch
+fifo
+spaced
+800
+hash
+sort
+primitives
+commodity
+squaring
+640
+processor
+outputs
+slave
+id
+billion
+hz
+emerge
+bursts
+stochastic
+location
+external
+sub
+megabytes
+pipe
+emulation
+diagram
+vertical
+sampling
+pipelines
+peak
+host
+anisotropic
+rgbaz
+dribble
+domin
+miettinen
+nordlund
+adr
+swaths
+scaler
+genlocked
+baciu
+clayton
+contouring
+upstill
+sample buffer
+convolve chips
+the sample
+reconstruction filters
+video output
+sample density
+the sage
+the rasterize
+convolve chip
+light space
+the convolve
+filter processor
+convolution center
+sage s
+the convolution
+linear light
+swath line
+6 swath
+filter coefficients
+high quality
+reconstruction filter
+double buffered
+output pixel
+line buffer
+the 3dram
+rasterize chip
+sample pattern
+sched chip
+chip is
+sub pixel
+a sample
+the sched
+accumulation buffer
+graphics hardware
+per second
+sched chips
+bee figure
+four convolve
+buffered sample
+1280 1024
+route chip
+mitchell netravali
+negative lobes
+the antialiasing
+memory interleave
+window id
+sage board
+convolve 6
+sample densities
+dram mcode
+sort last
+3dram chips
+per pixel
+the filter
+frame buffer
+chip to
+vertex data
+sample patterns
+sample data
+of samples
+the frame
+samples per
+filter and
+texture rasterize
+fill rates
+sample writes
+video timing
+sum coeff
+each convolve
+dram dram
+mcode majc
+the antialiased
+buffer convolve
+rendering mode
+raster of
+video out
+software renderers
+full scene
+lit textured
+single buffered
+synchronization token
+rasterize chips
+the majc
+majc dram
+rasterize texture
+filter coefficient
+sample location
+sage is
+sample positions
+our filter
+flight simulation
+chips each
+buffer hardware
+the render
+fill rate
+the samples
+floating point
+20 million
+the opengl
+each chip
+display device
+gigabytes per
+texture memory
+for antialiasing
+bit floating
+5 filter
+on graphics
+pixels are
+buffer is
+real time
+samples in
+reconstruction and
+triangles per
+a sync
+two video
+streams of
+parallel rendering
+chips to
+to support
+the video
+3d graphics
+scan line
+rendering is
+multi pass
+the triangle
+pixel location
+rendering and
+samples to
+squared distance
+5 5
+al 1997
+the screen
+chip the
+filters in
+of reconstruction
+buffer with
+z buffer
+hardware systems
+density of
+pixels on
+pixel and
+point number
+the reconstruction
+non linear
+uniform supersampling
+majc architecture
+6 billion
+pattern ram
+pass stochastic
+sample tables
+filter normalization
+stochastic supersampling
+stage fifo
+software antialiasing
+output side
+antialiasing using
+that sage
+antialiasing algorithm
+netravali filter
+video outputs
+high sample
+a 1280
+set applications
+time antialiasing
+pre write
+and bandpass
+write queue
+unordered rendering
+last chip
+video resizing
+non antialiased
+final video
+internal fifos
+swath of
+spaced sample
+chip rendering
+pseudo color
+sync slave
+peak video
+sage architecture
+renderers the
+rendering sub
+frame currently
+pixar s
+a crt
+vector shader
+sample raster
+fifos and
+original samples
+ple s
+coefficient generation
+parallel transform
+render order
+akeley 1993
+xy location
+a converters
+million lit
+balancing switches
+montrym et
+programmable reconstruction
+the sample buffer
+linear light space
+sample density of
+the convolve chips
+a sample density
+6 swath line
+the convolution center
+swath line buffer
+of the sample
+the four convolve
+four convolve chips
+buffered sample buffer
+the rasterize chip
+convolve 6 swath
+at a sample
+the frame buffer
+texture rasterize texture
+chip is a
+non linear light
+dram mcode majc
+majc dram mcode
+gigabytes per second
+each convolve chip
+the sched chips
+buffer convolve 6
+into the sample
+choice of reconstruction
+the 5 5
+mcode majc dram
+line buffer convolve
+sample buffer is
+the sched chip
+double buffered sample
+the reconstruction filter
+sub pixel location
+triangles per second
+bit floating point
+a 5 5
+samples in a
+all the samples
+pixels on the
+antialiased pixels on
+convolution center is
+a sample buffer
+internal fifos and
+deering et al
+each filter processor
+and compatibility issues
+the filtering in
+sam ple s
+pass stochastic accumulation
+million lit textured
+display however the
+legacy and compatibility
+in the convolve
+processor and normal
+sub regions of
+accumulation buffer hardware
+real time antialiasing
+buffer is replaced
+rendering of antialiasing
+sorting classification of
+virtual set applications
+digital image synthesis
+a modified a
+antialiasing using a
+principles of digital
+a 1280 1024
+programmable reconstruction and
+video output pins
+front of physical
+the majc architecture
+even higher fill
+excess of 80
+pre write queue
+mitchell netravali filter
+convolve chips to
+of parallel rendering
+objects in front
+light space and
+parallel convolve chips
+the antialiased image
+graphics a sorting
+filter coefficients from
+normal vector shader
+non uniform supersampling
+1 box filter
+full scene antialiasing
+a sorting classification
+of negative lobes
+sample buffer the
+graphics principles of
+vertical swath of
+new high end
+unordered rendering mode
+a sync slave
+dram dram dram
+frame buffer is
+the synchronization token
+the 3dram chips
+to support even
+sample per pixel
+sage is a
+high quality rendering
+filter processor is
+in the sched
+within each pixel
+density of 4
+of sage s
+each route chip
+filter processor array
+the sample tables
+hardware accelerated rendering
+the sage architecture
+the convolution processing
+density of 8
+and bandpass filter
+sage chip set
+modified a buffer
+per output pixel
+sample buffer with
+swath of the
+of the sage
+peak video output
+the sample pattern
+filters in computer
+the convolve video
+billion samples per
+a buffer algorithm
+6 billion samples
+reconstruction filters in
+load balancing switches
+the high sample
+the triangle processor
+the video output
+20 million samples
+d a converters
+sched chip is
+sample tables for
+frame currently being
+multi pass stochastic
+much use in
+flight simulation and
+the original samples
+montrym et al
+classification of parallel
+four chips each
+buffer hardware support
+8 gigabytes per
+reconstruction and bandpass
+rasterize texture rasterize
+of antialiasing using
+through 10 are
+second stage fifo
+performs the filtering
+higher fill rates
+the frame currently
+sample buffer for
+1 6 billion
+in coefficient generation
+accelerated rendering of
+triangle processor and
+support for high
+output pixel the
+filter and shows
+in linear light
+1 1 box
+errors in coefficient
+the output side
+support even higher
+the stencil buffer
+for 3d graphics
+dot corresponds to
+and normal vector
+per second or
+5 5 filter
+samples per second
+the two video
+that entered the
+the sample location
+of texture memory
+system not all
+real time hardware
+as a sync
+the sage system
+quality does not
+the accumulation buffer
+filter has a
+squared distance is
+the sub pixel
+of sample data
+that replaces the
+back to front
+not match that
+sample data is
+rate has to
+to a sample
+image synthesis the
+to the convolution
+from the convolution

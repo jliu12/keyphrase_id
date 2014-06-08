@@ -1,0 +1,600 @@
+pe
+dsc
+cpn
+tlevel
+dag
+blevel
+scheduling
+schedule
+pes
+inspected
+scheduled
+dags
+sd
+node
+maxstep
+topological
+lcp
+ccr
+task
+grain
+pseudo
+mcp
+ready
+dominate
+nodes
+randomly
+modied
+microword
+alap
+rst
+dls
+longest
+dierent
+dl
+search
+edge
+pick
+gaussian
+moved
+critical
+synthetic
+blevels
+maxcount
+8258
+tlevels
+searchstep
+1k1k
+2082
+cient
+elimination
+move
+eective
+compile
+nserc
+inspection
+multiprocessors
+edges
+schedules
+dened
+satis
+cp
+child
+unvisited
+fastest
+ties
+static
+sec
+compaction
+margin
+satisability
+parent
+parents
+530
+signicantly
+priority
+repeats
+exit
+ds
+processors
+clusters
+costs
+broken
+np
+weight
+runtime
+appended
+inspecting
+strategic
+earliest
+eectively
+visited
+realizes
+mef0045793
+emaxstep
+str0167029
+ogp0046423
+2k2k
+pretended
+sat1
+kuldip
+32898
+nextnext
+2756
+2next
+maxstepmaxcount
+rinnoy
+searchcount
+9505300
+9625784
+savina
+1000
+descendants
+heuristic
+assignment
+mark
+path
+highest
+moving
+balancing
+children
+hypertool
+abstractscheduling
+padam
+ccrs
+hlf
+minimization
+quality
+load
+tables
+improvement
+merging
+drastically
+pyrros
+lpt
+adn
+precedence
+fast
+priorities
+80s
+microprogrammed
+varied
+inserted
+utilizes
+criteria
+bansal
+message
+random
+recalculation
+systematically
+utilizing
+room
+822
+makespan
+quickly
+kernel
+generates
+unforeseen
+relocation
+zeroing
+stay
+list
+ne
+suers
+entry
+transferred
+counter
+544
+kan
+weights
+increment
+synthetically
+repeat
+corresponded
+trices
+queens
+schedul
+ict
+delete
+acyclic
+533
+recalculated
+rened
+525
+exibility
+rene
+communication
+dominant
+gathers
+utilize
+initialization
+localize
+phd
+attribute
+running
+succinctly
+unbounded
+slower
+named
+sizes
+multiprocessor
+n i
+task algorithm
+local search
+node n
+schedule length
+initial scheduling
+pe k
+dag scheduling
+search algorithm
+pe n
+scheduled dag
+fast task
+pseudo edge
+the cpn
+cpn dominate
+critical path
+l value
+l n
+the pe
+scheduling algorithm
+random local
+tlevel n
+to pe
+a dag
+topological order
+pe pe
+the task
+scheduling algorithms
+a node
+ready node
+synthetic dags
+static scheduling
+inspected in
+length running
+node is
+the schedule
+16 pes
+edge e
+blevel of
+tlevel of
+the tlevel
+the blevel
+pseudo edges
+dominate algorithm
+initial schedule
+of ccr
+is inspected
+fast algorithm
+the critical
+each pe
+are inspected
+pe p
+a pe
+n j
+a pseudo
+dsc is
+been inspected
+dsc as
+maxstep is
+with dsc
+ccr schedule
+task sd
+pe t
+original pe
+modied fast
+sd task
+fast sd
+dsc fast
+sec nodes
+cpn fast
+cpn as
+rst node
+solution point
+dags with
+of node
+gaussian elimination
+of nodes
+comparison for
+e i
+pe that
+from pe
+sd fast
+as initial
+dag is
+next k
+pick a
+on pe
+next next
+a scheduled
+move n
+pes of
+time sec
+l values
+the dag
+the modied
+the list
+search direction
+the l
+tlevel blevel
+for dag
+with cpn
+operation repeats
+ready nodes
+previously exists
+of tlevel
+topological assignment
+elimination program
+length minimization
+dsc algorithm
+than fast
+microword length
+grain partition
+task topological
+an exit
+topological ordering
+exit node
+for synthetic
+the rst
+scheduled to
+a topological
+each move
+fast local
+entry node
+been scheduled
+the node
+e cient
+longest path
+given schedule
+in dag
+length produced
+alap time
+at pe
+mark n
+the random
+the topological
+ties are
+task table
+random search
+as visited
+4 pes
+cpn is
+path length
+nodes in
+o e
+called task
+earliest start
+pe 0
+for gaussian
+if node
+compile time
+the scheduled
+scheduling kernel
+for scheduling
+running time
+moved to
+dag for
+quickly determine
+algorithm is
+nodes are
+node that
+algorithm 16
+of pes
+search algorithms
+are broken
+scheduling parallel
+randomly pick
+and task
+grain size
+repeats until
+algorithm fast
+child nodes
+of schedule
+i to
+computation costs
+parent nodes
+its l
+node in
+randomly selected
+the initial
+of edges
+the scheduling
+task graph
+a local
+size pes
+blevel n
+the dsc
+node scheduled
+while searchstep
+every pe
+blevel values
+sd dsc
+minimization 18
+same tlevel
+cpn sd
+530 2082
+dsc and
+selection assignment
+ccr and
+mean roughly
+searchstep maxstep
+the task algorithm
+node n i
+local search algorithm
+initial scheduling algorithm
+l n i
+n i is
+pe n i
+a pseudo edge
+the schedule length
+the cpn dominate
+pe pe n
+random local search
+n i to
+the critical path
+a local search
+schedule length running
+running time sec
+tlevel n i
+e i j
+the initial schedule
+as initial scheduling
+length running time
+a scheduled dag
+cpn dominate algorithm
+task algorithm is
+edge e i
+the l value
+the topological order
+the rst node
+ccr schedule length
+the blevel of
+cpn fast task
+synthetic dags with
+rst node in
+of ccr schedule
+i to pe
+pseudo edge e
+modied fast algorithm
+create a pseudo
+the modied fast
+dsc fast task
+move n i
+time sec nodes
+comparison for synthetic
+an exit node
+fast local search
+sd fast sd
+if node n
+for synthetic dags
+the tlevel of
+sd task sd
+the random local
+fast sd task
+pick a node
+pes of ccr
+the local search
+of the task
+for each pe
+an entry node
+the pe that
+pe that allows
+l n j
+the fast algorithm
+a fast local
+a topological order
+of node n
+a node is
+critical path length
+n i if
+local search algorithms
+number of nodes
+in a topological
+in the list
+ready node n
+inspected in a
+schedule length produced
+sum of communication
+topological assignment and
+in static scheduling
+pick a pe
+each pe k
+this operation repeats
+microword length minimization
+its original pe
+assignment and scheduling
+operation repeats until
+next next next
+gaussian elimination program
+on 16 pes
+on pe pe
+for dag scheduling
+its parent nodes
+cpn as initial
+topological ordering for
+dag scheduling algorithm
+with cpn as
+i if node
+and scheduling kernel
+the l values
+task topological assignment
+dsc as initial
+and this operation
+with dsc as
+are inspected in
+of l n
+n i for
+for gaussian elimination
+from node n
+ties are broken
+of n i
+edge e l
+fast algorithm and
+the initial scheduling
+to an exit
+length produced by
+one from node
+nodes are inspected
+dag scheduling algorithms
+l value of
+if no edge
+the earliest start
+of a node
+value of l
+and computation costs
+in a dag
+randomly pick a
+in the pe
+e l m
+no edge e
+n i by
+allows the earliest
+quickly determine the
+earliest start time
+local search for
+has been scheduled
+the list is
+is a pseudo
+of a dag
+to the pe
+number of pes
+n i as
+n i on
+schedule length is
+until all nodes
+a given schedule
+as the initial
+that allows the
+node that has
+is reduced the
+to its original
+back to its
+critical path and
+solution point in
+size size pes
+it is inspected
+the dsc algorithm
+to pe k
+do f pick
+the pe the
+f pick a
+task algorithm to
+slower than task
+or pe pe
+dag are inspected
+reduction of edges
+initial schedule the
+topological order it
+each ready node
+delete edge e
+n i back
+on topological ordering
+to either pe
+computation costs at
+as ready and
+fast algorithm is
+i randomly pick
+by any dag
+faster than fast
+construct a scheduled
+i on pe
+node is moved
+while searchstep maxstep
+i from pe
+a ready node
+be varied if
+the dominant sequence
+in pe k
+the random search
+not been inspected
+exists create a
+level of node
+node is invariant
+topological order in
+randomly generated the
+of ready nodes
+blevel n i
+16 pes of
+a random local
+i ties are
+then the topological

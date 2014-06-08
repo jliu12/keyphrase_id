@@ -1,0 +1,600 @@
+player
+rounds
+players
+tapes
+protocol
+coins
+round
+iew
+private
+xor
+randomness
+sensitivity
+privacy
+privately
+messages
+bits
+toss
+tossed
+xors
+random
+tosses
+protocols
+coin
+jg
+assignments
+sends
+boolean
+tape
+bit
+message
+assignment
+leaf
+gm
+multiparty
+technion
+late
+received
+vectors
+kor96
+fxor
+gammaas
+fy92
+bdpv95
+cgk90
+ck92
+km96
+rosn
+bb89
+inputs
+claim
+log
+js
+fix
+root
+lemma
+adi
+string
+tradeoff
+omega
+receives
+eyalk
+sensitive
+deterministic
+sent
+ffi
+kushilevitz
+bounds
+induction
+pn
+aviv
+views
+eyal
+correctness
+outcome
+tel
+pertain
+possessing
+honest
+children
+fund
+anna
+corollary
+il
+constructions
+spaces
+weak
+proofs
+k89
+bfkr90
+kpu88
+s92
+gamma112
+cgk92
+km94
+ck89
+bgg90
+nn90
+iz89
+pez
+adiro
+ishai
+jnos
+n90
+csirik
+ffiis
+km93
+z91
+cg90
+y82
+aghp90
+bsv94
+demetrios
+b89
+nreceives
+gammats
+bgs94
+abor
+secret
+cryptographic
+executions
+ge
+internal
+modulo
+dept
+nil
+communication
+israel
+child
+n0001491
+kk94
+ccd88
+bgw88
+dispenser
+kmo94
+cg88
+achlioptas
+rs89
+balogh
+vv85
+tree
+outputs
+dn
+party
+thirty
+07677
+bm84
+cw89
+dispersers
+hypercube
+phi
+neighbors
+reads
+identity
+quantitative
+fixing
+1g
+desmedt
+announcing
+2f0
+2e
+ac
+linearly
+initiate
+weakly
+secure
+requirement
+benny
+dealer
+rafail
+consideration
+yuval
+crypto
+cryptology
+recycle
+chor
+xoring
+chooses
+claimed
+839
+aiken
+ostrovsky
+enumerable
+rosen
+trapdoor
+amortizing
+sensitivities
+tardos
+hypothesis
+suffice
+cryptographically
+harvard
+stronger
+bishop
+saving
+amplification
+mail
+2ffi
+tau
+vallarta
+sources
+player p
+random tapes
+random bits
+p i
+of rounds
+as f
+r round
+the players
+v iew
+input assignment
+d random
+sensitivity of
+tapes r
+random bit
+private protocol
+the protocol
+a protocol
+of random
+each player
+the sensitivity
+input assignments
+iew t
+protocol to
+assignment x
+of randomness
+s f
+a player
+boolean function
+input bit
+private computations
+other players
+random private
+in private
+function f
+any player
+the messages
+round k
+the privacy
+randomness in
+the view
+bit x
+to player
+d rounds
+communication string
+privately compute
+function xor
+random protocol
+compute xor
+most 2
+input x
+rounds are
+private computation
+round d
+lower bound
+it received
+bit r
+random tape
+f y
+lower bounds
+protocol d
+basic protocol
+input vector
+round number
+jg m
+computing xor
+leaf players
+average sensitivity
+to privately
+ffi correct
+single random
+the random
+tapes of
+deterministic protocol
+on y
+the player
+n rounds
+a boolean
+at most
+xor of
+assume at
+in round
+the function
+the coins
+expected r
+by player
+every player
+d 2
+vector of
+compute a
+string seen
+tossed by
+private d
+tape r
+js f
+log as
+rounds in
+of f
+2 d
+one input
+c k
+f is
+the message
+vector assigned
+protocol derived
+correct protocols
+m 1
+log d
+expected number
+2 random
+view under
+d size
+rounds required
+bound on
+is at
+gamma ffi
+received in
+most q
+the expected
+own input
+a private
+to compute
+denote by
+the d
+this protocol
+k r
+protocol is
+x r
+rounds and
+two messages
+vector x
+and sends
+players are
+all players
+round t
+a be
+values over
+x i
+protocol a
+can assume
+players in
+it tossed
+xor privately
+tossed in
+f good
+assignments y
+rounds complexity
+jg v
+privacy requirement
+xors the
+tapes is
+iew k
+player pn
+its input
+bounds on
+d different
+i x
+the vector
+q k
+messages it
+compute f
+an r
+that jg
+the value
+view of
+which f
+coins and
+rounds lemma
+round protocol
+privacy property
+to toss
+gm 1
+toss the
+the input
+and vector
+different values
+f then
+protocols that
+are necessary
+the correctness
+we prove
+prove the
+sample spaces
+of player
+quantitative study
+d children
+n players
+players will
+coins it
+x and
+expected running
+first round
+for any
+original protocol
+n bits
+sensitivity and
+f gamma
+our proofs
+1 gamma
+the leaf
+n input
+player p i
+number of rounds
+of random tapes
+protocol to compute
+random tapes r
+vector of random
+input assignment x
+most 2 d
+the sensitivity of
+compute a boolean
+v iew t
+of the players
+of random bits
+single random bit
+round d random
+r round d
+rounds are necessary
+random private protocol
+its input bit
+a boolean function
+at most 2
+sensitivity of the
+number of random
+the other players
+bit x i
+assume at most
+the function xor
+d random protocol
+an r round
+xor of n
+input bit x
+sensitive to x
+can assume at
+one input assignment
+protocol d 2
+a player p
+of the protocol
+least one input
+value of f
+input vector x
+boolean function f
+the basic protocol
+the random tapes
+random tapes of
+each player p
+a single random
+amount of randomness
+private protocol to
+compute xor of
+to player p
+log as f
+n as f
+expected r round
+2 random bits
+the leaf players
+private protocol d
+d random private
+to privately compute
+by player p
+sensitivity of f
+most q k
+d 2 to
+function f is
+a function f
+of the function
+the value of
+randomness in private
+c k r
+for every player
+and vector of
+is a protocol
+of randomness in
+on the expected
+on the number
+lower bound on
+of the player
+bound on the
+to compute a
+2 to compute
+2 n as
+by p i
+deterministic protocol derived
+assignment x and
+random tape r
+x and vector
+communication string seen
+as f s
+private d random
+a private d
+2 d different
+average sensitivity of
+jg m 1
+the vector assigned
+the view under
+js f y
+to compute xor
+gamma ffi correct
+for computing xor
+string seen by
+view under consideration
+d different values
+d rounds are
+tape r i
+any player p
+1 gamma ffi
+values over the
+the expected number
+the view of
+of the view
+expected number of
+the messages it
+lower bounds on
+f is sensitive
+vector assigned to
+x j on
+m 1 y
+message it received
+of n bits
+there is at
+p i and
+n log d
+j on y
+of rounds required
+its own input
+in private computations
+on which f
+the communication string
+is at most
+at most q
+bounds on the
+least 2 n
+the players are
+let a be
+to compute f
+a lower bound
+of a player
+of rounds in
+a be an
+a protocol to
+be an r
+the lower bound
+of the sensitivity
+compute a function
+to x j
+protocols that are
+jg v iew
+random tapes is
+random protocol to
+as f gamma
+as f d
+privately compute a
+r round protocol
+player to toss
+different values over
+sensitivity of at
+which f has
+that jg m
+f gamma as
+input assignments that
+coins it tossed
+view of player
+random bit r
+tapes r for
+d 2 random
+consider a player
+the average sensitivity
+xors the message
+seen by player
+computing xor privately
+protocol is late
+the deterministic protocol
+the privacy property
+v iew k
+it tossed in
+assignment on which
+the privacy requirement
+r can assume
+q k gamma
+tapes of all
+consider a private
+as f proof
+that each player
+assignment x for
+of player p
+it received with
+log d rounds
+e r g
+gamma as f
+round k on
+f y j
+as f as
+r as f
+the coins it
+a i x
+the message it
+are necessary and
+the number of
+an expected r
+private computation of
+tapes of the

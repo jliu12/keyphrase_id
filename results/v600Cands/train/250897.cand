@@ -1,0 +1,600 @@
+stepsize
+verlet
+symplectic
+reparameterization
+deltas
+deltat
+reversible
+fig
+hamiltonian
+timestep
+orbits
+stepsizes
+kepler
+leapfrog
+reparameterized
+pendulum
+integration
+leimkuhler
+orbit
+energy
+body
+ae
+momentum
+integrator
+arclength
+ds
+rescaling
+h_0
+midpoint
+lobatto
+adaptive
+reversibility
+differential
+normalization
+field
+discretization
+singularities
+symplecticness
+motion
+particles
+angular
+article
+gravitational
+integrators
+1p
+masses
+reparameterizations
+dynamical
+figs
+iiia
+forces
+vicinity
+algebraic
+eccentricity
+singular
+cusp
+particle
+numerical
+stability
+kutta
+runge
+timesteps
+deltasrv
+200200x
+rescalings
+gammarv
+bobs
+fictive
+bond
+hessian
+force
+dq
+neighborhood
+autonomous
+h0
+double
+implicitness
+cusps
+celestial
+trajectory
+huang
+mechanics
+differentiation
+dynamics
+ukans
+momenta
+durn
+conserves
+66045
+helium
+cano
+scalar
+5b
+resolve
+differentiating
+implicit
+dp
+singularity
+integrating
+quartic
+electrostatic
+nonlinear
+7d
+coupled
+multistep
+kansas
+mechanical
+smooth
+flow
+schemes
+norm
+growth
+9a
+10b
+preserves
+basing
+10a
+potentials
+integrable
+normalized
+excessively
+separated
+qn
+5a
+244
+traversed
+evaluations
+7a
+linearized
+epscor
+deltatrv
+000073
+moleculardynamics
+9255223
+nucleus
+nonintegrable
+1becomes
+skeel
+deltasg
+osr
+titative
+stumbling
+00081
+eccentricities
+flowlines
+nonsepara
+1allows
+interparticle
+mathematics
+regularized
+atoms
+parameterization
+trajectories
+reversal
+molecular
+normalizing
+ks
+separable
+boundedness
+errors
+destroy
+integrate
+4b
+dramatically
+leimkuhl
+ormer
+coulomb
+hallmark
+9303223
+multidimensionality
+recapture
+whuang
+1803
+calvo
+4a
+remarkable
+collision
+lawrence
+classical
+hamiltonians
+squeezed
+7f
+looked
+symmetry
+equations
+lobes
+intolerable
+hairer
+9f
+timescale
+1ae
+ruin
+electron
+1769
+separation
+origin
+gradient
+unstable
+timestepping
+1816
+fixed stepsize
+ae n
+vector field
+time reversible
+verlet method
+body problem
+three body
+adaptive verlet
+variable stepsize
+y fig
+the kepler
+double pendulum
+kepler problem
+energy error
+differential algebraic
+phase space
+stepsize integration
+n body
+deltas 0
+implicit midpoint
+the adaptive
+time stepsize
+stepsize method
+leapfrog verlet
+b leimkuhler
+energy errors
+angular momentum
+time energy
+error fig
+w huang
+time reversibility
+the hamiltonian
+numerical integration
+h_0 fig
+stepsize fig
+one force
+n 1p
+reversible methods
+the reparameterization
+the reparameterized
+timestep fig
+h h_0
+symplectic time
+time timestep
+the vector
+normalization of
+the flow
+1 ae
+the leapfrog
+the orbit
+the stepsize
+the fixed
+force evaluation
+huang and
+of symplectic
+hamiltonian systems
+this article
+integration of
+of deltat
+the neighborhood
+normalized vector
+adaptive method
+the double
+the orbits
+reparameterized equations
+midpoint method
+bond problem
+stepsize deltat
+stepsize verlet
+time reparameterization
+on differentiation
+reparameterization and
+1p n
+verlet scheme
+h h0
+h0 fig
+body approach
+space orbits
+force evaluations
+of motion
+second order
+neighborhood of
+body problems
+binary pair
+steps time
+partitioned runge
+reparameterization of
+deltat min
+problem t
+evaluation per
+reversible integration
+lobatto iiia
+ds ae
+flow map
+iiia b
+order lobatto
+deltas deltas
+algebraic method
+the bond
+on normalization
+1 4
+in fig
+resolve the
+stepsize of
+with hamiltonian
+per step
+the angular
+1 13
+order accurate
+reversibility of
+two body
+stability of
+the gravitational
+u 0
+runge kutta
+singular points
+fig 5b
+rescaling of
+theta p
+the energy
+the vicinity
+d ds
+vicinity of
+the hessian
+ds ds
+n gamma
+differentiating the
+to resolve
+kutta methods
+point u
+the three
+differentiation of
+the forces
+central forces
+stepsize 0
+deltat units
+a stepsize
+used figs
+dq ds
+midpoint scheme
+stepsize integrator
+stepsize integrators
+10a fig
+along phase
+with deltas
+arclength measured
+10b x
+ae dp
+deltas ae
+explicit leapfrog
+a deltas
+in celestial
+reversible schemes
+gravitational or
+conserves the
+coupled differential
+verlet differential
+stepsize numerical
+masses and
+stepsize version
+adaptive fixed
+quartic polynomial
+deltat max
+reparameterization factor
+plotted every
+stepsizes are
+orbits pass
+200200x y
+separated hamiltonian
+integration methods
+r q
+the norm
+norm of
+field is
+in figs
+the scheme
+of autonomous
+the method
+the differential
+0 01
+the equations
+reparameterization is
+66045 u
+of timestep
+qualitative change
+timestep h
+fig 2d
+celestial mechanics
+stepsize for
+reversible integrator
+symplectic methods
+on introduction
+dp ds
+preserves all
+excessively small
+smooth regions
+integral invariants
+standard verlet
+linearized stability
+100 steps
+the vector field
+ae n 1
+the three body
+the kepler problem
+the fixed stepsize
+three body problem
+1 ae n
+n 1 ae
+time energy error
+adaptive verlet method
+energy error fig
+the adaptive verlet
+the double pendulum
+of the vector
+x y fig
+3 1 4
+huang and b
+and b leimkuhler
+1 3 1
+w huang and
+n body problem
+h h_0 fig
+deltas 0 01
+one force evaluation
+ae n gamma
+fixed stepsize integration
+theta p i
+for the kepler
+ae n 1p
+normalized vector field
+time reversible methods
+time timestep fig
+symplectic time reversible
+in the neighborhood
+the neighborhood of
+vector field is
+the implicit midpoint
+the normalized vector
+the adaptive method
+normalization of the
+the angular momentum
+of the flow
+to resolve the
+h h0 fig
+phase space orbits
+force evaluation per
+the reparameterized equations
+for fixed stepsize
+based on normalization
+the bond problem
+time steps time
+fixed stepsize method
+time stepsize fig
+based on differentiation
+steps time stepsize
+kepler problem t
+on differentiation of
+implicit midpoint method
+differential algebraic method
+problem with hamiltonian
+stepsize integration of
+only one force
+time reversibility of
+n 1p n
+fixed stepsize verlet
+equations of motion
+on normalization of
+partitioned runge kutta
+n body problems
+lobatto iiia b
+evaluation per step
+a three body
+the differential algebraic
+of the hamiltonian
+differentiation of the
+1 theta p
+for numerical integration
+the norm of
+shown in figs
+in the vicinity
+the vicinity of
+integration of the
+of fixed points
+norm of the
+n gamma 1
+shown in fig
+n 1 theta
+runge kutta methods
+1 4 is
+of the three
+in this article
+midpoint scheme with
+adaptive verlet differential
+variable stepsize method
+pendulum the kepler
+many other choices
+the reparameterization factor
+numerical integration for
+reversible methods and
+arclength measured along
+double pendulum the
+iiia b pair
+ae dp ds
+the two body
+fixed stepsize numerical
+neighborhood of singular
+a binary pair
+variable stepsize integration
+ds ae dp
+error fig 10b
+polynomial in ae
+body problem the
+explicit leapfrog verlet
+reversible integrator for
+every 100 steps
+fig 10b x
+implicit midpoint scheme
+10b x y
+in celestial mechanics
+deltat min and
+problem t f
+time stepsize deltat
+the explicit leapfrog
+the energy errors
+d ds ds
+and time reversibility
+time reversible integration
+plotted every 100
+of autonomous differential
+stepsize verlet method
+fixed stepsize integrator
+long time interval
+rescaling of time
+reparameterization of time
+verlet differential algebraic
+dq ds ae
+requiring the evaluation
+stepsize numerical integration
+the leapfrog verlet
+200200x y fig
+double pendulum with
+1p n 1
+body problem a
+y fig 10a
+timestep h h0
+reversibility of the
+along phase space
+the three adaptive
+leapfrog verlet scheme
+on introduction of
+resolve the motion
+measured along phase
+fixed stepsize 0
+large n body
+three body approach
+1 13 15
+in ae n
+stability of energy
+based on introduction
+conserves the angular
+double pendulum problem
+a double pendulum
+leapfrog verlet method
+problem a d
+01 and are
+the hamiltonian hence
+scalar nonlinear equation
+fixed stepsize integrators
+coupled differential algebraic
+the smooth regions
+field is large
+the cusp points
+kepler problem and
+growth of errors
+for the gravitational
+differentiating the control
+ukans edu supported
+a coupled differential
+fig 10a fig
+of the hessian
+the equations of
+several numerical experiments
+of singular points
+by ae 2
+of ae n
+a scalar nonlinear
+0 2 fig
+n ae n
+order lobatto iiia
+kepler problem with
+integration of autonomous
+the flow map
+variable stepsize linear
+66045 u s
+per step for
+verlet method a
+b cano a
+cano a durn
+of the eccentricity
+second order lobatto

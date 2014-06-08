@@ -1,0 +1,600 @@
+cpg
+movement
+hyperedge
+ab
+erlebacher
+arrays
+baro
+alignment
+hyperedges
+remapping
+array
+shallow
+dimension
+topology
+phases
+mapping
+nton
+pq
+parallelization
+processors
+parallelized
+predicted
+rhs
+parallelism
+loop
+phase
+adi
+x42
+edges
+redistribution
+dim
+connecting
+dimensional
+dimensions
+1to1
+1ton
+cyclic
+inlined
+mappings
+seconds
+profiled
+hpf
+layout
+grid
+measured
+column
+remap
+nto1
+automatic
+predictions
+topologies
+distribution
+loops
+copy
+owner
+static
+aligned
+strategy
+statements
+compiler
+fortran
+constr
+profiling
+routine
+compilation
+columns
+tomcatv
+weights
+estimated
+connect
+candidate
+dimensionality
+nodes
+processor
+summation
+routines
+selected
+strategies
+massively
+candidates
+sequential
+xhpf
+copies
+minutes
+sweeps
+programs
+dyn
+c6
+distributable
+transposition
+edge
+sequentialization
+bandwidth
+characteristics
+solver
+compile
+multicomputers
+target
+kremer
+distribute
+undirected
+distributes
+distributions
+thread
+effects
+node
+execution
+communication
+rows
+named
+row
+c5
+flow
+multiprocessor
+np
+tool
+793
+distributing
+hyper
+symbolic
+block
+assignment
+primitive
+latency
+proposals
+benchmark
+numa
+reference
+cache
+validity
+statement
+pipelining
+spmd
+theta
+hours
+estimation
+isolation
+secs
+creation
+offered
+directives
+memory
+origin
+inserted
+valid
+optimizations
+multiprocessors
+1st
+c3
+owns
+labels
+saved
+mbytes
+annotate
+eidson
+1359
+processors26
+patts
+franke
+apri
+dims
+2968
+2335
+processors515
+3156
+infomall
+boyle
+ddt
+6160
+1636
+multipartitioning
+1608
+6354
+processors50150
+3481
+2718
+lebacher
+8944
+7315
+ncycles
+8892
+3703
+4726
+4065
+2455
+processors103050
+pattern
+c4
+dotted
+2nd
+integer
+executions
+nest
+kernel
+2g
+detects
+minimal
+col
+belong
+88
+data mapping
+data movement
+mapping strategy
+the cpg
+e ab
+g ab
+automatic data
+dimension of
+ab pq
+dimensional data
+mapping problem
+two dimensional
+1 integer
+parallel times
+one dimensional
+of processors
+cost model
+cost path
+single topology
+dim measured
+array i
+second dimension
+dimension j
+grid of
+alignment distribution
+minimal cost
+data distribution
+path problem
+optimal solution
+between phases
+predicted parallel
+data mappings
+column q
+linear 0
+computation time
+first dimension
+phase p
+each phase
+selected in
+of array
+the alignment
+measured execution
+all arrays
+column p
+integer programming
+valid data
+mapping strategies
+j loop
+movement and
+distributed memory
+the adi
+in g
+array dimensions
+first phase
+the do
+reference pattern
+an nton
+parallelism graph
+profiled sequential
+pq i
+a profiled
+and hyperedges
+hyperedge h
+cpg copies
+our framework
+strategy in
+dynamic data
+actual measured
+cpg is
+edges connecting
+computes rule
+aligned and
+second phase
+execution times
+optimal data
+general two
+owner computes
+of constraints
+variables associated
+phase is
+communication parallelism
+column v
+arrays c
+parallelization strategy
+target system
+cyclic distribution
+the optimal
+each column
+execution time
+do j
+of arrays
+data layout
+the arrays
+distribution and
+cpg are
+2nd dim
+measured 2nd
+candidate parallel
+routine rhs
+dimensional cpg
+a hyperedge
+nton data
+ab copy
+assigned assuming
+movement edges
+integration kernel
+be parallelized
+r ab
+alignment and
+are distributed
+assignment statement
+times for
+dynamic one
+and parallelization
+array dimension
+the data
+the dynamic
+distributed the
+the solution
+predicted and
+are aligned
+each array
+or cyclic
+the distribution
+distribution pattern
+remain inside
+adi integration
+graph cpg
+creation overhead
+a valid
+dimensions of
+our cost
+the owner
+flow statements
+distribution step
+nodes selected
+movement from
+processor topology
+parallel thread
+sequential execution
+profiling information
+our tool
+of edges
+summation of
+assuming a
+dimensional model
+arrays in
+and remapping
+movement time
+predicted figure
+sample code
+arrays are
+programming techniques
+statements between
+array e
+dimensional case
+arrays a
+1 theta
+and distribution
+mapping in
+strategy are
+loop j
+thread creation
+measured dynamic
+measured 9
+programs erlebacher
+adi code
+pipelining computations
+measured parallel
+1st dim
+hyper constr
+measured 1st
+hyperedges that
+constr time
+inlined program
+copy are
+erlebacher program
+the erlebacher
+dynamic predicted
+11 predicted
+time erlebacher
+dimensional topology
+and shallow
+redistribution edges
+dimensional row
+hyperedge is
+edges hyper
+cpg copy
+ab associated
+x42 and
+th dimension
+block or
+v i
+i loop
+array c
+and measured
+integer variables
+the selected
+the program
+the summation
+data mapping strategy
+data mapping problem
+dimensional data mapping
+0 1 integer
+grid of processors
+minimal cost path
+cost path problem
+second dimension of
+the second dimension
+two dimensional data
+first dimension of
+1 integer programming
+valid data mapping
+mapping strategy in
+a valid data
+e ab pq
+predicted parallel times
+one dimensional data
+linear 0 1
+the data movement
+data movement and
+of all arrays
+in g ab
+the first dimension
+measured execution times
+the one dimensional
+a data movement
+alignment distribution and
+the data mapping
+aligned and distributed
+a single topology
+dynamic data mapping
+automatic data mapping
+are aligned and
+d e ab
+automatic data distribution
+the first phase
+dimension of the
+the optimal solution
+in the cpg
+general two dimensional
+theta n 2
+alignment and distribution
+communication parallelism graph
+the actual measured
+ab pq i
+a profiled sequential
+pq i j
+of array i
+using a profiled
+the do j
+do j loop
+optimal data mapping
+data mapping strategies
+n 1 theta
+the computation time
+the second phase
+in our framework
+a minimal cost
+find an optimal
+the owner computes
+owner computes rule
+dimension of all
+and measured execution
+1 theta n
+number of processors
+variables associated with
+the communication parallelism
+block or cyclic
+for each phase
+have to be
+the cost model
+arrays are distributed
+the grid of
+strategy in the
+predicted and measured
+execution times for
+assigned assuming a
+statements between phases
+r ab pq
+distribution and remapping
+dimensional data mappings
+candidate parallel loop
+arrays is distributed
+edges and hyperedges
+integration kernel the
+measured 2nd dim
+movement and parallelism
+parallel thread creation
+thread creation overhead
+an nton data
+are assigned assuming
+that remain inside
+g ab copy
+parallelism graph cpg
+profiled sequential execution
+integer programming techniques
+selected in v
+dynamic one dimensional
+the alignment distribution
+inside the selected
+phase p 1
+adi integration kernel
+flow statements between
+the cpg are
+data movement time
+nton data movement
+data movement edges
+automatic data layout
+set of constraints
+in the first
+the two dimensional
+the dynamic data
+cost model is
+and their values
+in the second
+the minimal cost
+of the solution
+the summation of
+data mapping in
+th dimension of
+remain inside the
+dimensions are distributed
+terms of variables
+the general two
+in phase p
+data mapping and
+primitive is defined
+data movement from
+that the do
+by our tool
+dimension of arrays
+all arrays in
+the number of
+sequential execution time
+of the target
+considered in our
+variables and their
+control flow statements
+in column p
+find the optimal
+with the edges
+required to find
+two dimensional model
+our cost model
+computation time required
+dimensional grid of
+labels in the
+characteristics of the
+suggested by our
+data movement of
+data movement is
+the optimal data
+an optimal solution
+v i j
+the selected set
+integer programming problem
+b th dimension
+measured dynamic predicted
+hyperedges that remain
+j loop in
+of different arrays
+parallel times for
+the sample code
+no data movement
+cpg copy are
+than one column
+the adi integration
+connecting each node
+sequential computation time
+constr time erlebacher
+edges hyper constr
+the dynamic strategy
+hyper constr time
+dim measured 2nd
+candidates for parallelization
+set e ab
+and distributed on
+allows the alignment
+the cpg is
+the erlebacher program
+the adi code
+all nodes selected
+dim measured dynamic
+that connect this
+g ab associated
+parallel times of
+selected in g
+computation time saved
+connect this node
+each g ab
+movement of array
+each reference pattern
+dynamic predicted figure
+program edges hyper
+mapping problem as
+different data mapping
+connected to more
+each column v
+1 integer variables

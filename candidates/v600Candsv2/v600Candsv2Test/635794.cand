@@ -1,0 +1,411 @@
+discretisations
+nonconforming
+nite
+multigrid
+stokes
+discretisation
+smoothing
+mesh
+grid
+spaces
+nodal
+functionals
+solvers
+gmres
+cell
+crouzeix
+raviart
+fk
+convergence
+cells
+piecewise
+dened
+prolongation
+braess
+sarazin
+nest
+bilinear
+smoother
+conforming
+averaged
+disc
+navier
+transfer
+elliptic
+simplicial
+regularity
+multi
+smoothers
+korn
+mixed
+coarser
+satises
+lr
+dierent
+eciency
+quadrilaterals
+residue
+nc
+grids
+pressure
+quadrilateral
+solver
+coarse
+lowest
+rened
+nonsymmetric
+triangulation
+norm
+element
+barycentric
+prolongations
+neighbouring
+saddle
+triangulations
+rates
+exible
+discontinuous
+satised
+freedom
+renement
+residual
+dene
+renements
+mappings
+operator
+symmetric
+analysed
+triangles
+correction
+preconditioned
+projector
+ane
+numerical
+rot
+levels
+nested
+ka
+equations
+mod
+brezzi
+magdeburg
+babuska
+cku
+zulehner
+divergence
+degrees
+rst
+coecient
+triangular
+boundary
+pd
+nk
+suciently
+discrete
+reduction
+bb
+mortar
+midpoints
+riesz
+uzawa
+ckd
+ecient
+variational
+geometrical
+kh
+wj
+subscrpt
+cycle
+child
+contraction
+mapping
+preceding
+solvability
+hierarchy
+behaviour
+velocity
+spectral
+schur
+euclidean
+inequality
+cf
+2d
+modied
+ak
+fullled
+reference
+coecients
+isomorphisms
+approximation
+sup
+denite
+vanishing
+jn
+jk
+analysing
+onto
+md
+iteration
+dierential
+ch
+mg
+inf
+validity
+outer
+benchmark
+arising
+coupled
+inner
+von
+discretization
+multilevel
+fe
+regular
+transforming
+prescribed
+duality
+norms
+matrix
+usual
+gulations
+possion
+conditioners
+rannacher
+msm
+guericke
+motive
+discretely
+ellipticity
+decribed
+conditioner
+nite element
+v l
+multi grid
+u l
+l 1
+multi level
+q l
+order discretisations
+level method
+mesh level
+l k
+order nonconforming
+element spaces
+transfer operator
+element discretisations
+error reduction
+l l
+l u
+nodal functionals
+averaged error
+cell k
+level solvers
+p l
+smoothing steps
+stokes equations
+nonconforming nite
+lowest order
+two level
+higher order
+new l
+reduction rates
+spaces v
+stokes problem
+smoothing property
+u new
+p mod
+general transfer
+k u
+finite element
+example 4
+b k
+element space
+multigrid methods
+crouzeix raviart
+mixed problems
+reduction rate
+grid methods
+local nodal
+level solver
+multigrid method
+basis functions
+space v
+l p
+grid method
+p nc
+k 2
+level independent
+raviart element
+standard multi
+nonconforming discretisations
+disc mesh
+reference cell
+basic iteration
+l 2
+coarse level
+pre smoothing
+nite elements
+lr b
+w cycle
+approximation property
+low order
+navier stokes
+non nested
+space l
+discrete problem
+nonconforming finite
+regularity property
+nonconforming piecewise
+braess sarazin
+gmres method
+fk 2
+point problems
+exible gmres
+grid solvers
+level correction
+dierent discretisations
+level l
+piecewise linear
+nite number
+independent constant
+child cells
+levels l
+piecewise constant
+level 0
+present numerical
+constant functions
+u j
+preceding section
+f l
+k h
+space q
+b l
+bilinear form
+u p
+linear element
+velocity spaces
+system 13
+grid level
+coupled multigrid
+sarazin type
+discretisations based
+additional projection
+projection step
+operator u
+q rot
+valued basis
+korn inequality
+pd 1
+mesh cells
+cells k
+nonconforming low
+type smoother
+saddle point
+nite dimensional
+space b
+level approach
+e k
+problem 6
+nite element spaces
+higher order discretisations
+multi level solvers
+averaged error reduction
+v l 1
+spaces v l
+two level method
+l k u
+k u l
+error reduction rates
+l p l
+q l 1
+l u l
+space v l
+multi level method
+lowest order nonconforming
+cell k 2
+l u new
+u new l
+u l l
+nite element space
+local nodal functionals
+multi grid methods
+nite element discretisations
+error reduction rate
+multi level solver
+finite element discretisations
+general transfer operator
+l l p
+multi grid method
+element spaces v
+p l 1
+l 1 l
+d 1 2
+new l k
+crouzeix raviart element
+methods for nonconforming
+order nonconforming discretisations
+nonconforming nite element
+lr b k
+disc mesh level
+navier stokes equations
+pre smoothing steps
+u l 1
+l k h
+p l k
+example 4 1
+degrees of freedom
+nonconforming finite element
+space q l
+solution of 13
+b k k
+l q l
+p l p
+l is obtained
+nonconforming piecewise linear
+piecewise constant functions
+method for nonconforming
+level independent constant
+multi grid solvers
+coarse level correction
+saddle point problems
+l 1 q
+low order nonconforming
+problem 6 7
+theorem 2 1
+u j 1
+prolongation and restriction
+present numerical results
+l l k
+l 1 v
+multi level approach
+example 4 4
+nonconforming nite elements
+reference cell b
+independent constant c
+sarazin type smoother
+pd 1 2
+l 2 stability
+piecewise linear element
+eciency of multi
+standard multi grid
+piecewise linear functions
+low order discretisations
+discretisations of mixed
+order nonconforming low
+vector valued basis
+q l respectively
+additional projection step
+multi grid hierarchy
+fk 2 lr
+nonconforming low order
+dierent nite element
+valued basis functions
+shows the averaged
+braess sarazin type
+l and l
+l l u
+obtained by transforming
+l and q
+u f l
+conforming and nonconforming
+nite dimensional space

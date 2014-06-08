@@ -1,0 +1,600 @@
+rounding
+ow
+lsb
+ovf
+rne
+injection
+novf
+rnu
+adder
+quach
+lx
+rz
+rounded
+carry
+increment
+sticky
+inc
+qtf
+dcla
+logic
+compound
+52
+pred
+oating
+bit
+signicands
+yz
+pd
+round
+multiplier
+box
+ri
+decision
+delay
+mode
+signicant
+rd
+signal
+modes
+tie
+53
+save
+51
+msb
+prediction
+string
+levels
+digit
+bits
+latency
+equals
+zyner
+signicand
+ninc
+shif
+signals
+multipliers
+product
+xing
+incremented
+mux
+depicts
+dened
+adders
+encoded
+pulled
+position
+exact
+binade
+13l
+eect
+compliant
+precision
+754
+es
+satises
+correction
+104
+eq
+inj
+multiplication
+multiplexers
+floating
+strings
+positions
+products
+jy
+normalization
+pull
+apparatus
+frz
+ulp
+denormal
+14l
+rst
+z1
+9l
+16l
+fp
+50
+digits
+ows
+claim
+took
+double
+outputs
+compression
+binary
+precisions
+diagram
+santoro
+z0
+fastest
+_
+sign
+jx
+discrepancy
+fix
+exponent
+yu
+rig
+correctness
+driver
+working
+pulling
+tricky
+selection
+computes
+toward
+radix
+representable
+sum
+nearest
+multiplexer
+annotated
+correctly
+path
+boxes
+post
+paths
+optimized
+fanout
+occurred
+valid
+truncation
+diers
+place
+dierences
+dec
+naive
+cmos
+widths
+ahmet
+nhon
+prenormalized
+15l
+akkas
+10l
+oberman
+recoders
+suporting
+jsumj
+incnovf
+selects
+critical
+slowdown
+timing
+normalize
+jxj
+subnormal
+naofumi
+cancel
+half
+takagi
+accumulators
+conditional
+multiplications
+microprocessor
+amplifying
+106
+fed
+down
+shifters
+recoding
+gates
+fig
+sake
+operands
+ieee
+latencies
+buering
+flynn
+8l
+shift
+justication
+schulte
+oring
+kung
+denition
+depicted
+over ow
+the rounding
+rounding algorithm
+logic levels
+the lsb
+rounding decision
+increment decision
+exact product
+no over
+the rounded
+y 0
+ow occurs
+a carry
+rounding mode
+compound adder
+rounded result
+quach et
+the injection
+rounding algorithms
+c 52
+the carry
+rounded product
+rounding modes
+carry bit
+carry save
+position 51
+the increment
+not pd
+exact 2
+ow path
+and carry
+sum and
+sticky bit
+the yz
+r rz
+into position
+inc signal
+product is
+the qtf
+lsb of
+incremented sum
+save encoded
+oating point
+delay of
+valid after
+the sticky
+tie occurs
+z ovf
+decision box
+position 52
+based rounding
+rz exact
+the es
+signicant bit
+the inc
+partial products
+an over
+carry is
+round bit
+lx 0
+encoded digit
+three rounding
+inc novf
+the delay
+injection based
+the incremented
+in position
+a tie
+the prediction
+50 if
+working under
+the latency
+to increment
+digit string
+injection is
+least signicant
+for rne
+es algorithm
+bit computation
+ieee rounding
+of quach
+in rounding
+fix l
+52 if
+inc ovf
+generated into
+yz rounding
+ovf 50
+range 1
+binary string
+2 52
+range 2
+the exact
+the compound
+the msb
+for rounding
+0 exact
+latency of
+the round
+the sum
+an increment
+one logic
+l novf
+low part
+14 logic
+novf box
+signicands are
+round toward
+decision rd
+12 logic
+yz algorithm
+decision inc
+l ovf
+qtf algorithm
+and rne
+the signicands
+high part
+ieee compliant
+path working
+decision is
+53 is
+bit c
+the range
+al 23
+z 50
+point multiplier
+point multiplication
+prediction logic
+pulled down
+adder and
+the over
+y 1
+bit is
+upper part
+round to
+x sum
+an injection
+the bit
+logic level
+takes place
+most signicant
+equals l
+levels the
+rnu and
+on quach
+es rounding
+and rnu
+rnu the
+way compound
+lsb should
+to rz
+rd 52
+rd 0
+16 logic
+z novf
+toward 1
+msb y
+shif t
+post normalization
+increment took
+is dcla
+bits y
+signal inc
+and zyner
+right y
+53 104
+carry strings
+ow occurred
+novf 50
+adder the
+the correction
+double precision
+bit adder
+be pulled
+the product
+the no
+delay analysis
+50 is
+took place
+if lx
+carry into
+before xing
+result equals
+position 50
+critical path
+block diagram
+lower part
+the selection
+0 1
+added in
+c 53
+timing estimates
+of yu
+sum y
+pred then
+half adders
+ieee 754
+that satises
+3 bit
+correction of
+the rounding decision
+no over ow
+the exact product
+over ow occurs
+the increment decision
+quach et al
+y 0 1
+the rounded result
+the rounded product
+over ow path
+an over ow
+the rounding mode
+rounding algorithm is
+into position 51
+the rounding algorithm
+of the rounded
+sum and carry
+is valid after
+a carry save
+lsb of the
+the inc signal
+exact product is
+carry save encoded
+the carry bit
+a tie occurs
+the incremented sum
+the lsb of
+logic levels the
+the over ow
+r rz exact
+injection based rounding
+the sticky bit
+the delay of
+in the range
+the sum and
+the partial products
+carry is generated
+range 2 4
+the compound adder
+product is in
+delay of the
+rounding decision is
+save encoded digit
+in position 52
+the rounding modes
+least signicant bit
+encoded digit string
+the no over
+working under the
+the range 1
+of the injection
+the range 2
+y 0 exact
+increment decision box
+one logic level
+compound adder and
+the round bit
+0 exact 2
+if no over
+generated into position
+in rounding mode
+of quach et
+z ovf 50
+the yz rounding
+yz rounding algorithm
+the latency of
+on the rounding
+the least signicant
+bit in position
+a carry is
+under the assumption
+of the rounding
+be pulled down
+exact 2 then
+14 logic levels
+increment decision inc
+the yz algorithm
+logic levels and
+is to increment
+the qtf algorithm
+rounding decision rd
+and the incremented
+12 logic levels
+carry bit c
+is generated into
+the es algorithm
+path working under
+et al 23
+latency of the
+range 1 4
+the correction of
+a compound adder
+decision is to
+range 1 2
+is in the
+the critical path
+of the carry
+of a compound
+down the lsb
+on quach et
+yu and zyner
+the new rounding
+es rounding algorithm
+shif t right
+over ow the
+rounded result equals
+part is input
+the lsb should
+critical path consists
+the 3 bit
+the prediction logic
+rd 0 51
+rounding algorithms for
+result equals l
+t right y
+bits y 0
+new rounding algorithm
+round toward 1
+a carry into
+the carry save
+16 logic levels
+z novf 50
+if an over
+ow occurs and
+rounding mode and
+ow occurred and
+round to nearest
+and carry strings
+a carry bit
+rounding algorithm based
+way compound adder
+inc signal is
+should be pulled
+the signicands are
+increment took place
+over ow occurred
+lsb should be
+based on quach
+three rounding algorithms
+carry into position
+that the rounded
+the msb y
+the injection is
+oating point multiplication
+the product is
+levels and the
+correction of the
+the assumption that
+y 0 and
+is added in
+logic levels in
+compound adder that
+3 bit adder
+is dened by
+a block diagram
+of yu and
+the ieee 754
+and y 1
+the upper part
+assumption that the
+the most signicant
+the binary string
+of the prediction
+during the reduction
+and the latency
+path consists of
+is input to
+part consists of
+y 1 are
+and the increment
+injection is added
+for rounding in
+consists of positions
+of the lsb
+with timing estimates
+and sticky bits
+carry strings are
+then the lsb
+result over ows
+box are the
+52 it follows
+algorithms for ieee
+additional logic levels
+algorithm is 14
+each rounding algorithm
+carry save representation
+fix l ovf
+rounding algorithm in
+ow path and
+the post normalization
+8 logic levels
+rne and rnu
+bit c 52
+of over ow
+depicts a block
+rounding mode ri
+to increment in
+signicant bit of
+three rounding modes
+oating point multiplier

@@ -1,0 +1,600 @@
+router
+packet
+packets
+traffic
+constrained
+link
+effort
+scheduler
+wormhole
+comparator
+outgoing
+flit
+arrival
+ports
+deadline
+priority
+chip
+buffer
+connection
+scheduling
+delay
+arbitration
+switching
+horizon
+queue
+port
+deadlines
+rollover
+latency
+channel
+logical
+connections
+routing
+route
+links
+verilog
+byte
+hop
+bandwidth
+throughput
+channels
+transmission
+virtual
+regulation
+mask
+epoch
+clock
+capitalize
+incoming
+comparators
+injection
+buffers
+logic
+transmits
+identifier
+multicomputer
+mm
+transistors
+early
+bus
+flits
+network
+guarantees
+multicast
+deadlock
+networks
+protocol
+policies
+keys
+resources
+message
+tree
+queues
+messages
+tailors
+admission
+hardware
+header
+amongst
+sorting
+256
+transmit
+permitting
+sharing
+bytes
+service
+nsec
+node
+reception
+establishing
+routes
+diverse
+timing
+switched
+differentiates
+grain
+trade
+permits
+leaf
+bit
+switches
+stack
+five
+downstream
+requirements
+architecture
+establishment
+bolotin
+cidon
+excess
+admissibility
+idle
+communication
+routers
+accommodate
+forwarding
+atm
+permit
+systolic
+silicon
+interconnection
+robin
+buffering
+store
+transistor
+architectural
+employ
+avoidance
+avinoam
+kolodny
+ginosar
+topologies
+stores
+transmitting
+priorities
+stages
+rexford
+ineligible
+eligibility
+arrives
+conflicting
+cooperating
+tight
+eligible
+predictable
+chunks
+implements
+incurs
+nection
+dissipation
+disciplines
+strobe
+fic
+vii
+predictability
+reserve
+utilization
+demands
+expense
+evgeny
+traf
+memory
+destination
+id
+pipeline
+services
+base
+dequeue
+advancement
+240
+reservation
+modern
+coupled
+impose
+cut
+schedule
+worst
+fig
+tures
+bounding
+enqueue
+flow
+stalled
+viii
+employs
+switch
+pins
+conceivably
+awaiting
+architectures
+select
+assigning
+connec
+preemption
+ets
+fine
+access
+reserving
+loading
+summarizes
+time constrained
+time router
+the router
+best effort
+constrained traffic
+logical arrival
+real time
+constrained packets
+the packet
+comparator tree
+effort traffic
+constrained connections
+the real
+time channel
+effort packets
+on time
+arrival times
+router can
+packet memory
+horizon parameter
+arrival time
+protocol software
+the scheduler
+outgoing ports
+virtual channels
+the comparator
+clock rollover
+a packet
+the network
+bit mask
+scheduling logic
+output ports
+outgoing port
+bandwidth regulation
+early time
+end to
+packet switching
+router to
+router architecture
+queue 3
+traffic to
+to end
+constrained packet
+outgoing link
+local delay
+traffic classes
+base of
+regulation and
+connection identifier
+packet scheduling
+constrained messages
+router implements
+time communication
+for time
+flow control
+the link
+channel model
+router s
+the tree
+packet transmission
+performance requirements
+link scheduling
+buffer space
+single chip
+implementation complexity
+deadline based
+the epoch
+queue 1
+to capitalize
+traffic the
+time packets
+node j
+the outgoing
+of best
+for best
+of clock
+256 time
+two traffic
+five byte
+scheduler latency
+virtual channel
+and deadlines
+wormhole switching
+packets based
+from queue
+network protocol
+delay bound
+a router
+and buffer
+capitalize on
+each link
+effort and
+with packet
+packets to
+packet scheduler
+router design
+performance guarantees
+the connection
+delay and
+its logical
+the route
+flit buffers
+buffer resources
+software can
+a connection
+based scheduling
+through switching
+policies to
+i min
+and packet
+the base
+logic sharing
+reception port
+chip solution
+injection port
+epoch silicon
+packet state
+five outgoing
+horizon parameters
+five output
+any early
+effort flits
+buffer requirements
+packet buffers
+architectural parameters
+end delay
+access to
+other traffic
+each outgoing
+virtual cut
+high speed
+delay bounds
+its route
+and throughput
+while permitting
+router chip
+flit level
+and deadline
+parallel machines
+multi hop
+buffer and
+end performance
+bandwidth resources
+mm 2
+router must
+silicon compiler
+network links
+link bandwidth
+average latency
+for access
+admission control
+bound d
+connection has
+priority queue
+for real
+and time
+connection id
+dimension ordered
+hardware complexity
+packet with
+routing table
+the five
+of packet
+incoming packet
+the horizon
+good average
+and best
+outgoing links
+cut through
+early and
+packet switched
+mask of
+time channels
+delay requirements
+average performance
+time applications
+architectures for
+m i
+connection s
+packet header
+of transistors
+comparison operations
+as shown
+routing switching
+effort virtual
+deadline j
+router implementation
+sorting keys
+bus loading
+comparator logic
+excess link
+scheduling operation
+idle address
+chip complexity
+early traffic
+any excess
+allowing best
+effort wormhole
+stream router
+router includes
+real time router
+time constrained traffic
+the real time
+time constrained packets
+logical arrival times
+best effort traffic
+logical arrival time
+time constrained connections
+real time channel
+best effort packets
+the time constrained
+the comparator tree
+the best effort
+end to end
+of time constrained
+and time constrained
+base of the
+early time constrained
+time channel model
+of clock rollover
+the base of
+the router can
+for time constrained
+network protocol software
+bandwidth regulation and
+time constrained packet
+best effort and
+for best effort
+effort and time
+of best effort
+at the base
+the logical arrival
+real time communication
+times and deadlines
+on time packets
+time constrained messages
+its logical arrival
+effects of clock
+the packet memory
+arrival times and
+the router to
+deadline based scheduling
+the network protocol
+to capitalize on
+of the tree
+the router s
+packets based on
+effort traffic to
+two traffic classes
+early and on
+regulation and deadline
+with packet transmission
+and on time
+and deadline based
+at node j
+delay and throughput
+in the packet
+time communication in
+protocol software can
+in its route
+the network links
+cut through switching
+that the router
+for real time
+for access to
+a single chip
+space for time
+and best effort
+as shown in
+the scheduling logic
+to time constrained
+five outgoing ports
+time time constrained
+the connection identifier
+time router implements
+256 time constrained
+the epoch silicon
+constrained traffic to
+constrained and best
+single chip solution
+best effort flits
+epoch silicon compiler
+on time time
+the two traffic
+and bandwidth resources
+constrained connections the
+bit mask of
+traffic to capitalize
+scheduling with packet
+five output ports
+constrained traffic the
+capitalize on any
+to end delay
+message m i
+virtual cut through
+of the router
+the outgoing link
+in the route
+to end performance
+from queue 3
+time constrained and
+performance requirements of
+buffer and bandwidth
+an incoming packet
+this table summarizes
+local delay bound
+of the comparator
+the bit mask
+the packet header
+a real time
+delay bound d
+access to the
+real time applications
+in the router
+arrival time at
+real time channels
+this figure illustrates
+packet for transmission
+best effort virtual
+stages of delay
+a logical arrival
+and buffer resources
+conflicting performance requirements
+the five outgoing
+constrained traffic although
+any excess link
+time channel the
+to queue 1
+at the downstream
+the packet scheduler
+deadlines and logical
+the reception port
+policies to the
+best effort wormhole
+while allowing best
+each outgoing port
+priority queue architectures
+traffic based on
+and throughput guarantees
+schedules time constrained
+effort packets to
+allowing best effort
+router includes a
+any early time
+horizon parameters h
+timing model of
+excess link bandwidth
+the injection port
+instead the real
+on time traffic
+using the verilog
+router architecture that
+detailed timing model
+protocol software to
+the router implementation
+the five output
+transmission as a
+the horizon parameter
+requirements of time
+selection and admission
+constrained packets based
+and logical arrival
+verilog simulation experiments
+the conflicting performance
+complexity the real
+their logical arrival
+connection identifier and
+guarantees for time
+time router can
+each time constrained
+in table i
+and deadlock avoidance
+the low latency
+each traffic class
+how the real
+trade space for
+performance of best
+and the epoch
+the local delay
+round robin arbitration
+the connection s
+the router must
+description language and
+buffer space at
+the downstream node
+each hop in
+larger values of
+of the five
+values of k
+end delay bound
+a detailed timing
+table summarizes the
+architectures for high
+the protocol software
+dimension ordered routing
+connection has a
+real time parallel
+in parallel machines
+to end latency
+the verilog hardware

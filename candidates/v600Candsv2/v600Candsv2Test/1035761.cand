@@ -1,0 +1,366 @@
+mut
+protocols
+protocol
+synch
+synchronizing
+inhibiting
+multifunction
+composite
+initiate
+action
+ff
+inhibit
+receptions
+leader
+token
+en
+fi
+initiation
+recd
+actions
+composition
+ext
+traverse
+invariant
+infer
+initiator
+unspecified
+connect
+superimposition
+ch
+liveness
+enter
+invariants
+priority
+exclusion
+inhibited
+site
+para
+initiated
+message
+ef
+concurrently
+channel
+election
+inhibits
+mutual
+establishment
+initiators
+multiphase
+constraint
+init
+connection
+sdata
+item
+disconnection
+matching
+receiving
+credit
+interleaved
+sent
+gamma
+inferred
+sites
+req
+sender
+sends
+rec
+enable
+ready
+traversal
+constraints
+structuring
+subproblems
+avail
+channels
+bool
+receivers
+compositional
+deadlock
+receiver
+processes
+falserequest
+fffg
+raverse
+fenter
+rdata
+rtoken
+conflict
+lemma
+spend
+guards
+restrictions
+initialization
+inference
+invalidate
+enabled
+ffig
+subfunctions
+terminates
+messages
+decomposed
+specifying
+safety
+designing
+pn
+var
+fff
+combine
+shared
+active
+superimposed
+guard
+false
+inhibition
+formalisms
+executing
+terminating
+informally
+incremented
+phased
+send
+corollary
+rules
+combining
+subtask
+synchronized
+component
+head
+statement
+sequential
+reachable
+fusing
+belongs
+ri
+transfer
+dominates
+imposing
+event
+incrementing
+elect
+communicating
+executed
+ab
+wherein
+formalism
+arg
+request
+execution
+flow
+reflects
+belonging
+critical
+win
+snapshots
+formulas
+sending
+mess
+synchronzing
+recr
+truertoken
+trueenter
+folowing
+fexit
+falsestoken
+reinitiate
+trueelect
+contentsm
+lict
+invaraint
+interactions
+involve
+specify
+discipline
+modular
+propositions
+check
+contents
+permission
+nized
+subfunction
+frequest
+intial
+interacting
+imposed
+snapshot
+grant
+items
+id
+projection
+iterative
+loop
+structured
+circulated
+spective
+disciplined
+delivery
+component protocols
+composite protocol
+mut 1
+synch p
+p q
+initiate p
+ff fi
+synchronizing constraint
+multifunction protocols
+connect 1
+unspecified receptions
+f low
+check 1
+inhibiting constraint
+synchronizing constraints
+sent 1
+enter 1
+process mutual
+traverse 1
+inhibit p
+hold 1
+lemma 4
+ef p
+state g
+liveness properties
+three process
+inhibiting constraints
+enable p
+mutual exclusion
+data item
+composition using
+para list
+traverse 2
+leader 1
+active p
+connection establishment
+terminates q
+exclusion protocol
+sequential composition
+inference rules
+loop statement
+parallel composition
+fi via
+p terminates
+var p
+used used
+functions concurrently
+q conflict
+ext 1
+rec l
+protocol m
+composite protocols
+en b
+bool l
+initialization action
+connect 2
+critical section
+election protocol
+flow control
+interleaved execution
+becomes true
+leader election
+protocol r
+corollary 4
+initial state
+using synchronizing
+multifunction protocol
+computation associated
+gamma hold
+m para
+recd 1
+disconnection protocol
+component functions
+infer safety
+protocols several
+n process
+combining connect
+protocol mut
+constructing multiphase
+matching action
+basic computation
+true active
+combining mut
+multiple functions
+ff unless
+invalidate ff
+token check
+token gamma
+data f
+active q
+capture id
+protocol obtained
+component protocol
+unless fi
+synch p q
+mut 1 2
+p and q
+invariant of r
+ch i j
+free from unspecified
+process mutual exclusion
+inhibit p q
+p has priority
+connect 1 2
+priority over q
+q or p
+fi in r
+invariant of p
+check i j
+hold 1 2
+check 1 3
+invariant of mut
+rules to infer
+hold 1 3
+mutual exclusion protocol
+execution of p
+r is free
+set of constraints
+leader election protocol
+obtained by combining
+b 2 synch
+connect 2 1
+p terminates q
+fi in p
+ff fi via
+composite protocol r
+check 1 2
+ff is true
+enter 1 2
+hold i j
+en a l
+enter 1 3
+true in g
+safety and liveness
+lemma lemma 4
+synchronizing and inhibiting
+mut 1 3
+data f low
+holds the token
+next data item
+id 1 sent
+set of component
+mut i j
+two process mutual
+two component protocols
+variables in var
+state g l
+protocol by combining
+combining mut 1
+token gamma hold
+sent 1 2
+m para list
+constraint is useful
+p then ff
+initiation of p
+fi 2 ef
+combining connect 1
+en a gamma
+ff unless fi
+p i inhibits
+belongs to synch
+sent 1 3
+capture id 1
+true if ext
+protocols which perform
+refer to variables
+composition of protocols
+q is non
+message of type
+performs the function

@@ -1,0 +1,600 @@
+frameworks
+congruent
+lattice
+unreachable
+monotonic
+gfp
+ssa
+congruencies
+propagation
+monotone
+worklist
+zadeck
+inferences
+congruence
+undefined
+facts
+wegman
+ccp
+equations
+reachable
+profitable
+analyses
+gvn
+cfg
+optimizations
+op
+pred
+6j
+notices
+downhill
+sigplan
+nk
+inputs
+numbering
+elimination
+combine
+combined
+expressions
+meet
+int
+mixed
+awb
+constants
+xy
+lj
+height
+monotonicity
+chambers
+compiler
+keith
+discover
+cooper
+flow
+discovers
+interact
+unioning
+craig
+statements
+descending
+arity
+textually
+expression
+chain
+predicate
+implicit
+combining
+composition
+literal
+grove
+grown
+toplas
+discovered
+transformations
+code
+kd
+susan
+assignment
+equivalence
+ary
+operator
+conditional
+badea
+dipanwita
+hasti
+nanopass
+palanciuc
+metrowerks
+reachablity
+starcore
+dnn
+aopb
+lenart
+dragos
+unreached
+6jg
+primitive
+algebraic
+interactions
+dependence
+propagate
+subtract
+greatest
+reached
+destroy
+iterating
+optimizing
+looks
+intermediate
+multiply
+waddell
+engelen
+matthai
+grosul
+virgil
+baosheng
+philipose
+auslander
+compilation
+unusual
+statement
+compilers
+reachability
+inference
+identities
+sadler
+waterman
+fares
+litvinov
+devika
+naumovich
+vassily
+sutter
+defouw
+straightfor
+vick
+christopher
+identity
+zhao
+pointer
+tonic
+wankang
+torczon
+harvey
+scozzari
+alpern
+pdg
+hiser
+bershad
+gleb
+optimistic
+defines
+lerner
+kistler
+liberty
+giacobazzi
+cobleigh
+1109
+moral
+dybvig
+saumya
+ordering
+iterative
+mop
+profitability
+1067
+debray
+bjorn
+jamieson
+kyle
+tarski
+gallivan
+transfer
+passes
+francesca
+reflexivity
+817
+tuple
+executable
+names
+vista
+anything
+meets
+versa
+inspection
+opportunities
+fj
+childers
+813
+reeves
+kam
+unknown
+vice
+interdependent
+infix
+mono
+como
+printf
+horwitz
+rebecca
+boxed
+combined framework
+constant propagation
+unreachable code
+monotone analysis
+the combined
+the equations
+ssa form
+code elimination
+simple constant
+the program
+the lattice
+two frameworks
+and zadeck
+l c
+meet operator
+wegman and
+of monotonic
+congruent to
+lattice l
+analysis frameworks
+and unreachable
+value numbering
+phase ordering
+analysis framework
+approximation functions
+the ssa
+congruent values
+more facts
+the gfp
+c xy
+fixed point
+ordering problem
+l u
+mixed functions
+iterative technique
+o nk
+mixed function
+to combine
+sigplan notices
+notices v
+the worklist
+the functions
+nk 2
+a monotone
+of equations
+acm sigplan
+equations are
+l elements
+intermediate representation
+descending chain
+our inferences
+original frameworks
+combine constant
+original transformations
+monotonic equations
+a gfp
+equations int
+program equations
+implicit references
+separate analyses
+the constant
+combine two
+the meet
+static single
+x 3
+are monotonic
+monotonic and
+height d
+oe functions
+inferences are
+undefined variables
+monotonic function
+is reachable
+int x
+expression x
+transfer functions
+propagation equations
+combined problem
+conditional constant
+maximal solution
+primitive function
+u r
+single assignment
+of congruent
+all equations
+propagation with
+the implicit
+framework the
+global value
+a constant
+x 0
+framework is
+greatest fixed
+d cooper
+keith d
+elements we
+monotonic functions
+in combining
+7 l
+inputs to
+of statements
+int is
+complete lattice
+equivalence relation
+same constant
+basic blocks
+inputs are
+program dependence
+the cfg
+equations to
+control flow
+assignment form
+craig chambers
+combined equations
+the 6j
+combined example
+in ssa
+using undefined
+meets x
+being congruent
+frameworks dependence
+inferences we
+programs systematic
+element lattice
+x congruent
+u framework
+constant add
+gfp we
+congruent inputs
+figure extending
+on congruent
+chain property
+marked unreachable
+than repeated
+undefined values
+frameworks can
+detecting equality
+facts because
+optimizations exhibit
+worklist time
+lattice height
+several passes
+literal constants
+finite descending
+reachable variable
+facts than
+modern optimizing
+combining frameworks
+zadeck use
+delta pred
+code improvement
+propagation lattice
+the subtract
+combining analyses
+discovers these
+we combine
+facts are
+identity function
+statement s
+be discovered
+explicit the
+flow analysis
+two expressions
+program s
+better results
+we generate
+0 do
+implicit function
+no better
+is monotonic
+o n
+combined solution
+optimizations until
+facts at
+framework l
+equations makes
+combining constant
+also monotonic
+code many
+s 4
+expression in
+the variable
+applications of
+functions is
+grown by
+every primitive
+algebraic identities
+meet over
+per statement
+be congruent
+worklist w
+inferences and
+ideas more
+individual solutions
+have functions
+these transfer
+dependence flow
+always false
+s intermediate
+equations each
+the combined framework
+unreachable code elimination
+simple constant propagation
+a monotone analysis
+monotone analysis framework
+wegman and zadeck
+phase ordering problem
+and unreachable code
+the ssa form
+the constant propagation
+nk 2 d
+combined framework is
+in the program
+o nk 2
+in the ssa
+acm sigplan notices
+sigplan notices v
+solving the equations
+the meet operator
+number of statements
+int x 0
+program equations int
+the mixed function
+x 0 do
+combine constant propagation
+the original transformations
+framework is monotonic
+equations int x
+of monotonic equations
+of congruent values
+constant propagation equations
+monotone analysis frameworks
+system of monotonic
+to combine constant
+the original frameworks
+a fixed point
+static single assignment
+in the lattice
+fixed point is
+point is reached
+of l elements
+global value numbering
+propagation and unreachable
+on the worklist
+applications of f
+conditional constant propagation
+a phase ordering
+how to combine
+we generate the
+in the equations
+of monotonic functions
+to combine two
+constant propagation with
+until a fixed
+expression in the
+the greatest fixed
+o n 2
+greatest fixed point
+keith d cooper
+program dependence graph
+a complete lattice
+constant propagation and
+functions we use
+of inputs to
+about the program
+single assignment form
+number of equations
+defined in figure
+the equations are
+approximation functions in
+other frameworks can
+and zadeck use
+more facts about
+analysis frameworks in
+equations are still
+the facts at
+in ssa form
+open question as
+for y i
+the combined equations
+have functions from
+more facts than
+congruent values to
+about the monotonicity
+using undefined variables
+ssa form the
+the conditional constant
+has grown by
+s intermediate representation
+propagation lattice l
+equality of variables
+modern optimizing compilers
+what other frameworks
+functions on congruent
+constant add of
+descending chain property
+the iterative technique
+the approximation functions
+is also monotonic
+solving the combined
+the l c
+inputs to any
+variables in programs
+for simple constant
+being congruent to
+on congruent inputs
+combining two frameworks
+l u framework
+the implicit references
+for optimization this
+oe functions we
+meet operator we
+finite descending chain
+an expression x
+and global value
+because the lattice
+code many of
+same constant add
+the worklist time
+set of inferences
+the finite descending
+frameworks dependence flow
+optimizations exhibit a
+to what other
+two element lattice
+our inferences are
+theta n 7
+generate the equations
+equivalence relation this
+framework the combined
+several passes over
+unreachable code than
+tuple of l
+program s intermediate
+functions is also
+optimizations until a
+detecting equality of
+the gfp we
+x congruent to
+these optimizations exhibit
+good code many
+explicit the implicit
+analysis frameworks dependence
+exhibit a phase
+l elements we
+constant propagation lattice
+every primitive function
+ffl they compute
+lattice l c
+facts at hand
+place all equations
+facts because each
+representation to generate
+primitive function in
+passes over a
+combine two frameworks
+programs systematic design
+frameworks can be
+add of a
+form an equivalence
+the assumption is
+the implicit function
+number of inputs
+the individual solutions
+x is undefined
+monotonic function f
+values to yield
+generate good code
+use the meet
+a two element
+expression that defines
+the combined solution
+to program dependencies
+that combines them
+important when it
+chosen from f
+x 1 s
+can discover more
+getting the best
+when a combination
+approach to path
+to path problems
+intermediate representation to
+it can discover
+identity function and
+mixed functions for
+dependence flow graphs
+u u r
+of the original
+an equivalence relation
+time is o
+the equations for
+the l u
+complete lattice with
+over a program
+propagation with conditional
+to l c
+constant propagation algorithm
+elements we use
+these transfer functions

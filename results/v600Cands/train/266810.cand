@@ -1,0 +1,600 @@
+hyperblock
+conversion
+predicated
+reverse
+ric
+predicate
+hyperblocks
+predication
+pfg
+branch
+compilation
+instructions
+schedule
+paths
+superblock
+instruction
+conversions
+ilp
+scheduler
+compiler
+formation
+converter
+sched
+height
+branches
+scheduling
+resource
+converting
+cycles
+dead
+072
+cccp
+optimizations
+p1
+mispredictions
+grep
+misprediction
+aggressive
+085
+cc1
+benchmarks
+eqntott
+removal
+023
+backend
+dependence
+converted
+predicates
+code
+wc
+cmp
+heuristic
+schedules
+scheduled
+prediction
+sc
+op
+resources
+yacc
+consumption
+008
+convert
+026
+perl
+hazard
+espresso
+ijpeg
+decisions
+022
+cyclesno
+transformations
+guarding
+flow
+134
+dependences
+prepass
+sias
+profitable
+penalty
+cydra
+processor
+hammock
+hb
+frameworks
+execution
+partial
+seemingly
+hazards
+resultant
+registers
+early
+overlapped
+eqn
+benefits
+profitability
+heuristics
+balancing
+compress
+3p
+opportunities
+inclusion
+gains
+characteristics
+balance
+delaying
+crozier
+mispredric
+perblock
+132
+hwu
+effectiveness
+mei
+postpass
+growth
+processors
+reuse
+cfg
+duplication
+jump
+unrolled
+path
+vachharajani
+delayed
+benchmark
+gain
+tail
+mutlu
+hyesoon
+onur
+joao
+removed
+register
+compiling
+exhibited
+latencies
+weigh
+playdoh
+location
+p3
+subdivided
+fall
+decision
+formed
+heights
+cycle
+speculation
+ejected
+connors
+guarded
+branching
+piler
+departmental
+unscheduled
+interference
+manipulation
+effective
+mahlke
+consumes
+plied
+formations
+facilitate
+cairns
+explosion
+penalize
+undoing
+wen
+perfect
+patt
+policy
+microarchitecture
+operand
+superscalar
+virtual
+carter
+profiling
+targets
+compatible
+created
+deciding
+repre
+placement
+renaming
+queensland
+overlap
+architectural
+desirable
+utilization
+forming
+surrounding
+yale
+loop
+instruc
+r4
+poor
+million
+recurrences
+six
+target
+cond
+limitations
+reverse if
+if conversion
+partial reverse
+the hyperblock
+hyperblock formation
+predicated execution
+if conversions
+if converting
+predicate representation
+if converter
+converting branch
+the predicate
+hyperblock is
+dependence height
+if converted
+of predicated
+for predicated
+code size
+conversion is
+the reverse
+schedule time
+if convert
+a hyperblock
+compilation framework
+dead code
+partial dead
+control flow
+the pfg
+list scheduler
+the partial
+the compiler
+the compilation
+compilation procedure
+predicated code
+branch prediction
+hyperblock compilation
+the predicated
+hyperblock and
+and predication
+072 sc
+resource consumption
+at schedule
+both paths
+the code
+predicate flow
+original hyperblock
+conversion the
+the schedule
+ilp processors
+085 cc1
+023 eqntott
+code removal
+and partial
+early in
+these paths
+height of
+sched ric
+predicate defining
+ric taken
+ric cycles
+flow transformations
+predicated representation
+conversion at
+cycles ric
+this hyperblock
+of reverse
+instruction 2
+the taken
+hyperblock code
+of predication
+be reverse
+of instructions
+134 perl
+the paths
+multiple paths
+fall through
+for ilp
+of predicate
+code schedule
+008 espresso
+flow graph
+the superblock
+code growth
+the backend
+026 compress
+of control
+paths which
+to reverse
+control dependences
+resource interference
+sched cycles
+parallel sections
+conversion decisions
+superblock compilation
+a pfg
+eqn grep
+grep wc
+ric op
+code characteristics
+three issue
+backend compilation
+hyperblock framework
+of hyperblock
+ric hb
+of branch
+height reduction
+taken path
+132 ijpeg
+the benchmarks
+performance loss
+through path
+flow and
+virtual registers
+three cycles
+conversion in
+two paths
+paths are
+the branch
+cccp cmp
+022 li
+li 023
+conversions that
+framework partial
+each reverse
+predication to
+eqntott 026
+cmp eqn
+predicate analysis
+espresso 022
+dynamic cycles
+defining instruction
+final code
+removal of
+impact compiler
+the scheduler
+n address
+tail duplication
+ijpeg 134
+compress 072
+conversion was
+compiler to
+of paths
+branch misprediction
+for compiler
+and scheduling
+formation is
+p1 is
+the framework
+size reduction
+i august
+heuristic is
+execution paths
+scheduler may
+david i
+during scheduling
+some optimizations
+instructions which
+the removal
+perl cccp
+forming hyperblocks
+ric framework
+sched cyclesno
+formation decisions
+predicate manipulation
+ric queue
+partial ric
+heuristic hyperblock
+hyperblock with
+an unrolled
+conversion framework
+path explosion
+applying if
+pfg can
+aggressive if
+boolean source
+partial if
+predicate paths
+support predicated
+hyperblock to
+superblock code
+yacc benchmark
+in ric
+conversion a
+frameworks with
+poor hyperblock
+hyperblocks early
+after hyperblock
+cc1 132
+cyclesno ric
+conversion frameworks
+perfect scheduler
+the then
+four cycles
+the branches
+optimization and
+support for
+on branch
+of partial
+the fall
+misprediction penalty
+reverse if conversion
+partial reverse if
+the partial reverse
+the reverse if
+reverse if conversions
+reverse if converting
+if converting branch
+the predicate representation
+reverse if converter
+if conversion is
+of the predicate
+partial dead code
+reverse if converted
+if conversion the
+flow and predication
+of reverse if
+and partial reverse
+of the hyperblock
+for predicated execution
+at schedule time
+of predicated execution
+in the compilation
+the original hyperblock
+hyperblock and partial
+the hyperblock and
+predicate flow graph
+reverse if convert
+to reverse if
+dead code removal
+early in the
+control flow and
+optimization and scheduling
+be reverse if
+the compilation procedure
+control flow transformations
+if conversion at
+if conversion in
+for ilp processors
+dependence height of
+a list scheduler
+fall through path
+predicate defining instruction
+the predicate flow
+cccp cmp eqn
+the backend compilation
+hyperblock formation is
+sched cycles ric
+to be reverse
+cmp eqn grep
+predicated execution is
+of partial reverse
+dynamic cycles in
+eqn grep wc
+if conversion decisions
+the predicated representation
+for if conversion
+execution on branch
+if conversion was
+if conversions that
+branch instruction 2
+predicated execution on
+by the hyperblock
+each reverse if
+code size reduction
+of if conversion
+022 li 023
+espresso 022 li
+the hyperblock code
+eqntott 026 compress
+li 023 eqntott
+if conversion to
+008 espresso 022
+number of reverse
+023 eqntott 026
+the impact compiler
+of the benchmarks
+132 ijpeg 134
+a performance loss
+the fall through
+compress 072 sc
+the list scheduler
+026 compress 072
+the taken path
+the available resources
+execution of multiple
+david i august
+of the partial
+the removal of
+inclusion of a
+in a performance
+between control flow
+forming hyperblocks early
+hyperblock is a
+in a hyperblock
+the hyperblock to
+n address code
+if conversion frameworks
+the superblock code
+of both paths
+for the hyperblock
+be if converted
+of three cycles
+wc yacc benchmark
+hyperblock formation decisions
+hyperblock formation the
+if converter was
+applying if conversion
+support predicated execution
+to if convert
+grep wc yacc
+the predicate defining
+partial ric framework
+into the hyperblock
+if conversion and
+perl cccp cmp
+boolean source operand
+in the hyperblock
+134 perl cccp
+this hyperblock is
+a reverse if
+of dynamic cycles
+of predicated code
+source of reuse
+after hyperblock formation
+the code schedule
+cc1 132 ijpeg
+sc 085 cc1
+hyperblock framework partial
+if conversion a
+in the backend
+backend compilation procedure
+the parallel sections
+hyperblock formation heuristics
+if converted and
+heuristic hyperblock formation
+aggressive if conversion
+if conversion framework
+with partial reverse
+from the hyperblock
+for reverse if
+conversion at schedule
+partial if conversion
+if conversion may
+p1 is true
+ric framework figure
+085 cc1 132
+sched cyclesno ric
+framework partial ric
+support for predicated
+of the reverse
+back into the
+the compiler has
+branch prediction strategies
+the cydra 5
+the compiler to
+of these paths
+072 sc 085
+paths may not
+predicate analysis and
+if conversion has
+instructions 1 and
+paths of control
+the then and
+of multiple paths
+conversion may be
+then and else
+after if conversion
+the compilation framework
+height of the
+multiple paths of
+ijpeg 134 perl
+the if conversion
+if conversion of
+paths must be
+the effectiveness of
+paths can be
+should be if
+on branch prediction
+the number of
+complex control flow
+the scheduling process
+due to resource
+the final code
+using the hyperblock
+wen mei w
+mei w hwu
+of the code
+the resources required
+paths which are
+dead code elimination
+what should be
+of a path
+the target processor
+into the original
+number of dynamic
+was able to
+all the paths
+and control flow
+the predication domain
+if conversion does

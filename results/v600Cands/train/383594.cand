@@ -1,0 +1,600 @@
+handoff
+handoffs
+switch
+po
+signaling
+policy
+npo
+i2v
+anchor
+links
+mobile
+inter
+mi
+epochs
+atm
+link
+connection
+epoch
+ni
+bernoulli
+path
+decision
+switches
+policies
+terminal
+qos
+duration
+msuch
+i1df
+crossover
+rerouting
+wireless
+mt
+optimization
+incurred
+optimizations
+termination
+0for
+dhpo
+action
+network
+nondecreasing
+delay
+stationary
+markov
+destination
+li
+periodic
+target
+threshold
+lifetime
+iand
+optimality
+ain
+extension
+certainty
+locations
+heuristics
+load
+utilized
+iteration
+rate
+maker
+resources
+forum
+jand
+dt
+semi
+occupies
+interchanging
+mobility
+endpoints
+pnni
+disruptions
+accrued
+horizon
+terminals
+exponentially
+versus
+benny
+networks
+proposition
+topology
+sojourn
+diverge
+insensitive
+abr
+percentage
+deterministic
+probability
+summation
+station
+dr
+formulation
+communicating
+movement
+bing
+cbr
+vbr
+setup
+opt
+lookup
+tx
+incentive
+initiate
+vp
+discount
+dv
+location
+averages
+transition
+remote
+protocol
+discounted
+service
+cell
+bandwidth
+land
+branch
+hung
+stochastic
+uncertainty
+controller
+routing
+averaged
+estimated
+convenience
+kl
+markovian
+route
+ss
+chih
+pathextension
+nwith
+ksuch
+ndenotes
+dtme
+sduring
+zdenote
+ijif
+functionm
+tisgaonkar
+algorithm1
+dtx
+dijskstra
+ifaction
+snot
+alwaysdifferent
+lrepresents
+kkl
+karabudak
+i2dv
+mwhich
+ghandoffs
+callsetup
+mtdt
+appendix
+heuristic
+ratio
+please
+i1
+equations
+shilpa
+degree1
+puterman
+dilek
+mand
+mt1
+pois
+ybe
+source
+initiates
+old
+ofthe
+cpe
+msn
+yogesh
+andthe
+variation
+sensitivity
+distributions
+exceeds
+sat
+capture
+lump
+cpo
+terminating
+captures
+hierarchical
+kennesaw
+reroute
+sfi
+expected
+procedures
+incurs
+es
+node
+formulated
+shortest
+chooses
+path optimization
+inter switch
+optimal policy
+switch handoff
+path extension
+switch handoffs
+expected total
+of links
+p mi
+between inter
+j k
+signaling cost
+link cost
+total cost
+p ni
+mi j
+i2v l
+ni d
+value iteration
+path optimizations
+q li
+call duration
+target switch
+links of
+the network
+iteration algorithm
+optimization is
+decision epochs
+the signaling
+signaling load
+the expected
+i j
+the optimal
+decision epoch
+of path
+time between
+threshold structure
+optimality equations
+mobile connection
+perform path
+cost functions
+mobile terminal
+call termination
+po i2v
+cost rate
+per call
+anchor and
+the link
+wireless atm
+average call
+target switches
+current path
+an inter
+markov decision
+k m
+cost ratio
+minimum expected
+load incurred
+network resources
+crossover switch
+the anchor
+the connection
+policy is
+the call
+expected number
+cost function
+rate m
+qos constraints
+handoff protocol
+k po
+termination rate
+d policies
+after path
+link po
+anchor switch
+phase handoff
+l i
+the bernoulli
+mobile to
+the locations
+optimal path
+n p
+incurred on
+decision process
+and target
+semi markov
+four heuristics
+each inter
+optimization after
+v i
+resources utilized
+termination time
+links is
+cost per
+call given
+control limit
+handoff rate
+handoffs follows
+i1df k
+msuch that
+subsequent path
+branch connection
+all msuch
+handoff occurs
+handoffs for
+j q
+and signaling
+during path
+locations of
+s s
+state s
+is performed
+cost and
+policy d
+to mobile
+the cost
+the mobile
+average time
+extension is
+between decision
+after each
+the average
+the path
+for path
+each mobile
+atm networks
+c i
+load of
+performing path
+occupies state
+dhpo k
+epochs given
+npo i2v
+m dhpo
+stationary deterministic
+system occupies
+connection lifetime
+perform subsequent
+duration is
+path between
+each path
+source and
+and destination
+the crossover
+sub optimal
+signaling and
+1 po
+po po
+handoff the
+bernoulli and
+k 1
+extension and
+m p
+the current
+with certainty
+policy p
+percentage change
+policies are
+policy with
+state i
+switches are
+rate increases
+denotes the
+end to
+to end
+two phase
+versus the
+atm forum
+li c
+processing load
+rate l
+exponentially distributed
+the location
+to perform
+location of
+end delay
+policy the
+random graph
+two endpoints
+the optimality
+destination pairs
+the decision
+performed if
+utilized by
+the target
+the periodic
+two decision
+general distribution
+cost between
+optimal policies
+delay constraint
+the delay
+each state
+percentage range
+links increased
+call lifetime
+optimizations per
+optimizations versus
+d policy
+k npo
+the optimal policy
+inter switch handoff
+expected total cost
+inter switch handoffs
+i j k
+number of links
+path optimization is
+between inter switch
+time between inter
+of links of
+the expected total
+value iteration algorithm
+of path optimizations
+number of path
+p mi j
+p ni d
+the value iteration
+the link cost
+n p ni
+i2v l i
+links of the
+optimization is performed
+an inter switch
+v i j
+anchor and target
+perform path optimization
+the target switch
+to perform path
+j k 1
+the time between
+j q li
+i n p
+minimum expected total
+po i2v l
+cost per call
+mi j q
+link cost rate
+c i j
+optimal policy is
+the current path
+the cost ratio
+the minimum expected
+and target switches
+the average call
+total cost and
+path extension is
+average call duration
+l i n
+average time between
+semi markov decision
+the expected number
+expected number of
+and the signaling
+m p mi
+the path optimization
+the call termination
+signaling load of
+the signaling cost
+the optimality equations
+load incurred on
+of links is
+markov decision process
+the network resources
+total cost per
+the anchor and
+state i j
+incurred on the
+the locations of
+k m p
+after each path
+call termination rate
+the inter switch
+of inter switch
+path optimization after
+and d policies
+the signaling load
+each path extension
+two phase handoff
+the call duration
+each inter switch
+phase handoff protocol
+network resources utilized
+of the optimal
+cost functions are
+locations of the
+call duration is
+the mobile terminal
+path extension and
+i k m
+is an inter
+l i k
+cost and the
+of the anchor
+k po i2v
+path optimization for
+switch handoffs follows
+target switches are
+signaling cost function
+j k po
+that p mi
+d q li
+subsequent path optimization
+switch handoff occurs
+i1df k m
+signaling load incurred
+per call given
+path optimization the
+ni d q
+j k s
+the crossover switch
+optimal policy the
+all msuch that
+for path optimization
+optimal policy with
+msuch that p
+whether to perform
+switch handoffs for
+after path extension
+load of the
+shows the expected
+c s a
+mobile to mobile
+the number of
+j j k
+of the current
+between the network
+the average time
+of the path
+source and destination
+an optimal policy
+number of inter
+the location of
+function for path
+between decision epochs
+links is greater
+li c i
+switch handoff the
+to mobile connection
+of path optimization
+ni d p
+path optimization problem
+between two decision
+iteration algorithm described
+decision epochs given
+functions are introduced
+processing and signaling
+q li c
+npo i2v l
+and signaling load
+m dhpo k
+s the locations
+perform subsequent path
+a threshold structure
+1 po i2v
+k m dhpo
+path extension the
+d p mi
+the system occupies
+optimization is always
+two decision epochs
+system occupies state
+dhpo k m
+in wireless atm
+k 1 po
+cost between two
+handoffs follows a
+during path optimization
+resources utilized by
+switch handoff rate
+to perform subsequent
+extension is performed
+end to end
+the cost functions
+the end to
+the optimal path
+location of the
+on the network
+we assume the
+wireless atm networks
+link cost function
+is always performed
+path between the
+of the network
+change of the
+the network the
+the percentage change
+for the bernoulli
+as a semi
+the two phase
+is performed with
+is exponentially distributed
+and the optimal
+for each state
+the state space
+the atm forum
+a nondecreasing function
+to end delay
+given that the
+a semi markov
+j k 0

@@ -1,0 +1,600 @@
+cache
+misses
+sparse
+ls
+interferences
+nnz
+transposition
+accesses
+hit
+banded
+rt2
+associativities
+rt
+interference
+matrix
+accessed
+dot
+pn
+caches
+ct
+probability
+cs
+cross
+vectors
+20k
+matrices
+harwell
+miss
+boeing
+access
+mapped
+lines
+pg
+theta20k
+8kw
+rt4
+associative
+area
+band
+lru
+entries
+product
+row
+calculated
+1000
+zapata
+accessing
+sg
+10k
+self
+competes
+2kw
+125k
+theta5k
+16kw
+bandwidth
+binomial
+predicted
+associativity
+rt3
+dineroiii
+kwords
+sequential
+loop
+zeros
+uniform
+gammap
+crs
+noticeable
+traces
+codes
+rows
+gb
+irregular
+fraguela
+doallo
+shiuh
+intrinsic
+replacement
+compete
+deviation
+5k
+belonging
+synthetic
+emilio
+consecutive
+products
+positions
+delta
+enddo
+thousands
+kernels
+jen
+yeh
+compressed
+multiprogramming
+calculation
+locality
+analytical
+transposed
+referenced
+probabilistic
+covered
+8000
+ching
+displaced
+groups
+prediction
+brite
+be95
+assso
+interfence
+euram
+v00110011
+parametrizable
+tpg
+xuga20605b96
+funcion
+graph0
+warts
+theta10k
+focuse
+besides
+probabilities
+chun
+group
+specially
+trace
+25w
+galicia
+tic96
+transposi
+criterium
+ujaldn
+modelization
+xunta
+ciative
+demostrate
+algebra
+vector
+validated
+modifications
+softer
+c03
+measured
+nc
+yuan
+200
+simulations
+comprise
+1564
+basilio
+ulator
+tourio
+ekmr
+favoured
+profiling
+patterns
+competing
+chung
+gerardo
+subblock
+5x
+areas
+calculates
+2m
+spec
+calculate
+bandera
+ramn
+unbalance
+associate
+pattern
+memory
+similarities
+pr
+deltam
+1125
+spreads
+nevertheless
+explained
+kernel
+phenomena
+estima
+vera
+jingling
+100
+multidimensional
+union
+references
+spatial
+modeling
+cicyt
+matri
+traditionally
+characterizing
+penalizes
+loops
+log
+trix
+sparse matrix
+the sparse
+area vector
+of misses
+vector product
+matrix vector
+the cache
+cross interferences
+transposition of
+the transposition
+the accesses
+cache set
+accesses to
+area vectors
+access probability
+misses on
+first hit
+a sparse
+hit rt2
+same cache
+cache size
+of lines
+misses during
+cross interference
+sequential access
+hit probability
+interference probability
+vector x
+self interferences
+of cache
+vector rt
+i dot
+log figure
+interference area
+different associativities
+p first
+given line
+lines of
+the misses
+cache behavior
+p hit
+dot product
+the area
+100 1000
+line of
+the hit
+dot products
+bandwidth reduction
+in loop
+calculated as
+k way
+access to
+the cross
+a uniform
+t pg
+measured table
+program vector
+predicted measured
+measured misses
+remaining vectors
+k accesses
+non zeros
+the lines
+is calculated
+way associative
+during the
+the access
+harwell boeing
+misses and
+cache sizes
+mapped to
+with ls
+lines that
+loop 4
+of accessing
+accessed during
+misses for
+the bandwidth
+vectors at
+lines with
+and deviation
+vectors corresponding
+the model
+end do
+this vector
+the band
+banded sparse
+each line
+misses in
+the self
+more lines
+self interference
+processing of
+direct mapped
+and ct
+sparse matrices
+the processing
+an access
+be accessed
+lines mapped
+c nnz
+entries distribution
+matrix 20k
+probability area
+lines belonging
+synthetic matrices
+boeing matrices
+hit rt4
+20k theta20k
+cs ls
+banded distribution
+different lines
+account that
+of vector
+cache lines
+product the
+banded matrices
+of cs
+associative cache
+and cs
+matrix transposition
+nnz and
+rt in
+1000 100
+miss probability
+interferences with
+caches with
+lru replacement
+a cache
+4 log
+accessed in
+being accessed
+reference probability
+by sg
+usually accessed
+uniform reference
+other vectors
+to rt
+interferences on
+matrix with
+access patterns
+probability is
+row of
+probability of
+the entries
+predicted and
+the harwell
+1000 10
+rt is
+that compete
+the banded
+1 1000
+the probability
+associative caches
+access pattern
+in thousands
+of ls
+another line
+sets that
+cache sets
+and measured
+the line
+and banded
+10 100
+delta w
+miss equations
+probabilistic model
+l zapata
+self and
+1000 1
+have received
+to lines
+real matrices
+the miss
+n delta
+the vector
+misses with
+cache with
+k 4
+total area
+band of
+non zero
+1 gamma
+the calculation
+lines in
+algebra kernel
+memory considering
+16kw the
+associativities we
+vector competes
+cs beyond
+hit x
+row these
+i previous
+hit rt3
+and 8000
+associativities perform
+theta20k with
+li n
+gb b
+the sparse matrix
+number of misses
+sparse matrix vector
+matrix vector product
+transposition of a
+the transposition of
+a sparse matrix
+in the sparse
+of a sparse
+same cache set
+the accesses to
+of the sparse
+of misses during
+the area vector
+the same cache
+number of lines
+p first hit
+misses during the
+with a uniform
+the cache size
+of misses on
+a given line
+i dot products
+area vectors corresponding
+for different associativities
+during the transposition
+by the accesses
+the cross interference
+first hit rt2
+the bandwidth reduction
+the number of
+during the processing
+of the cache
+of misses for
+is calculated as
+mapped to the
+k 4 log
+misses and deviation
+line of x
+the hit probability
+lines of x
+and measured misses
+k way associative
+predicted measured table
+during the sparse
+of model for
+interference area vector
+measured misses and
+vectors at and
+and deviation of
+deviation of model
+sparse matrix transposition
+w and cs
+the remaining vectors
+to the accesses
+lines of vector
+ratio of sets
+the processing of
+each line of
+way associative cache
+2 k 4
+probability of accessing
+of lines with
+in loop 4
+at and ct
+of vector x
+vector product of
+of the misses
+vectors corresponding to
+row of the
+for the sparse
+the self interference
+the access to
+of sets that
+of the number
+predicted and measured
+sets that have
+that have received
+of misses in
+accessed during the
+the lines of
+vector product the
+into account that
+lines with a
+cross interference probability
+1000 10 100
+self interference probability
+for vector x
+lines mapped to
+for vectors at
+100 1000 10
+misses on a
+self and cross
+1 1000 100
+sparse matrix 20k
+access probability area
+4 log figure
+harwell boeing matrices
+1000 100 1000
+lines belonging to
+matrix 20k theta20k
+total area vector
+of misses with
+uniform reference probability
+size with ls
+usually accessed in
+may be accessed
+number of cache
+of this vector
+line of the
+matrices with a
+an access to
+to the same
+the cache behavior
+the non zeros
+sparse matrix as
+are usually accessed
+the cross interferences
+1000 1 1000
+the miss probability
+n p l
+a uniform reference
+in figure in
+and cross interferences
+100 1000 1
+of the entries
+sparse matrix computations
+accessed in the
+k 2 k
+during the process
+is the ratio
+the harwell boeing
+of being accessed
+the vectors that
+a sequential access
+cache size with
+or more lines
+the misses on
+in a cache
+of lines that
+lines that have
+k or more
+banded sparse matrix
+a k way
+the increase of
+sparse matrix is
+vector product and
+processing of the
+of the vector
+c r and
+accesses to a
+product of a
+accesses to the
+function of w
+the calculation of
+lines of the
+vector x in
+this vector is
+a function of
+sparse matrix and
+of cache lines
+number of accesses
+vector x is
+sparse matrix the
+of the self
+model for the
+the probability of
+non zero elements
+the input matrix
+in the cache
+calculated as the
+of each row
+for sparse matrix
+lines in a
+area vector for
+misses on lines
+probability is calculated
+during the dot
+an area vector
+the area vectors
+hit rate obtains
+caches help reducing
+100 100 1000
+cache set during
+take place whenever
+cache with n
+sparse algorithms on
+increases of cs
+cs ls k
+first hit rt4
+the interference area
+rt2 delta pr
+ls 8 for
+delta r ls
+group of ls
+in loops 2
+associative caches help
+sequential access the
+work a probabilistic
+given line of

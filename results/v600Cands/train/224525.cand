@@ -1,0 +1,600 @@
+instructions
+instruction
+unpacked
+packed
+mac
+booth
+dsp
+energy
+operands
+lab
+operand
+multiplier
+swapping
+asl
+mov2
+recoding
+overhead
+packing
+mov1
+switching
+consumption
+register
+fujitsu
+ldi
+costs
+scheduling
+embedded
+multiply
+mspc
+registers
+base
+processor
+measurement
+recoded
+power
+alu
+reg
+weight
+circuit
+swap
+subtractions
+variation
+saving
+fft2
+kwanho
+naehyuck
+7fffff
+arm7tdmi
+iir4
+recodings
+0011110
+chip
+latches
+filter
+architectural
+consumed
+additions
+gyu
+microarchitecture
+drawn
+swapped
+aaaaaa
+entry
+microcontroller
+hyung
+adjacent
+belonging
+scheduler
+target
+microprocessors
+characteristics
+processors
+tables
+1s
+dfg
+cycles
+consecutive
+x0
+mul
+electronics
+fjex2
+hirohisa
+lilius
+40mhz
+9ma
+gambe
+fjex1
+lafond
+5um
+ammeter
+debashree
+2ma
+0ma
+ir60
+fukui
+5ma
+hirokazu
+miyasu
+schedules
+reduction
+56
+shift
+accumulate
+transfer
+rapallo
+immed
+hirose
+huzefa
+minimization
+fft
+reductions
+mem
+entries
+parentheses
+01000
+recode
+dency
+average
+programs
+activity
+x1
+latched
+enhanced
+penalty
+uct
+mehta
+micro
+owens
+fective
+op2
+op1
+estimation
+fall
+tabu
+3v
+sumption
+cycle
+benchmark
+shifted
+ram
+monitor
+rita
+iir
+unavailability
+sbastien
+asips
+nops
+chang
+pipeline
+dsps
+savings
+weights
+pairwise
+minimizations
+0s
+empirically
+extensive
+irwin
+jane
+structions
+bit
+depen
+ltd
+underestimate
+underestimates
+feature
+kim
+prod
+codeword
+lated
+johan
+originally
+struction
+fir
+skipping
+hazards
+placement
+un
+latch
+radix
+decimal
+ghosh
+specialized
+dition
+heading
+pur
+battery
+instruc
+accurate
+dd
+butterfly
+functionality
+rtl
+dependency
+schedule
+reasonably
+runtime
+58
+signal
+twice
+overhead cost
+booth multiplier
+base cost
+dsp processor
+average current
+the booth
+unpacked instructions
+mac lab
+circuit state
+operand swapping
+power analysis
+the overhead
+base costs
+current drawn
+the packed
+average base
+the operands
+power cost
+packed instructions
+energy reduction
+energy consumption
+an instruction
+overhead costs
+power model
+the energy
+current reduction
+adjacent instructions
+lab instructions
+packed instruction
+target dsp
+consecutive values
+instruction packing
+current for
+high switching
+registers a
+embedded dsp
+swapping is
+dsp programs
+low power
+instruction belonging
+switching switching
+mac instructions
+the unpacked
+table 7
+cost for
+the dsp
+by mac
+operand values
+drawn by
+of operands
+instructions can
+and unpacked
+for mac
+packed and
+the base
+multiplier is
+special architectural
+weight of
+level power
+unpacked instruction
+measured current
+microarchitecture model
+energy reductions
+filter operations
+multiply instructions
+chip booth
+input latches
+state overhead
+add array
+recoding weight
+recoding weights
+for unpacked
+the recoding
+switching between
+instructions are
+the multiplier
+swap the
+swapping the
+energy consumed
+operands in
+and subtractions
+transfer instruction
+software power
+through physical
+instruction class
+power scheduling
+the average
+be packed
+instructions the
+architectural feature
+for filter
+shift add
+packed with
+in table
+the target
+the weight
+cost of
+the mac
+18 4
+register a
+in registers
+the instructions
+to 56
+register b
+of circuit
+on chip
+consumed by
+the power
+instruction is
+total energy
+the operand
+processor is
+instructions in
+scheduling algorithm
+to class
+can lead
+instructions is
+of instructions
+dsp software
+instructions 1
+scheduling techniques
+and b
+a and
+average overhead
+control path
+instruction scheduling
+average value
+cost reduction
+p o
+total overhead
+the instruction
+four instructions
+infinite loop
+values in
+measurement the
+4 average
+non adjacent
+costs of
+instruction level
+unknown until
+enhanced base
+mov2 asl
+in alu
+pairwise overhead
+kim hyung
+asl mac
+compact tables
+multiply instruction
+power costs
+base 36
+purpose commercial
+kwanho kim
+high recoding
+booth recodings
+program energy
+operands based
+range average
+packing rules
+8 mov2
+ldi lab
+bit switching
+extensive current
+chang kwanho
+mov2 range
+overhead current
+mspc lab
+7fffff aaaaaa
+each multiply
+operand characteristics
+use average
+fujitsu embedded
+mac entry
+lee cycle
+x0 1
+different operand
+alu type
+naehyuck chang
+switching but
+mac unit
+type instruction
+instructions ldi
+unpacked code
+asl instruction
+un p
+packing alone
+energy evaluation
+lab mov1
+gyu lee
+allows instructions
+reg specified
+multiplier implemented
+mac mac
+hyung gyu
+additions and
+of embedded
+and overhead
+has high
+target processor
+17 4
+state change
+the overhead cost
+the booth multiplier
+the base cost
+the average current
+power cost of
+of the booth
+target dsp processor
+mac lab instructions
+the target dsp
+current drawn by
+operand swapping is
+base cost for
+the power cost
+power analysis of
+registers a and
+overhead cost for
+base costs of
+current for the
+average current drawn
+consecutive values in
+of circuit state
+and unpacked instructions
+of consecutive values
+instruction belonging to
+the dsp processor
+an instruction belonging
+in registers a
+a and b
+instruction level power
+packed and unpacked
+effect of circuit
+for the packed
+belonging to class
+overhead cost of
+the weight of
+energy consumed by
+average current for
+level power model
+the current drawn
+the base costs
+a special architectural
+by mac lab
+on chip booth
+chip booth multiplier
+circuit state overhead
+cost of programs
+booth multiplier is
+overhead cost reduction
+drawn by mac
+switching switching switching
+data transfer instruction
+11 to 56
+special architectural feature
+shift add array
+in the mac
+the circuit state
+the packed instruction
+the recoding weight
+dsp processor the
+if the recoding
+the unpacked instructions
+embedded dsp processor
+the on chip
+additions and subtractions
+the energy reduction
+low power scheduling
+in a and
+the total energy
+power model for
+can lead to
+the operands in
+an instruction level
+the control path
+the total overhead
+a data transfer
+energy consumption for
+an infinite loop
+the energy consumption
+booth multiplier implemented
+based power analysis
+micro architectural power
+overhead costs between
+reduction possible through
+product i n
+lab for different
+and overhead costs
+the input latches
+benchmark program the
+mov2 asl mac
+recoding weight is
+dsp processor is
+pairs the energy
+unpacked instructions ldi
+packed instruction is
+of overhead cost
+path of embedded
+filter operations such
+technique of local
+has high recoding
+bit switching between
+operands based on
+feature that allows
+instructions 1 3
+hyung gyu lee
+packed with a
+instructions can lead
+for multiply instructions
+an average value
+consumption for dsp
+class the range
+unknown until runtime
+the enhanced base
+range average base
+swapping the operands
+high recoding weights
+overall energy reduction
+multiplier implemented in
+for most classes
+10 for most
+architectural feature that
+operand characteristics from
+kwanho kim hyung
+cost for unpacked
+chang kwanho kim
+of adjacent instructions
+the mac unit
+occurs after an
+circuit state is
+packed into pairs
+placement of operands
+ldi lab mov1
+of base cost
+different scheduling techniques
+verified through physical
+the operand characteristics
+of measured current
+gyu lee cycle
+power scheduling techniques
+that allows instructions
+feature is studied
+base cost of
+reg specified implicitly
+circuit state change
+by the unpacked
+cost for mac
+dsp programs a
+packed instructions the
+average base 36
+local code modification
+an alu type
+allows instructions to
+mac mac entry
+register b if
+programs a micro
+developed and analyzed
+program energy evaluation
+instructions ldi lab
+of additions and
+for filter operations
+energy reduction possible
+the packed instructions
+different operand values
+adjacent instructions 1
+naehyuck chang kwanho
+loop for measurement
+to use average
+alu type instruction
+control path of
+architectural power model
+instruction is only
+for dsp programs
+changes the operand
+total overhead cost
+general purpose commercial
+effective technique of
+been verified through
+high switching but
+the packed and
+kim hyung gyu
+measurement based power
+for different characteristics
+into pairs the
+infinite loop for
+unpacked instructions is
+purpose commercial microprocessors
+from one entry
+multiplier is developed
+the bit switching
+the shift add
+for the booth
+average values the
+for measurement the
+as the packed
+cost reduction and
+saving power in
+instruction class the
+mac lab for
+entry to another
+for mac lab
+b has high

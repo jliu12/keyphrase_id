@@ -1,0 +1,600 @@
+players
+honest
+protocol
+broadcast
+player
+detectable
+precomputation
+secure
+mauth
+authenticated
+detprecomp
+gradecast
+channels
+adversary
+byzantine
+quantum
+party
+security
+dsbroadcast
+msec
+protocols
+mpc
+condgradecast
+pwbroadcast
+agreement
+sender
+rounds
+abort
+corrupted
+lindell
+accept
+pwprecomp
+cheaters
+jdj
+goldwasser
+pairwise
+unconditional
+signature
+pki
+broadcasts
+grade
+signatures
+invocation
+mq
+tolerating
+dolev
+channel
+round
+simppwprecomp
+message
+achieves
+invocations
+grades
+rst
+verication
+ps
+faulty
+keys
+reject
+pk
+squad
+accepts
+public
+parties
+denition
+conditional
+generals
+satises
+bits
+signing
+achievable
+qubits
+initiator
+log
+fairness
+adversaries
+cient
+setup
+independence
+transformation
+executions
+lamport
+modied
+consensus
+decides
+insecure
+impossibility
+agree
+coins
+waidner
+epr
+adhoccomp
+initiees
+k0
+pi
+precomputed
+goldreich
+broadcasted
+identier
+minorities
+succesful
+immoral
+inputs
+faults
+fair
+xs
+synchronous
+learn
+session
+infrastructure
+xn
+messages
+detectably
+initiations
+simulator
+ideal
+x1
+aborted
+dishonest
+unison
+wherein
+trusted
+authentication
+he
+secret
+everybody
+tamper
+yehuda
+trapdoor
+strong
+satised
+unbounded
+ciently
+forge
+multiparty
+decide
+refuse
+pw
+cheating
+precompute
+corrupt
+nal
+tolerates
+validity
+aborts
+probability
+sent
+synchronized
+senders
+sends
+consistency
+id
+terminate
+unconditionally
+malicious
+satis
+mental
+designated
+constructions
+firing
+synchronously
+unavoidable
+delivered
+polynomial
+composition
+eects
+ng
+padding
+pandu
+k0n
+adverary
+sanketh
+reconrmed
+msecg
+coan
+megaphone
+unjammable
+rotz
+pfitzmann
+partway
+subprotocols
+daad19
+pease
+lysyanskaya
+ecast
+initadhoccomp
+genericprotocolfordetectable
+fitzi
+gottesman
+fmauth
+coordinatedly
+saries
+pseudosignatures
+ptzmann
+excactly
+dosignatures
+srinathant
+initiee
+portation
+spamming
+honest players
+detectable broadcast
+all honest
+detectable precomputation
+player p
+the protocol
+all players
+every player
+party computation
+multi party
+secure channels
+the adversary
+conditional gradecast
+protocol detprecomp
+authenticated channels
+byzantine agreement
+a protocol
+broadcast channel
+log jdj
+precomputation protocol
+players in
+players accept
+pairwise authenticated
+t n
+the players
+for detectable
+corrupted players
+protocol for
+n players
+broadcast is
+security parameter
+unconditional security
+player set
+precomputation for
+tolerating any
+quantum channels
+strong broadcast
+overall message
+p i
+during step
+protocol among
+a player
+the precomputation
+achieves detectable
+ideal model
+honest player
+broadcast protocol
+secure multi
+the honest
+goldwasser and
+any t
+invocation of
+computational security
+players are
+the security
+of protocol
+message complexity
+players p
+a detectable
+secure against
+achieves broadcast
+of authenticated
+dolev strong
+lindell 17
+and lindell
+verication key
+rst transformation
+broadcast with
+p j
+among n
+is honest
+accept then
+players and
+rounds and
+no player
+requires t
+to abort
+sender s
+a broadcast
+p 0
+for model
+mauth and
+or secure
+correct players
+protocol simppwprecomp
+model mauth
+authenticated or
+mpc protocol
+broadcast if
+of condgradecast
+models mauth
+consistent pki
+protocol pwbroadcast
+authenticated broadcast
+honest then
+sender ps
+pairwise secure
+for msec
+later broadcasts
+protocol condgradecast
+of corrupted
+channels with
+the broadcast
+of players
+protocol if
+a signature
+an overall
+the byzantine
+the dolev
+channels but
+the protocols
+then all
+protocol achieves
+computational assumptions
+players will
+players with
+executions of
+accept or
+of conditional
+players is
+public key
+protocol to
+an invocation
+x1 xn
+adversary may
+e cient
+input value
+the sender
+protocol then
+simulator s
+secure computation
+log log
+adversary can
+t rounds
+it satises
+generals problem
+rounds of
+future broadcast
+protocol dsbroadcast
+always e
+that detectable
+quantum signatures
+players decide
+corrupted during
+execute protocol
+secure signature
+honest and
+insecure quantum
+strong protocol
+partial fairness
+and msec
+sender every
+among player
+commonly accept
+model msec
+consistent public
+authenticated byzantine
+broadcast invocations
+protocol 0
+achieved broadcast
+future broadcasts
+player pi
+broadcast will
+decides on
+players to
+each player
+byzantine generals
+an authenticated
+broadcast the
+invocations of
+for broadcast
+the rst
+decide on
+is corrupted
+our protocols
+protocol and
+protocol which
+agreement on
+broadcast since
+j ng
+identier id
+broadcast phase
+an mpc
+impossibility proofs
+honest parties
+with sender
+precomputation phase
+session identier
+a precomputation
+players for
+a consistent
+channel with
+in p
+transformation is
+protocols for
+of secure
+adversary is
+channels and
+communication round
+security with
+all honest players
+player p i
+multi party computation
+every player p
+any t n
+pairwise authenticated channels
+players in p
+overall message complexity
+of conditional gradecast
+detectable precomputation for
+among n players
+an overall message
+and an overall
+a broadcast channel
+for detectable precomputation
+message complexity of
+secure multi party
+t t p
+the security parameter
+protocol for detectable
+a protocol among
+goldwasser and lindell
+the rst transformation
+during step 3
+invocation of protocol
+tolerating any t
+achieves detectable precomputation
+of corrupted players
+the honest players
+and lindell 17
+in p 0
+a protocol for
+players p i
+to the broadcast
+the broadcast channel
+the t t
+all players p
+honest then all
+executions of condgradecast
+secure channels with
+agree on whether
+honest players accept
+models mauth and
+authenticated or secure
+authenticated broadcast protocol
+then all honest
+broadcast if it
+rounds and an
+a consistent pki
+pairwise secure channels
+broadcast channel with
+players accept then
+precomputation for broadcast
+player set p
+the dolev strong
+or secure channels
+for model mauth
+player p j
+among the players
+an invocation of
+for every player
+t n 3
+complexity of o
+for t n
+the adversary can
+the protocol for
+the adversary may
+if it satises
+byzantine generals problem
+consistent public key
+of authenticated byzantine
+unconditional security with
+2 every player
+mauth and msec
+protocol among n
+j ng n
+players for model
+dolev strong protocol
+broadcast is possible
+same communication round
+p i stores
+is corrupted during
+invocation of conditional
+detectable broadcast is
+then all players
+corrupted during the
+as a sender
+precomputation protocol and
+all players are
+will be achievable
+is honest then
+commonly accept or
+force the protocol
+n players for
+if no player
+of multi party
+an authenticated broadcast
+and all players
+a detectable broadcast
+a sender every
+completeness if no
+all players accept
+authenticated channels and
+protocol for model
+value g i
+composition of authenticated
+always e ciently
+of the precomputation
+2 log jdj
+honest players will
+among player set
+authenticated byzantine agreement
+required by protocol
+an mpc protocol
+detectable broadcast phase
+session identier id
+sender every player
+network of pairwise
+reject the protocol
+sender s input
+a player pi
+only pairwise authenticated
+player is corrupted
+bits to be
+of o n
+of the protocol
+the adversary is
+up a consistent
+if all players
+all other players
+t rounds and
+3 log jdj
+is the security
+on whether or
+the protocol to
+broadcast can be
+no player is
+the players in
+the protocol then
+p i computes
+each player p
+the security of
+all players in
+the value g
+the second transformation
+since p j
+the resulting protocol
+the same communication
+the original protocol
+the protocol if
+for any t
+on the composition
+public key infrastructure
+set p 0
+n 3 log
+if the protocol
+accept or reject
+if the adversary
+a protocol which
+and hence all
+at the end
+log log log
+t n 2
+more e cient
+be sent by
+the executions of
+to be sent
+p 0 to
+such a protocol
+during the same
+decide on the
+the same output
+to the t
+dishonest minorities from
+then they terminate
+transformation described in
+holds an input
+4 all players
+indicate whether all
+to detectable broadcast
+party computation mpc
+3 accept and
+on quantum cryptography
+sender is honest
+the standard ideal
+players decide on
+i decide on
+either all honest
+n fig and
+for session ids
+with executions of
+if any honest
+broadcast since p
+a player set
+sent by correct
+by any player
+n log jdj
+entered the precomputation
+nally decides on
+for synchronous byzantine

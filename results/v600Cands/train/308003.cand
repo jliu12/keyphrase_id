@@ -1,0 +1,600 @@
+timed
+leader
+clocks
+clock
+drift
+awakened
+crashed
+alarm
+asynchronous
+timely
+transmission
+message
+datagram
+failures
+crash
+messages
+processes
+hardware
+election
+service
+implementable
+fetzer
+delay
+omission
+failure
+calibrated
+timeliness
+progress
+consensus
+cristian
+stable
+services
+ffi
+demoted
+kbyte
+delivered
+broadcast
+synchronous
+td
+workstations
+delays
+tf
+synchronized
+tt
+oscillator
+sent
+sp
+measurements
+crashes
+dropped
+membership
+disconnected
+flaviu
+periods
+predicate
+timer
+late
+stability
+wakeup
+negligible
+delta
+protocol
+dependable
+duration
+remote
+ucsd
+keidar
+externally
+ae
+unicast
+10ms
+2ae
+addr
+fail
+iff
+interprocess
+load
+christof
+detectors
+timeout
+stayed
+leaders
+impossibility
+udp
+drifts
+tolerant
+leadership
+__
+recovering
+core
+slow
+measurement
+communicate
+ipx
+communication
+fault
+unix
+deliver
+chockler
+spoofing
+experienced
+rate
+gammaae
+detect
+byzantine
+suffered
+units
+aging
+fig
+days
+sender
+replies
+solaris
+frequency
+network
+specifications
+brasileiro
+probability
+min
+interrupt
+sec
+aware
+infinitely
+dt
+suffer
+assumptions
+rt
+receives
+ms
+suffers
+sys
+delivers
+fortress
+cfetzer
+sends
+ethernet
+vi
+majority
+atomic
+scheduling
+equate
+send
+specification
+recov
+synchrony
+alive
+conditional
+predicates
+transparent
+operating
+overwritten
+ures
+10mbit
+receiver
+synchronization
+awareness
+neglect
+measured
+calibration
+transitions
+ntp
+awake
+leases
+ering
+30ms
+dahlia
+9s
+unconditional
+semantics
+lifetime
+management
+interrupts
+cesses
+period
+primitives
+malkhi
+envelope
+something
+access
+storage
+partition
+modes
+recover
+drop
+apart
+gregory
+coverage
+instability
+indistinguishable
+termination
+px
+val
+eventually
+duplication
+trip
+pong
+instabilities
+behaved
+interval
+receiving
+the timed
+timed model
+hardware clocks
+timed asynchronous
+hardware clock
+time free
+transmission delay
+drift rate
+process p
+real time
+asynchronous system
+alarm time
+progress assumptions
+system model
+a process
+datagram service
+free model
+implementable in
+the transmission
+delay of
+leader at
+local hardware
+message m
+the drift
+performance failure
+progress assumption
+the datagram
+be awakened
+awakened for
+performance failures
+ffi min
+a message
+at real
+asynchronous distributed
+omission failures
+network load
+calibrated hardware
+time t
+asynchronous systems
+time clock
+a progress
+is awakened
+kbyte sec
+h p
+clock time
+process management
+transmission delays
+and fetzer
+conditional timeliness
+s tt
+cristian and
+communication by
+not implementable
+alarm clock
+is leader
+the clock
+failure semantics
+1 stable
+distributed system
+fetzer the
+delta disconnected
+s t
+delta 1
+fail aware
+by time
+scheduling delays
+core timed
+relative drift
+s tf
+a timely
+stable storage
+management service
+leader for
+time units
+process q
+clocks are
+of processes
+is crashed
+message performance
+at t
+distributed systems
+are implementable
+m at
+externally synchronized
+awakened at
+td q
+one can
+time u
+in timed
+leader election
+processes have
+p has
+delta f
+bounded amount
+see figure
+access to
+message transmission
+m to
+the election
+q m
+an alarm
+certain communication
+correct clock
+failure frequency
+non crashed
+clock h
+timely manner
+its hardware
+a timed
+f partition
+one leader
+of messages
+a bounded
+p is
+a hardware
+something good
+processes can
+two processes
+one process
+and q
+two calibrated
+correct clocks
+message omission
+timeliness conditions
+timed system
+active alarm
+timely u
+clock failures
+interval s
+rate of
+model allows
+can use
+the network
+time s
+clock is
+upper bound
+receives m
+dependable systems
+failure detectors
+to hardware
+a clock
+christof fetzer
+becomes leader
+sent m
+is timely
+crash performance
+a correct
+processes p
+infinitely often
+time interval
+the processes
+storage service
+aware datagram
+stable partition
+as consensus
+clock drifts
+maximum drift
+service specifications
+six processes
+min delay
+model assumes
+message is
+clocks in
+a leader
+can suffer
+delays of
+we measured
+clock to
+processes in
+fault tolerant
+services are
+services such
+processes do
+are timed
+correct processes
+delivered within
+process might
+processes access
+consensus in
+sent between
+a transmission
+and known
+can communicate
+of time
+interprocess communication
+s s
+the probability
+the time
+remaining processes
+m sent
+processes and
+all processes
+p sends
+a majority
+true iff
+tf is
+has crashed
+s hardware
+clocks that
+an upper
+the timed model
+transmission delay of
+the timed asynchronous
+the time free
+time free model
+timed asynchronous system
+the transmission delay
+asynchronous system model
+drift rate of
+the drift rate
+distributed system model
+communication by time
+timed asynchronous distributed
+in the timed
+asynchronous distributed system
+a process p
+the datagram service
+at real time
+a progress assumption
+implementable in the
+delta 1 stable
+one can use
+and fetzer the
+not implementable in
+alarm time t
+cristian and fetzer
+a hardware clock
+the process management
+real time clock
+real time t
+process management service
+local hardware clocks
+to be awakened
+fetzer the timed
+delay of messages
+message performance failures
+it is awakened
+to hardware clocks
+relative drift rate
+calibrated hardware clocks
+are implementable in
+message m to
+in a timely
+its hardware clock
+timed asynchronous systems
+access to hardware
+a bounded amount
+delta f partition
+bounded and known
+td q m
+the core timed
+majority of processes
+be awakened at
+is awakened for
+real time u
+ffi min is
+bounded amount of
+in s t
+delay of m
+of the timed
+on the transmission
+a timely manner
+real time s
+a transmission delay
+clock h p
+interval s t
+performance failure semantics
+process p is
+set of processes
+amount of time
+p and q
+in timed asynchronous
+a performance failure
+of a message
+a message m
+in a timed
+time interval s
+from real time
+s tf is
+stable storage service
+the relative drift
+timed model assumes
+timed model allows
+distributed systems to
+a timed asynchronous
+two calibrated hardware
+conditional timeliness conditions
+free model 21
+systems to appear
+hardware clock the
+in the time
+the system is
+processes p and
+rate of a
+the network load
+an upper bound
+transmission delays of
+the messages were
+timed model is
+leader at t
+is not implementable
+a network load
+leader for a
+local hardware clock
+such as consensus
+true iff p
+the failure frequency
+network load of
+clock time units
+hardware clocks are
+suffers a performance
+maximum drift rate
+for the timed
+by time to
+on the drift
+receives m at
+access to local
+a stable partition
+q receives m
+fail aware datagram
+aware datagram service
+that h p
+an alarm clock
+processes do not
+upper bound on
+services such as
+a practical point
+of the messages
+the remaining processes
+over a period
+bound on the
+from a practical
+message m sent
+be true iff
+we measured the
+and q are
+can communicate with
+have access to
+practical point of
+likelihood that a
+ieee transactions on
+a period of
+process p sends
+choice of ffi
+in the core
+within a bounded
+performance failures the
+in synchronous systems
+s tt is
+of message performance
+progress assumption states
+a delta f
+processes in s
+failure frequency is
+awakened within oe
+message omission failures
+services are timed
+hardware clock drifts
+four hardware clocks
+implementable in a
+and the timed
+hardware clocks we
+for alarm time
+awakened for t
+a synchronous sys
+achieve something good
+and processes have
+timed model we
+define the predicate
+is leader for
+active alarm time
+process p suffers
+are f connected
+early timing failures
+omission failures are
+m q broadcast
+timed and processes
+process scheduling delays
+after a crash
+q m ffi
+an alarm time
+p suffers a
+core timed model
+outputs and state
+the i am
+message and process
+the current leader
+a correct clock
+send m q
+time free systems
+f connected in
+of s tt
+stored at address
+progress assumptions are
+apart from real
+of hardware clocks
+that a message
+to the processes
+a majority of
+for a bounded

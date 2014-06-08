@@ -1,0 +1,600 @@
+fus
+schedule
+ilp
+schedules
+trb
+pipelined
+tmin
+ddg
+ddgs
+pipelining
+opt
+trr
+loops
+initiation
+resource
+instruction
+buffer
+gao
+fu
+repetitive
+scheduling
+formulation
+fp
+instructions
+register
+huff
+govindarajan
+buffers
+altman
+1008
+frlc
+period
+registers
+units
+tb
+res
+viii
+ning
+gasperoni
+compilation
+multiplicity
+heuristic
+a6
+loop
+lb
+vii
+configurations
+motivating
+architectural
+periodic
+homogeneous
+slack
+constrained
+cplex
+impr
+dependence
+usage
+scheduled
+modulo
+rate
+architectures
+a3
+compiler
+unrolling
+coloring
+month
+requirement
+xx
+cydra
+optimality
+transpose
+seconds
+schwiegelshohn
+store
+heterogeneous
+a4
+guang
+median
+415
+precompiled
+load
+execution
+mcgill
+iv
+fig
+rau
+dep
+architecture
+i3
+alban
+douillet
+zhizhong
+micronet
+ccrit
+fifo
+vol
+a5
+database
+colors
+benchmark
+arc
+hongbo
+ix
+compilers
+lastly
+majority
+software
+unrolled
+dataflow
+bmin
+eisenbeis
+i2
+dd
+minutes
+producer
+reserved
+excellence
+initiated
+constraint
+unit
+iteration
+conditionals
+quirement
+fastest
+pattern
+region
+tern
+interval
+consumer
+inexact
+jourdan
+minute
+execute
+requirements
+vliw
+integer
+resources
+reiter
+spec92
+fps
+fewer
+allocation
+linpack
+centres
+usefulness
+mapping
+faster
+geometric
+assignment
+intersects
+394
+bodies
+suite
+nas
+hazards
+obeying
+cyclic
+dependences
+nserc
+constraints
+grain
+advances
+livermore
+rong
+ascertain
+sched
+predicated
+latencies
+640
+lifetime
+fires
+scientific
+parallelization
+erik
+matrix
+vi
+writer
+1996
+watson
+pay
+successor
+wang
+repetition
+arcs
+objective
+mau
+rangachar
+buffersa
+cydrix
+desp
+kasturi
+silberman
+minimumslack
+moudgill
+dividends
+iisc
+mayan
+analyzability
+8cycles
+govind
+non pipelined
+pipelined fus
+software pipelining
+the ilp
+the opt
+rate optimal
+ilp schedules
+opt problem
+opt t
+repetitive pattern
+the ddg
+function units
+resource constrained
+time step
+instruction i
+a schedule
+iteration period
+ilp approach
+heuristic methods
+test cases
+the repetitive
+architectural configurations
+fp unit
+function unit
+period tmin
+ilp formulation
+buffer requirement
+and gao
+resource constraints
+initiation interval
+register requirement
+initiation rate
+optimal schedule
+formulation for
+buffer requirements
+optimal software
+software pipelined
+resource constraint
+our ilp
+compilation time
+huff s
+t formulation
+at time
+the resource
+execution time
+constrained rate
+optimal schedules
+type r
+schedules with
+govindarajan altman
+altman and
+of ddgs
+gao resource
+fp units
+homogeneous fus
+s slack
+load store
+t lb
+slack scheduling
+the initiation
+with period
+schedule with
+modified list
+of ilp
+this schedule
+schedule b
+computation rate
+longer compilation
+in trb
+heterogeneous fus
+the schedule
+motivating example
+t problem
+schedule is
+the motivating
+solution space
+the buffer
+i 3
+schedules in
+for non
+for architectures
+t i
+schedule c
+schedules are
+loop l
+scheduling method
+of instructions
+ning and
+minimum buffer
+fifo buffers
+region labeled
+pipelined function
+minimum buffers
+fu assignment
+the test
+ilp based
+pipelined schedule
+large majority
+i 4
+instructions i
+a t
+the fus
+linear schedules
+pipelined homogeneous
+pipelined or
+month 1996
+store unit
+schedule for
+time steps
+i 5
+pipelined execution
+section ii
+fu type
+y month
+xx no
+vol xx
+each instruction
+execution units
+list scheduling
+fus in
+schedule in
+ning gao
+transpose theta
+loops impr
+first fp
+optimality objective
+fixed fu
+impr loops
+second fp
+trr schedules
+architectures with
+using r
+geometric mean
+or fewer
+schedule a
+example loop
+table vii
+no y
+i variables
+loops with
+periodic linear
+fus are
+various architectural
+fus and
+fus is
+periodic schedule
+usage matrix
+to fus
+resource usage
+the fu
+register requirements
+scheduling methods
+r or
+3 minutes
+1 load
+given loop
+period t
+for schedule
+fewer registers
+table viii
+faster schedules
+tmin and
+of loops
+instruction is
+2 fp
+for pipelined
+schedule was
+scheduled loops
+fewer resources
+ii c
+of buffers
+register allocation
+our example
+registers in
+performance critical
+r govindarajan
+mathematical formulation
+different architectural
+the formulation
+formulation is
+a buffer
+a matrix
+systems vol
+t dep
+and gasperoni
+homogeneous pipelined
+the ning
+tmin achieved
+different fu
+multiplicity execution
+lb for
+three heuristic
+integer fu
+architectures involving
+s frlc
+gao 11
+1008 loops
+same fu
+gao formulation
+precompiled schedules
+non pipelined fus
+for non pipelined
+the opt problem
+the opt t
+the repetitive pattern
+the test cases
+the ilp approach
+in the repetitive
+optimal software pipelining
+at time step
+opt t formulation
+ilp schedules are
+of the test
+resource constrained rate
+constrained rate optimal
+the ilp schedules
+of ilp schedules
+s slack scheduling
+govindarajan altman and
+opt t problem
+huff s slack
+the motivating example
+and gao resource
+gao resource constrained
+altman and gao
+rate optimal software
+the resource constraint
+the a matrix
+modified list scheduling
+schedules with period
+in the ddg
+using r or
+rate optimal schedules
+t formulation for
+for the motivating
+with period tmin
+formulation for non
+longer compilation time
+the buffer requirements
+pipelined execution units
+i 3 a
+solution space of
+ilp formulation for
+a t i
+a large majority
+of the opt
+software pipelined schedule
+the heuristic methods
+r or fewer
+non pipelined execution
+ning and gao
+the initiation rate
+pipelined homogeneous fus
+pipelined function units
+load store unit
+large majority of
+for architectures with
+y month 1996
+and 1 load
+systems vol xx
+xx no y
+1 load store
+for the opt
+vol xx no
+no y month
+in section ii
+of the ilp
+a resource constrained
+distributed systems vol
+fixed fu assignment
+the register requirement
+pipelined or non
+loops impr loops
+computation rate and
+second fp unit
+first fp unit
+or fewer resources
+our example loop
+t i variables
+time step 9
+the second fp
+or non pipelined
+the function unit
+requirements of ilp
+transpose theta 0
+to the opt
+slack scheduling method
+the first fp
+minimum buffer requirement
+2 fp units
+the region labeled
+non pipelined function
+various architectural configurations
+the solution space
+each instruction is
+number of buffers
+the initiation interval
+for software pipelining
+the geometric mean
+rate optimal schedule
+buffer requirements of
+of of of
+the resource constraints
+heuristic methods in
+an instruction i
+resource constrained software
+a software pipelined
+the execution time
+formulation for the
+constrained software pipelining
+the resource usage
+find a schedule
+geometric mean of
+resource constraints of
+by the region
+schedules are faster
+by ning and
+iteration period for
+slack scheduling 7
+function units are
+comparison with heuristic
+periodic linear schedules
+the ning gao
+our ilp approach
+coloring method can
+ilp based exact
+architectures with homogeneous
+the minimum register
+solve the opt
+the optimality objective
+for pipelined fus
+with heterogeneous fus
+cases the ilp
+3 minute time
+opt problem in
+graph coloring method
+and gao 11
+for various architectural
+pipelined fus in
+space of software
+required at time
+resource constrained schedule
+requirement provides a
+ilp approach found
+the same fu
+multiplicity execution time
+buffer requirement provides
+for performance critical
+fus of type
+a trb schedule
+buffer requirement of
+that the initiation
+period tmin and
+instructions to fus
+pipelined fus is
+formulation for pipelined
+ilp approach can
+t lb for
+initiation rate of
+in tmin achieved
+that instruction i
+the modified list
+initiation interval t
+scheduling and mapping
+database of ddgs
+s modified list
+instructions that execute
+time on architecture
+loops extracted from
+the fus are
+fu type r
+for this schedule
+evaluate and improve
+homogeneous pipelined fus
+and gasperoni and
+three heuristic methods
+performance critical applications
+test cases compared
+time step 11
+minute time limit
+ning gao formulation
+schedule with period
+improvement in tmin
+of fus of
+instruction i 0
+the usage matrix
+register requirement for
+a longer compilation
+of the schedule
+in our example
+buffer size of
+the number of
+number of registers
+an optimal schedule
+tight upper bound
+in this paper
+of test cases
+u t i
+degree of multiplicity
+non pipelined homogeneous
