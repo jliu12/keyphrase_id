@@ -7,12 +7,14 @@ import glob
 import collections
 import json
 import math
+import nltk.stem.snowball as Snowball
 
 #defaults
 corpusName = "corpus/dummy"
 versionName = "unknown";
 dataSet = "train"
 predSuffix = ".pred"
+stemmer = None
 
 pScoresTotal = 0
 rScoresTotal = 0
@@ -29,7 +31,7 @@ def processArgs():
 		#predSuffix = myArgs[4]
 	else:
 		print("======================================")
-		print("USAGE: python substring_scorer [corpusName] [predictorVersionName] [train|dev|test] [predSuffix] \n Continuing using defaults:")
+		print("USAGE: python stem_scorer [corpusName] [predictorVersionName] [train|dev|test] [predSuffix] \n Continuing using defaults:")
 	print("======================================")
 	print("corpusName: " + corpusName + "\nversionName: " + versionName + "\ndataSet: " + dataSet)
 	print("======================================")
@@ -44,23 +46,36 @@ def processPredictions():
 		docId = predFilename[prefixLength: -suffixLength]
 		keyFilename = corpusName + "-" + dataSet + "/" +  docId + ".key"
 		#TESTING
-		print(str(docId))
+		#	print(str(docId))
 		#endTesting
 		computeScoresForSingleDoc(set(getKeyPhrasesFromAsList(predFilename)), set(getKeyPhrasesFromAsList(keyFilename)))
 		global numDocs
 		numDocs += 1
 
 def calcTPandFN(predPhrases, goldPhrases):
+	global stemmer
 	tp = 0
 	fn = len(goldPhrases)
 	matched_set = set()
 	for s in predPhrases:
+		s = s.rstrip()
 		for g in goldPhrases:
-			if s.find(g) != -1 or g.find(s) != -1:
+			g = g.rstrip()
+			stemS = stemmer.stem(s)
+			stemG = stemmer.stem(g)
+			if s == g:
 				cur_length = len(matched_set)
 				matched_set.add(g)
 				if (len(matched_set) > cur_length):
 					tp += 1
+			#if s.find(g) != -1 or g.find(s) != -1:
+			elif stemS == stemG:
+				cur_length = len(matched_set)
+				matched_set.add(g)
+				if (len(matched_set) > cur_length):
+					tp += 1
+					#print "MATCH: " + s + " || " + g + " >> " + stemS 
+
 	fn = fn - len(matched_set)
 	return tp, fn
 
@@ -82,14 +97,25 @@ def computeScoresForSingleDoc(predPhrases, goldPhrases):
 	rScoresTotal += rec;
 	fScoresTotal += f1
 	# testing
-	print("Prec: " + str(prec) + " rec: " + str(rec) + " f1: " + str(f1))
+	#print("Prec: " + str(prec) + " rec: " + str(rec) + " f1: " + str(f1))
 	#endTesting  
 
 
 def getKeyPhrasesFromAsList(filename):
+	stemSet = set()
+	phrases = []
 	with open(filename, 'r') as f:
 		keyPhrases = f.readlines();
-	return keyPhrases
+
+	for phrase in keyPhrases:
+		stemmed = stemmer.stem(phrase)
+		if stemmed not in stemSet:
+			stemSet.add(stemmed)
+			phrases.append(phrase)
+		else:
+			print "THREW OUT: " + phrase + " || stemmed: " + stemmed
+
+	return phrases
 
 def reportOverallStats(statsFileName):
 	
@@ -108,6 +134,8 @@ def reportOverallStats(statsFileName):
 		f.write(resultString)
     
 def main():
+	global stemmer 
+	stemmer = Snowball.EnglishStemmer()
 	processArgs();
 	processPredictions()
 	reportOverallStats("stats/" + versionName + "-" + dataSet)

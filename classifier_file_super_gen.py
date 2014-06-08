@@ -48,6 +48,13 @@ def getRandomGram(length, line, unigrams, bigrams, trigrams):
 	#print "length: " + str(length) + ", pos: " + line + ", neg: " + neg_example
 	return neg_example
 
+def file_len(fname):
+    with open(fname) as f:
+        for i, l in enumerate(f):
+            pass
+    return i + 1
+
+
 def writeToFile():
 	#ensure_path (savePath)
 	path = "train.info"
@@ -65,15 +72,14 @@ def writeToFile():
 		bigrams = find_ngrams(words, 2)
 		trigrams = find_ngrams(words, 3)
 
-		with open(file_key_name, 'r') as f:
-			allkeys = f.readlines();
+		num_keys = file_len(file_key_name)
 
 		for line in key_file:
 			length = len(line.split())
 			if length <= 3:
 				line = line.rstrip('\n')
 				write_file.write(line + ":1\n")
-				neg_examplea = getRandomGram(length, line, words, bigrams, trigrams, allkeys)
+				neg_examples = getRandomGram(length, line, words, bigrams, trigrams)
 				negative_examples.extend(neg_examples)
 
 		for neg in negative_examples:
