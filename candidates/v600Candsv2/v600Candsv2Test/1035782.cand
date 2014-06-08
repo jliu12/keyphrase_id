@@ -1,0 +1,341 @@
+quorum
+deliverupdate
+masking
+quorums
+servers
+client
+byzantine
+faulty
+server
+timestamp
+clients
+opaque
+initiateupdate
+load
+replicated
+echo
+dissemination
+prone
+universe
+executes
+read
+protocol
+dahlia
+op
+serialization
+constructions
+grid
+secure
+malkhi
+member
+failures
+fail
+signatures
+dominated
+preceding
+tolerant
+writer
+availability
+secret
+fault
+services
+public
+concurrent
+iff
+mema
+undetectably
+correct
+intersect
+exclusion
+service
+alvisi
+consensus
+update
+reiter
+failure
+schneider
+writes
+ready
+atomic
+timestamps
+agreement
+threshold
+repositories
+maniatis
+lidong
+bazzi
+giuli
+benignly
+rida
+precede
+scenarios
+protocols
+roussopoulos
+sends
+verifying
+induces
+receives
+authority
+benign
+hadamard
+petros
+busiest
+rosenthal
+lorenzo
+fred
+security
+peer
+reply
+write
+wool
+dispersal
+coterie
+assigns
+corollary
+precedes
+tocs
+digitally
+eventually
+michael
+consistency
+digital
+voting
+members
+certificates
+authenticate
+message
+ittai
+echoed
+cheuk
+robbert
+ncommon
+odlyzko
+evelyn
+accessing
+certificate
+tolerate
+self
+baker
+confidentiality
+intersects
+certification
+validity
+integrity
+pierce
+merritt
+coteries
+domination
+neves
+survivable
+dahlin
+renesse
+era
+bg
+reader
+lemma
+chooses
+rcd
+liskov
+rampart
+signed
+replication
+authentication
+rows
+satisfied
+nineteenth
+denver
+lemmata
+lau
+zhou
+annual
+mask
+votes
+wright
+bolton
+fortiori
+disable
+rebecca
+sharing
+mary
+fg
+date
+databases
+variations
+received
+executed
+propagation
+naor
+strategy
+multicast
+registers
+preservation
+propagating
+constructible
+landing
+rad
+quorum system
+quorum systems
+masking quorum
+correct server
+deliverupdate c
+c v
+fail prone
+prone system
+write operation
+faulty servers
+executes deliverupdate
+quorum q
+server executes
+dissemination quorum
+echo q
+q v
+opaque quorum
+q c
+initiateupdate q
+preceding write
+read operation
+replicated data
+write operations
+correct servers
+update q
+byzantine quorum
+self verifying
+assigns equal
+opaque masking
+non dominated
+system b
+op 1
+value timestamp
+update protocol
+failure scenarios
+quorum induces
+system q
+value written
+client c
+op 2
+masking quorums
+highest timestamp
+ready q
+universe u
+public key
+equal probability
+execute deliverupdate
+grid construction
+faulty client
+executes initiateupdate
+correct client
+last preceding
+timestamp pairs
+dahlia malkhi
+b iff
+q 2
+fault tolerant
+lemma 6
+c executed
+correct member
+f echo
+faulty server
+higher timestamp
+server u
+g u2q
+sends echo
+operations returns
+faulty clients
+arbitrarily faulty
+q 1
+byzantine fault
+k reiter
+two quorums
+michael k
+every correct
+corollary 4
+c q
+holds since
+single reader
+fred b
+executed initiateupdate
+mema roussopoulos
+correct clients
+regular masking
+load induced
+q similarly
+b schneider
+given fail
+l exclusion
+quorums intersect
+secret sharing
+correct process
+byzantine failures
+lorenzo alvisi
+quorums q
+digital signatures
+system 2
+example 5
+distributed computing
+multi reader
+u g
+variable x
+server receives
+deliverupdate c v
+system for b
+fail prone system
+masking quorum system
+masking quorum systems
+q c v
+executes deliverupdate c
+correct server executes
+server executes deliverupdate
+prone system b
+member of q
+initiateupdate q v
+echo q c
+dissemination quorum system
+quorum system q
+opaque quorum system
+byzantine quorum systems
+v t u
+servers in q
+strategy that assigns
+assigns equal probability
+induces a load
+update q v
+opaque masking quorum
+ready q c
+value timestamp pairs
+server in q
+execute deliverupdate c
+last preceding write
+preceding write operations
+operation in w
+preceding write operation
+executes initiateupdate q
+queries each server
+corollary 4 2
+obtain a set
+q to obtain
+client to obtain
+u g u2q
+members of q
+write operations returns
+set of value
+f echo q
+q are correct
+michael k reiter
+dissemination quorum systems
+load of 1
+x it queries
+given fail prone
+client to read
+quorum q 2
+induced by w
+c executed initiateupdate
+fred b schneider
+executed initiateupdate q
+u 2 q
+byzantine fault tolerant
+every correct server
+arbitrarily faulty servers
+v t proof
+set of correct
+q is non
+v t 2

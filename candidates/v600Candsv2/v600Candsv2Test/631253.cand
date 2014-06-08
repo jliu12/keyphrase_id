@@ -1,0 +1,349 @@
+lqn
+requesthandler
+client
+ioout
+server
+uml
+architectural
+pipeline
+collaboration
+ioin
+filters
+buffer
+processor
+semaphore
+replications
+utilization
+ioexec
+downstreamfilter
+upstreamfilter
+rh
+software
+fig
+proc
+request
+stackout
+stackin
+telecommunication
+collaborations
+throughput
+serialization
+message
+services
+requests
+accessor
+submodel
+filter
+bottleneck
+container
+synchronous
+configurations
+queueing
+reply
+modelling
+behavioural
+processors
+entry
+service
+behalf
+servers
+asynchronous
+upstrmfilter
+coallocation
+downstrmfilter
+modelled
+architecture
+forwarding
+hardware
+rectangle
+configuration
+utilizations
+waiting
+critical
+clients
+passive
+devices
+usern
+pulls
+mirandola
+raffaela
+entries
+thread
+busy
+attributes
+proposes
+connector
+arc
+dummy
+io
+database
+phases
+demands
+tasks
+visits
+patterns
+task
+queue
+messages
+rendezvous
+rome
+interactions
+object
+idle
+item
+shared
+bottlenecks
+achievable
+diagrams
+toolset
+behaviour
+allocation
+script
+replication
+cortellessa
+petriu
+lifeline
+grassi
+allocated
+excessive
+read
+measurements
+served
+sect
+submodels
+lifecycle
+blackboard
+callers
+wait
+transformation
+roles
+early
+alternatives
+serializes
+weaknesses
+saturated
+active
+structural
+quantify
+vincenzo
+vittorio
+arcs
+frequently
+systematic
+slave
+broker
+arrow
+sigsoft
+transformations
+qn
+delegates
+accepting
+capacity
+pattern
+response
+circle
+scenarios
+optionally
+corba
+stochastic
+objects
+running
+utilized
+exchanged
+loads
+layered
+bridging
+pushes
+exposes
+insure
+exclusive
+delays
+italy
+invoke
+named
+handler
+scheduling
+responsible
+diagram
+cpu
+offer
+stages
+replies
+initiating
+contained
+assess
+processes
+threads
+device
+contributions
+development
+lqn model
+architectural patterns
+client server
+processor node
+software architecture
+performance models
+telecommunication system
+performance attributes
+task entry
+requesthandler replications
+software performance
+asynchronous message
+upstreamfilter downstreamfilter
+replications utilization
+request arc
+performance modelling
+processor configuration
+processor nodes
+critical section
+shared object
+stackin stackout
+processor database
+task utilizations
+performance engineering
+lqn submodel
+lqn task
+passive object
+achievable throughput
+performance analysis
+software components
+useful work
+performance model
+different processor
+synchronous message
+server systems
+level architecture
+downstreamfilter buffer
+utilization ioout
+proc base
+forwarding message
+excessive serialization
+database requesthandler
+buffer upstrmfilter
+included services
+accessor shared
+software bottleneck
+architectural pattern
+software task
+buffer upstreamfilter
+semaphore task
+object operations
+fully modified
+upstrmfilter downstrmfilter
+server client
+class object
+queueing network
+high level
+performance limitations
+modified system
+server may
+model parameters
+active objects
+execution times
+see fig
+server pattern
+multi server
+serialization constraints
+section accessor
+critical sect
+half way
+building performance
+base case0
+modified system0
+container contained
+raffaela mirandola
+lqn models
+level architectural
+software server
+distributed software
+performance july
+constraint sequential
+configuration base
+early performance
+coallocation container
+time demands
+way modified
+processing power
+critical sections
+frequently used
+systematic approach
+buffer figure
+software architectures
+service requests
+different software
+system request
+next item
+hardware devices
+architectural connection
+performance characteristics
+may offer
+different configurations
+pipeline and filters
+number of requesthandler
+different processor nodes
+requesthandler replications utilization
+running on different
+pipeline with buffer
+client server client
+shown in fig
+approach to building
+high level architecture
+upstreamfilter downstreamfilter buffer
+due to excessive
+structural and behavioural
+buffer upstrmfilter downstrmfilter
+buffer upstreamfilter downstreamfilter
+client server systems
+users are running
+filters are running
+proc base case
+pipeline with message
+replications utilization ioout
+proposes a systematic
+number of visits
+hardware to software
+behalf of different
+high level architectural
+software task entry
+section accessor shared
+described in fig
+critical section accessor
+case of 6
+server client server
+modified system0 20
+building performance models
+thread of control
+software performance engineering
+processor database requesthandler
+shared object operations
+base case0 20
+system is saturated
+client server pattern
+processor configuration base
+july 24 26
+performance july 24
+modelled as entries
+coallocation container contained
+half way modified
+configuration base case0
+maximum achievable throughput
+software and performance
+software and hardware
+workshop on software
+notes v 29
+n 1 january
+co allocation collaboration
+request handler ioout
+level architectural patterns
+task that plays
+buffer filter1 1
+task are executed
+processor ioexec database
+object flow carried
+task entry seen
+queueing network lqn
+execution time demands
+level software architecture
+configurations with one
+database requesthandler figure
+cause for performance

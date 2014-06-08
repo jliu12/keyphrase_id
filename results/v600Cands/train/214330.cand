@@ -1,0 +1,600 @@
+pool
+pools
+buffer
+sender
+receiver
+cache
+message
+buffers
+ksr
+warp
+processor
+misses
+phold
+megabytes
+processors
+page
+fossil
+partitioned
+degradations
+miss
+send
+messages
+committed
+reclaimed
+lps
+executive
+simulation
+allocated
+pcs
+pages
+event
+redistribution
+hogging
+multiprocessor
+memory
+reside
+caches
+fujimoto
+simulations
+kendall
+lock
+ring
+passing
+invalidations
+sending
+multiprocessors
+management
+coherence
+cancellation
+events
+mechanism
+writes
+destination
+locality
+overheads
+caching
+shared
+returned
+accesses
+outperforms
+severe
+workload
+sends
+protocols
+sec
+allocates
+declines
+schemes
+prefetch
+hits
+thrashing
+cell
+samir
+decline
+500001500002500003500000
+referenced
+contents
+workloads
+synthetic
+256
+allocate
+unallocated
+portable
+hypercube
+amounts
+mechanisms
+carothers
+population
+coherent
+virtual
+1024
+richard
+enqueuing
+poor
+granularity
+transmitted
+hundreds
+receiving
+measurements
+serviced
+update
+das
+phone
+radio
+enqueues
+residing
+rings
+locks
+timestamp
+megabyte
+gvt
+copy
+migration
+knee
+combat
+utilized
+unnecessary
+invalidation
+benchmark
+lp
+channels
+thousands
+central
+sector
+protocol
+simulator
+utilizing
+excessively
+neighborhood
+aborted
+modest
+mb
+secondary
+routing
+packed
+benchmarking
+roll
+rollback
+migrate
+strategies
+contention
+msg
+approximately
+thirteenth
+unallo
+althoughsimple
+ditional
+kirton
+redistributioncan
+cellation
+smtw
+2500035000450005500065000
+schwan
+relf
+ss7
+mistic
+50000150000250000
+ctlin
+globalpool
+ural
+girindra
+unmapping
+continuouslyrouted
+94085550
+simmonds
+2468100
+scoop
+traffic
+minutes
+subdivided
+maximize
+excess
+platform
+queue
+winter
+formance
+proces
+flags
+aforementioned
+disadvantage
+machines
+exceeded
+invalidate
+executing
+grid
+laboriously
+bloated
+popu
+throughthe
+extras
+2000060000100000140000
+panesar
+radharamanan
+allocation
+concerned
+sized
+queuing
+restore
+hardware
+prefetching
+pool scheme
+receiver pool
+sender pool
+receiver pools
+buffer pool
+the buffer
+sender pools
+the message
+the receiver
+the sender
+time warp
+the partitioned
+partitioned pool
+partitioned buffer
+message buffer
+page misses
+pool approach
+buffer management
+ksr 2
+buffer pools
+message send
+pool schemes
+and receiver
+each processor
+free pool
+processor s
+sender and
+buffer redistribution
+performance degradations
+page miss
+of memory
+global pool
+pools figure
+partitioned pools
+buffer memory
+message into
+fossil collection
+of buffers
+s cache
+the cache
+message passing
+shared memory
+25 megabytes
+pools sender
+the ksr
+cache misses
+buffers in
+three buffer
+event rate
+the processor
+pool and
+buffer will
+each message
+small granularity
+in sender
+buffer is
+reside in
+a message
+the pool
+committed event
+message buffers
+distributed simulation
+pool is
+a buffer
+memory is
+performance events
+simulation executive
+sub cache
+pools receiver
+a ksr
+miss problem
+memory allocated
+original sender
+returned to
+cache miss
+writes the
+passing mechanism
+s buffer
+message sends
+buffer from
+pool of
+simulation applications
+of buffer
+pool the
+parallel simulation
+events sec
+large simulations
+severe performance
+lps and
+the free
+a processor
+scheme the
+the page
+the simulation
+processor j
+coherence protocols
+pool for
+kendall square
+message population
+buffer in
+event simulation
+of cache
+local cache
+message cancellation
+processor to
+memory multiprocessor
+destination processor
+update based
+synthetic workloads
+management strategies
+of processors
+of page
+the sending
+amounts of
+megabytes of
+a cache
+discrete event
+buffers that
+sending processor
+phold with
+pool strategy
+redistribution mechanism
+256 lps
+pool mechanisms
+sender writes
+pool mechanism
+allocated mb
+pools as
+buffer hogging
+outperforms the
+amount of
+virtual memory
+m fujimoto
+the committed
+messages to
+processor i
+the destination
+misses occur
+richard m
+buffers are
+cache coherence
+buffer to
+each buffer
+free buffers
+neighborhood sizes
+2 multiprocessor
+invalidations occur
+are reclaimed
+research ksr
+square research
+additional caching
+warp executive
+sec processors
+other processors
+based cache
+sends messages
+the phold
+in receiver
+processors partitioned
+warp on
+efficient buffer
+buffer and
+the buffers
+cache coherent
+processor allocates
+buffer was
+s working
+decline in
+and sender
+warp system
+executing on
+simulations of
+of pages
+cache hits
+memory was
+pool in
+8 processors
+population of
+the pages
+simulation on
+to processor
+simulation p
+these experiments
+and partitioned
+update protocol
+they send
+believe these
+memory buffers
+send time
+maximize performance
+receiving processor
+buffer may
+k equal
+selected from
+cache behavior
+allocated for
+hardware platform
+benchmark applications
+message based
+the contents
+the sender pool
+the receiver pool
+the message buffer
+the partitioned buffer
+the partitioned pool
+partitioned buffer pool
+sender pool scheme
+receiver pool scheme
+sender and receiver
+in the receiver
+and receiver pool
+the free pool
+the message into
+receiver pool schemes
+partitioned pool scheme
+buffer pool scheme
+the buffer pool
+in the sender
+each message send
+processor s cache
+pools sender pools
+receiver pool approach
+receiver pools figure
+three buffer management
+pool scheme the
+s buffer pool
+and receiver pools
+of buffer memory
+amounts of memory
+of page misses
+severe performance degradations
+message into the
+the original sender
+the time warp
+amount of memory
+of the message
+the sender and
+message passing mechanism
+in the cache
+writes the message
+in sender pools
+committed event rate
+performance events sec
+and message population
+page miss problem
+the global pool
+lps and message
+the committed event
+sender pools receiver
+a ksr 2
+partitioned pools sender
+pool scheme is
+the page miss
+pools receiver pools
+on a ksr
+buffer management strategies
+of memory is
+to the receiver
+into the buffer
+the buffer will
+message population of
+discrete event simulation
+shared memory multiprocessor
+in the partitioned
+of the pool
+amount of buffer
+into the message
+the destination processor
+b i j
+the sending processor
+the buffer is
+the processor s
+richard m fujimoto
+must be allocated
+both the sender
+sender writes the
+efficient buffer management
+the simulation executive
+in receiver pools
+allocates a buffer
+update based cache
+25 megabytes of
+message send time
+via the buffer
+receiver pool and
+population of 1024
+the sender writes
+improvement that results
+memory allocated mb
+message into it
+processors partitioned pools
+sec processors partitioned
+pool scheme and
+256 lps and
+and sender pool
+message buffer in
+ksr 2 multiprocessor
+the sub cache
+buffer redistribution mechanism
+events sec processors
+the buffer redistribution
+processor s buffer
+research ksr 2
+the update protocol
+pool of the
+for buffer redistribution
+receiver pool strategy
+for k equal
+of cache misses
+number of page
+cache coherence protocols
+in time warp
+virtual memory system
+outperforms the other
+contents of the
+returned to the
+processor s working
+time warp executive
+that the partitioned
+buffer management schemes
+in the ksr
+square research ksr
+kendall square research
+a uniform distribution
+send messages to
+by the receiver
+in each processor
+s working set
+the buffer was
+receiving the message
+buffer management scheme
+the buffers in
+time warp on
+decline in performance
+the hardware platform
+to the message
+the cache of
+time warp system
+k equal to
+prior to each
+from a uniform
+the message passing
+the amount of
+the contents of
+a message to
+a cache miss
+the buffer has
+of the partitioned
+megabytes of memory
+to maximize performance
+the receiving processor
+when the receiver
+we believe these
+message passing is
+sending the message
+to each message
+based cache coherence
+number of buffers
+when the sender
+to processor j
+to the buffer
+uniform distribution in
+processor to another
+to the free
+to be approximately
+the total amount
+shared memory multiprocessors
+total amount of
+of time warp
+and writes the
+the buffer and
+the virtual memory
+be returned to
+as the amount
+number of pages
+the receiver s
+selected from a
+from one processor
+distributed simulation p
+for the message
+a shared memory
+of the processor
+buffer migration is
+the fly fossil
+allocates the buffer
+serviced by a
+page memory allocated
+receiver s cache
+a kendall square
+pool via the
+global pool is
+time in sender
+memory is changed
+pool i e
+original sender or
+one million committed
+page misses the
+additional caching overheads
+pools figure 3
+send time in

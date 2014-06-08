@@ -1,0 +1,600 @@
+aaaa
+silo
+cache
+multiop
+nop
+ops
+nextpc
+banked
+expander
+fetch
+uncompressed
+silos
+tinker
+futypes
+instruction
+op
+multiops
+opc
+vliw
+compressed
+tag
+miss
+encoding
+nops
+futype
+rigid
+floating
+bank
+offset
+flexible
+bits
+rsi
+block
+designs
+branch
+cycle
+hit
+benchmarks
+k5
+fus
+instructions
+ialu
+repair
+associativity
+dop
+fetched
+misprediction
+tags
+encodings
+cydra
+perfect
+icache
+pipeline
+reside
+risc
+br
+fut
+blocked
+requested
+x86
+crisp
+rescheduling
+fill
+cisc
+cmpp
+pc
+tail
+pentium
+amd
+fpadd
+fpmul
+field
+filled
+header
+penalty
+fu
+partitions
+kb
+sub
+harmonic
+decoding
+policy
+vliws
+blocking
+bit
+bar
+microarchitecture
+decoded
+memories
+successor
+microprocessor
+8integer
+64b
+uniops
+tiop
+jayapala
+routed
+blocks
+architecture
+fetching
+logic
+testbed
+minisupercomputer
+partition
+prefetching
+fields
+utilization
+pipelined
+units
+architectures
+l2
+stage
+searched
+ld
+pause
+mul
+hardware
+memory
+mapped
+compatibility
+catthoor
+biswas
+000000
+partha
+francky
+alignment
+fetches
+destined
+offsets
+playdoh
+mechanisms
+nominally
+multiflow
+banks
+expansion
+compiler
+murali
+delineate
+stages
+traditional
+stores
+evalu
+extra
+trace
+functional
+pictured
+dsps
+departmental
+organization
+caches
+superblock
+associative
+arena
+nikil
+mem
+programs
+addressing
+conte
+dutt
+organizations
+latency
+processor
+simulations
+l1
+integer
+benchmark
+expanded
+int
+placement
+width
+sequential
+storage
+611
+scheduled
+frame
+bandwidth
+folding
+partitioned
+embedded
+schedule
+placed
+metric
+intel
+generations
+misses
+valid
+mechanism
+decoder
+align
+wahlen
+1382
+nohl
+adarsh
+conflict0
+seetharam
+althougha
+withinthe
+cydrome
+overfetching
+atinkerop
+aaaa aaaa
+nop nop
+silo cache
+banked cache
+i fetch
+flexible silo
+uncompressed cache
+cache block
+the banked
+the uncompressed
+the cache
+rigid silo
+compressed encoding
+a multiop
+nextpc computation
+the tinker
+miss path
+i cache
+a silo
+path expander
+cache the
+ops in
+a cache
+the expander
+the silo
+a compressed
+the rigid
+the multiop
+sub blocked
+hit path
+the flexible
+multiop is
+floating point
+each silo
+miss repair
+instruction fetch
+instruction cache
+a nop
+the ops
+expander is
+the silos
+a tinker
+silo design
+all ops
+an uncompressed
+of ops
+sub blocking
+cache is
+tag and
+length field
+bank bits
+uncompressed encoding
+silo silo
+silo for
+the miss
+fetch mechanism
+cache and
+a tag
+multiop are
+cache miss
+instruction words
+block fetch
+silos for
+ops completed
+multiop has
+useful ops
+cycle opc
+silo that
+fully partitioned
+nextpc generation
+multiop c
+tag compare
+futypes to
+for nextpc
+silo is
+op in
+an op
+point benchmarks
+perfect i
+compressed encodings
+a flexible
+sub block
+completed per
+one op
+misprediction penalty
+direct mapped
+a miss
+ops to
+traditional cache
+a traditional
+branch misprediction
+individual bar
+ops for
+successor block
+two futypes
+multiple futypes
+benchmarks opc
+amd k5
+nop policy
+tail bits
+opc perfect
+machine width
+ops of
+perfect icache
+blocked design
+nop cache
+bank bit
+tinker encoding
+the floating
+the requested
+the instruction
+fetch mechanisms
+bar represents
+harmonic mean
+cache a
+tail bit
+valid bits
+fetch hardware
+multiop in
+holds ops
+cache size
+the offset
+cache figure
+vliw architectures
+a banked
+ops that
+valid select
+ops are
+offset field
+fetch for
+cydra 5
+block when
+miss occurs
+code compatibility
+cache uses
+the pentium
+cache blocks
+code size
+per cycle
+two cycle
+associativity is
+cache access
+metric used
+mean for
+the amd
+the block
+the harmonic
+routed to
+16 kb
+tinker n
+cycle expander
+fetch using
+fut field
+opc each
+requested multiop
+vliw instructions
+basic instruction
+that silo
+silo the
+ops into
+one multiop
+three ops
+offset reduced
+current multiop
+nops policy
+tinker 8
+futypes and
+uncompressed design
+multiop b
+tag compares
+silo holds
+silo and
+parallel tag
+repair logic
+nops free
+cache banked
+a nops
+unified partition
+the nextpc
+uncompressed form
+offset bits
+blocked cache
+silo way
+the address
+cache designs
+the fetch
+the pc
+same cache
+the integer
+of cache
+cache to
+current block
+functional unit
+the branch
+cache hit
+cycle time
+the cydra
+fetch model
+multiop a
+execution pipeline
+aaaa aaaa aaaa
+nop nop nop
+the banked cache
+the uncompressed cache
+the rigid silo
+the flexible silo
+rigid silo cache
+a compressed encoding
+a flexible silo
+a cache block
+flexible silo cache
+the silo cache
+the cache block
+miss path expander
+silo cache the
+an uncompressed encoding
+ops in the
+in a multiop
+branch misprediction penalty
+for i fetch
+perfect i cache
+per cycle opc
+a silo cache
+ops completed per
+represents the harmonic
+path expander is
+completed per cycle
+hit path expander
+uncompressed cache the
+a traditional cache
+silo cache is
+harmonic mean for
+useful ops completed
+floating point benchmarks
+cache block when
+all ops in
+of the uncompressed
+the floating point
+the successor block
+expander is used
+individual bar represents
+i fetch mechanism
+the amd k5
+sub blocked design
+a tag and
+opc perfect icache
+banked cache the
+each individual bar
+benchmarks opc perfect
+flexible silo design
+is useful ops
+the machine width
+using the tinker
+the tinker encoding
+a nop cache
+of i fetch
+the i fetch
+a perfect i
+point benchmarks opc
+the harmonic mean
+the branch misprediction
+bar represents the
+cache and the
+the metric used
+mean for the
+of the banked
+for the integer
+in the cache
+tag and data
+cache size and
+object code compatibility
+of the cache
+cache block the
+to the pc
+for the combination
+in a compressed
+cache has a
+the same cache
+rigid silo design
+header and tail
+for nextpc computation
+fetch using the
+in a silo
+silo holds ops
+sub blocked cache
+cycle opc each
+the last op
+instruction fetch model
+a one op
+a multiop has
+parallel tag compares
+a nop policy
+a rigid silo
+tinker 8 machine
+nextpc computation is
+a miss path
+types of ops
+silo cache uses
+a length field
+cache the metric
+the current multiop
+banked cache a
+the block fetch
+basic instruction fetch
+for a tinker
+cache the rigid
+the requested multiop
+the nops policy
+the hit path
+opc each individual
+i fetch using
+the nextpc computation
+the uncompressed design
+silo silo way
+i fetch is
+of the multiop
+used is useful
+cache memory interface
+silo cache and
+futypes to reside
+the miss path
+a fully partitioned
+of the flexible
+multiop has been
+and tail bits
+banked cache is
+the sub blocked
+than the perfect
+for all ops
+cache hit path
+uncompressed design the
+cache the banked
+miss repair logic
+cache miss path
+cache miss repair
+the i cache
+the current block
+the cydra 5
+for the uncompressed
+op in the
+metric used is
+the first op
+the perfect cache
+op in a
+in the banked
+a valid bit
+decoded instruction cache
+for a compressed
+ops in a
+in parallel with
+encoding the size
+the integer programs
+cache uses a
+the pentium pro
+integer floating point
+ialu fpadd fpmul
+bits for all
+combination of cache
+as the machine
+in a cache
+on the cache
+a direct mapped
+a two cycle
+for the rigid
+the instruction cache
+cache block and
+floating point programs
+block containing the
+of cache size
+each cache block
+for the floating
+cache block size
+instruction fetch mechanism
+same cache block
+for vliw architectures
+shown in figure
+a miss occurs
+instruction fetch mechanisms
+the same size
+cache the cache
+with it a
+placed into the
+the cycle time
+bits are used
+for a cache
+a design that
+the cache hit
+for every op
+an operation at
+for a silo
+place ops into
+extra levels of
+cache indicates that
+way silo silo
+silos can be
+41 8integer floating
+the fut field
+set associative manner
+block fetch design
+architecture the multiflow

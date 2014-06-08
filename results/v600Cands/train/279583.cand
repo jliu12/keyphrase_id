@@ -1,0 +1,600 @@
+hrms
+hypernode
+recurrence
+scheduling
+register
+scheduled
+modulo
+schedule
+loops
+scheduler
+spilp
+predecessors
+circuits
+registers
+successors
+recurrences
+initiation
+recmii
+loop
+subgraph
+frlc
+lifetimes
+maxlive
+pipelined
+dependence
+pipelining
+schedules
+l6
+late
+l4
+fa
+slack
+buf
+subgraphs
+club
+ordering
+spill
+pressure
+ordered
+cycle
+nodes
+lifetime
+dependences
+heuristic
+latency
+fg
+regs
+topologically
+fand
+appended
+buffers
+termed
+iteration
+schedulers
+requirements
+cycles
+down
+circuit
+backward
+early
+mii
+top
+consumed
+kernel
+compilation
+priority
+instruction
+ii
+8b
+predecessor
+epilogue
+traffic
+pre
+secs
+ayguad
+live
+llosa
+eduard
+steady
+ramp
+1258
+fthis
+iterations
+placed
+scans
+variants
+2a
+node
+perfect
+mateo
+valero
+pipeline
+successor
+vachharajani
+wands
+list
+tries
+resmii
+pala
+josep
+renaming
+slot
+ffa
+resource
+egg
+compilers
+10e
+interval
+dg
+ejected
+rescheduled
+eg
+parallelism
+10c
+preordering
+prologue
+orders
+configuration
+edges
+innermost
+mg
+8c
+cydra
+lpez
+sorted
+paths
+units
+10b
+10a
+allocation
+execution
+sqrt
+8a
+producer
+fp
+software
+configurations
+aggressive
+connecting
+gg
+div
+themg
+loop5
+stretchable
+orderedg
+similary
+previouly
+l61030cycles
+psp
+ovelapping
+registers6080100
+schelude
+grah
+freturns
+indefinetely
+cycle1
+convential
+fthe
+agressive
+correspods
+simultaneosly
+pss
+whets
+producing
+buffer
+stage
+bottom
+fb
+consumer
+exits
+vliw
+overlapped
+motivating
+suite
+notice
+97
+iterarions
+abstractsoftware
+pipelin
+tiplier
+edgesg
+testbench
+famong
+obtains
+strategies
+workstation
+graph
+adjacency
+fit
+compares
+backtracking
+sc
+resources
+sorts
+begining
+ap120b
+eckhardt
+caring
+ictineo
+7f
+recurrence circuits
+register requirements
+the hypernode
+modulo scheduling
+top down
+of hrms
+pre ordering
+the register
+recurrence subgraphs
+ordering step
+the ii
+initiation interval
+recurrence circuit
+down scheduler
+the scheduling
+dependence graph
+the scheduler
+scheduling step
+the nodes
+software pipelining
+early start
+software pipelined
+hrms is
+ordered nodes
+partial schedule
+the loop
+register pressure
+the loops
+the dependence
+list fa
+lifetimes of
+fa c
+of ordered
+been scheduled
+loop variants
+late start
+start u
+without recurrence
+recurrence subgraph
+the recurrence
+the graph
+is scheduled
+hypernode reduction
+hypernode and
+at cycle
+compilation time
+the partial
+g f
+late as
+hrms requires
+predecessors successors
+cycle early
+configuration l6
+that hrms
+hrms top
+as early
+requirements of
+backward edges
+previously scheduled
+perfect club
+the initiation
+as late
+an operation
+the predecessors
+memory traffic
+a latency
+be scheduled
+execution time
+operation u
+scheduled the
+state phase
+as possible
+the pre
+down scheduling
+least 97
+ii buf
+only predecessors
+hypernode h
+buf secs
+topologically sorted
+schedule for
+of registers
+software pipeline
+live values
+the execution
+spill code
+scheduled in
+pipelined loop
+loops with
+the perfect
+list of
+pipelined loops
+placed as
+one iteration
+product compilers
+partial scheduling
+buffers buf
+latency of
+the lifetimes
+scheduled before
+scheduled as
+schedules with
+instruction level
+graph of
+64 registers
+slack scheduling
+2a shows
+scheduling approaches
+early as
+of loops
+the list
+c d
+once at
+a predecessor
+the ordering
+of figure
+orders the
+reduced to
+ffi u
+gives priority
+paths connecting
+the schedule
+order not
+appended to
+scheduling and
+level parallelism
+reduction modulo
+partial list
+or successors
+hrms scheduling
+by hrms
+j mg
+of recmii
+to recurrence
+predecessors or
+no recurrence
+function hypernode
+8b are
+reference operation
+cycle modulo
+secs ii
+optimal ii
+both schedulers
+next recurrence
+g fand
+successors have
+step consumed
+addition hrms
+f g
+linear programming
+figure 2a
+priority to
+scheduling methods
+of loop
+successors of
+this graph
+nodes is
+is placed
+is appended
+a schedule
+a top
+ii and
+the node
+nodes of
+graph without
+free slot
+ordered using
+about register
+scheduler scans
+loops scheduled
+nodes list
+of recurrences
+of register
+bottom up
+register allocation
+is termed
+the software
+notice that
+a loop
+of recurrence
+1258 loops
+d fg
+scheduler computes
+that orders
+delay any
+the top
+of ii
+and reduced
+for configuration
+u until
+ii but
+for software
+dependence graphs
+interval ii
+backward edge
+recurrences and
+ii cycles
+successors are
+operation to
+of nodes
+the register requirements
+register requirements of
+list of ordered
+to the hypernode
+the pre ordering
+top down scheduler
+pre ordering step
+the partial schedule
+of ordered nodes
+the dependence graph
+graph of figure
+the scheduling step
+the register pressure
+the top down
+in the partial
+list fa c
+without recurrence circuits
+late as possible
+a latency of
+the initiation interval
+the perfect club
+early start u
+performance of hrms
+cycle early start
+hrms top down
+orders the nodes
+of hrms is
+of the loop
+of the loops
+the hypernode and
+fa c d
+number of registers
+as late as
+of loop variants
+steady state phase
+is placed as
+the graph of
+software pipelined loop
+the recurrence circuits
+producing the graph
+ordered nodes is
+top down scheduling
+ffi u v
+graph without recurrence
+at least 97
+operation u has
+ii for at
+ii buf secs
+f g f
+early as possible
+reduced to the
+figure 2a shows
+modulo scheduling approaches
+hypernode and the
+is scheduled as
+an operation u
+by the top
+as early as
+appended to the
+of the nodes
+g f g
+instruction level parallelism
+linear programming approach
+hypernode reduction modulo
+the software pipeline
+reduction modulo scheduling
+a top down
+as possible in
+order not to
+in order not
+the ii is
+gives priority to
+a software pipelined
+the execution time
+is appended to
+to the list
+of the recurrence
+the nodes of
+software pipelined loops
+if an operation
+scheduled in cycle
+the hypernode h
+predecessors or successors
+the partial scheduling
+the recurrence subgraphs
+hrms requires less
+to recurrence circuits
+ordered nodes list
+the next recurrence
+start of u
+starting at cycle
+the predecessors successors
+list list fa
+of backward edges
+function hypernode reduction
+in addition hrms
+comparison of hrms
+delay any possible
+least 97 5
+recurrence circuits that
+ordered using the
+has no recurrence
+for configuration l6
+evaluation of hrms
+until the cycle
+free slot for
+buf secs ii
+secs ii buf
+start u until
+priority to recurrence
+recurrence circuits are
+be ordered using
+search all paths
+c d fg
+u until the
+the loops scheduled
+only predecessors or
+no recurrence circuits
+the list of
+all the nodes
+the lifetimes of
+for one iteration
+schedule for a
+f i g
+the scheduler computes
+already been scheduled
+scheduled as early
+2a shows the
+the recurrence circuit
+a free slot
+fa c g
+partial schedule for
+order the nodes
+shows the lifetimes
+the scheduler scans
+placed as early
+not to delay
+and reduced to
+with other scheduling
+loop with an
+other scheduling methods
+terms of ii
+graph in figure
+in the scheduling
+of the graph
+the execution of
+schedule of one
+then the scheduler
+overview of modulo
+64 registers and
+slot for the
+graph g g
+scheduler computes the
+the nodes in
+the ii and
+g f i
+registers are available
+list of nodes
+dependence graph g
+requirements of the
+of modulo scheduling
+reduce the register
+initiation interval ii
+the node u
+fa b c
+i g f
+the nodes that
+ffl if an
+is scheduled the
+of u as
+the software pipelined
+to be scheduled
+of the schedule
+the number of
+is reduced to
+partial list of
+for a free
+it is scheduled
+for software pipelined
+with the lowest
+node of the
+number of buffers
+of registers is
+can be ordered
+for an extensive
+c d f
+the proposed method
+will be scheduled
+of one iteration
+scheduling and the
+f i f
+the instruction level
+b c d
+5 of the
+and the scheduling
+it is placed
+the graph in
+the steady state
+an operation is
+have been previously

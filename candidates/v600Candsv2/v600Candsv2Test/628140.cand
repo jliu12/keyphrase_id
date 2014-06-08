@@ -1,0 +1,325 @@
+subtransactions
+subtransaction
+transaction
+serialization
+rpo
+flexible
+hddbs
+compensating
+cascading
+sseg
+committed
+compensation
+compensatable
+ct
+commit
+retriable
+serializability
+ip
+aborts
+serializable
+oe
+ls
+serialized
+rpos
+atomicity
+concurrency
+gtm
+database
+commits
+site
+jp
+multidatabase
+schedule
+compensated
+abort
+commitment
+compensations
+jq
+dependencies
+surplus
+retrial
+schedules
+items
+invalid
+pivot
+ldbs
+unilaterally
+interference
+mrb
+serialize
+aborted
+insertion
+consistency
+alternate
+switching
+transactions
+integrity
+globally
+bank
+submitted
+criterion
+ldbss
+precede
+termed
+protocol
+scheduling
+sites
+reads
+conflict
+execute
+executed
+submission
+deposit
+deleted
+heterogeneous
+preference
+precedence
+ticket
+edge
+prefix
+trans
+executes
+blocking
+avoids
+manager
+global
+ds
+execution
+avoiding
+deletion
+effects
+executions
+unambiguous
+priority
+retried
+item
+enforcing
+conflicts
+preferred
+semi
+committable
+resubmitted
+refundable
+autonomous
+alternatives
+gd
+regain
+inserted
+delete
+autonomy
+preservation
+edges
+databases
+conflicting
+workflows
+multidatabases
+retry
+consistent
+semantic
+scheduled
+attempted
+enforced
+traditional
+serial
+fare
+withdrawal
+isolation
+prepare
+scheduler
+contradicts
+ft
+concurrent
+inconsistency
+delays
+maintains
+wc
+preserve
+precedes
+successors
+formed
+management
+forced
+uncommitted
+action
+inconsistent
+observations
+fails
+resilience
+travel
+ld
+rc
+undone
+transfers
+backtrack
+submits
+avoided
+centric
+transactional
+sub
+unavoidable
+unaffected
+ensures
+maintained
+insert
+predecessors
+submit
+ffl
+plane
+issuing
+rule
+flow
+integrates
+violate
+preserves
+resilient
+decision
+accesses
+limo
+uncompleted
+bds
+schek
+flexible transaction
+flexible transactions
+serialization point
+oe rpo
+global transaction
+local site
+global transactions
+concurrency control
+local transactions
+cascading aborts
+compensating subtransaction
+ls p
+local database
+compensating subtransactions
+hddbs environment
+compensation interference
+global serializability
+committed oe
+oe rpos
+serialization order
+data items
+global schedule
+interference free
+f serializability
+f serializable
+site ls
+edge insertion
+globally serializable
+serializable schedules
+global concurrency
+semi atomicity
+database state
+m ip
+avoiding cascading
+ct ip
+database consistency
+distributed database
+transaction model
+global subtransactions
+local sites
+subtransaction ct
+insertion rule
+avoids cascading
+sseg algorithm
+invalid subtransactions
+switching set
+global database
+control criterion
+bank b
+cascading compensations
+global subtransaction
+sub transaction
+scheduling protocol
+global decision
+consistent database
+conflict equivalent
+heterogeneous distributed
+local transaction
+transaction may
+local databases
+surplus transactions
+two subtransactions
+must serialize
+ct 1p
+operation submission
+local flexible
+cascading abort
+submission rule
+ip must
+integrity constraints
+database systems
+global consistency
+value dependencies
+one subtransaction
+semantic atomicity
+well formed
+transaction management
+committed subtransactions
+committed flexible
+flexible trans
+retriable subtransactions
+serialization points
+ct m
+two flexible
+avoid cascading
+formed flexible
+compensatable subtransaction
+compensating transaction
+maintains global
+alternate oe
+transaction manager
+execution of flexible
+compensation interference free
+local site ls
+global concurrency control
+committed oe rpo
+executes its serialization
+avoiding cascading aborts
+decision to commit
+compensating subtransaction ct
+flexible and local
+execute its serialization
+makes a global
+transaction t j
+heterogeneous distributed database
+consistent database state
+edge insertion rule
+concurrency control criterion
+site ls p
+globally serializable schedules
+executed its serialization
+flexible transaction may
+operation submission rule
+avoids cascading aborts
+transaction t 1
+j can execute
+set of subtransactions
+compensation or retrial
+two flexible transactions
+subtransaction t j
+global database consistency
+condition for avoiding
+global transaction manager
+global data items
+among the subtransactions
+f serializable schedules
+committed flexible transaction
+avoid cascading aborts
+subtransaction of flexible
+well formed flexible
+flexible transaction model
+alternate oe rpo
+concurrency control protocol
+execution of global
+local database systems
+global transaction g
+nodes and edges
+set of data
+sseg algorithm maintains
+enforcing t 1p
+entire flexible transaction
+bounded serialization point
+committed oe rpos
+commit the oe

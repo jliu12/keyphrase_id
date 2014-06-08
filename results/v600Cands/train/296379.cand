@@ -1,0 +1,600 @@
+swin
+winnow
+mistakes
+disjunction
+littlestone
+warmuth
+disjunctions
+mistake
+attribute
+learning
+literal
+rand
+trial
+schedule
+randomized
+shifting
+trials
+shifts
+cesa
+bianchi
+weights
+attributes
+det
+literals
+perceptron
+errors
+target
+herbster
+deterministic
+bounds
+ln
+kivinen
+shift
+expert
+vovk
+delta
+weight
+auer
+prediction
+winnow2
+manfred
+multiplicative
+tracking
+tuned
+gentile
+1994
+theorems
+amortized
+1988
+helmbold
+switched
+round
+1997
+classification
+unmodified
+haussler
+entropy
+ffn
+predictions
+monotone
+fi
+predicting
+experts
+predicts
+ff
+rosenblatt
+1958
+1989
+updates
+1990
+bounding
+misclassifications
+minfn
+f0
+sequences
+2a
+predict
+1g
+loss
+adversarial
+rounds
+worst
+logarithmic
+switching
+zg
+claudio
+incurs
+threshold
+concepts
+consistent
+logarithmically
+theoretical
+shifted
+nick
+classifications
+recommendations
+jumarie
+efi
+winnowing
+panizza
+zsuch
+egu
+schedules
+additive
+tuning
+corollary
+advice
+adapts
+1991
+hellinger
+kesavan
+1006
+mesterharm
+cavallanti
+tgr
+9700201
+haykin
+em
+sc
+settings
+changed
+tunings
+maass
+regressor
+1998
+leading
+exponentiated
+wml
+pintelas
+kotsiantis
+bousquet
+hopeless
+posteriors
+zaharakis
+jj
+exponentially
+choices
+dimension
+competitor
+pruning
+mark
+calculate
+disagrees
+entropic
+kapur
+besides
+nearly
+bits
+cepts
+regression
+rigorous
+quickly
+active
+duda
+boolean
+off
+2k
+calcu
+successes
+exemplify
+gammafi
+conversion
+lemmas
+corvalis
+choosing
+expanding
+multiplied
+gammaff
+nicol
+schapire
+thoughts
+kullback
+benign
+square
+junctions
+disagreement
+compresses
+advisable
+overestimates
+robustness
+acknowledges
+meantime
+numerically
+hr
+999
+dominant
+hart
+wrong
+experiment
+potential
+binary
+pp
+euclidean
+distance
+overestimate
+front
+lations
+madison
+equate
+freund
+attribute errors
+p delta
+target schedule
+of mistakes
+of swin
+of winnow
+all s
+in rand
+trial t
+example sequence
+schedule t
+mistake bounds
+learning algorithm
+k literal
+disjunction u
+algorithm l
+the weights
+a n
+shifting case
+non shifting
+best disjunction
+mistakes of
+s 2
+algorithm swin
+randomized version
+the randomized
+of examples
+2 s
+cesa bianchi
+of attribute
+a mistake
+in det
+function p
+warmuth 1994
+s z
+littlestone warmuth
+det then
+delta as
+sequences s
+in trial
+bianchi et
+shift size
+rand then
+w t
+theoretical bound
+sequence s
+k warmuth
+a attribute
+of attributes
+deterministic algorithm
+perceptron algorithm
+target shifts
+n attributes
+best shifting
+y t
+the deterministic
+then for
+weight vector
+each trial
+bound holds
+shifts and
+swin with
+literal disjunction
+case mistake
+swin s
+disjunction schedule
+l any
+the perceptron
+the algorithm
+z a
+delta be
+errors of
+the target
+winnow is
+loss bounds
+example sequences
+tracking the
+the disjunction
+a literal
+potential function
+algorithm makes
+al 1997
+the best
+classification errors
+randomized algorithm
+above bound
+littlestone 1988
+manfred k
+u t
+bounds show
+winnow which
+swin uses
+vovk 1990
+target disjunction
+if swin
+amortized analysis
+mistake bound
+n e
+s 0
+literal is
+leading term
+warmuth tracking
+mark herbster
+trials number
+deterministic learning
+an z
+kivinen warmuth
+machine learning
+weights are
+t i
+in theorems
+a randomized
+lower bounds
+many mistakes
+of littlestone
+relative entropy
+at trial
+one weight
+each shift
+ln n
+w 0
+a disjunction
+and attribute
+any randomized
+n j
+any deterministic
+delta given
+if y
+e then
+attribute vector
+upper bounds
+the parameters
+bounds of
+mistakes made
+of disjunctions
+this round
+literal disjunctions
+active literals
+two disjunctions
+target schedules
+mistakes theoretical
+1990 cesa
+classification y
+tuned parameters
+multiplicative updates
+comparison class
+swin then
+rand or
+rand and
+randomized learning
+consistent disjunctions
+m swin
+root term
+disjunction is
+is switched
+our worst
+of classification
+most a
+k a
+function used
+makes at
+we get
+on line
+0 k
+mistake in
+the unmodified
+linear threshold
+x t
+be tuned
+bounds for
+and p
+makes a
+shifting disjunction
+herbster manfred
+round there
+unmodified version
+attributes by
+mistakes is
+ln ff
+trial thus
+weights used
+warmuth 1998
+winnow and
+or det
+shifts in
+line learning
+expected number
+the loss
+any a
+of trials
+sequence of
+consistent with
+k ln
+n weights
+1988 1989
+for learning
+be as
+r t
+any n
+the theoretical
+number of mistakes
+for all s
+s 2 s
+all s 2
+sequence of examples
+of attribute errors
+the target schedule
+function p delta
+and p delta
+as in rand
+number of attribute
+of mistakes of
+p delta as
+delta as in
+s z a
+learning algorithm l
+the best disjunction
+as in det
+delta be as
+version of winnow
+2 s z
+z a n
+p delta be
+then for all
+performance of swin
+a attribute errors
+in det then
+det then for
+tracking the best
+k a n
+mistakes of the
+littlestone warmuth 1994
+example sequence s
+non shifting case
+in each trial
+bianchi et al
+w t i
+cesa bianchi et
+an example sequence
+bound holds for
+above bound holds
+in rand then
+rand then for
+attribute errors of
+0 k a
+makes a mistake
+in trial t
+the best shifting
+a n such
+the non shifting
+s 0 k
+as the best
+2 s 0
+n and p
+of the algorithm
+in the target
+number of attributes
+algorithm makes a
+the deterministic algorithm
+algorithm l any
+shifts and attribute
+and attribute errors
+worst case mistake
+a randomized version
+sequence s 2
+k literal disjunction
+case mistake bounds
+the perceptron algorithm
+the randomized algorithm
+for the randomized
+e then the
+and any a
+et al 1997
+be as in
+randomized version of
+the above bound
+the function p
+p r t
+manfred k warmuth
+the weights are
+the number of
+s n for
+2 s n
+the weight vector
+the theoretical bound
+disjunction u t
+with n attributes
+p delta given
+analysis of winnow
+lower bounds show
+of classification errors
+bounds show that
+of trials number
+swin uses the
+number of classification
+target shifts and
+most a attribute
+delta given by
+if swin uses
+deterministic learning algorithm
+for any deterministic
+holds for all
+for the deterministic
+at trial t
+schedule t is
+uses the function
+k warmuth tracking
+trials number of
+for each shift
+given in theorems
+the potential function
+then the above
+a n r
+k n e
+a n j
+can be tuned
+the randomized version
+of mistakes made
+n for k
+the leading term
+nearly as well
+a mistake in
+of the best
+at most a
+for k n
+our worst case
+our lower bounds
+m swin s
+of winnow which
+a target schedule
+of mistakes theoretical
+example sequences s
+fi and w
+l any n
+the weights used
+target schedule and
+mistake in each
+littlestone 1988 1989
+randomized learning algorithm
+1990 cesa bianchi
+for specific choices
+rand or det
+square root term
+vovk 1990 cesa
+by s z
+potential function used
+k literal disjunctions
+any deterministic learning
+mistakes theoretical bound
+the example sequence
+theoretical bound performance
+shift size of
+the schedule t
+bounds of our
+target schedule t
+literal is switched
+weights used by
+classification y t
+any randomized learning
+the shift size
+the unmodified version
+of swin with
+any sequence of
+shifts in the
+the expected number
+the algorithm makes
+a literal is
+of the randomized
+expected number of
+on line learning
+of mistakes is
+of winnow is
+of target shifts
+case loss bounds
+loss bounds for
+round there are
+attribute errors and
+function used for
+bounding the weights
+classification errors of
+if p delta
+herbster manfred k
+mark herbster manfred
+of littlestone warmuth
+develop a randomized
+warmuth tracking the
+number of trials
+and w 0
+errors of the
+upper bounds of
+respect to a
+4 and 5
+the mistake bound
+k ln n
+lower bounding the
+worst case loss
+n e then
+any a 0
+of this round
+bound performance of

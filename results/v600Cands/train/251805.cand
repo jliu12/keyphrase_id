@@ -1,0 +1,600 @@
+metric
+image
+rigid
+affine
+eq
+alignment
+images
+spanf
+transformation
+3d
+2d
+ellipsoid
+object
+metrics
+recognition
+im
+ullman
+eigenvalues
+transformations
+plane
+ellipse
+centroid
+distances
+distance
+basri
+objects
+sin
+cos
+lie
+weinshall
+bas
+10alignment
+euclidean
+vectors
+centroids
+perspective
+characteristic
+aligns
+9810
+af
+projection
+similarity
+rotation
+fischler
+0025
+appendix
+measures
+bolles
+1987
+minimizes
+1263
+coordinate
+1991
+coordinates
+closed
+deformations
+translation
+nearest
+penalizes
+distance1
+orientation
+583
+views
+bounds
+1981
+deformation
+horace
+invariant
+angle
+orthographic
+matrix
+spanned
+stretch
+substituting
+undergo
+unequivocally
+hau
+calibration
+guess
+minimization
+sub
+tighter
+huttenlocher
+abscissa
+ff
+axes
+weak
+noisy
+classification
+analytic
+tight
+closer
+coplanar
+minimized
+subspace
+kent
+rigidity
+assessment
+contradicting
+derivation
+pp
+derivatives
+equate
+cheung
+orthogonal
+iterative
+critically
+implying
+uncertainty
+fl
+entities
+substitute
+noise
+ip
+ignored
+rotate
+align
+1989
+correspondences
+planar
+abstractsimilarity
+victorian
+maloney
+nonrigidities
+trcorollary
+tthe
+minfa
+lamdan
+tomasso
+perturbating
+pi
+eigenvalue
+fi
+exterior
+minimize
+sides
+min
+harmonic
+tand
+gamma90
+charger
+dimensionalities
+photographed
+photogrammetric
+rives
+r22
+horn
+orthonormal
+bg
+principal
+wong
+identities
+tan
+corners
+horaud
+chairs
+rigidities
+metrology
+dementhon
+fs
+nc
+evolutionary
+minima
+pseudo
+match
+composed
+orthographically
+physiology
+grimson
+yael
+perturbations
+measuring
+1993
+origin
+rectangle
+perception
+smallest
+cartography
+sphere
+namely
+haralick
+moses
+unboundedly
+jection
+measure
+metrical
+mundy
+chair
+contradiction
+projected
+suits
+suffice
+tomasi
+stretching
+opposing
+sigmm
+transforming
+rank
+chiu
+forsyth
+image metric
+transformation metric
+n tr
+the image
+the rigid
+n im
+metric n
+2d images
+the object
+characteristic matrix
+in eq
+the transformation
+the affine
+alignment distances
+best view
+affine view
+sub optimal
+image points
+r 2
+best rigid
+rigid view
+r 1
+affine transformations
+closed form
+the metric
+both above
+between 3d
+alignment distance
+best affine
+and 2d
+form solution
+metric the
+eigenvalues of
+distance between
+weak perspective
+rigid and
+in transformation
+affine solution
+nearest view
+metric is
+the plane
+transformation space
+3d objects
+coordinate system
+rigid transformation
+the characteristic
+and image
+and below
+model points
+invariant functions
+n af
+model point
+condition number
+and r
+the ellipsoid
+a 1
+matrix b
+eq 14
+the alignment
+view of
+image smallest
+smallest alignment
+ellipsoid b
+distance largest
+rigid constraints
+alignment key
+eq 26
+largest alignment
+under weak
+3d models
+this metric
+optimal solution
+metric between
+metric in
+image and
+the euclidean
+the best
+perspective projection
+model and
+square distance
+image metrics
+basri 1991
+obtain that
+euclidean distance
+corresponding image
+a metric
+tr is
+and affine
+3d object
+eq 13
+a rigid
+eq 27
+object points
+and basri
+ff min
+plane spanned
+above and
+the model
+least square
+the solution
+ullman and
+random model
+models and
+a closed
+solution in
+metric we
+points and
+image space
+lie in
+affine case
+p t
+the vectors
+angle between
+a 2
+of alignment
+corresponding points
+bolles 1981
+1263 10alignment
+transformation metrics
+spanf y
+rigid measure
+number tight
+583 9810
+rigid case
+plane spanf
+centroid to
+model centroid
+10alignment log
+deformation applied
+deformations applied
+weinshall 1993
+9810 0025
+optimal affine
+0025 1263
+wide bounds
+image centroid
+t p
+the bounds
+the eigenvalues
+tr and
+this measure
+from both
+minimizes the
+point coordinates
+scale a
+two transformations
+in appendix
+eq 10
+3 theta
+we obtain
+object is
+recognition of
+based invariant
+2 minimize
+affine metric
+fischler and
+basis points
+cos ff
+and bolles
+metric from
+penalizes for
+three eigenvalues
+affine deformation
+given by
+the recognition
+of p
+the angle
+expression for
+the nearest
+a 3d
+the difference
+the optimal
+im is
+v lie
+lie on
+matrix of
+given image
+affine transformation
+constraints 2
+using eq
+of affine
+the similarity
+that minimizes
+this solution
+log scale
+s ff
+upper bound
+measures between
+denote we
+metric defined
+image q
+metric given
+s cos
+appendix e
+rigid transformations
+this appendix
+initial guess
+theta 3
+the upper
+in theorem
+the image metric
+the transformation metric
+1 and r
+the characteristic matrix
+r 1 and
+and 2d images
+and r 2
+the best view
+of the object
+model and image
+a 1 and
+characteristic matrix b
+from both above
+the best rigid
+metric n tr
+both above and
+closed form solution
+to the image
+best affine view
+the best affine
+and a 2
+defined in eq
+models and 2d
+above and below
+1 and a
+p t p
+sub optimal solution
+the nearest view
+affine view of
+n tr is
+and affine transformations
+bound the image
+in transformation space
+view of the
+a closed form
+3d models and
+and the image
+under weak perspective
+eigenvalues of p
+on the image
+of p t
+in eq 13
+for the transformation
+the euclidean distance
+distance between the
+given in eq
+best rigid and
+the ellipsoid b
+n tr and
+for n tr
+alignment distance largest
+rigid view of
+3d objects and
+least square distance
+objects and 2d
+metric is given
+scale a random
+model points and
+smallest alignment distance
+vectors a 1
+image smallest alignment
+the rigid transformation
+and image smallest
+distance largest alignment
+rigid and affine
+image metric the
+transformation metric the
+s ff fi
+transformation metric n
+log scale a
+a rigid view
+random model and
+is given by
+euclidean distance between
+in the image
+we obtain that
+image and the
+for the image
+by eq 14
+a random model
+between 3d models
+characteristic matrix of
+the object points
+and basri 1991
+between the model
+the plane spanned
+weak perspective projection
+plane spanned by
+the two transformations
+ullman and basri
+in image space
+the angle between
+corresponding image points
+the eigenvalues of
+to the object
+of the characteristic
+and the affine
+the given image
+the affine case
+of the ellipsoid
+to the transformation
+the least square
+the corresponding image
+the expression for
+the metric is
+the object to
+the model and
+given by eq
+used to bound
+the image centroid
+9810 0025 1263
+deformation applied to
+s 6 0
+image metric from
+three eigenvalues of
+t p then
+metric from both
+metric given in
+number tight bounds
+allowed to undergo
+10alignment log scale
+the rigid measure
+square distance between
+n im is
+the model centroid
+and bolles 1981
+cos ff min
+angle between a
+0025 1263 10alignment
+1263 10alignment log
+the metric n
+amount of affine
+r 2 minimize
+n im and
+model point coordinates
+between 3d objects
+the rigid case
+transformation metric in
+metric n im
+a transformation metric
+spanf y g
+condition number tight
+f s ff
+vectors r 1
+model centroid to
+transformation metric defined
+sub optimal since
+583 9810 0025
+the optimal affine
+image metric between
+the plane spanf
+image metric in
+centroid to the
+deformations applied to
+compute n im
+than the solution
+bounds on the
+that minimizes the
+within the bounds
+the similarity between
+corresponding points in
+lie within the
+for this metric
+given image and
+metric in this
+the three eigenvalues
+metric between the
+obtain that and
+fischler and bolles
+of coordinate system
+model based invariant
+best view of
+metric defined in
+3 theta 3
+that the best
+this appendix we
+a sub optimal
+the object is
+solution in the
+the upper bound
+the difference between
+the two images
+is the euclidean
+r 2 are
+spanned by a
+and using eq
+an analytic solution
+in appendix e
+and image points
+between a 1
+of n features
+in eq 10
+and v lie
+measure is that
+yet been found
+the sub optimal
+recognition and classification
+the constraints 2
+lie on an
+in the plane

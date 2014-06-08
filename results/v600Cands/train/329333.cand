@@ -1,0 +1,600 @@
+playback
+frames
+i37
+scan
+frame
+gop
+bfs
+ffs
+video
+fs
+decoded
+movie
+mpeg
+b80
+i73
+bpb
+envelope
+p31
+server
+normal
+gops
+switching
+decoder
+p61
+p34
+vod
+i55
+p67
+stream
+psnr
+envelopes
+disk
+client
+quantization
+i31
+request
+bandwidth
+decoding
+interactive
+interactivity
+pause
+i28
+b35
+encoding
+displayed
+skip
+scanning
+versions
+skipping
+p40
+b29
+b27
+p79
+b36
+b33
+stony
+transmission
+b63
+p43
+i19
+b65
+streams
+periods
+uncompressed
+brook
+storage
+vcr
+p22
+buffer
+encoded
+i25
+b59
+p49
+b57
+scheduling
+demand
+received
+resume
+decode
+backward
+transmitted
+contingency
+pauses
+multiplexing
+temporal
+logical
+reference
+b69
+b39
+b53
+b23
+b51
+dropping
+switches
+prefetching
+raw
+traffic
+retrieval
+race
+b32
+quality
+nominal
+multicast
+lcm
+atm
+playout
+window
+compressed
+signalling
+psab
+p76
+b38
+b45
+b77
+b71
+b47
+resumed
+p4
+initiated
+played
+issued
+speedup
+encoder
+rate
+tot
+requests
+display
+seconds
+batching
+2n
+archived
+duration
+header
+continues
+manager
+scheduler
+displaying
+i1
+multiplexed
+retrieved
+schemes
+channel
+compression
+depicts
+speedups
+motion
+smoothing
+subsystem
+requested
+block
+servers
+delay
+peak
+b75
+b78
+atthe
+b24
+prerecorded
+b21
+metascheduling
+striping
+slot
+supporting
+clip
+artifacts
+visual
+vbr
+period
+prefetched
+multimedia
+b3
+adventures
+p25
+timeliness
+latency
+guidelines
+stored
+expense
+avg
+services
+periodicity
+transmitting
+closest
+os
+sending
+arizona
+buildup
+temporarily
+policies
+clients
+convey
+requirement
+i7
+resumes
+send
+transport
+streamed
+discarded
+b2
+network
+scan version
+normal playback
+normal version
+scan versions
+the scan
+b frames
+i frame
+the normal
+frames of
+the server
+reference frames
+fs operations
+the decoder
+b80 b80
+the movie
+a scan
+i37 i37
+frames are
+received decoded
+i frames
+switching from
+common i
+playback to
+skip factor
+logical time
+version is
+the client
+quantization value
+bfs request
+video on
+frame is
+p frame
+frame periods
+during fs
+frames in
+the envelope
+frame buffer
+b frame
+the frame
+temporal order
+and decoded
+the skip
+on demand
+playback the
+fast scanning
+a fs
+the gop
+g g
+from normal
+ffs to
+mpeg stream
+the playback
+to normal
+transmission order
+video server
+disk scheduling
+the quantization
+traffic envelopes
+p frames
+normal frame
+global envelope
+server switches
+i73 i73
+quality during
+frame of
+first approach
+interactive operations
+envelope of
+stony brook
+storage overhead
+an mpeg
+frame rate
+frames at
+playback is
+envelope scheduler
+traffic envelope
+raw frame
+frame skipping
+contingency channel
+stream switching
+b65 b63
+movie pauses
+mpeg sequence
+frames from
+decoded and
+the storage
+video quality
+frame in
+frames the
+video streams
+storage requirement
+the stony
+retrieval block
+stream manager
+received and
+these frames
+based video
+versions are
+the temporal
+bfs is
+of mpeg
+version the
+the reference
+bit rate
+version to
+bpb the
+ffs and
+ffs request
+mpeg streams
+s lcm
+b59 b57
+gop of
+to bfs
+b27 b29
+playback request
+p61 i55
+skip factors
+to ffs
+visual quality
+m 2n
+reference frame
+window based
+the encoding
+to support
+interactive video
+played back
+our scheme
+server continues
+switching delay
+decoder must
+the psnr
+uncompressed frames
+frame sizes
+is decoded
+the mpeg
+switches to
+for switching
+for fs
+a bfs
+vod system
+the bfs
+on disk
+for normal
+of video
+interactive operation
+playback rate
+set top
+per stream
+normal and
+version and
+the logical
+p and
+the transmission
+given speedup
+backward playback
+gop length
+source peak
+previous gop
+next common
+backward fs
+transmission orders
+race trace
+playback direction
+send frames
+brook s
+gamma start
+from ffs
+quantization values
+i55 i73
+interactive playout
+and bfs
+support fs
+mpeg coded
+a gop
+playout in
+decoded displayed
+i55 p61
+algorithm 2nd
+pauses at
+pause 7
+b53 b51
+2nd algorithm
+coded video
+previous gops
+i max
+version a
+at multiple
+frame that
+two reference
+new stream
+the frames
+of bandwidth
+and scan
+be decoded
+version for
+playback of
+switching between
+movie is
+the contingency
+top box
+the normal version
+the scan version
+a scan version
+frames of the
+of the scan
+of the normal
+scan version is
+b80 b80 b80
+common i frame
+and b frames
+the scan versions
+i37 i37 i37
+p and b
+normal playback to
+b frames of
+of a scan
+video on demand
+the frame buffer
+from normal playback
+the reference frames
+the skip factor
+reference frames of
+received and decoded
+the logical time
+switching from normal
+ffs to normal
+times the normal
+scan versions are
+normal playback the
+g g g
+at the server
+to normal playback
+of an mpeg
+the global envelope
+the server switches
+at multiple times
+normal frame rate
+logical time of
+of the movie
+switches to the
+in a scan
+server switches to
+a common i
+normal playback is
+the movie pauses
+i73 i73 i73
+quality during fs
+the normal frame
+an i frame
+s 2 seconds
+for normal playback
+multiple times the
+the first approach
+for switching from
+the stony brook
+i frames of
+the normal playback
+the temporal order
+frame in the
+frame of the
+frames from the
+frames in the
+reference frames are
+a bfs request
+scan version for
+a normal version
+the decoder must
+normal and scan
+received decoded and
+playback to bfs
+two reference frames
+b frames are
+of i frames
+normal version and
+scan version the
+approach for switching
+the retrieval block
+from the scan
+the storage requirement
+the storage overhead
+the envelope of
+temporal order of
+frames in a
+envelope of the
+the display of
+the server continues
+from the normal
+of the mpeg
+to the scan
+to the normal
+in the frame
+the encoding of
+fs operations are
+the previous gop
+bfs is initiated
+source peak rate
+normal version the
+and transmission orders
+to support fs
+and scan versions
+the quantization value
+received decoded displayed
+pause 7 gamma
+each scan version
+the source peak
+mpeg coded video
+the contingency channel
+the bfs request
+interactive playout in
+frames at multiple
+next common i
+the playback direction
+7 gamma start
+i frame in
+at the decoder
+a p frame
+the frames of
+send frames from
+coded video streams
+from ffs to
+to send frames
+a given speedup
+algorithm 2nd algorithm
+support fs operations
+request received decoded
+movie pauses at
+playback is resumed
+for fs operations
+temporal and transmission
+transmission orders of
+stony brook s
+b frames in
+the stream manager
+scan version to
+the envelope scheduler
+and previous gops
+b frame is
+switching from ffs
+normal version is
+fully interactive playout
+the prefetching approach
+the next common
+decoded and stored
+of the frame
+at the client
+used for normal
+p g g
+a temporal order
+based video server
+normal playback rate
+at the normal
+these frames are
+array based video
+of a fs
+set top box
+in a vod
+in the temporal
+is received and
+a vod system
+frames of a
+disk array based
+interactive video on
+the new stream
+issued during the
+in the movie
+current and previous
+in the normal
+orders of a
+the normal and
+with reference to
+of s i
+to the decoder
+relative increase in
+1 2 second
+storage requirement of
+on demand systems
+from the logical
+g p g
+a maximum of
+request is issued
+fs operations in
+window based envelopes
+normal version this
+sending the reference
+playback to backward
+the gop periodicity
+scan versions that
+differently encoded versions
+the same gop
+visual quality during
+based traffic envelopes
+is issued during
+decoded with reference
+subsequent i frame
+normal playback request
+gop of the
+envelopes of the
+retrieval block is
+target scan version
+archived mpeg coded

@@ -1,0 +1,600 @@
+shock
+shocks
+lax
+q0
+flux
+discrete
+profile
+friedrichs
+weno
+wendroff
+rhs
+jj
+conservation
+contractive
+derivatives
+stability
+stationary
+eno
+laws
+jjljj
+jjn
+lhs
+existence
+fi
+approximate
+ab
+mapping
+linearized
+continuous
+norm
+sup
+ff
+00
+aa
+bb
+lipschitz
+djd
+stencil
+oe
+lim
+profiles
+possesses
+burgers
+smooth
+schemes
+1z
+eq
+numerical
+contractiveness
+smylris
+spaced
+weighted
+yu
+resp
+jje
+orginal
+oscillatory
+possess
+conservative
+sigma
+exact
+stable
+engquist
+around
+scalar
+linearize
+verification
+jjj
+constants
+monotone
+jq
+jennings
+shifting
+samples
+zoom
+delta
+width
+maximized
+kutta
+runge
+scheme
+bigger
+liu
+continuity
+unitary
+abbreviate
+rankine
+unavoidably
+12ff
+oscilltory
+esstially
+w2br
+24ff
+96ff
+brower
+infiinitely
+64ff
+majda
+gnr
+contiuous
+vjj
+sufficent
+rigorousness
+2p
+banded
+nonlinear
+law
+pointwise
+accurate
+plainly
+lambdaz
+hailiang
+nonoscillatory
+michaelson
+isentropic
+hugoniot
+jjvjj
+2cd
+ralston
+manifold
+plotted
+uniformly
+believed
+observations
+oen
+gerschgorin
+verify
+gamma3
+approximating
+rewrite
+plot
+1g
+entropy
+orn
+appendix
+estimates
+pollute
+evidences
+0such
+4p
+differentiable
+unified
+2m
+zoomed
+1in
+1890
+lw
+settles
+estimated
+infinite
+convergence
+maximizes
+ffi
+constancy
+summation
+isolated
+osher
+courant
+gamma1
+arranging
+gamma10
+jzj
+improper
+shu
+degenerates
+behaves
+favoring
+sufficiently
+namely
+parameterize
+banach
+radius
+approximations
+equality
+bj
+zg
+linearly
+dependence
+stanley
+accuracy
+indexed
+lemma
+extrema
+dashed
+stage
+finiteness
+studying
+viscous
+estimate
+oscillations
+gammap
+derivative
+io
+deltax
+region
+superscripts
+xin
+linearization
+av
+residue
+discrete shock
+discrete shocks
+approximate discrete
+shock profile
+exact discrete
+scheme 1
+continuous discrete
+flux function
+stationary discrete
+parameter q
+shock for
+existence and
+and stability
+for scheme
+wendroff scheme
+shocks for
+friedrichs scheme
+lax friedrichs
+numerical flux
+q 0
+rhs of
+lax wendroff
+ff fi
+profile for
+modified lax
+5 14
+conservation laws
+with parameter
+the scheme
+third order
+stability of
+fixed point
+the rhs
+an exact
+mapping f
+the mapping
+shock with
+order weno
+weno scheme
+the existence
+point theorem
+shocks and
+derivatives of
+end states
+finite difference
+linearized scheme
+jj ff
+shock q
+order derivatives
+b oe
+the lax
+a continuous
+difference scheme
+an approximate
+any v
+condition 4
+l 2
+of q
+jjn jj
+order lax
+exact stationary
+even spaced
+the lhs
+q 2
+the flux
+second order
+shock profiles
+and fi
+any q
+the numerical
+jj delta
+condition 5
+r 00
+scheme possesses
+stencil width
+oe q0
+scheme around
+jjljj ff
+mapping n
+delta jj
+jj r
+scalar conservation
+u n
+in theorem
+a t
+weighted l
+theorem 4
+constants ff
+the stencil
+of exact
+ff and
+is contractive
+basic fixed
+derive sufficient
+spaced samples
+definition 1
+existence of
+2 0
+4 7
+difference schemes
+and yu
+shock is
+fixed q
+of 5
+derivatives are
+the discrete
+the linearized
+0 1
+infinite dimensional
+first order
+1z 1g
+ab bb
+unified proof
+weighted eno
+contractive in
+closely like
+width constant
+1g 00
+stable discrete
+shock speed
+shifting operator
+computer verification
+q0 is
+states gamma1
+eno schemes
+burgers eq
+contractive under
+l djd
+contractive mapping
+q0 for
+2 with
+scheme and
+in definition
+2 ff
+oe q
+to prove
+q0 and
+accurate approximate
+uniformly lipschitz
+shock and
+a contractive
+single discrete
+verify condition
+continuous stationary
+for any
+profiles for
+2 norm
+q in
+schemes approximating
+norm jj
+essentially non
+a discrete
+scheme is
+sufficient conditions
+1 2
+of discrete
+exist ff
+two derivatives
+lhs and
+mapping l
+in 3
+theorem 5
+00 j
+non oscillatory
+z 1z
+and rhs
+the shock
+t a
+scheme the
+prove the
+the norm
+lemma 4
+possesses a
+with replaced
+ab ab
+for 7
+lhs of
+g 00
+linear mapping
+conservation law
+in 4
+exists an
+fi 1
+two end
+the shifting
+function g
+4 1
+a fixed
+of conservation
+1 1
+there exists
+samples of
+shock if
+uniform lipschitz
+the weno
+shock or
+approximate stationary
+approximate scalar
+yu 9
+stationary shocks
+scheme 1 2
+discrete shock profile
+approximate discrete shock
+existence and stability
+continuous discrete shock
+for scheme 1
+approximate discrete shocks
+an exact discrete
+exact discrete shock
+a continuous discrete
+with parameter q
+shock profile for
+an approximate discrete
+discrete shock for
+stationary discrete shock
+and stability of
+lax friedrichs scheme
+lax wendroff scheme
+discrete shocks for
+the numerical flux
+q 2 0
+the existence and
+numerical flux function
+modified lax friedrichs
+shock for scheme
+the mapping f
+exact discrete shocks
+fixed point theorem
+the rhs of
+condition 4 7
+discrete shocks and
+2 with parameter
+a discrete shock
+third order weno
+order weno scheme
+shock with parameter
+discrete shock with
+of exact discrete
+of 5 14
+of q 0
+rhs of 5
+2 0 1
+theorem 4 1
+for any v
+the lax wendroff
+condition 5 14
+jj ff fi
+of discrete shocks
+the discrete shock
+discrete shock q
+the flux function
+a t a
+definition 1 1
+1 2 with
+prove the existence
+finite difference scheme
+order derivatives are
+a fixed point
+exists an exact
+the third order
+second order derivatives
+for any q
+discrete shock profiles
+flux function g
+2 ff fi
+the linearized scheme
+the approximate discrete
+jjn jj r
+exact stationary discrete
+an exact stationary
+values of q
+derivatives of the
+of the scheme
+in definition 1
+in b oe
+l 2 ff
+the scheme 1
+stability of exact
+defined in 3
+existence of a
+jj delta jj
+weighted l 2
+ff and fi
+1 to prove
+of a continuous
+any q 2
+in theorem 4
+the existence of
+the mapping n
+basic fixed point
+profile for scheme
+discrete shock is
+even spaced samples
+we derive sufficient
+delta jj ff
+derive sufficient conditions
+oe q 0
+jjljj ff fi
+the constants ff
+2 b oe
+samples of q
+a modified lax
+any v w
+the stencil width
+flux function of
+line the value
+friedrichs scheme and
+any v 2
+theorem 5 1
+stability of discrete
+for the lax
+spaced samples of
+flux function for
+shock profiles for
+stability of a
+in 4 4
+for a modified
+constants ff and
+mapping f in
+5 14 is
+the finite difference
+l 2 norm
+finite difference schemes
+of u n
+to prove the
+and fi 1
+scalar conservation laws
+of an exact
+of a discrete
+1 r and
+a third order
+of continuous discrete
+q in 5
+the shifting operator
+two end states
+z 1z 1g
+j l djd
+order lax wendroff
+00 j l
+the end states
+for 7 4
+1z 1g 00
+b oe we
+discrete shock and
+is contractive in
+norm jj delta
+estimate the upper
+shocks for 7
+end states gamma1
+a contractive mapping
+unified proof of
+stencil width constant
+a basic fixed
+shock q for
+like the linearized
+parameter q 0
+contractive in b
+second order lax
+scheme possesses a
+fixed q 2
+the modified lax
+single discrete shock
+14 is true
+any fixed q
+the discrete shocks
+difference scheme 1
+accurate approximate discrete
+scheme the flux
+closely like the
+shock profile is
+1g 00 j
+4 1 or
+continuous stationary discrete
+v 2 b
+the second order
+order derivatives of
+in 3 8
+of the numerical
+ff 1 and
+q 0 2
+a single discrete
+and rhs of
+condition 2 5
+of the rhs
+5 14 for
+the weighted l
+7 in theorem
+essentially non oscillatory
+the norm jj
+first two derivatives
+to verify condition
+stability of an
+uniformly lipschitz continuous
+two derivatives of
+1 and fi
+in 5 1
+1 2 to
+of q in
+o 1 error
+lhs and rhs

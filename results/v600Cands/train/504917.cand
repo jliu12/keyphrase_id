@@ -1,0 +1,600 @@
+prefetching
+register
+bus
+wrapper
+core
+prefetch
+cores
+registers
+pvci
+bw
+prefetched
+internals
+codec
+noti
+core3
+peripheral
+age
+priority
+core1
+ocb
+core2
+ccd
+deadline
+wrappers
+read
+internal
+vci
+gcd2
+gcd1
+status
+gates
+consumption
+energy
+pfu
+cation
+lysecky
+vol
+schedule
+update
+md
+camera
+monotonic
+stat
+synopsys
+pf
+vahid
+cycles
+dependency
+singly
+adjust
+writes
+updated
+chip
+schedulability
+automation
+electronic
+interface
+rst
+volatile
+wellings
+bws
+fifo
+dependencies
+utilization
+strobes
+wrp
+heuristics
+access
+arcs
+speci
+d0
+chart
+controller
+transitions
+heuristic
+standardizing
+scheduling
+executive
+transition
+constraint
+nement
+microwatts
+go0
+util
+guration
+petri
+vhdl
+res
+socket
+ns
+assignment
+burns
+cycle
+retarget
+rdy
+ci
+prefetches
+scheduled
+preprocessor
+overhead
+sporadic
+priorities
+heap
+synthesis
+ag
+ned
+power
+bias
+retargeting
+interfacing
+digital
+prototyping
+nj
+request
+xed
+write
+penalty
+vi
+structured
+summarizes
+externally
+response
+simpli
+15520
+uart
+strobing
+79055
+vsi
+rtpf
+vsia
+inventra
+frame
+association
+ed
+wr
+reads
+external
+incoming
+updates
+highest
+minor
+attributes
+converter
+rd
+buffer
+decompressor
+peripherals
+period
+master
+usefulness
+codesign
+s0
+synthesizable
+refreshing
+gurations
+integrated
+go
+protocol
+mentor
+buses
+wires
+strobe
+compressor
+nes
+ri
+embedded
+penalties
+10k
+con
+bridge
+rate
+eliminate
+tradeoff
+fig
+initiated
+outgoing
+custom
+acceptable
+signi
+idle
+internally
+accessed
+dma
+cs
+accommodate
+modi
+miss
+architecture
+respond
+di
+cyclic
+analog
+addr
+random
+requests
+classi
+asserting
+arbitration
+ages
+hours
+bus wrapper
+core s
+the core
+a core
+update dependency
+time prefetching
+three cores
+the bus
+register age
+vol 7
+a bus
+be prefetched
+the prefetch
+status register
+improved bus
+wrapper performance
+age constraint
+the register
+internal bus
+noti cation
+priority assignment
+7 no
+access time
+a write
+monotonic priority
+prefetch unit
+a register
+core internals
+bus wrappers
+digital camera
+prefetch register
+the wrapper
+no 1
+prefetch registers
+register set
+energy consumption
+register is
+data register
+the bw
+dependency model
+the ocb
+prefetching for
+systems vol
+chip bus
+real time
+s internal
+a bw
+internal behavior
+prefetching heuristic
+random transitions
+singly structured
+bw w
+non pvci
+peripheral bus
+electronic systems
+a read
+automation of
+january 2002
+and singly
+w bw
+no noti
+2002 prefetching
+and codec
+dependency prefetching
+core internal
+1 january
+time constraint
+for improved
+without prefetching
+of electronic
+a prefetch
+the prefetching
+the internals
+our real
+our update
+lysecky and
+and vahid
+age constraints
+pvci wrapper
+the ccd
+the vci
+of prefetching
+only access
+on design
+of registers
+design automation
+access no
+each core
+deadline monotonic
+register access
+prefetching to
+register s
+read only
+rate monotonic
+prefetching we
+random transition
+minor cycle
+internal register
+based schedulability
+volatile update
+to prefetch
+the registers
+register has
+w o
+utilization based
+o access
+write to
+cation and
+on chip
+data output
+registers with
+schedulability test
+bw and
+the peripheral
+our prefetching
+s internals
+incoming random
+virtual socket
+codec cores
+wrapper was
+wellings 1997
+these cores
+interface association
+update dependencies
+go is
+core we
+performance penalty
+read the
+core with
+only register
+bus for
+chart in
+register with
+response time
+ccd and
+wrapper to
+the cores
+wrapper with
+and power
+a process
+bus and
+registers that
+is updated
+the data
+table vi
+the prefetched
+internal registers
+and wellings
+be scheduled
+all registers
+register i
+interface behavior
+synopsys design
+cores were
+w pf
+the pvci
+adjust core
+general register
+register d
+o bw
+o pf
+register heap
+updated randomly
+ag noti
+internals and
+design compiler
+gcd1 gcd2
+wrapper version
+12 summarizes
+bw a
+size overhead
+in adjust
+register d0
+the adjust
+gcd2 and
+cores with
+output register
+prefetching algorithm
+register update
+register based
+each register
+and energy
+socket interface
+wrapper and
+write only
+the access
+a schedule
+the utilization
+with prefetching
+burns and
+register data
+the read
+the status
+the controller
+prefetching on
+register that
+three registers
+prefetching technique
+prefetching problem
+cores we
+the core s
+a bus wrapper
+real time prefetching
+7 no 1
+core s internal
+systems vol 7
+vol 7 no
+improved bus wrapper
+prefetching for improved
+for improved bus
+bus wrapper performance
+the bus wrapper
+1 january 2002
+no 1 january
+electronic systems vol
+a core s
+monotonic priority assignment
+access time constraint
+the core internals
+on chip bus
+the prefetch unit
+update dependency model
+design automation of
+automation of electronic
+of electronic systems
+transactions on design
+all three cores
+register age constraint
+of the core
+our real time
+our update dependency
+from the core
+january 2002 prefetching
+w bw w
+update dependency prefetching
+and singly structured
+2002 prefetching for
+no noti cation
+of a core
+deadline monotonic priority
+on design automation
+to the bus
+noti cation and
+the core internal
+access no noti
+lysecky and vahid
+cation and singly
+register is updated
+rate monotonic priority
+the internal bus
+the register age
+read only access
+into the prefetched
+based schedulability test
+the data register
+utilization based schedulability
+read the core
+the access time
+the on chip
+to the core
+register has the
+i o access
+the status register
+a write to
+chart in figure
+and wellings 1997
+bus wrapper was
+the three cores
+on the ocb
+register access time
+socket interface association
+data output register
+virtual socket interface
+ccd and codec
+the peripheral bus
+bus wrapper with
+and codec cores
+s internal register
+core internal bus
+core s internals
+the non pvci
+the minor cycle
+size and power
+register age constraints
+the utilization based
+a core with
+for each core
+a register set
+burns and wellings
+acm transactions on
+energy consumption in
+their register age
+w o pf
+gcd2 and cs
+bus wrapper without
+response time analysis
+prefetch register heap
+only access no
+noti cation in
+the adjust core
+figure 12 summarizes
+register update dependency
+gcd1 gcd2 and
+the update dependency
+a prefetch register
+with a bw
+cation in which
+bw w pf
+w o bw
+heuristics and analysis
+time process scheduling
+bw w o
+time prefetching to
+incoming random transitions
+ag noti cation
+prefetching heuristic we
+with incoming random
+the prefetch registers
+the register with
+synopsys design compiler
+non pvci wrapper
+over the ocb
+data input register
+wrapper without prefetching
+registers with incoming
+the digital camera
+can be prefetched
+real time scheduling
+for a write
+figure 8 summarizes
+from highest to
+the prefetching problem
+the register s
+the data output
+using a bus
+power due to
+the ccd and
+number of cycles
+to the prefetch
+using real time
+must be prefetched
+highest to lowest
+a status register
+real time process
+to be prefetched
+in all three
+of prefetching on
+the register set
+of a register
+in energy consumption
+the core and
+equal to 1
+a process must
+the architecture for
+we can see
+register with the
+registers gcd1 gcd2
+status register s
+write access no
+that a register
+cyclic executive approach
+wrapper to the
+impact of prefetching
+one random transition
+s internal status
+possible types including
+which the core
+update at a
+three cores the
+time prefetching we
+core without a
+ccd preprocessor and
+the bus wrappers
+go is equal
+the prefetched status
+structured we refer
+bws without prefetching
+the prefetch register
+of bus wrappers
+in power due
+the go register
+read write access
+codec and fifo
+types including a
+register set can
+the write register
+core s registers
+and internal behavior
+registers many cores
+will be prefetched
+minor cycle is
+our prefetching algorithm
+the bias register
+using our real
+bw a bus
+contains three registers
+to the bw
+the period during
+pvci wrapper version
+core with a

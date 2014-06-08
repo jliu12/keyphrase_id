@@ -1,0 +1,600 @@
+dist
+cgm
+distu
+2q
+subproblems
+ul
+bsp
+4q
+subproblem
+grid
+pu1
+processors
+string
+rounds
+edit
+editing
+processor
+paths
+sweeps
+qt
+subgrids
+lq
+pu2
+substrings
+boundary
+scoring
+grids
+alignment
+sweep
+j1
+supersteps
+calculate
+subgrid
+molecular
+puq
+j2
+distance
+biology
+log
+tu
+marked
+boundaries
+di
+monge
+strings
+nm
+borders
+crossing
+erent
+l2
+mn
+substring
+matrices
+segment
+l1
+rows
+sequential
+ceived
+extremities
+cnpq
+ao
+submatrices
+grained
+paulo
+kr
+calculated
+join
+sent
+calculating
+optimum
+leq
+repeats
+bottom
+corner
+lengths
+alignments
+segments
+communication
+shortest
+similarity
+round
+middle
+lu
+gu
+kt
+weighted
+coarse
+cessor
+merging
+matrix
+cient
+distances
+distribute
+2l
+intervals
+pram
+scheduling
+columns
+bridging
+subsequences
+fracn
+distg
+ahsp
+stjepan
+usp
+rajko
+06138
+biosequences
+multicomputers
+dag
+i1
+highest
+symbol
+evolutive
+3778
+0037
+fapesp
+fash
+1070
+joined
+determination
+sends
+convexity
+build
+song
+1230
+orts
+extremity
+1081
+proteins
+divide
+interval
+submatrix
+memories
+receives
+apostolico
+beowulf
+universidade
+amino
+bor
+thicker
+aluru
+store
+spaced
+leftmost
+copied
+reassign
+stor
+storing
+joining
+running
+calculates
+ders
+galil
+searching
+deletion
+similarities
+sentinel
+redistributes
+ime
+stores
+ending
+insertion
+scribed
+acid
+evenly
+estimated
+shaded
+sample
+concavity
+interchangeable
+merged
+trices
+collaborate
+alike
+ion
+srinivas
+transforms
+acyclic
+neighbor
+ectively
+brazil
+ru
+commented
+dominated
+prefix
+basically
+erations
+division
+top
+sweeping
+mk
+strips
+redistributed
+tentative
+anomalies
+send
+i2
+crossings
+halves
+dist l
+dist ul
+of dist
+parallel dynamic
+cgm bsp
+distance matrix
+the subproblems
+of distu
+string editing
+the cgm
+a cgm
+dynamic programming
+communication rounds
+the 2q
+each processor
+distu and
+2q processors
+and dist
+i j
+distance matrices
+o t
+editing problem
+m i
+all highest
+4q 2
+scoring paths
+2 subproblems
+highest scoring
+bsp algorithm
+marked points
+the paths
+l2 p
+l1 p
+p lq
+sequential algorithm
+q processors
+local cost
+log m
+the string
+left boundary
+running time
+each subproblem
+p l1
+p l2
+g i
+substrings of
+2 log
+that begin
+grid graph
+time o
+begin at
+the grid
+points in
+requires log
+log p
+all substrings
+end at
+o q
+lu tu
+substring alignment
+approximate repeats
+subproblems assigned
+rounds supersteps
+the 4q
+bsp parallel
+common substring
+o qt
+used parts
+pu2 puq
+pu1 pu2
+time kr
+the distance
+total running
+local memory
+a string
+edit distance
+o n
+o l
+paths that
+molecular biology
+boundary of
+paths from
+2q 1
+p rounds
+edit sequence
+subproblems to
+supersteps and
+and crossing
+all subproblems
+all approximate
+n m
+log t
+l r
+all processors
+calculate the
+o nm
+communication round
+subproblem the
+crossing points
+alignment problem
+bottom boundaries
+shortest paths
+b l
+that store
+in d
+t 2
+repeats in
+subproblem can
+m local
+string c
+distributed among
+a segment
+local computation
+processors that
+algorithm 1
+l and
+to calculate
+and end
+r l
+segment of
+of g
+coarse grained
+in weighted
+middle point
+in strings
+symbol x
+subproblems and
+and bottom
+in time
+boundary and
+of communication
+the edit
+subproblems are
+per processor
+g l
+programming technique
+grid dag
+remaining intervals
+subproblem will
+grained multicomputers
+boundaries l
+store distu
+l dist
+cgm model
+marked point
+s ao
+overlap only
+cgm with
+proper processors
+cgm algorithm
+distu the
+distu dist
+ul the
+p subgrids
+weighted grid
+ao paulo
+string edit
+receives o
+store dist
+merging steps
+qt data
+sent re
+lq now
+maximum local
+final distance
+ul for
+sometimes sweeps
+sweeps a
+cost 2q
+2q the
+matrices distu
+with convexity
+log min
+monge properties
+from dist
+size t
+and calculate
+data sent
+storing all
+processor sends
+the subproblem
+paths in
+points of
+di erent
+the used
+memory required
+is o
+computing all
+string a
+and o
+processors the
+o mn
+its subproblems
+better paths
+each subgrid
+j storing
+q space
+certain interval
+u dist
+m i1
+parallel dynamic programming
+of dist ul
+g i j
+of the subproblems
+the string editing
+of dist l
+boundary of g
+o t 2
+and dist l
+string editing problem
+distu and dist
+m i j
+the 2q processors
+paths that begin
+the cgm bsp
+cgm bsp algorithm
+dist l and
+of distu and
+all highest scoring
+highest scoring paths
+that begin at
+4q 2 subproblems
+the distance matrices
+shortest paths that
+the distance matrix
+of communication rounds
+number of communication
+p l2 p
+marked points in
+p l1 p
+l1 p l2
+l2 p lq
+sample of s
+requires log p
+distance matrix of
+processors that store
+bsp algorithm for
+scoring paths in
+the left boundary
+end at the
+and end at
+begin at the
+2 log m
+the paths from
+boundary and end
+n 2 log
+in time o
+running time of
+of g i
+t 2 q
+all the shortest
+s and d
+all substrings of
+a segment of
+the total running
+total running time
+bsp parallel dynamic
+p rounds supersteps
+substring alignment problem
+pu1 pu2 puq
+solving the string
+approximate repeats in
+part of dist
+calculate the paths
+then m i
+local memory required
+a string c
+used parts of
+parts of distu
+on a cgm
+all approximate repeats
+common substring alignment
+m local computation
+subproblems assigned to
+cgm bsp parallel
+repeats in strings
+the common substring
+and crossing points
+left boundary and
+rounds supersteps and
+columns of dist
+divide the grid
+log m local
+supersteps and o
+the 4q 2
+computing all highest
+b l r
+log p rounds
+the used parts
+and all substrings
+o q 2
+the shortest paths
+middle point of
+and bottom boundaries
+point of each
+paths to all
+substrings of a
+string a and
+for the string
+r i j
+a string a
+dynamic programming technique
+a and all
+n m 2
+o n 2
+the subproblems are
+the middle point
+of the subproblem
+the sample of
+storing all the
+for computing all
+at the left
+of the grid
+points in d
+of the paths
+and calculate the
+the sequential algorithm
+l r l
+of points of
+and d j
+sequence comparison is
+for the cgm
+an edit sequence
+i j storing
+maximum local cost
+dist ul for
+edit distance problem
+q 2 log
+local memory per
+sent re ceived
+distance matrix distributed
+dist ul the
+sends receives o
+communication rounds the
+already calculated for
+2q processors in
+j storing all
+presented is of
+by the 2q
+the subproblem can
+that store distu
+furthermore the cgm
+programming technique presented
+substrings of c
+k log t
+m n grid
+right corner let
+technique presented is
+algorithm requires log
+to parallel dynamic
+log min n
+paths in weighted
+final distance matrix
+the string edit
+cgm with p
+a cgm bsp
+d and calculate
+other parallel dynamic
+case one subproblem
+take the middle
+string edit distance
+q processors that
+store dist l
+remaining intervals in
+new distance matrix
+the maximum local
+each processor among
+distu dist l
+p lq now
+l r u
+from dist l
+2 q space
+total data sent
+the proper processors
+calculate the 2q
+matrix distributed among
+a cgm algorithm
+nm log min
+2 log q
+i of points
+finding all approximate
+processor among p
+column of dist
+dynamic programming with
+grids are joined
+all subproblems assigned
+a cgm with
+mn log m
+transforms a into
+distance matrices of
+2l 1 k
+log t iterations
+sweeps a segment
+l and dist
+time o q
+2q processors to
+m i j1
+sometimes sweeps a
+all marked points
+one subproblem will

@@ -1,0 +1,600 @@
+cancellation
+cancel
+lp
+rollbacks
+clocks
+rollback
+events
+warp
+rolled
+event
+lps
+causally
+cascading
+counter
+causality
+message
+causal
+clock
+vt
+tc
+vc
+messages
+signature
+straggler
+virtual
+queue
+timestamp
+canceling
+logical
+anti
+simulation
+rolling
+simulations
+i1
+sending
+cm
+mechanism
+recovery
+cascaded
+countermax
+countermin
+rollbacktime
+e1
+disseminate
+canceled
+cancels
+counters
+obsolete
+inter
+maintains
+chetlur
+undone
+i2
+kufstein
+wentong
+optimistic
+receiving
+huge
+sup
+replicated
+received
+gvt
+erroneous
+back
+turner
+warped
+zeng
+processed
+optimizations
+learnt
+removes
+update
+lazy
+rules
+ranges
+scalar
+er
+simula
+sends
+mechanisms
+latest
+18th
+processes
+theorems
+aggressive
+wolf
+strategies
+cai
+eighteenth
+eventcountermin
+vigil
+cancelmessage
+tamp
+hussam
+eventcountermax
+kalantery
+timewarp
+nore
+madisetti
+discarding
+refers
+layer
+dictionary
+simulators
+winter
+list
+sent
+austria
+pn
+representations
+scenarios
+checks
+propagation
+progress
+save
+ramadan
+disambiguates
+emax
+soliman
+backg
+nasser
+restore
+frequent
+predecessors
+malolan
+breadth
+inform
+exposed
+scheduled
+id
+dependency
+informed
+stragglers
+fer
+errors
+communication
+trigger
+initiate
+paradigm
+lvt
+throttled
+wilsey
+tems
+incremented
+avoids
+send
+synchronized
+uncommitted
+disseminated
+emin
+eventually
+yi
+degrade
+deelman
+pros
+dependent
+kernel
+ponent
+unprocessed
+piggybacks
+stephen
+decisions
+comparative
+specifies
+e3
+representa
+fossil
+preceding
+succ
+identi
+optimism
+thrashing
+monotonically
+propagate
+ulation
+rolls
+maintained
+component
+sentation
+objects
+en
+inserting
+ticks
+trast
+breakpoints
+conventionally
+knowing
+ignoring
+fied
+sys
+conventional
+repre
+restores
+channels
+intelligent
+deviates
+add
+tracking
+p0
+dition
+total clocks
+event counter
+cancel range
+cancel message
+range list
+cancellation message
+time warp
+rolled back
+cancellation mechanism
+vector counter
+virtual time
+cancellation messages
+an lp
+the cancellation
+total clock
+logical time
+to cancel
+the events
+time component
+new cancellation
+input queue
+be rolled
+vc component
+a cancellation
+event e
+causally dependent
+cascading rollbacks
+the lp
+events that
+other lps
+the event
+vector clocks
+tc p
+lp p
+inter related
+the cancel
+events in
+warp simulations
+clock representation
+time representation
+causality information
+cancel e
+counter range
+clock value
+an event
+anti messages
+are causally
+clocks representation
+vt component
+procedure cancel
+a cancel
+end figure
+back events
+recovery operations
+simulation time
+p i
+causal information
+between events
+counter values
+cancellation strategies
+related rollbacks
+canceling events
+the rollback
+the vector
+same signature
+the virtual
+causality errors
+e i1
+at lp
+each lp
+events to
+counter component
+warp algorithms
+this cancellation
+cancel local
+in distributed
+straggler event
+back due
+back event
+time representations
+event e1
+event counters
+cancellation mechanisms
+component of
+rolling back
+the vc
+the simulation
+message then
+rollback time
+lp maintains
+in time
+if e
+to event
+causality error
+add to
+while sending
+the causal
+counter of
+lp i
+the timestamp
+component and
+huge amount
+avoids cascading
+cascading and
+message cm
+matrix clocks
+positive straggler
+execute event
+early recovery
+disseminate causality
+avoid cascading
+e tc
+during cancellation
+given cancel
+events causally
+e i2
+from cancel
+events can
+distributed simulation
+a straggler
+lps and
+of event
+of total
+component is
+dependent on
+clocks in
+by tc
+cancellation can
+to cascading
+range information
+the vt
+e event
+communication layer
+a rollback
+counter value
+and inter
+of events
+lp the
+cancel out
+v c
+rollbacks in
+lp j
+the rolled
+using total
+then rollback
+following theorems
+of lp
+sending an
+simulation objects
+causally related
+and cancellation
+obsolete information
+during rollback
+of vector
+update rules
+causal relation
+at index
+lps this
+lp has
+clocks and
+maintains a
+the sup
+rollbacks the
+vector clock
+clocks can
+list e
+cancels the
+another lp
+rollback in
+various time
+lps to
+rollbacks and
+event simulation
+then add
+to rollback
+lps in
+event processing
+add e
+lp can
+distributed systems
+process maintains
+theorem 5
+the lps
+of lps
+for rollback
+rollback is
+messages to
+clocks the
+simulations that
+discrete event
+the signature
+event process
+preceding lp
+in cancellation
+addition cancel
+local input
+prevent cascading
+e1 could
+event countermin
+called cancel
+cancel range list
+virtual time component
+the event counter
+to cancel range
+the vector counter
+in time warp
+be rolled back
+the virtual time
+tc p i
+causally dependent on
+lp p i
+time warp simulations
+that are causally
+the cancellation mechanism
+add to cancel
+event counter range
+a cancellation message
+the events that
+events that are
+to other lps
+to be rolled
+total clock value
+event counter values
+logical time representation
+total clocks representation
+the cancel range
+a cancel message
+the input queue
+rolled back events
+is a cancel
+the total clock
+and inter related
+to event e
+inter related rollbacks
+the cancellation message
+time component and
+new cancellation mechanism
+the vc component
+of vector clocks
+the events to
+component of total
+events to be
+of the lp
+the same signature
+a new cancellation
+of other lps
+time component is
+new cancellation message
+of total clocks
+at lp p
+vc component of
+time warp algorithms
+cancel message then
+vector counter component
+due to event
+the total clocks
+the cancellation messages
+of event counters
+the new cancellation
+event counter value
+lp maintains a
+while sending an
+of an lp
+events in the
+in distributed systems
+to cancel out
+back due to
+a logical time
+sending an event
+each lp maintains
+an event e
+p i v
+time in distributed
+which the event
+of the event
+the events in
+the logical time
+events in its
+huge amount of
+on the events
+the causal relation
+range list e
+event e event
+range list and
+representation for time
+e to cancel
+vt component of
+rolling back event
+disseminate causality information
+vector clock representation
+input queue that
+the lp the
+causality information and
+canceling events in
+range list if
+vector counter of
+a positive straggler
+time component of
+vector of event
+causality errors in
+are causally dependent
+event has to
+using total clocks
+given cancel message
+on the rolled
+the vt component
+cascading and inter
+of total clock
+various time warp
+cancellation messages and
+events causally dependent
+cancellation message the
+a cancellation mechanism
+warp simulations that
+denoted by tc
+cancel message cm
+by the cancellation
+counter component of
+by tc p
+this cancellation message
+logical time representations
+value of lp
+cancels the events
+if e i1
+and the vector
+dependent on the
+if e is
+rolled back due
+i v c
+are causally related
+other lps this
+causally related to
+the rollback time
+queue that are
+counter values of
+the following theorems
+the simulation time
+events can be
+logical time in
+shows the steps
+events that have
+the rolled back
+events that will
+the event has
+will be rolled
+set of events
+the time of
+at the time
+its input queue
+add e to
+discrete event simulation
+component of the
+virtual time and
+lps in the
+by the lp
+for time warp
+in the input
+e is a
+in its input
+maximum event counter
+prevent cascading rollbacks
+positive straggler event
+total clocks can
+we present total
+replicated log and
+cancellation mechanism that
+in an lp
+propagation of erroneous
+back event e1
+message then then
+e i1 and
+and e i2
+total clock representation
+lp increases monotonically
+inter related in
+scheduled at lp
+to cascading rollbacks
+that captures causality
+as scalar clocks
+virtual time paradigm
+in the cancel
+addition cancel message
+rollback an lp
+event e1 could
+counter range in
+cancel e the
+range list then
+its vc component
+theorems may not
+causal information that
+while processing an
+rollbacks total clocks
+avoid cascading rollbacks
+called total clocks
+clock representation is
+warped simulation kernel
+captures causality information
+the events causally
+total clocks the
+obsolete information in

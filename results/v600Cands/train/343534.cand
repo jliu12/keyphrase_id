@@ -1,0 +1,600 @@
+clock
+sync
+clocks
+synchronization
+faulty
+adversary
+faults
+syncint
+protocol
+processors
+drift
+proactive
+bias
+maxwait
+adj
+processor
+bp
+secure
+drifts
+recoveries
+wayoff
+security
+byzantine
+attacker
+3f
+synchronized
+biases
+authenticated
+protocols
+recovery
+fault
+tolerant
+7d
+estimation
+dolev
+round
+dce
+malicious
+gammad
+dq
+hp
+corrupt
+st
+message
+withstand
+adjustment
+cp
+estimateoffset
+securely
+break
+logical
+convergence
+interval
+recovered
+delivery
+thread
+mobile
+synchronize
+fetzer
+signatures
+period
+deviation
+alarm
+recovering
+rounds
+kerberos
+ntp
+transient
+cliff
+cq
+maliciously
+stabilization
+authentication
+ae
+secret
+virus
+synchronizing
+generals
+reply
+peers
+messages
+cristian
+ping
+aq
+kun
+broadcast
+hardware
+overestimate
+welch
+links
+network
+undetected
+resetting
+fulfills
+ins
+resets
+cooperating
+cliques
+ning
+stabilizing
+correction
+aclocksynchronizationproto
+sunchronizations
+napping
+tinysersync
+cachin
+reto
+unresettable
+tr87
+7ffi
+2maxwait
+ademaj
+astrit
+rejoins
+hanzlik
+gammasintuitively
+leave
+envision
+periodically
+gets
+peng
+accuracy
+attacks
+estimate
+discontinuity
+reading
+who
+failures
+strobl
+withstands
+voked
+bitrary
+stabiliza
+simons
+toolkit
+failed
+asynchronous
+backes
+perpetual
+recover
+units
+internet
+maintaining
+ours
+services
+tolerate
+attack
+disadvantages
+self
+kopetz
+kutten
+gence
+3d
+routine
+internal
+ignores
+standardize
+requestor
+6f
+mills
+bids
+859
+hermann
+median
+ng
+wireless
+specifically
+occasionally
+adver
+vals
+bors
+periodical
+payments
+lifetime
+sensor
+convenient
+claims
+stress
+cisely
+bq
+synchroniza
+maximal
+executes
+disrupt
+ietf
+halpern
+guarantee
+substantial
+informal
+signature
+broke
+conver
+attackers
+piggyback
+shrunk
+corrective
+progressed
+sary
+stamping
+sharing
+clock synchronization
+processor p
+sync protocol
+adj p
+bias values
+convergence function
+non faulty
+a processor
+proactive security
+good processors
+our protocol
+the clock
+clock value
+the adversary
+faulty during
+faulty processors
+clock estimation
+the clocks
+syncint time
+logical drift
+the processors
+the bias
+the sync
+the protocol
+a clock
+clock values
+based clock
+synchronization protocol
+delivery bound
+f processors
+local time
+its clock
+bias of
+clocks of
+1 st
+synchronized clocks
+drifts and
+st smallest
+f limited
+every syncint
+range gammad
+synchronization protocols
+network time
+maximum deviation
+clock and
+own clock
+not faulty
+3f 1
+processors are
+are faulty
+local clock
+real time
+s clock
+of sync
+gammad d
+and recoveries
+hp and
+for clock
+clocks in
+faults and
+synchronization algorithm
+fault tolerant
+the network
+estimation procedure
+function based
+c m
+third of
+clock of
+break into
+byzantine faults
+b m
+clocks are
+time protocol
+each processor
+adversary setting
+recovering processor
+of drifts
+authenticated communication
+adjustment variable
+initial bias
+st largest
+7d 8
+3d 4
+the f
+message delivery
+the good
+protocol in
+drift as
+secure time
+a recovering
+sync s
+adaptive self
+arbitrary faults
+mobile adversary
+limited adversary
+other processors
+processors in
+of faults
+that range
+interval i
+time interval
+i i
+faulty at
+faults a
+processor q
+time period
+during any
+processor faults
+hardware clock
+value c
+protocol is
+self stabilization
+time units
+secure systems
+drift rate
+from arbitrary
+protocol and
+far from
+recovery time
+adversary who
+network model
+synchronization algorithms
+an adversary
+at distance
+p s
+the mobile
+faulty processor
+the real
+processors and
+local clocks
+low value
+logical clock
+the estimation
+faults in
+the attacker
+time adaptive
+of processors
+clocks to
+high value
+very far
+in rounds
+ae and
+call sync
+ignores its
+peng ning
+two sync
+f largest
+for proactive
+maintaining security
+z 7d
+synchronization maintaining
+range at
+parameters syncint
+p adj
+ignore drifts
+avoid detection
+faults model
+longer faulty
+sync 3
+signature systems
+mobile virus
+protocol fulfills
+allows recoveries
+function sync
+understanding protocols
+variable adj
+hardware drift
+initial biases
+dolev et
+malicious faults
+processor failed
+corrupt processors
+practical disadvantages
+d specifically
+protocol sync
+securely synchronized
+p estimates
+break ins
+wayoff bound
+maintaining authenticated
+virus attacks
+sync f
+ning cliff
+synchronization lower
+our sync
+maxwait and
+withstand mobile
+cliff wang
+kun sun
+its adjustment
+byzantine clock
+security toolkit
+proactive secure
+units call
+gets bias
+own current
+sun peng
+to q
+adversary is
+an attacker
+the sync protocol
+a processor p
+non faulty processors
+clock value of
+convergence function based
+f 1 st
+the good processors
+clock estimation procedure
+based clock synchronization
+clock synchronization protocol
+message delivery bound
+the bias of
+processors are faulty
+the f 1
+of the processors
+a clock synchronization
+the range gammad
+function based clock
+a clock estimation
+faults and recoveries
+syncint time units
+every syncint time
+range gammad d
+1 st smallest
+clock synchronization algorithm
+the clocks of
+interval i i
+the real time
+network time protocol
+message to q
+the maximum deviation
+for clock synchronization
+the message delivery
+the clock value
+far from the
+third of the
+1 st largest
+proceed in rounds
+clock synchronization protocols
+not faulty during
+a recovering processor
+value c m
+time adaptive self
+sync protocol is
+bias of p
+beginning of i
+mobile adversary setting
+the bias values
+local time r
+the mobile adversary
+of the good
+in the mobile
+clock values of
+the clocks in
+its own clock
+faulty processors are
+of non faulty
+the clock values
+processors in g
+in that range
+p s clock
+of i i
+the local clock
+clock and the
+the network time
+non faulty processor
+clock synchronization is
+of the protocol
+our protocol and
+clocks in the
+very far from
+the non faulty
+the processors are
+in the presence
+processor p is
+of a processor
+in the analysis
+a third of
+too far from
+time interval of
+may be possible
+of our protocol
+a time interval
+from arbitrary faults
+syncint time between
+and adj p
+presence of break
+adaptive self stabilization
+faults a new
+all the clocks
+clock synchronization lower
+ignores its own
+a processor failed
+clock synchronization maintaining
+whose initial bias
+two sync s
+own current bias
+sync protocol fulfills
+adj p are
+function sync f
+z 7d 8
+how to withstand
+previous clock synchronization
+of break ins
+synchronize to real
+3d 4 from
+peng ning cliff
+1 every syncint
+the clock estimation
+for clocks which
+maintaining authenticated communication
+most two sync
+to avoid detection
+at local time
+proactive security toolkit
+f 4 for
+its adjustment variable
+protocol fulfills the
+of drifts and
+synchronization algorithm is
+or analysis to
+byzantine faults in
+the rest 1
+an answer c
+gets bias values
+always have so
+sync 3 function
+or byzantine faults
+say that ensures
+for convergence function
+for proactive security
+dolev et al
+sync f 4
+mobile virus attacks
+3 function sync
+a convergence function
+initial biases and
+the protocol sync
+kun sun peng
+key and signature
+of adj p
+synchronization lower bounds
+units call sync
+estimation procedure and
+local time s
+values d a
+for byzantine clock
+no longer faulty
+q 2 ng
+estimate b m
+ning cliff wang
+clocks of its
+4 from all
+parameters syncint time
+initial bias values
+understanding protocols for
+bias values of
+of faults during
+f limited adversary
+withstand mobile virus
+securely synchronized clocks
+execution of sync
+it gets bias
+non faulty during
+protocols for byzantine
+rest 1 every
+m the f
+completes at least
+ng do 5
+adjustment variable adj
+bound for clocks
+low value c
+p local time
+and signature systems
+biases and so
+the hardware drift
+its own current
+the logical drift
+authenticated communication in
+with high initial
+bounds for convergence
+p the adversary
+effects of drifts
+if p sends
+byzantine clock synchronization
+our network model
+hp and adj
+processors we refer
+bias values which
+adj p adj
+sync s during
+processors are close
+are faulty during
+at time then
+our sync protocol
+7d 8 hence
+results in typical
+an f limited
+to withstand mobile
+processor completes at

@@ -1,0 +1,600 @@
+automaton
+parent
+child
+inheritance
+register
+specialization
+ioa
+atomic
+specification
+cache
+hist
+specifications
+automata
+actions
+multicast
+seq
+synched
+interface
+reuse
+service
+specialize
+gcss
+proofs
+simulation
+eff
+incremental
+incrementally
+read
+sj
+tj
+specialized
+transitions
+traces
+subclassing
+implements
+trace
+ffj
+transitional
+transition
+group
+virtually
+services
+synch
+reasoning
+membership
+formal
+ser
+partitionable
+gcs
+correctness
+client
+preconditions
+oriented
+denotational
+proving
+semantics
+formalism
+synchronous
+fledged
+methodology
+precondition
+vices
+action
+extension
+modification
+forwarding
+consistent
+server
+safety
+messages
+hi
+deliver
+req
+sig
+evolved
+simulates
+reliable
+wans
+ensemble
+abstract
+replicated
+specifying
+signature
+reachable
+request
+recv
+quorum
+shared
+communication
+sequentially
+refinement
+provers
+specializes
+observable
+subtyping
+restriction
+enabled
+inclusion
+messaging
+specifica
+validation
+alternating
+dealt
+specifies
+internal
+assurance
+middleware
+closures
+relation
+object
+external
+smalltalk
+emulation
+wrapper
+externally
+building
+write
+provision
+reusing
+execs
+fht
+thetastates
+khazan
+liken
+partionable
+ologies
+thetasig
+prophecy
+buffers
+experience
+6000
+behaviors
+relates
+totally
+modeling
+nondeterminism
+pre
+tolerant
+mapping
+determinism
+implied
+message
+gorithm
+ff
+parents
+triples
+def
+team
+hickey
+shvartsman
+stata
+marinov
+verification
+proven
+primitives
+ch
+forwarded
+acknowledged
+repeat
+plans
+project
+layered
+interacts
+innate
+analyzable
+inher
+methodol
+itance
+luchangco
+safe
+mathematically
+involving
+cast
+specializa
+supplementing
+sarfraz
+khurshid
+ents
+attie
+page
+fifo
+broadcasts
+fault
+diverse
+collaborative
+modifies
+deliv
+fij
+tomaton
+guttag
+keidar
+2b
+nondeterministic
+2c
+modularly
+serializable
+latest
+2a
+railroad
+garland
+through cache
+the parent
+write through
+read p
+simulation proofs
+simulation relation
+the child
+interface extension
+consistent register
+group communication
+seq consistent
+atomic write
+a 0
+p v
+o automaton
+atomic register
+interface mapping
+a child
+a simulation
+transition restriction
+hist x
+state extension
+s 0
+of seq
+an automaton
+execution sequence
+new state
+incremental modification
+specification s
+shared register
+automaton a
+parent s
+i o
+virtually synchronous
+inheritance based
+cache p
+output read
+child specification
+o automata
+state components
+synchronous group
+relation r
+proof reuse
+child algorithm
+parent automaton
+v choose
+simulation proof
+an interface
+group multicast
+r c
+state t
+communication service
+for incrementally
+proving correctness
+object oriented
+specification automaton
+automaton atomic
+synched p
+parent specification
+specialized version
+the specialization
+child s
+the specification
+specifications and
+an execution
+trace inclusion
+simulation relations
+hi p
+incrementally constructing
+in atomic
+specialize the
+last p
+a state
+state variables
+a implements
+safety specifications
+of inheritance
+a specialization
+step of
+and proofs
+reuse of
+automaton model
+automaton s
+new actions
+a parent
+communication system
+initial state
+choose i
+simulation from
+we specialize
+sequentially consistent
+that automaton
+let automaton
+page long
+proof extension
+new preconditions
+p eff
+automaton formalism
+inheritance 8
+state sj
+five page
+specialization construct
+req p
+extension theorem
+read req
+automaton write
+building simulation
+tj n
+cache automaton
+start states
+synch p
+the ioa
+specialization of
+a denotational
+child to
+theorem 4
+child can
+p true
+algorithm descriptions
+automaton automaton
+second specification
+register x
+register does
+implements s
+that sj
+a step
+reasoning about
+read request
+group membership
+algorithm a
+complex group
+start s
+sig a
+client server
+write p
+of incremental
+atomic shared
+abstract algorithm
+consistent shared
+an inheritance
+states a
+formal methods
+of s
+a read
+specifying and
+internal actions
+a sequentially
+parent by
+automaton are
+a client
+the interface
+states and
+to repeat
+second algorithm
+of write
+added by
+automaton is
+and internal
+specifies how
+of states
+the simulation
+for building
+every step
+same trace
+algorithm implements
+ser vices
+with state
+state s
+v to
+ff is
+the new
+states of
+extension is
+full fledged
+relation from
+if t
+a relation
+sequence obtained
+reliable multicast
+our experience
+automaton the
+child of
+output and
+algorithm meets
+acknowledged broadcasts
+constructing safety
+proofs incrementally
+nondeterministic safety
+server oriented
+algorithm automaton
+cache implements
+based modification
+signature input
+modification constructs
+then ffj
+configuration group
+register specification
+subclassing for
+membership ser
+input write
+write through cache
+read p v
+atomic write through
+seq consistent register
+i o automaton
+of seq consistent
+of the parent
+a simulation relation
+of a 0
+i o automata
+the parent s
+new state components
+virtually synchronous group
+output read p
+group communication service
+execution sequence of
+an interface extension
+p v choose
+interface extension of
+of an automaton
+theorem 4 1
+an execution sequence
+the simulation relation
+is a simulation
+the new state
+a 0 then
+the i o
+the parent automaton
+interface extension is
+synchronous group multicast
+specifications and algorithms
+v choose i
+of write through
+simulation relation r
+the child algorithm
+a 0 to
+at the parent
+automaton a 0
+group communication system
+a specialization of
+for incrementally constructing
+output and internal
+o automaton model
+simulation from a
+relation r c
+an automaton a
+write p v
+a simulation from
+of s 0
+is an execution
+a step of
+by s 0
+to a read
+a client server
+in atomic register
+initial state extension
+an inheritance based
+reuse of models
+automaton write through
+new state variables
+o automaton formalism
+the transition restriction
+models and proofs
+read req p
+consistent shared register
+building simulation proofs
+the child specification
+a state sj
+a complex group
+automaton atomic write
+through cache automaton
+synched p true
+parent s behavior
+atomic register does
+simulation relation from
+such that sj
+inheritance and its
+the interface mapping
+proof extension theorem
+state components and
+an interface mapping
+state t of
+a read request
+a 0 be
+of an interface
+every step of
+of the child
+a relation r
+s 2 r
+p v to
+the second specification
+register does not
+a sequence obtained
+sequentially consistent shared
+modeling and validation
+ff is an
+step of a
+state variables of
+need to repeat
+proving correctness of
+technique for building
+states and actions
+atomic shared register
+we specialize the
+denotes a sequence
+to prove that
+a sequentially consistent
+a to s
+proofs in this
+sequence obtained by
+to the parent
+an object oriented
+a child of
+an initial state
+of models and
+the parent the
+the child s
+a specialized version
+an automaton is
+input output and
+from a 0
+our experience in
+a full fledged
+a 0 of
+the same trace
+a 0 is
+s 0 and
+reasoning in the
+actions of a
+added by the
+0 of a
+a 0 and
+object oriented approach
+of c code
+definition 2 1
+is a step
+is consistent with
+specializes the parent
+safety specifications abstract
+membership service is
+the specialized automaton
+dynamic primary configuration
+synch p eff
+membership ser vices
+of incremental modification
+empty action ffl
+a implements s
+the specialization construct
+algorithm for virtually
+service a dynamic
+together from one
+group multicast client
+a response read
+incremental proof construction
+the fourth specification
+that automaton atomic
+relation r n
+replacing each action
+request returns the
+a simulates specification
+complex group communication
+state extension the
+primary configuration group
+a child s
+p v pre
+specialize the parent
+reliable fifo multicast
+developing high assurance
+synchronous group membership
+configuration group communication
+incremental modification constructs
+v read output
+consistent register the
+of alternating states
+has evolved with
+technique for incrementally
+algorithm a implements
+an atomic shared
+simulated in atomic
+proofs for ensemble
+the proof extension
+that sj p
+input write p
+balancing replicated data
+respect to nondeterministic
+this specialized version
+same trace as
+1 let automaton
+through cache the
+two automata with
+approach to virtually
+to another deliver
+group communication as
+any new state
+of atomic write
+subclassing for extension
+since atomic register
+state r c
+of inheritance 8
+choose i pre

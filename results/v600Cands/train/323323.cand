@@ -1,0 +1,600 @@
+lop
+adder
+correction
+lod
+shift
+shifter
+datapath
+normalization
+concurrent
+floating
+encoding
+leading
+string
+delay
+mux
+subtraction
+significands
+rounding
+gates
+compound
+significand
+bit
+adders
+position
+exponent
+aligner
+exp
+substrings
+lops
+nand
+detection
+tree
+omega
+compensate
+operands
+gate
+signif
+digit
+carry
+module
+msb
+pre
+latency
+coarse
+alignment
+substring
+sign
+buf
+detect
+diff
+bits
+digits
+modules
+inverter
+incr
+zeros
+carries
+compensation
+1s
+pz
+logic
+multiplexer
+prediction
+decoding
+hexadecimal
+eff
+neg
+negative
+encod
+stage
+shifters
+ae
+fine
+inverters
+operand
+decoder
+checking
+stages
+count
+0s
+zerok
+pattern
+comp
+detector
+double
+zerog
+khalili
+multiplexers
+strings
+borrow
+pipelined
+incrementer
+conversion
+650
+s1
+estimations
+exponents
+inversion
+corrected
+corr
+diagram
+invert
+13c
+determination
+cmos
+13b
+decode
+subtractions
+snap
+signed
+pos
+patterns
+dec
+fused
+immaterial
+ns
+critical
+predictor
+trees
+hardware
+radix
+comparator
+signals
+metal
+interconnections
+normalized
+swapped
+paths
+slowest
+swapping
+oper
+finecarries
+vlog
+fine5
+subtraction0
+0fpositive
+jinmei
+recomplement
+f6prefix
+lzd
+differents
+tree7
+7corr
+26lodcoarse5
+2260
+0kj
+lza
+muxexponent
+whe
+chengshou
+recomplementation
+10fpositive
+anticipator
+26lod
+siferd
+assure
+effective
+6000
+consequently
+encode
+concurrently
+prefix
+schemes
+digitwise
+perfoms
+1433
+khalid
+verter
+maf
+xinyu
+lods
+abed
+inputs
+magnitude
+operates
+coding
+s2
+correc
+2050
+symbols
+overflow
+1b
+exchanging
+encodes
+receives
+composed
+0k
+identified
+binary
+pillai
+barrel
+1421
+2b
+pipelining
+carried
+cuit
+14a
+included
+buffer
+selects
+leading one
+concurrent correction
+the lop
+pre encoding
+the leading
+detection tree
+point adder
+lop with
+normalization shift
+floating point
+one position
+the adder
+with concurrent
+without concurrent
+lop without
+the lod
+z z
+correction based
+omega omega
+delay of
+datapath floating
+exponent difference
+g p
+compound adder
+the delay
+bit shift
+the normalization
+single datapath
+a lop
+lop is
+1 bit
+ae ae
+the shifter
+double datapath
+point adders
+the compensate
+positive tree
+carry checking
+the position
+gate count
+point addition
+parallel with
+g n
+position correction
+concurrent position
+on carry
+the shift
+correction is
+shift is
+the correction
+the string
+t nand
+shift decoding
+compensate shifter
+adder can
+compensate shift
+exp diff
+close datapath
+effective subtraction
+negative tree
+output aligner
+position of
+the detection
+string g
+correction pattern
+encoding module
+encoding logic
+shift amount
+one bit
+the concurrent
+the rounding
+string of
+the operands
+bit inverter
+basic lop
+signif exp
+adder result
+the significands
+encoding f
+fine shift
+correction and
+the pre
+left shift
+to detect
+u u
+lop and
+lod and
+critical path
+the floating
+a correction
+in 19
+the positive
+one prediction
+the substrings
+a leading
+detect the
+the pattern
+shifter is
+the carry
+in parallel
+position encoding
+encoding tree
+bit lod
+encoding g
+coarse shift
+lop we
+and normalization
+rounding is
+general structure
+zeros and
+latency reduction
+the close
+leading zero
+w string
+subtraction is
+of gates
+last stage
+the substring
+2 input
+the 1
+shift and
+the significand
+the compound
+shift of
+w 0
+a string
+correction of
+the tree
+correction can
+the result
+right shift
+adder the
+the subtraction
+sign bit
+of 1s
+the negative
+output of
+the digit
+in position
+the latency
+and ones
+shift normalization
+f neg
+present pattern
+lod to
+adder without
+on carries
+shift module
+bit invert
+exp incr
+right shifter
+logic f
+f 650
+correction needed
+compensation shifter
+shift correction
+lod block
+significand adder
+gates pre
+control mux
+normalization left
+partial shift
+without comparison
+our lop
+alignment shift
+far datapath
+pre encod
+element gates
+coarse shifter
+carry selection
+lod is
+smaller operand
+lop algorithm
+adder using
+most significant
+of zeros
+is present
+receives as
+of w
+count of
+significant digits
+path delay
+the exponent
+shifter and
+f pos
+the shifters
+adder since
+pattern z
+one predictor
+both strings
+latency of
+first 1
+the addition
+in floating
+tree has
+the logic
+digits of
+addition is
+no rounding
+right input
+the leading one
+leading one position
+floating point adder
+with concurrent correction
+z z z
+lop with concurrent
+of the leading
+correction based on
+omega omega omega
+delay of the
+the delay of
+without concurrent correction
+lop without concurrent
+concurrent correction based
+the normalization shift
+1 bit shift
+datapath floating point
+the pre encoding
+of the lop
+of the adder
+ae ae ae
+g p and
+the concurrent correction
+floating point adders
+the lop is
+parallel with the
+position of the
+in parallel with
+floating point addition
+and g n
+single datapath floating
+based on carry
+concurrent position correction
+on carry checking
+leading one in
+the close datapath
+of the shifter
+pre encoding logic
+the positive tree
+string g p
+the lop with
+adder can be
+pre encoding module
+concurrent correction and
+u u u
+p and g
+the compensate shifter
+the detection tree
+concurrent correction is
+leading one prediction
+normalization shift is
+pre encoding f
+gate count of
+the basic lop
+the position of
+in the close
+the floating point
+the shift amount
+a leading one
+the compound adder
+of the lod
+number of gates
+of the detection
+to detect the
+string of zeros
+double datapath floating
+the negative tree
+a lop with
+string of 1s
+the single datapath
+the adder result
+the gate count
+an effective subtraction
+a string of
+output of the
+the 1 bit
+zeros and ones
+the string g
+the output of
+of the addition
+of the shift
+of an effective
+error of one
+correction can be
+described in 19
+for w 0
+receives as input
+of the normalization
+i is identified
+critical path delay
+of one bit
+shift and the
+is identified by
+of zeros and
+correction of the
+the critical path
+bits of the
+of the floating
+of the subtraction
+gate count for
+based on carries
+subtraction is always
+addition and normalization
+positive tree and
+tree to detect
+the exponent difference
+the adder can
+sign of exp
+encoding f 650
+for concurrent correction
+first 1 is
+element gates pre
+a lop without
+concurrent correction we
+perform the correction
+point adder without
+with the lop
+the pattern z
+the compensation shifter
+gates pre encoding
+point adder using
+adder without comparison
+the far datapath
+is present pattern
+the subtraction is
+the compensate shift
+a detection tree
+one in position
+the double datapath
+leading one predictor
+pre encoding g
+of exp diff
+the smaller operand
+no rounding is
+leading one is
+a pre encoding
+the lop we
+the result is
+g p is
+the first 1
+count of the
+position i is
+of the tree
+in position i
+in floating point
+in 19 and
+shown in figure
+sign and magnitude
+logic structure of
+can be negative
+case in which
+is always positive
+of the pre
+the result can
+of the operands
+detection and correction
+way the result
+can be positive
+be positive or
+f g p
+the position is
+following the first
+of the string
+stage of the
+result of the
+to perform the
+last stage of
+count for the
+as input the
+identified by the
+most significant bits
+the last stage
+positive or negative
+the detection and
+which the output
+latency of a
+to be corrected
+a floating point
+has to be
+normalization of the
+shift of the
+that the position
+level of the
+the latency of
+of bits of
+to correct the
+case of an
+fine shift decoding
+normalization shift can
+the proposed lop
+leading one detector
+mux and output
+the significand adder
+pz q n
+the logic necessary
+lops described in
+one prediction is
+ffl a pre
+result is exact
+once the string

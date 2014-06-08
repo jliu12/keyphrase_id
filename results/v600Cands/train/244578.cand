@@ -1,0 +1,600 @@
+follower
+silent
+leader
+message
+messages
+synchronised
+neighbour
+comparator
+relayed
+protocol
+clock
+clocks
+fail
+processor
+llc
+rlc
+synchronisation
+timestamp
+node
+ecl
+protocols
+voltan
+dmq
+unreplicated
+icl
+oml
+replicas
+processors
+pmq
+sift
+asymmetric
+delay
+link
+timestamps
+failure
+sender
+fault
+replicated
+signed
+faulty
+received
+functioning
+lf
+ordering
+failing
+tolerant
+stability
+cmq
+transmiter
+stable
+logical
+relayer
+deposited
+client
+replica
+processes
+silence
+sent
+fig
+nodes
+av
+transmission
+rmq
+masking
+intra
+receiver
+reception
+authentic
+overheads
+byzantine
+transputers
+2d
+receives
+synchronism
+failures
+voting
+redundancy
+throughput
+delays
+server
+queue
+destination
+shelf
+sends
+sequoia
+irml
+pinello
+stratus
+timebase
+erml
+votrics
+stops
+authentication
+counterparts
+network
+enqueued
+micro
+services
+hardware
+outs
+relay
+copy
+maft
+tolerance
+singly
+timeliness
+reference
+bearing
+feedback
+bus
+3ms
+irreversibly
+unwanted
+authenticated
+suffered
+response
+transmitter
+voter
+6ms
+counterpart
+od
+architecture
+capable
+sangiovanni
+vincentelli
+receive
+resilient
+replication
+produced
+reliable
+transputer
+timing
+ahead
+signature
+controlled
+valid
+specialised
+bytes
+id
+picks
+late
+mars
+outputs
+request
+ordered
+halted
+instruction
+maintains
+employing
+ceases
+disagreement
+timestamped
+enqueue
+signatures
+instant
+double
+agreement
+summarised
+composed
+software
+stopped
+unsigned
+units
+claudio
+ports
+behaviour
+transient
+happening
+asynchronous
+pulse
+2048
+locally
+internal
+slave
+designs
+soon
+execute
+attractive
+functionality
+constructing
+manipulation
+stream
+delivery
+expires
+tolerating
+asymmetry
+impact
+experiment
+seq
+queues
+deliver
+alberto
+detected
+00ms
+12ms
+21ms
+512102415362048
+carloni
+79ms
+stabilising
+fail silent
+leader follower
+order protocol
+silent node
+the leader
+silent nodes
+the follower
+the neighbour
+comparison protocol
+a fail
+stability delay
+a node
+processor fail
+order protocols
+the comparator
+a message
+software implemented
+reference implementation
+the node
+with timestamp
+the message
+valid messages
+relayed message
+actual stability
+message comparison
+order process
+for ordering
+comparator process
+the link
+two processor
+input messages
+failing state
+dmq i
+synchronised clocks
+the processors
+logical clocks
+input message
+hardware implemented
+the asymmetric
+synchronised clock
+implemented fail
+l lf
+the network
+message from
+a processor
+sender process
+neighbour processor
+unreplicated node
+implemented nodes
+double signed
+reference clock
+a relayed
+fail controlled
+its neighbour
+timestamp t
+leader and
+for comparison
+non faulty
+logical clock
+time out
+intra node
+fault tolerant
+node delay
+performance failure
+redundancy management
+a failure
+processor of
+asymmetric order
+the pmq
+clock protocol
+clock synchronisation
+appropriate dmq
+failure masking
+messages with
+d a
+application processes
+message with
+deposited in
+messages from
+message is
+received from
+output messages
+fail silence
+of fail
+other processor
+processors of
+the sender
+faulty processor
+correct processor
+message list
+message for
+s clock
+transmission delay
+a copy
+see fig
+link to
+signed message
+messages produced
+application process
+destination nodes
+sequence numbers
+implemented counterparts
+t 2d
+asymmetric protocols
+internal failure
+rlc is
+the ecl
+masking node
+signed messages
+figures obtained
+correctly functioning
+correct messages
+llc and
+performance figures
+the failing
+node can
+the reference
+processor s
+message to
+becomes stable
+server process
+each processor
+messages in
+queue manipulation
+correct processors
+of rlc
+management protocols
+output delay
+with synchronised
+neighbour s
+be received
+local clock
+l a
+copy of
+message becomes
+timestamp smaller
+distributed systems
+processor can
+receives a
+the client
+controlled node
+node will
+discussed before
+the processor
+node that
+node communication
+1 processor
+message received
+messages for
+their hardware
+level processes
+message ordering
+the sift
+transmiter icl
+as unwanted
+faulty replicas
+message synchronisation
+fail stable
+relayed from
+neighbour for
+transmitter process
+stable timestamps
+the unreplicated
+icl from
+out interval
+ordering protocols
+follower s
+singly signed
+sender transmiter
+llc is
+s llc
+follower to
+valid message
+synchronisation measure
+follower with
+correct replicas
+follower leader
+identical order
+rlc are
+process service
+comparator receiver
+be ordered
+are stable
+message queue
+self checking
+delay for
+node the
+table i
+node level
+software architecture
+experimental work
+clocks of
+the performance
+the fail
+this protocol
+the overheads
+message in
+authentication and
+micro instruction
+the synchronised
+fail silent node
+fail silent nodes
+a fail silent
+processor fail silent
+two processor fail
+from the neighbour
+the actual stability
+actual stability delay
+the leader follower
+from the network
+of a node
+message from the
+of a fail
+the comparator process
+to the neighbour
+with timestamp t
+from the link
+message with timestamp
+the other processor
+implemented fail silent
+the reference implementation
+the order protocol
+software implemented fail
+the order process
+a relayed message
+deposited in the
+processor of a
+received from the
+in the node
+appropriate dmq i
+the neighbour processor
+the appropriate dmq
+both the processors
+the failing state
+of software implemented
+the link to
+processors of a
+a copy of
+processor s clock
+the sender process
+p 1 processor
+by the comparator
+messages with timestamp
+of the processors
+link to the
+messages produced by
+from the leader
+messages from the
+of the leader
+units of time
+process this process
+over the link
+each processor of
+order protocol with
+a fail controlled
+an order protocol
+order protocol for
+their hardware implemented
+order process of
+hardware implemented counterparts
+for input messages
+failure masking node
+the reference clock
+indicates a failure
+fail controlled node
+message for comparison
+comparison protocol that
+redundancy management protocols
+and queue manipulation
+authentication and queue
+of a processor
+failure is detected
+the processors of
+to the link
+of the message
+in the failing
+a message for
+copy of the
+timestamp smaller than
+l a d
+such a node
+receives a copy
+smaller than or
+the non faulty
+a non faulty
+sequence numbers to
+time t r
+the performance figures
+t is received
+one performance failure
+of message comparison
+the unreplicated node
+a f l
+with timestamp smaller
+becomes stable at
+relayed message with
+the node delay
+non faulty replicas
+the neighbour s
+processor that first
+reference implementation of
+follower leader follower
+asymmetric order protocol
+a reference implementation
+a two processor
+comparator receiver sender
+in the follower
+node can suffer
+node delay for
+the follower s
+silent node the
+the asymmetric protocols
+icl from the
+logical clock protocol
+transmiter icl from
+dmq i s
+silent node is
+hardware implemented nodes
+relayed message from
+to their hardware
+to the follower
+the leader for
+leader follower leader
+message for ordering
+receiver sender transmiter
+message becomes stable
+time out interval
+the neighbour for
+faulty processor can
+a comparison protocol
+valid messages with
+leader and follower
+process service i
+performance figures obtained
+a node produces
+particular input message
+to its neighbour
+leader follower with
+1 processor fail
+in the pmq
+stability delay for
+application process service
+l lf 0
+timestamp t is
+double signed message
+silent node can
+an internal failure
+alternative to their
+the synchronised clock
+increasing sequence numbers
+intra node message
+sender transmiter icl
+software implemented nodes
+in table i
+the two processors
+a message from
+of the node
+the redundancy management
+process picks up
+l d a
+of two processor
+f l d
+for the leader
+time out t
+the client process
+it reflects the
+the leader and
+message authentication and
+to message authentication
+for ordering from
+the message is
+equal to t
+by the node
+ordering from the
+intra node communication
+our experimental work
+a d a
+for distributed systems
+the performance of
+of the processor
+than or equal
+software architecture of
+the server process
+non faulty processor
+monotonically increasing sequence
+message received from
+a simple comparison
+the processor that
+a message to
+message to be
+or equal to
+the processor s
+to be ordered
+due to message
+that the leader
+in an identical
+off the shelf
+standard off the
+than one message
+a particular input

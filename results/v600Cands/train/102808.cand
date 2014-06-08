@@ -1,0 +1,600 @@
+consensus
+valent
+wait
+registers
+shavit
+nir
+cell
+herlihy
+atomic
+hagit
+protocol
+swap
+maurice
+attiya
+annual
+concurrent
+register
+principles
+afek
+impossibility
+dequeues
+yehuda
+symposium
+taubenfeld
+queue
+gadi
+linearizable
+twenty
+announce
+moir
+writer
+object
+asynchronous
+merritt
+lock
+synchronization
+cells
+prefer
+read
+processes
+united
+history
+deq
+universal
+jayanti
+head
+hendler
+fetch
+objects
+danny
+threaded
+fragment
+tsigas
+philippas
+bivalent
+queues
+fifo
+invocation
+aspnes
+enq
+events
+fich
+jacm
+randomized
+guerraoui
+faith
+automaton
+newfoundland
+anderson
+touitou
+rajsbaum
+rmw
+ottowa
+shared
+1994
+california
+prasad
+blocking
+canada
+free
+sixteenth
+vallarta
+james
+thirteenth
+reclaimed
+puerto
+primitives
+sigplan
+invocations
+announcement
+eli
+august
+dolev
+universality
+rachid
+michael
+kau
+vassos
+fouren
+hadzilacos
+automata
+sergio
+ruppert
+gafni
+notices
+initialized
+barbara
+sequential
+architectures
+atomically
+assertion
+neiger
+stupp
+maged
+seventeenth
+decide
+gideon
+luchangco
+univalent
+1997
+santa
+mexico
+exclusion
+linearizability
+diego
+1993
+multiprocessor
+lynch
+executes
+usenix
+multiprocessors
+angeles
+peek
+seq
+fourteenth
+panagiota
+fatourou
+zemach
+invoc
+ramamurthy
+asaph
+diffracting
+los
+fifteenth
+modify
+constructions
+thread
+decision
+island
+statement
+raynal
+dwork
+dan
+psi
+papatriantafilou
+bazzi
+rida
+tuttle
+july
+1992
+coordination
+wai
+threads
+ithaca
+stabilized
+impossible
+stacks
+memory
+front
+twelfth
+hesselink
+plaxton
+tushar
+orli
+nov
+multiprogrammed
+transactional
+op
+arie
+monterey
+mark
+plotkin
+faulty
+item
+john
+gil
+released
+greg
+1995
+event
+returns
+waarts
+responses
+nineteenth
+message
+mutual
+threading
+safe
+dahlia
+garbage
+wait free
+distributed computing
+consensus number
+annual acm
+on principles
+acm symposium
+process consensus
+computing p
+of distributed
+principles of
+free implementation
+symposium on
+nir shavit
+a wait
+history fragment
+the protocol
+x valent
+consensus protocol
+write registers
+atomic registers
+maurice herlihy
+modify write
+read modify
+y valent
+hagit attiya
+lock free
+proceedings of
+decision value
+valent state
+united states
+yehuda afek
+the twenty
+fetch add
+a consensus
+s 0
+announce p
+read write
+atomic read
+computing july
+computing v
+head p
+gadi taubenfeld
+n process
+free synchronization
+mark moir
+consensus object
+compare swap
+michael merritt
+abstract proceedings
+non blocking
+returns value
+two process
+prefer p
+it dequeues
+architectures p
+h anderson
+and architectures
+a concurrent
+california united
+21 24
+impossibility results
+s 00
+value returns
+17 1994
+randomized consensus
+prasad jayanti
+the queue
+each process
+on parallel
+danny hendler
+has consensus
+decide input
+bounded wait
+decision step
+max head
+1997 santa
+a history
+parallel algorithms
+concurrent system
+and q
+o automata
+p s
+james h
+shared memory
+august 14
+fragment starting
+philippas tsigas
+1994 los
+24 1997
+jacm v
+acm jacm
+input value
+third annual
+extended abstract
+output events
+multi writer
+set swap
+decide figure
+return prefer
+with consensus
+july 02
+on theory
+a process
+sixteenth annual
+register r
+acm sigplan
+write operations
+rachid guerraoui
+dan touitou
+and universality
+any object
+thirteenth annual
+2004 st
+s newfoundland
+newfoundland canada
+f i
+p executes
+the list
+the cell
+protocol is
+the processes
+sergio rajsbaum
+fragment from
+st john
+of consensus
+if p
+the sixteenth
+barbara california
+twenty third
+1998 puerto
+is impossible
+to memory
+august 21
+ottowa ontario
+1995 ottowa
+eli gafni
+23 1995
+augmented queue
+atomic m
+free condition
+infinite consensus
+hendler nir
+validity follows
+m register
+algorithms and
+02 1998
+same history
+sequence number
+the thirteenth
+concurrent objects
+of operations
+notices v
+sigplan notices
+puerto vallarta
+vallarta mexico
+state reached
+july 21
+the object
+memory to
+faith fich
+for wait
+state s
+protocol has
+i o
+santa barbara
+statement 4
+gamma psi
+entirely of
+o automaton
+consensus using
+18 1993
+multi reader
+writer registers
+history h
+james aspnes
+from s
+concurrent data
+an invocation
+the acm
+implementation of
+p and
+john s
+objects proceedings
+consisting entirely
+processes share
+test set
+q s
+object is
+event of
+14 17
+invocation and
+impossible to
+events of
+universal constructions
+concurrent reading
+merritt gadi
+memory move
+synchronization proceedings
+fifth annual
+june 28
+principles of distributed
+annual acm symposium
+of distributed computing
+on principles of
+symposium on principles
+acm symposium on
+distributed computing p
+wait free implementation
+a wait free
+free implementation of
+proceedings of the
+distributed computing v
+read modify write
+construct a wait
+read write registers
+of the twenty
+n process consensus
+distributed computing july
+atomic read write
+memory to memory
+impossible to construct
+on parallel algorithms
+symposium on parallel
+extended abstract proceedings
+algorithms and architectures
+a consensus protocol
+abstract proceedings of
+parallel algorithms and
+wait free synchronization
+p and q
+california united states
+and architectures p
+value returns value
+two process consensus
+is y valent
+modify write operations
+james h anderson
+14 17 1994
+24 1997 santa
+21 24 1997
+has consensus number
+input value returns
+decision value x
+a history fragment
+x valent state
+decide input value
+history fragment starting
+1997 santa barbara
+i o automata
+acm jacm v
+the acm jacm
+third annual acm
+a concurrent system
+17 1994 los
+1994 los angeles
+august 14 17
+symposium on theory
+journal of the
+theory of computing
+be the state
+on theory of
+s 0 be
+test set swap
+same history fragment
+process consensus protocol
+exists a history
+with consensus number
+object with consensus
+bounded wait free
+fragment from s
+until it dequeues
+a decision step
+y valent state
+is x valent
+history fragment from
+entirely of operations
+let s 0
+barbara california united
+sixteenth annual acm
+the protocol has
+the sixteenth annual
+is impossible to
+thirteenth annual acm
+july 21 24
+the thirteenth annual
+it is impossible
+any object with
+concurrent system is
+that results if
+twenty third annual
+s newfoundland canada
+july 25 28
+st john s
+28 2004 st
+2004 st john
+protocol has the
+john s newfoundland
+computing july 25
+25 28 2004
+of operations of
+august 21 24
+of the sixteenth
+acm sigplan notices
+sigplan notices v
+santa barbara california
+the wait free
+the decision value
+for wait free
+28 july 02
+1998 puerto vallarta
+the twenty third
+02 1998 puerto
+of computing p
+of the thirteenth
+of the acm
+july 02 1998
+the same history
+the processes share
+wait free condition
+infinite consensus number
+23 1995 ottowa
+ottowa ontario canada
+a consensus object
+combination of read
+1995 ottowa ontario
+to memory move
+danny hendler nir
+hendler nir shavit
+has infinite consensus
+atomic m register
+20 23 1995
+puerto vallarta mexico
+and s 0
+the protocol to
+i o automaton
+implementation of x
+objects proceedings of
+angeles california united
+consisting entirely of
+fifth annual acm
+of f i
+june 28 july
+annual symposium on
+parallel and distributed
+michael merritt gadi
+merritt gadi taubenfeld
+synchronization proceedings of
+the queue is
+s 0 is
+is wait free
+of read write
+n 4 p
+to construct a
+computing july 21
+21 24 2002
+twenty fifth annual
+computing v 18
+implementation of any
+24 2002 monterey
+herlihy nir shavit
+15 18 1993
+value prefer p
+m register assignment
+the protocol shown
+impossibility and universality
+united states yehuda
+results if p
+invocations and responses
+of atomic read
+shavit on the
+wait free since
+states wai kau
+and fetch add
+input event of
+consensus number proof
+read write test
+consensus proceedings of
+carries the protocol
+consensus number at
+nir shavit on
+an x valent
+hagit attiya arie
+then return prefer
+united states wai
+three process consensus
+states yehuda afek
+wai kau lo
+identical in s
+it dequeues p
+returns value prefer
+write test set
+fragment starting from
+solves n process
+performs its assignment
+prefer p input
+maurice herlihy nir
+attiya arie fouren
+decision value is
+no wait free
+to memory swap

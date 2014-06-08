@@ -1,0 +1,600 @@
+tridiagonalization
+semibandwidth
+mhl
+householder
+banded
+rutishauser
+flops
+band
+psi
+blas
+chasing
+subdiagonals
+dsbrdt
+transformations
+blocked
+bulge
+dsbtrd
+tridiagonal
+matrices
+wy
+bischof
+tridiagonalize
+lapack
+subdiagonal
+sweep
+peeling
+sbr
+diagonals
+nonblocked
+qr
+sym
+rs
+matrix
+update
+symmetric
+tridiagonalizing
+sk
+givens
+bandr
+dsbrdb
+dsyrdb
+bandr1
+fd
+routine
+reduction
+sp1
+paragon
+rotations
+lang
+dsytrd
+semibandwidths
+systolic
+stride
+eigensystem
+post
+doubling
+storage
+visited
+bandreduction
+working
+multistep
+loan
+sp
+bulges
+schwarz
+outmost
+eispack
+updating
+timings
+mflops
+1989
+rank
+annihilate
+1200
+fill
+blocking
+schreiber
+chunks
+count
+floatingpoint
+semiband
+6bn
+tridiagonaliza
+tridiagonalized
+transformation
+block
+aggregated
+routines
+chase
+kaufman
+picture
+triangular
+dongarra
+rotation
+superior
+products
+argonne
+bojanczyk
+ibm
+pre
+sweeps
+eigenvalue
+bandwidth
+oe
+columns
+annihilates
+accumulation
+annihilated
+annihilation
+machines
+factorizations
+brent
+resp
+1984
+807
+1968
+multiplication
+1963
+condensed
+fortran
+algorithmic
+800
+fly
+600
+floating
+2b
+trapezoidal
+narrower
+toolbox
+locality
+repeatedly
+1987
+aggregating
+diagonal
+column
+eliminates
+van
+nonzero
+decoupling
+confined
+decomposition
+similarity
+mvect
+horikoshi
+p586
+0496
+tionbased
+onehalf
+toolboxsoftware
+4mn
+tridiagonalizes
+nalization
+hovever
+garbow
+lkmath
+gesch
+practioners
+forschungszentrum
+if77
+zentralinstitut
+sytrd
+amhl
+counteracting
+isda
+hatching
+qstrict
+aftszeichen
+tridiago
+nonunit
+4n
+off
+400
+enabling
+matik
+xiaobai
+slighly
+chases
+garra
+delta10
+onal
+subma
+lessl
+ulich
+toms
+area
+division
+vanish
+reductions
+pictures
+eigenvector
+95006
+countermeasures
+rota
+lederman
+tridiag
+bulk
+gamma
+rounds
+backward
+1g
+mhl algorithm
+the mhl
+psi gamma
+gamma psi
+band reduction
+working semibandwidth
+householder transformations
+tridiagonalization of
+blocked householder
+semibandwidth b
+banded matrices
+rutishauser s
+with semibandwidth
+flops count
+rs algorithms
+step tridiagonalization
+step reduction
+banded form
+full symmetric
+3 blas
+two step
+wy representation
+n b
+of banded
+the reduction
+oe oe
+area visited
+sk algorithm
+symmetric band
+bulge chasing
+update of
+to banded
+tridiagonal form
+the transformations
+peeling off
+for band
+level 3
+the update
+the rs
+banded matrix
+the sk
+one step
+lapack routine
+data area
+full matrices
+symmetric matrices
+b d
+semibandwidth of
+and dsbrdt
+the banded
+matrix size
+reduction of
+of full
+band matrix
+to tridiagonal
+the wy
+subdiagonals in
+the householder
+the tridiagonalization
+symmetric matrix
+fd i
+householder transformation
+the doubling
+the working
+rank 1
+matrix u
+matrix with
+the bulge
+doubling stride
+bandr n
+size sp1
+the nonblocked
+size paragon
+bandr1 n
+routine dsbtrd
+intermediate semibandwidth
+the band
+matrices to
+h j
+qr decomposition
+for banded
+of householder
+for tridiagonalizing
+tridiagonalization algorithms
+the flops
+givens rotations
+the matrix
+of u
+householder tridiagonalization
+with blocked
+bandwidth reduction
+by peeling
+step sequence
+n symmetric
+s algorithm
+algorithm 2
+blas in
+for products
+no update
+aggregated into
+and post
+reduction algorithm
+blas for
+matrix is
+ibm sp
+sequence fd
+with update
+update 200
+bischof et
+direct tridiagonalization
+symmetric banded
+fly update
+off subdiagonals
+sp node
+1200 matrix
+then tridiagonalize
+semibandwidth in
+dsbtrd with
+tridiagonalization with
+semibandwidth is
+pre sym
+to tridiagonalize
+backward accumulation
+required too
+rotation based
+algorithm lapack
+tridiagonalizing banded
+and rutishauser
+updating u
+lower flops
+done with
+pre and
+fill in
+theta n
+algorithm 1
+van loan
+b gamma
+blocking the
+transformation matrix
+banded or
+the sbr
+2b gamma
+successive band
+bischof and
+stride sequence
+b fd
+loan 1989
+or tridiagonal
+subdiagonal block
+on machines
+of algorithm
+a blocked
+transformations in
+of symmetric
+update matrix
+householder vectors
+b columns
+step band
+minimum storage
+reduction with
+the level
+visited by
+dongarra et
+u until
+n theta
+optimal sequence
+1000 1200
+the ibm
+the qr
+block b
+h theta
+first reduce
+600 800
+400 600
+symmetric rank
+n u
+al 1989
+n a
+a symmetric
+800 1000
+and van
+not optimal
+data locality
+band matrices
+200 400
+a qr
+the blas
+transformations from
+the block
+the blocked
+routines dsyrdb
+rutishauser 1963
+and bulge
+the semibandwidth
+dsbrdt with
+for tridiagonalization
+tridiagonalize the
+if storage
+pictures resp
+subdiagonals to
+the mhl algorithm
+psi gamma psi
+gamma psi gamma
+with semibandwidth b
+update of u
+oe oe oe
+matrix with semibandwidth
+level 3 blas
+of banded matrices
+the update of
+two step reduction
+the two step
+rutishauser s algorithm
+the working semibandwidth
+the rs algorithms
+to banded form
+one step tridiagonalization
+tridiagonalization of banded
+the sk algorithm
+for band reduction
+step tridiagonalization of
+of full symmetric
+blocked householder transformations
+data area visited
+full symmetric matrices
+working semibandwidth of
+the level 3
+to tridiagonal form
+the one step
+the reduction of
+band reduction algorithm
+the tridiagonalization of
+framework for band
+wy representation for
+the bulge chasing
+and the mhl
+reduction of full
+area visited by
+symmetric band matrix
+matrix size paragon
+bandr n a
+the band reduction
+matrix size sp1
+banded matrices to
+with blocked householder
+of full matrices
+tridiagonalization of full
+symmetric matrix with
+n a b
+the wy representation
+by peeling off
+3 blas in
+for products of
+products of householder
+of the band
+fd i g
+for banded matrices
+representation for products
+be done with
+the ibm sp
+for the reduction
+in the reduction
+n symmetric matrix
+reduction of a
+pre and post
+applied to u
+the block b
+the work on
+reduction of banded
+the banded matrix
+peeling off subdiagonals
+sk algorithm lapack
+for full matrices
+replace the block
+working semibandwidth is
+b columns of
+blocked householder transformation
+an h theta
+full symmetric matrix
+with the mhl
+b gamma d
+for updating u
+for tridiagonalizing banded
+two step tridiagonalization
+or tridiagonal form
+into a blocked
+algorithm lapack routine
+transformation matrix u
+lower flops count
+a blocked householder
+and rutishauser s
+the fly update
+the doubling stride
+update matrix size
+one step sequence
+routine dsbtrd with
+banded or tridiagonal
+blas for the
+block size n
+a b fd
+the intermediate semibandwidth
+semibandwidth in the
+sequence fd i
+off subdiagonals in
+1200 matrix size
+the flops count
+mhl algorithm for
+bandr1 n a
+update 200 400
+2b gamma 1
+n b columns
+reduction to banded
+1000 1200 matrix
+lapack routine dsbtrd
+bischof et al
+semibandwidth b gamma
+a full symmetric
+done with blocked
+rs algorithms require
+an n theta
+of the level
+and van loan
+n theta n
+theta n symmetric
+of symmetric matrices
+u is required
+step band reduction
+a qr decomposition
+van loan 1989
+symmetric rank 2
+the data area
+aggregated into a
+is b d
+tridiagonalization of a
+of the ibm
+the householder transformations
+in the update
+of algorithm 1
+dongarra et al
+of householder transformations
+w and y
+800 1000 1200
+one step reduction
+on machines with
+200 400 600
+600 800 1000
+et al 1989
+of a symmetric
+400 600 800
+a framework for
+the reduction to
+the transformation matrix
+a cannot be
+the fill in
+we discuss several
+sub super diagonals
+blocked householder tridiagonalization
+sp1 with update
+off single diagonals
+of the mhl
+its working semibandwidth
+to narrower banded
+tridiagonalization algorithms for
+algorithms for band
+algo rithm 1
+the rutishauser algorithm
+paragon with update
+to determining and
+runs at up
+minimum algorithmic complexity
+constant sequence requires
+first n b
+n b length
+doubling stride sequence
+dsyrdb and dsbrdt
+no update 200
+one being of
+symmetric band matrices
+reduction of symmetric
+a symmetric band
+size sp1 no
+area accessed by
+annihilate and chase
+matrices to narrower
+routines dsyrdb and
+also received support
+tridiagonalization of the
+be aggregated into
+subdiagonals in chunks
+confined to matrix
+size n b
+the n b
+matrices to tridiagonal
+working semibandwidth for
+semibandwidth b n
+symmetric banded matrices
+no update matrix
+discuss several techniques
+banded form and
+to tridiagonalize a

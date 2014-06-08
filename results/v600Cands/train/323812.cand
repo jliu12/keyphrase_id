@@ -1,0 +1,600 @@
+cache
+nts
+opt
+lateral
+pcs
+tour
+mat
+tours
+caches
+pseudo
+rcr
+implementable
+reuse
+block
+l1
+macroblock
+nontemporal
+usage
+miss
+blocks
+conguration
+perl
+replacement
+schemes
+mlcache
+congurations
+du
+16k
+decisions
+nt
+compress
+instruction
+benchmarks
+placement
+allocation
+associativity
+associative
+prediction
+pons
+persistence
+gcc
+mapped
+management
+su2cor
+dierence
+tns
+ntns
+counter
+latency
+actively
+temporal
+managed
+placed
+cache1
+ts
+eective
+lru
+accessed
+evicted
+eects
+resident
+li
+32k
+entry
+simulator
+speedup
+cache2
+multilateral
+misses
+swim
+hydro2d
+lengths
+temporality
+incoming
+pc
+hits
+go
+simplescalar
+po
+exhibited
+active
+enbody
+brehob
+cyclecount
+diering
+icting
+referenced
+routines
+dierent
+selective
+perfect
+nonspatial
+belady
+delayed
+manage
+characteristics
+desirability
+processor
+movement
+torng
+memory
+locality
+dierences
+spatial
+benet
+ratio
+multi
+classied
+victim
+farthest
+1w
+buer
+access
+1kb
+congured
+eviction
+accuracy
+policy
+signicant
+spec95
+benchmark
+exhibit
+eect
+disparity
+ratios
+optimally
+accessing
+bypass
+l2
+subsystem
+die
+allocate
+persistent
+erfectcache
+rcrs
+masking
+replaces
+missed
+mult
+loaded
+exhibiting
+brought
+traces
+16kb
+ooo
+hit
+near
+caching
+eectiveness
+bypassing
+references
+bus
+cong
+tagged
+rst
+timing
+swapped
+wagner
+00
+sahuquillo
+congure
+penalty
+instructions
+32b
+mru
+poor
+branch
+word
+latencies
+blocking
+div
+contents
+accuracies
+petit
+dual
+simulators
+cycle
+buers
+2k
+millions
+uenced
+aiding
+oating
+base
+evaluations
+prefetching
+managing
+trac
+suboptimal
+fully
+equidistant
+ict
+disparate
+biased
+prefetched
+replaced
+8kb
+eric
+ve
+bit
+pseudo opt
+multi lateral
+the implementable
+implementable schemes
+the cache
+and pcs
+nts and
+reuse information
+the nts
+lateral cache
+direct mapped
+lateral schemes
+the du
+cache structure
+the mat
+block allocation
+tour lengths
+opt and
+and pseudo
+cache schemes
+incoming block
+cache management
+miss ratio
+b cache
+block is
+block usage
+actual usage
+replacement decisions
+cache b
+cache a
+allocation decisions
+the block
+in cache
+the l1
+opt conguration
+eective address
+placed in
+a cache
+usage characteristics
+of blocks
+the opt
+mapped cache
+l1 cache
+blocks in
+opt scheme
+fully associative
+single structure
+a block
+the performance
+average data
+cache is
+mat nts
+and nts
+nts pcs
+pcs cache
+cache conguration
+of nts
+placement decisions
+performance of
+gcc go
+the pcs
+performance dierence
+b caches
+usage accuracy
+memory accessing
+compress gcc
+of cache
+data cache
+cache the
+cache and
+selective cache
+mat and
+perfect cache
+lateral caches
+base cache
+active management
+structure caches
+nts cache
+the pseudo
+management scheme
+cache structures
+block in
+the incoming
+cache by
+li perl
+in pseudo
+schemes to
+and replacement
+tours are
+the macroblock
+accessed block
+cache in
+is placed
+access time
+opt is
+main cache
+active block
+associative cache
+prediction accuracy
+management schemes
+associativity of
+accessing instruction
+cache congurations
+lateral scheme
+next tour
+nts scheme
+the mlcache
+du entry
+in nts
+average tour
+pcs schemes
+go li
+the a
+the multi
+cache block
+of pseudo
+miss ratios
+data access
+delayed hits
+an accessed
+cache simulator
+of reuse
+the blocks
+the tour
+optimal replacement
+block s
+program counter
+blocks that
+s usage
+counter value
+active cache
+opt schemes
+block replacement
+farthest in
+dual cache
+reuse behavior
+optimally managed
+tns and
+larger direct
+between pseudo
+managed caches
+cache penalty
+latency masking
+tours in
+a tour
+pcs and
+blocks are
+near optimal
+the miss
+the associativity
+relative to
+the prediction
+16k direct
+in go
+the tours
+du the
+replaced block
+total 0
+in compress
+next referenced
+32k direct
+associative b
+exploiting reuse
+of tours
+missed block
+the dierence
+single cache
+dierence between
+of opt
+extended set
+decisions based
+management of
+in l1
+future knowledge
+its counter
+mat is
+managed cache
+these schemes
+the eective
+memory subsystem
+the instruction
+schemes may
+resident in
+cache data
+of mat
+data store
+persistence in
+t nt
+tour length
+cache if
+allocation and
+replacement policy
+cache blocks
+opt the
+way associative
+mapped a
+three benchmarks
+entry in
+entry is
+dierence in
+the implementable schemes
+nts and pcs
+multi lateral cache
+and pseudo opt
+multi lateral schemes
+opt and pseudo
+the pseudo opt
+the multi lateral
+the incoming block
+in the du
+in the cache
+average data access
+direct mapped cache
+in pseudo opt
+of pseudo opt
+the performance of
+the opt and
+in cache a
+is placed in
+pseudo opt conguration
+a multi lateral
+cache management scheme
+the performance dierence
+in the implementable
+and b caches
+of the implementable
+block is placed
+data access time
+placed in the
+the average data
+the l1 cache
+compress gcc go
+single structure caches
+active block allocation
+l1 cache structure
+pseudo opt scheme
+actual usage accuracy
+incoming block is
+the a cache
+multi lateral caches
+the nts cache
+pseudo opt is
+the cache structure
+in the pseudo
+an accessed block
+the actual usage
+allocation and replacement
+the nts scheme
+actual usage of
+the nts and
+pseudo opt the
+gcc go li
+pseudo opt and
+block allocation decisions
+block s usage
+memory accessing instruction
+multi lateral scheme
+mat nts and
+and pcs schemes
+of reuse information
+implementable schemes to
+the eective address
+the a and
+of the cache
+of cache a
+fully associative cache
+implementable schemes and
+pseudo opt schemes
+reuse information in
+larger direct mapped
+associative b cache
+cache a and
+the pcs cache
+between the implementable
+mapped a cache
+active cache management
+du entry is
+the selective cache
+the dual cache
+lateral cache schemes
+block allocation and
+and replacement decisions
+eective address of
+its next tour
+farthest in the
+go li perl
+direct mapped a
+mat and nts
+the average tour
+the base cache
+between pseudo opt
+in the smaller
+blocks in the
+in the a
+entry in the
+a block is
+decisions based on
+of the l1
+in cache b
+16k direct mapped
+32k direct mapped
+than the dierence
+performance dierence between
+a and b
+of the block
+the associativity of
+performance of the
+block in cache
+in the mat
+the main cache
+processor and memory
+of blocks in
+counter value of
+the block is
+a direct mapped
+blocks that are
+2 way associative
+associativity of the
+performance of a
+shown to perform
+b caches are
+single direct mapped
+block replacement decisions
+hydro2d li perl
+the smaller b
+the evicted block
+nts tns and
+in the nts
+the tour lengths
+average tour length
+non blocking caches
+on the eective
+tour analysis for
+performance of nts
+near optimally managed
+perform active block
+the block allocation
+for pseudo opt
+t and nt
+relative cache eects
+the perl benchmark
+li perl su2cor
+cache a the
+structure and operation
+except for li
+16k 2 way
+con icting block
+placement decisions based
+the b cache
+pseudo opt we
+the du is
+the eight benchmarks
+data path between
+their block allocation
+to the implementable
+smaller b cache
+the nite cache
+using reuse information
+cache eects ratio
+nite cache penalty
+replacement decisions and
+go hydro2d li
+actual block usage
+belady s min
+of nts and
+nts or pcs
+mat and pcs
+implementable schemes may
+performance of pseudo
+opt pseudo opt
+single structure cache
+the memory accessing
+ntns nts tns
+managed cache structure
+active management of
+referenced farthest in
+cache management schemes
+in nts and
+higher miss ratio
+perl su2cor swim
+temporal blocks are
+t nt bit
+next referenced farthest
+block persistence in
+reference behavior of
+gcc go hydro2d
+tns and ts
+near optimal scheme
+of the blocks
+relative to a
+resident in the
+the dierence in
+the block in
+to the cache
+in the future
+compare the performance
+the miss ratio
+it is placed
+the blocks in
+associativity of a

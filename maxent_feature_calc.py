@@ -248,13 +248,16 @@ def main():
 	test_data = parse_test_data(candidatesPath)
 	train_featureset = calc_train_features(train_data)
 	test_featureset = calc_test_features(test_data)
-	print test_featureset
+	#print test_featureset
 	
 	#MAXENT CHANGE
 	encoding = maxent.TypedMaxentFeatureEncoding.train(train_featureset, count_cutoff=3, alwayson_features=True)#MAXENT CHANGE
+	print ("attempting describe:")
+	print(encoding._mapping)
 	classifier = maxent.MaxentClassifier.train(train_featureset, algorithm='iis', bernoulli=False, encoding=encoding, trace=3)#MAXENT CHANGE
-	
-	run_classifier(classifier, test_featureset)
+	classifier.show_most_informative_features(n=20, show='all')
+	#classifier.explain(train_featureset, columns=4)
+	#run_classifier(classifier, test_featureset)
 
 
 if __name__ == "__main__":

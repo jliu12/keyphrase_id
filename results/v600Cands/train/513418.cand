@@ -1,0 +1,600 @@
+message
+bus
+utilisation
+battery
+messages
+ms
+82527
+sporadic
+queuing
+jitter
+priority
+station
+controller
+identifier
+125kbit
+delaunay
+500kbit
+slot
+stations
+queued
+kopetz
+signals
+transmit
+brakes
+slots
+bytes
+sae
+traction
+10ms
+transmitting
+benchmark
+latency
+recessive
+stuffing
+sent
+period
+arbitration
+driver
+scheduling
+bits
+piggybacking
+brake
+signal
+mesh
+20ms
+host
+contactor
+stuff
+rtr
+1mbit
+bit
+overheads
+transmission
+piggyback
+automotive
+recovery
+schedulable
+identifiers
+latencies
+cpu
+behaviour
+breakdown
+5ms
+subsystem
+interrupt
+1000
+response
+kbit
+emptive
+polarity
+polling
+ttp
+task
+trans
+motor
+250kbit
+chernikov
+82c200
+minster
+2032
+chrisochoides
+periodic
+subsystems
+piggybacked
+urgent
+transmits
+deadlines
+timing
+deadline
+arrival
+utilisations
+andrey
+stuffed
+intel
+server
+carrier
+priorities
+torque
+periodically
+idle
+50
+sporadically
+philips
+receive
+transmitted
+collisions
+protocol
+met
+contents
+broadcast
+termed
+latest
+worst
+road
+queue
+waits
+sending
+submesh
+unschedulable
+controllers
+rate
+contention
+silence
+york
+invoked
+errors
+fault
+ethernet
+emergency
+inverter
+collision
+temp
+crc
+nikos
+periods
+concurrently
+vehicles
+mbit
+516
+tolerate
+speed
+field
+whilst
+soft
+firstly
+send
+remote
+frame
+meshes
+pressure
+ins
+voltage
+triangulations
+error
+statically
+processor
+monitoring
+peak
+refinement
+infrequently
+sensible
+dpram
+generatinn
+clutches
+contentless
+xiaoning
+blagojevic
+antonopoulos
+messsages
+circumradius
+sychronised
+lubrication
+intermission
+ngr
+malfunction
+neccesarily
+transaxle
+depressions
+queuings
+implictly
+16526
+empting
+130t
+spaghetti
+dedicated
+meet
+byte
+buses
+car
+pre
+guaranteed
+duration
+tasks
+event
+hard
+longest
+highest
+100
+vehicle
+destination
+the bus
+v c
+the message
+50 0
+s 20
+ms ms
+queuing jitter
+20 0
+bus utilisation
+0 battery
+battery v
+1000 0
+priority message
+message m
+bytes ms
+the queuing
+r 500kbit
+ms r
+125kbit s
+given message
+host cpu
+hard real
+a message
+can message
+500kbit s
+message is
+real time
+bus speed
+breakdown utilisation
+traction battery
+the 82527
+latency requirements
+bus is
+error recovery
+0 s
+sporadic messages
+utilisation is
+each station
+100 0
+the benchmark
+server message
+the sae
+message utilisation
+sporadic signals
+the identifier
+case response
+0 v
+processor scheduling
+fixed priority
+can is
+the can
+can bus
+intel 82527
+signal n
+0 p
+to transmit
+following table
+time message
+jitter of
+time messages
+of 10ms
+5 50
+a period
+given hard
+can controller
+bit stuffing
+sae benchmark
+0 driver
+bus controller
+broadcast bus
+driver v
+priority messages
+be queued
+n bytes
+s r
+of can
+message and
+response time
+p 1000
+of 20ms
+analysis to
+period of
+mesh generation
+the host
+lower priority
+8 0
+scheduling analysis
+identifier field
+error be
+high rate
+r r
+m c
+transmitting the
+these messages
+the arbitration
+than 14
+the task
+a sporadic
+8 50
+rtr messages
+c subsystem
+utilisation bus
+82527 can
+utilisation a
+of 125kbit
+recessive bit
+parallel delaunay
+trans v
+slot 15
+500 kbit
+delaunay mesh
+a recessive
+1mbit s
+battery battery
+worst case
+1 0
+highest priority
+a station
+task could
+the system
+p 100
+the overheads
+message can
+point links
+station waits
+14 message
+message identifier
+n error
+can protocol
+delaunay refinement
+speed message
+i m
+messages with
+of messages
+table gives
+priority scheduling
+sent as
+c high
+peak load
+controller area
+station transmits
+8 bytes
+bits for
+0 8
+a can
+the intel
+transmit the
+on can
+kbit s
+message latencies
+t error
+5 0
+higher priority
+the breakdown
+0 20
+all stations
+case latency
+to piggyback
+message types
+pre emptive
+messages have
+latency of
+time taken
+soft real
+is queued
+message contents
+the worst
+the period
+w m
+a 500
+the station
+controller can
+are met
+to receive
+is termed
+longest time
+an interrupt
+bit of
+the messages
+the controller
+message with
+bounded size
+of duration
+messages in
+messages to
+second task
+the analysis
+messages and
+a task
+bus to
+transmits a
+periodic ms
+the piggybacking
+pressure 8
+14 slots
+are piggybacked
+failed message
+the philips
+sender task
+expected upper
+50 0 s
+0 s 20
+s 20 0
+0 battery v
+0 v c
+battery v c
+ms ms r
+bytes ms ms
+r 500kbit s
+500kbit s r
+20 0 v
+the queuing jitter
+a given message
+hard real time
+i m c
+ms ms ms
+r r 500kbit
+5 50 0
+worst case response
+real time messages
+the host cpu
+ms r r
+0 5 50
+the bus utilisation
+signal n bytes
+n bytes ms
+50 0 20
+case response time
+of the message
+the intel 82527
+real time message
+the following table
+p 1000 0
+the identifier field
+1000 0 p
+given hard real
+the sae benchmark
+p 100 0
+a can message
+the breakdown utilisation
+queuing jitter of
+0 p 100
+driver v c
+0 driver v
+more than 14
+20 0 driver
+0 p 1000
+100 0 battery
+the bus is
+the message is
+given message m
+highest priority message
+100 0 p
+following table gives
+to the bus
+0 20 0
+of a given
+on the bus
+of the identifier
+a period of
+message m and
+the highest priority
+in an interval
+response time of
+that the message
+speed of 125kbit
+interval of duration
+bus speed of
+a 500 kbit
+message utilisation bus
+the message identifier
+trans v c
+speed message utilisation
+a recessive bit
+0 8 50
+utilisation bus utilisation
+the bus controller
+station transmits a
+14 message types
+a server message
+c high rate
+of 125kbit s
+v c subsystem
+500 kbit s
+a given hard
+1000 0 battery
+than 14 message
+lower priority message
+utilisation a 500
+the peak load
+bus speed message
+bus utilisation a
+table gives the
+with a period
+fixed priority scheduling
+on the host
+the worst case
+queue the message
+each station waits
+8 50 0
+monitoring the bus
+c i m
+the can protocol
+controller area network
+to point links
+jitter of a
+case latency of
+1 0 5
+requirements are met
+lower priority messages
+task could be
+set of messages
+the v c
+the error recovery
+message can be
+r r r
+the message contents
+worst case latency
+v c i
+soft real time
+the period of
+of message m
+be invoked by
+the second task
+the longest time
+to transmit the
+of the task
+the time taken
+in the system
+bit of the
+message is not
+of hard real
+to be sent
+a number of
+and gives the
+a message is
+message with a
+rate of 1
+of memory would
+minster york ac
+expected upper bound
+to bit stuffing
+of duration t
+c traction battery
+the sender task
+inherits a period
+dedicated receive slot
+battery ground fault
+scheduling analysis to
+v c battery
+20 0 i
+can message the
+memory would be
+1mbit s 1
+most 29 bits
+to the sae
+of 1 bit
+in the 82527
+number of soft
+fails to meet
+voltage 8 0
+53 messages some
+the expected upper
+going research at
+1 1000 0
+by error error
+at a bus
+8 trans v
+82527 can controller
+system bus speed
+to re transmit
+carrier sense broadcast
+server message with
+ms ms periodic
+until the bus
+research at york
+can message is
+all latency requirements
+v c traction
+kbit s 3
+latency requirements are
+some event and
+battery current 8
+current 8 0
+0 6 50
+traction battery temp
+breakdown utilisation of
+signal description size
+is the queuing
+message utilisation is
+let n error
+a given can
+sporadic signals the
+traction battery ground
+of 10ms and
+timing behaviour of
+periodic ms from
+bits ms ms
+which to transmit
+identifier and hence

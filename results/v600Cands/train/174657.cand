@@ -1,0 +1,600 @@
+cue
+lag
+writer
+reader
+seq
+rr
+atomic
+wr
+alt
+register
+precedes
+obligation
+read
+readers
+writes
+rw
+false
+valtype
+registers
+precedence
+cued
+assertion
+event
+uncertainty
+contrapositive
+old
+reads
+b0
+fby
+interval
+appearing
+falsify
+lemma
+oe
+correctness
+lemmas
+wait
+concurrent
+history
+b4
+multireader
+establishes
+ws
+lamport
+statement
+fdefinition
+linearizability
+proximity
+precede
+od
+elusive
+construction
+prior
+events
+assertions
+safe
+write
+integrity
+peterson
+iff
+vitnyi
+dispose
+phi
+constructions
+conflicts
+disjunct
+predicate
+shared
+determines
+shorthand
+sm
+return
+returns
+determinesg
+appendixg
+hread
+tautology
+b3
+inductive
+meets
+jacm
+rs
+atomicity
+tromp
+transitivity
+remainder
+bits
+consequent
+invariant
+var
+histories
+assigns
+constructing
+bit
+predecessor
+irreflexive
+b2
+executing
+consequently
+indices
+initialization
+returned
+informal
+pass
+appendix
+operation
+proofs
+interleavings
+serializability
+consecutive
+b1
+patience
+relates
+val
+4g
+a0
+modulo
+paul
+concurrently
+axioms
+revisited
+enabled
+obligations
+distinguishes
+reading
+myampersandldquo
+former
+equals
+p0
+misra
+asynchronous
+loop
+writers
+binding
+8i
+declared
+numbered
+historyg
+flemmas
+nonatomic
+6mn
+planting
+19m
+vidyasankar
+uncapitalized
+writersmyampersandrdquo
+rrtype
+fpredicate
+ftransitivity
+readersmyampersandrdquo
+otherwiseobserve
+26m
+juncture
+hwrite
+asymptotically
+predicates
+processes
+lengthy
+begun
+arise
+anderson
+informally
+varaibles
+ffrom
+papatriantafilou
+rida
+neiger
+philippas
+tsigas
+1231
+bazzi
+vitanyi
+invocations
+writing
+validity
+jik
+spinning
+inquire
+orli
+oeg
+virtue
+statements
+begin
+a2
+127
+exclusion
+informed
+considers
+ith
+haldar
+merritt
+panconesi
+attie
+explanation
+waarts
+9i
+afek
+traceable
+1274
+taubenfeld
+cue w
+reader i
+holds at
+rr i
+state t
+f lag
+w after
+the writer
+at state
+seq i
+of reader
+write operation
+reader j
+w at
+for reader
+after 4
+at 4
+4 holds
+r y
+at t
+uncertainty interval
+is false
+atomic register
+w determines
+x seq
+lag is
+single reader
+that cue
+4 cue
+state prior
+proof obligation
+value appearing
+i j
+after 1
+precedes s
+y done
+before 4
+s y
+i holds
+in rr
+wr i
+atomic registers
+reader atomic
+read operation
+operation of
+the event
+because r
+false at
+single writer
+written by
+m reader
+r precedes
+by reader
+operation w
+w before
+determines r
+w seq
+the uncertainty
+program for
+operation r
+because w
+that w
+following assertion
+k i
+r writes
+wait free
+w i
+r p
+an operation
+5 j
+writer and
+return y
+writer single
+contrapositive of
+oe r
+at u
+old conflicts
+to reader
+is true
+multiple reader
+our proof
+prior to
+state u
+assertion holds
+then old
+a construction
+be any
+new value
+register from
+construction is
+w holds
+lag rr
+rw i
+reader register
+reader registers
+w alt
+the construction
+state following
+the contrapositive
+new then
+event r
+the state
+the proof
+the program
+p 0
+4 l
+done is
+and s
+any operation
+1 i
+j at
+not precede
+to wr
+that r
+writes to
+all states
+this interval
+read by
+writes the
+k holds
+sequence number
+j holds
+assumption w
+determines both
+each reader
+appearing in
+r 5
+reader k
+returns valtype
+obligation 2
+y old
+initial write
+constructed register
+writer writes
+reader construction
+fby definition
+y seq
+rr k
+reader r
+of precedence
+true at
+only statement
+p k
+w k
+therefore by
+4 i
+the readers
+s p
+obligation is
+r x
+thus by
+of cue
+seq 1
+that write
+which w
+read operations
+operation and
+shared single
+safe bits
+reader safe
+event prior
+possibly falsify
+lag holds
+from wr
+from reader
+determines s
+y alt
+true establishes
+read y
+y new
+this implies
+the value
+shared variables
+a write
+a read
+w q
+interval of
+old new
+our construction
+bit atomic
+establishes our
+value new
+but executing
+the constructed
+j f
+w l
+any write
+because k
+this lemma
+definition of
+from single
+second pass
+proof of
+proof assume
+w 1
+and reader
+the elusive
+elusive atomic
+therefore w
+return the
+at state t
+w at 4
+rr i j
+holds at state
+w after 4
+holds at t
+4 holds at
+of reader i
+cue w i
+program for reader
+i holds at
+the uncertainty interval
+w after 1
+operation of reader
+at 4 holds
+the state prior
+f lag is
+x seq i
+at 4 cue
+reader i and
+4 cue w
+that cue w
+state prior to
+in rr i
+appearing in rr
+the value appearing
+value appearing in
+the program for
+holds at u
+false at t
+r x seq
+after 1 i
+w before 4
+our proof obligation
+before 4 holds
+w i j
+is false at
+r p k
+write operation w
+after 4 l
+w 1 i
+lag is false
+determines r y
+j at state
+cue w k
+uncertainty interval of
+w seq i
+y done is
+and s y
+by the program
+i j at
+the writer and
+by the writer
+at state u
+by the contrapositive
+contrapositive of lemma
+by reader i
+r precedes s
+w determines r
+single writer single
+cue w holds
+j f lag
+the state following
+w holds at
+be any operation
+because w determines
+cue w l
+during the uncertainty
+an operation of
+the new value
+writer single reader
+the contrapositive of
+following assertion holds
+any operation of
+the following assertion
+then old conflicts
+w l i
+seq i 6
+r 5 j
+k i holds
+that w at
+new then old
+r writes the
+w k i
+i j f
+at the state
+is written by
+definition of p
+j is false
+to the event
+a write operation
+y is determined
+of the writer
+the event r
+writes the value
+a read operation
+write operation and
+operation r of
+show that cue
+proof of precedence
+r y done
+1 i holds
+r of reader
+of reader j
+w determines both
+r f lag
+because r writes
+i j is
+read operation of
+prior to the
+of a construction
+r 2 k
+a multiple reader
+does not precede
+w q i
+j holds at
+1 i oe
+p 0 is
+p k holds
+i oe r
+r y is
+some k i
+oe r 1
+that r p
+this implies that
+definition of oe
+after 4 i
+fby definition of
+the constructed register
+that write operation
+reader i to
+assumption w at
+the writer writes
+only statement that
+an m reader
+reader atomic register
+any write operation
+for reader i
+proof obligation 2
+writer writes to
+the only statement
+done is false
+the proof assume
+assertion holds at
+proof obligation is
+is true at
+s p 0
+implies that r
+proof assume that
+holds at the
+the write operation
+of the construction
+r y and
+reader safe bits
+return y new
+determines s y
+event r 2
+y seq i
+interval of w
+m reader register
+the value new
+s f lag
+both s x
+from single reader
+the event prior
+determines both s
+else return y
+state t is
+return the new
+from reader i
+but executing this
+event prior to
+return y old
+shared single writer
+be any write
+because r p
+can possibly falsify
+register from single
+this statement when
+initial write operation
+after 1 k
+lag rr i
+single reader safe
+multiple reader atomic
+atomic register from
+is true establishes
+reader atomic registers
+f lag holds
+all states in
+r and s
+of the proof
+at all states
+0 is true
+obligation is to
+by the definition
+i is true
+be an operation
+i 6 r
+the proof of
+r p 0

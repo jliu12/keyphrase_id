@@ -1,0 +1,600 @@
+uzawa
+inexact
+saddle
+preconditioned
+qb
+uid
+qa
+bpid
+preconditioners
+stokes
+preconditioner
+ustd
+pcg
+convergence
+inner
+mixed
+theta10
+nonlinear
+multigrid
+omega
+conjugate
+discretization
+norm
+delta
+umg
+operator
+converges
+eigenvalue
+gradient
+elliptic
+ffi
+definite
+norms
+fl
+iterations
+elasticity
+sdm
+fx
+mesh
+simplices
+iteration
+bpmg
+iterative
+symmetric
+mathematics
+eigenvalues
+spaces
+ba
+indefinite
+preconditioning
+ssume
+discretizations
+lagrange
+inequality
+errors
+inversion
+gram
+action
+tends
+psi
+krylov
+gamma1
+ae
+pressure
+smoothing
+iterate
+inverse
+conditioned
+porous
+deltak
+dirichlet
+product
+gamma12
+arising
+gamma4
+deltac
+monotone
+scaled
+eigenvector
+approximation
+nonzero
+solvability
+converge
+variational
+equations
+multiplier
+cui
+nonnegative
+velocity
+cornell
+shall
+remark
+reformulated
+rate
+reformulation
+invert
+div
+11973
+76ch00016
+9007185
+preconditoner
+qiya
+5q
+hurwicz
+mixtes
+ac02
+incompressibles
+givesb
+mingrong
+velte
+0048
+tanguy
+zulehner
+yanqiu
+gammaffii
+queck
+navier
+replaces
+college
+schwarz
+numerical
+piecewise
+adjoint
+differential
+government
+je
+square
+tioners
+ematics
+enes
+pitman
+ladyzhenskaya
+kunoth
+upton
+royalty
+yeilds
+products
+approximate
+seidel
+vanish
+station
+2n
+sweep
+completes
+au
+ska
+finis
+brookhaven
+authored
+homog
+limites
+subspaces
+iteratively
+elementary
+lems
+gamma3
+discontinuous
+choleski
+linearizations
+todays
+multipliers
+gauss
+suitably
+unstable
+ewing
+uct
+divergences
+substructuring
+probl
+109
+operators
+inequalities
+vergence
+accordingly
+fluid
+avoided
+brezzi
+license
+pressures
+bertrand
+raviart
+angela
+valued
+convergent
+department
+babu
+permeability
+14853
+experimentally
+media
+restrictive
+elman
+precondi
+emes
+properly
+involving
+638
+erators
+dans
+texas
+inexact uzawa
+uzawa algorithm
+the inexact
+saddle point
+point problems
+h 1
+mixed finite
+finite element
+inner product
+for saddle
+delta delta
+a gamma1
+uzawa method
+preconditioned uzawa
+h 2
+the preconditioned
+uzawa iteration
+conjugate gradient
+stokes equations
+the nonlinear
+delta inner
+the operator
+preconditioners are
+first equation
+action of
+uid and
+uzawa for
+qb is
+nonlinear uzawa
+uzawa methods
+q a
+uzawa algorithms
+gradient algorithm
+element discretization
+the convergence
+preconditioned conjugate
+space h
+table errors
+the action
+positive definite
+discretization of
+the uzawa
+of convergence
+the mixed
+elliptic problems
+m 1
+a a
+eigenvalue of
+a preconditioner
+by 3
+symmetric with
+table 7
+the norm
+symmetric and
+the mesh
+on omega
+of second
+preconditioner qb
+uid ustd
+and bpid
+in uid
+iterations uid
+properly scaled
+of uid
+operator which
+largest eigenvalue
+rate of
+second order
+the inner
+and positive
+let fx
+the stokes
+is symmetric
+fx be
+effective preconditioners
+1 theta10
+elementary to
+7 1
+of 5
+the space
+on h
+approximate inverse
+mesh size
+2 omega
+ffl i
+theta h
+of m
+and mixed
+of h
+algorithm 2
+the errors
+parameter h
+it follows
+solution pair
+order elliptic
+fx y
+of pcg
+equation of
+b t
+l 2
+convergence rate
+inequality above
+preconditioners for
+the delta
+operator a
+the preconditioner
+that 2
+the reported
+inner products
+well conditioned
+numerical mathematics
+ae is
+errors in
+domain decomposition
+applied numerical
+into h
+is elementary
+by 7
+these norms
+y one
+the solution
+where ae
+tends to
+method converges
+indefinite systems
+convergence factor
+omega gamma
+eigenvalues of
+2 4
+hold and
+v cycle
+mathematics v
+satisfy 2
+the rate
+one sdm
+outer uzawa
+abstract saddle
+rate ffi
+gram matrices
+h 200
+symmetric operator
+product qa
+mixed approximation
+monotone error
+bpid iterations
+converge provided
+linear symmetric
+nonlinear approximate
+for 109
+bpid by
+au u
+deltac inner
+preconditioner qa
+ustd y
+that qb
+5 theta10
+bpid 1
+solving indefinite
+product its
+product data
+establish experimentally
+order problems
+sdm step
+theta10 gamma12
+unique solvability
+i converge
+delta deltac
+gamma1 coupled
+abstract inexact
+per inexact
+l projection
+dirichlet s
+and ustd
+reported error
+consequently m
+nonlinear process
+109 bpid
+preconditioned by
+e x
+convergence of
+iteration for
+guaranteed by
+pair for
+norm on
+the inversion
+inverse is
+vector valued
+a symmetric
+results from
+a norm
+one independently
+ae given
+approximation subspaces
+definite operator
+good preconditioners
+when effective
+ffi satisfy
+ssume that
+theta10 gamma3
+multigrid with
+the inexact uzawa
+inexact uzawa algorithm
+saddle point problems
+mixed finite element
+of the inexact
+for saddle point
+preconditioned uzawa algorithm
+inexact uzawa method
+the preconditioned uzawa
+the space h
+of a gamma1
+the action of
+delta inner product
+delta delta inner
+action of a
+the first equation
+of m 1
+element discretization of
+by 3 7
+rate of convergence
+conjugate gradient algorithm
+finite element discretization
+symmetric and positive
+eigenvalues of m
+table errors in
+inexact uzawa methods
+uzawa for the
+algorithm for saddle
+uzawa algorithm and
+by 7 1
+uzawa algorithm is
+preconditioned conjugate gradient
+and positive definite
+the inner product
+the delta delta
+uzawa algorithm for
+on h 1
+that 2 3
+l 2 omega
+symmetric with respect
+1 theta h
+h 1 theta
+theta h 2
+of second order
+order elliptic problems
+first equation of
+the largest eigenvalue
+to the inner
+the operator which
+inexact uzawa iteration
+nonlinear uzawa algorithm
+let fx y
+fx be defined
+errors in uid
+y g be
+in these norms
+the solution pair
+the nonlinear uzawa
+operator which results
+uzawa algorithm in
+pair for 1
+of q a
+is symmetric with
+which results from
+the mesh size
+to the solution
+independent of h
+in table 7
+that the inexact
+space h 2
+away from one
+provided in terms
+inexact uzawa algorithms
+solution pair for
+is elementary to
+by the inexact
+it is elementary
+evaluation of q
+where ae is
+largest eigenvalue of
+satisfy 2 4
+equation of 3
+and mixed finite
+h 1 d
+fx y g
+and that fl
+discretization of second
+respect to the
+hold and that
+tends to zero
+numerical mathematics v
+applied numerical mathematics
+with i and
+table 7 1
+it follows from
+for the sequence
+the stokes equations
+the convergence factor
+the inversion of
+a gamma1 is
+bounds for the
+the preconditioned conjugate
+of the mesh
+2 3 and
+for the preconditioned
+problem with the
+2 h 1
+a a a
+the rate of
+for 1 1
+the operator a
+with respect to
+assume that qb
+from mixed finite
+step per inexact
+uzawa method converges
+one sdm step
+indefinite systems arising
+respectively let fx
+uzawa algorithm as
+algorithm and set
+linear symmetric and
+applying the conjugate
+when effective preconditioners
+z for 109
+l projection of
+y one sdm
+that qb is
+gamma1 coupled with
+to delta delta
+a gamma1 coupled
+of uid and
+ba is not
+200 iterations uid
+gamma1 is replaced
+y i converge
+inner product data
+in uid and
+table 7 4
+b delta deltac
+a preconditioner qb
+for 109 bpid
+the outer uzawa
+experiments involving the
+f into h
+abstract saddle point
+dirichlet s problem
+holds with fl
+iterations uid ustd
+uid and ustd
+arising from mixed
+sdm step per
+second order problems
+iteration the inexact
+vanish on omega
+investigate the stability
+h 200 iterations
+monotone error behavior
+uzawa methods are
+error behavior in
+and bpid by
+ae given by
+into h 2
+ffi satisfy 2
+discretization parameter h
+5 with i
+one independently of
+operator a gamma1
+elementary to see
+the reported error
+to solving indefinite
+abstract inexact uzawa
+bpid by 7
+that fl and
+converge provided that
+uid and bpid
+point problems arising
+numerical experiments involving
+establish experimentally the
+preconditioners are employed
+and ffi satisfy
+nonlinear approximate inverse
+from one independently
+the positive eigenvalues
+a model application
+delta deltac inner
+preconditioners for saddle
+left hand block
+iterations of pcg
+convergence of uid
+uzawa algorithm defined
+uid ustd y
+uzawa algorithms are
+2 1 theta10
+point problems applied
+to establish experimentally
+effective preconditioners are
+iteration for many
+solving indefinite systems
+a symmetric operator

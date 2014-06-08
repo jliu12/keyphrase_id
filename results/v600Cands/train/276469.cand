@@ -1,0 +1,600 @@
+psitc
+newton
+timestep
+jacobian
+krylov
+ffi
+midrange
+nonlinear
+steady
+fffi
+inexact
+ser
+continuation
+keyes
+convergence
+ode
+transient
+euler
+pseudo
+defect
+timesteps
+iterate
+ptc
+tte
+terminal
+residual
+echet
+chord
+dae
+truncation
+unstructured
+discretization
+schwarz
+stagnate
+iteration
+phase
+lipschitz
+corrector
+jjf
+phases
+kaushik
+solver
+differential
+correction
+switchover
+navier
+fx
+cfd
+stokes
+jacobians
+preconditioning
+kf
+preconditioner
+airfoil
+icase
+gropp
+globalization
+aerodynamic
+8205
+fr
+kelley
+superlinear
+norm
+residuals
+inviscid
+inexactly
+solvers
+pde
+trajectory
+landing
+dinesh
+cfl
+upwind
+iterations
+ball
+sufficiently
+equations
+outset
+risks
+nonsingular
+grid
+dynamics
+cell
+discretized
+economical
+temporal
+physics
+conditioned
+cdrom
+incompressible
+23681
+subiteration
+curfman
+mcinnes
+subiterations
+132c
+pernice
+shamanskii
+9527169
+23519
+vode
+lsode
+globalized
+mcmullan
+19480
+polyalgorithmic
+equilibrates
+momentary
+stumbles
+tidriri
+algebraic
+nasa
+updating
+stability
+volumes
+max
+radius
+item
+numerically
+ffl
+integrals
+polished
+logan
+odu
+shadid
+nondimensionalized
+fallen
+misled
+nagi
+refactor
+3and
+nas1
+howle
+ivp
+retreats
+mcrae
+1692
+subsonic
+trust
+preconditioned
+quadratic
+inf
+diagonal
+root
+reevaluate
+hampton
+multicomponent
+3is
+grind
+tuminaro
+knoll
+9321938
+0162
+coffey
+mesh
+attack
+minima
+termination
+gamma1and
+practiced
+homer
+reassuring
+nance
+numerics
+dassl
+lois
+unprotected
+norfolk
+076
+inversion
+predictor
+switched
+elliptic
+blocksize
+rosenbrock
+kek
+27695
+exogenous
+heats
+thoughtful
+chords
+fig
+matrix
+iterative
+dominion
+ncsu
+exhaustion
+transonic
+019
+glitches
+organizers
+diffusive
+policy
+numerical
+fluid
+accurate
+update
+hybrid
+everywhere
+residence
+let assumption
+fffi n
+transient continuation
+pseudo transient
+1 hold
+n g
+steady state
+let fffi
+assumption 1
+hold let
+ffi max
+defect correction
+terminal phase
+assumption 2
+newton krylov
+the psitc
+the midrange
+fx n
+the newton
+inexact newton
+of psitc
+pseudo timestep
+temporal truncation
+ffi n
+state solution
+the timestep
+in x
+the jacobian
+initial phase
+the steady
+ffl 3
+the iteration
+ffl 1
+the nonlinear
+nonlinear equations
+to steady
+initial iterate
+physical transient
+e keyes
+midrange phase
+every timestep
+residual norm
+g be
+f 0
+1 8
+1 6
+krylov methods
+fr echet
+of newton
+truncation error
+the terminal
+kf x
+radius ffl
+krylov schwarz
+hold assume
+solution of
+differential algebraic
+the ode
+newton step
+are ffl
+1 1
+a newton
+true jacobian
+the solution
+linear convergence
+newton s
+if ffi
+f x
+by 1
+time step
+the chord
+the residual
+be given
+newton method
+convergence of
+order discretization
+x 2
+item 1
+unstructured grid
+iterate is
+stokes equations
+ffi is
+navier stokes
+17 25
+an accurate
+sufficiently small
+the euler
+6 or
+small and
+ffi 0
+lemma 2
+an unstructured
+stagnate at
+euler code
+control volumes
+state residual
+pde structure
+psitc as
+timestep ffi
+k kaushik
+ode dae
+switched evolution
+four element
+d gropp
+iteration phases
+often stagnate
+standard globalization
+krylov vectors
+psitc iteration
+residual reduction
+globalization strategies
+inexact form
+psitc is
+relaxation ser
+chord method
+and dae
+nonlinear defect
+ffl about
+convergence domain
+free newton
+switchover to
+evolution relaxation
+of ptc
+triangular cells
+landing configuration
+mesh cfd
+or trust
+psitc technique
+q quadratic
+if fffi
+airfoil in
+euler equations
+an inexact
+2 1
+part 3
+newton iteration
+ffi the
+the initial
+either 1
+of nonlinear
+s method
+of fx
+of assumption
+12 17
+accurate solution
+let ffi
+the timesteps
+element airfoil
+large ffi
+newton convergence
+jacobian information
+allow ffi
+q linearly
+cfd application
+state form
+timesteps are
+nonlinear residual
+fig 4
+the pseudo
+by either
+discretization of
+iteration and
+initial value
+the trajectory
+3 inexact
+phase changes
+timestep in
+be lipschitz
+risks in
+near field
+q factor
+phase here
+convergence tolerance
+state solutions
+conclusions of
+the convergence
+theorem 2
+cfl number
+far field
+ode and
+equations iterative
+methods often
+as line
+here ffi
+matrix free
+x n
+equation for
+the dynamics
+given by
+value problems
+echet derivative
+additive schwarz
+scaling matrix
+increase if
+physics v
+0 x
+or 1
+differential equations
+solution this
+computational physics
+fffi n g
+assumption 1 1
+g be given
+assumption 2 1
+pseudo transient continuation
+n g be
+let fffi n
+1 hold let
+in x 2
+let assumption 1
+fx n g
+and let assumption
+there are ffl
+1 1 hold
+for the newton
+be given by
+2 1 hold
+steady state solution
+the pseudo timestep
+either 1 6
+hold let assumption
+let assumption 2
+or 1 8
+by either 1
+the terminal phase
+in the ode
+6 or 1
+given by either
+1 6 or
+lemma 2 1
+ffi n is
+to steady state
+sufficiently small and
+the newton step
+given by 1
+the steady state
+convergence of fx
+the physical transient
+of fx n
+hold assume that
+1 hold assume
+3 of assumption
+temporal truncation error
+the initial phase
+theorem 2 3
+f 0 x
+of the chord
+newton krylov schwarz
+for the conclusions
+if ffi 0
+such that if
+newton s method
+that if ffi
+8 and let
+part 3 of
+of assumption 2
+an accurate solution
+the initial iterate
+the solution of
+navier stokes equations
+equation for the
+in x 3
+method of lines
+and 1 6
+1 8 and
+by 1 2
+by 3 1
+cfd application proceedings
+ode and dae
+ffl about x
+constant fl in
+steady state form
+a large ffi
+0 be lipschitz
+psitc is a
+as line search
+or trust region
+switched evolution relaxation
+phase here ffi
+search or trust
+12 17 25
+kf x k
+methods often stagnate
+q linearly with
+mesh cfd application
+succeeds in many
+1 6 satisfies
+6 satisfies and
+ffi max be
+theory in x
+the midrange phase
+max be large
+if fffi n
+cases by taking
+the timesteps are
+x is q
+if needed so
+17 we analyze
+are ffl 1
+these cases by
+satisfies and x
+towards the newton
+24 and 33
+radius ffl about
+the inexact form
+standard globalization strategies
+hold let ffi
+let ffi max
+of the midrange
+computation of steady
+the chord method
+linearly with q
+nonlinear defect correction
+four element airfoil
+linear convergence tolerance
+unstructured mesh cfd
+switchover to steady
+evolution relaxation ser
+the psitc iteration
+region methods often
+state residual norm
+inexact form of
+about x then
+nonsingular and f
+newton convergence domain
+the control volumes
+stagnate at local
+a nonlinear defect
+element airfoil in
+d e keyes
+control volumes are
+ffl 3 0
+form of theorem
+at every timestep
+scaling matrix v
+step is solved
+pde structure of
+operators are uniformly
+line search or
+initial iterate is
+the defect correction
+steady state residual
+and let fffi
+1 let fffi
+often stagnate at
+the residual norm
+journal of computational
+of lemma 2
+of the nonlinear
+the conclusions of
+angle of attack
+lipschitz constant fl
+let fx n
+at local minima
+1 to hold
+here ffi is
+newton method with
+state solution this
+computed with 1
+in an inexact
+fl in a
+allow ffi to
+of radius ffl
+the linear solver
+1 8 is
+be lipschitz continuous
+with q factor
+state solutions of
+the newton convergence
+iteration and in
+oe 1 then
+to hold then
+the timestep in
+first order discretization
+the equation for
+the time step
+the true jacobian
+in a ball
+in the euler
+conclusions of lemma
+continuous with lipschitz
+g to x
+g is computed
+be nonsingular and
+newton step is
+6 and let
+the sequence defined
+krylov methods in
+of newton krylov
+steady state solutions
+such as line
+in an unstructured
+is near a
+and f 0
+the dynamics of
+the convergence of
+of 1 2
+newton iteration in
+x proof let
+stokes equations journal

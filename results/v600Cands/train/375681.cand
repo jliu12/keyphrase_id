@@ -1,0 +1,600 @@
+keys
+pkb
+offset
+pkt
+key
+cache
+comparepartkey
+trees
+searchkey
+findnode
+pkoffset
+misses
+cur
+gt
+index
+bits
+bit
+indkey
+byte
+tree
+entropy
+l2
+comp
+dereferenced
+tlb
+offsets
+leftmost
+indirect
+prefix
+miss
+partkey
+conscious
+findbittree
+css
+storage
+comparisons
+ptr
+node
+eq
+search
+pos
+lan
+pointer
+recomputed
+findttree
+lookup
+lt
+database
+partial
+storing
+base
+bytes
+memory
+branching
+stored
+dereferences
+oltp
+entropies
+dereference
+dereferencing
+pointers
+indexes
+usec
+ultra
+parepartkey
+findbtree
+traversal
+databases
+16k
+compression
+searching
+visited
+cpu
+resolved
+resident
+deref
+4ns
+leaf
+cmp
+superpages
+indexing
+sigmod
+parent
+sizes
+k2
+wise
+ancestor
+costs
+perfmon
+datasheet
+lanoffset
+timesten
+iiie
+pklength
+numkeys
+nil
+k1
+subtree
+disk
+separator
+superpage
+lmbench
+shimin
+33ns
+10111
+7ns
+6ns
+lehman
+returns
+latency
+agree
+csb
+1m
+management
+ooi
+l1
+dates
+compressing
+record
+resolve
+jianwen
+kian
+starburst
+deleted
+preceding
+retrieval
+compares
+deletion
+records
+schemes
+pentium
+carey
+nodes
+arrows
+prefixes
+lg
+attribute
+beng
+speeds
+pn
+ram
+differ
+searches
+tlbs
+1010
+versioning
+suffix
+mowry
+soo
+olap
+inserted
+overhead
+structures
+seg
+gibbons
+granularity
+phillip
+encoding
+child
+manager
+distinguishing
+cui
+tuple
+position
+returned
+stores
+outperform
+compressed
+madison
+indirectly
+trend
+sun
+overheads
+incur
+promotion
+maintaining
+insertions
+wisconsin
+64
+contemporary
+450
+page
+mhz
+incurring
+multiaction
+296mhz
+numkey
+266ns
+inga
+contorting
+imporving
+sc242
+00101111101010
+yabo
+kvl
+jingren
+cieslewicz
+hankins
+bumbulis
+disambiguous
+partial key
+search key
+n key
+base key
+key in
+index key
+key 0
+difference bit
+key trees
+main memory
+the search
+partial keys
+bit offset
+key sizes
+key information
+key is
+key and
+b trees
+key value
+pkb tree
+pkb trees
+cache misses
+the partial
+leftmost key
+and pkb
+pkt tree
+t tree
+keys in
+memory database
+key size
+key for
+index structures
+of key
+the base
+of keys
+t trees
+node n
+key comparison
+the index
+key storage
+key k
+key with
+b tree
+procedure comparepartkey
+in main
+k j
+k i
+linear search
+the key
+the comparison
+offset is
+l bits
+memory databases
+cache miss
+cache conscious
+comp offset
+indirect key
+the pkt
+key values
+key 2
+the node
+the leftmost
+the offset
+key comparisons
+index keys
+offset of
+l2 cache
+keys are
+of partial
+in node
+a key
+first key
+index nodes
+css tree
+direct key
+indkey pkoffset
+per lookup
+pkt trees
+n ptr
+the difference
+bits of
+for main
+memory index
+key 1
+d k
+keys we
+the bit
+byte wise
+length keys
+procedure findnode
+the pkb
+gt 3
+linear encoding
+recent key
+returns eq
+cur off
+all key
+low high
+trees and
+k b
+branching factor
+comparison and
+in n
+prefix b
+low entropy
+stored in
+each key
+key 4
+searching for
+keys and
+n 00
+cpu costs
+data record
+of cache
+corresponding bits
+key n
+the keys
+key compression
+bit trees
+full key
+comparison costs
+key following
+high offset
+previous key
+dereferenced and
+cur cmp
+trees perform
+pkt and
+storing partial
+comparepartkey returns
+lookup usec
+key approach
+our partial
+two keys
+an index
+position of
+search algorithm
+small fixed
+be resolved
+key to
+keys to
+space overhead
+key if
+low 1
+with direct
+keys stored
+is dereferenced
+index traversal
+a cache
+its base
+the t
+variable length
+offset between
+integer keys
+node sizes
+keys k
+lookup time
+bit of
+and key
+for key
+the tree
+tree is
+cache blocks
+comparison between
+pointer to
+each byte
+storage space
+key the
+of difference
+trees in
+key as
+most recent
+begin 1
+a node
+key cannot
+during index
+offset returned
+indirect storage
+searchkey n
+difference bits
+prefix trees
+comparepartkey searchkey
+gt and
+direct storage
+key pos
+procedure findttree
+bits stored
+n searchkey
+direct t
+offset indkey
+key lies
+comparison cannot
+memory oltp
+key during
+ptr 0
+entropies in
+maintaining partial
+indirect keys
+key tree
+compare searchkey
+the search key
+the partial key
+n key 0
+the base key
+partial key trees
+partial key information
+the difference bit
+difference bit offset
+search key is
+search key and
+the index key
+main memory database
+base key for
+the leftmost key
+of n key
+key in the
+between the search
+the t tree
+for n key
+leftmost key in
+and pkb trees
+in the node
+key and the
+in main memory
+of partial key
+search key in
+main memory databases
+key in n
+partial key for
+key information for
+with n key
+n key 2
+a partial key
+an index key
+and n key
+key in a
+k i and
+of the search
+a key in
+in node n
+for a key
+for main memory
+the first key
+a search key
+pkt trees and
+key information in
+key size and
+n key 1
+the pkt tree
+bit offset is
+linear search algorithm
+of partial keys
+search key with
+key with respect
+and k j
+with the search
+the offset of
+main memory index
+key k i
+offset of the
+in a node
+key for the
+the key value
+the comparison and
+l bits of
+the pkb tree
+key in node
+trees and pkb
+all key sizes
+simple linear search
+key is compared
+key n key
+our partial key
+key and n
+partial key is
+variety of key
+its base key
+most recent key
+direct key storage
+i and k
+in the index
+of the comparison
+position of the
+and the base
+of keys in
+cannot be resolved
+the corresponding bits
+searching for a
+for the key
+the partial keys
+its partial key
+time per lookup
+bit offset between
+partial key approach
+keys in n
+the simple linear
+key for n
+of key values
+and partial key
+for all key
+n key 4
+memory database systems
+with direct key
+variable length keys
+per lookup usec
+keys k i
+bits of n
+the previous key
+b trees with
+key k j
+pkt and pkb
+using partial keys
+of the key
+the position of
+a cache miss
+keys are stored
+the data record
+first key in
+memory index structures
+offset between the
+key value in
+the l bits
+the comparison between
+the branching factor
+of cache misses
+first two bits
+for the leftmost
+key to be
+than the search
+comparison and the
+for each key
+the most recent
+pointer to the
+and k b
+in the parent
+is compared with
+in each node
+in the partial
+a main memory
+l2 cache misses
+than the base
+bits of the
+keys in the
+bit of n
+index key k
+than n key
+between keys k
+the comparison cannot
+the two keys
+key comparison costs
+pkb tree pkt
+trend is the
+n n ptr
+study of index
+search key if
+partial key tree
+search key lies
+key in each
+n is visited
+3 partial key
+and index key
+key trees for
+searching for key
+key and index
+key storage schemes
+and pkb tree
+tree pkt tree
+comp and offset
+ancestor of n
+n key 3
+partial keys stored
+corresponding bits in
+of up dates
+whose difference bit
+in index nodes
+b trees for
+direct t trees
+following the difference
+base key in
+between a search
+trees with direct
+key to compare
+of key sizes
+key whose difference
+maintaining partial key
+key 0 the
+indirect key storage
+base key k
+low high offset
+offset is less
+of the pkb
+main memory oltp
+prefix b trees
+partial key in
+base key and
+recent key to
+the key following
+and key value
+to child nodes
+key is found

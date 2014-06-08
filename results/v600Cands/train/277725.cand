@@ -1,0 +1,600 @@
+cilk
+fib
+thief
+deque
+clone
+spawn
+worker
+inlet
+elision
+victim
+stealing
+slackness
+steal
+stolen
+overheads
+protocol
+sync
+overhead
+frame
+scheduler
+spawned
+t1
+abort
+c1
+clones
+pop
+inlets
+cilk2c
+multithreaded
+parallelism
+stack
+activation
+thieves
+postsource
+cid
+principle
+serial
+compiler
+locking
+runtime
+races
+spawning
+threads
+leiserson
+scheduling
+tp
+critical
+slow
+lock
+int
+borne
+speedup
+rinard
+lazy
+megahertz
+sigplan
+atomicity
+rugina
+fence
+frigo
+summer
+locks
+steals
+allocation
+matteo
+cilksort
+notempmul
+membar
+notices
+heap
+polling
+smp
+children
+processors
+charles
+frames
+t8
+radu
+statement
+aborted
+dijkstra
+tail
+contributes
+blumofe
+head
+exclusion
+multiprocessors
+cactus
+restores
+compiles
+parent
+thread
+futures
+programs
+discovers
+contemporary
+costs
+lisiecki
+elisions
+narlikar
+girija
+funarg
+yuxiong
+architectures
+mutual
+1024
+writes
+exception
+return
+multiprogrammed
+fibonacci
+pops
+contribute
+pointer
+signaled
+chess
+language
+nonblocking
+ready
+socrates
+strumpen
+mingdong
+processor
+marks
+operates
+simplified
+breakdown
+exceptions
+tam
+yonezawa
+concomitant
+kenjiro
+ien
+medina
+ultrasparc
+saving
+kunal
+taura
+grabbing
+shared
+synchronization
+memory
+pseudocode
+vic
+normalized
+keywords
+actions
+mohr
+grabs
+mechanisms
+interrupt
+descendants
+sivan
+elided
+heavyweight
+popping
+determinacy
+parallelization
+pushing
+coded
+martin
+toledo
+akinori
+returned
+cholesky
+portability
+procedures
+spawns
+bender
+gcc
+nth
+hardware
+java
+stark
+vallarta
+167
+arora
+grab
+annual
+puerto
+wen
+symbolic
+inlined
+sanjeev
+kilobytes
+executes
+compile
+allocator
+volker
+increments
+fine
+path
+semantics
+faithful
+serially
+grain
+atomic
+nineteenth
+fork
+298
+work overhead
+cilk 5
+the cilk
+first principle
+work first
+fast clone
+the deque
+cilk s
+of cilk
+critical path
+in cilk
+a cilk
+c elision
+cilk program
+work stealing
+the thief
+slow clone
+path overhead
+the protocol
+the work
+a thief
+a worker
+cilk programs
+overhead c1
+the fib
+the worker
+average parallelism
+sync statement
+a spawn
+the victim
+parallel slackness
+an inlet
+cilk language
+the critical
+the fast
+runtime system
+been stolen
+activation frames
+the frame
+cilk 4
+to steal
+the the
+the serial
+e leiserson
+steal the
+s scheduler
+the runtime
+common case
+the c
+cilk procedure
+dijkstra like
+for fib
+slow clones
+stealing scheduler
+cilk is
+parent procedure
+path term
+ready deque
+a procedure
+t1 p
+cilk provides
+activation frame
+charles e
+acm sigplan
+shared memory
+the inlet
+c function
+the slow
+a sync
+races in
+lazy task
+that cilk
+inlet call
+cilk2c compiler
+memory fence
+every cilk
+to cilk
+multithreaded language
+fib n
+spawn fib
+lazy threads
+serial c
+fib procedure
+thief and
+a frame
+one processor
+overhead of
+notices v
+sigplan notices
+elision of
+and sync
+matteo frigo
+victim is
+slackness exists
+deque and
+spawn and
+rugina martin
+use locks
+and architectures
+multithreaded programs
+the head
+data races
+deque in
+radu rugina
+clone is
+to work
+the overhead
+the common
+task creation
+stack allocation
+clone the
+procedure has
+a fast
+machine size
+mutual exclusion
+running time
+between lines
+of activation
+t1 tp
+our cilk2c
+fib int
+work overheads
+megahertz ultrasparc
+167 megahertz
+of fib
+cilk scheduler
+stealing protocol
+frigo a
+borne on
+clone has
+a dijkstra
+sync statements
+c postsource
+fib program
+two clone
+int fib
+tp t1
+move overheads
+work term
+the spawn
+cactus stack
+cilk int
+speedup t1
+fib is
+serial overhead
+thief steals
+slackness is
+inlet is
+worker victim
+cilk 1
+its victim
+transform compiler
+c1 is
+the tail
+to critical
+int n
+marks the
+the parallel
+steal from
+scheduler guarantees
+locking protocol
+be signaled
+acm symposium
+for parallel
+head of
+frame is
+clones of
+worker to
+clone and
+multiprogrammed multiprocessors
+exclusion protocol
+deque the
+abort statement
+detecting data
+annual acm
+a parallel
+the running
+the parent
+simplified the
+and slow
+heap allocation
+worker the
+scheduling overheads
+on contemporary
+it restores
+s frame
+when sufficient
+martin rinard
+overheads are
+5 s
+architectures p
+of processors
+protocol is
+for multiprogrammed
+pop the
+return n
+compiler acm
+parallel algorithms
+in lines
+a slow
+work first principle
+the work first
+the the protocol
+the work overhead
+the fast clone
+critical path overhead
+the critical path
+of the cilk
+to work overhead
+the c elision
+the slow clone
+the cilk 5
+the cilk language
+the average parallelism
+a cilk program
+of the deque
+the common case
+cilk s scheduler
+a fast clone
+charles e leiserson
+the runtime system
+in the fast
+of a cilk
+in cilk 5
+work stealing scheduler
+critical path term
+path overhead c1
+a sync statement
+in cilk programs
+races in cilk
+algorithms and architectures
+acm sigplan notices
+sigplan notices v
+of cilk 5
+cilk 5 s
+the fib procedure
+cilk 5 is
+assumption of parallel
+has been stolen
+and slow clones
+the parent procedure
+spawn and sync
+overhead c1 is
+spawn fib n
+of activation frames
+lazy task creation
+a slow clone
+of cilk s
+slow clone the
+work overhead c1
+the serial c
+to steal the
+slow clone is
+the work stealing
+that use locks
+cilk programs that
+a c function
+radu rugina martin
+the overhead of
+to critical path
+annual acm symposium
+on parallel algorithms
+symposium on parallel
+the protocol is
+head of the
+on one processor
+parallel algorithms and
+in the common
+acm symposium on
+proceedings of the
+a cilk procedure
+a memory fence
+frigo a fast
+work overhead of
+matteo frigo a
+fast and slow
+borne on the
+from the deque
+n 2 return
+steal the frame
+fib n 1
+that cilk 5
+a c elision
+c elision of
+simplified the protocol
+fib int n
+work overhead is
+before a spawn
+the cilk scheduler
+the worker victim
+cilk is a
+parent procedure has
+if the victim
+overhead of cilk
+work overhead in
+sync statement is
+the work term
+a dijkstra like
+transform compiler acm
+int fib int
+the ready deque
+cilk 5 we
+the simplified the
+the sync statement
+discovers that h
+average parallelism of
+our cilk2c compiler
+tp t1 p
+fourier transform compiler
+allocation of activation
+of the thief
+inserted between lines
+of parallel slackness
+167 megahertz ultrasparc
+for the fib
+the running time
+the head of
+programs that use
+on the deque
+by the worker
+the fast and
+the activation frame
+the deque and
+scheduler guarantees that
+of the worker
+for multiprogrammed multiprocessors
+to be signaled
+scheduling for multiprogrammed
+c function call
+to the critical
+detecting data races
+mutual exclusion protocol
+data races in
+but the language
+thread scheduling for
+and architectures p
+on the critical
+compiler acm sigplan
+in the slow
+procedure has been
+common case where
+be inserted between
+extension of c
+it marks the
+a fast fourier
+of a procedure
+shared memory is
+to the runtime
+that h t
+t and h
+the c compiler
+of the the
+to the work
+the frame is
+running time on
+critical path length
+programs acm sigplan
+number of processors
+and architectures june
+for a sync
+be amortized against
+sufficient slackness exists
+every cilk program
+computation on p
+marks the head
+serial c algorithm
+an average parallelism
+faithful extension of
+each deque has
+in cilk 1
+the runtime deque
+at its next
+scheduler 3 5
+a 167 megahertz
+allows exceptions to
+work overhead the
+and sync statements
+cilk runtime system
+cactus stack oriented
+amortized against the
+why the funarg
+signaled to a
+girija j narlikar
+manual 8 the
+work overhead a
+of the plotted
+overhead for fib
+elision of a
+the fib program
+to cilk s
+justifies the work
+work stealing protocol
+procedure from figure
+saving state before
+elision against which
+a worker and
+first principle this
+like 11 shared
+that the cilk
+s serial overhead

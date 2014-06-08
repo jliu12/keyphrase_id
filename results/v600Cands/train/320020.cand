@@ -1,0 +1,600 @@
+od
+recomputations
+transaction
+urt
+acs
+rcs
+recomputation
+unapplied
+updates
+item
+recom
+manager
+update
+batching
+deadlines
+arrival
+rtdb
+stale
+database
+odm
+items
+consistency
+timeliness
+policies
+restart
+read
+miss
+md
+validity
+recoms
+utb
+fresh
+demand
+slack
+financial
+lock
+scheduling
+vi
+ts
+vm
+temporal
+wait
+commit
+views
+priority
+2pl
+restarted
+materialized
+staleness
+aborted
+base
+outdated
+stock
+priorities
+policy
+activities
+triggered
+absolute
+multiversion
+reads
+rate
+uu
+rc
+trading
+bursts
+fan
+requests
+burst
+missed
+committed
+adverse
+recomputed
+readset
+updated
+consistent
+ac
+meeting
+aborts
+cpu
+price
+deadline
+versions
+conflicts
+sleep
+interval
+concurrency
+yiu
+locality
+trigger
+locking
+stocks
+prices
+instantaneous
+timing
+kam
+triggering
+batched
+hp
+request
+sectoral
+utbs
+abort
+arrives
+soft
+weak
+age
+latest
+disk
+accesses
+tardy
+intensifies
+reynold
+recomputing
+tei
+fcfs
+optimistic
+cold
+defer
+forced
+baseline
+installs
+chances
+absolutely
+old
+factors
+useless
+ma
+correctness
+maintaining
+decoupled
+multidatabase
+sleeping
+hit
+locks
+inconsistent
+trans
+lam
+inherits
+kao
+freshness
+signifying
+argued
+stream
+databases
+spawns
+executed
+500
+spawned
+maintained
+markets
+vs
+holder
+firm
+experiment
+perspective
+intricate
+commits
+newly
+chance
+arrived
+workspace
+instruments
+objects
+workload
+kuo
+bs
+quote
+conflict
+executing
+option
+affected
+vc
+suffers
+pure
+keeps
+external
+anomaly
+tony
+detrimental
+restarts
+load
+delayed
+adversely
+triggers
+phase
+adelberg
+unrattled
+installer
+rtdbs
+currencies
+bsmin
+simpliest
+manger
+opp
+bsmax
+latters
+rized
+13570
+st39103lc
+salvaged
+od h
+application transactions
+an rcs
+and recomputations
+a transaction
+updates and
+validity interval
+the od
+an od
+the transaction
+of od
+an acs
+recomputations are
+base data
+od recom
+od update
+temporal consistency
+data item
+time database
+application transaction
+an update
+transactions are
+miss rate
+transaction restart
+update od
+on demand
+od wait
+acs od
+the unapplied
+version manager
+a recomputation
+od manager
+transaction s
+arrival rate
+scheduling policies
+and od
+the odm
+updates recomputations
+od updates
+base item
+transaction arrival
+consistent system
+absolute consistent
+ts u
+md ac
+recomputations and
+data items
+relatively consistent
+to ts
+transaction miss
+od bit
+transactions read
+batching wait
+the vm
+derived data
+real time
+no transactions
+od recoms
+weak acs
+version database
+h acs
+data timeliness
+update arrival
+transaction timeliness
+under urt
+version x
+per transaction
+item x
+of transactions
+read by
+database system
+od acs
+urt od
+urt and
+vi t
+an rtdb
+md rc
+that od
+unapplied update
+transaction scheduling
+relative consistent
+of transaction
+new update
+item is
+the version
+multi version
+and transactions
+low priority
+updates per
+absolute consistency
+transactions in
+transaction reads
+base items
+hp 2pl
+transactions od
+rtdb system
+update recomputation
+unapplied set
+acs figure
+update locality
+ac od
+instantaneous system
+od policy
+acs and
+the database
+only transactions
+update or
+of activities
+the validity
+a base
+start time
+consistent data
+the system
+rate vs
+view item
+od is
+write lock
+relative consistency
+a data
+a financial
+transaction is
+multiple versions
+valid within
+update u
+stale data
+missed deadlines
+manager the
+in an
+of update
+concurrency control
+adverse factors
+of recomputations
+maximum age
+or recomputation
+same recomputation
+recoms per
+recomputations for
+policies urt
+validity intervals
+recomputations on
+acs the
+derived item
+od rcs
+maximum staleness
+read slightly
+h rcs
+the utb
+transactions requests
+urt acs
+recomputation batching
+rcs figure
+rc od
+financial database
+that recomputations
+rcs is
+rcs od
+recomputations as
+recomputation arrival
+lock manager
+recomputation is
+transaction deadlines
+a version
+timing requirements
+ffl on
+transaction t
+three scheduling
+transactions can
+transaction that
+transaction has
+soft real
+item v
+demand requests
+temporal correctness
+rate arrival
+two timing
+ts t
+od and
+rcs the
+call this
+items are
+and transaction
+transactions we
+transactions to
+latest version
+read the
+the data
+deadlines we
+update transactions
+of meeting
+manager is
+transactions may
+to sleep
+update process
+commit time
+correctness criteria
+of base
+the scheduling
+an application
+fan out
+update is
+updates and recomputations
+in an rcs
+in an acs
+real time database
+update od recom
+od update od
+an application transaction
+transaction arrival rate
+absolute consistent system
+and recomputations are
+the validity interval
+time database system
+a data item
+the od manager
+updates recomputations and
+transaction miss rate
+version x i
+to ts u
+of application transactions
+rate of application
+types of activities
+an od update
+validity interval of
+od h acs
+application transactions are
+acs od h
+the version manager
+the transaction s
+of od updates
+of od wait
+a base item
+multi version database
+in the unapplied
+the od bit
+od acs od
+arrival rate of
+time database systems
+found in an
+effect of od
+a transaction reads
+md ac od
+three scheduling policies
+base data item
+h acs figure
+od bit is
+set to ts
+recomputations and application
+the unapplied set
+and application transactions
+base data items
+an absolute consistent
+relative consistent system
+urt and od
+number of od
+application transactions od
+miss rate vs
+by a transaction
+the on demand
+we call this
+a real time
+that a transaction
+the scheduling policies
+read by a
+read only transactions
+a version manager
+urt acs od
+od h is
+that od h
+od recoms per
+per transaction arrival
+in an absolute
+od updates and
+an rcs is
+application transactions may
+ffl on an
+h rcs figure
+the same recomputation
+md rc od
+miss rate arrival
+a financial database
+no of od
+od updates per
+on demand requests
+a multi version
+acs od acs
+its validity interval
+a transaction s
+od h rcs
+an update arrival
+a base data
+rate arrival rate
+perspective of transactions
+an instantaneous system
+update or recomputation
+versions of data
+soft real time
+multiple versions of
+data item is
+base data and
+is valid within
+a new update
+scheduling policies in
+an update u
+when the transaction
+an update or
+data item x
+the transaction has
+of values can
+the three scheduling
+we see that
+we will discuss
+data items are
+in the database
+that is valid
+no transactions read
+to the od
+of base items
+meeting transaction deadlines
+newly arrived updates
+upon transactions requests
+the unapplied lists
+the validity intervals
+hp 2pl lock
+of update locality
+two timing requirements
+within vi t
+transactions read the
+for derived data
+2pl lock manager
+an od manager
+a view item
+recomputations for derived
+the od update
+a weak acs
+if the od
+transaction has to
+recomputations can be
+application transactions we
+the vm would
+ac od h
+relatively consistent data
+scheduling policies urt
+vm would select
+and od h
+rate vs t
+transaction with a
+in an rtdb
+policies urt od
+instantaneous system at
+consistency from the
+od h can
+an od request
+temporal consistency from
+the pure od
+application transactions to
+pure od policy
+a recomputation is
+valid within vi
+real time transactions
+version v j
+priority batching wait
+s validity interval
+items read by
+an is at
+in an is
+item is updated
+view item v
+the transaction arrival
+and a readset
+readset r is
+od manager the
+kam yiu lam
+base item x
+the utb of
+and od recoms
+of transaction restart
+select a version
+rc od h
+recoms per transaction
+a validity interval
+transaction s validity
+any running transaction
+od request if
+od rcs od
+that has read
+updates and transactions
+to read slightly
+per trans action
+transactions are given
+recomputations are executed
+the version x
+if no transactions
+to an acs
+the two timing
+updates and od
+md ac urt
+application transaction with
+read by t
+an rcs the
+our baseline experiment

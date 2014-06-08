@@ -1,0 +1,600 @@
+predictor
+trace
+prediction
+branch
+misprediction
+hashed
+history
+traces
+correlated
+rhs
+branches
+pht
+predictors
+cache
+aliasing
+bhr
+identifier
+instruction
+bits
+gshare
+fetch
+alternate
+xlisp
+identifiers
+benchmarks
+histories
+instructions
+id
+entries
+sequential
+gag
+pc
+depth
+microarchitecture
+outcomes
+stack
+register
+counter
+saturating
+predictions
+multiscalar
+jpeg
+subroutine
+outcome
+hybrid
+simplescalar
+predicted
+idealized
+compress
+entry
+index
+ras
+gcc
+accuracy
+sigarch
+hashing
+secondary
+rosner
+folded
+abd
+roni
+fetching
+updates
+taco
+cold
+predict
+oliverio
+superscalar
+skadron
+ramirez
+updated
+targets
+santana
+rate
+indirect
+mispredicted
+news
+exclusive
+dolc
+purser
+almog
+sundaramoorthy
+slipstream
+zach
+mispredictions
+tag
+processors
+cfg
+tables
+aggressive
+mateo
+valero
+bryan
+moffie
+cnt
+unbounded
+delayed
+conditional
+six
+naftali
+rakvic
+depths
+cycle
+predicting
+acd
+pritpal
+incorrect
+larriba
+huachuca
+pey
+karthik
+predicts
+correlation
+rotenberg
+mispredict
+pressure
+benchmark
+naming
+yoav
+evers
+return
+losses
+marius
+sequences
+unrelated
+retired
+target
+caches
+mendelson
+field
+shen
+configurations
+64kb
+bit
+jacobson
+m88ksim
+annual
+alex
+kevin
+micha
+flow
+patt
+latency
+jumps
+martonosi
+architecture
+sized
+ahuja
+fed
+supercomputing
+yeh
+schwartz
+caught
+ryan
+yale
+rajiv
+deviation
+avi
+speculatively
+margaret
+josep
+decremented
+engine
+mechanism
+268
+army
+31st
+chances
+conventional
+vaswani
+thazhuthaveetil
+dapt63
+go14182226
+efg
+mispredic
+sofficient
+rates
+buffer
+configuration
+clark
+symposium
+enhancements
+speculation
+paul
+dallas
+douglas
+mechanisms
+blocks
+shashidhar
+lder
+utamaphethai
+zmily
+urrent
+noppanunt
+behar
+bentez
+schmorak
+falcn
+moure
+preconstruction
+correlated predictor
+next trace
+trace cache
+misprediction rate
+the predictor
+the correlated
+multiple branch
+branch prediction
+hashed id
+history misprediction
+predictor is
+the trace
+trace prediction
+entries entries
+a trace
+history register
+id hashed
+sequential depth
+of history
+of traces
+trace predictor
+the prediction
+sequential predictor
+prediction table
+prediction accuracy
+trace identifier
+trace identifiers
+multiple branches
+alternate trace
+the hashed
+index generation
+the history
+the rhs
+of trace
+entries infinite
+14 entries
+hybrid rhs
+correlated hybrid
+rhs sequential
+secondary predictor
+idealized sequential
+the alternate
+bits from
+a prediction
+depth of
+the pht
+infinite sequential
+path based
+branch predictor
+prediction is
+return history
+history stack
+proposed multiple
+proposed predictor
+hashed identifier
+rate correlated
+control flow
+predictor the
+path history
+identifier of
+the bhr
+unbounded tables
+a branch
+table entry
+hybrid predictor
+predicted trace
+index into
+the secondary
+trace and
+2 14
+delayed updates
+trace predictors
+generation mechanism
+trace is
+hashing function
+prediction for
+alternate prediction
+aliasing pressure
+of instructions
+predictor in
+the misprediction
+international symposium
+the index
+branch outcomes
+on microarchitecture
+based next
+trace selection
+instruction fetch
+of branch
+rate 2
+branch predictors
+gshare predictor
+branch target
+per cycle
+the branch
+predictor uses
+pc address
+counter is
+entry is
+history is
+basic block
+microarchitecture p
+the identifier
+most recent
+multiscalar processors
+trace sequences
+aggressive previously
+preceding trace
+gag predictor
+immediate updates
+bit gshare
+26 lower
+six branches
+unique sequences
+stack rhs
+hashed trace
+prediction field
+histories of
+branch correlation
+of bits
+sigarch computer
+acm sigarch
+architecture news
+predictor can
+return address
+the subroutine
+the idealized
+conditional branches
+to index
+branch is
+sequences of
+predictor that
+target buffer
+prediction the
+two bit
+bit saturating
+saturating counter
+outcome of
+full trace
+cold starts
+starting pc
+predictor yields
+to cold
+predictor does
+correlated predictors
+trace id
+branches per
+basic predictor
+sequential prediction
+trace caches
+address cache
+these histories
+not taken
+news v
+the outcome
+an exclusive
+rate via
+trace will
+performance losses
+recent trace
+roni rosner
+previously proposed
+tag is
+bits the
+is updated
+prediction a
+ieee international
+to form
+table the
+branches are
+actual outcome
+history depth
+fetch rate
+previous branches
+target prediction
+10 bits
+computer architecture
+the table
+branches the
+the benchmarks
+the counter
+traces the
+least significant
+john paul
+bryan black
+branch address
+paul shen
+indirect jumps
+basic units
+losses due
+optimization taco
+taco v
+a return
+the outcomes
+of branches
+address stack
+information before
+correlated branch
+superscalar processors
+on architecture
+the correlated predictor
+of history misprediction
+depth of history
+history misprediction rate
+hashed id hashed
+sequential depth of
+id hashed id
+the trace cache
+the prediction table
+next trace prediction
+the next trace
+the secondary predictor
+hybrid rhs sequential
+entries infinite sequential
+entries entries infinite
+correlated hybrid rhs
+2 14 entries
+entries entries entries
+14 entries entries
+multiple branch prediction
+next trace predictor
+return history stack
+the history register
+infinite sequential depth
+misprediction rate 2
+rate correlated hybrid
+idealized sequential predictor
+previously proposed multiple
+rate 2 14
+proposed multiple branch
+misprediction rate correlated
+index generation mechanism
+identifier of the
+into the pht
+correlated predictor is
+sequences of traces
+the index generation
+in the trace
+bits from the
+the misprediction rate
+a prediction is
+the hashed identifier
+rhs sequential depth
+the return history
+of trace identifiers
+the proposed predictor
+the idealized sequential
+index into the
+international symposium on
+the predictor is
+of bits from
+symposium on microarchitecture
+when a prediction
+multiple branch predictor
+the trace identifier
+in the prediction
+form an index
+based next trace
+path based next
+misprediction rate is
+the hybrid predictor
+an exclusive or
+on microarchitecture p
+computer architecture news
+acm sigarch computer
+architecture news v
+sigarch computer architecture
+the outcome of
+trace prediction we
+hashed trace identifiers
+aggressive previously proposed
+hashed identifier of
+saturating counter is
+history stack rhs
+of the hashed
+due to cold
+prediction field is
+correlated predictor the
+most aggressive previously
+next trace predictors
+without the rhs
+unique sequences of
+procedure call returns
+to cold starts
+16 bit gshare
+of trace sequences
+full trace identifier
+histories of trace
+secondary predictor is
+sequences of trace
+on these histories
+of a trace
+before the call
+branch target buffer
+the most recent
+the identifier of
+annual acm ieee
+branch history register
+branch address cache
+the table entry
+performance losses due
+alternate trace prediction
+the starting pc
+to the correlated
+the alternate prediction
+the full trace
+few bits from
+the traces as
+traces as basic
+basic units and
+as basic units
+units and explicitly
+acm ieee international
+ieee international symposium
+proceedings of the
+lower for the
+information before the
+branch prediction methods
+an alternate trace
+trace prediction accuracy
+fetch rate via
+a subroutine is
+instruction fetch rate
+a next trace
+the actual outcome
+predictor is not
+of the correlated
+most recent trace
+exclusive or function
+instruction of a
+two bit saturating
+prediction table the
+a branch address
+the predicted trace
+to form an
+the outcomes of
+a trace cache
+trace cache a
+number of traces
+transactions on architecture
+architecture and code
+optimization taco v
+code optimization taco
+on architecture and
+of the trace
+least significant bits
+branch is predicted
+with a branch
+increasing the instruction
+misprediction rate of
+return address stack
+losses due to
+a branch instruction
+john paul shen
+and code optimization
+trace and the
+a few bits
+a single branch
+number of bits
+to index into
+make a prediction
+control flow prediction
+the most aggressive
+oliverio j santana
+entries from the
+news v 28
+of the history
+a trace is
+predictions based on
+of branch prediction
+an index into
+number of branches
+the counter is
+bits of the
+the predictor yields
+traces the predictor
+trace id cnt
+reduce performance losses
+the bhr is
+proposed path based
+3 index generation
+trace selection heuristics
+more unique sequences
+branches the limit
+starts procedure call
+multiple branches within
+to reduce performance
+treats the traces
+to the alternate
+rate primary alternate
+task prediction for
+predictor that treats
+call returns and
+prediction for multiscalar
+collection of bits
+a trace has
+alternate trace can
+the information before
+traces besides the
+a gag predictor

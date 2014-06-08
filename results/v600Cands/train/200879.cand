@@ -1,0 +1,600 @@
+segmentation
+homogeneity
+segmentations
+texture
+image
+bayesian
+parametric
+bayes
+intensity
+surface
+images
+surfaces
+region
+density
+mrf
+degradation
+regions
+pdf
+sabata
+probability
+rm
+manifold
+posterior
+gaussian
+displacements
+prior
+clustering
+polynomial
+msu
+polynomials
+imagery
+cooper
+displacement
+statistical
+uncertainty
+quadric
+estimation
+merging
+unsupervised
+variance
+implicit
+detector
+noise
+gmrf
+hypersphere
+homogeneous
+outliers
+markov
+flynn
+vision
+likelihood
+patches
+pyramidal
+silverman
+planar
+ju
+integrations
+renderings
+densities
+segments
+imaging
+recognition
+intensities
+canny
+prone
+facet
+priors
+neighbors
+squares
+termed
+estimates
+fitting
+profitable
+fields
+textured
+families
+pixels
+synthetic
+speigelhalter
+quilts
+becky
+slinky
+9110270
+casta
+fitzgibbon
+xiaoyi
+abstractregion
+pettit
+ffiju
+unfiorm
+sels
+aitkin
+moroney
+lab
+sensors
+queue
+observation
+adjacent
+jain
+magellan
+leonardis
+mirza
+dispenser
+grf
+brodatz
+gillian
+homoge
+baptiste
+venusian
+goldgof
+parameter
+supervised
+coarse
+cohen
+marginal
+spaces
+observations
+vaidyanathan
+mrfs
+bolle
+eggert
+kass
+tsun
+distributions
+demonstrating
+chi
+formulation
+neous
+bunke
+piecing
+besl
+noncausal
+bowyer
+iid
+lindley
+fan
+denominator
+hebert
+squared
+random
+haralick
+hoover
+ikeuchi
+criterion
+edge
+narendra
+plastic
+belong
+integration
+oe
+smoothing
+beneficial
+derivation
+dmitry
+taubin
+agglomerative
+grouped
+formalism
+estimated
+expectation
+ym
+sar
+maximizing
+pixel
+ellipsoidal
+faugeras
+additive
+nonhomogeneous
+673
+paradox
+feasibly
+statistics
+relaxation
+scanner
+689
+merged
+photographs
+hoffman
+likelihoods
+szeliski
+color
+horst
+roland
+conditional
+bivariate
+robustness
+fractal
+boyer
+buf
+dissimilarity
+labelings
+terrain
+clusters
+voronoi
+ahuja
+segmenting
+validation
+merge
+joint
+um
+of homogeneity
+parameter space
+degradation model
+observation space
+polynomial surfaces
+probability of
+parameter manifold
+the parameter
+range image
+prior model
+bayesian probability
+implicit polynomial
+image segmentation
+texture segmentation
+r k
+parameter value
+y k
+u k
+the degradation
+based segmentation
+parametric polynomial
+the prior
+initial region
+intensity images
+sabata et
+bayes factors
+bayes factor
+region set
+density p
+gaussian markov
+region based
+image models
+our bayesian
+the observation
+intensity image
+and cooper
+markov random
+random fields
+the segmentation
+two regions
+homogeneity using
+parametric polynomials
+model families
+k ju
+cooper have
+region r
+the probability
+segmentation results
+segmentation algorithms
+range data
+segmentation of
+data likelihood
+and segmentations
+ju k
+rm 1
+general statistical
+the image
+an image
+r 1
+edge detector
+value u
+the variance
+explicit polynomial
+the msu
+r 2
+polynomial model
+general probability
+the bayesian
+based methods
+conditional density
+a bayesian
+image set
+regions is
+segments and
+estimation based
+density on
+the surface
+range images
+variable order
+a segmentation
+bayes rule
+for segmentation
+p y
+level vision
+y 1
+image element
+observation spaces
+past segmentation
+alternative segments
+require parameter
+observed point
+statistical context
+binary sample
+surfaces parametric
+which estimation
+vision estimation
+silverman and
+most prone
+homogeneity can
+homogeneity to
+half hypersphere
+coarse segmentations
+quadric and
+image subsets
+merge regions
+parametric explicit
+model family
+a gaussian
+displacement of
+d i
+posterior probability
+parameter estimates
+images in
+to error
+in r
+the displacement
+a bayes
+therefore particularly
+synthetic renderings
+adjacent regions
+corresponding intensity
+segmentation experiments
+common parameter
+distance approximation
+order mrf
+facet model
+bayesian formalism
+the region
+the parametric
+of squares
+have used
+of image
+surfaces in
+i j
+image into
+random vector
+of range
+the intensity
+the posterior
+parameter spaces
+particularly beneficial
+uniform density
+statistical image
+model surfaces
+additive gaussian
+segmentation schemes
+small displacements
+k which
+segmentation and
+density is
+p h
+segmentation methods
+k represents
+our probability
+intensities in
+to segmentation
+region merging
+cluster validation
+uncertainty in
+h r
+the density
+model is
+of regions
+p u
+y l
+considered as
+our general
+prone to
+solution sets
+smoothing on
+renderings of
+extends in
+to region
+surface model
+computation methods
+set r
+joint density
+sample space
+models presented
+small regions
+oe delta
+to outliers
+image d
+some region
+in intensity
+the model
+probability distributions
+the canny
+gaussian random
+u 12
+the bayes
+in past
+cohen and
+and jain
+first pair
+patches in
+regions and
+estimation and
+and choice
+robustness with
+probability of homogeneity
+the parameter space
+bayesian probability of
+the observation space
+the degradation model
+region r k
+the parameter manifold
+the prior model
+sabata et al
+initial region set
+on the parameter
+gaussian markov random
+parameter value u
+in r k
+d i j
+implicit polynomial surfaces
+and cooper have
+general probability of
+region based segmentation
+segments and segmentations
+rm 1 and
+y k ju
+k ju k
+range image set
+the bayesian probability
+prone to error
+region set r
+the probability of
+p y k
+the initial region
+value u k
+range image segmentation
+density on the
+1 r 2
+the displacement of
+posterior probability of
+r 1 r
+r k the
+y k is
+and r 2
+1 and r
+r 1 and
+markov random fields
+probability distributions of
+of the parameter
+the posterior probability
+observation space y
+is therefore particularly
+cohen and fan
+polynomials of variable
+polynomial surfaces parametric
+x oe delta
+most prone to
+binary sample space
+some region r
+for cases in
+model is represented
+respect to outliers
+ffi x oe
+to error when
+approach to region
+of homogeneity to
+common parameter value
+p u k
+of alternative segments
+of homogeneity using
+j represents a
+in past segmentation
+random vector y
+polynomial surfaces in
+the parametric polynomial
+estimation based methods
+density p y
+our general statistical
+space y k
+statistical image models
+bayes factors and
+ju k which
+to region based
+quadric and planar
+which estimation based
+of homogeneity can
+not require parameter
+parametric explicit polynomial
+are most prone
+our bayesian formalism
+observed point from
+parametric polynomial model
+displacement of an
+oe delta u
+used in past
+alternative segments and
+the bayes factor
+the binary sample
+general statistical context
+therefore particularly beneficial
+image that was
+explicit polynomial surfaces
+our bayesian probability
+degradation model is
+segmentation of intensity
+segmentation experiments on
+in our general
+a conditional density
+silverman and cooper
+in intensity images
+of intensity images
+the data likelihood
+of the bayes
+require parameter estimation
+renderings of the
+intensity images in
+distributions of alternative
+beneficial for cases
+surfaces parametric polynomial
+space a random
+and gaussian markov
+conditional density p
+a bayes factor
+of variable order
+observation space a
+an observed point
+corresponding intensity image
+two regions are
+the general probability
+in which estimation
+a bayesian probability
+density p u
+parametric polynomial surfaces
+sum of squares
+x i j
+1 and y
+has been considered
+y 1 and
+h r 1
+of an observed
+i j represents
+define the prior
+two regions is
+based image segmentation
+delta u k
+parameter space and
+edge based methods
+our probability of
+k the variance
+over the parameter
+particularly beneficial for
+h to represent
+synthetic renderings of
+for small displacements
+condition that r
+an image of
+of the image
+been used in
+and y 2
+for robustness with
+the edge detector
+methods are most
+to model surfaces
+a parameter value
+for texture segmentation
+the solution sets
+to the segmentation
+prior model is
+estimation and is
+an initial region
+parameter estimates are
+surfaces in section
+extends in a
+u k for
+taking the product
+texture segmentation using
+over the binary
+of two regions
+for the implicit
+of image segmentation
+have been used
+should be merged
+parameter estimation and
+set of regions
+the range data
+l y l
+1 the parameter
+the joint density
+considered as part
+require the specification
+based methods in
+of y k
+robustness with respect
+the canny edge
+captures the notion
+are positive integers
+models presented in
+from the surface
+a standard approach
+based methods are
+the first pair
+methods in which
+markov random field
+of the parametric

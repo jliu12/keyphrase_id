@@ -1,0 +1,600 @@
+cache
+nest
+cdcp
+reuse
+lbm
+nests
+array
+loop
+shade
+abm
+configurations
+sz
+1k2s
+bk
+bitmap
+interferences
+footprints
+configuration
+polymorphism
+associativity
+references
+clp
+misses
+cdn
+reuses
+compiler
+locality
+128k8s
+128k16s
+256k2s
+256b4s
+aps
+energy
+bmcm
+bytes
+ccl
+arrays
+vpenta
+reference
+tsf
+block
+consumption
+tomcat
+benchmarks
+ar
+codes
+spatial
+wss
+interference
+caches
+exhaustive
+assoc
+near
+format
+128k1s
+4k1s
+1k4s
+abms
+abma
+temporal
+subscript
+conf
+innermost
+reconfiguration
+suif
+spaces
+self
+adi
+uniform
+localities
+childers
+1k
+group
+lev
+simulation
+4k8s
+2k8s
+grpn
+128b4s
+4k2s
+8k8s
+128b2s
+8k4s
+elmt
+512b2s
+2k2s
+64b1s
+2k4s
+offset
+optimizations
+directed
+eflux
+iof
+soffa
+lou
+simulate
+cacti
+optimizing
+l1
+reconfigurations
+simulates
+lambdan
+layout
+reconfigurable
+morphable
+128k
+stride
+64
+index
+74
+benchmark
+access
+embedded
+optimizes
+dimension
+conflict
+subsection
+declared
+bruce
+spd
+smallest
+loops
+rs
+sizes
+chip
+mary
+vs
+activates
+zhao
+miss
+intensive
+th
+addr
+code
+iterations
+simulator
+id
+phenomena
+optimized
+media
+accesses
+outermost
+optimize
+activate
+1k16s
+64k4s
+4k4s
+srpn
+64k8s
+ddk
+128k4s
+2573
+64b4s
+algorithmsforcachepolymor
+25190
+9647
+associavitity
+32k4s
+128b8s
+18865
+128k2s
+64k1s
+512b8s
+4k16s
+grp
+9461
+cof
+microjoules
+64b2s
+57050
+2666
+21984
+256b2s
+2k16s
+32b2s
+outperforms
+associative
+analyzing
+molecular
+dist
+mechanisms
+highest
+intermediate
+water
+188
+item
+doubling
+lux
+anisms
+ploiting
+mesoscale
+int
+assist
+init
+tivities
+associa
+granular
+1323
+base
+declaration
+loop nest
+cache configurations
+optimal cache
+cache configuration
+loop nests
+the cache
+bk sz
+uniform reference
+each loop
+cache polymorphism
+near optimal
+cache block
+block size
+reuse spaces
+spatial reuse
+access matrix
+configurations for
+array based
+temporal reuse
+reuse at
+each array
+group reuse
+reference set
+data reuse
+size bk
+of array
+the reuse
+loop level
+directed cache
+of cache
+array reference
+each nest
+reuse space
+array bitmap
+cache interferences
+nest level
+reuse analysis
+array references
+cache behavior
+exhaustive simulation
+gamma gamma
+cache size
+nest node
+different references
+reference sets
+fixed cache
+loop index
+a loop
+compiler directed
+data locality
+vector gamma
+the footprints
+vs cdcp
+bitmap abm
+shade vs
+uniform set
+the loop
+footprints of
+64 bytes
+nest in
+based codes
+the near
+group temporal
+block sizes
+index vector
+ar a
+configurations at
+an array
+energy consumption
+cache conf
+self reuse
+polymorphism technique
+level bitmap
+1k2s 1k2s
+at block
+array in
+the array
+smallest cache
+particular loop
+has self
+self spatial
+algorithm 4
+different arrays
+nests in
+call algorithm
+data cache
+a near
+array b
+the nest
+algorithm 3
+references in
+constant offset
+cdcp is
+lbm with
+in lbm
+and cdcp
+reconfiguration mechanisms
+th loop
+array node
+pattern vector
+aps c
+application code
+configuration for
+of loop
+this array
+at loop
+offset vector
+group spatial
+block id
+relative base
+reuse pattern
+base address
+innermost loop
+and 64
+given loop
+source code
+begin initial
+algorithm 5
+and energy
+array intensive
+references of
+for array
+array a
+cache misses
+level j
+for cache
+nest for
+nests are
+current cache
+nest of
+different cache
+end figure
+performance comparison
+dynamic cache
+given cache
+largest array
+vpenta c
+cdn clp
+data localities
+lbm size
+arrays declared
+6 1k2s
+bmcm c
+cdcp technique
+bitmap lbm
+data reuses
+nest no
+abm b
+locality problem
+nests and
+shade and
+and abm
+of lbm
+the cdcp
+smallest associativity
+set array
+sz output
+of arrays
+32 and
+array size
+simulate the
+j th
+index variable
+in access
+example code
+level algorithm
+cache ways
+reconfigurable caches
+their reuse
+layout space
+a cdn
+program level
+each uniform
+interferences can
+in reuse
+self temporal
+associativity that
+these reuse
+to simulate
+among different
+different loop
+the innermost
+bound e
+cache blocks
+cache reconfiguration
+reuse characteristics
+applies algorithm
+intermediate format
+6 74
+of reuse
+reuse is
+the j
+upper bound
+interference misses
+reference has
+in benchmarks
+sz is
+reuse and
+all references
+reuse in
+near optimal cache
+each loop nest
+cache configurations for
+optimal cache configuration
+a loop nest
+for each loop
+uniform reference set
+optimal cache configurations
+the near optimal
+directed cache polymorphism
+size bk sz
+block size bk
+the cache configurations
+compiler directed cache
+loop nest level
+loop nest node
+uniform reference sets
+configurations for each
+the footprints of
+array based codes
+cache block size
+cache configuration for
+for each nest
+spatial reuse at
+shade vs cdcp
+group temporal reuse
+and 64 bytes
+of each array
+of loop nests
+a near optimal
+gamma gamma gamma
+of cache configurations
+cache polymorphism technique
+vector gamma gamma
+loop index vector
+a fixed cache
+cache configurations at
+access matrix a
+array bitmap abm
+reuse at level
+self spatial reuse
+of array references
+the cache configuration
+loop nest in
+array references in
+32 and 64
+a particular loop
+configuration for each
+for each array
+the application code
+algorithm 3 to
+constant offset vector
+the cache interferences
+the compiler directed
+at block size
+comparison of cache
+group spatial reuse
+among different arrays
+pattern vector gamma
+temporal reuse at
+reuse pattern vector
+reuse at loop
+bound e g
+simulate the footprints
+has self spatial
+to simulate the
+relative base address
+given cache block
+each array in
+the loop index
+a given loop
+cache block sizes
+given loop nest
+for loop nests
+at loop level
+the loop nest
+of this array
+array in a
+block size of
+loop nests are
+the innermost loop
+the j th
+performance and energy
+a given cache
+loop nests in
+loop level j
+optimal cache conf
+self temporal reuse
+loop nest no
+the largest array
+reference of array
+the array bitmap
+nest node a
+configurations for loop
+node a given
+a cdn clp
+cache configuration is
+bitmap lbm with
+bk sz output
+particular loop nest
+group reuse analysis
+nest level bitmap
+configurations at block
+fixed cache configuration
+footprints of array
+the reuse spaces
+the array based
+bits in lbm
+the locality problem
+and abm b
+the reuse space
+at different cache
+self reuse analysis
+finding the near
+in access matrix
+layout space of
+the layout space
+number of cache
+in a loop
+the cache behavior
+the smallest cache
+analyzing the data
+footprints of the
+array intensive applications
+reuse and data
+vector of gamma
+all references of
+format for a
+the data reuse
+cache size and
+energy consumption in
+data reuse and
+the optimal cache
+degree of conflict
+the example code
+is generated as
+and data locality
+the array reference
+loop nest for
+in this loop
+upper bound e
+performance comparison of
+this loop nest
+min zhao bruce
+16 32 and
+cache miss equations
+loop index variable
+same cache block
+childers mary lou
+loop nest the
+in the nest
+of an array
+in this subsection
+by algorithm 3
+an array reference
+3 to get
+of the loop
+of cache blocks
+for a loop
+same memory location
+abma and abm
+for cache behavior
+reuse characteristics of
+nest in the
+level j reference
+cache conf to
+the best required
+reuse spaces of
+1k to 128k
+index vector i
+j reference of
+from its lower
+increase energy consumption
+global level cache
+these cache configurations
+set reference has
+for practice in
+nest in benchmarks
+declaration section of
+current cache conf
+256b4s 512b2s 1k2s
+c bmcm c
+nests are the
+group reuse pattern
+each uniform reference
+ar a 3
+gamma gamma grpn
+the default fixed
+realize the reuse
+cache configuration can
+the cache reconfiguration
+address the locality
+set begin initial
+has the reuse
+2 group reuse
+bk sz is
+loop nests dominates
+address f i
+dynamic cache configurations
+one uniform reference

@@ -1,0 +1,600 @@
+checkpointing
+checkpoint
+rollback
+lp
+ct1
+coasting
+ct4
+cr
+aco
+checkpoints
+conf
+microsec
+warp
+ct3
+events
+lps
+recovery
+ct2
+css
+event
+recorded
+kbytes
+arl
+granularity
+policy
+basing
+simulation
+recording
+quaglia
+gvt
+simulated
+eff
+fossil
+committed
+jobs
+optimistic
+overhead
+timestamp
+saving
+restored
+mu
+santoro
+simulations
+periodic
+francesco
+dist
+benchmark
+er
+selection
+positions
+cry
+mbytes
+interval
+probability
+anytime
+job
+forward
+passed
+antievent
+andrea
+latest
+timestamps
+sparse
+280
+decision
+outcoming
+statistical
+configuration
+phold
+reload
+executed
+execution
+configurations
+pe
+throttling
+recalculation
+checkpointed
+latency
+pointed
+moves
+tackle
+myrinet
+expresses
+c3
+hot
+destined
+ffi
+artefact
+antievents
+c4
+thrashing
+actions
+rolls
+variance
+causality
+usage
+amplified
+rollbacks
+fictitious
+individuation
+crn
+convenience
+incremental
+obsolete
+windowing
+preceding
+estimated
+messages
+max
+pushes
+increment
+executions
+record
+memory
+replay
+battlefield
+cortellessa
+ciciani
+estimate
+selecting
+sec
+simulators
+cpu
+spot
+analytical
+scheduled
+intersect
+synthetic
+70
+vittorio
+forwarded
+routing
+recalculate
+rise
+periodically
+kbyte
+rolled
+derives
+population
+effects
+adaptation
+relies
+productive
+wrong
+hundred
+reported
+collect
+utilization
+undone
+minimization
+moving
+microseconds
+cope
+gain
+pr
+induce
+achievable
+spots
+intervals
+grained
+overheads
+penalty
+detrimental
+pcs
+comparative
+73
+ago
+paragraphs
+cluster
+produces
+incurring
+10226
+11932
+8304
+10423
+8544
+8617
+10654
+resemblances
+abstractrecent
+8421
+ronngren
+massages
+7846
+6096
+bruno
+semi
+recovers
+denoting
+originated
+namely
+inthe
+cucuzzo
+5981
+unrecorded
+chaotically
+happen
+basically
+54
+74
+selection policy
+the checkpointing
+the lp
+simulated time
+coasting forward
+checkpointing technique
+cr s
+the checkpoint
+state size
+kbytes state
+time warp
+recovery overhead
+a checkpoint
+state recovery
+sparse checkpointing
+basing on
+checkpointing techniques
+the simulation
+cost model
+checkpoint interval
+state saving
+e s
+checkpointing recovery
+restored due
+checkpointing overhead
+state s
+p s
+conf 1
+probability values
+simulation execution
+the selection
+the event
+ct2 and
+conf 2
+checkpoint positions
+checkpoint decision
+taken checkpoint
+max dist
+last taken
+maximum mu
+passed through
+simulation events
+of checkpoints
+2 kbytes
+the lps
+not recorded
+be restored
+modified selection
+states passed
+granularity of
+committed events
+event granularity
+the execution
+a rollback
+statistical data
+associated to
+8 kbytes
+of recording
+event e
+the state
+francesco quaglia
+the rollback
+technique microsec
+mu technique
+microsec microsec
+and ct3
+eff er
+for conf
+mbytes css
+er maximum
+arl eff
+size checkpointing
+policy produces
+microsec committed
+aco arl
+usage problem
+conf 3
+checkpointing aco
+sec mbytes
+rollback to
+fossil collection
+ffi s
+is recorded
+execution of
+through in
+p e
+s is
+correct decision
+recovery latency
+preceding s
+rollback behavior
+events per
+the events
+optimistic simulation
+the granularity
+the positions
+per sec
+andrea santoro
+lp from
+to rollback
+recorded as
+recording s
+cr y
+recorded or
+and ct4
+faster execution
+interval i
+a checkpointing
+the simulated
+positions of
+incremental state
+event executions
+cr n
+this configuration
+any state
+case 8
+overhead associated
+of simulation
+memory usage
+r s
+our checkpointing
+periodic checkpoints
+convenience of
+s 0
+pe s
+that state
+the course
+executed events
+checkpointing actions
+lp moves
+ct1 to
+jobs among
+estimate probability
+collection procedure
+of conf
+the coasting
+cry s
+memory destined
+s to
+of cr
+record s
+and cr
+course of
+lp to
+of jobs
+events executed
+event execution
+the benchmark
+the probability
+p r
+collect statistical
+intermediate events
+70 70
+for optimistic
+the latest
+checkpointing and
+recording the
+each lp
+of rollback
+future rollback
+lp state
+the fossil
+subsequent state
+quaglia andrea
+high variance
+the convenience
+the recovery
+in time
+the memory
+appropriate selection
+wrong decision
+of memory
+pointed out
+from s
+to s
+periodic basis
+the states
+probability p
+estimated value
+rollback in
+checkpointed state
+semi axis
+decision anytime
+checkpoint preceding
+time positive
+css 280
+overhead cr
+to ct4
+through coasting
+css 70
+of ct1
+of aco
+spot lps
+for obsolete
+state preceding
+fictitious state
+state passed
+the outcoming
+ct1 and
+cases c3
+the selection policy
+kbytes state size
+of the simulation
+as a checkpoint
+the checkpoint interval
+in time warp
+the simulation execution
+be restored due
+positions of checkpoints
+restored due to
+to be restored
+the cost model
+checkpointing recovery overhead
+the checkpointing technique
+p e s
+is not recorded
+the checkpointing recovery
+the simulated time
+passed through in
+8 kbytes state
+last taken checkpoint
+the last taken
+of the event
+basing on the
+overhead associated to
+of the checkpointing
+the state s
+of the checkpoint
+p r s
+convenience of recording
+modified selection policy
+the checkpoint decision
+recovery overhead associated
+states passed through
+of simulation events
+committed events per
+recorded as a
+2 kbytes state
+the event granularity
+the event e
+the execution of
+due to rollback
+of the lp
+the positions of
+microsec committed events
+maximum mu technique
+selection policy produces
+er maximum mu
+the modified selection
+case 2 kbytes
+technique microsec microsec
+eff er maximum
+ct2 and ct3
+per sec mbytes
+s is recorded
+the recovery overhead
+sec mbytes css
+aco arl eff
+arl eff er
+mu technique microsec
+events per sec
+cr s n
+state size checkpointing
+checkpointing aco arl
+size checkpointing aco
+memory usage problem
+microsec microsec committed
+execution of the
+among the lps
+the lp from
+course of the
+of p s
+through in the
+the granularity of
+in the course
+a correct decision
+probability p s
+the checkpointing overhead
+recorded or not
+cr n s
+of recording s
+our checkpointing technique
+case 8 kbytes
+sparse checkpointing techniques
+granularity of simulation
+the rollback behavior
+cr y s
+cr s y
+of cr s
+high variance of
+incremental state saving
+any state s
+value of p
+the time to
+the course of
+is recorded as
+in e s
+the memory usage
+a wrong decision
+expresses the checkpointing
+moving from s
+lp moves from
+moves the lp
+policy produces a
+before moving from
+granularity of any
+determines the convenience
+selecting the positions
+the lp moves
+value of cr
+interval i s
+collect statistical data
+to estimate probability
+the states passed
+fossil collection procedure
+in case s
+to its subsequent
+its subsequent state
+estimate probability values
+value p e
+the coasting forward
+the lp to
+s will have
+of the state
+s is not
+amount of memory
+pointed out in
+for time warp
+an appropriate selection
+lp from s
+routing of jobs
+events in e
+that s will
+produces a correct
+the fossil collection
+of the events
+the convenience of
+that the selection
+for any state
+to the state
+the probability p
+appropriate selection of
+francesco quaglia andrea
+of 8 kbytes
+quaglia andrea santoro
+set e s
+selection of the
+s to s
+variance of the
+will have to
+associated to the
+the value of
+which moves the
+to any state
+s in case
+case s is
+p s is
+from s to
+probability that s
+a periodic basis
+to the execution
+to s 0
+of the probability
+i e the
+on a periodic
+s as a
+less checkpointing overhead
+account the position
+checkpoint before the
+latest checkpointed state
+checkpointed state preceding
+a rollback to
+through coasting forward
+of executed events
+css 280 280
+memory destined to
+time positive semi
+coasting forward are
+a future rollback
+recording s as
+of intermediate events
+jobs among the
+probability values which
+cases c3 and
+cr s 0
+recovery overhead cr
+coasting forward events
+hot spot lps
+model determines the
+overhead cr s
+the event which
+e with timestamp
+compared to css
+decision is taken
+mbytes css 280
+forward are not
+of memory destined
+css 70 70
+of jobs among
+is recorded or

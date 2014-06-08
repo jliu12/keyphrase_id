@@ -1,0 +1,600 @@
+register
+registers
+loops
+loop
+pipelining
+spill
+pipelined
+invariants
+modulo
+club
+scheduling
+p2l6
+cydra
+schedule
+subexpression
+file
+ictineo
+aggressive
+optimizations
+accesses
+lifetimes
+unrolling
+requirements
+vliw
+innermost
+ayguad
+units
+functional
+llosa
+livermore
+eduard
+maxlive
+variants
+invariant
+p1l6
+files
+iterations
+mateo
+valero
+perfect
+josep
+compilers
+configurations
+scheduled
+initiation
+recmii
+resmii
+zalamea
+mii
+traffic
+configuration
+additions
+microprocessors
+parallelism
+iteration
+cycles
+blocking
+substitution
+subscripted
+cseai
+latency
+elimination
+instruction
+pressure
+allocation
+entering
+unroll
+unrolled
+memory
+javier
+schedules
+recurrences
+microprocessor
+sacks
+r4000
+software
+renaming
+dependence
+removal
+resis
+hypernode
+cumulative
+polaris
+termed
+vliws
+9c
+64
+floating
+compiler
+usage
+effects
+stages
+bigger
+exits
+live
+overlapped
+rotating
+doubling
+departmental
+ilp
+ramp
+1258
+swing
+degradation
+lpez
+21164
+subsystem
+superscalar
+bodies
+9b
+store
+systolic
+resource
+ports
+reused
+lifetime
+bandwidth
+big
+schedulable
+architectures
+extracted
+optimized
+pipeline
+resources
+percentage
+outermost
+steady
+adder
+cmos
+p1l2
+pipelinig
+gressive
+restructurer
+pxly
+doubled
+overlapping
+body
+kernel
+loads
+execution
+optimizing
+degraded
+notice
+organize
+subindex
+cepba
+tfp
+load
+risc
+references
+ii
+additonal
+ap120b
+wands
+caring
+stage
+organizations
+mips
+constrained
+microarchitecture
+processors
+analyzes
+80s
+drains
+mve
+advanced
+compiling
+7100
+1051
+executed
+substituted
+transformations
+spent
+gathered
+vals
+philosophies
+parallelisation
+variant
+recurrence
+1033
+heuristics
+optimization
+tradeoffs
+isters
+divider
+spective
+enlargement
+evaluated
+exploitable
+mizations
+corroborate
+creased
+code
+alpha
+fps
+scheduler
+conversion
+target
+machines
+peak
+register requirements
+software pipelining
+the register
+the loops
+of registers
+spill code
+the loop
+loop invariants
+software pipelined
+register file
+loop variants
+functional units
+loops have
+modulo scheduling
+loop invariant
+64 registers
+pipelined loops
+requirements of
+of functional
+memory accesses
+perfect club
+register files
+registers required
+subexpression elimination
+common subexpression
+the ii
+of loop
+memory traffic
+loops that
+the perfect
+the cydra
+back substitution
+invariant variables
+of loops
+in registers
+loops with
+cydra 5
+a loop
+loop can
+be scheduled
+register allocation
+eduard ayguad
+the innermost
+josep llosa
+machine configuration
+ictineo compiler
+invariant computations
+the ictineo
+with 64
+innermost loop
+registers and
+lifetimes of
+scheduled with
+of memory
+adding spill
+with registers
+the execution
+execution time
+these loops
+of register
+for software
+before entering
+store operations
+32 registers
+high register
+more registers
+loop variant
+the memory
+register pressure
+loops of
+mateo valero
+the effects
+across iterations
+invariant removal
+elimination across
+advanced optimizations
+registers for
+constrained software
+scheduling technique
+effects of
+for loop
+elimination optimization
+variant variables
+few loops
+the optimizations
+notice that
+rotating register
+allocation for
+invariants and
+javier zalamea
+state phase
+zalamea josep
+an ii
+modulo schedules
+6 cycles
+llosa eduard
+livermore loops
+software pipeline
+subscripted variables
+the livermore
+the configurations
+loops in
+of stages
+ayguad mateo
+pipelining a
+loop so
+scheduling techniques
+on performance
+ii of
+execute all
+the latency
+registers the
+per iteration
+initiation interval
+new loop
+of operations
+this optimization
+in vliw
+of aggressive
+without adding
+memory subsystem
+loops are
+memory references
+several iterations
+overlapping the
+of pipelining
+pipelining is
+entering the
+loop is
+big register
+configuration p2l6
+better usage
+few register
+r4000 processor
+bigger loops
+to p2l6
+from p1l6
+also evaluates
+some advanced
+peak machine
+sacks to
+aggressive configuration
+code represent
+using sacks
+p2l6 with
+files for
+schedule for
+ii is
+be extracted
+the cumulative
+performance degradation
+an iteration
+accesses is
+iterations of
+loop of
+vliw machines
+speed up
+performance and
+loops can
+of pipelined
+required by
+the software
+loops and
+a schedule
+invariants for
+units and
+the number
+floating point
+of software
+invariants are
+a speed
+memory bandwidth
+a limited
+to loop
+two iterations
+by overlapping
+doubling the
+compiler in
+loop has
+loops represent
+loop 11
+higher register
+removing loop
+optimization applied
+more temporal
+the 21164
+21164 alpha
+temporal values
+david lpez
+reduced register
+figure 9c
+to livermore
+pipelining optimum
+this spill
+instruction bandwidth
+multiple initiation
+of lifetimes
+load and
+registers is
+cumulative distribution
+the register requirements
+register requirements of
+number of registers
+of functional units
+of the loops
+number of functional
+software pipelined loops
+the perfect club
+common subexpression elimination
+of memory accesses
+the number of
+of loop invariants
+requirements of loop
+of the loop
+number of memory
+loop invariant variables
+of registers required
+can be scheduled
+with 64 registers
+of the perfect
+the cydra 5
+be scheduled with
+these loops have
+the ictineo compiler
+for software pipelined
+loops of the
+the register file
+of the execution
+the loops have
+loop can be
+registers required by
+loop of figure
+the machine configuration
+of loop variants
+loops that require
+adding spill code
+entering the loop
+high register requirements
+register allocation for
+the execution time
+the innermost loop
+constrained software pipelining
+the loop of
+elimination across iterations
+subexpression elimination optimization
+amount of registers
+requirements of loops
+loop invariant removal
+subexpression elimination across
+before entering the
+the effects of
+loop invariant computations
+spill code has
+loop variant variables
+without adding spill
+the common subexpression
+register files for
+with an ii
+and register requirements
+a few loops
+loops have no
+loop invariants for
+functional units and
+loops have been
+loops we have
+steady state phase
+requirements of pipelined
+register requirements are
+loop invariants are
+an ii of
+and store operations
+degree of pipelining
+up of 1
+memory accesses is
+loops for the
+execute all the
+zalamea josep llosa
+to execute all
+javier zalamea josep
+the software pipeline
+number of stages
+load and store
+iterations of the
+the ii is
+llosa eduard ayguad
+of register pressure
+shows the cumulative
+all the loops
+josep llosa eduard
+software pipelining a
+allocation for software
+the memory traffic
+eduard ayguad mateo
+ayguad mateo valero
+by overlapping the
+spill code for
+the memory references
+can be extracted
+of registers and
+of software pipelining
+software pipelining is
+for software pipelining
+the memory subsystem
+a speed up
+speed up of
+cumulative distribution of
+execution time of
+latency and the
+if the number
+the performance degradation
+represent only between
+loops have more
+livermore loop 11
+using sacks to
+shows the ii
+removed and all
+the peak machine
+higher register requirements
+big register files
+requirements of software
+reduced register requirements
+have more temporal
+few register requirements
+register requirements which
+loop invariants which
+peak machine performance
+operations these loops
+the six configurations
+loops have few
+scheduled with registers
+organizations have been
+spill code represent
+executed with an
+stored in registers
+mips r4000 processor
+a better usage
+scheduled without adding
+effects of having
+extraction of loop
+memory traffic of
+that loops with
+to registers before
+to 64 registers
+in the 21164
+performance and register
+registers before entering
+all the innermost
+ii of 6
+v 4 i
+this loop can
+evaluated the register
+better usage of
+allocated in registers
+superscalar instruction execution
+have a speed
+that small loops
+sacks to organize
+the 21164 alpha
+some loop variants
+have few register
+loops with high
+32 registers to
+innermost loop so
+perfect memory system
+p2l6 with 64
+stages of functional
+uses of v
+this spill code
+also evaluates the
+4 i be
+code represent only
+the mips r4000
+of figure 9c
+ictineo compiler in
+store operations these
+number of operations
+the cumulative distribution
+requirements of the
+along the paper
+removing loop invariant
+as software pipelining
+pipelining a systolic
+principles of cmos
+with registers and
+invariants for instance
+data dependence the
+be scheduled without
+suitable for software
+require more registers
+of 6 cycles
+functional units i
+loops in general
+cmos vlsi design
+gathered from this
+with high register
+in registers for
+aggressive scheduling techniques
+instruction execution in
+david lpez josep
+on both performance

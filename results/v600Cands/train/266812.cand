@@ -1,0 +1,600 @@
+smt
+tiling
+tlb
+thread
+tile
+threads
+instruction
+speculation
+blocked
+multithreading
+speculative
+cyclic
+instructions
+optimizations
+compiler
+tiles
+amat
+applu
+tomcatv
+su2cor
+mgrid
+cache
+simultaneous
+hydro2d
+loop
+multiflow
+footprint
+latencies
+specfp95
+throughput
+suif
+multiprocessors
+ilp
+processor
+speedups
+scheduling
+swim
+nsquared
+overhead
+hiding
+parallelism
+parallelization
+splash
+mxm
+multithreaded
+ipc
+spec
+superscalar
+locality
+subsystem
+eggers
+latency
+sharing
+water
+parallelized
+branch
+speculated
+processors
+superscalars
+smts
+0speedup
+specint95
+aggressive
+susan
+profitable
+pipelining
+memory
+thrashing
+misses
+profile
+levy
+miss
+jt
+loops
+tiled
+compilers
+radix
+speculations
+millions
+cycles
+predicated
+architectural
+hide
+prediction
+fft
+conventional
+count
+hardware
+prefetching
+suites
+hyperblock
+henry
+inter
+registers
+caches
+executing
+parallelizing
+itsize
+average1
+jtsize
+tileable
+entry
+m88ksim
+fetch
+array
+resources
+vliw
+execution
+multiprocessor
+lam
+joshua
+8kb
+redstone
+gmt
+blockability
+beneficial
+incur
+shared
+compress
+adi
+train
+sizes
+wrl
+mcdowell
+mean1
+maximizing
+dec
+driven
+128
+benefit
+4x4
+l1
+exposing
+detrimental
+perl
+lu
+coherence
+luke
+layout
+maximize
+issue
+supercomputing
+128k
+nullified
+nest
+cycle
+unrolling
+probable
+contexts
+compiled
+compete
+hierarchies
+anderson
+rates
+trace
+tlbs
+departmental
+benefits
+expose
+sweet
+footprints
+superblock
+timesteps
+cydra
+li
+bold
+speedup
+multiprogrammed
+harm
+dimension
+italics
+carr
+conflicts
+programs
+slots
+60
+functional
+mckinley
+kt
+distribution
+architecture
+machines
+consume
+predictor
+reuse
+units
+sustained
+molecules
+spatial
+increased
+iterations
+workload
+saw
+absorbed
+degrade
+99
+distribute
+speculatively
+executables
+schedulable
+an smt
+simultaneous multithreading
+tile size
+software speculative
+data tlb
+cyclic tiling
+smt processor
+instruction overhead
+speculative execution
+compiler optimizations
+instruction throughput
+software speculation
+8 threads
+dynamic instruction
+tlb footprint
+blocked distribution
+a blocked
+instruction count
+tile sizes
+loop distribution
+loop tiling
+blocked tiling
+the tlb
+0 0
+each thread
+inter thread
+entry data
+iteration scheduling
+tiling overhead
+instructions from
+multiple threads
+the tile
+memory subsystem
+smt s
+mgrid su2cor
+per thread
+48 entry
+without speculation
+splash 2
+loop based
+of threads
+blocked and
+tlb miss
+m x
+profile driven
+for smt
+applu hydro2d
+8 thread
+level parallelism
+branch prediction
+hardware contexts
+of smt
+for blocked
+cyclic distribution
+water nsquared
+simultaneous multithreaded
+average memory
+and cyclic
+execution cycles
+no speculation
+over blocked
+60 60
+blocked loop
+latency hiding
+tile is
+the multiflow
+memory multiprocessors
+of blocked
+miss rates
+tlb sizes
+high ipc
+su2cor swim
+instruction issue
+software pipelining
+instruction level
+optimizations in
+swim tomcatv
+train input
+j eggers
+optimizations that
+wide issue
+on an
+in millions
+susan j
+hydro2d mgrid
+additional instruction
+latencies and
+trace scheduling
+parallel applications
+data locality
+inter processor
+threads to
+henry m
+speculative instructions
+of tiling
+tiling for
+input set
+access time
+threads the
+128 entry
+m levy
+non loop
+tiling is
+executing on
+execution and
+static branch
+for cyclic
+the specfp95
+smt threads
+no spec
+thread instruction
+thread tile
+threads applu
+cycles amat
+overhead instructions
+by smt
+hiding capabilities
+thread data
+8kb page
+blocked parallelization
+speculation overhead
+for multiprocessors
+and loop
+the thread
+a cyclic
+functional units
+larger memory
+size selection
+the tiling
+data sets
+predicated execution
+processor resources
+improving data
+smt because
+entry tlb
+on smt
+mgrid 0
+cyclic loop
+a probable
+smt the
+incur no
+speculative instruction
+multithreading a
+tiling in
+memory latencies
+the compiler
+all threads
+single thread
+conventional processors
+issue slots
+smt is
+three optimizations
+tiles to
+c cyclic
+tiles with
+ipc without
+tlb size
+levy an
+useful instructions
+smt processors
+eggers henry
+thread for
+processor communication
+shared memory
+memory access
+memory hierarchies
+more threads
+applications executing
+speculated instructions
+instructions are
+a simultaneous
+with software
+architectural assumptions
+multi thread
+multiflow trace
+among threads
+scheduling compiler
+more appropriate
+total execution
+compiler directed
+hide memory
+latencies as
+with useful
+data layout
+loop iteration
+appropriate for
+footprint of
+a 48
+with cyclic
+tiling and
+the larger
+both factors
+each tile
+transformations for
+1 0
+speculation is
+parallelization for
+multithreaded processors
+to maximize
+thread level
+on an smt
+software speculative execution
+an smt processor
+dynamic instruction count
+for an smt
+0 0 0
+a blocked distribution
+blocked and cyclic
+entry data tlb
+the tlb footprint
+number of threads
+the data tlb
+compiler optimizations in
+speculative execution and
+su2cor swim tomcatv
+loop iteration scheduling
+execution and loop
+applu hydro2d mgrid
+mgrid su2cor swim
+train input set
+tlb miss rates
+additional instruction overhead
+average memory access
+hydro2d mgrid su2cor
+and loop tiling
+the larger memory
+susan j eggers
+total execution cycles
+in dynamic instruction
+memory access time
+instruction level parallelism
+the tile size
+a cyclic distribution
+henry m levy
+tile size selection
+static branch prediction
+improving data locality
+the dynamic instruction
+executing on an
+latency hiding capabilities
+ipc without speculation
+a 48 entry
+the speculative instructions
+with useful instructions
+of threads applu
+data tlb footprint
+128 entry data
+in cycles amat
+useful instructions for
+memory system resources
+an smt because
+48 entry data
+compete with useful
+high ipc without
+using a blocked
+inter processor communication
+simultaneous multithreading a
+time in cycles
+cyclic loop distribution
+multithreaded processors acm
+processors to minimize
+tile size is
+shared memory multiprocessors
+out of order
+eggers henry m
+instructions from multiple
+m levy an
+j eggers henry
+simultaneous multithreaded processors
+from multiple threads
+appropriate for an
+0 1 0
+more appropriate for
+is more appropriate
+the functional units
+multiflow trace scheduling
+access time in
+trace scheduling compiler
+on a conventional
+the multiflow trace
+thread level parallelism
+to the functional
+and data layout
+the suif compiler
+compiler optimizations for
+1 0 1
+unifying data and
+and control transformations
+memory hierarchies or
+blocked parallelization for
+tlb footprint of
+the tiling overhead
+without software speculation
+for smt rather
+a separate tile
+driven by specific
+latencies and expose
+accuracy and instruction
+by specific assumptions
+in millions average
+2 thread 3
+of smt processors
+a simultaneous multithreading
+therefore optimizations that
+in italics have
+the smaller memory
+thread data sharing
+the additional instruction
+of instruction issue
+thread tile sharing
+s enhanced latency
+48 entry tlb
+benchmark suites from
+for multiple threads
+loop for blocked
+profile driven speculation
+small increases in
+optimizations are often
+speculative execution may
+tiling our results
+thread instruction issue
+in bold have
+for improved superscalar
+for 8 threads
+loop tiling our
+loop distribution policy
+cyclic over blocked
+1 thread 2
+simultaneous multithreading relies
+thread 1 thread
+wide issue superscalars
+su2cor 0 1
+thread 6 thread
+inter thread data
+cyclic iteration scheduling
+thread 8 thread
+exact tile size
+single executing thread
+for k max
+mean1 0speedup versus
+to minimize inter
+for both tlb
+memory machines tile
+bold have high
+an smt however
+inter thread tile
+1 even with
+blocked distribution the
+1 kt for
+incorrect speculations may
+same factors that
+distribution of tiles
+data tlb applu
+tomcatv average1 03
+tomcatv mean1 0speedup
+an smt should
+millions average memory
+incur additional instruction
+consume resources that
+loop based applications
+swim tomcatv average1
+m it itsize
+instructions for processor
+tile is shared
+of applications executing
+each thread for
+tlb applu hydro2d
+non loop based
+suites from spec
+an smt architecture
+to tile size
+a multiprocessor of
+smt processor the
+4 thread 6
+should be compiled
+dec wrl and
+sizes for particular
+cyclic tiling each
+for blocked parallelization
+multithreading relies on
+minimize inter processor
+the multiflow compiler
+mgrid 0 0
+data footprints cyclic
+b 128 entry
+control transformations for
+distribution over blocked
+tile sizes for
+for processor resources
+speculative execution can
+0speedup versus blocked
+likely to compete
+italics have only
+max 1 kt
+threads applu 0
+inappropriate for smt
+a 4x4 array
+smt however tiling
+new cpu benchmark
+instruction issue slots

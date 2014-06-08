@@ -1,0 +1,600 @@
+kinetic
+drift
+phi
+diffusion
+macroscopic
+deltat
+boltzmann
+moment
+discretization
+mobility
+transport
+klm
+knudsen
+expansion
+stability
+upwinding
+gummel
+scharfetter
+discretizations
+hermite
+dv
+electric
+electrons
+particle
+semiconductor
+collision
+coercivity
+deltatx
+semiimplicit
+levermore
+jrj
+boundedness
+convergence
+tends
+expansions
+developped
+rarefied
+stiffness
+fk
+equilibrium
+tensor
+electron
+datum
+grid
+conductor
+gronwall
+hyperbolic
+isotropic
+converges
+regions
+spacings
+scalar
+symmetry
+infinity
+orthonormal
+rv
+cfl
+harmonics
+fi
+dx
+numerical
+density
+dt
+gammac
+scattering
+gammam
+gas
+unded
+fknlnmn
+discreti
+definteness
+elementen
+semidiscretization
+caricature
+minfk
+definitness
+cale
+lynomials
+elektronischen
+gobbert
+ringhofer
+ladungstransportes
+galerkin
+spherical
+polynomials
+relaxation
+mild
+conservation
+shall
+estimators
+parabolic
+orthogonality
+device
+spatial
+ik
+bau
+methode
+hilfe
+maxwellian
+nondimensionalized
+terval
+semidefiniteness
+solves
+orthogonal
+equations
+equation
+adaptively
+monte
+vanishes
+eno
+conductors
+zed
+havex
+laws
+approximating
+weak
+trial
+carlo
+adaptive
+kern
+coefficient
+subsequence
+operator
+hq
+cross
+transition
+velocity
+coupling
+smallness
+ff
+integrating
+sup
+grad
+convergent
+discretized
+semi
+hydrodynamic
+gases
+friedrichs
+analogously
+limit
+diagonalized
+nonsingularity
+favourable
+jvj
+orders
+uniqueness
+kfk
+fronts
+deltak
+implicit
+crystal
+projection
+eigenvalue
+lemma
+estimate
+nondegeneracy
+vs
+oe
+hl
+bo
+compressible
+lax
+multiply
+shock
+nonnegative
+matrices
+thermal
+rigorously
+effort
+symmetric
+subdomains
+collect
+definite
+stiff
+inhomogeneous
+criterion
+gradual
+ode
+bernoulli
+destroyed
+loc
+limiting
+oscillatory
+evolution
+concentration
+positivity
+flux
+convection
+po
+regime
+commute
+deltai
+subsequences
+fitted
+unconditional
+interfaces
+lengthy
+regularized
+uniformity
+drift diffusion
+gamma phi
+the drift
+the moment
+boltzmann equation
+e gamma
+moment expansion
+the boltzmann
+diffusion model
+the kinetic
+moment method
+phi n
+the mobility
+kinetic regions
+time step
+macroscopic and
+moment system
+between macroscopic
+and kinetic
+fi n
+phi t
+mobility tensor
+expansion method
+particle methods
+z f
+the macroscopic
+space discretization
+z z
+diffusion equation
+macroscopic limit
+vs position
+gummel discretization
+knudsen number
+electric potential
+collision cross
+the scharfetter
+scharfetter gummel
+kinetic model
+the knudsen
+z e
+orthonormal system
+moment equations
+mobility is
+discretization of
+moment methods
+i tr
+initial datum
+one dimensional
+in h
+kinetic equations
+dt z
+integrating with
+spatial grid
+tends to
+the collision
+converges to
+i deltat
+the solution
+cross section
+the scalar
+the electric
+solution of
+the transport
+the expansion
+and deltat
+stability result
+hand side
+the stability
+o 3
+x t
+solution f
+6 6
+time independent
+limiting problem
+t klm
+macroscopic regions
+implies boundedness
+h ik
+unique mild
+hermite polynomials
+complete orthonormal
+discretization see
+density vs
+klm x
+a semiimplicit
+expansion tends
+electron density
+the gronwall
+ff tr
+phi jrj
+moment expansions
+jrj 2
+linear kinetic
+levermore s
+numerical effort
+gronwall lemma
+e gammam
+explicit discretizations
+transport terms
+and time
+the stiffness
+method with
+and integrating
+right hand
+as 0
+1 h
+c 0
+discretization for
+of c
+of q
+x v
+assumptions of
+scalar product
+by deltat
+deltat i
+of electrons
+step selection
+x dt
+semi conductor
+mild solution
+dimensional hermite
+z dv
+macroscopic model
+uniform estimate
+grid spacings
+potential phi
+as stability
+dv z
+h onto
+transition between
+stability analysis
+assumption 2
+11 with
+term on
+boundedness of
+collision operator
+phi ff
+expansion procedure
+diffusion problem
+characteristic length
+3 invariant
+relaxation term
+last term
+to zero
+assume 2
+stability criterion
+side tends
+adaptive procedure
+coercivity of
+electrons in
+mean free
+equation is
+ff satisfies
+kinetic equation
+2 dx
+device simulation
+the numerical
+of h
+we shall
+on h
+discretization are
+equilibrium distribution
+deltat we
+cfl condition
+above requirement
+dimensional in
+deltat and
+functions m
+the coercivity
+and convergence
+t z
+of 6
+of 4
+7 2
+solution converges
+c follows
+semiconductor device
+spherical harmonics
+stability and
+j 1
+equation 2
+weak convergence
+phi j
+transport equation
+symmetry of
+see 5
+implementation described
+to x
+the symmetry
+a i
+to infinity
+conservation laws
+equation with
+order of
+free path
+different orders
+f 2
+as k
+the orthogonal
+time discretization
+e gamma phi
+the drift diffusion
+drift diffusion model
+the moment expansion
+the boltzmann equation
+the moment method
+z e gamma
+drift diffusion equation
+of the moment
+the moment system
+between macroscopic and
+moment method with
+and kinetic regions
+macroscopic and kinetic
+phi n 1
+tends to zero
+the time step
+0 1 h
+of the boltzmann
+of the expansion
+1 2 6
+discretization of the
+the macroscopic limit
+taking the scalar
+and integrating with
+transition between macroscopic
+in the macroscopic
+scharfetter gummel discretization
+the kinetic model
+boltzmann equation 2
+the knudsen number
+the scharfetter gummel
+boltzmann equation is
+space discretization for
+the collision cross
+moment expansion method
+collision cross section
+the mobility tensor
+integrating with respect
+by e gamma
+c 0 t
+the initial datum
+fi n 1
+the mobility is
+the moment equations
+j 1 2
+order of the
+for the boltzmann
+with the assumptions
+of the drift
+stability and convergence
+the solution of
+right hand side
+of 2 1
+n 1 x
+6 4 7
+the right hand
+2 1 2
+respect to x
+4 6 4
+c 0 1
+as k 1
+side of 4
+of 5 2
+the one dimensional
+for the time
+equation 2 1
+respect to time
+in c 0
+assume 2 2
+unique mild solution
+convergence result as
+o 3 invariant
+expansion method for
+with different orders
+to x dt
+the limiting problem
+a complete orthonormal
+result as k
+time step selection
+phi jrj 2
+linear kinetic equations
+for linear kinetic
+drift diffusion problem
+the expansion tends
+the spatial grid
+implies boundedness of
+jrj 2 dx
+electron density vs
+phi x t
+electric potential phi
+varying the order
+x dt z
+expansion procedure is
+and the scharfetter
+gamma phi j
+density vs position
+phi phi t
+gamma phi ff
+vs position and
+zero in c
+mild solution f
+with e gamma
+x t klm
+gamma phi jrj
+z f this
+2 11 with
+one dimensional in
+of h onto
+1 h 6
+2 the kinetic
+klm x t
+a space discretization
+solution f 2
+diffusion model as
+moment system in
+potential phi x
+phi t the
+the electric potential
+diffusion model and
+implementation described below
+complete orthonormal system
+the gronwall lemma
+system in h
+of electrons in
+expansion tends to
+the transport terms
+projection of h
+boundedness of q
+a unique mild
+orthonormal system in
+the scalar product
+solution of 2
+of 3 1
+assumption 2 3
+assumptions of section
+deltat i deltat
+diffusion model is
+an equilibrium distribution
+of c follows
+in the moment
+position and time
+1 assume 2
+the coercivity of
+functions m k
+one dimensional hermite
+the stability criterion
+term on the
+on the right
+the last term
+m k are
+term in 4
+with the mobility
+that the drift
+solution converges to
+where the order
+for the drift
+hand side tends
+the order of
+the symmetry of
+to zero in
+every t 0
+3 2 has
+proof we introduce
+gamma phi phi
+the solution converges
+that the moment
+z z e
+in 6 5
+mean free path
+side tends to
+z z z
+the assumptions of
+value problem for
+the stability analysis
+the above requirement
+shall need the
+the implementation described
+and the moment
+space and time
+discretization for the
+s f s
+a convergence result
+converges to an
+of 4 6
+scalar product of
+11 with the
+aspects of an
+1 3 2
+3 1 3
+f s f
+to an equilibrium
+n 1 and
+from 2 4
+problem 3 1
+the density is
+as 0 the
+the problem 3
+problem for the
+lemma 2 1

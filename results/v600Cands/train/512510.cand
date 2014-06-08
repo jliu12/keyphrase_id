@@ -1,0 +1,600 @@
+obdd
+horn
+unate
+succ
+obdds
+imp
+cnf
+horness
+polarity
+unateness
+xn
+jf
+characteristic
+boolean
+yes
+fooling
+checked
+abduction
+jmin
+_
+pol
+f0
+resp
+ipping
+deduction
+diagrams
+dened
+bit
+1g
+node
+checking
+polarities
+representations
+lemma
+halt
+bitwise
+bases
+clauses
+xm
+literals
+rst
+ordering
+jaa
+representing
+dierent
+clause
+cnfs
+incomparable
+var
+fig
+ng
+label
+assignment
+check
+coordinate
+nodes
+jgj
+ciently
+assignments
+satises
+decision
+triple
+negating
+ordered
+exponentially
+edge
+satisfying
+balanced
+partition
+root
+2m
+verication
+quasi
+denition
+binary
+restriction
+roles
+recursively
+componentwise
+compactly
+horiyama
+dominatingly
+madre
+2mgs
+a2bn
+pdierent
+th
+char
+f1
+fx
+coordinates
+2i
+triples
+boros
+endre
+bds
+ipped
+negative
+phenomenon
+njf
+enumerate
+cient
+knowledge
+exchanging
+bottom
+manipulation
+toshihide
+transversals
+encounter
+array
+coudert
+ibaraki
+theories
+dense
+base
+xed
+recognizing
+recognition
+jhj
+pulses
+rutgers
+dene
+stores
+iterate
+subsection
+edges
+implicants
+0011
+aided
+culture
+takashi
+negativity
+hypergraph
+blood
+articial
+gj
+mutually
+outgoing
+assigned
+scientic
+sports
+en
+acyclic
+envelopes
+logic
+restricting
+expanded
+disease
+shannon
+learnable
+negations
+testing
+manner
+fag
+says
+transistor
+fundamental
+nd
+appearances
+bdds
+smallest
+halves
+0001
+bdd
+labeled
+positivity
+polynomial
+diagram
+convenience
+ministry
+professor
+198
+redundant
+satised
+dummy
+checks
+conjunctive
+eld
+minimal
+realizing
+diagnosis
+empirical
+translation
+temperature
+education
+consistency
+lemmas
+minimization
+sizes
+half
+denitions
+mg
+requirement
+np
+reasoning
+sink
+subgraphs
+specied
+191
+propositional
+succ v
+characteristic set
+1 succ
+an obdd
+0 succ
+obdd representing
+imp u
+succ 0
+j xn
+boolean function
+is horn
+bit imp
+given obdd
+variable ordering
+f v
+level v
+in level
+obdd is
+representing f
+requires size
+n variables
+algorithm check
+o jf
+node v
+unate with
+horn function
+f j
+the characteristic
+the obdd
+u v
+f d
+horness of
+is unate
+in step
+m 1
+x i
+binary decision
+a horn
+xn 0
+of obdd
+horn v
+a unate
+the unateness
+and cnf
+the horness
+constant node
+ordered binary
+j x
+e n
+a boolean
+0 edge
+_ x
+with polarity
+bit g
+obdd in
+decision diagrams
+on n
+step 2
+level u
+f bit
+th coordinate
+checked in
+of f
+knowledge bases
+jf j
+step 3
+check horn
+polarity p
+unateness of
+check unate
+fooling set
+xn 1
+l h
+variable node
+1 edge
+v w
+f holds
+and abduction
+three representations
+a fooling
+obdd represents
+the polarity
+obdds are
+and f
+f0 1g
+function f
+o n
+horn if
+exponentially smaller
+whether f
+root node
+r h
+cnf based
+obdds representing
+jmin e
+knowledge base
+if f
+2 f0
+be checked
+by ipping
+horn theory
+minimal models
+1g n
+the size
+a variable
+yes if
+holds if
+variables x
+obdds can
+characteristic models
+size z
+var v
+this obdd
+v is
+lemma 5
+obdd based
+cnf is
+represents f
+f is
+v j
+h r
+up manner
+set requires
+partition l
+and level
+0 v
+function on
+l r
+size o
+nodes u
+f 1
+edge 1
+a cnf
+assigned 0
+checked yet
+imp 0
+smallest obdd
+halt step
+unate boolean
+unate function
+negative theory
+be unate
+quasi reduced
+coordinates among
+obdd that
+satisfying fx
+f checking
+which obdd
+have jmin
+1 m
+v and
+lemma 3
+f 0
+x 1
+represents a
+lemma 2
+level w
+denote whether
+u level
+1 xm
+deduction from
+imp 1
+are yes
+in constant
+is o
+i m
+in fig
+testing whether
+space requirement
+size of
+is dened
+v in
+many boolean
+triple u
+polarity of
+resp negative
+and horn
+balanced partition
+th coordinates
+checking whether
+boolean functions
+constant time
+in o
+1 th
+is checked
+model based
+xm 1
+obdd representation
+property f
+constant nodes
+output yes
+positive resp
+assigned 1
+z n
+f u
+in lemma
+both f
+of assignments
+u and
+label x
+the characteristic set
+imp u v
+f j xn
+on n variables
+0 succ v
+obdd representing f
+1 succ v
+a boolean function
+function on n
+a variable ordering
+v j x
+f v j
+0 and f
+a given obdd
+a horn function
+1 succ 0
+j xn 0
+u v w
+ordered binary decision
+f bit g
+bit imp u
+o jf j
+succ 0 v
+an obdd representing
+l h r
+in o jf
+the horness of
+binary decision diagrams
+i m 1
+j xn 1
+e n i
+boolean function f
+h r h
+with polarity p
+unate with polarity
+size of obdd
+represents a unate
+represents a horn
+0 succ 0
+m 1 th
+given obdd represents
+requires size o
+algorithm check horn
+in step 2
+1 m 1
+n variables x
+holds if and
+obdd represents a
+of an obdd
+given an obdd
+is horn if
+a fooling set
+the size of
+in step 3
+the root node
+f j x
+n variables for
+and f v
+e n 0
+and f 1
+2 f0 1g
+boolean function on
+characteristic set requires
+succ v and
+characteristic set is
+characteristic set and
+requires size z
+set and cnf
+size z n
+f 1 succ
+a constant node
+set requires size
+partition l r
+level v and
+_ x i
+this obdd is
+jmin e n
+1 th coordinate
+algorithm check unate
+by l h
+theory on n
+succ 0 u
+that level u
+such that level
+the unateness of
+size o n
+of the characteristic
+variables for which
+f0 1g n
+j x i
+variable ordering is
+0 edge 1
+edge 1 edge
+f is horn
+xn 0 and
+representing a boolean
+that represents f
+x i k
+can be checked
+an obdd is
+and f j
+a theory is
+step 2 1
+boolean function and
+only if f
+be a boolean
+x i j
+the bottom up
+n i m
+bottom up manner
+consider a function
+each node v
+m 1 m
+computed in constant
+with a variable
+f v is
+size of this
+lemma 5 1
+in constant time
+not checked yet
+or not checked
+since f d
+horn function on
+negative theory on
+polarity p if
+s satisfying fx
+imp 0 succ
+deduction and abduction
+horness of f
+the obdd representing
+a unate function
+horn v for
+checked in step
+to space requirement
+unate boolean function
+is unate with
+exists a negative
+its characteristic set
+the given obdd
+characteristic set of
+model based representations
+and level w
+bases as they
+1 f d
+level u level
+deduction from a
+v in level
+f is unate
+of this obdd
+a negative theory
+u level v
+in level for
+f checking whether
+is positive resp
+by a restriction
+level v is
+and halt step
+cnf based and
+w in step
+obdd is o
+to be unate
+be also checked
+and ordered binary
+and level v
+imp 1 succ
+to denote whether
+a unate boolean
+each triple u
+the smallest obdd
+function f checking
+j f d
+an obdd that
+checking whether f
+obdd that represents
+between f u
+z n 4
+u and level
+level u and
+variable node v
+triple u v
+f 0 succ
+o n while
+no and halt
+of algorithm check
+obdd representing a
+we have jmin
+v and level
+have jmin e
+and bit imp
+for which obdd
+is o n
+f be a
+lemma 2 3
+in the bottom
+variables x 1
+knowledge bases as
+variable ordering the
+0 edge and
+not increase by
+the three representations

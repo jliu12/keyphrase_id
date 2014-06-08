@@ -1,0 +1,600 @@
+chunk
+chunks
+workers
+scheduling
+hs
+scheduler
+worker
+msg
+workload
+load
+gss
+mhlw
+loop
+redistribution
+hsp
+migrated
+processors
+static
+loaded
+hsr
+mllw
+messages
+tc
+loops
+requesting
+processor
+locality
+send
+my
+remote
+processors0
+traveling
+dsss
+sss
+mm
+iterations
+migration
+transferlimit
+numa
+duties
+body
+trapezoid
+lightly
+heavily
+charge
+exit
+memories
+balance
+unbalance
+request
+parallelized
+idle
+efficiency
+migrations
+queue
+finished
+message
+break
+compile
+remotely
+multiprocessors
+affinity
+loopbodysize
+firsttime
+classification
+overhead
+cm
+self
+execute
+executed
+irregular
+balancing
+ads
+sends
+owner
+guided
+machines
+hybrid
+lds
+transitive
+partitioned
+pending
+multiprocessor
+msgs
+migrate
+uniform
+outermost
+schedulings
+replicated
+memory
+factoring
+evenly
+synchronization
+schedule
+closure
+doall
+passing
+performer
+uler
+400
+multiplication
+schedul
+redistributing
+subtasks
+communication
+returned
+sched
+dead
+failed
+received
+alive
+heavy
+counters
+slowest
+iteration
+accomplished
+nested
+arrange
+shared
+gg
+ss
+foreverf
+doserial
+ml94
+0942
+ltss93
+ty86
+sh86
+pk87
+sll93
+rp89
+kw85
+tic92
+tn93
+pol88
+hsf92
+bb91
+lsl92
+hp93
+potencial
+tf92
+sensi
+thi91
+polychronopou
+zha91
+tawbi
+dynamicps
+pkp89
+workloadredistribution
+unbalances
+xuga20604a90
+dynamicp
+luc92
+chaimpaign
+supercomputers
+benchmark
+periodically
+sent
+adjoint
+parallelism
+classify
+else
+specially
+elapsed
+1163
+galicia
+ls93
+tapering
+orchestrate
+hap
+xunta
+sideration
+innermost
+allocation
+matrix
+strategies
+processed
+balanced
+convolution
+actions
+execution
+hamidzadeh
+tiveness
+c03
+ories
+activated
+prevented
+tries
+slow
+bodies
+allocating
+pens
+bet
+intolerable
+lilja
+doacross
+cmmd
+cuted
+dynamic
+coordination
+the scheduler
+the workers
+dynamic scheduling
+self scheduling
+static scheduling
+msg to
+local chunks
+the chunks
+of hs
+the workload
+non executed
+local chunk
+loop body
+the processors
+traveling exit
+remote chunk
+loop scheduling
+a worker
+distributed memory
+local queue
+data locality
+load messages
+messages traveling
+parallel loop
+a load
+dynamic level
+loaded worker
+exit break
+load migrated
+scheduling level
+load finished
+send a
+the load
+the local
+requesting processor
+load request
+local loop
+processors efficiency
+body i
+break case
+heavily loaded
+the loop
+scheduling on
+parallel loops
+worker sends
+my local
+migrated msg
+load needed
+finished msg
+optimal static
+no messages
+locality is
+data returned
+workload redistribution
+static level
+scheduling algorithms
+distribution scheme
+in hs
+guided self
+case load
+chunk and
+next non
+local memories
+communication overhead
+loop is
+executed chunk
+request failed
+scheduling duties
+request msg
+returned msg
+chunk is
+scheme chosen
+chunks to
+non uniform
+chunks of
+in charge
+of processors
+static and
+of workers
+data distribution
+charge of
+of processors0
+all workers
+becomes idle
+the requesting
+scheduler is
+the dynamic
+workers are
+chunks and
+efficiency number
+the execution
+synchronization overhead
+scheduling strategies
+the tc
+loaded processors
+local computations
+shared memory
+lightly loaded
+and dynamic
+worker is
+the chunk
+hs is
+memory machines
+a chunk
+most heavily
+cm 5
+the data
+dead my
+workload counter
+mhlw the
+send load
+to mhlw
+needed msg
+workload counters
+redistribution process
+scheduling hs
+failed msg
+hs performs
+uniform parallel
+remotely processed
+my next
+chunk else
+trapezoid scheduling
+remote chunks
+classification list
+gss 0
+of iterations
+scheduling parallel
+the communication
+queue is
+memory multiprocessors
+the scheduling
+execution of
+scheduling is
+redistribution of
+static schedule
+compile time
+overhead associated
+the static
+the parallel
+the parallelized
+data partitioned
+f send
+parallelized loop
+hybrid scheduling
+the remotely
+message passing
+the classification
+its local
+else if
+workload of
+input matrix
+on distributed
+by demand
+chunk from
+hs in
+workers is
+executed local
+with my
+matrix multiplication
+sends it
+the efficiency
+processed data
+pending messages
+empty no
+concern and
+loop was
+fully dynamic
+hs and
+uniform if
+else send
+transitive closure
+parallel programs
+processor becomes
+case data
+scheduling performance
+communication cost
+processor allocation
+memory multiprocessor
+static load
+are dead
+load among
+major concern
+migration of
+outermost loop
+scheduling strategy
+symbolic analysis
+if no
+workers alive
+remaining chunks
+purely dynamic
+dynamic schedulings
+supercomputers utilizing
+chunks a
+if firsttime
+multidimensional loop
+on numa
+chunk number
+are workers
+dsss is
+send a load
+to the scheduler
+messages traveling exit
+no messages traveling
+of the chunks
+data locality is
+of processors efficiency
+msg to the
+performance of hs
+loop body i
+the parallel loop
+loop scheduling on
+local queue is
+local loop body
+traveling exit break
+my local queue
+load finished msg
+next non executed
+load migrated msg
+of the workers
+all the workers
+guided self scheduling
+number of processors
+of the loop
+optimal static schedule
+exit break case
+data returned msg
+worker sends it
+else if no
+load request msg
+non executed chunk
+heavily loaded worker
+dynamic scheduling strategies
+a worker sends
+its local chunks
+in charge of
+charge of the
+the local memories
+the requesting processor
+number of processors0
+if no messages
+the local computations
+data distribution scheme
+static and dynamic
+the dynamic level
+most heavily loaded
+scheduling on distributed
+efficiency number of
+of the workload
+of its local
+the execution of
+number of workers
+and dynamic scheduling
+on distributed memory
+the communication overhead
+the most heavily
+the workload of
+major concern and
+static scheduling level
+migrated msg to
+the workload redistribution
+chunks of iterations
+static level in
+remotely processed data
+the local chunks
+a load migrated
+empty no messages
+are dead my
+workers are dead
+near optimal static
+processed data block
+mhlw the most
+distribution scheme chosen
+dynamic scheduling level
+a remote chunk
+all workers are
+processors efficiency number
+my next non
+hybrid scheduling hs
+the remotely processed
+the classification list
+request failed msg
+if all workers
+msg to mhlw
+chunk else send
+load needed msg
+dead my local
+else send a
+non executed local
+locality is a
+non uniform parallel
+a load needed
+break case load
+request msg to
+with my next
+level in hs
+requesting processor with
+the parallelized loop
+f send a
+among the processors
+overhead associated with
+distributed memory machines
+to the requesting
+the dynamic scheduling
+the loop body
+scheduling parallel loops
+a load request
+and loop scheduling
+processor allocation and
+the static level
+chunk and the
+dynamic level of
+communication overhead associated
+the scheduler is
+the data distribution
+sends it to
+execution of each
+designed for shared
+processor becomes idle
+dynamic scheduling algorithms
+of hs is
+synchronization overhead and
+a processor becomes
+is empty no
+static schedule for
+after the execution
+if the scheduler
+parallel loop is
+memory parallel machines
+of the scheduling
+of the parallelized
+the data locality
+distributed memory multiprocessor
+a major concern
+the communication latency
+and scheduling of
+all the processors
+with the dynamic
+if the loop
+were designed for
+the loop is
+the outermost loop
+of the local
+of the iterations
+queue is empty
+just after the
+the load is
+the performance of
+of the dynamic
+the workload is
+of the processors
+the cm 5
+local queue execute
+msg store the
+break case request
+local chunk and
+on guided self
+scale parallel processor
+are executing their
+hs in a
+for numa machines
+finished msg to
+70 50 3
+of chunk number
+last local chunk
+alive if all
+redistribution of load
+of data migration
+is static scheduling
+migrated msg execute
+received f case
+exit break gg
+dynamic scheduling duties
+message received f
+g else if
+worker send a
+time partitioning and
+fully dynamic schedulings
+passing distributed memory
+executed local chunk
+switch type of
+have implemented hs
+for large loop
+msg with the
+self scheduling on
+passing scheduler based
+loaded worker send
+execute the chunk
+the remaining chunks
+if firsttime yes
+from my local
+break case data
+efficiency of hsp
+a data returned
+the chunks of
+remove a chunk
+the tc program
+hs and in
+associated with migrations
+local chunks a

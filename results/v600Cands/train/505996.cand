@@ -1,0 +1,600 @@
+decoupled
+decoupling
+latency
+ep
+multithreading
+threads
+l2
+miss
+multithreaded
+ap
+instructions
+perceived
+instruction
+stalls
+lockup
+bus
+cache
+hiding
+latencies
+cycles
+ipc
+thread
+turb3d
+architecture
+slots
+slippage
+load
+superscalar
+su2cor
+misses
+cycle
+operand
+forwd
+apsi
+fetch
+loads
+units
+hydro2d
+wave5
+applu
+smt
+fpppp
+mgrid
+fp
+register
+issue
+ilp
+hazard
+tolerance
+wasted
+hide
+threads1357ipc
+microprocessor
+contexts
+parallelism
+processors
+memory
+fp95
+processor
+throughput
+r10000
+architectures
+execute
+chip
+issuing
+clock
+configurations
+simultaneous
+degraded
+tomcatv
+forwarding
+wait
+hardware
+external
+functional
+ratios
+prefetch
+l1
+pending
+dispatch
+reg
+13571
+saq
+threads1030507090
+addres
+bandwidth
+bottleneck
+effectiveness
+620
+powerpc
+tfp
+disabled
+branch
+registers
+scheduling
+256
+fu
+mips
+stream
+store
+compiling
+slot
+lod
+multicluster
+labelled
+operands
+widths
+files
+iq
+misc
+caused
+compiler
+epic
+synergistic
+compete
+exploiting
+atom
+bytes
+multiscalar
+hardly
+queues
+synergy
+partitioning
+saturate
+swim
+idle
+21164
+bars
+tolerate
+queue
+enabled
+renaming
+dependences
+wm
+benchmarks
+impact
+access
+sustain
+kb
+utilization
+rename
+spec
+mechanisms
+scheduled
+dispatched
+ld
+busy
+issued
+ahead
+proportionally
+saturated
+bandwidths
+alpha
+pipelined
+pipelines
+dec
+prediction
+threads2060100
+architectural51525
+analized
+1030507090110
+tocycle
+2060100140average
+mulithreading
+nondecoupled
+loads20601001401
+totalling
+1357ipc
+empy
+bandwidths2060100
+benchmark2060100
+configuration1030507090
+interrupts
+exploit
+stage
+speculation
+traces
+stall
+window
+stores
+degradation
+mechanism
+integer
+percent
+trace
+reveals
+51525
+disordered
+pews
+tomasulo
+maf
+tomcat
+progressively
+prefetching
+fetched
+modelled
+floating
+breakdown
+duplication
+synchronize
+the ep
+decoupled architecture
+the ap
+multithreaded decoupled
+non decoupled
+l2 latency
+memory latency
+load miss
+miss latency
+decoupled processor
+ap and
+issue slots
+of decoupling
+access execute
+wait operand
+a decoupled
+latency tolerance
+operand from
+latency hiding
+decoupling and
+hiding effectiveness
+decoupled access
+lockup free
+the decoupled
+latency cycles
+latency of
+256 cycles
+decoupled architectures
+functional units
+decoupling is
+memory latencies
+multithreaded architecture
+mgrid applu
+external l2
+free cache
+the latency
+the multithreaded
+fp load
+from memory
+a multithreaded
+simultaneous multithreading
+external bus
+load forwarding
+the instruction
+maximum performance
+from fu
+average perceived
+both units
+perceived load
+l free
+and multithreading
+decoupled multithreaded
+turb3d apsi
+by misses
+decoupled configurations
+applu turb3d
+miss ratios
+store load
+a lockup
+load misses
+processing unit
+few threads
+individual thread
+to hide
+of threads
+threads are
+1 cycle
+integer execution
+bytes cycle
+l2 bus
+4 threads
+integer load
+stalls caused
+dynamic scheduling
+instructions per
+threads the
+hide memory
+and issue
+of issue
+issue logic
+of multithreading
+bus utilization
+ap stalls
+loss relative
+latency perceived
+performance degraded
+decoupled non
+of threads1357ipc
+fu wait
+3 threads
+of slippage
+t decoupled
+perceived miss
+execute architecture
+labelled wait
+l2 memory
+wasted issue
+having from
+perceived latency
+the wasted
+reduced issue
+decoupling a
+wave5 and
+these stalls
+a l2
+cycle l2
+bus bandwidth
+cache is
+superscalar processors
+high memory
+latency is
+the memory
+spec fp95
+issuing from
+powerpc 620
+hardware context
+processor throughput
+useful work
+the miss
+per cycle
+performance loss
+instructions to
+integer loads
+multithreading is
+of decoupled
+issue slot
+issue widths
+of integer
+mips r10000
+the external
+caused by
+performance with
+t non
+ep to
+hydro2d mgrid
+ep the
+exploit ilp
+logic complexity
+multithreading and
+complement each
+have run
+instruction stream
+from 1
+thread is
+the mips
+fetch and
+order processors
+independent instructions
+miss latencies
+su2cor hydro2d
+data cache
+the l2
+of wasted
+perceived by
+branch prediction
+effectiveness of
+the decoupling
+to 6
+cache and
+the powerpc
+issue width
+tolerance of
+thread level
+key factor
+clock speed
+of fp
+physical register
+clock cycle
+the cache
+each processing
+superscalar microprocessor
+negative impact
+level parallelism
+kb l1
+multithreading provides
+units busy
+that decoupling
+configurations having
+proposed multithreaded
+memory hazard
+store addres
+future increases
+l2 latencies
+free forwd
+issue mechanisms
+6 threads
+latency case
+ap to
+slippage reduction
+none forwd
+ep stalls
+decoupling reduces
+since decoupling
+techniques complement
+slippage between
+wasted cycles
+ep respectively
+ap with
+bus bandwidths
+if decoupling
+and the ep
+the ap and
+ap and the
+multithreaded decoupled architecture
+wait operand from
+load miss latency
+latency hiding effectiveness
+decoupled access execute
+the latency hiding
+the multithreaded decoupled
+l2 latency cycles
+lockup free cache
+the non decoupled
+operand from fu
+hiding effectiveness of
+a decoupled processor
+memory latency tolerance
+a multithreaded decoupled
+maximum performance with
+store load forwarding
+number of threads
+a lockup free
+between the ap
+effectiveness of decoupling
+external l2 bus
+caused by misses
+of decoupling and
+the external l2
+perceived load miss
+decoupled multithreaded architecture
+mgrid applu turb3d
+operand from memory
+applu turb3d apsi
+the 1 cycle
+of a decoupled
+free cache is
+of the ep
+miss latency of
+stalls caused by
+out of order
+from 1 to
+decoupled non decoupled
+individual thread is
+of 256 cycles
+a non decoupled
+t non decoupled
+when a lockup
+decoupling is disabled
+the powerpc 620
+perceived latency of
+latency perceived by
+l2 latency of
+non decoupled architecture
+wasted issue slots
+amount of slippage
+fu wait operand
+the ep to
+from fu wait
+miss latency perceived
+multithreaded decoupled processor
+latency of fp
+having from 1
+l2 memory latency
+non decoupled configurations
+8 bytes cycle
+latency of 256
+access execute architecture
+latency of integer
+in the ep
+with 4 threads
+decoupling and multithreading
+hydro2d mgrid applu
+labelled wait operand
+the ap stalls
+both the ap
+number of threads1357ipc
+perceived by an
+issue logic complexity
+cycle l2 latency
+1 cycle l2
+the mips r10000
+the memory latency
+each processing unit
+su2cor hydro2d mgrid
+when the miss
+an individual thread
+the l2 latency
+instructions per cycle
+latency tolerance of
+high memory latencies
+other useful work
+to exploit ilp
+we have run
+to the 1
+complement each other
+hide memory latency
+the maximum performance
+to hide memory
+miss latency is
+thread level parallelism
+a key factor
+by an individual
+up to 4
+ep stalls caused
+l2 latency case
+the ep with
+decoupled architecture is
+independent instructions to
+compiling and optimizing
+forwd l free
+either the ap
+future increases in
+latency effects in
+threads are needed
+idle wait operand
+hardly performance degraded
+fp load miss
+of threads1357ipc decoupled
+decoupled 3 t
+the ep stalls
+loads to the
+combined working set
+with 12 threads
+reduction between the
+memory subsystem store
+into access decoupling
+access execute computer
+the wasted issue
+techniques complement each
+a memory hazard
+latency hiding potential
+performance with just
+the ap to
+load forwarding mechanism
+1 to 256
+a limitation study
+elementary processor architecture
+the spec fp95
+decoupled architecture the
+the ap or
+by exploiting thread
+latency cycles tomcatv
+execution in superscalar
+for decoupled architectures
+several configurations having
+load misses measures
+memory other useful
+an elementary processor
+from memory other
+the ap with
+scaling at a
+the average perceived
+miss latency cycles
+of issue cycles
+the 8 configurations
+issue slots and
+in the saq
+while the decoupled
+limitation study into
+architecture with simultaneous
+the in order
+the ep are
+loss relative to
+and access execute
+ap and 4
+functional units busy
+for several bus
+external bus bandwidth
+optimizing for decoupled
+exploiting thread level
+fp load misses
+of decoupled architecture
+threads the non
+the ep functional
+ep functional units
+threads1357ipc decoupled non
+have run some
+tomcatv su2cor hydro2d
+l free l
+a l2 latency
+a decoupled architecture
+non decoupled multithreaded
+of wasted cycles
+decoupled configurations is
+to the ep
+excellent memory latency
+to 256 cycles
+effects in decoupled
+average perceived load
+reduced issue logic
+slippage reduction between
+free l free
+threads1030507090 of issue
+of several configurations
+the ep the
+the major bottleneck
+6 65 ipc
+microarchitecture which combines
+configurations having from
+proposed multithreaded decoupled

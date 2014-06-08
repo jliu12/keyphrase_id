@@ -1,0 +1,600 @@
+deltas
+inexact
+primal
+deltax
+interior
+ant
+dual
+deltay
+iterates
+residual
+infeasible
+norm
+ff
+singular
+accuracy
+inexactness
+oe
+bk
+proposition
+convergence
+ill
+lengths
+neighborhood
+newton
+conditioned
+feasible
+min
+qr
+vectors
+perturbed
+kojima
+deltaffl
+qmr
+fi
+ks
+renegar
+factorization
+iterate
+euclidean
+matrix
+corrector
+stable
+57
+conditioning
+rows
+inverse
+ck
+polynomiality
+iterative
+reformulation
+gammat
+angle
+inequality
+nearest
+happened
+megiddo
+feasibility
+perturbation
+stopping
+indefinite
+mizuno
+directions
+manifold
+equalities
+diagonal
+posed
+rescaled
+quantity
+constraint
+perturbations
+equality
+xs
+predictor
+degeneracy
+criterion
+practically
+stress
+damped
+44
+maintained
+fl
+infinity
+bell
+presolving
+deltay5
+mentarity
+pieraccini
+deltask
+deltaxk
+smallest
+46
+inverses
+56
+superlinear
+moderate
+away
+boundedness
+lim
+satisfied
+theoretically
+remark
+rank
+anticipated
+verifies
+tts
+mittelmann
+tanabe
+partition
+sparsity
+defining
+columns
+precision
+guarantees
+iterations
+consts
+bellavia
+oen
+x2ir
+optimality
+search
+readily
+subject
+formulate
+stefania
+pseudoinverse
+letter
+opt
+trivially
+appendix
+solving
+angles
+programs
+nonsingular
+requirement
+submanifold
+scaled
+degenerate
+iteration
+inequalities
+comple
+yoshise
+pathways
+numerical
+converge
+matrices
+sup
+karush
+convex
+sensitivities
+orthant
+oneself
+ir
+explain
+48
+vertex
+affine
+sides
+inexactly
+coincides
+sequel
+scalings
+995
+worsen
+monteiro
+distinctly
+sandra
+likewise
+karmarkar
+fit
+certificate
+adler
+block
+fin
+indices
+computations
+tucker
+scaling
+triangular
+meantime
+infeasibility
+destroys
+invest
+kx
+motivation
+meaningful
+nonnegative
+interpreted
+refers
+redundancies
+preprocessed
+approximately
+51
+merely
+theta
+unbounded
+weakened
+68
+kuhn
+relate
+lend
+interior point
+condition number
+linear program
+algorithm 1
+ff ant
+oe min
+ff k
+point method
+n fi
+min a
+step lengths
+the linear
+the primal
+inexact interior
+infeasible interior
+search directions
+constraint matrix
+ant x
+lengths ff
+inexact computations
+relative accuracy
+linear programs
+system 24
+and s
+singular value
+primal dual
+linear systems
+point methods
+ant s
+t deltas
+stable reduction
+search direction
+smallest singular
+block system
+for linear
+a t
+deltay deltas
+point algorithm
+vectors b
+all iterates
+a condition
+linear programming
+the search
+and ff
+accuracy requirement
+x and
+the step
+k s
+primal residual
+inexact search
+perturbation vectors
+inexact infeasible
+deltax t
+iterates generated
+given linear
+feasible solution
+of inexact
+q t
+the condition
+dual residual
+systems 24
+k bk
+to inexact
+46 48
+solution of
+the iterates
+deltax deltay
+of algorithm
+matrix a
+well conditioned
+29 and
+by algorithm
+of 24
+a primal
+number c
+nearest ill
+fl k
+qr factorization
+solution x
+the dual
+accuracy in
+equality constraints
+iterates remain
+criterion 44
+bounded away
+inverse of
+from zero
+t k
+dual feasible
+the inverse
+neighborhood n
+the vectors
+euclidean norm
+the inexactness
+low relative
+and 30
+in 7
+of ff
+d 0
+the accuracy
+3 block
+x 1
+convergence analysis
+see e
+program 1
+b c
+that x
+the interior
+factorization 7
+happened to
+j deltax
+of 46
+t 1
+point algorithms
+ill conditioning
+24 if
+infinity norm
+x s
+the residual
+2 block
+t y
+optimal solution
+the perturbed
+first relation
+t 3
+of primal
+step length
+the neighborhood
+ill posed
+k x
+m 3
+a stable
+the nearest
+the stable
+a feasible
+the stopping
+subject to
+of x
+parameters 1
+algorithms considered
+are bounded
+that t
+in step
+inequality in
+the smallest
+value oe
+remain in
+the equivalent
+perturbed path
+defining n
+computing deltas
+deltas are
+active indices
+19 introduced
+residual here
+one readily
+affine manifold
+primal infeasible
+on xs
+rules 33
+renegar 19
+readily verifies
+problems renegar
+system 40
+deltas 3
+inequality 66
+theoretically one
+deltas 2
+norm neighborhood
+iterate at
+16 uses
+inexactness of
+deltax s
+strictly dual
+infeasible dual
+fi if
+x 2
+in 29
+the constraint
+theta 3
+choice of
+residual r
+conditioned in
+and c
+primal and
+accuracy than
+is some
+ff s
+in 16
+away from
+3 theta
+above definition
+linear system
+programming a
+in algorithm
+2 have
+and dual
+stable representation
+feasible interior
+from 54
+oe min a
+the linear program
+x and s
+interior point method
+ff k s
+x and ff
+the condition number
+inexact interior point
+the step lengths
+infeasible interior point
+a condition number
+step lengths ff
+ff ant x
+of algorithm 1
+interior point methods
+the linear systems
+interior point algorithm
+smallest singular value
+the smallest singular
+singular value of
+and ff ant
+solution of 24
+ant x and
+constraint matrix a
+deltax deltay deltas
+ff ant s
+given linear program
+condition number of
+the search direction
+by algorithm 1
+the search directions
+for linear programming
+a given linear
+the interior point
+iterates generated by
+class of inexact
+ff k x
+inexact infeasible interior
+deltax t deltas
+to inexact computations
+inexact search directions
+the stable reduction
+lengths ff k
+perturbation vectors b
+the primal residual
+generated by algorithm
+away from zero
+accuracy in the
+in n fi
+condition number c
+min a is
+this condition number
+linear program 1
+29 and 30
+inverse of the
+the equivalent to
+the constraint matrix
+the inverse of
+theta 3 block
+algorithm 1 are
+the nearest ill
+1 and 2
+nearest ill posed
+1 and s
+a linear program
+b and c
+of the linear
+a t y
+equivalent to c
+bounded away from
+solving the linear
+a feasible solution
+theta 2 block
+low relative accuracy
+of ff ant
+3 block system
+that all iterates
+neighborhood n fi
+of 46 48
+iterates remain in
+of inexact interior
+of a condition
+of the search
+see e g
+point method for
+as the inverse
+the method in
+linear programming a
+in the residual
+and 2 have
+of the interior
+number of a
+n fi if
+the dual residual
+qr factorization 7
+m 3 1
+2 block system
+algorithm 1 is
+interior point algorithms
+and s 2
+algorithm for linear
+x 1 and
+algorithm 1 the
+in algorithm 1
+prior to solving
+method in 16
+for linear programs
+happened to be
+the neighborhood n
+the equality constraints
+that t 1
+relative accuracy in
+solution x s
+in 29 and
+the iterates generated
+point methods for
+of a linear
+there is some
+vectors b and
+on the smallest
+feasible solution of
+that oe min
+of primal dual
+and ff k
+search directions are
+matrix a t
+of the perturbed
+problems 1 and
+linear program is
+search directions in
+value of a
+3 of algorithm
+algorithms considered in
+of ill conditioning
+for the primal
+the algorithm in
+the matrix a
+b k and
+to the nearest
+d 0 2
+ff k is
+a t i
+to a t
+3 theta 3
+of x and
+the vectors x
+and c k
+2 theta 2
+solution of the
+condition number is
+a b c
+of interior point
+independent of k
+have a solution
+the qr factorization
+and t 3
+the definition of
+k and c
+primal and dual
+the iterates remain
+s of 46
+condition number one
+and k bk
+in 16 uses
+problems renegar 19
+adapted to inexact
+program d 0
+linear system 24
+computing deltas 2
+relative change of
+norm neighborhood of
+system 24 with
+one readily verifies
+norm 1 we
+1 are unbounded
+program and explain
+renegar 19 introduced
+deltas n in
+on oe min
+j deltax t
+19 introduced a
+readily verifies that
+standard machine precision
+the parameters 1
+scaled to euclidean
+t deltas n
+k s may
+primal dual problems
+follows from 54
+a are scaled
+linear systems 24
+fi if the
+k 3 e
+remain in n
+min a of
+the perturbed path
+by the inexactness
+ant s are
+x deltax s
+infeasible dual feasible

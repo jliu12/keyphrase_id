@@ -1,0 +1,600 @@
+dogma
+lut
+gate
+mmd
+fanins
+depth
+bin
+sgd
+decomposition
+chortle
+speed_up
+flowmap
+tos
+mapping
+stratum
+fanin
+cutmap
+gsbp
+ffd
+rugged
+packing
+decomposed
+structural
+bins
+fpga
+packed
+mc
+height
+dmig
+cut
+fpgas
+subnetwork
+tech_decomp
+gates
+3sat
+bfd
+luts
+pis
+strata
+node
+sesl92
+too_large
+benchmarks
+pi
+network
+networks
+synthesis
+codi94a
+feasible
+technology
+nodes
+9symml
+rot
+rectangle
+minimization
+chcd92
+frrv91b
+c6288
+decompositions
+logic
+np
+min
+msd
+circuits
+subnetworks
+algebraic
+unbounded
+delay
+script
+728
+boolean
+decompose
+designs
+decomposes
+literal
+t481
+lapp94
+dfmap
+leew96
+cohw95
+resynthesis
+965
+clause
+lookup
+des
+ckt
+wa89
+cone
+fanout
+area
+724
+collapsed
+alu2
+alu4
+heuristic
+sis
+00
+subfunctions
+cordic
+circuit
+fanouts
+j3
+runtime
+programmable
+functionally
+267
+lewe96
+z4ml
+7674
+de94
+rasp
+dalu
+wuea95
+subtotal2
+codi94b
+ru89
+pack
+label
+bounded
+heuristics
+structurally
+functional
+crf
+buffer
+duplication
+3l
+171
+2l
+inputs
+flow
+labels
+connect
+implements
+1l
+combinational
+count
+c432
+mcnc
+969
+690
+created
+collapse
+dag
+directed
+pos
+buffers
+minutes
+507
+runtimes
+arrays
+truth
+labeled
+723
+map
+benchmark
+integrated
+obtains
+sram
+root
+employed
+clauses
+iterates
+hours
+divisions
+named
+grouping
+ary
+covered
+jl
+rooted
+cube
+po
+261
+prepared
+expands
+xor
+collapsing
+objective
+satisfiable
+18824
+7836
+p_max
+inc_q
+7689
+as59
+codi96
+techmap
+quickturn
+cohw96
+tum
+copd96
+yawo94
+pga
+subtotal3
+7773
+boolmap
+cu61
+4700
+frrv91a
+legl
+gate decomposition
+mapping depth
+structural gate
+dogma m
+lut mapping
+mmd n
+technology mapping
+k bounded
+k feasible
+bounded network
+sgd k
+mapping solution
+d v
+simple gate
+network n
+bounded networks
+lut based
+depth optimal
+based fpga
+node v
+for lut
+min height
+k lut
+feasible cut
+depth q
+gsbp problem
+mc ffd
+chortle d
+v n
+2 bounded
+mmd d
+input v
+mapping area
+height k
+5 bounded
+packed into
+c rugged
+the gsbp
+s q
+height q
+the sgd
+minimum mapping
+mapping solutions
+optimal technology
+decomposition algorithms
+stratum of
+based fpgas
+subnetwork n
+global stratum
+n mmd
+cut of
+of height
+g q
+d a
+n v
+depth of
+depth and
+c j
+bin packing
+in lut
+dogma and
+fanins in
+and dogma
+k sgd
+l i
+of depth
+k problem
+a k
+fpga designs
+and tos
+for depth
+speed_up and
+the rugged
+under decomposition
+feasible bins
+completely decomposed
+k unbounded
+decomposed network
+a depth
+decomposition algorithm
+b c
+l j
+of gate
+q f
+rugged script
+one bin
+gate networks
+mapping algorithms
+mapping for
+s k
+a mapping
+the mc
+1 00
+to dogma
+bin node
+ffd packing
+fanin cone
+common fanins
+lut network
+lut networks
+packing heuristic
+mapping approaches
+directed technology
+hard for
+min cut
+the network
+performance directed
+decomposition step
+depth for
+c d
+a bin
+t s
+fpga technology
+depth minimization
+c original
+the mapping
+comparing to
+input l
+v is
+for k
+n k
+decomposition for
+denoted as
+logic synthesis
+the lut
+decomposition approaches
+fanins of
+mapping results
+and lut
+table based
+output node
+k d
+d e
+larger mapping
+depth reduced
+smaller mapping
+d dogma
+local stratum
+delay oriented
+structural algebraic
+tech_decomp dmig
+ffd heuristic
+in dogma
+dmig chortle
+22 728
+tos m
+m speed_up
+bin nodes
+feasible bin
+in n
+s d
+are packed
+optimal mapping
+delay minimization
+k 3
+decomposition and
+minimization in
+g h
+q 1
+be packed
+x v
+np hard
+pi s
+a t
+the 3sat
+best mapping
+simple gates
+benchmarks in
+k 5
+is np
+instance f
+e f
+00 1
+area minimization
+gate type
+labels l
+k pi
+any structural
+bin b
+flow network
+for delay
+v v
+mapping in
+logic optimization
+the depth
+nodes in
+node w
+are decomposed
+w i
+x i
+7 267
+stratum s
+lut input
+duplication free
+algebraic or
+tos s
+then mmd
+in chortle
+step mapping
+sis sesl92
+structural gate decomposition
+d v n
+k bounded network
+lut based fpga
+height k feasible
+min height k
+k feasible cut
+cut of height
+for lut based
+gate decomposition algorithms
+a simple gate
+a k bounded
+d a t
+bounded network n
+mmd d v
+of depth q
+mapping depth of
+a mapping solution
+the gsbp problem
+a t s
+t s d
+g q f
+s d a
+stratum of depth
+minimum mapping depth
+height q 1
+feasible cut of
+the sgd k
+hard for k
+optimal technology mapping
+of height q
+technology mapping for
+depth optimal technology
+a k feasible
+based fpga designs
+the minimum mapping
+mapping solution of
+in lut based
+the mc ffd
+2 bounded networks
+gate decomposition algorithm
+dogma and dogma
+sgd k problem
+n mmd n
+gate decomposition for
+k sgd k
+and dogma m
+for depth optimal
+np hard for
+n c j
+node v is
+node v v
+simple gate networks
+k feasible bins
+gate decomposition in
+the rugged script
+mmd n v
+the global stratum
+in g q
+c d e
+b c d
+a b c
+mapping depth and
+of gate decomposition
+performance directed technology
+k problem is
+and lut mapping
+a mapping depth
+gate decomposition and
+5 bounded networks
+input l i
+the mapping depth
+decomposition and lut
+based fpga technology
+fpga technology mapping
+mapping depth for
+pi s k
+into one bin
+mc ffd packing
+k lut mapping
+into 2 bounded
+directed technology mapping
+depth and area
+a depth of
+1 00 1
+packed into one
+s k n
+are packed into
+be packed into
+in figure 11
+global stratum of
+d v l
+chortle d dogma
+bounded network node
+and input v
+network n 2
+the k sgd
+lut based fpgas
+of the gsbp
+input v 3
+decomposition algorithm d
+lut mapping algorithms
+tech_decomp dmig chortle
+dogma m speed_up
+bin b i
+gate decomposition approaches
+table based fpgas
+dmig chortle d
+lookup table based
+v n mmd
+subnetwork n k
+network n f
+sgd k d
+k feasible bin
+depth for all
+problem is np
+d e f
+for k 3
+is np hard
+network node v
+the best mapping
+delay minimization in
+n k c
+clause c j
+solution of n
+in a mapping
+network in figure
+00 1 00
+can be packed
+l j k
+the network n
+is k bounded
+be a k
+c j is
+five structural gate
+mapping solution m
+simple gate and
+benchmark set c
+k pi s
+two step mapping
+step d v
+depth of 2
+k n s
+k d problem
+mmd n mmd
+nodes denoted as
+stratum s q
+for each depth
+have a depth
+in n c
+mapping for lut
+in chortle d
+to dogma m
+ffd packing heuristic
+the 5 bounded
+lut input size
+for k 5
+s q of
+with labels l
+in sis sesl92
+min cut of
+dogma m results
+1 exists for
+k c j
+multiple gate decomposition
+decomposition step d
+gate and input
+algebraic and boolean
+depth reduced node
+of min height
+circuits d a
+local stratum of
+s q into
+minimization in lut
+speed_up and tos
+any structural gate
+decomposition for depth
+h f d
+for lut mapping
+in c rugged
+figure 11 a
+nodes in g
+v be a
+e f x
+n s k
+k d v
+n k f
+g h f
+k bounded for
+depth of 3
+a node v
+d a d
+the input network
+the benchmark set
+v v be
+m results in
+corollary 1 1
+has a depth
+c g h
+comparing to the

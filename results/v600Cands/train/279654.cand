@@ -1,0 +1,600 @@
+checkpoint
+checkpointing
+dsm
+dsmpi
+daemon
+checkpoints
+daemons
+message
+mpi
+cn
+messages
+owner
+shared
+recovery
+checkpointed
+take_chkp
+coordinated
+logging
+stable
+disk
+ownership
+consistency
+overhead
+rollback
+protocol
+owner_update
+silva97
+blocking
+storage
+orphan
+transparent
+failures
+commit
+protocols
+processes
+li89
+assure
+recoverable
+minutes
+portability
+directory
+tentative
+central
+permanent
+file
+passing
+coordinator
+object
+plank95
+chkp
+status_file
+invocation
+missing
+sor
+disks
+mtbf
+read
+coherence
+replicated
+libckpt
+directories
+tolerate
+lazy
+orca
+memory
+fault
+invalidate
+posix
+committed
+private
+sent
+nfs
+cache
+workstations
+silva92
+keleher94
+cabillic95
+took_chkp
+kermarrec95
+stumm90b
+transit
+gauss
+interval
+replayed
+server
+probable
+replication
+owners
+objects
+hours
+failure
+tolerance
+processor
+reply
+rpc
+compliant
+remote
+ivy
+release
+tagged
+master
+logged
+carries
+consistent
+crl
+munin
+8500
+recoverability
+synchronization
+1024
+dash
+roll
+routines
+lrc
+swapping
+barriers
+occurrence
+processors
+treadmarks
+behalf
+layer
+restart
+832
+migratory
+recover
+sending
+longitudinal
+startup
+copy
+forwarding
+semaphores
+domino
+portable
+host
+wants
+ethernet
+optimizations
+uncontrolled
+broadcast
+programmer
+hang
+transient
+transaction
+paragon
+platforms
+request
+solves
+writing
+sender
+thread
+proceeding
+herein
+saved
+crash
+sake
+implements
+schemes
+continuity
+unix
+receives
+kbytes
+plank94
+mpi94
+johnson95
+long95
+costa96
+janssens93
+carter93
+janakiraman94
+ornl95
+2083
+nitzberg91
+nqueens
+likckpt
+raina92
+elnozahi92
+epcc
+eskicioglu95
+neves94
+35495
+sigkill
+wilkinson93
+wu89
+carter91
+richard93
+elnozahy92
+stumm90a
+ickp
+ncia
+kranz93
+kaashoek92
+watermark
+mpi_world_comm
+read_reply
+515253545
+choy95
+suri95
+brown94
+multicopy
+tracs
+stable storage
+the dsm
+the checkpoint
+distributed shared
+shared memory
+dsm system
+the checkpointing
+the daemon
+of dsmpi
+coordinated checkpointing
+checkpointing algorithm
+global checkpoint
+dsm systems
+performance overhead
+current owner
+dsm protocols
+central disk
+a checkpoint
+message passing
+the application
+checkpoint interval
+previous checkpoint
+checkpointing scheme
+potential missing
+non blocking
+of consistency
+recoverable distributed
+missing message
+the processes
+daemon processes
+shared object
+blocking coordinated
+central file
+invocation message
+the cn
+missing messages
+cn value
+tentative checkpoint
+20 minutes
+in stable
+of mpi
+application processes
+shared data
+be checkpointed
+per checkpoint
+file server
+checkpoint in
+independent checkpointing
+transparent checkpointing
+checkpoint protocol
+local checkpoint
+local checkpoints
+shared objects
+consistent checkpointing
+local disks
+application process
+daemon has
+take_chkp message
+checkpointing mechanism
+distributed stable
+memory systems
+the local
+checkpoint of
+of portability
+implemented on
+daemon to
+our dsm
+checkpoints to
+private data
+checkpointing and
+overhead per
+a permanent
+a dsm
+the daemons
+of stable
+between checkpoints
+the probable
+logging for
+protocols of
+factor k
+the read
+message logging
+a checkpointing
+for dsm
+fault tolerance
+checkpoints of
+message carries
+the checkpoints
+checkpointing is
+recovery procedure
+a take_chkp
+potential orphan
+cn than
+last committed
+before consuming
+posix compliant
+mpi layer
+maximum overhead
+dsm directories
+messages daemon
+read transaction
+local cn
+owner_update messages
+between daemons
+probable owner
+to daemon
+the dsmpi
+other dsm
+committed checkpoint
+job swapping
+ownership scheme
+replicated data
+checkpoint is
+read write
+to assure
+local disk
+checkpointing in
+processor failures
+checkpoint and
+write operations
+blocking algorithms
+distributed scheme
+a posix
+static distributed
+logical checkpoint
+rpc like
+orphan messages
+made independent
+checkpointing schemes
+that tool
+its checkpoint
+checkpoint file
+local one
+permanent failure
+this daemon
+sor application
+replayed in
+daemons and
+object location
+system mpi
+the overhead
+local cache
+to tolerate
+memory a
+the central
+a global
+the occurrence
+of replicated
+carries a
+startup phase
+our checkpointing
+checkpoint files
+new owner
+checkpoint before
+the processors
+three different
+to commit
+checkpointing protocol
+orphan message
+consistent shared
+thread safe
+to checkpoint
+already taken
+the recovery
+of consistent
+overhead of
+an overhead
+different models
+the private
+tolerate any
+of dsm
+be logged
+for checkpointing
+tagged with
+messages that
+consistency of
+each shared
+rollback propagation
+during recovery
+memory coherence
+the coordinator
+owner is
+in transit
+storage is
+on top
+message the
+the master
+disks of
+checkpoints and
+owner to
+assure the
+the scheme
+the system
+failures are
+lazy release
+dash multiprocessor
+of recovery
+checkpoint the
+different protocols
+the sor
+distributed shared memory
+the dsm system
+the current owner
+the previous checkpoint
+models of consistency
+the dsm protocols
+recoverable distributed shared
+in stable storage
+all the processes
+a global checkpoint
+of the dsm
+non blocking coordinated
+central file server
+overhead per checkpoint
+the central disk
+the local disks
+of stable storage
+a non blocking
+the performance overhead
+our dsm system
+distributed stable storage
+levels of stable
+top of mpi
+and 20 minutes
+the local checkpoints
+previous checkpoint interval
+of the checkpoint
+shared memory a
+of the application
+stable storage is
+the daemon processes
+of consistent checkpointing
+checkpoint of the
+the checkpoint of
+in the checkpoint
+of replicated data
+stable storage scheme
+assure the continuity
+cn than the
+storage is implemented
+a take_chkp message
+protocols of consistency
+potential orphan message
+the checkpointing scheme
+the probable owner
+its n th
+transparent checkpointing algorithm
+of 2 minutes
+interval between checkpoints
+current owner to
+potential missing message
+communication system mpi
+the last committed
+the cn value
+performance overhead when
+during the startup
+the checkpointing protocol
+replayed in case
+the mpi layer
+a posix compliant
+potential missing messages
+a distributed stable
+a central file
+consistent shared memory
+read write operations
+the occurrence of
+shared memory the
+implemented on top
+in distributed shared
+made independent of
+the startup phase
+a permanent failure
+a static distributed
+the global checkpoint
+to be checkpointed
+a dsm system
+owner to the
+the sor application
+stable storage and
+global checkpoint is
+messages that are
+to the dsm
+take a local
+message carries a
+a local checkpoint
+the private data
+interval of 2
+the new owner
+a checkpoint in
+passing and shared
+the shared objects
+consistent checkpointing in
+in the dsm
+not need to
+fault tolerance in
+process p i
+to take a
+on top of
+of consistency and
+to stable storage
+checkpoint in the
+performance of consistent
+the checkpointing algorithm
+three different models
+memory a survey
+during the recovery
+disks of the
+the recovery procedure
+for the sor
+of the checkpointing
+the factor k
+and models of
+was implemented on
+different models of
+the dash multiprocessor
+10 and 20
+able to recover
+is implemented on
+shared virtual memory
+distributed memory systems
+5 10 and
+order to exploit
+that are sent
+the application programmer
+implementation and performance
+it does not
+of the processors
+the sending of
+of distributed memory
+dsm system exchanges
+20 minutes the
+other dsm systems
+consistency and models
+processes that tool
+sake of portability
+has already taken
+of our dsm
+the replication protocol
+a tentative checkpoint
+do not log
+independent checkpointing and
+static distributed scheme
+tool works for
+before consuming the
+the scheme only
+in parallel orca
+of consistency but
+occurrence of orphan
+read invocation message
+standard unix machines
+carries a cn
+two level stable
+level stable storage
+any specific feature
+that is located
+several protocols of
+the local one
+distributed ownership scheme
+multi copy the
+protocols the scheme
+that tool works
+overhead of 6
+the libckpt tool
+are checkpointed only
+current owner is
+object location directory
+systems generate more
+a protocol message
+protocol message that
+parallel orca programs
+results were taken
+the daemon associated
+a global consistent
+checkpointing schemes for
+system and makes
+need to log
+nothing was changed
+dsm protocols we
+assure consistency of
+requires a posix
+missing message the
+for standard unix
+case of recovery
+the transparent checkpointing
+shared data object
+daemon d k
+was made independent
+be checkpointed more
+sor application with
+after taking its
+each shared data
+the object location
+blocking coordinated checkpointing
+checkpoint before consuming
+scheme only requires
+replication and three
+the dsm layer
+inside the mpi
+heterogeneous computing platforms
+cn equal to

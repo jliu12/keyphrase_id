@@ -1,0 +1,600 @@
+robots
+tile
+mrg
+robot
+tiles
+grid
+targets
+protocol
+pack
+visit
+inert
+peano
+subgrid
+subgrids
+substep
+pu96
+ip
+corner
+quadrant
+substeps
+row
+circulate
+swap
+routing
+ffi
+st95
+sorting
+indexing
+moves
+target
+occupying
+hamiltonian
+numbered
+aisles
+sorted
+visited
+orchestrate
+stage
+column
+odd
+bottom
+quadrants
+balancing
+reside
+protocols
+batcher
+comment
+laws
+round
+leftovers
+sensory
+resp
+positions
+agents
+potato
+rows
+destinations
+phase
+active
+visits
+traversing
+diameter
+movements
+relocate
+tour
+subsequences
+unvisited
+br
+sensor
+northwest
+half
+social
+societies
+arbiter
+stay
+optimality
+locations
+top
+evenly
+geometrically
+staircase
+permutation
+permutes
+suboptimal
+accomplished
+move
+indices
+executed
+th
+swaps
+completed
+devise
+deterministic
+comply
+destination
+merging
+topmost
+phases
+adjacent
+nodes
+partitioned
+themselves
+southeast
+4c
+log
+permuting
+agent
+permute
+collisions
+disappear
+nxn
+geppino
+mor66
+vaccaro
+pagli
+preminger
+ns95
+bitrarily
+st92
+afips
+quires
+sib95
+kieran
+synchronicity
+pietracaprina
+pucci
+bat68
+herley
+governing
+traverse
+rules
+movement
+employed
+descending
+residing
+spot
+omega
+rectangular
+2i
+square
+lei92
+relocations
+geodetic
+unoccupied
+packet
+primitives
+columns
+node
+mobile
+entails
+packing
+occupied
+leftover
+lodi
+complied
+luccio
+participate
+hot
+rounds
+stages
+visiting
+scandinavian
+parked
+reprogramming
+travelling
+2e
+altogether
+suitably
+theta
+subsequence
+ugo
+iv
+message
+2c
+regard
+regulates
+primitive
+ties
+artificial
+beginning
+worst
+packings
+sort
+ends
+northeast
+relocation
+analogously
+packets
+fake
+complies
+upfal
+ffl
+redistribute
+towards
+detect
+arbitrarily
+snake
+bx
+bitonic
+crete
+the robots
+mrg n
+the mrg
+robots in
+each robot
+the grid
+d problem
+t column
+the tile
+target row
+of robots
+o ip
+one robot
+n time
+ip time
+ffi tile
+robots are
+n m
+m d
+their targets
+tile k
+all robots
+m robots
+compare swap
+to visit
+two robots
+substep 2
+targets in
+other robots
+the peano
+peano indexing
+grid nodes
+a robot
+top left
+left corner
+m n
+numbered t
+its targets
+robots on
+an mrg
+robots pack
+inert robots
+subgrids of
+stage i
+the robot
+optimal theta
+robots that
+moves to
+of step
+the protocol
+robot in
+j compare
+pack to
+ffi tiles
+grid node
+mrg system
+tile s
+t row
+a tile
+takes o
+lower half
+deterministic protocol
+corner of
+upper half
+1 problem
+cycle traversing
+ffl phase
+robots reside
+4 tiles
+directed hamiltonian
+circulate along
+o n
+t j
+their target
+bottom left
+step 1
+robots with
+protocol is
+ffi i
+the bottom
+after step
+time proof
+step 2
+n 4
+major indexing
+independently within
+the subgrid
+phase iii
+range sensor
+tiles in
+robots can
+the sorted
+the top
+d n
+tile and
+in tile
+grid as
+4 i
+traversing all
+tile in
+occupying the
+same row
+tiles of
+ffi 4
+in t
+the t
+t 2
+pack towards
+active robot
+social laws
+theta ip
+robots have
+merging stage
+robots at
+th merging
+h tr
+visit their
+robots of
+1 targets
+in pu96
+robot per
+square subgrids
+visited their
+swap step
+phase iv
+aisles in
+active robots
+the inert
+hamiltonian cycle
+each tile
+a grid
+sorted sequence
+robot s
+quadrant of
+of size
+laws for
+protocol that
+i th
+end up
+h br
+bound showing
+robot at
+per tile
+target protocol
+positions itself
+grid so
+running time
+message routing
+protocol must
+odd numbered
+towards the
+short range
+tile for
+tiles with
+by target
+column t
+robots to
+time o
+odd the
+in stage
+visit the
+up in
+t columns
+the tiles
+single target
+each ffi
+robot with
+the sorting
+the ffi
+right corner
+bottom right
+row major
+batcher s
+robot can
+any instance
+protocol for
+move to
+the balancing
+t rows
+time overall
+single destination
+right quadrant
+instance of
+itself at
+of tiles
+four phases
+evenly among
+half of
+our protocol
+second round
+mobile robots
+phase ii
+the column
+the i
+accomplished in
+at distance
+the running
+step i
+in each
+then moves
+mrg n m
+n m d
+the mrg n
+m d problem
+of the mrg
+m n 4
+the robots in
+robots in each
+the peano indexing
+moves to the
+o n time
+i j compare
+robots in the
+j compare swap
+2 the robots
+of the tile
+top left corner
+to the top
+the robots are
+in the grid
+an mrg system
+m 1 problem
+numbered t column
+the grid nodes
+the tile s
+for the mrg
+d problem with
+most one robot
+the grid as
+o ip time
+the top left
+in the tile
+the lower half
+the upper half
+n m 1
+of the grid
+cycle traversing all
+robots on a
+order to visit
+number of robots
+pack to the
+substep 2 a
+short range sensor
+1 the robots
+of their targets
+in an mrg
+circulate along a
+hamiltonian cycle traversing
+of m robots
+a directed hamiltonian
+to the peano
+subgrids of size
+directed hamiltonian cycle
+targets in t
+odd numbered t
+the bottom left
+end up in
+targets in the
+along a directed
+problem with m
+in t j
+row major indexing
+on the grid
+bottom left corner
+in stage i
+m n 1
+instance of the
+to the bottom
+the same row
+the sorted sequence
+protocol for the
+upper half of
+n time proof
+in the upper
+inert robots pack
+square subgrids of
+tiles of size
+robot per tile
+the robots reside
+th merging stage
+d 1 targets
+i th merging
+bottom right quadrant
+column t 2
+ip time overall
+tile s top
+their targets in
+robots reside in
+positions itself at
+tile and then
+single target protocol
+by target row
+deterministic protocol that
+optimal theta ip
+their target row
+theta ip time
+pack towards the
+the grid so
+of other robots
+the t column
+of robots in
+s top left
+in tile k
+the robots pack
+grid so that
+robots of r
+4 i gamma1
+compare swap step
+if the robots
+other robots at
+all the robots
+one robot per
+the inert robots
+grid node or
+an i j
+for m n
+the i th
+any instance of
+with m n
+in the t
+towards the bottom
+to their target
+the compare swap
+robots that have
+theta n time
+o p n
+step i with
+the four phases
+traversing all the
+lower bound showing
+the single target
+p n time
+the protocol is
+left corner of
+tiles in the
+of step 1
+the running time
+of step 2
+in each tile
+itself at the
+of stage i
+n 1 gamma
+the row major
+in time o
+at the end
+in the lower
+for mobile robots
+the protocol must
+presence of other
+time proof the
+and then moves
+a single destination
+corner of the
+takes o n
+n 4 2
+2 b 2
+the second round
+right corner of
+n 4 and
+case of d
+to visit the
+i with i
+end of step
+2 i k
+d n and
+1 gamma ffl
+at the beginning
+detect the presence
+the end of
+in the peano
+round the inert
+a grid edge
+in each odd
+visit its targets
+sorted by target
+that each robot
+robots active in
+target row with
+t robots on
+delta 4 i
+each active robot
+n 4 tiles
+same target row
+visit all of
+visit up to
+an optimal theta
+ffi i tile
+a multi robot
+tile s bottom
+stage 0 and
+corner of its
+j move to
+descending from northwest
+each ffi tile
+each row pack
+laws for mobile
+of its tile
+robots and a
+when a robot
+compare swap operator

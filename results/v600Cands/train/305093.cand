@@ -1,0 +1,600 @@
+prefix
+pa2
+latency
+csa
+pa1
+adder
+asynchronous
+channel
+inputs
+circuit
+circuits
+adders
+log
+otimes
+chp
+omega
+serial
+tree
+neutral
+channels
+propagate
+delay
+handshaking
+pipelined
+throughput
+gate
+kpg
+carry
+ripple
+synchronous
+buffers
+subtree
+guards
+chun
+yen
+stages
+buffering
+shifter
+going
+bit
+fan
+acknowledge
+stage
+insensitive
+rd
+expansions
+pipeline
+asy
+hmi
+leaf
+ld
+depth
+cmos
+quasi
+processes
+fig
+ne
+reset
+longest
+leighton
+nand
+folded
+binary
+64
+gates
+signals
+pipelining
+lin
+outputs
+pr
+halves
+worst
+vertical
+phase
+x_2
+rippling
+hlog
+kinniment
+associative
+csp
+communicating
+arrives
+picks
+x_1
+1585
+precharged
+burks
+x_k
+compilation
+workloads
+root
+picking
+z4
+leaps
+harchol
+keng
+neutrality
+leading
+detract
+2ns
+competing
+fifo
+valid
+pick
+1ns
+1595
+gemmell
+cdots
+shifting
+winograd
+mealy
+hspice
+spa
+receiving
+delays
+bits
+ms
+32
+arrows
+command
+ary
+suspending
+h4
+nq
+correctly
+modification
+datapaths
+domino
+hsiao
+probability
+hsien
+fanin
+ladner
+renewal
+nan
+extrapolated
+sooner
+intermediate
+restated
+hl
+permit
+handshake
+appendix
+transistors
+leaves
+node
+balanced
+merge
+delta
+martin
+down
+abstractthe
+send
+received
+vlsi
+hoare
+kill
+unfolding
+304
+rewrite
+instrument
+resetting
+semiconductor
+split
+gammap
+read
+2d
+236
+encoded
+alu
+composition
+waiting
+army
+externally
+outlined
+fisher
+produced
+position
+proportional
+identity
+buses
+fashion
+encoding
+unordered
+circuitry
+average
+hsu
+prefixes
+circumvent
+chin
+expansion
+output
+internal
+downward
+dlog
+upward
+arrive
+graduate
+parallelize
+279
+prefix computation
+the prefix
+case latency
+prefix problem
+log n
+going phase
+o log
+computation tree
+the tree
+average case
+down going
+latency of
+pa1 32
+on channel
+pa2 32
+csa 32
+pipelined prefix
+asynchronous adder
+the carry
+the inputs
+channel x
+of propagate
+delay insensitive
+parallel prefix
+binary addition
+leading one
+an asynchronous
+full throughput
+neutral value
+propagate inputs
+handshaking expansions
+log log
+the serial
+asynchronous circuits
+the circuit
+o n
+chun lin
+leaf process
+serial computation
+yen chun
+carry in
+up process
+circuit to
+the input
+ripple carry
+the latency
+the output
+up going
+n latency
+and pa2
+subtree prefix
+channel l
+omega computation
+had o
+pa2 64
+delta omega
+produce the
+32 and
+latency through
+o 1
+a neutral
+valid value
+the acknowledge
+quasi delay
+32 bit
+n inputs
+computation is
+the down
+of o
+channel v
+value without
+longest sequence
+with buffers
+process up
+over channel
+the handshaking
+inputs are
+bit position
+input on
+carry select
+optimal parallel
+inputs we
+pr c
+input channels
+delay through
+tree and
+and o
+right subtree
+gate delay
+value being
+channel c
+data dependent
+output on
+any intermediate
+computation with
+at full
+average latency
+a folded
+n circuit
+add correctly
+channel y
+bit pipelined
+csa 64
+v channel
+vertical arrows
+folded fifo
+martin 9
+gates gates
+2d gamma
+both pa1
+acknowledge signals
+kpg code
+command corresponds
+become valid
+n throughput
+prefix required
+ld rd
+bit synchronous
+and csa
+asynchronous solutions
+acknowledge signal
+insensitive asynchronous
+csa n
+solution had
+the kpg
+of chp
+omega operation
+along channel
+buffering on
+than csa
+synchronous carry
+circuits had
+type propagate
+asy 32
+circuit size
+pipeline stages
+worst case
+the leading
+stage of
+are o
+the average
+fan out
+is o
+computation the
+latency and
+the outputs
+y k
+expected value
+c n
+computation block
+computation observe
+csp 4
+prefix circuits
+realistic workloads
+prefix computations
+phase up
+operation omega
+concurrent assignment
+prefix circuit
+phase fig
+up processes
+appropriate output
+tree is
+next stage
+throughput the
+x delta
+two inputs
+with o
+inputs to
+a gate
+of asynchronous
+or neutral
+depth size
+gate delays
+by martin
+input being
+our gate
+observe that
+n steps
+in fig
+n average
+size optimal
+on y
+the circuits
+circuits in
+the stage
+some bits
+identity e
+this command
+omega x
+value received
+the longest
+least k
+and produce
+inputs at
+halves of
+r before
+small depth
+guards and
+received along
+the prefix computation
+prefix computation tree
+average case latency
+of the prefix
+the prefix problem
+case latency of
+o log n
+latency of o
+down going phase
+prefix computation is
+o log log
+log log n
+in the tree
+the average case
+latency and o
+pipelined prefix computation
+going phase of
+sequence of propagate
+a neutral value
+the down going
+of propagate inputs
+the serial computation
+the carry in
+prefix computation with
+yen chun lin
+of o log
+optimal parallel prefix
+the leading one
+the input on
+prefix computation the
+produce the output
+in the prefix
+to the prefix
+at full throughput
+pa1 32 and
+n latency and
+computation tree and
+on channel x
+x delta omega
+computation with buffers
+an asynchronous adder
+32 and pa2
+log n latency
+input on channel
+up going phase
+latency of the
+quasi delay insensitive
+value without any
+without any intermediate
+there are o
+a prefix computation
+the longest sequence
+the carry out
+longest sequence of
+on y and
+of an asynchronous
+the n inputs
+and produce the
+worst case latency
+the inputs to
+the circuit to
+y and r
+is o log
+observe that the
+expected value of
+the average latency
+the latency of
+log n steps
+the expected value
+the latency through
+the pipelined prefix
+n average case
+and r before
+up process is
+log n average
+delay insensitive asynchronous
+the prefix required
+2d gamma 1
+both pa1 32
+the kpg code
+intermediate value being
+the acknowledge signals
+more realistic workloads
+valid value without
+received along channel
+to a neutral
+pa2 32 and
+prefix computation observe
+run at full
+to become valid
+carry out of
+any intermediate value
+the handshaking expansions
+prefix required by
+and pa2 64
+of type propagate
+picks the first
+going phase fig
+valid or neutral
+over channel x
+prefix computation let
+leaf process is
+going phase up
+solution had o
+the circuits had
+using two competing
+prefix computation at
+by log k
+the v channel
+neutral value the
+o n omega
+asynchronous adder with
+best case latency
+k on channel
+asynchronous solutions to
+log n throughput
+stages of buffering
+prefix problem the
+construct an asynchronous
+delta omega x
+command corresponds to
+n omega computation
+a folded fifo
+value received along
+32 and 32
+above by log
+than the prefix
+this command corresponds
+the concurrent assignment
+reset to a
+synchronous carry select
+buffering on the
+on channel l
+prefix problem can
+phase up going
+had o log
+output on y
+by martin 9
+of this command
+n circuit size
+omega x n
+concurrent assignment of
+pr c n
+average latency through
+case latency from
+inputs are both
+bit synchronous carry
+for binary addition
+the input c
+with o log
+node in the
+is the delay
+are o n
+stage of the
+phase of the
+the tree to
+the next stage
+o n log
+to produce the
+bits of c
+prefix problem is
+delay through a
+in and fan
+gate delay is
+of some bits
+prefix computation can
+two halves of
+through the prefix
+parallel prefix circuits
+are reset to
+with an asynchronous
+parallel prefix circuit
+latency through the
+and 32 bit
+is short hand
+of omega the
+the appropriate output
+depth size optimal
+the output on
+size optimal parallel
+computation observe that
+read the inputs
+tree for the
+n log n
+is bounded above
+leaves of the
+fan in and
+assignment of some
+the two halves
+depth d in
+this circuit has
+the value received
+c n k
+is the concurrent
+and fan out
+two inputs are
+with small depth
+leading one in
+the tree and
+and o n

@@ -1,0 +1,600 @@
+actor
+actors
+profile
+scheduling
+recursion
+compile
+schedule
+dataflow
+macro
+iteration
+constructs
+processors
+ptolemy
+quasi
+idled
+parallelism
+cycles
+loeffler
+profiles
+depth
+static
+decisions
+branch
+intercycle
+branches
+mass
+sdf
+processor
+ddf
+conditionals
+idle
+gantt
+lee
+schedules
+body
+runtime
+conditional
+dependent
+nk
+ha
+ziegenbein
+thiele
+teich
+ground
+token
+fires
+chart
+schedulable
+availability
+upsample
+assigned
+vol
+scheduled
+termination
+dsp
+strehl
+prototyping
+berkeley
+ernst
+probability
+parallelizing
+nested
+fig
+statistics
+subsystems
+graphs
+reconfigurable
+hoc
+commencement
+nd
+iterations
+indivisible
+overlapped
+dependency
+kn
+multiprocessor
+havior
+xn
+geometric
+approximated
+self
+assigning
+ad
+ops
+displayed
+deterministic
+graphics
+independence
+width
+inequality
+synchronization
+topmost
+finishing
+codesign
+firing
+struct
+execution
+excessive
+synthetic
+consumed
+decision
+cycle
+seoul
+dynamic
+bell
+depth112
+funstate
+ataflow
+findx
+sermulins
+leoffler
+janis
+yavagal
+goldstar
+disply
+acha
+rassp
+thies
+52176
+faultless
+body554
+invokable
+rowland
+source1
+karczmarek
+estrin
+c24
+tdfl
+factx
+ntx
+tachi
+markovskiy
+teleport
+eylon
+etan
+dehon
+46
+blocked
+select
+decide
+sors
+arc
+dummy
+dark
+1997
+outer
+overhead
+unrealistic
+sungchan
+virtualized
+soonhoi
+rabbah
+abstractscheduling
+snu
+torola
+chical
+rodric
+dolby
+wawrzynek
+confining
+yury
+caspi
+compilation
+tokens
+false
+consumes
+1317
+eal
+chanik
+arately
+careless
+rockwell
+tomko
+lothar
+lutions
+precedence
+optimality
+inner
+construct
+deadlock
+tenth
+uled
+mitsubishi
+unselected
+jignesh
+canvas
+darkly
+177
+routed
+hierarchical
+pads
+isfied
+richter
+philips
+ohm
+multiplexor
+executed
+simplified
+breaks
+fully
+data dependent
+dynamic construct
+dependent iteration
+dynamic constructs
+iteration cycles
+recursion construct
+compile time
+profile of
+the profile
+macro actor
+assigned processors
+iteration body
+schedule length
+static scheduling
+quasi static
+proposed technique
+expected cost
+the recursion
+the actor
+optimal profile
+the iteration
+at compile
+actor a
+dependent actor
+the proposed
+processor availability
+actor as
+iteration actor
+the expected
+of iteration
+dataflow program
+local schedule
+actor is
+mass function
+an actor
+run time
+conditional construct
+time profile
+program graphs
+scheduling decisions
+construct is
+idle time
+a macro
+probability mass
+at run
+the optimal
+construct we
+each actor
+dependent actors
+self actor
+dependent iterations
+local schedules
+time scheduling
+the assumed
+of assigned
+for construct
+the construct
+a data
+assumed number
+actors are
+nk d
+of dynamic
+the schedule
+iteration cycle
+average schedule
+both branches
+static information
+ground construct
+scheduling result
+lee compile
+assumed depth
+46 no
+vol 46
+a recursion
+schedules of
+dataflow graph
+constructs in
+each dynamic
+depth of
+in dataflow
+schedule of
+recursion is
+a dataflow
+expected total
+runtime statistics
+of actors
+no 7
+of actor
+the scheduling
+the parallelism
+of parallelism
+data independent
+actor the
+lee s
+static schedule
+the quasi
+computers vol
+a c
+of recursion
+actors is
+select actor
+actor i
+parallelism d
+sdf domain
+gantt chart
+fully dynamic
+a conditional
+c a
+of processor
+the assigned
+the dynamic
+the pattern
+parallelism of
+dataflow graphs
+ha and
+same depth
+scheduling technique
+of processors
+pattern of
+fully static
+scheduling strategy
+scheduling of
+and lee
+decisions are
+july 1997
+the for
+branches are
+intercycle parallelism
+actor in
+all actors
+actor with
+in ptolemy
+inner dynamic
+lee 10
+actor represents
+recursion x
+ddf domain
+independent macro
+actor to
+time decisions
+domain system
+initial profile
+blocked schedule
+the intercycle
+be idled
+the execution
+the profiles
+cycles is
+other scheduling
+7 july
+total cost
+branch is
+the compile
+one iteration
+actor and
+construct first
+our decisions
+execution length
+actor for
+construct with
+actual depth
+dynamic scheduling
+termination condition
+known at
+two branches
+the local
+computation tree
+the dataflow
+for compile
+construct if
+construct are
+expected schedule
+a schedulable
+constructs are
+dynamic behavior
+cost of
+profiles of
+optimal value
+n k
+theta i
+constructs we
+iteration construct
+proposed scheduling
+the runtime
+proposed scheme
+approximated at
+construct as
+of nd
+decide the
+a dynamic
+in figure
+fixed since
+processor group
+made at
+the depth
+on computers
+construct in
+s method
+scheduling techniques
+a quasi
+data dependent iteration
+the profile of
+of iteration cycles
+quasi static scheduling
+the iteration body
+a data dependent
+the proposed technique
+the expected cost
+of the recursion
+at compile time
+number of iteration
+of dynamic constructs
+profile of the
+of the actor
+the recursion construct
+a macro actor
+data dependent actor
+the optimal profile
+compile time scheduling
+local schedule of
+pattern of processor
+of processor availability
+probability mass function
+dataflow program graphs
+compile time profile
+dynamic constructs in
+the quasi static
+a recursion construct
+of assigned processors
+at run time
+a c a
+c a c
+number of assigned
+a dynamic construct
+data dependent iterations
+the assigned processors
+degree of parallelism
+the schedule length
+depth of recursion
+in dataflow program
+constructs in dataflow
+schedule length of
+time scheduling of
+profile of a
+average schedule length
+scheduling of dynamic
+the local schedule
+the pattern of
+of data dependent
+the local schedules
+computers vol 46
+7 july 1997
+actor as a
+the assumed depth
+the dynamic construct
+and lee compile
+46 no 7
+vol 46 no
+dependent iteration actor
+schedules of both
+each dynamic construct
+lee compile time
+actor a is
+data dependent actors
+local schedules of
+no 7 july
+the for construct
+of a recursion
+minimize the expected
+expected total cost
+the average schedule
+for data dependent
+the static information
+of both branches
+of the construct
+of the iteration
+compile time the
+parallelism of the
+on computers vol
+the expected total
+of an actor
+recursion construct is
+fully dynamic scheduling
+assumed depth of
+lee s method
+with data dependent
+the scheduling result
+one iteration cycle
+the assumed number
+iteration cycles is
+optimal profile of
+a quasi static
+of parallelism d
+assumed number of
+ha and lee
+a conditional construct
+to the iteration
+the same depth
+time profile of
+known at compile
+expected cost is
+the data dependent
+scheduling decisions are
+cost of the
+number of processors
+schedule of the
+the computation tree
+of the profile
+the parallelism of
+the recursion is
+expected cost of
+quasi static schedule
+under the independence
+a ground construct
+dynamic construct in
+fully static scheduling
+both branches and
+other scheduling decisions
+a blocked schedule
+the iteration actor
+static information of
+independent macro actor
+of recursion x
+compile time decisions
+the select actor
+order of nd
+is fixed since
+as a macro
+dynamic construct is
+iteration cycles the
+dependent actor as
+the conditional construct
+static scheduling strategy
+both branches are
+proposed scheduling technique
+profiles of dynamic
+actor represents the
+profile of actor
+data independent macro
+for i x
+decide the optimal
+of actor i
+approximated at compile
+the expected schedule
+will be idled
+the inner dynamic
+inner dynamic construct
+the runtime statistics
+as a schedulable
+the number of
+of a data
+the compile time
+of the proposed
+the probability mass
+the depth of
+the optimal value
+sum of the
+dynamic constructs are
+length l x
+mass function for
+static information about
+expected schedule length
+with value false
+profile of an
+the actual depth
+a data independent
+n k x
+that all nodes
+a dataflow graph
+c n k
+the proposed scheduling
+the fully dynamic
+an actor is
+for compile time
+the recursion in
+for a data
+transactions on computers
+determine the optimal
+all nodes of
+the proposed scheme
+the degree of
+depth of the
+of the conditional
+if then else
+are made at
+the profiles of
+run time cost
+of the number
+of the assigned
+the run time
+n is fixed
+the idle time
+the independence assumption
+the proposed algorithm
+execution times of
+the execution times
+optimal value for
+of one iteration
+cost is not
+we assume that

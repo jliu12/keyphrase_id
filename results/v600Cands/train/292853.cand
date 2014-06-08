@@ -1,0 +1,600 @@
+hector
+migration
+checkpoint
+mpi
+sa
+tasks
+checkpointing
+workstations
+migrate
+condor
+migrated
+pvm
+ma
+notifies
+allocation
+fault
+task
+job
+server
+prm
+file
+dqs
+mist
+tolerance
+checkpoints
+allocator
+idle
+jobs
+migrations
+programmer
+eoc
+mbit
+migrating
+resources
+checkpointed
+programmers
+disk
+resource
+launched
+transfer
+custom
+syracuse
+socket
+transparent
+rollback
+mississippi
+termination
+communications
+permits
+restarted
+slave
+nfs
+standards
+carmi
+networked
+workstation
+overnight
+prospero
+programs
+operating
+bandwidth
+kernel
+unix
+load
+centrally
+fork
+seconds
+tests
+messages
+gathered
+allocators
+smp
+ethernet
+modifications
+became
+cpu
+solaris
+notify
+terminations
+maker
+files
+transferred
+master
+mbytes
+lseek
+tomigrate
+msrm
+message
+core
+sparcstation
+transparency
+sec
+dump
+channel
+traps
+launch
+scheduling
+confirmation
+balancing
+linker
+unrelated
+forking
+suspend
+sgi
+strategies
+scientific
+sunos
+policy
+infrastructure
+newly
+burden
+python
+notified
+usage
+centralized
+gathering
+trade
+unwilling
+commanded
+manager
+writes
+awareness
+policies
+capability
+roll
+routines
+toler
+wrapper
+transparently
+priori
+kbytes
+protocol
+worksta
+registers
+supercomputers
+ms
+coding
+resume
+ability
+busy
+overhead
+dynamically
+network
+irix
+supercomputer
+shortcomings
+emerged
+terminate
+agent
+allocate
+malloc
+automatic
+hosts
+tm
+platform
+sun
+user
+paradigms
+gather
+reclaim
+sockets
+suspension
+assembly
+supplied
+deadlock
+stack
+rolled
+historically
+exiting
+slope
+fortran
+disadvantages
+multiply
+track
+pointers
+crashes
+library
+commands
+heterogeneous
+daily
+20000
+coarse
+rapid
+users
+livermore
+dozens
+trap
+environment
+reside
+ease
+decision
+workload
+promote
+platforms
+sends
+nguyen
+executables
+regression
+pointer
+experiences
+task migration
+the ma
+the sa
+the hector
+to checkpoint
+sa s
+the program
+fault tolerance
+run time
+checkpoint server
+to migrate
+all tasks
+state transfer
+of hector
+hector s
+the task
+program s
+of workstations
+the mpi
+performance information
+the checkpoint
+scientific programmers
+idle resources
+each task
+migration is
+migration and
+resource allocation
+master allocator
+hector is
+under migration
+notifies the
+all at
+a checkpoint
+task allocation
+mpi program
+run times
+a task
+mpi programs
+of channel
+architecture independent
+user written
+an mpi
+checkpoint and
+at once
+automatic resource
+it notifies
+program was
+tasks in
+checkpointing routines
+custom written
+written checkpointing
+its sa
+time infrastructure
+core file
+hector distributed
+other tasks
+pvm and
+the state
+a program
+source code
+and migration
+mbit sec
+below in
+one task
+allocation and
+mpi and
+ma and
+of tasks
+checkpoint file
+task under
+notifies its
+migrations and
+task termination
+checkpointing and
+mpi implementation
+the server
+distributed run
+and mpi
+tests were
+operating system
+resource management
+migration the
+of pvm
+support for
+shown below
+and fault
+a network
+network of
+tasks and
+the tasks
+parallel program
+s state
+policy was
+run under
+migrated as
+sa of
+migration image
+sa notifies
+migrate tasks
+the syracuse
+once strategy
+transparent task
+user transparent
+hector environment
+was notified
+programming standard
+mpi tm
+under hector
+networked resources
+task notifies
+hector multiprocessor
+mississippi state
+migrating task
+the migrating
+slave allocator
+one at
+parallel programming
+time system
+the operating
+local disk
+future versions
+is gathered
+a file
+parallel programs
+other task
+information gathering
+dynamic load
+time to
+tasks when
+combined strategy
+multiply program
+mpi 1
+sa that
+applications programmer
+workstations can
+be checkpointed
+task sends
+wrapper functions
+of mpi
+tasks were
+program state
+research center
+program size
+of task
+code modifications
+file pointer
+can migrate
+the condor
+core dump
+smp s
+ability to
+load balancing
+matrix multiply
+to run
+its state
+a job
+a migration
+independent parallel
+10 mbit
+migrate and
+ma is
+and sgi
+the file
+a time
+its ability
+task is
+each candidate
+currently supported
+for checkpointing
+research systems
+transparently to
+dynamically linked
+and terminations
+were run
+to terminate
+and tested
+to disk
+time information
+for task
+task has
+time environment
+program to
+task to
+and sa
+job scheduling
+small medium
+dynamic resource
+bandwidth usage
+allocation policies
+and pvm
+and so
+program is
+the master
+cpu load
+notified of
+decision maker
+and job
+server was
+network state
+and rollback
+end of channel
+the sa s
+all at once
+below in figure
+program s state
+automatic resource allocation
+time to migrate
+to the ma
+number of tasks
+a program s
+user written checkpointing
+task under migration
+for task migration
+allocation and fault
+notifies its sa
+the master allocator
+the checkpoint server
+run time infrastructure
+the ma and
+tests were run
+at a time
+run time environment
+mpi implementation and
+distributed run time
+pvm and mpi
+network of workstations
+run time system
+one at a
+a network of
+the program s
+the time to
+and fault tolerance
+of other tasks
+the operating system
+dynamic load balancing
+the hector environment
+at once strategy
+sa s and
+all tasks when
+the ma is
+a checkpoint server
+with the hector
+matrix multiply program
+task migration is
+and sa s
+the task notifies
+the task under
+migrations and terminations
+the combined strategy
+task notifies its
+sa notifies the
+a checkpoint file
+transparent task migration
+benchmarks and tests
+the task migration
+network state transfer
+task migration and
+of task allocation
+architecture independent parallel
+time to checkpoint
+ma and sa
+the all at
+server was notified
+the sa notifies
+notifies the ma
+multiply program was
+the migrating task
+a task migration
+source code modifications
+was notified of
+to migrate tasks
+that is gathered
+notifies the sa
+the hector distributed
+hector distributed run
+sa of the
+run time performance
+and so the
+mpi 1 1
+the server was
+the applications programmer
+of tasks in
+its ability to
+of the program
+an architecture independent
+an mpi program
+mbit sec the
+run time can
+program was used
+to a checkpoint
+all tasks and
+it notifies the
+ease of use
+all tasks have
+implementation of mpi
+tasks in the
+shown below in
+the program state
+engineering research center
+applications that can
+be shown below
+a run time
+to roll back
+were run to
+s have been
+resource allocation and
+number of other
+fault tolerance the
+are shown below
+a priori information
+are described below
+are taken to
+time system for
+automatic and dynamic
+dynamic resource management
+used the run
+file format the
+degree of support
+server mbit sec
+fit through the
+tasks of different
+of channel eoc
+some systems require
+c automatic resource
+needs to migrate
+by the sa
+core file format
+same matrix multiply
+to checkpoint a
+of state transfer
+sparcstation 5 and
+y user transparent
+complete run time
+checkpoint and rollback
+task to checkpoint
+architecture for dynamic
+a time 7
+usage of different
+time tomigrate sec
+a time second
+objects in python
+transparency of task
+actual data points
+state to disk
+s resource allocation
+to high end
+commanded to checkpoint
+based parallel programming
+gather performance information
+b task migration
+programmer transparent task
+at once 2
+bandwidth usage of
+time dropped from
+prospero resource manager
+migration automatic resource
+workstations and smp
+visible to user
+each candidate processor
+transfer is limited
+the prospero resource
+program is launched
+of channel message
+transfer the state
+pending migrations and
+task migration the
+support for task
+versions of hector
+all connected tasks
+state transfer the
+strategy small medium
+hector s resource
+to checkpoint and
+medium large all
+and memory mapping
+large all at
+architecture independent coding
+of networked resources
+each candidate host
+fully automatic and
+establishes communications with
+between centralized and
+signal handling and
+and rollback based
+hector does not
+newly idle resources
+a priori applications
+support task migration
+terminations have finished
+on a now
+was run under
+newly available resources
+different strategies with
+is gathered is
+over a socket
+results are show
+writes the state
+task migration automatic
+channel eoc messages
+statistics every 5

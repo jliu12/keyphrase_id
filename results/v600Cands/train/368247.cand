@@ -1,0 +1,600 @@
+fpga
+pt1
+temporal
+synthesis
+partitions
+reconfigurable
+linearization
+partitioning
+lp
+tp
+functional
+ilp
+partition
+ijk
+tasks
+formulation
+nlp
+branch
+scratch
+maestre
+multichip
+bagherzadeh
+linearizations
+placed
+pk
+hermida
+tightened
+meenakshi
+adders
+specification
+kurdahi
+kaul
+latency
+const
+glover
+ranga
+fractional
+units
+gebotys
+resource
+relaxation
+segments
+alap
+segment
+vemuri
+hartej
+opers
+multipar
+fortet
+exploration
+constituent
+constraint
+binding
+behavioral
+fadi
+ptk
+optimally
+nader
+multipliers
+var
+task
+reconfiguration
+generators
+linearized
+constrains
+tightening
+singh
+designs
+dsp
+communicated
+scheduling
+spatial
+fernandez
+cut
+asap
+rafael
+reconfigured
+flop
+fpgas
+solver
+automation
+vlsi
+constraints
+allocation
+scheduled
+undertaken
+pad
+rtl
+dependency
+schedule
+cutoff
+architectures
+pick
+flip
+pipelined
+unit
+destined
+312
+clb
+eisenring
+guangming
+temporalpartitioning
+milagros
+sectionnon
+filho
+eliseu
+combinational
+munich
+feasible
+relaxed
+heuristics
+lesser
+op
+synthesize
+tight
+clbs
+wpafb
+ouaiss
+subtracters
+wolsey
+platzner
+metrics
+cutting
+definitely
+fit
+resources
+selection
+niemann
+chop
+provement
+morphosys
+nored
+synthe
+synthesized
+constrained
+viable
+processors
+europe
+equations
+ran
+contribute
+substantiate
+1043
+hau
+subtracter
+titions
+multiplier
+runtime
+graphs
+heuristic
+forcing
+experimentations
+strained
+brary
+fission
+mixed
+experimentation
+formulated
+technol
+hardware
+iyad
+synopsis
+858
+formulations
+usage
+honor
+explore
+secondary
+ini
+tj
+branching
+linearizing
+extendible
+govindarajan
+fernndez
+ip
+product
+sriram
+enumerative
+f33615
+partitioner
+622
+616
+preprocessing
+feasibly
+tighten
+borne
+tially
+interchangeable
+devices
+germany
+onto
+effectiveness
+573
+asics
+relaxations
+asic
+signifies
+guides
+ogy
+temporal partitioning
+pt1 t
+w pt1
+y tp
+functional unit
+control step
+x ijk
+unit k
+variable selection
+functional units
+task t
+temporal segment
+scratch memory
+to branch
+partition p
+the scratch
+partitioning and
+t 2
+branch on
+u pk
+reconfigurable processors
+non linear
+the variable
+product terms
+spatial partitioning
+placed in
+and bound
+operation i
+function generators
+multichip architectures
+temporal partition
+and synthesis
+the fpga
+in partition
+the specification
+branch and
+variable to
+for reconfigurable
+to partitions
+variable w
+lp relaxation
+a task
+operation graph
+temporal partitions
+tasks are
+of partitions
+the lp
+0 1
+cost function
+the ilp
+reconfigurable computing
+the formulation
+of functional
+nlp formulation
+kaul ranga
+tightened constraints
+linear product
+lp model
+var const
+s linearization
+synthesis of
+control steps
+same partition
+fpga resource
+by gebotys
+l var
+meenakshi kaul
+task graph
+constraints to
+m s
+the synthesis
+2 multipliers
+feasible region
+be placed
+1 non
+the nlp
+graph no
+ranga vemuri
+for synthesis
+cut off
+lp solver
+cost metrics
+the design
+our formulation
+software partitioning
+design exploration
+partitions this
+cannot contribute
+while solving
+integer solutions
+non integer
+tasks t
+are 0
+value 1
+resource constraints
+and functional
+design space
+linear terms
+partitioning for
+are 1
+ilp formulation
+linear programming
+of dsp
+run time
+a temporal
+is placed
+fortet s
+feasible table
+r hermida
+distinct product
+z ptk
+definitely can
+r maestre
+constrains w
+w 312
+j kurdahi
+temporal segments
+linearization techniques
+optimal methodology
+the tightened
+tight linearizations
+const runtime
+const run
+rafael maestre
+on fpga
+partitioning combined
+hardware computations
+which cut
+synthesis variables
+gebotys in
+uses functional
+characterized component
+dsp multichip
+constituent products
+runtime feasible
+constrained rtl
+5 adders
+312 will
+new 0
+linearization technique
+fractional variable
+modeling variables
+germany meenakshi
+characteristics ilp
+multi fpga
+rtl partitioning
+specification segments
+glover s
+pk variable
+hartej singh
+1 variable
+synthesis for
+memory of
+the solution
+the functional
+the linearization
+specification the
+variables are
+the constraints
+a partition
+off by
+solution time
+its constituent
+multipliers and
+each distinct
+constraint which
+of tasks
+behavior specification
+tasks connected
+n bagherzadeh
+active node
+some partition
+any fractional
+m fernandez
+using reconfigurable
+optimally partitioned
+pad memory
+latency bound
+programming nlp
+scratch pad
+nlp model
+any partitions
+onto 3
+of multichip
+optimal synthesis
+a functional
+the partitioning
+they cannot
+space exploration
+directed edge
+tasks and
+the tasks
+of segments
+run times
+the latency
+nader bagherzadeh
+constraint each
+linear 0
+linearizations of
+good variable
+pt1 t 2
+w pt1 t
+partitioning and synthesis
+functional unit k
+temporal partitioning and
+to branch on
+branch and bound
+variable to branch
+a value 1
+number of partitions
+placed in partition
+the scratch memory
+in partition p
+the variable w
+scratch memory of
+0 1 non
+of functional units
+a task t
+1 non linear
+take a value
+a m s
+kaul ranga vemuri
+task t 2
+meenakshi kaul ranga
+the variable selection
+the design exploration
+off by equation
+terms are 0
+non linear terms
+to the scratch
+m s l
+spatial partitioning and
+non linear product
+operation graph of
+l var const
+variables y tp
+non integer solutions
+s l var
+a 0 1
+a functional unit
+the same partition
+product terms are
+0 1 variable
+the functional unit
+memory of any
+they cannot contribute
+synthesis of dsp
+the lp relaxation
+set of functional
+n a m
+cut off by
+hardware software partitioning
+functional unit is
+cannot contribute to
+in a partition
+the solution time
+be placed in
+t 2 is
+of the specification
+the task graph
+in the specification
+of operations which
+if a task
+number of segments
+for each distinct
+for synthesis of
+a variable to
+t 2 to
+a temporal partitioning
+const runtime feasible
+an optimal methodology
+computations using reconfigurable
+munich germany meenakshi
+y tp the
+for an fpga
+products is 1
+linearization techniques and
+constraints to get
+for spatial partitioning
+segment may contain
+resource constrained rtl
+no n a
+control step j
+functional units f
+the latency bound
+the nlp formulation
+a temporal segment
+u pk variable
+chosen to branch
+0 1 model
+the operation graph
+glover s linearization
+var const run
+linearization of equations
+the external input
+of any partitions
+constrains w pt1
+based on fpga
+unit usage in
+for operation i
+reconfigurable computing proceedings
+p and exists
+characterized component library
+the temporal partitioning
+using reconfigurable processors
+latency bound was
+constraints which cut
+whether a functional
+and exists then
+bound was relaxed
+of multi fpga
+of temporal partitioning
+constrained rtl partitioning
+definitely can only
+linear product terms
+the lp model
+by gebotys in
+software partitioning using
+temporal partitioning has
+functional units can
+the tightened constraints
+dsp multichip architectures
+temporal partitioning combined
+5 adders and
+hardware computations using
+never be 1
+on some partition
+runtime feasible table
+linear programming nlp
+operation i can
+const run time
+between tasks t
+w 312 will
+secondary and are
+a new 0
+for temporal partitioning
+multi fpga designs
+the scratch pad
+y tp and
+assigned to partitions
+and bound while
+defines the functional
+new 0 1
+optimal synthesis of
+than the scratch
+partition p or
+latency and number
+bound while solving
+characteristics ilp model
+germany meenakshi kaul
+the synthesis variables
+and x ijk
+tp and x
+in reconfigurable computing
+each distinct product
+two tasks connected
+of dsp multichip
+partitioning for synthesis
+some partition p
+multichip architectures an
+variable w 312
+value 1 when
+good variable selection
+rtl partitioning for
+was relaxed by
+of multichip architectures
+lp relaxation is
+reconfigurable processors based
+constituent products is
+graph no n
+temporal segment may
+partitioning combined with
+the linearization technique
+which operation i
+design space exploration
+the run times
+the 0 1
+operations in the
+cutting plane methods
+2 is placed
+task t 1
+synthesis of multichip
+2 multipliers and
+linearizations of the
+scheduling and context
+usage in a
+perform some operation
+amount of non
+only be placed
+by branch and
+data being communicated
+of the nlp
+both 1 2
+placed on some
+directed edge between
+combinational logic blocks
+scratch pad memory
+continuous real valued
+how the variable
+linear 0 1

@@ -1,0 +1,600 @@
+heuristic
+interleaving
+coverage
+queue
+heuristics
+jpf
+blocked
+checking
+rst
+deos
+checker
+branch
+counterexamples
+java
+threads
+dfs
+beam
+thread
+abstraction
+deadlock
+structural
+philosophers
+counterexample
+depth
+dining
+bytecode
+branches
+nding
+160
+spin
+fails
+1000
+flavers
+testing
+exploration
+pathfinder
+pasareanu
+nd
+search
+guided
+jvm
+corina
+explored
+errors
+interleavings
+breadth
+deadlocks
+genetic
+khurshid
+uncovering
+veri
+specic
+913
+verication
+willem
+visser
+race
+searches
+visited
+dspin
+hsf
+giannakopoulou
+ltl
+avionics
+explore
+exploring
+certied
+havelund
+dimitra
+jianbin
+924
+admissible
+branching
+specically
+covering
+agent
+869
+violation
+searched
+paths
+assertion
+behaviors
+dened
+334
+lowry
+spacecraft
+limiting
+177
+adequacy
+api
+dierent
+ight
+500
+bug
+innite
+nondeterministic
+checkers
+bandera
+avrunin
+mc
+godefroid
+940
+898
+remote
+exhausts
+pvs
+predicate
+spurious
+bfs
+514
+modular
+lori
+explosion
+choices
+statements
+stack
+default
+minima
+metrics
+ctl
+uncover
+dc
+automated
+uncovered
+trap
+history
+378
+cult
+goldberg
+verification
+programs
+classication
+fewest
+experimental
+priority
+26th
+allen
+scheduling
+scheduler
+clarke
+counts
+bottlenecks
+venet
+cyrille
+rediscover
+nondeterminisic
+leue
+beginatomic
+rtca
+veloping
+seppi
+martian
+lamborn
+barringer
+artho
+endatomic
+neha
+bogor
+rungta
+brat
+ltzbeyer
+tableswitch
+practicalities
+troducing
+klaus
+353
+concurrency
+abstracted
+nondeterminism
+storage
+verifying
+mike
+reached
+software
+successful
+validating
+options
+drusinsky
+bloem
+grigore
+pretschner
+koushik
+origi
+doron
+ciple
+rosu
+untaken
+997
+loop
+translation
+violations
+cover
+40
+116
+136
+validation
+167
+196
+tan
+failed
+model checking
+most blocked
+interleaving queue
+blocked queue
+rst search
+state space
+model checker
+heuristic search
+queue 40
+best rst
+queue 160
+queue 1000
+branch coverage
+interleaving heuristic
+structural heuristics
+choose free
+heuristic value
+queue 5
+heuristic model
+the state
+coverage heuristic
+the heuristic
+beam search
+fails 1
+depth rst
+guided search
+property specic
+blocked heuristic
+queue limiting
+dfs depth
+state storage
+structural heuristic
+branch global
+the deos
+code coverage
+branch path
+remote agent
+during testing
+dining philosophers
+breadth rst
+predicate abstraction
+40 interleaving
+8 fails
+coverage during
+max depth
+to nd
+of heuristic
+explicit state
+heuristics we
+the dining
+checker can
+java programs
+of structural
+java pathfinder
+the heuristics
+the interleaving
+order reduction
+the choose
+best heuristic
+coverage metrics
+a deadlock
+heuristic is
+using heuristics
+160 fails
+in jpf
+explored length
+nding errors
+nd errors
+dierent search
+global queue
+coverage heuristics
+property dependent
+dependent heuristics
+branch choices
+depth branch
+blocked threads
+mc dc
+spurious errors
+thread interleavings
+queue most
+specic heuristic
+queue interleaving
+160 interleaving
+1000 interleaving
+5 interleaving
+40 fails
+jpf is
+of threads
+of branches
+the jvm
+case generation
+the coverage
+exploration of
+a program
+a best
+search algorithms
+a heuristic
+innite state
+concurrency errors
+over approximation
+ltl properties
+directed model
+path queue
+branching structure
+the java
+our heuristic
+an error
+heuristics in
+counterexamples in
+experimental results
+s 0
+state model
+heuristics and
+corina pasareanu
+covering all
+checking programs
+heuristic function
+or thread
+errors rather
+length max
+already visited
+a counterexample
+the model
+willem visser
+software testing
+our heuristics
+to nding
+to explore
+in model
+the code
+checking to
+heuristics to
+during model
+these heuristics
+the deadlock
+checking is
+heuristic to
+states with
+q not
+of spin
+visited is
+while q
+time partitioning
+checking and
+test case
+heuristic can
+abstraction to
+heuristics can
+checking with
+the remote
+search strategies
+nd a
+thread just
+executes bytecode
+pathfinder model
+assertion violations
+goldberg klaus
+depth 500
+counterexample before
+their genetic
+or deadlocks
+agent example
+k best
+terminate store
+hsf spin
+automated framework
+78 353
+counterexamples for
+branch receive
+reduce object
+validating temporal
+specic heuristics
+heuristic guided
+jpf also
+range abstraction
+queue limit
+free heuristic
+state generator
+lowry corina
+just executed
+our interleaving
+symbolic guided
+tan george
+long counterexamples
+exhausts memory
+500 dfs
+deos system
+rich washington
+called choose
+khurshid apply
+certied for
+1000 fails
+structural code
+with hsf
+abstraction 34
+in uncovering
+fails 20
+algorithms construction
+cycle check
+basic heuristic
+most blocked queue
+the state space
+best rst search
+heuristic model checking
+interleaving queue 5
+of the state
+the model checker
+interleaving queue 160
+most blocked heuristic
+interleaving queue 1000
+the interleaving heuristic
+interleaving queue 40
+of heuristic search
+a best rst
+the heuristic search
+model checker can
+the dining philosophers
+the coverage heuristic
+the remote agent
+blocked queue 5
+blocked queue 40
+the choose free
+40 interleaving queue
+queue 40 interleaving
+explicit state model
+partial order reduction
+depth rst search
+breadth rst search
+blocked queue 160
+branch path queue
+queue 40 fails
+explored length max
+blocked queue most
+while q not
+blocked queue 1000
+interleaving queue interleaving
+branch global queue
+q not empty
+the most blocked
+5 interleaving queue
+directed model checking
+property specic heuristic
+nd a counterexample
+queue most blocked
+queue 160 fails
+queue interleaving queue
+160 interleaving queue
+to nd errors
+length max depth
+queue 5 interleaving
+max depth branch
+already visited is
+depth branch path
+queue 160 interleaving
+of structural heuristics
+test case generation
+in model checking
+of a program
+model checking and
+model checking is
+heuristic search is
+best heuristic value
+model checking to
+the heuristic function
+state space is
+during model checking
+model checking with
+of the heuristics
+errors rather than
+a breadth rst
+states with the
+analysis of concurrent
+model checking the
+of model checking
+to an error
+the same heuristic
+nding errors in
+for structural test
+goal then terminate
+of structural code
+lowry corina pasareanu
+heuristic from table
+properties of interfaces
+checking with hsf
+validation with guided
+into local minima
+validating temporal safety
+the java pathfinder
+coverage during model
+to reduce object
+thread inter dependency
+queue 1000 interleaving
+rst search with
+the deos system
+interleaving heuristic can
+type based abstraction
+queue 40 most
+with hsf spin
+order reduction in
+structural test data
+choose free heuristic
+certied for ight
+a counterexample before
+predicate abstraction to
+directed explicit model
+heuristic values to
+rst search our
+a cycle check
+godefroid and khurshid
+java pathfinder model
+free state space
+of blocked threads
+attempt to explore
+branch receive the
+goldberg klaus havelund
+branching structure or
+a and beam
+160 most blocked
+500 dfs depth
+abstraction to reduce
+automated framework for
+temporal safety properties
+and khurshid apply
+our interleaving heuristic
+structural code coverage
+incremental analysis of
+using predicate abstraction
+state spaces using
+s 0 not
+property dependent heuristics
+the thread just
+heuristic function h
+structural heuristics and
+automatically validating temporal
+2004 jianbin tan
+choose free state
+tan george s
+achieved during testing
+each successor state
+40 most blocked
+modular and incremental
+structure or thread
+queue while q
+34 and type
+exploring very large
+160 fails 1
+assertion violations and
+1000 interleaving queue
+checking to generate
+then terminate store
+code coverage during
+explicit model checking
+mike lowry corina
+reports the length
+queue 5 most
+called choose free
+algorithms construction of
+in explicit state
+and incremental analysis
+dfs depth 1000
+willem visser rich
+basic branch coverage
+remote agent example
+jianbin tan george
+visser rich washington
+be certied for
+reduction in directed
+0 not already
+queue limiting is
+reduce object oriented
+branch coverage heuristic
+original c code
+dfs depth 500
+thread just executed
+in directed model
+without state storage
+same heuristic value
+5 most blocked
+choose free search
+checking programs using
+our results table
+a choose free
+guided search for
+november 2004 jianbin
+symbolic guided search
+a structural heuristic
+guided search of
+an automated framework
+allen goldberg klaus
+queue 1000 fails
+a property specic
+search for ctl
+and beam search
+generate tests from
+s from q
+property specic heuristics
+predicate abstraction 34
+on branch coverage
+queue 160 most
+queue 1000 8

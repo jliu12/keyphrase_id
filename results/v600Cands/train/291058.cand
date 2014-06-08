@@ -1,0 +1,600 @@
+vss
+ldpred
+prediction
+udpred
+predictor
+instructions
+instruction
+speculation
+patch
+stride
+predictors
+profiling
+predicted
+predictability
+i4
+r4
+i3
+load
+treegion
+loads
+saturating
+r8
+i5
+register
+hardware
+dependence
+ilp
+speculative
+hybrid
+speculated
+scheduling
+compress
+compiler
+m88ksim
+ijpeg
+i6
+miss
+cycles
+129
+accuracy
+speedup
+predictions
+branch
+schedule
+scheduler
+147
+dependencies
+vortex
+124
+132
+profiled
+candidates
+specint95
+threshold
+speculatively
+i8
+benchmarks
+gcc
+lego
+counters
+126
+134
+predictable
+fetch
+breaking
+history
+099
+perl
+90
+dispatch
+patchup
+treegions
+static
+70
+vliw
+tapering
+sigarch
+operand
+update
+aggressively
+penalty
+hewlett
+i7
+i9
+130
+packard
+disambiguation
+playdoh
+jill
+old
+block
+region
+80
+lw
+floating
+epic
+execute
+ic
+repairing
+scheduled
+indexes
+pipeline
+chain
+formation
+superblock
+writing
+news
+dependent
+code
+conte
+featuring
+height
+exposed
+flow
+index
+conflicts
+latency
+stages
+r5
+execution
+predicated
+destination
+latencies
+locality
+speculate
+seven
+exposing
+aggressive
+impressive
+decrement
+statically
+incorrect
+twelve
+r3
+accurac
+havanki
+synergies
+ictor1030507090
+model1
+tor1030507090
+select
+accuracies
+highly
+benchmark
+processors
+laboratories
+updated
+i1
+exceeding
+confidence
+pred
+counter
+rebel
+vor
+leve
+jmp
+bne
+elcor
+banerjia
+reservation
+dynamically
+scope
+thresholds
+60
+li
+dataflow
+i10
+peg
+070
+037
+9625007
+takeuchi
+tinker
+141
+conflict
+insert
+microarchitecture
+mikio
+meindl
+codrescu
+029
+youfeng
+sumedh
+deems
+hauswirth
+bodine
+tarun
+retiring
+nakra
+exploiting
+inserted
+utilizes
+huiyang
+ean
+sathaye
+reproducibility
+leveraged
+8u
+hpl
+storageless
+patch up
+value speculation
+up code
+value prediction
+value predictor
+prediction accuracy
+load instructions
+state block
+value profiling
+for value
+ldpred and
+and udpred
+prediction hardware
+ldpred instruction
+the prediction
+predicted instruction
+two level
+udpred instruction
+speculation scheduling
+value speculative
+predicted value
+dependent instructions
+129 compress
+prediction is
+the predicted
+value predictors
+dynamic loads
+instruction i3
+the ldpred
+124 m88ksim
+the stride
+dynamic load
+old state
+load operations
+miss prediction
+the udpred
+scheduling vss
+udpred instructions
+for vss
+hybrid predictor
+132 ijpeg
+register writing
+perform value
+schedule length
+of patch
+to patch
+i3 to
+have prediction
+stride two
+the vss
+dependent instruction
+hybrid predictors
+level predictor
+147 vortex
+126 gcc
+to i4
+branch to
+current state
+90 80
+actual result
+flow dependence
+miss predicted
+for 124
+total profiled
+of load
+the scheduler
+data dependence
+instructions are
+predictability of
+the compiler
+hybrid value
+for 129
+80 70
+dependence height
+writing instructions
+70 60
+static load
+saturating counters
+on value
+highly predictable
+predictor design
+flow dependencies
+stride predictor
+value history
+predictability for
+the value
+dependence from
+candidates for
+for load
+of 90
+last value
+the hybrid
+profiling can
+and hybrid
+history table
+dependence graph
+pattern history
+level value
+of dynamic
+state update
+134 perl
+the lego
+and 132
+execute state
+vss scheme
+i5 and
+i4 i5
+and i6
+highest prediction
+ldpred udpred
+speculative dependent
+vss is
+each ldpred
+lego compiler
+instructions i4
+cycles floating
+dispatch execute
+after breaking
+value ldpred
+static loads
+miss predictions
+accuracy distribution
+predicted values
+instruction is
+speculative execution
+predictor with
+using hybrid
+stride and
+hardware is
+threshold of
+instruction the
+the branch
+the patch
+saturating counter
+five cycles
+memory conflict
+conflict buffer
+seven cycles
+based two
+level predictors
+treegion scheduling
+of vss
+memory dependencies
+li 132
+are speculated
+gcc 129
+a prediction
+pipeline stages
+predictor is
+the saturating
+scheduling scope
+ijpeg 134
+dependence chain
+for miss
+table entry
+of dependent
+destination register
+prediction using
+fetch dispatch
+high prediction
+in value
+a threshold
+predictions are
+data value
+of predictability
+each prediction
+instructions in
+actual value
+instructions is
+accuracy for
+value predictability
+130 li
+to speculatively
+099 go
+for exploiting
+and value
+the old
+speedup for
+the schedule
+value locality
+from instruction
+a value
+code contains
+data values
+distribution for
+instruction and
+prediction and
+cycles from
+memory disambiguation
+is incorrect
+predictor the
+the predictability
+penalty for
+of figure
+code sequence
+instructions have
+instructions using
+of value
+their predictability
+predictor during
+patch up code
+the value predictor
+ldpred and udpred
+value speculation scheduling
+for value speculation
+the predicted instruction
+current state block
+dynamic load instructions
+the prediction hardware
+to patch up
+the predicted value
+of load instructions
+old state block
+speculation scheduling vss
+the ldpred instruction
+the udpred instruction
+of patch up
+branch to patch
+two level predictor
+candidates for value
+the old state
+and udpred instructions
+up code is
+level and hybrid
+to perform value
+i3 to i4
+have prediction accuracy
+stride two level
+data dependence graph
+the actual result
+prediction accuracy of
+two level and
+value prediction is
+the current state
+for value speculative
+instruction i3 to
+the patch up
+value speculative execution
+load instructions is
+for 124 m88ksim
+stride and two
+value predictor design
+prediction accuracy for
+the two level
+of dynamic load
+register writing instructions
+90 80 70
+for 129 compress
+flow dependence from
+80 70 60
+value profiling can
+static load instructions
+the stride predictor
+the branch to
+the prediction is
+the hybrid predictor
+pattern history table
+and two level
+the flow dependence
+value prediction using
+a threshold of
+cycles floating point
+based two level
+and 132 ijpeg
+execute state update
+the lego compiler
+prediction hardware is
+two level value
+accuracy of 90
+in critical paths
+accuracy distribution for
+up code contains
+gcc 129 compress
+dispatch execute state
+perform value profiling
+the pattern history
+up code the
+execution of patch
+instructions have prediction
+two cycles floating
+load instructions using
+for load operations
+prediction accuracy distribution
+i4 i5 and
+highest prediction accuracy
+the vss scheme
+a value predictor
+i5 and i6
+the highest prediction
+value speculative dependent
+from instruction i3
+hybrid value predictors
+of value speculation
+instructions i4 i5
+fetch dispatch execute
+for miss prediction
+the schedule length
+with the actual
+and hybrid predictors
+of dynamic loads
+li 132 ijpeg
+memory conflict buffer
+code sequence of
+predictor with the
+dependence from instruction
+sequence of figure
+126 gcc 129
+load instructions have
+two level predictors
+high prediction accuracy
+the memory conflict
+of the predicted
+of figure 3
+132 ijpeg 134
+dynamic memory disambiguation
+the value prediction
+of dependent instructions
+value prediction hardware
+the value predictability
+prediction is correct
+data value prediction
+value predictability of
+for value prediction
+predicted value is
+load instructions are
+based on value
+prediction is incorrect
+value prediction and
+predictability of data
+on value prediction
+number of load
+prediction accuracy the
+that are highly
+schedule length of
+used to select
+the prediction accuracy
+number of dynamic
+sigarch computer architecture
+architecture news v
+computer architecture news
+acm sigarch computer
+state update value
+stride value predictor
+add r5 r4
+two new instructions
+values are miss
+099 go and
+of 90 80
+load instructions under
+during value profiling
+in value speculation
+state block and
+block is updated
+above the predicted
+scheduling vss is
+twelve and decrement
+dynamic load operations
+eliminating flow dependencies
+for repairing miss
+case of miss
+different prediction accuracy
+value speculation of
+context based two
+distribution for static
+stride context based
+for dynamic loads
+level predictor is
+performance by aggressively
+total profiled load
+loads based on
+predictor during the
+udpred updates the
+three up to
+the vss algorithm
+accuracy of load
+and 50 are
+for load instructions
+all candidates for
+two level prediction
+prediction hardware with
+level predictor the
+by one down
+of 90 for
+udpred instruction pair
+ldpred loads the
+state block is
+vss can be
+increment by three
+various value predictors
+go and 132
+larger scheduling scope
+predicted instruction the
+decrement by one
+of total profiled
+the value speculation
+instructions under stride
+m88ksim 126 gcc
+i1 to i6
+and value speculation
+profiling can program

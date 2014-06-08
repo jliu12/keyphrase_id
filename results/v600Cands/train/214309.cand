@@ -1,0 +1,600 @@
+pcs
+portables
+portable
+cell
+interarrival
+initiated
+warp
+lps
+simulation
+channel
+minutes
+lp
+mobility
+busy
+quaglia
+phone
+event
+cells
+arrival
+carothers
+usec
+lookahead
+workload
+santoro
+nextcall
+francesco
+simulations
+rollbacks
+radio
+events
+communications
+channels
+timestamp
+fujimoto
+timestamped
+optimistic
+blocked
+sigsim
+wireless
+rollback
+pvm
+completioncall
+andrea
+messages
+initiating
+minute
+digest
+calls
+simulator
+blocking
+christopher
+holding
+simulated
+exponentially
+remote
+liljenstam
+timestamps
+winter
+cellular
+pending
+neighboring
+granularity
+workstations
+rassul
+ayani
+accordingly
+simulators
+tomacs
+availability
+efficiencies
+destination
+entity
+perumalla
+checkpointing
+richard
+simulating
+neighbor
+message
+myrinet
+counted
+impact
+networks
+move
+beraldi
+interarrivals
+movecallin
+rnngren
+reconnects
+mineo
+completion
+calendar
+wrapping
+nicol
+arrives
+processors
+startup
+persist
+movein
+moveout
+takai
+network
+arrivals
+init
+mobile
+workloads
+locality
+saving
+suitability
+self
+boleslaw
+thousands
+roll
+rajive
+msgs
+szymanski
+unsynchronized
+realized
+attributed
+heidelberger
+gerla
+bagrodia
+proces
+handoff
+workshop
+bellcore
+kalyan
+synchronization
+versus
+determines
+networked
+schedule
+release
+committed
+flowchart
+allocated
+sent
+ulation
+erlang
+movement
+multiprogrammed
+forced
+assignment
+resides
+completions
+exchanging
+homogeneity
+personal
+scheduling
+dest
+checkpoints
+interruption
+256
+asynchronous
+fcfs
+handed
+platforms
+service
+conversation
+arlington
+transmitter
+statistics
+discrete
+modest
+off
+overheads
+overhead
+analytic
+roberto
+entities
+conversations
+324
+interrupted
+dec
+runningthe
+wippet
+pots
+enrolled
+bothpcs
+zhonge
+mak
+microcells
+kaylan
+size3
+movecallout
+nigro
+simulationversus
+libero
+simulationhad
+jya
+panchal
+ogielski
+porras
+mandayam
+montagnat
+sunderam
+examing
+gettimeofdaysystem
+wcn
+microcellular
+alleyne
+call initiated
+call interarrival
+initiated model
+portable initiated
+the call
+time warp
+time minutes
+of portables
+interarrival time
+the portable
+initiated simulation
+pcs models
+portables per
+e call
+per cell
+both pcs
+distributed simulation
+call holding
+minutes c
+call arrival
+phone call
+times call
+busy lines
+distributed simulator
+call portable
+the simulation
+hand off
+a call
+francesco quaglia
+pcs network
+the cell
+minute mean
+n mobility
+mean experiments
+the pcs
+holding times
+a cell
+interarrival times
+3 minute
+mobility and
+andrea santoro
+d carothers
+cell n
+self initiating
+channel assignment
+minutes a
+exponentially distributed
+channel availability
+busy line
+remote communications
+p b
+call is
+are exponentially
+a portable
+parallel simulation
+cell lp
+christopher d
+and call
+a phone
+pcs simulation
+pcs networks
+discrete event
+simulation of
+blocking probability
+versus number
+event granularity
+call completion
+pending events
+of pending
+m fujimoto
+the workload
+experiments performed
+pcs simulations
+blocked calls
+dynamic channel
+destination cell
+portables in
+calls portables
+using 8
+richard m
+c call
+for call
+and portable
+simulated time
+next call
+distributed with
+timestamped messages
+channel is
+event simulation
+simulation digest
+digest v
+acm sigsim
+sigsim simulation
+cell s
+of call
+of channels
+call arrives
+warp system
+simulation p
+startup method
+near neighbor
+release channel
+cell lps
+move timestamps
+pcs parameters
+timestamp fields
+fixed channel
+average rollback
+lp s
+cell is
+of calls
+optimistic simulation
+warp mechanism
+the distributed
+performed using
+santoro francesco
+call completes
+portable is
+a channel
+each cell
+8 processors
+simulation on
+initiated and
+state saving
+counted as
+quaglia andrea
+between lps
+winter simulation
+on winter
+state information
+times are
+off to
+simulation model
+of cells
+and distributed
+parallel discrete
+neighboring cell
+a hand
+cell for
+call will
+an lp
+l b
+network size
+channels per
+present performance
+the nextcall
+exchanging timestamped
+sharing state
+initiated models
+call lp
+portable arrival
+mean call
+line effect
+channel call
+call attempts
+michael liljenstam
+call arrivals
+current cell
+c e
+all channels
+checkpointing for
+event type
+for optimistic
+parallel and
+on parallel
+performance data
+the blocking
+july 1996
+call processing
+simulation implementation
+myrinet clusters
+completes or
+rassul ayani
+both simulations
+fujimoto efficient
+warp execution
+move move
+lps communicate
+ffl mobility
+and move
+r e
+impact of
+are busy
+parallel simulations
+sent between
+simulation models
+the startup
+radio channels
+processors ffl
+optimistic synchronization
+remote messages
+scale pcs
+rollback distance
+this study
+of blocked
+events in
+on modeling
+accordingly the
+these models
+the destination
+call interarrival time
+the call initiated
+interarrival time minutes
+the portable initiated
+call initiated model
+number of portables
+portables per cell
+e call interarrival
+portable initiated model
+of portables per
+in the portable
+time minutes c
+both pcs models
+mobility and call
+call initiated simulation
+portable initiated simulation
+call interarrival times
+in the call
+call holding times
+holding times are
+mean experiments performed
+and call interarrival
+a 3 minute
+per cell n
+3 minute mean
+minute mean experiments
+time minutes a
+cell n mobility
+n mobility and
+performed using 8
+times call holding
+experiments performed using
+the time warp
+times are exponentially
+the distributed simulator
+interarrival times call
+christopher d carothers
+are exponentially distributed
+distributed with a
+at a cell
+a phone call
+the call interarrival
+c call interarrival
+and portable initiated
+a c call
+of pending events
+initiated model is
+c e call
+of the simulation
+exponentially distributed with
+number of pending
+l b a
+a call arrival
+l l b
+versus number of
+with a 3
+richard m fujimoto
+using 8 processors
+channel is available
+the pcs models
+call initiated and
+a hand off
+dynamic channel assignment
+for both pcs
+when a call
+discrete event simulation
+number of channels
+and distributed simulation
+acm sigsim simulation
+sigsim simulation digest
+simulation digest v
+if a channel
+of time warp
+time warp system
+the blocking probability
+of the pcs
+portables in the
+initiated model the
+the startup method
+channels per cell
+initiated and portable
+the cell lp
+the destination cell
+of channels per
+and move timestamps
+r e call
+of blocked calls
+for call initiated
+the call is
+distributed simulation of
+b a c
+time warp mechanism
+that the call
+the number of
+andrea santoro francesco
+santoro francesco quaglia
+call is counted
+s state information
+parallel and distributed
+conference on winter
+on winter simulation
+quaglia andrea santoro
+francesco quaglia andrea
+optimistic simulation on
+if all channels
+workshop on parallel
+parallel discrete event
+of network size
+number of blocked
+number of call
+impact of network
+for time warp
+parallel simulation of
+the current cell
+call completes or
+pending events in
+call completion and
+a call portable
+initiated model a
+forced to terminate
+average rollback distance
+distributed time warp
+present performance data
+pcs simulation models
+of portables in
+a fixed channel
+the call arrival
+the mean call
+per cell is
+completes or is
+in both pcs
+fixed channel assignment
+of call attempts
+the busy line
+processors ffl mobility
+call arrival at
+busy line effect
+the call completes
+of calls portables
+model a call
+completion and move
+portable initiated models
+8 processors ffl
+in time warp
+on parallel and
+the impact of
+to the cell
+calls in the
+m fujimoto efficient
+time warp execution
+on myrinet clusters
+simulation on myrinet
+a busy line
+hand off to
+available the call
+digest v 26
+decisions that were
+distributed simulation p
+is counted as
+the simulation model
+proceedings of the
+a channel is
+of calls in
+large scale pcs
+of simulated time
+to another cell
+checkpointing for optimistic
+the event granularity
+p b for
+the phone call
+which denotes a
+computer simulation tomacs
+simulation tomacs v
+and computer simulation
+transactions on modeling
+modeling and computer
+that were made
+number of calls
+on modeling and
+the amount of
+cell for a
+perumalla richard m
+performance of time
+then moves to
+s perumalla richard
+digest v 28
+the next call
+are attributed to
+as a call
+for parallel simulation
+some fixed number
+in this study
+in both models
+represents the time
+simulation of large
+events in the
+winter simulation p
+counted as a
+to the distributed
+execution on a

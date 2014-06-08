@@ -1,0 +1,600 @@
+newt
+deltat
+ode
+convergence
+timestep
+odes
+trust
+superlinear
+gradient
+newton
+timestepping
+definite
+kffik
+minimizer
+gammarf
+quadratic
+ffi
+equilibrium
+rk
+euler
+kffi
+levenberg
+region
+linearized
+ffik
+x3
+steepest
+descent
+rapid
+stable
+schropp
+rootfinding
+marquadt
+unconstrained
+nonlinear
+accumulation
+semi
+definiteness
+radius
+strathclyde
+regarded
+dynamical
+subproblem
+gammag
+stability
+bfl
+numerical
+subsequence
+letting
+optimization
+hessian
+fletcher
+convergent
+differential
+lipschitz
+correction
+implicit
+solves
+ordinary
+multistep
+increment
+marquardt
+displacement
+sided
+tolerance
+fl
+mor
+constants
+whilst
+dynamics
+rf
+unbounded
+dennis
+viewpoint
+neighborhood
+rigorous
+sufficiently
+min
+shifted
+closeness
+steady
+ckg
+timesteppers
+x2b
+k80228
+dissipativity
+goldfeld
+4j
+ckx
+ffkffi
+gmax
+sequnce
+interation
+inequality
+eigenvalue
+ks
+pages
+rate
+triangle
+1xh
+geometrically
+unusual
+init
+linearity
+x4
+maximisation
+uk
+indices
+powers
+x11
+griffiths
+relabelling
+contradicted
+dynam
+inexpensive
+remarks
+analogue
+unstable
+litera
+deltaq
+dt
+deltaf
+halve
+ratio
+sup
+glasgow
+ksk
+valleys
+orient
+103
+indirectly
+arises
+minimizes
+goldfarb
+taylor
+contractive
+alter
+infinite
+flg
+contradicts
+timesteps
+expanding
+connection
+equilibria
+fx
+adaptive
+adaption
+theorems
+odds
+reproduces
+steep
+behaving
+guess
+norm
+ak
+optimizers
+kf
+looks
+thetam
+wiley
+item
+page
+benefited
+proceeds
+euclidean
+equations
+areas
+chaos
+generically
+stiff
+forces
+quantifies
+g1
+climbing
+displacements
+kutta
+quadratically
+runge
+appearing
+jl
+asymptotic
+neglecting
+enjoys
+ruled
+ysis
+gave
+regime
+drives
+proofs
+else
+fz
+prepared
+lemma
+posteriori
+inactive
+conversations
+inequalities
+chu
+ics
+perspectives
+e k
+trust region
+deltat k
+newt newt
+the ode
+x k
+newton s
+local convergence
+superlinear convergence
+algorithm 3
+local minimizer
+local quadratic
+s method
+gradient odes
+error control
+implicit euler
+of superlinear
+quadratic model
+euler method
+quadratic convergence
+positive semi
+local error
+large k
+a trust
+all k
+semi definite
+gammarf x
+gradient ode
+a timestepping
+linearized implicit
+newt k
+k ffi
+k 1
+the timestep
+the trust
+gradient structure
+stable fixed
+deltat 0
+r k
+k 0
+some constant
+definite then
+convergence to
+g k
+kffik h
+local restricted
+j gammarf
+ffi newt
+f x
+positive definite
+global convergence
+to equilibrium
+from 3
+constant c
+b ffi
+kffi k
+else set
+in 3
+region algorithm
+the gradient
+for constants
+ratio e
+is positive
+q k
+unconstrained optimization
+the local
+compute compute
+for gradient
+minimizer in
+b fl
+algorithm 4
+region radius
+k we
+b ffik
+k kffi
+rapid form
+gradient stability
+restricted subproblem
+rk methods
+timestep deltat
+main sequence
+that algorithm
+k b
+accumulation point
+convergence rate
+ordinary differential
+h k
+k is
+displacement error
+unbounded proof
+odes we
+fixed timestep
+subproblem 3
+compute solve
+solve compute
+shifted sequence
+in theorem
+ffi k
+theorem 3
+necessary conditions
+k solves
+ode methods
+general step
+for optimization
+k e
+the algorithm
+a local
+be regarded
+for x
+1 1
+k and
+that r
+k for
+constants e
+deltat deltat
+of deltat
+6 theorem
+steepest descent
+see for
+lemma a
+dynamical systems
+numerical methods
+the optimization
+from 5
+if necessary
+1 e
+b k
+of steepest
+regarded as
+is unbounded
+very rapid
+g i
+lipschitz condition
+suppose that
+using 3
+3 21
+set x
+compute using
+theorem 5
+convergence analysis
+in x3
+of gradient
+optimization and
+x 1
+x 0
+k k
+convergence properties
+the convergence
+3 3
+positive definiteness
+an increment
+point x
+sufficient conditions
+the ratio
+stable steady
+definite are
+given deltat
+timestep rk
+bfl x
+region parameter
+found conditions
+newt and
+conditions rf
+gives rapid
+constraint kffik
+correction ffi
+newt gammag
+on gradient
+x newt
+marquadt algorithm
+to kffik
+large deltat
+indices form
+b bfl
+deltat from
+odes that
+newt for
+general odes
+timestepping algorithm
+reducing b
+subsequence whose
+levenberg marquadt
+gammag k
+adaptive linearized
+rk formula
+general ode
+to linearity
+6 pages
+unstable fixed
+or levenberg
+solves the
+k 2
+conditions for
+c 4
+in b
+of 6
+21 that
+and hence
+3 4
+a 8
+algorithm 3 2
+newton s method
+e k 1
+a local minimizer
+the local quadratic
+implicit euler method
+local error control
+local quadratic model
+e k 0
+of superlinear convergence
+for all k
+positive semi definite
+a trust region
+the trust region
+some constant c
+k 1 e
+local convergence to
+q k ffi
+linearized implicit euler
+for some constant
+theorem 1 1
+i is positive
+algorithm 4 1
+in 3 3
+minimizer in theorem
+x j gammarf
+k is unbounded
+solves the local
+form of superlinear
+the local restricted
+for gradient odes
+j gammarf x
+ratio e k
+for large k
+theorem 3 4
+k we have
+trust region algorithm
+local minimizer in
+but the ratio
+0 for all
+e 2 k
+the ratio e
+if e k
+is positive semi
+g i is
+accumulation point x
+point x 1
+that algorithm 3
+trust region radius
+f x j
+in b s
+1 e 2
+the main sequence
+is unbounded proof
+of gradient stability
+a general step
+if r k
+local convergence rate
+displacement error e
+e c but
+the gradient ode
+k kffi k
+all k e
+subproblem 3 4
+rapid form of
+large k in
+stable fixed point
+newt newt newt
+timestep deltat k
+k e for
+constants e c
+ffi k solves
+of deltat k
+further the displacement
+compute solve compute
+deltat k the
+3 21 that
+restricted subproblem 3
+k b ffik
+e for constants
+the displacement error
+local restricted subproblem
+for constants e
+lemma a 1
+positive definite then
+is positive definite
+k 0 for
+see for example
+r k 1
+2 k is
+f x k
+k solves the
+kffi k k
+error e k
+general step of
+of 6 theorem
+all k then
+be regarded as
+in theorem 1
+for a local
+6 theorem 5
+of the timestep
+k in b
+k b k
+conditions for a
+close to x
+and if e
+to the hessian
+of local error
+necessary we have
+ordinary differential equations
+follows from 3
+c and if
+of the ode
+c but the
+for x to
+of convergence to
+theorem 3 3
+s method for
+e k for
+to a stable
+of g k
+2 in 3
+of steepest descent
+sufficient conditions for
+r 2 f
+1 with f
+constant c and
+2 c 2
+as k 1
+1 1 then
+for x k
+with f x
+x k 2
+the numerical solution
+if necessary we
+theorem 5 2
+superlinear convergence of
+algorithm 5 1
+regarded as a
+an adaptive linearized
+21 that r
+s which contradicts
+method 2 5
+a stable fixed
+the optimization literature
+stable steady state
+subject to kffik
+kffik h k
+sequence 1 further
+if the accumulation
+constraint kffik h
+infinite subsequence whose
+that any fixed
+very rapid form
+b ffi is
+5 for constants
+any fixed timestep
+given deltat 0
+region or levenberg
+convergence to stable
+reducing b fl
+c if necessary
+else set r
+hence g 1
+superlinear convergence the
+indices form a
+b fl if
+in 3 31
+o be 2
+these results require
+general odes that
+2 on b
+odes that gives
+trust region parameter
+euler method for
+model q k
+by reducing b
+on unconstrained optimization
+that local error
+suppose that algorithm
+conditions rf x
+the ode method
+x init a
+as a timestepping
+0 x init
+consistent approximation to
+some fixed n
+theory of gradient
+discussion on unconstrained
+algorithm for unconstrained
+closeness to linearity
+that case i
+the timestep deltat
+mentioned in 6
+quadratic model q
+fixed timestep rk
+0 set x
+deltat from 5
+a timestepping algorithm

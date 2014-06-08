@@ -1,0 +1,600 @@
+env
+av
+variant
+polyvariant
+arg
+cv
+consel
+avs
+cvs
+fixpoint
+exp
+closure
+callers
+creators
+variants
+workstack
+site
+abstract
+lambda
+ashley
+polyvariance
+analyses
+closures
+reanalyzed
+rator
+1993a
+binding
+record
+charlier
+absval
+monovariant
+prog
+cleanup
+rand
+musumbu
+danvy
+applicative
+flow
+adt
+lub
+sweep
+schism
+useless
+1991
+self
+lookup
+app
+hentenryck
+keefe
+update
+revised
+analyzed
+descriptions
+languages
+shivers
+analyze
+static
+car
+henglein
+hankin
+analyzing
+lexical
+hall
+bondorf
+evaluator
+kennedy
+interpreter
+cond
+1989
+defs
+nielson
+prolog
+push
+1987
+meur
+karoline
+hk
+franoise
+bookkeeping
+programs
+recording
+sestoft
+rgensen
+letrec
+height
+lattices
+autoprojection
+dybvig
+partition
+reused
+lawall
+mp
+argument
+environment
+indiana
+julia
+hj
+dependency
+clos
+reachable
+return
+expressions
+cps
+creator
+xn
+acc
+unoptimized
+stack
+notes
+eliminating
+proc
+pending
+toplas
+1992
+hf
+jones
+benchmarks
+charles
+untyped
+harrison
+expression
+interpretation
+anne
+fields
+generic
+le
+signature
+offline
+fig
+accurate
+caller
+tour
+root
+sites
+variantchecks
+3151
+91000
+47405
+efficency
+jashley
+malmkjr
+97291
+linger
+muchnick
+9224375
+malmkjaer
+reanalyzing
+reanalyses
+ington
+memq
+auxiliaries
+polyvari
+semantic
+domain
+olivier
+accelerate
+body
+pi
+language
+procedures
+accuracy
+detecting
+pred
+highest
+db
+parameterized
+andmap
+2197
+recomputations
+jng
+asai
+bta
+ogi
+rytz
+tute
+mycroft
+1183
+reanalyze
+specialization
+delta
+recursive
+1083
+shiv
+daniels
+preexisting
+ndergaard
+clinger
+vance
+1991a
+rees
+gengler
+1991b
+eagerly
+ds
+semantics
+creation
+eta
+kenichi
+insti
+glck
+application variant
+closure variant
+call site
+env self
+analyze exp
+application variants
+variant case
+higher order
+fixpoint computation
+a closure
+the abstract
+polyvariant static
+closure variants
+binding time
+partial evaluation
+a polyvariant
+abstract value
+variant for
+order programs
+for polyvariant
+m ashley
+of polyvariance
+c consel
+sweep exp
+abstract values
+ashley and
+abstract descriptions
+variant is
+static analyses
+consel 1993a
+analyses delta
+the analysis
+control flow
+the application
+the closure
+the fixpoint
+time analysis
+data flow
+abstract closures
+exp env
+useless variants
+new arg
+define record
+variants that
+variants are
+abstract closure
+variant to
+for higher
+root variant
+av cv
+av arg
+case av
+polyvariant function
+car avs
+the workstack
+set av
+cvs call
+define analyze
+abstract domain
+call graph
+the creators
+the callers
+lambda expression
+av av
+an abstract
+the variant
+analysis for
+of abstract
+computation for
+musumbu and
+define update
+procedure analyze
+be reanalyzed
+av define
+charlier musumbu
+av variant
+env creators
+variant must
+hentenryck 1991
+case exp
+avs seen
+arg av
+and hentenryck
+generic analysis
+arg define
+site cvs
+site self
+self exp
+analyze variant
+revised algorithm
+polyvariant analysis
+variant being
+variant may
+environment of
+variant the
+the argument
+of variants
+the environment
+an application
+being applied
+order applicative
+finite height
+abstract functions
+lexical environment
+analyzed program
+applicative programs
+of higher
+abstract interpretation
+polyvariant binding
+variant and
+called to
+analysis the
+flow and
+the program
+domain a
+consel and
+lambda expressions
+the call
+o keefe
+the procedure
+return value
+and kennedy
+the analyzed
+env env
+self variant
+cv arg
+analyze prog
+let av
+michael ashley
+fixpoint process
+eliminating useless
+site call
+shivers 1991
+new cvs
+g charlier
+rator env
+rator rand
+consel define
+arg call
+polyvariant analyses
+new env
+callers arg
+value av
+av callers
+site set
+update argument
+update environment
+env av
+useful av
+callers avs
+body env
+lambda x
+exp rator
+variant av
+j michael
+update call
+and hankin
+exp rand
+arg callers
+variant exp
+app rator
+rand let
+push many
+self sweep
+site new
+variant s
+arg set
+pi arg
+exp body
+creators env
+hk i
+rand env
+cv avs
+avs cv
+env is
+cvs arg
+update return
+graph analysis
+hall and
+is analyzed
+a fixpoint
+partial evaluator
+abstract data
+new application
+of closure
+order languages
+set call
+efficient call
+to update
+domain and
+charles consel
+purpose algorithm
+on partial
+the revised
+descriptions for
+the record
+least upper
+new return
+and danvy
+dependency information
+the application variant
+a closure variant
+the closure variant
+an application variant
+binding time analysis
+polyvariant static analyses
+fixpoint computation for
+for polyvariant static
+application variant for
+and c consel
+ashley and c
+m ashley and
+computation for polyvariant
+for higher order
+static analyses delta
+flow and data
+of the closure
+higher order programs
+analysis for higher
+the abstract value
+cvs call site
+variant case av
+called to update
+case av av
+and data flow
+control flow and
+of higher order
+time analysis for
+the abstract domain
+the environment of
+a polyvariant function
+call site cvs
+application variants that
+onto the workstack
+variant case exp
+variant must be
+closure variant is
+in a polyvariant
+the application variants
+a variant is
+call site self
+site self exp
+an abstract closure
+charlier musumbu and
+a polyvariant analysis
+and hentenryck 1991
+av variant case
+hall and kennedy
+musumbu and hentenryck
+of the analysis
+of the application
+the analyzed program
+higher order applicative
+an abstract value
+abstract value of
+the fixpoint computation
+flow of the
+polyvariant binding time
+abstract domain and
+variants that are
+first order programs
+call graph analysis
+the abstract values
+algorithm for analyzing
+the analysis the
+of a closure
+data flow of
+the control flow
+number of variants
+is called to
+analysis the revised
+g charlier musumbu
+closure variant to
+presence of polyvariance
+update return value
+site call site
+new arg set
+arg call site
+exp exp env
+application variant the
+call site call
+new application variant
+c consel define
+of application variants
+eliminating useless variants
+call site new
+rator rand let
+the generic analysis
+variant is useful
+e g charlier
+av av cv
+j michael ashley
+cv avs cv
+of closure variants
+av arg av
+the procedure analyze
+body env av
+call site set
+exp rand env
+set call site
+variant for k
+exp rator env
+update call site
+exp body env
+abstract descriptions of
+exp env self
+analyze variant av
+return value av
+env self variant
+rand env self
+must be reanalyzed
+env self sweep
+app rator rand
+rator env self
+self variant case
+self sweep exp
+on partial evaluation
+control flow graph
+higher order languages
+to update the
+of abstract values
+a lambda expression
+efficient call graph
+analyzed program is
+order applicative programs
+the call site
+the least upper
+consel and danvy
+least upper bound
+the argument and
+analysis of higher
+general purpose algorithm
+in the partition
+the argument of
+result of the
+the result of
+the analysis of
+a new application
+environment of a
+data flow analyses
+of the program
+the literature e
+data flow information
+of an application
+literature e g
+iii 1989 shivers
+exp then env
+variant is applied
+cvs of absval
+site arg call
+formal body let
+closure variant may
+finding fixed points
+result of analyzing
+are effectively recording
+and kennedy hall
+lawall charles consel
+define analyze exp
+closure variant the
+and hankin 1987
+hj x i
+env av define
+variant being analyzed
+domain of closure
+polyvariant function that
+variant may be
+variant may change
+let cv lookup
+l lawall charles
+of polyvariance we
+env self proc
+abstract functions derived
+franoise le meur
+kennedy hall and
+closure variant being
+lookup app variant
+site cvs arg
+with partial evaluation
+variant representing the
+application variant representing
+dynamic semantics processing
+define record av
+martin and hankin
+av cv arg
+abstract values in
+app variant cv
+env extend env
+let av lookup
+av useful av
+update ensures that
+set av useful
+env env formal
+creators of the
+for each lambda
+of finite height
+else env self
+the callers adt
+value av analyze
+creators env is
+exp else env

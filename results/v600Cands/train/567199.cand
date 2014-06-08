@@ -1,0 +1,600 @@
+t4
+dataflow
+t2
+vertex
+vertices
+t5
+flow
+transformations
+idf
+t6
+sparse
+qpg
+t7
+hf
+pred
+compact
+constructing
+transformation
+seg
+hi
+equivalence
+exit
+graphs
+duesterwald
+jv
+entry
+quick
+graph
+node
+bilardi
+predecessor
+nodes
+pingali
+sreedhar
+ssa
+choi
+applicable
+ceg
+strongly
+partially
+reachable
+dominator
+interprocedural
+dominate
+edges
+propagation
+kildall
+topological
+transfer
+edge
+visit
+df
+sw
+congruence
+predecessors
+paths
+partition
+dominates
+np
+gao
+successor
+rosser
+normal
+preserve
+hardness
+sort
+trivially
+inductive
+collapsing
+iff
+mfp
+mopf
+preserves
+dominance
+intraprocedural
+pointer
+informatively
+meet
+projection
+consisting
+quotient
+subgraph
+merging
+church
+identity
+frontier
+identifying
+johnson
+reaching
+constructs
+mop
+eliminated
+cytron
+hopcroft
+maximal
+recovered
+circles
+path
+ferrante
+incident
+elimination
+ps
+nontrivial
+implication
+induced
+covering
+apt
+quadratic
+cover
+traversal
+formations
+aliasing
+partitioning
+outlined
+dj
+efficiently
+connected
+structured
+produced
+valued
+aliases
+dependence
+contradicting
+procedures
+illustrating
+roman
+incoming
+ff
+jej
+visited
+compactly
+subexpressions
+irrelevant
+refinement
+semilattice
+ffsw
+vious
+myampersandphgr
+incomputer
+s2f
+1302
+geay
+mfpf
+lemma1
+nodesto
+assignment
+merged
+compactness
+eg
+emerged
+evaluation
+jsj
+reverse
+iots
+typestate
+nurit
+chariots
+recursion
+suffix
+hypothesis
+subproblem
+static
+t1
+establish
+bold
+cosmetic
+kosaraju
+continue
+argue
+haviors
+flowgraphs
+dor
+fly
+hu
+replace
+interested
+annotated
+yahav
+representations
+iii
+utilizing
+tree
+overlapping
+kills
+distracting
+regions
+worth
+okay
+ramalingam
+flowgraph
+prerequisites
+fa
+vi
+luckily
+deleting
+trans
+spirit
+namely
+sharir
+redundancy
+equivalent flow
+flow graph
+evaluation graph
+sparse evaluation
+dataflow solution
+partially equivalent
+compact evaluation
+t4 transformations
+the dataflow
+flow graphs
+dataflow analysis
+hf hi
+and t4
+entry vertex
+graph g
+p nodes
+t2 and
+of vertices
+the sparse
+pred s
+the t2
+s paths
+for constructing
+the graph
+the compact
+t2 transformation
+minimum size
+quick propagation
+propagation graph
+v idf
+analysis problem
+normal form
+t4 transformation
+strongly connected
+control flow
+f exit
+the quick
+m node
+our algorithm
+transfer function
+m nodes
+t5 transformation
+linear time
+an equivalent
+p node
+in g
+graph is
+size equivalent
+the entry
+partition u
+vertex in
+s path
+vertices in
+every vertex
+form with
+transformation is
+topological sort
+equivalence class
+node u
+applicable to
+in normal
+preserves s
+analysis problems
+choi et
+s projection
+f s
+constructing the
+sort order
+duesterwald et
+hi preserves
+graph in
+graph consisting
+a partially
+solution for
+graph produced
+s pred
+whose s
+seg and
+a vertex
+a path
+a m
+evaluation graphs
+instance over
+of g
+hi preserve
+size cover
+the t4
+final graph
+since hf
+and qpg
+s restricted
+congruence partitioning
+the t5
+u in
+f r
+w i
+problem instance
+the transfer
+in partition
+transformation to
+jv j
+graph h
+t2 t4
+maximal fixed
+preserve s
+entry g
+in s
+not dominate
+the equivalent
+is applicable
+s k
+algorithm for
+reachable from
+quadratic algorithm
+entry single
+solution at
+of constructing
+graph can
+any vertex
+t 4
+static single
+a graph
+nodes in
+r to
+to w
+equivalence relation
+projection is
+consisting only
+path ff
+graph transformations
+connected set
+f p
+m procedure
+smaller equivalent
+dominate v
+t5 t6
+restricted dataflow
+p sw
+a t5
+t7 transformations
+to t4
+vertices possible
+between entry
+dominator tree
+of t2
+time algorithm
+graph to
+o jv
+function associated
+the reaching
+vertex u
+path from
+from f
+f y
+original graph
+graph by
+single exit
+graph and
+r f
+connected components
+single assignment
+hardness result
+in graph
+vertices of
+t2 transformations
+and bilardi
+constructing sparse
+u nodes
+any predecessor
+smaller graph
+appropriate sequence
+single vertex
+previous algorithms
+node w
+graph the
+x f
+edge from
+a node
+the meet
+cover for
+reaching definitions
+d e
+vertex not
+a equivalent
+sreedhar and
+pingali and
+denote the
+assignment form
+in topological
+predecessor of
+in v
+the ssa
+point solution
+the inductive
+to construct
+g s
+vertex w
+constructing a
+minimum number
+ssa form
+equivalent flow graph
+the dataflow solution
+equivalent flow graphs
+partially equivalent flow
+the sparse evaluation
+compact evaluation graph
+the compact evaluation
+an equivalent flow
+sparse evaluation graph
+t2 and t4
+algorithm for constructing
+and t4 transformations
+dataflow solution for
+the entry vertex
+normal form with
+form with respect
+dataflow analysis problem
+the quick propagation
+quick propagation graph
+a partially equivalent
+the equivalent flow
+of p nodes
+control flow graph
+the t2 transformation
+in v idf
+a m node
+in normal form
+minimum size equivalent
+size equivalent flow
+a minimum size
+that the dataflow
+flow graph consisting
+preserves s paths
+topological sort order
+s projection is
+transformation is applicable
+set of vertices
+a p node
+choi et al
+for constructing the
+linear time algorithm
+duesterwald et al
+strongly connected set
+hi preserves s
+hf hi preserves
+whose s projection
+problem instance over
+t2 transformation to
+s pred s
+evaluation graph and
+apply the t2
+transfer function associated
+the graph g
+number of vertices
+from the entry
+analysis problem instance
+every vertex in
+f s 1
+graph by applying
+does not dominate
+graph consisting of
+in the graph
+the normal form
+a d e
+the partially equivalent
+of f exit
+sequence of t2
+seg and qpg
+in topological sort
+minimum size cover
+flow graphs we
+preserve s paths
+np hardness result
+the final graph
+hf hi preserve
+cover for x
+since hf hi
+the t4 transformation
+dataflow solution is
+hi preserve s
+evaluation graph is
+t 4 x
+pred s y
+strongly connected components
+the transfer function
+connected set of
+problem of constructing
+inductive hypothesis that
+from the inductive
+the maximal fixed
+for x f
+maximal fixed point
+of t2 and
+is applicable to
+set of p
+with respect to
+f r f
+o jv j
+f p s
+entry single exit
+single entry single
+static single assignment
+consisting only of
+set x of
+control flow graphs
+the reaching definitions
+not in s
+a graph g
+function associated with
+our algorithm for
+graph can be
+node u in
+for constructing sparse
+of sparse evaluation
+and the quick
+the t5 transformation
+solution for node
+u in graph
+constructing the equivalent
+a equivalent flow
+a smaller equivalent
+w is f
+of equivalent flow
+f p sw
+smaller equivalent flow
+s restricted dataflow
+evaluation graph can
+size cover for
+r f s
+appropriate sequence of
+pred s pred
+quadratic algorithm for
+of a t5
+sreedhar and gao
+of vertices possible
+solution for graph
+an s path
+r to f
+constructing an equivalent
+respect to t4
+dataflow solution at
+s path from
+a m procedure
+from f r
+not dominate v
+for constructing it
+restricted dataflow analysis
+the original graph
+a linear time
+time algorithm for
+vertex u in
+vertex in the
+flow graph the
+exists a path
+after the application
+a single vertex
+assume that we
+of vertices in
+flow graph for
+is in normal
+applying an appropriate
+x of vertices
+vertex not in
+from the dataflow
+flow graph by
+f r to
+fixed point solution
+h s g
+an o jv
+an appropriate sequence
+entry vertex to
+a quadratic algorithm
+pingali and bilardi
+g s s
+the minimum number
+of a partially
+that r s
+for constructing a
+the set of
+to be t
+a node u
+produced by our
+minimum number of
+of m nodes
+the ssa form
+s g s
+be in normal
+reachable from w
+algorithms for constructing
+single assignment form
+in g that
+any two vertices
+of the minimum
+0 2 to
+p nodes in
+the set covering
+t 2 u
+entry vertex of
+to f y
+the dominator tree

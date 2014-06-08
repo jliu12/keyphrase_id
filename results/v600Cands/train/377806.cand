@@ -1,0 +1,600 @@
+fusion
+ow
+purdue
+loop
+dependence
+array
+shifting
+nests
+loops
+fused
+coalescing
+contraction
+cache
+dv
+g1
+coalesced
+l2
+dependences
+laplace
+locality
+ek
+reference
+window
+climate
+swim00
+combustion
+live
+benchmarks
+edge
+nest
+l1
+swim95
+ldg
+dierent
+simplication
+dk
+lexicographically
+register
+gs
+tiling
+jb
+e1
+spills
+predicted
+os
+d1
+distances
+memory
+edges
+misses
+legal
+regions
+dl1
+nested
+static
+d2
+denition
+lucas
+privatization
+compiler
+enhancement
+annotated
+zb
+ll14
+constraint
+peeling
+collective
+miss
+spec95fp
+retiming
+distance
+native
+jn
+iteration
+fuse
+kth
+transformed
+r10k
+f90
+yonghong
+fs
+scalar
+dene
+satised
+objective
+contracted
+shortest
+za
+rst
+rice
+scalars
+benchmark
+zhiyuan
+legality
+inequality
+ck
+j1
+residue
+vk
+counts
+arrays
+nonnega
+4194
+spec2000fp
+requirement
+optimality
+footprint
+l3
+mid
+legally
+rk
+parallelism
+skewing
+codes
+hydro2d
+kn
+fraboulet
+hth
+innermost
+spilling
+referenced
+improving
+kandemir
+replacement
+darte
+lm
+jacobi
+dened
+simultaneously
+kennedy
+spec2000
+simplied
+enabling
+sth
+normalized
+network
+references
+unied
+nonnegative
+nds
+count
+jam
+ref
+unrolling
+nd
+reduction
+tive
+interchange
+node
+originated
+body
+subscripted
+v1
+nesting
+minimization
+mg
+gure
+successive
+region
+prefetching
+flows
+reuses
+imperfectly
+anti
+perfectly
+song
+trip
+eect
+speedup
+transfor
+03
+statements
+perfect
+zz
+r1
+collection
+mckinley
+hpf
+preventing
+lexically
+compilers
+1024
+07
+programs
+eectiveness
+culties
+unroll
+livermore
+transformations
+reject
+lemma
+sarkar
+temporary
+ours
+spec95
+spanning
+np
+statistics
+stencil
+temporal
+loop fusion
+reference window
+static write
+l i
+memory reduction
+loop shifting
+write reference
+after loop
+array contraction
+network ow
+local array
+predicted reference
+array regions
+distance vector
+loop nests
+end do
+loop dependence
+ow dependence
+loop coalescing
+for problem
+reference input
+dependence distance
+simultaneously live
+in g1
+memory requirement
+m edge
+fusion and
+of loop
+l edge
+live local
+dependence edges
+do end
+purdue set
+problem 2
+before loop
+shifting loop
+the coalesced
+the constraint
+node l
+problem 1
+from l
+dependence graph
+dependence distances
+window size
+ow dependences
+successive shortest
+coalesced dependence
+laplace gs
+kth static
+laplace jb
+problem 3
+of simultaneously
+the predicted
+data locality
+array region
+l j
+elements due
+collective loop
+purdue 03
+array elements
+nested loops
+reference r
+of loops
+optimal solution
+dependence edge
+but before
+after memory
+fusion the
+all dependence
+objective function
+program model
+the loop
+scalar replacement
+loop nest
+problem 4
+p l
+function 2
+and array
+coalescing but
+jb laplace
+purdue 12
+climate laplace
+purdue 13
+shifting factors
+legal network
+purdue 08
+12 purdue
+purdue 07
+2 purdue
+f ek
+fused loop
+shifting factor
+our memory
+register spills
+m edges
+loop levels
+cache misses
+edge e
+memory minimization
+fusion is
+constraint 9
+loop l
+an l
+path algorithm
+in l
+iteration space
+constraint 3
+the shifting
+our technique
+ow problem
+reference counts
+d1 and
+reduction technique
+loops are
+the dependence
+the transformed
+03 purdue
+13 climate
+07 purdue
+loop l2
+simplication process
+lexicographically minimum
+04 purdue
+08 purdue
+vector dv
+purdue 04
+02 purdue
+the simultaneously
+the reference
+shortest path
+of problem
+k values
+shifting and
+constraint 4
+the native
+the loops
+is lexicographically
+the ow
+reference in
+level h
+of ow
+any optimal
+loop body
+all ow
+loop peeling
+ow values
+array languages
+the simplication
+input 2
+vector is
+the objective
+for memory
+l edges
+ow value
+the fused
+coalescing and
+be fused
+dependences due
+each loop
+the memory
+in array
+code form
+locality enhancement
+miss count
+output array
+array privatization
+l1 to
+perform loop
+ow algorithm
+form after
+a collection
+solution for
+collection of
+constraints 8
+inequality 8
+we dene
+an m
+the kth
+contracted to
+and d2
+to r
+to l
+network flows
+native compiler
+constraint 5
+array data
+i k
+2 kn
+dv e
+dierent loop
+from spec95fp
+cache statistics
+fusion at
+lexicographically maximum
+from rice
+spec95fp reference
+ow property
+nest l
+perform scalar
+pick and
+static write reference
+predicted reference window
+the predicted reference
+reference window size
+loop dependence graph
+from l i
+local array regions
+simultaneously live local
+live local array
+solution for problem
+l i to
+in l i
+do end do
+an l edge
+for problem 2
+the reference window
+local array elements
+before loop fusion
+of simultaneously live
+distance vector is
+end do end
+objective function 2
+loop fusion and
+after loop shifting
+and array contraction
+number of simultaneously
+the kth static
+kth static write
+loop l i
+but before loop
+after loop fusion
+loop shifting loop
+successive shortest path
+write reference in
+after loop coalescing
+an m edge
+due to r
+node l i
+i to l
+to l j
+fusion and array
+for the objective
+i k values
+to local array
+memory reduction technique
+elements due to
+array elements due
+all dependence edges
+the static write
+m i k
+after memory reduction
+the distance vector
+for problem 1
+dependence distance vector
+write reference r
+dependence edges from
+a network ow
+of loop nests
+the objective function
+edges from l
+optimal solution for
+reference in l
+the coalesced dependence
+among all dependence
+laplace jb laplace
+our memory reduction
+reference input 2
+collection of loop
+coalesced dependence distance
+legal network ow
+purdue 12 purdue
+the shifting factor
+shifting loop fusion
+reference r in
+coalescing but before
+climate laplace jb
+jb laplace gs
+loop fusion is
+of loop fusion
+the memory requirement
+shortest path algorithm
+network ow problem
+the loop dependence
+collection of loops
+the constraint 3
+r in l
+loop shifting and
+the network ow
+any optimal solution
+due to local
+to the kth
+purdue 07 purdue
+vector is lexicographically
+the constraint 9
+collective loop fusion
+form after loop
+loop coalescing but
+ow dependences due
+purdue 13 climate
+purdue 04 purdue
+the fused loop
+12 purdue 13
+the code form
+for memory reduction
+reference window of
+13 climate laplace
+the simultaneously live
+a legal network
+code form after
+purdue 08 purdue
+loop coalescing and
+be no smaller
+inequality 8 is
+purdue 03 purdue
+a static write
+all ow dependences
+distance vector dv
+loop fusion the
+window size for
+a collection of
+edge in g
+our program model
+function 2 is
+due to the
+the dependence distance
+value for the
+an optimal solution
+l i j
+the constraint 4
+8 is equivalent
+d1 and d2
+dependences due to
+the constraint 5
+we keep only
+window size of
+the native compiler
+to r we
+edge is an
+l i where
+to the static
+that the constraint
+shows the code
+for problem 3
+this edge is
+figure 3 c
+array data ow
+spec95fp reference input
+edges in g1
+l j due
+can potentially increase
+2 for problem
+of 1 40
+purdue 02 purdue
+fusion at too
+simultaneously live array
+counting both the
+in array languages
+from spec95fp reference
+02 purdue 03
+of register spills
+node in g1
+array contraction and
+given any optimal
+shifting and coalescing
+its distance vector
+originated from l
+loop nest l
+loops are coalesced
+many loop levels
+reference input 3
+program from spec95fp
+08 purdue 12
+pick and reject
+the ow dependence
+reference window due
+all m edges
+each static write
+too many loop
+at too many
+total reference counts
+perform scalar replacement
+loop nests l1
+be contracted to
+03 purdue 04
+fusion preventing dependences
+the total reference
+any ow dependence
+dependences d1 and
+shifting factor p
+memory requirement can
+l edge and
+from l1 to
+memory reduction the
+07 purdue 08
+loop fusion at
+static write references
+04 purdue 07
+the simplication process
+l i due
+nest l i

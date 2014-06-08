@@ -1,0 +1,600 @@
+correlation
+cpl
+profiling
+miss
+ptand
+cache
+profiled
+misses
+loads
+misprediction
+exec
+load
+raytrace
+htab
+normalized
+outcomes
+hit
+eqntott
+latency
+tsp
+cmppt
+box2
+prims
+bintree
+btn
+references
+bisort
+mst
+tmp
+cp
+preorder
+perimeter
+prefetching
+self
+ratios
+200
+vortex
+espresso
+voronoi
+blocks
+flow
+locality
+summary
+awk
+cpi
+tolerance
+prediction
+fcode
+hashlookup
+flags
+spatial
+predict
+hits
+numeric
+branch
+compress
+8kb
+subdiv
+bb
+ideal
+pepa
+outcome
+radiosity
+predictability
+void
+sites
+stall
+pe
+em3d
+hash
+correlating
+ratio
+informing
+ent
+btn1
+btn2
+references0
+bluerule
+int
+mips
+health
+conquer
+overhead
+reference
+94
+site
+96
+insts
+enjoy
+latencies
+perl
+quadtree
+splice
+bh
+instructions
+train
+contexts
+prefetch
+curr
+predicting
+ijpeg
+middle
+tolerate
+bv
+array
+tree
+li
+elsif
+97
+refs
+95
+isolating
+suffer
+olden
+pointer
+backup
+cycles
+static
+traversed
+memory
+codes
+32kb
+dereferences
+86
+multiple_actions_per_load
+btnode
+ovlap
+single_action_per_load
+edgehash
+pcover
+makelist
+wsize
+assimilates
+99
+predictions
+kb
+prefetches
+sz
+m88ksim
+cloning
+mark
+inner
+16kb
+splash
+bronis
+jaydeep
+supinski
+untolerated
+instances
+wasted
+displacement
+sweep
+accurately
+sigarch
+jiwei
+tushar
+unix
+bias
+fraction
+chi
+93
+news
+history
+chung
+allocated
+r10000
+instruction
+marathe
+consecutively
+go
+suite
+pixie
+zilles
+reuse
+benchmarks
+mohan
+keung
+4k
+descending
+luk
+hurts
+accuracy
+drawn
+profile
+traversing
+descendents
+4kb
+sally
+loop
+benefits
+offers
+pseudo
+speculative
+patterns
+fragment
+gurindar
+assoc
+traversal
+92
+gcc
+correlation profiling
+blocks normalized
+200 basic
+summary profiling
+self correlation
+correlation profiled
+flow correlation
+normalized exec
+basic blocks
+normalized misprediction
+control flow
+cache outcomes
+exec time
+global correlation
+miss ratio
+global self
+profiled loads
+miss ratios
+latency tolerance
+per load
+0 ptand
+flow global
+of correlation
+cache outcome
+ptand i
+n flags
+summary control
+self ideal
+the cache
+spatial locality
+cpl due
+50 basic
+detailed performance
+overall cp
+in preorder
+prims in
+in box2
+cp i
+p data
+load i
+load misses
+non numeric
+inner while
+dynamic instances
+to correlation
+cpl summary
+a ptand
+htab i
+c overall
+cpi summary
+b cpl
+correlation can
+miss latency
+data cache
+correlation is
+the miss
+of load
+ideal b
+ratio distribution
+performance results
+loads c
+action per
+predict miss
+actual miss
+actions per
+miss actual
+call sites
+numeric applications
+outcomes of
+call site
+with miss
+a miss
+cache miss
+multiple actions
+intermediate miss
+b ptand
+outcome patterns
+tolerance technique
+informing memory
+correlation also
+the cpl
+of dynamic
+apply t
+while loop
+single action
+load miss
+cache misses
+prediction accuracy
+profiled load
+codes drawn
+99 99
+correlation and
+misses in
+b next
+profiling to
+profiling can
+g eqntott
+create bintree
+train 8
+tmp bv
+subdiv bintree
+predict hit
+i fcode
+100 basic
+hit actual
+summary global
+conquer t
+pseudo codes
+ptand and
+ratios v
+middle first
+actual hit
+95 95
+are caused
+dynamic references
+branch prediction
+call chain
+the memory
+software based
+load references
+profiling on
+in vortex
+hence global
+the tree
+array references
+the load
+this n
+misses are
+hit or
+hits and
+loads in
+of bias
+v l
+i figure
+numeric codes
+static reference
+profiling we
+profiling techniques
+overall miss
+perimeter and
+of spatial
+prediction using
+by correlating
+of loads
+a cache
+the latency
+b 0
+profiling schemes
+tolerance overhead
+site dependent
+are correlation
+suffer misses
+of htab
+misses more
+load cpl
+time 96
+than summary
+97 97
+have miss
+total correlation
+load references0
+and btn2
+96 94
+dynamic hits
+previous cache
+elsif go
+based latency
+cache displacement
+cp load
+flow self
+correlation offers
+bintree root
+ptand a
+correlation captures
+how correlation
+apply latency
+isolating dynamic
+the mips
+profiling is
+branch correlation
+all loads
+and global
+the fraction
+the profiling
+8 kb
+roughly half
+memory operations
+instances of
+forms of
+fragment in
+dynamic branch
+profiling information
+vortex m88ksim
+tolerance scheme
+22 non
+voronoi and
+of tmp
+that correlation
+96 96
+wasted overhead
+basic blocks normalized
+200 basic blocks
+control flow correlation
+normalized exec time
+blocks normalized exec
+blocks normalized misprediction
+correlation profiled loads
+flow global self
+control flow global
+detailed performance results
+summary control flow
+of correlation profiling
+cpl due to
+to correlation profiled
+global self ideal
+cache outcomes of
+50 basic blocks
+due to correlation
+prims in box2
+the cache outcomes
+overall cp i
+loads c overall
+profiled loads c
+miss ratio distribution
+b cpl due
+cp i figure
+ideal b cpl
+a 0 ptand
+c overall cp
+self correlation and
+of load i
+the miss ratio
+performance results for
+dynamic instances of
+non numeric applications
+action per load
+flow correlation can
+single action per
+self ideal b
+b 0 ptand
+predict miss actual
+actions per load
+multiple actions per
+inner while loop
+and global correlation
+a ptand i
+this n flags
+cpl summary control
+in non numeric
+with miss ratios
+latency tolerance technique
+cache outcome patterns
+of correlation profiled
+allocated in preorder
+intermediate miss ratios
+cpi summary control
+informing memory operations
+p n flags
+miss ratio of
+of spatial locality
+load misses are
+codes drawn from
+forms of correlation
+degree of bias
+the latency tolerance
+are caused by
+misses are caused
+predict hit actual
+flow correlation is
+correlation profiling to
+htab i fcode
+correlation profiling on
+correlation profiled load
+global correlation is
+correlation profiling can
+hit actual miss
+miss actual hit
+e g eqntott
+pseudo codes drawn
+train 8 kb
+code fragment in
+0 ptand and
+hence global correlation
+miss ratios v
+b ptand i
+ptand and b
+correlation profiling we
+100 basic blocks
+overall miss ratio
+99 99 99
+data cache misses
+the memory access
+miss ratios of
+of dynamic branch
+the fraction of
+roughly half of
+using branch correlation
+prediction using branch
+self a miss
+control flow self
+the cache outcome
+load i that
+distribution of correlation
+correlation profiling is
+a latency tolerance
+have miss ratios
+with self correlation
+that are correlation
+apply latency tolerance
+self correlation captures
+previous cache outcomes
+and correlation profiling
+call site dependent
+of htab i
+of p data
+cycles per load
+ratio control flow
+flow correlation also
+how correlation profiling
+exec time 96
+correlation and global
+and b ptand
+correlation and hence
+loads with miss
+software based latency
+ratio distribution of
+profiled load references0
+summary and correlation
+correlation profiling which
+miss ratio control
+are correlation profiled
+ptand i and
+22 non numeric
+dynamic hits and
+second inner while
+n flags in
+total correlation profiled
+than summary profiling
+per load cpl
+latency tolerance techniques
+latency tolerance overhead
+based latency tolerance
+global self a
+of total correlation
+stall cycles per
+branch prediction using
+of the misses
+miss latency l
+of dynamic references
+the previous n
+and hence global
+if p null
+theta f i
+non numeric codes
+software based techniques
+while true f
+the profiling tool
+of all loads
+a miss is
+different call sites
+improving the accuracy
+in the cache
+shown in figure
+the tree is
+the second inner
+like to apply
+the detailed performance
+the overall miss
+three forms of
+p f if
+of the load
+a miss ratio
+hits and misses
+is called from
+the potential performance
+instances of a
+michael d smith
+quantify the performance
+control flow paths
+in contrast if
+the mips r10000
+of data cache
+cache misses in
+we model a
+computer architecture news
+architecture news v
+sigarch computer architecture
+acm sigarch computer
+a cache hit
+bar is normalized
+correlation also predicts
+summary global self
+likely be unchanged
+profiling we used
+when splice is
+all static memory
+no dereferences of
+memory performance feedback
+p data elsif
+cpl always cpl

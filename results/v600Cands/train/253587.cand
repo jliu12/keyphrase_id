@@ -1,0 +1,600 @@
+immersed
+interface
+peskin
+jump
+poisson
+stokes
+elastic
+grid
+tension
+bubble
+pressure
+ds
+fluid
+iim
+equilibrium
+velocity
+boundary
+cartesian
+physics
+velocities
+discontinuous
+band
+force
+resting
+tu
+unstretched
+viscous
+singular
+circle
+incompressible
+ibm
+membrane
+deltat
+elliptic
+fluids
+forces
+jumps
+cubic
+surface
+grids
+ij
+160
+dipole
+stretched
+viscosity
+exerted
+navier
+zhilin
+flows
+equations
+derivative
+1a
+newton
+irregular
+axisymmetric
+log10
+geometries
+splines
+surfactant
+lowengrub
+cochlea
+moving
+fig
+interpolate
+flow
+derivatives
+1b
+tangential
+bubbles
+dot
+ellipse
+inflated
+12a
+balloon
+circular
+dash
+accuracy
+smooth
+blood
+quasi
+interfacial
+implicit
+49
+fictitious
+radius
+euler
+solid
+biharmonic
+omega
+spline
+interfaces
+jacobian
+arclength
+rmax
+12c
+curvature
+coefficients
+leaking
+delta
+across
+systemh
+61237
+periodic
+sin
+boundaries
+numerical
+dy
+inertial
+coupled
+fl
+accurate
+origin
+interpolating
+oe
+denser
+lambdal
+creeping
+boyce
+gravity
+location
+nicolson
+rmin
+griffith
+stiff
+finest
+perturb
+normal
+walls
+spreading
+heart
+smeared
+mayo
+dx
+interpolation
+crank
+shape
+transonic
+dimensional
+singularity
+dms
+discontinuity
+strength
+density
+fronts
+motion
+correction
+uniform
+slip
+elliptical
+dimensions
+acceleration
+dotted
+12b
+expect
+tangent
+laplacian
+discontinuities
+wang
+ucla
+inside
+nearby
+compressible
+wave
+stability
+perturbed
+diameter
+errors
+mathematics
+configuration
+rigid
+fine
+550
+cylindrical
+differentiable
+trapezoidal
+agrees
+reynolds
+lin
+dynamics
+momentum
+capacitance
+plotting
+020
+650
+ae
+everywhere
+80
+restoring
+stencil
+continuous
+rises
+li
+max
+fourier
+volume
+superscripts
+curve
+truncation
+moved
+nonzero
+the interface
+jump conditions
+immersed boundary
+the immersed
+boundary method
+control points
+poisson problems
+immersed interface
+the jump
+three poisson
+surface tension
+and peskin
+order accurate
+the force
+cartesian grid
+physics v
+computational physics
+z z
+stokes flow
+tu and
+z ds
+interface method
+the elastic
+elastic band
+stokes equations
+of computational
+second order
+poisson problem
+the bubble
+the stokes
+the poisson
+grid points
+control point
+order accuracy
+peskin 49
+1 1a
+delta function
+1 1b
+ds gamma
+interface at
+the velocity
+jump in
+time step
+the pressure
+discrete delta
+the band
+implicit method
+ds z
+gamma z
+delta functions
+interface is
+by tu
+peskin s
+the resting
+the equilibrium
+equations with
+the ibm
+quasi newton
+across the
+along the
+the unstretched
+ibm results
+discontinuous coefficients
+r max
+jumps in
+an elastic
+interface location
+elliptic equations
+coupled system
+complex geometries
+x n
+in pressure
+the iim
+force exerted
+c ij
+n b
+s t
+cubic splines
+normal derivative
+dot line
+of control
+the boundary
+solid line
+for u
+iim results
+singular force
+resulting velocities
+an immersed
+unstretched interface
+different fluids
+x y
+u and
+dash dot
+uniform cartesian
+the control
+velocity u
+the velocities
+boundary conditions
+navier stokes
+exerted by
+with moving
+1a and
+interface the
+interface and
+each control
+method for
+first order
+uniform grid
+flows with
+our method
+z omega
+3 12a
+y ds
+interface in
+with discontinuous
+the fluid
+and v
+x s
+an implicit
+cubic spline
+o h
+u n
+journal of
+the tension
+velocities u
+moving interfaces
+oe ds
+theta 160
+band at
+fluid with
+flow in
+periodic boundary
+of 22
+grid solution
+160 theta
+method in
+circle with
+boundary condition
+conditions are
+interface methods
+continuous but
+p x
+n s
+time steps
+discontinuous across
+equations 1
+two dimensional
+p along
+in 49
+of jump
+singular source
+elastic membrane
+interfacial flows
+immersed elastic
+circular shape
+o ibm
+log10 h
+the cochlea
+resting circle
+numerical equilibrium
+blood flow
+singular forces
+the location
+y n
+the error
+dx dy
+location of
+derivative of
+three dimensional
+newton method
+finite difference
+oe x
+the coupled
+x component
+radius r
+is discontinuous
+of tu
+singular sources
+3 12c
+an inflated
+by cubic
+2n b
+implicit system
+smooth across
+denser set
+and tangential
+160 grid
+elastic boundaries
+resting configuration
+later times
+equilibrium configuration
+r min
+pressure is
+fine grid
+forces and
+the normal
+not smooth
+at x
+smaller set
+space dimensions
+immersed boundary method
+the jump conditions
+the immersed boundary
+along the interface
+tu and peskin
+three poisson problems
+of the interface
+across the interface
+computational physics v
+of computational physics
+journal of computational
+immersed interface method
+second order accurate
+of control points
+the control points
+the interface at
+the immersed interface
+z z z
+and peskin 49
+the poisson problem
+ds gamma z
+to the interface
+the interface is
+the elastic band
+jump conditions for
+the surface tension
+by tu and
+discrete delta functions
+on the interface
+set of control
+the interface and
+an implicit method
+z ds gamma
+u and v
+the stokes equations
+control points to
+the uniform grid
+poisson problem for
+1 1a and
+jump conditions are
+each control point
+from the interface
+second order accuracy
+z z ds
+f s t
+force exerted by
+interface method for
+the interface the
+uniform cartesian grid
+a uniform cartesian
+dash dot line
+exerted by the
+quasi newton method
+navier stokes equations
+the three poisson
+two different fluids
+and 1 1b
+1a and 1
+moving the interface
+techniques of 22
+fine grid solution
+gamma z ds
+the unstretched interface
+x y ds
+z z omega
+location of the
+a second order
+the interface in
+using the immersed
+immersed interface methods
+jump in pressure
+control point x
+of the immersed
+interface between two
+and r max
+with the immersed
+160 theta 160
+the location of
+s t is
+p along the
+the coupled system
+the normal derivative
+a delta function
+periodic boundary conditions
+for u and
+jump in the
+side of 12
+the x component
+interface methods for
+first order accuracy
+of the velocity
+system of equations
+equations 1 1
+in complex geometries
+equations with discontinuous
+z x y
+on a uniform
+discontinuous across the
+the interface which
+jumps in the
+elliptic equations with
+a cartesian grid
+boundary conditions are
+move the interface
+the band at
+blood flow in
+normal and tangential
+y n s
+the poisson problems
+jump conditions at
+interface at time
+point x n
+the interface an
+from the jump
+with surface tension
+the resulting velocities
+the stokes flow
+by cubic splines
+reasonable time steps
+that periodic boundary
+of the cochlea
+order accurate at
+the resting circle
+interfacial flows with
+at later times
+the implicit system
+a 160 theta
+theta 160 grid
+stokes flow at
+the equilibrium configuration
+5 log10 h
+first order accurate
+the model problem
+between two different
+the jump in
+smaller set of
+the velocity u
+discontinuous coefficients and
+ds z ds
+stokes flow problems
+z ds z
+dot line and
+of an elastic
+of tu and
+min and r
+control points n
+points n b
+not smooth across
+at x s
+the interface where
+accurate at all
+or surface tension
+solve the poisson
+tracking method for
+r min and
+the quasi newton
+the interface as
+wave equations with
+the initial interface
+irregular grid points
+x n s
+problem for p
+gamma z z
+an interface between
+is discontinuous across
+for elliptic equations
+of the band
+must be used
+hand side of
+from the origin
+conditions for p
+x component of
+the interface may
+cartesian grid method
+origin to the
+is continuous but
+line in fig
+the jumps in
+the equations 1
+the interface to
+at the interface
+number of control
+n 1 p
+the finest grid
+of the force
+given by 3
+points on the
+side of 1
+a fine grid
+at the control
+with the ibm
+for u v
+stokes equations with
+x s t
+the errors in
+in the normal
+grid method for
+conditions are used
+v and p
+for the solution

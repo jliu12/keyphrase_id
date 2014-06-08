@@ -1,0 +1,600 @@
+uqdbt
+sparc
+translation
+rtls
+l0
+uqbt
+pentium
+uqdbtps
+translators
+truc
+translator
+instructions
+bb
+rtl
+register
+sp
+instruction
+uqdbtss
+stack
+registers
+mov
+native
+bas
+ms
+tio
+ssl
+oder
+binary
+sethi
+adaptable
+runtime
+sled
+mbanner
+caching
+target
+machines
+decoding
+assembly
+optimizations
+bbs
+l1
+ly
+fibonacci
+ins
+ile
+ic
+translated
+manager
+reg
+tream
+conventions
+o0
+g6
+specifications
+bytes
+code
+analyses
+emulation
+windowing
+hi
+byte
+uc
+specification
+decoded
+binaries
+resourceable
+0x8048925
+0x84
+reuse
+l2
+popping
+g5
+enc
+transfers
+fp
+granularity
+cisc
+printf
+embra
+bff
+inary
+adaptability
+ck
+interpreter
+swapping
+risc
+machine
+calling
+source
+lo
+specifying
+file
+st
+mapper
+ans
+loc
+generator
+nop
+hotspots
+solaris
+emulate
+statically
+translations
+profiling
+ns
+hello
+0x435ff88
+8048925
+0x41bfc00
+0x4367738
+804891b
+0x435ff84
+hrtl
+endian
+804892a
+0x4486000
+ebp
+assemb
+0x80493f8
+0x435ff80
+eax
+0x4367734
+srl
+0x804892c
+0x435ff6c
+0x435ffa4
+subcc
+0x435ff7c
+lato
+semantic
+compiled
+static
+switch
+pushing
+virtual
+retargetable
+srd
+garnett
+bruening
+eam
+locations
+em
+ary
+tic
+gcc
+hardware
+toolkit
+cached
+elf
+disassembly
+ultrasparc
+windows
+semantics
+ld
+pointer
+lian
+izations
+tcc
+effort
+tim
+sem
+i7
+demand
+reusing
+save
+flags
+saman
+emulator
+x86
+flushing
+natively
+jingling
+amarasinghe
+recover
+block
+esp
+childers
+cache
+configured
+loader
+delayed
+dec
+1980s
+sieve
+fx
+transfer
+storing
+000
+spills
+preliminary
+calls
+supports
+jumps
+programs
+xue
+shade
+encoding
+prints
+files
+passed
+binary translation
+dynamic binary
+target machine
+to sparc
+source machine
+dynamic translation
+i rtl
+machine adaptable
+translation framework
+machine instructions
+ic b
+bas ic
+basic block
+the sparc
+generated code
+target machines
+sparc machine
+the translation
+ms rtls
+adaptable dynamic
+binary translator
+reg caching
+i rtls
+switch manager
+the pentium
+binary file
+at runtime
+s truc
+and target
+a sparc
+sethi hi
+the code
+register caching
+the stack
+machine instruction
+register windowing
+pentium to
+ins truc
+tr uc
+the generated
+the translator
+binary translators
+of translation
+of machine
+source and
+sparc code
+the target
+machine independent
+in uqdbt
+sparc translation
+lo ck
+uqdbt is
+tio ns
+mov l0
+bytes generated
+the uqdbt
+of uqdbt
+uqdbt framework
+truc tio
+generated sparc
+f ile
+byte swapping
+static binary
+machine dependent
+translation is
+code generator
+s tr
+the machine
+sparc to
+b lo
+pentium machine
+of code
+a machine
+translation the
+the uqbt
+l1 l0
+uc tio
+while pentium
+tio n
+pentium program
+and uqdbtss
+machine adaptability
+enc oder
+demand optimizations
+static translation
+dec oder
+tream ms
+bytes decoded
+loc k
+mov sp
+s tream
+rtls the
+st l1
+ly in
+target bytes
+forward engineering
+truc tions
+generated w
+sparc architecture
+code and
+the program
+the source
+virtual registers
+machine s
+b loc
+translation techniques
+dynamic translators
+stack pointer
+a pentium
+code is
+better code
+register windows
+sparc assembly
+code generation
+windowing mechanism
+assembly instructions
+problem above
+machine is
+analyses to
+the switch
+machine code
+test programs
+a basic
+specifying how
+transfers of
+control transfer
+preliminary results
+different source
+native library
+sp l0
+l0 sp
+particular machines
+s em
+an tic
+rtls are
+add l0
+uqbt framework
+4 l0
+sparc register
+conventions on
+independent analyses
+in uqbt
+the translators
+passes parameters
+l0 4
+sp 0x84
+sparc is
+rtl is
+st l0
+granularity unit
+uqdbtps pentium
+pentium stack
+uqdbtss sparc
+next bb
+cached registers
+machine i
+in s
+of machines
+code that
+research problems
+in dynamic
+for sparc
+engineering phase
+digital s
+and popping
+fx 32
+bb of
+binary form
+adaptability in
+condition codes
+a bb
+use native
+ary f
+on demand
+to support
+translation time
+machine both
+in sparc
+risc machines
+to virtual
+instructions of
+machine this
+specification language
+high level
+in registers
+sparc and
+we emulate
+bb to
+hello world
+assembly for
+calling conventions
+return values
+and storing
+of source
+the specification
+level of
+translation are
+execution profiling
+pushing and
+transfer instructions
+dynamic binary translation
+the target machine
+bas ic b
+and target machines
+source and target
+machine adaptable dynamic
+the generated code
+a sparc machine
+binary translation framework
+in s truc
+on the target
+the code generator
+adaptable dynamic binary
+pentium to sparc
+the switch manager
+the source machine
+of machine instructions
+truc tio ns
+dynamic binary translator
+b lo ck
+the uqdbt framework
+sparc to sparc
+s truc tio
+static binary translation
+to sparc translation
+ic b lo
+a basic block
+on a sparc
+on the stack
+in i rtl
+s tream ms
+st l1 l0
+b loc k
+s tr uc
+bytes generated w
+tr uc tio
+different source and
+uc tio n
+ins truc tions
+on demand optimizations
+unit of translation
+target bytes generated
+the forward engineering
+ic b loc
+in s tr
+ly in s
+register windowing mechanism
+tio n s
+the binary file
+a dynamic binary
+of the generated
+the machine instructions
+of a machine
+in the generated
+transfers of control
+basic block is
+l0 4 l0
+bb of figure
+semantics of machine
+generated sparc assembly
+source machine is
+uqdbtss sparc to
+conventions on the
+the sparc register
+mov l0 sp
+the generated sparc
+the pentium machine
+to i rtl
+uqdbtps pentium to
+two particular machines
+dynamic translation techniques
+the next bb
+a machine adaptable
+the sparc machine
+binary translation is
+dynamic binary translators
+to use native
+the register windowing
+machine independent analyses
+in dynamic binary
+ary f ile
+mov sp l0
+machine adaptability in
+basic block at
+the decoding of
+pushing and popping
+assembly for the
+of translation in
+code generator to
+sparc assembly for
+machine dependent information
+for the pentium
+of the translation
+of the code
+basic block level
+to virtual registers
+during the translation
+translation is a
+a fast instruction
+executed at runtime
+the sparc architecture
+machine i e
+for execution profiling
+fast instruction set
+parameters are passed
+the unit of
+control transfer instructions
+generated code is
+the stack pointer
+and return values
+the underlying machine
+parameters and return
+on the sparc
+has a lot
+and storing the
+of the program
+the underlying hardware
+code and data
+of properties of
+the level of
+of the underlying
+sethi hi 0x41bfc00
+for new machines
+execution time simple
+to support machine
+analyses to lift
+data and text
+r es s
+and retargetable binary
+test programs original
+bin ary f
+a new translator
+suggest that performance
+programs using uqdbtps
+dynamic translation framework
+and target machine
+processing translation time
+of the uqdbt
+new jersey machine
+a resourceable and
+ease to support
+em b ly
+retargetable binary translator
+ne e r
+engineering process is
+particular machines a
+the granularity unit
+generated w reg
+save sp 132
+of being configured
+conventions used by
+in software dynamic
+rtl to sparc
+new translator from
+rd ccr l1
+original program size
+time simple reg
+ms rtls the
+translation the first
+ng ne e
+translation needs to
+izations bas ic
+of the uqbt
+sethi hi 0x4486000
+parameters in registers
+of a resourceable
+translation time execution
+k ins tr
+decoded target bytes
+machine assisted by
+configured for different
+ins truc tion
+live ness information
+forward engineering phase
+hi 0x41bfc00 g6
+levels of optimization
+how much should
+i rtl to
+support additional source
+cycles source byte
+tion dec oder
+ly ins truc
+being configured for
+adaptable binary translation
+in ar y
+machine independent rtl
+translator specifying the
+o reg caching
+machines the stack
+subcc l0 4
+machines this effort
+and parameter conventions
+reg caching execution
+specifications of machines
+native code performance
+reg caching native
+18 500 lines
+ms assemb ly
+sem an tic
+sp and fp

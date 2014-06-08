@@ -1,0 +1,341 @@
+ldbs
+ticket
+ldbss
+multidatabase
+subtransactions
+tickets
+otm
+transaction
+serialization
+subtransaction
+mdbs
+serializability
+commit
+ctm
+prepared
+cascadeless
+concurrency
+schedules
+serializable
+autonomy
+commitment
+conflicts
+schedulers
+gsg
+itm
+optimistic
+participating
+rigorous
+rigorousness
+committed
+restarts
+database
+georgakopoulos
+sheth
+aborted
+conflict
+timeout
+recoverability
+abort
+mdbss
+validation
+dbmss
+management
+serialized
+cascadelessness
+scheduler
+enforcing
+orders
+rusinkiewicz
+recoverable
+aborts
+indirect
+transactions
+enter
+timestamp
+site
+wfg
+submission
+visible
+strictness
+schedule
+heterogeneous
+ticketing
+commits
+conservative
+deadlock
+altruistic
+analogous
+trans
+submits
+locks
+mixed
+unilaterally
+expires
+sql
+locking
+interleave
+enforce
+dbms
+lock
+global
+violate
+issued
+strict
+enters
+datacycle
+gte
+sybase
+arpinar
+restarted
+resolve
+increments
+bellcore
+sagas
+breitbart
+recovery
+vendor
+implicit
+timeouts
+serial
+cas
+consistency
+cycle
+precedes
+oe
+semi
+deadlocks
+submitted
+occ
+houston
+blocking
+reads
+databases
+sites
+disallow
+executions
+caused
+entered
+mechanisms
+rda
+channeled
+sangkeun
+younger
+hornick
+halici
+hurson
+logar
+cadeless
+action
+globally
+ae
+execution
+interfaces
+violated
+heterogeneity
+laboratories
+read
+rollback
+correctness
+ensure
+sub
+certification
+simulated
+agent
+superdatabases
+multidatabases
+finished
+increment
+updates
+participate
+edges
+strongly
+decentralized
+federated
+dimitrios
+interbase
+larson
+refinements
+reflect
+prepare
+autonomous
+handshake
+transac
+pu
+allowed
+permits
+eliminates
+removal
+controlling
+difficulties
+trol
+nevada
+successfully
+preventing
+reflects
+writes
+scheduling
+environments
+uncommitted
+expired
+permit
+ts
+preferred
+incoming
+theta
+hwang
+chong
+op
+conflicting
+blocked
+affecting
+ensures
+undirected
+erations
+global transactions
+global serializability
+commit state
+serialization order
+global transaction
+multidatabase transactions
+concurrency control
+transaction management
+g 1
+relative serialization
+g 2
+multidatabase transaction
+participating ldbss
+serialization orders
+local serialization
+transaction g
+take tickets
+visible prepared
+ldbs 2
+g j
+ticket state
+ticket method
+global restarts
+local transactions
+local concurrency
+site graph
+database systems
+corresponding ldbss
+ticket value
+local serializability
+analogous execution
+transactions g
+multidatabase systems
+distributed database
+local systems
+commitment order
+cascadeless otm
+ticket conflicts
+multi database
+sub transactions
+sheth enforcing
+rusinkiewicz sheth
+ldbss ensure
+ticket operations
+become prepared
+ticket methods
+georgakopoulos rusinkiewicz
+local schedules
+strongly recoverable
+g c
+local transaction
+transaction execution
+local database
+serialization graph
+indirect conflicts
+multidatabase environment
+simulated prepared
+semi rigorousness
+guarantees global
+rigorous schedules
+enforce global
+ensure local
+becomes prepared
+ldbs 1
+implicit tickets
+strong recoverability
+implicit ticket
+oe oe
+sub transaction
+non serializable
+management mechanism
+multidatabase system
+execution order
+serializable schedules
+local autonomy
+ticket operation
+ldbs autonomy
+optimistic schedulers
+indirect conflict
+direct conflict
+conservative ticket
+ae ae
+relative order
+trans action
+recently committed
+g become
+prepared to commit
+subtransactions of g
+take their tickets
+take a ticket
+prepared to take
+subtransaction of g
+relative serialization order
+execution and serialization
+enter their prepared
+local serialization order
+global transaction g
+enforcing the serializability
+local concurrency control
+takes its ticket
+subtransactions of global
+serializability of multidatabase
+multidatabase transaction management
+enters its prepared
+rusinkiewicz sheth enforcing
+georgakopoulos rusinkiewicz sheth
+transaction management mechanism
+guarantees global serializability
+aborts and restarts
+tickets before g
+global transactions g
+enforce global serializability
+distributed database systems
+oe oe oe
+order of global
+transaction t 1
+g become prepared
+transactions g 1
+sets a timeout
+ldbss that use
+submits its subtransactions
+allowed to interleave
+ldbss ensure local
+take its tickets
+commit or abort
+ensure local serializability
+ldbss that allow
+ae ae ae
+local database systems
+heterogeneous distributed database
+database management systems
+z z z
+control of ctm
+implicit ticket method
+conflicts between multidatabase
+conflict between g
+allowed to commit
+orders are analogous
+ticket method itm
+enforcing global serializability
+site graph method
+management in multidatabase
+serialization order theorem
+reflects their relative
+otm and ctm
+order theorem 1
+subtransactions of multidatabase

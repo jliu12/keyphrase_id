@@ -1,0 +1,600 @@
+dfe
+lpt
+offloaded
+cores
+cache
+drr
+snort
+bus
+core
+consumption
+tl
+rou
+accesses
+instructions
+nat
+offload
+segment
+misses
+caches
+ipchains
+10000
+locality
+instruction
+dh
+url
+lreg
+npus
+inst
+l2
+netbench
+offloading
+temporal
+l1
+cycles
+ssl
+task_id
+sadd
+processor
+simplescalar
+filtering
+register
+md5
+segments
+kb
+execution
+8k
+crc
+chip
+linesize
+eadd
+power
+energy
+processors
+networking
+dl1
+activated
+activity
+engine
+byte
+pc
+spatial
+accessed
+128
+avg
+contention
+defcon
+powernp
+il1
+split
+mcs
+code
+streaming
+acc
+exec
+registers
+strongarm
+simulator
+associative
+subscrpt
+cmu
+caused
+1024
+accessing
+dissipation
+reg
+field
+mechanism
+snoop
+caching
+selective
+communicates
+irwin
+prediction
+compiler
+simulations
+executed
+miss
+gonzalez
+delay
+load
+intelligent
+bypassing
+explained
+gate
+dram
+latencies
+request
+req
+smp
+switches
+controller
+bypass
+reduction
+transferred
+prefetch
+loop
+concentrate
+1663
+codesize_limit
+sbu
+10103050crc
+20w
+small_inputs
+segment_id
+dfes
+jetty
+register_limit
+core_id
+113crc
+15w
+offloadable
+benitez
+montanaro
+opensll
+5515crc
+interrupt
+mapped
+predictability
+arm
+4k
+stores
+execute
+originated
+communicated
+suite
+bhuyan
+ixp
+offloads
+switching
+massively
+consumes
+processed
+219
+architectural
+fields
+limitations
+enhancing
+microprocessors
+laxmi
+bahar
+temporality
+effectiveness
+master
+equipped
+memories
+causing
+stream
+1654
+dissipate
+cacti
+contending
+956
+consume
+array
+initiate
+1009
+mpps
+aggressiveness
+grain
+surrounding
+servers
+workload
+2kb
+deactivated
+streamed
+iram
+bits
+fee
+67
+reducing
+tradeoffs
+uncached
+832
+intel
+hit
+simulation
+tuned
+pass
+2k
+ram
+the dfe
+execution cores
+the lpt
+execution core
+power consumption
+code segment
+dfe is
+low temporal
+the bus
+execution cycles
+be offloaded
+the execution
+split cache
+bus accesses
+l snort
+data cache
+offloaded to
+code segments
+data filtering
+dfe figure
+the code
+consumption of
+system bus
+single core
+cores and
+lpt dfe
+snort n
+way 8k
+nat l
+rou l
+drr l
+tl l
+dh drr
+snort l
+8k lpt
+2 way
+reduction in
+overall power
+multi core
+the misses
+our technique
+the power
+networking applications
+md5 nat
+l nat
+filtering engine
+dfe code
+l tl
+drr drr
+offloaded the
+lreg field
+energy delay
+register values
+network processors
+l2 cache
+the cores
+on average
+to offload
+processor with
+temporal data
+temporal locality
+rou rou
+1024 10000
+the lreg
+ssl tl
+128 10000
+ipchains md5
+cache technique
+url avg
+l ipchains
+offloaded code
+avg reduction
+dfe data
+nat rou
+core processor
+n ssl
+tl url
+are caused
+delay product
+l1 data
+byte lines
+temporal cache
+locality prediction
+of instructions
+by as
+data caches
+the segment
+the caches
+the l1
+a code
+level 1
+cycles 2
+base processor
+selective cache
+misses are
+segments to
+spatial cache
+cores in
+segment is
+the processor
+bus and
+few instructions
+data with
+the core
+dfe in
+in exec
+exec cycles
+dfe and
+temporal accesses
+instructions causing
+sadd field
+dfe we
+the sadd
+lpt and
+the offloaded
+simulation numbers
+bus activity
+proposed dfe
+average the
+technique reduces
+4 kb
+our proposed
+an execution
+accessing data
+explained in
+caused by
+cache misses
+cycles by
+the simplescalar
+caching strategies
+a locality
+values transferred
+caches using
+pass gate
+32 byte
+performance processors
+direct mapped
+much as
+cores the
+containing loop
+cycles for
+is activated
+prediction table
+a processor
+in networking
+which code
+cache is
+bus the
+code to
+the l2
+the register
+of bus
+misses caused
+4 execution
+pc of
+network processor
+instructions executed
+as much
+data accessed
+multiple execution
+cores are
+the proposed
+accesses to
+accesses and
+processor systems
+28 9
+call return
+segment that
+activity in
+instruction in
+be accessed
+cache accesses
+8 kb
+performance by
+the low
+power reduction
+with execution
+cache locality
+used again
+proposed method
+level 2
+dfe table
+and dfe
+dfe first
+bus transitions
+eadd field
+the npus
+dfe communicates
+examined pc
+powernp 12
+arguments inst
+for snort
+ibm powernp
+defcon n
+bypass instructions
+has originated
+logic chip
+offload a
+netbench suite
+n 10000
+to the dfe
+the execution cores
+the execution core
+the dfe is
+power consumption of
+the power consumption
+offloaded to the
+the execution cycles
+to be offloaded
+the low temporal
+of the dfe
+low temporal data
+8k lpt dfe
+way 8k lpt
+execution cores and
+lpt dfe figure
+2 way 8k
+the code segment
+a single core
+overall power consumption
+a code segment
+of the misses
+the overall power
+be offloaded to
+the bus accesses
+by the dfe
+code segments to
+snort l snort
+tl l tl
+nat l nat
+energy delay product
+cores and the
+of the lpt
+data filtering engine
+a processor with
+consumption of the
+by as much
+are caused by
+execution cycles for
+misses are caused
+reduce the power
+ssl tl l
+cycles 2 way
+l ipchains md5
+n ssl tl
+md5 nat l
+an execution core
+url avg reduction
+l snort l
+if the dfe
+ipchains md5 nat
+and the dfe
+nat rou rou
+l nat rou
+in the lpt
+execution cycles by
+dh drr drr
+drr drr l
+single core processor
+l snort n
+rou l snort
+l tl url
+rou rou l
+the lreg field
+split cache technique
+tl url avg
+snort n ssl
+drr l ipchains
+for a processor
+the system bus
+locality prediction table
+code segment is
+reduction in the
+in the execution
+the base processor
+number of instructions
+l1 data cache
+code to be
+technique reduces the
+the misses are
+in the bus
+the l1 data
+the code to
+dfe code when
+caused by only
+the dfe we
+dfe data cache
+execution cores in
+low temporal locality
+procedure call return
+low temporal accesses
+the dfe code
+processor with execution
+from the dfe
+the proposed dfe
+with execution cores
+the dfe in
+of bus accesses
+data with temporal
+in exec cycles
+with 4 execution
+bus accesses and
+accessing data with
+exec cycles 2
+register values transferred
+in networking applications
+segment is executed
+multiple execution cores
+4 execution cores
+the split cache
+the dfe and
+the offloaded code
+as much as
+on average the
+explained in section
+number of execution
+high performance processors
+the code segments
+in execution cycles
+with temporal locality
+number of bus
+a locality prediction
+the energy delay
+the temporal cache
+the l2 cache
+of the code
+level 1 data
+our technique reduces
+1 data cache
+code segment in
+increases the execution
+of instructions executed
+able to reduce
+a few instructions
+segments to be
+of register values
+reduction in execution
+instruction in the
+the reduction in
+and instruction caches
+misses caused by
+the bus the
+data and instruction
+number of register
+accesses and the
+with 32 byte
+level 2 cache
+32 byte lines
+of the caches
+power consumption is
+the performance by
+data cache is
+to the bus
+data cache misses
+the level 2
+cycles for a
+to the core
+power consumption in
+the pass gate
+multi core systems
+the miss hit
+the dfe the
+segment the dfe
+dfe design the
+level 1 instruction
+core network processors
+for streaming an
+bus accesses significantly
+values transferred to
+avg reduction in
+temporal locality temporal
+the dfe to
+the netbench suite
+resource it might
+ibm powernp 12
+request has originated
+cache prefetch buffers
+the lpt is
+computer with intelligent
+filtering engine that
+cycles for snort
+core processor it
+associative cache prefetch
+13 14 25
+defcon n 10000
+the bus activity
+power implications of
+reducing address bus
+of execution cores
+transferred to from
+offload code segments
+7 on average
+access execute mechanism
+design the dfe
+that offloaded the
+register values required
+the sadd field
+reduces the bus
+the examined pc
+do not offload

@@ -1,0 +1,600 @@
+ilp
+prefetching
+luopt
+prefetches
+stall
+misses
+contention
+latency
+speedup
+miss
+fftopt
+mshrs
+load
+multiprocessors
+mp3d
+radix
+lu
+multiprocessor
+cache
+prefetch
+overlapped
+overlap
+latencies
+l1
+instruction
+memory
+cpu
+water
+late
+uniprocessor
+mshr
+fft
+rsim
+processors
+sarita
+loads
+impact
+instructions
+accesses
+sees
+producer
+speculative
+shared
+adve
+prefetched
+splash
+outstanding
+occupancy
+speedups
+poorer
+blocking
+l2
+hiding
+aggressive
+tolerating
+plications
+processor
+stalls
+mesi
+hide
+effectiveness
+increased
+demand
+normalized
+efficiencies
+resources
+deficiencies
+window
+compiler
+execution
+initiated
+insufficient
+clustered
+clustering
+binding
+remote
+opportunities
+scheduling
+contributing
+multiproces
+retired
+caches
+directory
+retire
+gcc
+alus
+jos
+optimizations
+bottleneck
+fig
+pai
+mispredicted
+ple
+microprocessors
+fellowship
+analyzes
+invalidation
+software
+numa
+parallelism
+reductions
+resource
+cycle
+cycles
+commodity
+hurt
+largely
+art
+hughes
+benefits
+ap
+vijay
+affecting
+early
+evaluates
+cda
+fraction
+controlled
+negatively
+003604
+lodieska
+stockbridge
+ilp41
+praful
+radix209
+dexecution
+fpus
+abstractcurrent
+acacio
+fannie
+9502791
+jayanth
+41x
+ilp78
+sizememory
+contentionless
+ilp34
+9410457
+ilp28
+2shared
+ilp44
+9617383
+ilp39
+9502500
+ilp75
+cesses
+configuration
+sors
+formance
+slowdown
+bringing
+interchange
+summarizes
+94x
+54x
+maining
+30x
+byna
+56x
+29x
+duces
+quadrupled
+interaction
+efficiency
+despite
+sc
+cc
+specu
+msi
+leeway
+150mhz
+kaul
+chanik
+christopher
+exposed
+exploit
+erarchy
+factors
+coherent
+opt
+hidden
+surendra
+256x256
+rohit
+65536
+5x
+lapped
+iv
+59
+reordering
+achieves
+transaction
+generation
+coherence
+sparc
+attributed
+parthasarathy
+hertz
+xian
+iii
+ilp speedup
+load misses
+the ilp
+ilp system
+memory stall
+stall time
+software prefetching
+ilp techniques
+load miss
+in ilp
+simple system
+ilp processors
+of ilp
+and ilp
+our applications
+execution time
+miss overlap
+late prefetches
+memory ilp
+shared memory
+increased contention
+ilp systems
+previous generation
+parallel efficiency
+early prefetches
+in luopt
+luopt and
+the simple
+prefetches and
+memory cpu
+ilp based
+memory multiprocessors
+impact of
+with ilp
+and increased
+producer initiated
+miss ilp
+cpu normalized
+and fftopt
+blocking loads
+instruction window
+in simple
+the impact
+multiple load
+ilp on
+initiated communication
+prefetching for
+with prefetching
+additional latency
+simple processor
+the uniprocessor
+resource contention
+on ilp
+miss latency
+of prefetching
+controlled non
+cpu ilp
+l1 mshrs
+demand accesses
+mshr occupancy
+speculative prefetches
+ilp speedups
+speedup for
+be overlapped
+of software
+misses and
+software controlled
+binding prefetching
+non binding
+generally poorer
+to ilp
+order scheduling
+memory bound
+normalized execution
+on multiprocessor
+and contention
+memory systems
+overlap multiple
+reducing memory
+the multiprocessor
+lu and
+speedup the
+loads and
+ilp and
+simple and
+and luopt
+generally sees
+simple processors
+stall component
+ilp specific
+as producer
+ilp than
+ple ple
+simple ilp
+l1 mshr
+increased late
+largely memory
+ilp multiprocessor
+occupancy due
+longer latencies
+contention in
+of load
+contention for
+l2 cache
+multiprocessor performance
+of l1
+for resources
+prefetching is
+memory latency
+to overlap
+insufficient opportunities
+larger bottleneck
+simple systems
+generation multiprocessors
+corresponding demand
+prefetches can
+misses in
+latency hiding
+l1 cache
+parallel efficiencies
+and radix
+the instruction
+less effective
+paper evaluates
+both without
+our ilp
+contention our
+achieves significant
+prefetch distance
+time in
+prefetching and
+of shared
+memory system
+processor based
+based multiprocessors
+to loads
+of execution
+total execution
+speedup is
+system performance
+a greater
+ap plications
+than in
+input sizes
+time cpu
+without and
+multiprocessors we
+effectiveness of
+techniques on
+based shared
+prefetching on
+for ilp
+overall results
+causes for
+system uses
+clustering of
+these applications
+gcc 2
+the latency
+the memory
+misses with
+cpu time
+in shared
+a larger
+prefetching to
+a prefetch
+accesses that
+non blocking
+and water
+in execution
+all our
+level parallelism
+instruction level
+retire rate
+systems normalized
+hiding optimization
+within ilp
+cache transfer
+fft fftopt
+uniprocessor because
+affecting load
+consequently despite
+contention related
+prefetches early
+lu luopt
+latency tolerating
+art processors
+across synchronization
+frequent memory
+demand access
+while ilp
+resources cause
+remote latencies
+radix in
+mshrs 64
+as ilp
+system sees
+mshrs number
+stalls on
+vs average
+the ilp system
+memory stall time
+the simple system
+impact of ilp
+simple and ilp
+of software prefetching
+load miss overlap
+of ilp techniques
+ilp speedup for
+memory ilp speedup
+and increased contention
+shared memory multiprocessors
+late prefetches and
+stall time in
+in the ilp
+the impact of
+cpu normalized execution
+memory cpu normalized
+increased contention for
+and ilp systems
+load miss ilp
+producer initiated communication
+blocking loads and
+time in ilp
+miss ilp speedup
+the simple and
+load misses and
+of load misses
+of our applications
+ilp speedup is
+software controlled non
+non binding prefetching
+in ilp based
+reducing memory stall
+ilp techniques on
+controlled non binding
+of ilp on
+misses and increased
+of l1 mshrs
+all our applications
+component of execution
+clustering of load
+the instruction window
+normalized execution time
+number of l1
+multiple load misses
+overlap multiple load
+on multiprocessor performance
+of execution time
+in the multiprocessor
+with ilp processors
+effectiveness of prefetching
+performance of shared
+of shared memory
+shared memory systems
+for our applications
+as producer initiated
+previous generation multiprocessors
+a larger bottleneck
+stall time to
+execution time cpu
+largely memory bound
+contention our results
+data memory stall
+ilp and simple
+memory stall component
+l1 mshr occupancy
+overlap and contention
+load misses with
+contention for resources
+prefetching and ilp
+prefetches and increased
+increased late prefetches
+cpu ilp speedup
+load misses for
+ilp speedup the
+to overlap multiple
+the ilp speedup
+luopt and fftopt
+occupancy due to
+luopt and radix
+simple processor based
+lu and luopt
+miss overlap and
+ilp based multiprocessors
+mshr occupancy due
+processor based shared
+ilp based systems
+such as producer
+memory system performance
+in reducing memory
+paper evaluates the
+software prefetching for
+due to loads
+memory multiprocessors we
+on the ilp
+of order scheduling
+with software prefetching
+for the ilp
+out of order
+than the simple
+effectiveness of software
+evaluates the impact
+need for additional
+non blocking loads
+less effective in
+both without and
+total execution time
+the load miss
+this paper evaluates
+for each application
+in the simple
+in shared memory
+in execution time
+without and with
+stall time is
+execution time in
+based shared memory
+instruction level parallelism
+the effectiveness of
+most of our
+for shared memory
+the l1 cache
+contention in the
+cpu time and
+can be overlapped
+the l2 cache
+the execution time
+mshrs 64 byte
+software clustering of
+multiprocessors both without
+system performance to
+ilp system sees
+hiding optimization of
+these deficiencies are
+applications remain largely
+and simple systems
+because load misses
+for luopt and
+initiated communication that
+l1 mshrs number
+resources from more
+lu with prefetching
+ilp systems normalized
+with single issue
+the latency tolerating
+simple system uses
+the memory bound
+find memory system
+remain largely memory
+latency hiding optimization
+see performance improvements
+insufficient opportunities in
+the ilp processor
+resources cause software
+lu and fft
+multiprocessors we find
+based multiprocessors than
+larger bottleneck and
+additional techniques to
+while ilp techniques
+software prefetching achieves
+a greater need
+for additional techniques
+the ilp and
+as stall time
+load misses to
+software prefetching to
+be a larger
+instruction window in
+sc 4 2
+software prefetching most
+our ap plications
+the cpu component
+application on simple
+to cache transfer
+be generally poorer
+efficiencies to be
+b factors contributing
+system uses state
+features of ilp
+reductions in execution
+art ilp processors
+each application figure
+binding prefetching has
+bottleneck and parallel
+ilp system uses
+that while software
+than cpu ilp
+latency tolerance features
+we find memory
+corresponding demand accesses
+analyzes the impact
+for system resources
+a overall results
+to the uniprocessor
+store miss overlap
+system than in
+ilp system than
+a prefetch and

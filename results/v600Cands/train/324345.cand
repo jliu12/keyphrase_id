@@ -1,0 +1,600 @@
+rtcast
+armada
+rtpb
+backup
+clips
+services
+service
+middleware
+microkernel
+api
+signaling
+protocol
+qos
+kernel
+rtcop
+clip
+multicast
+fault
+handler
+admission
+rtc
+membership
+communication
+token
+orchestra
+message
+messages
+server
+stack
+connection
+cords
+replication
+primary
+traffic
+client
+channel
+thrust
+consistency
+injection
+composable
+cogent
+subsystem
+threads
+ethernet
+timeliness
+throughput
+mk
+dependability
+msg
+mach
+packets
+teardown
+port
+guarantees
+host
+operating
+group
+tolerant
+establishment
+request
+paxson
+replicated
+msgs
+implements
+resources
+scheduler
+layer
+ms
+temporal
+weapon
+reservation
+threats
+hosts
+priority
+heartbeat
+reception
+packet
+deadline
+resource
+project
+platform
+honeywell
+exports
+udp
+connections
+tolerance
+crash
+unicast
+interface
+acsa
+rtccreateconnection
+driver
+schedulability
+handlers
+sender
+thread
+socket
+library
+predictable
+failures
+reply
+workload
+endpoint
+budget
+threat
+edf
+delivery
+overload
+stub
+protocols
+hutchinson
+replicas
+ip
+join
+embedded
+route
+architecture
+co
+requests
+multithreaded
+servers
+transport
+portability
+linux
+receiver
+transfer
+bandwidth
+1994
+routines
+policing
+effort
+cpu
+layered
+starved
+tools
+sensitive
+link
+layers
+endpoints
+atomic
+osf
+module
+rtcacceptconnection
+travostino
+50150250delivered
+rtcdestroyconnection
+peterson
+missed
+predictability
+reliable
+receive
+interoperability
+trajectories
+reserve
+deadlines
+objects
+scheduling
+destroy
+isolation
+response
+validating
+testbed
+forwarding
+rtcl
+mcast
+ipaddr
+management
+crashes
+channels
+replica
+ch
+tcp
+reserves
+retransmissions
+architectural
+chan
+sent
+send
+mehra
+jahanian
+omission
+groups
+tolerable
+release
+toolset
+id
+composability
+mmax
+dequeuing
+bmax
+modular
+developers
+queued
+admitted
+network
+replies
+burst
+query
+runway
+abdelzaher
+real time
+x kernel
+the armada
+the rtcast
+protocol stack
+primary backup
+time communication
+middleware services
+communication service
+temporal consistency
+the backup
+admission control
+rtc api
+communication services
+armada project
+communication subsystem
+qos sensitive
+replication service
+group communication
+time channel
+fault injection
+time primary
+the rtpb
+backup replication
+mk 7
+our services
+rtcast protocol
+best effort
+the primary
+user level
+the service
+process groups
+process group
+and middleware
+armada middleware
+the kernel
+the communication
+group membership
+a microkernel
+the protocol
+data transfer
+a clip
+signaling and
+fault tolerant
+fault tolerance
+connection establishment
+communication and
+signaling messages
+object temporal
+the microkernel
+backup rtpb
+mach kernel
+rtcast is
+operating system
+services for
+guaranteed qos
+the mach
+services developed
+kernel protocol
+time connection
+local port
+primary and
+end system
+and fault
+to end
+end to
+co located
+link scheduler
+inter object
+qos guarantees
+signaling requests
+window ms
+rtcast group
+chan id
+specified real
+armada real
+composable middleware
+rtpb system
+throughput ch
+replicated state
+thrust of
+and membership
+service is
+operating systems
+communication module
+token rotation
+the clips
+sensitive communication
+and clips
+and teardown
+user space
+time applications
+resource reservation
+qos communication
+connection state
+backup can
+co location
+the clip
+the x
+the client
+establishment and
+primary the
+multicast communication
+timeliness and
+kb s
+of communication
+resource management
+the mk
+time guarantees
+and backup
+protocol layer
+time distributed
+of services
+time channels
+on top
+in user
+new connection
+layered on
+time services
+token hold
+rtpb real
+each clip
+token handler
+rtcast suite
+honeywell technology
+transfer clips
+second thrust
+specified throughput
+open group
+rtpb replication
+hutchinson and
+workload generator
+kernel ethernet
+to clips
+clips implements
+ethernet driver
+reception handler
+rtcast api
+peterson 1991
+missed msgs
+routing engine
+end signaling
+receive omission
+ms window
+service library
+timed atomic
+armada services
+oriented services
+a composable
+request handler
+external temporal
+for real
+project is
+the token
+time data
+the application
+a real
+if state
+response time
+programming interface
+unicast communication
+logical token
+level server
+communication api
+state running
+the honeywell
+and schedulability
+membership change
+communication oriented
+hold time
+the real
+al 1996
+the group
+suite of
+of group
+services are
+to client
+clock synchronization
+the architecture
+service the
+the server
+et al
+kernel threads
+socket api
+traffic specification
+on specified
+membership changes
+and timeliness
+validation tools
+atomic multicast
+application application
+the threats
+multicast transport
+a communication
+a message
+top of
+command and
+services that
+control policy
+send out
+real time communication
+the x kernel
+the armada project
+of the armada
+real time channel
+real time primary
+primary backup replication
+time primary backup
+mk 7 2
+communication and middleware
+the rtcast protocol
+backup replication service
+a real time
+in the kernel
+and middleware services
+group communication services
+inter object temporal
+object temporal consistency
+time communication service
+the protocol stack
+end to end
+the real time
+the communication subsystem
+real time connection
+group communication and
+thrust of the
+and fault tolerance
+in user space
+the primary and
+between the primary
+the communication module
+primary backup rtpb
+armada real time
+connection establishment and
+rtcast group communication
+specified real time
+the rtpb system
+real time applications
+of the service
+for real time
+x kernel protocol
+qos sensitive communication
+guaranteed qos communication
+real time distributed
+the user level
+on the primary
+the backup can
+on top of
+real time services
+admission control policy
+project is to
+real time guarantees
+layered on top
+real time channels
+of the project
+the armada real
+communication oriented services
+backup rtpb replication
+of our services
+on specified real
+window ms window
+and peterson 1991
+rtpb real time
+token hold time
+to end signaling
+operating systems such
+the external temporal
+data transfer clips
+the temporal distance
+the mk 7
+timed atomic multicast
+timeliness and fault
+time communication api
+our primary backup
+for qos sensitive
+testbed and implementation
+communication and fault
+signaling and data
+establishment and teardown
+control and schedulability
+our communication subsystem
+time to client
+end system resources
+external temporal consistency
+the honeywell technology
+the mach kernel
+hutchinson and peterson
+resource management mechanisms
+the armada middleware
+user level server
+rtcast suite of
+ms window ms
+the rtcast suite
+honeywell technology center
+the inter object
+and communication services
+command and control
+of the protocol
+and real time
+fault tolerance and
+real time data
+et al 1996
+group membership service
+on the backup
+communication service that
+the communication service
+an x kernel
+kernel protocol stack
+and validation tools
+of group communication
+the project is
+into the kernel
+protocol stack to
+the primary the
+and implementation environment
+the budget is
+real time process
+and the backup
+to the primary
+of communication and
+response time to
+the primary backup
+time communication services
+primary and backup
+the process group
+primary and the
+application programming interface
+the control path
+the admission control
+of this project
+best effort traffic
+from the network
+on a collection
+running in the
+and data transfer
+admission control and
+embedded real time
+in a real
+an established connection
+controlled generation of
+the distributed workload
+connection state management
+real time microkernel
+cogent controlled generation
+operating systems typically
+communication handler thread
+admission control service
+experimental testbed and
+offered load on
+them under a
+not get starved
+state running 3
+microkernel operating system
+server co location
+abdelzaher et al
+clips library implements
+within a tolerable
+kb s 50150250delivered
+coordinates end to
+the second thrust
+for validating and
+for application developers
+paxson and floyd
+into the microkernel
+receive signaling requests
+management mechanisms to
+systems typically implement
+zou and jahanian
+modular and composable
+time process groups
+service that implements
+a timed atomic
+if state joining
+co located servers
+service clock synchronization
+message on specified
+project has focused
+the rtcast middleware
+rtpb replication service
+fault injection tool
+services that provide
+presents the rtcast
+deterministic bounds on
+the service library
+the multicast transport
+rtc api and
+application device driver
+user level scheduler
+validating and evaluating
+to receive signaling
+sensitive communication service
+by running in
+developed in user
+armada project is
+guarantees agreement on
+signaling and resource
+api and clips
+id buf ptr
+the clips library
+handler 2 if

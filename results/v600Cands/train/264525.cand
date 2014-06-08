@@ -1,0 +1,600 @@
+lock
+priority
+acquire
+pr
+record
+decisive
+queue
+dq
+swap
+release
+pointer
+spin
+instruction
+markatos
+prioritized
+prev
+mcs
+holder
+ptr
+locks
+enqueue
+processes
+dequeue
+releasing
+releases
+contention
+exclusion
+blocked
+multiprocessors
+acquisition
+waiting
+head
+ceiling
+concurrent
+mutual
+priorities
+synchronization
+old
+locked
+overtake
+proteus
+counter
+bit
+busy
+released
+records
+deadline
+flag
+inheritance
+acquires
+dequeued
+laxity
+succeeds
+cas
+overtakes
+critical
+tail
+predictable
+maintains
+node
+nil
+commit
+cycles
+shared
+successor
+turek
+insert
+token
+correctness
+deque
+multiprocessor
+schedulers
+null
+serializable
+blocking
+searching
+highest
+pointed
+acquiring
+deadlines
+hit
+marked
+accessible
+processor
+self
+link
+enqueued
+removes
+false
+prakash
+anyway
+unpredictable
+fifo
+continue
+atomic
+cache
+predecessor
+protocols
+qi
+waits
+queued
+insertion
+earliest
+fails
+queues
+atomicf
+zlokapa
+quisition
+goscinski
+molesky
+gwhile
+dequeuer
+misnavigated
+3213579
+craig
+restart
+ri
+executes
+unsuccessful
+string
+returned
+locally
+rm
+memory
+grants
+puzzling
+obain
+jayanti
+enqueuer
+pointers
+acquired
+boolean
+queuing
+initialized
+globally
+cached
+jik
+spins
+leblanc
+pare
+indicating
+participating
+instant
+read
+double
+urgency
+reseting
+linearizable
+inserts
+refers
+rage
+nested
+position
+spent
+protocol
+burn
+meet
+successful
+quanta
+prioritizing
+compare
+hotspots
+holders
+operation
+timing
+possibilities
+requests
+scenario
+object
+searches
+herman
+semaphores
+interim
+request
+continues
+wastes
+exited
+maintained
+preempted
+simulation
+access
+failure
+owning
+exclusive
+backing
+nonblocking
+prasad
+utility
+detected
+fair
+numa
+abstract
+stricter
+primitives
+attempts
+abstractin
+honored
+navigating
+ted
+alternatives
+pr lock
+the pr
+acquire lock
+lock algorithm
+the lock
+lock operation
+decisive instruction
+compare swap
+release lock
+the acquire
+the record
+dq bit
+the dq
+the queue
+lock is
+a lock
+the compare
+priority process
+spin lock
+record q
+mcs lock
+prev node
+q i
+lock decisive
+lock queue
+the mcs
+next node
+lock holder
+lock l
+swap instruction
+critical section
+its record
+a process
+markatos lock
+prioritized spin
+record is
+lock the
+the decisive
+priority processes
+pointer to
+record of
+priority queue
+the process
+lock using
+lock and
+the release
+a record
+release a
+each process
+an acquire
+node ptr
+next pointer
+a prioritized
+the priority
+to acquire
+th decisive
+process record
+structure pointer
+ptr priority
+pointer l
+swap fails
+blocked processes
+head record
+a pointer
+high priority
+the head
+a release
+lock a
+mutual exclusion
+processor priority
+s process
+to release
+a priority
+queue is
+record to
+shared memory
+priority inheritance
+acquisition time
+real time
+busy waiting
+lower priority
+record pointed
+link pointer
+by prev
+observed queue
+lock record
+dq string
+self ptr
+markatos algorithm
+lock pointer
+priority figure
+queue q
+swap is
+record s
+the critical
+queue the
+and release
+q l
+q 0
+inheritance protocols
+priority ceiling
+the enqueue
+lock by
+lock can
+queue l
+priority of
+a concurrent
+maintains a
+lock in
+contention free
+highest priority
+enqueue operation
+lock acquisition
+locally stored
+low priority
+bit is
+q s
+higher priority
+instruction the
+average time
+l before
+l after
+and next
+acquire a
+process p
+to q
+time cycles
+releases the
+record in
+releasing a
+record that
+algorithm maintains
+priority task
+the processes
+lock maintains
+our pr
+prioritized lock
+may overtake
+current old
+successor record
+swap succeeds
+and markatos
+concurrent release
+first record
+blocked anyway
+overtake the
+ptr next
+nested locks
+spin on
+its dq
+algorithm average
+process has
+pointer is
+memory multiprocessors
+p r
+instruction if
+queue and
+record for
+minimum laxity
+this record
+record if
+but globally
+l self
+dequeue operation
+ceiling protocol
+cycles x
+pointed to
+point to
+head of
+time systems
+x 100
+priority schedulers
+globally accessible
+a spin
+lock as
+lock that
+commit its
+queue for
+points to
+else f
+r q
+node and
+pointer in
+spin locks
+after figure
+insert q
+100 processor
+lock has
+instruction for
+the pointer
+p i
+to insert
+next process
+q after
+in old
+process to
+operation is
+its priority
+and q
+on locally
+the pr lock
+pr lock algorithm
+the acquire lock
+acquire lock operation
+the compare swap
+the dq bit
+release lock operation
+lock decisive instruction
+the mcs lock
+the lock queue
+the lock holder
+compare swap instruction
+lock algorithm is
+the release lock
+mcs lock algorithm
+if the compare
+to the record
+the critical section
+record of the
+the record of
+release a lock
+in the queue
+of the lock
+of the pr
+pr lock is
+the decisive instruction
+a release lock
+an acquire lock
+of the queue
+a lock is
+q i 1
+acquire lock decisive
+the record q
+dq bit is
+lock operation is
+prioritized spin lock
+release lock decisive
+the lock the
+a pointer to
+pointer to the
+high priority process
+and next node
+the record is
+to release a
+in the lock
+q s process
+prev node and
+lower priority process
+the head record
+compare swap fails
+th decisive instruction
+a lock using
+i th decisive
+if the dq
+after the acquire
+then the record
+a high priority
+point to q
+maintains a pointer
+the lock is
+releases the lock
+a prioritized spin
+compare swap is
+decisive instruction for
+processor priority figure
+by prev node
+node and next
+the record pointed
+releasing a lock
+record pointed to
+l after the
+lock pointer l
+record q 0
+l before and
+q l after
+acquire lock a
+acquisition time for
+decisive instruction the
+average time cycles
+in the pr
+mcs lock and
+acquire a lock
+p r q
+the priority of
+the queue the
+algorithm maintains a
+q i is
+priority inheritance protocols
+the enqueue operation
+to acquire a
+and q i
+of the compare
+shared memory multiprocessors
+instruction if the
+head of the
+priority queue is
+of a process
+p and n
+priority of a
+to insert q
+for the acquire
+observed queue l
+time to release
+node ptr priority
+queue l before
+next node ptr
+acquire lock algorithm
+time cycles x
+dq bit set
+pointer in q
+the lock pointer
+swap fails the
+required to release
+dq bit of
+lock maintains a
+pr lock has
+prev node ptr
+compare swap succeeds
+lock algorithm in
+lock and markatos
+lock operation and
+dequeue operation on
+our pr lock
+its dq bit
+before after figure
+in its record
+pr lock maintains
+pr lock can
+q after the
+to by prev
+before the acquire
+a concurrent release
+decisive instruction if
+a spin lock
+lock operation may
+lock algorithm average
+the lock by
+of blocked processes
+may overtake the
+b a problem
+a record q
+if next node
+x 100 processor
+to commit its
+concurrent release lock
+100 processor priority
+spin on locally
+the next pointer
+part of current
+when the lock
+algorithm the pr
+dq bit in
+overtake the acquire
+lock operation the
+critical section the
+operation may overtake
+sets the dq
+for the pr
+cycles x 100
+and markatos lock
+the first record
+but globally accessible
+pr lock l
+lock acquisition time
+the head of
+to the process
+real time systems
+the queue for
+a lower priority
+higher priority process
+acquire lock and
+lock is a
+and release lock
+higher the priority
+q i has
+lock is not
+to its priority
+the lock l
+priority ceiling protocol
+l and q
+lock can be
+priority queue q
+lock and release
+of the process
+i and q
+before and after
+instruction for the
+acquire the lock
+time to acquire
+in the acquire
+process p i
+a priority queue
+scenario is illustrated
+a process to
+q i and
+in the critical
+the next process
+a low priority
+will point to
+pointed to by

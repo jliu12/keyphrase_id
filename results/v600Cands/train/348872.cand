@@ -1,0 +1,600 @@
+uml
+tde
+_txport
+transitions
+data0
+statecharts
+_tuser
+_timing
+transmitter
+statechart
+txport
+timer
+subsystem
+comch
+composition
+rose
+tnt
+msg
+transition
+event
+events
+testing
+ack
+tuser
+tsl
+sink
+behavioral
+timeout
+receive
+drivers
+transmittertimer
+communicating
+developer
+coverage
+interfaces
+external
+event1
+send
+corba
+integration
+subsystems
+siemens
+connection
+composed
+interface
+tecs
+machines
+category
+preparesend
+exttimeout
+intermediate
+harness
+object
+developers
+microsteps
+cancel
+communication
+stubs
+composing
+dcom
+instantiation
+modeling
+stimuli
+annotations
+corporate
+com
+outgoing
+stimulate
+internal
+diagrams
+abprotocol
+channel2
+timeron_running
+channel1
+comchreceiver
+messagesent
+gotack
+subramanyan
+nagin
+idle_stopped
+schema
+timing
+connections
+data1
+reachability
+interactions
+generation
+shanghai
+receiver
+generative
+unmarked
+partitions
+alternating
+actions
+hartman
+synchronous
+csp
+asynchronously
+asynchronous
+message
+rational
+lifecycle
+nomenclature
+sent
+normalized
+separating
+messages
+tool
+java
+tests
+tools
+partition
+china
+driver
+choices
+interaction
+sigsoft
+s1
+imported
+rajesh
+trigger
+protocol
+execution
+channel
+labeling
+executable
+visual
+inserted
+s0
+realize
+name
+externally
+unified
+reachable
+categories
+scripts
+sdl
+rivepiboon
+cancelack
+agedis
+johanne
+statecharts4
+operations3
+messagesent0
+shiran
+wanchai
+lapone
+ackcancel
+idle0
+_timer
+testdriver
+communication7
+_timing_start
+preparesend_stop
+marlon
+kazmeier
+timeron
+gotack_running
+s02
+sf2
+case5
+notification6
+reuseable
+hasling
+aleta
+sabnani
+caret
+necessaryin
+kansomkeat
+kanth
+tzbeyer
+protocol2
+anitha
+aspectual
+pratyush
+messagesent_timeout
+rose2000
+messagesent_running
+preparesend0
+received
+react
+mapped
+resulted
+t2
+names
+idle
+requirements
+commercial
+customized
+generating
+microsoft
+dark
+integrate
+patrcia
+leduc
+exclamation
+ackack
+machado
+sahay
+collated
+state machine
+test cases
+composed state
+state machines
+global behavioral
+test case
+test execution
+tde uml
+communication transitions
+behavioral model
+test generation
+the transmitter
+integration testing
+test drivers
+transmitter object
+intermediate states
+integration test
+the composed
+the test
+global state
+states and
+global model
+and transitions
+sink object
+composition step
+category partition
+receive events
+test requirements
+test strategy
+uml statecharts
+transmitter component
+timer component
+coverage requirements
+the timer
+distributed component
+test design
+generated test
+send and
+the rose
+harness library
+_tuser msg
+_timing timeout
+composition schema
+_timing start
+composition algorithm
+_txport data0
+_txport ack
+part states
+under test
+and receive
+the composition
+reduction algorithm
+cases for
+the subsystem
+the global
+transitions are
+of states
+the transitions
+and timer
+from uml
+transition label
+uml based
+during unit
+a statechart
+test harness
+final states
+siemens corporate
+states transitions
+at siemens
+two state
+and corba
+our approach
+modeling language
+a test
+corporate research
+unified modeling
+test data
+object under
+alternating bit
+states are
+and integration
+executable test
+commercial uml
+composition steps
+event names
+external connection
+com dcom
+dcom and
+timer components
+external interfaces
+variable _tuser
+timeout _txport
+of tnt
+transition annotations
+comch component
+the comch
+timing interface
+normalized state
+tnt environment
+uml statechart
+tnt the
+transition is
+the generated
+a global
+of test
+case generation
+as intermediate
+generation and
+a developer
+the interfaces
+receive transitions
+asynchronously communicating
+execution tool
+receive transition
+rational rose
+data values
+generating test
+of intermediate
+a category
+sequence diagrams
+test driver
+modeling tools
+the unified
+the event
+the developer
+category or
+or partition
+a state
+a transition
+unit and
+transitions for
+composition and
+implementation strategy
+communication semantics
+object reference
+stimulate the
+visual modeling
+modeling tool
+communication channel
+component based
+transitions that
+initial state
+with events
+bit protocol
+uml and
+send events
+of components
+outgoing transitions
+of send
+new global
+the object
+unit testing
+a composed
+a subsystem
+components is
+and event
+transmitter and
+during test
+four components
+and test
+drivers and
+generate test
+other component
+2006 shanghai
+based testing
+finite state
+external connections
+receive user
+rose object
+layer x
+dark arrows
+event data0
+during composition
+communicating state
+timing cancel
+effort associated
+transitions define
+start data0
+incremental composition
+outgoing receive
+multiple statecharts
+testing costs
+closely co
+statecharts in
+component statistics
+communicating statecharts
+written manually
+from connection
+respective statecharts
+for tde
+how test
+interface txport
+com components
+_timing cancel
+000 intermediate
+state idle_stopped
+component interaction
+data0 msg
+corba components
+multiple send
+composed state machine
+global behavioral model
+the composed state
+states and transitions
+the transmitter object
+test cases for
+integration test strategy
+two state machines
+and integration testing
+the timer component
+the global behavioral
+test generation and
+unit and integration
+send and receive
+the reduction algorithm
+number of states
+generated test cases
+test harness library
+the composition algorithm
+object under test
+distributed component based
+a global behavioral
+the generated test
+the object under
+the global model
+the test execution
+siemens corporate research
+at siemens corporate
+a test case
+a state machine
+the unified modeling
+unified modeling language
+a composed state
+composition step the
+during unit and
+for the transmitter
+connection and event
+communication transitions are
+of states transitions
+category or partition
+of tnt the
+composition and reduction
+test drivers and
+the test harness
+global state machine
+the comch component
+composed state machines
+the transmitter component
+a sink object
+during test execution
+dcom and corba
+_timing timeout _txport
+com dcom and
+marked as intermediate
+and timer components
+transmitter and timer
+implementation of tnt
+test case generation
+the global state
+and test execution
+generation and test
+test execution tool
+of intermediate states
+generation and execution
+the state machine
+one test case
+in future work
+state machine the
+and receive events
+of states and
+alternating bit protocol
+generate test cases
+of the composed
+test cases are
+2006 international workshop
+generation of test
+a global state
+as well as
+for test generation
+dynamic behavior of
+the dynamic behavior
+is mapped to
+2006 shanghai china
+with the test
+are identified by
+of a component
+test drivers test
+tnt the initialization
+the composition steps
+choice is selected
+uml modeling tools
+for the subsystem
+transition label can
+next composition step
+receive transitions with
+be written manually
+closely co operate
+tsl test design
+and the timer
+test data string
+bottom up integration
+tecs the test
+from within rational
+msg start data0
+sequence diagrams for
+000 intermediate states
+costs time and
+in a statechart
+by a developer
+timer components the
+component interactions are
+testing costs time
+case generation from
+the variable _tuser
+receive transition to
+communication channel and
+rose object model
+a tsl test
+reachable global state
+diagram for tde
+test execution technology
+composition schema for
+be checked during
+the external connection
+checked during test
+behavioral model in
+and effort associated
+based testing environment
+study in statistical
+commercial uml based
+cancel _tuser ack
+asynchronously communicating systems
+developing customized test
+our implementation strategy
+hartman k nagin
+as intermediate states
+all three subsystems
+communicating state machines
+the testing costs
+a commercial uml
+defines a choice
+normalized state machine
+specified by separating
+the normalized state
+the txport interface
+component via the
+outgoing receive transition
+the two subsystems
+and receive transitions
+design based testing
+tde uml and
+in statistical testing
+so the connection
+typically the reduction
+global initial state
+timeout _txport data0
+by refining tests
+partitions and choices
+by separating them
+subsystem of components
+an executable test
+into the composed
+customized test drivers
+external interfaces and
+uml tde uml
+testing refinements by
+or partition is
+cancel _timing start
+within rational rose
+cases from uml
+and event names
+effort associated with
+the next composition
+connection name and
+aims at minimizing
+single event to
+modeling language reference
+the sink object
+the tnt environment
+software development community
+incremental composition and
+receive user msg
+variable _txport the
+a transition label
+the respective statecharts
+minimizing the testing
+establishing a global
+all four components
+ack timing cancel
+outgoing transitions of
+a category or
+transitions with events
+for asynchronously communicating
+developed at siemens
+_tuser msg _timing
+based modeling tool
+a test frame
+start data0 msg
+events are identified
+executable test driver

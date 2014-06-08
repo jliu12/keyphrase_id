@@ -1,0 +1,600 @@
+coloring
+entrance
+labeling
+rounds
+orientation
+preprocessing
+compact
+extendible
+vertices
+processors
+label
+color
+resource
+colored
+vertex
+allocation
+job
+dense
+log
+neighbors
+neighbor
+processor
+rth
+diam
+subgraph
+phase
+waiting
+jobs
+resources
+colors
+request
+technion
+mis
+your
+neighborhood
+directed
+subgraphs
+maximal
+philosophers
+assigns
+labels
+conflicting
+phases
+conflict
+you
+am
+requesting
+requests
+labeled
+response
+executes
+drinking
+acyclic
+layers
+induction
+executing
+randomized
+layer
+proposition
+omega
+linial
+pick
+priorities
+round
+diameter
+orientations
+legally
+submits
+longest
+compete
+starvation
+undirected
+running
+execute
+chromatic
+unbounded
+hadas
+girth
+synchronizer
+schedule
+erd
+psi
+knows
+ffi
+ring
+finds
+graphs
+transmit
+kth
+claim
+lemma
+waits
+locality
+joins
+tightened
+liveness
+unlimited
+kr
+israel
+noy
+dining
+safety
+oriented
+stockmeyer
+graph
+corollary
+collects
+naor
+labelings
+batches
+distance
+partition
+hv
+achieves
+shot
+locally
+il
+ui
+induce
+hypothesis
+extension
+submit
+logn
+deleting
+2r
+topology
+meshulam
+gamma368
+gammaeir
+0233
+polylogarithm
+acyclically
+tami
+szegendy
+orients
+wanathan
+terschelling
+gamma135
+lg
+connected
+ids
+messages
+neighboring
+communication
+adjacent
+picks
+produced
+shachnai
+acyclicly
+vitanyi
+nonrestricted
+gammaan
+synchronous
+guarantees
+iteration
+visits
+vpr
+gammaast
+u2v
+rhee
+distributively
+amotz
+vish
+deterministic
+participate
+exclusion
+os
+cascades
+barbosa
+panconesi
+chronous
+ac
+counting
+gafni
+mayer
+32000
+receive
+path
+message
+joining
+breaking
+eds
+bsf
+elapse
+jerusalem
+runs
+existence
+beginning
+edge
+collected
+remark
+cs
+allo
+857
+distribute
+intuitively
+issued
+repetitively
+tossing
+hagit
+entrance phase
+g 0
+p i
+k dense
+compact coloring
+dense coloring
+running phase
+labeling problems
+t orientation
+resource allocation
+log n
+p j
+labeling problem
+of g
+in v
+coloring of
+in p
+its job
+graph g
+k compact
+processors that
+distributed algorithm
+t g
+directed path
+allocation problem
+extendible labeling
+rth entrance
+request resources
+coloring is
+conflict graph
+color c
+a labeling
+in g
+independent set
+log log
+job in
+extension algorithm
+a graph
+the labeling
+a processor
+compact resource
+g rounds
+label v
+the resource
+c in
+coloring problem
+with color
+processor p
+orientation preprocessing
+colored k
+running phases
+entrance phases
+the compact
+response time
+v has
+every graph
+for every
+every vertex
+diam g
+the rth
+resources in
+vertex v
+0 in
+on g
+is colored
+orientation of
+a label
+assigns color
+label u
+phase r
+waiting processor
+n log
+o log
+no neighbor
+preprocessing that
+communication graph
+v u
+their jobs
+r neighborhood
+acyclic orientation
+that request
+a vertex
+the vertices
+requests resources
+unbounded preprocessing
+every waiting
+graph c
+2 g
+maximal independent
+2 rounds
+v 2
+orientation is
+the maximal
+has neighbors
+your neighbors
+c coloring
+already labeled
+is k
+labeling of
+the orientation
+within t
+a c
+labeling algorithm
+to your
+longest directed
+lower bound
+proposition 3
+communication rounds
+first running
+every k
+compete on
+kth running
+waiting processors
+some conflicting
+is extendible
+executing their
+of labeling
+i runs
+the induction
+n rounds
+a neighbor
+c 0
+connected component
+subgraph of
+u in
+t rounds
+executing its
+a distributed
+rounds either
+orientation number
+u label
+first entrance
+local computation
+starts executing
+neighbor with
+allocation algorithm
+g 1
+an orientation
+1 log
+preprocessing is
+lower layers
+phase that
+lemma 4
+to u
+preprocessing on
+neighbor from
+randomized distributed
+the entrance
+for compact
+preprocessing which
+the conflict
+within o
+executes its
+from lower
+v is
+that requests
+the processors
+v assigns
+color k
+an acyclic
+a m
+vertices in
+g within
+an extendible
+path to
+in c
+philosophers problem
+execute its
+an independent
+if p
+k rounds
+in entrance
+colored c
+undirected distance
+you receive
+clearly within
+conflicting neighbor
+t oriented
+mis k
+every distributed
+dynamic conflict
+n neighborhood
+messages you
+j assigns
+different subgraphs
+pick a
+to pick
+of rounds
+bound for
+g is
+a directed
+is compact
+labeling is
+any subgraph
+claim 4
+the algorithm
+v to
+requesting processor
+g g
+most t
+in p i
+c in p
+k dense coloring
+0 in v
+g 0 in
+resource allocation problem
+the compact coloring
+the resource allocation
+log log n
+in g 0
+rth entrance phase
+the rth entrance
+its job in
+n log log
+job in the
+2 g 0
+with color c
+compact coloring of
+compact resource allocation
+0 in p
+for every graph
+processor p i
+o log n
+a labeling problem
+dense coloring of
+conflict graph c
+the t orientation
+that request resources
+a k dense
+log n 2
+directed path to
+every graph g
+of g 0
+g 0 is
+v 2 g
+orientation of g
+by a c
+processors that request
+t g rounds
+extendible labeling problem
+label v u
+is colored k
+entrance phase and
+c 0 in
+coloring of g
+log n log
+for the resource
+a graph g
+n 2 rounds
+resources in the
+maximal independent set
+p i is
+of c in
+an acyclic orientation
+p i runs
+executing its job
+every waiting processor
+entrance phase r
+extension algorithm for
+waiting processor p
+the first running
+pick a label
+is k dense
+running phase that
+executes its job
+starts executing its
+that requests resources
+requests resources in
+a t orientation
+communication graph g
+t orientation preprocessing
+t orientation of
+most t g
+first running phase
+from lower layers
+the conflict graph
+distributed algorithm that
+g of size
+is k compact
+vertex v with
+resource allocation algorithm
+a communication graph
+p i and
+1 log n
+p j is
+be a graph
+longest directed path
+the longest directed
+graph g of
+a directed path
+log n rounds
+of a graph
+a distributed algorithm
+all the vertices
+subgraph of g
+within t rounds
+coloring of c
+for k dense
+label u label
+the kth running
+coloring is k
+processors that will
+color k to
+the running phase
+to your neighbors
+in every k
+first entrance phase
+execute its job
+u label v
+k compact resource
+dense coloring problem
+v with color
+compact coloring problem
+a compact coloring
+of labeling problems
+no neighbor from
+orientation number of
+for every waiting
+the k dense
+l 0 g
+r neighborhood of
+an extendible labeling
+finds a k
+problem is extendible
+assigns color k
+be the compact
+the r neighborhood
+executing their jobs
+kth running phase
+request resources in
+of p i
+an independent set
+lower bound for
+a vertex v
+bound for k
+in p j
+to p j
+if p i
+if v has
+the orientation number
+claim 4 5
+within o log
+order to pick
+if u in
+the first entrance
+only if p
+v in g
+every vertex v
+in v the
+the response time
+p i if
+that p i
+produced by a
+have a neighbor
+has no neighbor
+v has no
+of g within
+neighbor of p
+the labeling is
+the labeling of
+u in v
+path to v
+a coloring is
+to pick a
+theorem 3 4
+in v then
+neighborhood of v
+that for every
+of size n
+state of c
+coloring of a
+connected component in
+response time of
+of a m
+to u in
+that every distributed
+neighbor with color
+to label g
+claim 3 14
+within r rounds
+compete on some
+extendible labeling problems
+running phase to
+compact coloring is
+dynamic conflict graph
+on some resource
+preprocessing on g
+an extension algorithm
+p j assigns
+i assigns color
+that label u
+vertex with color
+color c k
+a m on
+colored k then
+log n neighborhood
+the waiting processors
+some conflicting neighbor
+randomized distributed algorithm
+g o log

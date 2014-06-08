@@ -1,0 +1,600 @@
+predicate
+branch
+i0
+bp2
+predicates
+slice
+ik
+increments
+traversed
+bp
+slices
+f2
+arithmetic
+outcome
+relaxation
+tangent
+infeasible
+residual
+deltax
+residuals
+conditionals
+path
+deltaz
+bp4
+bp5
+unknowns
+equalities
+deltay
+gaussian
+bp1
+representations
+elimination
+dependency
+nonlinear
+relational
+iteration
+evaluates
+statements
+i1
+outcomes
+plane
+inequalities
+desired
+evaluate
+generation
+slope
+executing
+automated
+f5
+traversal
+testing
+slopes
+eq
+arrays
+id
+refined
+backtracking
+executed
+constraint
+sigsoft
+arbitrarily
+adtest
+gamma99
+iteratively
+refine
+e2
+executions
+e1
+neighborhood
+equations
+infeasibility
+inconsistent
+innovative
+feedback
+robschink
+operator
+increment
+constraints
+refining
+derives
+nonnumeric
+numeric
+deltal
+tosem
+iterative
+assignment
+coefficients
+symbolic
+snelting
+execution
+endif
+array
+solved
+underdetermined
+derive
+y0
+atlas
+automatic
+torsten
+shan
+paths
+divided
+gregor
+statement
+op
+execute
+deltas
+false
+notes
+convert
+dependence
+approximate
+automation
+deriving
+criteria
+sine
+converted
+89
+fore
+itera
+iterations
+respective
+modifying
+ji
+exact
+qi
+formulations
+indirectly
+converting
+inputs
+x0
+refines
+stepping
+simultaneously
+newton
+engineering
+exe
+29th
+refinement
+bpn
+bp32
+shuhao
+99which
+fuqing
+bp22
+kamkar
+bp11
+pathexpander
+jiasu
+wysiwyt
+testgen
+endprocedure
+sniafl
+bp31
+bp12
+concolic
+bp21
+hampapuram
+edvardsson
+bp13
+cutions
+mariam
+zhichang
+mingming
+jinhui
+terminates
+evaluating
+approximates
+grammars
+initiated
+91
+accumulation
+software
+93
+saikat
+phyllis
+noninteractive
+versed
+triangularize
+tonella
+adic
+koushik
+testcase
+vokolos
+filippos
+chays
+program
+continues
+loops
+derivatives
+illustrate
+branches
+minates
+cadar
+deltah
+erality
+una
+korel
+frankl
+automa
+predicate function
+branch predicate
+the predicate
+branch predicates
+predicate slice
+test data
+program input
+the branch
+data generation
+predicate functions
+linear arithmetic
+the path
+arithmetic representation
+input variables
+predicate slices
+evaluate to
+current input
+predicates on
+given path
+path p
+desired outcome
+a predicate
+corresponding predicate
+predicate residual
+the increments
+the input
+traversed on
+input dependency
+relaxation technique
+increments to
+at i0
+input ik
+execution based
+tangent plane
+linear constraints
+the linear
+a branch
+of input
+desired input
+arithmetic representations
+predicate residuals
+path is
+relational operator
+ik 1
+at ik
+each branch
+should evaluate
+program execution
+system of
+gaussian elimination
+predicate on
+on i0
+input i0
+new input
+be traversed
+one iteration
+branch condition
+chosen input
+their desired
+the program
+of linear
+slice s
+increments for
+linear representations
+dependency set
+its desired
+linear function
+using gaussian
+predicate bp2
+eq set
+desired outcomes
+an input
+generate test
+path are
+the tangent
+input the
+evaluates to
+arbitrarily chosen
+by executing
+the desired
+function f2
+the divided
+of equations
+function computed
+is traversed
+slices on
+exact representation
+our method
+bp2 p
+statements along
+s bp2
+dependency sets
+linear constraint
+the relaxation
+computed by
+input variable
+this input
+not traversed
+linear functions
+on p
+positive value
+a path
+input for
+input if
+branch conditions
+input and
+functions of
+a program
+and assignment
+free variables
+desired branch
+dynamic slice
+nonlinear functions
+the relational
+predicates evaluate
+predicate bp
+input is
+divided difference
+input then
+function at
+assignment statements
+the given
+i0 and
+conditionals on
+traversed when
+divided differences
+deltaz and
+set id
+slices for
+path may
+automated test
+for test
+of predicate
+the traversal
+traversal of
+executing the
+input in
+current program
+generation problem
+input such
+initial program
+the current
+software engineering
+is infeasible
+deltax deltay
+to evaluate
+computed above
+executed using
+are linear
+derive a
+outcome in
+relaxation method
+input i1
+predicates bp1
+these increments
+use backtracking
+slope coefficients
+and bp4
+predicate evaluates
+f2 at
+input computed
+bp2 evaluates
+to i0
+a 89
+we execute
+a linear
+of branch
+testing criteria
+linear representation
+to equalities
+input we
+slice is
+input from
+symbolic evaluation
+new program
+p are
+one branch
+the slope
+residual gives
+slice over
+a 93
+approximate solution
+ik and
+input i
+we get
+software test
+function of
+predicate n
+iterative relaxation
+the function
+iteration or
+nonlinear function
+program executions
+an arbitrarily
+input are
+generating test
+residual value
+a 91
+slice on
+89 a
+the predicate function
+the branch predicates
+test data generation
+branch predicates on
+a predicate function
+linear arithmetic representation
+the predicate functions
+a branch predicate
+the current input
+on the path
+the branch predicate
+the linear arithmetic
+of the predicate
+predicates on the
+the corresponding predicate
+the given path
+the path p
+branch predicate on
+the predicate slices
+the predicate slice
+each branch predicate
+program execution based
+all the branch
+of input variables
+to evaluate to
+for the predicate
+of linear constraints
+the program input
+the desired outcome
+the predicate residual
+of the input
+the relaxation technique
+linear arithmetic representations
+evaluate to their
+the path is
+the input dependency
+to their desired
+a predicate slice
+predicate slice s
+arbitrarily chosen input
+predicate function at
+increments to the
+set of linear
+to the desired
+the tangent plane
+evaluate to the
+using gaussian elimination
+a linear arithmetic
+predicate function is
+corresponding predicate function
+the predicate residuals
+input dependency set
+input and assignment
+for test data
+test data for
+generate test data
+functions of input
+should evaluate to
+if a branch
+the relational operator
+and assignment statements
+predicate on the
+system of equations
+predicate slices on
+increments for the
+their desired outcomes
+to its desired
+its desired outcome
+predicate function f2
+branch predicate bp2
+on the increments
+a program input
+a positive value
+a given path
+path p is
+linear functions of
+the increments for
+predicates on p
+in one iteration
+is not traversed
+of a predicate
+program input ik
+s bp2 p
+predicate slice is
+derive a linear
+input dependency sets
+desired outcome in
+predicate slices for
+arithmetic representation for
+the increments to
+of branch predicates
+subset of input
+the path are
+function computed by
+a new input
+the input variables
+of the branch
+on a path
+the path may
+not be traversed
+path is infeasible
+the divided difference
+for the branch
+the system of
+to be traversed
+an arbitrarily chosen
+the traversal of
+linear constraints on
+by executing the
+to a positive
+the linear function
+that the branch
+data generation problem
+path are linear
+one branch predicate
+p is traversed
+a desired input
+arithmetic representation of
+on p are
+traversed when the
+executing the predicate
+branch predicate bp
+execution based approaches
+input to obtain
+the current program
+automated test data
+predicates evaluate to
+the linear representations
+predicate functions are
+evaluate to its
+the desired input
+not traversed on
+each predicate function
+a dynamic slice
+one iteration or
+initial program input
+corresponding predicate slice
+branch conditions on
+traversed on i0
+current program input
+branch predicates evaluate
+the branch conditions
+a system of
+system of linear
+on the given
+the value of
+the test data
+data for a
+given path in
+is executed using
+solved using gaussian
+the function computed
+value of the
+program is executed
+at the current
+input then the
+exact representation of
+function of input
+path p to
+the desired branch
+are linear functions
+to the input
+to generate test
+input variables is
+generating test data
+tangent plane to
+which the predicate
+path may not
+we execute the
+assignment statements along
+branch predicates bp1
+program input the
+a branch condition
+of input computed
+and use backtracking
+execution based approach
+is traversed on
+time and use
+path is traversed
+evaluating the corresponding
+input the path
+predicate function f
+given path p
+predicate n i
+iterative relaxation method
+represents the tangent
+predicate slice on
+computing the divided
+given path to
+execute the predicate
+bp2 evaluates to
+branch predicate evaluates
+branch predicate n
+predicate functions corresponding
+executed using this
+execution based methods
+computed by executing
+input computed by
+new program input
+positive value at

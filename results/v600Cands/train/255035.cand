@@ -1,0 +1,600 @@
+multigrid
+rqmg
+eigenvalue
+mg
+coarsest
+rayleigh
+grid
+lmg
+eigenvector
+solver
+correction
+jjjp
+quotient
+old
+convergence
+eigenspace
+bilinear
+delta
+singular
+kis
+kand
+shift
+jjj
+coarse
+linearized
+smoothing
+decomposition
+schwarz
+orthogonal
+jj
+elliptic
+approximation
+eigenproblems
+inequality
+cauchy
+remark
+rq
+jjju
+emg
+lwhile
+smoother
+vanishes
+norm
+attenuating
+posed
+sufficiently
+inner
+nearly
+kvk
+complement
+residual
+lis
+adjoint
+advised
+boulder
+cycle
+eigenvalues
+relaxation
+subspaces
+multilevel
+estimate
+subspace
+anywhere
+variational
+outer
+letting
+noting
+functional
+definite
+lemma
+denver
+norms
+cf
+inequalities
+lcertainly
+gamma1vanishes
+lapproximation
+0jj
+lonly
+0be
+3364
+gamma1guaranteed
+kaccording
+0error
+9121431
+gamma1by
+kwith
+kyield
+gamma1be
+colorado
+approximate
+corrections
+differential
+localness
+eigenval
+80217
+nonnegative
+floating
+projection
+74
+completes
+0156
+90089
+80309
+8704169
+eigenvectors
+mesh
+gamma1and
+jje
+jjr
+fmg
+estimates
+1113
+allowance
+milgram
+contaminate
+cycles
+operators
+seminorm
+eigenfunction
+0526
+converges
+imply
+attenuate
+pv
+echet
+0and
+solvers
+southern
+regularity
+usual
+loop
+respective
+gamma12
+smallest
+error
+pinpoint
+eigenproblem
+projections
+eigenfunctions
+mind
+49
+analyze
+elusive
+asc
+iis
+accommodate
+lax
+triangle
+reader
+recursion
+ues
+mathematics
+preliminaries
+38
+establish
+mini
+51
+finest
+optimality
+f0g
+belonging
+damped
+afosr
+legitimate
+preserve
+magnitude
+generic
+oscillatory
+suit
+kp
+uniformly
+inverse
+eigen
+operator
+nested
+lation
+59
+recursive
+oe
+invert
+lengthy
+assumptions
+nondecreasing
+nonlinear
+iteration
+dms
+lg
+guesses
+fine
+semidefinite
+hilbert
+co
+unchanged
+scalar
+preconditioner
+kr
+ax
+ultimate
+develops
+v k
+u l
+coarsest grid
+the multigrid
+eigenvector approximation
+2 v
+l old
+the rayleigh
+on v
+rayleigh quotient
+small h
+full multigrid
+from 3
+approximation u
+nearly singular
+assumption 3
+a orthogonal
+coarse grid
+grid solver
+multigrid method
+delta delta
+h 0
+and 3
+eigenvalue problem
+2 8
+l new
+the eigenvalue
+multigrid algorithm
+3 7
+remark 3
+the shift
+the coarsest
+singular linear
+approximation property
+sufficiently small
+l 0
+linearized multigrid
+jjjp l
+error decomposition
+correction step
+the eigenspace
+bilinear form
+lemma 3
+grid correction
+orthogonal complement
+follows from
+new old
+initial approximation
+smallest eigenvalue
+v cycle
+vanishes on
+that mg
+3 38
+3 21
+multigrid methods
+u 2
+of mg
+the bilinear
+3 20
+cauchy schwarz
+schwarz inequality
+any v
+singular problem
+eigenspace associated
+reduced approximation
+exact coarsest
+cycle estimate
+kis the
+quotient over
+1 coarse
+rq u
+convergence of
+the error
+3 8
+prove 3
+for eigenvalue
+smoothing step
+eigenvalue problems
+proof 3
+any u
+for sufficiently
+v l
+by 3
+approximate magnitude
+multigrid process
+decomposition according
+mg 0
+analyze convergence
+multigrid procedure
+3 32
+problem 2
+the cauchy
+shift is
+in v
+convergence theory
+error components
+jj delta
+an outer
+r k
+components in
+multigrid cycle
+delta jj
+3 74
+l so
+if l
+compute u
+3 49
+to 3
+c delta
+21 3
+3 5
+the theory
+finite dimensional
+3 51
+3 12
+outer loop
+the nearly
+3 40
+of multigrid
+solution of
+3 33
+the proof
+type process
+find 2
+v kand
+given inner
+vary anywhere
+multigrid processing
+continuous symmetric
+direct multigrid
+attenuating error
+rqmg convergence
+new lmg
+l jjjp
+uniformly equivalent
+old define
+recursive estimate
+residual functional
+uses multigrid
+v lis
+loop solver
+multigrid as
+u old
+of rqmg
+2 smoothing
+converges according
+quotient multigrid
+solver let
+5 belonging
+strongly advised
+initial correction
+of emg
+lmg l
+sense instead
+linear v
+rqmg the
+old l
+to rqmg
+rqmg which
+70 holds
+two multigrid
+approximation properties
+8 and
+new approximation
+define the
+self adjoint
+v 2
+q k
+k gamma1
+a multigrid
+the approximate
+eigenvalue of
+theory developed
+3 30
+grant number
+which together
+theta v
+2 5
+given decomposition
+inequality note
+shift was
+posed here
+scalar 2
+let mg
+element theory
+inequalities imply
+writing u
+mg l
+iteration type
+estimate new
+l converges
+correction u
+inequality 3
+3 9
+problem then
+the solution
+mathematics university
+and proof
+then perform
+that let
+on v k
+2 v k
+small h 0
+the rayleigh quotient
+sufficiently small h
+approximation u l
+coarsest grid solver
+the coarsest grid
+follows from 3
+if l 0
+nearly singular linear
+u l old
+u l new
+the eigenvalue problem
+l 0 then
+in the multigrid
+the a orthogonal
+to 3 12
+v 2 v
+according to 3
+multigrid method for
+the smallest eigenvalue
+any v 2
+for sufficiently small
+eigenvalue of 1
+initial approximation u
+c delta delta
+for any v
+and 6 1
+3 21 3
+cauchy schwarz inequality
+the cauchy schwarz
+8 and 6
+2 8 and
+and 3 7
+coarse grid correction
+7 and 3
+for any u
+grid correction step
+compute u l
+analyze convergence of
+the approximate magnitude
+eigenspace associated with
+21 3 20
+error components in
+v cycle estimate
+following 1 coarse
+and 3 38
+0 then perform
+the eigenspace associated
+1 coarse grid
+then compute u
+the nearly singular
+a orthogonal complement
+vanishes on v
+nearly singular problem
+linearized multigrid method
+reduced approximation property
+an exact coarsest
+schwarz inequality 3
+exact coarsest grid
+approximate magnitude of
+a full multigrid
+rayleigh quotient over
+to the eigenvalue
+any u 2
+an outer loop
+u 2 v
+new approximation u
+0 then compute
+of the rayleigh
+l 2 v
+decomposition according to
+the bilinear form
+the solution of
+smallest eigenvalue of
+b if l
+a if l
+2 v l
+the full multigrid
+eigenvalue problem 2
+follows a if
+for eigenvalue problems
+jj delta jj
+solution of the
+for the nearly
+together with 3
+to prove 3
+v k we
+assumption 3 1
+3 7 and
+w 2 v
+20 and 3
+multigrid methods for
+an initial approximation
+the shift is
+the multigrid algorithm
+the new approximation
+that the shift
+multigrid algorithm for
+convergence theory for
+the problem then
+of the multigrid
+3 20 and
+then perform the
+delta delta and
+under grant number
+l so that
+of 1 1
+3 7 3
+independent of h
+of h 0
+the theory developed
+strongly advised to
+let mg 0
+preserve the approximate
+full multigrid process
+to 3 14
+of rq u
+apply the theory
+and eigenvectors that
+for nearly singular
+let the possibly
+rayleigh quotient multigrid
+solution and error
+reader is strongly
+iteration type process
+uses multigrid as
+possibly multiple eigenvalues
+multigrid as an
+l new lmg
+solver let mg
+scalar 2 r
+l old and
+vary anywhere in
+attenuating error components
+2 smoothing step
+smallest eigenvalue for
+find 2 r
+linear v cycle
+l converges according
+or nearly singular
+converges according to
+such that remark
+given decomposition of
+full multigrid procedure
+coarse grid error
+error component in
+estimate new old
+l old is
+the estimate new
+bilinear form c
+singular linear equations
+from 3 74
+will analyze convergence
+2 5 belonging
+sense instead our
+a orthogonal projection
+usual sense instead
+instead our aim
+smoothing step in
+the eigenvector approximation
+multiple eigenvalues of
+approximation property there
+a linearized multigrid
+theory is first
+there exists 1
+develop a convergence
+0 6 such
+3 8 implies
+2 r find
+the residual functional
+exists 1 such
+l jjjp l
+u l so
+approximation property proof
+in v k
+left inequality follows
+3 70 holds
+the possibly multiple
+initial coarse grid
+its a orthogonal
+advised to keep
+with 2 8
+right inequality note
+are uniformly equivalent
+in v lis
+5 belonging to
+3 74 and
+the multigrid cycles
+old define the
+functional on v
+shift was assumed
+from 3 75
+inner loop solver
+the error component
+is strongly advised
+loop solver for
+an error decomposition
+to vary anywhere

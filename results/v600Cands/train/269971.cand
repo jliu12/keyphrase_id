@@ -1,0 +1,600 @@
+msed
+splitting
+sed
+cns
+irreducible
+reducible
+flow
+rc
+splits
+cnsh
+ucns
+node
+bison
+split
+dominator
+t2
+nodes
+instructions
+ons
+hecht
+graphs
+copied
+copies
+ilp
+t1
+heuristic
+controlled
+growth
+uncontrolled
+gs
+dominate
+dominates
+cn
+transformations
+blocks
+gawk
+label
+candidate
+irreducibility
+loops
+quantity
+fa
+nn
+graph
+9a
+gzip
+merging
+loop
+cg
+edges
+copy
+disambiguation
+successor
+235
+atof
+optimum
+immediate
+dj
+duplicate
+transformation
+bg
+subgraphs
+8b
+converted
+candidates
+predecessors
+instruction
+expand
+labels
+sa
+restrictions
+benchmarks
+duplicates
+dominators
+converting
+fb
+merge
+minimizing
+13b
+squeeze
+exploitation
+subgraph
+reachable
+inefficient
+13a
+impact
+converts
+superscalar
+scheduling
+compile
+convert
+prevent
+predecessor
+391
+big
+normalization
+8a
+quantities
+fulfill
+entering
+minimize
+compiler
+triggering
+code
+7a
+15858
+27291
+205073
+asps
+domina
+43116
+4441
+85824
+3695
+lzwd
+11588
+3501
+3823
+16514
+3484
+saga
+2961
+2169
+17489
+5195
+tta
+a68
+2692
+19689
+2273
+27884
+6631
+enormous
+dg
+merged
+procedures
+241
+ga
+acyclic
+210
+hanxleden
+1408
+2746
+6505
+hp735
+ducible
+1857
+sag
+4803
+4106
+1804
+fubo
+1554
+merges
+nesting
+repeatedly
+tables
+duplicated
+scope
+119
+duplication
+risc
+front
+guard
+alternated
+saem
+1197
+hammock
+fe
+edge
+incoming
+header
+deceptive
+1226
+jihong
+irre
+unger
+toplas
+freedom
+1328
+cocke
+2q
+mook
+architectures
+transport
+restriction
+hollander
+983
+80
+taming
+858
+programs
+minimizes
+researches
+reinhard
+754
+elimination
+1202
+disjoint
+accomplish
+node splitting
+flow graph
+msed sets
+msed set
+control flow
+sed set
+flow graphs
+irreducible control
+controlled node
+reducible control
+of splits
+code size
+of copies
+basic blocks
+irreducible flow
+an msed
+a node
+a reducible
+the msed
+an irreducible
+splitting of
+of nodes
+nodes that
+of copied
+of rc
+of node
+graph of
+copied instructions
+for splitting
+a flow
+splitting a
+s a
+split sequence
+an sed
+splitting nodes
+immediate dominator
+graph g
+irreducible graph
+q g
+of basic
+the graph
+candidate nodes
+reducible flow
+t2 transformations
+are elements
+splitting is
+graph is
+node that
+sed sets
+split sequences
+merging msed
+cns is
+merge msed
+splits needed
+single node
+initial node
+that splitting
+a graph
+is split
+these nodes
+flow analysis
+set rc
+g 1
+node s
+to reducible
+not merge
+resulting code
+splitting the
+a control
+node is
+the splitting
+loop set
+the sed
+uncontrolled node
+splitting cns
+two msed
+limit flow
+ucns cns
+splitting node
+rc node
+splitting with
+is reducible
+the flow
+all nodes
+heuristic is
+average growth
+possible split
+minimum number
+g 2
+node a
+in rc
+in basic
+the nodes
+and t2
+per procedure
+are element
+labels p
+splits is
+c d
+nodes of
+node n
+node b
+node v
+splitting are
+node u
+quantity of
+blocks or
+straightforward application
+0 0
+b c
+the impact
+basic block
+data flow
+label v
+figure 9a
+growth of
+ons ucns
+one msed
+hecht et
+other sed
+nodes node
+graph reducible
+235 5
+program bison
+total quantity
+0 gs
+sets splitting
+cns cnsh
+limit graph
+splitting sequence
+element of
+the optimum
+a c
+graphs are
+of figure
+memory disambiguation
+in code
+a b
+splitting in
+of irreducible
+irreducible loops
+same immediate
+1 controlled
+splitting these
+successor edges
+nodes does
+minimizing the
+converted to
+growth in
+fa bg
+total code
+dj graphs
+a rc
+fb cg
+or instructions
+and cn
+dominator of
+one node
+subgraph g
+the transformations
+node d
+that dominate
+splits to
+one split
+candidate node
+splitting can
+with heuristic
+is irreducible
+the node
+be split
+the control
+to minimize
+nodes is
+reduce an
+in merging
+rc the
+a s
+a heuristic
+13 6
+splitting to
+back edges
+the heuristic
+back end
+graph that
+copies the
+an element
+two flow
+nodes a
+algorithm 4
+graph with
+graph in
+elements of
+by splitting
+the split
+candidates for
+the quantity
+definition 2
+figure 8b
+b cg
+the transformation
+control flow graph
+irreducible control flow
+controlled node splitting
+number of splits
+reducible control flow
+a flow graph
+an msed set
+flow graph of
+control flow graphs
+of node splitting
+irreducible flow graphs
+number of copied
+nodes that are
+of basic blocks
+splitting a node
+amount of copies
+of copied instructions
+number of copies
+flow graph is
+graph of nodes
+initial node s
+an sed set
+resulting code size
+an irreducible control
+a reducible control
+a control flow
+s a c
+that are elements
+splitting nodes that
+graph of basic
+the msed sets
+node splitting is
+elements of rc
+an irreducible graph
+are elements of
+s a b
+node that is
+the flow graph
+splitting of nodes
+a single node
+a node that
+the set rc
+merging msed sets
+msed sets are
+node splitting with
+merge msed sets
+not merge msed
+application of node
+in an msed
+the splitting of
+the initial node
+graph of figure
+flow graphs are
+of nodes that
+the control flow
+number of nodes
+the graph of
+in basic blocks
+basic blocks or
+that are element
+node splitting the
+node splitting are
+of candidate nodes
+of an msed
+of an sed
+are element of
+to a reducible
+candidates for splitting
+node splitting cns
+node for splitting
+uncontrolled node splitting
+limit flow graph
+average growth in
+do not merge
+two msed sets
+element of rc
+the msed set
+the code size
+minimum number of
+of copies the
+the average growth
+at the back
+data flow analysis
+graph g 1
+in code size
+the number of
+flow graph and
+a b c
+code size of
+flow graph g
+not in an
+minimizing the amount
+straightforward application of
+a minimum number
+a s a
+an element of
+reducible flow graph
+ons ucns cns
+prevent the splitting
+and t2 transformations
+graph is reducible
+msed set and
+in an sed
+ucns cns cnsh
+one msed set
+sed set s
+node b is
+node splitting to
+successor edges of
+a rc node
+splits needed to
+possible split sequences
+same immediate dominator
+copied instructions is
+growth in code
+to reducible control
+hecht et al
+not in rc
+nodes that dominate
+a loop set
+loop set l
+1 controlled node
+two flow graphs
+splitting with heuristic
+in merging msed
+msed sets splitting
+a reducible flow
+node splitting can
+splitting of node
+node splitting in
+converted to reducible
+prove that splitting
+msed sets the
+the limit flow
+into a reducible
+for node splitting
+0 0 gs
+of splits needed
+blocks or instructions
+a c d
+s a s
+graph g 2
+a straightforward application
+of a graph
+edges of node
+flow graphs the
+c s a
+nodes does not
+the same immediate
+c d s
+that splitting a
+node is split
+reducible flow graphs
+immediate dominator of
+make a graph
+4 1 controlled
+with the heuristic
+a q g
+of splits is
+the immediate dominator
+total code size
+to the optimum
+number of basic
+the back end
+the total code
+quantity of the
+set in figure
+to reduce an
+is split in
+a graph g
+the resulting code
+a node is
+to a flow
+flow graph can
+flow graphs is
+node s of
+in figure 9a
+the nodes a
+basic blocks is
+a heuristic is
+sets are disjoint
+splitting of a
+set of candidate
+the impact on
+to minimize the
+code size is
+must be split
+growth of the
+are not in
+in a minimum
+flow graph to
+f s a
+fa b cg
+g 1 and
+computation time to
+transformations are applied
+flow graph in
+node n 2
+t1 and t2
+are given in

@@ -1,0 +1,600 @@
+stis
+sizing
+posynomial
+transistor
+wire
+rd0
+wiresizing
+ch
+transistors
+dominance
+resistance
+interconnect
+delay
+cdws
+eqn
+gate
+lr
+capacitance
+driver
+refinement
+st
+wires
+simultaneous
+sbws
+dcc
+rc
+drivers
+slope
+interconnects
+elmore
+owbr
+designs
+dp
+buffer
+width
+uni
+nets
+cmos
+lra
+coefficient
+submicron
+insertion
+tight
+chu
+lagrangian
+layout
+lei
+clock
+cong
+formulation
+circuit
+wong
+mos
+koh
+kok
+trade
+widths
+adder
+1x
+59304
+16bit
+simulataneous
+inverter
+segment
+buffered
+32bit
+sdws
+jason
+rd
+reveal
+stage
+cascade
+buffers
+relaxation
+ns
+adders
+2x
+bounds
+device
+routing
+chris
+1026
+clk
+loading
+gates
+dominated
+hspice
+zhigang
+deep
+optimization
+1997
+mcnc
+enumeration
+finished
+optimizes
+transceiver
+effective
+bundled
+jose
+aided
+driven
+478
+coefficients
+monotonically
+drain
+erty
+area
+criticality
+mw
+steiner
+timing
+dc
+transition
+1998
+united
+california
+penalty
+pan
+dominates
+polynomial
+cheng
+120
+367
+segments
+dissipation
+net4
+optimizationunder
+2016
+cd1
+appicaltions
+cg0
+192570
+bqj
+psoynomial
+10070
+scmos
+179800
+19242
+9035
+cs1
+7mchip
+63x
+dccs
+3222
+dclk
+synthesismyampersandmdash
+11934
+23967
+icantly
+net5
+cd0
+28046
+8773
+20mhz
+posynomials
+cg1
+227661
+delays
+greedy
+seconds
+cd
+achieves
+cl
+prop
+8bit
+4320
+gwsa
+tilos
+net3
+cs0
+3240
+net2
+fbi
+net1
+100x
+suboptimal
+sources
+supportedby
+1578
+bpsk
+fringing
+compari
+9357582
+programs
+minimize
+power
+monterey
+08
+named
+circuits
+kei
+csto
+vdd
+signif
+063
+sizes
+runtime
+off
+madden
+resis
+ch posynomial
+the stis
+and wire
+wire sizing
+dominance property
+stis algorithm
+effective resistance
+local refinement
+unit effective
+lr tight
+the transistor
+stis problem
+posynomial programs
+the dominance
+transistor sizing
+sizing problem
+transistor and
+posynomial program
+refinement operation
+lower and
+and upper
+coefficient functions
+slope model
+transistors and
+a transistor
+general ch
+upper bounds
+stis problems
+resistance rd0
+tight lower
+simple ch
+dp slope
+our stis
+sizing for
+simultaneous driver
+delay model
+and wires
+step model
+st st
+delay trade
+simultaneous buffer
+eqn 15
+and interconnect
+gate sizing
+driver and
+interconnect sizing
+the simultaneous
+are ch
+chu d
+each transistor
+a ch
+optimal stis
+every transistor
+optimal wiresizing
+transition time
+the optimal
+buffer insertion
+width for
+the unit
+all transistors
+wiresizing problem
+identical lower
+n chu
+the lr
+simultaneous transistor
+optimal solution
+area delay
+the sizing
+rd0 is
+uni segments
+uni segment
+sizing solution
+cdws stis
+rd0 for
+sizing formulation
+a dcc
+lagrangian relaxation
+elmore delay
+property for
+input transition
+f wong
+chris c
+transistor is
+optimal width
+sizing and
+buffer and
+rc interconnect
+performance driven
+design p
+trade off
+the gate
+m i
+of x
+interconnect design
+wire segment
+finished in
+the step
+lei he
+distributed rc
+maximum delay
+critical paths
+the elmore
+of transistors
+rd0 of
+stis cdws
+the cdws
+1x driver
+transistor size
+dc current
+clock nets
+cdws method
+transistor in
+for transistors
+drivers buffers
+lra algorithm
+weight penalty
+all ch
+for transistor
+problem under
+deep submicron
+jason cong
+in eqn
+problems under
+performance optimization
+power optimization
+bounds are
+be finished
+multiple critical
+source wiresizing
+sizing proceedings
+source nets
+long wire
+wiresizing algorithm
+f st
+the owbr
+states chris
+owbr algorithm
+stis formulation
+algorithm optimizes
+general dominance
+california united
+authors of
+the coefficient
+transistors in
+refinement operations
+optimal wire
+stage number
+submicron designs
+wiresizing for
+sizing in
+refinement based
+dimensional table
+interconnects with
+cong lei
+and power
+multiple sources
+gate and
+for interconnects
+m long
+the sizes
+f x
+programs and
+a circuit
+or upper
+a dp
+and reveal
+wire the
+interconnects and
+near optimal
+insertion and
+polynomial time
+the 1997
+closed form
+each wire
+the dp
+sequential quadratic
+kok koh
+a uni
+rc tree
+cheng kok
+the delay
+for performance
+the width
+x i
+m cmos
+to simultaneous
+lower or
+in deep
+programming approach
+multi source
+d f
+bounds of
+stage which
+delay models
+i time
+dominated by
+physical design
+solution x
+rd and
+original designs
+and wire sizing
+the dominance property
+unit effective resistance
+the unit effective
+ch posynomial programs
+and upper bounds
+the stis algorithm
+ch posynomial program
+lr tight lower
+lower and upper
+local refinement operation
+general ch posynomial
+dominance property for
+the stis problem
+effective resistance rd0
+tight lower and
+the transistor sizing
+dp slope model
+the local refinement
+delay trade off
+wire sizing for
+buffer and wire
+area delay trade
+the lr tight
+transistors and wires
+the step model
+simple ch posynomial
+posynomial programs and
+driver and wire
+the optimal solution
+the coefficient functions
+simultaneous driver and
+stis problem under
+stis algorithm to
+a general ch
+transistor sizing problem
+chu d f
+n chu d
+a ch posynomial
+a simple ch
+are ch posynomial
+c n chu
+identical lower and
+dominated by x
+input transition time
+upper bounds are
+wire sizing problem
+simultaneous transistor and
+transistor and interconnect
+of a transistor
+that the stis
+posynomial program with
+finished in o
+the stis problems
+models are ch
+stis problems under
+transistor and wire
+sizing solution x
+resistance rd0 for
+d f wong
+a local refinement
+the optimal width
+increase of x
+optimal width for
+can be finished
+simultaneous buffer insertion
+chris c n
+the simultaneous driver
+the maximum delay
+width for each
+be finished in
+the input transition
+and interconnect sizing
+st st st
+gate and wire
+and power optimization
+sizing for performance
+model is a
+the elmore delay
+with multiple sources
+performance and power
+every transistor and
+for all ch
+solve the simultaneous
+for the transistor
+the effective resistance
+a uni segment
+refinement of x
+or upper bound
+all ch posynomial
+for each transistor
+of all transistors
+m long wire
+all transistors and
+the dp slope
+of transistors and
+each transistor and
+under the step
+the transistor is
+cdws stis cdws
+reveal the dominance
+use the stis
+slope model is
+optimal stis algorithm
+states chris c
+m i time
+for transistor sizing
+the cdws method
+a dp slope
+the sizing solution
+our stis algorithm
+near optimal stis
+sizing problem for
+stis cdws stis
+for performance and
+class of optimization
+california united states
+the width for
+problems under a
+multiple critical paths
+source wiresizing problem
+united states chris
+local refinement operations
+to the transistor
+the owbr algorithm
+wire sizing proceedings
+the simultaneous buffer
+o m i
+on the dominance
+of the stis
+sizing proceedings of
+upper bounds of
+to an increase
+deep submicron designs
+jason cong lei
+for interconnects with
+cong lei he
+interconnects with multiple
+local refinement of
+each wire segment
+optimal wiresizing for
+lower or upper
+wiresizing for interconnects
+simultaneous buffer and
+of x i
+of optimization problems
+in deep submicron
+the sizes for
+under a number
+delay models are
+an increase of
+of the 1997
+function of x
+that the unit
+set of lower
+elmore delay model
+jose california united
+the lower and
+respect to an
+sequential quadratic programming
+problem to minimize
+cheng kok koh
+and the unit
+property for all
+the authors of
+aided design p
+physical design p
+on physical design
+1997 ieee acm
+symposium on physical
+13 1997 san
+we point out
+the 1997 ieee
+independent of x
+in a circuit
+programming approach to
+on computer aided
+san jose california
+1997 san jose
+decreases with respect
+a transistor or
+stis problem we
+runtime drivers m
+resistance rd and
+gate capacitance of
+transistor sizing formulation
+of 4 cascade
+area trade off
+based wiresizing algorithm
+any optimization problem
+rd and the
+dominance property holds
+solve the transistor
+three dimensional table
+to any optimization
+the sizing procedure
+sizing problem is
+f st st
+solved the simultaneous
+refinement operations beginning

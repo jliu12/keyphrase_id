@@ -1,0 +1,600 @@
+scrambling
+query
+runnable
+scrambled
+joins
+tuples
+plan
+blocked
+join
+unavailable
+plans
+operators
+subtree
+unscrambled
+response
+materialized
+phase
+queue
+iterator
+remote
+selectivity
+joinable
+relations
+delay
+materialization
+selectivities
+sources
+hash
+iteration
+delayed
+optimizer
+000
+delays
+queues
+operator
+site
+arrive
+materializations
+materializing
+c1d
+seconds
+joined
+volcano
+begun
+disk
+materializes
+x2
+ancestors
+mermaid
+discovered
+tree
+unexpected
+unavailability
+maximal
+grey
+relation
+materialize
+initiated
+amsaleg
+simulator
+arrival
+congestion
+consume
+subtrees
+x3
+consumer
+variability
+execution
+sigmod
+arrived
+scheduling
+partitioning
+experiment
+partitioned
+database
+databases
+charges
+unblocked
+hab
+a1b
+gra93
+paques
+dskpagesize
+fjk96
+netbw
+numdisks
+trv96
+c1d1e
+netpagesize
+leftmost
+hide
+arriving
+80
+calton
+gruser
+raschid
+louiqa
+haridas
+costly
+heterogeneous
+instr
+requested
+created
+unary
+terminates
+iterations
+henrique
+vms
+rdb
+jaidev
+costs
+sensitivity
+os
+ooi
+client
+ongoing
+invoked
+bursty
+laurent
+disco
+reordering
+imposes
+tomasic
+creates
+queries
+optimization
+e2
+bushy
+nected
+beng
+complimentary
+shipping
+multidatabase
+rooted
+checks
+consumed
+schedule
+sites
+memory
+synthesizes
+initiates
+stops
+scan
+overhead
+requesting
+hd
+negate
+pu
+hc
+cartesian
+hou
+sec
+franklin
+resumed
+decisions
+attribute
+width
+scenario
+qiang
+vladimir
+record
+dashed
+iterates
+topmost
+alon
+benefits
+phases
+iteratively
+entirely
+slower
+sensor
+create
+cope
+bytes
+creation
+inputs
+producer
+switches
+peer
+tradeoffs
+runtime
+varying
+beneficial
+caching
+inserted
+hides
+partitions
+discovers
+statically
+contention
+ling
+pipelined
+oper
+217
+ant93
+xprs
+gx3
+pratik
+sd90
+goraczko
+query plan
+phase 2
+runnable subtree
+the query
+phase 1
+query tree
+scrambled query
+response time
+the runnable
+the scrambled
+plan scrambling
+query execution
+scrambling algorithm
+maximal runnable
+scrambling is
+the scrambling
+query plans
+query optimization
+tuples of
+runnable queue
+query scrambling
+new joins
+during phase
+query processing
+the response
+new join
+unscrambled query
+runnable operators
+of phase
+the tuples
+000 tuples
+the unscrambled
+scrambled plans
+and runnable
+of scrambling
+data sources
+the joins
+to arrive
+blocked operators
+iterator based
+relation a
+the blocked
+relation b
+queue of
+remote sources
+000 10
+of scrambled
+dynamic query
+response times
+remote data
+original query
+10 000
+unavailable relation
+a runnable
+tuples from
+another iteration
+large memory
+the selectivity
+blocked queue
+runnable and
+of runnable
+discovered to
+the operators
+from remote
+is discovered
+of blocked
+be unavailable
+blocked queues
+scrambled plan
+partitioned before
+unexpected delays
+query start
+selectivity of
+query optimizer
+each iteration
+blocked and
+delay of
+new operators
+third iteration
+the delay
+more tuples
+memory case
+relations are
+wide area
+of tuples
+and blocked
+delays in
+a query
+materialization of
+execution site
+the materialization
+the algorithm
+1 000
+at query
+of query
+be partitioned
+unavailable data
+scrambling can
+scrambling in
+initial requested
+created joins
+requested tuples
+selected tuples
+grey line
+runnable queues
+normal iterator
+execution plans
+begun to
+previous experiment
+the join
+ancestors of
+base relation
+the execution
+this iteration
+are blocked
+of relations
+joins in
+small memory
+the simulator
+relation is
+of operators
+delayed data
+at operator
+80 10
+first join
+to phase
+up time
+an iterator
+initial delays
+operators are
+delay for
+end of
+useful work
+of relation
+subtree is
+a have
+query is
+is initiated
+is materialized
+joins that
+relation g
+join is
+line in
+and build
+delays by
+plans that
+the materialized
+iteration of
+time of
+execution of
+the end
+distributed query
+by phase
+the ancestors
+unavailable this
+memory varying
+remote source
+scrambling if
+not scrambling
+of c1d
+build hash
+iterator model
+x3 is
+static query
+scrambling and
+expensive joins
+various delays
+different selectivities
+then scrambling
+call query
+runnable sub
+in receiving
+an unavailable
+join created
+d e2
+requesting tuples
+join attribute
+joinable relations
+instr to
+based scheduling
+and x2
+i os
+start up
+record v
+in query
+for query
+sigmod record
+hash table
+scheduling of
+iteration is
+costs of
+queue and
+have begun
+iteration then
+the figure
+distributed sources
+delay sec
+joins it
+initial exploration
+03 seconds
+query plan scrambling
+scrambled query plans
+the runnable queue
+maximal runnable subtree
+the query tree
+the response time
+of the query
+the scrambling algorithm
+response time of
+the tuples of
+tuples of a
+the scrambled query
+remote data sources
+the query plan
+of phase 2
+of the scrambled
+the unscrambled query
+blocked and runnable
+during phase 1
+to be partitioned
+000 10 000
+discovered to be
+delay of a
+10 000 10
+queue of blocked
+of blocked operators
+queue of runnable
+scheduling of operators
+runnable and blocked
+the query execution
+to be unavailable
+of phase 1
+the original query
+is discovered to
+dynamic query optimization
+the selectivity of
+the blocked queue
+begun to arrive
+at the query
+a runnable subtree
+runnable subtree is
+the scrambled plan
+a maximal runnable
+another iteration is
+be partitioned before
+the runnable and
+query execution site
+of the unscrambled
+of runnable operators
+and blocked queues
+1 000 tuples
+iterator based scheduling
+plan scrambling is
+query start up
+partitioned before being
+number of tuples
+during phase 2
+response times of
+the end of
+at the end
+joins in the
+the materialization of
+the delay of
+the previous experiment
+delay for a
+scrambled query plan
+initial requested tuples
+of scrambled query
+runnable queue is
+f and x2
+times of scrambled
+benefits of scrambling
+normal iterator based
+rooted at operator
+iteration of phase
+query execution plans
+requested tuples from
+based scheduling of
+from remote sources
+original query plan
+and runnable queues
+of query plan
+of a runnable
+the queue of
+the memory is
+start up time
+selectivity of the
+from remote data
+the first join
+by phase 2
+relation a is
+the query optimizer
+phase 1 then
+shows the response
+10 000 tuples
+the execution of
+a queue of
+iteration is initiated
+to phase 2
+time of the
+phase 2 is
+the blocked and
+a query tree
+the ancestors of
+in phase 2
+in the query
+response time for
+that the tuples
+ancestors of the
+all the operators
+the third iteration
+when the memory
+of a have
+have begun to
+in the figure
+sigmod record v
+the operators of
+of relation a
+of new joins
+from the blocked
+tuples of relation
+1 then terminates
+an iterator based
+in receiving the
+all the ancestors
+the scrambled plans
+result of c1d
+for the scrambled
+switches to phase
+phase 2 starts
+before being joined
+then terminates and
+scrambling algorithm is
+runnable sub tree
+selected tuples of
+tuples from remote
+joins it creates
+the new join
+sensitivity of phase
+an initial exploration
+runnable subtree to
+memory is large
+initial delays in
+a is delayed
+query plans that
+d e2 i
+and runnable operators
+the unavailable relation
+of scrambled plans
+build hash table
+80 10 seconds
+and build hash
+response time problems
+the initial requested
+a have still
+of the scrambling
+receiving the initial
+phase 2 may
+times more tuples
+in the runnable
+delayed data has
+scrambling can be
+blocked queue and
+requesting tuples from
+the query scrambling
+large memory case
+first join created
+e2 i g
+can not consume
+a new join
+enters phase 2
+the query source
+scrambled query is
+plan scrambling in
+at query start
+acm sigmod record
+phase 2 the
+the arrival of
+the delay for
+that phase 2
+adaptive query processing
+phase 1 only
+query optimization and
+materialization of the
+optimization and execution
+distributed query processing
+wide area environment
+all the joins
+phase 2 which
+the joins in
+line in the
+the figure the
+the costs of
+for query optimization
+a base relation
+phase 1 in
+of the joins
+algorithm updates the
+the remote site
+other useful work
