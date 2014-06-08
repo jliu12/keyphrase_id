@@ -1,0 +1,600 @@
+krylov
+exp4
+stiff
+jacobian
+rosenbrock
+differential
+exponential
+integrators
+kutta
+runge
+flha
+hm
+odinger
+integrator
+schr
+nonstiff
+wanner
+brusselator
+singularly
+reaction
+ode45
+tuebingen
+jk
+subspace
+diffusion
+eigenvalues
+multiplications
+matlab
+flops
+approximations
+perturbed
+ode
+kl
+ode15s
+lanczos
+equations
+inexact
+euler
+chebyshev
+radau5
+oscillatory
+numerical
+algebraic
+weiner
+exponentials
+mth
+evaluations
+parabolic
+integration
+na
+matrix
+recurrence
+mathematics
+hermitian
+physics
+uni
+differentials
+atol
+rtol
+jflha
+flhh
+flhb
+podhaisky
+arnoldi
+favorable
+nonlinear
+robertson
+preconditioner
+wensch
+dormand
+marlis
+expokit
+approximated
+electric
+ftp
+prince
+ubingen
+stability
+fl
+embedded
+jl
+pub
+coefficient
+tolerances
+stage
+hamiltonian
+suite
+approximation
+exactness
+mathworks
+damp
+schmitt
+autonomous
+quantum
+exp
+tilde
+exact
+norm
+residual
+ff
+elementary
+inhomogeneity
+xia
+daes
+gammak
+frequencies
+imaginary
+mildly
+cheap
+directory
+polynomials
+gammaf
+coefficients
+laplacian
+stable
+invertible
+discretization
+gammaz
+jacobians
+wave
+gamma1
+saad
+fig
+err
+jrg
+gammag
+recurrences
+der
+discretized
+ordinary
+000
+stopping
+fulfill
+operator
+savings
+implicit
+pdes
+perspectives
+iflha
+houwen
+minimizex
+jflhh
+lintner
+flhg
+reappearance
+eigendirections
+elasto
+250ff
+drastical
+jackiewicz
+248ff
+cobian
+sommeijer
+aaf
+hkak
+48g
+disguises
+550ff
+funfun
+diag
+tridiagonal
+severe
+216
+chemical
+dimension
+323
+sides
+fifth
+lipschitz
+leja
+eigenstate
+skaflestad
+krogstad
+tokman
+botchev
+syvert
+morgenstelle
+kry
+nrsett
+sidje
+orel
+vianello
+gamma80
+harutyunyan
+viscoelasticity
+steifer
+flh
+koikari
+biscay
+caliari
+propagators
+verallgemeinerte
+celledoni
+hvard
+mol
+expint
+schrdinger
+berland
+iserles
+arieh
+order conditions
+the krylov
+exponential methods
+step size
+exact for
+krylov process
+differential equations
+the exponential
+runge kutta
+differential algebraic
+the jacobian
+order 3
+rosenbrock methods
+krylov approximations
+of order
+schr odinger
+matrix exponential
+krylov subspace
+for linear
+linear differential
+exponential operator
+exponential euler
+w methods
+singularly perturbed
+the step
+for exponential
+exponential method
+krylov approximation
+ff jk
+f f
+for rosenbrock
+exponential integrators
+subspace approximations
+order 4
+equations 1
+vector multiplications
+inexact jacobian
+ode suite
+code exp4
+matlab ode
+the method
+z g
+g z
+0 f
+for differential
+stage method
+euler method
+method 3
+uni tuebingen
+na uni
+rosenbrock wanner
+odinger equation
+tuebingen de
+explicit runge
+order 2
+with krylov
+approximations to
+5 8
+are exact
+kutta methods
+the scheme
+algebraic equations
+matrix vector
+to order
+jk ff
+wanner methods
+fi kl
+exp4 is
+multiplications with
+for stiff
+is exact
+stiff problems
+f 0
+reaction diffusion
+flha v
+the matrix
+method 5
+perturbed problems
+scheme 5
+in norm
+y 0
+f y
+function evaluations
+mathematics v
+gamma1 z
+hm is
+conditions for
+k l
+numerical experiments
+linear systems
+local error
+fig 7
+size control
+stiff systems
+the matlab
+diffusion problems
+jacobian is
+with inexact
+approximation to
+oscillatory electric
+integrator ode45
+the robertson
+for exp4
+stiff problem
+methods up
+electric circuits
+brusselator for
+ff jl
+odinger equations
+of flha
+embedded methods
+work precision
+flops fig
+exp4 error
+continuous numerical
+reduced methods
+error flops
+stiff integrators
+r weiner
+mth krylov
+of exp4
+krylov methods
+high frequencies
+of computational
+time step
+12 p
+integration of
+linear problems
+order methods
+has large
+numerical mathematics
+a v
+applied numerical
+computational work
+step w
+suite 28
+large imaginary
+exponential integrator
+large stiff
+embedded method
+reaction terms
+whose jacobian
+l ff
+methods for
+the mth
+000 f
+elementary differentials
+matrix exponentials
+jacobian has
+physics v
+the eigenvalues
+eigenvalues of
+computational physics
+the methods
+g gamma1
+third order
+f 000
+exponential of
+recursively from
+methods proposed
+size h
+fourth order
+and exact
+jacobian and
+jacobian in
+implicit methods
+by krylov
+use matrix
+imaginary eigenvalues
+order condition
+of stiff
+consecutive steps
+of hm
+g y
+the computational
+methods which
+ordinary differential
+1 3
+krylov space
+nonlinear differential
+used with
+method is
+of differential
+fifth order
+for f
+second order
+to differential
+3 stage
+the arnoldi
+methods is
+constant coefficient
+problems e
+systems of
+two step
+methods are
+equations whose
+kutta method
+table 3
+solution of
+methods of
+exact for linear
+the krylov process
+differential equations 1
+the step size
+for linear differential
+f 0 f
+the matrix exponential
+linear differential equations
+of order 3
+the order conditions
+matrix exponential operator
+the exponential euler
+exponential euler method
+1 3 3
+order conditions for
+matrix vector multiplications
+krylov subspace approximations
+method 3 1
+is exact for
+3 1 3
+of the krylov
+scheme 5 8
+the matlab ode
+matlab ode suite
+differential algebraic equations
+are exact for
+up to order
+is of order
+for rosenbrock methods
+explicit runge kutta
+uni tuebingen de
+na uni tuebingen
+the scheme 5
+schr odinger equation
+equations 1 2
+of order 2
+vector multiplications with
+subspace approximations to
+table 3 1
+runge kutta methods
+order 3 for
+ff jk ff
+l ff jk
+z g y
+g gamma1 z
+for exponential methods
+conditions of table
+used with inexact
+rosenbrock wanner methods
+order conditions of
+with inexact jacobian
+of the exponential
+of the jacobian
+journal of computational
+k l ff
+f y 0
+krylov approximations to
+and exact for
+step size control
+singularly perturbed problems
+method is exact
+the exponential methods
+the local error
+multiplications with the
+f f f
+for the krylov
+method is of
+for differential algebraic
+0 f 0
+equations 1 1
+step size h
+approximations to the
+the computational work
+use matrix vector
+error flops fig
+continuous numerical solution
+exp4 error flops
+exact for 1
+oscillatory electric circuits
+the krylov approximation
+inexact jacobian and
+step w methods
+large imaginary eigenvalues
+flops fig 7
+ode suite 28
+condition 4 6
+exponential methods are
+jk ff jl
+methods up to
+the method 5
+z g gamma1
+two step w
+3 for differential
+0 f f
+a continuous numerical
+order 3 when
+the mth krylov
+as for rosenbrock
+schr odinger equations
+whose jacobian has
+suite 28 which
+has large imaginary
+jacobian has large
+numerical mathematics v
+applied numerical mathematics
+when used with
+the third order
+step size is
+to the matrix
+the eigenvalues of
+3 3 with
+for 1 2
+the linear problem
+methods for stiff
+for exponential integrators
+method 2 1
+of large stiff
+reaction diffusion problems
+to differential algebraic
+the method 3
+differential equations whose
+of the mth
+methods of order
+with krylov approximations
+large stiff systems
+method 5 8
+integration of large
+to order 3
+f 000 f
+that are exact
+computational physics v
+of computational physics
+the exponential of
+method of order
+which are exact
+from the matlab
+two consecutive steps
+euler method 2
+see 12 p
+the differential algebraic
+of differential equations
+an approximation to
+method 4 3
+p n gamma1
+the jacobian in
+fig 7 4
+the jacobian is
+of table 3
+for differential equations
+fig 7 5
+for linear problems
+of order 4
+stiff systems of
+f f and
+small in norm
+ordinary differential equations
+nonlinear differential equations
+kutta methods for
+5 8 the
+problems e g
+large systems of
+the method is
+runge kutta method
+in our numerical
+same as for
+krylov step size
+computed recursively from
+standard stiff integrators
+a w method
+exponential method for
+two embedded methods
+equations schr odinger
+runge kutta chebyshev
+computation of hm
+for exp4 error
+wave equations schr
+either damp high
+from na uni
+o h close
+together with neumann
+order 4 which
+tolerances atol rtol
+well approximated in
+equations whose jacobian
+approximated by krylov
+mth krylov subspace
+by the krylov
+nonstiff to a
+when the approximation
+using krylov approximations
+than f y
+recurrence 5 1
+version of exp4
+a stiff problem
+smaller in norm
+gammag z g
+letting ffl 0
+i i gammaf
+h close to
+of krylov steps

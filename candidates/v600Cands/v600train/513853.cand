@@ -1,0 +1,270 @@
+banks
+register
+dsp56000
+bank
+srg
+asips
+r5
+registers
+y0
+mst
+r0
+r2
+spam
+vsr
+instruction
+x0
+uncompacted
+r4
+move
+live
+mac
+assignment
+coloring
+r3
+alu
+y1
+memory
+r1
+allocation
+compiler
+compacted
+color
+gpps
+spanning
+optimized
+compilation
+x1
+dual
+decoupled
+asip
+r6
+mov
+agu
+gsr
+reg
+code
+colored
+splitting
+temporaries
+mpy
+instructions
+compaction
+operand
+heterogeneous
+dsp
+merging
+r10
+word
+motorola
+processors
+ranges
+least_mean_square
+adapt_predict_1
+regk
+tone_detector_1
+msts
+mpya
+scale_factor_1
+adapt_quant
+iadpt_quant
+complex_multiply
+iir_biquad_n_sections
+speed_control_2
+l10
+matrix_multiply_1
+coupled
+benchmarks
+r7
+embedded
+d2
+phases
+operands
+compilers
+targeting
+referenced
+retargetable
+allocated
+name
+uncolored
+temporary
+memory banks
+memory bank
+bank assignment
+register class
+parallel move
+name splitting
+register classes
+dual memory
+code generation
+move x
+graph coloring
+data memory
+live ranges
+the srg
+register assignment
+y memory
+the dsp56000
+multi memory
+hand optimized
+in vsr
+the code
+optimized code
+a mst
+x0 y
+uncompacted code
+r2 x
+the register
+register allocation
+code size
+class allocation
+heterogeneous registers
+simultaneous reference
+spanning tree
+mac r3
+move high
+mac r0
+e r4
+y0 a
+the uncompacted
+f r5
+maximum spanning
+non orthogonal
+physical registers
+our compiler
+live range
+coupled approach
+banks as
+r0 r1
+banks in
+dual data
+and merging
+instruction selection
+c r2
+data alu
+banks x
+address alu
+spam code
+compacted code
+splitting and
+signal processors
+x0 y0
+r4 r5
+code compaction
+registers are
+r3 r4
+to memory
+register architecture
+x r1
+generation phases
+color v
+d r3
+generation for
+for embedded
+compilation times
+digital signal
+coloring algorithm
+y b
+assigned to
+of compilation
+for register
+y colored
+each temporary
+our decoupled
+reference graph
+r5 mac
+r5 low
+vsr of
+motorola dsp56000
+r5 y
+of gsr
+memory bank assignment
+data memory banks
+name splitting and
+to memory banks
+memory banks in
+a parallel move
+register class allocation
+splitting and merging
+the register class
+r0 r1 r2
+maximum spanning tree
+x0 y0 a
+the uncompacted code
+dual memory banks
+mac r0 r1
+mac r3 r4
+memory banks as
+code generation for
+dual data memory
+hand optimized code
+r3 r4 r5
+graph coloring algorithm
+of the dsp56000
+and memory bank
+our memory bank
+y0 a x
+digital signal processors
+heterogeneous registers and
+code generation phases
+bank assignment for
+different memory banks
+in the code
+code in figure
+we can see
+multi memory bank
+x a x0
+nodes in vsr
+banks x and
+the memory bank
+in vsr of
+b r1 move
+y b y0
+color v with
+a x0 y
+f r5 mac
+memory banks x
+simultaneous reference graph
+the parallel move
+x0 y b
+multi memory banks
+bank assignment algorithm
+r5 mac r3
+two data memory
+each live range
+the register classes
+register classes for
+is mainly because
+variables to memory
+register allocation and
+x and y
+in the register
+physical registers are
+graph coloring approach
+live ranges of
+a spanning tree
+in code generation
+the code in
+x1 y d
+after register assignment
+v move high
+x1 y1 a
+d r3 mac
+compiler optimized code
+parallel move conditions
+d y1 add
+uncolored node v
+add r2 r6
+over the uncompacted
+y r4 y0
+registers and multi
+banks in this
+adapt_predict_1 iadpt_quant scale_factor_1
+c r6 add
+least_mean_square matrix_multiply_1 adapt_quant
+y d y1
+a x r1
+memory banks which
+iadpt_quant scale_factor_1 speed_control_2
+e r8 move
+adapt_quant adapt_predict_1 iadpt_quant

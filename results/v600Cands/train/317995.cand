@@ -1,0 +1,600 @@
+disk
+period
+vbr
+streams
+cbr
+gss
+buffer
+rr
+starvation
+scan
+stream
+admission
+seek
+playback
+bandwidth
+dv
+serviced
+multimedia
+scheduling
+overflow
+edf
+accepted
+sv
+media
+wars
+frames
+rc
+vod
+latency
+video
+qos
+server
+spare
+slot
+resources
+cylinders
+reserved
+periods
+acceptancetest
+service
+reserve
+nightmare
+pessimistic
+clients
+throughput
+deadline
+sweeping
+disks
+schemes
+head
+rate
+static
+star
+utilization
+eriod
+accepts
+accept
+crossed
+reservation
+robin
+wasted
+resource
+nod
+schedulable
+retrieval
+servers
+round
+active
+storage
+deadlines
+underestimated
+st
+unschedulable
+grouped
+max
+requests
+kbps
+groups
+continuous
+allocation
+frame
+contiguous
+min
+striping
+configuring
+lumped
+disc
+ms
+read
+display
+red
+probability
+mpeg
+earliest
+demand
+cylinder
+maximizing
+rotational
+peak
+st41650n
+acceptnewstream
+kiessling
+layback
+tperiod
+cinstead
+201st
+scan00000000000000000111111111111111110000111100001111
+multime
+hiccup
+500th
+152535
+subsystems
+maximize
+approximated
+zone
+client
+waste
+news
+blocks
+jsj
+trace
+skewness
+wren
+request
+prefetching
+varies
+ftp
+leftover
+zimmermann
+16m
+divide
+played
+slots
+yeom
+dilip
+wastage
+optimistic
+accepting
+working
+offs
+overhead
+modeling
+kandlur
+heon
+seagate
+retrieved
+latencies
+tmin
+conducted
+calculation
+drive
+policy
+mechanisms
+million
+worst
+tmax
+consumption
+mechanism
+0100
+670
+characteristics
+tight
+utilizations
+poor
+summation
+dia
+effectively
+statistical
+reorganization
+movement
+equidistant
+striped
+policies
+compression
+simulation
+employs
+acts
+kwon
+management
+shortening
+inevitable
+kun
+videos
+group
+cyclic
+mon
+retry
+intelligent
+reserves
+interleave
+mbps
+periodic
+changed
+positions
+reads
+vastly
+distances
+shorter
+readings
+unreasonable
+disk bandwidth
+period length
+buffer space
+data rate
+dynamic period
+admission control
+cbr scheme
+static period
+active streams
+one seek
+vbr scheme
+vbr schemes
+new stream
+time period
+the seek
+t i
+t min
+vbr data
+the buffer
+the cbr
+accepted streams
+t max
+the disk
+playback data
+cbr data
+seek time
+media server
+the period
+next period
+and disk
+scan and
+starvation or
+starvation probability
+rr scheme
+the scan
+rc i
+and gss
+of period
+disk scheduling
+streams are
+frames in
+star wars
+get t
+be accepted
+disk head
+in rr
+pessimistic approach
+the playback
+period can
+of starvation
+continuous media
+working slot
+scan edf
+rr scheduling
+seek distance
+dv gss
+static time
+dv rr
+s cbr
+length vbr
+multimedia data
+stream is
+the vbr
+i 1
+the streams
+of accepted
+stream can
+sweeping scheme
+scan scheduling
+current period
+min and
+control algorithm
+period to
+period t
+seek latency
+grouped sweeping
+scan scheme
+a vod
+data model
+a vbr
+or overflow
+of cylinders
+streams in
+bandwidth and
+streams and
+of buffer
+mean number
+period is
+qos of
+vbr characteristics
+reserved using
+red s
+spare resources
+robin scan
+sv rr
+gss grouped
+dynamic vbr
+s nightmare
+sv scan
+rc j
+same deadline
+dv scan
+spare resource
+ms sv
+streams accepted
+resources are
+for multimedia
+we reserve
+of disk
+case assumption
+of frames
+scheduling schemes
+accepted in
+single disk
+a multimedia
+video streams
+multimedia systems
+of streams
+with vbr
+available disk
+rr scan
+cylinders to
+latency slot
+crossed in
+be crossed
+are reserved
+video data
+buffer management
+each stream
+the stream
+many streams
+period would
+vod server
+seek is
+statistical admission
+a stream
+total amount
+scheduling algorithms
+length of
+stream in
+news on
+bandwidth is
+the qos
+period 1
+edf scheduling
+scheduling the
+t t
+scheme the
+scheme with
+can not
+multimedia system
+a static
+period then
+is serviced
+buffer size
+data modeling
+the rr
+serviced in
+streams as
+available buffer
+the dynamic
+one period
+control mechanism
+round robin
+period 2
+frame size
+a media
+resource reservation
+our simulation
+for continuous
+are serviced
+from period
+p eriod
+lumped disk
+starvation nor
+approximated data
+period until
+nor overflow
+average playback
+media block
+current stream
+varying spare
+gss g
+d rc
+stream serviced
+acceptancetest returns
+intelligent disc
+rr dv
+cbr based
+scan disk
+space disk
+reserve 5
+mpeg i
+streams need
+neither starvation
+scheme employs
+2 period
+period cycle
+scheduling accepts
+the dv
+dynamic period length
+t i 1
+t min and
+in one seek
+the cbr scheme
+disk bandwidth and
+scan and gss
+static period length
+playback data rate
+and t max
+and disk bandwidth
+min and t
+the next period
+buffer space and
+frames in t
+rc i 1
+admission control algorithm
+data rate of
+of accepted streams
+disk bandwidth is
+in t t
+number of accepted
+of disk bandwidth
+the seek distance
+starvation or overflow
+probability of starvation
+period length is
+static time period
+get t min
+period length vbr
+vbr scheme with
+space and disk
+length of period
+can get t
+the disk head
+continuous media server
+grouped sweeping scheme
+the seek time
+of frames in
+admission control mechanism
+number of cylinders
+the new stream
+worst case assumption
+a new stream
+i 1 j
+if we use
+resources are reserved
+mean number of
+number of streams
+from the disk
+seek time for
+rr scan and
+the rr scheme
+the same deadline
+new stream can
+5 of buffer
+cylinders to be
+cbr data model
+crossed in one
+a pessimistic approach
+active streams and
+a static period
+the period can
+the dynamic period
+dynamic vbr schemes
+period length t
+not be accepted
+of cylinders to
+stream can not
+the available disk
+a vod server
+the vbr scheme
+round robin scan
+the playback data
+a static time
+period t i
+all active streams
+gss grouped sweeping
+in rr scheduling
+of streams accepted
+red s nightmare
+one seek is
+be crossed in
+robin scan and
+a single disk
+of the period
+available disk bandwidth
+as many streams
+then the throughput
+the current period
+to be crossed
+many streams as
+buffer and disk
+the total amount
+total amount of
+can not be
+statistical admission control
+period can be
+the period length
+streams in a
+should be sufficient
+use a static
+news on demand
+a multimedia system
+the buffer requirements
+available buffer space
+the qos of
+of a stream
+and the buffer
+be sufficient for
+we can get
+the length of
+t i is
+for various schemes
+using vbr characteristics
+databases with intelligent
+buffer management technique
+rr scheduling the
+period vbr scheme
+are being played
+cylinder in one
+scheme employs the
+several disk scheduling
+data rate d
+requests have the
+accepted streams in
+on multi zone
+head movement in
+are reserved using
+with varying spare
+period 2 period
+one seek for
+disk continuous media
+but the available
+neither starvation nor
+the average playback
+streams than is
+1 of disk
+sufficient but the
+to another stream
+the scan scheme
+group is serviced
+stream assuming that
+the approximated data
+of the seek
+current period can
+allocation policies for
+rr dv scan
+j this means
+maximum accepted streams
+data rate rc
+however since video
+configuring a single
+for the seek
+streams and new
+modeling buffer space
+calculate the t
+the scan edf
+serviced in the
+least one seek
+streams are serviced
+resources required is
+i trace data
+length vbr scheme
+memory use in
+time period t
+required is underestimated
+dv rr dv
+in the cbr
+intelligent disc subsystems
+data on multi
+period can not
+rate r c
+compare the trade
+effective disk bandwidth
+seek for each
+starvation probability with
+scan disk scheduling
+ms sv rr
+with 5 groups
+space disk bandwidth
+varying spare resource
+period length to
+offs among several
+size of frames
+a dynamic time
+introduction to disk
+both disk bandwidth
+a dynamic buffer
+derived the equations
+rate rc i
+and new stream
+use dynamic period
+of period length
+accepting a new
+from period to
+single disk continuous
+next time period
+is serviced by
+length vbr schemes

@@ -1,0 +1,270 @@
+op
+pid
+word
+locking
+id
+sc
+lock
+unlocking
+ll
+sensitivity
+locked
+tmp
+addr
+unary
+unmark
+mark
+blocking
+processor
+marking
+unmarked
+monotone
+intersection
+stage
+unlocked
+unlock
+marked
+executing
+intersected
+helping
+upstream
+conflict
+initiating
+blocked
+timestamp
+ff
+downstream
+contention
+memory
+unmarks
+field
+tossing
+unlocks
+neighbor
+cell
+processors
+transactional
+locks
+lemma
+decision
+sc2
+fm
+helps
+linial
+philosophers
+operation
+address
+hot
+h5
+rappoport
+binary
+directed
+synchronization
+ts
+invalid
+universal
+tries
+shared
+concurrent
+directions
+marks
+spot
+coin
+decide
+distance
+herlihy
+return
+prev
+flag
+stages
+edge
+moir
+touitou
+ascending
+reads
+succeeds
+neighboring
+knows
+decides
+philosopher
+contending
+address word
+op i
+op id
+low address
+high address
+memory word
+an operation
+pid s
+of op
+locking stage
+mark high
+the operation
+memory words
+executing processor
+the locking
+step complexity
+data set
+operation op
+conflict graph
+m high
+pid 0
+word is
+word of
+edge operation
+op details
+the pid
+addr op
+of pid
+ll sc
+locked by
+locking directions
+initiating processor
+id then
+op j
+another operation
+the sensitivity
+locking direction
+from unary
+first executing
+monotone path
+monotone paths
+decision stage
+pid 1
+and op
+its low
+in ff
+if op
+the conflict
+the initiating
+sc m
+high field
+unlocking stage
+post decision
+op 2
+right algorithm
+the word
+some operation
+operation is
+if tmp
+in mark
+ll m
+binary ll
+directed path
+op is
+the low
+is locked
+unary operations
+non blocking
+sc operations
+low field
+word m
+neighboring operations
+cell lock
+unary ll
+left right
+blocking operation
+lemma 4
+in op
+set intersection
+multi word
+then return
+word operations
+operation s
+the high
+the unlocking
+high op
+m intersection
+intersection flag
+mark end
+h ff
+low address word
+high address word
+address word of
+the locking stage
+the high address
+pid 0 i
+its low address
+data set of
+addr op id
+word of op
+a memory word
+op id then
+an edge operation
+the conflict graph
+of an operation
+the data set
+the low address
+op i 1
+the pid s
+left right algorithm
+an operation op
+and op i
+the first executing
+the step complexity
+in mark high
+the initiating processor
+the left right
+its high address
+executing processor of
+op i and
+step complexity of
+id then return
+set of an
+its data set
+processor of op
+the low field
+i and op
+of pid s
+binary ll sc
+is locked by
+of some operation
+by another operation
+word is locked
+m high in
+first executing processor
+memory word of
+if op i
+the high field
+memory word is
+multi word operations
+the intersection flag
+high op id
+in h ff
+address word first
+pid 1 i
+the blocking operation
+the unlocking stage
+address word is
+the decision stage
+the sensitivity of
+of op i
+the operation is
+the operation s
+operations from unary
+op details op
+in set intersection
+high in mark
+some operation op
+sc m high
+the word is
+in the conflict
+then return true
+then the operation
+of the operation
+a directed path
+memory words in
+in ff 0
+is the low
+deterministic coin tossing
+by the operation
+of memory words
+helps the blocking
+an executing processor
+op id pid
+details op id
+high field of
+memory word m
+the new pid
+and pid 0
+op id if

@@ -1,0 +1,600 @@
+slicing
+pspace
+intraprocedural
+threads
+interprocedural
+counter
+killall
+x0
+undecidability
+slice
+undecidable
+propagation
+synchronization
+q0
+x1
+reachability
+statement
+initialization
+concurrent
+thread
+hardness
+xn
+copy
+slicer
+counters
+dependences
+p0
+y0
+pn
+liveness
+dependence
+killallp
+game
+statements
+programs
+transitions
+fork
+instruction
+ramalingam
+copying
+truly
+p1
+decrement
+assignments
+c0
+xk
+pdg
+np
+join
+threaded
+decrementing
+gries
+dataflow
+languages
+interference
+owicki
+habermehl
+killx
+letter
+skip
+procedures
+termination
+safely
+pk
+instructions
+ottenstein
+bouajjani
+backwards
+live
+round
+atomic
+vhdl
+pgr
+ect
+detection
+java
+crafting
+incrementing
+rn
+intersection
+cheat
+goto
+initializing
+loop
+kills
+synchro
+nization
+initializes
+krinke
+promela
+commences
+constants
+automata
+loops
+criterion
+decidable
+propagate
+ltl
+sequential
+initializations
+initialize
+procedural
+intractable
+r1
+stack
+terminates
+synchronous
+deterministic
+halting
+strengthening
+parallelism
+polynomial
+induced
+initialized
+c1
+regular
+belongs
+expressions
+comprises
+contrasted
+verification
+witnesses
+quasi
+overwritten
+ordinary
+moves
+decremented
+captures
+branching
+stacks
+intraproce
+parameterless
+niently
+doned
+aban
+killxy
+killall0
+terleave
+icki
+apdg
+irrevocably
+dural
+executed
+assertion
+abuse
+guesses
+soundness
+ensures
+destroy
+life
+multithreaded
+rilling
+conve
+dhrubajyoti
+cidable
+negligence
+olm
+alternate
+primitives
+proving
+word
+interleaving
+irrespective
+turing
+ban
+ameliorating
+goswami
+esparza
+mangala
+gowri
+brckner
+prototypic
+grammar
+flow
+assignment
+distinguished
+sigsoft
+sdg
+compil
+wehrheim
+itively
+terest
+proc
+simulated
+ers
+propagating
+altogether
+bounds
+configurations
+invariance
+composition
+interpreted
+heike
+metzler
+juergen
+processes
+transition
+incremented
+inherent
+er
+copy constant
+two counter
+optimal slice
+propagation game
+counter machine
+program slicing
+optimal slicing
+the program
+concurrent languages
+value 1
+parallel programs
+slicing of
+strong copy
+copy constants
+constant detection
+slicing criterion
+the write
+is undecidable
+write instruction
+the propagation
+write statement
+slicing problem
+intersection problem
+the threads
+x0 x1
+program point
+slicing is
+q0 and
+interprocedural slicing
+constant propagation
+the slicing
+a run
+p1 0
+slicing concurrent
+a statement
+if direction
+p0 and
+expression intersection
+ordinary liveness
+threaded programs
+loop free
+the initialization
+concurrent programs
+pspace hardness
+liveness of
+run of
+join parallelism
+procedure loop
+truly live
+initialization of
+other threads
+xn a
+the counters
+non deterministic
+p 0
+fork join
+the intraprocedural
+test decrement
+truly life
+interference dependence
+true liveness
+re initialization
+re initialize
+copying assignments
+counter c0
+0 pn
+xn c
+that slicing
+safely assign
+killall i
+decrement transitions
+re initializes
+reduction from
+y i
+detection problem
+regular expression
+analysis problems
+two threads
+intraprocedural slicing
+free programs
+atomic statements
+moves involving
+backwards reachability
+write statements
+letter c
+to x0
+counter machines
+loop else
+thread 0
+dependence graph
+counter value
+a variable
+pspace complete
+write instructions
+static slicing
+parallel thread
+parallel program
+of variables
+dataflow analysis
+a program
+statement s
+q 0
+assign 0
+in parallel
+programs without
+the counter
+synchronization as
+c j
+regular expressions
+slicing for
+propagation and
+by 0
+variables except
+two counters
+the interprocedural
+can safely
+procedure calls
+synchronization operations
+the optimal
+of concurrent
+c b
+pspace hard
+final state
+live at
+program dependence
+statement in
+problem is
+14 24
+x i
+induced by
+for parallel
+crafting a
+slicing remains
+parallel intraprocedural
+flow induced
+in q0
+statement killall
+recursion stacks
+some x0
+subsequent statement
+undecidability and
+r1 rn
+strengthening recent
+from xn
+counters alternate
+of killallp
+threads ensures
+re initializing
+without synchronization
+involving counter
+cannot destroy
+propagating run
+re initializations
+in p0
+killall 0
+initialization statement
+and habermehl
+crucial initialization
+if belongs
+synchronous start
+constrained properties
+without procedures
+against zero
+state pk
+interprocedural case
+bouajjani and
+s x0
+statements killx
+owicki gries
+intraprocedural copy
+code piece
+initializes all
+transitions simulated
+pn x0
+constant assignments
+initialization x1
+copying assignment
+gries method
+statement t
+ramalingam 23
+counter c1
+x0 c
+intraprocedural parallel
+lower our
+0 0
+of synchronization
+problem remains
+bounds are
+for concurrent
+the if
+is pspace
+running in
+a truly
+a copy
+of program
+q l
+comprises a
+atomic assignments
+join b
+x0 a
+the optimal slice
+two counter machine
+the propagation game
+the value 1
+copy constant detection
+a two counter
+p1 0 0
+q0 and q
+p0 and p
+the write instruction
+of the program
+at the write
+the other threads
+the write statement
+regular expression intersection
+liveness of variables
+copy constant propagation
+for concurrent languages
+reduction from the
+to the optimal
+the slicing criterion
+if direction of
+at a program
+and q 0
+constant propagation and
+the if direction
+the two counter
+safely assign 0
+program analysis problems
+strong copy constant
+0 0 pn
+ordinary liveness of
+detection problem is
+constant detection problem
+a copy constant
+can safely assign
+strong copy constants
+expression intersection problem
+two counter machines
+test decrement transitions
+program on which
+loop free programs
+procedure loop else
+a statement s
+of the threads
+and p 0
+a program point
+the regular expression
+0 a b
+running in parallel
+fork join parallelism
+start and termination
+of concurrent languages
+static slicing of
+for parallel programs
+belongs to the
+intersection problem for
+assign 0 to
+all variables except
+value 1 to
+in the program
+multi threaded programs
+the problem remains
+the two threads
+program point p
+a reduction from
+of parallel programs
+the counter value
+for multi threaded
+of the propagation
+program dependence graph
+concurrent programs a
+y x x
+in parallel programs
+to the write
+of program slicing
+is pspace complete
+we can safely
+is a run
+the program on
+moves involving counter
+x0 a 1
+re initialization of
+true liveness of
+detection in parallel
+optimal slice of
+statement killall i
+q y i
+slicing is undecidable
+also optimal slicing
+propagation and ordinary
+programs without procedure
+as non deterministic
+thereby strengthening recent
+if m terminates
+a run from
+only if belongs
+of atomic statements
+pn 0 0
+lower our expectation
+for two counter
+flow induced by
+some x0 x1
+that witnesses that
+else procedure loop
+value 1 from
+x1 for some
+other threads as
+threads ensures that
+and ordinary liveness
+copy constant at
+copy constants in
+be pspace hard
+truly live at
+slicing of threaded
+crucial initialization statement
+for parallel languages
+the subsequent statement
+s x0 x1
+procedures and synchronization
+bouajjani and habermehl
+parallel constant propagation
+to x0 c
+live at a
+kills the propagation
+x0 x1 for
+and concurrent programs
+and true liveness
+c b then
+data and interference
+a truly life
+0 for counter
+for programs without
+propagation game in
+propagation and true
+a quasi synchronous
+decrement transitions simulated
+follows the statement
+polynomial time 15
+ensures a quasi
+round for letter
+s is data
+if belongs to
+pspace and np
+write instructions in
+re initializes all
+the threads ensures
+cannot destroy the
+the crucial initialization
+of strong copy
+after c b
+transitions simulated in
+of synchronization as
+the two recursion
+the slicing problem
+synchronization as proved
+crafting a compiler
+kinds of dependences
+way by means
+join b a
+intuition underlying the
+xn c j
+pn x0 x1
+slicing problem is
+constant detection in
+x0 c j
+a zero counter
+xn a 1
+15 14 24
+intraprocedural copy constant
+properties are exploited
+the initialization value
+comprises a finite
+for some x0
+0 pn x0
+run from p
+from xn c
+auxiliary variable p
+i a or
+two recursion stacks
+copying assignments in
+the intraprocedural copy
+construct a parallel
+as proved by
+loop else goto
+optimal slice this
+on which x
+the propagation from
+presence of synchronization
+parallel intraprocedural slicing
+initialization x1 1
+the initialization x1
+variables x i
+the initialization of
+in an execution
+a run of
+interpreted as non
+a copy instruction
+the intersection problem
+and write statements

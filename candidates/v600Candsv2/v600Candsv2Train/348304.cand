@@ -1,0 +1,385 @@
+cdfg
+kdp
+retiming
+addedges
+delay
+vertex
+ilp
+shortest
+delays
+retimed
+block
+dsp
+edge
+cdfgs
+kmax
+solvekdp
+samples
+dataflow
+count
+companion
+vectorization
+branch
+inequality
+sprand
+paths
+nc
+cycles
+edges
+shuvra
+essential
+infeasible
+bb
+transforms
+bold
+feasibility
+synthetic
+counts
+solves
+canceler
+xcd
+initiation
+processed
+ko
+blocks
+df
+graphs
+synthesis
+pairs
+uv
+formulation
+strictly
+iteration
+lemma
+switching
+regularly
+prune
+amortizing
+iterations
+vliw
+gammaw
+transformed
+uniprocessor
+feasible
+bhattacharyya
+weight
+effectiveness
+yung
+lp
+echo
+path
+segmenting
+regular
+incoming
+repeat
+vertices
+behavioral
+integer
+regularity
+pipelines
+throughput
+contradicts
+dissipation
+chronic
+bhattachryya
+vectorizations
+optimum
+excess
+dummy
+implementations
+simultaneously
+suite
+programs
+doubling
+telescopes
+weights
+synchronous
+restore
+violates
+cycle
+retime
+suboptimally
+processings
+vlsi
+implicit
+augmenting
+stream
+de
+return
+exceed
+execute
+instructions
+pruning
+processing
+violating
+background
+reconfiguring
+elseif
+successively
+graph
+dencies
+formedness
+resynthesis
+ming
+contradiction
+cpu
+screening
+ators
+relocated
+crisis
+torization
+interconnection
+success
+signal
+speeds
+overheads
+strives
+optimizing
+consumed
+searches
+introduces
+constraints
+praveen
+coder
+backtracks
+around
+satisfies
+depen
+murthy
+speedup
+explicit
+material
+irregular
+delete
+computations
+steadily
+transformation
+differ
+solver
+motorola
+implicitly
+requirements
+wi
+compilation
+hardware
+improving
+casts
+unfold
+hv
+sufficiency
+pace
+locality
+challenge
+vec
+directed
+lag
+exceeds
+relation
+magnitude
+express
+concentration
+ching
+clock
+stem
+facilitating
+enhances
+captures
+moved
+mixed
+tecs
+plications
+nonzero
+block processing
+problem kdp
+vertex pair
+delay count
+processing factor
+algorithm addedges
+u e
+delay essential
+pair u
+k delay
+delay problem
+edge u
+necessary conditions
+u v
+vertex pairs
+given cdfg
+addedges 2
+second shortest
+strictly second
+delay free
+o v
+companion graph
+delay counts
+factor k
+every edge
+constraints graph
+shortest paths
+r u
+k delays
+essential vertex
+addedges 1
+nc ilp
+shortest path
+every vertex
+block iteration
+integer linear
+computation blocks
+path u
+cdfg g
+retimed cdfg
+computation dataflow
+v 2
+linear block
+dsp programs
+w r
+relation 6
+algorithm solvekdp
+count around
+graph generated
+transformed graph
+solves problem
+retiming function
+bound scheme
+linear programming
+w u
+graph g
+contain delays
+original cdfg
+r solves
+block processed
+processed simultaneously
+three programs
+edge v
+dataflow graphs
+r z
+edge e
+v e
+free vertex
+around cycles
+satisfies inequality
+every delay
+regular block
+dataflow graph
+given vertex
+repeat loop
+infeasible problems
+computational blocks
+implicit delay
+bold edge
+x uv
+additional edge
+de vertex
+lemma gives
+data samples
+following lemma
+incoming data
+solving problem
+let g
+ilp formulation
+must necessarily
+u p
+inequality 22
+inequality 19
+multiple samples
+algorithm branch
+paths differ
+since retiming
+pairs b
+u q
+function r
+least k
+lp solve
+edge along
+inequality 20
+initiation time
+pair b
+necessarily contain
+return success
+two shortest
+delay requirements
+k gamma
+w e
+given block
+v k
+pairs shortest
+vertex pair u
+edge u e
+block processing factor
+k delay problem
+pair u v
+w r u
+algorithm addedges 2
+every vertex pair
+every edge u
+strictly second shortest
+branch and bound
+r u v
+processing factor k
+kdp on g
+delay essential vertex
+o v 2
+u v 2
+cdfg and let
+solves problem kdp
+algorithm addedges 1
+second shortest paths
+linear block processing
+edge v e
+integer linear programming
+v 2 v
+essential vertex pairs
+given cdfg g
+delay count around
+cdfg in figure
+feasibility of problem
+u v k
+path u p
+retiming function r
+set of necessary
+path u q
+r solves problem
+delay free vertex
+regular block processing
+given vertex pair
+u e proof
+solving problem kdp
+kdp is feasible
+let r z
+e 2 e
+following lemma gives
+exists a retiming
+number of delays
+edge e 2
+less than k
+e in e
+w u v
+delay problem given
+necessarily contain delays
+paths which must
+least k delays
+processing with factor
+effectiveness of block
+count around cycles
+second shortest path
+computation dataflow graph
+cdfg in part
+computation dataflow graphs
+transformed graph generated
+linear and regular
+pairs b c
+ensure that w
+shortest path u
+change the delay
+function r z
+m u v
+introduced to ensure
+must necessarily contain
+condition in lemma
+differ by less
+fewer than k
+solution for problem
+two shortest paths
+along the shortest
+solution to problem

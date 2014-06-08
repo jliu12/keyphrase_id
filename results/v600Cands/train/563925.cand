@@ -1,0 +1,600 @@
+discriminator
+tree
+cent
+sides
+mbb
+parent
+pd
+trees
+polygon
+bounding
+node
+fanout
+csb
+box
+insertion
+entry
+renement
+discriminators
+entries
+descriptive
+100000
+query
+5000
+10000
+pointer
+topartial
+cacheline
+50000
+polys
+stored
+partial
+tighten
+cache
+tocomplete
+mobb
+guttman
+biteld
+mbbs
+bitelds
+storing
+search
+polygons
+disk
+beckmann
+rst
+lter
+accesses
+elds
+conscious
+accurate
+boxes
+tightening
+store
+child
+otocomplete
+asilomar
+otopartial
+4155
+eliminateside
+1000
+dierent
+axes
+sitzmann
+signicantly
+behaviour
+converts
+wl
+o3
+bytes
+sr
+comparisons
+subtrees
+spatial
+reconstruct
+sin
+object
+intersection
+500
+orthogonal
+tighter
+nodes
+bits
+eliminating
+o2
+805
+stuckey
+stores
+parents
+memory
+soo
+cos
+recalculate
+1984
+match
+contiguously
+static
+72
+recalculated
+bit
+rene
+cur
+keys
+convert
+database
+elimination
+79
+sl
+objects
+dashed
+shares
+o1
+subtree
+share
+split
+dl
+copying
+misses
+index
+intersect
+shaded
+eectively
+64
+4295
+28474
+p10000
+3923
+tainint
+51021
+233360
+terrabytes
+51516
+2287
+p100000
+12701
+41131
+5303
+56938
+22057
+p50000
+yl
+8286
+82581
+43223
+23417
+82657
+storesides
+51492
+2833
+8282
+43419
+436057
+38728
+2732
+8105
+116440
+inator
+sidebits
+4371
+2192
+85969
+fastsearch
+449977
+getrepresentation
+567204
+2155
+41177
+e4bits
+11751
+readentry
+5305
+valuesbits
+4010
+430840
+45608
+makred
+4583
+2711
+enrty
+8809
+ratesearch
+22875
+overfull
+18193
+44033
+7613
+5354
+l100000
+21725
+searching
+byte
+ross
+eliminate
+1990
+unbalanced
+les
+eight
+dier
+area
+array
+eld
+o tree
+r tree
+partial r
+partial o
+tree node
+r trees
+polygon data
+per cent
+o trees
+line data
+parent discriminator
+complete o
+the partial
+the parent
+the r
+for line
+bounding box
+the node
+minimum bounding
+the discriminator
+tree representation
+search time
+for polygon
+fanout of
+accurate fast
+partial partial
+tree accurate
+the o
+tree discriminator
+the fanout
+node accesses
+normal r
+four sides
+sides with
+per entry
+cent for
+the sides
+tree is
+more descriptive
+tree nodes
+in memory
+a partial
+tree partial
+accurate search
+of sides
+disk based
+tree we
+the query
+sides stored
+sides per
+fast 500
+which sides
+discriminator is
+renement step
+the tree
+the search
+discriminator the
+discriminator in
+memory r
+a discriminator
+the csb
+sides are
+tree and
+the entry
+tree search
+descriptive information
+stored in
+new representation
+and polygon
+static o
+mbb for
+pointer elimination
+discriminator we
+4 sides
+stored sides
+static partial
+bit elds
+partial static
+discriminator pd
+polys r
+25 per
+the mbb
+tree polys
+tree lines
+main memory
+of entries
+the renement
+are stored
+an r
+i b
+elimination technique
+cache behaviour
+lines r
+side with
+entries per
+the accurate
+the complete
+the pointer
+node we
+sides of
+trees we
+fast search
+node structure
+tree the
+average search
+cache conscious
+node s
+an o
+the insertion
+for if
+the fast
+search performance
+memory use
+shared with
+an entry
+the side
+share sides
+a csb
+discriminator and
+original o
+side values
+per discriminator
+csb r
+tree bounding
+beckmann et
+guttman 1984
+orthogonal box
+lter step
+cent the
+1984 beckmann
+the bitelds
+every discriminator
+with discriminator
+tree still
+s pd
+csb technique
+sides we
+tree by
+entries in
+the entries
+fast o
+bounding boxes
+s l
+we store
+new entry
+al 2001
+standard r
+tree reduces
+tree shows
+but stores
+most descriptive
+entries share
+60 per
+data the
+s n
+approximation of
+tree which
+less accurate
+tree with
+of results
+partial information
+will investigate
+of node
+with parent
+query object
+node size
+total r
+tree for
+node t
+per node
+node and
+1000 0
+standard minimum
+counter n
+index structures
+b j
+information than
+the lter
+pointer p
+entry in
+if s
+t i
+trees the
+its parent
+l return
+for disk
+store more
+and upper
+tree 4
+only store
+node is
+parent node
+based data
+representation of
+t n
+search on
+area of
+by storing
+their parents
+parent we
+partial o tree
+partial r tree
+r tree node
+the r tree
+the partial r
+the o tree
+for line data
+the partial o
+complete o tree
+o tree representation
+the parent discriminator
+o tree is
+partial r trees
+a partial r
+for polygon data
+the fanout of
+minimum bounding box
+the complete o
+fanout of the
+tree accurate fast
+partial partial o
+an o tree
+r tree accurate
+r tree nodes
+s i b
+partial o trees
+r tree we
+o tree discriminator
+a partial o
+normal r tree
+an r tree
+in the node
+to the r
+r tree the
+r tree and
+per cent for
+r tree partial
+tree partial partial
+with the parent
+of the node
+tree node s
+the new representation
+the search time
+of the r
+in the partial
+for if s
+o tree search
+polygon data the
+search time for
+in memory r
+the renement step
+entries per node
+accurate fast 500
+more descriptive information
+i b j
+number of results
+than the r
+of r trees
+number of node
+t i d
+o tree and
+for in memory
+o tree polys
+o tree node
+polys r tree
+sides are stored
+lines r tree
+fast o tree
+tree lines r
+r tree for
+in memory use
+sides with the
+memory r trees
+and polygon data
+the fast search
+25 per cent
+data the partial
+pointer elimination technique
+o tree lines
+of node accesses
+o tree with
+for partial r
+a complete o
+partial static o
+the accurate search
+static partial o
+tree polys r
+line data and
+stored in the
+of the o
+in the tree
+tree node t
+tree the partial
+r tree which
+from the parent
+with the query
+number of sides
+average search time
+tree is based
+if s i
+side with the
+v and w
+with its parent
+of an o
+information than the
+in a partial
+beckmann et al
+standard r tree
+sides stored in
+the lter step
+guttman 1984 beckmann
+cent for polygon
+sides with their
+of a csb
+line and polygon
+the node structure
+csb r tree
+total r tree
+sides per discriminator
+original o tree
+descriptive information than
+minimum bounding boxes
+r tree shows
+o tree approach
+standard minimum bounding
+entries share sides
+parent discriminator pd
+the partial static
+a normal r
+the normal r
+the fast o
+r trees we
+discriminator in an
+number of subtrees
+o tree still
+1984 beckmann et
+a csb r
+cent for line
+share sides with
+the original o
+disk based data
+the csb technique
+than four sides
+line data the
+tree bounding box
+time for line
+the cache behaviour
+of a discriminator
+o tree but
+static o tree
+the query object
+a counter n
+the standard r
+area of the
+number of entries
+l 0 for
+are stored in
+of an entry
+the node is
+et al 2001
+with their parents
+the standard minimum
+r trees and
+of the discriminator
+we will investigate
+in the parent
+the parent node
+for disk based
+search time of
+on the o
+by the parent
+the new entry
+in an r
+increase in area
+new representation of
+the node and
+to the partial
+approximation of the
+to store more
+in an o
+the number of
+of the tree
+the lower and
+0 31 0
+reduces the search
+of entries per
+the tree in
+make better use
+for v and
+compared to the
+the representation of
+an approximation of
+the area of
+lower and upper
+better use of
+of results for
+experiments showed that
+the entries in
+conventional r tree
+accurate fast 100

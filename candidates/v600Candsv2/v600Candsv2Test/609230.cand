@@ -1,0 +1,382 @@
+jvm
+cl
+loader
+invokevirtual
+loaders
+srmethod
+loading
+desc
+bytecode
+srclass
+def
+java
+getr
+denition
+findclass
+soundness
+saraswat
+overrides
+lvars
+typing
+objectref
+subtyping
+wf
+vp
+verication
+dened
+invv
+resolved
+bridge
+formedness
+parent
+instruction
+typedness
+specication
+predicate
+spoong
+areturn
+widening
+overriding
+ok
+stack
+rr
+applet
+speakup
+verier
+resolution
+bug
+dispatch
+superclass
+denes
+selects
+invocation
+invokeinterface
+resolves
+mt
+environments
+loadings
+safe
+inside
+applets
+name
+lemma
+subtype
+safety
+formalization
+bytecodes
+stata
+ndclass
+verifyrecord
+classname
+tvalue
+satises
+linking
+rst
+descriptor
+env
+trusted
+conversion
+augmented
+string
+symbolically
+delegation
+constraint
+veried
+denitions
+remembers
+veries
+dene
+classdef
+iface
+delegations
+cc
+instructions
+pc
+delegates
+abbreviates
+abadi
+modication
+referenced
+lang
+redene
+judgement
+satised
+transitivity
+premise
+names
+lazy
+transition
+loaded
+vironment
+invariant
+dention
+aws
+classloader
+exeception
+coredumps
+bracha
+retval
+loadclass
+classes
+security
+heap
+inconsistencies
+exive
+ects
+preserves
+nalization
+invariantly
+runtime
+environment
+transitive
+selection
+violation
+induction
+correctness
+dierent
+whereby
+speci
+interfaces
+unrelated
+resolve
+member
+aw
+cial
+supertype
+appearing
+descriptors
+signature
+delegate
+sun
+virtual
+sub
+invoked
+ow
+eld
+semantics
+dening
+formalizations
+override
+symmetry
+violates
+lemmas
+cf
+rt
+succeeded
+tokyo
+loc
+straints
+indirect
+transitions
+invariance
+consistency
+ns
+exibility
+proved
+en
+typed
+diers
+veri
+closure
+super
+formalizes
+judgment
+predicates
+threads
+expresses
+faithfully
+jensen
+subroutines
+elds
+violate
+proving
+remember
+references
+existence
+def 2
+loading constraint
+constraint scheme
+cl n
+method resolution
+class loaders
+class loader
+cl 0
+class loading
+bytecode verication
+n cl
+method selection
+value typing
+cl cl
+findclass scheme
+denition 2
+class c
+vp l
+l 0
+class name
+c cl
+loading constraints
+method m
+invv ok
+widening conversion
+method desc
+method dispatch
+ok e
+well formedness
+well typedness
+objectref class
+parent loader
+type spoong
+method cl
+dispatch table
+l 00
+subtyping relation
+lemma 1
+class d
+denes class
+bytecode verier
+bridge safety
+symbolically referenced
+predicate selects
+jvm state
+loader 0
+selection process
+string list
+def 4
+soundness theorem
+method overriding
+l vp
+r speakup
+loader 2
+loader l
+direct parent
+wf parent
+parent e
+augmented typing
+context cl
+class loadings
+cl pc
+augmented value
+loader 1
+java virtual
+method invocation
+object value
+soundness proof
+r l1
+rr getr
+d getr
+cl method
+c selects
+method overrides
+safe e
+found inside
+method cc
+theorem trusted
+context l
+ndclass scheme
+trusted environments
+wf method
+applet loaders
+parent loaders
+predicate overrides
+bridge safe
+r getr
+error state
+selects srmethod
+selects m
+x loader
+name desc
+class names
+l 2
+n l
+l 1
+environment e
+r l
+objects classes
+type safety
+virtual machine
+resolution process
+also invariant
+method e
+type r
+pc lvars
+local stack
+r l2
+signature x
+type env
+c name
+loading constraint scheme
+cl n cl
+invv ok e
+method selection process
+correctness of invokevirtual
+method dispatch table
+cl cl n
+saraswat s bug
+wf parent e
+parent e p
+saraswat s problem
+augmented value typing
+java virtual machine
+def 2 7
+n cl 0
+l vp l
+method resolution process
+superclass of c
+def 2 9
+wf method e
+n cl cl
+stata and abadi
+lemma 1 correctness
+loader in e
+proving the soundness
+bridge safe e
+denition 3 1
+n l 0
+l n l
+section 2 4
+e an element
+assume the rst
+def 2 6
+vp l 00
+class t loader
+def 2 1
+method overrides srmethod
+vp l 0
+class loader l
+existence of method
+def 2 13
+cl 0 n
+l 0 vp
+srmethod and method
+cl 0 cl
+wf class e
+lvars and stack
+context l 2
+symbolically referenced method
+symbolically referenced class
+cl vp l
+lemma 3 existence
+existence of constraints
+select a method
+rule of invokevirtual
+resolved into c
+cl n 0
+direct parent loader
+cl pc lvars
+cl method desc
+spoong in jdk1
+theorem trusted environments
+lemmas 1 1
+dened in figure
+inside the current
+def 2 10
+def 2 3
+method cl method
+section 2 5
+satises the following
+denition 2 7
+r l 1
+r l 2
+dynamic class loading
+cf section 2
+p l 0

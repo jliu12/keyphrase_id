@@ -1,0 +1,354 @@
+sale
+auxiliary
+id
+maintenance
+views
+tuples
+insertions
+item
+deletions
+join
+warehouse
+toy
+referential
+updates
+maintainable
+protected
+sales
+relations
+warehousing
+sa
+materialized
+store
+base
+integrity
+exposed
+expressions
+month
+year
+dep
+joins
+manager
+keys
+attributes
+cal
+preserved
+ar
+foreign
+joining
+attribute
+semijoin
+tuple
+st
+self
+spj
+sigmod
+category
+warehouses
+calculating
+oe
+oer
+olap
+lechtenbrger
+selection
+sources
+old
+propagating
+relation
+selections
+ca
+replicating
+marts
+inderpal
+mumick
+view
+pushing
+maintaining
+maintain
+referenced
+widom
+propagated
+key
+theodoratos
+semijoins
+vossen
+joined
+kansas
+missouri
+vr
+deleted
+ri
+entirety
+shivnath
+database
+dimitri
+city
+rule
+name
+babu
+maintained
+sql
+project
+expression
+bases
+materializing
+selectivity
+semijoined
+hongsong
+dsd
+youfang
+relational
+jennifer
+maintainability
+projections
+equated
+calculates
+singh
+cochrane
+mohania
+ignorable
+updateable
+houkuan
+equijoin
+incremental
+price
+tods
+timos
+gottfried
+roberta
+bag
+subexpression
+rewriting
+sellis
+elke
+rundensteiner
+babcock
+record
+query
+projection
+eliminated
+contents
+deletion
+rewritten
+jens
+updated
+cubes
+insertion
+sold
+aggregate
+simplified
+fv
+materialize
+select
+propagate
+aux
+pei
+delete
+queries
+pass
+eighth
+accessing
+simplify
+fundamenta
+informaticae
+sigart
+lations
+madison
+preserves
+united
+insert
+algebra
+vldb
+contribute
+disjunctions
+stored
+appearing
+li
+referencing
+management
+wisconsin
+wang
+abbreviate
+gmap
+narang
+mala
+hoshi
+wilburt
+ark
+krithi
+pirahesh
+goretti
+rizzi
+barinderpal
+quass
+auxiliary views
+base relations
+maintenance expressions
+store id
+item id
+protected updates
+base relation
+id item
+sale id
+view maintenance
+auxiliary view
+self maintainable
+view v
+selection conditions
+referential integrity
+exposed updates
+relation r
+maintenance expression
+r j
+toy sales
+year 1996
+id sale
+cal toy
+id manager
+state ca
+property 4
+oe year
+id month
+manager oe
+category toy
+item name
+data warehousing
+id store
+month oe
+name oe
+oe category
+oe state
+existing tuples
+local selection
+join graph
+integrity constraints
+ca st
+rule 4
+st store
+dep r
+sa 1
+integrity constraint
+join conditions
+data sources
+foreign key
+join condition
+data warehouse
+materialized views
+base data
+view ar
+sales view
+algorithm 3
+views generated
+attributes involved
+attribute values
+materialized view
+acm sigmod
+line item
+sale line
+original view
+store sale
+line id
+sales price
+foreign keys
+item item
+self maintenance
+data warehouses
+expression calculating
+accessing base
+v preserves
+sale sale
+joining r
+expressions calculating
+along keys
+preserved attributes
+propagating insertions
+relations referenced
+select project
+g v
+store store
+spj view
+updated tuples
+data bases
+large data
+joining v
+algebra expression
+view self
+key of r
+item id item
+r i k
+referential integrity constraints
+cal toy sales
+sale id store
+id sale id
+store id manager
+preserved in v
+base relation r
+set of auxiliary
+oe state ca
+store id month
+oe year 1996
+id manager oe
+manager oe state
+id item name
+id store id
+id item id
+name oe category
+local selection conditions
+id month oe
+oe category toy
+item name oe
+month oe year
+store id sale
+view maintenance expressions
+ca st store
+year 1996 sa
+state ca st
+st store id
+toy i store
+key and referential
+updates to r
+algorithm 3 1
+referential integrity constraint
+sa 1 item
+number of tuples
+involved in selection
+join with existing
+calculating the effect
+tuples in v
+rule 4 1
+change the values
+tuples in r
+given a view
+using the auxiliary
+auxiliary views generated
+toy sales view
+expressions for deletions
+view maintenance expression
+auxiliary view ar
+join graph g
+expression for calculating
+followed by insertions
+expressions of table
+v of insertions
+view for l
+constraint from r
+calculating the effects
+maintain the view
+set of relations
+order to maintain
+property 4 2
+values of attributes
+tuple in r
+relation r j
+line and item
+r for base
+referenced in v
+calculating the tuples
+sale sale id
+preserves the key
+tuples to insert
+v of deletions
+store sale line
+insertions to r
+accessing base data
+together are self

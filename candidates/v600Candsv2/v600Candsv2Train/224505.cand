@@ -1,0 +1,372 @@
+trcs
+clock
+tcs
+rcs
+voyager
+schedule
+3d
+lengths
+scheduling
+ewf
+csteps
+methodology
+tightest
+functional
+ilp
+candidate
+synthesis
+bounding
+methodologies
+dct
+resource
+units
+ns
+dd
+fastest
+delays
+relaxations
+mult
+constrained
+andez
+module
+fu
+bounds
+exploration
+datapath
+fern
+tight
+slack
+delay
+dfg
+globally
+inferior
+lb
+precedence
+provably
+hoc
+cstep
+constraint
+formulation
+guesses
+wire
+feasible
+bussell
+scheduler
+ad
+exhaustive
+guaranteed
+2d
+clocking
+register
+gajski
+optimally
+library
+pipelined
+schedules
+slice
+fortunately
+prunes
+wave
+relax
+determination
+benchmarks
+elliptic
+glue
+tighter
+minimization
+formulations
+fewest
+chaining
+formalizes
+controller
+ck
+lindo
+preetham
+voy
+integrally
+convergeson
+selaer
+bakshi
+vinoo
+sundaraman
+boundedby
+lakshmikanthan
+sujatha
+chitect
+awartika
+constraints
+led
+designer
+sec
+benchmark
+cosine
+solving
+careful
+estimation
+transfer
+dsp
+cannes
+antwerp
+ouaiss
+langevin
+rens
+corazao
+rensselaer
+peyran
+nonpipelined
+ceg
+meenakshi
+solves
+structured
+filter
+solved
+hour
+efficiently
+minimal
+pandey
+kaul
+mignotte
+boundson
+salsa
+chaiyakul
+skew
+scheduled
+circuits
+obviate
+guesswork
+ranga
+ceilings
+decision
+estimates
+solve
+polynomial
+narasimhan
+ager
+pruning
+multiplication
+niraj
+tractable
+cs
+iyad
+ganesan
+symp
+axes
+algorithmic
+converting
+behavioral
+quickly
+generic
+meaningfully
+radhakrishnan
+timing
+explore
+bus
+heidelberg
+micheli
+govindarajan
+vemuri
+physica
+increased
+jose
+clock lengths
+clock length
+trcs problem
+candidate clock
+3d scheduling
+design space
+functional units
+constrained 3d
+time constraint
+lower bounding
+tcs 3d
+scheduling problem
+rcs 3d
+schedule length
+rcs problem
+3d results
+solve trcs
+solution methodology
+minimal set
+functional unit
+tcs problem
+scheduling rcs
+feasible schedule
+module library
+csteps ns
+time constrained
+resource constrained
+level synthesis
+resource constraints
+fu lower
+scheduling tcs
+lower bounds
+bounding problem
+3d design
+constrained scheduling
+bounding problems
+globally optimal
+space exploration
+unit lower
+tight lower
+clock csteps
+hoc guesses
+tightest possible
+decision problem
+voyager design
+length lower
+range c
+exploration system
+small clock
+well structured
+clock c
+c 0
+register transfer
+optimal solution
+problem figure
+ns 48
+2d slice
+dd k
+cs ns
+dd mult
+fern andez
+ns cs
+2d design
+fastest schedule
+control steps
+entire class
+type k
+ilp formulation
+larger design
+execution delays
+exploration methodologies
+one clock
+ilp formulations
+dimensional 3d
+period c
+fastest design
+clock estimation
+wire delays
+ad hoc
+k c
+high level
+better schedule
+fastest possible
+wave filter
+new clock
+elliptic wave
+search space
+exact solution
+system clock
+computing lower
+exhaustive search
+length c
+polynomial time
+lower bound
+lengths resource
+trcs formulation
+integer clock
+trcs produces
+known elliptic
+filter ewf
+3d read
+ewf benchmark
+length 24ns
+inferior points
+clocking schemes
+missing constraints
+ns csteps
+methodology computes
+ns mult
+inferior design
+generate tight
+tightest bounds
+operation slack
+determining candidate
+guaranteed fastest
+ed rule
+obvious ad
+dfg module
+efficiently voyager
+precedence relaxations
+shortest schedule
+sized benchmarks
+one 2d
+possible precedence
+methodology implemented
+mult 3e
+approach formalizes
+candidate clock lengths
+number of functional
+constrained 3d scheduling
+set of candidate
+functional unit lower
+find the globally
+resource constrained 3d
+3d scheduling problem
+time constrained 3d
+lower bounding problem
+design space exploration
+3d design space
+solve the trcs
+unit lower bounding
+lower bounding problems
+3d scheduling rcs
+high level synthesis
+globally optimal solution
+scheduling tcs 3d
+ad hoc guesses
+voyager s methodology
+scheduling rcs 3d
+3d scheduling tcs
+range c c
+schedule length lower
+clock csteps ns
+rcs 3d results
+tcs 3d results
+space exploration system
+solving the scheduling
+fu lower bounding
+exact solution methodology
+solving the tcs
+voyager design space
+one clock length
+tight lower bounds
+problem is solved
+resource constrained scheduling
+2d design space
+user for evaluation
+scheduler that supports
+clock period c
+space exploration methodologies
+produce the tightest
+larger design space
+find the fastest
+length lower bounding
+ns cs ns
+guaranteed to find
+clock length c
+tcs or rcs
+solve that problem
+time constrained scheduling
+elliptic wave filter
+number of candidate
+guaranteed to produce
+tight lower bound
+form a generic
+clock length perform
+length was used
+solve trcs problem
+problem to form
+compute minimal set
+delay of 48ns
+time clock csteps
+clock c 0
+dimensional 3d design
+even for medium
+clock length 24ns
+steps and thus
+medium sized benchmarks
+length and area
+voyager s ilp
+solved as explained
+obvious ad hoc

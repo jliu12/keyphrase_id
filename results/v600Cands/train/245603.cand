@@ -1,0 +1,600 @@
+ada
+net
+petri
+deadlock
+nets
+ok
+tasking
+marking
+philosophers
+dining
+places
+reachability
+transition
+firing
+pump
+pn
+ticg
+transitions
+butler
+accept
+ik
+rule
+arcs
+nrt
+rendezvous
+safeness
+place
+marked
+redundant
+fire
+ordinary
+concurrency
+berthelot
+removal
+reduction
+safe
+rules
+gas
+philosopher
+fig
+reachable
+token
+deadlocks
+wait
+entry
+fused
+tig
+station
+fusion
+fires
+statement
+customer
+stubborn
+enabled
+t15
+task
+concurrent
+caller
+end_accept
+wait_ack
+phils
+accept_15
+ack_accept
+unrolled
+automated
+statements
+t14
+redundancy
+tokens
+reductions
+toolkit
+pumps
+pal
+bids
+removed
+compositional
+o1
+toolset
+customers
+s1
+tasks
+translation
+valmari
+entry_ex_28_16
+accept_14
+entry_ex_15_6
+ack_entry_customer_29
+intertask
+989527
+haiping
+ack_entry_operator_4
+fets
+entry_ex_j_i
+communicating
+counting
+fusions
+t28
+tadao
+tienari
+shatz
+ex
+tsai
+subnet
+taylor
+label
+fired
+t21
+1048576
+translator
+remove
+appeal
+fully
+tool
+versions
+labels
+tools
+detection
+finish
+acknowledgment
+avrunin
+murata
+germane
+semantics
+room
+juan
+thinks
+repetitively
+i1
+selective
+alter
+generation
+body
+preserve
+checking
+jeffrey
+firings
+operator
+waiting
+fuse
+reported
+aid
+sol
+benefit
+upcoming
+textual
+appealing
+concern
+static
+175
+prefixed
+markings
+mature
+corrected
+buy
+fork
+accepted
+simulates
+bdds
+waveform
+verification
+option
+invariants
+labeling
+generator
+incidence
+preserved
+calls
+attempted
+effectiveness
+identification
+preserving
+characterization
+shaoyi
+ack_entry_pump_6
+88809
+rauchle
+atl
+1995327
+forv
+spc
+wait_ack_t2_12
+9321743
+huaiqing
+1543
+aeo4
+t27
+end_accept_8
+t26
+ack_entry_pump_5
+gedela
+t29
+cffd
+colons
+entry_ex_24_4
+kristensen
+fusable
+15728640
+58975
+3538944
+xix
+ada net
+ada nets
+net reduction
+petri net
+original ada
+q ok
+reduced ada
+ada tasking
+state space
+t ok
+fully reduced
+reduction process
+deadlock analysis
+t ik
+place p
+net structure
+the net
+rule 9
+reachability graph
+a petri
+net pn
+space generation
+entry call
+of ada
+of petri
+the dining
+dining philosophers
+reduction rules
+marking m
+place q
+transition t
+reduction method
+for deadlock
+deadlock state
+gas station
+reduced net
+a place
+nets are
+rule 7
+entry ex
+states arcs
+tasking analysis
+arcs time
+reduced state
+and ordinary
+an original
+accept statement
+ordinary net
+petri nets
+in ada
+the ada
+the deadlock
+a marking
+deadlock marking
+the reduction
+an accept
+place is
+safe and
+an ada
+concurrency analysis
+condition 2
+net is
+ok p
+deadlock detection
+of net
+p t
+by rule
+rule 5
+philosophers problem
+the reduced
+removal of
+is redundant
+the place
+the gas
+our net
+accept place
+modified ticg
+reduction tool
+wait places
+station program
+reduced nets
+redundant place
+wait place
+m 0
+fig 2
+our reduction
+reachable marking
+places in
+m p
+ok and
+a net
+space reduction
+firing of
+counting variable
+of transitions
+the firing
+in fig
+of rule
+generation methods
+a firing
+the safeness
+task k
+the removal
+rule 6
+net model
+space sizes
+net each
+butler task
+ex place
+pn m
+nrt is
+ik p
+general petri
+analysis issue
+for ada
+original net
+theorem 4
+apply rule
+net s
+redundant places
+structure corresponding
+specific analysis
+place represents
+rendezvous is
+ordinary petri
+net models
+any reachable
+a safe
+r pn
+firing count
+a rendezvous
+be removed
+initial marking
+of fig
+can fire
+net that
+rule 1
+a redundant
+reachability analysis
+reduction methods
+unrolled butler
+operator task
+ok t
+accept body
+begin places
+ticg model
+accept statements
+of place
+is marked
+definition 2
+h p
+token in
+the accept
+of deadlock
+a deadlock
+the places
+ada program
+net the
+a reduced
+the reachability
+marking in
+on ada
+selective wait
+pump is
+net based
+call statement
+p is
+an entry
+firing sequence
+net transitions
+count vector
+statement the
+the token
+redundancy of
+fusion of
+no transition
+model reduction
+taylor s
+static analysis
+a task
+rules that
+satisfied 1
+transition firing
+p will
+condition 1
+these nets
+be enabled
+rule 3
+in 23
+places that
+net theory
+reduction rule
+applying rule
+using petri
+pn place
+jeffrey j
+nets obtained
+ok fires
+task customer
+tasks fully
+original ada net
+reduced ada net
+an original ada
+fully reduced ada
+state space generation
+a petri net
+petri net pn
+the original ada
+safe and ordinary
+original ada nets
+ada nets are
+the dining philosophers
+of petri net
+the reduction process
+of ada tasking
+reduced state space
+the ada net
+the gas station
+states arcs time
+place q ok
+transition t ok
+of net reduction
+a safe and
+an entry call
+1 2 r
+dining philosophers problem
+state space reduction
+place p is
+for deadlock analysis
+k 1 2
+an ada net
+a redundant place
+petri net reduction
+for a petri
+net reduction method
+rule 9 is
+in ada nets
+the reduced net
+space generation methods
+our net reduction
+ada net structure
+gas station program
+of the net
+fig 2 2
+theorem 4 2
+the state space
+r pn m
+entry ex place
+state space sizes
+of redundant places
+t ik p
+pn m 0
+t ok p
+specific analysis issue
+place is redundant
+the net reduction
+the reduced ada
+a reduced ada
+net structure corresponding
+transition t ik
+of theorem 4
+m p 1
+the removal of
+fig 2 1
+ordinary petri net
+an ordinary net
+structure corresponding to
+any reachable marking
+net that is
+deadlock analysis in
+entry call statement
+an accept statement
+of fig 2
+in fig 2
+the firing of
+of the reduction
+fig 2 3
+p is redundant
+then m p
+of a redundant
+in a safe
+the operator task
+ada net is
+the place q
+places in an
+net of fig
+ada nets and
+and ordinary net
+reduction process for
+of ada nets
+and ordinary petri
+net reduction tool
+space sizes for
+for deadlock detection
+reduction tool and
+net reduction for
+fusion of transitions
+q ok and
+net reduction and
+q ok t
+9 is applied
+ada tasking analysis
+the place p
+a reduction process
+impact the firing
+m r pn
+the reachability graph
+shown in fig
+p will not
+p t t
+the net structure
+a deadlock state
+a marking m
+firing count vector
+analysis in ada
+reduction rules that
+space reduction methods
+philosophers problem with
+of petri nets
+firing of t
+the token in
+in ada tasking
+b is marked
+petri net transitions
+analysis of ada
+to the place
+in an original
+for a safe
+removal of a
+theorem 4 1
+the reduction rules
+is also marked
+petri net based
+of a net
+petri net theory
+of the reduced
+the modified ticg
+q ok is
+is marked p
+rule 5 we
+special case instances
+q ok 1
+our reduction process
+tasks fully reduced
+reduction method we
+corresponding entry ex
+the wait place
+the reduction method
+ok p where
+that ada nets
+of phils tasks
+a fully reduced
+reachable states no
+combination of net
+operation of rule
+marked p is
+ada net each
+ada net a
+in an ada
+pn place p
+transition firing sequence
+arcs time difference
+t ok and
+q ok place
+m q ok
+call at line
+states and arcs
+the deadlock state
+reachability graph generation
+modified ticg 33
+a firing count
+ok is marked
+ada net the
+case instances of
+marking m where
+states no of
+using our net
+ada net model
+time modified ticg
+phils tasks fully
+exists a place
+the safeness property
+no of phils
+for ada nets
+accept places in
+net structure for
+general petri net
+entry call at
+jeffrey j p
+analysis issue and
+j p tsai
+redundant places in
+t ok fires
+arcs time modified
+ok t ik
+redundant if the
+the butler s
+not yet accepted
+the fully reduced
+by rule 7

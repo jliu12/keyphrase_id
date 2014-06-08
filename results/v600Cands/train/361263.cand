@@ -1,0 +1,600 @@
+edf
+fault
+faults
+deadline
+recovery
+feasibility
+tasks
+priority
+schedule
+aperiodic
+task
+ffi
+tolerance
+slack
+finish
+hrtss
+tolerant
+scheduling
+transient
+ks86
+deadlines
+backup
+schedules
+lowest
+pattern
+periodic
+nlogn
+mars
+hlmsr74
+bjpg89
+rosinger
+seu
+gammaslack
+lc88
+llmm99
+completes
+ejlali
+ghassem
+bashir
+miremadi
+hashimi
+schmitz
+extra
+seyed
+redundancy
+finishes
+heap
+standby
+ready
+logn
+renumber
+alireza
+tolerated
+timely
+corollary
+permanent
+earliest
+uniprocessor
+multiprocessor
+feasible
+magnification
+duplication
+idle
+uniprocessors
+catastrophic
+tolerate
+slot
+workload
+period
+marcus
+execute
+dispatching
+preemptive
+detection
+decremented
+tolerating
+satellite
+yf92
+v223000
+lmm98
+kop97
+gmm94
+cms82
+os92
+d00
+pra86
+gmm97
+caliberation
+rt93
+bmr99
+nc96
+lh94
+os95
+ha84
+cmr92
+os94
+gmm98
+rts94
+pm98
+orbiting
+0021
+of00
+cbm93
+ks97
+irh86
+dvs
+protons
+admission
+induced
+corollaries
+impetus
+spares
+abstractreal
+cosmic
+frame
+rs
+enhancing
+worst
+14e
+microelectronics
+0044
+ir86
+baruah
+precedence
+scheduled
+priorities
+slots
+tee
+nlog
+upset
+autopilot
+checksums
+shielded
+detected
+completed
+occurred
+missed
+pioneer
+finalize
+timeline
+sanjoy
+contingency
+sanity
+mechanisms
+highest
+sufficient
+latest
+cdot
+unfinished
+ions
+binocular
+optimally
+simulate
+safety
+nomenclature
+blocks
+collaborating
+ghost
+intervals
+execution
+paul
+launch
+simulating
+hinder
+failure
+steadily
+trol
+opcode
+corruption
+miss
+image
+ples
+timeliness
+suppression
+dabt63
+rms
+consequences
+hardware
+356
+masked
+encompass
+teams
+recover
+reliability
+extrapolation
+proposing
+semiconductor
+qin
+measurement
+patterns
+simulation
+enhanced
+illegal
+robots
+submit
+convenience
+triggering
+electronics
+resources
+checking
+edf f
+edf t
+fault pattern
+in edf
+task set
+f t
+priority task
+pattern f
+of edf
+extra work
+edf schedule
+lowest priority
+ffi w
+the fault
+w faults
+the feasibility
+a task
+a fault
+e i
+two faults
+task i
+feasibility of
+feasibility test
+w f
+tolerant scheduling
+t j
+fault free
+of faults
+set t
+its deadline
+finish by
+fault tolerant
+fault tolerance
+maximum extra
+tasks in
+any fault
+k faults
+periodic tasks
+real time
+any task
+specific fault
+completes by
+aperiodic tasks
+each task
+transient faults
+time t
+deadline in
+or before
+of ffi
+task in
+recovery block
+n w
+ffi t
+at e
+the lowest
+and sufficient
+the task
+for aperiodic
+will finish
+time systems
+recovery blocks
+before time
+faults in
+t and
+t completes
+necessary and
+recovery from
+fault patterns
+free schedule
+in t
+ffi function
+tolerance in
+t in
+at or
+for fault
+between e
+the tasks
+the edf
+free edf
+sufficient feasibility
+that edf
+if edf
+from edf
+simulate edf
+recovery work
+the recovery
+by d
+d i
+work at
+for recovery
+of tasks
+and edf
+t finishes
+from faults
+timely recovery
+as slack
+finishes at
+edf schedules
+w t
+hard real
+faults for
+t t
+a recovery
+faults can
+tolerance to
+condition for
+zero between
+sufficient condition
+schedule for
+if part
+permanent faults
+given t
+the ffi
+equation 6
+finish before
+o nlogn
+the timely
+t which
+o n
+highest priority
+task with
+task sets
+w and
+f w
+faults occur
+to transient
+the extra
+a specific
+single fault
+ready at
+frame based
+a necessary
+three tasks
+a sufficient
+the backup
+schedule of
+complete execution
+at time
+necessary feasibility
+faults note
+less faults
+transient error
+computational convenience
+algorithm sufficient
+slack 2
+when edf
+seu tolerance
+faults w
+j highest
+gammaslack e
+block hlmsr74
+computing ffi
+1 simulate
+aperiodic preemptive
+to edf
+marcus t
+t states
+in llmm99
+2 renumber
+work induced
+paul rosinger
+simulating edf
+enhancing fault
+both edf
+tasks complete
+t schmitz
+work that
+faults we
+t is
+theorem 2
+pattern with
+a deadline
+earliest deadline
+faults is
+given task
+the slack
+fault in
+many mechanisms
+ghassem miremadi
+rs t
+exactly w
+feasibility check
+al hashimi
+multiple transient
+m al
+convenience 5
+compute equation
+n task
+bashir m
+seyed ghassem
+information redundancy
+an aperiodic
+alireza ejlali
+not necessary
+t f
+t for
+priority of
+i gamma1
+feasible if
+be tolerated
+edf f t
+in edf f
+fault pattern f
+lowest priority task
+for the feasibility
+the lowest priority
+a task set
+task set t
+feasibility of edf
+of edf f
+edf t and
+any fault pattern
+the feasibility of
+ffi t t
+in edf t
+priority task in
+fault tolerant scheduling
+the fault free
+or before time
+given a task
+task in t
+its deadline in
+extra work at
+a specific fault
+maximum extra work
+specific fault pattern
+the maximum extra
+a fault pattern
+the extra work
+at or before
+tasks in t
+the task set
+before time t
+necessary and sufficient
+by its deadline
+the fault pattern
+at e i
+the edf schedule
+schedule for t
+t completes by
+simulation of edf
+deadline in edf
+edf t j
+any two faults
+fault free schedule
+of ffi w
+condition for the
+f t for
+time t in
+real time systems
+t t f
+between e i
+in t j
+schedule of t
+e i gamma1
+the ffi function
+f t j
+in the fault
+task set and
+t and a
+value of ffi
+number of faults
+that w t
+t j 1
+and sufficient feasibility
+t finishes at
+of edf t
+for any fault
+to transient faults
+f t at
+edf t is
+which by property
+i in edf
+work at e
+feasibility test for
+edf schedule of
+tolerance to transient
+two faults in
+t in edf
+well as slack
+given t and
+zero between e
+i t finishes
+finish by its
+any task with
+from edf t
+fault pattern with
+the timely recovery
+execute in edf
+fault free edf
+extra work that
+a the task
+task with r
+finishes at or
+most k faults
+completes by d
+free edf schedule
+a necessary and
+a given t
+faults can be
+set t and
+by d i
+sufficient condition for
+and sufficient condition
+hard real time
+timely recovery from
+a recovery block
+transient faults for
+t which means
+faults for aperiodic
+will finish by
+work to be
+fault tolerance in
+the tasks in
+for aperiodic tasks
+be feasible if
+given task set
+r i t
+application of theorem
+a single fault
+a task i
+t for a
+with r i
+implies that w
+note that although
+at time t
+t in other
+f t is
+is the lowest
+1 simulate edf
+of w faults
+with k or
+extra work induced
+sufficient feasibility check
+3 will finish
+of faults to
+property 3 implies
+f t this
+its recovery blocks
+an aperiodic task
+both edf t
+t which by
+recovery block of
+available between e
+computation of ffi
+of faults w
+and edf f
+a transient error
+edf t which
+necessary feasibility test
+for aperiodic preemptive
+duplication of resources
+in both edf
+highest priority tasks
+with three tasks
+done at time
+f at time
+t and edf
+free schedule and
+execution in edf
+scheduled and k
+aperiodic tasks we
+faults w and
+function w f
+task set d
+work induced by
+let e this
+w faults that
+ffi function is
+task 3 will
+all w faults
+heap when it
+renumber the tasks
+b the fault
+particular fault pattern
+the n task
+in t completes
+n task sets
+seu tolerance in
+enhancing fault tolerance
+slack 2 renumber
+or less faults
+faults in 1
+slack available between
+each task may
+that edf f
+3 compute equation
+fault pattern of
+computational convenience 5
+exactly w faults
+from faults is
+marcus t schmitz
+the j highest
+faults occur in
+two faults the
+simulate edf t
+in frame based
+between n w
+as slack 2
+derived from edf

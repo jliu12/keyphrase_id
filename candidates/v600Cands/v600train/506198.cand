@@ -1,0 +1,270 @@
+svc
+cache
+speculative
+versioning
+vcl
+arb
+bus
+squashes
+commits
+caches
+stale
+committed
+l1
+vol
+ec
+ecs
+snapshot
+request
+snooping
+buswrite
+dirty
+load
+squashed
+hit
+task
+stores
+store
+multiscalar
+invalidated
+smp
+tasks
+commit
+busread
+loads
+bit
+buffered
+ld
+versions
+invalidation
+squash
+processor
+misses
+private
+coherent
+speculation
+dependences
+instructions
+latency
+coherence
+processors
+st
+tag
+requestor
+copy
+uncommitted
+invalidates
+executes
+miss
+copies
+supplied
+instruction
+architected
+designs
+snapshots
+buswback
+snarf
+ambiguous
+memory
+issued
+issuing
+clean
+supplies
+architectural
+executed
+cst
+location
+backs
+reset
+multiprocessors
+dependence
+hierarchical
+base
+storage
+buffer
+chip
+parallelization
+pointers
+disambiguation
+hits
+writebuffers
+speculative versioning
+the svc
+task commits
+bus request
+the vcl
+ec design
+the vol
+the arb
+program order
+t bit
+svc design
+store to
+ecs design
+base design
+a store
+a task
+a bus
+l1 cache
+hit latency
+snooping bus
+task squashes
+cache z
+hierarchical execution
+the ec
+cache line
+ld r
+versioning cache
+speculative versions
+l1 caches
+the ecs
+level memory
+a load
+bit is
+each cache
+the speculative
+order among
+the load
+snapshot is
+next level
+the l1
+c bit
+versioning for
+buswrite request
+base svc
+memory dependence
+for speculative
+execution model
+the store
+loads and
+committed version
+second snapshot
+private cache
+by task
+and stores
+private l1
+first snapshot
+a buswrite
+dirty lines
+a busread
+multiple speculative
+are invalidated
+the line
+commits and
+l bit
+memory dependences
+the version
+a st
+committed versions
+ambiguous memory
+and squashes
+the stale
+the bus
+task 2
+in cache
+the caches
+a cache
+the t
+commits by
+proposed next
+the base
+address a
+the cache
+line is
+a line
+line to
+executes a
+written back
+task 1
+same line
+invalidation response
+a bus request
+the ec design
+next level memory
+the base design
+the t bit
+speculative versioning cache
+ld r a
+for speculative versioning
+the ecs design
+a store to
+store to a
+snapshot is taken
+hierarchical execution model
+the l1 caches
+each cache line
+loads and stores
+bit is set
+the next level
+order among the
+base svc design
+the c bit
+snooping bus based
+program order among
+speculative versioning for
+the second snapshot
+the first snapshot
+commits and squashes
+task commits and
+the speculative versioning
+ambiguous memory dependences
+bus request the
+request the vcl
+first snapshot is
+when a task
+the l bit
+in program order
+the program order
+version if any
+the a bit
+a buswrite request
+proposed next generation
+a previous task
+executes a load
+in cache z
+the hierarchical execution
+a store miss
+support for speculative
+the same line
+on a bus
+the correct version
+is taken after
+of a line
+versions created by
+a task commits
+bus based cache
+the vol in
+issue a bus
+an invalidation response
+the architected storage
+and speculative versioning
+version control logic
+address resolution buffer
+cache issues a
+coherence and speculative
+executed by task
+a bit is
+t bit in
+a busread request
+task commits by
+st 1 a
+c bit is
+versioning cache svc
+l bit is
+for the svc
+a cache line
+is set in
+speculative versions of
+executes a store
+design section 3
+the address resolution
+a load that
+supplies the data
+taken after the
+that misses in
+address a in
+read only data
+on a store
+misses in cache
+the closest previous
+the most recent

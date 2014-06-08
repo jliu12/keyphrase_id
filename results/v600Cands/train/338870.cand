@@ -1,0 +1,600 @@
+cache
+misses
+instruction
+analyzer
+timing
+categorizations
+miss
+wcet
+pipeline
+loop
+wrap
+cycles
+hits
+calculated
+instructions
+references
+caching
+caches
+overestimations
+inst
+fetched
+hit
+addresses
+fill
+microsparc
+int
+loaded
+curr
+calc
+word
+static
+info
+longest
+worst
+reference
+lo
+simulator
+encountered
+calculator
+sorta
+matmulb
+matmula
+iterations
+o0
+delay
+categorization
+mueller
+penalty
+array
+statically
+register
+locality
+compiler
+arrays
+prediction
+activation
+registers
+bytes
+dead
+waf
+matcnta
+matsuma
+virtual
+accessed
+predictions
+exit
+ref
+iter
+loops
+load
+stack
+cycle
+des
+induction
+vpo
+fetch
+sparc
+contemporary
+hi
+categorized
+concatenate
+child
+iteration
+path
+expansion
+temporal
+kiran
+filling
+segment
+tighter
+scalar
+frank
+around
+unioned
+o3
+bounding
+sp
+l4
+o4
+g0
+annulled
+matcntb
+matsumb
+_b
+kaustubh
+aravindh
+anantaraman
+delays
+stage
+stride
+predicting
+calculates
+overlapped
+optimizations
+50x50
+10x10
+rtls
+bubblesort
+wcets
+patil
+expanded
+seth
+schedulability
+referenced
+files
+declarations
+store
+inner
+paths
+assembly
+heap
+ranges
+5x5
+healy
+wankang
+subtracts
+conflicting
+accomplished
+programs
+slot
+919
+100x100
+detects
+loading
+address
+outer
+pipelining
+fit
+segments
+fm
+entered
+o5
+invocation
+aligned
+flow
+requested
+rotenberg
+00
+subtract
+conservatively
+temporaries
+mov
+calls
+sethi
+i4
+max
+union
+analyzing
+innermost
+delayed
+whalley
+num
+exited
+mem
+diagram
+risc
+944
+treated
+hazard
+overestimation
+arrival
+linker
+2500
+estimated
+invariant
+lines
+compilers
+block
+predict
+sunos
+floating
+86
+396
+spend
+spatial
+st
+calculate
+444
+categorize
+rtl
+timing analyzer
+program line
+r 25
+calculated references
+around fill
+data reference
+the timing
+r 20
+calculated reference
+into cache
+data cache
+wrap around
+timing analysis
+h h
+first misses
+in cache
+data line
+first hits
+data caching
+data references
+worst case
+the loop
+data lines
+if stage
+output state
+static cache
+m h
+the pipeline
+loaded into
+loop analysis
+25 r
+20 r
+static data
+data caches
+the static
+microsparc i
+each calculated
+remaining misses
+fill analysis
+miss penalty
+instruction cache
+state b
+code segment
+a miss
+relative addresses
+the microsparc
+caching behavior
+induction variables
+cache simulator
+time stack
+case timing
+of calculated
+the wcet
+line fetched
+int matrix
+virtual address
+test programs
+each loop
+the longest
+longest path
+a calculated
+additional cycles
+cache simulation
+the program
+h m
+temporal locality
+case execution
+b data
+case loop
+pipeline info
+first miss
+induction register
+calc output
+address calculator
+pipeline diagram
+min misses
+static simulator
+wcet prediction
+dead cycle
+and wrap
+available times
+the if
+a loop
+each instruction
+this path
+last line
+cache the
+the instruction
+virtual addresses
+cache line
+contemporary architectures
+encountered first
+as misses
+1 00
+control flow
+frank mueller
+00 1
+loop the
+instruction in
+while loop
+significantly tighter
+encountered as
+analyzer uses
+wcet of
+path analysis
+total cycles
+r 21
+instruction 5
+inner loop
+hits and
+of addresses
+wcet for
+observed cycles
+small overestimations
+the categorizations
+lo b
+pipeline analysis
+sum values
+curr iter
+concatenate pipeline
+function instances
+info for
+function instance
+info with
+of wcet
+hits encountered
+categorizations for
+left code
+completely loaded
+pipeline effects
+the while
+the caching
+real time
+reference is
+cache state
+case data
+the worst
+reference in
+loop invariant
+first instruction
+store of
+flow information
+25 b
+misses first
+timing predictions
+lines d
+analysis for
+each data
+analysis algorithm
+loop is
+cycles for
+a cache
+a hit
+time systems
+be in
+register r
+references to
+the data
+cache performance
+instruction caching
+reference miss
+activation record
+instruction fetch
+associated with
+cycles required
+aligned on
+references are
+addresses for
+cache misses
+the array
+int i
+first iteration
+28 26
+being loaded
+address information
+delay slot
+fit into
+of cycles
+locality across
+expansion of
+the words
+of relative
+blocks 2
+references will
+words per
+line 0
+within loops
+for wrap
+address ranges
+path concatenate
+cycles associated
+repeated references
+word num
+right code
+100 int
+20 lo
+curr word
+longest exit
+fill caches
+pipeline path
+the timing analyzer
+wrap around fill
+h h h
+loaded into cache
+r 20 r
+m h h
+r 25 r
+h m h
+be in cache
+the if stage
+each data reference
+in this path
+20 r 25
+the microsparc i
+around fill analysis
+state b data
+output state b
+each calculated reference
+run time stack
+h h m
+a r 25
+a calculated reference
+the static cache
+loop analysis algorithm
+last line fetched
+the timing analysis
+worst case execution
+1 00 1
+static cache simulator
+of relative addresses
+the longest path
+worst case timing
+by the timing
+for each loop
+timing analysis for
+in cache the
+calc output state
+b data lines
+timing analyzer uses
+calculated references are
+from m h
+the program line
+and wrap around
+worst case loop
+case loop analysis
+the worst case
+when the timing
+case timing analysis
+the static data
+fit into cache
+sequence of calls
+worst case data
+case execution time
+the loop is
+the while loop
+instruction in the
+caching behavior of
+the caching behavior
+data cache performance
+in the loop
+first instruction in
+control flow information
+first hits and
+calculated reference miss
+28 26 28
+pipeline info with
+r 25 b
+data lines d
+entire program line
+misses first hits
+the calculated references
+being loaded into
+info with the
+first hits encountered
+sum values in
+data reference in
+encountered as misses
+first misses first
+left code segment
+additional cycles required
+the static simulator
+info for all
+25 r 20
+lo b from
+case data cache
+words per line
+concatenate pipeline info
+the data reference
+remaining misses of
+the left code
+of contemporary architectures
+real time systems
+the data cache
+for the loop
+the first instruction
+the data references
+for data caches
+temporal locality across
+cycles required by
+data caches and
+relative addresses for
+00 1 15
+of each data
+number of cycles
+of the loop
+timing analysis of
+the last line
+analysis for data
+the wcet of
+the inner loop
+number of iterations
+the first iteration
+with the union
+a loop or
+a cache line
+worst case performance
+allocated to registers
+a i j
+the miss penalty
+each loop iteration
+the test programs
+misses of each
+lines d could
+analysis for hard
+of remaining misses
+of calculated references
+first misses encountered
+lo a r
+data lines associated
+r 20 lo
+be completely loaded
+cache during the
+the pipeline analysis
+in schedulability analysis
+longest path detected
+the longest exit
+instruction 8 is
+the wcet for
+caches and wrap
+wrap around filling
+a hit or
+and calculated references
+path concatenate pipeline
+program line 0
+20 r 21
+basic induction variables
+or a miss
+cache the static
+encountered first hits
+when wrap around
+i is ref
+loop invariant registers
+number of calculated
+for wrap around
+of calls associated
+pipeline path analysis
+calls associated with
+around fill is
+data reference categorizations
+this path concatenate
+memory address r
+data references can
+static cache simulation
+pipeline effects of
+of cycles associated
+register r 20
+static instruction cache
+range of relative
+hits and calculated
+around fill caches
+longest exit path
+26 28 26
+the right code
+13 from m
+program line is
+around filling for
+sum a i
+of a calculated
+output state p
+r 25 hi
+of iterations associated
+the data lines
+previous line delay
+induction register for
+prediction of contemporary
+path detected in
+right code segment
+use in schedulability
+the observed cycles
+address r 20
+cycles associated with
+contemporary architectures and
+a program line
+misses encountered first
+information the timing
+required by union
+input state b
+on the microsparc
+pipeline diagram for
+scalar data references

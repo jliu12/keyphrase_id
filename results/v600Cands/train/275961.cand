@@ -1,0 +1,600 @@
+ffi
+chebyshev
+outer
+inner
+tolerance
+asymptotic
+nb
+iterations
+fi
+phi
+inexact
+convergence
+iteration
+fik
+ae
+subproblem
+sinh
+113
+dt
+slowly
+tolerances
+ffl
+seek
+calculations
+inexactly
+strategy
+seidel
+accuracy
+112
+gauss
+cosh
+00
+substitute
+oe
+06relative
+finb
+fffi
+decaying
+shall
+giladi
+iterative
+020
+fluctuations
+lowest
+powers
+varying
+133
+132
+lim
+strategies
+expansion
+63
+rate
+64
+59
+numerical
+discretization
+agreement
+46
+asymptotics
+62
+74
+equate
+37
+induction
+recurrence
+fit
+ellipse
+manipulation
+gamma0
+taylor
+symmetric
+log
+5369
+4458
+5571
+6324
+5143
+wkb
+6208
+5144
+9505393
+6722
+tchebychev
+5199
+11137
+5697
+7447
+8093
+7167
+6203
+10228
+inequality
+expression
+neglected
+solving
+8660
+tchebyshev
+6relative
+6444
+9120008
+9423
+dirichlet
+nonsymmetric
+preconditioned
+coefficients
+60
+82
+validity
+tanh
+4666
+remainders
+gineers
+993
+approximation
+126
+exponentially
+error
+gradually
+foci
+98
+69
+105
+manteuffel
+side
+72
+substituting
+uzawa
+convex
+67
+overton
+differential
+iterate
+equations
+925
+entry
+93
+eulerian
+undetectable
+keller
+cb
+yields
+proposition
+relaxation
+monotonically
+lemma
+restate
+diagonalizable
+2ffl
+solved
+estimate
+47
+equation
+exact
+absolute
+percent
+equating
+expanded
+emphasize
+diminishes
+stretched
+20000
+05
+experiment
+70
+79
+83
+slows
+entries
+richardson
+saddle
+iteratively
+homogeneous
+78
+76
+68
+afosr
+accelerating
+ccr
+deltax
+golub
+ordinary
+quantities
+rays
+unimportant
+interplay
+replaced
+series
+splitting
+jensen
+redefine
+71
+73
+scientists
+waves
+87
+amplitude
+analogous
+56
+equa
+k ffi
+ffl ffi
+outer iterations
+constant strategy
+inner iteration
+nb ffl
+inner iterations
+tolerance values
+phi ffi
+asymptotic convergence
+of inner
+ffi k
+strategy ffi
+variable strategy
+chebyshev iteration
+convergence rate
+of outer
+the asymptotic
+of tolerance
+in ffl
+ffi in
+accuracy ffl
+right side
+numerical calculations
+outer iteration
+the chebyshev
+n ffl
+ffi x
+the inexact
+oe k
+side of
+ffi fi
+slowly varying
+symmetric gauss
+ae k
+constant tolerance
+ffi fit
+fit dt
+iteration is
+ffi is
+the constant
+the tolerance
+n ffi
+that ffi
+calculations that
+the inner
+the error
+inexact algorithm
+associated constant
+tolerance ffi
+r nb
+to accuracy
+iterations n
+of fi
+x ffi
+n outer
+convergence factor
+iterations with
+fik phi
+respectively inner
+112 and
+by 112
+varying strategies
+113 respectively
+variable tolerance
+strategy case
+ffi n
+00 0
+s o
+ffi and
+asymptotic approximation
+few numerical
+and fi
+error in
+and 113
+inexact chebyshev
+we seek
+k x
+non increasing
+the variable
+error bound
+gauss seidel
+seek the
+ffi we
+o r
+of ffl
+ffi given
+in 46
+the convergence
+the right
+initial conditions
+increasing strategy
+bound 11
+ffi gamma
+in 113
+accuracy ffi
+r fik
+n in
+bound for
+relative error
+fi we
+iteration to
+we shall
+is solved
+strategy is
+iterations required
+an asymptotic
+the cost
+and outer
+resulting expression
+inner and
+conditions 14
+optimal constant
+in taylor
+at outer
+fffi k
+ffi t
+t dt
+after n
+we substitute
+the subproblem
+exact algorithm
+ffi by
+chebyshev method
+obtain to
+we solve
+in number
+the lowest
+it follows
+the tolerances
+possible cost
+exponentially decaying
+at step
+iteration the
+to obtain
+fi fi
+ffi the
+that demonstrate
+in 37
+tolerance for
+in powers
+with strategy
+some manipulation
+the exact
+find that
+optimal strategy
+follows from
+of k
+each side
+obtain after
+ffi ffi
+then we
+step k
+k phi
+the bound
+linear system
+e k
+for k
+that yields
+100 00
+difference in
+ffl 1
+lowest possible
+a constant
+ae ae
+fi 1
+iteration with
+solving the
+the sequence
+rate of
+the optimal
+the accuracy
+in 13
+a subproblem
+subproblem is
+obtain we
+10 00
+13 and
+log e
+strategy the
+k 0
+r k
+r x
+powers of
+seidel table
+tolerances ffi
+46 then
+exact scheme
+inner problem
+strategy scheme
+cost 45
+yields with
+113 with
+decaying term
+fi vary
+020 06relative
+with nb
+strategy hence
+k finb
+increasing that
+number of inner
+asymptotic convergence rate
+of inner iterations
+nb ffl ffi
+n in ffl
+of tolerance values
+the asymptotic convergence
+sequence of tolerance
+in ffl ffi
+oe k ffi
+of outer iterations
+n ffl ffi
+number of outer
+the right side
+right side of
+the inner iteration
+inner iteration is
+k ffi in
+ffi x is
+the variable strategy
+k ffi fi
+the chebyshev iteration
+numerical calculations that
+the constant strategy
+s o r
+yields the lowest
+symmetric gauss seidel
+iterations with the
+r nb ffl
+n outer iterations
+associated constant strategy
+few numerical calculations
+ffi fit dt
+iteration is symmetric
+for k ffi
+difference in number
+is symmetric gauss
+the inexact algorithm
+convergence rate of
+for the inner
+of the inexact
+the associated constant
+that ffi x
+s s o
+with the variable
+calculations that demonstrate
+variable strategy ffi
+b and fi
+112 and 113
+k ffi by
+the variable tolerance
+and 113 respectively
+phi ffi t
+ffl ffi in
+ae k x
+slowly varying strategies
+defined by 112
+fik phi ffi
+by 112 and
+113 respectively inner
+respectively inner iteration
+ffi t dt
+present a few
+k and fi
+a few numerical
+rate of the
+to accuracy ffl
+iterations required to
+with the constant
+we seek the
+it follows from
+and outer iterations
+required to achieve
+for the chebyshev
+relative error in
+bound for the
+the difference in
+the convergence factor
+for the error
+a non increasing
+r fik phi
+at outer iteration
+a constant strategy
+e r k
+non increasing strategy
+convergence rate when
+the inexact chebyshev
+e k ffi
+ffi n in
+iteration is s
+in taylor series
+to obtain after
+ffi fi for
+r k phi
+k phi ffi
+evaluate the asymptotic
+phi ffi fit
+ffi in 13
+iteration to accuracy
+initial conditions 14
+constant strategy is
+with strategy ffi
+inexact algorithm is
+ffl ffi n
+for e k
+ffi gamma n
+ffl ffi gamma
+after n outer
+outer iterations required
+for r x
+outer iterations n
+the constant tolerance
+the relative error
+the exact algorithm
+inner and outer
+the resulting expression
+in number of
+each side of
+defined in 37
+k ffi and
+fffi k g
+powers of fi
+chebyshev iteration with
+outer iterations with
+let k ffi
+the optimal constant
+lowest possible cost
+ffi given by
+iterations n in
+inner iterations with
+inner iterations n
+independent of k
+at step k
+that yields the
+the sequence of
+the optimal strategy
+the error bound
+an asymptotic approximation
+gamma n in
+inner iteration to
+inner iteration the
+an inner iteration
+by an inner
+after some manipulation
+error is reduced
+is s s
+the bound for
+ffi is the
+tolerance for the
+obtain after some
+in powers of
+we note from
+ffl 1 2
+strategy is optimal
+the initial conditions
+we find that
+demonstrate the accuracy
+for large k
+13 and 14
+in 13 is
+when the sequence
+the lowest possible
+of section 7
+of k and
+fi fi fi
+the total number
+total number of
+in which at
+to be determined
+of the exact
+we obtain an
+the solution of
+iterate x 0
+to accuracy ffi
+k a subproblem
+variable strategy is
+x ffi k
+ffl ffi we
+exponentially decaying term
+to obtain to
+above analysis in
+113 inner iteration
+asymptotic approximation for
+possible cost for
+taylor series in
+express each side
+error bound 64
+fi for small
+achieve an accuracy
+error in 0
+resulting expression to
+gamma1 r nb
+chebyshev method is
+k b method
+delta in 13
+ffi k 0
+the exact scheme
+ffi and k
+that k ffi
+fi vary from

@@ -1,0 +1,600 @@
+branch
+fnt
+branches
+btb
+try15
+misfetch
+alignment
+pht
+bt
+unconditional
+fallthrough
+pettis
+prediction
+instruction
+fall
+conditional
+greedy
+axp
+04
+architectures
+mispredicted
+mcfarling
+hansen
+hwu
+09
+penalty
+alignments
+alvinn
+architecture
+orig
+instructions
+penalties
+chains
+cpi
+mispredict
+bray
+om
+02
+aligning
+alpha
+cfront
+21604
+calder
+21064
+fetch
+profile
+brad
+flynn
+laid
+05
+spec92
+groff
+edges
+08
+predict
+indirect
+doduc
+07
+espresso
+misfetched
+btbs
+8999
+executed
+static
+microarchitecture
+misprediction
+programs
+cache
+chang
+chain
+darkened
+reordering
+blocks
+predicted
+06
+grunwald
+ann
+cycles
+jumps
+arbor
+specfp92
+specint92
+jump
+pipeline
+dec
+03
+transformations
+history
+4096
+01
+traced
+dirk
+gcc
+transformed
+tera
+compiler
+decoded
+notices
+spice
+amitabh
+align
+347
+edge
+michigan
+whalley
+fallthroughandbt
+phts
+minghui
+misfetches
+idl
+28th
+sigplan
+breaks
+90
+target
+srivastava
+atom
+likely
+su2cor
+aligned
+simulations
+optimizations
+hydro2d
+saturating
+subroutine
+ryung
+bep
+benefit
+fetched
+sc
+compress
+architec
+compiled
+gloy
+caches
+costs
+68
+mozer
+destination
+simulated
+toplas
+exit
+trace
+calls
+lindsay
+99
+entry
+miss
+larriba
+978
+pey
+transformation
+3000
+eqntott
+737
+reinman
+positioning
+86
+jimnez
+zorn
+underlining
+crisp
+bubbles
+uh
+block
+rearranging
+david
+smith
+heuristic
+81
+diction
+ramirez
+michael
+loop
+squashed
+tex
+osf
+link
+register
+53
+mechanisms
+71
+sigarch
+risc
+elim
+sizable
+tures
+annual
+frequently
+hennessy
+predicting
+profiles
+flow
+ret
+cbr
+sept
+buffer
+processor
+72
+hp
+branch alignment
+fall through
+bt fnt
+1 09
+1 04
+04 1
+09 1
+branch prediction
+the bt
+conditional branches
+the fall
+prediction architectures
+1 02
+the btb
+misfetch penalty
+02 1
+the branch
+10 1
+05 1
+1 10
+fnt architecture
+1 07
+1 05
+taken branches
+unconditional branches
+pettis and
+the likely
+the fallthrough
+1 11
+11 1
+1 12
+1 08
+basic blocks
+12 1
+the try15
+07 1
+13 1
+and hansen
+alpha axp
+08 1
+cost model
+1 13
+alignment algorithms
+greedy try15
+orig greedy
+1 06
+06 1
+hwu and
+conditional branch
+basic block
+of branch
+greedy algorithm
+1 01
+branch architectures
+the misfetch
+static branch
+14 1
+1 14
+branch target
+from branch
+the pht
+unconditional branch
+the greedy
+and chang
+try15 orig
+fnt model
+1 03
+15 1
+axp 21064
+17 1
+hansen 21
+bray and
+and flynn
+a misfetch
+relative cpi
+btb architectures
+branches in
+1 15
+control flow
+dynamic branch
+original program
+1 17
+brad calder
+branches are
+01 1
+branches the
+of branches
+branch costs
+through branches
+try15 algorithm
+1995 ann
+axp 21604
+btb architecture
+of mcfarling
+try15 heuristic
+mispredict penalty
+fallthrough architecture
+executed conditional
+misfetch and
+likely architecture
+calder dirk
+each architecture
+indirect jumps
+the taken
+reducing branch
+branches that
+the spec92
+misfetch penalties
+taken conditional
+architecture when
+the pettis
+the transformed
+the cost
+laid out
+international symposium
+03 1
+target buffer
+on microarchitecture
+branches and
+01 1995
+different branch
+branches we
+transformed code
+edges are
+the alpha
+for branch
+execution time
+in control
+we simulated
+likely model
+out going
+of instructions
+for conditional
+microarchitecture p
+a fall
+the aligned
+d smith
+an unconditional
+21604 architecture
+lowest executed
+possible alignments
+fallthrough model
+btb miss
+specint92 and
+chang 18
+architectural cost
+cycle misfetch
+executed path
+pht architectures
+branch model
+mcfarling and
+aligned program
+way btb
+alignment which
+through basic
+various branch
+branch penalties
+are fall
+out chains
+mapped pht
+input hidden
+doduc 1
+predict edge
+issue architecture
+pht and
+dirk grunwald
+correctly predict
+the chains
+michigan united
+link time
+instruction fetch
+code transformations
+greedy and
+29 december
+architecture the
+1 00
+branch is
+predict the
+the programs
+correctly predicted
+branch instruction
+our cost
+architectures and
+the static
+november 29
+per instruction
+and pettis
+by pettis
+43 71
+alignments for
+and misprediction
+relative cycles
+of fall
+by hwu
+else constructs
+4096 entry
+btb s
+a branch
+cycles per
+branch history
+1 09 1
+1 04 1
+the bt fnt
+the fall through
+1 10 1
+09 1 09
+1 12 1
+04 1 04
+1 02 1
+1 05 1
+1 11 1
+1 13 1
+bt fnt architecture
+1 07 1
+1 08 1
+pettis and hansen
+1 14 1
+1 06 1
+02 1 02
+branch prediction architectures
+orig greedy try15
+05 1 04
+1 15 1
+1 17 1
+branch alignment algorithms
+hwu and chang
+bt fnt model
+greedy try15 orig
+12 1 11
+try15 orig greedy
+the branch alignment
+10 1 10
+1 01 1
+in the btb
+and hansen 21
+bray and flynn
+07 1 07
+from branch alignment
+02 1 01
+the misfetch penalty
+the greedy algorithm
+the original program
+static branch prediction
+11 1 11
+the alpha axp
+for each architecture
+alpha axp 21064
+1 03 1
+annual international symposium
+alpha axp 21604
+december 01 1995
+the fallthrough architecture
+calder dirk grunwald
+fall through branches
+a fall through
+15 1 11
+for the pht
+prediction architectures and
+1995 ann arbor
+a misfetch penalty
+11 1 10
+the try15 algorithm
+brad calder dirk
+29 december 01
+04 1 03
+the try15 heuristic
+01 1995 ann
+the likely model
+of branch alignment
+the likely architecture
+04 1 05
+executed conditional branches
+for conditional branches
+international symposium on
+in control flow
+symposium on microarchitecture
+cost of branches
+14 1 09
+taken conditional branches
+than the bt
+branch target buffer
+the cost model
+dynamic branch prediction
+conditional branches the
+for the bt
+number of instructions
+the greedy and
+our cost model
+1 18 1
+cycles per instruction
+on microarchitecture p
+michael d smith
+the conditional branch
+arbor michigan united
+michigan united states
+00 1 00
+13 1 07
+the btb architectures
+dynamic prediction architectures
+different branch architectures
+and chang 18
+using our cost
+misfetch and misprediction
+01 1 02
+fall through of
+than the greedy
+basic block 4
+the aligned program
+the fallthrough model
+cycle misfetch penalty
+the relative cpi
+for the fallthrough
+one cycle misfetch
+10 1 07
+relative cycles per
+misfetch penalty for
+06 1 04
+05 1 05
+01 1 01
+cause a break
+of fall through
+direct mapped pht
+specint92 and other
+architectural cost model
+17 1 09
+frequently executed path
+branch alignment is
+fall through basic
+the btb architecture
+axp 21604 architecture
+laid out chains
+are fall through
+for the likely
+that branch alignment
+november 29 december
+a conditional branch
+the transformed code
+acm sigplan notices
+sigplan notices v
+28th annual international
+1 00 1
+ann arbor michigan
+14 1 13
+an unconditional branch
+use profile information
+using the bt
+break in control
+by pettis and
+then else constructs
+13 1 12
+12 1 12
+09 1 08
+the pettis and
+14 1 12
+and pettis and
+and other programs
+10 1 12
+fall through and
+better than the
+branch target buffers
+the 28th annual
+12 1 10
+for instruction caches
+1 19 1
+1 26 1
+hp pa risc
+of the conditional
+if then else
+the branch instruction
+branch prediction for
+conditional branches in
+target buffer design
+static and dynamic
+the transformed program
+a break in
+control flow graph
+of the 28th
+cost model in
+program using the
+basic blocks the
+programming languages and
+1 16 1
+written in c
+cost effective to
+basic blocks are
+of the branches
+the cost of
+the hp pa
+the control flow
+of the time
+21 n 5
+1 25 1
+for the static
+of branch prediction
+an index into
+on a dec
+execution time for
+total execution time
+programs were compiled
+branch penalties it

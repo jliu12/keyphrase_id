@@ -1,0 +1,600 @@
+primal
+hrvw
+ksh
+sdp
+affine
+dual
+aho
+semidefinite
+muramatsu
+scaling
+mt
+interior
+nt
+direction
+monteiro
+vanderbei
+alizadeh
+convergence
+dikin
+masakazu
+haeberly
+lp
+feasible
+roos
+trajectory
+overton
+complementarity
+terlaky
+klerk
+kojima
+directions
+shida
+shindoh
+unc
+converges
+tsuchiya
+trajectories
+converging
+toh
+polynomial
+region
+lemma
+karmarkar
+todd
+resende
+newton
+ut
+symmetric
+2u
+converge
+nesterov
+boundary
+robert
+putting
+nondegenerate
+bold
+adler
+zhang
+sturm
+continuous
+tangential
+optimality
+gramming
+componentwise
+overtonsearch
+convexquadratic
+contra
+60c05
+borchers
+zanjacomo
+jarre
+60e05
+followingalgorithm
+faybusovich
+monteriro
+csdp
+03789
+meketon
+correctoe
+saigal
+ccr94
+obviously
+monotone
+contradiction
+lim
+subject
+helmberg
+16x
+kanagawa
+fujisawa
+equalities
+fields
+symmetrize
+sdlcp
+rendl
+duality
+47
+symmetrizing
+wolkowicz
+scheinberg
+elucidates
+masayuki
+closure
+infeasible
+predictor
+subsequence
+deal
+freedman
+rediscovered
+hara
+potra
+sufficiently
+particulars
+jansen
+jamming
+vandenberghe
+date
+maximize
+field
+diverging
+nemirovskii
+kindly
+omit
+goldfarb
+aims
+feasibility
+48
+lcp
+solvers
+symmetrization
+stagnation
+fails
+equivalently
+contradicts
+quadratic
+log
+boyd
+papers
+mization
+trices
+cx
+49
+proved
+nondegeneracy
+fraction
+aiming
+superlinearly
+multiply
+barnes
+stimulating
+absorb
+dz
+definite
+vm
+deals
+naturally
+interchanged
+corrector
+calculate
+sheng
+tseng
+degeneracy
+78
+68
+resemblance
+concluding
+luo
+stepping
+search
+trapped
+carefully
+gave
+disappears
+robust
+phrases
+correspondence
+fail
+bears
+former
+opti
+popular
+noting
+strict
+superlinear
+professor
+iteration
+67
+convex
+curved
+choices
+gap
+35
+path
+61
+investigate
+gorithm
+showing
+ready
+41
+matrices
+affine scaling
+primal dual
+dual affine
+y u
+ksh m
+hrvw ksh
+the hrvw
+scaling algorithm
+the primal
+m direction
+x y
+aho direction
+the aho
+interior point
+mt direction
+semidefinite programming
+nt direction
+the nt
+the mt
+long step
+feasible region
+path following
+for semidefinite
+step primal
+scaling algorithms
+optimal point
+optimal solution
+sdp problem
+direction is
+for sdp
+time convergence
+primal feasible
+muramatsu and
+masakazu muramatsu
+non optimal
+for lp
+algorithm using
+j vanderbei
+point methods
+continuous trajectory
+x u
+y k
+the long
+alizadeh haeberly
+u f
+aho directions
+roos and
+dual interior
+dual pair
+u z
+x k
+of primal
+search directions
+search direction
+convergence property
+and zhang
+and robert
+and 24
+robert j
+have x
+direction for
+direction x
+solution of
+sequence generated
+polynomial time
+global convergence
+have proof
+continuous trajectories
+direction we
+y 1
+converges to
+u 1
+this direction
+large k
+vector field
+initial point
+of sdp
+u k
+the optimal
+the feasible
+following algorithm
+ut unc
+de klerk
+dikin type
+and terlaky
+t ut
+muramatsu 27
+todd toh
+unc u
+and aho
+u 35
+primal affine
+klerk roos
+u x
+convergence of
+sequence converging
+in semidefinite
+we deal
+the boundary
+following algorithms
+monteiro and
+sdp problems
+four directions
+22 and
+sequence converges
+the direction
+y x
+algorithm fails
+long steps
+can converge
+haeberly and
+toh and
+u r
+primal and
+vector fields
+have therefore
+the continuous
+point method
+y 0
+k y
+linear programming
+that x
+dual algorithms
+polynomial convergence
+point algorithms
+converge to
+and dual
+and overton
+on g
+u g
+we prove
+for sufficiently
+the sdp
+converging to
+x l
+now we
+step length
+positive solution
+have log
+complementarity and
+dual feasible
+unique optimal
+y l
+subject to
+l 1
+y on
+step size
+which implies
+and 21
+x 0
+follows x
+if x
+lim k
+direction in
+was proved
+have from
+resulting direction
+componentwise as
+specific simple
+the dikin
+proved polynomial
+maximize 2u
+simple sdp
+length parameters
+y solving
+is primal
+m mt
+correspondence 22
+aims inside
+vanderbei x
+symmetric direction
+direction depends
+monteiro adler
+and resende
+extending primal
+sdp see
+direction converges
+polynomial primal
+to sdp
+resende 23
+direction generates
+problem carefully
+in sdp
+associated continuous
+2u subject
+written componentwise
+limit point
+since x
+algorithms using
+direction by
+sufficiently large
+optimal solutions
+the sequence
+0 y
+current point
+x x
+prove that
+programming a
+direction the
+20 and
+x y u
+dual affine scaling
+affine scaling algorithm
+primal dual affine
+hrvw ksh m
+the hrvw ksh
+ksh m direction
+the aho direction
+the nt direction
+the mt direction
+the primal dual
+the long step
+affine scaling algorithms
+long step primal
+for semidefinite programming
+y u f
+scaling algorithm using
+non optimal point
+step primal dual
+a non optimal
+of the primal
+algorithm using the
+x y 1
+y u x
+primal feasible region
+polynomial time convergence
+the primal feasible
+using the nt
+x u z
+path following algorithm
+22 and 24
+to the hrvw
+and robert j
+masakazu muramatsu and
+muramatsu and robert
+the optimal solution
+interior point methods
+of the aho
+robert j vanderbei
+to a non
+primal dual pair
+primal dual interior
+dual interior point
+the path following
+of primal dual
+algorithms for semidefinite
+using the hrvw
+mt direction is
+following algorithm using
+y u r
+that the mt
+y u g
+the continuous trajectories
+we have x
+sufficiently large k
+on the primal
+have x y
+x k y
+k y k
+we have proof
+sequence generated by
+y u 2
+x l 1
+that the primal
+the feasible region
+a sequence converging
+we deal with
+k is bounded
+x x y
+if x y
+the sequence converges
+scaling algorithm for
+z 1 2
+that the long
+in semidefinite programming
+u 2 x
+path following algorithms
+the sequence generated
+to the optimal
+sequence converging to
+sdp problem we
+toh and t
+primal affine scaling
+de klerk roos
+y u 1
+lim k l
+l 1 y
+m direction in
+t ut unc
+unique optimal solutions
+klerk roos and
+and aho directions
+roos and terlaky
+todd toh and
+pair of sdp
+ut unc u
+feasible region with
+the primal affine
+1 y l
+unc u 35
+scaling algorithm fails
+and t ut
+y x y
+7 8 and
+0 y 0
+2 x y
+x 0 y
+for sufficiently large
+x y on
+the vector field
+x y x
+y k is
+we have therefore
+dual pair of
+can converge to
+of sdp problems
+dual algorithms for
+optimal point in
+shows the vector
+primal and dual
+interior point method
+the solution of
+r x y
+interior point algorithms
+is the solution
+haeberly and overton
+alizadeh haeberly and
+y l 1
+limit point is
+20 and 21
+following algorithms for
+primal dual algorithms
+of 7 8
+closure of g
+point methods for
+solution of 7
+u x x
+prove that the
+current point is
+we have log
+u 1 2
+sequence converges to
+of x y
+have l l
+where x y
+the limit point
+convergence property of
+u k 1
+1 x 0
+we have from
+linear programming problems
+as follows x
+k l k
+the direction is
+to the boundary
+k x k
+the initial point
+that x k
+u x y
+the current point
+direction for the
+point algorithms for
+the equality condition
+scaling algorithm and
+by de klerk
+the algorithm varies
+specific simple sdp
+any 2 3
+written componentwise as
+these four directions
+four directions to
+sdp see alizadeh
+equalities we have
+carefully investigate the
+trajectory can converge
+the dikin type
+scaling algorithms using
+direction converges to
+algorithm global convergence
+direction is identical
+for the hrvw
+associated continuous trajectory
+is primal and
+extended to sdp
+by the primal
+m mt and
+monteiro adler and
+2u subject to
+continuous trajectory can
+direction depends on
+simple sdp problem
+step size parameter
+aims inside the
+a specific simple
+aho direction we
+j vanderbei x
+equality condition of
+with the hrvw
+step length parameters
+algorithm varies depending

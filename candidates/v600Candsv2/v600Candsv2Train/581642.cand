@@ -1,0 +1,354 @@
+bsx
+arm
+instructions
+bit
+register
+instruction
+bsds
+yes
+adpcm
+mov
+rj
+descriptor
+unpacking
+ri
+len
+operands
+packed
+packing
+larc
+orr
+bits
+encoder
+subword
+decoder
+setup
+descriptors
+cast
+softfloat
+bilint
+registers
+instn
+cjpeg
+rns
+rms
+simplescalar
+fmult
+thres
+operand
+convolve
+frag
+cmp
+narrow
+rd
+memo
+dh
+jpeg
+alu
+bitwidth
+histogram
+encoding
+encode
+compiler
+cksum
+commbench
+digitmult
+pack
+encrypt
+decode
+width
+xscale
+extracts
+benchmarks
+referencing
+word
+specifier
+counts
+michigan
+benchmark
+mediabench
+lsl
+rm
+bitwise
+immediate
+suites
+embedded
+simd
+unpack
+mask
+reductions
+rem
+inputbuffer
+newlib
+reconstruct
+predictor
+simulator
+coalesce
+entity
+temporary
+coalescing
+multimedia
+manipulate
+emit
+bitvalue
+postpass
+netbench
+superword
+unsigned
+rsb
+thumb
+instruc
+code
+variations
+rds
+mul
+masks
+rn
+allocation
+tallam
+sa
+specify
+dead
+gupta
+variation
+div
+compile
+incorporated
+precondition
+nn
+processor
+concatenates
+packs
+ending
+media
+signed
+file
+manipulated
+read
+transformation
+transformations
+extracted
+sections
+places
+undefined
+nan
+redesign
+opcode
+struction
+position
+cache
+cycle
+rajiv
+format
+programs
+eliminated
+optimized
+inlining
+modes
+encoded
+ra
+flip
+relevant
+bit section
+bit sections
+arm code
+section descriptor
+bsx instructions
+section operands
+bsx arm
+section descriptors
+yes yes
+narrow width
+adpcm encoder
+adpcm decoder
+arm instruction
+instruction set
+width data
+cast decoder
+code mov
+jpeg cjpeg
+subword data
+immediate value
+relevant bits
+cast encoder
+packed data
+alu instructions
+arm processor
+three bit
+bsx instruction
+immediate bit
+larc 3
+cast encrypt
+larc 2
+predictor zero
+fixed bsds
+section referencing
+register ri
+arm instructions
+register rj
+register bit
+sections within
+packed form
+network processing
+two bit
+rms figure
+mov instructions
+using bsx
+yes g721
+register bsds
+encoder yes
+len 1
+use rj
+yes cast
+decoder adpcm
+instn use
+use ri
+orr instruction
+decoder yes
+code setup
+bit entity
+section operand
+setup instruction
+dynamic bsds
+register allocation
+code size
+three variations
+instruction counts
+order bits
+register file
+bits 0
+network processor
+threshold coalesce
+decoder cast
+zero extended
+cjpeg emit
+popular embedded
+mov r3
+suites show
+blocked memo
+packing operations
+function arm
+arm simulator
+bit 5
+encode fmult
+rns rms
+encoder adpcm
+section extension
+version 5t
+emit bits
+unpacking operation
+convolve main
+encoder cast
+michigan results
+mov r0
+bilint main
+embedded domain
+arm adpcm
+histogram main
+arm bsx
+unpacking operations
+start len
+put buffer
+extension bsx
+nn digitmult
+bit 23
+instruction extracts
+dh nn
+new instructions
+simplescalar arm
+three operands
+temporary register
+encoding space
+various benchmark
+step size
+optimized code
+packed together
+multiple bit
+bit position
+use register
+lower order
+first variation
+bit section descriptor
+bit section operands
+bit section descriptors
+bsx arm code
+arm instruction set
+arm code mov
+narrow width data
+packing and unpacking
+register bit section
+cmp and mov
+two bit section
+bit section referencing
+bit sections within
+immediate bit section
+encoder yes yes
+bit section operand
+bits from larc
+adpcm decoder adpcm
+using bsx instructions
+arm code setup
+incorporated the implementation
+use of bsx
+format and encoding
+results of experiments
+use of bit
+simulator from michigan
+dh nn digitmult
+adpcm encoder adpcm
+cast decoder cast
+decoder adpcm decoder
+section extension bsx
+implementation of bsx
+yes yes cast
+various benchmark suites
+cast encoder cast
+encoder adpcm encoder
+function arm bsx
+experiments with programs
+frag in cksum
+three bit sections
+simplescalar arm simulator
+applications that manipulate
+bit section extension
+arm adpcm decoder
+within a word
+arm bsx arm
+jpeg cjpeg emit
+benchmark suites show
+encoder cast encrypt
+decoder yes yes
+cjpeg emit bits
+bsx arm adpcm
+temporary register ri
+reduction in dynamic
+unpacking of data
+lower order bits
+dynamic instruction counts
+global register allocation
+determined at run
+number of instructions
+must be 1
+code mov r12
+mov r0 r0
+section descriptor 1
+start len 1
+zero 9293760 8408640
+ensure that register
+bits in r0
+fragment before transformation
+rms and len
+data that typically
+representation for bit
+bit section within
+modified functions varies
+ending bit position
+yes g721 decode
+yes histogram yes
+thres yes bilint
+bits of delta
+width of data
+using bit section
+bsds were used
+bit 23 must
+cast encrypt 41942016

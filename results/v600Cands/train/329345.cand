@@ -1,0 +1,600 @@
+requests
+aperiodic
+stream
+disk
+streams
+interactive
+admission
+vbr
+round
+latency
+disks
+throughput
+cdl
+scheduler
+service
+periodic
+bctl
+request
+scheduled
+controller
+bandwidth
+guarantees
+scheduling
+multimedia
+targets
+policy
+trace
+layout
+load
+statistical
+rounds
+movie
+demand
+kb
+peak
+utilizations
+response
+lambs
+hopping
+arrival
+deterministic
+burstiness
+served
+multiplexing
+subperiod
+subgroups
+slack
+seek
+blocks
+traces
+policies
+allocated
+retrieval
+startup
+scan
+subgroup
+asterix
+allowances
+utilization
+retrieved
+prime
+avg
+ms
+video
+controllers
+admitted
+qos
+rate
+allocation
+frame
+block
+workload
+allocations
+media
+leaky
+arriving
+greedy
+requested
+compacted
+arrive
+target
+deadlines
+300
+utilize
+dropped
+ctl
+bucket
+400
+greedily
+pool
+mpeg
+impact
+waiting
+fig
+slots
+providing
+pays
+aperiodic1
+ddisk
+64kb
+impacted
+sec
+merged
+layouts
+striped
+latencies
+varied
+cbr
+serving
+file
+mixed
+doesn
+smoothing
+requesting
+goals
+ld
+schedule
+dropping
+allowance
+seagate
+500
+128kb
+asynchronously
+disturb
+0a
+bsd
+mars
+denied
+disturbed
+silence
+4kb
+32kb
+frames
+groups
+networked
+priority
+striping
+arrives
+reddy
+raid
+news
+storage
+categories
+staggered
+quick
+levels
+simulations
+queue
+batches
+placement
+window
+playback
+utilizes
+mach
+optimizing
+segment
+seconds
+achieves
+drive
+beginning
+serve
+worst
+violate
+display
+delivery
+queued
+tradeoffs
+penalty
+burst
+bandwidths
+farther
+surface
+drives
+integrated
+resources
+rotational
+arrays
+100
+underutilize
+steams
+threecategories
+inother
+youjip
+barracuda
+narasimha
+3711
+andevaluate
+abides
+seelam
+10008
+theimprovements
+83888
+fellini
+virtualization
+thecontext
+sensitivie
+ofperformance
+servicefor
+won
+peaks
+interactive requests
+aperiodic requests
+stream throughput
+periodic requests
+latency target
+latency targets
+requests are
+the disk
+of requests
+vbr streams
+the stream
+a stream
+admission controller
+block size
+response times
+minimal load
+deterministic service
+providing deterministic
+deterministic guarantees
+the requests
+statistical guarantees
+aperiodic arrival
+the admission
+these requests
+i o
+and interactive
+o system
+peak rate
+data layout
+demand trace
+a round
+stream scheduling
+the aperiodic
+the scheduler
+size kb
+aperiodic request
+last scheduled
+random start
+prime hopping
+of streams
+requests arrive
+a latency
+requests and
+requests in
+guarantees for
+disk scheduler
+load policy
+request rate
+maximum response
+mixed workload
+admission controllers
+fixed distance
+stream is
+proposed approach
+statistical multiplexing
+interactive request
+bandwidth allocations
+slack time
+for vbr
+performance goals
+be scheduled
+performance guarantees
+disk utilizations
+startup latency
+stream can
+bctl data
+kb number
+arrival rate
+each disk
+requests into
+the proposed
+the latency
+providing different
+bucket controller
+average disk
+seek times
+round the
+of interactive
+for periodic
+periodic and
+the load
+data retrieval
+load on
+the burstiness
+a multimedia
+the blocks
+hopping minimal
+load trace
+distance prime
+start last
+scheduled fixed
+latency penalty
+statistical allowances
+controller scheduler
+frame trace
+greedy random
+100 rounds
+avg interactive
+in bctl
+300 400
+the disks
+for aperiodic
+400 500
+the system
+the allocated
+and aperiodic
+disk bandwidth
+the demand
+aperiodic and
+multiplexing of
+the seek
+response time
+is varied
+individual stream
+disk surface
+the peak
+the movie
+the bandwidth
+scheduling policy
+bandwidth allocation
+guarantees in
+the request
+the round
+streams this
+penalty at
+disk utilization
+that stream
+continuous media
+requests can
+disks in
+streams are
+service for
+utilize the
+service time
+different streams
+burstiness of
+be retrieved
+target of
+be dropped
+scheduling policies
+interactive response
+disk scheduling
+the i
+a disk
+disk is
+streams in
+requests the
+for disk
+bandwidth guarantees
+for providing
+of time
+load of
+arrive asynchronously
+waiting interactive
+periodic request
+stream requires
+round size
+cdl data
+qos levels
+requests sec
+maximum interactive
+greedily from
+subperiod the
+throughput compared
+with cdl
+scheduled greedily
+8 disks
+scheduler considers
+allocated 25
+stream cannot
+stream smoothing
+stream pays
+cdl layout
+impact of
+leaky bucket
+round for
+retrieved in
+multimedia storage
+trace of
+be admitted
+other requests
+data layouts
+requests to
+of blocks
+video streams
+streams while
+when requests
+pays a
+request admission
+vbr stream
+rate sec
+multimedia file
+statistical service
+allocated bandwidth
+round j
+seek optimizing
+periodic streams
+of service
+round and
+throughput than
+and interactive requests
+the admission controller
+block size kb
+interactive requests are
+i o system
+the latency target
+aperiodic arrival rate
+the i o
+of interactive requests
+a latency target
+minimal load policy
+for vbr streams
+aperiodic requests are
+the stream throughput
+the disk scheduler
+number of streams
+a stream is
+latency target of
+the demand trace
+aperiodic request rate
+periodic and interactive
+the proposed approach
+of the stream
+stream can be
+size kb number
+deterministic guarantees for
+for aperiodic requests
+kb number of
+stream is scheduled
+periodic requests are
+the bandwidth allocations
+for interactive requests
+aperiodic and interactive
+and aperiodic requests
+scheduling a stream
+maximum response times
+in a round
+on the disk
+statistical multiplexing of
+300 400 500
+number of requests
+the aperiodic request
+distance prime hopping
+the admission controllers
+scheduled fixed distance
+last scheduled fixed
+bctl data layout
+the seek times
+interactive requests and
+for providing deterministic
+periodic requests and
+for these requests
+the stream scheduling
+performance goals we
+latency penalty at
+the aperiodic arrival
+prime hopping minimal
+start last scheduled
+providing deterministic service
+random start last
+for periodic requests
+classes of requests
+at the disk
+guarantees for vbr
+fixed distance prime
+the disk surface
+greedy random start
+requests and interactive
+request rate is
+hopping minimal load
+times of interactive
+providing deterministic guarantees
+of the movie
+response times for
+streams in the
+response times of
+to be dropped
+at a latency
+providing different levels
+of performance guarantees
+leaky bucket controller
+and maximum response
+in the system
+of the blocks
+is observed that
+of the round
+requests arrive at
+the burstiness of
+block size of
+it is observed
+types of requests
+the requests in
+the disk is
+disks in the
+in a multimedia
+the peak rate
+all the requests
+shows the impact
+of the demand
+average and maximum
+throughput compared to
+stream cannot be
+average disk utilizations
+vbr streams that
+disk surface the
+time ms figure
+peak rate based
+round the disk
+scheduled greedily from
+requests arrive asynchronously
+pays a latency
+of the aperiodic
+of periodic requests
+times for interactive
+the latency targets
+across the disks
+in stream throughput
+of providing different
+stream throughput in
+target of 100
+in bctl data
+policy a stream
+latency targets are
+data for round
+individual stream smoothing
+round and hence
+retrieved in time
+stream scheduling policies
+targets are increased
+is scheduled greedily
+of 100 rounds
+while providing deterministic
+response time ms
+a mixed workload
+the request arrives
+maximum interactive response
+the interactive requests
+stream scheduling policy
+the round the
+rate is varied
+at each disk
+when requests arrive
+a latency penalty
+the beginning of
+the requests are
+blocks to be
+will be retrieved
+admission controller for
+the allocated bandwidth
+the average disk
+peak rate allocation
+deterministic service for
+of individual requests
+the minimal load
+media on demand
+multimedia file system
+a stream can
+if the stream
+arrival rate sec
+at the beginning
+200 300 400
+a block size
+100 200 300
+of the disk
+be retrieved in
+response times are
+the average utilization
+on a frame
+in that round
+the data layouts
+if a stream
+different levels of
+the load of
+problem of providing
+a leaky bucket
+block size is
+to limit the
+levels of performance
+block size on
+the blocks to
+streams can be
+of requests and
+a round the
+different classes of
+trace of the
+intervals of time
+can be admitted
+the response times
+number of blocks
+cannot be scheduled
+requests in a
+of a round
+i o bandwidth
+of a stream
+0 5 seconds
+frame by frame
+beginning of a
+the block size
+both the data
+policy in the

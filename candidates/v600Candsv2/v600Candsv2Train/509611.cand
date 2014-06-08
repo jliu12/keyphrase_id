@@ -1,0 +1,338 @@
+hpf
+zpl
+apr
+compiler
+forall
+compilers
+pgi
+mpi
+ep
+directives
+portability
+nas
+mg
+ibm
+fortran
+ft
+benchmarks
+subroutine
+dependences
+loop
+parallelize
+benchmark
+loops
+arrays
+parallelized
+portable
+parallelization
+array
+speedup
+fft
+secs
+strided
+scalar
+language
+recv
+platforms
+dependence
+directive
+compiling
+optimizations
+vectorizing
+bcast
+adhere
+subroutines
+communication
+chamberlain
+bradford
+snyder
+syntax
+programs
+calls
+scalable
+implementations
+sequential
+barrier
+multigrid
+suite
+replicated
+weathersby
+fftpde
+allreduce
+irecv
+vendors
+deviates
+lawrence
+transpose
+languages
+versions
+parallelizable
+capability
+derrick
+intrinsics
+xlf
+eun
+collective
+constitutes
+correction
+restructuring
+calvin
+constructs
+indication
+overhead
+foremost
+successful
+dimension
+default
+nonblocking
+scales
+differences
+batch
+parallelizing
+dot
+batches
+correlate
+parallelism
+predictable
+send
+intrinsic
+challenge
+sung
+count
+processors
+distribute
+vienna
+stencil
+fourier
+alias
+redistribution
+mimd
+across
+lewis
+scriptive
+middlecoff
+klepacki
+wijngaart
+hmg
+resid
+spotchecks
+cfftz
+psinv
+transcriptive
+kapf
+govett
+intended
+platform
+difficulty
+seed
+success
+considerable
+fortunately
+passing
+choi
+grid
+incompatible
+embar
+embarrassingly
+conversative
+objectivity
+unhindered
+annuli
+xlhpf
+preallocation
+recoded
+expressly
+alltoall
+partition
+innermost
+recognize
+processor
+express
+programmer
+owner
+principal
+statistics
+metric
+lin
+rely
+scalarized
+xhpf
+pghpf
+christopher
+concise
+contract
+washington
+published
+pseudo
+isend
+compil
+detailing
+delineation
+deitz
+availabil
+supplementing
+congruential
+adjusting
+unpredictable
+notable
+limitation
+conservative
+hpf compilers
+apr compiler
+loop version
+forall version
+data parallel
+scalar performance
+ibm compiler
+performance model
+hpf directives
+hpf f90
+parallel language
+hpf programs
+pgi compilers
+mg class
+pgi compiler
+d fft
+hpf compiler
+time secs
+parallel languages
+ft class
+zpl compiler
+zpl version
+ep class
+ep mg
+scalable performance
+mpi calls
+d distribution
+performance fortran
+ibm sp2
+loop bounds
+compiler may
+processor grid
+three nas
+size class
+apr f90
+forall programs
+recv barrier
+program portability
+portability problem
+ibm f90
+strided region
+compilers achieve
+hpf reduction
+processors time
+compiler optimizations
+portable performance
+array syntax
+gaussian deviates
+compiling high
+must adhere
+data dependences
+data distribution
+language specification
+applied parallel
+d processor
+send recv
+language developed
+parallel programming
+specific compiler
+nas benchmarks
+parallel research
+l chamberlain
+nas parallel
+bradford l
+version requires
+array references
+lawrence snyder
+third dimension
+portable across
+different platforms
+robust performance
+output dependence
+value x
+subroutine calls
+correlate directly
+benchmarks written
+approaches mpi
+apr suite
+trivially parallelized
+zpl programs
+foremost criteria
+portable hpf
+reduction intrinsic
+factor join
+replicated variables
+ft benchmark
+commercial hpf
+barrier ibm
+mod operation
+fft along
+concise performance
+programs achieve
+hpf implementations
+hpf f90 forall
+hpf do loop
+data parallel languages
+mpi and zpl
+ibm and pgi
+processors time secs
+data parallel language
+high performance fortran
+program that scales
+parallel language developed
+directives are added
+compiling high performance
+forall version requires
+problem size class
+robust performance model
+apr s directives
+three nas benchmarks
+d processor grid
+applied parallel research
+bradford l chamberlain
+university of washington
+within the loop
+compilers we first
+class a time
+criteria for portability
+using do loops
+hpf s forall
+generates very conservative
+mg and ft
+compiler optimizations may
+improving compiler optimizations
+optimizations may help
+compiled with three
+three commercial hpf
+calls are removed
+class s processors
+forall programs achieve
+compiler must adhere
+focus on portability
+prevent unnecessary redistribution
+class s mpi
+syntax the zpl
+rewriting all data
+subroutine do f90
+compiling fortran 90d
+role of performance
+across subroutine calls
+compilers to parallelize
+d fft along
+send recv barrier
+vectorizing the communication
+commercial hpf compilers
+using f90 constructs
+nas and apr
+step of rewriting
+partition the arrays
+loops with dependences
+concise performance model
+reduce some performance
+operator r 2
+added to partition
+barrier ibm f90
+models in parallel
+incorporate a robust
+programming and languages
+loops in f90

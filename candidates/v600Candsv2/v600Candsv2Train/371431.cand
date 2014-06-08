@@ -1,0 +1,401 @@
+frame
+chain
+load
+chains
+resource
+deltaout
+frames
+tasks
+age
+throughput
+scheduling
+delay
+tdm
+deadline
+task
+queuing
+pdf
+blocking
+synthesis
+success
+fieldbus
+pdfs
+hosted
+capacity
+mor
+deviations
+rates
+synthesized
+multiplexing
+rcsp
+quantized
+gps
+budgets
+multiplex
+service
+intervals
+deviation
+rate
+pgps
+priority
+statistical
+pr
+discipline
+wfq
+analytical
+assignment
+share
+pipeline
+cpu
+proportional
+stochastically
+md
+utilization
+reservation
+delays
+simulation
+idle
+uniprocessor
+producer
+preemptive
+allocated
+budget
+sharing
+resources
+numsteps
+quantization
+latency
+disciplines
+psi
+regulated
+deadlines
+objectives
+granularities
+stochastic
+dma
+compositional
+simulated
+infinitesimal
+schedulability
+outputs
+acceptable
+injected
+head
+coarse
+guarantees
+conserving
+gets
+aperiodic
+periodic
+probability
+overruns
+linearities
+arbitration
+abstraction
+conservatism
+lottery
+approximations
+fractional
+tuning
+policed
+schedulers
+arrival
+soft
+pipelines
+shares
+traffic
+meet
+metrics
+probabilities
+excess
+induce
+proportion
+margin
+calibrating
+late
+requirements
+interrelated
+decent
+runtime
+getting
+statistics
+hop
+network
+cdf
+distributions
+buffer
+integral
+failure
+conferencing
+radar
+profiling
+markov
+assigning
+met
+spare
+execution
+discrete
+proportions
+objective
+candidate
+stale
+output
+managed
+averages
+transient
+flow
+transition
+interval
+finish
+latencies
+overwrite
+cpus
+tractable
+partitioning
+isolation
+appeal
+ms
+quasi
+embedded
+busy
+demands
+exceed
+charged
+clock
+monotonic
+aggregate
+sampled
+interference
+deterministic
+units
+idealized
+stalls
+arcane
+demandand
+effectsalong
+ciplines
+unfairnessis
+renegotiations
+computatation
+affair
+ratecounting
+revalidated
+bayesean
+doling
+innately
+parametersand
+hypothetically
+crago
+mandates
+smission
+sprouted
+allocations
+treat
+load assignment
+real time
+frame size
+output rates
+proportional share
+output rate
+blocking time
+rate frame
+task chains
+end constraints
+size chain
+performance requirements
+success rate
+execution time
+rate based
+end performance
+discrete probability
+share queuing
+frame assignment
+load model
+synthesis algorithm
+hard real
+frame sizes
+per component
+largest frame
+time budgets
+success probability
+standard deviation
+end latency
+second intervals
+end delay
+simulation model
+fractional part
+inter output
+based disciplines
+pr age
+end success
+chain gamma
+busy phase
+generalized processor
+per task
+processor sharing
+local resource
+minimum acceptable
+moving averages
+final frame
+line blocking
+frame boundaries
+load models
+analysis simulation
+time performance
+new input
+time systems
+task load
+scheduling analysis
+resource time
+age 6
+maximum delay
+execution instance
+processor capacity
+solution space
+time tasks
+throughput analysis
+random variable
+network resource
+additional load
+delay constraints
+delay analysis
+time division
+design synthesis
+non work
+example system
+probability distribution
+time scheduling
+work conserving
+design process
+underlying system
+task representing
+load demands
+delay injected
+proportional shares
+resource share
+resulting histogram
+lottery scheduling
+data age
+random frame
+acceptable average
+stalls bus
+larger frames
+allocated load
+frame success
+rate analysis
+residual effects
+behavior dma
+delays transient
+dma interference
+interference pipeline
+stride scheduling
+proportional sharing
+fresh input
+candidate load
+task gets
+pr deltaout
+chain standard
+pr idle
+coarse analytical
+components hosted
+stochastically due
+blocking etc
+psi 6
+solution overview
+solution via
+component load
+aggregate delay
+arbitrarily fine
+flow probabilities
+delay md
+line profiling
+effective throughput
+end output
+end to end
+rate frame size
+frame size chain
+task s load
+discrete probability distribution
+cpu and network
+success rate frame
+chain s output
+f i frame
+age i j
+execution time budgets
+hard real time
+real time performance
+generalized processor sharing
+task i j
+rate based disciplines
+proportional share queuing
+cpu or network
+chain s frame
+given a load
+deviation of success
+deltaout i j
+psi i j
+u i j
+real time systems
+head of line
+real time tasks
+used to help
+real time scheduling
+probability distribution function
+non work conserving
+however we note
+approximate the end
+minimum acceptable average
+line blocking etc
+n s execution
+per task load
+f i intervals
+execution time budget
+order effects like
+j s inter
+whose random variable
+arbitration delays transient
+resource s capacity
+n s output
+size chain 6
+system cannot multiplex
+input is sampled
+incorporates worst case
+like cache memory
+design problem may
+rate analysis simulation
+chain s end
+success rate analysis
+outputs which meet
+arbitrary discrete probability
+age 6 2
+pipeline stalls bus
+arbitrarily fine granularities
+end success probability
+computation s final
+excessive delay injected
+memory behavior dma
+system s end
+dma interference pipeline
+terms of frames
+reservation based algorithm
+assigning additional load
+successful out flow
+effects like cache
+sub problems 1
+behavior dma interference
+idle i j
+random variable ranging
+chain s performance
+load be partitioned
+random variable characterizes
+task s cost
+per frame success
+delays transient head
+stalls bus arbitration
+inter output distribution
+assume that execution
+interference pipeline stalls
+objectives are achieved
+margin of confidence
+one execution instance
+size chain standard

@@ -1,0 +1,330 @@
+ssg
+thread
+lock
+heap
+ssgs
+java
+allocator
+intbuffer
+protected
+allocated
+producer
+object
+locks
+statement
+ev
+threads
+cfg
+invisible
+concurrency
+hourslock
+buffer
+concurrent
+ada
+transition
+worklist
+public
+protect
+runnable
+int
+consumer
+accessible
+allocators
+cfgs
+buf
+selector
+stack
+void
+field
+coarsening
+objects
+statements
+summary
+synchronized
+static
+transformations
+reference
+arcs
+tasking
+fields
+node
+inlined
+sv
+chase
+observable
+salary
+accessing
+summarized
+nodes
+enclosing
+avrunin
+kc
+pointer
+referenced
+loop
+statically
+salarylock
+updatehours
+extracting
+protects
+releases
+root
+hours
+transformation
+constructor
+nested
+prepending
+programmer
+wait
+reductions
+roles
+accessed
+edges
+vugranam
+naumovich
+reachable
+holding
+expression
+notifyall
+penix
+gleb
+reproduce
+verification
+mauricio
+midkiff
+deok
+accesses
+processed
+er
+idiom
+serrano
+sreedhar
+date
+escape
+corbett
+corina
+instances
+ref
+array
+locking
+ending
+env
+subtle
+compositional
+synchronization
+conservative
+visible
+transitions
+limerick
+programs
+post
+lori
+executing
+edge
+callers
+updates
+manish
+deadlock
+analyst
+employee
+body
+collect
+automated
+ireland
+tractable
+toolset
+protecting
+count
+george
+jong
+errors
+inlining
+monitor
+splitting
+ysis
+checking
+clarke
+newsalary
+newhours
+stuttered
+updatesalary
+koppol
+jloop
+expressions
+pre
+acquiring
+arc
+anal
+updated
+truth
+verifying
+block
+constructing
+choi
+trace
+grams
+extraction
+mhp
+premkumar
+suffixed
+lenges
+reacquire
+enviornment
+aldrich
+havelund
+pointers
+virtual
+technically
+acquire
+successors
+references
+allocates
+reduction
+plays
+guard
+eled
+elide
+structor
+propo
+stubblebine
+summary node
+transition system
+heap nodes
+f observation
+object allocated
+loop block
+heap node
+bounded buffer
+heap structure
+instance allocated
+buffer example
+reference analysis
+finite state
+lock object
+concurrent java
+f observable
+pre ssg
+reduced f
+run method
+l value
+instance variable
+state models
+concurrency errors
+run time
+java programs
+class c
+r value
+summary nodes
+static pointer
+intbuffer object
+variable object
+post ssg
+virtual coarsening
+made invisible
+concurrency models
+current instance
+lock reduction
+splitting locks
+protect v
+variable reduction
+time heap
+thread allocator
+static variable
+f field
+protected int
+transformations representing
+statically allocated
+public class
+object containing
+may point
+reduced transition
+observation sequences
+instance variables
+public void
+variable nodes
+current node
+state variables
+heap objects
+ada tasking
+static variables
+pointer analysis
+new thread
+code reachable
+one relationships
+summarized instance
+step operation
+given thread
+heap variables
+buf public
+marked one
+value e1
+locks protect
+start statement
+unique lock
+implements runnable
+allocator b
+local variable
+concurrent programs
+root objects
+often subtle
+object referenced
+control location
+access v
+stack variable
+producer thread
+original transition
+java source
+variable next
+void run
+path ending
+data length
+reference value
+software engineering
+root object
+method body
+object represented
+node for allocator
+finite state models
+reduced f observation
+allocated by b
+bounded buffer example
+concurrent java programs
+static pointer analysis
+one to one
+models of concurrent
+producer and consumer
+f observation sequences
+run time heap
+fields of heap
+statement s ssg
+local variable reduction
+reduced transition system
+number of fields
+releases the lock
+b may point
+size of finite
+heap at run
+execution path ending
+original transition system
+summarized instance allocated
+l value e1
+analysis could determine
+set of heap
+current instance allocated
+v at run
+ssg for statement
+difficult to reproduce
+models from java
+accessing the variable
+reduce the size
+holding the lock
+subtle and difficult
+exists an edge
+instance of class
+example in figure
+properties of concurrent
+may be made
+implements runnable protected
+r value e2
+compute protect v
+detect concurrency errors

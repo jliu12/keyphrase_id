@@ -1,0 +1,600 @@
+dws
+nash
+ow
+ows
+congestion
+fair
+tra
+tcp
+stackelberg
+mbps
+ris
+equilibrium
+selsh
+gps
+users
+rate
+misbehaving
+diminishing
+rates
+cbr
+link
+schedulers
+unresponsive
+deployed
+buer
+pdws
+rtt
+scheduling
+packet
+game
+n0
+weight
+pris
+utility
+dierent
+fcfs
+scheduler
+policies
+n4
+behaviour
+n3
+theoretic
+n5
+queueing
+sending
+eq
+lqd
+max
+equilibria
+30ms
+losses
+pgps
+punish
+incentive
+dene
+reno
+disciplines
+penalty
+min
+n2
+behaviours
+wfq
+fairness
+conservation
+prole
+user
+connections
+quench
+wf2q
+flowid
+nish
+avoidance
+dened
+uid
+service
+ms
+packetized
+buers
+packets
+internet
+scenario
+punishing
+weights
+management
+grab
+discipline
+capacity
+backlog
+gateways
+vegas
+experiencing
+shenker
+constitute
+administrative
+appendix
+collapse
+backlogged
+resource
+send
+switch
+bandwidth
+network
+fred
+arrival
+trip
+tahoe
+red
+behaved
+sharing
+hypothetical
+oblivious
+encourage
+hauz
+khas
+converge
+flows
+networks
+tail
+drop
+steep
+penalties
+links
+selfish
+punishment
+virtual
+n1
+policy
+collector
+irrespective
+reward
+delhi
+greed
+commercialization
+responsive
+r1
+leader
+voluntary
+steepness
+versions
+emulation
+presence
+player
+imposes
+sack
+voluntarily
+n6
+round
+steeper
+india
+inverse
+stateless
+rst
+decreasing
+output
+constitutes
+credit
+fernndez
+atm
+router
+transients
+pricing
+rewards
+cooperation
+shared
+comprising
+lpez
+heterogenous
+cooperative
+ve
+promoting
+inject
+residual
+arrived
+penalized
+sends
+serve
+served
+congested
+adopt
+critically
+detection
+simulation
+smoothing
+luis
+eligible
+ciently
+adopts
+capacities
+simulations
+acknowledgement
+opening
+cholvi
+paquelet
+virtualclock
+weightschedulers
+equilibrias
+boulogne
+azouzi
+punishments
+punished
+input rate
+output rate
+fair rate
+dws scheduling
+tra c
+min fair
+diminishing weight
+max min
+nash rate
+with dws
+ow i
+fair rates
+stackelberg equilibrium
+nash equilibrium
+weight function
+send tra
+game theoretic
+input rates
+a nash
+the fair
+output rates
+the dws
+rate mbps
+a ow
+dws schedulers
+of dws
+congestion control
+the diminishing
+buer management
+of ow
+user i
+to congestion
+c n
+misbehaving users
+unique nash
+management policies
+a user
+rate of
+of tcp
+arbitrary network
+a stackelberg
+gps weight
+the ow
+simulation scenario
+c at
+s utility
+other users
+a game
+their max
+and stackelberg
+schedulers are
+nash as
+dws weights
+its input
+its fair
+rate r
+fair queueing
+the max
+nash and
+rate inverse
+users sending
+mbps input
+mbps 30ms
+n2 n3
+connections connections
+ows through
+are deployed
+w r
+provided in
+100 mbps
+cbr ows
+dierent versions
+service disciplines
+the appendix
+resource management
+equilibrium for
+weight functions
+the output
+user will
+single link
+rst serve
+n users
+come rst
+and buer
+random early
+each link
+user s
+for congestion
+ow is
+function w
+its output
+nash rates
+rates constitute
+distinct ows
+c shared
+dws scheduler
+selsh users
+scheduling deployed
+30ms 100
+selsh behaviour
+misbehaving ows
+residual nash
+deployed at
+gps weights
+when dws
+in dws
+their nash
+fcfs red
+weight schedulers
+n3 n4
+end user
+end congestion
+congestion collapse
+the tra
+of capacity
+constant rate
+is provided
+congestion avoidance
+each user
+sending at
+at link
+rate as
+the input
+the tcp
+incentive to
+rate and
+link with
+per ow
+is deployed
+each ow
+of misbehaving
+cbr ow
+ow at
+sending rate
+increase its
+strictly decreasing
+deployed in
+rates of
+are oblivious
+rate f
+rate constant
+of nash
+of ows
+the gps
+capacity c
+a congestion
+rate for
+the internet
+link l
+end users
+oblivious to
+a gps
+the presence
+dene the
+presence of
+service discipline
+to grab
+drop tail
+a link
+log r
+utility functions
+all users
+the network
+first come
+scheduling at
+mbps and
+management policy
+link of
+unresponsive ows
+behaved users
+sending tra
+received time
+punish misbehaving
+buers drop
+pris performance
+rates m
+a selsh
+dws fairness
+nish time
+comprising multiple
+selsh user
+ow buers
+best selsh
+flows sending
+strategy prole
+virtual nish
+source quench
+stackelberg equilibria
+conservation property
+n5 n0
+that punish
+switch service
+packet collector
+schedulers dws
+of pgps
+either encourage
+dws is
+independent dws
+mbps fcfs
+dierent weight
+max min fair
+its input rate
+with dws scheduling
+the output rate
+the fair rate
+send tra c
+min fair rates
+the input rate
+diminishing weight function
+of ow i
+proof is provided
+output rate of
+tra c at
+the diminishing weight
+min fair rate
+input rate of
+the max min
+a game theoretic
+its output rate
+a nash equilibrium
+the unique nash
+user s utility
+a stackelberg equilibrium
+its fair rate
+an arbitrary network
+provided in the
+is provided in
+their max min
+of input rates
+schedulers are deployed
+nash and stackelberg
+nash as well
+versions of tcp
+at each link
+w r 1
+of user i
+vector of input
+r c n
+in the appendix
+that with dws
+constitute a nash
+dws schedulers are
+link of capacity
+and buer management
+mbps input rate
+to send tra
+output rate mbps
+100 mbps 30ms
+at link l
+rate mbps input
+link with dws
+buer management policies
+first come rst
+single link with
+simulation scenario is
+dierent versions of
+the simulation scenario
+game theoretic approach
+in the presence
+weight function w
+come rst serve
+c at a
+of a ow
+consider a link
+the tra c
+end congestion control
+to end congestion
+residual nash rate
+n2 n3 n4
+dws scheduling at
+of each ow
+a nash as
+diminishing weight schedulers
+buer management policy
+input rate mbps
+presence of misbehaving
+fair rate f
+connections connections connections
+capacity c shared
+30ms 100 mbps
+mbps 30ms 100
+c shared by
+s input rate
+and stackelberg equilibrium
+ow i is
+of capacity c
+unique nash and
+scenario is shown
+c at its
+when dws schedulers
+a single link
+congestion control in
+a link of
+a user s
+rate of a
+the presence of
+in a network
+strictly decreasing function
+to a congestion
+the resource management
+arbitrary network with
+nash equilibrium for
+the proof is
+a constant rate
+tra c as
+deployed in the
+random early detection
+are oblivious to
+to the fair
+converge to their
+congestion control schemes
+r 1 r
+equilibrium for the
+resource management policies
+tra c of
+for congestion avoidance
+to c n
+that punish misbehaving
+as a stackelberg
+a gps weight
+best selsh behaviour
+user is to
+of misbehaving users
+user i at
+users sending their
+total data received
+comprising multiple nodes
+approach towards congestion
+sending tra c
+other flows sending
+to their max
+ows through an
+rate of user
+a ow i
+mbps all other
+r i w
+a strategy prole
+is deployed at
+user s output
+distinct ows through
+mbps fcfs red
+dierent weight functions
+the nash rate
+consider n users
+fair rates m
+weight schedulers dws
+its max min
+data received time
+rate mbps all
+the dws scheduler
+rates constitute a
+with independent dws
+buers drop tail
+rate inverse scheduling
+frame based fair
+the input rates
+using simulations we
+nash rate r
+r i f
+properties of dws
+received time sec
+and send tra
+well behaved users
+flows sending at
+n users sending
+s utility is
+input rate r
+ow i as
+increase its input
+input rates of
+fair rates constitute
+at every link
+input rate by
+concept of nash
+output rate for
+towards congestion control
+estimate their max
+link the max
+ow i at
+packet of ow
+to their nash
+dws scheduling with
+get r i
+not remain valid
+of dws schedulers
+i at link
+selsh behaviour for
+dws scheduling deployed
+independent dws scheduling
+fair rate however
+pris performance in
+network with independent
+network comprising multiple
+sending rate upon
+input rate as
+of nash rate
+or are oblivious
+per ow buers
+rate as long
+oblivious to it

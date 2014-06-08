@@ -1,0 +1,414 @@
+timestep
+wr
+waveform
+smoothing
+acceleration
+multistep
+sweep
+stepsize
+jacobi
+wave
+ormer
+splitting
+iteration
+relaxation
+picard
+rez
+spectral
+multigrid
+iy
+prolongation
+nevanlinna
+hff
+coarse
+radius
+convergence
+discretization
+laplacian
+ff
+timesteps
+miekkala
+vandewalle
+damped
+grid
+horton
+odinger
+modes
+trapezoidal
+defect
+schr
+ae
+pdes
+ffh
+tawr
+eigenvalues
+discretized
+forcings
+correction
+discrete
+lindel
+stepsizes
+parabolic
+differential
+operator
+fine
+st
+discretizations
+ode
+mesh
+dissipative
+sweeps
+frequencies
+zeros
+accelerated
+gammafft
+dt
+poles
+norm
+worley
+paley
+diminished
+operators
+excited
+unsplit
+log
+stability
+stable
+transform
+parseval
+eigenvalue
+origin
+elliptic
+sufficiently
+intervals
+cosh
+smoother
+laplace
+substantial
+spatially
+omega
+spatial
+restriction
+fu
+equations
+coarsening
+kansas
+seidel
+wiener
+fig
+response
+weighted
+gauss
+window
+symmetric
+forcing
+radii
+near
+weighting
+stiff
+convergent
+diagonal
+oscillatory
+fourier
+asymptotic
+discretizing
+decoupling
+szeptycki
+hnz
+ihy
+gammanhff
+bdy
+ivps
+excitations
+bdyw
+lindelf
+qaq
+zukowski
+dervout
+tromeur
+undiscretized
+pawel
+converges
+decoupled
+lie
+anticipate
+ks
+adjoint
+resolve
+semidefinite
+ja
+circle
+imaginary
+lelarasmee
+prolonging
+leimkuhl
+rhus
+semidiscrete
+nonstiff
+guibert
+prolongations
+smoothings
+osterman
+coarser
+speedups
+aliasing
+periodic
+ratio
+iterations
+ukans
+reenter
+qh
+contractivity
+leapfrog
+axis
+slow
+symmetry
+minima
+verlet
+excitation
+qv
+ordinary
+storage
+weakly
+timestepping
+exacerbates
+frequency
+spacetime
+spa
+numerical
+cousins
+lubich
+meshes
+root
+tial
+reversibility
+red
+iterate
+perturbation
+improvement
+daes
+waveform relaxation
+log error
+smoothing property
+spectral radius
+jacobi splitting
+sweep log
+iteration sweep
+timestep acceleration
+wave equation
+st ormer
+iteration operator
+ae ff
+h ff
+dynamic iteration
+rez ff
+symmetric multistep
+timestep iteration
+coarse grid
+time mesh
+wr iteration
+error ratio
+multistep methods
+starting values
+l 2
+discrete laplacian
+discrete iteration
+ff h
+wave equations
+o h
+linear wave
+discrete transform
+coarse time
+e hff
+grid acceleration
+weighted space
+damped jacobi
+grid correction
+h sufficiently
+odinger equation
+schr odinger
+trapezoidal rule
+differential equations
+sufficiently small
+two grid
+multigrid methods
+error fig
+stepsize h
+solution operator
+n g
+h 2
+ff ae
+elliptic pdes
+picard splitting
+omega ffh
+strong smoothing
+grid iteration
+frequency forcings
+k starting
+transformed discrete
+ff iy
+fine timestep
+spatially discretized
+b log
+timestep h
+jacobi wr
+prolongation operators
+d dt
+picard lindel
+h h
+substantial improvement
+multistep method
+standard multigrid
+h y
+second order
+high frequencies
+time intervals
+time discretization
+relaxation method
+large stepsize
+defect equation
+discretizations could
+spatial modes
+smoothing apply
+vandewalle 4
+using zeros
+large solve
+h 025
+solid h
+paley wiener
+consistent stable
+defect equations
+apply iterations
+algorithm tawr
+acceleration scheme
+slow modes
+given fine
+exponential weight
+wr method
+iy wave
+v constant
+wiener theorem
+spatial multigrid
+discretized iteration
+ratio steps
+h rez
+hff w
+smoothing starting
+principle root
+correction compute
+h 25
+next correct
+timestep sufficiently
+ormer method
+seidel splitting
+tawr h
+horton vandewalle
+discretized wave
+equation restricted
+sweep number
+int omega
+equation n
+dissipative problems
+accelerated waveform
+coarse timestep
+sweep error
+worley 5
+u 0
+jacobi iteration
+unit circle
+finite differences
+iteration sweep log
+l 2 h
+sweep log error
+log error ratio
+timestep iteration sweep
+l 2 ff
+b log error
+restriction and prolongation
+error and b
+damped jacobi splitting
+ae ff h
+symmetric multistep methods
+coarse grid correction
+h sufficiently small
+schr odinger equation
+h s h
+rez ff ae
+ae s h
+high frequency forcings
+linear wave equations
+k starting values
+p h ff
+waveform relaxation method
+near the origin
+h 1 h
+along the line
+r h 2
+solid h 1
+int omega ffh
+stable linear multistep
+h h ff
+accelerated waveform relaxation
+iy the curves
+iteration with timestep
+two grid iteration
+sweep log 5
+waveform relaxation iteration
+h 025 40
+wave equation n
+full weighting restriction
+h 25 fig
+log error fig
+although our experiments
+defect equation restricted
+two grid acceleration
+u 0 perform
+fine time mesh
+ormer s rule
+sufficiently large solve
+continuous time iteration
+gauss seidel splitting
+timestep sufficiently large
+discrete iteration operator
+good smoothing property
+e hff w
+iy wave equation
+time intervals figure
+ja e hff
+curve gamma h
+st ormer method
+thus for h
+discretized wave equation
+multistep is used
+h 2 fig
+sweep error fig
+transformed discrete iteration
+h 5 h
+equation n 32
+paley wiener theorem
+horton and vandewalle
+given fine timestep
+parseval s identity
+symmetric multistep method
+c h h
+spatially discretized wave
+block jacobi splitting
+vandewalle and worley
+solution with fixed
+general convergence result
+miekkala and nevanlinna
+error ratio steps
+respect to high
+nevanlinna and miekkala
+h rez ff
+strong smoothing property
+compute the defect
+show the spectral
+coarse time mesh
+fine timestep h
+wave equation along
+operators are bounded
+error ratio fig
+fixed stepsize h
+zeros for starting
+e without relaxation

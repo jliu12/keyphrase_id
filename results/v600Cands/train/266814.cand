@@ -1,0 +1,600 @@
+trace
+instruction
+prediction
+reissue
+superscalar
+instructions
+buses
+pes
+misspeculation
+predictor
+traces
+cache
+microarchitecture
+live
+pe
+register
+speculation
+ipc
+gcc
+sigarch
+speculative
+xlisp
+multiscalar
+dependences
+news
+dispatch
+processors
+ilp
+window
+processor
+reissuing
+fetch
+misprediction
+locals
+gonzlez
+id
+predictions
+predicted
+branch
+file
+sequencer
+buffers
+benchmarks
+registers
+issue
+confidence
+store
+antonio
+frontend
+jpeg
+loads
+ins
+rob
+outs
+width
+bypassing
+selective
+rename
+retired
+clustered
+dependence
+gurindar
+squashed
+miss
+bars
+bandwidth
+load
+marcuello
+supercomputing
+parcerisa
+simulator
+sohi
+compress
+reissued
+retirement
+ids
+multithreading
+renaming
+smith
+latency
+architecture
+squash
+joan
+microarchitectures
+yew
+squashes
+gyungho
+tubella
+torrellas
+collapsing
+aggressive
+james
+sangyeun
+mispredictions
+instr
+parallelism
+independence
+canal
+annual
+yiannakis
+ramon
+pen
+1999
+flow
+chip
+venkata
+sazeides
+keckler
+manoj
+128
+manuel
+josep
+pedro
+distributing
+freed
+stores
+hardware
+wills
+burger
+exploiting
+mladen
+berekovic
+branches
+buffer
+jordi
+scheduled
+predictability
+mispredicted
+sigplan
+hierarchy
+krishnan
+cycle
+dm
+pred
+memory
+million
+history
+addresses
+saturating
+correlated
+indirects
+kirman
+colohan
+conventional
+thread
+tag
+1998
+franklin
+notices
+resources
+cached
+texas
+steffan
+jeram
+pervasiveness
+antonia
+balasubramonian
+patel
+sanjay
+undo
+dispatched
+rhodes
+cho
+outcomes
+centralized
+doug
+33rd
+meindl
+dwarkadas
+aneesh
+codrescu
+haifa
+steven
+chung
+236
+bypass
+amirali
+baniasadi
+albonesi
+ports
+resident
+operands
+31st
+32nd
+go
+units
+huachuca
+sandhya
+vijaykumar
+reinhardt
+perfect
+predictors
+boundaries
+limitations
+alternate
+handling
+wrong
+pv
+excepting
+lucian
+trace cache
+trace processor
+the trace
+trace id
+value prediction
+a trace
+result buses
+trace processors
+acm sigarch
+sigarch computer
+architecture news
+trace selection
+issue width
+news v
+register file
+computer architecture
+global result
+total issue
+live in
+predicted trace
+control flow
+way issue
+trace predictor
+data prediction
+the store
+live ins
+t 128
+on microarchitecture
+trace is
+ieee international
+live outs
+per pe
+instruction window
+global register
+control independence
+sequence number
+way s
+execution resources
+antonio gonzlez
+processing element
+superscalar processors
+predictor is
+level table
+microarchitecture p
+width t
+instruction buffers
+ipc total
+international symposium
+superscalar processor
+4 way
+computers v
+path history
+128 1
+acm ieee
+memory dependence
+value predictor
+on supercomputing
+on computers
+instruction fetch
+trace boundaries
+correlated predictor
+selective reissuing
+multiscalar processors
+window size
+for gcc
+memory buses
+1 ipc
+memory system
+james e
+instruction issue
+of trace
+2 way
+e smith
+must reissue
+store buffers
+rename map
+store sequence
+reissue because
+trace ids
+architectural limitations
+supercomputing p
+physical registers
+annual acm
+dynamic instruction
+miss rates
+register dependences
+data misspeculation
+control prediction
+aggressive control
+the predicted
+8 way
+each pe
+the frontend
+and xlisp
+local values
+conventional superscalar
+next trace
+predictor the
+processors proceedings
+of control
+ieee transactions
+the instruction
+proceedings of
+pedro marcuello
+stop at
+joan manuel
+local register
+manuel parcerisa
+instructions per
+dependence speculation
+the window
+symposium on
+the memory
+of instruction
+the correlated
+two bars
+free list
+of speculation
+extra cycle
+for bypassing
+different trace
+the superscalar
+krishnan josep
+xlisp show
+distributing execution
+perfect value
+jpeg xlisp
+path sequencer
+new computed
+oracle confidence
+way per
+for go
+instructions are
+sequence numbers
+multiple versions
+for holding
+pen chung
+chung yew
+chip multiprocessor
+prediction the
+josep torrellas
+1 trace
+overcome complexity
+the rob
+slow path
+issue mechanism
+control misprediction
+existing issue
+venkata krishnan
+between pes
+trace characteristics
+trace level
+the load
+data dependences
+the global
+per cycle
+load store
+first level
+and instruction
+prediction is
+the processor
+may 2000
+cho pen
+clustered processors
+gyungho lee
+parcerisa antonio
+go jpeg
+global values
+16 pes
+alternate trace
+dispatch stage
+average trace
+value predictions
+register rename
+yew gyungho
+ramon canal
+jordi tubella
+transactions on
+level parallelism
+execution driven
+and memory
+instructions that
+manoj franklin
+only instructions
+load must
+speculative multithreaded
+gcc the
+sangyeun cho
+trace trace
+marcuello antonio
+and issue
+the benchmarks
+acm sigplan
+functional units
+international conference
+traces the
+new values
+paul shen
+potential improvement
+scott wills
+computer architecture news
+architecture news v
+sigarch computer architecture
+acm sigarch computer
+the trace processor
+total issue width
+the trace cache
+global result buses
+symposium on microarchitecture
+annual acm ieee
+acm ieee international
+ieee international symposium
+the global register
+t 128 1
+a trace processor
+a trace is
+in the trace
+predicted trace id
+international symposium on
+on microarchitecture p
+on computers v
+the predicted trace
+transactions on computers
+ipc total issue
+4 way issue
+issue width t
+width t 128
+128 1 ipc
+proceedings of the
+conference on supercomputing
+within a trace
+james e smith
+global register file
+of the trace
+on supercomputing p
+ieee transactions on
+local register file
+1 ipc total
+the memory system
+the correlated predictor
+correlated predictor is
+news v 28
+processors proceedings of
+first level table
+the trace predictor
+instructions per cycle
+joan manuel parcerisa
+value prediction and
+n 2 p
+miss rates for
+the store sequence
+aggressive control flow
+reissue because it
+krishnan josep torrellas
+of trace processors
+venkata krishnan josep
+on trace boundaries
+alternate trace id
+and xlisp show
+store sequence number
+and global result
+register rename map
+the trace id
+distributing execution resources
+way per pe
+the trace level
+go jpeg xlisp
+conventional superscalar processors
+many instructions per
+load store buffers
+must reissue because
+existing issue mechanism
+at the trace
+for gcc the
+n 2 may
+of the benchmarks
+pen chung yew
+28 n 2
+international conference on
+the first level
+news v 26
+window size and
+the memory buses
+the existing issue
+of load balance
+the wrong path
+the potential improvement
+computers v 48
+cho pen chung
+gcc go jpeg
+the dispatch stage
+the free list
+yew gyungho lee
+if a store
+the path history
+sangyeun cho pen
+manuel parcerisa antonio
+chung yew gyungho
+of control flow
+for go and
+marcuello antonio gonzlez
+pedro marcuello antonio
+next generation processors
+the value predictor
+dynamic instruction stream
+sigplan notices v
+acm sigplan notices
+john paul shen
+d scott wills
+when a trace
+based on trace
+stephen w keckler
+the instruction window
+26 n 3
+if the predicted
+2 may 2002
+bit saturating counter
+news v 30
+level parallelism in
+gurindar s sohi
+v 29 n
+the performance potential
+v 48 n
+of parallel programming
+december 2000 monterey
+33rd annual acm
+result tag buses
+values between pes
+resources are distributed
+file for holding
+inter trace dependences
+structured value prediction
+memory dependences the
+to the excepting
+pervasiveness of speculation
+without value prediction
+bandwidth is reduced
+trace selection gives
+confidence says we
+confidence mechanism is
+among functional units
+number and data
+and address misspeculation
+parcerisa antonio gonzlez
+small scale superscalar
+and live outs
+3 trace cache
+buses that can
+8 way dm
+the benchmarks show
+comp gcc go
+extra cycle for
+load data this
+trace processors with
+at dispatch time
+trace predictor 3
+8 for go
+computed address it
+for buffering speculative
+for bypassing values
+distributed instruction window
+scale superscalar processor
+s 4 way
+path history register
+of control prediction
+instruction window based
+2 way s
+live in registers
+trace processor with
+processing element detail
+gcc and xlisp
+selective reissuing due
+processor 2 1
+local result buses
+live in predictions
+issue many instructions
+exploit control independence
+exploiting control independence
+trace ids are
+for selective reissuing
+for its operands
+execution resources are
+instruction buffers are
+locality and speculative
+and architectural limitations
+way s 8
+total window size
+haifa israel yiannakis
+last two bars
+an entire trace
+at loop branches
+distributing the instruction
+predictor see section
+way s 4
+trace id and
+efficiently exploit ilp
+to allow backing
+dm s 2
+2001 amirali baniasadi
+s 8 way

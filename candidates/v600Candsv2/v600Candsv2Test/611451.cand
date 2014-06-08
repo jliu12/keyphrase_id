@@ -1,0 +1,373 @@
+psdm
+pseudospectrum
+sweep
+pseudospectra
+pf
+kahan
+triplet
+curve
+contours
+gre
+descent
+newton
+contour
+speedups
+cobra
+curves
+grid
+disconnected
+steepest
+cyclic
+min
+arpack
+processor
+zi
+singular
+static
+nished
+processors
+stepsize
+correction
+evaluations
+partitioning
+dn
+mpi
+lengths
+signicant
+boundary
+toolbox
+approximated
+load
+matrix
+dospectrum
+sparskit
+imbalance
+sweeps
+gure
+boldface
+block
+bekas
+gallopoulos
+inwards
+embarrassingly
+kokiopoulou
+pseu
+grcar
+secs
+depict
+gradient
+policy
+allocate
+approximate
+approximating
+mesh
+uncontrollability
+consecutive
+inner
+cf
+partitionings
+rst
+polygonal
+eigenvalues
+prediction
+wi
+lying
+reduction
+tasks
+dening
+suer
+rows
+triplets
+regarding
+culty
+neighboring
+adaptation
+balance
+modied
+matrices
+experimented
+readily
+noting
+matlab
+jw
+dropped
+philippe
+weakness
+plane
+outermost
+proceed
+master
+vis
+seeking
+proc
+inferior
+sgi
+half
+continuation
+directional
+upatras
+secretariat
+koutis
+geo
+zh
+scgroup
+blocksize
+cuves
+ameliorated
+bruhl
+visibly
+tured
+sunstantial
+mipspro
+krg
+mezher
+springboard
+underdetermined
+spdm
+mpt
+astute
+ceid
+ene
+allgower
+hpclab
+satisfactory
+manages
+adapt
+parallelism
+parentheses
+grain
+corrected
+allocated
+sparse
+trajectories
+di
+eective
+nally
+savings
+path
+owes
+inscribed
+encircled
+shue
+harwell
+kostin
+steplength
+jmin
+embarassingly
+circle
+dropping
+iterative
+reveal
+capturing
+ect
+inside
+dene
+renements
+underline
+matics
+openmp
+wj
+mathe
+boeing
+hermitian
+underscore
+irix
+gauge
+versatility
+worth
+target
+moderate
+distance
+oered
+unsymmetric
+eorts
+renumbered
+arnoldi
+z k
+path following
+points computed
+gre 1107
+point reduction
+static block
+static cyclic
+disconnected components
+consecutive points
+kahan 100
+steepest descent
+newton step
+points z
+initial curve
+cyclic partitioning
+one sweep
+single sweep
+min zi
+w k
+relative error
+point z
+pseudospectrum descent
+order 100
+dn p
+initial contour
+n points
+singular vectors
+block partitioning
+reduction policy
+single newton
+level curve
+points dening
+minimum singular
+nished rst
+boundary curve
+matrix kahan
+capture disconnected
+method psdm
+parallel nature
+single boundary
+contours computed
+triplet evaluations
+matrix gre
+descent method
+p e
+complex plane
+load balance
+mean relative
+matrix toolbox
+e points
+newton iteration
+compute points
+level curves
+min u
+table 8
+table 10
+k 1
+test matrix
+computed via
+singular value
+time secs
+load imbalance
+u min
+w 0
+cf 5
+processor 1
+real analytic
+target points
+grcar 50
+original curve
+directions used
+pseudospectrum contours
+introduction cobra
+y psdm
+sweep psdm
+points approximating
+corrected towards
+boundary curves
+original path
+points 46
+pseu dospectrum
+secs 6000
+pf scheme
+e consecutive
+embarrassingly parallel
+use static
+cyclic partitionings
+rows 3
+rows 7
+contour m
+via psdm
+applied psdm
+using descent
+correction direction
+contour lengths
+curve 0
+corresponding speedups
+time processor
+adaptive point
+partitioning time
+polygonal path
+triplet evaluation
+parallel psdm
+contours corresponding
+capturing disconnected
+move inwards
+pseudospectrum level
+block static
+via pf
+prediction direction
+sweep of psdm
+number of points
+points z k
+computed by psdm
+computation of pseudospectra
+kahan of order
+application of psdm
+implementation of psdm
+dn p e
+static cyclic partitioning
+static block partitioning
+points on m
+pseudospectrum descent method
+z k 1
+matrix gre 1107
+version of pf
+point z k
+points of m
+triplet at z
+single newton step
+contours computed using
+distance between consecutive
+capture disconnected components
+n points z
+maximum and mean
+computing the triplet
+single boundary curve
+based at z
+min u min
+test matrix toolbox
+times and speedups
+speedups in parentheses
+experimented with static
+block static cyclic
+min q min
+e consecutive points
+corresponding to min
+rows 7 9
+directional newton methods
+r min x
+outlined in table
+min z k
+indicate that psdm
+methods in n
+u min v
+methods an introduction
+cost for computing
+partitioning time secs
+p e consecutive
+path following method
+using static block
+psdm on matrix
+p e points
+initial curve 0
+correction direction c
+maximum relative error
+static block static
+evaluation at z
+direction c k
+point reduction policy
+inside the initial
+processor that nished
+cf 5 2
+original path following
+time secs 6000
+point w k
+time processor 1
+adaptive point reduction
+number of triplet
+min v min
+candidates for dropping
+curve 0 1
+descent method psdm
+w k using
+capturing disconnected components
+reduction policy described
+min x k
+block and cyclic

@@ -1,0 +1,345 @@
+rfu
+onechip
+reconfigurable
+fpga
+blt
+instructions
+instruction
+configuration
+fir
+rbt
+sim
+jpeg
+outorder
+speedup
+addr
+pipeline
+oc
+configurations
+cpu
+stalls
+simplescalar
+fpgas
+dst
+simulator
+wr
+writes
+erent
+latency
+writeback
+bfu
+recq
+destination
+int
+adpcm
+ruu
+architecture
+operand
+reconfiguration
+pegwit
+chimaera
+lsq
+processor
+memory
+coprocessors
+controller
+dispatch
+rd
+fabric
+register
+encoder
+func
+commit
+stage
+mediabench
+reads
+decoder
+mem
+programmable
+filter
+queue
+compiler
+di
+stations
+cache
+src
+medium
+lru
+reservation
+custom
+hazard
+stalled
+functional
+hazards
+issue
+addresses
+locks
+loading
+prevent
+fetch
+ported
+macros
+xilinx
+chameleon
+execute
+kernel
+logic
+lib
+benchmarks
+scheduling
+processors
+superscalar
+hardware
+locked
+units
+consistency
+lock
+encodesize
+ssgcc
+defconf
+transmogrifier
+block
+latencies
+decode
+executing
+annotation
+unsigned
+conf
+interfacing
+stdio
+hauck
+garp
+morphosys
+unmodified
+loaded
+encode
+encoded
+compression
+blk
+napa
+accesses
+gates
+multimedia
+modifications
+core
+bits
+floating
+specialized
+executed
+divider
+streaming
+remained
+outstanding
+file
+scheduler
+dependencies
+cycles
+queues
+applica
+blocks
+gcc
+improvement
+coef
+capable
+risc
+assembler
+dct
+microarchitecture
+opcode
+acts
+stages
+profiling
+pending
+track
+configuring
+registers
+overlap
+interface
+compiled
+gain
+scott
+pre
+bu
+rec
+execution
+source
+alu
+sim onechip
+rfu instructions
+rfu instruction
+order issue
+reconfigurable unit
+speedup obtained
+onechip architecture
+reconfigurable processors
+destination block
+fir filter
+memory consistency
+dynamic scheduling
+fpga controller
+rfu writes
+prevent rfu
+performance improvement
+consistency scheme
+reconfigurable functional
+instruction stalls
+sim outorder
+reconfigurable instructions
+blt instruction
+rfu destination
+context memory
+fir c
+memory interface
+reservation stations
+di erent
+reconfigurable logic
+functional unit
+memory blocks
+configuration management
+reconfiguration bits
+rfu rd
+fir oc
+operation latency
+encode small
+rfu wr
+dst addr
+large 1
+processor core
+configuration compression
+medium 1
+reconfigurable coprocessors
+oc c
+small 1
+data size
+bits table
+pre loading
+filter kernel
+block lock
+fpga conf
+prevent cpu
+rfu reads
+cpu wr
+memory locks
+kernel oriented
+lru configuration
+lock table
+dispatch issue
+locked rfu
+lines 25
+configuration latency
+pending cpu
+loading configurations
+lib h
+onechip library
+oc lib
+file fir
+operand rfu
+cpu reads
+three operand
+remained unmodified
+configuration address
+unit rfu
+rfu source
+table rbt
+functional units
+memory interfacing
+mem stage
+chimaera reconfigurable
+instruction specification
+reconfigurable instruction
+scheduler queues
+fpga function
+jpeg decoder
+memory streaming
+function func
+operand instruction
+m process
+block sizes
+configuration 0
+oriented applications
+pre load
+issue stage
+two operand
+program order
+memory accesses
+one configuration
+source addresses
+data dependencies
+general purpose
+four applications
+new instructions
+destination addresses
+dynamic reconfiguration
+programmable logic
+memory consistency scheme
+reconfigurable functional unit
+blt instruction stalls
+rfu in onechip
+fir filter kernel
+prevent rfu writes
+fir oc c
+onechip s pipeline
+reconfiguration bits table
+operand rfu instruction
+instructions are outstanding
+rfu destination addresses
+configurations are defined
+instructions that target
+bits table rbt
+oc lib h
+functional unit rfu
+lines 25 27
+lru configuration management
+kernel oriented applications
+rfu source addresses
+block lock table
+experiment was executing
+shows the speedup
+chimaera reconfigurable functional
+reads and writes
+extended to support
+source and destination
+destination block addresses
+operation and issue
+reconfigurable instruction func
+coprocessors for multimedia
+define max_inputs 1024
+locked rfu destination
+pre load instruction
+memory accesses performed
+issue and commit
+fpga function number
+configurations are located
+overlap of approximately
+writes to locked
+store queue lsq
+implemented in onechip
+analysis of reconfigurable
+modifications were done
+reads a word
+addr src2 addr
+onechip architecture 1
+programming for sim
+destination block sizes
+operand instruction one
+destination after addresses
+instructions queue recq
+stage remained unmodified
+onechip s rfu
+writes while pending
+larger the data
+addr and dst
+approach to hiding
+parallel reconfigurable system
+addr dst addr
+onechip this section
+stalls per rfu
+int y max_inputs
+context reconfigurable coprocessors
+version of onechip
+memory streaming applications
+encode small 1
+pending cpu store
+onechip architecture several
+compiler directed approach
+jpeg encode small

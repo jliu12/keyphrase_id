@@ -1,0 +1,389 @@
+spai
+multigrid
+smoothers
+coarsening
+smoother
+smoothing
+seidel
+gauss
+amg
+sparsity
+grid
+sparse
+inverses
+diusion
+interpolation
+convergence
+preconditioners
+inverse
+coarse
+approximate
+preconditioner
+damped
+jacobi
+pq
+frobenius
+algebraic
+uences
+anisotropic
+ilu
+coarser
+dierential
+eective
+rotating
+stuben
+grids
+mg
+ow
+preconditioning
+priority
+dependencies
+mak
+convection
+robustness
+geometric
+diagonal
+norm
+ruge
+equispaced
+gridsize
+huckle
+anisotropy
+galerkin
+convergent
+prolongation
+dependency
+discretization
+pp
+shall
+locally
+inherently
+weakly
+qq
+di
+rates
+denite
+operators
+ki
+mesh
+cult
+entries
+stencil
+iteration
+grote
+preconditionings
+uh
+residual
+squares
+priori
+adaptivity
+symmetric
+unstructured
+interplay
+strong
+hackbusch
+prolongations
+benzi
+cheap
+interpolated
+ve
+nest
+boundary
+stencils
+agglomeration
+adjusted
+matrix
+triangular
+green
+correction
+promising
+coarsest
+satises
+ll
+tang
+denser
+xed
+neighbors
+aligned
+factorized
+diverges
+weak
+culty
+heuristic
+dened
+tolerance
+solver
+smooth
+laplacian
+expert
+pattern
+inherent
+comparative
+levels
+usefulness
+greedy
+proceeds
+row
+interpolating
+mpi
+numerical
+splitting
+scalability
+cient
+smoothed
+siam
+elliptic
+approximates
+nonzero
+culties
+conguration
+frequency
+dominated
+sorted
+parallelize
+multilevel
+classical
+prescribed
+dierences
+wan
+controls
+cycle
+agonal
+benson
+undecided
+smoo
+decient
+mccormick
+lently
+thers
+computersmyampersandmdash
+stben
+riority
+beowulf
+wesseling
+frederickson
+upwinding
+tuma
+meurant
+candidates
+nite
+parallelism
+densities
+hierarchy
+strongly
+conjugate
+dier
+ciently
+circles
+strategy
+tends
+greatly
+powers
+ciency
+lu
+eth
+nev
+couplings
+cosity
+ertheless
+spai 0
+spai 1
+approximate inverse
+sparse approximate
+gauss seidel
+approximate inverses
+algebraic multigrid
+coarse grid
+sparsity pattern
+spai algorithm
+multigrid iteration
+q m
+c points
+coarsening strategy
+f points
+damped jacobi
+spai smoothers
+convergence rates
+inverse preconditioners
+geometric multigrid
+seidel smoothing
+rotating ow
+frobenius norm
+m q
+smoothing property
+inverse m
+algebraic coarsening
+locally anisotropic
+multigrid methods
+sparsity patterns
+m h
+inherently parallel
+coarsening algorithm
+anisotropic diusion
+grid selection
+h k
+x k
+grid levels
+c point
+ow problem
+ki mak
+smoothers spai
+table amg
+improved robustness
+amg convergence
+coarsening goal
+smoothing steps
+f point
+y h
+multigrid method
+grid correction
+point p
+unstructured grids
+classical smoothers
+geometric mg
+weak dependencies
+spai smoothing
+semi coarsening
+interpolation operators
+xed sparsity
+local adaptivity
+inverse smoothers
+seidel 0
+frequency behavior
+multigrid v
+v cycle
+m gauss
+eective sparsity
+multigrid solver
+non expert
+convergent multigrid
+f splitting
+smoother q
+ilu smoothing
+two grid
+smoothers based
+symmetric gauss
+seidel spai
+c dependency
+rates q
+via sparse
+strong dependency
+di cult
+partial dierential
+positive denite
+parameter free
+grid method
+smoothing step
+smooth error
+priori sparsity
+inverse preconditioner
+approximation property
+convergence rate
+least squares
+k th
+inherent parallelism
+o diagonal
+remain bounded
+row m
+rates obtained
+high frequency
+coarser level
+squares problems
+overall complexity
+linear systems
+d q
+greedy heuristic
+dierential equations
+algorithm proceeds
+q 2
+linear system
+diagonal smoothers
+denser m
+problem 12
+property 15
+inverse smoother
+sparse approximate inverse
+pattern of m
+m q m
+q m q
+sparse approximate inverses
+approximate inverse preconditioners
+gauss seidel smoothing
+approximate inverse m
+spai 0 2
+rotating ow problem
+coarse grid selection
+spai 1 smoother
+y h k
+locally anisotropic diusion
+x x k
+smoothers spai 0
+spai 0 spai
+table amg convergence
+algebraic coarsening strategy
+number of multigrid
+g x x
+coarse grid correction
+smoothers for multigrid
+green s function
+m h k
+convergence rates q
+multigrid v cycle
+gauss seidel spai
+eective sparsity pattern
+symmetric gauss seidel
+convergence rates obtained
+high frequency behavior
+smoother q m
+approximate inverse smoothers
+gauss seidel 0
+spai 0 smoother
+q m gauss
+convergent multigrid iteration
+c f splitting
+m gauss seidel
+seidel spai 0
+two grid method
+approximate inverse preconditioner
+o diagonal entries
+m of m
+unknown a priori
+k th row
+partial dierential equations
+least squares problems
+o n log
+n log n
+cost of computing
+pq 6 0
+xed sparsity patterns
+ilu smoothing matrix
+jacobi or gauss
+spai algorithm 13
+performance of spai
+dierent dependencies possible
+spai the sparsity
+ruge and stuben
+weight a pq
+strong dependency dependency
+points are represented
+matrix and preconditioning
+squares problem 12
+via sparse sparse
+exceed o n
+determines the coarse
+minimize ki mak
+parallel algebraic multigrid
+dependency c point
+spai 0 3
+frobenius norm naturally
+point f point
+tang and wan
+inverse preconditioners robustness
+amg convergence results
+inverse preconditioners via
+approximate sparsity patterns
+original spai algorithm
+spai 1 smoothers
+smoother gauss seidel
+via the spai
+coarsening goals 1

@@ -1,0 +1,600 @@
+lfsr
+bist
+lfsr1
+lfsr2
+faults
+polynomials
+undetected
+rnd
+lfsrs
+seed
+uf
+fault
+equ
+deterministic
+polynomial
+patterns
+scan
+circuits
+r12
+circuit
+coverage
+r4
+testport
+r6
+feedback
+mixed
+r14
+reseeding
+r8
+mode
+lda
+startvector
+atpg
+redundant
+bits
+wunderlich
+combinational
+emulated
+random
+msb
+no_poly_bits
+80960ca
+steps_det
+sybille
+pattern
+storage
+hellebrand
+testing
+r15
+suc
+percentage
+poly
+joachim
+seeds
+shift
+resistant
+ld
+mov
+register
+xor
+s420
+steps2
+cmpibne
+shlo
+steps1
+best_scheme
+len2
+len1
+seed_offset
+dq
+l0
+initialize
+dependencies
+stuck
+feed
+hans
+normalized
+registers
+s838
+r13
+bbc
+r11
+000
+testable
+embedded
+s38417
+hardware
+worst
+759
+r10
+s5378
+int
+encoding
+c7552
+nomials
+r7
+subcomponents
+l4
+compact
+liang
+cut
+cuits
+load
+efficiency
+storing
+fe
+primitive
+mask
+schemes
+decompression
+r5
+benchmark
+unsigned
+normalizes
+cir
+chain
+identifier
+processor
+successively
+folding
+generation
+reproduced
+503
+intel
+encoded
+transitions
+decrement
+emulation
+degree
+lfsr4
+testpattern
+lfsr5
+mcms
+subi
+coreware
+rotco
+cmpibg
+loopcounter
+lfsr6
+22256
+eingebetteter
+huaguo
+seedvectors
+dependen
+fluous
+synthese
+schneller
+unequiprobable
+dorsch
+14k
+lfsr3
+guo
+hua
+pi
+modular
+compaction
+cellular
+routines
+synthesizing
+counter
+s1238
+s641
+0of
+shro
+1505
+s820
+randomly
+det
+branch
+requirements
+electronic
+selection
+st
+1149
+s1423
+systeme
+multichip
+costs
+l2
+id
+absolute
+generating
+randomness
+self
+exhaus
+s9234
+covered
+impact
+iscas85
+c2670
+883
+mized
+resis
+931
+transition
+max
+generators
+ferent
+taps
+columns
+deterministic patterns
+multiple polynomial
+random pattern
+mixed mode
+of undetected
+random test
+redundant faults
+bist scheme
+non redundant
+for lfsr1
+undetected non
+of lfsr2
+fault coverage
+test program
+single polynomial
+the lfsr
+mode test
+fault efficiency
+test data
+deterministic test
+pattern generation
+random scheme
+random patterns
+the fault
+mode bist
+deterministic bist
+feedback polynomials
+scheme rnd
+linear dependencies
+data storage
+000 patterns
+best random
+the random
+best single
+test scheme
+test programs
+compact test
+rnd 2
+multiple seed
+faults for
+specified bits
+feedback polynomial
+faults and
+test patterns
+scan chain
+the deterministic
+undetected faults
+lfsr percentage
+for lfsr2
+equ number
+pattern resistant
+normalized numbers
+hans joachim
+joachim wunderlich
+polynomial multiple
+normalized w
+for deterministic
+self test
+test pattern
+10 000
+percentage of
+faults left
+scan based
+based bist
+msb of
+best scheme
+s max
+the test
+p different
+loop counter
+after 10
+memory requirements
+bits s
+t worst
+remaining faults
+polynomials are
+and best
+patterns may
+absolute and
+software based
+a mixed
+sybille hellebrand
+lfsr can
+pattern testable
+polynomial lfsr
+lfsr2 for
+uf best
+modular lfsr
+different lfsrs
+intel 80960ca
+scheme suc
+single lfsr
+lfsr and
+lfsr as
+after random
+bist approach
+be emulated
+generating mixed
+deterministic part
+best uf
+polynomial identifier
+cut scan
+polynomial scheme
+initialize lfsr1
+primitive polynomials
+faults down
+reseeding of
+random schemes
+worst single
+seed lfsr
+circuit degree
+worst and
+random testing
+scheme is
+the mixed
+for circuit
+polynomial p
+the polynomials
+bist hardware
+deterministic testing
+emulated by
+test schemes
+based random
+feedback shift
+left undetected
+based deterministic
+the feedback
+and normalized
+polynomials for
+fault simulation
+shift register
+the scheme
+feed back
+the seed
+the bist
+degree table
+corresponding normalized
+each circuit
+embedded processors
+polynomial the
+in self
+the scan
+of deterministic
+polynomial solution
+branch if
+patterns for
+benchmark circuits
+stuck at
+patterns is
+different feedback
+equal zero
+pattern test
+the best
+for generating
+scheme based
+linear feedback
+embedded processor
+test sets
+of faults
+of specified
+test using
+patterns were
+patterns the
+for scheme
+storage requirements
+the storage
+of test
+1 state
+bits for
+of linear
+highly efficient
+combinational parts
+by lfsr1
+the lfsrs
+encoded deterministic
+polynomials there
+circuit pi
+several polynomials
+register sequences
+initialize lfsr2
+startvector for
+load loop
+s5378 22
+left bbc
+average polynomial
+hard faults
+uf worst
+bits scheme
+feedback cut
+of msb
+lfsr1 with
+serial bist
+bit combinations
+r8 shlo
+lfsrs the
+if msb
+of lfsr1
+decrement loop
+poly id
+primitive feedback
+non redundant faults
+percentage of undetected
+of undetected non
+undetected non redundant
+test data storage
+mixed mode test
+the random test
+mixed mode bist
+10 000 patterns
+a mixed mode
+the fault coverage
+mode test program
+of deterministic patterns
+redundant faults for
+the fault efficiency
+of linear dependencies
+faults and the
+the test program
+after 10 000
+the mixed mode
+redundant faults and
+the best random
+of undetected faults
+number of undetected
+normalized w r
+random pattern resistant
+equ number of
+best single polynomial
+r t worst
+hans joachim wunderlich
+best random scheme
+and normalized w
+multiple polynomial multiple
+lfsr percentage of
+absolute and normalized
+polynomial multiple seed
+deterministic bist scheme
+bits s max
+bist scheme based
+bist scheme is
+the deterministic test
+the random pattern
+random pattern generation
+worst and best
+in self test
+built in self
+for the random
+the best single
+and best single
+random pattern testable
+mode test programs
+state of lfsr2
+circuit degree table
+specified bits s
+single polynomial solution
+faults for scheme
+based deterministic bist
+worst single polynomial
+random test and
+faults down to
+number of specified
+generating mixed mode
+of specified bits
+different feedback polynomials
+the random scheme
+corresponding normalized numbers
+best single lfsr
+multiple polynomial lfsr
+a multiple polynomial
+the scheme rnd
+cut scan chain
+mode bist scheme
+scan based bist
+single lfsr percentage
+of the random
+for each circuit
+the best scheme
+faults left undetected
+linear feedback shift
+of the lfsr
+t worst and
+random pattern test
+by the best
+the corresponding normalized
+of a mixed
+number of deterministic
+the remaining faults
+polynomial p 0
+requirements for the
+scheme based on
+of steps for
+of the faults
+of figure 11
+program of figure
+w r t
+the percentage of
+the costs for
+the storage requirements
+of electronic testing
+testing theory and
+electronic testing theory
+test pattern generation
+of the fault
+the polynomial identifier
+storage bits scheme
+of msb of
+deterministic testing is
+fault at node
+software based random
+linear dependencies may
+for circuit s38417
+msb of lfsr2
+program which generates
+new highly efficient
+pattern resistant faults
+deterministic patterns is
+after random testing
+shift left bbc
+the bist scheme
+pattern by lfsr1
+p bits of
+random test scheme
+left undetected by
+down to 27
+p different polynomials
+the multiple polynomial
+extra bist hardware
+between p different
+based bist in
+random test schemes
+state register of
+sybille hellebrand hans
+data storage bits
+primitive feedback polynomials
+deterministic test set
+of lfsr2 figure
+compact test set
+the intel 80960ca
+scan chain figure
+the feedback polynomial
+at node o
+between different distributions
+be emulated by
+based on reseeding
+by lfsr1 p
+hellebrand hans joachim
+uf uf best
+patterns test data
+multiple polynomial lfsrs
+for scheme rnd
+bist approach the
+as random pattern
+runs of fault
+k the lfsr
+fault efficiency fe
+modular lfsr and
+18 22 27
+r8 shlo 1
+lfsr1 p perform
+for lfsr1 in
+perform 1 state
+can be emulated
+lfsr2 for select
+set of circuits
+generate 1 pattern
+equ position of
+distribution of linear
+000 patterns for
+scheme rnd 2
+p different feedback
+different lfsrs the
+the combinational parts
+combinational parts of
+scan input scan
+complete fault coverage
+random scheme is
+of the lfsrs
+scheme average polynomial
+u feedback cut
+on state of
+undetected faults down
+may occur repeatedly
+000 random patterns
+for generating mixed
+register of lfsr2
+test schemes and
+feedback shift registers
+feedback cut scan
+test program are
+selection between p
+storing a compact
+initialize lfsr2 for
+position of msb
+16 18 22
+hua guo liang
+1 pattern by
+to as scheme
+the feedback equation
+deterministic patterns the
+2 p bits

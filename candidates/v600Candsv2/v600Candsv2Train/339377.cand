@@ -1,0 +1,400 @@
+newt
+deltat
+ode
+convergence
+timestep
+odes
+trust
+superlinear
+gradient
+newton
+timestepping
+definite
+kffik
+minimizer
+gammarf
+quadratic
+ffi
+equilibrium
+rk
+euler
+kffi
+levenberg
+region
+linearized
+ffik
+steepest
+descent
+rapid
+stable
+schropp
+rootfinding
+marquadt
+unconstrained
+nonlinear
+accumulation
+semi
+definiteness
+radius
+strathclyde
+regarded
+dynamical
+subproblem
+gammag
+stability
+bfl
+numerical
+subsequence
+letting
+optimization
+hessian
+fletcher
+convergent
+differential
+lipschitz
+correction
+implicit
+solves
+ordinary
+multistep
+increment
+marquardt
+displacement
+sided
+tolerance
+fl
+mor
+constants
+whilst
+dynamics
+rf
+unbounded
+dennis
+viewpoint
+neighborhood
+rigorous
+sufficiently
+min
+shifted
+closeness
+steady
+ckg
+timesteppers
+dissipativity
+goldfeld
+ckx
+ffkffi
+gmax
+sequnce
+interation
+inequality
+eigenvalue
+ks
+pages
+rate
+triangle
+geometrically
+unusual
+init
+linearity
+maximisation
+uk
+indices
+powers
+griffiths
+relabelling
+contradicted
+dynam
+inexpensive
+remarks
+analogue
+unstable
+litera
+deltaq
+dt
+deltaf
+halve
+ratio
+sup
+glasgow
+ksk
+valleys
+orient
+indirectly
+arises
+minimizes
+goldfarb
+taylor
+contractive
+alter
+infinite
+flg
+contradicts
+timesteps
+expanding
+connection
+equilibria
+fx
+adaptive
+adaption
+theorems
+odds
+reproduces
+steep
+behaving
+guess
+norm
+ak
+optimizers
+kf
+looks
+thetam
+wiley
+item
+page
+benefited
+proceeds
+euclidean
+equations
+areas
+chaos
+generically
+stiff
+forces
+quantifies
+climbing
+displacements
+kutta
+quadratically
+runge
+appearing
+jl
+asymptotic
+neglecting
+enjoys
+ruled
+ysis
+gave
+regime
+drives
+proofs
+else
+fz
+prepared
+lemma
+posteriori
+inactive
+conversations
+inequalities
+chu
+ics
+perspectives
+e k
+trust region
+deltat k
+newt newt
+x k
+local convergence
+superlinear convergence
+algorithm 3
+local minimizer
+local quadratic
+gradient odes
+error control
+implicit euler
+quadratic model
+euler method
+quadratic convergence
+positive semi
+local error
+large k
+semi definite
+gammarf x
+gradient ode
+linearized implicit
+newt k
+k ffi
+k 1
+gradient structure
+stable fixed
+deltat 0
+r k
+k 0
+g k
+kffik h
+local restricted
+j gammarf
+ffi newt
+f x
+positive definite
+global convergence
+constant c
+b ffi
+kffi k
+else set
+region algorithm
+ratio e
+q k
+unconstrained optimization
+compute compute
+b fl
+algorithm 4
+region radius
+b ffik
+k kffi
+rapid form
+gradient stability
+restricted subproblem
+rk methods
+timestep deltat
+main sequence
+k b
+accumulation point
+convergence rate
+ordinary differential
+h k
+displacement error
+unbounded proof
+fixed timestep
+subproblem 3
+compute solve
+solve compute
+shifted sequence
+ffi k
+theorem 3
+necessary conditions
+k solves
+ode methods
+general step
+k e
+constants e
+deltat deltat
+steepest descent
+dynamical systems
+numerical methods
+b k
+lipschitz condition
+using 3
+set x
+compute using
+theorem 5
+convergence analysis
+x 1
+x 0
+k k
+convergence properties
+positive definiteness
+point x
+sufficient conditions
+stable steady
+given deltat
+timestep rk
+bfl x
+region parameter
+found conditions
+conditions rf
+gives rapid
+constraint kffik
+correction ffi
+newt gammag
+x newt
+marquadt algorithm
+large deltat
+indices form
+b bfl
+general odes
+timestepping algorithm
+reducing b
+subsequence whose
+levenberg marquadt
+gammag k
+adaptive linearized
+rk formula
+general ode
+unstable fixed
+k 2
+c 4
+algorithm 3 2
+newton s method
+e k 1
+implicit euler method
+local error control
+local quadratic model
+e k 0
+positive semi definite
+k 1 e
+q k ffi
+linearized implicit euler
+theorem 1 1
+algorithm 4 1
+minimizer in theorem
+x j gammarf
+k is unbounded
+solves the local
+form of superlinear
+j gammarf x
+ratio e k
+theorem 3 4
+trust region algorithm
+e 2 k
+accumulation point x
+point x 1
+trust region radius
+f x j
+local convergence rate
+displacement error e
+k kffi k
+subproblem 3 4
+stable fixed point
+newt newt newt
+timestep deltat k
+constants e c
+ffi k solves
+compute solve compute
+restricted subproblem 3
+k b ffik
+e for constants
+local restricted subproblem
+lemma a 1
+see for example
+r k 1
+f x k
+kffi k k
+error e k
+k in b
+k b k
+close to x
+ordinary differential equations
+follows from 3
+theorem 3 3
+r 2 f
+x k 2
+theorem 5 2
+algorithm 5 1
+method 2 5
+stable steady state
+subject to kffik
+kffik h k
+constraint kffik h
+infinite subsequence whose
+given deltat 0
+region or levenberg
+convergence to stable
+reducing b fl
+c if necessary
+else set r
+hence g 1
+o be 2
+odes that gives
+trust region parameter
+model q k
+suppose that algorithm
+conditions rf x
+theory of gradient
+discussion on unconstrained
+algorithm for unconstrained
+closeness to linearity
+mentioned in 6
+quadratic model q
+fixed timestep rk
+deltat from 5

@@ -1,0 +1,600 @@
+pivot
+bunch
+deltas
+pivots
+deltax
+kaufman
+canonical
+factorization
+parlett
+diagonals
+16a
+degenerate
+interior
+diagonal
+nondegenerate
+primal
+matrix
+mehrotra
+jbj
+16b
+roundoff
+dual
+wright
+theta
+fourer
+18a
+delta
+iterates
+submatrix
+deltap
+rr
+ye
+perturbations
+elimination
+conditioning
+conditioned
+augmented
+curtailed
+complementarity
+factorizations
+row
+duality
+17a
+jj
+stage
+lustig
+deltaj
+marsten
+indefinite
+sparse
+convergence
+1r
+ff
+tp
+triangular
+centering
+blockwise
+shanno
+coefficient
+block
+permutation
+vacuous
+square
+directions
+blowup
+ill
+deltas5
+nonvacuous
+jbjj
+oxo
+39a
+jt
+omega
+11a
+sufficiently
+infeasibility
+18c
+deltaxj
+symmetric
+perturbation
+singular
+rs
+tile
+argonne
+pivoting
+errors
+corrector
+ptp
+feasible
+matrices
+deleterious
+column
+unstable
+nonsingular
+outlined
+theorems
+growth
+floating
+orthant
+vanderbei
+iterate
+affine
+57
+mizuno
+incompatible
+xb
+quantities
+columns
+blocks
+precision
+krk
+satisfies
+deduce
+magnitude
+iteration
+ij
+nondegeneracy
+mn
+substituting
+stages
+crossover
+gammae
+gap
+inversion
+rows
+predictor
+infeasible
+continue
+analog
+violating
+off
+stable
+option
+induce
+th
+dimension
+hung
+backward
+termination
+newer
+norms
+accuracy
+guessing
+mb
+sharply
+jn
+gaussian
+jm
+norm
+null
+arithmetic
+nonzero
+deltai
+lewis
+stalls
+simplex
+svmax
+haveff
+equations4
+gamma338
+ditioned
+gamma43
+meggido
+nonsquare
+of6
+ob1
+gamma245
+svmin
+gren
+shinnerl
+dsytrs
+satisfiesff
+gammagni
+fors
+pon
+prising
+39b
+cele
+dsytrf
+56
+permutations
+approximate
+assumptions
+superlinear
+submatrices
+stability
+procedures
+tiny
+k1
+ii
+satisfied
+sn
+complementary
+accepted
+factors
+todd
+db
+rank
+codes
+progress
+o u
+bunch kaufman
+the bunch
+canonical matrix
+the pivot
+theta 2
+c deltas
+bunch parlett
+theta 1
+interior point
+2 theta
+1 theta
+canonical error
+c deltax
+kaufman factorization
+pivot block
+a canonical
+t ii
+error matrix
+remaining matrix
+2 pivot
+1 pivot
+pivot is
+the factorization
+step length
+computed solution
+delta deltax
+sparse bunch
+search directions
+theorem 6
+is square
+parlett factorization
+deltax deltas
+condition 1
+the diagonals
+pivot selection
+primal dual
+the computed
+solution z
+have from
+2 pivots
+degenerate canonical
+t jj
+deltax b
+linear program
+diagonal elements
+t rr
+1 pivots
+pivots of
+jbj m
+augmented system
+the matrix
+assumption 1
+diagonal element
+deltax c
+t 11
+is canonical
+all sufficiently
+sufficiently small
+d factor
+factorization procedures
+parlett algorithm
+a degenerate
+potential reduction
+size o
+linear programming
+error analysis
+off diagonal
+matrix in
+degenerate problem
+2 block
+mehrotra 5
+1 tp
+deltas b
+of pivot
+diagonals are
+of b
+pivots are
+6 1
+point method
+coefficient matrix
+of 26
+the factorizations
+matrix t
+the remaining
+search direction
+duality gap
+fourer and
+underlying linear
+roundoff error
+symmetric indefinite
+of theorem
+b is
+element from
+for linear
+linear complementarity
+point algorithm
+c delta
+are o
+the duality
+point methods
+dual interior
+singular values
+tp t
+entirely from
+length ff
+and ye
+square then
+and mehrotra
+a primal
+the 1
+the augmented
+the 2
+block e
+off diagonals
+matrix is
+o 1
+path following
+its column
+element growth
+choose p
+point algorithms
+solution process
+theorems 6
+system t
+solving symmetric
+the off
+canonical so
+iteration 100
+useful search
+both diagonals
+standard factorization
+also canonical
+wright 22
+wright 21
+ii say
+blockwise inversion
+triangular substitution
+dual degenerate
+factorization followed
+system 16a
+when jbj
+mb mn
+or 2
+the sparse
+the iterates
+which b
+pivot in
+of roundoff
+finite precision
+cannot occur
+matrix corresponding
+the interior
+delta c
+some permutation
+is degenerate
+1 so
+the step
+satisfies condition
+factorization algorithms
+in interior
+selection procedure
+x s
+z d
+have which
+the solution
+column of
+iteration 17
+kaufman procedure
+a nondegenerate
+mn z
+column pivot
+the nondegenerate
+pivot cannot
+deltas be
+approximate search
+process outlined
+augmented systems
+find that
+permutation matrix
+row column
+a pivot
+components of
+block in
+elements of
+continue to
+we obtain
+x gamma1
+2 blocks
+large relative
+60 is
+factorization be
+pivots we
+remaining submatrix
+centering parameter
+t rs
+of bunch
+t z
+a 1
+relative errors
+1 theta 1
+2 theta 2
+the bunch kaufman
+bunch kaufman factorization
+canonical error matrix
+a canonical matrix
+is a canonical
+theta 2 pivot
+the remaining matrix
+the pivot is
+the bunch parlett
+a 1 theta
+computed solution z
+theta 1 pivot
+a canonical error
+sparse bunch parlett
+size o u
+the pivot block
+theorem 6 1
+b is square
+the computed solution
+bunch parlett factorization
+the pivot selection
+we have from
+theta 2 pivots
+all sufficiently small
+of the bunch
+delta deltax deltas
+pivot is 2
+the sparse bunch
+c deltax c
+deltax c deltas
+a degenerate canonical
+degenerate canonical matrix
+theta 1 pivots
+for all sufficiently
+theta 1 and
+of theorem 6
+bunch parlett algorithm
+the d factor
+the interior point
+the 1 1
+the augmented system
+is 2 theta
+a 2 theta
+2 block in
+theta 2 and
+t z d
+sufficiently small the
+of the factorization
+the linear program
+l and d
+1 or 2
+interior point method
+jbj m the
+pivot selection procedure
+delta c deltax
+t 11 and
+and mehrotra 5
+pivot block e
+11 and t
+error matrix corresponding
+choose p 1
+o u in
+p 1 so
+system t z
+the canonical matrix
+1 tp t
+is square then
+the system t
+p 1 tp
+the underlying linear
+square then for
+and t rr
+error matrix associated
+diagonal element from
+some permutation matrix
+interior point algorithm
+the 2 theta
+the duality gap
+for linear programming
+which b is
+the step length
+theta 1 or
+is o u
+step length ff
+satisfies condition 1
+fourer and mehrotra
+remaining matrix is
+in which b
+interior point methods
+delta is a
+theorems 6 1
+large relative errors
+are o u
+c delta c
+of the diagonals
+primal dual interior
+dual interior point
+then for all
+or 2 theta
+of o u
+the off diagonals
+entirely from the
+interior point algorithms
+as a 1
+or 2 2
+we find that
+2 0 1
+as the pivot
+linear program is
+column of b
+1 1 or
+associated with t
+theorem 6 2
+matrix corresponding to
+theta 2 block
+blockwise inversion of
+dual degenerate problem
+o u a
+underlying linear program
+mn z n
+ii and t
+d factor at
+for triangular substitution
+useful search directions
+o u o
+assumption 1 holds
+at iteration 17
+assumptions on b
+t ii say
+factorization be applied
+column of 26
+the elimination step
+iteration 17 of
+is also canonical
+and t jj
+and 2 theta
+type of pivot
+mb mn z
+is 1 theta
+canonical matrix in
+kaufman factorization be
+c deltas b
+t ii and
+column pivot block
+inversion of d
+of bunch kaufman
+the quantities i
+theta 1 block
+step length to
+factorization followed by
+canonical matrix we
+effects of roundoff
+factor at iteration
+solution process outlined
+parlett algorithm is
+either the 1
+of pivot cannot
+iii the pivot
+row column pivot
+approximate search directions
+computed solution y
+of t ii
+when jbj m
+pivot cannot occur
+to the remaining
+relative errors in
+stage of the
+1 so that
+backward error analysis
+b and n
+in the components
+one step of
+the search direction
+that assumption 1
+of theorems 6
+the remaining submatrix
+augmented system in
+bunch kaufman procedure
+components of delta
+of interior point
+matrix associated with
+a primal dual
+6 2 we
+1 and 6
+the centering parameter
+and l t
+the critical components
+to a canonical
+off diagonal element
+suppose that assumption
+is square and
+hold when the
+after the elimination
+of roundoff error
+that p 1
+the conditioning of
+in later sections
+and 6 2

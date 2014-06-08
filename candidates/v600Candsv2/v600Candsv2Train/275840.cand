@@ -1,0 +1,392 @@
+supernode
+superlu
+actor
+factorization
+pivoting
+sparse
+subrow
+blas
+mflops
+lu
+amalgamation
+subcolumn
+dense
+scaleswap
+nonzero
+symbolic
+rapid
+dgemm
+parallelism
+2d
+update
+structurally
+submatrix
+asynchronous
+subcolumns
+overestimation
+submatrices
+scheduling
+processor
+column
+processors
+pivot
+mod
+supernodes
+matrices
+goodwin
+row
+dgemv
+nonzeros
+kk
+interchange
+elimination
+gflops
+tasks
+rno
+partitioning
+cray
+irregular
+overlapping
+cholesky
+fill
+nonsymmetric
+ins
+matrix
+ij
+cno
+cbuffer
+rbuffer
+ahead
+schedule
+megaflops
+bsize
+static
+lop
+unsymmetric
+block
+kj
+sequential
+ur
+updating
+balance
+code
+multifrontal
+ibuffer
+pbuffer
+buffer
+rows
+pc
+xiaoye
+numerical
+competitive
+subroutines
+ca
+owns
+pr
+mapping
+gepp
+shmem
+granularities
+task
+caching
+megaflop
+rma
+ratios
+proc
+interchanges
+gaussian
+umfpack
+dags
+dependence
+diagonal
+triangular
+upgraded
+mbytes
+exploiting
+nonzerog
+compound
+memory
+interprocessor
+communication
+parallelization
+codes
+ik
+structures
+expose
+transversal
+demmel
+load
+floating
+blocks
+spmd
+remote
+delayed
+scalable
+multicasting
+multicast
+cache
+meiko
+lops
+conducted
+utilize
+supernodal
+owned
+stages
+parallelize
+execute
+exploitation
+completed
+extra
+communicated
+overlapped
+routine
+machines
+tested
+columns
+buffering
+owner
+outperforms
+exploit
+speedups
+degree
+ordering
+excellent
+factors
+prediction
+duff
+balancing
+executed
+frontal
+denser
+parallelizing
+cyclic
+fly
+listed
+overhead
+receive
+overestimate
+entries
+synchronization
+corollary
+pt
+finished
+grained
+moment
+bigger
+hierarchies
+swapping
+f actor
+update 2d
+d code
+actor k
+symbolic factorization
+sparse lu
+rapid code
+column block
+static symbolic
+supernode partitioning
+2d k
+processor column
+overlapping degree
+structurally dense
+graph scheduling
+k mod
+data mapping
+blas 3
+pivoting sequence
+dense structures
+supernode amalgamation
+d rapid
+update k
+partial pivoting
+u supernode
+d data
+mod pc
+task update
+l kk
+compute ahead
+irregular parallelism
+lu factorization
+l u
+numerical factorization
+p c
+u factor
+sequential code
+testing matrices
+d asynchronous
+block k
+sparse matrix
+u partitioning
+u factors
+d codes
+blas 2
+mod pr
+asynchronous code
+step k
+fill ins
+mflops time
+task f
+parallel sparse
+load balance
+nonzero blocks
+sparse gaussian
+parallel time
+processor row
+2d tasks
+u kj
+subcolumn k
+scaleswap k
+superlu code
+time mflops
+distributed memory
+zero free
+free diagonal
+cray t3d
+column blocks
+balance factor
+row interchange
+memory machines
+gaussian elimination
+code performance
+column m
+u ij
+asynchronous execution
+p r
+pivoting choices
+updating stages
+code proc
+degree within
+lu algorithm
+dense subcolumns
+local nonzero
+numerical updates
+ca code
+nonzero fill
+caching performance
+perform task
+k j
+d l
+th column
+buffer space
+mod p
+column 0
+exploiting irregular
+elimination process
+p k
+cholesky factorization
+still working
+tested matrices
+row m
+sparse cholesky
+candidate pivot
+pr k
+pivot rows
+row interchanges
+space complexity
+pivot row
+overestimation ratios
+benchmark matrices
+nonzero structures
+single f
+delayed row
+ca schedule
+dense subcolumn
+subrow m
+rows according
+sec mflops
+identify dense
+pivoting operations
+asynchronous 2
+u part
+interchange rows
+d ca
+ur k
+execute update
+dense structure
+f actor k
+update 2d k
+static symbolic factorization
+d data mapping
+l u supernode
+processors in column
+u supernode partitioning
+sparse lu factorization
+d rapid code
+update k j
+d l u
+column block k
+k mod pc
+within a processor
+l and u
+task f actor
+task update k
+th column block
+k 1 n
+sparse gaussian elimination
+k mod pr
+update 2d tasks
+along this processor
+p k mod
+d asynchronous code
+l u partitioning
+k mod p
+zero free diagonal
+factorization with partial
+p r gamma
+load balance factor
+use of blas
+distributed memory machines
+degree is p
+exploiting irregular parallelism
+k in u
+time mflops time
+overlapping degree within
+working on update
+local nonzero blocks
+pr k mod
+structurally dense subcolumns
+mflops time mflops
+mod pr k
+p 16 p
+structures of l
+p 8 p
+mod p c
+maximize the use
+elimination with partial
+given a sparse
+number of processors
+column or row
+use a ij
+graph scheduling algorithm
+candidate pivot rows
+ij is structurally
+bound of overlapping
+processors of column
+2d k tasks
+k j figure
+compute ahead scheduling
+f actor tasks
+performance of 1
+blas 3 subroutines
+rno k mod
+compute ahead schedule
+partitioned sparse lu
+perform task f
+along a processor
+execute f actor
+asynchronous 2 d
+p my rno
+thus the overlapping
+using static symbolic
+call the buffer
+time sec mflops
+acyclic task graphs
+identify dense structures
+d ca code
+competitive to superlu
+single f actor
+gflops on 128
+k th column
+directed acyclic task
+k and update
+p 32 p

@@ -1,0 +1,600 @@
+ensemble
+ensembles
+port
+abstractions
+jacobi
+cta
+orca
+portability
+ipsc
+xjacobi
+lpar
+cols
+dino
+phase
+mimd
+parallelism
+zpl
+programmer
+decompositions
+array
+phases
+local_max
+xyz
+processors
+portable
+spmd
+dpc
+ncube
+1680
+newp
+parrinello
+colzero
+rowzero
+rows
+reusability
+von
+sublanguage
+east
+declaration
+compiler
+neumann
+granularity
+subarrays
+boundary
+communication
+intel
+partitioning
+style
+ports
+irregular
+max
+fortran
+double
+kali
+temp
+languages
+locality
+neighbors
+hpf
+sequential
+xproc
+sequent
+derivative
+transputer
+receive
+decomposition
+processes
+butterfly
+vienna
+80386
+numchildren
+parent
+poker
+xmax
+interconnection
+apl
+aggregate
+runtime
+unbound
+strips
+architectures
+mgs
+language
+declarations
+bbn
+encourages
+hypercube
+simd
+int
+rogers
+irregularities
+conditionals
+code
+portnames
+denelcor
+twod
+rosendale
+dataparallel
+partition2d
+hiromoto
+pingali
+car
+supports
+processor
+hide
+partitionings
+invocation
+programmers
+reusable
+neighbor
+gp1000
+80387
+hep
+t800
+west
+north
+arrays
+latency
+shared
+logical
+south
+concise
+aggregates
+synchrony
+scalability
+mesh
+abstraction
+machines
+configuration
+diverse
+eastern
+sublanguages
+characteristics
+reused
+send
+wise
+logically
+batcher
+split
+architectural
+scalable
+grained
+programs
+names
+northeast
+simulator
+mehrotra
+forall
+message
+declared
+statically
+diversity
+specifies
+programmability
+2d
+slices
+procedures
+logp
+fft
+illustration
+load
+computers
+64kb
+calvin
+snyder
+speedups
+connections
+scaled
+memory
+1d
+shape
+speedup
+granularities
+topology
+sparse
+loose
+flexibility
+redistributing
+shift
+parameterized
+pieces
+communicate
+float
+factorization
+compilers
+floating
+dilation
+levels
+4096
+reads
+architecture
+passing
+execute
+cyclically
+creation
+symmetry
+pointer
+boundaries
+invoked
+cooperating
+phase abstractions
+x level
+z level
+the phase
+port ensemble
+code ensemble
+y level
+orca c
+data ensemble
+the jacobi
+jacobi phase
+the cta
+derivative functions
+ipsc 2
+max phase
+data decompositions
+boundary conditions
+1 t
+data decomposition
+data ensembles
+the programmer
+parallel programming
+s 1
+level code
+rows cols
+ensemble is
+1 s
+split c
+ensemble declaration
+von neumann
+value 1
+the ensemble
+level program
+1680 points
+a port
+aggregate data
+non shared
+the z
+i port
+data elements
+jacobi iteration
+each section
+and portability
+the von
+shared memory
+ensemble for
+global view
+programming model
+irregular decompositions
+abstractions model
+port ensembles
+local max
+double new
+ncube 7
+car parrinello
+neumann model
+and port
+of parallelism
+the x
+the max
+array sublanguage
+t double
+the ipsc
+point wise
+a parallel
+vienna fortran
+communication structure
+machine specific
+of processors
+the data
+ensemble that
+or runtime
+data parallelism
+of parallel
+programming style
+of sections
+port names
+an array
+data parallel
+a phase
+processors and
+the port
+and communication
+phase is
+abstractions support
+port parent
+type architecture
+ensemble definitions
+and cols
+t port
+loose synchrony
+phase abstraction
+using ensembles
+xyz levels
+phase invocation
+neumann processors
+strips decomposition
+decomposition so
+the xjacobi
+intel 80386
+the ensembles
+neighbor values
+in orca
+and newp
+configuration computation
+for i
+program was
+r c
+new value
+global maximum
+a partitioning
+abstractions are
+of data
+smallest value
+the code
+the car
+parallel algorithm
+parallel computers
+the xyz
+logical communication
+double value
+port name
+of mimd
+this program
+parallelism is
+control over
+portability and
+s communication
+data distribution
+programmer to
+j 1
+a code
+the compiler
+to performance
+a global
+its four
+ensemble the
+vertical strips
+edge effects
+mb node
+ensembles in
+the program
+1 i
+int i
+the sections
+where 0
+machine independent
+architectures however
+array distribution
+this style
+phases are
+rows and
+compiler or
+abstractions the
+sequential languages
+points on
+memory model
+an x
+mimd architectures
+machine size
+load time
+level functions
+the sequent
+communication and
+message passing
+of programming
+problem size
+parallel computation
+dynamic or
+0 s
+code for
+communication costs
+a 2d
+grained parallelism
+t new
+four neighbors
+of jacobi
+statically defined
+intel ipsc
+aspects of
+with machine
+east west
+the boundaries
+model is
+an ensemble
+portable parallel
+over data
+for j
+is bound
+code that
+the diversity
+the portability
+a 1d
+maximum for
+data partitioning
+support for
+of boundary
+illustration of
+z levels
+cols processors
+the phase abstractions
+s 1 t
+1 s 1
+value 1 s
+the x level
+the jacobi phase
+the z level
+the max phase
+the code ensemble
+x level code
+of the phase
+non shared memory
+1680 points on
+ipsc 2 s
+the y level
+level code for
+number of sections
+a port ensemble
+an x level
+a code ensemble
+the von neumann
+the data ensemble
+of data elements
+the ipsc 2
+1 i s
+phase abstractions are
+1 t double
+phase abstractions model
+von neumann model
+data and port
+x level program
+double new value
+aggregate data parallel
+the car parrinello
+new value 1
+the jacobi iteration
+i for j
+for the jacobi
+for i 1
+for j 1
+ensemble is a
+s i for
+number of processors
+1 0 t
+parallel programming model
+granularity of parallelism
+s 1 0
+int i j
+i s i
+1 t new
+diversity of parallel
+ipsc 2 f
+rows and cols
+parallel programming style
+phase abstractions support
+vertical strips decomposition
+compiler or runtime
+xyz levels of
+maximum for i
+code ensemble for
+von neumann processors
+or runtime system
+max i port
+and port ensembles
+x level functions
+value 0 s
+code ensemble is
+z level program
+port ensemble that
+the port ensemble
+phase abstractions the
+1 t port
+in orca c
+with machine specific
+for boundary conditions
+shared memory model
+the compiler or
+i 1 i
+of the jacobi
+0 s 1
+0 t 1
+control over data
+the aggregate data
+with a partitioning
+i t i
+boundary conditions the
+performance and portability
+at the x
+to the programmer
+on the phase
+such as the
+communication and computation
+on the ipsc
+the global maximum
+the intel ipsc
+in the ensemble
+1 i t
+is bound to
+global view of
+illustration of a
+a parallel programming
+and the phase
+the model is
+a global view
+compute the global
+the data space
+the diversity of
+of boundary conditions
+the problem size
+a sequential program
+of processors and
+of a parallel
+j 1 i
+on the boundaries
+of parallel computation
+receive rowzero where
+handling boundary conditions
+parent local max
+split c is
+code and communication
+p and newp
+the xyz levels
+xmax value 1
+hiromoto et al
+communication the compiler
+configuration parameter list
+receive parent local
+i th section
+t new value
+temp compute the
+c 2 processors
+and x levels
+parrinello molecular dynamics
+x level process
+when the procedures
+max phase finds
+the cta s
+relative to computation
+level program specifies
+x level processes
+perform just one
+y level phase
+a 2d data
+level y level
+4 mb node
+pingali and rogers
+those such as
+the candidate type
+port ensembles to
+rowzero where 0
+in the cta
+to perform just
+x level programs
+load time parameters
+level source code
+local_max max local_max
+mehrotra and rosendale
+a data ensemble
+the cta and
+the xjacobi function
+ensemble and the
+be x level
+max send figure
+80386 intel 80386
+double temp compute
+the cta the
+y level port
+receive colzero where
+f ncube 7
+the phase invocation
+2 s ipsc
+point wise communication
+orca c zpl
+of using ensembles
+and the sections
+model is mimd
+x level function
+program specifies the
+receive into the
+the data decomposition
+a z level
+i j double
+of the cta
+for portable scalable
+phase abstractions with
+have poor locality
+size scales by
+double value 1
+machine s communication
+competitive with machine
+at the z
+80387 floating point
+processes execute the
+t double new
+for handling boundary
+batcher s sort
+supports point wise
+a receive into
+rows cols and
+communication is specified

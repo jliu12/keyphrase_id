@@ -1,0 +1,422 @@
+pfu
+prisc
+instruction
+expfu
+programmable
+instructions
+reconfigurable
+pfus
+hardware
+synthesis
+datapath
+logic
+pozzi
+lut
+extraction
+lpnum
+ienne
+compilation
+microarchitecture
+routines
+risc
+mips
+gate
+routine
+custom
+cfg
+laura
+mahlke
+regehr
+pnum
+razdan
+combinational
+predication
+cycle
+compiler
+sram
+nathan
+register
+boolean
+ternary
+automation
+functional
+processor
+kubilay
+atasu
+scott
+goldstein
+mihai
+optimizations
+europe
+cache
+jump
+paolo
+resources
+pam
+hongtao
+embedded
+architecture
+acceleration
+sigarch
+hauck
+vlsi
+espresso
+cells
+clark
+profile
+budiu
+passerone
+bit
+lookup
+seth
+conversion
+rd
+luts
+biswas
+partha
+predicated
+lavagno
+pixie
+rosa
+optimization
+news
+gcc
+truth
+eqntott
+today
+interconnection
+superscalar
+writable
+sigda
+units
+mhz
+microarchitectures
+paddr
+nahri
+grammable
+cadambi
+zhining
+cotofana
+pdata
+samos
+iseli
+hll
+shoa
+moreano
+shirani
+latency
+benefit
+configurable
+luciano
+nikil
+microarchitectural
+cps
+benchmark
+dutt
+cpu
+fpgas
+kilobytes
+augments
+pal
+timothy
+tiberiu
+chimaera
+athanas
+stamatis
+gokhale
+shahram
+chelcea
+cmppt
+schmit
+compile
+literals
+claudio
+benchmarks
+programmed
+microcode
+opportunities
+rs
+val
+sc
+pipeline
+traversals
+microprocessors
+copen
+srihari
+vassiliadis
+girish
+eqn
+bits
+operand
+memories
+backward
+automated
+kilobyte
+alastair
+venkataramani
+moe
+file
+zhong
+alireza
+compton
+asserted
+tecs
+logical
+processors
+metamorphosis
+xilinx
+alberto
+temporary
+handler
+buses
+switch
+compilers
+sanchez
+maya
+sami
+conditional
+araujo
+sharad
+hyperblock
+coprocessors
+branches
+shortcomings
+candidate
+customized
+katherine
+reconfigure
+callahan
+memory
+rt
+doubling
+cisc
+tlbs
+silverman
+herman
+accelerators
+prisc 1
+pfu logic
+instruction set
+hardware extraction
+hardware programmable
+expfu instruction
+programmable logic
+logic instructions
+extraction routine
+hardware synthesis
+pfu optimization
+laura pozzi
+pfu jump
+physical pfu
+pfu programming
+logical pfu
+pfu resources
+paolo ienne
+functional unit
+general purpose
+jump optimization
+application specific
+memory cells
+set extensions
+expfu instructions
+single pfu
+pfu predication
+pfu resource
+width analysis
+function width
+pozzi paolo
+object file
+cycle time
+mips r2000
+synthesis system
+truth table
+design automation
+functional units
+computer architecture
+basic block
+single cycle
+pnum register
+compilation environment
+pfu design
+pfu table
+pfu function
+programmable active
+extraction routines
+pfu expression
+base instruction
+programmable resources
+predication optimization
+active memories
+boolean function
+table lookup
+cycle count
+instruction cache
+per application
+compilation system
+nathan clark
+profile information
+programmable gate
+field programmable
+analysis step
+scott mahlke
+programming information
+john regehr
+custom functional
+alberto la
+compilation synthesis
+operand buses
+input literals
+razdan 22
+set computers
+programming memory
+pfu memory
+wide add
+atasu laura
+computers prisc
+pfu optimizations
+kubilay atasu
+risc functional
+exp gcc
+optimization instances
+interconnection matrix
+synthesis routines
+performance modeling
+logic synthesis
+acm sigarch
+sigarch computer
+architecture news
+instruction sequence
+memory cell
+predicated execution
+instruction scheduling
+purpose applications
+logic evaluation
+automated instruction
+programmable functional
+computer instruction
+clark hongtao
+reconfigurable functional
+claudio passerone
+hongtao zhong
+partha biswas
+gate arrays
+embedded systems
+news v
+signal processing
+high performance
+vlsi signal
+long integer
+scott hauck
+combinational function
+reconfigurable processor
+la rosa
+set design
+mihai budiu
+application performance
+europe p
+instruction sets
+gcc li
+evaluation phase
+international symposium
+control flow
+target address
+gate array
+processing systems
+luciano lavagno
+data segment
+processors proceedings
+time optimizations
+pfu logic instructions
+pfu jump optimization
+instruction set extensions
+pozzi paolo ienne
+function width analysis
+laura pozzi paolo
+hardware extraction routine
+proof of concept
+conference on design
+hardware programmable logic
+pfu table lookup
+programmable active memories
+base instruction set
+pfu predication optimization
+hardware programmable resources
+test in europe
+automation and test
+computer architecture news
+acm sigarch computer
+architecture news v
+sigarch computer architecture
+instruction set computers
+pfu can evaluate
+razdan 22 describes
+long integer multiplication
+prisc 1 compilation
+custom functional unit
+prisc 1 pfu
+atasu laura pozzi
+use the pfu
+logical pfu function
+general purpose applications
+set computers prisc
+alberto la rosa
+pfu optimization instances
+physical pfu resources
+kubilay atasu laura
+programmable gate arrays
+programmable functional units
+reconfigurable functional unit
+computer instruction sets
+hardware synthesis system
+hardware programmable functional
+clark hongtao zhong
+automated instruction set
+journal of vlsi
+processing systems v
+vlsi signal processing
+field programmable gate
+signal processing systems
+instruction set design
+compile time optimizations
+specific instruction set
+amount of hardware
+n 2 p
+application specific instruction
+support for predicated
+symposium on field
+instruction set architecture
+prisc 1 datapath
+networks which could
+risc functional units
+programmable instruction set
+use a pfu
+single pfu resource
+design challenges systems
+nahri moreano guido
+pfu logic operations
+prisc software acceleration
+candidate for implementation
+contain any backward
+mips r2000 code
+compilation synthesis system
+shirani run time
+uses profile information
+pfu section 4
+need to program
+example c code
+iseli and sanchez
+static pfu optimization
+seth c goldstein
+programming the pfu
+cps eqn exp
+unlike the work
+programmer applied optimization
+huang sharad malik
+pfu is significantly
+processor design challenges
+computer to design
+functions per application
+automatic application specific
+dependent pfu logic
+software acceleration techniques
+alireza shoa shahram

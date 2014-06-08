@@ -1,0 +1,600 @@
+cmg
+cgo
+cache
+irg
+irilg
+procedures
+bison
+ixx
+pruning
+coloring
+irpg
+miss
+irals
+dfs
+instruction
+trg
+flex
+gs
+pj
+conflict
+temporal
+misses
+pi
+procs
+conflicts
+popular
+pruned
+edge
+perl
+unpopular
+color
+edges
+profile
+colors
+objparse
+dep2c
+2dep
+fixit
+compound
+window
+interaction
+live
+stream
+reordering
+weight
+mapped
+unmapped
+layout
+pop
+weights
+4th
+lru
+training
+12th
+placement
+ci
+tiger
+1k
+caches
+unactivated
+vii
+unavailable
+ordering
+benchmarks
+7k
+activated
+locality
+dec
+gap
+columns
+bartolini
+prete
+ck
+iv
+exe
+mapping
+v5
+static
+primes
+guided
+5k
+inter
+activation
+frequency
+invocations
+traces
+cj
+45
+calling
+lines
+captured
+3k
+percentage
+fill
+instr
+weighting
+neighbors
+04
+pseudo
+executable
+125
+vi
+guide
+aggressive
+iii
+1478
+prunable
+phalke
+79888
+behrouz
+473070
+25663
+ache
+nodeweight
+19812
+92914
+sharifi
+1338
+unpop
+30280
+658066
+55233
+42467
+mohsen
+yaarc
+zolfaghari
+1410
+791567
+55004
+gopinath
+462056
+cparse
+jumble
+golfer
+99327
+f2dep
+530908
+rates
+94
+parser
+pc
+chains
+characterize
+benchmark
+successive
+descending
+prune
+holes
+deleted
+adjacent
+associativity
+ratios
+deprived
+1581
+flicts
+pilers
+inflict
+ghostscript
+currence
+pij
+granules
+inputs
+gaps
+intersection
+reference
+nodes
+158
+forming
+spanned
+parentheses
+train
+pettis
+sheffer
+wraparound
+gloy
+112
+compiler
+closest
+unpruned
+076
+0k
+063
+1316
+9m
+v4
+graph
+weighted
+graphs
+optimizations
+captures
+instructions
+hashemi
+lighted
+792
+035
+straight
+105
+022
+icy
+erator
+the cmg
+cache lines
+the cgo
+instruction cache
+cmg edge
+between procedures
+temporal interaction
+and cgo
+cgo and
+cgo cmg
+the cache
+inter reference
+cache line
+cmg and
+line coloring
+procedures that
+edge list
+dfs cgo
+and pj
+popular edge
+edge weight
+call graph
+a procedure
+edge weights
+miss rate
+and cmg
+program interaction
+cgo popular
+irg model
+c pruning
+live cache
+reference gap
+static dfs
+the irpg
+of cache
+pruning rule
+procedure reordering
+the temporal
+pruning algorithm
+pruning rules
+unavailable set
+the irg
+cgo edge
+graph pruning
+miss graph
+popular procedure
+a cmg
+unique cache
+cache performance
+pi and
+first generation
+conflict miss
+improved instruction
+the trg
+compound node
+popular procedures
+coloring algorithm
+temporal locality
+procedure mapping
+the popular
+columns 2
+cache conflicts
+of unique
+procedures in
+of procedures
+flex fixit
+irilg and
+gap irg
+finite cache
+graph cmg
+cmg is
+procedure pi
+for cmg
+gs tiger
+unique live
+cmg the
+bison objparse
+the irilg
+global temporal
+exe size
+irpg irilg
+4th 12th
+pc 2dep
+and irals
+of colors
+conflict misses
+cache miss
+profile guided
+the program
+generation cache
+color mapping
+perl primes
+generation conflict
+bison and
+procedure graph
+temporal based
+edge index
+a trg
+the pruning
+the graph
+the inter
+instruction caches
+procedure placement
+procedures i
+the unavailable
+a conflict
+the instruction
+time window
+color set
+miss rates
+procedure and
+each procedure
+procedures the
+cache misses
+graph coloring
+weight between
+no conflict
+call graphs
+the window
+edge sets
+temporal information
+one procedure
+the percentage
+procedures and
+two procedures
+basic block
+case miss
+guided algorithms
+and cj
+irals element
+irilg stream
+ixx layout
+and 12th
+static procedures
+popular edges
+bison flex
+last activation
+of unactivated
+procedure pair
+cgo pop
+is unmapped
+procs exe
+program layout
+order conflicts
+higher generation
+cmg graph
+aggressive graph
+in ixx
+irilg elements
+pop cmg
+nodes ci
+closest is
+unactivated procedures
+5 list
+irpg stream
+cmg improves
+weight order
+node ck
+guide procedure
+25 1k
+conflict shift
+than cgo
+calling frequencies
+in cgo
+end written
+lines spanned
+dfs ordering
+compound nodes
+their deletion
+irg stream
+space until
+program cgo
+pruned pruned
+perl 4
+order order
+the ixx
+ixx benchmark
+based irg
+be popular
+calling frequency
+input instr
+cmg pop
+rate order
+of cmg
+pj if
+graph ordering
+pop cgo
+gaps left
+cgo ordering
+two profile
+mapped but
+popular set
+procs procs
+rarely switches
+prevent higher
+miss ratios
+of times
+nodes are
+the procedure
+04 0
+cache line coloring
+the inter reference
+instruction cache performance
+inter reference gap
+cmg edge weight
+cgo and cmg
+pi and pj
+cmg and cgo
+number of cache
+of cache lines
+set of colors
+in the cache
+instruction cache miss
+between procedures that
+the cmg and
+the cmg edge
+unavailable set of
+conflict miss graph
+interaction between procedures
+and cgo popular
+unique cache lines
+procedures in the
+number of unique
+improved instruction cache
+irilg and irals
+edge weight between
+live cache lines
+procedures that do
+edge weight is
+unique live cache
+cmg edge list
+cgo popular edge
+reference gap irg
+edge index in
+columns 2 4
+of unique cache
+dfs cgo cmg
+cgo edge weights
+miss graph cmg
+generation conflict misses
+irpg irilg and
+c pruning rule
+in the cgo
+a cmg edge
+in the cmg
+the unavailable set
+generation cache conflicts
+of first generation
+of the cmg
+first generation conflict
+temporal interaction between
+procedures i and
+the temporal interaction
+gap irg model
+the number of
+for improved instruction
+cache lines of
+procedures that were
+for instruction caches
+a conflict miss
+cache lines the
+the instruction cache
+the percentage of
+code for our
+a call graph
+call graph is
+number of times
+a and b
+0 04 0
+cache miss rates
+the compound node
+the cgo edge
+of their deletion
+for four applications
+popular edge list
+any two procedures
+one live cache
+switches control flow
+cache address space
+and by 21
+to our coloring
+procedures the percentage
+characterize the temporal
+irg model 4
+and pj are
+aggressive graph pruning
+the lru table
+finite cache effect
+4th and 12th
+conflict can not
+cache mapping problem
+the ixx benchmark
+procs exe size
+of unique live
+to be popular
+first generation cache
+two profile guided
+the finite cache
+call graph ordering
+between the cmg
+rarely switches control
+static dfs cgo
+a procedure pair
+live cache line
+are found inside
+follow one another
+a procedure mapping
+cache effect we
+the cmg is
+our coloring algorithm
+follow each other
+graphs for four
+of unactivated procedures
+popular edge set
+end written in
+the popular edge
+percentage of unactivated
+dfs and cgo
+profile guided algorithms
+to call graphs
+inside a moving
+neighbors of pi
+lines of p
+mapping problem p
+the c pruning
+ci and cj
+cmg edge weights
+pruning rules to
+the color space
+below the straight
+and the cmg
+the cgo and
+a moving time
+local temporal interaction
+for an address
+the irpg stream
+compound nodes ci
+the cgo cmg
+percentage of procedures
+cmg and the
+rules to call
+pop cmg pop
+dfs cgo and
+compound node ck
+of the irpg
+weight i j
+least one live
+front end written
+color space until
+edge weight order
+pop cgo cmg
+a procedure graph
+nodes ci and
+closest is best
+the irpg irilg
+cache lines spanned
+pj are mapped
+miss rate order
+line coloring to
+the irilg stream
+cgo pop cmg
+5 list the
+color set appears
+worst case miss
+procedure and edge
+lines spanned by
+cgo popular procedure
+graph cmg the
+procedure graph with
+c pruning rules
+rate order order
+procedure based irg
+cmg pop cgo
+cgo cmg and
+temporal interaction we
+prevent higher order
+of static procedures
+popular procedure and
+the popular set
+the call graph
+the straight line
+than the window
+call each other
+rate miss rate
+both pi and
+temporal based program
+call graphs for
+the same inputs
+each edge i
+are pruned from
+pi number of
+shows the instruction
+temporal relationship graph
+dec c v5
+the pruning algorithm
+not be avoided
+represents a procedure
+training inputs the
+not be mapped
+miss rate miss

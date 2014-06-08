@@ -1,0 +1,600 @@
+cache
+indexing
+xor
+l1
+ipc
+miss
+l2
+poly
+associative
+conflict
+prediction
+skewed
+misses
+gates
+bits
+memories
+placement
+probe
+conventional
+caches
+stride
+conflicts
+8kb
+latency
+pred
+strides
+interleaved
+pipeline
+polynomial
+instructions
+hole
+modulus
+pseudo
+indexed
+address
+hit
+hash
+collide
+delay
+rehash
+inclusion
+instruction
+spec95
+cla
+virtual
+index
+addresses
+skewing
+unmapped
+ratios
+speculation
+holes
+associativity
+memory
+collides
+lockup
+resistant
+wave5
+invalidations
+hierarchy
+cp
+capacity
+organization
+repetitive
+ratio
+256kbytes
+conventionally
+aliases
+speculative
+load
+physically
+tagged
+predicted
+a2
+critical
+pa8000
+occasional
+lookup
+cycle
+penalty
+pathological
+gf
+prefetch
+hashing
+virtually
+replacement
+tag
+arb
+bit
+option
+access
+mapped
+rau
+schemes
+translation
+processor
+compulsory
+summarise
+hiding
+stage
+superscalar
+coherency
+speculated
+saturating
+antonio
+sk
+edinburgh
+kb
+fetch
+column
+whilst
+gate
+prime
+multiprogramming
+54
+gonzlez
+physical
+speculatively
+randomly
+8000
+ahead
+configurations
+indices
+bus
+87
+tiling
+negligible
+collapsing
+page
+jcmb
+mechanims
+mazen
+cnica
+08034
+streamling
+undisturbed
+2000m
+critial
+fot
+topham
+demonstrably
+departament
+computadors
+catalunya
+arquitectura
+joseg
+abella
+72
+eliminating
+circuitry
+predictability
+modulo
+pages
+block
+counter
+7th
+effective
+overlapped
+suite
+doubling
+accessing
+kings
+vora
+girona
+kharbutli
+jaume
+polit
+frailong
+8kbytes
+solihin
+coincidentally
+untolerated
+84
+committed
+ensuring
+prefetching
+64
+irreducible
+maintained
+mapping
+avoidance
+jaejin
+lengthens
+100m
+upc
+tags
+isolate
+proposals
+attractive
+creation
+hp
+preserve
+lawrie
+randomising
+simulated
+bank
+register
+lengthened
+apsi
+256kb
+i poly
+address prediction
+poly indexing
+at l1
+the cache
+miss ratio
+the xor
+xor gates
+polynomial mapping
+memory address
+virtual real
+effective address
+conflict misses
+indexing function
+significant bits
+skewed associative
+prediction scheme
+indexing scheme
+at l2
+cache indexing
+level virtual
+ipc miss
+critical path
+associative cache
+cache access
+real cache
+address bits
+interleaved memories
+l1 and
+and l2
+least significant
+miss ratios
+1 28
+polynomial modulus
+column associative
+address translation
+hit time
+index function
+cache is
+the ipc
+cache index
+conventional indexing
+a conventional
+associative caches
+pseudo random
+conventional cache
+miss no
+pred ipc
+no pred
+tag lookup
+all strides
+an 8kb
+cache hierarchy
+of cache
+the miss
+a hole
+direct mapped
+conflict resistant
+pred with
+second probe
+between l1
+with pred
+randomly interleaved
+the critical
+two way
+xor functions
+pseudo randomly
+placement function
+the address
+the memory
+additional delay
+two level
+of holes
+cache conflicts
+l1 cache
+indexing schemes
+cache placement
+indexing functions
+1 30
+of conflict
+cache with
+indexing is
+of inclusion
+physical address
+1 13
+poly scheme
+placement functions
+the polynomial
+of polynomial
+conflict miss
+address calculation
+26 1
+1 26
+l2 cache
+way set
+72 1
+in l1
+cache architectures
+indexed cache
+resistant cache
+set associative
+load instruction
+the predicted
+gates are
+addresses which
+ratios we
+one cycle
+way associative
+delay of
+different cache
+the indexing
+memory access
+level 1
+first probe
+collides with
+way skewed
+fast address
+cache performance
+average miss
+parallel memories
+a virtually
+address computation
+lockup free
+the index
+memory latency
+1 09
+l2 is
+the skewed
+the i
+a cache
+the pipeline
+to tag
+cache configurations
+67 1
+conventional and
+pipeline stage
+cache conflict
+in cache
+the effective
+64 bit
+2 way
+access time
+implementation issues
+level memory
+indexing and
+with address
+memory instructions
+1 51
+cache size
+holes at
+virtually tagged
+eliminating cache
+placement 2
+25 provides
+coherency actions
+7th column
+indexed location
+if collides
+l1 index
+gates not
+virtual aliases
+translation prior
+poly cache
+a2 hp
+preserve inclusion
+skewed storage
+l1 replacement
+42 76
+cp xor
+probe with
+pa8000 12
+poly functions
+27 72
+8kb two
+cp ipc
+external coherency
+randomly indexed
+51 14
+polynomial hashing
+54 average
+hash rehash
+ipc ipc
+8kb cache
+and summarise
+l2 will
+l2 it
+xor no
+37 27
+wave5 1
+no cp
+47 1
+most significant
+line at
+memory hierarchy
+hash functions
+data being
+level cache
+gf 2
+address is
+in parallel
+i poly indexing
+memory address prediction
+the i poly
+address prediction scheme
+the xor gates
+least significant bits
+two level virtual
+virtual real cache
+level virtual real
+l1 and l2
+the cache access
+the critical path
+real cache hierarchy
+in the critical
+the memory address
+pred with pred
+miss no pred
+with pred ipc
+no pred with
+ipc miss no
+pred ipc miss
+between l1 and
+of polynomial mapping
+the polynomial mapping
+a conventional cache
+xor gates are
+skewed associative caches
+1 26 1
+the indexing function
+cache access time
+the effective address
+to tag lookup
+a line at
+i poly scheme
+poly indexing is
+at l1 and
+prior to tag
+miss ratio of
+the miss ratio
+the cache index
+column associative caches
+randomly interleaved memories
+with address prediction
+gates are in
+under a conventional
+ratio for different
+the second probe
+conflict resistant cache
+of the cache
+in parallel memories
+the hit time
+miss ratios we
+fast address calculation
+average miss ratio
+if the xor
+the index function
+the first probe
+two way skewed
+effective address of
+way set associative
+critical path this
+miss ratio for
+way associative cache
+and performance of
+a two level
+in the pipeline
+the data being
+in the cache
+2 way set
+scheme to predict
+28 42 76
+72 1 26
+polynomial hashing function
+an 8kb two
+wave5 1 37
+eliminating cache conflict
+replaced at l2
+i poly functions
+context of cache
+indexing scheme which
+27 72 1
+xor gates not
+no cp xor
+address translation prior
+parallel memories using
+and pseudo random
+ipc miss ipc
+miss ipc ipc
+76 1 51
+ratio at l1
+25 provides a
+pipelined memory in
+external coherency actions
+in cp ipc
+1 51 14
+when i poly
+latency reduction and
+data being replaced
+interleaved memories the
+1 37 27
+42 76 1
+and skewed associative
+based placement functions
+use a virtually
+have a delay
+i poly cache
+1 28 42
+xor tree if
+14 67 1
+delay of approximately
+collides with then
+gates not in
+poly indexing scheme
+16 53 1
+indices at l1
+of cache indexing
+property of inclusion
+index function at
+inclusion is maintained
+54 average 1
+cache is replaced
+of i poly
+cp ipc miss
+exist in l1
+pseudo randomly indexed
+37 27 72
+translation prior to
+skewed storage scheme
+of holes at
+67 1 48
+poly indexing and
+significant bits have
+an 8kb cache
+an i poly
+block placement 2
+present in l1
+xor in cp
+1 54 average
+at index in
+51 14 67
+if collides with
+xor no cp
+placement 2 1
+cp xor in
+8kb two way
+then addresses and
+line at index
+a delay of
+of the address
+the least significant
+in a conventional
+the memory access
+index in the
+the two level
+the cache is
+hierarchy proposed by
+and l2 is
+avoid the penalty
+collide on the
+set associativity can
+with the xor
+polynomial mapping on
+distance to main
+maintenance of inclusion
+address bits to
+a conflict resistant
+proposed indexing scheme
+cache indexing scheme
+one cycle penalty
+pseudo random indexing
+address calculation zero
+26 1 28
+indexing function is
+such a cache
+with fast address
+advanced performance features
+the penalty introduced
+conflict miss ratio
+the xor delay
+uses address bits
+organization with the
+modulo power of
+through xor based
+cache could be
+conflict avoiding cache
+minimum page size
+cycle penalty in
+access with fast
+cache hierarchy proposed
+polynomial mapping provides
+average hit time
+address bits beyond
+product of and
+the predicted line
+on randomly interleaved
+12 1 13
+and load miss
+ipc and load
+address prediction for
+16 higher than

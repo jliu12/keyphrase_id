@@ -1,0 +1,388 @@
+image
+skeletons
+iatg
+skeleton
+dcg
+parallelism
+operators
+char
+images
+void
+unsigned
+stereo
+baseline
+triadic
+processors
+monadic
+dyadic
+neighborhood
+pixels
+imagepointdist
+taskb
+taska
+master
+pixel
+task
+ups
+host
+lters
+disparity
+vision
+mpi
+tasks
+int
+imaging
+compositing
+destination
+operator
+lter
+algorithmic
+convolution
+redistribution
+proling
+imagewindowdist
+processor
+dierent
+window
+cameras
+mdg
+dierence
+mixed
+scheduling
+shifted
+precedence
+ltering
+squared
+alpha
+nonlinear
+snopt
+plaza
+parallelized
+headers
+communication
+fortran
+kernel
+pure
+sobel
+tted
+cpr
+ecient
+restoration
+ref
+subtract
+horizontally
+preemptively
+panda
+myrinet
+rst
+costs
+exploiting
+subtraction
+stripe
+blend
+executing
+surrounding
+exec
+alu
+ow
+library
+dene
+processed
+predicted
+das
+allocated
+pcs
+laplace
+classication
+edges
+fig
+speed
+node
+dicult
+multicomputers
+sequential
+create
+lm
+linux
+coding
+win
+eort
+speedups
+num
+acyclic
+balanced
+versus
+pictures
+paradigm
+arithmetic
+aldist
+imageglobaldist
+blood
+proled
+pararameter
+serot
+disscus
+seinstra
+approac
+ideea
+valencia
+ral
+imageglob
+tsas
+erators
+koelma
+bagdanov
+crispening
+moddeling
+mnkl
+tabulate
+asci
+attened
+name
+moved
+rendered
+macro
+eld
+source
+pentium
+pipelined
+critical
+multiply
+blurring
+orca
+ampl
+assembles
+angiography
+hyperspectral
+okutomi
+webb
+formula
+stands
+achievable
+emerged
+nodes
+rendering
+corner
+reference
+image processing
+task parallel
+data parallelism
+data parallel
+baseline stereo
+point operators
+task parallelism
+dcg skeleton
+multi baseline
+n char
+global operators
+processing operators
+unsigned int
+stereo vision
+level image
+int n
+image operators
+parallel approach
+neighborhood operators
+parallel framework
+void im_op
+algorithmic skeletons
+parallel image
+application task
+vision application
+output void
+using skeletons
+task graph
+mixed task
+low level
+image application
+char name1
+char name2
+processing application
+output image
+d x
+one input
+speed ups
+constant d
+processors executing
+source image
+destination image
+input images
+operators one
+communication time
+parallel programming
+processed area
+char name
+image operator
+master 0
+pure task
+dyadic point
+host processor
+source images
+processing user
+destination pixel
+distributed memory
+input image
+reference image
+processing environment
+input output
+char name3
+nonlinear lters
+image master
+function operation
+graph iatg
+monadic image
+processing operator
+average area
+monadic point
+point neighborhood
+d pixels
+image operations
+fortran m
+neighborhood operator
+processor tasks
+computer imaging
+disparity image
+match images
+operations function
+tasks image
+name void
+either pure
+ups obtained
+squared dierence
+critical path
+data d
+task number
+two source
+dierent image
+new output
+host processors
+application described
+one output
+execution time
+distribution scheme
+processors allocated
+communication costs
+convolution kernel
+image d
+entire image
+parallel environment
+framework based
+parallel tasks
+point communication
+two dimensional
+processing applications
+sequential code
+well balanced
+image point
+parallel code
+monadic operations
+operator applied
+task taska
+master master
+parallelism 7
+processing library
+win void
+triadic point
+taskb processors
+operations monadic
+macro data
+operators takes
+imagepointdist 1io
+node approach
+char name4
+adding data
+non preemptively
+data and task
+task and data
+baseline stereo vision
+multi baseline stereo
+low level image
+int n char
+image processing operators
+unsigned int n
+level image processing
+application task graph
+stereo vision application
+parallel image processing
+constant d x
+void im_op dcg
+image processing application
+char name1 char
+task parallel framework
+n char name1
+image application task
+operators one input
+data parallel approach
+skeleton for monadic
+one input output
+image processing user
+image processing environment
+task parallel approach
+dyadic point operators
+one output void
+n char name
+number of processors
+pure task parallelism
+task parallel environment
+two source images
+image processing operator
+level image operators
+speed ups obtained
+name void im_op
+task graph iatg
+operations function operation
+skeleton for neighborhood
+new output image
+h k l
+input output void
+char name2 char
+parallel framework based
+operators we assigned
+char name void
+monadic point operators
+neighborhood and global
+point operators one
+set of processors
+f m n
+distributed memory system
+image processing applications
+data parallel programming
+window win void
+point operators takes
+parallelism 7 8
+exploiting mixed task
+compared to either
+monadic dyadic point
+skeleton for global
+pro 200mhz pcs
+neighborhood operator original
+processors executing task
+image an example
+char name3 char
+top left corner
+node 1 node
+d pixels task
+operations monadic image
+c using mpi
+executing taskb processors
+mpi panda library
+parallelism has emerged
+either pure task
+connected through myrinet
+image operations function
+pure data parallelism
+panda library 19
+vision application described
+classication of low
+parallelism is limited
+rendered separately possibly
+large computational problems
+model for integrated
+processed image master
+dyadic image operators
+node 2 node
+image and two
+ram running linux
+dierent image sizes
+monadic image operations
+performance thus exploiting

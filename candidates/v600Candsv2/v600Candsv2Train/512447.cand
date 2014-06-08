@@ -1,0 +1,356 @@
+esp
+firmware
+vmmc
+safety
+spin
+freed
+bugs
+checker
+objectid
+myrinet
+allocation
+programmable
+channels
+memory
+devices
+objects
+device
+object
+management
+card
+compiler
+immutable
+channel
+objectids
+sharec
+count
+ectiveness
+malloc
+programmer
+overhead
+di
+reference
+mutable
+ort
+pgm
+pointers
+freeing
+debug
+countc
+prfree
+sent
+dangling
+processes
+allocated
+interface
+mbytes
+counts
+exhaustively
+runtime
+erent
+leaks
+cast
+copying
+remote
+bug
+dma
+cult
+reliablesend
+processa
+checking
+liveness
+sharing
+garbage
+debugging
+manage
+checkers
+frees
+pointer
+counting
+ease
+machines
+deep
+receiving
+array
+recursive
+bu
+verify
+cpu
+overheads
+decremented
+ciently
+gigabit
+processb
+entryt
+painstaking
+localreq
+remotereq
+remotereply
+measurements
+increment
+invalid
+cards
+disallows
+incremented
+incurs
+message
+spent
+virtual
+sweep
+marshalling
+rendezvous
+safe
+network
+cient
+lifetimes
+driven
+deadlock
+bookkeeping
+correctness
+mutating
+increments
+copied
+decrement
+cyclone
+stack
+su
+copy
+er
+messages
+arriving
+verifiers
+check
+fairly
+cyclic
+sender
+executable
+erties
+debugged
+compounded
+event
+incur
+code
+checks
+collectors
+functionality
+erently
+traditionally
+rectify
+eia
+pc
+concurrency
+accesses
+disconnect
+explored
+leak
+manifests
+optimize
+sanjeev
+recursively
+decrements
+migrating
+heap
+goals
+semantically
+splash
+pointed
+hash
+int
+unsafe
+promotes
+primitives
+explore
+registers
+messaging
+sending
+collector
+molecules
+thereby
+verifier
+instrument
+share
+regions
+operating
+concurrent
+inserted
+language
+novel
+avoids
+processor
+ective
+mantically
+lanai
+lucontiguous
+purify
+unbu
+memory safety
+vmmc firmware
+memory management
+reference count
+model checker
+esp compiler
+programmable devices
+reference counts
+memory allocation
+allocation bugs
+allocation correctness
+driven state
+management scheme
+reference counting
+local property
+management overhead
+verify memory
+malloc free
+safety models
+state machines
+dynamic memory
+explicit memory
+state space
+pointer sharing
+main cpu
+model checking
+test code
+recursive data
+esp program
+dangling pointers
+esp provides
+e ectiveness
+event driven
+free interface
+network card
+esp allows
+making memory
+device firmware
+esp code
+esp runtime
+objects sent
+e ort
+receiving process
+remote write
+deep copy
+data types
+network interface
+allocated objects
+spin model
+support recursive
+firmware using
+esp processes
+spin code
+esp supports
+verify safety
+count increments
+programmer e
+memory leaks
+detailed models
+di erent
+novel memory
+esp language
+di cult
+cyclic data
+implemented e
+data structures
+model checkers
+using spin
+global states
+esp uses
+ort required
+provides safety
+rendezvous channels
+largest process
+copying semantics
+cast operation
+myrinet network
+exhaustively verify
+n spin
+process frees
+safety model
+channel countc
+immutable object
+myrinet 4
+maintains reference
+process processa
+virtual memory
+e ciently
+entire state
+using event
+make memory
+remote machine
+interface cards
+mapped communication
+traditional scheme
+copying objects
+column shows
+automatic memory
+counting overhead
+mutable data
+generated model
+process section
+using model
+memory management scheme
+event driven state
+driven state machines
+memory allocation correctness
+memory management overhead
+verify memory safety
+recursive data types
+memory safety models
+correctness a local
+explicit memory management
+sent over channels
+memory allocation bugs
+malloc free interface
+cyclic data structures
+support recursive data
+spin model checker
+code to check
+dynamic memory management
+ease of debugging
+firmware for programmable
+maintain the reference
+programmer e ort
+implemented e ciently
+novel memory management
+able to exhaustively
+reference count increments
+checker to verify
+language for programmable
+cult to find
+provides an explicit
+entire state space
+design and implementation
+mbytes of memory
+used to check
+channels are passed
+maintains reference counts
+program these models
+e ort required
+region based memory
+machines in c
+maintaining the reference
+memory safety model
+object is freed
+message processing cost
+making memory allocation
+reference counting overhead
+newly allocated objects
+make memory allocation
+using event driven
+based memory management
+check for memory
+exhaustively verify memory
+two processes share
+automatic memory management
+ease of programming
+using model checking
+esp a language
+overhead to maintain
+memory mapped communication
+virtual memory mapped
+remote write operation
+explore the state
+shows the size
+passed by value
+garbage collection techniques
+network interface card
+using a model
+shared virtual memory

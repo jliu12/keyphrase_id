@@ -1,0 +1,386 @@
+sparse
+brs
+mrd
+inspector
+executor
+vienna
+fortran
+hpf
+crs
+myc
+descriptor
+runtime
+compiler
+partv
+myr
+ro
+parallelization
+da
+xvec
+vfcs
+processor
+parth
+jj
+loops
+matrix
+distributions
+procs
+translation
+row
+cg
+indirections
+format
+irregular
+spmd
+sar
+preprocessing
+array
+processors
+ra
+balance
+workload
+overhead
+indirection
+loop
+supercomputing
+submatrix
+bisection
+manual
+stores
+locality
+scatter
+codes
+compilation
+indirect
+brd
+dense
+cs
+submatrices
+compile
+cyclic
+savings
+rows
+indices
+arrays
+sparsity
+matrices
+mesh
+directives
+auxiliary
+conjugate
+declaration
+communication
+partitioning
+formats
+accurated
+dmmps
+syntax
+routines
+optimizations
+accesses
+zima
+directive
+parallelized
+compilers
+lanczos
+yeh
+owner
+horizontal
+accessed
+parafrase
+gather
+distribution
+zeros
+ekmr
+co
+parallelizing
+offset
+volume
+ching
+gradient
+mapped
+approved
+shiuh
+owns
+vertical
+memory
+language
+prime
+programmer
+distribute
+index
+storage
+zapata
+overheads
+chun
+vectors
+declared
+languages
+chamberlain
+emilio
+bradford
+dereference
+partitioner
+massively
+snyder
+paradigm
+decomposition
+yuan
+column
+owning
+accessing
+chung
+extensions
+load
+translated
+jen
+preprocessed
+compressed
+code
+replication
+harwell
+boeing
+enumeration
+meshes
+cyclically
+manuel
+routine
+accumulating
+multiprocessors
+evenly
+partitions
+retain
+redistribution
+consecutively
+sintactically
+subsequents
+especifications
+pombo
+trenas
+nsd
+cabaleiro
+plod
+abstractvienna
+intirely
+tranformed
+gilgamesh
+heras
+nxlib
+delimits
+pena
+preconditionator
+garz
+inmediately
+multicomputers
+element
+iterations
+unbalanced
+dealing
+target
+parallelize
+handling
+specification
+iterating
+segment
+summarizing
+annotation
+annotations
+pseudoregular
+dmmp
+bik
+etcetera
+ujaldn
+petaflops
+fiji
+pseudoregularity
+across
+products
+vienna fortran
+sparse matrix
+distributed sparse
+data parallel
+sparse loops
+sparse format
+sparse data
+sparse representation
+data distributions
+non zero
+sparse matrices
+memory overhead
+cg algorithm
+distributed memory
+processor mesh
+communication volume
+sparse codes
+runtime support
+load balance
+parallel languages
+distribution descriptor
+brs descriptor
+myr myc
+non zeros
+non local
+good load
+theta y
+workload balance
+local elements
+inspector executor
+index domain
+vector stores
+manual parallelization
+zero element
+parallel code
+x theta
+zero elements
+irregular problems
+data vector
+sparse code
+manual version
+sparse representations
+executor paradigm
+xvec partv
+mrd distribution
+representing sparse
+executor time
+local segment
+conjugate gradient
+column number
+translation process
+compile time
+irregular computation
+runtime techniques
+local partial
+data distribution
+language features
+gradient algorithm
+new language
+input matrix
+sequential sparse
+local row
+storage formats
+sparse computations
+loop partitioning
+performance fortran
+automatic parallelization
+memory machines
+lin yeh
+chun yuan
+parallel compilers
+recursive decomposition
+matrix element
+fortran hpf
+target code
+supercomputing v
+yuan lin
+local index
+prime factors
+generate efficient
+row number
+yeh ching
+ching chung
+language extensions
+runtime overhead
+zero value
+loop decomposition
+mrd case
+sparse references
+additional preprocessing
+ra stores
+brs scheme
+neighborhood properties
+local submatrix
+processor myr
+da co
+extended hpf
+corresponding descriptor
+crs like
+mrd crs
+use crs
+local rows
+preprocessed information
+language elements
+sparse applications
+crs sparse
+mapped locally
+preprocessing overheads
+da ro
+decomposition mrd
+jj indices
+scatter routines
+small descriptor
+distributed representation
+vfcs compiler
+distributed sparse representation
+good load balance
+data parallel languages
+fortran or hpf
+non zero element
+non zero elements
+x theta y
+memory and computation
+distributed sparse representations
+data parallel compilers
+inspector executor paradigm
+myr and myc
+ro i jj
+representing sparse matrices
+p 2 procs
+partv i myc
+inspector and executor
+distributed memory machines
+conjugate gradient algorithm
+fortran and hpf
+within the vfcs
+levels of indirection
+non local elements
+high performance fortran
+available at compile
+yuan lin yeh
+chun yuan lin
+lin yeh ching
+journal of supercomputing
+parallelization of sparse
+conference on supercomputing
+compiler and runtime
+non zero value
+yeh ching chung
+across the processors
+element is local
+factors of x
+processor myr myc
+new language features
+explicitly parallel message
+vienna fortran language
+indirections in data
+determine the processor
+crs sparse format
+distributions for sparse
+distributed data using
+local partial products
+descriptor and translation
+determine the local
+sparse matrix algorithms
+using the translated
+data parallel compiler
+factors of y
+support for sparse
+new data type
+gather scatter routines
+volume in executor
+extensions of hpf
+multiple recursive decomposition
+stores the indices
+recursive decomposition mrd
+indirect array accesses
+horizontal partitioning steps
+parallel sparse computation
+uses the preprocessed
+representation and distribution
+brs and mrd
+new language elements
+mrd and brs
+matrix is distributed
+number of optimizations
+accumulating the local
+stores the column
+owning the element

@@ -1,0 +1,381 @@
+formats
+blocksolve
+sparse
+bernoulli
+inspector
+ind
+hpf
+mixed
+executor
+indirect
+snl
+compiler
+relational
+relations
+format
+query
+sl
+dense
+rowind
+doany
+inspectors
+colp
+ownership
+matrix
+indices
+translation
+library
+storage
+arrays
+bik
+chaos
+join
+processor
+solver
+ccs
+vals
+itpack
+array
+compiling
+fragmentation
+executors
+sparsity
+algebra
+loops
+index
+fragments
+diagonal
+yeh
+shiuh
+row
+tuples
+blas
+ad
+tab
+fortran
+ching
+iterations
+cliques
+yuan
+solvers
+stored
+fragment
+cccs
+alignment
+compressed
+predicate
+chun
+nz
+codes
+portions
+ellpack
+indirection
+rows
+matrices
+translated
+jen
+communication
+specification
+code
+ancourt
+hi
+ekmr
+chung
+relation
+color
+products
+army
+partitioning
+distributions
+lin
+joins
+communicated
+database
+references
+polyhedral
+views
+optimizations
+sp
+enumerate
+implementations
+loop
+processors
+queries
+variety
+hp
+translations
+product
+extensibility
+compilation
+kernels
+distribution
+diff
+fig
+iteration
+column
+spmd
+polyhedra
+ibm
+replicated
+iterative
+freedom
+blocks
+nests
+multidimensional
+competitive
+krylov
+enumerating
+viewing
+accelerated
+kyrlov
+recvind
+iperm
+jdiag
+colind
+sistencies
+multicomputers
+supercomputers
+sec
+preconditioners
+libraries
+resolve
+discretization
+irregular
+degrees
+permuted
+ffl
+reorders
+extrinsics
+pends
+compile
+translate
+owner
+describing
+sequential
+incomplete
+amortized
+petsc
+roxane
+aiguier
+ujaldon
+adle
+delaplace
+global
+contract
+triangles
+specify
+extensible
+automatic
+wijshoff
+vuduc
+crs
+tedious
+scanning
+liu
+elliptic
+overhead
+memplus
+unknowns
+access
+motzkin
+incon
+yelick
+cg
+skinny
+burdensome
+franck
+eun
+parallelization
+bernoulli mixed
+sparse matrix
+storage formats
+indirect mixed
+index translation
+distribution relation
+distributed relations
+blocksolve library
+matrix vector
+vector product
+global relations
+translation relation
+bernoulli compiler
+access methods
+sparsity predicate
+relation ind
+chaos library
+sparse code
+distributed query
+parallel code
+translation table
+global index
+fragmentation equation
+ind p
+inspector overhead
+distribution relations
+matrix formats
+hand written
+processor p
+yuan lin
+data parallel
+relational algebra
+row indices
+non local
+hpf 2
+global specification
+relational query
+sparse blocks
+local elements
+ownership information
+code generation
+iteration set
+chun yuan
+stored using
+require communication
+relational approach
+matrix computations
+local index
+distributed translation
+describing storage
+index translations
+compressed column
+compiling parallel
+doany loops
+mixed bernoulli
+polyhedral algebra
+indirect distribution
+mixed code
+colp vals
+bernoulli code
+sparse storage
+local fragments
+discretization point
+ccs format
+yeh ching
+ching chung
+distributed arrays
+array indices
+dense matrices
+column storage
+sparse blas
+library 15
+global row
+sparse arrays
+mixed implementation
+mixed version
+loop execution
+large sparse
+mixed local
+node program
+partitioning information
+generalized block
+query evaluation
+lin yeh
+jen shiuh
+shiuh liu
+sparse codes
+dense matrix
+written code
+communication sets
+local global
+storage format
+data structures
+fixed set
+global indices
+efficient sparse
+local data
+would take
+sp 2
+non zero
+array operations
+dense hpf
+matrix programs
+single format
+scanning polyhedra
+vals rowind
+called compressed
+query 17
+matrices along
+determine ownership
+solving alignment
+involving ad
+map array
+parallel doany
+loops global
+sec diff
+contiguous rows
+blocksolve bernoulli
+matrix vector product
+index translation relation
+sparse matrix computations
+elements of x
+global to local
+sparse matrix formats
+variety of formats
+local index translation
+sparse matrix vector
+chun yuan lin
+compressed column storage
+chaos library 15
+indices and values
+distributed translation table
+bernoulli mixed code
+local global specification
+variety of storage
+mixed local global
+describing storage formats
+ad a sl
+along the diagonal
+yeh ching chung
+communication to determine
+parallel code generation
+set of sparse
+set of iterations
+code generation algorithm
+yuan lin yeh
+lin yeh ching
+hand written code
+jen shiuh liu
+non local data
+ibm sp 2
+level of indirection
+non zero values
+sparse code generation
+indirect mixed version
+hpf 2 standard
+non local values
+used in hpf
+bernoulli mixed bernoulli
+query evaluation ffl
+data parallel specification
+node program level
+dense hpf programs
+sparse computations automatic
+represents the portions
+arrays as distributed
+indirect mixed inspector
+query for sparse
+relational query evaluation
+translation relation ind
+indirect mixed implementation
+column storage format
+array of hp
+products involving ad
+row indices assigned
+accelerated iterative methods
+references to x
+hpf and bernoulli
+blocks that refer
+add new formats
+blocksolve bernoulli mixed
+array ind p
+adaptive accelerated iterative
+relations we represent
+provides a 1
+systems by adaptive
+alignment using elementary
+elliptic problems using
+fragment a p
+y is dense
+loops our approach
+dense matrices along
+doany loop execution

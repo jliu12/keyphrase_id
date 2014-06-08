@@ -1,0 +1,363 @@
+dsm
+writer
+consistency
+coherence
+protocol
+lrc
+invalidate
+release
+relaxed
+page
+lazy
+acquire
+processor
+treadmarks
+sharing
+ownership
+protocols
+coherent
+munin
+memory
+hardware
+false
+cache
+mw
+ordering
+atomicity
+shared
+processors
+event
+invalidated
+message
+read
+relaxing
+synchronization
+delay
+notices
+entailed
+events
+writes
+diffing
+write
+singer
+transition
+messages
+lock
+midway
+unrelated
+strictest
+adopted
+multiprocessors
+rj
+affinity
+dubios
+plpc
+interchangely
+twinning
+update
+strict
+pages
+locks
+fault
+complier
+numa
+stale
+behaviours
+alewife
+ivy
+faulting
+cvm
+writers
+home
+erc
+sequential
+trapping
+receive
+send
+ec
+wj
+diffi
+traffic
+timestamps
+ri
+rc
+acquiring
+scc
+timestamp
+software
+tell
+acknowledgement
+happen
+delayed
+relationship
+copies
+cc
+flash
+stanford
+receiving
+adve
+granularity
+wi
+location
+vague
+draw
+remote
+useless
+didn
+rice
+eager
+carlos
+scope
+doesn
+thread
+interaction
+multiprocessor
+dash
+weak
+accesses
+demand
+barriers
+improtant
+valided
+midwary
+adsm
+nlls
+cccur
+intergrating
+quarks
+marland
+twining
+whch
+mdrc
+startt
+coexisted
+softare
+scheurish
+depict
+entry
+executes
+exploited
+protected
+store
+subsection
+buffered
+stenstrom
+shrimp
+multaneously
+coherences
+hlrc
+censier
+immedi
+aurc
+transfering
+releasers
+mit
+eliminated
+equalized
+acquirer
+gharachorloo
+president
+repectively
+ately
+tiprocessors
+understanding
+greatly
+voyager
+diku
+releaser
+multicache
+relax
+allocated
+mainly
+diffs
+conductor
+unnecessary
+categories
+feautrier
+twin
+simultane
+iram
+years
+hybrid
+rudolph
+dubois
+viewpoint
+analyze
+indirectly
+aware
+issued
+writer protocol
+consistency model
+memory consistency
+dsm systems
+software dsm
+multiple writer
+consistency models
+coherence protocol
+release consistency
+single writer
+false sharing
+hardware dsm
+relaxed single
+coherence protocols
+event ordering
+lazy release
+sequential consistency
+write notices
+acquire operation
+invalidate message
+mw protocol
+shared memory
+entry consistency
+dsm system
+relaxed consistency
+strict single
+write false
+state transition
+cache coherence
+coherence unit
+delay update
+new consistency
+relaxed coherence
+distributed shared
+sharing problem
+synchronization operation
+write invalidate
+based multiple
+page 2
+page fault
+atomicity demand
+singer writer
+read false
+delay receive
+coherent view
+invalidate page
+scope consistency
+general definition
+write write
+page 0
+protocol needed
+write update
+transition graph
+weak ordering
+must obtain
+shared data
+update protocol
+page 1
+invalidated based
+logical sum
+traditional multiple
+affinity entry
+messages entailed
+improved multiple
+unrelated messages
+receive invalidate
+page simultaneously
+following release
+memory scheme
+write invalidated
+relaxing coherence
+write read
+memory system
+includes two
+shared virtual
+automatic update
+next acquire
+release synchronization
+corresponding coherence
+invalidate messages
+home based
+message traffic
+invalidate based
+consistency lrc
+based lazy
+hardware coherent
+new definition
+invalidate protocol
+written value
+two issues
+cc numa
+partial order
+new state
+tell us
+one processor
+memory access
+r w
+systems include
+operation lrc
+aspect called
+strong ordering
+consistency 24
+lrc uses
+pages immediately
+write collection
+multiple writer protocol
+software dsm systems
+memory consistency model
+single writer protocol
+memory consistency models
+relaxed single writer
+lazy release consistency
+hardware dsm systems
+protocols and memory
+relationship between coherence
+write false sharing
+strict single writer
+relaxed consistency model
+false sharing problem
+distributed shared memory
+based multiple writer
+definition for memory
+software dsm system
+analyze the relationship
+ordering of events
+new consistency model
+read false sharing
+coherence protocol needed
+write write false
+relaxed coherence protocol
+write read false
+happen before 1
+state transition graph
+design a new
+hardware and software
+invalidated based multiple
+dsm systems include
+traditional multiple writer
+model in software
+affinity entry consistency
+example we analyze
+following release synchronization
+release synchronization operation
+adopted in software
+receiving of acknowledgement
+write invalidated based
+improvements on traditional
+protocol and event
+improved multiple writer
+relaxing coherence protocol
+protocol and consistency
+delay update protocol
+make some improvements
+cache coherence protocols
+shared virtual memory
+needed to support
+coherence and event
+home based lazy
+based lazy release
+executes an acquire
+release consistency lrc
+coherence and consistency
+describe the state
+propose a general
+protocol is used
+x that follows
+receive invalidate message
+describe the complex
+consistency model focuses
+read write false
+atomicity demand relaxed
+protocol is adopted
+dubios et al
+message driven release
+another memory access

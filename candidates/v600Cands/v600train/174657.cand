@@ -1,0 +1,270 @@
+cue
+lag
+writer
+reader
+seq
+rr
+atomic
+wr
+alt
+register
+precedes
+obligation
+read
+readers
+writes
+rw
+false
+valtype
+registers
+precedence
+cued
+assertion
+event
+uncertainty
+contrapositive
+old
+reads
+b0
+fby
+interval
+appearing
+falsify
+lemma
+oe
+correctness
+lemmas
+wait
+concurrent
+history
+b4
+multireader
+establishes
+ws
+lamport
+statement
+fdefinition
+linearizability
+proximity
+precede
+od
+elusive
+construction
+prior
+events
+assertions
+safe
+write
+integrity
+peterson
+iff
+vitnyi
+dispose
+phi
+constructions
+conflicts
+disjunct
+predicate
+shared
+determines
+shorthand
+sm
+return
+returns
+determinesg
+appendixg
+hread
+tautology
+b3
+inductive
+meets
+jacm
+rs
+atomicity
+tromp
+transitivity
+remainder
+bits
+consequent
+invariant
+var
+cue w
+reader i
+holds at
+rr i
+state t
+f lag
+w after
+the writer
+at state
+seq i
+of reader
+write operation
+reader j
+w at
+for reader
+after 4
+at 4
+4 holds
+r y
+at t
+uncertainty interval
+is false
+atomic register
+w determines
+x seq
+lag is
+single reader
+that cue
+4 cue
+state prior
+proof obligation
+value appearing
+i j
+after 1
+precedes s
+y done
+before 4
+s y
+i holds
+in rr
+wr i
+atomic registers
+reader atomic
+read operation
+operation of
+the event
+because r
+false at
+single writer
+written by
+m reader
+r precedes
+by reader
+operation w
+w before
+determines r
+w seq
+the uncertainty
+program for
+operation r
+because w
+that w
+following assertion
+k i
+r writes
+wait free
+w i
+r p
+an operation
+5 j
+writer and
+return y
+writer single
+contrapositive of
+oe r
+at u
+old conflicts
+to reader
+is true
+multiple reader
+our proof
+prior to
+state u
+assertion holds
+then old
+a construction
+be any
+new value
+register from
+construction is
+at state t
+w at 4
+rr i j
+holds at state
+w after 4
+holds at t
+4 holds at
+of reader i
+cue w i
+program for reader
+i holds at
+the uncertainty interval
+w after 1
+operation of reader
+at 4 holds
+the state prior
+f lag is
+x seq i
+at 4 cue
+reader i and
+4 cue w
+that cue w
+state prior to
+in rr i
+appearing in rr
+the value appearing
+value appearing in
+the program for
+holds at u
+false at t
+r x seq
+after 1 i
+w before 4
+our proof obligation
+before 4 holds
+w i j
+is false at
+r p k
+write operation w
+after 4 l
+w 1 i
+lag is false
+determines r y
+j at state
+cue w k
+uncertainty interval of
+w seq i
+y done is
+and s y
+by the program
+i j at
+the writer and
+by the writer
+at state u
+by the contrapositive
+contrapositive of lemma
+by reader i
+r precedes s
+w determines r
+single writer single
+cue w holds
+j f lag
+the state following
+w holds at
+be any operation
+because w determines
+cue w l
+during the uncertainty
+an operation of
+the new value
+writer single reader
+the contrapositive of
+following assertion holds
+any operation of
+the following assertion
+then old conflicts
+w l i
+seq i 6
+r 5 j
+k i holds
+that w at
+new then old
+r writes the
+w k i
+i j f
+at the state
+is written by
+definition of p
+j is false
+to the event

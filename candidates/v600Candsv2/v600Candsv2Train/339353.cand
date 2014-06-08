@@ -1,0 +1,389 @@
+mortar
+kl
+multigrid
+omega
+ch
+subdomains
+mesh
+lagrange
+smoother
+norms
+smoothing
+cg
+subdomain
+kv
+convergence
+discretizations
+norm
+kuk
+conforming
+spaces
+saddle
+schur
+sup
+endowed
+nonconforming
+lbb
+distorted
+ds
+kvk
+diffusion
+ellipticity
+elliptic
+inf
+cf
+grid
+projector
+subspace
+jumps
+damping
+inner
+hilbert
+skeleton
+kd
+vanish
+discretization
+smoothers
+sobolev
+cauchy
+triangulations
+jacobi
+variational
+multiplier
+remark
+rates
+grids
+cross
+polygonal
+ffi
+ae
+trace
+bricks
+nodal
+cycle
+gau
+complement
+stevenson
+multipliers
+piecewise
+kzk
+mixed
+diag
+continuous
+delta
+stokes
+triangulation
+bilinear
+preconditioner
+boundary
+sizes
+estimate
+preconditioned
+jjj
+asymptotic
+legendre
+convenience
+regular
+duality
+interpolation
+confirms
+interpolant
+robustness
+approximation
+kx
+lemma
+inequality
+iter
+treatment
+ilu
+ka
+nb
+covered
+numerical
+iteration
+inverse
+operator
+endpoints
+ingredients
+gamma
+summing
+characterization
+div
+reexpress
+blockb
+thas
+partitionned
+pennacchio
+concealed
+chj
+braess
+knobloch
+thatzv
+micol
+bidomain
+lipnikov
+tobiska
+kvj
+dimm
+noncontinuous
+interfaces
+constants
+ingredient
+element
+iterations
+polynomials
+schwarz
+suppress
+mentioning
+decoupled
+curved
+boundedness
+dimension
+neighboring
+solver
+convention
+rotating
+gammadiv
+regu
+cascadic
+appraisal
+ladyzhenskaya
+steinbach
+matthies
+kdk
+discretisations
+extracellular
+deuflhard
+channels
+hypothesis
+seidel
+uniformly
+coarse
+pp
+decomposition
+globally
+quotient
+crouzeix
+bernardi
+subdo
+babuska
+interior
+interval
+fl
+usual
+striving
+vj
+estimates
+kwk
+regulariza
+summands
+bramble
+nested
+strongly
+labelled
+admit
+iterates
+coupling
+cardiac
+dispensed
+cluttering
+ff
+confusion
+brezzi
+projectors
+gamma kl
+v h
+mortar side
+h 1
+finite element
+omega k
+mesh sizes
+omega l
+cross points
+mortar finite
+x 00
+kl h
+kl k
+mesh size
+k h
+x ffi
+kl ae
+sup condition
+inf sup
+x h
+convergence rates
+non mortar
+d kl
+approximation property
+hypothesis m
+schur complement
+k delta
+multigrid method
+kl ds
+mortar elements
+kd kl
+dependent norms
+v kl
+ch kuk
+cg iteration
+saddle point
+multigrid convergence
+regular grid
+delta k
+element method
+jacobi smoother
+lagrange parameter
+l 2
+h 2
+inner iterations
+mesh dependent
+mortar method
+smoothing property
+multigrid algorithm
+subdomain omega
+level elements
+h k
+domain omega
+z z
+remark 3
+lagrange multiplier
+last interval
+lbb condition
+jumps v
+neighboring subdomains
+several cross
+diffusion constants
+duality argument
+distorted grid
+kv h
+error estimate
+finite elements
+variational problem
+ch 3
+nonconforming elements
+lemma 3
+element spaces
+see e
+mortar element
+step sizes
+u n
+spaces x
+trace theorem
+smoothing steps
+interface gamma
+ch 1
+cauchy sequence
+cg method
+iii 1
+spaces h
+mixed method
+local mesh
+ch 2
+m h
+k 1
+continuous piecewise
+numerical experiments
+holds uniformly
+degree legendre
+rotating geometry
+multigrid iterates
+legendre polynomial
+mortar situations
+trace spaces
+varying diffusion
+distorted grids
+smoother 5
+l ch
+inner iter
+every subdomain
+corresponding discretizations
+multigrid iteration
+lemma iii
+kv n
+smoother diag
+mortar problem
+kernel v
+grid distorted
+varying mesh
+yields ch
+adjacent mesh
+ch gamma1
+sobolev spaces
+h ae
+element discretization
+point problems
+h 1 2
+mortar finite element
+inf sup condition
+gamma kl ae
+v 1 1
+k delta k
+delta k 1
+kd kl k
+mesh dependent norms
+characterization of h
+non mortar side
+subdomain omega k
+h t k
+v kl ds
+local mesh sizes
+several cross points
+ch 1 2
+interface gamma kl
+k 1 ffi
+h gamma kl
+k 0 gamma
+see e g
+finite element spaces
+v h 2
+contained in v
+mortar element method
+asymptotic convergence rates
+lemma 3 1
+k gamma1 2
+remark 3 4
+finite element method
+lemma 3 5
+saddle point problems
+finite element discretization
+matrix 5 7
+kernel v h
+th degree legendre
+smoother 5 9
+regular grid distorted
+ch 3 2
+h d kl
+nb of inner
+multigrid convergence analysis
+analysis of mortar
+transparent as possible
+solver for mortar
+degree legendre polynomial
+error in 4
+grid distorted grid
+subdomains omega k
+adjacent mesh sizes
+kl ds c
+distinction of local
+larger mesh size
+l ch 1
+since v h
+kv h k
+use mesh dependent
+lemma iii 1
+omega g x
+varying diffusion constants
+example with several
+kuk 2 omega
+jacobi smoother diag
+n th degree
+varying mesh sizes
+omega l ch
+x v h
+cg with v
+method with v
+r v kl
+ch gamma1 2
+h 2 regular
+c 1 functions
+theory of nonconforming

@@ -1,0 +1,600 @@
+havlak
+dfs
+sreedhar
+irreducible
+forest
+vertex
+nesting
+steensgaard
+loop
+vertices
+tarjan
+reducible
+loops
+potentialheader
+flowgraph
+header
+loopbody
+dominator
+backedges
+worklist
+gao
+findloop
+backedge
+scc
+ramalingam
+collapsed
+descendant
+lp
+headers
+ind
+loopheader
+cormen
+identifying
+tree
+lw
+lee
+edge
+visited
+ancestor
+traversal
+dj
+predecessor
+indegree
+crossfwdedges
+looprep
+quadratic
+indegrees
+union
+representatives
+identified
+visiting
+flowgraphs
+bw
+strongly
+edges
+outermost
+identifies
+processcrossfwdedges
+backedgeg
+descendants
+innermost
+subgraph
+parent
+mff
+representative
+entry
+incoming
+1990
+body
+children
+processed
+dominance
+graphs
+dominators
+collapse
+scanned
+sccs
+delta
+backwards
+borrowing
+ackermann
+1983
+compression
+visit
+illustrating
+belonging
+constructs
+consisting
+constructing
+depth
+nested
+watson
+identification
+trees
+collapsing
+ancestors
+ozev
+fzjz
+sequentializing
+flomenberg
+ducibleloops
+tarjansalgorithm
+yasaratne
+markirre
+modifiedsreedhargaoleealgorithm
+rlh
+antoher
+salgorithm
+markirreducibleloops
+fpotentialheaderg
+modifedhavlakalgorithm
+devaka
+identify
+permission
+merged
+containment
+dominated
+sule
+serveral
+lapses
+fig
+visits
+root
+predecessors
+steens
+robschink
+gaard
+algortihm
+flow
+1996
+connected
+bodies
+unger
+graph
+toplas
+elsif
+null
+cross
+mark
+snelting
+rama
+claimed
+fee
+worst
+cfgs
+hopcroft
+skips
+explained
+modify
+cently
+krinke
+dominates
+10598
+traversing
+reverse
+490
+successor
+lines
+torsten
+executed
+created
+bottom
+2h
+gregor
+familiar
+mutually
+forests
+mueller
+inner
+forward
+704
+immaterial
+yorktown
+remembering
+people
+outer
+455
+restricting
+remove
+aho
+notices
+almost
+447
+balanced
+walking
+going
+belongs
+dashed
+ibm
+frontier
+1974
+appending
+sigplan
+1997
+suitability
+410
+backward
+refined
+manipulation
+naively
+nesting forest
+irreducible loop
+havlak s
+loop nesting
+the sreedhar
+dfs tree
+gao lee
+the dfs
+s algorithm
+sreedhar gao
+almost linear
+tarjan s
+edge y
+sreedhar et
+steensgaard s
+the loop
+identifying loops
+level l
+dominator tree
+lee algorithm
+reducible loop
+the dominator
+in almost
+at level
+a vertex
+irreducible loops
+dfs order
+of vertices
+linear time
+g ramalingam
+every vertex
+a loop
+end for
+a j
+descendant of
+the flowgraph
+potentialheader in
+header vertex
+f ind
+an irreducible
+strongly connected
+loops in
+a reducible
+s loop
+a descendant
+y a
+lp find
+vertex in
+find z
+the collapsed
+the header
+the edge
+loops identified
+loop lw
+incoming backedges
+of havlak
+reducible loops
+of potentialheader
+procedure findloop
+of tarjan
+find operations
+vertices at
+vertices in
+entry vertex
+vertex x
+time delta
+header of
+cormen et
+a backedge
+level i
+union find
+collapsed graph
+the vertices
+a 0
+1 through
+in havlak
+find operation
+loop consisting
+the irreducible
+identified by
+loop containing
+for every
+reducible graphs
+single vertex
+entry vertices
+a dfs
+headers a
+the graph
+flow graph
+in dfs
+loop l
+original graph
+level greater
+al algorithm
+loop headers
+which constructs
+al 1990
+the strongly
+path compression
+collapse loopbody
+by havlak
+backedges whose
+havlak 1997
+lee loop
+loop parent
+function lp
+predecessor outside
+loop representatives
+ind y
+one irreducible
+lee forest
+loop construction
+and irreducible
+the modified
+once for
+tree edge
+a k
+loop is
+connected components
+find data
+et al
+the loops
+ind x
+up traversal
+forest are
+order do
+irreducible flowgraphs
+n union
+with headers
+reverse dfs
+see tarjan
+tarjan 1983
+ancestor of
+g do
+vertices that
+this algorithm
+vertex w
+with header
+irreducible graphs
+reducible graph
+than steensgaard
+by steensgaard
+dj graphs
+quadratic behavior
+quadratic algorithm
+more incoming
+header a
+of reducible
+edge z
+of level
+vertex y
+common ancestor
+whole algorithm
+worklist is
+forest for
+whose source
+modified algorithm
+descendants of
+the subgraph
+of loops
+control flow
+algorithm to
+algorithm performs
+depth first
+a flowgraph
+forward edge
+cross edge
+through w
+graph and
+connected component
+some vertex
+a 1
+run in
+at most
+vertices a
+edge f
+loop header
+the scc
+x of
+least common
+reducible and
+vertex n
+consisting of
+l y
+the quadratic
+three algorithms
+the traversal
+do this
+forest we
+visited during
+al 1996
+any vertex
+loop with
+1 procedure
+union operations
+two loops
+union operation
+y is
+loop body
+perform at
+loop nesting forest
+havlak s algorithm
+in the dfs
+the dfs tree
+sreedhar gao lee
+the sreedhar gao
+almost linear time
+in almost linear
+sreedhar et al
+the loop nesting
+tarjan s algorithm
+edge y a
+the dominator tree
+an irreducible loop
+gao lee algorithm
+identifying loops in
+the edge y
+steensgaard s algorithm
+loops in almost
+a 1 through
+for every vertex
+s loop nesting
+y a 0
+at level l
+run in almost
+linear time delta
+potentialheader in the
+lp find z
+a descendant of
+1 through a
+vertices at level
+of tarjan s
+x of g
+of havlak s
+of potentialheader in
+the sreedhar et
+the irreducible loop
+the header of
+once for every
+a loop nesting
+cormen et al
+of the dominator
+set of vertices
+vertex x of
+every vertex x
+in the flowgraph
+the collapsed graph
+in the loop
+a j 1
+loop consisting of
+loop of level
+in havlak s
+through a j
+for identifying loops
+not a descendant
+in the dominator
+headers a 1
+a reducible loop
+in the sreedhar
+vertices in the
+strongly connected components
+a single vertex
+and l y
+of g do
+in dfs order
+consisting of vertices
+descendant of a
+the strongly connected
+the original graph
+strongly connected component
+level greater than
+of level l
+in the collapsed
+s algorithm to
+vertex in the
+find data structure
+l x and
+et al algorithm
+et al 1990
+union find data
+x and l
+least common ancestor
+of vertices at
+is a descendant
+incoming backedges whose
+dfs tree a
+with headers a
+f ind x
+vertices a 1
+that the sreedhar
+of the sreedhar
+f ind y
+edge f ind
+whose source is
+gao lee loop
+y f ind
+gao lee forest
+descendant of potentialheader
+the loop lw
+whole algorithm performs
+havlak s loop
+loops identified by
+nesting forest are
+version of havlak
+one irreducible loop
+constructs a loop
+lee loop nesting
+loops with headers
+dfs tree in
+find z to
+backedges whose source
+nesting forest we
+a predecessor outside
+more incoming backedges
+loop with header
+the function lp
+irreducible loop construction
+at a level
+y in the
+the modified version
+control flow graph
+at level i
+reverse dfs order
+which constructs a
+dominated by n
+runs in almost
+worklist is not
+dfs order do
+trees in f
+y a j
+bottom up traversal
+is the header
+of reducible and
+to an irreducible
+with header a
+n union operations
+is a backedge
+all vertices at
+in reverse dfs
+through a k
+the modified algorithm
+of a j
+a reducible graph
+than steensgaard s
+perform at most
+union operations and
+some vertex in
+reducible and irreducible
+or more incoming
+the whole algorithm
+end for fig
+the loop l
+entry vertex of
+the edge f
+of the collapsed
+that can reach
+at most one
+ancestor of a
+most once for
+has one or
+in the graph
+a vertex in
+linear time we
+depth first search
+source of the
+executed at most
+et al 1996
+the loop body
+traversal of the
+a j in
+common ancestor of
+the loop with
+by the edge
+header of the
+of at most
+the children of
+the given graph
+without going through
+graph and the
+the root of
+w and x
+flow graph and
+is quadratic in
+from a vertex
+if it has
+in the original
+modified version of
+is not empty
+can do this
+at most once
+the source of
+level l that
+parent x null
+quadratic algorithm presented
+most one loop
+claimed we then
+vertex of at
+hence the nesting
+that loop if
+ind x to

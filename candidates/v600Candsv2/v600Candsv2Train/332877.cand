@@ -1,0 +1,378 @@
+mts
+messages
+toucan
+message
+priority
+adapter
+id
+deadline
+sporadic
+schedulability
+dm
+dl
+buffers
+ids
+deadlines
+bus
+periodic
+streams
+emeralds
+epoch
+overhead
+speed
+overheads
+device
+cpu
+transmission
+driver
+scheduling
+motorola
+adapters
+inversion
+interrupt
+queued
+soe
+ed
+controller
+queue
+bits
+workload
+na
+incremented
+host
+microcontroller
+nhp
+interrupts
+reception
+protocol
+network
+quantization
+field
+measurements
+workloads
+preemptive
+emulator
+update
+drivers
+eof
+avionics
+transmitted
+configured
+sof
+preemption
+buffer
+scheduler
+vme
+arbitration
+dedicated
+leader
+automobiles
+chip
+incurs
+wired
+incurring
+ttp
+sensors
+utilization
+preempt
+emulated
+format
+bytes
+transferring
+queuing
+invocations
+buffering
+implementing
+consumes
+handling
+crc
+outgoing
+traffic
+preempted
+bit
+switching
+copied
+receive
+extra
+aperiodic
+polling
+node
+frame
+aircraft
+incur
+emulate
+earliest
+msg
+interconnected
+filtering
+soes
+soel
+typifying
+reaserchers
+workcell
+prioritydm
+plarform
+receiving
+byte
+chips
+wrap
+timer
+encode
+idle
+devices
+updated
+calculate
+smart
+highest
+sorted
+buffered
+agreement
+refilled
+factories
+microcontrollers
+isr
+ramamritham
+cim
+rtos
+ddm
+temperature
+coarser
+bandwidth
+mit
+filter
+fields
+module
+intermodule
+daisy
+contends
+clocks
+updates
+transmitting
+os
+nodes
+stream
+receives
+dequeuing
+preempts
+trigger
+tasks
+quantize
+sizeable
+microkernel
+mixed
+seconds
+motivates
+arrived
+motors
+agencies
+area
+lan
+promiscuous
+impractical
+window
+osi
+refill
+actuators
+meant
+copying
+filled
+monotonic
+puting
+wakes
+uniqueness
+miscellaneous
+arbitrate
+speed messages
+high speed
+low speed
+network adapter
+speed periodic
+id update
+time messages
+real time
+non real
+speed sporadic
+priority inversion
+device driver
+message streams
+dl field
+fixed priority
+controller area
+priority message
+periodic streams
+incremented dl
+periodic messages
+host cpu
+control applications
+adapter buffers
+sporadic streams
+per message
+area network
+per epoch
+network adapters
+dl message
+message transmission
+message overhead
+cpu overhead
+implementing mts
+first incremented
+cpu overheads
+network schedulability
+id updates
+priority scheduling
+message reception
+message ids
+sporadic messages
+dedicated buffers
+overhead measurements
+message id
+higher priority
+time control
+priority messages
+data bytes
+average per
+device drivers
+interrupt handling
+dm scheduling
+dm priority
+deadline field
+deadlines relative
+calculate id
+traffic scheduler
+implement mts
+mixed traffic
+schedulability due
+every seconds
+absolute deadline
+time ones
+non preemptive
+low priority
+network scheduling
+speed message
+priority schemes
+context switching
+two messages
+bits per
+agreement protocol
+update protocol
+extra bits
+highest priority
+message data
+extra overhead
+cpu time
+preemptive scheduling
+another 68040
+scheduler mts
+sporadic low
+messages periodic
+preempted message
+update overhead
+adapter would
+around scheme
+makes mts
+l 2ms
+sort messages
+priority sorted
+use ed
+ed impractical
+avoiding priority
+logical inverse
+bit ids
+deadline ed
+communications controller
+handling interrupts
+incurring less
+driver receives
+sporadic loads
+queued calculate
+fewer workloads
+workload utilization
+coarser quantization
+high speed messages
+real time messages
+high speed periodic
+non real time
+high speed sporadic
+controller area network
+speed periodic streams
+speed and non
+low speed messages
+per message overhead
+speed periodic messages
+incremented dl message
+first incremented dl
+bits per epoch
+speed sporadic streams
+average per message
+fixed priority scheduling
+real time control
+time control applications
+network adapter buffers
+overheads for various
+low priority message
+queued in software
+fixed priority schemes
+real time ones
+mixed traffic scheduler
+speed and high
+end of epoch
+messages are queued
+id update protocol
+high speed message
+mts s implementation
+non preemptive scheduling
+number of buffers
+n th message
+incurring less overhead
+speed sporadic loads
+implemented on existing
+incur an overhead
+messages in software
+implementation of mts
+messages on controller
+speed messages periodic
+idea behind mts
+wrap around scheme
+insert in priority
+quantization of deadlines
+various operations involved
+buffers always contain
+transferring the message
+host cpu overhead
+reduced id update
+dm or mts
+lowest priority message
+incremented dl field
+representative of modern
+update the ids
+earliest deadline ed
+data bytes 7
+data length dl
+avoid priority inversion
+l 2ms l
+percentage points fewer
+available for high
+device driver receives
+actual network adapter
+describe how mts
+na 8 data
+speed message streams
+priority sorted queue
+speed sporadic low
+loss in schedulability
+network adapter would
+feasible under mts
+implementation overhead measurements
+scheduling policy dm
+queue including copying
+workloads are feasible
+avoiding priority inversion
+deadline monotonic dm
+makes ed impractical
+associated with mts
+upon message transmission
+points fewer workloads
+device drivers must
+queued calculate id
+copy to na
+periodic or sporadic

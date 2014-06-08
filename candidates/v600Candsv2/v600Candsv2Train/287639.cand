@@ -1,0 +1,395 @@
+preconditioners
+preconditioner
+bpkit
+block
+preconditioning
+csr
+gmres
+lp
+mat
+blocks
+ssor
+precon
+heroux
+biluk
+factorization
+chow
+localmat
+dense
+fortran
+sparse
+incomplete
+lu
+mult
+btif
+inverses
+saad
+vec
+tridiagonal
+diagonal
+iterative
+ilu
+bssor
+matrix
+oriented
+preconditioned
+blas
+cray
+timings
+svd
+preconditionings
+localprecon
+bmat
+createempty
+blockmat
+applyl
+pivot
+object
+implicit
+inverse
+coarse
+specialized
+apinv
+apinvs
+applyr
+bjacobi
+matrices
+ilut
+transposed
+relaxation
+setup
+trans
+pointers
+factorizations
+boeing
+toolkit
+users
+fine
+nonzeros
+storage
+approximate
+krylov
+conversion
+eisenstat
+flexgmres
+semibw
+carney
+idiag
+applyt
+glen
+createinv
+riluk
+zardecki
+pozo
+lprecon
+diffpack
+hbfile
+ldv
+wigton
+applyc
+doran
+diag
+format
+optimized
+sor
+objects
+article
+interface
+relaxations
+duff
+dongarra
+grid
+greening
+polymorphically
+blockmatrix
+lagging
+subprograms
+interfaces
+singular
+tridiag
+ldu
+harwell
+lapack
+overrelaxation
+lfil
+kolotilina
+barth
+ia
+tim
+bos
+transparently
+polymorphic
+invert
+yeremin
+axelsson
+fgmres
+row
+flexible
+sparcstation
+const
+explicit
+supercomputers
+coded
+arguments
+tables
+listed
+randy
+ja
+forsyth
+parameterizes
+turbulence
+pointer
+toms
+delta
+accelerator
+algebra
+inefficient
+sparser
+factored
+routines
+contiguously
+specializations
+vbr
+jacobi
+declaration
+fluids
+disallowed
+blocking
+int
+inversion
+thresholded
+stores
+kernels
+sizes
+residual
+compressed
+dimensions
+hansen
+tests
+iterations
+subdomain
+partitioning
+larry
+split
+partitioned
+none
+sun
+physics
+conjugate
+wrapper
+alpha
+polymorphism
+andrew
+nr
+machiels
+local preconditioners
+block types
+local preconditioner
+global preconditioners
+block matrix
+block type
+block preconditioning
+block ssor
+fortran 77
+oriented block
+object oriented
+preconditioning delta
+global preconditioner
+incomplete factorization
+iterative methods
+lp svd
+solve total
+dense blocks
+precon solve
+gmres steps
+explicit lp
+lp lu
+implicit local
+size steps
+fine blocks
+steps precon
+lu factorization
+block preconditioners
+sparse blocks
+block gmres
+vec solve
+csr explicit
+csr implicit
+gmres time
+mat trans
+coarse blocks
+approximate inverse
+block incomplete
+pivot blocks
+diagonal blocks
+block tridiagonal
+block sizes
+mat vec
+implicit lp
+lp inverse
+none csr
+approximate inverses
+total average
+time size
+blocks block
+svd 0
+mat mat
+linear systems
+block relaxation
+block size
+setup function
+specialized fortran
+trans vec
+optimized fortran
+preconditioner objects
+vec mult
+level based
+data structures
+explicit local
+block row
+various local
+different block
+preconditioned iterative
+incomplete factorizations
+mat mult
+block relaxations
+c alpha
+block biluk
+ssor preconditioner
+mult mat
+sparse row
+split preconditioner
+average bpkit
+saad 1998
+heroux table
+blas toolkit
+average 128
+lp ilut
+biluk level
+matrix class
+preconditioner operations
+mat add
+lp apinv
+storage scheme
+iterative method
+vector product
+matrix vector
+sparse blas
+e chow
+tridiagonal incomplete
+preconditioning operator
+level 3
+linear algebra
+dense block
+conversion routines
+compressed sparse
+block structure
+dongarra et
+iterative solution
+numerical tests
+local matrix
+sparse matrix
+one iteration
+inverse techniques
+block ilu
+new global
+exact inverse
+object oriented block
+oriented block preconditioning
+block preconditioning delta
+chow and m
+m a heroux
+precon solve total
+number of gmres
+steps precon solve
+block gmres time
+size steps precon
+gmres time size
+types and local
+time size steps
+solve total average
+implicit local preconditioners
+csr explicit lp
+different block types
+steps for solving
+lp svd 0
+fortran 77 code
+matrix and preconditioner
+csr implicit lp
+blocks block gmres
+problem with block
+specialized fortran 77
+optimized fortran 77
+mat trans vec
+mat vec solve
+various local preconditioners
+chow and saad
+explicit or implicit
+solving the sherman1
+mat mat add
+delta e chow
+new global preconditioners
+none csr explicit
+total average bpkit
+sparse blas toolkit
+b c alpha
+block biluk level
+average 128 212
+fortran 77 interface
+explicit local preconditioners
+block ssor preconditioner
+total average 128
+interface with iterative
+compressed sparse row
+matrix vector product
+preconditioned iterative methods
+svd 0 5
+block tridiagonal incomplete
+fortran 77 programs
+fortran 77 program
+block incomplete factorization
+dongarra et al
+blocks are used
+partitioned into blocks
+approximate inverse techniques
+sun sparcstation 10
+coarse and fine
+c and fortran
+type e g
+linear algebra subprograms
+et al 1994
+object oriented framework
+listed in table
+basic linear algebra
+relaxations and block
+implicit iterations csr
+block data structures
+c alpha beta
+unstructured grid smoothing
+solving the wigto966
+preconditioning operator m
+specialized data structures
+preconditioning is entirely
+matrix the global
+preconditioner with specialized
+workstations and cray
+jiang and forsyth
+iterations csr implicit
+diagonal or pivot
+tridiagonal incomplete factorizations
+semibw csr explicit
+generalized block ssor
+design of preconditioned
+give the parent
+mat trans mat
+define data structures
+trans vec mult
+mult mat vec
+sparse blocks block
+harwell boeing format
+vec mult mat
+thus various preconditioners
+certain structured matrices
+preconditioning with various
+useful for block
+block vector object

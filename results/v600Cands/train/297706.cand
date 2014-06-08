@@ -1,0 +1,600 @@
+trace
+cache
+instruction
+seq
+fetch
+traces
+branch
+predictor
+prediction
+instructions
+tc
+misp
+noncontiguous
+misprediction
+associativity
+mispredictions
+sequencing
+fetching
+microarchitecture
+gcc
+rf
+jpeg
+superscalar
+pc
+branches
+dolc
+mispredicted
+1000
+caches
+cycle
+t3
+instr
+vort
+adj
+ipc
+identifier
+m88k
+alternate
+benchmarks
+bandwidth
+buffer
+redundancy
+outcomes
+64kb
+dyn
+jacobson
+perl
+misses
+fetched
+talpes
+contiguous
+rotenberg
+blocks
+engine
+atomic
+emil
+history
+hit
+rosner
+adjusted
+microcode
+marculescu
+roni
+buffers
+associative
+predictions
+outstanding
+latency
+dispatched
+units
+vortex
+diana
+oliverio
+cisc
+ramirez
+go
+santana
+recovery
+predicted
+stream
+selection
+vliw
+patt
+predic
+isolates
+fill
+correlated
+almog
+scrabbl
+alt
+identifiers
+mateo
+valero
+moffie
+flow
+bartolini
+prete
+naftali
+4w
+conventional
+interleaved
+t5
+miss
+processors
+larriba
+pey
+predictors
+dispatch
+li
+128kb
+sazeides
+mispredict
+compiler
+repair
+yoav
+simulator
+dm
+caching
+aggressive
+rates
+repairing
+pipeline
+decoding
+retired
+multiscalar
+cycles
+ilp
+mendelson
+block
+t4
+mechanisms
+sigarch
+sequential
+loads
+speedup
+alex
+micha
+simplescalar
+16kb
+mechanism
+benchmark
+indirection
+issue
+window
+franklin
+accuracy
+stores
+mapped
+alignment
+schwartz
+patel
+conscious
+scheduled
+spec95
+taco
+avi
+isa
+schedule
+josep
+improves
+tagging
+bar
+smith
+artifact
+decoded
+decoder
+friendly
+moderately
+peak
+perfect
+justed
+multinodeword
+117m
+aggravates
+quencing
+perl5152535
+913171
+predetermines
+bondi
+microproces
+li51525m88ksim2610misses
+ldest
+101m
+recompilatior
+166m
+202m
+pnevmatikatos
+357go
+108m
+xianglong
+go253545
+li4
+supplying
+execution
+hierarchical
+stored
+expansion
+news
+mis
+rate
+trace cache
+the trace
+seq n
+instruction cache
+trace predictor
+trace prediction
+next trace
+trace selection
+seq 1
+the instruction
+a trace
+trace identifier
+basic blocks
+instruction fetch
+the seq
+level sequencing
+tc model
+the tc
+trace is
+trace buffer
+misp 1000
+trace mispredictions
+1000 instructions
+trace misp
+path history
+alternate trace
+over seq
+fetch models
+path associativity
+dynamic instruction
+trace length
+branch prediction
+level branch
+trace caches
+longer traces
+control flow
+execution engine
+per 1000
+fetch bandwidth
+atomic units
+trace buffers
+outstanding trace
+rf overall
+execution atomic
+1000 instr
+fetch mechanism
+and seq
+branch outcomes
+fill unit
+taken branches
+branch misprediction
+cache the
+branch predictor
+misp rate
+cache is
+conventional instruction
+per cycle
+of trace
+of traces
+prediction accuracy
+to fetch
+instruction level
+rf dyn
+n adj
+large execution
+shows trace
+jpeg li
+misses 1000
+contiguous basic
+the alternate
+cache and
+4 way
+high bandwidth
+and trace
+instruction stream
+16 instructions
+prediction is
+fetch multiple
+trace level
+trace identifiers
+second level
+cache size
+superscalar processors
+n model
+overall branch
+fetching multiple
+performance advantage
+dynamic sequence
+cache microarchitecture
+2 trace
+branch target
+bandwidth instruction
+direct mapped
+each cycle
+branch mispredictions
+multiple branch
+basic block
+fetch mechanisms
+flow prediction
+on trace
+and branch
+talpes diana
+sequential basic
+unique traces
+noncontiguous basic
+t3 0
+branch misp
+hierarchical sequencing
+64kb 4
+alt trace
+perl m88k
+start pc
+emil talpes
+n models
+trace control
+multiple contiguous
+misprediction recovery
+bandwidth fetch
+tc perfect
+the fill
+the fetch
+the cache
+instruction sequences
+dispatched to
+mispredictions per
+instruction storage
+trace misprediction
+pc path
+8 trace
+starting pc
+block fetching
+2 way
+trace in
+prediction and
+traces are
+predictor is
+multiple possibly
+diana marculescu
+1 seq
+gcc jpeg
+go gcc
+multiple block
+roni rosner
+any number
+predictor and
+prediction table
+fetch rate
+mispredicted branch
+history depth
+cache performance
+low latency
+instruction issue
+fetch and
+li perl
+of tc
+1000 2
+misprediction rates
+improves performance
+and patt
+1 cycle
+an instruction
+blocks per
+cache fetch
+the correlated
+fetch unit
+predictor performance
+a microarchitecture
+line size
+single branch
+rate 3
+alex ramirez
+cache hit
+by caching
+oliverio j
+identifier is
+match that
+j santana
+of fetching
+instruction execution
+cache figure
+isolates the
+to 35
+the performance
+cache for
+branch predictors
+equally sophisticated
+fetch units
+is 64kb
+microarchitecture incorporating
+overall is
+more traces
+cycle tagging
+correlated prediction
+jacobson s
+redundant instruction
+expansion cache
+bits selected
+to t3
+m88k vort
+predicted dynamic
+the trace cache
+in the trace
+the instruction cache
+next trace prediction
+of the trace
+the tc model
+the trace predictor
+trace cache size
+second level branch
+trace misp 1000
+a trace cache
+next trace predictor
+the seq n
+per 1000 instructions
+of the tc
+trace cache the
+from the instruction
+trace prediction is
+the trace buffer
+the fill unit
+dynamic instruction stream
+conventional instruction cache
+level branch predictor
+seq n model
+seq n adj
+instruction level sequencing
+the seq 1
+and seq n
+contiguous basic blocks
+trace level sequencing
+execution atomic units
+the execution engine
+the dynamic instruction
+trace cache and
+a trace is
+trace cache performance
+the next trace
+trace cache is
+the path history
+the performance advantage
+performance advantage of
+instruction cache is
+instruction fetch bandwidth
+control flow prediction
+to the trace
+and the trace
+of the fetch
+rate 3 6
+jpeg li perl
+gcc jpeg li
+noncontiguous basic blocks
+single block fetching
+trace cache figure
+li perl m88k
+multiple contiguous basic
+trace mispredictions per
+64kb 4 way
+of trace cache
+large execution atomic
+trace control flow
+outstanding trace buffers
+seq 1 and
+alt trace misp
+over seq n
+over seq 1
+sequential basic blocks
+for the seq
+1 and seq
+misses 1000 instr
+misp 1000 2
+talpes diana marculescu
+branch misp rate
+1 seq n
+high bandwidth fetch
+seq n and
+bandwidth fetch mechanisms
+seq n models
+to fetch multiple
+emil talpes diana
+misp rate 3
+the alternate trace
+dynamic instruction sequences
+branch misprediction rates
+of next trace
+seq 1 seq
+and trace cache
+trace cache hit
+a trace identifier
+trace identifier is
+the trace identifier
+single branch predictors
+trace cache miss
+alternate trace prediction
+mispredictions per 1000
+basic blocks per
+instruction cache the
+instruction fetch rate
+trace cache microarchitecture
+trace prediction accuracy
+trace cache a
+stored with each
+in the instruction
+high bandwidth instruction
+trace is a
+match that of
+to high bandwidth
+any number of
+instruction fetch mechanism
+the second level
+size and associativity
+dispatched to the
+oliverio j santana
+branch prediction accuracy
+graph in figure
+approach to high
+3 6 8
+fetched from the
+the graph in
+cache size and
+instruction cache and
+4 way set
+3 0 3
+m88k vort improvement
+15 to 35
+improves performance from
+microarchitecture incorporating a
+over the seq
+for seq 1
+or more traces
+t3 0 and
+predictor instruction cache
+a microarchitecture incorporating
+instruction issue buffers
+performance from 15
+fetch models we
+adj over seq
+seq 1 models
+redundant instruction storage
+contiguous multiple block
+of sequential basic
+seq n figure
+cache trace predictor
+the correlated table
+with each branch
+adjusted misp rate
+is 64kb 4
+over conventional single
+this typically requires
+isolates the impact
+a trace may
+level sequencing the
+the overall branch
+overall branch misprediction
+fetching the graph
+trace cache because
+by explicitly sequencing
+of misprediction recovery
+predicted dynamic sequence
+fetch bandwidth with
+typically requires multiple
+cache is 64kb
+perl m88k vort
+flow instruction cache
+rf dyn is
+the trace buffers
+multiple possibly noncontiguous
+fetching multiple contiguous
+but contiguous multiple
+trace cache misses
+n adj over
+sequencing through the
+because traces are
+possibly noncontiguous basic
+of traces both
+traces result in
+same start pc
+the predicted dynamic
+redundancy factor rf
+and trace selection
+if the alternate
+trace predictor and
+high instruction fetch
+cache microarchitecture in
+adjusted branch misprediction
+dynamic flow instruction
+explicitly sequencing through
+of bits selected
+conventional single block
+with longer traces
+8 trace length
+3 branch misp
+1000 instructions trace
+sophisticated but contiguous
+the outstanding trace
+trace predictor performance
+seq 1 adj
+of seq n
+trace selection is
+instruction fetch ing
+fetch multiple possibly

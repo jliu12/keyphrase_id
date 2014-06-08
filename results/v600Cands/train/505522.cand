@@ -1,0 +1,600 @@
+ribm
+2t
+decoder
+latches
+elu
+pe1
+solomon
+reed
+dpe1
+interleaved
+ibm
+codeword
+draft
+bm
+delay
+pe0
+locator
+pipelined
+rdc
+3t
+coe
+multiplexers
+architectures
+berlekamp
+multiplier
+decoders
+clock
+systolic
+architecture
+polynomials
+pribm
+syndromes
+interleaver
+ee
+block
+kes
+encoder
+massey
+cients
+symbols
+multipliers
+discrepancy
+dc
+fig
+evaluator
+interleavers
+decoding
+gf
+interleaving
+eld
+polynomial
+tmult
+codewords
+syndrome
+codes
+scaled
+csee
+adder
+mc
+processors
+cycles
+critical
+latch
+array
+4t
+ppe1
+interleave
+km
+adders
+pipelining
+vlsi
+processor
+decode
+2000
+multichannel
+sc
+nm
+mpe
+ds
+initialized
+divisions
+correcting
+delays
+reformulated
+leftwards
+twos
+submitted
+dlog
+throughput
+pp
+gates
+multiplexer
+nite
+retimed
+cient
+conventional
+me
+stream
+transmitted
+ovals
+trans
+multiplications
+euclidean
+galois
+arithmetic
+reformulation
+addend
+mpes
+blahut
+deinterleaver
+tmux
+astute
+hypersystolic
+mpem
+sarwate
+contents
+encoding
+rst
+gate
+cycle
+md
+25m
+forney
+recirculate
+deg
+signicantly
+signicant
+speeds
+word
+chien
+received
+6t
+0t
+discrepancies
+dilip
+arrayed
+hardware
+errors
+signal
+pseudocode
+iv
+units
+xor
+iii
+circuit
+3v
+updates
+error
+aect
+nd
+zhiyuan
+computes
+implementations
+path
+subscriber
+channel
+generator
+ow
+parity
+feed
+dened
+homogenous
+bottleneck
+magnitude
+depth
+fortunately
+june
+wise
+locations
+folded
+initialization
+counter
+feeding
+iterations
+lakes
+de
+bytes
+achievable
+updated
+speed
+counters
+store
+enhanced
+blocks
+occurred
+sw
+gains
+pipeline
+scaling
+correction
+engineers
+arrays
+cmos
+nozomu
+discrepencies
+jaesung
+algorighm
+2tm
+1519
+togawa
+the ribm
+ribm architecture
+reed solomon
+19 2000
+june 19
+block interleaved
+path delay
+r z
+elu block
+delay scaled
+critical path
+the decoder
+dc block
+the elu
+and ribm
+2000 draft
+draft june
+bm algorithm
+ribm and
+error locator
+ribm architectures
+data symbols
+the bm
+ibm algorithm
+z and
+interleaved reed
+2t z
+error evaluator
+step ibm
+the latches
+solomon codes
+clock cycles
+ibm architecture
+latches in
+in fig
+the critical
+the ee
+key equation
+discrepancy r
+2t clock
+mc r
+control unit
+the ibm
+the error
+interleaved code
+pribm architecture
+the dc
+berlekamp massey
+the pipelined
+coe cients
+the berlekamp
+pipelined multiplier
+ibm 1
+the pribm
+ee algorithm
+rdc block
+pe1 processors
+the rdc
+kes block
+the delay
+the 2t
+a codeword
+cients of
+architectures based
+ribm algorithm
+ibm 3
+the kes
+steps ibm
+ibm 2
+the pe1
+locator polynomial
+trans vlsi
+error locations
+delay in
+b r
+gf 2
+the discrepancy
+d r
+sc block
+2t 1
+the coe
+to ieee
+nite eld
+locator and
+evaluator polynomial
+nm km
+received words
+solomon decoders
+received word
+polynomial coe
+interleaved codes
+ee architecture
+decoder architectures
+multiplier architecture
+polynomial z
+evaluator polynomials
+the encoder
+g z
+read out
+clock cycle
+block which
+k r
+decoder can
+delay scaling
+a decoder
+of 2t
+memory array
+s z
+are initialized
+coe cient
+arithmetic units
+architectures require
+latches are
+the syndrome
+the polynomial
+the control
+architecture is
+the ds
+for reed
+solomon code
+t z
+of degree
+scaled decoder
+de interleave
+encoder for
+the syndromes
+systolic architecture
+csee block
+in dpe1
+pe0 processors
+processor pe1
+discrepancy computation
+me t
+non interleaved
+the pe0
+km code
+these divisions
+ieee trans
+delay of
+cient of
+and ibm
+a block
+0 z
+section iii
+initialized to
+error evaluation
+a multichannel
+solomon decoder
+massey algorithm
+ibm 4
+same critical
+data stream
+architectures for
+n k
+the sc
+r and
+z from
+z of
+of r
+r d
+interleaving the
+the systolic
+2 m
+decoder for
+t add
+n code
+the received
+high speed
+r 1
+vlsi systems
+architecture as
+1 r
+the nm
+codeword is
+of reed
+submitted to
+multipliers and
+error correcting
+processors in
+architecture described
+new architectures
+euclidean algorithm
+adders and
+error values
+the multiplexers
+initial conditions
+2t iterations
+each coe
+dpe1 processor
+ovals the
+rdc architecture
+codeword polynomial
+the interleaver
+signal mc
+generator polynomial
+galois eld
+ee architectures
+deg r
+check symbols
+chien search
+june 19 2000
+critical path delay
+the ribm architecture
+the elu block
+19 2000 draft
+draft june 19
+ribm and ribm
+the critical path
+r z and
+and ribm architectures
+the dc block
+the ribm and
+the error locator
+the bm algorithm
+interleaved reed solomon
+the ibm algorithm
+in the ribm
+reed solomon codes
+block interleaved reed
+b r z
+the control unit
+2t clock cycles
+a block interleaved
+the data symbols
+z and b
+the key equation
+gf 2 m
+the delay scaled
+shown in fig
+the pribm architecture
+the discrepancy r
+coe cients of
+the pipelined multiplier
+the berlekamp massey
+the latches in
+path delay of
+z of degree
+to ieee trans
+submitted to ieee
+path delay in
+trans vlsi systems
+error locator polynomial
+the kes block
+ieee trans vlsi
+the ee algorithm
+d r d
+of the bm
+architectures based on
+of r z
+and b r
+the coe cients
+error locator and
+the ribm algorithm
+r 1 z
+step ibm 1
+error evaluator polynomials
+the ibm architecture
+ribm architecture is
+the error evaluator
+reed solomon decoders
+latches in the
+error evaluator polynomial
+the block interleaved
+in the dc
+r d r
+z and z
+for reed solomon
+z n k
+reed solomon code
+of the ibm
+of the elu
+the sc block
+latches in dpe1
+delay scaled decoder
+block interleaved code
+the n code
+steps ibm 2
+and error evaluator
+and ibm 3
+nm km code
+ibm 2 and
+in the latches
+encoder for the
+the error locations
+ribm architecture as
+of 2t z
+a delay scaled
+the received word
+the decoder can
+me t or
+the rdc block
+pipelined multiplier architecture
+pe1 processors in
+coe cient of
+are initialized to
+berlekamp massey algorithm
+solve the key
+reed solomon decoder
+is a codeword
+2 and ibm
+same critical path
+the same critical
+and the error
+in section iii
+of the latches
+an order of
+the delay in
+of reed solomon
+z and h
+of g z
+delay in the
+order of magnitude
+discrepancy r and
+elu block which
+for block interleaved
+the june 19
+the ee architecture
+in the kes
+multipliers and t
+block computes the
+nite eld multipliers
+pribm architecture can
+generator polynomial of
+ribm architecture see
+indicated in ovals
+mc r signal
+for error evaluation
+the generator polynomial
+ee architecture of
+non interleaved codes
+the csee block
+delay scaling the
+locator and error
+a decoder for
+speed architectures for
+the 2t iterations
+of the ribm
+the mc r
+polynomial 2t z
+the pe1 processors
+the polynomial coe
+signal mc r
+z from r
+reed solomon codewords
+2t z and
+delay in computing
+the upper latch
+multichannel data stream
+each coe cient
+a multichannel data
+parity check symbols
+n code the
+the nite eld
+cients of 2t
+ibm 1 and
+for do begin
+diagram a the
+in ovals the
+block diagram a
+the nm km
+the rdc architecture
+cient of r
+the latches are
+polynomial coe cients
+to the elu
+contents of the
+high speed architectures
+both the error
+z b r
+errors have occurred
+of the 2t
+berlekamp massey bm
+codeword of the
+initial conditions in
+into a codeword
+d r l
+a codeword of
+path delay is
+delay of the
+dlog 2 me
+if e t
+the decoder the
+decoding of reed
+architecture see fig
+processors in the
+hardware complexity and
+used for error
+both z and
+as an order
+much as an
+or t and
+n k m
+architecture is shown
+in the critical
+initial conditions of
+z s z
+clock cycles the
+of the decoder
+and h r
+architecture described in

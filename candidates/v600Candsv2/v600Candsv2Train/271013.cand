@@ -1,0 +1,412 @@
+qos
+handler
+channel
+packet
+traffic
+handlers
+channels
+cpu
+deadline
+link
+queue
+protocol
+packets
+conserving
+message
+preemption
+priority
+adapter
+effort
+transmission
+host
+scheduling
+enforcement
+semaphore
+edf
+queues
+conformant
+kernel
+messages
+guarantees
+scheduler
+connections
+admission
+subsystem
+mmax
+bmax
+api
+laxity
+connection
+throughput
+admissibility
+violations
+overload
+rmax
+proxy
+signalling
+bandwidth
+architecture
+cooperative
+policies
+hosts
+services
+preemptive
+efficacy
+service
+establishment
+overheads
+protection
+transport
+runnable
+transmissions
+communication
+thread
+architectural
+misses
+transfer
+proxies
+dropped
+suspend
+buffers
+fic
+resources
+drops
+traf
+sensitive
+police
+fairness
+behaved
+arrival
+stack
+management
+fifo
+deadlines
+predictable
+guaranteed
+resource
+capacity
+atm
+reassembly
+buffer
+routines
+overflowing
+fragmentation
+bursts
+early
+multimedia
+delivered
+waiting
+encapsulation
+specification
+preemptibility
+blocked
+maintenance
+kb
+option
+reception
+resume
+device
+constituting
+executive
+transmitted
+network
+woken
+teardown
+switches
+offered
+overflows
+load
+processed
+mach
+reserves
+switch
+chan
+delay
+shaped
+unreliable
+checksums
+unpredictable
+burst
+necessitates
+bandwidths
+switched
+blast
+tenet
+realized
+unidirectional
+provision
+pkts
+blocking
+interrupt
+timer
+excess
+layer
+emulator
+band
+declines
+transported
+rt
+semaphores
+nels
+wakeup
+allocated
+initiates
+activities
+ch
+forwarded
+mechanisms
+enqueued
+layered
+outgoing
+enqueue
+overflow
+structuring
+delays
+dma
+reserved
+motorola
+consume
+integrated
+initiate
+gill
+rpc
+tem
+specifica
+managed
+active
+retransmissions
+violating
+destination
+logical
+multiplexed
+networks
+threads
+bytes
+middleware
+transfers
+suspended
+bursty
+expires
+inserted
+profile
+schedulers
+availability
+earliest
+insertions
+protocol processing
+best effort
+qos guarantees
+real time
+x kernel
+effort traffic
+time channels
+packet queue
+message queue
+work conserving
+channel handler
+channel handlers
+guaranteed qos
+qos sensitive
+traffic enforcement
+per channel
+run queues
+process per
+link scheduling
+communication subsystem
+cooperative preemption
+time traffic
+packet transmission
+proposed architecture
+packet queues
+queue semaphore
+traffic specification
+link scheduler
+admission control
+per connection
+data transfer
+early real
+cpu scheduling
+resource management
+overload protection
+packet buffers
+link packet
+qos communication
+qos connections
+non work
+packet drops
+network adapter
+time communication
+host communication
+multi class
+channel model
+cpu bandwidth
+channel proxy
+handler run
+channel traffic
+processing priority
+conserving protocol
+non conformant
+packet transmissions
+deadline misses
+logical arrival
+effort load
+sensitive communication
+side processing
+channel admissibility
+time channel
+protocol stack
+communication resources
+message laxity
+channel packet
+behaved channels
+block count
+handler execution
+conserving processing
+conformant traffic
+class edf
+transmission side
+provide qos
+connection qos
+kernel process
+communication services
+non preemptive
+end hosts
+option 1
+link bandwidth
+connection traffic
+architectural mechanisms
+subsystem architecture
+arrival time
+traf fic
+channel establishment
+context switches
+context switch
+traffic specifications
+reception side
+modified x
+relative bandwidths
+offered best
+transfer throughput
+executing handler
+waiting higher
+queue assignment
+api entry
+priority handler
+messages overflowing
+d order
+specification violations
+resume protocol
+active channels
+communication executive
+channel proxies
+channel 0
+maintains qos
+effort handler
+transmission time
+network layer
+execution deadline
+effort traf
+host architecture
+via per
+cpu run
+successful establishment
+subsystem must
+adapter design
+message model
+link access
+cpu scheduler
+integrated services
+per message
+qos requirements
+execution priority
+individual connections
+local delay
+control procedure
+buffers available
+switched networks
+best effort traffic
+real time channels
+cpu and link
+real time traffic
+process per channel
+link packet queues
+per channel model
+early real time
+guaranteed qos connections
+guaranteed qos communication
+non work conserving
+packet queue semaphore
+maintenance of qos
+per channel traffic
+work conserving protocol
+real time communication
+real time channel
+qos sensitive communication
+logical arrival time
+best effort load
+number of packets
+protocol processing priority
+conserving protocol processing
+channel packet queue
+work conserving processing
+processing and link
+process per message
+misses and packet
+x kernel process
+multi class edf
+sensitive communication subsystem
+non conformant traffic
+per connection qos
+communication subsystem architecture
+per connection traffic
+connection qos guarantees
+packet transmission time
+channel s message
+availability of packet
+packet buffers available
+waiting higher priority
+modified x kernel
+well behaved channels
+data transfer throughput
+switches and cache
+support for qos
+cpu run queues
+channel s packet
+resume protocol processing
+transmission side processing
+communication subsystem must
+scheduling of channel
+api entry exit
+best effort handler
+handler is one
+channel traffic enforcement
+maintains qos guarantees
+handler run queues
+message queue semaphore
+traffic specification violations
+offered best effort
+per message model
+one that processes
+packet switched networks
+fairness to best
+effort traf fic
+admission control procedure
+best effort traf
+local delay bound
+processing and transmission
+provide qos guarantees
+resource management policies
+time communication services
+application programming interface
+earliest deadline first
+real time handler
+handler run queue
+overflowing the message
+provides real time
+implement real time
+space becomes available
+compression or checksums
+sensitive protocol processing
+qos communication services
+higher priority handler
+architecture for guaranteed

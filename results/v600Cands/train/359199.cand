@@ -1,0 +1,600 @@
+mass
+particles
+particle
+momentum
+forces
+velocity
+quadrature
+frictional
+shock
+energy
+viscous
+density
+heat
+kinetic
+conservation
+entropy
+pressure
+flux
+fluids
+angular
+motion
+gas
+integrals
+thermodynamics
+ae
+gauger
+inviscid
+yserentant
+entropies
+viscosity
+shear
+packets
+compressible
+leinen
+fluid
+mechanics
+thermodynamic
+newtonian
+tending
+tensor
+reproduced
+acting
+verlet
+volume
+temperature
+continuum
+differentiable
+fluctuation
+field
+differential
+internal
+shape
+lagrangian
+flows
+skew
+harry
+discretized
+conduction
+velocities
+quantity
+masses
+occupied
+splines
+law
+laws
+christoph
+quantities
+derivatives
+41
+det
+vanish
+lubich
+hydrodynamics
+correspondingly
+x4
+gases
+61
+temperatures
+60
+fractions
+equations
+krylov
+front
+tubingen
+barytropic
+axiparallel
+theoretischen
+continuously
+vanishing
+force
+integrator
+matrices
+dt
+rescaled
+discretization
+42
+stress
+supply
+grid
+hugoniot
+lehrbuch
+physik
+fig
+thousand
+coming
+stepsize
+x2
+gridsize
+adiabatic
+undergo
+symmetric
+symmetry
+hochbruck
+euler
+deformations
+cells
+dimensions
+radius
+friction
+gridpoints
+ct
+obtains
+subdivided
+inner
+region
+attains
+transfers
+norm
+dimension
+reads
+semidefinite
+ansatz
+attain
+spline
+shocks
+fronts
+rotations
+facto
+densities
+peter
+vanishes
+instabilities
+lagrange
+inserting
+cloud
+fixing
+cubic
+numerically
+ideal
+counterpart
+cancels
+configuration
+unity
+lanczos
+reversible
+flow
+scalar
+55
+positions
+practically
+normalized
+der
+equation
+coefficients
+derivative
+fields
+inside
+dl
+evolution
+external
+stepping
+neglect
+origin
+reproduce
+approximation
+gradient
+shrinks
+profile
+continuity
+abbreviation
+ulam
+250ae
+astonishingly
+rarefraction
+viscos
+momentumand
+teaches
+monaghan
+imitating
+0where
+sidelength
+ddx
+findsdet
+stormer
+4131656631641tensor
+gridsizes
+superposition
+demonstrates
+navier
+tridiagonal
+forces 2
+the particles
+the mass
+mass density
+the particle
+the velocity
+quadrature points
+finite mass
+viscous forces
+mass method
+the shock
+velocity field
+mass packets
+particle i
+the quadrature
+frictional forces
+2 41
+the viscous
+kinetic energy
+angular momentum
+conservation of
+internal energy
+the frictional
+of motion
+the forces
+2 42
+the entropy
+acting upon
+pressure forces
+the conservation
+entropy density
+the pressure
+mass flux
+by mass
+single particles
+2 61
+momentum and
+2 60
+equations of
+of thermodynamics
+ae s
+shock front
+the integrals
+41 and
+the heat
+h i
+the finite
+shape function
+density and
+energy 2
+given particle
+region occupied
+space dimensions
+of mass
+leinen harry
+christoph gauger
+heat supply
+particle model
+compressible fluids
+specific entropies
+energy inner
+gauger peter
+entropy equation
+and angular
+the equations
+at time
+peter leinen
+det h
+harry yserentant
+of compressible
+q i
+quadrature rule
+60 and
+z of
+particles and
+forces acting
+the kinetic
+continuum mechanics
+field 6
+viscosity coefficients
+mass fractions
+second law
+momentum 3
+fluctuation energy
+total momentum
+2 55
+continuously differentiable
+differential equations
+particle is
+2 30
+the differential
+the shear
+the energy
+density s
+positions q
+energy momentum
+the internal
+particles are
+the specific
+of energy
+42 and
+matrices h
+and 2
+stress tensor
+verlet method
+the single
+skew symmetric
+particles in
+equation 6
+2 38
+occupied by
+values ae
+the region
+velocity fields
+heat conduction
+energy are
+method is
+inner product
+dimensions the
+ae and
+initial velocities
+entropies s
+gas 2
+linear deformations
+inviscid case
+particle size
+newtonian fluids
+motion proof
+shear viscosity
+specific entropy
+frictional and
+momentum is
+single mass
+time evolution
+linear mapping
+tending to
+the density
+z z
+the viscosity
+two space
+the given
+b splines
+with compact
+transfers to
+flux density
+negative semidefinite
+closed representation
+particles of
+local temperature
+single particle
+lagrange function
+quadrature formula
+ideal gas
+masses m
+the inviscid
+heat flux
+density 2
+total kinetic
+constant of
+for y
+forces and
+2 40
+compact support
+2 43
+2 39
+d dt
+the local
+of particles
+space dimension
+derivatives of
+upon the
+particles with
+particle positions
+shock the
+of ae
+transfer to
+z as
+coming from
+pressure and
+q 0
+particles can
+particle and
+tensor t
+2 33
+symmetry of
+order approximation
+the fluid
+matrix h
+continuity equation
+and viscous
+mass the
+velocity of
+s ae
+points q
+field v
+example at
+the shape
+38 and
+the normalized
+external forces
+finite mass method
+the finite mass
+the mass density
+forces 2 41
+the quadrature points
+frictional forces 2
+the velocity field
+of the mass
+the particle i
+2 41 and
+forces 2 60
+equations of motion
+the conservation of
+the frictional forces
+the viscous forces
+and 2 42
+41 and 2
+the entropy density
+viscous forces 2
+of the particles
+the equations of
+of the particle
+and 2 61
+2 60 and
+mass method is
+acting upon the
+60 and 2
+the single particles
+mass density and
+conservation of energy
+the internal energy
+momentum and angular
+occupied by mass
+the pressure forces
+2 42 and
+and angular momentum
+the mass packets
+upon the particles
+the region occupied
+region occupied by
+of the velocity
+space dimensions the
+energy inner product
+velocity field 6
+particle model of
+the specific entropies
+the entropy equation
+gauger peter leinen
+christoph gauger peter
+the shock front
+model of compressible
+matrices h i
+peter leinen harry
+constant of motion
+leinen harry yserentant
+forces acting upon
+of compressible fluids
+pressure forces 2
+z of the
+of the single
+density and the
+the differential equations
+the kinetic energy
+of the frictional
+of energy momentum
+kinetic energy 2
+energy momentum and
+38 and 2
+second law of
+the mass flux
+the forces 2
+the total momentum
+the second law
+energy 2 33
+the viscosity coefficients
+2 38 and
+from the viscous
+the energy inner
+forces 2 38
+law of thermodynamics
+quadrature points are
+a constant of
+and 2 39
+of the shock
+the forces acting
+the particles and
+and the entropy
+and the matrices
+the shape function
+time evolution of
+of the entropy
+the time evolution
+the matrices h
+ae 1 and
+q i and
+with compact support
+for the inviscid
+a given particle
+41 2 42
+the inviscid case
+equation 2 43
+function with compact
+definition 2 16
+mass packets can
+mass density ae
+the heat supply
+total momentum 3
+positions q i
+the particle model
+entropies s i
+velocity field v
+entropy density s
+2 30 the
+arbitrary linear deformations
+quadrature rule 4
+and viscous forces
+mass flux density
+ae and s
+to the particle
+discretization of mass
+q j h
+the initial velocities
+by mass the
+frictional and viscous
+angular momentum is
+ideal gas 2
+particle positions q
+the single mass
+the closed representation
+gas 2 30
+the shock the
+the given particle
+external forces and
+the heat flux
+of motion proof
+masses m i
+from the pressure
+given particle i
+quadrature points q
+2 41 2
+two space dimensions
+in two space
+2 16 of
+total kinetic energy
+h j a
+the total kinetic
+the local temperature
+tending to zero
+and the internal
+right hand side
+the velocity of
+the right hand
+of ae and
+and the heat
+the angular momentum
+the values ae
+j h j
+the particle positions
+conservation of mass
+on a discretization
+is a continuously
+velocity of the
+of the system
+hand side of
+differential equations 2
+the space dimension
+the linear mapping
+the particle is
+the continuity equation
+skew symmetric matrices
+to with the
+42 and the
+and the pressure
+i and the
+are set up
+of the kinetic
+a continuously differentiable
+s ae s
+the definition 2
+of motion for
+transfers to the
+order approximation of
+for the velocity
+i and h
+1 and 1
+counterpart of the
+partition of unity
+by the definition
+form a partition
+to the energy
+exact and the
+as by the
+the euler equations
+method is a
+that z z
+and the approximate
+a discretization of
+of the density
+by the factor
+the normalized forces

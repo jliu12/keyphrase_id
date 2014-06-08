@@ -1,0 +1,600 @@
+cache
+ipoly
+indexing
+associative
+xor
+miss
+ipc
+conflict
+misses
+skewed
+conflicts
+lru
+prediction
+ave
+spec95
+caches
+gates
+ratios
+tile
+apsi
+repetitive
+cmr
+ratio
+pseudo
+tiled
+mapped
+organizations
+stride
+memories
+conventional
+associativity
+kb
+2w
+capacity
+tiling
+hydro2d
+bits
+victim
+instruction
+bitwise
+tomcatv
+collides
+applu
+turb3d
+penalty
+pathological
+fpppp
+vandierendonck
+gf
+hp
+organization
+replacement
+interleaved
+plru
+address
+mgrid
+dm
+ijpeg
+modulus
+su2cor
+conventionally
+placement
+hit
+benchmarks
+index
+indexed
+whilst
+polynomial
+resistance
+locality
+171
+superscalar
+bartolini
+prete
+wave
+vortex
+perl
+instructions
+spl
+iv
+labelled
+critical
+memory
+lockup
+hashing
+latency
+rudolph
+penultimate
+tracks
+speculation
+arb
+devadas
+wp
+predicted
+mapping
+fa
+amdahl
+nx
+suh
+rau
+schemes
+hans
+column
+cycle
+compress
+compulsory
+exhibit
+avoidance
+addresses
+swim
+bosschere
+policy
+collide
+skewing
+speculated
+saturating
+simulated
+bit
+koen
+fully
+delay
+kernels
+pseudorandom
+deterioration
+sk
+loading
+averages
+256
+firstly
+access
+vc
+pure
+8000
+ten
+nests
+allocate
+sa
+prefetch
+processor
+gonz
+annum
+columnn
+spjuth
+3033
+abstractapplications
+efficientparallelization
+0511
+cycit
+anica
+alez
+effeec
+xorindexing
+24942
+byte
+solely
+eliminate
+eliminating
+circuitry
+predictability
+banks
+falls
+atom
+counter
+programs
+unrealistic
+doubling
+ganizations
+capac
+gosh
+vora
+hispano
+acci
+integrada
+frailong
+tic98
+hagersten
+brit
+organi
+legat
+specfp
+speculative
+int
+load
+gcc
+highlights
+hierarchy
+specint
+teger
+lengthens
+1016
+olukotun
+poncino
+microprocessor
+effectively
+passos
+didier
+nating
+incor
+multiplicand
+bershad
+ipoly indexing
+associative cache
+miss ratio
+address prediction
+conflict misses
+skewed associative
+xor gates
+miss ratios
+fully associative
+the cache
+way skewed
+the xor
+set associative
+direct mapped
+two way
+conflict miss
+2 way
+memory address
+way set
+indexing function
+the ipoly
+critical path
+indexing functions
+column associative
+the miss
+y 1
+cache index
+cache indexing
+of ipoly
+ipoly cache
+8 kb
+indexing schemes
+28 1
+1 28
+polynomial mapping
+indexing scheme
+the critical
+prediction scheme
+pseudo random
+ipoly mapping
+pure lru
+self conflicts
+lru replacement
+cache is
+cache access
+1 30
+of conflict
+interleaved memories
+random indexing
+cache conflict
+address bits
+1 27
+conventional indexing
+17 1
+a conventional
+of cache
+13 1
+8 6
+the spec95
+access time
+associative caches
+index function
+1 13
+ave int
+way ipoly
+associative organizations
+the address
+the skewed
+spec95 benchmarks
+the ipc
+7 5
+polynomial modulus
+ipc when
+alternative cache
+conventionally indexed
+conflict avoidance
+conflict resistance
+repetitive conflict
+virtual real
+ave ave
+30 1
+a cache
+27 1
+3 8
+implementation issues
+conflicts and
+gates are
+1 7
+indexing on
+1 17
+gf 2
+the indexing
+1 33
+13 9
+1 29
+collides with
+conventional cache
+xor based
+novel indexing
+an 8
+kb cache
+a miss
+of pseudo
+26 1
+index functions
+victim cache
+indexing is
+1 26
+mapped cache
+4 8
+hit time
+mapping functions
+working set
+13 4
+a fully
+byte lines
+write allocate
+the predicted
+misses in
+effective address
+hans vandierendonck
+in cache
+2 7
+7 2
+the polynomial
+cache capacity
+four way
+prediction is
+ten years
+cache with
+cache architectures
+5 9
+6 6
+32 byte
+no write
+the fully
+policy labelled
+ave y
+xor mapping
+associative 2w
+pathological conflict
+alternative indexing
+ratio cmr
+applu 7
+conflicts but
+hp precision
+mapped conflict
+alternative index
+next ten
+unrealistic pure
+cross conflicts
+pseudo lru
+ratios ave
+skewed 2
+skewed indexing
+set capacity
+ipc measurements
+labelled lru
+cache loading
+ipc averages
+hydro2d 17
+using ipoly
+realistic pseudo
+major implementation
+when ipoly
+1 15
+cache performance
+cache conflicts
+9 6
+table iv
+replacement policy
+0 17
+cache hierarchy
+level cache
+29 1
+cache which
+address and
+in parallel
+miss penalty
+data cache
+ratios for
+tracks the
+of order
+8 1
+reduction in
+the memory
+the prediction
+17 6
+24 1
+loading for
+precision architecture
+avoidance properties
+versus cache
+ratio versus
+bitwise xor
+loop kernels
+then addresses
+16 higher
+randomly interleaved
+hp sk
+memory address prediction
+fully associative cache
+way skewed associative
+skewed associative cache
+way set associative
+the critical path
+1 28 1
+the xor gates
+set associative cache
+two way skewed
+address prediction scheme
+of ipoly indexing
+the miss ratio
+a fully associative
+conflict miss ratio
+1 13 1
+in the critical
+17 1 17
+cache conflict misses
+two way set
+the cache index
+the two way
+conflict miss ratios
+the memory address
+an 8 kb
+xor gates are
+2 way set
+the fully associative
+1 26 1
+associative cache is
+1 30 1
+1 27 1
+the cache access
+0 17 1
+ave ave int
+2 way skewed
+of conflict resistance
+the direct mapped
+pseudo random indexing
+gates are in
+the polynomial mapping
+repetitive conflict misses
+address prediction is
+a two way
+a four way
+a conventional cache
+8 kb cache
+if the xor
+a direct mapped
+no write allocate
+the indexing function
+direct mapped cache
+lru replacement policy
+conflict misses in
+conflict misses and
+cache access time
+and two way
+1 24 1
+conflict misses the
+32 byte lines
+of conflict misses
+of pseudo random
+1 11 1
+1 29 1
+miss ratios for
+6 5 6
+7 2 7
+1 8 1
+performance of a
+miss ratios ave
+ipc when ipoly
+cache is shown
+uses a realistic
+13 1 11
+alternative indexing functions
+a realistic pseudo
+capacity miss ratio
+miss ratio cmr
+ipoly indexing scheme
+spec95 benchmarks as
+direct mapped conflict
+fully associative organizations
+the ipoly cache
+then addresses a
+13 9 13
+set capacity miss
+indexed set associative
+eliminate repetitive conflict
+than a fully
+tracks the fully
+lru policy labelled
+next ten years
+gf 2 polynomial
+an unrealistic pure
+cache loading for
+2 way ipoly
+cache index function
+way ipoly cache
+conflict avoidance properties
+mapped conflict miss
+alternative index functions
+the ipoly mapping
+order to index
+optimality of lru
+the next ten
+ipoly indexing on
+uses an unrealistic
+y 1 13
+a cache which
+major implementation issues
+realistic pseudo lru
+index function in
+cache indexing in
+skewed 2 way
+pure lru replacement
+set associative 2w
+miss ratio 0
+1 63 1
+when ipoly indexing
+each entry contained
+unrealistic pure lru
+ipoly indexing functions
+ratio versus cache
+cache which uses
+versus cache loading
+hydro2d 17 6
+working set capacity
+miss ratio versus
+8 kb 2
+of lru replacement
+the ipoly indexing
+self conflicts and
+ratio 0 10
+field was updated
+the major implementation
+ipoly indexing is
+hp precision architecture
+conventionally indexed set
+of the address
+2 7 2
+xor gates with
+ratio depends solely
+column associative cache
+tomcatv swim and
+17 6 17
+pseudo random placement
+cache indexing scheme
+2004 hans vandierendonck
+two level virtual
+sub optimality of
+of cache conflict
+miss ratio depends
+avoid the penalty
+cycle penalty in
+27 1 28
+addresses a 1
+with address prediction
+real cache hierarchy
+the predicted line
+virtual real cache
+16 higher than
+a set associative
+the penalty introduced
+penalty introduced by
+the spec95 suite
+6 11 3
+of polynomial mapping
+the gf 2
+1 17 5
+gates with fan
+30 1 32
+novel indexing schemes
+benchmarks as well
+averages for the
+the bitwise xor
+the column associative
+17 2 17
+level virtual real
+mapping provides a
+low conflict miss
+9 6 8
+28 1 30
+that of a
+as the indexing
+the skewed associative
+in parallel memories
+1 46 1
+2 11 4
+with fan in
+and no write
+and 2 way
+5 9 1
+use of pseudo
+the last address
+write through and
+direct mapped dm
+through and no
+indexing function the
+b j c
+lru replacement in

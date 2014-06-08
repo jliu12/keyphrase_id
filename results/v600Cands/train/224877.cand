@@ -1,0 +1,600 @@
+gate
+ssl
+excitable
+migses
+gses
+mies
+wies
+mges
+faults
+xnor
+nand
+circuit
+gates
+xor
+sigses
+wie
+stuck
+attachment
+errors
+eges
+eies
+irredundant
+netlist
+ices
+injected
+coverage
+migse
+atpg
+module
+inputs
+detected
+gse
+redundant
+verification
+circuits
+mie
+detects
+gi
+fault
+null
+mg
+undetectable
+eie
+gces
+mge
+odd
+tests
+det
+net
+missing
+detectable
+eg
+replacement
+fanout
+controllable
+74181
+combinational
+observable
+detect
+redundancy
+wrong
+inverter
+ege
+sensitizable
+asaad
+hayes
+buf
+partially
+substitution
+ice
+uncontrollable
+nor
+testing
+vectors
+7485
+c432nr
+esim
+c499nr
+sigse
+detection
+mi
+forced
+74283
+dundant
+campenhout
+wi
+nonempty
+undetected
+100
+abadir
+irre
+0111
+1101
+simulation
+signal
+responses
+targeting
+hussain
+count
+c432
+1110
+1011
+tao
+detecting
+lv
+inverters
+extra
+modifier
+cover
+primary
+foregoing
+ttl
+011
+injecting
+mistakenly
+mudge
+00
+buffer
+logic
+automation
+comparator
+electronic
+simulator
+universal
+testable
+observability
+error
+wei
+weak
+propagated
+98
+xiao
+juin
+kypros
+levelization
+jhayes
+gce
+orshansky
+atalanta
+halasaad
+yeu
+c499
+excit
+irredun
+benchmark
+quantifying
+jian
+erroneous
+response
+condense
+sensitiz
+blome
+constantinides
+undetect
+chakrabarty
+microarchitecturevalidation
+unateness
+fully
+microprocessors
+0101
+tectable
+2122
+plaza
+simulatable
+katarzyna
+zilic
+zeljko
+radecka
+sas
+architecting
+diagno
+dant
+48109
+verify
+pattern
+generation
+category
+percentage
+bertacco
+krishnendu
+patterns
+unate
+sensitize
+xiu
+specs
+detectability
+functional
+valeria
+umich
+1111
+0110
+kwang
+637
+affecting
+101
+sequential
+110
+unde
+erage
+strong
+ssl faults
+test set
+complete test
+design errors
+gate g
+partially excitable
+for ssl
+v null
+design error
+a gate
+and wies
+net attachment
+test sets
+mies and
+v odd
+attachment module
+fully excitable
+for mies
+the circuit
+input gate
+stuck at
+design verification
+excitable gate
+v all
+the gate
+100 0
+null v
+migses and
+n input
+set for
+or nor
+inputs of
+even v
+wrong input
+into ssl
+for gses
+ssl fault
+injected ssl
+v even
+det d
+and nand
+test vectors
+nand or
+c sets
+detects all
+even even
+excitable by
+count errors
+and mges
+for migses
+strong partially
+replacement module
+detected by
+circuit c
+coverage of
+the gates
+gate substitution
+xor and
+a circuit
+test for
+nand gate
+migses in
+wies is
+weak partially
+gate is
+a complete
+and gate
+a test
+primary output
+xor xnor
+controllable by
+g g
+sets for
+at 0
+g 3
+gate can
+and nor
+testing for
+an and
+be detected
+atpg tools
+or nand
+detect all
+g is
+of g
+the test
+test generation
+the coverage
+ssl irredundant
+input count
+a wie
+is excitable
+forced at
+of migses
+gi irredundant
+nonempty c
+error simulation
+gate replacement
+size det
+observable at
+of design
+gate s
+the inputs
+be forced
+m g
+circuit is
+input of
+gate errors
+tests needed
+xnor gate
+missing gate
+gate with
+missing input
+gate count
+extra gate
+extra input
+at g
+the detection
+an n
+and ssl
+the injected
+gates are
+input nand
+detection of
+p hayes
+and missing
+single input
+multiple input
+odd and
+an mie
+ssl redundancy
+input fully
+errors ices
+an eie
+net errors
+ices and
+excitable or
+p stuck
+all sigses
+gate design
+is ssl
+all eies
+five migses
+redundant gses
+wi u
+modified netlist
+all mges
+excitable because
+gses in
+an xnor
+gses a
+or xnor
+all gses
+mges in
+faults detects
+gates in
+a primary
+circuit are
+gate to
+the net
+then g
+for design
+line ssl
+gate types
+inputs connected
+uncontrollable by
+mg g
+al asaad
+pattern 00
+xor or
+all detectable
+stuck line
+equivalent circuit
+at 1
+of tests
+we represent
+if g
+and xnor
+input errors
+error types
+or strong
+irredundant and
+module for
+gate in
+the errors
+gate and
+gate by
+with fanout
+set generated
+are undetectable
+is uncontrollable
+verification via
+errors detected
+benchmark circuits
+even or
+or or
+2 input
+for stuck
+near minimal
+an xor
+complete test set
+a complete test
+for ssl faults
+test set for
+a gate g
+mies and wies
+net attachment module
+set for ssl
+an n input
+test sets for
+v null v
+stuck at 0
+the net attachment
+into ssl faults
+n input gate
+of design errors
+the inputs of
+strong partially excitable
+partially excitable gate
+inputs of g
+of a gate
+complete test sets
+weak partially excitable
+observable at g
+migses and mges
+in a circuit
+in the circuit
+and nand or
+to a primary
+a primary output
+and or nand
+g 3 is
+stuck at 1
+a test set
+at the inputs
+a circuit c
+ssl faults the
+the injected ssl
+even v null
+injected ssl fault
+v odd and
+nand or and
+or and nor
+v all v
+is excitable by
+and wies is
+of tests needed
+one from v
+set for mies
+input gate can
+be forced at
+forced at the
+set size det
+size det d
+a test for
+detected by a
+gate g is
+sets for ssl
+design errors are
+gate g that
+be detected by
+number of tests
+output of g
+test set size
+the gates are
+the coverage of
+the input of
+the circuit is
+the detection of
+the test set
+to test for
+can be forced
+an and or
+gate can be
+test set t
+test for an
+at the input
+gate design error
+xor or xnor
+fully excitable or
+and v all
+fully excitable gate
+odd and v
+p stuck at
+design error detection
+even even v
+ssl fault in
+gate count errors
+injected ssl faults
+sets v null
+all v odd
+gate g by
+null v odd
+nonempty c sets
+detect all gses
+the pattern 00
+the error simulation
+excitable or strong
+design errors using
+set generated for
+ssl faults is
+are fully excitable
+ssl faults in
+also a complete
+v null and
+is controllable by
+for mies and
+or strong partially
+attachment module for
+g is excitable
+input gate g
+primary output this
+s output signal
+input count errors
+n input fully
+ssl faults detects
+even or even
+input fully excitable
+of migses and
+count errors ices
+three test vectors
+mg g g
+gate replacement module
+null v all
+coverage of design
+or even even
+the function of
+an and gate
+shown in table
+design errors can
+stuck line ssl
+is uncontrollable by
+for design errors
+design verification via
+inputs connected to
+tests needed to
+and automatic test
+single stuck line
+that the gates
+via simulation and
+test set generated
+output this is
+of the gate
+then g is
+using the generated
+we represent an
+needed to test
+xor and xnor
+simulation and automatic
+input nand gate
+g that has
+gate s output
+gate g in
+number of inputs
+the output of
+the test vectors
+100 0 100
+not detected by
+have to apply
+test sets are
+for stuck at
+detected by the
+of the net
+john p hayes
+a 2 input
+is an and
+of the circuit
+g 2 is
+other hand a
+by a complete
+of the and
+automatic test pattern
+cannot be detected
+0 100 0
+of an n
+to verify a
+to the pattern
+a single input
+the response of
+test set is
+testing theory and
+g in a
+of electronic testing
+electronic testing theory
+test pattern generation
+testing for eies
+gate can have
+on a gate
+the gate replacement
+or nand then
+count errors gces
+of mies and
+errors into ssl
+attachment module a
+missing gate design
+the original netlist
+modifier netlist test
+a multiple input
+a gi irredundant
+multiple input gate

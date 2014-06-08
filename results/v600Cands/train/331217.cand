@@ -1,0 +1,600 @@
+redistribution
+caterpillar
+schedule
+size50
+circulant
+sp2
+dpt
+msec
+cyclic
+transfer
+reorganizations
+array
+superblock
+communication
+ibm
+destination
+bipartite
+message
+0150
+processors
+0250
+kx
+processor
+contention
+reorganization
+0data
+0total
+0350
+blocks
+tavg
+index
+block
+row
+messages
+0450
+msecs
+send
+matching
+unpack
+transferred
+layout
+mpi
+transmission
+mbytes
+shuffled
+tmin
+unpacking
+matrix
+secs
+scheduling
+ts
+median
+n1
+pack
+sized
+generalized
+minyi
+reorganizing
+reorganized
+subsection
+robin
+tmax
+packing
+tmed
+rows
+hsien
+interprocessor
+minimizes
+column
+folded
+bandwidth
+supercomputing
+redis
+atmost
+indices
+submatrix
+utilized
+ching
+hpc
+receive
+sizes
+costs
+kq
+guo
+submatrices
+hsu
+sender
+node
+experimental
+reorganize
+multiphase
+formalism
+reports
+measuring
+ffg
+moved
+theoretically
+round
+tribution
+diagonalization
+hpf
+parallelizing
+ownership
+rearranged
+distribution
+sending
+source
+rearrangement
+converted
+sent
+shifted
+packed
+entries
+reditribution
+inturn
+size100
+31354131020355241357destination
+mhpcc
+node_tr
+207762
+f20
+manash
+redistri
+node_time
+kirtania
+multicomputers
+n2
+entry
+incurred
+supercomputer
+memory
+partitioned
+0500
+abstractrun
+wtime
+1530
+jeannot
+daming
+0900
+0700
+dunn
+th
+slices
+half
+transferring
+36
+sp
+art
+unpacks
+1507
+assistance
+variance
+os
+ikuo
+roumeliotis
+realignment
+souravlas
+redistributions
+varied
+onto
+qt
+woei
+relocates
+0300
+unpacked
+manos
+avoids
+distinct
+negligible
+computes
+acknowledgment
+latencies
+circularly
+nakata
+minimized
+location
+platforms
+events
+barrier
+measured
+formulae
+packs
+multipro
+collections
+received
+incur
+overheads
+dominates
+jih
+stavros
+scenario
+gerard
+schemes
+theta
+conversion
+interference
+677
+emmanuel
+schedules
+fashion
+caterpillar algorithm
+redistribution time
+data transfer
+communication step
+sp2 our
+algorithm caterpillar
+msec on
+the caterpillar
+transfer time
+generalized circulant
+total array
+array size50
+time msec
+circulant matrix
+transfer cost
+total redistribution
+communication schedule
+schedule computation
+ibm sp2
+algorithm total
+all to
+index computation
+our algorithm
+cyclic x
+the redistribution
+all communication
+communication case
+matching scheme
+the ibm
+destination processor
+non all
+bipartite matching
+node contention
+each communication
+dpt t
+size50 0150
+data redistribution
+communication steps
+cyclic kx
+distribution table
+the schedule
+table d
+kx on
+destination processors
+and index
+schedule and
+block cyclic
+the bipartite
+from cyclic
+to cyclic
+send communication
+array redistribution
+message sizes
+q processors
+different message
+p processors
+schedule table
+0150 0250
+computation time
+column reorganizations
+sized messages
+source processor
+for redistribution
+transmission cost
+to all
+on q
+the dpt
+0data transfer
+source processors
+redistribution from
+a communication
+a superblock
+of communication
+on p
+a generalized
+size50 0data
+x on
+the array
+computation cost
+communication scheduling
+the data
+redistribution problem
+equal sized
+block matrix
+initial distribution
+start up
+0 total
+block index
+of redistribution
+our scheme
+index set
+0total redistribution
+0250 0350
+final layout
+processors to
+theta p
+are transferred
+cyclic redistribution
+up cost
+final distribution
+initial layout
+step therefore
+the communication
+d i
+each block
+blocks in
+messages are
+network bandwidth
+table s
+transferred in
+experimental results
+0 data
+with different
+superblock in
+message packing
+column reorganization
+communication cases
+matrix formalism
+time for
+processor table
+cost is
+100 s
+distributed memory
+largest message
+block messages
+0350 0450
+array size
+message size
+cyclic distribution
+computation costs
+case with
+time of
+local block
+median time
+blocks are
+scheme 5
+the all
+in each
+redistribution on
+row 0
+processor indices
+communication events
+fully utilized
+array elements
+the total
+the destination
+redistribution in
+processor index
+minimum time
+compared with
+processor sets
+d f
+the block
+redistribution is
+of msecs
+first superblock
+processor ts
+0250 0
+node time
+of secs
+mbytes to
+row reorganization
+row reorganizations
+0450 0total
+time tmax
+maximum time
+table based
+processors the
+communication with
+minimizes the
+a circulant
+supercomputing v
+of supercomputing
+the network
+up time
+the send
+one block
+secs the
+processor point
+scheme minimizes
+cost schedule
+packing unpacking
+free communication
+folded onto
+total transmission
+0150 0
+redistribution parameters
+global block
+step i
+for array
+the message
+the transmission
+denoted as
+each processor
+l s
+round robin
+entry of
+proposed algorithm
+set computation
+processor set
+msec on the
+our algorithm caterpillar
+algorithm caterpillar algorithm
+ibm sp2 our
+sp2 our algorithm
+time msec on
+the caterpillar algorithm
+data transfer time
+generalized circulant matrix
+to all communication
+total array size50
+algorithm total array
+caterpillar algorithm total
+the ibm sp2
+all to all
+on the ibm
+data transfer cost
+the data transfer
+total redistribution time
+bipartite matching scheme
+schedule and index
+each communication step
+schedule computation time
+the schedule computation
+all communication case
+in each communication
+a generalized circulant
+non all to
+the bipartite matching
+array size50 0150
+with different message
+transfer time msec
+of communication steps
+redistribution time msec
+distribution table d
+and index computation
+cyclic x on
+cyclic kx on
+number of communication
+different message sizes
+on q processors
+of the caterpillar
+processors to cyclic
+size50 0150 0250
+from cyclic x
+to cyclic kx
+send communication schedule
+communication schedule table
+a communication step
+p processors to
+on p processors
+kx on q
+time of our
+initial distribution table
+redistribution time of
+the total redistribution
+equal sized messages
+in a communication
+x on p
+case with different
+0data transfer time
+the redistribution time
+of our algorithm
+transfer time of
+table d i
+0 total redistribution
+the dpt t
+array size50 0data
+size50 0data transfer
+communication case with
+and index set
+the network bandwidth
+the all to
+the schedule and
+redistribution from cyclic
+0150 0250 0350
+the transmission cost
+matching scheme 5
+transfer time in
+bandwidth is fully
+schedule computation cost
+and the caterpillar
+schedule table s
+0 data transfer
+the non all
+final distribution table
+communication step therefore
+index computation costs
+0total redistribution time
+the destination processor
+our algorithm is
+the send communication
+100 s of
+start up cost
+the communication schedule
+communication steps and
+is fully utilized
+for all to
+the block cyclic
+our algorithm and
+for the all
+the start up
+the array size
+destination processors the
+index computation cost
+s theta p
+block messages are
+circulant matrix which
+destination processor table
+table based framework
+sized messages are
+redistribution time for
+destination processor index
+table d f
+communication with different
+circulant matrix formalism
+all communication cases
+no node contention
+caterpillar algorithm a
+node contention in
+problem from cyclic
+caterpillar algorithm the
+network bandwidth is
+block cyclic distribution
+that of the
+in the caterpillar
+0250 0350 0450
+matching scheme is
+block cyclic redistribution
+transferred in each
+communication steps is
+are transferred in
+l s theta
+the largest message
+messages are transferred
+is denoted as
+for data redistribution
+messages in each
+data redistribution on
+for array redistribution
+of the bipartite
+experimental results for
+all communication with
+minimizes the number
+compared with the
+a circulant matrix
+framework for redistribution
+for non all
+kx on p
+step are of
+communication schedule and
+0150 0 data
+transfer cost is
+within a superblock
+therefore the redistribution
+the first superblock
+range of 100
+to cyclic x
+cyclic x to
+s of secs
+minimize the transmission
+computation cost is
+from cyclic kx
+0250 0 total
+index set computation
+communication step are
+the generalized circulant
+global block index
+location in d
+0350 0450 0total
+communication step the
+superblock in the
+size50 0150 0
+dpt t is
+a send communication
+message sizes the
+our scheme minimizes
+caterpillar algorithm in
+to all case
+contention in each
+and the bipartite
+0150 0250 0
+fully utilized by
+transfer cost and
+all case with
+communication schedule is
+x to cyclic
+transfer cost for
+transfer cost the
+communication step i
+of supercomputing v
+journal of supercomputing
+start up time
+the initial distribution
+using our algorithm
+computation time is
+entry of d
+a destination processor
+transfer time for
+time data redistribution

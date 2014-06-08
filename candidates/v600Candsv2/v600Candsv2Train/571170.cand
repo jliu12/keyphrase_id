@@ -1,0 +1,323 @@
+stack
+deconstruction
+mercury
+eld
+cell
+loads
+ush
+slot
+anchor
+load
+maximal
+slots
+rst
+benets
+segment
+benet
+stores
+switch
+compiler
+store
+unmatched
+heap
+threshhold
+live
+unication
+ab
+accessing
+alternating
+matching
+disjunct
+arm
+clone
+denition
+rb
+bc
+anchors
+bipartite
+dierent
+candidate
+registers
+loading
+eect
+dodgy
+rc
+branched
+ce
+register
+rematerialization
+deconstructions
+segments
+costs
+opr
+paths
+augmenting
+optimization
+bd
+disjunction
+mmc
+unmarked
+reachable
+interval
+ieldv
+arstorecost
+deconstructs
+arloadcost
+mc
+accesses
+ve
+determinism
+body
+clones
+immutable
+generator
+vars
+nd
+storing
+ushed
+prolog
+substitution
+transformation
+elds
+path
+loaded
+matched
+disjunctions
+predicate
+compress
+backend
+cache
+node
+atomic
+apr
+clobber
+threshholds
+decon
+cellv
+fstore
+nuc
+opt
+predicates
+calls
+ray
+benchmark
+slowdown
+speedup
+copies
+nodes
+cells
+elses
+ushes
+clobbered
+wam
+matchings
+executable
+arms
+mb
+thresholds
+speedups
+backtracking
+accessed
+intervals
+mode
+frames
+destructively
+access
+vari
+ratio
+instruction
+sinking
+frame
+jm
+eects
+worthwhile
+dead
+reaches
+goals
+compound
+candidates
+stall
+ll
+cient
+transformed
+seven
+interdependence
+kinds
+slowdowns
+signicant
+traversal
+execution
+dened
+partitions
+junctions
+benefit
+execute
+hazard
+else
+nding
+marked
+pointed
+struction
+spilling
+compilation
+disjuncts
+compilers
+slows
+allocation
+syntax
+succeed
+isn
+virtually
+doesn
+dene
+incur
+misses
+code
+prefer
+instructions
+maybe
+stacks
+pipeline
+eectively
+savings
+stack slot
+cell variable
+eld variables
+stack slots
+eld variable
+maximal path
+alternating path
+maximal paths
+mercury compiler
+load k0
+slot optimization
+maximal matching
+stack optimization
+right anchor
+via b
+check k0
+benet nodes
+one store
+node ratio
+procedure body
+execution takes
+optimization graph
+load t0
+four stores
+store k0
+path node
+cost nodes
+matching m
+ush points
+bc ce
+left anchor
+ab bc
+ratio threshhold
+variable via
+code generator
+heap cell
+generator must
+stack frame
+four loads
+candidate variable
+seven loads
+must ush
+type 1
+initial segment
+access via
+cost v
+v t0
+k v
+parameter values
+one path
+stack accesses
+load l0
+variable loads
+stack ush
+cell pointed
+clone deconstruction
+candidate eld
+branched control
+benefit v
+execution reaches
+transformed program
+bipartite graph
+load k
+second arm
+costs benefits
+rst interval
+atomic goals
+ce ab
+loaded value
+execution algorithm
+augmenting paths
+f via
+matching algorithm
+stack frames
+candidate set
+variable f
+accessed via
+type 3
+via stack
+three loads
+ab bd
+deconstruction b
+deconstruction t0
+atomic goal
+net v
+variable instead
+via the cell
+stack slot optimization
+switch on result
+stack optimization graph
+loads and four
+loads and stores
+load t 0
+code generator must
+eld variable via
+ab bc ce
+path node ratio
+node ratio threshhold
+accessing a via
+load k0 v0
+number of stack
+loads and one
+generator must ush
+load t0 k0
+bipartite graph g
+path from c
+bc ce ab
+one path node
+load k0 check
+load k v
+k v t0
+instead of via
+load of b
+loads between b
+candidate eld variables
+node in rb
+store k0 load
+sets of parameter
+call to compare
+nodes in c
+program in figure
+load v0 1
+b 2 rb
+store l0 load
+type 1 loads
+via the stack
+store v0 costs
+interval in segment
+load r0 1
+cell variable instead
+takes the rst
+load and one
+via stack slots
+store r0 store
+cell variable loads
+ab bd de
+cell variable b
+de and ab
+branched control structure
+dodgy k0 v0
+load l0 1

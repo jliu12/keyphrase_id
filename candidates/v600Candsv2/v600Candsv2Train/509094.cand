@@ -1,0 +1,359 @@
+dgefmm
+modgemm
+strassen
+morton
+tile
+padding
+dgemmw
+recursion
+quadrants
+cache
+winograd
+truncation
+submatrices
+matrices
+multiplication
+ultra
+matrix
+peeling
+tiles
+conversion
+miata
+contiguous
+padded
+alpha
+layout
+chatterjee
+misses
+siddhartha
+outperforms
+dec
+layouts
+submatrix
+lebeck
+rectangular
+mithuna
+thottethodi
+implementations
+lean
+overlap
+conquer
+ultrasparc
+alvin
+dimensions
+sizes
+laid
+interference
+nw
+mokbel
+spacefilling
+rows
+variability
+quadtree
+miss
+huss
+patnala
+gemmw
+unfold
+sun
+recursive
+gpu
+lederman
+pad
+blas
+aref
+conventional
+storage
+sw
+hierarchical
+mellor
+crummey
+dgemm
+platforms
+convert
+divide
+columns
+multiplies
+supercomputing
+eliminating
+cray
+dimension
+atom
+walid
+conflict
+faster
+truncate
+routine
+praveen
+whalley
+column
+odd
+additions
+array
+contiguously
+quad
+depth
+multiplications
+arithmetic
+bailey
+sandeep
+compilers
+division
+subprograms
+ordering
+memory
+temporary
+locality
+major
+mohamed
+static
+rhodes
+unfolding
+converting
+kennedy
+career
+cda
+nests
+overhead
+sen
+vs
+crays
+expec
+ferizis
+kreczmar
+vibhor
+hossam
+tilesize
+dumir
+finesses
+elgindy
+nondense
+mundhra
+empirically
+execution
+stability
+ratio
+op
+lay
+douglas
+irregular
+efforts
+filling
+extra
+associativity
+curves
+multiply
+ratios
+ken
+cprof
+gatlin
+henson
+bilmes
+fatahalian
+ldc
+galoppo
+coauthors
+sugerman
+frens
+loop
+eleventh
+reuse
+sized
+invocations
+jacm
+greece
+workloads
+interface
+hierarchy
+truncation point
+matrix multiplication
+recursion truncation
+morton order
+tile size
+matrix sizes
+dynamic peeling
+matrix size
+column major
+morton ordering
+static padding
+dynamic overlap
+matrix size0
+strassen winograd
+contiguous submatrices
+non contiguous
+execution time
+padded matrix
+time modgemm
+implementation modgemm
+vs dgefmm
+morton conversion
+minimize padding
+generally faster
+rectangular matrices
+input matrices
+siddhartha chatterjee
+winograd algorithm
+highly rectangular
+outperforms dgefmm
+dec miata
+ultra figure
+contiguous sub
+multiplication algorithm
+size selection
+leading dimension
+tile sizes
+conventional algorithm
+uses dynamic
+level 3
+interface level
+sub matrices
+modgemm outperforms
+miata b
+conversion cost
+overlap dgemmw
+matrices 500
+convert matrices
+multiplication proceedings
+b sun
+tile dimensions
+odd sized
+modgemm matrix
+fixed tile
+desired ratio
+sun ultra
+small matrices
+data layout
+cache behavior
+cray 2
+conversion time
+array layouts
+wide variability
+base matrix
+matrix elements
+dynamically select
+stable performance
+large matrices
+memory efficiency
+quadtree representation
+mithuna thottethodi
+algorithms cache
+arithmetic complexity
+self interference
+conflict misses
+four quadrants
+ultrasparc ii
+r lebeck
+matrix storage
+alvin r
+original matrix
+direct mapped
+winograd implementations
+spacefilling curves
+peeling dgefmm
+dgefmm b
+odd size
+speed matrix
+matrix layout
+matrix size5
+f mokbel
+columns ratio
+submatrices exhibit
+dgefmm figure
+choosing tile
+dgemmw 6
+core routine
+across matrix
+result matrix
+dimensions independently
+case padding
+strassen s algorithm
+recursion truncation point
+matrix size0 801
+execution time modgemm
+faster than dgefmm
+strassen s matrix
+algorithm for matrix
+matrix multiplication algorithm
+padded matrix size
+implementations of strassen
+contiguous sub matrices
+strassen winograd algorithm
+tile size selection
+matrix size n
+miata b sun
+slower to 20
+time to convert
+large matrices 500
+winograd s variant
+select the recursion
+dgefmm is generally
+fixed tile size
+modgemm matrix size0
+highly rectangular matrices
+implementation of strassen
+larger while dgefmm
+non contiguous submatrices
+dynamic overlap dgemmw
+b sun ultra
+amount of padding
+sun ultra figure
+modgemm outperforms dgefmm
+matrix multiplication proceedings
+time modgemm matrix
+columns to rows
+rows to columns
+dgefmm for large
+dec miata b
+row or column
+contiguous in memory
+divide and conquer
+locality of reference
+two input matrices
+faster for small
+alvin r lebeck
+conference on supercomputing
+chosen to minimize
+level 3 blas
+total execution time
+matrices are already
+performance of strassen
+overlap dgemmw 6
+single matrix elements
+non standard array
+strassen winograd implementations
+dgemmw vs dgefmm
+procedures for using
+conversion cost age
+morton conversion time
+point to minimize
+truncation point 13
+dgefmm for nearly
+truncate the recursion
+alpha our implementation
+non contiguous sub
+theory of cache
+introduced the dynamic
+matrix size50 070
+setting the leading
+standard array layout
+best case padding
+column major layout
+peeling dgefmm 13
+odd sized matrices
+cache efficient algorithms
+b dgemmw vs
+tile dimensions independently
+level of single
+high speed matrix
+theta t tile
+dgefmm b dgemmw
+matrices non contiguous
+already in morton
+implementation modgemm ranges
+platforms and across
+nw and sw
+exceeds the desired
+sandeep sen siddhartha
+dimensional space filling
+challenging to implement
+sen siddhartha chatterjee

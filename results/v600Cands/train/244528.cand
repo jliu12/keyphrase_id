@@ -1,0 +1,600 @@
+ramp
+delay
+elmore
+voltage
+interconnect
+spice
+threshold
+rlc
+pole
+response
+analytical
+rd1
+delays
+rise
+ad
+moments
+transfer
+moment
+interconnects
+gammat
+rc
+rd4
+impedance
+ps
+admittance
+poles
+infinite
+pileggi
+rd3
+rd2
+capacitance
+vlsi
+impedances
+estimates
+muddu
+transmission
+signal
+resistance
+subtree
+th
+resistive
+interconnection
+voltages
+inductors
+responsev
+awespice
+th1
+rly
+69b
+correspondsto
+th2
+capacitive
+coefficient
+rising
+youxin
+sink
+resistors
+qh
+trees
+waveform
+basedon
+coefficients
+sponse
+slew
+1998
+cadence
+sudhakar
+kahng
+50
+lawrence
+driver
+circuit
+pins
+synthesis
+load
+lossy
+transform
+transient
+sl
+calculation
+estimation
+00
+routing
+500
+residue
+deviate
+numerator
+00650
+and90
+mti
+havedevelopeda
+andsecondmoments
+momentmatching
+consideringinduc
+opposedto
+00850
+degradationthroughmodule
+timingmodels
+00450
+spice3e
+ramps
+368v
+configurationswe
+approximationof
+definedas
+primo
+interconnectiontrees
+modelsbasedon
+expressionsusing
+kanak
+poleanalysis
+formos
+yungseon
+transmision
+methodsbasedonmoment
+approximatedby
+vlach
+ductance
+rd5
+responset
+loadimpedancesand
+responsedecreasesrapidly
+equation
+substituting
+gao
+90
+laplace
+expressing
+formula
+estimate
+segment
+7th
+wire
+maclaurin
+rony
+00250
+useda
+emrah
+taeyong
+3b
+layout
+js
+automation
+lines
+wong
+nects
+wenow
+capacitors
+acar
+wideband
+dependson
+characteristic
+variation
+topologies
+accurate
+driven
+widely
+monterey
+08
+tree
+derivative
+blaauw
+kay
+united
+denominator
+configurations
+california
+gave
+sinh
+intercon
+2b
+dt
+approximation
+abcd
+ringing
+crit
+sabbatical
+ply
+cosh
+aging
+methodology
+submicron
+amplifiers
+timing
+63
+propagation
+packaging
+ator
+evalu
+eo
+source
+jose
+aided
+recursive
+andrew
+sylvester
+616
+raphson
+expanding
+waveforms
+ramp input
+threshold voltage
+ramp response
+threshold delay
+finite ramp
+elmore delay
+t ad
+infinite ramp
+analytical delay
+transfer function
+rise time
+spice computed
+delay estimates
+50 threshold
+analytical ramp
+the threshold
+delay models
+t r
+interconnect lines
+single pole
+the transfer
+ramp delay
+step input
+first moment
+computed delays
+two pole
+th t
+the elmore
+delay for
+output response
+delay is
+rise times
+for interconnect
+main path
+input delay
+delay t
+the delay
+from spice
+under ramp
+rlc interconnect
+group delay
+delay at
+delay model
+of spice
+response is
+the analytical
+under step
+t rd1
+spice delays
+for ramp
+of interconnect
+out t
+the infinite
+off path
+u th
+transmission line
+at threshold
+response for
+delay calculation
+the ramp
+time domain
+the rise
+node i
+the finite
+500 ps
+distributed rlc
+pole delay
+arbitrary interconnect
+domain response
+input rise
+an rlc
+ad for
+t rd4
+path subtree
+ramp is
+various threshold
+input ramp
+response model
+input signal
+v out
+voltage is
+transform domain
+delays in
+the transform
+for delay
+voltage of
+delay as
+using infinite
+voltage corresponding
+interconnects under
+to spice
+transmission lines
+interconnect trees
+moments of
+factor f
+second moments
+f t
+delay estimate
+delay estimation
+lines under
+the response
+performance driven
+response of
+b 1
+a ramp
+v th
+at 50
+response in
+the interconnect
+moment of
+delay using
+ps rise
+pole methodology
+vlsi interconnects
+delay definition
+resistive source
+response under
+lawrence pileggi
+rlc line
+time voltage
+yields th
+pole analysis
+discuss delay
+90 threshold
+pole response
+expressing t
+u out
+phase characteristic
+delay formula
+rising ramp
+interconnect configurations
+design p
+are within
+lines with
+calculation using
+computed delay
+gammat r
+delay computed
+threshold voltages
+100 ps
+ad in
+delay can
+using finite
+in equation
+analytical models
+voltage v
+new analytical
+2 threshold
+for rc
+the input
+the factor
+exponential term
+estimates using
+transient response
+r gammat
+the spice
+model 5
+response can
+and capacitive
+input model
+models for
+estimates are
+of transmission
+the output
+interconnect delay
+at 90
+response as
+capacitive load
+model t
+accurate analytical
+delay and
+equation 5
+the 1998
+computed using
+voltage and
+the poles
+within 4
+source sink
+recursive equation
+and second
+model 2
+63 2
+delays and
+our analytical
+of delay
+an analytical
+physical design
+be obtained
+coefficient of
+rlc interconnects
+69b 1
+interconnect line
+interconnection lines
+voltage reduces
+3b 1
+resistance can
+admittance y
+impedance z
+with ramp
+awespice a
+the transfer function
+finite ramp response
+infinite ramp response
+the threshold voltage
+the finite ramp
+the threshold delay
+the infinite ramp
+of the transfer
+th t r
+spice computed delays
+the output response
+f t ad
+threshold delay for
+50 threshold voltage
+the main path
+the analytical ramp
+the first moment
+delay models for
+the elmore delay
+ramp response is
+the rise time
+under ramp input
+analytical ramp delay
+analytical ramp input
+ramp input delay
+in the transform
+from spice computed
+for delay calculation
+at 50 threshold
+the single pole
+under step input
+threshold voltage is
+threshold voltage of
+analytical delay models
+for interconnect lines
+delay t ad
+for ramp input
+for the infinite
+delay estimates are
+the transform domain
+first moment of
+threshold delay models
+pole delay estimates
+using infinite ramp
+ramp response in
+rise time t
+voltage of interest
+condition for delay
+response in equation
+the input ramp
+estimates are within
+t ad for
+threshold voltage corresponding
+interconnects under ramp
+analytical delay t
+rise time of
+delay calculation using
+analytical delay model
+of spice delays
+time domain response
+the two pole
+ramp response model
+rlc interconnect lines
+infinite ramp input
+off path subtree
+v t r
+and second moments
+the input signal
+moment of the
+coefficient of s
+voltage corresponding to
+of transmission lines
+delay estimates for
+the factor f
+to spice computed
+the time domain
+delay for the
+moments of the
+elmore delay is
+computed using the
+the condition for
+time t r
+is a ramp
+calculation using infinite
+are within 4
+using the infinite
+the ramp input
+single pole response
+4 of spice
+interconnect lines under
+using finite ramp
+transfer function can
+in arbitrary interconnect
+finite ramp input
+input rise times
+interconnect lines with
+distributed rlc line
+threshold delay using
+the phase characteristic
+rise times and
+delay at 50
+arbitrary interconnect trees
+elmore delay estimates
+our analytical models
+threshold delay can
+at 90 threshold
+t ad in
+by expressing t
+a finite ramp
+than t r
+range of interconnect
+elmore delay as
+close to spice
+accurate analytical delay
+3 of spice
+delay estimates using
+for 50 threshold
+the analytical delay
+output response under
+new analytical delay
+ramp input model
+model t ad
+rising ramp input
+discuss delay models
+delays in arbitrary
+can be obtained
+first and second
+the delay for
+spice computed delay
+and capacitive load
+the off path
+since the threshold
+delay is not
+threshold voltage v
+threshold voltage and
+the delay at
+within 2 3
+are within 2
+within 4 of
+the exponential term
+second moments of
+response can be
+where the factor
+using the finite
+the transient response
+of the interconnect
+transient response of
+estimate the delay
+in the exponential
+transfer function the
+of the 1998
+is equal to
+delay can be
+is greater than
+at node i
+is computed using
+california united states
+finite ramp is
+t r gammat
+configurations studied both
+group delay definition
+for improved interconnection
+to interconnect delay
+v out t
+first moment or
+routing topologies however
+cases elmore delay
+threshold voltage we
+iterations of simple
+identical results and
+model of transmission
+test cases elmore
+delay is calculated
+transform domain is
+output responsev out
+capacitive load c
+50 threshold delay
+under infinite ramp
+cannot accurately estimate
+7 reports results
+the pole s
+performance driven synthesis
+t rd1 in
+delay is where
+domain response for
+0 69b 1
+when the rise
+find that elmore
+given threshold voltage
+transfer function coefficients
+of interconnect problems
+response of lossy
+to compute ramp
+with finite rise
+input delays using
+single pole delay
+contrast our single
+be either greater
+synthesis of transmission
+voltage is 2

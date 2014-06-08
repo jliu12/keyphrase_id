@@ -1,0 +1,600 @@
+ray
+rendering
+volume
+opacity
+casting
+projection
+cell
+cells
+boundary
+template
+image
+traversal
+tiles
+scanline
+shear
+pixels
+warp
+lod
+nonadaptive
+interactive
+macrocell
+encoding
+256
+mri
+voxels
+scanlines
+tile
+shrunken
+zf
+buffers
+volumetric
+pixel
+contiguous
+threshold
+rays
+projected
+classification
+accelerated
+object
+zn
+processors
+hz
+plane
+brain
+proj
+serial
+partitioning
+visualization
+balancing
+perspective
+adaptive
+sgi
+farthest
+viable
+challenge
+ct
+rendered
+salt
+templates
+shared
+volumes
+colon
+f15
+aircraft
+acceleration
+preprocessing
+optimizations
+transfer
+leaping
+pers
+voxel
+spatial
+partitionings
+factorization
+utah
+lake
+classified
+sampling
+df
+processor
+alarm
+buffer
+parallelized
+adjacent
+resolution
+render
+shading
+grid
+para
+intersection
+renderings
+subvolume
+caubet
+meat
+jessel
+multiresolution
+resampling
+distances
+m1
+load
+speedup
+resultant
+arie
+kaufman
+neighboring
+estimation
+synchronization
+grller
+thinner
+mora
+wegenkittl
+voxelized
+nieh
+lobster
+city
+skipping
+projecting
+rates
+center
+dn
+navigation
+thresholds
+huamin
+iron
+eight
+sec
+locality
+evidently
+01
+slice
+scan
+termination
+mastering
+lacroute
+proc
+wan
+human
+bounding
+theta
+distance
+color
+tracing
+redistribution
+04
+near
+shell
+mimd
+head
+compositing
+jection
+fastest
+graphics
+ume
+encodings
+isosurface
+multiprocessors
+124
+trilinear
+eduard
+writable
+levoy
+located
+display
+viewing
+stealing
+transparent
+speedups
+qu
+encode
+compression
+interpolation
+overestimation
+02
+225
+rainer
+cast
+interleaved
+protein
+accuracy
+screen
+calculated
+overestimate
+procedures
+images
+coherence
+aligned
+ming
+axes
+replicated
+reached
+vertices
+boxes
+surrounded
+3d
+ren
+speeds
+encoded
+axis
+overhead
+cessors
+boundary cells
+boundary cell
+ray traversal
+ray casting
+run length
+opacity threshold
+length encoding
+volume rendering
+cell projection
+interactive classification
+projection time
+shear warp
+object boundary
+projection buffers
+256 theta
+parallel projection
+volume data
+data set
+encoding data
+the volume
+image plane
+projection procedure
+rendering times
+the image
+of boundary
+lod volume
+casting algorithm
+image sampling
+theta 256
+transfer function
+rendering algorithm
+perspective projection
+the shear
+traversal time
+traversal procedure
+adaptive image
+rendering rates
+boundary estimation
+low lod
+our algorithm
+warp factorization
+data sets
+near and
+the ray
+early ray
+contiguous partitioning
+adaptive rendering
+brain data
+projection template
+resolution volume
+image tiles
+image based
+and far
+load balancing
+original volume
+classified volume
+ray termination
+the mri
+the template
+data structure
+and zf
+opacity transfer
+template pixels
+higher opacity
+accuracy template
+adjacent boundary
+projection times
+the rendering
+serial algorithm
+based partitioning
+distance values
+cell c
+the object
+volumetric data
+the boundary
+our parallel
+partitioning scheme
+power challenge
+image block
+zn and
+square image
+a 256
+on visualization
+the cell
+the projected
+projection and
+cells in
+0 04
+each processor
+non boundary
+mri brain
+template m
+buffers zn
+modified opacity
+fundamental unit
+initial opacity
+generic projection
+fixed classification
+template pixel
+parallel volume
+human colon
+casting pixels
+projection 0
+over empty
+shared pixels
+projection templates
+subsequent ray
+l ray
+opacity thresholds
+shrunken volume
+projection information
+multiresolution volumes
+template m1
+volume ray
+head data
+nonadaptive rendering
+partial projection
+each viable
+traversal procedures
+warp method
+the serial
+the projection
+image quality
+0 01
+sgi power
+the shrunken
+traversal times
+volume size
+interactive navigation
+rendering on
+ray h
+list l
+good load
+of accuracy
+shared memory
+in sec
+sec for
+encoding of
+both methods
+same run
+tiles with
+task partitioning
+for run
+center point
+spatial locality
+of contiguous
+04 0
+partitioning schemes
+the opacity
+for volume
+2000 salt
+pixels are
+cell based
+salt lake
+lake city
+city utah
+volume visualization
+all boundary
+grid cells
+viable pixels
+space leaping
+image tile
+based contiguous
+far distances
+intersection distance
+viable ray
+contiguous image
+124 mri
+original high
+replicated ray
+cell center
+volume during
+shared pixel
+accelerated ray
+shrunken object
+a macrocell
+256 3
+non ray
+far distance
+theta 124
+farthest intersection
+sub buffers
+traversal 0
+rendering complexity
+eight neighboring
+further speedup
+f15 aircraft
+ray ray
+cell detection
+serial rendering
+top tiles
+scanline j
+interactive volume
+both projection
+navigation within
+rendering rate
+volume for
+image pixel
+table t
+and ray
+run length encoding
+boundary cell projection
+of boundary cells
+encoding data structure
+the shear warp
+length encoding data
+the image plane
+ray traversal time
+adaptive image sampling
+theta 256 theta
+ray traversal procedure
+ray casting algorithm
+in our algorithm
+length encoding of
+number of boundary
+256 theta 256
+the boundary cell
+object boundary estimation
+near and far
+shear warp factorization
+the object boundary
+the run length
+the boundary cells
+boundary cells in
+low lod volume
+brain data set
+the original volume
+a 256 theta
+image based partitioning
+early ray termination
+mri brain data
+cell projection time
+for run length
+of accuracy template
+in sec for
+volume rendering times
+higher opacity threshold
+zn and zf
+level of accuracy
+times in sec
+rendering times in
+sec for a
+the ray traversal
+of the cell
+conference on visualization
+the serial algorithm
+good load balancing
+a higher opacity
+volume rendering on
+shear warp method
+high resolution volume
+projection and ray
+the fundamental unit
+ray traversal times
+parallel volume rendering
+fundamental unit of
+buffers zn and
+adjacent boundary cells
+cell projection procedure
+subsequent ray traversal
+projection buffers zn
+center point of
+ray casting pixels
+rendering rates for
+head data set
+and ray traversal
+all boundary cells
+the low lod
+generic projection template
+volume ray casting
+ray traversal procedures
+the human colon
+for boundary cell
+the initial opacity
+sgi power challenge
+cell c i
+0 04 0
+of the template
+our algorithm the
+the same run
+the mri brain
+onto the image
+the center point
+0 07 0
+our parallel algorithm
+2000 salt lake
+lake city utah
+salt lake city
+unit of work
+city utah united
+the conference on
+of the boundary
+optimizations in the
+theta 124 mri
+our run length
+replicated ray casting
+based interactive navigation
+with parallel projection
+the modified opacity
+non boundary cells
+encoding of boundary
+interactive navigation within
+volume rendering algorithms
+projected area of
+for adaptive rendering
+rendering based interactive
+each viable ray
+image partitioning scheme
+interactive classification with
+the volume size
+serial rendering algorithm
+static image based
+opacity transfer function
+both projection and
+within the human
+boundary cell detection
+using the shear
+high data compression
+partial projection buffers
+based contiguous partitioning
+projection time ray
+256 theta 124
+ray ray traversal
+projection information of
+navigation within the
+and run length
+two adjacent boundary
+initial opacity threshold
+the cell center
+original high resolution
+the original high
+adaptive ray traversal
+volume data sets
+boundary cell based
+distance values of
+for volume ray
+square image tiles
+16 processor sgi
+with interactive classification
+time ray ray
+the projection time
+and far distances
+opacity threshold is
+256 theta 225
+07 0 05
+image based contiguous
+the shrunken object
+ct head data
+the opacity transfer
+cell projection and
+the intersection distance
+volume during the
+of the conference
+low level of
+data sets with
+the transfer function
+utah united states
+the ray casting
+on the challenge
+these two data
+run length encoded
+volume rendering algorithm
+volume data set
+during the boundary
+cell c 0
+run length encodings
+full advantage of
+data sets are
+can be quickly
+scan of a
+0 01 seconds
+the projected area
+fast volume rendering
+data set at
+shared memory mimd
+data set on
+of the volume
+cells in the
+when more processors
+c 0 0
+for a 256
+in the volume
+in the low
+our experimental results
+set of adjacent
+image plane to
+more processors are
+the first cell
+the low level
+cell can be
+same size as
+run is a
+both methods are
+a maximal set
+in the serial
+equal amount of
+on the image
+0 01 0
+maximal set of
+0 02 0

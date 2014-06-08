@@ -1,0 +1,600 @@
+doorway
+forks
+eating
+fork
+locality
+philosophers
+dining
+hungry
+id
+hexchg
+failure
+idi
+starvation
+forever
+committee
+ack
+interaction
+processes
+ready
+message
+failed
+release
+pending
+coordination
+thinking
+commit
+doorways
+hnewid
+neighbors
+receiving
+ids
+od
+hrequesti
+exchg
+interactions
+committed
+exclusion
+failures
+eventually
+request
+wakeup
+yes
+neighbor
+send
+exchange
+starves
+eat
+mutual
+conflict
+starve
+commitment
+ij
+idle
+noi
+hfork
+styer
+synchronization
+starving
+impossibility
+requested
+waiting
+consensus
+absence
+neighboring
+predicate
+unachievable
+fail
+progress
+fairness
+informs
+fi
+manager
+undetectable
+hyesi
+hcommiti
+hwakeupi
+hrequest
+hreleasei
+peterson
+committing
+commits
+safety
+transits
+participate
+chains
+false
+csp
+queue
+iff
+continuously
+ada
+jg
+requester
+composite
+fault
+wait
+participating
+exiting
+responds
+conflicting
+released
+broadcast
+collect
+participates
+sends
+lag
+served
+releasing
+neighborhood
+ensures
+lemma
+acknowledgement
+ki
+fails
+contradicts
+formation
+flagi
+falsei
+truei
+hperform
+missing
+initially
+sent
+returned
+remained
+history
+undetectably
+overtaking
+ensuring
+agree
+requesting
+disentangling
+pet
+touitou
+predetermined
+finishes
+weak
+exchanging
+faulty
+merritt
+shielded
+respond
+appendix
+stays
+transitions
+formally
+afek
+sistla
+taubenfeld
+tolerance
+flag
+messages
+supposedly
+attiya
+gadi
+distance
+captured
+collected
+response
+dagan
+1037
+semaphore
+executes
+favor
+contradiction
+1013
+3p
+yehuda
+retransmits
+hagit
+exchanged
+continued
+sending
+reset
+linial
+fj
+committees
+stop
+requests
+chain
+achieving
+resources
+responded
+reachable
+allocation
+eyal
+former
+predicates
+holding
+multiprocess
+repeat
+ordering
+colorings
+infinitely
+tolerant
+adjoining
+localizing
+conflicts
+retransmit
+informally
+failure locality
+process i
+process j
+locality of
+dining philosophers
+ack i
+committee coordination
+receiving message
+the dining
+coordination problem
+high forks
+bounded doorway
+pending i
+on receiving
+the fork
+philosophers problem
+the committee
+non failed
+from j
+a failure
+requested ij
+a process
+conflict graph
+the failure
+failed process
+an interaction
+the doorway
+yes message
+to j
+j requested
+id exchange
+low forks
+eating and
+ready forever
+global starvation
+idi from
+the processes
+i do
+smaller id
+id i
+w i
+mutual exclusion
+remains ready
+send hexchg
+procedure request
+message hexchg
+hnewid idi
+any process
+procedure release
+a yes
+not fail
+an exchg
+release high
+this doorway
+local starvation
+ij true
+release id
+i starves
+low neighbor
+fork is
+of process
+j becomes
+failed processes
+bound j
+j fi
+processes that
+failed i
+case process
+n i
+message to
+ready and
+the conflict
+wakeup neighbors
+request high
+becomes hungry
+idi to
+the forks
+request commitment
+committed interaction
+id ij
+send hnewid
+hexchg yes
+forks for
+do send
+a distance
+of processes
+interaction is
+synchronization problems
+i send
+failure of
+at process
+no failures
+that process
+graph w
+optimal failure
+true fi
+to eat
+forks i
+is thinking
+weak interaction
+2 failed
+becomes fixed
+waiting chains
+in w
+neighboring processes
+higher id
+neighbor j
+starvation the
+interaction fairness
+to false
+absence of
+i remains
+to process
+processes in
+the id
+the absence
+distance of
+future state
+failures within
+philosophers algorithm
+each process
+an algorithm
+of distributed
+of global
+will eventually
+interaction are
+else send
+j remains
+fi on
+a fork
+then eventually
+distributed synchronization
+each j
+exclusion problem
+hexchg noi
+forks and
+of doorways
+common process
+exchg message
+remains hungry
+binary version
+forks this
+message hrequesti
+doorway is
+starves then
+predicate failed
+styer and
+a doorway
+eventually process
+i pending
+continuously ready
+doorway and
+high fork
+fork to
+hrequesti from
+forks in
+process with
+optimal algorithm
+its neighbors
+distributed consensus
+bound i
+collected all
+fi od
+any low
+2 pending
+formally 2
+forever then
+i release
+fork between
+new id
+ready i
+set pending
+fixed to
+from process
+each interaction
+then send
+a bounded
+process may
+other processes
+id in
+wakeup message
+a request
+request message
+interaction i
+iff process
+j process
+commitment of
+release message
+the bounded
+the interactions
+smallest number
+i and
+all low
+and peterson
+problem consists
+commit the
+fi jg
+a wakeup
+neighbor k
+processes within
+failure locality of
+a failure locality
+on receiving message
+the dining philosophers
+committee coordination problem
+the failure locality
+the committee coordination
+dining philosophers problem
+process i is
+absence of global
+non failed process
+a bounded doorway
+idi from j
+of global starvation
+j requested ij
+n i do
+do not fail
+in w i
+within a distance
+a yes message
+2 n i
+failed process i
+to j fi
+receiving message hexchg
+the conflict graph
+locality of an
+distance of m
+i remains ready
+process i starves
+the bounded doorway
+to j requested
+a non failed
+requested ij true
+i do send
+remains ready forever
+a distance of
+an interaction is
+for any process
+of an algorithm
+yes message to
+to the committee
+to process i
+locality of the
+process i and
+with a failure
+each j 2
+the failure of
+send hnewid idi
+request high forks
+locality of one
+graph w i
+the fork is
+non failed processes
+i on receiving
+procedure release id
+id i i
+optimal failure locality
+fi on receiving
+locality of 0
+do send hnewid
+a smaller id
+no failures within
+failure of process
+i send hexchg
+ij true fi
+smallest number m
+hnewid idi to
+j in w
+of process i
+2 2 failed
+fixed to false
+algorithm for process
+case process j
+forks for each
+a process may
+all the processes
+i to j
+to w i
+process j in
+message to process
+weak interaction fairness
+a higher id
+that process i
+for process i
+the absence of
+of a process
+to the dining
+number m such
+any process j
+to process j
+failures within a
+dining philosophers algorithm
+are no failures
+for each j
+a conflict graph
+in the conflict
+set of processes
+the process with
+failure of a
+mutual exclusion problem
+of m in
+if a non
+w i for
+a request message
+process j process
+the fork between
+the id exchange
+process j remains
+former case process
+a common process
+the new id
+formally 2 2
+the binary version
+release high forks
+a future state
+binary version of
+ready forever then
+the fork to
+any low neighbor
+hrequesti from j
+2 pending i
+i is thinking
+styer and peterson
+true fi od
+locality of 1
+from j if
+the committed interaction
+process may fail
+process j sends
+low forks i
+j becomes fixed
+exists a future
+all the forks
+ack i send
+an id exchange
+an optimal failure
+all low forks
+ack i is
+j process i
+of local starvation
+then the fork
+process j will
+processes in n
+i starves then
+locality of 2
+j 2 pending
+receiving message hrequesti
+bounded doorway is
+at process i
+achieves a failure
+predicate failed i
+distributed synchronization problems
+a high fork
+j remains hungry
+bound j is
+future state at
+from process j
+ensures the absence
+if process i
+an exchg message
+message hrequesti from
+of an interaction
+i i to
+of a bounded
+of the processes
+an optimal algorithm
+i do not
+j 2 n
+any process for
+has a failure
+a wakeup message
+the smaller id
+set of interactions
+absence of local
+each k 2
+the mutual exclusion
+processes that are
+for the dining
+that a failure
+of three states
+the commitment of
+with a yes
+m in the
+process with the
+k 2 n
+problem consists of
+and k are
+the smallest number
+processes within a
+to each process
+process for which
+the appendix lemma
+state at which
+mutual exclusion and
+j and k
+in n i
+maximal independent set
+j for each
+of distributed consensus
+an algorithm is

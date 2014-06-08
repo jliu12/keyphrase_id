@@ -1,0 +1,600 @@
+xmods
+xmod
+fpga
+rm
+g900
+loading
+board
+preloaded
+fpgas
+reconfiguration
+satisfiability
+thread
+host
+demand
+reconfigurable
+preloading
+mpeg
+flow
+interrupt
+loaded
+manager
+files
+resources
+speculative
+speculate
+fig
+sec
+encoder
+xilinx
+resource
+concurrently
+speculatively
+configuration
+granularity
+service
+node
+scheduler
+ppga
+gocolib
+xlinklib
+encoders
+file
+bus
+allocates
+xl
+hardware
+pre
+speculated
+roblem
+pci
+requests
+loader
+xlink
+request
+threshold
+till
+submodules
+speedup
+developer
+acs
+waits
+mapped
+ohio
+execution
+scheduling
+copies
+release
+xbus
+danne
+cpga
+handler
+chips
+configurable
+bit
+eight
+queue
+speculation
+sequentially
+truth
+nodes
+platzner
+msec
+serially
+requesting
+allocate
+socket
+executing
+accelerating
+took
+formula
+modular
+queued
+loads
+rage
+informs
+twelve
+max
+hide
+threads
+serviced
+interrupts
+concurrent
+completion
+wires
+relieves
+initialization
+timings
+timing
+meant
+conjunctive
+library
+designs
+scenario
+configured
+weights
+assigned
+worrying
+executed
+clock
+configurations
+uler
+programmable
+wait
+dynamically
+pins
+matlab
+os
+graph
+inter
+profiled
+developers
+sram
+kit
+load
+ffl
+netlist
+browsers
+sched
+clauses
+weight
+overheads
+diagram
+graphs
+successor
+frames
+edge
+exhaustively
+paging
+development
+dpga
+futuristic
+4its
+jasiunas
+16mhz
+boghdadi
+xc4013e
+45435
+morrph
+dist1
+walder
+xc4020e
+coproces
+drozd
+trig
+tediously
+unpiloted
+lnk
+reinitiation
+hbus
+xc5210
+gigaops
+pernambuco
+steiger
+9times
+klaus
+accelerate
+client
+sent
+execute
+marco
+rives
+xuejun
+giga
+ority
+66mhz
+woken
+shaheen
+donated
+pathnames
+gered
+empted
+kearney
+dayton
+operating
+sequencing
+applica
+requested
+loops
+appli
+aside
+the rm
+flow graph
+fpga resources
+g900 board
+service thread
+the fpga
+free xmods
+graph node
+an xmod
+the xmod
+the g900
+application service
+application flow
+host program
+the application
+resource manager
+the xmods
+fpga design
+the host
+of fpga
+fpga configuration
+loading of
+xmod is
+pre loading
+configuration files
+max speculate
+demand loading
+bit file
+satisfiability problem
+a flow
+dynamic reconfiguration
+bit files
+of xmods
+the satisfiability
+application execution
+high granularity
+graph nodes
+in fig
+rm is
+xmods and
+xmods are
+demand queue
+rm it
+granularity satisfiability
+the flow
+an fpga
+rm and
+running concurrently
+the board
+sec to
+an application
+x bus
+board initialization
+speculative loading
+rm to
+the scheduler
+for demand
+flow graphs
+the interrupt
+the fpgas
+xmods was
+fpga chips
+weight probability
+to xmods
+rm which
+be preloaded
+inter xmod
+xmod the
+free xmod
+application were
+fpga on
+requesting application
+eight xmods
+concurrent applications
+node 0
+the demand
+a dynamically
+loading the
+fpga configurations
+pre loaded
+interrupt handler
+reconfiguration schemes
+application ffl
+dynamically reconfigurable
+execution time
+it took
+for loading
+reconfigurable system
+to fpgas
+pci bus
+satisfiability problems
+node 3
+rm the
+the loader
+fpga designs
+four copies
+truth assignment
+reconfigurable computing
+files to
+board and
+loading and
+mpeg 2
+after node
+proposed system
+configuration file
+xmods do
+more xmods
+on g900
+de allocates
+xlink os
+xmod number
+using rm
+twelve copies
+allocates fpga
+static reconfiguration
+four high
+xmod numbers
+loading requests
+speculated nodes
+gets preloaded
+preloaded then
+speculatively loaded
+xmods have
+roblem with
+manager rm
+fpga computation
+the ppga
+executing node
+rm when
+load fpga
+granularity nodes
+xmods for
+chips on
+xmods is
+configuration time
+loader thread
+87 sec
+reconfiguration system
+mapped variables
+the execution
+be loaded
+edge weights
+execution of
+copies of
+library functions
+an interrupt
+node 1
+memory mapped
+file is
+partial reconfiguration
+demand requests
+demand request
+waits till
+and preloading
+2 encoder
+fpga board
+of speculated
+scheduling parameters
+loops back
+one fpga
+fpga function
+the loading
+the configuration
+run time
+the resource
+been assigned
+applications are
+mpeg encoder
+initialization time
+mapped to
+resources at
+loaded on
+execution without
+support concurrent
+concurrently a
+being executed
+execution times
+nodes may
+overall execution
+individual applications
+result data
+till the
+of graph
+of fpgas
+board the
+client application
+was held
+constant at
+node 2
+without using
+application developer
+the mpeg
+on demand
+held constant
+reconfiguration of
+application development
+four nodes
+was kept
+graph is
+application developers
+application service thread
+the host program
+the g900 board
+using the rm
+a flow graph
+the flow graph
+to the rm
+the application service
+fpga configuration files
+application flow graph
+the satisfiability problem
+the fpga design
+of the rm
+on the g900
+the fpga resources
+the rm is
+the rm and
+of the application
+shown in fig
+the rm to
+sec to complete
+for demand loading
+pre loading of
+high granularity satisfiability
+an xmod is
+the rm it
+flow graph is
+the application execution
+the resource manager
+a dynamically reconfigurable
+of free xmods
+flow graph node
+application flow graphs
+the application were
+the rm the
+the demand queue
+rm it took
+free xmods was
+the x bus
+dynamically reconfigurable system
+the pre loading
+through the rm
+number of xmods
+of fpga resources
+an application flow
+copies of the
+configuration files to
+of graph nodes
+without using the
+when the application
+to the application
+four copies of
+the proposed system
+in a flow
+granularity satisfiability problems
+the loader thread
+running concurrently a
+resource manager rm
+allocates fpga resources
+sequential execution without
+the application flow
+four high granularity
+executing node in
+the rm which
+the xmod number
+waits till the
+a graph node
+fpga chips on
+fpga resources the
+the service thread
+fpga resources are
+memory mapped variables
+and max speculate
+edge weight probability
+without the rm
+host program to
+loading of bit
+the rm when
+applications running concurrently
+of speculated nodes
+a free xmod
+of fpga configuration
+demand loading requests
+board initialization time
+on the xmod
+the interrupt handler
+resources at run
+mapped to xmods
+of bit files
+granularity of graph
+the requesting application
+twelve copies of
+fpga configuration time
+g900 board and
+number of speculated
+dynamic reconfiguration system
+loading of fpga
+currently executing node
+each graph node
+requesting application service
+flow graph and
+mpeg 2 encoder
+flow graph which
+was held constant
+flow graph shown
+mapped to fpgas
+the configuration file
+support concurrent applications
+loops back to
+the edge weights
+the execution of
+overall execution time
+the loading of
+of library functions
+in the flow
+in the host
+node 2 and
+in the demand
+then the application
+set of library
+of the assigned
+flow graph the
+in conjunctive normal
+flow graph for
+virtual memory system
+number of free
+that can support
+the same application
+the overheads of
+system that can
+edge weights are
+on the host
+the overall execution
+has been assigned
+graph shown in
+obtained as a
+going through the
+eight xmods on
+rm that relieves
+preloaded then the
+allocation of xmods
+be preloaded with
+rm the rm
+ffl compared to
+reconfigurable system that
+times for four
+and de allocates
+free xmods is
+threshold was held
+than without any
+constant at zero
+for inter xmod
+xmods are available
+speculate are shown
+for four high
+four satisfiability problems
+graph nodes may
+of fpga configurations
+for four satisfiability
+system allocates fpga
+the hardware during
+and hide the
+of computation or
+is loaded on
+speculative preloading of
+concurrently through the
+could be preloaded
+granularity nodes the
+rm when the
+with resource manager
+an fpga on
+other dynamic reconfiguration
+time was not
+new nodes may
+its flow graph
+weight probability for
+eight and twelve
+bit file that
+to static reconfiguration
+execution without rm
+that the fpga
+hardware is busy
+speculative pre loading
+to fpga interface
+than threshold ffl
+constant at 0
+free xmod is
+formula is satisfied
+a speculative strategy
+preloaded after node
+max speculate are
+since loading of
+xmod that has
+be speculatively loaded
+system can accommodate
+bit file is
+to wait till
+graph node on
+the mpeg encoding
+one four eight

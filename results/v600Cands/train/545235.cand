@@ -1,0 +1,600 @@
+ulmt
+prefetching
+repl
+conven4
+prefetch
+prefetches
+prefetcher
+miss
+misses
+l2
+correlation
+nopref
+processor
+cache
+dram
+successors
+prefetched
+numlevels
+mcf
+chain
+customization
+mru
+chip
+verbose
+occupancy
+nonprefmisses
+replmc
+bridge
+memory
+seq1
+replicated
+controller
+mst
+coverage
+l1
+equake
+numrows
+numsucc
+irregular
+thread
+north
+requests
+queue
+successor
+customizability
+cycles
+beyondl2
+cg
+stream
+engines
+addresses
+mem
+base
+buffers
+hardware
+seq4
+delayedhits
+stride
+ahead
+push
+response
+speedup
+latency
+prefetchers
+bus
+engine
+ghz
+nvidia
+queues
+row
+rt
+sequential
+specint2000
+dasp
+chipset
+deposited
+custom
+parser
+stall
+hits
+linked
+learning
+helper
+solihin
+caches
+pull
+associative
+gb
+ft
+accesses
+streams
+patterns
+sparse
+observes
+mode
+prvulovic
+kedem
+customized
+controllers
+utilization
+delivers
+schemes
+ld
+speedups
+impulse
+hit
+predict
+lebeck
+subordinate
+conventional
+prediction
+secondlast
+nforce
+busy1
+ssmt
+ulmts
+uptol2
+microthreading
+numseq
+numpref
+chips
+core
+timely
+immediate
+predictability
+sec
+nine
+sherwood
+mbyte
+architecture
+forwarding
+adrin
+exploiting
+busy
+reply
+sram
+filter
+sigarch
+module
+levels
+designs
+updates
+taco
+passive
+mostly
+mshrs
+cristal
+proc
+pending
+eliminates
+inexpensive
+entries
+request
+conflicts
+mbytes
+kilo
+milos
+iram
+useless
+eliminate
+mps
+issued
+gap
+tag
+lixin
+i860
+intel
+page
+inexpensively
+multiprocessors
+bar
+overlapped
+contributor
+organization
+side
+mhz
+dropped
+malo
+fus
+footprints
+assoc
+eia
+placing
+jos
+address
+zhen
+grunwald
+era
+parker
+news
+suc
+torrellas
+monitors
+differently
+cmp
+upcoming
+bars
+microarchitecture
+proposals
+resides
+the ulmt
+correlation prefetching
+main processor
+correlation table
+memory processor
+base chain
+side prefetching
+conven4 repl
+processor side
+memory side
+chain repl
+repl conven4
+pair based
+north bridge
+l2 misses
+l2 cache
+the prefetching
+the memory
+bridge chip
+to prefetch
+prefetching algorithm
+the l2
+prefetch requests
+verbose mode
+occupancy time
+the prefetcher
+memory controller
+in queue
+conven4 base
+the table
+a miss
+the dram
+response time
+main memory
+of successors
+the processor
+linked data
+side prefetcher
+prefetching step
+nopref conven4
+a ulmt
+the correlation
+far ahead
+queue 3
+irregular applications
+and prefetching
+ulmt is
+ulmt to
+sparse tree
+dram chip
+average speedup
+prefetching algorithms
+the north
+and prefetch
+tree average
+repl nopref
+based correlation
+cycles row
+a dram
+non verbose
+and repl
+queue 2
+the addresses
+prefetching is
+miss patterns
+prefetcher in
+table organization
+prefetching for
+table and
+the mru
+current miss
+the customization
+miss address
+our scheme
+successor misses
+prefetch far
+gap mcf
+ulmt we
+equake ft
+gb sec
+memory thread
+parser sparse
+ft gap
+repl the
+true mru
+6 ghz
+ulmt can
+mst parser
+based schemes
+prefetching can
+miss a
+a prefetch
+in main
+execution time
+the l1
+misses that
+stream buffers
+prefetching the
+the prefetched
+levels of
+the miss
+chip or
+user level
+memory bus
+of l2
+prefetches that
+addresses to
+the misses
+misses are
+for ulmt
+prefetched line
+cg equake
+and prefetches
+sequential prefetcher
+filter module
+mru successors
+ulmt implementation
+mcf mst
+replicated is
+mostly irregular
+miss sequence
+conven4 replmc
+original misses
+nine mostly
+ulmt for
+ulmt algorithms
+miss addresses
+prefetches the
+in memory
+the main
+customization of
+of successor
+immediate successors
+memory system
+for linked
+based prefetching
+the prefetches
+prefetching using
+one miss
+useless prefetches
+and occupancy
+not prefetch
+12 18
+the figure
+the prefetch
+chain and
+table is
+high response
+sequential prefetching
+ld st
+dram chips
+learning step
+level memory
+data structures
+processor cycles
+a c
+several levels
+processor in
+the cache
+customization in
+data forwarding
+queues 1
+low coverage
+1 46
+l1 cache
+immediate successor
+cache misses
+1 6
+prefetches are
+prefetch ing
+misses and
+on average
+6 12
+c d
+deposited in
+queue 1
+b c
+prefetching and
+two limitations
+bus utilization
+miss sequences
+push prefetching
+between l2
+repl custom
+that repl
+of ulmt
+repl in
+ghz cycles
+ulmt running
+in verbose
+row hit
+chip 22
+our ulmt
+its l2
+thread ulmt
+ahead prefetching
+time beyondl2
+side sequential
+different ulmt
+row miss
+the memory processor
+the main processor
+base chain repl
+the correlation table
+memory side prefetching
+repl conven4 repl
+chain repl conven4
+the north bridge
+levels of successors
+north bridge chip
+conven4 base chain
+in the north
+the l2 cache
+processor side prefetching
+nopref conven4 base
+linked data structures
+the ulmt is
+processor side prefetcher
+pair based schemes
+the processor side
+pair based correlation
+in queue 3
+a dram chip
+repl nopref conven4
+the prefetching step
+in a dram
+sparse tree average
+of the ulmt
+conven4 repl nopref
+correlation table and
+by the ulmt
+the memory controller
+the prefetching algorithm
+the average speedup
+non verbose mode
+chip or in
+1 6 ghz
+chain and repl
+parser sparse tree
+mst parser sparse
+the ulmt can
+user level memory
+ft gap mcf
+level memory thread
+equake ft gap
+a user level
+a c d
+a d c
+c a d
+for linked data
+of the prefetching
+of successor misses
+gap mcf mst
+high response time
+main processor the
+in the dram
+cg equake ft
+the ulmt to
+nine mostly irregular
+true mru successors
+l2 cache of
+in non verbose
+base chain and
+the original misses
+prefetch far ahead
+into the l2
+mcf mst parser
+the true mru
+based correlation prefetching
+the prefetch requests
+conven4 repl conven4
+a b c
+customization of the
+the customization of
+in queue 1
+main memory bus
+of l2 misses
+c d a
+several levels of
+the response time
+b c a
+6 12 18
+1 6 12
+the table is
+cache of the
+when a miss
+number of l2
+from the main
+in main memory
+the figure shows
+the main memory
+in the memory
+l2 cache misses
+to the main
+between the processor
+speedup of 1
+processor is in
+general purpose processor
+and occupancy time
+c current miss
+6 ghz cycles
+furthermore our scheme
+to prefetch far
+correlation prefetching can
+average speedup to
+delivers an average
+3 2 gb
+the addresses to
+scheme works well
+sequential prefetcher in
+miss to eliminate
+speedup to 1
+response and occupancy
+in the ulmt
+prefetch requests are
+d c current
+correlation prefetching algorithms
+one miss to
+takes the mru
+does not prefetch
+have low coverage
+of correlation prefetching
+a prefetch d
+prefetch ing we
+of pair based
+far ahead prefetching
+side prefetching only
+average speedup increases
+sparse and tree
+the miss sequences
+a software data
+side sequential prefetcher
+user level thread
+well in combination
+9 11 22
+the filter module
+miss a prefetch
+far ahead and
+gb sec peak
+2 gb sec
+between l2 misses
+prefetcher in which
+memory processor in
+an application basis
+memory controller chip
+the occupancy time
+cycles row hit
+miss a c
+on miss a
+repl conven4 replmc
+side prefetching can
+mru successors at
+prefetches that eliminate
+addresses to prefetch
+prefetching algorithm we
+prefetch d b
+current miss a
+can effectively prefetch
+conventional table organization
+12 18 26
+in verbose mode
+speedup increases to
+bridge chip 22
+software data structure
+successors at each
+beyond the memory
+cycle hit rt
+conven4 repl custom
+conventional processor side
+128 2 5
+processor side sequential
+very far ahead
+11 22 28
+memory thread ulmt
+cycles row miss
+mostly irregular applications
+of 1 32
+to 1 53
+execution time beyondl2
+its l2 cache
+and correlation prefetching
+levels of successor
+alexander and kedem
+ulmt running on
+to 1 46
+the last miss
+exploiting the customization
+controller chip or
+for correlation prefetching
+requests from the
+running on a
+or in a
+of the correlation
+by exploiting the
+to the processor
+d a c
+in the table
+in queue 2
+the prefetched lines
+purpose processor in

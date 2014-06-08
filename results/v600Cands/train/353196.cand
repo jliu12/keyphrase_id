@@ -1,0 +1,600 @@
+bridge
+object
+loader
+remotespace
+java
+protected
+iosstring
+spaces
+objects
+security
+s2
+protection
+s1
+checkaccess
+iosobject
+public
+s0
+bridges
+password
+guard
+guarded
+newinstance
+protectedobjspace
+bridgeinternal
+client
+callerspace
+bridgefactory
+possessor
+revoke
+scopedmemory
+interposed
+caller
+rights
+domains
+spaceobject
+access
+reference
+api
+server
+javaseal
+passwordid
+child1
+currentbi
+signers
+string
+article
+aliasing
+kernel
+editor
+s3
+invoke
+myloader
+interposition
+jflow
+filenotfoundexception
+rootspace
+getobject
+getbridgeforreturn
+child2
+policy
+s4
+serialization
+applet
+callee
+mediated
+isolation
+init
+void
+file
+possesses
+obj
+lang
+loaded
+applets
+confined
+fileupdater
+getbridgeforarg
+owner
+creates
+classes
+leaked
+child
+granted
+mistrusting
+referenced
+bc
+array
+accessible
+bridged
+soot
+modifiers
+visibility
+copy
+copied
+references
+returned
+guardedspace
+argbi
+protectedobj
+fileupdaterbridge
+getbridge
+internetos
+guardedobject
+concatfiles
+myspace
+isolate
+owned
+o2
+capability
+arg
+o3
+enclosing
+private
+sharing
+static
+packager
+czajkowski
+getclass
+seals
+leaks
+calls
+creator
+remote
+parent
+created
+thread
+exchanged
+root
+aliases
+ownership
+exceptions
+containment
+host
+loaders
+grzegorz
+accesses
+bytecode
+throw
+islands
+confinement
+revoked
+signer
+throws
+controlling
+malicious
+children
+programs
+gui
+revocation
+o4
+grant
+arrays
+possess
+classcastexception
+hawblitzel
+targetspace
+returnedobj
+innocuous
+createrootspace
+sourcespace
+getspace
+createchildspace
+hydra
+interposes
+file1
+setparent
+dayns
+permitted
+bi
+fledged
+platform
+privilege
+micro
+leak
+passed
+protect
+startup
+controls
+instantiates
+authorization
+serialized
+jdk1
+securitymanager
+prohibition
+furnish
+service
+implements
+create
+directory
+storage
+virtual
+fields
+return
+eicken
+commercialization
+mediate
+instanceof
+fs0
+safe
+typing
+object space
+protected object
+space model
+the object
+a bridge
+guarded object
+an object
+the protected
+a space
+j kernel
+the bridge
+a reference
+protection domains
+reference to
+security policy
+loader spaces
+access control
+the guarded
+the java
+objects of
+space implementation
+other spaces
+space s2
+bridge object
+child space
+bridge is
+object is
+the guard
+space s1
+guard object
+method call
+access right
+java 2
+another space
+between spaces
+interposed between
+system loader
+access matrix
+protection domain
+in java
+copy by
+object in
+a security
+by value
+the client
+an access
+bridge class
+space s0
+bridge classes
+different spaces
+the space
+spaces are
+the call
+the loader
+objects in
+object and
+the caller
+public class
+access to
+access rights
+loaded by
+object spaces
+invoke methods
+the possessor
+children spaces
+enclosing space
+public void
+of spaces
+system classes
+between domains
+the article
+reference is
+right to
+mediated by
+object s
+the callee
+to invoke
+right for
+a child
+space object
+class space
+bridge objects
+space callerspace
+a scopedmemory
+class iosstring
+space protectedobjspace
+server containment
+direct reference
+s1 o
+same space
+g obj
+of bridges
+of space
+space of
+object the
+between objects
+micro seconds
+user class
+method calls
+virtual machine
+the security
+java lang
+space to
+in another
+a capability
+the class
+the access
+class file
+space may
+spaces is
+that space
+the owner
+explicitly granted
+client space
+protectedobjspace space
+loader space
+o s0
+mistrusting programs
+between loader
+the javaseal
+confined types
+checkaccess method
+extends iosobject
+over java
+interposition of
+invoke objects
+array objects
+object reference
+s0 s1
+calls between
+a program
+for java
+accessible to
+object that
+spaces the
+s o
+to isolate
+object to
+spaces and
+another domain
+handle on
+s1 s2
+object can
+public final
+class loader
+the model
+user programs
+objects are
+creates an
+in space
+a right
+the server
+spaces in
+bridges are
+an article
+each space
+client program
+its enclosing
+and revoke
+final class
+object an
+space 1
+o r
+of class
+the visibility
+domains in
+space and
+the grant
+field accesses
+java virtual
+protection in
+the password
+the host
+references to
+public iosstring
+the newinstance
+space s4
+public remotespace
+program security
+to fields
+and remotespace
+class bridgeinternal
+the confinement
+a remotespace
+newinstance method
+static boolean
+and article
+space boundaries
+f s1
+new bridge
+guarded objects
+java protection
+class bridgefactory
+is leaked
+class bc
+string object
+second space
+final classes
+if checkaccess
+java loader
+the object space
+object space model
+the protected object
+the guarded object
+a reference to
+a child space
+object space implementation
+to the guarded
+an object in
+a security policy
+copy by value
+in the object
+in another space
+an access right
+objects of space
+a bridge object
+a method call
+space of the
+access right for
+of the bridge
+to the protected
+s o r
+the security policy
+reference to the
+the same space
+direct reference to
+through a bridge
+a guard object
+protected object and
+a direct reference
+the right to
+creates an object
+objects of different
+of the object
+space model is
+by a security
+reference to an
+to an object
+the space of
+space protectedobjspace space
+in different spaces
+method calls between
+object in another
+between loader spaces
+a space object
+of different spaces
+creates a child
+its enclosing space
+protectedobjspace space callerspace
+of space s2
+the class file
+interposed between the
+in j kernel
+right to invoke
+in another domain
+the guard object
+space model a
+same space as
+the system loader
+a bridge class
+the client program
+object in a
+between objects of
+in the java
+grant and revoke
+to other spaces
+the access matrix
+set of spaces
+to invoke methods
+invoke methods of
+the java virtual
+to the caller
+mediated by a
+of the guarded
+an object can
+space model and
+of a bridge
+of the guard
+a handle on
+for an object
+to the object
+a reference for
+reference to a
+the visibility of
+a reference is
+a guarded object
+by objects in
+of space s1
+by value of
+of protection domains
+invoke objects of
+a bridge instead
+bridge instead of
+space and remotespace
+an access matrix
+a user class
+in the loader
+s1 o s2
+right for s2
+over java 2
+the class iosstring
+bridge object for
+method call with
+the call argument
+space s2 the
+a space may
+with j kernel
+a new bridge
+a space s
+of space s0
+a bridge is
+protection domains in
+access to fields
+java 2 platform
+class loaded by
+from the gui
+all method calls
+to invoke objects
+is interposed between
+the newinstance method
+the article packager
+the grant and
+the second space
+the object spaces
+gain access to
+object for the
+call to the
+the new object
+access to the
+public void init
+the same protected
+public final class
+a space to
+the same bridge
+reference to it
+same protected object
+methods on objects
+different spaces are
+for a space
+an object reference
+the destination space
+the owner of
+java virtual machine
+of this example
+in the space
+object can only
+reference to this
+the referenced object
+right for a
+of access rights
+object contains a
+a space is
+on the protected
+are mediated by
+get a handle
+loaded by the
+an object to
+an object that
+of the protected
+is a bridge
+by the system
+domain this is
+the code of
+to the client
+spaces in the
+owned by the
+of the class
+a type error
+access control model
+has the right
+by an object
+be shared between
+in a space
+if the class
+an access control
+of the model
+the current implementation
+an object is
+the access control
+a program that
+for java programs
+model for an
+access control for
+a copy of
+s1 and s2
+with the object
+resides in the
+from one another
+operation is the
+the goal of
+of an application
+own class loader
+the checkaccess method
+java protection system
+grzegorz czajkowski laurent
+in a scopedmemory
+as a covert
+that the protected
+s4 and granted
+to this bridge

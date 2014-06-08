@@ -1,0 +1,303 @@
+lock
+transaction
+locks
+mode
+downgrading
+inheritance
+downward
+locking
+waits
+concurrency
+ix
+downgraded
+inferiors
+downgrade
+tl
+nested
+deadlock
+subtransactions
+hierarchy
+superiors
+retained
+commit
+retains
+subtransaction
+parent
+deadlocks
+ancestors
+yes
+modes
+upgrade
+granules
+argus
+moss
+parallelism
+nl
+acquire
+sphere
+upgrading
+held
+commits
+child
+locus
+retainer
+dbms
+holding
+ancestor
+upward
+object
+offering
+hierarchies
+subhierarchy
+opening
+downgrades
+camelot
+eden
+eot
+descendants
+holder
+intra
+rollback
+requestor
+lockable
+tuples
+locked
+wait
+children
+committed
+clouds
+transactions
+recovery
+descendant
+subobjects
+controlled
+retain
+sibling
+database
+flat
+fig
+rules
+six
+intention
+uncommitted
+restrictive
+compatibilities
+aborts
+granted
+conflicting
+anymore
+transac
+trans
+cooperation
+unrepeatable
+firewalls
+consistency
+isolated
+siblings
+detection
+resolution
+request
+acquired
+releases
+avalon
+durability
+relationships
+hierarchical
+abort
+superior
+acquiring
+avoidance
+release
+sec
+upgrades
+rolled
+holders
+concept
+acquires
+cycle
+aborting
+aries
+aborted
+inherit
+inherits
+incompatible
+indirectly
+centralized
+leaf
+objects
+management
+inferior
+protocols
+read
+isolation
+acid
+requestors
+downgrader
+depicted
+segment
+subtasks
+coordinated
+undo
+chies
+wound
+retaining
+decomposition
+offered
+effects
+inherited
+atomicity
+conflicts
+root
+tuple
+kind
+subtree
+action
+refined
+multilevel
+timeout
+victim
+firewall
+concurrent
+updates
+outcome
+prevents
+flexible
+offer
+logging
+soon
+released
+concurrently
+inconsistencies
+mechanism
+requesting
+mohan
+selective
+reads
+operating
+access
+act
+requested
+db
+nested transactions
+downward inheritance
+x mode
+concurrency control
+x lock
+h ix
+controlled downward
+tl transaction
+locking rules
+mode m
+yes yes
+level rules
+object hierarchy
+ix h
+lock modes
+retained locks
+intra transaction
+retained lock
+parent child
+deadlock detection
+transaction parallelism
+transaction hierarchy
+transaction may
+upward inheritance
+level transactions
+single level
+nested transaction
+parent transaction
+transaction tree
+object hierarchies
+object o
+may acquire
+tl transactions
+sibling parallelism
+lock relation
+lock held
+transaction holds
+h x
+lock relationships
+lock holder
+x sphere
+x locks
+nl mode
+mode x
+level transaction
+may see
+locks held
+control structure
+trans action
+transaction model
+relation r
+locking protocols
+level concurrency
+indirectly waits
+hierarchical locking
+see changes
+mode conflicting
+transaction hierarchies
+lock granules
+lockable units
+transaction management
+rules stated
+among transactions
+lock in x
+controlled downward inheritance
+level to level
+inheritance of locks
+waits for lock
+h ix h
+waits for retained
+holds the lock
+ix h ix
+waits for commit
+intra transaction parallelism
+hold the lock
+yes yes yes
+lock in mode
+single level transactions
+holding a lock
+retains the lock
+lock to mode
+lock on o
+transaction t may
+holding the lock
+acquire a lock
+tuples of r
+opening up deadlock
+holds or retains
+retain the lock
+retained lock relationships
+downgrade the lock
+lock it holds
+transactions that retain
+root to leaf
+r x h
+level concurrency control
+may see changes
+downgrading the lock
+locks it holds
+upgrade the lock
+proposed by moss
+mode are ancestors
+releases all locks
+downgrading a lock
+offering a lock
+opening up deadlocks
+transaction may see
+acquire the lock
+conflicting with m
+tl transaction hierarchy
+concurrency control scheme
+concept of nested
+lock and waits
+act as firewalls
+basic locking rules
+ancestor of r
+outside its hierarchy
+concept of downward
+lock on r
+top level transaction
+upgrade a lock
+transaction t holding
+segment s h

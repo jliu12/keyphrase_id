@@ -1,0 +1,600 @@
+gesp
+factorization
+pivoting
+diagonal
+sparse
+t3e
+unsymmetric
+triangular
+matrices
+nzval
+procc
+ecl32
+gepp
+superlu
+lu
+elimination
+pivots
+lsum
+xiaoye
+supernode
+row
+endif
+twotone
+nonzeros
+nnz
+block
+bbmat
+cray
+column
+supernodal
+gaussian
+berr
+pivot
+fidapm11
+megaflop
+duff
+frontal
+frecv
+procr
+cholesky
+matrix
+fmod
+mcsparse
+sparsity
+nonzero
+wang4
+processors
+ex11
+af23560
+processes
+mt
+blocks
+toms
+stabilize
+scalable
+900
+permutation
+balance
+owns
+supernodes
+symbolic
+entries
+numeric
+myrow
+skyline
+orsirr
+dgeequ
+gammaxjj
+mycol
+genp
+jpwh
+receive
+stability
+workload
+multifrontal
+991
+edags
+my
+precision
+berkeley
+send
+harwell
+epsilon
+nersc
+doe
+numerical
+solves
+apprentice
+equilibration
+iterative
+communication
+growth
+cyclic
+load
+subvector
+gflops
+jjx
+scalapack
+owned
+tiny
+fraction
+red
+parallelize
+bordered
+amestoy
+mpi
+wu
+backward
+grid
+fg03
+zeros
+runtime
+cheaper
+512
+scalability
+stable
+dissection
+li
+spent
+refinement
+memory
+processor
+iain
+owning
+solver
+numerically
+fill
+machines
+dot
+factorize
+transversal
+inversion
+demmel
+columns
+575
+ordering
+mod
+asynchronous
+dags
+slave
+sp2
+entry
+boeing
+lapack
+magnitude
+message
+r10000
+cda
+serial
+componentwise
+permuting
+permute
+magnitudes
+delayed
+dense
+lhr01
+rows0000000001111111110000000001111111110000000000000000111111111111111111110000000000000001111111111111111111100001111000000000000000000001111111111111111111100000000011111111111100000011111100011111100011111100000011111100110011100110000111111001101100111000111000111
+orsreg
+av4408
+jagesh
+graham1
+302570
+sc98
+yozo
+onyx2
+fc03
+0224
+bramley1
+351052
+aeroelasticity
+bramley2
+olm5000
+5398
+rdist2
+radrf1
+rdist3a
+98er25351
+hulsemann
+5120
+av11924
+c0047
+numsym
+cry10000
+west2021
+dw8192
+sanghavi
+tols4000
+rows
+quantum
+submatrices
+seconds
+timings
+idle
+sent
+parallelism
+messages
+vertex
+store
+davis
+factors
+the diagonal
+triangular solve
+lu factorization
+block column
+partial pivoting
+factorization time
+sparse gaussian
+cray t3e
+p r
+procc k
+gaussian elimination
+sparse lu
+process grid
+the factorization
+parallel sparse
+triangular solves
+gesp algorithm
+nnz a
+x k
+p c
+distributed memory
+in step
+d r
+frontal matrix
+sparse triangular
+column of
+load balance
+step 1
+matrices require
+lsum k
+gesp figure
+superlu mt
+diagonal entry
+sparse linear
+xiaoye s
+large matrices
+large entries
+s li
+t3e 900
+that own
+diagonal process
+of l
+column row
+column processes
+large diagonal
+iterative refinement
+each nonzero
+the symbolic
+data structure
+error from
+factorization algorithm
+of nonzeros
+backward error
+memory machines
+procr k
+tiny pivots
+red dot
+r ad
+ad c
+processes procc
+from gesp
+nonzeros in
+the solve
+permutation p
+the column
+minimum degree
+unsymmetric sparse
+diagonal blocks
+off diagonal
+block row
+need it
+for unsymmetric
+sparse cholesky
+process column
+512 node
+during elimination
+extra precision
+each block
+each frontal
+megaflop rate
+symbolic algorithm
+most matrices
+software toms
+toms v
+block cyclic
+mathematical software
+send receive
+numerically stable
+step 3
+machine epsilon
+static pivoting
+a process
+on mathematical
+linear systems
+block size
+endif end
+the lu
+cholesky factorization
+both row
+column permutation
+numerical stability
+the matrix
+global matrix
+doe grant
+time waiting
+the matrices
+of processes
+shared memory
+for matrix
+u factors
+in communication
+fraction of
+2 d
+are idle
+the numeric
+of processors
+the block
+grant de
+each diagonal
+symbolic analysis
+k th
+the off
+upper triangular
+gammaxjj 1
+k counts
+algorithm 575
+of gesp
+fmod k
+stabilize sparse
+from gepp
+node cray
+row processes
+our gesp
+frecv k
+factorization scalable
+the gesp
+mycol myrow
+skyline structure
+processors cray
+let procc
+i own
+nzval arrays
+8 gflops
+fail completely
+jpwh 991
+index nzval
+row subscripts
+own blocks
+numeric factorization
+let mycol
+own send
+genp time
+solves to
+true gammaxjj
+and megaflop
+selective inversion
+scalable iterative
+diagonal means
+process mapping
+myrow be
+my process
+factorization rate
+ecl32 fidapm11
+in gesp
+it endif
+enable static
+error jjx
+receive need
+sum lsum
+send x
+the skyline
+sparse lower
+oriented storage
+orsirr 1
+gesp is
+nzval block
+using mcsparse
+diagonal entries
+of sparse
+matrix in
+contract no
+steps 1
+processes that
+diagonal block
+3 steps
+ordering algorithm
+a ii
+pivoting is
+in magnitude
+workload is
+the harwell
+entry a
+mod p
+sparse matrix
+to sparse
+a red
+dense factorization
+symmetric locations
+own block
+fidapm11 and
+the factorization time
+sparse lu factorization
+sparse gaussian elimination
+the process grid
+column of l
+processes that own
+xiaoye s li
+block column of
+r and d
+d r and
+of the factorization
+the column processes
+the diagonal process
+to the diagonal
+distributed memory machines
+steps 1 and
+and d c
+sparse linear systems
+r ad c
+a red dot
+d r ad
+processes procc k
+endif end for
+sparse triangular solve
+l and u
+sparse cholesky factorization
+on the diagonal
+the symbolic algorithm
+the time waiting
+column of processes
+p r d
+software toms v
+mathematical software toms
+on mathematical software
+transactions on mathematical
+spent in communication
+u k k
+each diagonal entry
+parallel sparse cholesky
+distributed data structure
+each frontal matrix
+the symbolic analysis
+large entries to
+both row and
+l k n
+the error from
+linear systems using
+lu factorization algorithm
+of the diagonal
+doe grant de
+entries to the
+to n do
+the k th
+partial pivoting is
+for large matrices
+and u factors
+k n k
+on distributed memory
+to x k
+x k to
+algorithm for sparse
+the lu factorization
+the diagonal blocks
+in step 1
+lu factorization with
+r d r
+in step 3
+time in seconds
+for the solve
+that i own
+512 node cray
+sum lsum k
+from gesp figure
+upper triangular solves
+solving large nonsymmetric
+that own block
+k is solved
+not incur much
+let procc k
+they showed good
+triangular solve both
+if message is
+it else receive
+bbmat ecl32 fidapm11
+column permutation p
+our gesp algorithm
+process grid let
+the numeric factorization
+gesp algorithm on
+gesp figure 4
+the skyline structure
+factorization scalable iterative
+ecl32 fidapm11 and
+fraction of nonzeros
+block row subscripts
+of processes participate
+to stabilize sparse
+my process column
+send x k
+matrix dependent it
+row number in
+permute large diagonal
+time waiting to
+seconds and megaflop
+row subscripts of
+updates to x
+sent to fewer
+parallel sparse triangular
+cholesky factorization scalable
+grid let procc
+true gammaxjj 1
+scalable iterative solution
+processors cray t3e
+row of processes
+be my process
+systems using mcsparse
+than 3 steps
+own blocks in
+subscripts of full
+else receive need
+the rank b
+and superlu mt
+partial sum lsum
+let mycol myrow
+own block column
+i own send
+and megaflop rate
+triangular solves to
+myrow be my
+node cray t3e
+nonzero entry a
+error from gepp
+nzval block row
+large diagonal entries
+pivoting to stabilize
+who need it
+a 512 node
+error from gesp
+rank b update
+error jjx true
+efficient block oriented
+index nzval arrays
+mycol myrow be
+fidapm11 and wang4
+permutation p r
+stabilize sparse gaussian
+triangular solve the
+to parallel sparse
+k becomes zero
+row oriented storage
+k counts the
+the componentwise backward
+to process mapping
+that own blocks
+p c e
+of index nzval
+receive need it
+need it else
+matrices d r
+procc k endif
+block oriented approach
+column processes procc
+block column row
+process column row
+need it endif
+found that processes
+jjx true gammaxjj
+large nonsymmetric sparse
+subvector x k
+column row number
+block in u
+for matrix u
+processes in my
+amount of communication
+the data structure
+the minimum degree
+the off diagonal
+with partial pivoting
+number of nonzeros
+lu factorization time
+l resides on
+megaflop rate on
+of nonzeros matched
+195 mhz mips
+only needed by
+permutation p c
+the solve time
+fewer than p
+each nonzero entry
+elimination on high
+both factorization and
+k in step
+in symmetric locations
+mod p r
+componentwise backward error
+to partial pivoting
+processes are idle
+with static pivoting
+a dense factorization
+nonzeros matched by

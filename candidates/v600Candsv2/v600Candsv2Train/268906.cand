@@ -1,0 +1,334 @@
+sv
+incarnation
+straggler
+rolled
+orphan
+token
+optimistic
+lps
+rollback
+timestamp
+ts
+lp
+message
+rolls
+virtual
+rollbacks
+iet
+anti
+simulation
+warp
+logging
+gvt
+recovery
+announcement
+orphans
+messages
+roll
+timestamps
+protocol
+entry
+dependency
+event
+transitively
+cluster
+receiving
+failure
+broadcast
+transitive
+echoing
+lexicographical
+back
+restores
+broadcasts
+checkpoint
+receive
+blocking
+pessimistic
+th
+receives
+gler
+strag
+schedules
+happened
+acts
+acting
+protocols
+cascading
+volatile
+actions
+events
+scheduled
+logged
+sending
+stragglers
+routine
+happen
+arrival
+discarded
+correctness
+asynchronously
+dependent
+lost
+restored
+saving
+sent
+optimism
+arrives
+induction
+optimistically
+intra
+inter
+announce
+increments
+latent
+sends
+rolling
+checkpointing
+arrows
+overwritten
+dependencies
+conservative
+incrementing
+tagging
+restarts
+discards
+damani
+edgements
+transit
+minimally
+refers
+simulators
+receiver
+transition
+send
+execute
+ensures
+erroneous
+overhead
+schemes
+assistantship
+reuben
+trw
+pasquini
+garbage
+clusters
+tokens
+restore
+tracking
+maintains
+vectors
+preserves
+rego
+jalote
+dickens
+tags
+lowry
+recreated
+eliminates
+broadcasting
+saying
+trigger
+clock
+unstable
+covery
+null
+happens
+logical
+maintain
+ferent
+replays
+announcements
+motors
+discard
+latest
+acknowl
+lected
+livelock
+ceiver
+garg
+queue
+entries
+sender
+sigsim
+ecs
+hypothesis
+lemma
+transi
+vernon
+comparative
+spread
+fossil
+replaying
+domino
+dep
+queues
+larly
+clus
+acted
+executions
+simi
+caused
+tolerant
+en
+om
+subramanian
+attaches
+recoverable
+virtual time
+rolled back
+distributed simulation
+incarnation number
+rolls back
+distributed recovery
+m ts
+simulation vector
+th timestamp
+p j
+time warp
+back due
+anti message
+state w
+simulation vectors
+th entry
+state u
+roll back
+back state
+anti messages
+optimistic logging
+w sv
+sv j
+orphan states
+execute message
+j ts
+transitively dependent
+inter cluster
+actions needed
+message m
+u sv
+rollback announcement
+receive token
+dependency information
+global virtual
+orphan messages
+new incarnation
+j th
+transitive dependency
+logical process
+lexicographical maximum
+routine receive
+pessimistic logging
+k optimistic
+orphan state
+state saving
+p th
+event 3
+virtual times
+condition c1
+dependency tracking
+optimistic distributed
+optimistic recovery
+parallel simulation
+event scheduled
+constrained systems
+message logging
+state transition
+vector clock
+intra cluster
+receive message
+optimistic simulation
+memory management
+recover efficiently
+latent global
+hence setting
+routine rollback
+minimally latent
+back restores
+transitive dependencies
+m sv
+straggler computation
+unnecessary rollbacks
+optimistic schemes
+latest state
+cluster execution
+trigger rollbacks
+logging 6
+back s00
+cluster executions
+simulation optimistic
+sv proof
+higher incarnation
+lost upon
+echoing 15
+dependency entry
+strag gler
+null entries
+multiple rollbacks
+rolled back due
+sv j ts
+rolled back state
+happen before relation
+schedules an event
+j th timestamp
+sv i ts
+size of simulation
+global virtual time
+time of m
+dependent on u
+state of p
+u of p
+j th entry
+sends an anti
+scheduled by m
+receives a straggler
+m s sv
+transitive dependency information
+incarnation of p
+time constrained systems
+correctness of simulation
+p th timestamp
+p i depends
+token from p
+optimistic distributed simulation
+case of rule
+time of p
+recovery in distributed
+proof by induction
+algorithm for minimally
+whereas our protocol
+data m ts
+routine receive token
+incarnation end table
+updates its sv
+spread of erroneous
+simulation and distributed
+receiving this anti
+takes actions needed
+w sv j
+gvt are never
+m data m
+model of simulation
+recovery with k
+restarts from state
+receiving the anti
+increments its incarnation
+k th incarnation
+pessimistic logging 6
+satisfying condition c1
+maintain the correctness
+w not satisfying
+definition of happen
+anti message corresponding
+happens before u
+simple memory management
+lexicographical maximum operation
+change to state
+anti message p1
+m ts m
+latent global virtual
+efficiently and asynchronously
+message p1 rolls
+rollbacks and echoing
+parallel simulation optimistic
+sv by taking
+one assumption per

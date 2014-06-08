@@ -1,0 +1,600 @@
+hls
+synthesis
+datapath
+scheduling
+allocation
+behavioral
+testability
+binding
+ilp
+register
+multiport
+interconnection
+functional
+units
+automation
+hardware
+cdfg
+asap
+registers
+rt
+resource
+vlsi
+fds
+alap
+storage
+controller
+transformations
+designs
+scheduled
+sequencer
+phideo
+mabal
+insyn
+flow
+genetic
+synthesizer
+olympus
+wiring
+busses
+constructive
+synthesized
+asics
+asic
+multiplexors
+dsp
+targeted
+interconnect
+floorplanning
+circuit
+transfer
+clique
+folding
+bipartite
+syntactic
+schedule
+power
+estimation
+partitioning
+neural
+verilog
+hdl
+callas
+dhodhi
+psga
+rephasing
+fpics
+ansa
+economakos
+ripping
+reliability
+knight
+pipelining
+activity
+height
+subtasks
+logic
+oscar
+kountouris
+formulation
+dfg
+surveyed
+constructs
+vhdl
+module
+bus
+programmable
+regularity
+kurdahi
+multichip
+cathedral
+mimola
+wolinski
+delay
+schedules
+constrained
+conditional
+timing
+rtl
+exploration
+tradeoff
+digital
+apostolos
+clock
+optimizations
+papakonstantinou
+layout
+variances
+dissipation
+chips
+buses
+matching
+consumption
+transfers
+compiler
+switches
+carriers
+architect
+submicron
+pacific
+tasks
+exploiting
+ic
+trade
+rescheduling
+segment
+pipelined
+interdependent
+self
+silicon
+minimization
+ly
+retiming
+asia
+scan
+routing
+raghunathan
+ramanujam
+era
+enhancing
+hyper
+profiler
+workbench
+chip
+refinement
+controllability
+fpgas
+hot
+recovering
+yokohama
+algorithmic
+switching
+modules
+checkpoints
+chaudhuri
+compilation
+area
+simultaneous
+christophe
+fpga
+hierarchical
+rapid
+architectural
+incorporating
+operands
+gate
+electronic
+capacitance
+unit
+checkpoint
+carrier
+codesign
+minimizing
+iterative
+cliques
+capable
+transforming
+emulation
+competitive
+south
+todaes
+loop
+objective
+simulated
+advance
+annealing
+ewering
+mechantronic
+testabil
+aloqeely
+oikonomakos
+munch
+bruni
+yuyama
+fpic
+plicate
+mav
+panagopoulos
+najaf
+coactive
+rudnick
+level synthesis
+high level
+control steps
+behavioral description
+control step
+low power
+functional units
+datapath synthesis
+flow graph
+unit binding
+multiport memory
+data path
+synthesis of
+of hls
+register transfer
+in high
+transfer level
+functional unit
+allocation and
+hls systems
+the datapath
+constrained scheduling
+for low
+the behavioral
+the ilp
+synthesis for
+and binding
+storage units
+design space
+proposed a
+a datapath
+design automation
+scheduling and
+description into
+scheduling problem
+clique partitioning
+for hls
+in datapath
+the scheduling
+and allocation
+the design
+allocation problem
+datapath allocation
+of operations
+behavioral synthesis
+path synthesis
+ilp formulation
+unit allocation
+scheduling allocation
+and interconnection
+partial scan
+hls for
+hls is
+functional storage
+ilp approach
+synthesis system
+tree height
+proposed an
+register allocation
+for testability
+a behavioral
+interconnection units
+scheduled into
+the synthesis
+and resource
+of functional
+resource binding
+power vlsi
+data flow
+synthesis scheduling
+of register
+asap and
+height reduction
+data routing
+edge algorithm
+targeted towards
+synthesis the
+of control
+the allocation
+minimization in
+advance in
+basic techniques
+space genetic
+an hls
+how datapath
+affects controller
+self recovering
+regular iterative
+controller delay
+sequencer based
+allocation affects
+assigns operations
+resource constrained
+binding for
+for high
+synthesis using
+be scheduled
+scheduling algorithm
+automatic data
+left edge
+the register
+et al
+hardware description
+in hls
+hardware specific
+syntactic variances
+simulated evolution
+wiring delay
+synthesis high
+and floorplanning
+binding maps
+alap scheduling
+loop folding
+binding and
+a control
+synthesis a
+switching activity
+scheduling they
+and alap
+up design
+system design
+an operation
+survey some
+based synthesis
+on design
+space exploration
+structural description
+specific transformations
+ic design
+next operation
+area overhead
+the asap
+genetic algorithm
+logic synthesis
+units e
+storage elements
+component library
+description language
+design flow
+problem space
+and knight
+self testing
+storage and
+the interconnection
+they used
+for design
+they proposed
+the cdfg
+matching algorithm
+power design
+rt level
+digital system
+computing lower
+memory modules
+design constraints
+power consumption
+and layout
+we survey
+hardware synthesis
+one subset
+constructive approach
+on functional
+formulation for
+design process
+a scheduling
+system level
+automation of
+design the
+registers and
+control flow
+design techniques
+and power
+been proposed
+scheduling algorithms
+interconnection binding
+problems chaudhuri
+incremental tree
+testability by
+compiler like
+macro models
+using mabal
+easy testability
+hls tool
+testability considerations
+behavioral templates
+partitioned busses
+fds algorithm
+incorporating testability
+hls and
+description onto
+simultaneous functional
+using bottom
+dhodhi et
+enhancing high
+video algorithms
+industrial extensions
+various subtasks
+folding 23
+fast turn
+based datapath
+high level synthesis
+in high level
+for low power
+of control steps
+register transfer level
+behavioral description into
+scheduling and allocation
+allocation and binding
+the behavioral description
+in datapath synthesis
+functional unit binding
+number of control
+the scheduling problem
+data flow graph
+data path synthesis
+scheduling allocation and
+for high level
+a control step
+the ilp approach
+functional storage and
+in the behavioral
+of functional units
+resource constrained scheduling
+a behavioral description
+control steps for
+automatic data path
+left edge algorithm
+tree height reduction
+and resource binding
+low power vlsi
+the flow graph
+scheduling and resource
+the allocation problem
+synthesis for low
+to the scheduling
+behavioral synthesis for
+hardware description language
+problem space genetic
+space genetic algorithm
+allocation affects controller
+affects controller delay
+how datapath allocation
+storage and interconnection
+the clique partitioning
+regular iterative algorithms
+hardware specific transformations
+datapath allocation affects
+unit binding and
+synthesis scheduling and
+a problem space
+design techniques in
+of the design
+partitioning for system
+description into a
+bottom up design
+synthesis high level
+and interconnection units
+on design automation
+design space exploration
+activity and power
+synthesis for testability
+flow graph representation
+each control step
+asap and alap
+time constrained scheduling
+of register transfer
+switching activity and
+level synthesis scheduling
+the next operation
+problem in high
+a data flow
+approach to the
+scheduling algorithm for
+the design space
+the asap and
+level synthesis for
+the synthesis of
+units e g
+computing lower bounds
+the ilp formulation
+for the scheduling
+in the ilp
+they used a
+have been proposed
+level synthesis system
+the intermediate representation
+low power design
+and power consumption
+the left edge
+a high level
+level synthesis of
+number of functional
+binding and floorplanning
+a competitive edge
+on bipartite weighted
+hls systems are
+been targeted toward
+from abstract behavioral
+binding in datapath
+scheduled into each
+extensions to university
+algorithm for multiport
+multiport memory minimization
+survey some new
+abstract behavioral descriptions
+net based scheduling
+synthesis approach to
+enhancing high level
+sequencer based datapath
+next operation to
+system design high
+prototype environment for
+design of register
+into control steps
+testability using transformations
+to digital system
+hot carrier reliability
+of regular iterative
+array access based
+for multiport memory
+incorporating testability considerations
+fast and near
+system design an
+multiport memory allocation
+synthesis specification partitioning
+evolution to high
+industrial extensions to
+resource binding for
+and datapath trade
+area overhead and
+algorithm psga for
+at logic synthesis
+design high level
+memory allocation problem
+the component library
+behavior into a
+syntactic constructs and
+a transformation technique
+step of hls
+rt level synthesis
+method of automatic
+minimization in datapath
+hls design flow
+storage allocation can
+some basic techniques
+datapath trade offs
+blocks of straight
+for improved testability
+the fds algorithm
+architect s workbench
+for easy testability
+the multiport memory
+fast turn around
+traditional hls systems
+scan design of
+a self recovering
+allocation data path
+constrained scheduling minimizes
+reduction for high
+and allocation using
+steps for different
+near optimal scheduling
+flow for improved
+the memory based
+are scheduled into
+dhodhi et al
+loop folding 23
+scheduling using behavioral
+memory minimization in
+concurrent testing in
+and unit binding
+proposed a problem
+university high level
+deep submicron era
+simultaneous functional unit
+synthesis for easy
+allocation problem into
+then they used
+scheduling assigns operations
+up design techniques
+simulated evolution to
+testability considerations in
+incremental tree height
+systems high level
+transfer level circuits
+genetic algorithm psga
+testing in high
+and video algorithms
+of cliques in
+on modulus m
+scheduling minimizes the
+for minimizing syntactic
+to university high
+and alap scheduling
+specification partitioning for
+various subtasks of
+hls for low
+account as early
+hls systems such
+optimizations in high

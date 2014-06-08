@@ -1,0 +1,358 @@
+grain
+synchronizations
+competing
+quanta
+balancing
+barrier
+processors
+load
+loads
+pipelined
+doacross
+bidirectional
+loop
+strip
+incr
+pid
+pipeline
+parallelization
+blocksize
+communication
+nectar
+sor
+costs
+parallelized
+lastcol
+millisecond
+quantum
+synchronization
+efficiency
+cpu
+measurements
+dedicated
+unidirectional
+pcount
+robin
+workstations
+scheduling
+drain
+sequential
+msec
+allocated
+efficiencies
+milliseconds
+processor
+iterations
+compiler
+mined
+draining
+mining
+interactions
+skewing
+loops
+parallelism
+interchange
+homogeneous
+fortran
+block
+balanced
+tiling
+barriers
+phases
+mimd
+round
+siegell
+dependences
+ignoring
+waiting
+elapsed
+productive
+spent
+backplane
+slave
+predicted
+processes
+nests
+overhead
+attained
+controlling
+resources
+pipelining
+fill
+productively
+multicomputers
+slaves
+sec
+sizes
+estimates
+skews
+filling
+slices
+transformations
+wavefront
+multiples
+selecting
+cooperation
+controlled
+simulated
+parallelizing
+compile
+execution
+munication
+compiling
+aggregation
+measured
+iteration
+vectorization
+utilization
+operating
+measuring
+automatically
+optimizations
+multiprocessors
+continuum
+simulations
+cessors
+inactive
+adversely
+phase
+trolled
+rameterize
+select
+adjust
+supercomputers
+frequency
+exit
+periodically
+idle
+investigates
+message
+startup
+portions
+realign
+restruc
+balancer
+cern
+network
+heterogeneous
+compilers
+fluctuates
+mines
+vs
+estimator
+variations
+overrelaxation
+revis
+steenkiste
+machines
+adjusting
+runtime
+capabilities
+nested
+finish
+worksta
+ited
+delays
+shift
+executing
+inactivity
+synchroniza
+proportion
+networks
+maxi
+relegated
+tar
+aggregate
+curves
+confirm
+allocate
+aligns
+automatic
+delay
+mum
+lelism
+blocked
+selection
+blocks
+affected
+doall
+8d
+effects
+grain size
+competing loads
+load balancing
+communication costs
+competing load
+grain sizes
+block size
+optimal grain
+bidirectional synchronizations
+barrier synchronizations
+size quanta
+cpu allocated
+equal distribution
+time quantum
+unidirectional synchronizations
+sor example
+optimal block
+ignoring communication
+strip mining
+distributed loop
+execution time
+predicted upper
+automatically selected
+application process
+fortran d
+doacross loops
+robin scheduling
+round robin
+load balanced
+millisecond time
+quanta upper
+b lastcol
+pid pcount
+balancing frequency
+fixed grain
+appropriate grain
+iteration theta
+quantum ignoring
+different grain
+mined loop
+communication phase
+dynamic load
+run time
+pipelined execution
+loop interchange
+competing processes
+pcount 1
+strip mined
+communication point
+right b
+loop skewing
+data communication
+without load
+parallelized code
+communication overhead
+pipelined loop
+mimd distributed
+selected grain
+quanta 0
+parallelization efficiency
+dedicated homogeneous
+msec 4
+iterations measured
+controlling grain
+competing process
+blocksize iterations
+processor grain
+time spent
+process cpu
+process waiting
+balanced figure
+milliseconds round
+doacross loop
+message aggregation
+time quanta
+b load
+process application
+slave processors
+measured predicted
+distributed memory
+upper bound
+barrier synchronization
+total execution
+parallel programs
+synchronization points
+measured values
+first processor
+processor system
+computation phases
+operating system
+compiler optimizations
+loop structure
+distribution b
+memory machines
+network backplane
+splitting 7
+mining 7
+selecting grain
+send right
+selected fixed
+optimal grain size
+grain size quanta
+optimal block size
+ignoring communication costs
+predicted upper bound
+scheduling of processes
+dynamic load balancing
+round robin scheduling
+appropriate grain size
+size quanta upper
+iteration theta m
+scheduling with 100
+quantum ignoring communication
+pid pcount 1
+load balancing frequency
+strip mined loop
+fixed grain size
+millisecond time quantum
+time quantum ignoring
+different grain sizes
+quanta upper bound
+right b lastcol
+without load balancing
+mimd distributed memory
+network of workstations
+quanta 0 10
+automatically selected grain
+size for equal
+first processor grain
+selected grain size
+load balanced figure
+efficiency of parallelization
+blocksize iterations measured
+application process application
+process application process
+load on first
+draining the pipeline
+measured predicted upper
+allocated to competing
+point a equal
+b load balanced
+sequential t fixed
+data communication point
+equal distribution b
+distribution b load
+msec 4 8
+filling and draining
+processor grain size
+allocated to application
+application process waiting
+milliseconds round robin
+costs and load
+controlling grain size
+process cpu allocated
+competing process cpu
+pid if pid
+iterations measured predicted
+programs with dynamic
+generation of parallel
+size is determined
+control the grain
+networks of workstations
+large as possible
+total execution time
+waiting for data
+computation and communication
+distributed memory machines
+aggregate data structures
+nature of computation
+selected fixed 1
+size and scheduling
+continuum of grain
+message aggregation 3
+bidirectional synchronizations grain
+loop interchange 1
+size at run
+closer to multiples
+lastcol 0 n

@@ -1,0 +1,600 @@
+tla
+specifications
+pi
+qm
+composition
+lamport
+gcd
+queue
+ack
+noninterleaving
+specification
+interleaving
+qe
+abadi
+snd
+asserts
+dbl
+safety
+conjoining
+init
+999
+proposition
+formula
+fairness
+wf
+reasoning
+999x
+conjunction
+proving
+implements
+var
+sig
+233344
+cdq
+hypotheses
+guarantee
+vol
+cq
+channel
+action
+iff
+tuple
+temporal
+endloop
+environment
+verification
+equals
+henzinger
+cobegin
+formulas
+kurshan
+queues
+leslie
+coend
+subaction
+hypothesis
+hm
+decomposition
+actions
+mart
+enq
+hi
+logic
+refinement
+qadeer
+vali
+shaz
+deq
+concurrent
+rajamani
+xi
+enabled
+cinit
+alur
+1993
+internal
+composing
+1995
+qi
+sriram
+decomposing
+nm
+val
+modular
+simultaneous
+deduce
+oe
+hiding
+propositions
+closure
+liveness
+receipt
+languages
+verifying
+universe
+closures
+primed
+1991
+delta
+implication
+quantifiers
+proofs
+multiplier
+deqenq
+icdq
+disjointness
+false
+predicate
+representations
+hc
+plotkin
+unchanged
+acknowledges
+disallowed
+antee
+grosu
+sf
+ae
+operators
+1994
+icq
+zave
+composite
+sigplan
+ai
+disjunction
+tuples
+canonical
+semantically
+alpern
+thomas
+guar
+mead
+lacked
+2n
+conjoined
+hierarchic
+specifying
+ha
+wrote
+orthogonality
+pnueli
+decomposed
+enclose
+fei
+outputs
+merz
+radu
+gunter
+marc
+assert
+behaviors
+deducing
+conway
+satisfies
+writing
+1985
+fig
+shao
+gamma
+improper
+circularity
+loop
+games
+circuit
+522
+toy
+533
+brackets
+violated
+processes
+hr
+handshake
+schneider
+shapiro
+complementing
+reactive
+unity
+notices
+338
+correctness
+history
+ti
+component
+jackson
+hoare
+xie
+mention
+hs
+hx
+stephan
+violate
+york
+verify
+constrain
+initially
+informal
+closed
+zhong
+simultaneously
+assumption guarantee
+m l
+pi l
+gamma m
+process pi
+abadi and
+complete system
+conjoining specifications
+composition theorem
+specifications delta
+interleaving representation
+guarantee specifications
+asserts that
+an interleaving
+and lamport
+decomposition theorem
+output variables
+o ack
+vol 17
+17 no
+the specification
+the queue
+l a
+the composition
+safety property
+the component
+specification m
+a safety
+guarantee specification
+no 3
+gamma qm
+may 1995
+pi a
+c m
+m b
+the environment
+the conjunction
+m a
+simultaneous changes
+its environment
+l b
+specification of
+safety properties
+systems vol
+component s
+3 may
+machine closed
+pi b
+a noninterleaving
+m gcd
+the formula
+the gcd
+internal variables
+reasoning about
+i ack
+init 2
+a behavior
+a formula
+conjunction of
+state action
+variables of
+environment assumption
+gcd example
+on programming
+component specifications
+1995 conjoining
+tla formula
+qm dbl
+i snd
+999 999x
+lamport 1994
+program gcd
+lamport 1991
+lamport 1993
+for interleaving
+o snd
+behavior oe
+hm xi
+fairness conditions
+a m
+and systems
+loop h
+a asserts
+input var
+element queue
+state function
+verification of
+programming languages
+and m
+specifications of
+an assumption
+hi o
+qe dbl
+l implements
+o qi
+delta mart
+and leslie
+noninterleaving representation
+output var
+qm 1
+noninterleaving representations
+two queues
+queue s
+leslie lamport
+a henzinger
+stage n
+gamma gamma
+languages and
+next state
+temporal logic
+proposition 1
+a tla
+processes pi
+a step
+thomas a
+m 0
+a component
+composition of
+the specifications
+and qe
+pi d
+assumption e
+and pi
+c e
+formula f
+are safety
+0 d
+mart in
+in abadi
+true of
+changes to
+tla formulas
+in tla
+interleaving representations
+implementation proof
+for noninterleaving
+interleaving specifications
+ack o
+snd o
+guarantees m
+qm and
+is conjunction
+hypothesis asserts
+i endloop
+kurshan and
+999 999
+conditional implementation
+formula m
+a specification
+hypotheses of
+tuple of
+acm transactions
+the decomposition
+e gamma
+of oe
+the tuple
+theta theta
+e v
+a complete
+low level
+assuming m
+the complete
+1 element
+l implies
+formula gamma
+pi c
+c ack
+channel o
+internal variable
+action n
+snd and
+m 1
+m holds
+their composition
+the hypotheses
+is true
+third hypothesis
+environment satisfies
+our decomposition
+a initially
+use proposition
+level system
+reason about
+an action
+proposition 2
+lower level
+first hypothesis
+and hiding
+shaz qadeer
+k rajamani
+sriram k
+component i
+step that
+s environment
+to prove
+satisfies e
+var a
+of variables
+an environment
+2n 1
+an interleaving representation
+conjoining specifications delta
+systems vol 17
+3 may 1995
+assumption guarantee specifications
+17 no 3
+no 3 may
+vol 17 no
+and systems vol
+abadi and lamport
+a safety property
+a complete system
+pi l a
+the composition theorem
+m l b
+assumption guarantee specification
+next state action
+the component s
+the conjunction of
+is a safety
+m 0 d
+the decomposition theorem
+of the queue
+the specification m
+init 2 n
+transactions on programming
+languages and systems
+on programming languages
+the specification of
+the gcd example
+m l a
+programming languages and
+may 1995 conjoining
+1995 conjoining specifications
+an assumption guarantee
+and lamport 1991
+and lamport 1993
+pi l b
+process pi a
+simultaneous changes to
+e and m
+of the complete
+specification of the
+the complete system
+thomas a henzinger
+and leslie lamport
+gamma gamma m
+abadi and leslie
+delta mart in
+a noninterleaving representation
+states of oe
+a behavior oe
+a and pi
+1 element queue
+in abadi and
+step that changes
+hi o qi
+2n 1 element
+s output variables
+hypotheses of the
+is true of
+l a and
+acm transactions on
+a step that
+a m b
+the composition of
+n l a
+proposition 1 to
+m a m
+m a and
+tuple of variables
+and m l
+conjunction of the
+a and m
+of a behavior
+theorem of section
+mart in abadi
+asserts that a
+gamma m we
+process pi l
+m l implements
+m l implies
+component s output
+composition is conjunction
+is machine closed
+state function v
+formula gamma m
+steps that change
+specification m l
+behavior oe iff
+hypothesis asserts that
+an a step
+kurshan and lamport
+e gamma m
+a asserts that
+noninterleaving representation of
+for interleaving specifications
+c m l
+pi a and
+verification of a
+a m a
+m l m
+a tuple of
+in the gcd
+of output variables
+s next state
+gamma m equals
+the third hypothesis
+output variables of
+in an interleaving
+that the composition
+are safety properties
+is the conjunction
+the variables of
+the first hypothesis
+modular verification of
+gamma m is
+does not mention
+in canonical form
+a 2 n
+of a component
+sriram k rajamani
+that c m
+of the composition
+queue and its
+m is true
+specification of a
+asserts that the
+when a b
+proposition 2 of
+for an interleaving
+abadi and plotkin
+1 to remove
+change the component
+shaz qadeer sriram
+wrote assumption guarantee
+that m holds
+n states of
+can apply proposition
+theorem if for
+e d proof
+acknowledges receipt of
+of assumption guarantee
+l is machine
+changes to and
+gamma qm 1
+loop h if
+first n states
+guarantee specifications as
+snd and o
+s environment assumption
+and o ack
+of pi l
+strong composition theorem
+hc sig c
+interleaving representation of
+for noninterleaving representations
+two queues in
+about the composition
+as e does
+e of input
+deduce m l
+a subaction of
+channel i and
+a initially 233344
+wf hi o
+state action n
+that pi l
+the assumption guarantee
+gamma m which
+is a subaction
+process pi d
+its environment satisfies
+qadeer sriram k
+our decomposition theorem
+equals c e
+composition of assumption
+i snd i
+var a initially
+composition implements the
+gcd example we
+and lamport 1994
+a specification m
+interleaving representation is
+oe i snd
+queue s environment
+pi a in
+999 999x f
+o snd o
+gamma qm dbl
+m of output
+i ack oe
+composition theorem of
+asserts that c
+snd o ack
+a tla formula
+snd i ack
+2 of abadi
+general decomposition theorem
+and pi b

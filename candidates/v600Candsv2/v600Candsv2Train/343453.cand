@@ -1,0 +1,357 @@
+logging
+page
+opnum
+logged
+invalidation
+volatile
+writer
+recovery
+duration
+recomputation
+owner
+wtl
+pages
+dsm
+invalidated
+ix
+checkpoint
+checkpointing
+ocv
+rwl
+stable
+log
+failure
+sat
+rollback
+item
+read
+dependency
+recoverable
+contents
+jx
+accessed
+ownership
+frequency
+processes
+triggered
+precedence
+logs
+recovering
+access
+message
+readers
+protocol
+storage
+cvm
+domino
+request
+pid
+orphan
+traces
+failures
+copy
+invalidate
+roll
+remote
+transferred
+shared
+overhead
+reads
+causal
+lv
+reply
+retrieved
+locality
+consistency
+write
+precedent
+accesses
+inconsistency
+regenerate
+identifier
+sends
+maintains
+status
+saved
+items
+consistent
+gammaset
+unlogged
+coordinated
+entry
+checkpoints
+retrieve
+wait
+memory
+ff
+creates
+delayed
+activities
+tolerate
+writes
+reconstruct
+protocols
+disk
+send
+storages
+deadlocked
+recovers
+ack
+synthetic
+writable
+reader
+restored
+directory
+fft
+active
+requesting
+arranging
+rolls
+flush
+semantic
+collected
+invalidates
+overwriting
+save
+arrow
+coherent
+differentiated
+kx
+reconstructed
+lost
+coordination
+safely
+latest
+reproduced
+transfers
+weather
+replies
+secondary
+inconsistent
+workstations
+owns
+seq
+ki
+fails
+release
+taesoon
+diffdesc
+inseon
+memorymanager
+commmanager
+untilizes
+lmw
+sparcsystem
+adps
+owned
+ratio
+periodically
+happened
+concurrently
+sent
+event
+sequentially
+locally
+retrieval
+counter
+receipt
+produced
+dependent
+accessing
+multicomputing
+lsw
+reprocessing
+responsibility
+records
+begins
+virtual
+fetched
+created
+entries
+sequential
+received
+recover
+subsystem
+speech
+normal
+receives
+lazy
+recoveries
+yeom
+dependents
+recoverability
+simulation
+heon
+nonnegligible
+unnecessary
+severely
+fetch
+procedures
+messages
+coherence
+workload
+modularized
+regenerated
+discard
+useless
+data page
+page x
+data pages
+access information
+process p
+stable logging
+p j
+duration ix
+writer process
+copy set
+volatile log
+wtl scheme
+logging overhead
+logging frequency
+sat scheme
+x duration
+duration jx
+recovery log
+data item
+stable storage
+dsm system
+triggered logging
+logging scheme
+stable log
+consistent recovery
+invalidation triggered
+access duration
+distributed shared
+dependency relation
+logging protocol
+version x
+write operation
+proposed logging
+current owner
+duration x
+precedence order
+opnum j
+recovery point
+page space
+shared memory
+log contents
+rwl scheme
+writer based
+active data
+message case
+volatile storage
+recoverable distributed
+write ratio
+recovery line
+ix last
+logged data
+another process
+rollback recovery
+write operations
+request x
+opnum value
+owner p
+log collection
+based invalidation
+owner x
+recovering status
+multiple failures
+j value
+domino effect
+dependent processes
+volatile logging
+next owner
+new owner
+multiple readers
+p k
+sequential consistency
+current version
+new version
+orphan message
+semantic based
+checkpoint c
+w 4
+write request
+collection message
+version identifier
+write precedence
+readers access
+based logging
+operation counter
+selected recovery
+scheme shows
+read write
+read request
+roll back
+access point
+log space
+log entry
+tolerate multiple
+proposed scheme
+dsm systems
+processes need
+x wait
+state interval
+operation w
+every process
+data items
+r ff
+data access
+program traces
+item accessed
+data page x
+invalidation triggered logging
+distributed shared memory
+process p j
+data page space
+active data page
+version of x
+x duration x
+consistent recovery line
+recoverable distributed shared
+duration ix last
+w 4 x
+logged data pages
+based invalidation triggered
+data access point
+writer based invalidation
+number of logged
+orphan message case
+accessed by multiple
+copy set x
+amount of logged
+another process p
+p i reads
+reads a data
+lv i ff
+parallel program traces
+read request x
+tolerate multiple failures
+version of page
+k 2 copy
+proposed logging protocol
+stable log contents
+selected recovery point
+log collection message
+every p k
+write precedence order
+value of opnum
+frequency of stable
+readers access information
+version x duration
+read write ratio
+w 2 x
+p k 2
+read and write
+x to owner
+logging is performed
+contents of page
+invalidation ack x
+page is invalidated
+opnum j value
+triggered logging protocol
+x is invalidated
+page x duration
+volatile log space
+reader s failure
+operation counter vector

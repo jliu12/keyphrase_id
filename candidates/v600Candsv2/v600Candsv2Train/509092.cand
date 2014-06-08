@@ -1,0 +1,384 @@
+gesp
+factorization
+pivoting
+diagonal
+sparse
+unsymmetric
+triangular
+matrices
+nzval
+procc
+gepp
+superlu
+lu
+elimination
+pivots
+lsum
+xiaoye
+supernode
+row
+endif
+twotone
+nonzeros
+nnz
+block
+bbmat
+cray
+column
+supernodal
+gaussian
+berr
+pivot
+megaflop
+duff
+frontal
+frecv
+procr
+cholesky
+matrix
+fmod
+mcsparse
+sparsity
+nonzero
+processors
+processes
+mt
+blocks
+toms
+stabilize
+scalable
+permutation
+balance
+owns
+supernodes
+symbolic
+entries
+numeric
+myrow
+skyline
+orsirr
+dgeequ
+gammaxjj
+mycol
+genp
+jpwh
+receive
+stability
+workload
+multifrontal
+edags
+precision
+berkeley
+send
+harwell
+epsilon
+nersc
+doe
+numerical
+solves
+apprentice
+equilibration
+iterative
+communication
+growth
+cyclic
+load
+subvector
+gflops
+jjx
+scalapack
+owned
+tiny
+fraction
+red
+parallelize
+bordered
+amestoy
+mpi
+wu
+backward
+grid
+zeros
+runtime
+cheaper
+scalability
+stable
+dissection
+li
+spent
+refinement
+memory
+processor
+iain
+owning
+solver
+numerically
+fill
+machines
+dot
+factorize
+transversal
+inversion
+demmel
+columns
+ordering
+mod
+asynchronous
+dags
+slave
+entry
+boeing
+lapack
+magnitude
+message
+cda
+serial
+componentwise
+permuting
+permute
+magnitudes
+delayed
+dense
+orsreg
+jagesh
+yozo
+aeroelasticity
+hulsemann
+numsym
+sanghavi
+rows
+quantum
+submatrices
+seconds
+timings
+idle
+sent
+parallelism
+messages
+vertex
+store
+davis
+factors
+triangular solve
+lu factorization
+block column
+partial pivoting
+factorization time
+sparse gaussian
+cray t3e
+p r
+procc k
+gaussian elimination
+sparse lu
+process grid
+parallel sparse
+triangular solves
+gesp algorithm
+x k
+p c
+distributed memory
+d r
+frontal matrix
+sparse triangular
+load balance
+step 1
+matrices require
+lsum k
+gesp figure
+superlu mt
+diagonal entry
+sparse linear
+large matrices
+large entries
+diagonal process
+column row
+column processes
+large diagonal
+iterative refinement
+data structure
+factorization algorithm
+backward error
+memory machines
+procr k
+tiny pivots
+red dot
+r ad
+ad c
+processes procc
+permutation p
+minimum degree
+unsymmetric sparse
+diagonal blocks
+block row
+sparse cholesky
+process column
+extra precision
+megaflop rate
+symbolic algorithm
+software toms
+toms v
+block cyclic
+mathematical software
+send receive
+numerically stable
+step 3
+machine epsilon
+static pivoting
+linear systems
+block size
+endif end
+cholesky factorization
+column permutation
+numerical stability
+global matrix
+doe grant
+time waiting
+shared memory
+u factors
+grant de
+symbolic analysis
+k th
+upper triangular
+gammaxjj 1
+k counts
+algorithm 575
+fmod k
+stabilize sparse
+node cray
+row processes
+frecv k
+factorization scalable
+mycol myrow
+skyline structure
+processors cray
+let procc
+nzval arrays
+fail completely
+jpwh 991
+index nzval
+row subscripts
+numeric factorization
+let mycol
+genp time
+true gammaxjj
+selective inversion
+scalable iterative
+diagonal means
+process mapping
+factorization rate
+enable static
+error jjx
+receive need
+sum lsum
+send x
+sparse lower
+oriented storage
+orsirr 1
+nzval block
+using mcsparse
+diagonal entries
+steps 1
+diagonal block
+ordering algorithm
+mod p
+sparse matrix
+dense factorization
+symmetric locations
+sparse lu factorization
+sparse gaussian elimination
+column of l
+xiaoye s li
+r and d
+distributed memory machines
+sparse linear systems
+r ad c
+d r ad
+processes procc k
+sparse triangular solve
+l and u
+sparse cholesky factorization
+column of processes
+p r d
+software toms v
+mathematical software toms
+transactions on mathematical
+spent in communication
+u k k
+parallel sparse cholesky
+distributed data structure
+l k n
+linear systems using
+lu factorization algorithm
+doe grant de
+k n k
+algorithm for sparse
+r d r
+time in seconds
+sum lsum k
+upper triangular solves
+solving large nonsymmetric
+k is solved
+let procc k
+bbmat ecl32 fidapm11
+column permutation p
+process grid let
+gesp figure 4
+factorization scalable iterative
+fraction of nonzeros
+block row subscripts
+send x k
+permute large diagonal
+seconds and megaflop
+updates to x
+sent to fewer
+parallel sparse triangular
+cholesky factorization scalable
+grid let procc
+true gammaxjj 1
+scalable iterative solution
+processors cray t3e
+row of processes
+systems using mcsparse
+subscripts of full
+else receive need
+partial sum lsum
+let mycol myrow
+node cray t3e
+error from gepp
+nzval block row
+large diagonal entries
+pivoting to stabilize
+error from gesp
+rank b update
+error jjx true
+efficient block oriented
+index nzval arrays
+permutation p r
+stabilize sparse gaussian
+k becomes zero
+row oriented storage
+p c e
+need it else
+matrices d r
+procc k endif
+block oriented approach
+column processes procc
+block column row
+process column row
+need it endif
+found that processes
+jjx true gammaxjj
+large nonsymmetric sparse
+subvector x k
+column row number
+block in u
+amount of communication
+number of nonzeros
+lu factorization time
+permutation p c
+fewer than p
+elimination on high
+k in step
+mod p r
+componentwise backward error
+processes are idle

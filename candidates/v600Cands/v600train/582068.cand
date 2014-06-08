@@ -1,0 +1,270 @@
+scalea
+openmp
+instrumentation
+drg
+mpi
+sis
+hpf
+4p
+overheads
+directives
+proling
+regions
+region
+smp
+lapw0
+tau
+unidentied
+parallelism
+exit
+overhead
+vfc
+pricing
+idf
+instrumented
+vampir
+cache
+code
+classication
+omp
+instruments
+les
+1n
+gprof
+specic
+tracing
+identier
+gescher
+counters
+md
+entry
+hw
+papi
+halo
+threads
+mixed
+l2
+le
+compiler
+ects
+loops
+directive
+dened
+gion
+fft
+probes
+command
+proles
+processors
+trace
+imbalance
+subregions
+callgraph
+interstitial
+drgs
+unparallelized
+rean4
+rean0
+vampirtrace
+sisprofiling
+rean3
+cxperf
+pgf90
+paradyn
+identied
+options
+prol
+library
+thread
+calls
+init
+fork
+post
+temporal
+eect
+surement
+measurement
+backward
+synchronization
+speedup
+inserted
+code region
+code regions
+of scalea
+openmp mpi
+call graph
+region call
+of parallelism
+performance analysis
+performance overheads
+post execution
+instrumentation description
+the drg
+dynamic code
+performance data
+exit nodes
+and exit
+arbitrary code
+an openmp
+trace les
+entry and
+hpf and
+scalea is
+the tau
+a code
+region r
+mpi version
+the instrumentation
+description le
+openmp parallel
+backward pricing
+loops openmp
+parallelism overhead
+scalea which
+graph drg
+input program
+hardware counters
+hpf version
+line options
+smp nodes
+the hpf
+and mixed
+instrumentation of
+execution performance
+parallel programs
+program unit
+overhead analysis
+the md
+control of
+mixed openmp
+for openmp
+md application
+mpi init
+omp do
+pricing application
+sis directives
+function calls
+code re
+the openmp
+hpf independent
+instrumentation system
+sis and
+the idf
+overheads for
+a performance
+command line
+re ects
+smp node
+analysis tool
+number where
+during execution
+explicitly instrumented
+performance diagnosis
+scalea instrumentation
+possible overheads
+by scalea
+detailed overhead
+drg of
+specic instrumentation
+measurement library
+sis provides
+overheads based
+instrumentation library
+drg the
+update halo
+relate performance
+unidentied overhead
+mixed parallel
+temporal overhead
+drg re
+openmp program
+code region call
+region call graph
+dynamic code region
+control of parallelism
+loss of parallelism
+a code region
+entry and exit
+and exit nodes
+code region r
+arbitrary code regions
+post execution performance
+of performance overheads
+hpf and mixed
+of parallelism overhead
+instrumentation description le
+the dynamic code
+execution performance analysis
+call graph drg
+code region the
+call graph which
+openmp mpi version
+command line options
+performance analysis is
+during execution of
+performance analysis tool
+the openmp mpi
+usefulness of scalea
+the hpf version
+scalea which is
+the backward pricing
+backward pricing application
+the md application
+mixed openmp mpi
+number where this
+distributed and parallel
+a call graph
+the code region
+overhead analysis for
+the input program
+for distributed and
+and its subregions
+independent loops openmp
+of scalea which
+ects the dynamic
+of possible overheads
+proles trace les
+performance overheads for
+automated performance diagnosis
+the dynamic relationship
+graph drg the
+mpi hpf and
+scope of possible
+considers only function
+existing approaches that
+loops openmp parallel
+possible overheads that
+the instrumentation description
+graph which considers
+measured and examined
+hpf independent loops
+of code regions
+only function calls
+for openmp mpi
+an instrumentation description
+exit nodes of
+entire program unit
+and mixed openmp
+code regions of
+between code regions
+the drg is
+to relate performance
+code and hw
+detailed overhead analysis
+its subregions and
+the drg re
+exit code regions
+dynamic relationship between
+for automated performance
+be measured and
+overheads based on
+strategy for automated
+q is dened
+single statement to
+overheads that can
+code re gion
+regions and its
+drg the drg
+scalea instrumentation system
+of the md
+relationship between code

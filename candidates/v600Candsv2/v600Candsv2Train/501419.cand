@@ -1,0 +1,340 @@
+nsr
+rerr
+rreq
+packet
+route
+link
+dsr
+packets
+rrep
+neighbor
+links
+nls
+nsrc
+rreqs
+sn
+destination
+hello
+node
+lifetime
+tra
+lsis
+hop
+routing
+topology
+traversed
+id
+1dst
+source
+hops
+lsi
+routes
+hoc
+broadcast
+repaired
+forwarding
+neighbors
+propagating
+pause
+alternate
+ad
+head
+pathlen
+destinations
+ows
+aging
+transmission
+router
+seconds
+lmax
+transmitted
+failure
+repairs
+broken
+forwarded
+wireless
+incremented
+aged
+lmin
+8dst
+epoch
+repair
+ids
+received
+deleted
+history
+resets
+queue
+tail
+mobility
+periodically
+failed
+demand
+protocol
+routed
+aceves
+brought
+routers
+mobile
+neighborhood
+encoded
+nodes
+repairing
+luna
+receives
+agetime
+ndst
+nbrid
+mosko
+partiallsi
+lled
+simulation
+networks
+failures
+stationary
+elapsed
+unreliably
+snu
+learned
+delivered
+shortest
+caches
+entry
+byte
+src
+reporting
+garcia
+nbr
+resta
+waypoint
+ag
+reported
+outgoing
+notify
+tination
+relayed
+santi
+unicast
+sources
+wrap
+delivering
+relaying
+healing
+promiscuous
+perkins
+prasant
+dst
+dashed
+solid
+bytes
+originated
+notied
+timeout
+wraps
+mohapatra
+processed
+path
+enqueued
+inform
+updated
+dierent
+nding
+header
+discovery
+identier
+reversed
+eu
+listed
+stale
+send
+network
+adds
+period
+protocols
+beside
+networking
+circles
+pattern
+kept
+giovanni
+chao
+gui
+caching
+dijkstra
+needing
+chances
+recomputed
+deliver
+nlss
+rerrs
+sourced
+boots
+satyabrata
+mac
+doubled
+layer
+aware
+receiver
+sent
+satised
+identied
+eld
+cache
+paolo
+integrity
+causes
+roppongi
+vations
+obser
+rreps
+fected
+source route
+data packet
+topology graph
+rerr packet
+sequence number
+data packets
+link state
+link b
+neighbor id
+broadcast id
+alternate path
+source routes
+tra c
+b c
+history table
+state information
+simulation experiments
+broken source
+non propagating
+hoc networks
+head node
+control packets
+hello packets
+ad hoc
+data queue
+c pattern
+rreq history
+nsrc 1dst
+propagating rreq
+rerr history
+c d
+node b
+rreq packet
+route repaired
+neighbor table
+rerr packets
+neighbor ids
+propagating rreqs
+pause time
+source routing
+data ows
+next hop
+destination f
+node resets
+aware source
+causes node
+max pathlen
+1dst tra
+packets routed
+neighborhood aware
+route received
+running nsr
+path traversed
+routing information
+two hops
+failed link
+d e
+demand routing
+path tree
+n sources
+node forwarding
+node processing
+across node
+links b
+link failures
+solid lines
+link c
+shortest path
+hops away
+tail node
+rerr rerr
+lled circles
+packets originated
+id assigned
+reversed path
+pattern dsr
+link caches
+link encoded
+links learned
+nsr protocol
+route carried
+valid rreq
+nsrc 8dst
+links shown
+epoch e
+mobile ad
+c e
+route discovery
+routing protocols
+source address
+link state information
+link b c
+ad hoc networks
+tra c pattern
+rerr history table
+rreq history table
+broken source route
+nsr and dsr
+source route repaired
+node s epoch
+b c e
+b c d
+links to neighbors
+represent the links
+c d e
+c e d
+non propagating rreq
+forwarding a data
+nsrc 1dst tra
+source route received
+new source route
+aware source routing
+performance of nsr
+neighborhood aware source
+non propagating rreqs
+1dst tra c
+shortest path tree
+two hops away
+link c d
+received by node
+lines in figure
+d e f
+mobile ad hoc
+c causes node
+node s lifetime
+times more control
+source route carried
+pattern of n
+originated at node
+encoded in 1
+neighbor id assigned
+neighbor is taken
+data packets originated
+routed by dsr
+sequence number stored
+links b c
+routed by nsr
+address and broadcast
+reversed path traversed
+b c causes
+b to replace
+carried by data
+rrep and rerr
+indicated with lled
+c pattern dsr
+pattern dsr generates
+data packets routed
+across node resets
+b c shown
+causes node b

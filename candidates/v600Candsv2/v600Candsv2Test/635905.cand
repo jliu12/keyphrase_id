@@ -1,0 +1,363 @@
+bdy
+frontwidth
+fem
+boundary
+stiness
+cholesky
+jv
+numbering
+meshes
+dissection
+partitioning
+mesh
+concentrated
+shape
+subdomains
+dist
+factorization
+jvj
+steklov
+balanced
+geometric
+bem
+nnz
+poincare
+frontwidths
+chol
+vn
+dirichlet
+regularity
+hp
+cone
+denition
+neumann
+ops
+fk
+nested
+sparsity
+triangle
+psfrag
+rened
+recursion
+tn
+dene
+yn
+remark
+fig
+proposition
+neighbor
+matrix
+bsp
+subdomain
+denite
+replacements
+sparse
+vectors
+triangulation
+elliptic
+conrm
+freedom
+edge
+log
+assembling
+schur
+polylogarithmically
+dims
+dimvn
+degrees
+triangulations
+degree
+hk
+interior
+supp
+clover
+cients
+coe
+satised
+figs
+vertex
+2d
+storage
+unknowns
+fe
+spaces
+analytic
+lemma
+verbatim
+exposition
+jx
+nn
+operator
+submatrices
+delaunay
+preconditioner
+slope
+cient
+rst
+estimates
+nite
+tangential
+oating
+un
+center
+dened
+estimate
+solver
+toward
+square
+smooth
+vertices
+eectiveness
+sup
+cn
+thick
+vanish
+polynomial
+nodes
+variational
+numerical
+symmetric
+neighbors
+multiplications
+uniformly
+expect
+guidelines
+arising
+cf
+mixed
+internal
+multiplicity
+node
+cjvj
+shewchuck
+analyticity
+bdya
+holdsjv
+columnwise
+trefethen
+fhx
+cea
+profs
+barycenter
+withanitedimensionalsubspace
+dumbbell
+njg
+cuthill
+diamk
+picture
+logarithmic
+trace
+complement
+ll
+violated
+vector
+triangles
+ciently
+enumerate
+visible
+element
+refinement
+motivates
+hanging
+poole
+ruppert
+kuk
+inmum
+mckee
+hackbusch
+approximation
+median
+collected
+constants
+mention
+quasi
+realization
+rigorous
+numerically
+justies
+legendre
+coercivity
+lef
+equilateral
+sobolev
+associate
+suited
+splits
+shape functions
+boundary concentrated
+concentrated fem
+algorithm 3
+stiness matrix
+nested dissection
+linear degree
+geometric meshes
+geometric mesh
+cholesky factorization
+partitioning vector
+partitioning vectors
+degree vector
+cone condition
+jv bdy
+polynomial degree
+v bdy
+v left
+internal shape
+example 4
+element k
+shape function
+v right
+poincare steklov
+denition 2
+size h
+hp fem
+sparsity pattern
+boundary mesh
+partitioning strategy
+dist x
+q balanced
+degree vectors
+remark 3
+mesh size
+boundary conditions
+node numbering
+binary space
+examples 4
+lemma 3
+proposition 3
+jv j
+steklov operator
+right j
+bdy j
+rened toward
+edge shape
+dist dist
+side shape
+element method
+space partitioning
+nodes v
+log 2
+functions associated
+psfrag replacements
+factorization scheme
+dissection algorithm
+condition 3
+symmetric positive
+cholesky factor
+nite element
+dirichlet problem
+logarithmic complexity
+reference element
+left v
+bdy starting
+dissection v
+vertex shape
+n frontwidth
+chol sec
+k bdy
+direct solver
+solution u
+function associated
+storage requirement
+positive denite
+example 3
+standard basis
+boundary shape
+mixed boundary
+r nn
+j jv
+numbering scheme
+slope 0
+linear logarithmic
+edge e
+see fig
+degree p
+figs 5
+schur complement
+node v
+number n
+problem size
+boundary point
+sets v
+n 0
+log 4
+half spaces
+point b
+theorem 2
+n log
+log n
+coe cients
+boundary concentrated fem
+algorithm 3 10
+algorithm 3 9
+linear degree vector
+algorithm 3 2
+lemma 3 4
+boundary mesh size
+neighbor in h
+mesh size h
+denition 2 7
+condition 3 9
+linear degree vectors
+shape functions associated
+cone condition 3
+mesh with boundary
+binary space partitioning
+internal shape functions
+theorem 2 4
+meshes and linear
+shape function associated
+nested dissection algorithm
+ops t chol
+side shape functions
+poincare steklov operator
+jv bdy j
+number n 0
+log 2 n
+degrees of freedom
+example 4 3
+sense of denition
+examples 4 1
+symmetric positive denite
+linear logarithmic complexity
+results are collected
+triangle s output
+reference element k
+v left v
+describing the geometric
+expect the frontwidth
+jv j h
+collected in table
+associated with edge
+left v right
+nested dissection v
+edge shape functions
+cholesky factorization scheme
+v bdy starting
+picture of fig
+log n frontwidth
+j h 1
+figs 5 6
+example 4 5
+mixed boundary conditions
+example 3 11
+proposition 3 1
+set of nodes
+problem 2 1
+points in space
+o log 2
+example 3 3
+near the boundary
+example 4 1
+denote by v
+proposition 3 6
+o n log
+system of linear
+finite element method
+denition 2 1
+bdy the partitioning
+psfrag replacements x
+shape functions v
+choice of partitioning
+clover leaf log
+replace the square
+cholesky factor l

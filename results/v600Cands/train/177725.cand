@@ -1,0 +1,600 @@
+8ctl
+homomorphism
+moore
+fair
+preorder
+tableau
+compositional
+ctl
+formula
+checking
+formulas
+propositions
+verification
+8x
+00
+composition
+atomic
+pop
+reasoning
+logics
+push
+ltl
+grumberg
+fetchrdy
+satisfaction
+orna
+phi
+temporal
+induction
+homomorphic
+logic
+checker
+fairness
+clarke
+expressive
+hypothesis
+modular
+chakrabarti
+specifications
+calculus
+symbolic
+pushrdy
+8g8f
+poprdy
+machines
+kupferman
+closing
+verifying
+pushed
+cpu
+verified
+quantifiers
+pallab
+path
+stack
+existential
+reactive
+fetch
+ts
+aziz
+alur
+arindam
+dasgupta
+unit
+controller
+register
+kripke
+mcmillan
+8g
+henzinger
+subformulas
+quantifier
+mu
+iff
+specification
+tiplea
+htrueim
+bustan
+proposition
+moshe
+vardi
+subformula
+popped
+yunshan
+doron
+aadl
+vigyan
+grosu
+bisimulation
+el
+concurrent
+edmund
+ansuman
+discharges
+elementary
+automata
+heimdahl
+baumgartner
+toplas
+trivially
+false
+access
+kurshan
+8x8
+transition
+negated
+modules
+expressible
+hierarchic
+maximal
+grammars
+discharging
+pnueli
+km
+composed
+containment
+adnan
+automated
+formal
+satisfies
+mats
+aided
+circuits
+modal
+radu
+singhal
+instruction
+environment
+provisions
+homomorphisms
+explosion
+steffen
+kk
+assumptions
+oe
+labelings
+paths
+synchronous
+guarantee
+automation
+abstraction
+semantics
+myampersandldquo
+173
+signals
+minimization
+plus
+corollary
+facilities
+branch
+york
+verify
+automatic
+lemma
+structures
+incomparable
+thomas
+354
+banerjee
+branching
+todaes
+fetches
+abbreviation
+wright
+roscoe
+gradara
+afsc
+armin
+8fg
+dongfeng
+memack
+tianjun
+laurentiu
+villani
+programswith
+masson
+josko
+streett
+shtadler
+raimi
+8f8gp
+myampersandngr
+ferucio
+shurek
+draghicescu
+chouali
+tsload
+dharbe
+biere
+bellegarde
+7597
+newcomb
+julliand
+surjection
+tsstored
+gentilini
+roux
+devaraj
+memwr
+9005992
+fair path
+s 0
+m 0
+k m
+moore machine
+access unit
+a homomorphism
+model checking
+moore machines
+m 00
+execution unit
+the preorder
+a fair
+in m
+a moore
+atomic propositions
+the tableau
+m k
+the access
+2 phi
+homomorphism from
+a formula
+h s
+that h
+induction hypothesis
+the induction
+tableau construction
+hypothesis implies
+from s
+of 8ctl
+the formula
+temporal reasoning
+path in
+verification of
+initial state
+fair paths
+state formulas
+atomic proposition
+assume guarantee
+of moore
+no fair
+state formula
+closing environment
+path formula
+s 00
+at s
+the definition
+satisfaction of
+proposition then
+s s
+h 1
+model checker
+definition of
+the logic
+a tableau
+a state
+finite state
+push pop
+for compositional
+a preorder
+state of
+preorder in
+checker verified
+ts register
+as assumptions
+of composition
+of m
+2 s
+h 0
+for every
+path quantifiers
+of homomorphism
+compositional reasoning
+hypothesis s
+are state
+checking the
+compositional verification
+unit and
+from m
+and m
+0 s
+m and
+8ctl formula
+8ctl is
+paths start
+path formulas
+the ts
+symbolic representations
+the logics
+composition of
+0 then
+formula is
+s 2
+the execution
+design v
+every state
+of states
+existential path
+two structures
+checking algorithm
+of h
+environment satisfies
+every s
+formal methods
+a path
+the memory
+the cpu
+machine m
+in system
+checking in
+to m
+formulas then
+every fair
+systems containing
+theta s
+of atomic
+true in
+since h
+mu calculus
+tableau of
+0 is
+a compositional
+then by
+for checking
+all systems
+then s
+h is
+orna kupferman
+if s
+temporal logic
+is fair
+state s
+the moore
+formulas as
+every 8ctl
+maximal environment
+a 8ctl
+8x in
+km 0
+compositional minimization
+homomorphism between
+preorder and
+in 8ctl
+8g push
+clarke long
+unit alone
+fair simulation
+assumption 8g
+cpu controller
+homomorphism there
+arindam chakrabarti
+oe is
+0 proof
+path s
+system composed
+system design
+expressive power
+a system
+symbolic model
+if m
+previous lemma
+given component
+implies t
+an initial
+0 such
+path from
+formulas of
+system containing
+0 there
+s is
+a pop
+propositions in
+k k
+fairness constraint
+guarantee style
+and mcmillan
+modular framework
+ltl and
+negated atomic
+relation h
+orna grumberg
+trace theory
+checking that
+0 be
+formula by
+pallab dasgupta
+path quantifier
+unit must
+homomorphism h
+using formulas
+local model
+m km
+is homomorphic
+and ctl
+follows 1
+state concurrent
+for m
+state in
+the model
+concurrent systems
+a fair path
+the access unit
+path in m
+fair path in
+k m 0
+the execution unit
+a moore machine
+is a homomorphism
+m k m
+is a fair
+a homomorphism from
+by the definition
+such that h
+the induction hypothesis
+k m k
+fair path from
+homomorphism from m
+in m 00
+of k m
+initial state of
+and m 0
+induction hypothesis implies
+the definition of
+m and m
+definition of h
+s s 0
+state of m
+s 2 phi
+access unit and
+definition of composition
+state of k
+checking the preorder
+an initial state
+satisfaction of a
+in m 0
+is an initial
+moore machine m
+environment for m
+of moore machines
+exists a fair
+atomic proposition then
+m k k
+k k m
+that h s
+are state formulas
+2 s 0
+of a formula
+and s 0
+induction hypothesis s
+h s 0
+is a state
+h s s
+definition of homomorphism
+k m 00
+model checker verified
+the ts register
+closing environment for
+a path formula
+the preorder in
+m to m
+the model checker
+m 0 is
+in the preorder
+the tableau construction
+of atomic propositions
+s 0 s
+system design v
+methods in system
+a state formula
+that h 0
+s and s
+h is a
+from m to
+s 0 then
+in system design
+then s 0
+starting at s
+formal methods in
+model checking in
+all systems containing
+a tableau construction
+in k m
+every fair path
+fair paths start
+checker verified that
+0 then s
+be a homomorphism
+paths start at
+the moore machine
+systems containing a
+1 from s
+composition of moore
+of finite state
+of the access
+model checking algorithm
+from s 0
+s 0 2
+state in m
+formula is true
+for checking the
+checking in the
+m 0 then
+follows 1 2
+of the logic
+s 0 is
+for every fair
+atomic propositions in
+start at s
+if an atomic
+no fair paths
+the tableau of
+path from s
+set of atomic
+then by the
+hypothesis s 2
+s is a
+verification of finite
+if s 0
+an atomic proposition
+every s 0
+at s 0
+a state of
+that the execution
+a formula is
+0 such that
+in m k
+s 0 there
+is a path
+1 is a
+of m 0
+by the induction
+for every s
+compositional verification of
+symbolic model checking
+that for every
+a given component
+if and are
+system composed of
+to m 0
+for the formula
+states in k
+assume guarantee style
+m km 0
+moore machines with
+m 00 2
+a closing environment
+negated atomic proposition
+formulas as assumptions
+long and mcmillan
+moore machine the
+and are state
+8g push pop
+s 0 implies
+clarke long and
+cases s 2
+a homomorphism between
+assumption 8g push
+a 8ctl formula
+homomorphism there exists
+preorder in several
+2 s 00
+t 2 phi
+expressible in 8ctl
+preserved under composition
+hypothesis implies t
+composition of structures
+fair path s
+no fair path
+for every 8ctl
+the previous lemma
+of m k
+expressive power of
+as follows 1
+unit and the
+with atomic propositions
+k e m
+path s 0
+atomic propositions for
+00 from s
+tableau construction for
+fair path starting
+hence h is
+satisfaction is preserved
+local model checking
+the memory model
+m 0 k
+l 0 s
+0 there is
+information and computation
+finite state concurrent
+n 1 p
+and computation v
+for model checking
+0 2 s
+propositions in a
+0 in m
+result is trivial
+in the modal
+the system composed
+is a moore

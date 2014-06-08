@@ -1,0 +1,270 @@
+mutex
+continuations
+subcontinuation
+subcontinuations
+thread
+pcall
+controller
+shot
+threads
+continuation
+spawn
+subcomputation
+lambda
+invoked
+thunk
+stack
+subtree
+cons
+concurrency
+reinstated
+unblock
+invocation
+release
+captured
+acquire
+subexpressions
+tree
+fork
+child
+mutexes
+rooted
+parent
+prompts
+cloned
+subcon
+tinuations
+subcontinua
+primitives
+invoking
+leaves
+concurrent
+segments
+leaf
+abort
+lst
+prompt
+releases
+grafted
+root
+node
+felleisen
+wait
+signaling
+forks
+futures
+wakes
+returns
+invokes
+reinstates
+subcontinu
+subcontin
+chez
+reinstatement
+signaled
+uation
+nonlocal
+bruggeman
+grafts
+fact5
+unblocks
+coroutines
+hieb
+waits
+sgi
+val
+creates
+traditional
+shaped
+blocked
+acquires
+graft
+aborted
+article
+waiting
+awakened
+dybvig
+procedures
+unblocking
+blocking
+acquiring
+one shot
+the mutex
+shot subcontinuations
+the subcontinuation
+the controller
+a subcontinuation
+controller node
+shot continuations
+multi shot
+mutex release
+process tree
+threads yield
+yield continuations
+stack segments
+release mutex
+controller invocation
+a thread
+controller invoked
+acquire mutex
+mutex to
+mutex acquire
+pcall node
+the thread
+continuations and
+condition variables
+condition done
+mutex let
+structured concurrency
+traditional continuations
+the subcomputation
+child thread
+define controller
+a continuation
+root thread
+thread system
+condition signal
+thread primitives
+pcall is
+spawn lambda
+subcontinuation controller
+traditional continuation
+continuations 3
+subcontinuations in
+is reinstated
+subcontinuations are
+of subcontinuations
+condition wait
+implement one
+threads and
+the cons
+a subcomputation
+parent thread
+next thread
+invoked at
+a controller
+the continuation
+cons of
+the threads
+thread that
+current leaf
+mutex mutex
+given controller
+condition make
+invocation thunk
+of pcall
+thread fork
+set controller
+make mutex
+class continuations
+be invoked
+tree structured
+first class
+the implementation
+lambda c
+controller is
+waiting on
+of threads
+implementation of
+continuations in
+a mutex
+by signaling
+the subtree
+to implement
+tree shaped
+continuation is
+to spawn
+controller was
+condition variable
+of stack
+the tree
+one shot subcontinuations
+the process tree
+threads yield continuations
+one shot continuations
+mutex release mutex
+of one shot
+mutex acquire mutex
+the cons of
+tree structured concurrency
+the condition done
+implement one shot
+implementation of one
+to implement one
+of a subcomputation
+implementation of subcontinuations
+invoked at most
+multi shot subcontinuations
+used to implement
+represents the rest
+of stack segments
+rest of a
+the controller is
+condition make mutex
+acquire mutex let
+support multi shot
+spawn lambda c
+set of thread
+given controller node
+the current leaf
+multi shot continuations
+a traditional continuation
+the mutex to
+the given controller
+condition done the
+first class continuations
+controller invocation thunk
+releases the mutex
+be invoked at
+the parent thread
+and condition variables
+to support multi
+the controller was
+a one shot
+given point in
+of the controller
+rooted at the
+may be invoked
+invokes the controller
+shot continuations in
+controller was invoked
+within the cons
+succeed in acquiring
+one shot continuation
+is never invoked
+level evaluation function
+by signaling the
+condition signal done
+creates a controller
+subcomputation from a
+top level evaluation
+that use continuations
+controller to be
+shot continuations 3
+cons of 2
+a subcomputation from
+wakes up the
+the child thread
+implementation of spawn
+call to spawn
+stack segments required
+signaling the condition
+thread based implementation
+done mutex release
+subcontinuations can be
+in the subcomputation
+tree of stack
+implementation of pcall
+the stack segments
+of thread primitives
+continuations can be
+the implementation of
+a given point
+mutexes and condition
+threads at the
+on the condition
+at the leaves
+a thread to
+can be implemented
+at most once
+the thread that

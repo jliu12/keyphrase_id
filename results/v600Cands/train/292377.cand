@@ -1,0 +1,600 @@
+dropping
+residual
+preconditioning
+mr
+sparse
+inverse
+gmres
+preconditioned
+inverses
+lfil
+preconditioner
+preconditioners
+approximate
+am
+sparsity
+descent
+norm
+iterations
+guess
+west0067
+ilu
+matrices
+outer
+bilu
+fidap
+matrix
+factorizations
+factorization
+eigenvalue
+incomplete
+pivot
+indefinite
+singular
+self
+spoiling
+convergence
+saad
+inner
+fill
+column
+kr
+newton
+chow
+denser
+iteration
+numerical
+factorized
+frobenius
+columns
+nonzeros
+nonsingular
+block
+eigenvector
+tridiagonal
+eigenvalues
+perturbed
+definite
+pores3
+proposition
+gamma2a
+precon
+transpose
+harwell
+boeing
+options
+nonsymmetric
+steepest
+drop
+svd
+norms
+dropped
+scaled
+minnesota
+grote
+ff
+diagonal
+lu
+gradient
+nonsingularity
+nonzero
+none
+dense
+ag
+lapl0324
+iaz
+amk
+equimodular
+saylr3
+droptol
+sparser
+mode
+guesses
+kagk
+btif
+sosonkina
+oriented
+x4
+ilutp
+iterative
+squares
+minimizing
+kolotilina
+saxpy
+vectors
+az
+blocks
+ls
+axisymmetric
+cosgrove
+sherman2
+tolerance
+edmond
+yeremin
+griewank
+multiplying
+identity
+wavelet
+banded
+beforehand
+gershgorin
+ilut
+supercomputer
+pattern
+x2
+symmetric
+conditioned
+progress
+umn
+cavity
+minimization
+arnoldi
+subproblems
+multiplication
+constructing
+kf
+persist
+variations
+radius
+approximations
+mathematics
+package
+pivots
+objective
+kernels
+direction
+entries
+fluid
+quadratic
+expensive
+quadratically
+economical
+iterate
+attempting
+perturbation
+origin
+500
+diagonally
+ki
+krylov
+ill
+poorly
+invert
+br
+hrk
+unself
+mnew
+agi
+75628
+2which
+poppet
+bodewig
+259879
+azk
+ffam
+kxkf
+54543
+kadk
+hag
+dgels
+ditioning
+ek1
+99471
+impingement
+west0989
+th
+singularity
+converges
+07
+spectral
+timings
+slowly
+schur
+variant
+multigrid
+triangular
+worse
+masha
+0154
+larrazbal
+3363
+approximate inverse
+self preconditioning
+numerical dropping
+approximate inverses
+the residual
+initial guess
+dropping is
+the approximate
+none a
+dropping in
+self preconditioned
+sparse mode
+sparsity pattern
+residual norm
+column oriented
+sparse approximate
+each column
+outer iterations
+bilu 0
+mr algorithm
+search direction
+fill in
+algorithm 2
+minimal residual
+inverse preconditioners
+the sparsity
+residual matrix
+transpose initial
+inner iterations
+the preconditioner
+incomplete block
+the matrix
+gmres iterations
+kr new
+gamma am
+the mr
+outer iteration
+of gmres
+sparse matrix
+y saad
+end do
+the preconditioned
+when dropping
+mr iteration
+0 svd
+preconditioned mr
+global mr
+the inverse
+pivot blocks
+th column
+the descent
+the frobenius
+a t
+a sparse
+descent type
+mr or
+e chow
+frobenius norm
+inverse techniques
+block tridiagonal
+residual associated
+6 07
+norm of
+of approximate
+preconditioning with
+i gamma
+residual iteration
+oriented algorithms
+svd ff
+none i
+mr iterations
+am 0
+positive definite
+column is
+newton iteration
+m j
+drop tolerance
+is nonsingular
+chow and
+global iterations
+of dropping
+improving a
+linear systems
+j th
+the sparse
+pattern of
+the fidap
+direction g
+ilu factorizations
+the iterations
+the convergence
+preconditioned matrix
+preconditioning is
+preconditioned system
+inverse of
+an approximate
+or gmres
+m is
+y y
+in algorithm
+matrix vector
+am is
+one inner
+the columns
+of outer
+convergence behavior
+harwell boeing
+the gradient
+the harwell
+8 17
+block diagonal
+07 6
+inverse the
+new residual
+sparse approximation
+column of
+matrix m
+the pivot
+newton global
+eigenvalue zero
+inverse may
+column do
+linear subproblems
+gamma2a t
+scaled transpose
+oriented iterations
+iterations vs
+oriented mr
+dropping may
+fidap fluid
+practical variations
+table 4
+the search
+steepest descent
+zero eigenvalue
+initial residual
+t r
+proposition 3
+r j
+block size
+preconditioners for
+the j
+type method
+columns of
+preconditioner for
+matrix a
+preconditioning and
+inner iteration
+initial guesses
+the self
+global iteration
+eigenvector z
+several approximate
+iterations used
+initial m
+denser and
+identity initial
+dropping to
+vs no
+descent property
+t u
+of am
+a preconditioner
+the nonzero
+boeing collection
+elements are
+m 0
+with ilu
+dynamics analysis
+analysis package
+no matrix
+indefinite problems
+apply numerical
+1 norm
+17 8
+incomplete lu
+the initial
+nonzero elements
+in sparse
+inverse is
+of sparse
+inverse m
+iterations progress
+sparse sparse
+local nature
+objective function
+of nonzeros
+are dropped
+iteration the
+is applied
+r k
+a matrix
+residual is
+residual of
+m new
+were scaled
+sparse vector
+simple results
+mr s
+the solution
+the approximate inverse
+none a t
+dropping is applied
+the residual norm
+the sparsity pattern
+approximate inverse preconditioners
+number of gmres
+sparsity pattern of
+of the approximate
+dropping in the
+i gamma am
+the search direction
+the residual matrix
+transpose initial guess
+for each column
+j th column
+a t u
+algorithm 2 4
+when dropping is
+and y saad
+self preconditioned mr
+self preconditioning is
+chow and y
+bilu 0 svd
+the frobenius norm
+an approximate inverse
+approximate inverse techniques
+e chow and
+of gmres iterations
+in algorithm 2
+sparse approximate inverse
+residual associated with
+a t p
+algorithm 2 5
+of the residual
+of approximate inverses
+column oriented algorithms
+6 07 6
+descent type method
+preconditioning with a
+improving a preconditioner
+minimal residual iteration
+numerical dropping is
+none i p
+8 17 8
+mr or gmres
+of numerical dropping
+0 svd ff
+17 8 17
+self preconditioning with
+elements are dropped
+07 6 07
+of the inverse
+of outer iterations
+y y y
+number of outer
+approximate inverse the
+the mr algorithm
+the preconditioned matrix
+in the residual
+preconditioning is used
+each column is
+m is nonsingular
+10 10 3
+is the residual
+the harwell boeing
+norm of the
+the j th
+the new residual
+the initial residual
+the initial guess
+the inverse of
+0 10 10
+2 0 10
+approximate inverse is
+apply numerical dropping
+fidap fluid dynamics
+column oriented iterations
+the descent property
+r j e
+dynamics analysis package
+the eigenvalue zero
+limitations of approximate
+the fidap fluid
+vs no matrix
+dropping may be
+global and column
+each column do
+approximate inverse may
+in sparse mode
+their local nature
+fluid dynamics analysis
+mr and gmres
+practical variations and
+numerical dropping to
+the self preconditioned
+newton global and
+self preconditioning and
+a scaled transpose
+column oriented mr
+are also symmetric
+scaled transpose initial
+gamma2a t r
+variations and applications
+outer iterations used
+th column of
+l and u
+convergence behavior of
+sparse approximate inverses
+inverse of a
+pattern of the
+residual of the
+harwell boeing collection
+the convergence behavior
+identity initial guess
+several approximate inverse
+the pivot blocks
+constructing the approximate
+dropping is performed
+to the identity
+frobenius norm of
+m j is
+block size of
+from the harwell
+the 1 norm
+is applied to
+the block diagonal
+a is indefinite
+approximate inverse m
+residual is the
+the minimal residual
+of approximate inverse
+then m is
+an initial guess
+number of nonzeros
+with the eigenvalue
+associated with m
+the zero eigenvalue
+algorithm 2 3
+a sparse approximation
+around the origin
+at the limit
+3 0 2
+column of the
+the identity matrix
+of the form
+matrix i gamma
+associated with the
+as the iterations
+number of inner
+in the solution
+the matrix m
+for the j
+compute the approximate
+systems may be
+the matrix a
+may be used
+for general sparse
+the nonzero elements
+the largest singular
+table number of
+applied to the
+in the sparse
+largest singular value
+and u factors
+0 3 0
+symmetric positive definite
+0 2 0
+of the algorithms
+against the number
+r k 1
+the previous result
+inverse may be
+residual matrix i
+implementation of mr
+of simple results
+and griewank 10
+solved with ilu
+dropping was applied
+cosgrove d iaz
+9 ff r
+does so quadratically
+with practical variations
+small enough then
+presence of numerical
+inverses and the
+some ideas and
+start 2 for
+dropping to m
+residual iteration 1
+no self preconditioning
+init west0067 none
+when self preconditioning
+12 end do
+d iaz and
+kr new in
+preconditioned mr iteration
+and the fidap
+pores3 none a
+of gmres 20

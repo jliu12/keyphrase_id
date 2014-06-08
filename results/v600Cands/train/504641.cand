@@ -1,0 +1,600 @@
+abr
+tcp
+effcap
+instcap
+throughput
+bottleneck
+packets
+rtd
+link
+feedback
+capacity
+atm
+trip
+window
+buffer
+session
+100ms
+round
+packet
+rate
+50ms
+instantaneous
+240ms
+delta
+congestion
+delay
+360ms
+sessions
+modulating
+service
+markov
+rtt
+propagation
+ip
+200ms
+bandwidth
+reward
+fairness
+traffic
+slow
+pkts
+efficiency
+segmentation
+queue
+loss
+30msec
+alone
+chain
+variations
+avoidance
+vbr
+losses
+timeout
+bed
+connection
+gammaffi
+queueing
+host
+acks
+adapts
+averages
+measurement
+1000ms
+source
+nic
+simulation
+cell
+reno
+recovery
+qos
+500ms
+linux
+varied
+edge
+buffers
+varying
+intervals
+analytical
+ergodic
+epoch
+units
+fed
+variation
+connections
+mismatch
+effective
+ack
+mismatches
+transport
+30ms
+simulations
+server
+transmitter
+conservative
+transporting
+stationary
+pipe
+network
+curves
+feedbacks
+frequent
+optimistic
+18pkts
+mrp
+recvr
+mcr
+vcs
+200msec
+75kb
+360ms0
+300ms
+switch
+eff
+bytes
+throughputs
+receiver
+renewal
+interval
+modulated
+cbr
+cells
+transmitted
+intermediate
+mean
+ms
+testbed
+ubr
+insensitive
+router
+me
+550
+samples
+0g
+performances
+50kb
+transmission
+bmax
+lans
+evolution
+erica
+loopback
+normalized
+headers
+450
+ffi
+multipoint
+1of
+reaches
+delays
+sec
+cycle
+embedded
+averaging
+card
+arrive
+tahoe
+destination
+phase
+transients
+probability
+350
+unfair
+employing
+adaptive
+deltas
+epochs
+improves
+arrival
+networks
+retransmit
+hybrid
+improvement
+track
+fair
+sudden
+feeds
+upto
+slot
+lossy
+explained
+gets
+arriving
+senders
+simulator
+drop
+carrying
+transmit
+backbone
+max
+unidirectional
+endpoints
+fraction
+slight
+infrequent
+elastic
+maximizes
+ec
+250
+forum
+155mbps
+bottleneck link
+over abr
+tcp over
+the abr
+of tcp
+the bottleneck
+rate feedback
+effective capacity
+the tcp
+abr source
+the throughput
+round trip
+effcap feedback
+the effcap
+efficiency mean
+trip propagation
+link buffer
+per state
+instcap feedback
+tcp alone
+mean time
+loss occurs
+instantaneous rate
+abr with
+propagation delay
+tcp window
+window size
+state rtd
+without abr
+12 packets
+10 packets
+t k
+slow start
+mean capacity
+segmentation buffer
+end abr
+throughput of
+time per
+link capacity
+start phase
+session 2
+tcp without
+the round
+end to
+the window
+tcp throughput
+session 1
+to end
+for tcp
+markov chain
+packets instantaneous
+the instcap
+simulation results
+the rate
+intermediate range
+the source
+atm abr
+abr is
+abr the
+tcp abr
+with effcap
+link rate
+to edge
+bottleneck bandwidth
+the link
+explicit rate
+no loss
+tcp connection
+session with
+service rate
+over end
+available capacity
+with tcp
+service time
+throughput is
+variation with
+larger rtd
+abr service
+rtd session
+efficiency variation
+measurement intervals
+the mean
+the atm
+the network
+congestion avoidance
+and tcp
+capacity of
+rate control
+state larger
+40 time
+and delta
+tcp ip
+delta is
+atm networks
+one round
+loss will
+feedback scheme
+to delta
+buffer is
+abr for
+with abr
+rate mismatch
+effcap algorithm
+capacity feedback
+larger delta
+abr control
+feedback is
+edge to
+is seen
+a tcp
+the service
+packets figure
+that tcp
+is varied
+the buffer
+abr and
+of atm
+trip delay
+the reward
+the segmentation
+packets in
+the effective
+the instantaneous
+control loop
+of m
+the intermediate
+8 packets
+b max
+trip times
+for small
+the minimum
+capacity 10
+edge tcp
+source adapts
+rtt 100ms
+packets effective
+every 30msec
+abr connection
+240ms and
+rate state
+effcap is
+link buffers
+1 240ms
+effcap session
+is 360ms
+tcp improves
+10 pkts
+rtt 50ms
+intervals rtt
+sessions sharing
+instcap scheme
+effcap and
+and instcap
+efficiency window
+the modulating
+abr employing
+rtd figure
+240ms session
+50ms rtt
+is 240ms
+rate mismatches
+rtd effective
+rtd is
+adaptive window
+buffer size
+over atm
+of delta
+m and
+link is
+time units
+test bed
+on tcp
+cell loss
+feedback and
+study the
+buffer of
+and n
+a packet
+the markov
+the congestion
+feedback schemes
+the rtd
+feedback 10
+delta values
+window control
+when loss
+100ms and
+k 0g
+size measurement
+the slow
+delta 1
+packet loss
+of packets
+is 40
+a session
+tcp packets
+tcp packet
+high rate
+fed back
+time varying
+tcp over abr
+the bottleneck link
+time per state
+mean time per
+the abr source
+efficiency mean time
+round trip propagation
+trip propagation delay
+instantaneous rate feedback
+throughput of tcp
+of the bottleneck
+of tcp over
+the tcp window
+per state rtd
+performance of tcp
+the round trip
+the mean capacity
+to end abr
+over abr with
+end to end
+slow start phase
+of the effcap
+edge to edge
+the throughput of
+link buffer is
+packets instantaneous rate
+tcp without abr
+m and n
+the intermediate range
+the effective capacity
+at the bottleneck
+loss occurs in
+for tcp over
+bottleneck link buffer
+one round trip
+over end to
+in the intermediate
+no loss occurs
+state larger rtd
+per state larger
+the segmentation buffer
+larger rtd session
+explicit rate feedback
+of tcp without
+efficiency variation with
+with effcap feedback
+rtd session 1
+40 time units
+abr with effcap
+the window size
+effective capacity of
+the slow start
+t k 1
+capacity of the
+the throughput is
+in the slow
+with tcp alone
+session with larger
+in the abr
+the link buffer
+to the abr
+rate feedback scheme
+loss will occur
+is 40 time
+the effcap algorithm
+the service time
+and delta 2
+round trip delay
+bottleneck link is
+intermediate range of
+is fed back
+bottleneck link with
+occurs in t
+round trip times
+to the round
+of m and
+in each state
+units of time
+a session with
+at the source
+50ms rtt 100ms
+2 is 360ms
+12 packets figure
+packets effective capacity
+rtt 50ms rtt
+case of tcp
+1 240ms session
+the instcap scheme
+bottleneck link buffers
+capacity 10 packets
+rate feedback 10
+effective capacity 10
+10 packets instantaneous
+efficiency window size
+size measurement intervals
+sessions sharing a
+session 1 240ms
+state rtd effective
+of tcp alone
+rtd effective capacity
+state rtd figure
+tcp over end
+the explicit rate
+1 is 240ms
+over abr employing
+single bottleneck link
+of tcp improves
+to edge tcp
+the rtd is
+window size measurement
+measurement intervals rtt
+intervals rtt 50ms
+simulation results comparison
+with larger delta
+is 240ms and
+240ms session 2
+feedback 10 packets
+240ms and delta
+effcap and instcap
+simulation results for
+packets in the
+the link capacity
+k t k
+the performance of
+and simulation results
+at t k
+k k 0g
+bottleneck link capacity
+the instantaneous rate
+the high rate
+is varied from
+to track the
+the tcp throughput
+the source rate
+number of packets
+in this region
+back to back
+results comparison of
+the congestion avoidance
+maximum window size
+the tcp connection
+delta 1 is
+link capacity is
+a single bottleneck
+memory of the
+variations in the
+study the performance
+state markov chain
+with time varying
+for small the
+delta 2 is
+in the throughput
+window size increases
+that the throughput
+the maximum window
+study the effect
+we can see
+see from figure
+t k t
+round trip time
+the markov chain
+an absolute parameter
+with tcp over
+loss probability ffl
+tcp alone and
+the effcap calculated
+bottleneck link in
+tcp code and
+loss occurs during
+abr for various
+550 efficiency mean
+during t k
+fx k k
+100ms and 200ms
+abr with the
+50ms 100ms and
+and instcap feedback
+track the instantaneous
+for large the
+rtt 100ms rtt
+the effcap scheme
+effective capacity scheme
+link with time
+an effective capacity
+ms units of
+rate feedback is
+is 10 pkts
+arrive back to
+over abr the
+the source adapts
+a tcp session
+edge tcp over
+to edge abr
+state normalized to
+buffer is 10
+connection and two
+tcp abr with
+the minimum capacity
+employing effcap feedback
+the instcap feedback

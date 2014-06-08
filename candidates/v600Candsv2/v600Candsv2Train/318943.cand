@@ -1,0 +1,374 @@
+fics
+alias
+andersen
+steensgaard
+gp
+ptr
+landi
+ryder
+pointer
+hgi
+incr
+glob
+vhe
+insensitive
+aliased
+bindglobal
+bindloc
+hf
+aliases
+slicing
+interprocedural
+lambdabuf
+harrold
+procedures
+locations
+numofcall
+thruderef
+phe
+sigsoft
+sensitive
+lambdap
+slices
+bind
+calling
+precision
+assignments
+hfi
+lambdaptr
+flow
+donglin
+equivalence
+phase
+slicer
+forces
+pointers
+merges
+imprecise
+callees
+endfor
+slice
+lr
+vertex
+foreach
+stubs
+sigplan
+pha
+mock
+atkinson
+safe
+propagated
+dereferences
+site
+lambdaq
+smail
+propagates
+eggers
+computes
+graphs
+dixie
+callers
+empirical
+mary
+programs
+gi
+precise
+hai
+shapiro
+liang
+chambers
+manuvir
+susan
+markus
+darren
+hind
+vertices
+aliasing
+dependence
+calls
+snowbird
+assignment
+processes
+notices
+loader
+horwitz
+jean
+statement
+numberi
+hpi
+vhn
+lambdar
+phn
+lambdaincr
+ansitape
+hstatement
+craig
+analyses
+edges
+endif
+engineering
+imprecision
+espresso
+pk
+larn
+lattner
+utah
+formal
+studies
+init
+mod
+gaard
+steens
+moria
+rugina
+pointed
+whole
+tools
+hg
+rountev
+pennings
+atanas
+maikel
+paf
+chris
+mpeg
+bindings
+binkley
+hankin
+bison
+pearce
+tosem
+rhs
+processed
+globals
+das
+notes
+statements
+labeled
+harman
+ultra
+sites
+summary
+flex
+radu
+field
+chatterjee
+lori
+vikram
+adve
+sept
+heap
+dure
+lhs
+toplas
+recursion
+endwhile
+reuse
+distinguishable
+unsafe
+strongly
+merge
+kelly
+st
+iterates
+topologically
+proce
+locates
+alias information
+pointer related
+alias pair
+incr ptr
+alias analysis
+flow insensitive
+gp j
+program analysis
+whole program
+precise alias
+g glob
+related assignment
+context sensitive
+summary edges
+related assignments
+information provided
+fics computes
+large programs
+using alias
+algorithm processes
+subject programs
+vhe hgi
+insensitive context
+hf 1
+hgi gp
+pointer analysis
+site c
+analysis algorithm
+software engineering
+alias pairs
+calling procedures
+called procedures
+context insensitive
+system dependence
+analysis algorithms
+compute alias
+hf 2
+input buf2
+call site
+graph labeled
+h 17
+object name
+phase 3
+equivalence class
+h lambdabuf
+sensitive alias
+imprecise alias
+thruderef mod
+pointer variables
+insensitive alias
+global variables
+memory locations
+formal parameter
+locations pointed
+sensitive points
+processes statement
+flow sensitive
+phase 2
+jean harrold
+mary jean
+r incr_ptr
+algorithm fics
+smaller points
+introduce aliases
+aliases introduced
+fics also
+phe 1
+computes alias
+fics calls
+fics processes
+safe alias
+donglin liang
+acm sigplan
+empirical studies
+alias solution
+calling context
+example program
+program slicing
+insensitive algorithm
+formal parameters
+acm sigsoft
+dynamic points
+sensitive algorithm
+procedure p
+input input
+markus mock
+strongly connected
+function pointers
+global variable
+chambers susan
+fics first
+phase lines
+algorithm andersen
+processes statements
+processed pointer
+ptr incr_ptr
+ptr input
+st fics
+phe 2
+forces e
+propagates alias
+thus fics
+e hai
+processes main
+bind bindglobal
+r buf1
+updates gp
+procedures phase
+calls bindloc
+global points
+ptr buf1
+input ptr
+hfi gp
+pha c
+andersen s algorithm
+steensgaard s algorithm
+points to graph
+ryder s algorithm
+landi and ryder
+whole program analysis
+points to graphs
+alias information provided
+pointer related assignment
+precise alias information
+points to set
+pointer related assignments
+points to analysis
+using alias information
+call site c
+algorithm and landi
+flow insensitive context
+alias analysis algorithms
+alias analysis algorithm
+e 2 hf
+e 1 hf
+insensitive alias analysis
+imprecise alias information
+context sensitive points
+using more precise
+computed by andersen
+fics and lr
+insensitive context sensitive
+vhe hgi gp
+points to relations
+aliased to e
+compute alias information
+algorithm processes statement
+flow and context
+shows the points
+presence of pointers
+mary jean harrold
+system dependence graph
+algorithm can compute
+q r incr_ptr
+compute the summary
+context sensitive alias
+provided by fics
+sensitive alias analysis
+context insensitive alias
+using a depth
+software engineering notes
+engineering notes v
+acm sigsoft software
+sigsoft software engineering
+chambers susan j
+craig chambers susan
+fics calls bindloc
+example when fics
+graph labeled c
+input buf2 r
+input buf2 buf1
+fics and andersen
+almost as precise
+provided by landi
+pha c e
+type of alias
+ptr buf1 q
+computed by steensgaard
+close to steensgaard
+algorithm and andersen
+processed pointer related
+memory the table
+hgi gp j
+processing each pointer
+p input ptr
+ptr input buf2
+vertices in gp
+previously processed pointer
+propagates alias information
+input ptr buf1
+safe alias information
+bindglobal and bindloc
+almost as effective
+number of summary
+computed by fics
+v h lambdabuf
+algorithm processes statements
+graph labeled b

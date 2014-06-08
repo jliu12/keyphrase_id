@@ -1,0 +1,193 @@
+race
+release
+consistency
+synchronization
+processor
+hardware
+programmers
+sequentially
+processors
+coherence
+ordering
+sequential
+cache
+shared
+programmer
+memory
+uniprocessor
+programs
+sistency
+implementations
+consistent
+designers
+multiprocessor
+optimizations
+correctly
+program
+write
+execution
+location
+protocol
+gharachorloo
+instruction
+dependencies
+opera
+detecting
+intuition
+pro
+disadvantages
+data race
+release consistency
+weak ordering
+sequential consistency
+synchronization operations
+sequentially consistent
+memory operations
+ordering release
+program order
+memory model
+data operations
+data requirement
+four models
+vax model
+releasing processor
+data races
+cache coherence
+operations of
+properly labeled
+acquire condition
+data operation
+synchronization operation
+hardware designer
+1 unifies
+requirement conditions
+correctly synchronized
+hardware designers
+acquiring processor
+implementation proposal
+memory models
+ordering and
+operations are
+1 memory
+programmers prefer
+unpaired synchronization
+labeled programs
+incomplete operations
+release acquire
+critical section
+conflicting operations
+memory multiprocessors
+operations and
+unifies the
+p 1
+free program
+programs that
+free programs
+coherence protocol
+consistent hardware
+read returns
+consistent execution
+formal interface
+appear sequentially
+special operations
+memory location
+less restrictive
+consistency and
+operations preceding
+consistency for
+paired release
+ensures sequential
+designers since
+serialization operations
+serialization operation
+consistent special
+appears sequentially
+1 relation
+execution of
+release operation
+incomplete data
+value written
+data race free
+weak ordering release
+ordering release consistency
+weak ordering and
+happens before 1
+consistency the vax
+1 memory model
+release consistency the
+data requirement conditions
+model and data
+consistency or data
+release consistency or
+vax model and
+shared memory multiprocessors
+prefer to reason
+race free program
+ordering and release
+unifies the four
+synchronization operations and
+sequentially consistent to
+appear to execute
+properly labeled programs
+programmers prefer to
+race free programs
+implementations of data
+paired with the
+cache coherence protocol
+ordering and the
+distributed shared memory
+release and acquire
+implementation proposal for
+sequential consistency to
+model data race
+appear sequentially consistent
+sequentially consistent hardware
+release acquire condition
+sequentially consistent execution
+release consistency and
+operations are distinguished
+reason with sequential
+1 unifies the
+fetch inc count
+empty special buffer
+operations of the
+returns the value
+1 is less
+definition of data
+memory consistency models
+explicit and formal
+group of programs
+less restrictive than
+implementations of weak
+read returns the
+consistency and data
+free 1 provides
+appears sequentially consistent
+ensures sequential consistency
+allowed by weak
+hardware designers since
+post acquire condition
+0 for hardware
+consistent special operations
+memory operations of
+implementation of data
+memory operations in
+consistency with sequentially
+pre release condition
+cache coherence logic
+execution is possible
+sequential consistency for
+synchronization operations of
+allows an implementation
+unpaired synchronization operations
+special buffer message
+programs that are
+value written by
+conflicting data operations
+paired release and
+conflicting operations from
+data operations of
+free program on
+memory operations and
+release consistency 11
+detecting data races

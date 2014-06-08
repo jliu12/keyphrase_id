@@ -1,0 +1,360 @@
+cache
+kflop
+misses
+recursively
+partitioned
+lapack
+lu
+strassen
+looking
+permuting
+factorization
+mflops
+toledo
+essl
+dgetrf
+trailing
+pivoting
+subroutine
+kbytes
+rl
+iorp
+dgemmb
+blas
+rs
+nm
+exchanges
+columns
+mp
+ibm
+multiplication
+triangular
+factored
+matrix
+dgef
+primary
+locality
+updates
+transferred
+gustavson
+reloads
+submatrices
+submatrix
+transfers
+matrices
+discrepancy
+block
+experiment
+nr
+sivan
+memories
+analyzes
+decomposition
+column
+rp
+permutations
+mbytes
+oblivious
+mhz
+dgemm
+core
+memory
+fit
+secondary
+workstation
+bus
+permute
+iomm
+rows
+square
+cm
+recursive
+multiply
+iots
+gemmw
+conventional
+row
+dxml
+asymptotically
+fred
+fpu
+performs
+measurements
+fits
+monitor
+factoring
+cholesky
+faster
+toms
+silicon
+seconds
+bender
+piotr
+mit
+outperforms
+associative
+permutes
+postdoctoral
+processor
+exchanging
+dongarra
+reference
+floating
+palo
+emerge
+respects
+alto
+blocks
+permutation
+clock
+workstations
+running
+caches
+paging
+cdrom
+dec
+luding
+dobrian
+bla
+isak
+nmri
+dswap
+systemspart
+dlaswp
+ziyang
+iorl
+sighted
+iacono
+tiskin
+arge
+womble
+luszczek
+minkley
+accelerate
+mapped
+stride
+cray
+hierarchical
+permuted
+jack
+fortran
+rank
+delivers
+ilaenv
+gatlin
+bilmes
+strumpen
+stig
+rotkin
+patnala
+waniewski
+crout
+linalg
+uszczek
+bjarne
+zizhong
+coincide
+recursion
+sgi
+graphics
+thanks
+subroutines
+supercomputing
+risc
+rezaul
+shklarski
+alam
+coyote
+kgstrm
+rabani
+frigo
+roche
+getrusage
+advises
+recursively partitioned
+partitioned algorithm
+looking algorithm
+right looking
+m 3
+primary memory
+cache misses
+block size
+lu decomposition
+column permuting
+within primary
+matrix multiplication
+lu factorization
+size r
+per kflop
+mp m
+nm 2p
+level 2
+fit within
+row exchanges
+algorithm performs
+trailing submatrix
+looking lu
+triangular linear
+partial pivoting
+square matrices
+performs less
+partitioned lu
+cm kflop
+iorp n
+ibm rs
+n m
+rs 6000
+level 1
+bit wide
+optimal block
+multiplication algorithm
+new algorithm
+reloads per
+columns fit
+updates require
+trailing submatrices
+using strassen
+rl rp
+multiplication subroutine
+solving triangular
+m 2nm
+main memory
+hierarchical memory
+m 2
+misses per
+running time
+data transfers
+performance satisfies
+wide bus
+factorization algorithms
+less cache
+fits within
+performance monitor
+square matrix
+cache oblivious
+left looking
+r m
+satisfies equation
+m n
+r columns
+core lu
+algorithm factors
+exchanging rows
+r updates
+least nm
+entire trailing
+kbytes level
+m nr
+secondary memories
+rp rl
+kflop block
+memory system
+data cache
+o performance
+kbytes direct
+secondary memory
+partitioned algorithms
+oriented algorithm
+m matrix
+direct mapped
+rank r
+kbytes 4
+factorization algorithm
+matrix using
+sivan toledo
+fast matrix
+two levels
+u 11
+algorithm updates
+recursively partitioned algorithm
+right looking algorithm
+block size r
+m 3 m
+number of cache
+within primary memory
+level 2 cache
+reference in lu
+locality of reference
+strassen s algorithm
+nm 2p m
+mp m 3
+decomposition with partial
+fit within primary
+lapack s right
+right looking lu
+number of words
+algorithm with column
+used the blas
+m 3 nm
+o s performed
+iorp n m
+lu factorization algorithms
+ibm rs 6000
+matrix of order
+n by m
+matrix multiplication algorithm
+level 1 cache
+value of r
+o s required
+cache misses per
+set of experiments
+rs 6000 workstation
+optimal block size
+misses per kflop
+o performance satisfies
+fits within primary
+performance satisfies equation
+bit wide bus
+partitioned algorithm performs
+triangular linear systems
+lapack s dgetrf
+algorithm performs less
+less cache misses
+m 3 mp
+reloads per kflop
+n m 2nm
+words that must
+looking lu factorization
+matrix multiplication subroutine
+block of columns
+whose i o
+r m 3
+performance in mflops
+must be transferred
+partitioned lu factorization
+columns are factored
+columns fit within
+column oriented algorithm
+left looking algorithm
+entire trailing submatrix
+size of primary
+m m 3
+rank r updates
+blas from ibm
+size r fig
+m 2nm mp
+performs less cache
+essl s dgef
+rl rp rl
+rp rl rp
+per kflop block
+memory the right
+solving triangular linear
+ibm s essl
+recursively partitioned lu
+kflop block size
+matrices of order
+algorithm for lu
+solution of triangular
+lu decomposition algorithm
+variant of strassen
+bus we used
+kbytes direct mapped
+strassen s matrix
+blocks of columns
+kbytes 4 way
+computes the lu
+hierarchical memory systems
+number of data
+r fig 4
+designed to determine

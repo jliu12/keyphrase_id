@@ -1,0 +1,600 @@
+java
+bytecode
+concurrency
+bytecodes
+hardware
+specification
+opstack
+dataflow
+cdfg
+thread
+automation
+stack
+co
+rosenstiel
+dependencies
+operand
+procaclass
+proca
+procbclass
+synthesis
+references
+europe
+grained
+parallelism
+instances
+threads
+winterholer
+processmethod
+dalpasso
+ireturn
+primitive
+designer
+language
+kuhn
+scenic
+verilog
+specifications
+bogliolo
+reaching
+subsystems
+handler
+munich
+flow
+indirection
+numbering
+uncover
+obj
+designs
+alessandro
+resolve
+languages
+codesign
+loop
+esterel
+blocks
+alias
+benini
+marcello
+validation
+partitioner
+buchenrieder
+some_method
+getxarray
+xready
+kashai
+current_method
+oppold
+invoked_method
+static
+catch
+loops
+software
+invocation
+pop
+jvm
+yokohama
+kress
+invocations
+aliasing
+fields
+ip
+fummi
+void
+partitioning
+reference
+fleischmann
+raytracer
+haldar
+conservatism
+36th
+resolved
+dependences
+germany
+luca
+wolfgang
+decoder
+invoking
+synchronized
+nayak
+josef
+compile
+exception
+object
+reactivity
+tommy
+behavioral
+embedded
+united
+pacific
+schulz
+entry
+statically
+allocate
+lev
+exceptions
+pointer
+choudhary
+asia
+edwards
+constructs
+paris
+louisiana
+transfer
+orleans
+iterations
+avg
+fin
+pre
+core
+rainer
+virtual
+functional
+japan
+1999
+790
+fine
+coarse
+analyzing
+linked
+push
+vhdl
+trap
+exhibited
+operands
+reads
+array
+els
+dynamically
+allocated
+extract
+invoked
+aggressively
+banerjee
+concurrent
+aggressive
+oriented
+accesses
+mixed
+south
+37th
+instantiations
+helaihel
+pezzuol
+arithmeticexception
+schirrmeister
+rming
+conceptualized
+shitsevalov
+speccharts
+shilman
+kebschull
+classing
+proca_in
+putzke
+javacad
+davidmann
+valk
+radetzki
+arr_t
+malay
+robotarm
+iconst_m1
+jmtp
+srgio
+example179iload_1
+procb
+ldc_w
+openj
+setxar
+udo
+prith
+subsytems
+classfile
+superlog
+setxarray
+disstributed
+carro
+compute_xarray
+klaus
+public
+hardware software
+level concurrency
+co design
+class instances
+control flow
+design automation
+grained concurrency
+operand stack
+basic blocks
+on design
+the specification
+specification language
+concurrency is
+the java
+the cdfg
+x array
+and dataflow
+bytecode level
+software languages
+concurrency in
+software co
+functional validation
+bytecode numbering
+system specification
+software systems
+automation p
+the thread
+control dataflow
+the bytecode
+co synthesis
+dataflow analysis
+data dependencies
+reaching definitions
+java programs
+europe p
+in java
+the hardware
+global analysis
+flow edges
+in europe
+automation and
+transfer function
+loop level
+local control
+the designer
+design process
+basic block
+static fields
+of bytecodes
+the stack
+test in
+specification the
+for hardware
+conference on
+thread class
+this transfer
+the conference
+software partitioning
+and co
+analysis technique
+reference analysis
+analyzing java
+current bytecode
+sample designs
+compatible class
+implicit concurrency
+w rosenstiel
+oriented hardware
+extended parameters
+dalpasso alessandro
+t kuhn
+m winterholer
+bytecodes per
+marcello dalpasso
+core loops
+analysis to
+java is
+proceedings of
+munich germany
+thread level
+and test
+data parallelism
+hardware description
+handler code
+multiple specifications
+bogliolo luca
+method s
+object oriented
+class instance
+mixed hardware
+cdfg representation
+design language
+alessandro bogliolo
+object references
+run method
+synthesis steps
+hardware specification
+specification and
+partitioning and
+of embedded
+primitive types
+dynamically linked
+java classes
+run time
+united states
+specification languages
+to class
+designer to
+java are
+language should
+data field
+input specification
+the reaching
+method invocations
+specification is
+coarse grained
+software system
+of concurrency
+pre allocated
+based designs
+embedded systems
+luca benini
+references are
+virtual machine
+is exhibited
+to uncover
+parallelism in
+loop iterations
+27 30
+ip based
+30 2000
+hardware synthesis
+2000 paris
+programming language
+point to
+fields and
+method call
+1999 munich
+june 21
+36th acm
+1999 new
+most class
+winterholer w
+linked objects
+reactivity for
+buchenrieder rainer
+allocated class
+distributed ip
+pre allocate
+virtual simulation
+klaus buchenrieder
+new obj
+either primitive
+catch blocks
+kuhn wolfgang
+c schulz
+rainer kress
+fleischmann klaus
+bytecodes such
+pop entry
+tommy kuhn
+this xready
+ip core
+iterative dataflow
+first bytecode
+onto operand
+aggressive reference
+this conservatism
+bytecode reads
+france marcello
+bytecode writes
+and bytecode
+class procaclass
+stack opstack
+scenic design
+compiling java
+requires analysis
+t oppold
+reference aliasing
+schulz key
+josef fleischmann
+invoked_method resolve
+these bytecodes
+target representation
+concurrent behaviors
+kuhn t
+bytecode operations
+benini virtual
+process behavioral
+java specification
+these references
+and synthesis
+primitive is
+march 27
+of compatible
+of reaching
+language specification
+louisiana united
+yokohama japan
+pointer analysis
+hardware software systems
+on design automation
+co design process
+conference on design
+the hardware software
+software co design
+hardware software co
+and co synthesis
+level concurrency is
+design automation p
+control and dataflow
+concurrency in the
+proceedings of the
+in europe p
+test in europe
+design automation and
+automation and test
+and test in
+control flow edges
+partitioning and co
+to class instances
+loop level concurrency
+bytecode level concurrency
+coarse grained concurrency
+hardware software system
+this transfer function
+for hardware software
+the conference on
+of the conference
+local control flow
+hardware software partitioning
+the method s
+fields and methods
+dalpasso alessandro bogliolo
+thread level concurrency
+of compatible class
+analyzing java programs
+synthesis steps of
+concurrency is exhibited
+marcello dalpasso alessandro
+object oriented hardware
+our analysis technique
+design of embedded
+a specification language
+specification and design
+the designer to
+in the specification
+alessandro bogliolo luca
+bogliolo luca benini
+run time environment
+the thread class
+fine grained concurrency
+a control dataflow
+number of bytecodes
+ip based designs
+form of concurrency
+specification language for
+the specification the
+mixed hardware software
+of reaching definitions
+specification language is
+language for hardware
+in java are
+the reaching definitions
+transfer function is
+and design of
+designer to specify
+of the hardware
+30 2000 paris
+march 27 30
+2000 paris france
+27 30 2000
+cannot be resolved
+a general solution
+the control flow
+1999 munich germany
+es january 1999
+january 1999 munich
+the 36th acm
+june 21 25
+36th acm ieee
+25 1999 new
+1999 new orleans
+21 25 1999
+makes it difficult
+entry and return
+class instances to
+kuhn t oppold
+oriented hardware specification
+process behavioral synthesis
+fields or methods
+france marcello dalpasso
+an operand stack
+specification our results
+bytecodes per loop
+josef fleischmann klaus
+hardware software specification
+of bytecodes per
+grained concurrency is
+c schulz key
+tommy kuhn wolfgang
+operand stack opstack
+bytecode reads data
+class instances and
+if the bytecode
+computing the reaching
+special control flow
+implementation of reactivity
+of reactivity for
+and dataflow analysis
+virtual simulation of
+luca benini virtual
+allocated class instances
+specification language should
+klaus buchenrieder rainer
+kuhn wolfgang rosenstiel
+key m winterholer
+method with entry
+references are strongly
+co design specification
+data parallelism in
+with entry as
+are strongly typed
+bytecode operations that
+modeling hardware in
+java classes are
+distributed ip based
+are either primitive
+the co design
+problem with dynamically
+the java specification
+fleischmann klaus buchenrieder
+entry as return
+multiple process behavioral
+either primitive types
+not done while
+co synthesis steps
+dynamically linked objects
+buchenrieder rainer kress
+software languages are
+scenic design environment
+onto operand stack
+the extended parameters
+global reference analysis
+functional validation and
+compiling java just
+most class instances
+reactivity for modeling
+schulz key m
+return from method
+pop entry and
+x array data
+m winterholer w
+benini virtual simulation
+that are references
+synthesis for mixed
+static fields or
+using bytecode numbering
+if current bytecode
+as return value
+handler code the
+because these references
+points to values
+t kuhn t
+run while not
+of distributed ip
+paris france marcello
+while this xready
+from method with
+the first bytecode
+winterholer w rosenstiel
+analyze the specification
+louisiana united states
+orleans louisiana united
+java virtual machine
+the specification language
+just in time
+of embedded systems
+for each method
+a co design
+for mixed hardware
+void run while
+co design tool
+single specification language
+control flow edge
+control dataflow graph
+done while this
+instances to which
+of embedded hardware
+hardware software partitioner
+simulation of distributed
+for functional validation
+false data dependences
+specification the java
+for modeling hardware
+software systems are
+all the basic
+embedded hardware software
+set of reaching
+static fields and

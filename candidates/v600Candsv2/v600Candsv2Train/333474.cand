@@ -1,0 +1,400 @@
+toeplitz
+cgls
+cauchy
+preconditioner
+pivoting
+singular
+noise
+regularization
+preconditioned
+lg
+ill
+matrices
+gu
+unpreconditioned
+factorization
+matrix
+subspace
+fourier
+displacement
+posed
+uncontaminated
+conjugate
+heinig
+preconditioning
+coefficients
+subspaces
+picard
+circulant
+uncorrupted
+factored
+gradients
+conditioned
+numerators
+iterations
+signal
+weyl
+preconditioners
+clustered
+gammak
+unmixed
+noisy
+iter
+ldu
+fig
+rel
+roots
+submatrix
+rank
+theta
+rhs
+generators
+integral
+regularized
+discretized
+revealing
+omega
+convergence
+index
+truncated
+contaminated
+vandermonde
+fredholm
+iteration
+matlab
+inverse
+oe
+phillips
+kernel
+largest
+rows
+columns
+squares
+normalized
+hermitian
+diagonal
+column
+cutoff
+gradient
+unitary
+filtering
+hopelessly
+rost
+thetaq
+antidiagonals
+oleary
+finck
+seismography
+discrete
+college
+submatrices
+white
+row
+discretization
+solid
+md
+iterative
+mixing
+filtered
+clustering
+magnitude
+growth
+orthonormal
+approximate
+principal
+entries
+corners
+numerical
+gohberg
+fs
+generator
+leading
+kailath
+olshevsky
+maryland
+jj
+conditioning
+denominator
+permutation
+unstable
+unity
+kek
+conjugation
+levinson
+multiplication
+fragile
+cg
+stable
+tomography
+jth
+tikhonov
+gershgorin
+umd
+metic
+cates
+contamination
+truncate
+gk
+cessing
+stably
+costs
+park
+arith
+brent
+pivoted
+sweet
+hankel
+orthogonally
+obscured
+untouched
+indi
+eigenvalues
+smooth
+corner
+degradations
+underestimate
+theorems
+equations
+denominators
+span
+regularizing
+transforms
+norm
+fl
+triangular
+pitfalls
+thetam
+recorded
+thm
+alg
+seek
+mixes
+precomputation
+symmetric
+definite
+advances
+presumed
+overestimate
+hansen
+itera
+trailing
+toolbox
+difficulties
+entry
+kj
+kc
+involving
+quantities
+blocks
+cauchy like
+singular values
+toeplitz matrix
+like matrix
+n lg
+like matrices
+minimum relative
+index value
+relative error
+complete pivoting
+lg n
+ill posed
+noise subspaces
+noise subspace
+n operations
+m gamma1
+toeplitz matrices
+data vector
+theta 10
+posed problems
+fourier coefficients
+displacement equation
+uncontaminated data
+discrete picard
+m singular
+picard condition
+around one
+matrix c
+o n
+value fig
+modified complete
+largest singular
+preconditioned matrix
+c 1
+conjugate gradients
+first m
+approximate solution
+gammak 1
+integral equation
+minimum achieved
+achieved rel
+like preconditioner
+c solid
+errors achieved
+vector left
+unpreconditioned fig
+vector right
+uncorrupted data
+error unpreconditioned
+value rhs
+noisy data
+oe n
+table minimum
+value solution
+toeplitz structure
+rel error
+exact solution
+preconditioned system
+solution vector
+noise level
+partial factorization
+n gammak
+singular value
+m example
+first kind
+system involving
+property 3
+partial pivoting
+element growth
+leading principal
+example 1
+pivoting algorithm
+first column
+second column
+pivoting strategy
+posed problem
+solid line
+displacement equations
+iteration relative
+heinig 17
+iterative regularization
+fast modified
+cgls iteration
+normalized inverse
+filtering noise
+corner blocks
+unpreconditioned problem
+cgls costs
+generalized cauchy
+transition subspace
+cauchy matrix
+signal subspace
+condition number
+c theta
+linear equations
+conjugate gradient
+computed solution
+theta m
+relative errors
+m theta
+smallest singular
+fast factorization
+ldu factorization
+subspace remain
+like preconditioners
+vandermonde matrices
+discrete inverse
+appropriate cutoff
+numerical solution
+elements elements
+taking square
+fs 0
+various values
+well conditioned
+lg 2
+clustered around
+conditioned matrix
+md 20742
+principal submatrices
+maryland college
+four corner
+exact numerical
+solution fig
+algorithmic issues
+park md
+structured matrices
+cauchy like matrix
+o n lg
+m gamma1 c
+lg n operations
+cauchy like matrices
+n lg n
+values of m
+signal and noise
+ill posed problems
+minimum relative error
+uncontaminated data vector
+theta 10 gamma2
+oe n gammak
+m singular values
+index value fig
+discrete picard condition
+modified complete pivoting
+n gammak 1
+line and m
+cauchy like preconditioner
+error at iter
+relative error unpreconditioned
+data vector left
+minimum relative errors
+minimum achieved rel
+c solid line
+relative errors achieved
+error in computed
+error unpreconditioned fig
+achieved rel error
+largest singular values
+matrix are clustered
+solution vector right
+left and exact
+exact solution vector
+index value solution
+achieved for various
+first m singular
+table minimum relative
+omega and theta
+factorization of c
+right for example
+m theta m
+smallest singular values
+values of c
+example 2 index
+index value rhs
+involving a toeplitz
+complete pivoting algorithm
+iteration relative error
+course of gu
+related to cauchy
+n lg 2
+clustered around one
+fast factorization algorithms
+matrix is cauchy
+pivoting was done
+matrix t whose
+iterations of cgls
+mixing of signal
+costs only o
+gu s fast
+exact numerical solution
+cauchy like preconditioners
+cauchy matrix c
+singular values corresponding
+like matrices 17
+theta 10 gamma1
+four corner blocks
+elements of theta
+satisfies the displacement
+contaminated by noise
+iteration of cgls
+value solution fig
+cutoff value m
+fast modified complete
+convergence of cgls
+matrix c 0
+matrices 17 8
+data for example
+fourier transform matrix
+k th largest
+matrix c 1
+leading principal submatrices
+appropriate cutoff value
+lg 2 n

@@ -1,0 +1,600 @@
+action
+ada
+protected
+vote_t
+atomic
+exception
+package
+controller
+common_types
+recovery
+conversation
+aborted
+actions
+params
+wait_abort
+exception_id
+raised
+abort
+killed
+releasing
+entry
+signal_abort
+exceptions
+vote
+atc
+param
+tasks
+commit
+randell
+private
+atomic_action_failure
+at_least
+shared_data
+conversations
+raise
+body
+obj_type
+active
+tagged
+processes
+requeue
+t1
+action_t
+robot_action
+fault
+nested
+t3
+wait
+abortable
+global_action_support
+atomic_action_support
+deserter
+error_id
+final_result
+finalisation
+romanovsky
+indivisibility
+backward
+informed
+campbell
+wellings
+robot
+packages
+triggering
+remote
+finalize
+finished
+entered
+rpc
+axes_action
+first_here
+new_pos
+wait_cleanup
+extended_type
+my_action_t
+action_controller
+new_conversation
+recovery_cache
+third_here
+local_action_support
+action_id
+the_data
+begin
+concurrent
+t2
+coordinator
+subaction
+task
+object
+indivisible
+partitions
+damage
+burns
+encapsulated
+tolerance
+95
+sigada
+abortion
+confinement
+shared_coord
+new_value
+global_action_controller
+done_a
+abort_taken
+done_cleanup_a
+second_here
+write_coords
+primary_failure
+event
+leave
+record
+synchronisation
+persistent
+false
+facility
+acceptance
+release
+programmed
+module
+axes
+asynchronous
+concurrently
+forward
+pragma
+handling
+declared
+xxi
+finalization
+timeout
+barrier
+1986
+enter
+objects
+calls
+cancelled
+count
+controlled
+z_got
+coord_controller
+y_got
+null_occurrence
+arvalo
+done_cleanup
+remote_call_interface
+local_action_controller
+secondary_failure
+signal_abort_a
+tertiary_failure
+kienzle
+data_available
+nested_action
+y_coord
+handled_ok
+exception_identity
+nested_action_id
+z_coord
+abort_recovery
+x_got
+t1_primary
+lomet
+simple_action
+t1_secondary
+t1_tertiary
+library
+handler
+communicate
+knight
+coordinate
+flush
+axis
+recoverable
+outer
+patio
+peris
+strigini
+brinch
+partition
+subtype
+nesting
+signal
+identifiers
+subprograms
+whilst
+completion
+1985
+1995
+decision
+recov
+jalote
+requeued
+subprogram
+participate
+structuring
+1975
+passive
+oriented
+concurrency
+pure
+internal
+expires
+atomic action
+atomic actions
+the action
+is begin
+error recovery
+vote vote_t
+params param
+protected object
+action controller
+exception when
+the conversation
+ada 95
+e out
+in ada
+is procedure
+e others
+nested action
+the package
+procedure t1
+active in
+implement atomic
+commit decision
+processes active
+entry wait_abort
+action is
+backward error
+a protected
+package body
+is entry
+protected objects
+then abort
+param called
+entry done
+wait_abort e
+an atomic
+c done
+exception handling
+triggering event
+protected body
+all tasks
+param is
+out exception_id
+begin code
+common_types use
+with common_types
+wait vote
+procedure signal_abort
+abort begin
+done commit
+use common_types
+called by
+the atomic
+the controller
+protected type
+remote call
+entry wait
+when e
+forward error
+out vote_t
+t1 params
+raise atomic_action_failure
+vote_t result
+ada exceptions
+raised in
+the exception
+processes involved
+tagged types
+result out
+any persistent
+three tasks
+is raised
+action if
+by task
+the processes
+aborted then
+campbell and
+vote_t when
+signal_abort e
+signal completion
+done vote
+completion exception
+all processes
+internal action
+action and
+an exception
+the ada
+and randell
+private entry
+fault tolerance
+persistent data
+procedure procedure
+actions with
+is new
+and wellings
+acceptance test
+action to
+decision signal
+vote_t procedure
+releasing is
+t3 params
+robot_action access
+when killed
+common_types package
+releasing true
+library units
+shared_data is
+t2 params
+read d
+killed releasing
+controller protected
+entered e
+entry entered
+exception_id entry
+controlled types
+done aborted
+procedure t2
+procedure t3
+out error_id
+begin select
+controller is
+software fault
+exception is
+action can
+or releasing
+active partitions
+private type
+action failure
+local action
+action including
+select then
+with forward
+burns and
+with abort
+a conversation
+package is
+exception if
+to leave
+body of
+e exception_id
+controller done
+abortable part
+others exception
+nested actions
+atomic_action_support robot
+killed true
+else releasing
+aborted decision
+randell 1986
+releasing false
+vote_t killed
+releasing informed
+damage confinement
+distributed action
+each task
+the recovery
+concurrent processes
+the body
+count 0
+is separate
+an action
+the robot
+begin if
+the triggering
+encapsulated in
+recovery cache
+then releasing
+atomic if
+tagged limited
+other processes
+the protected
+a package
+raise the
+is aborted
+oriented programming
+ada 83
+tagged type
+action t
+separate procedure
+to raise
+in out
+is type
+object oriented
+to implement
+each atomic
+when active
+leave the
+processes to
+a nested
+entry call
+code to
+be programmed
+the wait
+the call
+the tasks
+action then
+call interface
+been raised
+acm sigada
+sigada ada
+ada letters
+backward error recovery
+the atomic action
+an atomic action
+when e others
+exception when e
+active in the
+forward error recovery
+in the action
+processes active in
+param called by
+wait_abort e out
+to implement atomic
+params param called
+called by task
+is entry wait_abort
+common_types use common_types
+begin code to
+a c done
+entry wait_abort e
+entry wait vote
+e out exception_id
+done commit decision
+then abort begin
+wait vote vote_t
+abort begin code
+with common_types use
+the internal action
+params param is
+any persistent data
+implement atomic action
+vote_t result out
+procedure t1 params
+result out vote_t
+vote vote_t result
+in ada 95
+code to implement
+signal completion exception
+out vote_t when
+procedure signal_abort e
+t1 params param
+entry done vote
+the action if
+campbell and randell
+c done commit
+completion exception when
+done vote vote_t
+a protected object
+in the conversation
+of the package
+is begin if
+the action and
+the action is
+burns and wellings
+exception is raised
+of the action
+entry entered e
+t3 params param
+procedure t3 params
+select then abort
+atomic actions with
+use common_types package
+atomic action including
+decision signal completion
+entered e out
+vote vote_t procedure
+e out error_id
+commit decision signal
+out exception_id entry
+atomic action failure
+the action controller
+t2 params param
+leave the action
+actions with forward
+or releasing is
+procedure t2 params
+controller is entry
+processes involved in
+the triggering event
+is begin select
+raised in all
+the body of
+in the atomic
+protected object is
+count 0 then
+of atomic actions
+the protected object
+in an atomic
+a nested action
+else releasing false
+releasing true else
+done aborted decision
+0 then releasing
+vote_t procedure signal_abort
+vote_t killed releasing
+killed releasing informed
+controller protected object
+vote vote_t killed
+a remote call
+then releasing true
+actions in ada
+atomic action is
+remote call interface
+is separate procedure
+e others exception
+releasing is begin
+and randell 1986
+c done aborted
+the action t
+the processes active
+signal_abort e exception_id
+all processes active
+true else releasing
+body of the
+it is necessary
+software fault tolerance
+action and that
+the package is
+atomic actions in
+tagged types and
+has been raised
+each atomic action
+with forward error
+o in out
+action can be
+and backward error
+in the protected
+object oriented programming
+is necessary to
+acm sigada ada
+ada letters v
+to the controller
+sigada ada letters
+to the action
+sequence of statements
+is raised in
+aborted then raise
+exception has been
+asynchronous transfer of
+then raise atomic_action_failure
+procedure procedure procedure
+atomic if the
+killed false informed
+and active at_least
+in all tasks
+the wait abort
+ada exceptions use
+the recovery cache
+cancelled if the
+3 the body
+is procedure t1
+the global action
+global action controller
+concurrently raised exceptions
+implement atomic actions
+the controller protected
+the action when
+vote_t when active
+private entry entered
+as before entry
+use ada exceptions
+axis task and
+active and active
+xxi n 3
+false final_result commit
+begin select then
+atomic actions is
+others exception when
+the inner action
+exception_id private entry
+active at_least or
+inside the action
+raise the exception
+and knight 1985
+final_result commit reason
+task and subaction
+processes performing it
+on the wait
+false informed 0
+releasing false final_result
+the local action
+requirements for atomic
+types provide the
+write_coords new_pos coordinates
+e exception_id private
+exceptions use ada
+exception_id entry done
+an error has
+shared_data is procedure
+when active and
+exception atomic action
+gregory and knight
+vote_t is commit
+persistent data in
+with ada exceptions
+atomic action then
+1 procedure t2
+2 procedure t3
+is commit aborted
+read d out
+out exception_id when

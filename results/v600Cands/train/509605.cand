@@ -1,0 +1,600 @@
+stencil
+cshift
+stencils
+intraprocessor
+movement
+shift
+hpf
+array
+fortran90
+unioning
+offset
+compiler
+overlap
+subgrid
+arrays
+scalarization
+interprocessor
+compilation
+rsd
+xlhpf
+shifts
+src
+intrinsics
+cshifts
+fortran
+nest
+statements
+dst
+cm
+optimizations
+compilers
+temporary
+optimizing
+loop
+pe
+congruent
+statement
+dimension
+redundant
+jam
+purdue
+ibm
+compiling
+rin
+fusion
+rip
+transformations
+shifted
+dependences
+subgrids
+communication
+unroll
+annotations
+intrinsic
+locality
+partitioning
+loops
+mimd
+dim
+optimize
+rsds
+polyshift
+haupt
+fortran90d
+syntax
+calls
+optimizes
+strategy
+npac
+hitoshi
+scalarizing
+eliminate
+destination
+simd
+memory
+orchestrating
+congruence
+computations
+optimized
+supercompilers
+hoisted
+fortran77
+assignment
+mpi
+recognizers
+beats
+fused
+optimization
+cfd
+subsume
+eliminated
+sp
+speedup
+neighboring
+enddo
+references
+handles
+programmer
+dependence
+supercomputing
+kandemir
+areas
+rome
+spmd
+companies
+squared
+sp2
+subscript
+ms
+normalization
+kennedy
+profitable
+eliminates
+machines
+benchmarking
+specifications
+exploiting
+sakagami
+eoshift
+tflops
+256mbytes
+yokokawa
+fusible
+77d
+trinsics
+lezama
+0159
+mitsuo
+zhengqian
+tancau
+murai
+bozkus
+intraproceesor
+baiming
+shielding
+jichang
+pghpfmyampersandmdash
+styl
+yoshiki
+multicomputers
+code
+supercomputers
+optimizer
+defense
+government
+handling
+specification
+exceeded
+elsewhere
+scalar
+agency
+annotation
+mullin
+seshia
+swath
+kinley
+gilad
+orchestrates
+lenore
+reuse
+massively
+constructs
+commutative
+superset
+pghpf
+liviu
+armando
+gigaflops
+sanjit
+ledovskikh
+rearranges
+scalarized
+1145
+90d
+lastovetsky
+materializations
+saraswat
+rosenkrantz
+posypkin
+bodik
+kalinov
+groups
+equally
+produced
+ddg
+maspar
+intricacies
+deitz
+ripe
+wonnacott
+optimistic
+execution
+copied
+instantiated
+accomplished
+kernels
+criteria
+0038
+materiel
+usaf
+data movement
+overlap shift
+point stencil
+9 point
+stencil computations
+communication unioning
+intraprocessor data
+the stencil
+stencil computation
+offset array
+offset arrays
+context partitioning
+problem 9
+interprocessor data
+stencil compilation
+single statement
+compilation strategy
+statement stencils
+overlap shifts
+stencil compiler
+a stencil
+shift operations
+distributed memory
+the cshift
+xlhpf compiler
+array syntax
+the overlap
+movement associated
+array optimization
+source array
+communication operations
+loop nest
+shifts for
+temporary arrays
+overlap areas
+shift amount
+all stencil
+the shift
+cshift operations
+2 stencil
+of stencils
+cshift intrinsic
+s xlhpf
+the interprocessor
+our strategy
+cm 2
+destination array
+array statements
+movement that
+our stencil
+fortran90 array
+multi statement
+array dst
+subgrid loops
+array src
+shift intrinsics
+the rsd
+unioning optimization
+compiler for
+data locality
+code produced
+src and
+partitioning optimization
+the array
+two calls
+the cm
+the offset
+5 point
+each direction
+of stencil
+our compilation
+9 after
+loop fusion
+shift operation
+execution time
+performance fortran
+and jam
+unroll and
+hpf compiler
+array assignment
+loop level
+redundant communication
+ibm s
+memory machines
+eliminate redundant
+statements into
+multi offset
+general compilation
+purpose compilers
+of fortran90
+after scalarization
+the intraprocessor
+stencil specifications
+ms subgrid
+subgrid size
+stencils written
+each cshift
+largest shift
+cshift intrinsics
+congruent array
+eliminate intraprocessor
+and rin
+size squared
+compilation of
+level transformations
+with shift
+the annotations
+data elements
+the code
+each pe
+to overlap
+rip and
+purdue set
+array constructs
+stencil in
+overlap area
+memory optimizations
+compiling stencils
+dependence graph
+the compiler
+on distributed
+in figure
+congruence classes
+operations and
+assignment statement
+hpf for
+stencil is
+partially redundant
+written using
+connection machine
+the purdue
+high performance
+the statements
+intermediate form
+using array
+the program
+shift of
+optimization we
+movement for
+performance numbers
+time ms
+redundant data
+communication operation
+our context
+extended example
+an hpf
+processor data
+the source
+references to
+handles a
+compiler as
+dependences that
+a speedup
+the compilation
+static single
+sp 2
+fortran compiler
+locality with
+this optimization
+arrays can
+improving data
+second dimension
+an overlap
+a shift
+as stencils
+syntax stencils
+cshift specification
+equations image
+over fused
+stencil code
+of npac
+shift dim
+constructs our
+rsd s
+strategy handles
+a cshift
+using fortran90
+intraprocessor and
+built special
+movement specified
+purdue problem
+after offset
+fortran90 statements
+other overlap
+by orchestrating
+cm 200
+memory cshift
+our offset
+two 9
+scalarization and
+stencil specification
+thomas haupt
+specification purdue
+fortran90d hpf
+computation operations
+figure problem
+src shift
+orchestrating a
+haupt of
+strategy optimizes
+9 point stencil
+intraprocessor data movement
+interprocessor data movement
+stencil compilation strategy
+the source array
+overlap shifts for
+single statement stencils
+offset array optimization
+movement associated with
+data movement associated
+point stencil computation
+the interprocessor data
+to overlap shift
+data movement that
+a stencil computation
+s xlhpf compiler
+the overlap shifts
+problem 9 after
+ibm s xlhpf
+the single statement
+5 point stencil
+the data movement
+the cm 2
+all stencil computations
+our context partitioning
+communication unioning optimization
+overlap shift operations
+our stencil compilation
+context partitioning optimization
+in each direction
+the destination array
+the overlap areas
+of stencil computations
+calls to overlap
+shown in figure
+compiler for the
+loop level transformations
+distributed memory machines
+code produced by
+high performance fortran
+unroll and jam
+on distributed memory
+the compilation of
+cm 2 stencil
+the offset arrays
+the stencil compiler
+point stencil specifications
+context partitioning algorithm
+special purpose compilers
+array src and
+the overlap shift
+multi statement stencils
+overlap areas that
+redundant data movement
+the cshift intrinsic
+the cshift operations
+source array src
+the largest shift
+movement that results
+eliminate intraprocessor data
+rip and rin
+ms subgrid size
+stencil compiler for
+an offset array
+shifts for the
+execution time ms
+time ms subgrid
+largest shift amount
+our compilation strategy
+subgrid size squared
+2 stencil compiler
+stencils written using
+for the connection
+for distributed memory
+of a stencil
+the purdue set
+the shift amount
+array assignment statement
+the problem 9
+single loop nest
+the 9 point
+set of optimizations
+the array statements
+the connection machine
+data movement for
+the code produced
+an hpf compiler
+for fortran d
+an extended example
+data movement and
+sum of products
+improving data locality
+the second dimension
+static single assignment
+to the nature
+of the shift
+the execution time
+a stencil compiler
+optimizing fortran90d hpf
+by orchestrating a
+memory optimizations figure
+others have added
+compilation of stencils
+differential equations image
+as so important
+arrays since the
+single statement 9
+they are instantiated
+associated with shift
+array syntax stencils
+purdue problem 9
+compiling stencils into
+again the 9
+compilers for handling
+offset arrays we
+shift operations and
+stencil computation figure
+address the overhead
+all equally well
+fortran90d hpf for
+overlap shift of
+stencil computation is
+intraprocessor and interprocessor
+recognizers to existing
+both intraprocessor and
+d benchmarking by
+haupt of npac
+fortran90 statements into
+fortran90 array constructs
+and rin are
+our strategy handles
+added stencil recognizers
+kernels known as
+and partially redundant
+of our compilation
+all other overlap
+written using array
+21 as adapted
+thomas haupt of
+fortran d benchmarking
+the intraprocessor data
+optimizing fortran 90
+groups of congruent
+as adapted for
+computation operations and
+array constructs our
+using array syntax
+class of kernels
+the offset array
+replacement and unroll
+amount in each
+that some companies
+size squared exceeded
+have built special
+have added stencil
+stencil recognizers to
+our communication unioning
+half of 9
+src shift dim
+using fortran90 array
+programs performing dense
+single statement stencil
+optimize it by
+efficient code is
+statement stencils written
+to a speedup
+the stencil code
+execution cost on
+in solving partial
+after offset array
+scan the overlap
+for the offset
+processing and geometric
+cshift specification purdue
+congruent array statements
+communications software for
+since the live
+code is viewed
+communication operations this
+subgrid loop nest
+performing dense matrix
+optimizations that address
+shift of amount
+shift operations on
+only the interprocessor
+given the single
+optimizing stencil computations
+the stencil is
+src and the
+companies have built
+program belongs to
+movement for single
+congruence classes the
+the temporary arrays
+cshift operations is
+statement stencils the
+shift amount the
+purdue set 21
+of communication operation
+with shift intrinsics

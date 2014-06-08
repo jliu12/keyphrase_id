@@ -1,0 +1,270 @@
+branch
+fnt
+branches
+btb
+try15
+misfetch
+alignment
+pht
+bt
+unconditional
+fallthrough
+pettis
+prediction
+instruction
+fall
+conditional
+greedy
+axp
+04
+architectures
+mispredicted
+mcfarling
+hansen
+hwu
+09
+penalty
+alignments
+alvinn
+architecture
+orig
+instructions
+penalties
+chains
+cpi
+mispredict
+bray
+om
+02
+aligning
+alpha
+cfront
+21604
+calder
+21064
+fetch
+profile
+brad
+flynn
+laid
+05
+spec92
+groff
+edges
+08
+predict
+indirect
+doduc
+07
+espresso
+misfetched
+btbs
+8999
+executed
+static
+microarchitecture
+misprediction
+programs
+cache
+chang
+chain
+darkened
+reordering
+blocks
+predicted
+06
+grunwald
+ann
+cycles
+jumps
+arbor
+specfp92
+specint92
+jump
+pipeline
+dec
+03
+transformations
+history
+4096
+01
+branch alignment
+fall through
+bt fnt
+1 09
+1 04
+04 1
+09 1
+branch prediction
+the bt
+conditional branches
+the fall
+prediction architectures
+1 02
+the btb
+misfetch penalty
+02 1
+the branch
+10 1
+05 1
+1 10
+fnt architecture
+1 07
+1 05
+taken branches
+unconditional branches
+pettis and
+the likely
+the fallthrough
+1 11
+11 1
+1 12
+1 08
+basic blocks
+12 1
+the try15
+07 1
+13 1
+and hansen
+alpha axp
+08 1
+cost model
+1 13
+alignment algorithms
+greedy try15
+orig greedy
+1 06
+06 1
+hwu and
+conditional branch
+basic block
+of branch
+greedy algorithm
+1 01
+branch architectures
+the misfetch
+static branch
+14 1
+1 14
+branch target
+from branch
+the pht
+unconditional branch
+the greedy
+and chang
+try15 orig
+fnt model
+1 03
+15 1
+axp 21064
+17 1
+hansen 21
+bray and
+and flynn
+a misfetch
+relative cpi
+btb architectures
+branches in
+1 15
+control flow
+dynamic branch
+original program
+1 17
+brad calder
+branches are
+01 1
+branches the
+of branches
+branch costs
+through branches
+try15 algorithm
+1 09 1
+1 04 1
+the bt fnt
+the fall through
+1 10 1
+09 1 09
+1 12 1
+04 1 04
+1 02 1
+1 05 1
+1 11 1
+1 13 1
+bt fnt architecture
+1 07 1
+1 08 1
+pettis and hansen
+1 14 1
+1 06 1
+02 1 02
+branch prediction architectures
+orig greedy try15
+05 1 04
+1 15 1
+1 17 1
+branch alignment algorithms
+hwu and chang
+bt fnt model
+greedy try15 orig
+12 1 11
+try15 orig greedy
+the branch alignment
+10 1 10
+1 01 1
+in the btb
+and hansen 21
+bray and flynn
+07 1 07
+from branch alignment
+02 1 01
+the misfetch penalty
+the greedy algorithm
+the original program
+static branch prediction
+11 1 11
+the alpha axp
+for each architecture
+alpha axp 21064
+1 03 1
+annual international symposium
+alpha axp 21604
+december 01 1995
+the fallthrough architecture
+calder dirk grunwald
+fall through branches
+a fall through
+15 1 11
+for the pht
+prediction architectures and
+1995 ann arbor
+a misfetch penalty
+11 1 10
+the try15 algorithm
+brad calder dirk
+29 december 01
+04 1 03
+the try15 heuristic
+01 1995 ann
+the likely model
+of branch alignment
+the likely architecture
+04 1 05
+executed conditional branches
+for conditional branches
+international symposium on
+in control flow
+symposium on microarchitecture
+cost of branches
+14 1 09
+taken conditional branches
+than the bt
+branch target buffer
+the cost model
+dynamic branch prediction
+conditional branches the
+for the bt
+number of instructions
+the greedy and
+our cost model
+1 18 1
+cycles per instruction

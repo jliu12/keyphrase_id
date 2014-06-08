@@ -1,0 +1,600 @@
+bondorf
+closure
+palsberg
+prefixed
+flg
+var
+analyses
+abstraction
+beta
+sestoft
+cmap
+subterm
+metavariables
+ex
+label
+jens
+schwartzbach
+reflexivity
+heintze
+abstractions
+constraint
+induction
+redex
+abstract
+steckler
+metavar
+cenv
+labels
+cset
+untyped
+metavariable
+autoprojection
+upd
+sigplan
+languages
+wand
+lemma
+jagannathan
+meunier
+nielson
+theta
+suresh
+binding
+globalization
+substitution
+ponens
+inference
+1992a
+modus
+felleisen
+article
+polyvariant
+discharge
+1991
+flow
+consel
+clashes
+says
+entailment
+1994b
+ayers
+interpretations
+barendregt
+seidl
+findler
+horn
+sigact
+body
+notices
+ae
+inclusions
+safety
+thetab
+componential
+shivers
+aarhus
+anindya
+interpretation
+rgensen
+flemming
+toplas
+hypothesis
+6j
+hanne
+0such
+similix
+polymorphic
+calculus
+informally
+riis
+typed
+lab
+matthias
+philippe
+1981
+symbols
+syntax
+flanagan
+1989
+semantics
+1993
+fst
+correctness
+lambda
+00
+functional
+substituted
+krishna
+clauses
+weakening
+1998
+transitivity
+occurrences
+recovery
+domains
+329
+binds
+banerjee
+jensen
+reduction
+dk
+questions
+conversion
+andrew
+wright
+rocca
+tolmach
+carolyn
+fecht
+l2c
+caap
+solberg
+aau
+daimi
+blasio
+25th
+immediate
+1994
+versus
+modular
+permission
+proceed
+normalizing
+aug
+lightweight
+remained
+1997
+decade
+bruce
+124
+klarlund
+1264
+giannini
+pavlopoulou
+amtoft
+torben
+cipline
+talcott
+gasser
+munkegade
+24th
+answers
+1992
+inheritance
+paris
+contraction
+delta
+entails
+spaces
+recursive
+schism
+1991b
+oliva
+1991a
+loving
+nandivada
+ours
+notice
+operand
+ml
+everything
+typings
+thiemann
+cml
+1992b
+ez
+deforestation
+srensen
+agesen
+glew
+evaluates
+jones
+renaming
+kirsten
+danvy
+dino
+ramanathan
+ananth
+kathleen
+realisation
+closure analysis
+theta theta
+x e
+l x
+constraint system
+prefixed point
+bondorf s
+with label
+e 0
+var e
+a prefixed
+abstraction with
+label l
+x l
+beta reduction
+m e
+a subterm
+c e
+an abstraction
+flg l
+lemma 4
+jens palsberg
+constraint form
+c ex
+cmap e
+l 0
+e 1
+solution l
+closure information
+has solution
+application point
+arbitrary beta
+closure analyses
+and schwartzbach
+the induction
+every l
+case consider
+e y
+result follows
+a var
+in constraint
+term e
+smaller flow
+l var
+palsberg and
+form delta
+higher order
+subterm of
+the constraint
+abstract interpretation
+of bondorf
+s definition
+a term
+w e
+do closure
+ex has
+binding time
+three closure
+based analysis
+result then
+contains l
+abstractions with
+flow information
+correct with
+of m
+analysis versus
+of closure
+e u
+type inference
+using reflexivity
+that flg
+cenv e
+ex contains
+versus type
+cset e
+after beta
+step consider
+that closure
+all labels
+in e
+labels are
+induction hypothesis
+abstract interpretations
+acm sigplan
+induction on
+flow analysis
+prove that
+subject reduction
+follows from
+type recovery
+analyses defined
+from lemma
+suppose then
+program analysis
+set based
+constraint systems
+y e
+safety analysis
+by induction
+a closure
+program points
+the abstract
+in ex
+every in
+mapping l
+then follows
+4 6
+induction step
+suppose is
+definition 2
+solution of
+automatic autoprojection
+autoprojection of
+least solution
+suresh jagannathan
+c l
+a constraint
+analyses are
+a 0
+point of
+we get
+label 2
+substitution lemma
+call by
+time analysis
+abstract domains
+programming languages
+of e
+ex e
+wand and
+reduction result
+schwartzbach 1992a
+reflexivity we
+theorems says
+ex in
+of untyped
+of palsberg
+on sestoft
+see palsberg
+analysis is
+analysis acm
+proceed by
+base case
+for every
+a redex
+function spaces
+of ex
+sigplan sigact
+sigact symposium
+analysis in
+and lemma
+a w
+e has
+recursive equations
+bound variable
+then ex
+if ex
+matthias felleisen
+simpler abstract
+philippe meunier
+sestoft s
+bondorf 1991
+consider finally
+sestoft 1989
+l 6j
+the result
+is correct
+bound variables
+first l
+y l
+says that
+the closure
+lab e
+untyped functional
+then suppose
+languages p
+a solution
+analysis of
+consider x
+this article
+functional languages
+control flow
+information than
+above term
+now do
+name clashes
+bondorf and
+modus ponens
+consider first
+evaluate to
+then that
+l then
+z e
+next lemma
+cases suppose
+r e
+e is
+on programming
+sigplan notices
+notices v
+l x e
+theta theta theta
+prefixed point of
+with label l
+a prefixed point
+closure analysis of
+an abstraction with
+abstraction with label
+of m e
+point of m
+is a prefixed
+the constraint system
+in constraint form
+closure analysis in
+closure analysis is
+bondorf s definition
+solution of c
+analysis in constraint
+x e 0
+lemma 4 6
+has solution l
+constraint form delta
+every l x
+a constraint system
+the result follows
+for every l
+of c e
+constraint system is
+a subterm of
+a w e
+palsberg and schwartzbach
+smaller flow information
+arbitrary beta reduction
+m e 1
+from lemma 4
+is a subterm
+c e 1
+to an abstraction
+w e u
+c l x
+result then follows
+the result then
+set based analysis
+correct with respect
+var e 0
+a closure analysis
+u and lemma
+l var e
+the closure analysis
+a var e
+label l 0
+three closure analyses
+from a w
+that closure analysis
+do closure analysis
+induction on the
+a solution of
+e u and
+on the structure
+result follows from
+step consider first
+all labels are
+of closure analysis
+labels are distinct
+in the induction
+by induction on
+the induction hypothesis
+is correct with
+a term e
+binding time analysis
+and lemma 4
+by the induction
+induction step consider
+structure of e
+suppose then that
+analyses defined in
+c ex has
+the three closure
+analysis of bondorf
+closure analyses defined
+ex has solution
+consider first l
+flg l var
+first l x
+safety analysis versus
+after beta reduction
+z e 0
+abstractions with label
+c e has
+consider a subterm
+analysis versus type
+closure information is
+evaluate to an
+versus type inference
+e 0 in
+r e 1
+case consider a
+a a 0
+follows from lemma
+follows from a
+with label 2
+a 0 h
+analysis is correct
+constraint system for
+then follows from
+thus we need
+base case consider
+the induction step
+in the base
+x e the
+analysis of e
+for every in
+hypothesis is a
+the base case
+only be applied
+automatic autoprojection of
+definition 2 1
+for a term
+proceed by induction
+induction hypothesis is
+4 6 in
+0 x l
+analysis of palsberg
+closure analysis that
+to arbitrary beta
+set r e
+l y e
+analyses of untyped
+our theorems says
+consider x l
+ex e y
+theorems says that
+y l 0
+e then ex
+now do closure
+label 2 l
+such that flg
+based on sestoft
+and schwartzbach 1992a
+beta reduction the
+bondorf s original
+then ex contains
+x e suppose
+that c ex
+using reflexivity we
+simpler abstract interpretation
+case consider x
+ex contains l
+on sestoft s
+of palsberg and
+can now do
+subject reduction result
+has smaller flow
+reflexivity we get
+applied to terms
+every in e
+flow information than
+see palsberg and
+is a solution
+we proceed by
+suppose is a
+theorem 4 10
+acm sigplan sigact
+sigact symposium on
+sigplan sigact symposium
+section 2 are
+the structure of
+programming languages p
+the application point
+and binding time
+y e 0
+x l 0
+the mapping l
+again the result
+x e then
+closure analysis and
+e 0 x
+that all labels
+principles of programming
+in normal form
+we get a
+e by computing
+the constraint based
+of our theorems
+s original definition
+u x l
+l 0 y
+if x l
+in definition 2
+2 1 1
+in this article
+of e by
+respect to arbitrary
+e 0 such
+using a constraint
+to the closure
+the next lemma
+of programming languages
+and for every
+transactions on programming

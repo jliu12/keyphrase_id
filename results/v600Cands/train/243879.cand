@@ -1,0 +1,600 @@
+aaaa
+modulo
+epilogue
+exit
+superblock
+exits
+loops
+scheduling
+epilogues
+branch
+loop
+instructions
+r34
+instruction
+live
+dependences
+anti
+prologue
+iteration
+unrolled
+numeric
+scheduled
+dependence
+kernel
+unrolling
+register
+stage
+registers
+lex
+recmii
+speculative
+iterations
+r1
+lifetime
+r12
+virtual
+intra
+intensive
+early
+hyperblock
+cint92
+vliw
+a3
+yacc
+l3
+speculatively
+espresso
+assembly
+overlap
+eqntott
+ilp
+row
+pipelining
+branches
+r4
+lifetimes
+resmii
+block
+body
+epi
+gcc
+formation
+home
+expansion
+acyclic
+copied
+paths
+benchmarks
+unimportant
+wc
+speedup
+tbl
+moved
+predicated
+cross
+motion
+schedule
+programs
+l2
+microarchitecture
+rau
+stages
+processor
+code
+r343
+r342
+pa7100
+le5
+renaming
+speculation
+inner
+spec
+renamed
+cmp
+compiler
+recurrence
+optimizations
+9b
+le1
+hazards
+inst
+copying
+profile
+cycles
+moon
+shaded
+jump
+pipelined
+scheduler
+renumbered
+r13
+unix
+squares
+hp
+kmin
+l1
+aborted
+rows
+detrimental
+flow
+removal
+mook
+c3
+executed
+resource
+resided
+11c
+resale
+compilation
+classic
+fall
+ble
+removed
+excluded
+generation
+downward
+sentinel
+dist
+overlapped
+numbered
+limiting
+soo
+issue
+alus
+cydra
+speedups
+relaxation
+sc
+compress
+legally
+moves
+applicability
+op
+hazard
+bars
+c2
+superscalar
+slots
+outer
+target
+back
+parallelism
+c1
+cycle
+counter
+targeted
+10a
+prohibit
+id
+recurrences
+frequently
+arrows
+issued
+eration
+schedulable
+enhanced
+blocks
+effective
+appeared
+overcoming
+eligible
+originate
+bob
+pipeline
+excluding
+redistribution
+oper
+spent
+tms320c6000
+mihm
+noubar
+partamian
+r123
+stotzer
+9308013
+haab
+unrolls
+schlansker
+dupr
+warter
+aaaa aaaa
+modulo scheduling
+exit branch
+back branch
+early exit
+live out
+the loop
+loop back
+last iteration
+final exit
+the epilogue
+control intensive
+the exit
+numeric programs
+non numeric
+multiple exits
+for modulo
+intensive non
+anti dependence
+loops with
+intra iteration
+the epilogues
+early exits
+use r1
+variable expansion
+modulo variable
+virtual register
+control dependences
+exit loops
+virtual registers
+branch is
+the prologue
+original loop
+example loop
+scheduling of
+cross iteration
+iteration control
+final exits
+iteration anti
+superblock loops
+loop body
+the instructions
+unrolled kernel
+modulo scheduled
+superblock formation
+generation scheme
+basic block
+epilogues for
+superblock loop
+home block
+of loops
+multiple exit
+exit is
+overlap of
+instruction 3
+anti dependences
+the modulo
+single exit
+acyclic scheduling
+each epilogue
+the kernel
+branch in
+block loops
+block y
+single basic
+code generation
+the early
+software pipelining
+instructions from
+the stage
+is scheduled
+the code
+the lifetime
+control flow
+of modulo
+loop exits
+epilogue for
+r34 is
+instructions that
+scheduling to
+f use
+through path
+an early
+espresso eqntott
+are live
+fall through
+code motion
+spec cint92
+that modulo
+loop counter
+after modulo
+the live
+exits the
+loops in
+the unrolled
+the branch
+exits from
+instruction 5
+iteration that
+paths of
+unimportant paths
+epilogue the
+apply modulo
+epilogue generation
+partial row
+effective modulo
+single iteration
+loop contains
+the iterations
+exit in
+assembly code
+the loops
+is taken
+the instruction
+of unrolling
+in stage
+stage a
+is live
+an exit
+cint92 benchmarks
+a superblock
+with superblock
+on modulo
+iteration and
+the overlap
+by instruction
+control dependence
+out values
+stage b
+allow effective
+scheduled loop
+the last
+profile information
+a loop
+instructions in
+prologue and
+block z
+moves for
+register name
+in control
+dependence graph
+iteration is
+branch to
+loops the
+of instructions
+an instruction
+a use
+and yacc
+inner loop
+loop the
+be removed
+for live
+dynamic instructions
+copied to
+the recmii
+exit superblock
+purpose non
+r12 is
+0 r4
+enable modulo
+allow modulo
+a3 c3
+epi row
+register anti
+ble 0
+r4 l1
+superblock modulo
+scheduling unrolling
+of r34
+several spec
+speculative iterations
+inst assembly
+epilogues the
+scheduled at
+stage in
+with multiple
+instruction is
+speculative execution
+the ii
+last stage
+loops that
+loop after
+that appeared
+issue processor
+loops and
+scheduling techniques
+predicated execution
+in single
+falls through
+original virtual
+r1 4
+of superblock
+dependence using
+intensive loops
+out value
+c3 c2
+high resource
+exits is
+instruction 6
+epilogue is
+aaaa aaaa aaaa
+loop back branch
+the loop back
+the last iteration
+modulo scheduling of
+non numeric programs
+the exit branch
+control intensive non
+intensive non numeric
+modulo variable expansion
+back branch is
+an early exit
+original loop body
+for modulo scheduling
+the original loop
+exit branch in
+code generation scheme
+the early exit
+modulo scheduling to
+the example loop
+a final exit
+the final exits
+branch is scheduled
+early exit branch
+of loops with
+scheduling of loops
+with multiple exits
+live out of
+branch in the
+generation scheme for
+basic block loops
+last iteration is
+iteration anti dependence
+epilogues for the
+iteration control dependences
+the early exits
+to control intensive
+in control intensive
+single basic block
+of modulo scheduling
+to the epilogue
+the loop exits
+multiple exit loops
+of the loop
+fall through path
+loops with multiple
+the unrolled kernel
+exit is taken
+for multiple exit
+the final exit
+from the prologue
+the live out
+are live out
+the epilogues for
+f use r1
+intra iteration control
+is live out
+in single basic
+overlap of the
+for single exit
+the overlap of
+in the original
+modulo scheduling for
+a single iteration
+instructions from the
+virtual register name
+example loop the
+intra iteration anti
+effective modulo scheduling
+cross iteration control
+allow effective modulo
+apply modulo scheduling
+exit loops the
+through path of
+cross iteration anti
+applicability of modulo
+live out values
+cint92 benchmarks and
+from the last
+from the loop
+copied to the
+that are live
+scheduled at the
+the virtual registers
+that modulo scheduling
+the modulo scheduled
+exit branch is
+single exit loops
+spec cint92 benchmarks
+scheme for multiple
+before the exit
+last iteration that
+last iteration and
+modulo scheduled loop
+modulo scheduling the
+the prologue and
+exits from the
+after modulo scheduling
+when the loop
+single iteration of
+modulo scheduling is
+of the kernel
+scheduling of the
+for loops with
+is scheduled at
+exit from the
+stage in which
+outside the loop
+the last stage
+class of programs
+basic block and
+control intensive loops
+register anti dependences
+the cross iteration
+live out when
+for several spec
+scheme for single
+use r1 2
+the stage count
+scheduling to this
+that appeared before
+a use r1
+single exit loop
+paths of loops
+original virtual register
+exit superblock loops
+exit in the
+selected paths of
+prior to scheduling
+unimportant paths with
+0 r4 l1
+defined by instruction
+enable modulo scheduling
+iteration that appeared
+when the early
+a superblock loop
+ble 0 r4
+of each epilogue
+to allow modulo
+scheduled in stage
+superblock modulo scheduling
+2 f use
+benchmarks and unix
+and overlap of
+control dependences from
+use r1 4
+loops in control
+to last iteration
+that allow effective
+final exit the
+the epilogue the
+loops with arbitrary
+allow modulo scheduling
+loop after modulo
+general purpose non
+purpose non numeric
+the home block
+and multiple exits
+several spec cint92
+a3 c3 c2
+high resource usage
+the stage in
+the exit is
+a loop counter
+the instructions that
+of the iterations
+the lifetime of
+c3 c2 c1
+applied to control
+the original virtual
+the selected paths
+the modulo scheduler
+an exit branch
+how these methods
+on a loop
+the anti dependence
+for an early
+paths with high
+unrolling prior to
+scheduling to be
+with arbitrary control
+live out value
+unix utility programs
+appeared before the
+with high resource
+numeric programs the
+on modulo scheduling
+the instructions have
+the dependence graph
+the next iteration
+of the loops
+the instructions in
+symposium on microarchitecture
+of the epilogue
+modulo scheduling and
+for a final
+scheduling is applied
+a virtual register
+be effectively applied
+of the bars

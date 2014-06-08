@@ -1,0 +1,379 @@
+sc
+ll
+herlihy
+vl
+ret
+tag
+constructions
+ptrs
+lock
+dirtycnt
+curr
+buf
+bank
+queue
+mem
+blocks
+buffer
+anc
+blkidx
+word
+wait
+oldlst
+blk
+enqueue
+array
+read
+tags
+weak
+object
+dequeue
+return
+helping
+universal
+private
+block
+copy
+copied
+pointers
+helped
+rb
+reads
+objects
+pointer
+proc
+pid
+newtail
+wordtype
+copying
+diff
+op
+fragmentation
+dirty
+lf
+shared
+bit
+applyop
+old
+fragmented
+flast
+od
+toggle
+spuriously
+moir
+free
+pars
+successful
+modifies
+addr
+processes
+select
+ksr
+reclaims
+obj
+val
+sequential
+queues
+newval
+applypars
+paramtype
+tmp
+overhead
+witness
+procedures
+linked
+validating
+maged
+memcpy
+bm
+illusion
+int
+retry
+construction
+implementations
+fail
+luchangco
+optype
+bs
+fails
+sizeof
+returns
+var
+logarithmic
+helps
+contents
+records
+bits
+backoff
+succeeds
+maurice
+subsection
+successfully
+contention
+operation
+record
+help
+installing
+contiguous
+buffers
+implementing
+field
+stored
+concurrent
+reclaimed
+reclaim
+head
+preprocessor
+delete
+announce
+item
+pending
+detect
+corrupt
+programmer
+prematurely
+primitives
+returned
+mechanism
+overwrite
+programmers
+id
+nb
+paying
+attempting
+displaced
+race
+loop
+interference
+div
+oldrb
+anddequeues
+forenqueues
+readg
+nyland
+selectedg
+rereads
+nt
+selects
+accessed
+replaces
+attempts
+tail
+subsequently
+executes
+designer
+pointed
+victor
+reading
+detects
+doherty
+sucessfully
+reapplied
+calls
+dn
+balanced
+describing
+replacement
+writing
+nts
+recopying
+multiword
+nbs
+shield
+initially
+performs
+updates
+concluding
+fragmenting
+jzer
+weak ll
+lock free
+wait free
+return block
+free construction
+large objects
+sc operations
+buf p
+ll vl
+process p
+universal constructions
+w word
+copy blocks
+sc operation
+large object
+n tags
+free universal
+anc q
+word variable
+read queue
+successful sc
+object pointer
+long weak
+long sc
+long ll
+ret 5
+mem array
+current return
+ll operation
+private copy
+space overhead
+p v
+object construction
+applied bit
+last tag
+word ll
+tags read
+array blocks
+select queue
+ret rb
+last n
+q bit
+sequential operation
+lf op
+large variables
+curr pid
+curr tag
+object constructions
+op procedure
+pid curr
+p diff
+ll procedure
+buf curr
+helping mechanism
+subsequent sc
+sequential object
+another process
+shared variable
+sc fails
+select tag
+shared object
+return value
+process q
+ptrs blkidx
+read tag
+ret b
+validating x
+copying overhead
+copied bit
+implementing large
+current buffer
+last queue
+tag successfully
+proc long
+shared queue
+one word
+write procedure
+old block
+p selects
+full paper
+o w
+last block
+multi word
+complexity o
+p performs
+bit value
+entire object
+enqueue select
+free constructions
+y dequeue
+implemented object
+implement ll
+vl x
+eventually helped
+fail spuriously
+private var
+ll bank
+item int
+toggle bit
+mem x
+ll returns
+help field
+using ll
+word blocks
+time complexity
+many objects
+block containing
+pending operations
+q line
+ll sc
+free time
+write procedures
+tag v
+successfully written
+n bm
+vl and sc
+ll and sc
+free and wait
+wait free construction
+herlihy s construction
+last n tags
+wait free universal
+q s operation
+w word variable
+free universal constructions
+lock free construction
+long weak ll
+current return block
+p s operation
+buf p v
+shared object pointer
+anc q bit
+construction for large
+n tags read
+curr pid curr
+pid curr tag
+buf curr pid
+herlihy s lock
+buf p diff
+large object construction
+p s sc
+weak ll operation
+vl of x
+herlihy s large
+bank of pointers
+written to x
+copy the entire
+operations for large
+process p performs
+read by p
+value of v
+correct return value
+weak ll bank
+implemented using ll
+tag successfully written
+block is modified
+wait free constructions
+herlihy s approach
+operation in herlihy
+fragmented into blocks
+lf op procedure
+weak ll vl
+last tag successfully
+contention free time
+word variable v
+array of b
+bm t c
+free time complexity
+free universal construction
+implementing large objects
+performance of herlihy
+min n bm
+word ll vl
+large object constructions
+enqueue or dequeue
+long ll procedure
+x then return
+property i holds
+time complexity o
+multi word operations
+constructions for large
+performs an operation
+read and write
+present an implementation
+contains the current
+number of blocks
+case time complexity
+false od dirtycnt
+w word vl
+p s version
+determine the return

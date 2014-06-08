@@ -1,0 +1,353 @@
+sinking
+hoisting
+predication
+resource
+anticipatable
+dead
+speculation
+anticipatability
+paths
+pde
+exit
+deadness
+availability
+instruction
+enabled
+profiling
+profiles
+delayability
+benefit
+entry
+optimizability
+profile
+inhibited
+onp
+flow
+hoisted
+join
+node
+redundancy
+gammadlys
+elimination
+statement
+motion
+enabling
+expression
+knoop
+assignment
+speculative
+pres
+frequencies
+subpath
+unioning
+earliestness
+pre
+superscalar
+instructions
+vliw
+sensitive
+confluence
+resources
+placement
+redundant
+optimizations
+executed
+infrequently
+opportunities
+aps
+evaluations
+dependences
+frequency
+identifies
+code
+scheduling
+lack
+enable
+path
+past
+insertion
+guided
+schedulers
+inhibits
+anticipatabil
+gammarants
+gammadlya
+owise
+gammadsafeearliest
+onps
+gammaerlye
+partially
+unoptimized
+renvoise
+soffa
+notices
+merge
+safety
+safe
+optimization
+fu
+blocked
+lou
+sigplan
+split
+optimizable
+incorporate
+movement
+morel
+eliminated
+drive
+sentinel
+aggressive
+inhibiting
+incapable
+earliest
+eliminates
+superblock
+sink
+locally
+successors
+optimized
+frequently
+intersected
+mary
+functional
+ops
+compilation
+suppression
+redefined
+redundancies
+predicated
+rajiv
+benefits
+bit
+issued
+inserted
+av
+moved
+migrate
+conditional
+ness
+cessors
+delayed
+gammaavl
+spilt
+epreda
+timizable
+maximumvalue
+patability
+vasilevskiy
+sunk
+antici
+conisdered
+sinkable
+unoptimizable
+gammaopt
+anticipata
+presa
+gammadly
+mizability
+vikki
+usede
+gammaravle
+joran
+slicing
+propagate
+exploited
+removal
+acyclic
+scalar
+identifying
+mitran
+rede
+anticipability
+anticipable
+rps
+xiangyu
+origi
+unop
+delayable
+placed
+execution
+upon
+assist
+originating
+expense
+predecessors
+butts
+guri
+hailperin
+frameworks
+assignments
+prevented
+eliminate
+free
+resource sensitive
+code hoisting
+resource availability
+node 7
+resource anticipatability
+data flow
+required resource
+availability analysis
+benefit analysis
+resource required
+code sinking
+cost benefit
+path profiles
+anticipatability analysis
+path profiling
+code motion
+partial dead
+dead code
+predication enabled
+locally free
+partially dead
+additional instruction
+executed paths
+program paths
+predication based
+code elimination
+node 6
+paths along
+flow analysis
+delayability analysis
+enabled sinking
+sensitive code
+past node
+entry exit
+node n
+flow graph
+path profile
+split point
+optimizability analysis
+based hoisting
+enabling predication
+sinking past
+join node
+partial redundancy
+flow equations
+node 8
+functional unit
+profile guided
+infrequently executed
+analysis identifies
+free resource
+partially redundant
+profiling information
+sinking framework
+placement points
+sensitive pde
+identifying paths
+assignment sinking
+expression evaluations
+knoop et
+enabling speculation
+based sinking
+identifies paths
+along paths
+expression e
+perform resource
+elimination using
+instruction scheduling
+code placement
+unit resource
+code statement
+instructions along
+join point
+bit variable
+insertion points
+merge point
+redundancy elimination
+h x
+speculation based
+execution frequencies
+profile directed
+path 1
+node 5
+x y
+program points
+data dependences
+frequently executed
+zero frequency
+variable defined
+y h
+redundant expression
+unoptimized program
+pde optimizations
+computation identifies
+zero execution
+sink ing
+subpath 7
+fully dead
+n s entry
+hoisting and sinking
+n s exit
+speculation and predication
+n is 1
+cost benefit analysis
+partial dead code
+available at n
+lack of resources
+anticipatable at n
+resource availability analysis
+instruction is introduced
+resource anticipatability analysis
+paths with non
+data flow analysis
+dead code elimination
+pre and pde
+resource sensitive code
+predication enabled sinking
+data flow equations
+resource is available
+resource is locally
+y h x
+onp s n
+x a b
+h x y
+e is available
+cost and benefit
+x y h
+partial redundancy elimination
+code elimination using
+speculation based hoisting
+hoisting above node
+sinking past node
+resource is anticipatable
+past node 7
+analysis will determine
+infrequently executed paths
+resource sensitive pde
+paths as indicated
+allow its movement
+dead at n
+knoop et al
+sets of paths
+predication based sinking
+analysis identifies paths
+one bit variable
+resource is free
+indicated by path
+path 1 2
+functional unit resource
+non zero frequency
+determined by identifying
+number of functions
+frequently executed paths
+n is determined
+blocked by data
+predication and speculation
+partially redundant expression
+hoisting and pre
+path profiling 1
+along infrequently executed
+non zero execution
+developed by knoop
+entry of node
+path profiling information
+path that benefits
+pde and pre
+available for sinking
+otherwise its value
+required by e
+additional instructions along

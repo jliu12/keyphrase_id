@@ -1,0 +1,372 @@
+backup
+client
+primary
+window
+schedule
+replication
+backups
+consistency
+inconsistency
+service
+msec
+compression
+failover
+transmissions
+update
+periodic
+object
+xmit
+crash
+tick
+inconsistent
+repository
+objects
+failures
+message
+scheduling
+sites
+replicas
+transmission
+fault
+messages
+site
+consistent
+supplant
+recovery
+integration
+timely
+transmits
+requests
+replicated
+replica
+tolerant
+protocols
+ack
+omniscient
+temporal
+server
+updates
+crashed
+admission
+writes
+controller
+period
+servers
+copy
+scheduler
+compressing
+failed
+diagnoses
+ticks
+failure
+transmitting
+monotonic
+mach
+plant
+periods
+integrate
+actuators
+sending
+goodness
+diagnose
+acknowledgement
+utilization
+post
+send
+timestamp
+priority
+transmit
+accommodate
+schedulability
+crashes
+likelihood
+operates
+communication
+units
+redundancy
+prototype
+staleness
+unshaded
+lost
+rate
+transition
+read
+latency
+witness
+sensors
+slack
+wrote
+guarantees
+rt
+relaxing
+earliest
+worsens
+transitioning
+distance
+tolerance
+metric
+selectively
+capacity
+external
+sockets
+capitalize
+diagnosing
+tasks
+overly
+receiving
+maintaining
+normal
+passive
+manager
+rates
+trigger
+timing
+dependability
+frequent
+reserves
+compressed
+loss
+probability
+operate
+socket
+intrusion
+retransmission
+believes
+deletion
+write
+readings
+fluctuations
+ms
+creation
+maintains
+tradeoffs
+detection
+intel
+overheads
+tolerances
+acknowledgements
+pcs
+availability
+vote
+ago
+delayed
+ffi
+windows
+semantics
+consul
+reintegrate
+btbackup
+hengming
+staler
+brahmamdam
+behest
+supplants
+schedules
+date
+timestamps
+successfully
+imprecise
+strict
+registration
+registered
+resource
+deadlines
+conservatively
+devices
+amongst
+ensures
+criterion
+spacing
+diagnosis
+exploring
+agreement
+task
+nonstop
+reintegration
+conversative
+impervious
+reestablish
+actuation
+abstractreal
+farnam
+sreekanth
+endangering
+window consistent
+window consistency
+periodic schedule
+integration schedule
+compression w
+client write
+replication service
+update transmissions
+schedule compression
+backup sites
+consistent replication
+primary backup
+message loss
+w 300
+msec compression
+consistent backup
+write rate
+w 700
+new backup
+real time
+update message
+update messages
+backup site
+client requests
+object o
+client writes
+temporal inconsistency
+primary crash
+communication failures
+failed primary
+normal periodic
+inconsistent backup
+temporal consistency
+normal schedule
+maximum distance
+primary must
+tick period
+operates without
+message loss0
+object admission
+backup must
+window inconsistent
+replication protocols
+client view
+backup objects
+recovery inconsistency
+backup b
+replication model
+rate monotonic
+client application
+fault tolerant
+communication within
+data repository
+average maximum
+o j
+high client
+inconsistency within
+objects window
+become window
+crashed primary
+version timestamp
+update acknowledgements
+backup object
+replication models
+lost update
+prior post
+update transmission
+subsequent primary
+system state
+consistency requirements
+recent version
+d prior
+periodic model
+acknowledgement messages
+major cycle
+d post
+update scheduling
+consistency semantics
+time applications
+monotonic scheduling
+write operations
+task model
+crash would
+plant external
+backup protocols
+primary p
+scheduling update
+object window
+consistent primary
+omniscient view
+backup since
+backup view
+backup architecture
+intel based
+primary may
+replicated data
+transmission time
+period p
+scheduling algorithm
+last ff
+backup replication
+earliest due
+due date
+service availability
+write rates
+rate message
+object sets
+primary site
+object manager
+schedulability criterion
+sufficiently recent
+control system
+client read
+new primary
+window consistent replication
+w 700 msec
+window consistent backup
+msec no compression
+client write rate
+compression w 700
+w 300 msec
+within the service
+consistent replication service
+probability of message
+transmission of o
+normal periodic schedule
+average maximum distance
+primary and backup
+msec compression w
+version of o
+compression w 300
+without a window
+processing and network
+consistent replication model
+copy of o
+supplant a failed
+transmits an update
+rate monotonic scheduling
+real time applications
+minimize the time
+distance w 300
+integrate a new
+time t xmit
+consistent primary backup
+window consistent primary
+time it operates
+rate message loss
+lost update messages
+since a subsequent
+plant external world
+copy of object
+become window inconsistent
+primary backup architecture
+backup s window
+compressing the periodic
+temporal inconsistency within
+primary backup protocols
+primary crash would
+loss and schedule
+subsequent primary crash
+backup s view
+scheduling update transmissions
+write rate message
+d prior post
+client write rates
+earliest due date
+primary backup replication
+send an update
+periodic task model
+sending an update
+state machine replication
+shown in figure
+fault tolerant distributed
+monotonic scheduling algorithm
+tolerant distributed systems
+read and write
+pcs running rt
+primary can transmit
+based pcs running

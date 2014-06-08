@@ -1,0 +1,384 @@
+allocation
+register
+energy
+ow
+dierent
+consumption
+parent
+loop
+registers
+arc
+block
+blocks
+assignment
+dened
+nishing
+coloring
+lifetimes
+arcs
+nf
+resp
+consumed
+post
+read
+mine
+ns
+ej
+activity
+merge
+lifetime
+rst
+hamming
+capacitance
+assignments
+kn
+loops
+knlog
+vrb
+allocator
+nish
+spilled
+memory
+dicult
+allocations
+boundary
+allocating
+branch
+nlog
+child
+saved
+assigned
+switched
+branches
+references
+proling
+node
+priority
+nd
+minfej
+bknlog
+brand
+allocated
+static
+objective
+weight
+grandchild
+referenced
+merges
+wv
+dash
+diers
+body
+gebotys
+phase
+accesses
+allocators
+network
+diculty
+assigning
+beyond
+live
+tiger
+parents
+phases
+saving
+dierently
+topological
+super
+modied
+writing
+occupying
+vr
+compiler
+ecient
+exiting
+unweighted
+consume
+sucient
+initialization
+consecutive
+formulation
+merging
+storage
+alive
+paths
+le
+dene
+handle
+nodes
+probability
+paragraphs
+categorized
+switchings
+bnlog
+variabls
+bkn
+vrbp
+summaried
+probabilities
+aect
+exits
+identied
+dictated
+reading
+ic
+graph
+ts
+mr
+assign
+carlisle
+overlaps
+superior
+denitions
+backwards
+np
+consumes
+summarized
+suboptimal
+candidates
+eect
+literatures
+diculties
+vise
+rap
+italic
+nding
+microprocessor
+benefiting
+edges
+dierence
+cross
+straight
+pedram
+matroids
+bristol
+beginning
+treat
+xed
+cooling
+icting
+formulations
+binding
+stay
+solid
+improvement
+treating
+consumptions
+nished
+branching
+overlap
+access
+descendents
+uniquely
+interference
+portable
+minimization
+quadratic
+eciently
+designates
+vl
+lloyd
+descendent
+critical
+totally
+piece
+programs
+kept
+resulted
+rw
+grand
+factorial
+minimize
+investigating
+connect
+sults
+register allocation
+b p
+energy model
+parent blocks
+block b
+energy consumption
+network ow
+loop variable
+post assignment
+allocation result
+ow problem
+allocation results
+n f
+static energy
+based energy
+variable v
+type n
+activity based
+parent block
+basic block
+energy consumed
+loop variables
+f v
+allocation problem
+best allocation
+e r
+c n
+graph coloring
+loop block
+available registers
+whose lifetimes
+v f
+low energy
+merge case
+cost c
+p l
+allocation process
+r r
+p v
+dierent parent
+energy saved
+nishing time
+u n
+n r
+basic blocks
+critical set
+kn 2
+global register
+energy register
+dierent energy
+energy models
+ow algorithm
+m r
+variables whose
+e m
+local register
+o kn
+ow graph
+third phase
+model c
+hamming distance
+coloring approach
+loop body
+optimal allocation
+register r
+switched capacitance
+v r
+nish node
+allocation phases
+dierent allocation
+boundary variable
+pre assignment
+priority paths
+optimal energy
+cost associated
+n p
+another node
+f u
+p u
+p q
+one parent
+objective function
+cost network
+super block
+ns c
+beyond basic
+access models
+local r
+arc c
+current block
+multiple read
+graph model
+m m
+starting time
+overall energy
+initialization phase
+b based
+known approaches
+ns d
+knlog n
+mine mine
+k available
+v live
+lifetimes extend
+resp memory
+mine 0
+ej 0
+v allocated
+d nf
+uniquely dened
+local m
+n s v
+n f v
+static energy model
+node of type
+c n f
+based energy model
+activity based energy
+b p l
+network ow problem
+f v f
+memory in b
+obtained from 0
+block b p
+n f u
+read in b
+e r r
+cost c n
+variables whose lifetimes
+p v r
+amount of energy
+f u n
+register in b
+written in b
+process of b
+register allocation problem
+dierent parent blocks
+variable in b
+type n f
+energy model c
+model c n
+assigned to memory
+n p u
+o kn 2
+e a n
+b and v
+loop variable v
+assigned to zero
+parent block b
+block b 0
+energy register allocation
+assignment and post
+global register allocation
+network ow algorithm
+r e r
+r i n
+p and b
+p u n
+e m r
+local register allocation
+l n k
+graph coloring approach
+v in b
+r h u
+cost network ow
+arc c n
+result from 0
+v r b
+nish node f
+critical set c
+v is written
+v c r
+c n r
+c p q
+current block b
+v the cost
+types of arcs
+probability of v
+x p q
+model the energy
+minimum cost network
+represents the energy
+beyond basic blocks
+r r e
+c n p
+nd the best
+b the cost
+w e r
+u v c
+r m m

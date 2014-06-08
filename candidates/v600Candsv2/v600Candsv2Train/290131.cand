@@ -1,0 +1,363 @@
+fsm
+ecp
+centiseconds
+bs
+jqj
+parsing
+fsms
+viterbi
+endfor
+score
+distortion
+beam
+trellis
+deletion
+sentences
+wer
+parsed
+psi
+pi
+sect
+ocr
+ts
+correcting
+jxj
+transitions
+recognition
+bucketsort
+distorted
+stage
+visited
+string
+va
+decoding
+parse
+perplexity
+symbol
+grammatical
+speech
+deletions
+fig
+backtracking
+insertions
+centisecond
+bouloutas
+lp
+topological
+stochastic
+ret
+acyclic
+undistorted
+spr
+learned
+insertion
+strings
+substitutions
+miniature
+subs
+width
+negligible
+dp
+substitution
+likelihood
+pp
+inference
+scores
+delta
+endif
+recognise
+dist
+vidal
+ranging
+enrique
+bucket
+differences
+acceleration
+init
+digits
+recog
+heap
+training
+parses
+recomputation
+errors
+generalisation
+labelled
+transition
+symbols
+testable
+multistage
+ins
+imperfect
+depth
+straightforwardly
+language
+diagram
+correction
+buckets
+mceliece
+initialcost
+heapify
+bcjr
+ringlstetter
+binsort
+undis
+ecgi
+harpy
+wers
+bened
+amengual
+mihov
+changed
+preprocessing
+tended
+rate
+learning
+syntactic
+codes
+sigma
+stochas
+mla
+torted
+trellises
+stoyan
+sanchis
+wiberg
+prohibitive
+suboptimal
+coding
+block
+predecessors
+pps
+tsi
+acquisition
+ffi
+effectiveness
+ff
+edge
+argmin
+casacuberta
+properness
+warps
+underflows
+edges
+clean
+priority
+search
+sects
+touchstone
+yielded
+ordering
+cycles
+exhibited
+consecutive
+regard
+widest
+tanner
+probabilities
+recurrence
+degrade
+unsorted
+strict
+algorithmic
+sort
+copes
+belonged
+coming
+produced
+tuned
+traversed
+linked
+schulz
+ltr
+branching
+images
+cicyt
+pi q
+stage k
+centiseconds number
+state q
+deletion transitions
+q j
+q l
+without bs
+parsing stage
+k ts
+visited states
+average computing
+delta b
+computing times
+jqj delta
+c q
+beam width
+delta jqj
+using bs
+lp experiments
+minimum cost
+beam search
+o jxj
+cost path
+error correcting
+jxj delta
+viterbi algorithm
+error model
+trellis diagram
+ocr experiments
+ts models
+symbol parsed
+viterbi parsing
+back edge
+input string
+back edges
+computation time
+test sentences
+computing time
+grammatical inference
+o jqj
+per symbol
+different algorithms
+recognition rate
+algorithmic scheme
+whose score
+distorted sentences
+correcting parsing
+score state
+ts model
+fsm figure
+bucket psi
+without ecp
+init block
+ordering key
+list pi
+stochastic fsms
+q endif
+correcting viterbi
+wer pp
+time complexity
+string x
+ffi q
+finite state
+ret block
+lowest score
+full search
+errors produced
+parsing process
+jqj 2
+linear block
+depth first
+block codes
+distortion rate
+speech recognition
+higher computational
+sect 2
+best results
+preprocessing stage
+stochastic k
+likelihood classification
+given parsing
+acyclic multistage
+experiments distortion
+k testable
+distortion wer
+insertions substitutions
+using ev1
+log jqj
+jqj value
+key psi
+negligible ranging
+va 3
+parsing ecp
+fsm computation
+parse errors
+miniature language
+pp wer
+observed computing
+deletion transition
+perplexity pp
+case ev3
+fsm 5
+score order
+case ecp
+ins subs
+automatically learned
+backtracking recomputation
+using bucketsort
+parsing deletion
+viterbi like
+undistorted test
+time in centiseconds
+states in fsm
+jqj delta b
+state q j
+minimum cost path
+number of states
+c q j
+input string x
+computing time per
+k ts models
+jxj delta jqj
+per symbol parsed
+time per symbol
+average computing times
+psi i 8i
+c q l
+o jxj delta
+number of visited
+state q l
+delta jqj delta
+stage k 1
+jqj 2 delta
+ffi q l
+parsing stage k
+error correcting parsing
+pi q endif
+correcting viterbi parsing
+l in stage
+number of back
+parse an input
+stated in sect
+j 2 ffi
+times in centiseconds
+linear on jqj
+list pi q
+q j k
+linear block codes
+acyclic multistage graph
+l to state
+directed acyclic multistage
+parsed was never
+error correcting viterbi
+ins subs block
+computation of psi
+compatible with beam
+set perplexity pp
+problem of finite
+pp wer pp
+given parsing stage
+l c q
+init block 2
+parse errors produced
+correcting parsing ecp
+stage for ev3
+substitutions and deletions
+q l 15
+problem of error
+wer pp wer
+different algorithms measured
+gets the best
+q do 13
+q do 5
+average computing time
+maximum likelihood classification
+q l c
+bucket psi j
+see sect 5
+deletion transitions 5
+tended to degrade
+problem of ecp
+likelihood classification rule
+undistorted test sentences
+stochastic k ts
+efficient error correcting
+finite state parsing
+observed computing times

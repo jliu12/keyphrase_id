@@ -1,0 +1,270 @@
+accelerator
+asu
+sfg
+controller
+pipeline
+reservation
+dii
+collision
+qmf
+micro
+initiation
+interconnect
+bitparallel
+conflict
+synthesis
+dsp
+cluster
+datapath
+io
+doack
+imec
+clustering
+clusters
+pipelined
+signals
+retiming
+m0
+sharing
+silage
+shifter
+latch
+multiplexing
+netlist
+clock
+instruction
+mirror
+fadd1
+dolphin
+wether
+schedule
+scheduling
+shift
+quadrature
+registers
+instructions
+processor
+flip
+cathedral
+decimated
+flop
+interconnection
+hardware
+latency
+bank
+register
+throughput
+filter
+signal
+latencies
+delay
+conflicts
+pin
+forbidden
+diagram
+bus
+accelerators
+shareable
+microinstruction
+nonmanifest
+buses
+tap
+gates
+cycle
+architecture
+cells
+operator
+behavioral
+cycles
+interleaving
+sehwa
+initiations
+cell
+bit
+interface
+clustered
+leuven
+cmos
+dff
+strobe
+m1
+the accelerator
+collision vector
+data path
+reservation table
+accelerator controller
+conflict controller
+the sfg
+micro instruction
+the asu
+accelerator processor
+initial collision
+processor interface
+micro instructions
+pipeline registers
+io 1
+accelerator data
+accelerator datapath
+an accelerator
+the qmf
+the conflict
+path synthesis
+new initiation
+multiplexing cost
+qmf bank
+ffl the
+the cluster
+the do
+quadrature mirror
+hardware sharing
+system control
+controller is
+the micro
+the reservation
+the dii
+asu micro
+instruction shifter
+conflict model
+m0 io
+cluster schedule
+throughput dsp
+accelerator processors
+io 0
+from imec
+0 m0
+do pin
+pipeline conflict
+asu definition
+dsp algorithms
+data paths
+design flow
+the controller
+start signal
+clock cycles
+in z
+state diagram
+controller architecture
+1 z
+the pipeline
+an initiation
+flip flop
+of pipelined
+high throughput
+clustering the
+a pipeline
+of accelerator
+per asu
+an asu
+do doack
+gates bit
+to asu
+signals o
+wether a
+sfg operations
+cluster scheduling
+path interconnect
+called dolphin
+timing view
+instruction bus
+derived out
+bitparallel data
+forbidden latencies
+the silage
+pin is
+asu s
+clustered graph
+sfg clustering
+of asu
+controller the
+the multiplexing
+mirror filter
+the accelerator controller
+of the accelerator
+initial collision vector
+the conflict controller
+the accelerator processor
+the initial collision
+the reservation table
+the processor interface
+data path synthesis
+the accelerator datapath
+accelerator data path
+the data path
+the system control
+path synthesis tools
+io 0 m0
+the cluster schedule
+the accelerator data
+collision vector is
+o 2 z
+high throughput dsp
+the collision vector
+m0 io 1
+the do pin
+o 1 z
+micro instruction shifter
+z and o
+the micro instruction
+1 z and
+and o 2
+pipelined data paths
+an initiation latency
+a pipeline conflict
+data path cost
+derived out of
+a new initiation
+for the accelerator
+signals o 1
+the clustered graph
+accelerator controller the
+of pipeline registers
+0 m0 io
+sfg clustering and
+asu micro instruction
+data path interconnect
+the multiplexing cost
+do pin is
+bitparallel data path
+the start signal
+quadrature mirror filter
+of the pipeline
+the processing of
+the next cycle
+needed to implement
+into the current
+clusters assigned to
+in z z
+the sfg operations
+the current collision
+of the sfg
+to the accelerator
+system control thread
+the timing view
+schedules are available
+io 1 m4
+cluster latency is
+the cluster latency
+collision vector a
+clustering and assignment
+the output signals
+delay operations are
+complete design flow
+controller the accelerator
+of in z
+the delay operations
+io 1 m0
+accelerator processors we
+do doack done
+new initiation is
+the micro instructions
+multiplexing cost and
+collision vector and
+ffl the conflict
+conflict controller is
+of quadrature mirror
+of clusters assigned
+initiation is possible
+add shift operations
+area needed to
+0 7 standard
+the operator area

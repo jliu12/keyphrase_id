@@ -1,0 +1,398 @@
+stepsize
+verlet
+symplectic
+reparameterization
+deltas
+deltat
+reversible
+fig
+hamiltonian
+timestep
+orbits
+stepsizes
+kepler
+leapfrog
+reparameterized
+pendulum
+integration
+leimkuhler
+orbit
+energy
+body
+ae
+momentum
+integrator
+arclength
+ds
+rescaling
+midpoint
+lobatto
+adaptive
+reversibility
+differential
+normalization
+field
+discretization
+singularities
+symplecticness
+motion
+particles
+angular
+article
+gravitational
+integrators
+masses
+reparameterizations
+dynamical
+figs
+iiia
+forces
+vicinity
+algebraic
+eccentricity
+singular
+cusp
+particle
+numerical
+stability
+kutta
+runge
+timesteps
+deltasrv
+rescalings
+gammarv
+bobs
+fictive
+bond
+hessian
+force
+dq
+neighborhood
+autonomous
+double
+implicitness
+cusps
+celestial
+trajectory
+huang
+mechanics
+differentiation
+dynamics
+ukans
+momenta
+durn
+conserves
+helium
+cano
+scalar
+resolve
+differentiating
+implicit
+dp
+singularity
+integrating
+quartic
+electrostatic
+nonlinear
+7d
+coupled
+multistep
+kansas
+mechanical
+smooth
+flow
+schemes
+norm
+growth
+preserves
+basing
+potentials
+integrable
+normalized
+excessively
+separated
+qn
+traversed
+evaluations
+linearized
+epscor
+deltatrv
+moleculardynamics
+nucleus
+nonintegrable
+skeel
+deltasg
+osr
+titative
+stumbling
+eccentricities
+flowlines
+nonsepara
+interparticle
+mathematics
+regularized
+atoms
+parameterization
+trajectories
+reversal
+molecular
+normalizing
+ks
+separable
+boundedness
+errors
+destroy
+integrate
+dramatically
+leimkuhl
+ormer
+coulomb
+hallmark
+multidimensionality
+recapture
+whuang
+calvo
+remarkable
+collision
+lawrence
+classical
+hamiltonians
+squeezed
+looked
+symmetry
+equations
+lobes
+intolerable
+hairer
+timescale
+ruin
+electron
+separation
+origin
+gradient
+unstable
+timestepping
+fixed stepsize
+ae n
+vector field
+time reversible
+verlet method
+body problem
+three body
+adaptive verlet
+variable stepsize
+y fig
+double pendulum
+kepler problem
+energy error
+differential algebraic
+phase space
+stepsize integration
+n body
+deltas 0
+implicit midpoint
+time stepsize
+stepsize method
+leapfrog verlet
+b leimkuhler
+energy errors
+angular momentum
+time energy
+error fig
+w huang
+time reversibility
+numerical integration
+stepsize fig
+one force
+n 1p
+reversible methods
+timestep fig
+h h_0
+symplectic time
+time timestep
+force evaluation
+hamiltonian systems
+normalized vector
+adaptive method
+reparameterized equations
+midpoint method
+bond problem
+stepsize deltat
+stepsize verlet
+time reparameterization
+verlet scheme
+h h0
+body approach
+space orbits
+force evaluations
+second order
+body problems
+binary pair
+steps time
+partitioned runge
+deltat min
+evaluation per
+reversible integration
+lobatto iiia
+ds ae
+flow map
+iiia b
+order lobatto
+deltas deltas
+algebraic method
+per step
+order accurate
+two body
+u 0
+runge kutta
+singular points
+fig 5b
+theta p
+d ds
+ds ds
+n gamma
+kutta methods
+point u
+central forces
+stepsize 0
+deltat units
+used figs
+dq ds
+midpoint scheme
+stepsize integrator
+stepsize integrators
+along phase
+arclength measured
+ae dp
+deltas ae
+explicit leapfrog
+reversible schemes
+coupled differential
+verlet differential
+stepsize numerical
+stepsize version
+adaptive fixed
+quartic polynomial
+deltat max
+reparameterization factor
+plotted every
+orbits pass
+separated hamiltonian
+integration methods
+r q
+qualitative change
+timestep h
+fig 2d
+celestial mechanics
+reversible integrator
+symplectic methods
+dp ds
+excessively small
+smooth regions
+integral invariants
+standard verlet
+linearized stability
+ae n 1
+three body problem
+n 1 ae
+time energy error
+adaptive verlet method
+energy error fig
+x y fig
+huang and b
+n body problem
+h h_0 fig
+deltas 0 01
+one force evaluation
+ae n gamma
+fixed stepsize integration
+ae n 1p
+normalized vector field
+time reversible methods
+time timestep fig
+symplectic time reversible
+h h0 fig
+phase space orbits
+force evaluation per
+based on normalization
+time steps time
+fixed stepsize method
+time stepsize fig
+based on differentiation
+steps time stepsize
+implicit midpoint method
+differential algebraic method
+problem with hamiltonian
+n 1p n
+fixed stepsize verlet
+equations of motion
+partitioned runge kutta
+n body problems
+lobatto iiia b
+evaluation per step
+shown in figs
+n gamma 1
+shown in fig
+n 1 theta
+runge kutta methods
+adaptive verlet differential
+variable stepsize method
+pendulum the kepler
+many other choices
+arclength measured along
+iiia b pair
+ae dp ds
+fixed stepsize numerical
+neighborhood of singular
+variable stepsize integration
+ds ae dp
+error fig 10b
+polynomial in ae
+explicit leapfrog verlet
+every 100 steps
+fig 10b x
+implicit midpoint scheme
+problem t f
+time stepsize deltat
+d ds ds
+time reversible integration
+plotted every 100
+stepsize verlet method
+fixed stepsize integrator
+long time interval
+rescaling of time
+reparameterization of time
+verlet differential algebraic
+dq ds ae
+requiring the evaluation
+stepsize numerical integration
+y fig 10a
+timestep h h0
+along phase space
+leapfrog verlet scheme
+resolve the motion
+measured along phase
+fixed stepsize 0
+large n body
+three body approach
+stability of energy
+based on introduction
+conserves the angular
+double pendulum problem
+leapfrog verlet method
+problem a d
+scalar nonlinear equation
+fixed stepsize integrators
+coupled differential algebraic
+field is large
+growth of errors
+differentiating the control
+ukans edu supported
+fig 10a fig
+several numerical experiments
+n ae n
+order lobatto iiia
+integration of autonomous
+variable stepsize linear
+cano a durn
+second order lobatto

@@ -1,0 +1,398 @@
+qualifiers
+qualifier
+ect
+alias
+locs
+inference
+lock
+store
+linearities
+bugs
+alloc
+ref
+ects
+sigplan
+locations
+prop
+qc
+sensitive
+notices
+locking
+location
+insensitive
+dawson
+engler
+flow
+file
+cqual
+annotations
+stores
+assign
+linearity
+linux
+fresh
+int
+unlocked
+java
+ci
+constraint
+typestate
+checking
+kobayashi
+usage
+dataflow
+subtyping
+jhala
+files
+restrict
+ranjit
+naoki
+readwrite
+opened
+majumdar
+rupak
+filter
+propagation
+lin
+qa
+junfeng
+modules
+locked
+spin
+vulnerabilities
+esp
+deref
+yichen
+updates
+security
+merge
+aliasing
+annotate
+yahav
+pistoia
+driver
+aliases
+abstract
+aiken
+kernel
+preprocessed
+interprocedural
+dereferences
+programmer
+struct
+assert
+igarashi
+propagate
+intraprocedural
+musuvathi
+sendmail
+madanlal
+uninteresting
+sigsoft
+allocation
+stream
+app
+lclint
+card
+cyclone
+millstein
+module
+weak
+errors
+foster
+jeffrey
+xie
+acquired
+pointer
+calculus
+sound
+check
+erent
+safety
+strong
+atsushi
+kodumal
+ccured
+chelf
+deviant
+hallem
+twohey
+spinlock
+semilattices
+futoshi
+kremenek
+resource
+constructors
+soundness
+forward
+aliased
+adoption
+rules
+vault
+pluggable
+compatible
+pointers
+library
+bytecode
+sp
+iwama
+pratikakis
+mgr
+polyvios
+markstrum
+fopen
+alex
+void
+di
+cient
+esc
+monomorphic
+eclipse
+shane
+static
+incomparable
+update
+language
+released
+device
+inferred
+inferring
+coercions
+decorate
+immutability
+yang
+polymorphic
+polymorphism
+constraints
+languages
+annotated
+manuvir
+drivers
+typed
+jagannathan
+ramalingam
+locks
+checks
+lazily
+decorated
+flow sensitive
+e ect
+type qualifiers
+assign c
+alias analysis
+flow insensitive
+ect inference
+prop c
+abstract location
+store c
+e ects
+sensitive type
+store constraints
+acm sigplan
+stream library
+notices v
+sigplan notices
+forward prop
+strong updates
+type system
+linux kernel
+program point
+back prop
+type systems
+locking bugs
+weak updates
+c stream
+non linear
+sensitive analysis
+usage analysis
+type errors
+type inference
+inference algorithm
+dawson engler
+strong update
+resource usage
+fresh qualifier
+y qc
+abstract locations
+whole module
+library usage
+naoki kobayashi
+store variable
+restrict x
+jhala rupak
+c l
+constraint resolution
+ranjit jhala
+merge c
+spin lock
+insensitive alias
+standard type
+type check
+type checking
+check e
+yichen xie
+assign stores
+int alloc
+type qualifier
+new locking
+effect inference
+qualifier variable
+ect l
+store constructors
+store alloc
+alias types
+point represented
+module analysis
+qualifier variables
+store constraint
+junfeng yang
+qualifier inference
+alloc x
+linear locations
+rupak majumdar
+standard types
+constraint graph
+dataflow analysis
+finding bugs
+alloc c
+filter c
+weak update
+c c
+target language
+assert e
+type ref
+intraprocedural analysis
+v 39
+alex aiken
+single file
+type based
+e q
+c lin
+constraint generation
+path sensitive
+linearity computation
+store assign
+driver files
+whole modules
+ground store
+constructed stores
+lock already
+store variables
+fresh abstract
+assign y
+ect set
+every store
+bytecode subroutines
+l assigns
+qa int
+qualifier annotations
+assign z
+propagation stops
+non aliasing
+level qualifier
+sp ci
+function e1
+qualifier constraints
+locking behavior
+preprocessed lines
+igarashi naoki
+e yahav
+underlying standard
+struct emu10k1_card
+locs locs
+purely local
+acm sigsoft
+expression e
+software engineering
+type error
+sensitive properties
+programmer specified
+closed file
+constant qualifiers
+ref e
+e ect inference
+flow sensitive type
+acm sigplan notices
+sigplan notices v
+c stream library
+flow sensitive analysis
+sensitive type qualifiers
+back prop c
+resource usage analysis
+forward prop c
+stream library usage
+jhala rupak majumdar
+ranjit jhala rupak
+notices v 39
+flow insensitive alias
+rules in figure
+insensitive alias analysis
+program point represented
+whole module analysis
+e ect l
+represented by store
+standard type systems
+new locking bugs
+jeffrey s foster
+n 10 october
+c c l
+merge c c
+v 39 n
+analysis for security
+notices v 40
+n 6 june
+alias and e
+igarashi naoki kobayashi
+underlying standard types
+c s assign
+filter c l
+top level qualifier
+c l assigns
+assign z 4
+check e q
+lin s c
+fresh abstract location
+calling the function
+locked and unlocked
+programs with type
+e ect set
+assert e q
+location of x
+java bytecode subroutines
+flow sensitive properties
+non linear locations
+store constraint graph
+int alloc x
+atsushi igarashi naoki
+restrict x e1
+compute s c
+struct emu10k1_card card
+assign y qc
+v 40 n
+must be opened
+system for java
+analysis and e
+must alias analysis
+set of e
+flow insensitive analysis
+system and language
+theory of type
+every program point
+software engineering notes
+engineering notes v
+acm sigsoft software
+sigsoft software engineering
+languages and analysis
+workshop on programming
+symposium on partial
+type of e
+type inference algorithm
+evaluation and semantics
+based program manipulation
+notices v 38
+semantics based program
+device driver modules
+e cient inference
+source lines took
+alloc x y
+system specific static

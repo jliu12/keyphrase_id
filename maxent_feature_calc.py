@@ -13,8 +13,8 @@ stopwords = []
 #outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
 #candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
 
-outputPath = "v600TrainMaxentFullFeatureSetOutput.txt"#MAXENT CHANGE
-candidatesPath = "train600cands"#MAXENT CHANGE
+outputPath = "v600v2TrainProbsStrict.txt"#MAXENT CHANGE
+candidatesPath = "v600CandsV2Train.txt"#MAXENT CHANGE
 
 
 class FeatureCalculator:
@@ -59,10 +59,24 @@ class FeatureCalculator:
 	def ft_spread(self, start, end):
 		return {'spread': end - start}
 
+	def ft_num_tokens(self, candidate):
+		num_tokens = len(candidate.split())
+		return {'num_tokens': num_tokens}
+
 	#TODO: implement
 	def ft_doc_section(self, candidate):
 		#not yet implemented, need document section markers
 		return {'section': 1}
+
+	def ft_tagger(self, candidate):
+		tokens = nltk.word_tokenize(candidate)
+		tag_list = nltk.pos_tag(tokens)
+		tag_string = ""
+		for s in tag_list:
+			if (tag_string != ""):
+				tag_string += " "
+			tag_string += s[1]
+		return {'tags': tag_string}
 
 	def ft_tfidf(self, candidate):
 		return{'tfidf': self.tfidf[candidate]}
@@ -92,13 +106,17 @@ class FeatureCalculator:
 		first_occurrence = self.ft_first_occurrence_position(candidate)
 		feature_dict.update(first_occurrence)
 
-
 		last_occurrence = self.ft_last_occurrence_position(candidate)
 		feature_dict.update(last_occurrence)
 
 		spread = self.ft_spread(first_occurrence['first_occur'], last_occurrence['last_occur'])
 		feature_dict.update(spread)
 
+		num_tokens = self.ft_num_tokens(candidate)
+		feature_dict.update(num_tokens)
+
+		part_of_speech = self.ft_tagger(candidate)
+		feature_dict.update(part_of_speech)
 
 		tfidf = self.ft_tfidf(candidate)
 		feature_dict.update(tfidf)
@@ -199,8 +217,8 @@ def run_classifier(classifier, featureset):
 	cur_filename = ""
 	for s in featureset:
 		feat = s[2]
-		result = classifier.classify(feat[0])
-		if (result == "yes"):
+		result = classifier.prob_classify(feat[0])
+		if (result.prob("yes") > .9):
 			#print formatted result
 			if cur_filename == "":
 				cur_filename = s[0]
@@ -223,7 +241,7 @@ def calc_test_features(test_data):
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
 
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/600test/" + file_id + ".tfvec")
 		phrases = test_data[fname]
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list) 
@@ -248,13 +266,16 @@ def main():
 	test_data = parse_test_data(candidatesPath)
 	train_featureset = calc_train_features(train_data)
 	test_featureset = calc_test_features(test_data)
-	print test_featureset
+	#print test_featureset
 	
 	#MAXENT CHANGE
 	encoding = maxent.TypedMaxentFeatureEncoding.train(train_featureset, count_cutoff=3, alwayson_features=True)#MAXENT CHANGE
+	print ("attempting describe:")
+	print(encoding._mapping)
 	classifier = maxent.MaxentClassifier.train(train_featureset, algorithm='iis', bernoulli=False, encoding=encoding, trace=3)#MAXENT CHANGE
-	
-	run_classifier(classifier, test_featureset)
+	classifier.show_most_informative_features(n=20, show='all')
+	#classifier.explain(train_featureset, columns=4)
+	#run_classifier(classifier, test_featureset)
 
 
 if __name__ == "__main__":

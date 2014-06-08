@@ -1,0 +1,600 @@
+rtg
+register
+dag
+dsps
+dsp
+dags
+instruction
+m5
+datapath
+schedule
+dismanteling
+allocation
+snf
+tms320c25
+sacl
+optschedule
+lac
+aho
+instructions
+acyclic
+dismantle
+trees
+mpy
+architectures
+isa
+edges
+registers
+rtgs
+spill
+olive
+operands
+sc
+tree
+m7
+araujo
+breaking
+sethi
+subtrees
+expression
+spac
+deadlock
+reconvergent
+subtree
+dspstone
+schedules
+johnson
+edge
+spills
+generation
+pseudo
+m0
+pac
+tms320
+leaf
+malik
+code
+m2
+scheduled
+processors
+heterogeneous
+memory
+m3
+raw
+1976
+architecture
+m6
+m4
+apac
+fanout
+biquad
+wess
+heuristic
+operand
+selection
+yunheung
+paek
+benchmark
+allocated
+marwedel
+instruments
+broken
+optimality
+homogeneous
+kernel
+sharad
+iir
+assembly
+disconnected
+scheduler
+subexpressions
+transfer
+dismantles
+tjiang
+c2x
+zivojnovic
+goosens
+campinas
+tms320c1x
+1977a
+guido
+lt
+1990
+disconnect
+chip
+motorola
+accumulator
+jeonghun
+unicamp
+c5x
+processor
+spilling
+ir
+optimally
+princeton
+architectural
+loop
+fig
+notice
+ullman
+nodes
+embedded
+expressions
+mul
+signal
+compiling
+binate
+scheduling
+cycles
+adpcm
+deadlocks
+files
+const
+matching
+store
+trellis
+lee
+heuristics
+bring
+covering
+lms
+spam
+texas
+target
+self
+whalley
+1993
+paths
+fraser
+garey
+fug
+digital
+node
+1995
+outgoing
+programmable
+devices
+grammar
+delta
+brazil
+locations
+dot
+cyclic
+floating
+quality
+ti
+compiled
+file
+temporary
+storage
+lemmas
+cho
+np
+1975
+sibling
+permissions
+location
+1988
+blocks
+pass
+live
+rooted
+routing
+compromising
+arithmetic
+go
+1989
+marked
+goes
+c54x
+pegatoquet
+prabhala
+lapsley
+lanner
+mpyk
+minwook
+bianco
+1x3
+1977b
+twig
+multireg
+the rtg
+natural edges
+expression tree
+code generation
+instruction selection
+generation for
+component trees
+register allocation
+pseudo natural
+optimal code
+point dsps
+expression trees
+the dag
+register architectures
+through memory
+expression dag
+allocation deadlock
+dsps delta
+leaf dags
+acyclic rtg
+rtg is
+rtg of
+natural edge
+fixed point
+the datapath
+sc schedule
+dsp architectures
+heterogeneous register
+the tms320c25
+an expression
+dag into
+self loop
+partial register
+memory register
+memory position
+dsp kernel
+architecture rtg
+u v
+of figure
+the instruction
+sc schedules
+a sacl
+purpose architectures
+m5 a
+johnson 1976
+spac a
+for fixed
+three address
+a a
+dsp processors
+homogeneous register
+is acyclic
+edge u
+araujo and
+multiple fanout
+dsps are
+m2 a
+and johnson
+register transfer
+architectures which
+dag of
+nodes u
+r i
+basic blocks
+single register
+node r
+for dsp
+notice that
+full dags
+tms320 family
+have acyclic
+t m5
+left first
+m5 m5
+snf schedule
+m5 p
+spill free
+mpy m5
+acyclic rtgs
+algorithm optschedule
+sacl m5
+for expression
+aho and
+the code
+r 1
+operands from
+an acyclic
+and register
+digital signal
+register a
+go through
+no self
+a p
+optimal instruction
+reconvergent paths
+tms320c25 processor
+instruction corresponding
+t 2
+operation v
+register r
+aho et
+m 5
+consider for
+position m
+and sethi
+dags and
+from r
+same register
+its operands
+t 1
+general purpose
+a memory
+w v
+a spill
+and instruction
+p t
+associated to
+register files
+an allocation
+to r
+free of
+the tree
+texas instruments
+the dsp
+edges are
+dag edge
+lac m
+subtrees p
+add m2
+t m0
+breaking edge
+the tms320
+trees leaf
+pac a
+instruments 1990
+raw edge
+delta guido
+allocation deadlocks
+dismanteling the
+generation task
+an rtg
+a mpy
+component tree
+fanout nodes
+a spac
+mpy m0
+one biquad
+architectural information
+kernel benchmark
+and sharad
+rtg then
+ir patterns
+m0 p
+iir one
+the architecture
+the instructions
+the expression
+quality code
+target architecture
+on chip
+for heterogeneous
+r j
+arithmetic expressions
+has to
+first followed
+processors has
+these edges
+edge e
+common subexpressions
+the dspstone
+phase section
+m3 a
+of dsps
+tree scheduler
+memory positions
+algorithm aho
+expression dags
+point dsp
+memory spills
+aho johnson
+register file
+any expression
+memory operation
+is broken
+hand written
+into memory
+register machine
+add m
+free schedule
+the target
+embedded processors
+for expressions
+code for
+r 2
+registers a
+yunheung paek
+6 observe
+guido araujo
+a pac
+processor instruction
+code generation for
+pseudo natural edges
+in the rtg
+an expression tree
+fixed point dsps
+point dsps delta
+for fixed point
+generation for fixed
+the rtg of
+go through memory
+the expression dag
+the rtg is
+rtg is acyclic
+a natural edge
+dag of figure
+an acyclic rtg
+partial register allocation
+rtg of figure
+optimal code generation
+no self loop
+an allocation deadlock
+and johnson 1976
+general purpose architectures
+aho and johnson
+in the datapath
+edge u v
+instruction selection and
+selection and register
+a a a
+for expression trees
+homogeneous register architectures
+and register allocation
+m5 p t
+the component trees
+expression dag of
+m5 m5 a
+any expression tree
+mpy m5 p
+optimal code for
+sacl m5 m5
+have acyclic rtgs
+has an acyclic
+a sacl m5
+leaf dags and
+heterogeneous register architectures
+p t m5
+the instruction corresponding
+the architecture rtg
+for an expression
+consider for example
+of optimal code
+its operands from
+node r i
+expressions with common
+optimal instruction selection
+instruction corresponding to
+the tms320c25 processor
+allocation and instruction
+aho et al
+a self loop
+the instruction selection
+with common subexpressions
+for the tms320c25
+through the datapath
+the same register
+not go through
+in the architecture
+is free of
+of figure 6
+a memory operation
+and t 2
+of code generation
+be an expression
+in the dag
+does not go
+memory position m
+iir one biquad
+and pseudo natural
+spill free schedule
+mpy m0 p
+pass through memory
+phase section 5
+m0 p t
+generation for dsp
+produce optimal code
+the dsp kernel
+that the rtg
+memory register architectures
+breaking edge e
+natural and pseudo
+delta guido araujo
+its component trees
+architectures which have
+expression tree with
+are natural edges
+the tms320 family
+texas instruments 1990
+and sharad malik
+2 the rtg
+multiple fanout nodes
+algorithm aho and
+code generation task
+if the rtg
+p t m0
+araujo and sharad
+a spill free
+architecture has an
+m2 a a
+trees leaf dags
+pac a p
+a spac a
+figure 6 observe
+add m2 a
+spac a a
+generation of optimal
+of allocation deadlocks
+dag into its
+free of allocation
+guido araujo and
+a a sacl
+natural edges are
+goes through memory
+dsp kernel benchmark
+notice that the
+for register allocation
+first followed by
+the code generation
+t 1 and
+loop in the
+fixed point dsp
+the dag into
+an expression dag
+can also benefit
+for heterogeneous register
+the tree scheduler
+from the dag
+result of operation
+has no self
+result of m
+nodes u and
+register allocation and
+t be an
+a and p
+u v is
+of figure 9
+the result of
+into its component
+subtrees t 1
+code generation using
+registers a and
+the expression tree
+generation for expression
+code generation is
+for any expression
+has to go
+for the case
+number of cycles
+is a natural
+instruction selection using
+data through the
+a a p
+self loop in
+p a 1
+edge e 1
+the target architecture
+is acyclic then
+for dsp processors
+programs running on
+instructions in the
+1 to r
+in code generation
+register allocation is
+and instruction scheduling
+r 1 to
+u v and
+t 2 be
+also benefit from
+the final code
+of the target
+from r i
+generation for embedded
+heuristics for the
+only one path
+a 1 a
+edges have been
+r i has
+to r 1
+is associated to
+digital signal processors
+to r 2
+and r 2
+et al 1994
+path from r
+of figure 12
+of figure 3
+the target processor
+from a to
+1 and t
+breaking natural edges
+a mpy m5

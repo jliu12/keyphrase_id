@@ -1,0 +1,600 @@
+mode
+mercury
+append
+ah
+predicate
+modes
+unification
+instantiation
+conjunct
+ct
+conjuncts
+disjunct
+grammar
+visible
+scc
+skel
+erent
+unifications
+iota
+ch
+produced
+conjunction
+prolog
+di
+inference
+robdds
+ground
+y1
+nonterminal
+declarations
+producer
+consumed
+constraint
+inf
+yn
+nonlocal
+decl
+pred
+ce
+vtype
+cscc
+visiblem
+instantiated
+abc
+body
+predicates
+moded
+inst
+nonterminals
+conjunctions
+head
+consumers
+fin
+production
+analyser
+superhomogeneous
+infer
+declaration
+checking
+disjunction
+declared
+sccs
+elses
+copytree
+reachable
+expanded
+reordering
+t1
+polymorphic
+tn
+instantiations
+constraints
+compiler
+logic
+goals
+somewhere
+grammars
+producers
+subgoals
+subterms
+boolean
+parent
+cient
+hn
+struct
+vn
+alias
+positions
+caller
+lsg
+app3
+mogeneous
+list_skel
+superho
+nonground
+vinst
+nt
+h1
+tail
+compound
+acyclic
+position
+functor
+rules
+decls
+coroutining
+v1
+disjuncts
+unbound
+vp
+clause
+old
+deconstruction
+wn
+isn
+node
+x1
+nodes
+hal
+ghc
+recursive
+languages
+domains
+associate
+typed
+abstract
+bind
+says
+m1
+module
+programs
+wp
+arity
+d2
+signature
+visibility
+analyses
+determinism
+d1
+consumes
+subgoal
+aliasing
+interpretation
+xn
+ae
+subtyping
+ext
+instantiates
+produces
+aliases
+solu
+partially
+int
+negations
+benchmarks
+inferred
+untyped
+mk
+labelled
+w1
+arg
+goal
+g1
+branch
+terminal
+binding
+disjunctions
+argument
+erences
+tree
+binds
+structural
+list
+po
+else
+analysed
+210ms
+13166
+append3
+ficult
+unmoded
+juncts
+fussy
+cury
+listskel
+perhomogeneous
+5245
+gpc
+1348
+moding
+visi
+schachte
+950mhz
+shortcircuit
+instantia
+sidering
+32541
+c4
+pc
+atoms
+mode analysis
+goal path
+mode inference
+the mode
+predicate body
+mode checking
+the predicate
+i p
+constraint variables
+c inf
+make visible
+di erent
+the constraints
+inf i
+is produced
+be produced
+constraint based
+bound at
+c goal
+a variable
+a goal
+production rules
+the unification
+the conjuncts
+partially instantiated
+path p
+the conjunction
+produced m
+ah and
+skel i
+list skel
+append at
+a predicate
+list t
+the constraint
+instantiation state
+mode declarations
+p n
+program variable
+of mode
+need visible
+y1 yn
+instantiated data
+a ah
+ah at
+expanded grammar
+instantiation states
+of append
+a mode
+in in
+mode of
+a unification
+each predicate
+current system
+constraint c
+mode declaration
+for append
+generate for
+at call
+in out
+head variable
+final instantiation
+c append
+initial instantiation
+c fin
+grammar i
+c decl
+at return
+visible m
+append in
+erent parts
+conjunct in
+be bound
+this unification
+for predicates
+of mercury
+produced by
+mercury programs
+at path
+current mode
+decl i
+t1 tn
+one conjunct
+ah in
+fin i
+b ct
+variable is
+of production
+t list
+goal i
+the goal
+constraints generated
+analysis system
+each variable
+is bound
+ct in
+for prolog
+abstract interpretation
+m i
+nonlocal to
+produced somewhere
+based mode
+mode analyser
+ch in
+at goal
+in append
+h1 hn
+q y1
+first disjunct
+v out
+variable h
+in ct
+logic programs
+reachable from
+the variable
+a node
+of modes
+constraints we
+we generate
+in ce
+c struct
+in ah
+head variables
+node reachable
+structural constraints
+predicate in
+predicate p
+made visible
+constraints c
+the instantiation
+unifications of
+boolean constraints
+v1 vn
+variable visible
+the compiler
+at b
+y i
+out out
+second disjunct
+tree grammars
+in ch
+c pred
+concurrent logic
+goal at
+denotes its
+unification of
+proposition that
+an expanded
+append the
+scc the
+each goal
+model m
+be visible
+is consumed
+ce in
+corresponding nodes
+position is
+ct ce
+ct out
+current mercury
+consumed i
+append 3
+pred i
+f t1
+append out
+out ct
+list abc
+ch ct
+conjunction that
+on mode
+p produced
+analysis domains
+conjunct that
+consumed nodes
+mercury mode
+free ground
+need visiblem
+execution order
+recursive call
+f n
+visible and
+constraints for
+data structures
+logic programming
+variables on
+be input
+goal g
+then elses
+out mode
+grammar rule
+mercury is
+out c
+unifications that
+mode system
+rules t
+for mode
+produced in
+the call
+in is
+at in
+m i p
+the predicate body
+goal path p
+c inf i
+i p n
+produced m i
+the mode analysis
+bound at call
+of production rules
+in in out
+the current system
+mode analysis system
+list skel i
+mode of append
+inf i p
+partially instantiated data
+be produced by
+is bound at
+we generate for
+list t list
+a ah at
+c goal i
+predicate p n
+the constraint variables
+visible m i
+b c append
+at path p
+erent parts of
+position is produced
+a goal path
+must be produced
+instantiated data structures
+expanded grammar i
+c decl i
+c fin i
+di erent parts
+t list t
+append at b
+at b ct
+bound at return
+the y i
+the constraint c
+of the conjuncts
+the constraints generated
+be bound at
+is produced by
+of the form
+for a predicate
+the constraints c
+the first disjunct
+of a variable
+produced by the
+constraint based mode
+an expanded grammar
+m c inf
+at goal path
+based mode analysis
+of mode analysis
+ah and at
+head variable h
+goal at path
+mode analysis of
+append in in
+make visible m
+analysis of mercury
+to be visible
+p n we
+in the predicate
+the constraints we
+the proposition that
+the goal at
+if the position
+sequence of production
+node reachable from
+constraint based system
+is the conjunction
+a unification of
+the variables on
+is made visible
+unification of the
+of a predicate
+the position is
+the second disjunct
+of each predicate
+variables on the
+in the conjunction
+to be input
+it is produced
+a predicate p
+if then else
+predicate in the
+the consumed nodes
+constraint variables of
+the structural constraints
+and need visible
+a head variable
+decl i d
+visible and need
+inference and checking
+is the proposition
+the goal path
+constraints we get
+the current mercury
+f t1 tn
+of partially instantiated
+pred i p
+of corresponding nodes
+constraints generated are
+for mode checking
+initial instantiation state
+instantiation state i
+the in in
+out out in
+goal i p
+the head variables
+mode inference for
+constraints c goal
+i q n
+to mode analysis
+make visible and
+is consumed i
+the initial instantiation
+q y1 yn
+i p produced
+c append in
+conjunct that makes
+unifications of the
+in is true
+p produced m
+for each mode
+at a goal
+grammar i and
+out mode of
+proposition that v
+mode analysis algorithm
+c pred i
+nonlocal to the
+constraints we generate
+reachable from a
+logic programming languages
+the conjunction of
+in out mode
+each program variable
+type mode and
+from a variable
+a tree grammar
+if then elses
+execution order for
+node is bound
+mode and determinism
+constraint variables in
+instantiation state of
+the current mode
+made visible in
+the simple constraint
+for a unification
+i d for
+variable h is
+our constraint based
+if the unification
+forward mode of
+v is bound
+the scc the
+the first element
+of the y
+the producer of
+the constraint based
+the forward mode
+i i h
+then the goal
+occur in g
+of the predicate
+a node is
+first element of
+in a b
+i h for
+in the goal
+the full system
+constraint based approach
+conjunct in the
+the first conjunct
+path p the
+in the scc
+for each argument
+v w i
+if a node
+the constraint function
+element of l
+a function symbol
+all the variables
+the column labelled
+the code generator
+the then branch
+it isn t
+set of constraints
+the actual parameters
+parts of a
+the recursive call
+and if then
+then we call

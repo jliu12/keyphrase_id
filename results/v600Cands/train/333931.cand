@@ -1,0 +1,600 @@
+unreduced
+gridpoints
+molecule
+coe
+gridpoint
+1d
+3d
+di
+convection
+upwind
+usion
+cients
+grid
+2d
+erence
+orderings
+ordering
+discretization
+centered
+block
+cyclically
+greif
+solvers
+symmetrization
+blocks
+cient
+symmetrized
+convergence
+erences
+jacobi
+elliptic
+plane
+cyclic
+golub
+2n
+red
+splitting
+matrix
+diagonal
+nonpreconditioned
+2pnxz
+cgstab
+lexicographic
+jh
+elman
+stationary
+sparsity
+seidel
+ih
+spectral
+krylov
+ective
+kh
+solver
+gauss
+black
+pde
+radii
+nonsymmetric
+convective
+2pnxy
+2ah
+iterative
+sor
+unknowns
+separable
+varah
+symmetrizable
+symmetrizer
+symmetrizability
+thm
+stand
+trivariate
+erent
+ilu
+evident
+operator
+su
+nonseparable
+matrices
+orientations
+adjoint
+preconditioning
+preconditioner
+mildly
+cgs
+consistency
+bi
+arising
+relaxation
+entries
+subspace
+tensor
+ectively
+matlab
+radius
+depicted
+rates
+subscripts
+colors
+sign
+occurrence
+numerical
+superscripts
+stopping
+fig
+accompanied
+diagonally
+gmres
+family
+analogous
+2prb
+2prbxy
+overdetermine
+equations
+tridiagonal
+preconditioners
+univariate
+2cf
+condest
+30fig
+bounds
+residual
+tuminaro
+semibandwidth
+2pn
+1z4
+sparse
+neumann
+seven
+planes
+symmetrizing
+duin
+szyld
+wiggles
+lem
+diffusion
+faster
+notational
+nonsingular
+v6t
+perron
+bicg
+grids
+nonzero
+similarity
+oriented
+partitioning
+morton
+ubc
+strategy
+vu
+finer
+taylor
+elimination
+conditioned
+824
+correction
+chen
+permutations
+trix
+checkerboard
+qu
+performing
+estimates
+maple
+partitionings
+ah
+benzi
+splittings
+ru
+consistently
+scaling
+circulant
+ectiveness
+costly
+canceled
+gs
+dominant
+ordered
+strategies
+mflops
+dimensional
+symmetric
+pp
+viscosity
+sq
+iteration
+zoom
+vectorization
+mod
+ected
+molecules
+equate
+cheung
+reynolds
+schemes
+iterations
+electronically
+346
+computational molecule
+the reduced
+the unreduced
+two plane
+j k
+of gridpoints
+cyclic reduction
+reduced systems
+cient case
+reduced matrix
+1d blocks
+variable coe
+unreduced system
+centered di
+reduced system
+plane ordering
+cyclically reduced
+i j
+constant coe
+gridpoints in
+3d elliptic
+natural two
+block grid
+coe cients
+convection di
+di usion
+1 j
+coe cient
+of cyclic
+k a
+stationary methods
+a i
+elliptic equations
+di erence
+block jacobi
+ordering strategy
+reduced grid
+reduced operator
+the 3d
+2d blocks
+the block
+block ordering
+1d block
+unreduced reduced
+j 1
+red black
+blocks of
+i 1
+the 1d
+erence discretization
+block stationary
+di erences
+1 k
+for 3d
+block computational
+jh kh
+molecule associated
+and golub
+the matrix
+the convergence
+pde coe
+u stand
+1d splitting
+convergence rates
+2n 2n
+natural lexicographic
+usion equation
+subspace solvers
+ih jh
+gauss seidel
+spectral radii
+3d grid
+the centered
+elman and
+d i
+with variable
+sparsity structure
+ordering strategies
+the symmetrized
+performing one
+bi cgstab
+table comparison
+systems arising
+nonpreconditioned bi
+plane orderings
+oriented 1d
+y z
+block gauss
+one step
+o h
+each occurrence
+systems for
+on convergence
+radii of
+matrix is
+x x
+e ective
+plane matrix
+reduced solver
+for centered
+for cyclically
+molecule is
+3d convection
+2n blocks
+cients the
+chen greif
+reduced unreduced
+relaxation parameter
+c i
+lexicographic ordering
+orderings for
+convergence analysis
+iteration matrices
+3d problem
+centered scheme
+dimensional convection
+seven point
+convective terms
+the gridpoints
+optimal relaxation
+and solving
+three dimensional
+the computational
+from discretization
+stand for
+x y
+grid the
+linear systems
+is evident
+2d case
+and centered
+entries of
+spectral radius
+step of
+h 2
+seidel and
+consistency conditions
+discretization is
+replace each
+test problem
+k d
+the spectral
+the convective
+3d case
+krylov subspace
+the bounds
+the blocks
+the unknowns
+the entries
+m matrix
+for reduced
+partitioning into
+criterion was
+is separable
+thm 3
+e j
+solvers for
+of orderings
+non self
+evident the
+the 2d
+additional conditions
+scaling by
+the nonseparable
+symmetrized version
+unreduced and
+upwind and
+nonseparable problem
+on 2d
+table spectral
+one gridpoint
+sec unreduced
+is symmetrizable
+strategy 2pnxz
+gridpoint in
+black block
+gridpoint ih
+molecule can
+both upwind
+the cyclically
+reduced solvers
+2ah 2
+3d reduced
+cients has
+by 2ah
+erence equation
+upwind respectively
+block orderings
+9 lem
+k c
+table 6
+orientations of
+fast convergence
+self adjoint
+arising from
+a a
+di erent
+radius of
+convergence rate
+faster than
+1 j k
+i 1 j
+i j k
+the reduced matrix
+of cyclic reduction
+coe cient case
+k a i
+j 1 k
+the computational molecule
+reduced systems for
+a i j
+for the reduced
+two plane ordering
+blocks of gridpoints
+step of cyclic
+natural two plane
+3d elliptic equations
+systems for 3d
+for 3d elliptic
+the unreduced system
+j k a
+convection di usion
+1 k a
+a i 1
+the 1d blocks
+the reduced system
+the block jacobi
+i j 1
+constant coe cient
+the block grid
+of gridpoints in
+1d blocks of
+the two plane
+block stationary methods
+of the unreduced
+the reduced grid
+one step of
+x x x
+centered di erence
+di erence discretization
+k d i
+molecule associated with
+ih jh kh
+with variable coe
+block computational molecule
+variable coe cients
+computational molecule associated
+and u stand
+the constant coe
+variable coe cient
+of the reduced
+u stand for
+pde coe cients
+bounds on convergence
+j k c
+of the block
+a a i
+performing one step
+elman and golub
+reduced matrix is
+krylov subspace solvers
+on convergence rates
+for the unreduced
+replace each occurrence
+spectral radii of
+centered di erences
+di usion equation
+systems arising from
+k a a
+radii of the
+each occurrence of
+block gauss seidel
+k c i
+block of gridpoints
+nonpreconditioned bi cgstab
+computational molecule is
+unreduced reduced unreduced
+up and solving
+two plane orderings
+of orderings for
+the centered scheme
+1d block of
+gridpoints in the
+of approximately 2
+j k d
+2d blocks of
+reduced unreduced reduced
+block ordering strategy
+d i 1
+the entries of
+o h 2
+as is evident
+cyclic reduction for
+the reduced operator
+for block stationary
+the reduced solver
+the pde coe
+the convective terms
+rates for block
+and centered di
+for cyclically reduced
+the 3d problem
+three dimensional convection
+table comparison between
+2n 2n blocks
+two plane matrix
+coe cients the
+setting up and
+methods for cyclically
+reduced grid the
+and solving the
+of the computational
+c i 1
+optimal relaxation parameter
+k e i
+arising from discretization
+constant coe cients
+natural lexicographic ordering
+spectral radius of
+non self adjoint
+1 e j
+from discretization of
+in table 6
+is evident the
+stopping criterion was
+reduced system is
+associated with the
+c i j
+gauss seidel and
+factor of approximately
+the 3d case
+radius of the
+of the blocks
+in the 3d
+on the convergence
+iterative methods for
+orientations of the
+in the block
+and the reduced
+with the reduced
+the convergence rate
+convergence rates for
+of the unknowns
+the convergence analysis
+constructed so that
+solvers for the
+black block ordering
+the point computational
+computational molecule can
+gridpoint ih jh
+about the gridpoint
+3d problem with
+both upwind and
+for stationary methods
+consider the nonseparable
+a 1d block
+symmetrized version of
+criterion was r
+cient case can
+scaling by 2ah
+on 2d blocks
+the gridpoint ih
+z is constructed
+a natural b
+unreduced and the
+by 2ah 2
+the variable coe
+9 lem 3
+matrix is symmetrizable
+matrix by s
+cyclically reduced operator
+upwind and centered
+the cyclically reduced
+main diagonal block
+cient case and
+solution is u
+coe cients has
+cients has been
+specific ordering strategy
+stationary methods we
+ordering strategy 2pnxz
+an x oriented
+oriented 1d block
+iteration matrices and
+point computational molecule
+least one gridpoint
+red black block
+family of orderings
+reduced operator for
+sparsity structure is
+molecule can be
+by 9 lem
+using both upwind
+j k b
+gridpoints in a
+of natural two
+problem is separable
+stand for centered
+3d case and
+solving the unreduced
