@@ -1,0 +1,156 @@
+lock
+transaction
+locks
+mode
+inheritance
+downward
+locking
+concurrency
+nested
+deadlock
+subtransactions
+hierarchy
+subtransaction
+granules
+parallelism
+dbms
+object
+hierarchies
+children
+transactions
+recovery
+controlled
+sibling
+database
+transac
+trans
+cooperation
+consistency
+detection
+resolution
+hierarchical
+concept
+inherit
+centralized
+objects
+management
+protocols
+action
+refined
+flexible
+mechanism
+access
+act
+nested transactions
+downward inheritance
+concurrency control
+x lock
+controlled downward
+locking rules
+mode m
+object hierarchy
+lock modes
+retained locks
+intra transaction
+retained lock
+deadlock detection
+transaction parallelism
+transaction hierarchy
+transaction may
+upward inheritance
+level transactions
+nested transaction
+parent transaction
+transaction tree
+object hierarchies
+object o
+may acquire
+transactions in
+tl transactions
+lock held
+transaction holds
+transactions and
+x locks
+mode x
+level transaction
+control structure
+transaction model
+locking protocols
+level concurrency
+hierarchical locking
+granules of
+mode conflicting
+transaction hierarchies
+lock granules
+lockable units
+transaction management
+transaction is
+rules stated
+among transactions
+transactions to
+lock in x
+controlled downward inheritance
+inheritance of locks
+holds the lock
+waits for commit
+intra transaction parallelism
+hold the lock
+yes yes yes
+downward inheritance of
+lock in mode
+single level transactions
+holding a lock
+ancestors of t
+transaction holds the
+retains the lock
+yes yes no
+lock to mode
+lock in a
+lock on o
+transaction t may
+holding the lock
+acquire a lock
+opening up deadlock
+holds or retains
+retain the lock
+retained lock relationships
+downgrade the lock
+lock it holds
+transactions that retain
+may acquire a
+level concurrency control
+cannot hold the
+nested transactions the
+downgrading the lock
+locks it holds
+mode conflicting with
+proposed by moss
+mode are ancestors
+releases all locks
+downgrading a lock
+offering a lock
+opening up deadlocks
+concurrency control in
+transaction may see
+acquire the lock
+conflicting with m
+concurrency control for
+lock on a
+tl transaction hierarchy
+concurrency control scheme
+concept of nested
+act as firewalls
+basic locking rules
+nested transactions for
+upward inheritance of
+outside its hierarchy
+concept of downward
+mode of the
+top level transaction
+locks in the
+locking rules for
+transaction t holding
+rules stated above
+lock on an
+transactions outside its
+locks after that

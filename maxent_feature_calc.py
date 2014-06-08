@@ -13,8 +13,8 @@ stopwords = []
 #outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
 #candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
 
-outputPath = "v600TrainMaxentFullFeatureSetOutput.txt"#MAXENT CHANGE
-candidatesPath = "train600cands"#MAXENT CHANGE
+outputPath = "v600TestProbsStrict.txt"#MAXENT CHANGE
+candidatesPath = "test600cands.txt"#MAXENT CHANGE
 
 
 class FeatureCalculator:
@@ -59,10 +59,24 @@ class FeatureCalculator:
 	def ft_spread(self, start, end):
 		return {'spread': end - start}
 
+	def ft_num_tokens(self, candidate):
+		num_tokens = len(candidate.split())
+		return {'num_tokens': num_tokens}
+
 	#TODO: implement
 	def ft_doc_section(self, candidate):
 		#not yet implemented, need document section markers
 		return {'section': 1}
+
+	def ft_tagger(self, candidate):
+		tokens = nltk.word_tokenize(candidate)
+		tag_list = nltk.pos_tag(tokens)
+		tag_string = ""
+		for s in tag_list:
+			if (tag_string != ""):
+				tag_string += " "
+			tag_string += s[1]
+		return {'tags': tag_string}
 
 	def ft_tfidf(self, candidate):
 		return{'tfidf': self.tfidf[candidate]}
@@ -92,13 +106,17 @@ class FeatureCalculator:
 		first_occurrence = self.ft_first_occurrence_position(candidate)
 		feature_dict.update(first_occurrence)
 
-
 		last_occurrence = self.ft_last_occurrence_position(candidate)
 		feature_dict.update(last_occurrence)
 
 		spread = self.ft_spread(first_occurrence['first_occur'], last_occurrence['last_occur'])
 		feature_dict.update(spread)
 
+		num_tokens = self.ft_num_tokens(candidate)
+		feature_dict.update(num_tokens)
+
+		part_of_speech = self.ft_tagger(candidate)
+		feature_dict.update(part_of_speech)
 
 		tfidf = self.ft_tfidf(candidate)
 		feature_dict.update(tfidf)
@@ -173,7 +191,7 @@ def calc_train_features(train_data):
 	for fname, phrases in train_data.items():
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/600test/" + file_id + "-gold.tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + "-gold.tfvec")
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list)
 		for s in c.get_phrases():
@@ -199,8 +217,8 @@ def run_classifier(classifier, featureset):
 	cur_filename = ""
 	for s in featureset:
 		feat = s[2]
-		result = classifier.classify(feat[0])
-		if (result == "yes"):
+		result = classifier.prob_classify(feat[0])
+		if (result.prob("yes") > .9):
 			#print formatted result
 			if cur_filename == "":
 				cur_filename = s[0]
@@ -223,7 +241,7 @@ def calc_test_features(test_data):
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
 
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/600test/" + file_id + ".tfvec")
 		phrases = test_data[fname]
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list) 

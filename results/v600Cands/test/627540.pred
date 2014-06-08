@@ -1,0 +1,176 @@
+restart
+recovery
+transaction
+logging
+checkpointing
+backup
+database
+crash
+log
+incremental
+manager
+resident
+checkpoint
+activities
+disk
+memory
+decoupling
+management
+propagation
+resumed
+databases
+quiescent
+transactions
+restoration
+recovering
+architecture
+principle
+demands
+consistent
+accommodate
+traditional
+active
+principles
+conventional
+log records
+stable memory
+transaction processing
+incremental restart
+page x
+buffer manager
+level recovery
+fresh marking
+main memory
+driven backups
+memory database
+operation logging
+restart processing
+database pages
+base recovery
+committed transactions
+transactions are
+log record
+secondary storage
+restart procedure
+log tail
+recovery processing
+database systems
+recovery management
+recovery techniques
+backup image
+backup database
+crash transactions
+processing is
+resident database
+single propagation
+steal policy
+large main
+page flushes
+restart algorithm
+recovery scheme
+concurrency control
+buffer management
+database on
+fast restart
+redo log
+crash transaction
+standard restart
+recovery activities
+database page
+recovery manager
+recovery related
+operation consistent
+consistent state
+transaction execution
+propagating updates
+entire database
+steal buffer
+forward transaction
+missing updates
+entry logging
+o activity
+checkpointing algorithms
+corresponding updates
+normal transaction
+transaction rates
+stale marking
+reflect updates
+dirty pages
+large buffer
+backups technique
+propagator applies
+stale fresh marking
+log driven backups
+main memory database
+high level recovery
+page x is
+log records to
+log records of
+high level undo
+post crash transactions
+log records are
+memory database systems
+pages that are
+image of x
+multi level recovery
+following a crash
+updates to the
+records to the
+high level operations
+records of committed
+log records that
+incremental restart algorithm
+operation consistent state
+memory resident database
+transaction processing the
+transaction processing is
+restart processing is
+database on secondary
+x is stale
+flushing a page
+resident database system
+written to the
+approach to recovery
+operation logging and
+page is brought
+driven backups technique
+fresh stale marking
+fresh marking of
+x is fresh
+transactions are processed
+log records as
+log on disk
+high transaction rates
+steal buffer management
+system is up
+based on operation
+updates to bdb
+x is dirty
+database recovery a
+large main memories
+operation logging is
+parallel with transaction
+post crash transaction
+propagator and the
+reflect updates of
+normal transaction processing
+redo log records
+committed image of
+approach to restart
+backup image of
+propagated to the
+database systems a
+buffer management policy
+high level action
+flushed to the
+transaction processing systems
+delayed until the
+prior to the
+read and write
+single propagation the
+recovery processing and
+level recovery management
+mmdbs without precluding
+page together so
+enforcing safe fetch
+backup database on
