@@ -1,0 +1,296 @@
+voltage
+uut
+constrain
+rt
+vout
+vmeas
+oscillator
+vread
+abs
+behaviors
+resource
+vin
+temperature
+st
+signal
+stto
+amplifier
+stop
+lo
+ambient
+signals
+hi
+offset
+execute
+legal
+trace
+declarative
+trigger
+constraint
+voltages
+oscillators
+ground
+entities
+pins
+triggers
+osc
+requirements
+capturing
+tolerance
+entity
+located
+programmed
+executes
+supply
+timing
+capabilities
+diagnostics
+props
+tests
+synthesis
+relationships
+prescribe
+delay
+rising
+vcc
+allocation
+defining
+chart
+establish
+sub
+something
+boolean
+named
+simplified
+frequency
+verification
+constrained
+adapter
+stable
+traces
+void
+tester
+constraints
+supposed
+safe
+formal
+room
+diagnostic
+measurement
+specification
+govern
+tolerances
+instantiating
+captures
+execution
+engineers
+mhz
+characterizing
+trsl
+newberg
+hardenburg
+understable
+rolince
+clamp
+wolz
+hogger
+caunegre
+stoplocation
+psuedo
+hanking
+abbet
+brokent
+miegler
+communities
+constrains
+evident
+stability
+predicted
+duration
+ps
+setup
+nagy
+papachristou
+carletta
+transportable
+volt
+requirement
+supplies
+hardware
+equipment
+verified
+resources
+branches
+atkins
+nichols
+ita
+statements
+procedural
+synthesized
+specifying
+declaration
+accuracy
+capture
+faulty
+test program
+behavior model
+test requirements
+constrain abs
+sub behaviors
+execution trace
+test resource
+lo gnd_pin
+rt execute
+output voltage
+input voltage
+stop constrain
+behavior information
+st safe_to_test
+information model
+test requirement
+resource capabilities
+establish ground
+st stop
+test systems
+required behavior
+legal values
+run tests
+behavior rt
+vout voltage
+rt start
+start st
+behavior st
+trigger signal
+voltage 2mv
+sub behavior
+stop times
+power supply
+requirements test
+formal methods
+ambient temperature
+frequency stability
+signal vcc1
+five entities
+actually executes
+rising edge
+vmeas voltage
+constrain osc_on
+rt ambient
+voltage must
+start trig_up
+stto test
+property amp_ok
+start trig_delay
+two sub
+resource input
+execution traces
+test programs
+timing relationships
+generation test
+room temperature
+behavior description
+flow chart
+several examples
+test environment
+test test
+program executes
+approach taken
+resource allocation
+examples applying
+behavior two
+behavior frequency_stable
+vmeas dc_signal
+voltage vout
+st safe_to_turn_on
+stability test
+vmeas vread
+abs vmeas
+facilitate capturing
+measurement resource
+boolean behavior
+property offset
+behavior notice
+diagnostic controller
+stto behavior
+reported voltages
+voltage property
+temperature range
+behavior defined
+requirements defining
+within 2mv
+constrain 0v
+stop attributes
+entirely consistent
+offset voltage
+test equipment
+voltage ita_loss
+signal vin
+signals constraints
+signal vout
+located at hi
+lo gnd_pin signal
+start and stop
+two sub behaviors
+safe to turn
+test resource allocation
+execute then rt
+execute then st
+start st stop
+behavior information model
+st stop constrain
+st safe_to_test constrain
+start trig_up start
+next generation test
+taken in defining
+turn on test
+constrain if rt_room
+constrain if rt_high
+lo gnd_pin constrain
+using the behavior
+constrain if rt_low
+test requirements test
+defining the behavior
+approach to specifying
+applying the model
+used to capture
+signal vread dc_signal
+interface test adapter
+capturing the relationships
+several examples applying
+vout dc_signal located
+test program synthesis
+rt actually executes
+vout voltage 2mv
+capturing the required
+constrain osc_on start
+test systems frequently
+automatic test systems
+abs v1 voltage
+actual input voltage
+property offset voltage
+essential entities characterizing
+abs v2 voltage
+relationships between essential
+voltage property tolerance
+st safe_to_turn_on safe_to_test
+vmeas dc_signal located
+test program however
+involves a description
+test program generation
+vmeas voltage ita_loss
+programmed and reported
+offset voltage property
+voltage as reported
+props s 0
+required behavior information
+several examples using
+offset and offset
+voltage vout voltage
+constrain abs v1
+within some error
+properties and relationships
+hi out_pin lo
+behavior rt run_tests
+test programmer selects
+hi ps1_pin lo
+three sub behaviors

@@ -1,0 +1,396 @@
+slicing
+reqs
+writerpresent
+activereaders
+fcl
+slice
+req
+ai
+goto
+propositions
+cfg
+ltl
+criterion
+conditionals
+ps
+residual
+stop
+stuttering
+verification
+transition
+checking
+flowchart
+irrelevant
+init
+trace
+specialization
+abstraction
+specifications
+read
+errorflag
+abps
+obligatory
+hatcliff
+specification
+spin
+sliced
+proposition
+abstracted
+rop
+dwyer
+relevant
+post
+raise
+temporal
+fng
+formula
+bandera
+node
+attempt
+criteria
+traces
+assignments
+ada
+jump
+oc
+jumps
+refined
+concurrent
+pos
+bs
+hongjun
+primitive
+slices
+safely
+abstract
+block
+extract
+extraction
+checker
+transitions
+assignment
+cdr
+matthew
+semantics
+branch
+check
+influence
+weiser
+satisfaction
+identifier
+nodes
+dominated
+proposi
+yunja
+loop
+picking
+successors
+checked
+interlocking
+railway
+laubach
+throw
+logic
+syntax
+conditional
+deadlock
+intuitively
+robby
+wehrheim
+psreanu
+reactive
+verifying
+heike
+else
+label
+statement
+shawn
+interpretation
+abstractions
+corbett
+corina
+ref
+methodology
+zheng
+prelude
+false
+dominates
+reusable
+dom
+identifying
+nag
+reveal
+safety
+preserve
+software
+dominator
+java
+refinements
+domination
+staging
+predecessors
+precedence
+statements
+semantic
+exiting
+specializing
+program
+automated
+skip
+compressed
+flow
+predecessor
+write
+dictates
+prototype
+programs
+response
+formalize
+ccr
+projection
+translating
+referenced
+compressing
+appearing
+infor
+entering
+successor
+connectives
+symbolic
+return
+unconditional
+statisfaction
+incomputable
+ksu
+marieke
+satifac
+turnidge
+gigliola
+hitch
+satisfication
+trentelman
+nkg
+dezvouz
+fzero
+nusmv
+huisman
+satification
+formal
+exam
+extracting
+dependence
+nasa
+correctness
+executions
+rc
+threaded
+abstracts
+halt
+controlling
+john
+mation
+choi
+def
+operator
+portions
+holzmann
+check reqs
+slicing criterion
+residual program
+start read
+power program
+stop write
+stop read
+attempt stop
+model checking
+program slicing
+start write
+goto check
+attempt start
+state verification
+slicing criteria
+activereaders 0
+slice set
+reqs 2
+finite state
+writerpresent 0
+next req
+control dependent
+relevant variables
+p stuttering
+else attempt
+reqs 1
+raise error
+program p
+transition system
+point ai
+primitive propositions
+write attempt
+flowchart language
+partial evaluation
+criterion c
+test 1
+loop 2
+program specialization
+program ps
+post dominated
+extraction function
+fcl program
+abstraction based
+program point
+abstract interpretation
+branch set
+end else
+software systems
+node n
+dwyer john
+temporal logic
+activereaders 1
+initial slice
+activereaders activereaders
+identifier l
+write else
+obligatory nodes
+goto test
+john hatcliff
+matthew b
+b dwyer
+write control
+req 1
+return 1
+concurrent software
+execution trace
+initial block
+node m
+semantic features
+become true
+action ff
+writerpresent 1
+cdr reqs
+null reqs
+write start
+appropriate ai
+write stop
+sliced program
+language fcl
+state operator
+refined slicing
+reqs end
+read stop
+read start
+variable propositions
+req 3
+reqs cdr
+req next
+reqs 5
+read goto
+req reqs
+simple flowchart
+read attempt
+model checker
+flow graph
+level control
+linear temporal
+pos ai
+property specifications
+zero pos
+ltl specification
+temporal operators
+using slicing
+hongjun zheng
+software engineering
+irrelevant information
+else next
+else check
+control flow
+using partial
+statement level
+variables v
+goto check reqs
+finite state verification
+attempt stop write
+check reqs 2
+attempt stop read
+else attempt stop
+attempt start write
+attempt start read
+slicing criterion c
+dwyer john hatcliff
+b dwyer john
+activereaders activereaders 1
+write if req
+writerpresent 0 1
+initial slice set
+stop write attempt
+activereaders 1 1
+read if req
+activereaders 0 1
+check reqs 1
+matthew b dwyer
+read write control
+abstraction based program
+based program specialization
+level control flow
+program of figure
+b 0 c
+figure 5 presents
+property being checked
+read stop read
+write attempt start
+check reqs 5
+reqs 2 goto
+reqs 1 return
+read start read
+trace of ps
+req reqs cdr
+write attempt stop
+reqs cdr reqs
+statement level control
+else next req
+null reqs 1
+stop read attempt
+next state operator
+end if null
+activereaders 0 2
+read goto check
+cdr reqs 2
+control dependent upon
+reqs 2 else
+end else next
+next req next
+else check reqs
+residual program ps
+simple flowchart language
+write start write
+reqs 5 check
+req next req
+check reqs end
+jump in bs
+system that safely
+flowchart language fcl
+next req reqs
+linear temporal logic
+set of variables
+program with respect
+zero pos ai
+using abstraction based
+state verification techniques
+slice of p
+reduce the size
+given a program
+r i c
+given program p
+state transition system
+finite state transition
+variables in v
+respect to c
+verification of concurrent
+p with respect
+nasa under award
+fcl program p
+using specification driven
+power program figure
+stop write stop
+write else check
+writerpresent and writerpresent
+start read 1

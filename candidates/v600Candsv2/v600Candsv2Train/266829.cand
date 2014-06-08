@@ -1,0 +1,388 @@
+cache
+trg
+placement
+wcg
+hkc
+ph
+gbsc
+procedures
+instruction
+conflict
+layout
+temporal
+misses
+miss
+pettis
+trace
+metric
+trgs
+blocks
+caches
+layouts
+alignment
+offset
+hansen
+profile
+placements
+larriba
+pey
+josep
+code
+unpopular
+qstartline
+pendline
+weight
+mateo
+valero
+conflicts
+ramirez
+trishul
+chilimbi
+optimizations
+suif
+offsets
+executable
+ordering
+chunk
+occurrence
+mcfarling
+edge
+calder
+popular
+vo
+benchmark
+interleaving
+referenced
+cond
+alex
+perl
+benchmarks
+compiler
+chain
+profiling
+endl
+stones
+branch
+associative
+mapped
+calls
+traces
+block
+identifier
+select
+atom
+summarizing
+ghostscript
+gc
+gs
+placed
+rates
+identifiers
+merging
+irrelevant
+conscious
+alternates
+microarchitecture
+id
+brad
+bartolini
+krintz
+prete
+bbs
+overlap
+toplas
+working
+hashemi
+kistler
+granularity
+pieces
+pl
+reuse
+records
+overlapping
+navarro
+place
+correlated
+node
+weighted
+kaeli
+bytes
+smith
+occupy
+weights
+greedy
+hwu
+workloads
+intraprocedural
+nodes
+addresses
+alignments
+torrellas
+franz
+training
+compile
+gap
+notices
+istanbul
+optimizing
+relationship
+turkey
+calculation
+drive
+carlos
+rhodes
+sigplan
+chandra
+processed
+foreach
+embedded
+tocs
+temporally
+grained
+vortex
+guided
+edges
+go
+andrew
+prediction
+tionals
+coallocation
+fetcher
+blackwell
+cutable
+simmi
+annavaram
+numcachelines
+nagarkar
+guillon
+pracheeti
+unconsidered
+daigle
+jeet
+wcgs
+keoncheol
+torellas
+bidault
+jungeun
+seonggun
+fluff
+selects
+configuration
+placing
+summary
+heuristic
+chains
+michael
+positioning
+merged
+logical
+dallas
+rate
+code blocks
+procedure placement
+instruction cache
+code block
+code placement
+temporal ordering
+trg select
+ordering information
+placement algorithm
+conflict metric
+cache line
+trg place
+code layout
+conflict misses
+miss rate
+popular procedures
+cache miss
+working graph
+placed procedures
+call graph
+cache conflict
+miss rates
+relationship graph
+next procedure
+placement techniques
+previous occurrence
+placement algorithms
+procedure q
+cache lines
+cache relative
+procedure p
+cache performance
+temporal information
+direct mapped
+two nodes
+ph hkc
+relative alignment
+procedure pieces
+larriba pey
+p q
+whole procedures
+linear layout
+branch alignment
+two procedures
+already placed
+cache conflicts
+set associative
+procedure call
+metric based
+linear list
+mateo valero
+associative caches
+cache size
+e p
+using temporal
+logical caches
+weighted procedure
+metric calculation
+select contains
+block identifier
+procedure relative
+hansen 8
+small changes
+cost metric
+alex ramirez
+edge weights
+cache misses
+edge e
+relative placement
+condition cond
+unpopular procedures
+relative offsets
+program trace
+trishul m
+text segment
+m chilimbi
+profile information
+edge weight
+cache configuration
+software trace
+node n1
+procedure size
+trace 1
+different layouts
+placement using
+optimizing instruction
+calls p
+cache conscious
+largest weight
+become irrelevant
+l larriba
+josep l
+correlated branch
+temporal relationship
+mapped cache
+profile data
+cache locations
+trace 2
+d smith
+branch prediction
+second node
+weight w
+slightly different
+basic blocks
+ordered set
+program optimization
+single procedure
+trace cache
+e u
+ieee international
+address space
+published procedure
+mcfarling 7
+offset pair
+relative alignments
+main outer
+placement technique
+second layout
+default code
+referenced code
+temporal ordering information
+cache miss rate
+procedure placement algorithm
+occurrence of p
+instruction cache performance
+cache conflict misses
+pettis and hansen
+e p q
+instruction cache miss
+code placement techniques
+procedure placement algorithms
+already placed procedures
+code placement algorithm
+number of conflict
+cache miss rates
+procedure call graph
+using temporal ordering
+set associative caches
+set of code
+edge e p
+hkc and gbsc
+ordered set q
+weighted procedure call
+end of q
+trg select contains
+e u r
+code block identifier
+q between two
+conflict metric based
+trishul m chilimbi
+p in q
+p and q
+placement using temporal
+procedure placement using
+software trace cache
+optimizing instruction cache
+number of calls
+direct mapped cache
+l larriba pey
+josep l larriba
+correlated branch prediction
+number of cache
+michael d smith
+annual acm ieee
+acm ieee international
+ieee international symposium
+symposium on microarchitecture
+foreach id offset
+misses when procedures
+known procedure placement
+contains only popular
+code placement technique
+implementation of ph
+caches we construct
+reference to b
+placement cache miss
+selecting the order
+exist we create
+build a trg
+recently referenced code
+cost metric calculation
+experiences fewer cache
+placement of code
+randomness in system
+configuration and procedure
+layouts in fact
+basic block placement
+cache line 0
+procedure size information
+place each procedure
+size of procedure
+code placement algorithms
+miss rate conflict
+information in trg
+code block identifiers
+p becomes irrelevant
+sets of code
+importance of avoiding
+code layout produced
+code layout algorithms
+block in trg
+two popular procedures
+one code block
+fewer cache conflict
+wcg in figure
+code block p
+instruction cache conflict
+place ment algorithm

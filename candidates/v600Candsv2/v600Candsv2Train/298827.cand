@@ -1,0 +1,402 @@
+header
+routing
+faults
+flit
+channel
+detour
+flits
+channels
+tp
+faulty
+misrouting
+unsafe
+backtrack
+rcu
+misroutes
+fault
+backtracking
+scouting
+deadlock
+misroute
+lcu
+router
+dibu
+message
+ws
+ss
+failed
+pcs
+conservative
+messages
+destination
+virtual
+mb
+throughput
+acknowledgment
+protocols
+tolerant
+ary
+pe
+recovery
+links
+profitable
+backtracks
+adaptive
+routed
+link
+node
+tack
+saturation
+detours
+crossbar
+dp
+probe
+failures
+cube
+latency
+network
+wormhole
+forced
+dobu
+flow
+protocol
+mesh
+traffic
+buffers
+misrouted
+undeliverable
+mechanisms
+completion
+configurable
+counter
+safe
+cibu
+progress
+profitably
+phase
+optimistic
+hops
+switching
+mode
+acknowledg
+offered
+torus
+aggressive
+reserved
+pes
+deterministic
+healthy
+physical
+corner
+transmission
+traces
+loads
+kill
+complementary
+busy
+freedom
+pipelined
+route
+alley
+cobu
+injection
+chip
+trade
+setup
+trol
+decrements
+meshes
+interconnection
+delivered
+tori
+buffer
+trio
+virt
+tries
+mechanism
+vs
+releasing
+fifo
+increased
+clock
+interrupted
+reliable
+vicinity
+load
+field
+deadlocked
+livelock
+regions
+resume
+delivery
+duato
+incident
+bit
+encounters
+cubes
+attendant
+routers
+configured
+bus
+resources
+plane
+cycles
+feed
+tear
+dimensions
+blocked
+acks
+traverse
+tolerance
+restrictions
+chan
+offset
+acknowledgments
+rely
+hypercube
+legend
+outs
+avenues
+circuit
+failure
+advancing
+remapping
+portions
+encounter
+convex
+superior
+rates
+offs
+traverses
+injected
+routes
+trace
+multiplexed
+sent
+latencies
+xiang
+adjacent
+downwards
+status
+upwards
+cmu
+surrounded
+dynamically
+presence
+notify
+probability
+preferred
+fully
+cycle
+segments
+release
+advance
+routing header
+mb m
+flow control
+virtual channels
+phase routing
+two phase
+data flits
+data flit
+virtual channel
+unsafe channels
+unsafe channel
+tolerant routing
+fully adaptive
+deterministic channel
+conservative phase
+ary n
+routing protocols
+header flit
+fault free
+detour mode
+fault tolerant
+adaptive channel
+failed nodes
+node faults
+k ary
+first data
+re tries
+lcu lcu
+adaptive channels
+n cube
+network throughput
+routing protocol
+control mechanisms
+configurable flow
+physical channel
+channel model
+dynamic faults
+routing probe
+adaptive routing
+deadlock free
+corner node
+routing restrictions
+deadlock freedom
+selection function
+torus connected
+physical link
+control channel
+connected k
+v 8
+safe deterministic
+latency vs
+misrouting operations
+free portions
+tp routing
+flit traffic
+flits node
+deterministic channels
+complementary channel
+scouting distance
+faults tp
+failed channel
+fault regions
+control flit
+node cycle
+recovery mechanisms
+two hops
+message latency
+path setup
+backtracking steps
+saturation traffic
+output channel
+recovery mechanism
+header flits
+phase protocol
+clock cycles
+maximum number
+increased number
+wormhole switching
+cycles latency
+data channel
+dimensional mesh
+control mechanism
+failed node
+ary 2
+dynamic fault
+faulty components
+faulty node
+node failures
+routing function
+profitable channel
+ss flow
+increased misrouting
+status bit
+convex fault
+profitable adaptive
+pipelined circuit
+o tack
+acknowledgment flit
+previous misrouting
+channels incident
+faulty regions
+acknowledgment flits
+ss mode
+channel return
+m misroutes
+completion m
+dynamic failures
+ss bit
+faulty pe
+vs throughput
+link failures0
+consecutive backtracking
+backtracking operations
+free segments
+failed pe
+detour construction
+kill flits
+unsafe profitable
+history store
+safe adaptive
+header may
+misrouting backtracking
+dp routing
+offered load
+network resources
+number of faults
+two phase routing
+fault tolerant routing
+forced to backtrack
+first data flit
+k ary n
+flow control mechanisms
+performance of tp
+ary n cube
+presence of faults
+probability of completion
+tp and mb
+v 8 m
+configurable flow control
+number of misroutes
+connected k ary
+lcu lcu lcu
+fault free portions
+phase routing protocol
+clock cycles latency
+torus connected k
+cycles latency vs
+safe deterministic channel
+flits node cycle
+n dimensional mesh
+two phase protocol
+ary 2 cube
+deadlock can occur
+number of consecutive
+reach the node
+flow control mechanism
+value of k
+dp routing restrictions
+throughput of tp
+m 4 v
+profitable adaptive channel
+faults are required
+ss flow control
+fault free segments
+convex fault regions
+two phase protocols
+pipelined circuit switching
+version of tp
+w o tack
+header to backtrack
+number of backtracking
+fully adaptive two
+conservative flow control
+preferred over backtracking
+header can check
+number of misrouting
+adaptive two phase
+virtual channel model
+header is forced
+m 5 v
+misrouting is preferred
+consecutive backtracking steps
+non faulty pe
+completion m 3
+latency vs throughput
+m 3 v
+channel is selected
+average message latency
+used to reach
+additional virtual channels
+fully adaptive routing
+meshes and tori
+latency and throughput
+ary n cubes
+d c c
+number of virtual
+c d d
+pcs flow control
+necessary the output
+construct a detour
+wormhole switching ws
+faults the maximum
+flits immediately follow
+allowed is 6
+order to cause
+dynamic fault recovery
+tp routing uses
+setting a status
+allowed to misroute

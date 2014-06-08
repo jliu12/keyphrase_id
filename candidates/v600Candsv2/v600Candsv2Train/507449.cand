@@ -1,0 +1,364 @@
+nfd
+detector
+qos
+failure
+heartbeat
+heartbeats
+detectors
+mr
+clocks
+mistake
+metrics
+fd
+message
+synchronized
+crashes
+ea
+trusts
+messages
+probabilistic
+suspect
+suspecting
+accuracy
+timeout
+crash
+mistakes
+freshness
+detection
+suspects
+delay
+crashed
+trust
+elapses
+ffi
+probability
+delays
+premature
+arrival
+configurator
+losses
+timeouts
+sfd
+cutoff
+fg
+recurrence
+fresh
+requirements
+query
+fig
+unsynchronized
+variance
+intersending
+pr
+quiescent
+service
+clock
+duration
+transition
+consensus
+primary
+timer
+received
+configuration
+metric
+suspicion
+drift
+outputs
+period
+stochastic
+reliable
+unreliable
+ergodicity
+processes
+membership
+estimator
+fsuspect
+delporte
+fauconnier
+clockg
+gallet
+ftrust
+receivedg
+polytechnique
+reexecuting
+shifting
+link
+sending
+henceforth
+receipt
+receives
+corrects
+ergodic
+dix
+carole
+timers
+sends
+meet
+specification
+aguilera
+configure
+analytical
+inputting
+lived
+periodically
+permanently
+partitionable
+toueg
+renesse
+hugues
+detects
+knows
+sent
+intervals
+meeting
+estimates
+crashing
+measures
+minute
+explain
+raynal
+adapts
+isis
+steady
+fusing
+detections
+whatsoever
+drifts
+oracle
+monitors
+outcomes
+starts
+simulations
+started
+failures
+shifts
+suspected
+configuring
+units
+ff
+email
+asynchronous
+protocol
+month
+omission
+drop
+hours
+protocols
+eventual
+reaches
+simulation
+dependable
+impossibility
+erroneously
+commitment
+estimate
+precisely
+fail
+delayed
+dropped
+accelerated
+durations
+ensemble
+cesium
+adaptiveto
+palaiseau
+departement
+tronel
+nashua
+freshg
+ssimo
+reconfigures
+xuanhua
+freceived
+relacs
+weizhong
+farg
+sam
+interrupt
+behaviors
+aware
+periods
+commonly
+rate
+simulate
+permanent
+stop
+synchronization
+unrealistic
+random
+lytton
+tiejun
+dffi
+horita
+fif
+numberg
+fset
+failure detector
+failure detectors
+qos requirements
+nfd u
+detection time
+probabilistic behavior
+accuracy metrics
+heartbeat messages
+nfd e
+query accuracy
+fd 2
+e d
+parameters j
+algorithm nfd
+expected arrival
+v d
+message delay
+detector algorithm
+average mistake
+new failure
+accuracy probability
+trusts p
+message delays
+fd 1
+given qos
+detector nfd
+mistake recurrence
+configuration procedure
+p l
+primary metrics
+good period
+local clocks
+qos analysis
+mistake rate
+simple algorithm
+qos metrics
+pr d
+synchronized clocks
+q receives
+recurrence time
+message losses
+cutoff time
+starts suspecting
+mistake duration
+new algorithm
+average message
+arrival times
+qos specification
+heartbeat message
+message loss
+message m
+detector qos
+detector parameters
+q suspects
+u mr
+still fresh
+suspecting p
+suspects p
+heartbeat m
+simulation results
+ffl step
+stochastic processes
+process p
+q trusts
+p crashes
+random time
+delay e
+estimate p
+freshness point
+meeting qos
+suspect p
+trust suspect
+sending time
+detector makes
+freshness points
+ea 1
+premature timeout
+primary accuracy
+algorithms nfd
+mr u
+premature timeouts
+failure detection
+unreliable failure
+loss probability
+p sends
+l e
+failure free
+implementation specific
+quiescent reliable
+qos cannot
+l mr
+q sets
+transition occurs
+local clock
+fail aware
+m j
+variable representing
+time units
+j and ffi
+query accuracy probability
+failure detector algorithm
+e t mr
+new failure detector
+failure detector nfd
+given qos requirements
+d and v
+expected arrival times
+behavior of heartbeats
+detector at q
+compute the parameters
+specification of failure
+average mistake recurrence
+mistake recurrence time
+qos of failure
+bound t u
+set of qos
+l e d
+time that elapses
+average message delay
+e t m
+clocks are synchronized
+p l e
+p at time
+estimate p l
+j and ff
+theory of stochastic
+message loss probability
+probability that q
+l and v
+failure detector parameters
+starts suspecting p
+better than fd
+delay e d
+q trusts p
+pr d x
+detector qos requirements
+failure detector qos
+behavior of messages
+message m j
+consider a system
+satisfies the given
+cannot be achieved
+representing the time
+e t fg
+detector nfd u
+average mistake duration
+expected arrival time
+class of failure
+probability of premature
+meeting qos requirements
+requirements with nfd
+detector parameters j
+message delay d
+algorithm nfd u
+q suspects p
+message delay e
+failure detector makes
+average the failure
+primary accuracy metrics
+j with j
+random variable representing
+q s local
+set of failure
+delays and message
+quiescent reliable communication
+p and q
+propose a set
+quality of service
+distribution of message

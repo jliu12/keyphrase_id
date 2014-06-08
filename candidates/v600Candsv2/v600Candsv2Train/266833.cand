@@ -1,0 +1,358 @@
+csms
+chl
+stall
+ipa
+esa
+prefetch
+ipt
+ipl
+instructions
+esl
+cache
+spill
+scheduling
+dcompute
+mgrid
+latency
+nonbinding
+miss
+prefetching
+vliw
+locality
+recurrences
+opt
+tomcatv
+instruction
+swim
+hit
+stalls
+rec
+initiation
+aggressive
+schemes
+pressure
+pipelining
+epilog
+modulo
+pipelined
+snchez
+register
+inserting
+optimistic
+binding
+jess
+prefetches
+memory
+schedule
+gibert
+schedules
+gonzlez
+dependences
+schedulers
+clustered
+lockup
+endfunction
+enric
+architecture
+outstanding
+antonio
+ictineo
+scheduled
+misses
+zalamea
+prolog
+references
+reuse
+loop
+insert
+josep
+ayguad
+penalty
+llosa
+microarchitecture
+eduard
+niter
+computeschedminreceffect
+res
+op
+powerpc
+interferences
+innermost
+benchmarks
+normalized
+early
+mateo
+valero
+scheduler
+upperbound
+est
+javier
+architectures
+outperform
+lifetime
+recurrence
+endif
+penalties
+selective
+dependence
+tries
+execution
+increment
+outperforms
+mem
+ii
+tagged
+besides
+processor
+inaccurate
+exec
+interfere
+stretched
+load
+trade
+architec
+spatial
+latencies
+software
+loops
+decrement
+geometric
+minimize
+austin
+calculated
+percentage
+innerloop
+latmiss
+computescheduling
+recurrencesingraph
+cycleprod
+nonfaulting
+orderinstructionsbylocality
+missratio
+minimizerecurrenceeffect
+nfus
+nonprefetching
+cycleuse
+iterations
+heuristic
+stride
+benchmark
+cycles
+achieves
+code
+worse
+discrepancy
+alet
+codina
+compile
+static
+sc
+expense
+exhibit
+ules
+hrms
+arch
+endforeach
+units
+ture
+interval
+evaluated
+monterey
+proposals
+return
+caused
+interleaved
+lapped
+hypernode
+stall time
+csms algorithm
+prefetch instructions
+esa esl
+ipa ipt
+ipt ipl
+esl csms
+compute time
+early scheduling
+memory instructions
+spill code
+ipa esa
+chl ipa
+chl esa
+hit latency
+inserting prefetch
+memory operations
+esa opt
+csms chl
+ipl csms
+csms ipa
+dcompute stall
+opt chl
+aggressive architecture
+miss latency
+execution time
+modulo scheduling
+cache miss
+cache hit
+software pipelined
+locality analysis
+software pipelining
+stall dcompute
+register pressure
+swim su2cor
+simple architecture
+ii rec
+chl scheme
+mgrid turb3d
+time tomcatv
+normalized loop
+initiation interval
+tomcatv swim
+jess snchez
+snchez antonio
+clustered vliw
+insert prefetch
+memory references
+ipa scheme
+schemes based
+prefetching schemes
+schedule memory
+miss ratio
+additional spill
+prefetch schemes
+nonbinding prefetch
+esa scheme
+geometric table
+csms scheme
+antonio gonzlez
+software prefetching
+loop execution
+memory instruction
+static locality
+enric gibert
+scheme increases
+different prefetching
+basic schemes
+optimistic execution
+outstanding misses
+lockup free
+additional memory
+rather inaccurate
+modeled architectures
+rec r
+b aggressive
+additional instructions
+vliw architectures
+binding prefetch
+memory pressure
+mgrid 1
+selective scheduling
+gibert jess
+dependence graph
+memory operation
+may increase
+scheduling memory
+vliw processor
+time represents
+ieee international
+pipelined schedules
+zalamea josep
+javier zalamea
+international symposium
+functional units
+llosa eduard
+best trade
+architecture b
+ayguad mateo
+given architecture
+sensitive modulo
+eduard ayguad
+pipelined loop
+processor stalls
+memory latency
+josep llosa
+scheduling schemes
+lower bound
+function computeschedminreceffect
+stall su2cor
+ipa ipt ipl
+esa esl csms
+cache hit latency
+chl esa esl
+chl ipa esa
+cache miss latency
+inserting prefetch instructions
+esl csms chl
+ipt ipl csms
+ipa esa opt
+esa opt chl
+ipl csms ipa
+opt chl ipa
+csms ipa ipt
+csms chl esa
+using the cache
+dcompute stall dcompute
+stall dcompute stall
+tomcatv swim su2cor
+swim su2cor hydro2d
+time tomcatv swim
+execution time tomcatv
+normalized loop execution
+snchez antonio gonzlez
+jess snchez antonio
+based on inserting
+loop execution time
+based on early
+additional spill code
+schedule memory operations
+optimistic execution time
+scheduling of memory
+compute and stall
+static locality analysis
+instructions are scheduled
+type of locality
+due to dependences
+simple architecture b
+additional memory instructions
+architecture b aggressive
+stall time represents
+binding and nonbinding
+prolog and epilog
+b aggressive architecture
+memory operations using
+csms algorithm achieves
+annual acm ieee
+gibert jess snchez
+enric gibert jess
+interaction between software
+clustered vliw processor
+acm ieee international
+ieee international symposium
+symposium on microarchitecture
+due to spill
+software pipelined schedules
+javier zalamea josep
+zalamea josep llosa
+software pipelined loop
+josep llosa eduard
+llosa eduard ayguad
+ayguad mateo valero
+eduard ayguad mateo
+sensitive modulo scheduling
+actual execution time
+therefore it may
+modulo scheduling schemes
+outperform the chl
+others the esa
+decrease in stall
+called early scheduling
+split into compute
+execution time opt
+ii rec ii
+prefetching and software
+outstanding miss table
+esa esl csms0
+hit latency chl
+architecture is called
+software pipelined schedulers
+scheduling memory instructions
+increase the initiation

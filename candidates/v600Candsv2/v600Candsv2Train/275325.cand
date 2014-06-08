@@ -1,0 +1,358 @@
+lapack
+blas
+compiler
+factorization
+qr
+factorizations
+lu
+kk
+cache
+cblk
+lamf
+cholesky
+lablk
+blockable
+cmf
+dependence
+pivoting
+loop
+sgi
+subprograms
+jam
+gemm
+matrix
+hp
+dec
+strip
+unroll
+blockability
+compilers
+blocking
+pipelining
+optimized
+algebra
+block
+interchange
+enddo
+phipac
+ibm
+loops
+accessed
+mine
+fortran
+kennedy
+reflectors
+cd
+dense
+alpha
+ken
+frens
+transformations
+matrices
+quadtree
+recurrence
+derivable
+imax
+speedup
+nest
+interprocedural
+vectorizing
+surrounds
+statement
+dgemm
+triangular
+portion
+floating
+portable
+eliminator
+labk
+loan
+hierarchy
+carr
+update
+interchanges
+tuned
+qing
+mateev
+vendor
+elementary
+statements
+memory
+blocked
+megaflop
+nikolay
+lehoucq
+optimizing
+decomposition
+optimizations
+ling
+surrounding
+multiply
+recasting
+keshav
+reshaping
+menon
+anl
+ks
+sizes
+auto
+locality
+hierarchies
+install
+unblocked
+columns
+mcs
+xl
+pingali
+splitting
+mined
+vikram
+multiplication
+updates
+adve
+carried
+fractal
+reveals
+kernel
+householder
+superior
+diminishes
+items
+commercial
+tile
+argonne
+interchanged
+advent
+ansi
+array
+vijay
+yi
+keith
+recast
+automatic
+architectures
+modest
+register
+nests
+gov
+transforming
+enhance
+competitive
+pipelined
+tiling
+cycle
+eliminators
+houghton
+haihang
+wheter
+commutable
+libaries
+antide
+automaticlaly
+lofgren
+rows
+pivot
+highly
+supercomputers
+evident
+flags
+unrolling
+libraries
+computers
+row
+article
+vliw
+versions
+community
+automatically
+iterating
+outer
+pattern
+dramatically
+inferior
+wise
+dpotrf
+reshape
+lblas
+antidependence
+lessl
+ilaenv
+reoptimize
+compiler derived
+lapack version
+derived algorithm
+lu factorization
+matrix factorizations
+kk loop
+matrix sizes
+section analysis
+qr factorization
+statement 10
+lapack algorithm
+cblk cmf
+lamf cblk
+cmf speedup
+linear algebra
+block algorithm
+software pipelining
+cache performance
+point algorithm
+ibm power2
+lablk lamf
+derived version
+cd qr
+cholesky factorization
+level 3
+algebra subprograms
+hand optimized
+basic linear
+strip mine
+hand optimization
+set splitting
+block qr
+level cache
+lu decomposition
+commercial compilers
+block matrix
+cholesky factorizations
+surrounding statement
+elementary reflectors
+column updates
+section accessed
+hp dec
+size lablk
+statement 20
+index set
+dense matrix
+matrix size
+iteration space
+update portion
+gemm based
+level 2
+partial pivoting
+dec alpha
+point version
+ken kennedy
+matrix multiply
+factorization table
+point operations
+true dependence
+block version
+algebra computations
+highly tuned
+sgi indigo2
+compiler derivable
+tuned blas
+j loop
+dependence analysis
+enddo enddo
+whole column
+blocking matrix
+auto blocking
+dependence cycle
+factorization codes
+qing yi
+compiler blockability
+dependence information
+floating point
+version performs
+blocking factor
+matrix matrix
+memory hierarchies
+memory hierarchy
+data dependence
+linear systems
+block size
+row interchanges
+matrix factorization
+loop nest
+working set
+block algorithms
+main memory
+solving linear
+triangular matrix
+dense linear
+software pipelined
+van loan
+fortran compiler
+without pivoting
+matrix multiplication
+best blocking
+speedup 100x100
+looking 13
+innermost position
+imax j
+compiler derived algorithm
+cblk cmf speedup
+lamf cblk cmf
+level 3 blas
+compiler derived version
+lablk lamf cblk
+linear algebra subprograms
+unroll and jam
+block matrix factorizations
+basic linear algebra
+mine and interchange
+index set splitting
+dec and sgi
+j in statement
+terms of calls
+size lablk lamf
+dense matrix factorizations
+surrounding statement 10
+version of lu
+floating point operations
+linear algebra computations
+levels of cache
+versions of matrix
+algorithm for qr
+around the loop
+highly tuned blas
+kk in statement
+performance on ibm
+matrix factorization codes
+algorithms for dense
+auto blocking matrix
+vector and shared
+blocking matrix multiplication
+block qr factorization
+solving linear systems
+lu and cholesky
+efficient and portable
+decomposition with partial
+shared memory computers
+systems on vector
+matrix size increases
+dense linear algebra
+compiler can automatically
+level 2 blas
+enddo enddo enddo
+matrix matrix multiply
+although the compiler
+parallel programming environment
+section 3 1
+translation of fortran
+examine the blockability
+create the block
+yi ken kennedy
+factorization with householder
+cmf speedup labk
+compiler derived variants
+outperform the lapack
+loops tile size
+xl fortran compilers
+one loop iterating
+selection of high
+original point algorithm
+dependence cycle exists
+many commercial compilers
+modest sized matrices
+derived version performs
+commercial compilers e
+speedup labk lamf
+array section analysis
+nest surrounding statement
+ibm power2 results
+set of blas
+upon the target
+found in lapack

@@ -1,0 +1,349 @@
+svc
+cache
+speculative
+versioning
+vcl
+arb
+bus
+squashes
+commits
+caches
+stale
+committed
+vol
+ec
+ecs
+snapshot
+request
+snooping
+buswrite
+dirty
+load
+squashed
+hit
+task
+stores
+store
+multiscalar
+invalidated
+smp
+tasks
+commit
+busread
+loads
+bit
+buffered
+ld
+versions
+invalidation
+squash
+processor
+misses
+private
+coherent
+speculation
+dependences
+instructions
+latency
+coherence
+processors
+st
+tag
+requestor
+copy
+uncommitted
+invalidates
+executes
+miss
+copies
+supplied
+instruction
+architected
+designs
+snapshots
+buswback
+snarf
+ambiguous
+memory
+issued
+issuing
+clean
+supplies
+architectural
+executed
+cst
+location
+backs
+reset
+multiprocessors
+dependence
+hierarchical
+base
+storage
+buffer
+chip
+parallelization
+pointers
+disambiguation
+hits
+writebuffers
+snarfing
+snooped
+buffers
+mgrid
+responses
+lines
+flush
+pointer
+dangling
+ilp
+mitigate
+traffic
+misprediction
+arrowheads
+violation
+spreading
+resetting
+speculatively
+ipc
+addresses
+mshrs
+streams
+multiprocessor
+apsi
+created
+word
+protocol
+huachuca
+dispatch
+bottlenecks
+bits
+supply
+tracks
+thread
+ease
+fort
+invalidations
+arbiter
+aggressive
+ported
+invalidate
+stream
+directory
+bandwidth
+byte
+hardware
+valid
+active
+accesses
+cution
+response
+execution
+shared
+ijpeg
+superscalar
+smps
+logic
+advanced
+unifies
+grain
+cycle
+identifies
+sequential
+reverse
+quest
+incorrectly
+organization
+trades
+locates
+progression
+billion
+closest
+sci
+completes
+ver
+freed
+bursty
+vortex
+copying
+perl
+writer
+retain
+wisconsin
+exe
+army
+searches
+detected
+snarfs
+questor
+specula
+posal
+chitected
+parallelsim
+terleaved
+purges
+rambus
+unsquashed
+multicube
+cstcl
+address
+accessed
+associative
+speculative versioning
+task commits
+bus request
+ec design
+program order
+svc design
+ecs design
+base design
+hit latency
+snooping bus
+task squashes
+cache z
+hierarchical execution
+cache line
+ld r
+versioning cache
+speculative versions
+level memory
+order among
+next level
+c bit
+buswrite request
+base svc
+memory dependence
+execution model
+committed version
+second snapshot
+private cache
+private l1
+first snapshot
+dirty lines
+multiple speculative
+l bit
+memory dependences
+committed versions
+ambiguous memory
+task 2
+proposed next
+written back
+task 1
+invalidation response
+dirty line
+bus based
+store miss
+example program
+correct version
+time line
+state bit
+cache solution
+task squash
+versions created
+buffered versions
+v valid
+cache svc
+correct copies
+resolution buffer
+architected storage
+busread request
+speculative data
+previous task
+cache coherence
+hit rate
+st 1
+stale copies
+coherent cache
+speculative state
+active task
+sample execution
+cache y
+memory location
+execution models
+cache lines
+design example
+correct copy
+closest previous
+multiscalar processor
+bit set
+address resolution
+request issued
+cache issues
+task 3
+cache coherent
+write back
+previous version
+dependence speculation
+time lines
+version control
+non speculative
+design section
+assignment information
+among loads
+processor commits
+uncommitted versions
+cache w
+advanced designs
+stores executed
+third snapshot
+vcl responses
+dangling pointer
+stale copy
+reference spreading
+svc uses
+smp coherent
+across task
+recent committed
+next level memory
+speculative versioning cache
+snapshot is taken
+hierarchical execution model
+loads and stores
+bit is set
+base svc design
+snooping bus based
+program order among
+commits and squashes
+ambiguous memory dependences
+request the vcl
+proposed next generation
+executes a load
+support for speculative
+bus based cache
+issue a bus
+version control logic
+address resolution buffer
+coherence and speculative
+executed by task
+versioning cache svc
+executes a store
+design section 3
+supplies the data
+read only data
+misses in cache
+among the tasks
+task assignment information
+squashed and re
+called the speculative
+valid s store
+recent committed version
+makes task commits
+private l1 caches
+closest previous version
+ec design uses
+private l1 cache
+load that misses
+store by task
+non speculative data
+stale t bit
+second time line
+multiple speculative versions
+non dirty lines
+smp coherent cache
+rate for hit
+commits a task
+load or store
+example program figure
+memory dependence speculation
+shows two snapshots
+z y z

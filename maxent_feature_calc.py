@@ -13,8 +13,8 @@ stopwords = []
 #outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
 #candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
 
-outputPath = "v600TestProbsStrict.txt"#MAXENT CHANGE
-candidatesPath = "test600cands.txt"#MAXENT CHANGE
+outputPath = "v600v2TrainProbsStrict.txt"#MAXENT CHANGE
+candidatesPath = "v600CandsV2Train.txt"#MAXENT CHANGE
 
 
 class FeatureCalculator:

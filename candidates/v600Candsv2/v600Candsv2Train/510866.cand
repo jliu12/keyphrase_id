@@ -1,0 +1,335 @@
+barriers
+callee
+intraprocedural
+allocated
+interprocedural
+linktree
+caller
+barrier
+younger
+object
+treenode
+older
+generational
+st
+treeadd
+ow
+bisort
+analyses
+receiver
+linkdepth
+youngest
+generations
+perimeter
+health
+garbage
+invoked
+sites
+objects
+mst
+voronoi
+instruction
+write
+olden
+benchmark
+collector
+callees
+flex
+compiler
+bh
+eliminate
+uous
+store
+java
+xed
+conservatively
+dierent
+entry
+transfer
+fvg
+instructions
+callers
+lattice
+invoke
+var
+baseline
+benets
+unnecessary
+extension
+allocation
+age
+modest
+allocate
+bitonic
+buildtree
+unremovable
+rst
+instrumenting
+remembered
+augments
+nursery
+tenured
+benchmarks
+signicant
+mit
+reference
+hv
+statically
+analyzed
+remove
+incorporates
+super
+scavenging
+invokes
+lived
+calling
+removable
+allocations
+statements
+initialized
+nd
+executable
+denitely
+synergistic
+elimination
+eld
+collectors
+recently
+bar
+locate
+create
+wb
+pricing
+eliminated
+allocates
+void
+ject
+greatest
+majority
+meet
+vast
+analyzes
+percentage
+subtrees
+tsp
+erations
+eectiveness
+removed
+density
+move
+statement
+nine
+salesman
+static
+executed
+dispatched
+executables
+pointer
+yes
+eliminates
+creates
+depth
+lattices
+decentralized
+references
+instrumented
+dispatch
+barri
+dynamicwrite
+gpl
+salcianu
+ananian
+hvar
+colombia
+mathvector
+progam
+hfthisg
+flexc
+fthisg
+producing
+programs
+strongly
+tracks
+initializes
+removal
+presents
+segregate
+instrumen
+unanalyzable
+ufa
+intergenerational
+int
+dynamically
+propagates
+migration
+traveling
+returns
+prefetching
+densities
+contexts
+predecessors
+invoca
+perimeters
+analyzable
+terministic
+nicantly
+cient
+stems
+tree
+heap
+hoisting
+write barriers
+write barrier
+recently allocated
+allocated object
+full interprocedural
+m object
+intraprocedural analysis
+callee type
+caller context
+type extension
+linktree method
+younger object
+context extension
+older object
+interprocedural analysis
+analyzed method
+entry point
+invoked methods
+unnecessary write
+receiver object
+program point
+call sites
+m variable
+store instruction
+currently analyzed
+xed point
+objects allocated
+data ow
+analysis result
+allocated types
+youngest object
+barrier elimination
+type set
+older generations
+point immediately
+must point
+transfer function
+barrier density
+method youngest
+property lattice
+eliminate write
+executed write
+generational garbage
+perimeter power
+transfer functions
+method m
+analysis times
+benchmark programs
+baseline version
+entry m
+barriers executed
+flex compiler
+incorporates information
+garbage collection
+analysis results
+m variables
+treeadd voronoi
+greatest xed
+bisort em3d
+never create
+instance method
+health mst
+power treeadd
+extension incorporates
+store instructions
+may invoke
+super uous
+mst perimeter
+modest performance
+remove unnecessary
+execution time
+variable set
+meet operator
+callers m
+integer object
+ow sensitive
+use generational
+allocation statement
+variable refers
+mit flex
+must points
+types function
+producing modest
+extension augments
+linkdepth method
+call graph
+calling context
+barrier removal
+lived objects
+bh bisort
+must conservatively
+int d
+barrier overhead
+program points
+strongly connected
+analysis described
+age based
+right subtrees
+invoked method
+call statements
+top element
+object allocation
+may allocate
+recently allocated object
+full interprocedural analysis
+callee type extension
+caller context extension
+create a reference
+unnecessary write barriers
+types of objects
+currently analyzed method
+callee only analysis
+program point immediately
+write barrier elimination
+number of write
+able to eliminate
+method youngest object
+executed write barriers
+caller only analysis
+eliminate write barriers
+analysis is able
+extension incorporates information
+power treeadd voronoi
+remove unnecessary write
+sites that may
+allocated in invoked
+health mst perimeter
+greatest xed point
+bisort em3d health
+mst perimeter power
+perimeter power treeadd
+creates a reference
+generational garbage collection
+write barrier density
+allocated types function
+use generational garbage
+analysis with information
+write barriers executed
+percentage of executed
+immediately before st
+object most recently
+mit flex compiler
+transfer function returns
+compute the greatest
+write barrier overhead
+set of variables
+write barrier removal
+variables that must
+points to information
+object is always
+able to remove
+set of m
+results are used
+left and right
+used to remove

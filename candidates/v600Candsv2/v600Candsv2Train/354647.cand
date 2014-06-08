@@ -1,0 +1,383 @@
+aak
+naks
+sender
+nak
+aaks
+receiver
+receivers
+multicast
+packet
+leader
+acks
+retransmission
+unicast
+ack
+bandwidth
+transmissions
+leaders
+rounds
+qd
+protocol
+protocols
+baa
+initiated
+packets
+consumption
+throughput
+received
+group
+sent
+retransmissions
+eq
+wd
+transmission
+aggregated
+reliable
+waa
+aaq
+probability
+waaq
+jo
+round
+rst
+sak
+periodical
+query
+lost
+parent
+child
+missing
+timeout
+sending
+wa
+leaf
+aa
+acknowledged
+saks
+avoidance
+nk
+analogous
+tree
+groups
+pk
+sends
+rmtp
+loss
+send
+subtracted
+node
+replied
+reception
+transport
+wn
+receiving
+correctly
+acknowledgments
+denition
+hierarchical
+prerequisites
+costs
+root
+rates
+queries
+receive
+messages
+ps
+analyzed
+children
+failures
+retransmis
+xpress
+xtp
+members
+gure
+suppression
+selective
+expectation
+threshold
+pgm
+clocks
+multicasting
+backbone
+efciency
+proportionate
+nodes
+jm
+notations
+acknowledgment
+brie
+queried
+classes
+losses
+consumptions
+reliability
+recovery
+levine
+conrm
+dened
+pingali
+retransmitted
+plus
+framing
+expired
+inner
+generic
+nally
+cast
+announce
+requirements
+empty
+pa
+phase
+ets
+buer
+synchronized
+requirement
+bernoulli
+dissemination
+delivery
+invoked
+presence
+reach
+wait
+maihofer
+lohmar
+classificationofreliablemul
+gous
+bearers
+sied
+zhaoyi
+subhierarchy
+mahonen
+mbms
+pack
+timer
+periodically
+dierent
+please
+sions
+routers
+transmitted
+message
+successful
+kasera
+nonnenmacher
+lorax
+tmtp
+analo
+met
+superior
+multicasted
+srm
+rameter
+collects
+fails
+analytical
+sessions
+ceivers
+poo
+curred
+overwhelms
+conned
+ensured
+collaborative
+waiting
+implosion
+unknowns
+group leader
+data packet
+bandwidth consumption
+local group
+group leaders
+reliable multicast
+e w
+empty rounds
+receiver initiated
+e e
+local groups
+sender initiated
+receiver r
+aak query
+m n1
+initiated protocols
+tree based
+ack tree
+e o
+o n2
+multicast protocols
+determined analogous
+aggregated acknowledgments
+w h1
+e m
+data packets
+loss probability
+packet loss
+protocol classes
+l h3
+n h1
+protocol a1
+see eq
+child nodes
+e l
+throughput rates
+hierarchical approaches
+total bandwidth
+round k
+e wd
+r jo
+o n1
+using multicast
+initiated protocol
+nak avoidance
+leaf node
+m a1
+aak queries
+n h3
+r g
+bandwidth requirement
+ack loss
+naks sent
+protocol class
+e n
+based protocols
+overall bandwidth
+root node
+obtained analogous
+necessary transmissions
+m n2
+parent group
+w h3
+w h4
+node receivers
+w h2
+sent naks
+transmissions m
+rounds o
+packet correctly
+r e
+bandwidth requirements
+receivers send
+maximum throughput
+negative acknowledgments
+received transmissions
+wd m
+l h4
+missing aaks
+probability qd
+unicast aak
+rst receiver
+aggregated acks
+sender root
+w a1
+leader inner
+e wa
+rounds e
+nak sending
+w n2
+protocol n2
+whose aak
+control packets
+eq 8
+parent node
+non hierarchical
+processing requirements
+based protocol
+receiver leaf
+last successful
+necessary rounds
+total number
+number of receivers
+number of empty
+reliable multicast protocols
+number of necessary
+number of transmissions
+number of received
+e n h1
+m n1 r
+total bandwidth consumption
+receiver initiated protocols
+tree based protocols
+analogous to eq
+e m n1
+r e w
+r 1 e
+number of naks
+e o n2
+packet loss probability
+instead of r
+unicast or multicast
+number of acks
+leaf node receivers
+number of sent
+overall bandwidth consumption
+e n h3
+e l h3
+n h1 r
+consumption of protocol
+n h3 r
+aak is missing
+packet is received
+tree based protocol
+sender initiated protocol
+number of rounds
+sender and receiver
+e e l
+e e e
+per data packet
+e w h1
+parent group leader
+node receivers send
+e w h3
+sender root node
+maximum throughput rates
+group leader inner
+receiver leaf node
+g 1 w
+sender or group
+e o n1
+o n1 e
+sender and group
+o n2 r
+e w h2
+non hierarchical approaches
+unicast is used
+e w n2
+sent in round
+r g 1
+leader inner node
+e w h4
+e l h4
+e e m
+o n2 e
+tree based approaches
+sender initiated protocols
+reliable multicast transport
+number of child
+sender initiated receiver
+naks in round
+acks or naks
+leader and overall
+empty rounds plus
+initiated and tree
+sak is sent
+retransmission is invoked
+last successful nak
+w n2 r
+m n2 r
+w h1 r
+initiated receiver initiated
+plus the last
+e w n1
+number of aak
+rounds o n2
+node the bandwidth
+lost with probability
+nodes whose aak
+e m a1
+see eq 8
+r jm n1
+finally the maximum
+data packet correctly
+classes with aggregated
+retransmission is made
+e w a1

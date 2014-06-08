@@ -1,0 +1,270 @@
+advection
+viscosity
+upstream
+relaxation
+sweep
+ivu1
+grid
+multigrid
+discretization
+downstream
+2h
+quadrant
+overweighting
+flows
+recirculating
+residuals
+diffusion
+ivu2
+vortices
+sweeps
+clockwise
+isotropic
+mgd9v
+residual
+counterclockwise
+vortex
+nonpositive
+amplification
+coarse
+reynolds
+diffusivity
+fine
+recirculation
+streamlines
+fda
+incompressible
+intergrid
+gauss
+stagnation
+seidel
+truncation
+relaxed
+su
+quadrants
+cycles
+artificial
+convergence
+elliptic
+cycle
+jb
+discretizations
+spurious
+bands
+evidently
+characteristics
+transfers
+solver
+ellipticity
+j1
+correction
+numerical
+streamwise
+opt
+calculations
+navier
+tl
+stokes
+weighting
+i1
+129
+ja
+israel
+zeeuw
+meshsize
+illu
+nonnegative
+257
+band
+entering
+borderlines
+operator
+finest
+boundary
+closed
+periodicity
+predictions
+quarter
+isotropy
+borderline
+iso
+the advection
+advection diffusion
+downstream relaxation
+upstream discretization
+closed characteristics
+coarse grid
+fine grid
+two level
+upstream scheme
+relaxation ordering
+relaxation sweeps
+artificial viscosity
+relaxation sweep
+order upstream
+advection operator
+error amplification
+level cycle
+clockwise sweep
+the fine
+the coarse
+with closed
+isotropic viscosity
+su ivu1
+standard upstream
+recirculating flows
+physical viscosity
+high reynolds
+w opt
+numerical calculations
+diffusion problem
+viscosity is
+cross stream
+sweep only
+in downstream
+advection problem
+purely upstream
+and downstream
+entering flows
+truncation terms
+counterclockwise sweep
+isotropic artificial
+residual weighting
+diffusion equation
+characteristic direction
+j jb
+1 cycles
+l h
+are relaxed
+gauss seidel
+level error
+ja i
+the relaxation
+spurious solutions
+jb i
+of residuals
+for flows
+optimal w
+the artificial
+residual overweighting
+usual multigrid
+intergrid transfers
+relaxation begins
+i1 j1
+several bands
+efficient multigrid
+first differential
+downstream ordering
+artificial diffusivity
+residuals per
+quadrant in
+su scheme
+stagnation points
+full relaxation
+amplification factor
+per vortex
+the fda
+fully efficient
+ivu2 and
+j j
+only variables
+v h
+the numerical
+model problem
+first order
+the characteristics
+a 2h
+viscosity we
+differential approximation
+grid relaxation
+using upstream
+downstream relaxation ordering
+the fine grid
+the coarse grid
+two level cycle
+with closed characteristics
+of the advection
+i j j
+the two level
+advection diffusion equation
+the advection diffusion
+advection diffusion problem
+the advection operator
+sweep only variables
+and downstream relaxation
+w opt the
+first order upstream
+two level error
+j j jb
+v 1 1
+on the coarse
+and b x
+j jb i
+b x y
+ja i j
+jb i j
+a x y
+v 2 1
+on the fine
+the usual multigrid
+the advection problem
+the physical viscosity
+several bands of
+error amplification factor
+error amplification factors
+upstream discretization and
+the standard upstream
+residuals per vortex
+the cross stream
+using upstream discretization
+optimal residual weighting
+the characteristics are
+level error amplification
+discretization and downstream
+amplification factors obtained
+full relaxation sweep
+isotropic artificial viscosity
+the artificial viscosity
+to the advection
+a fully efficient
+quadrant in the
+first differential approximation
+for flows with
+the characteristic direction
+fine grid relaxation
+the present approach
+the optimal w
+2 1 cycles
+for the advection
+of l h
+the finest grid
+gauss seidel relaxation
+navier stokes equations
+with the grid
+coarse grid correction
+the o h
+the optimal value
+tables 5 and
+the incompressible navier
+of example 2
+in tables 5
+w were obtained
+at high reynolds
+upstream scheme as
+at stagnation points
+only variables at
+standard upstream scheme
+if ja i
+predictions of section
+at locations where
+2h a h
+the first truncated
+the downstream relaxation
+of w were
+a heuristic analysis
+present approach is
+variables at locations
+obtained with v
+finest grid in
+calculations of example
+order upstream discretization

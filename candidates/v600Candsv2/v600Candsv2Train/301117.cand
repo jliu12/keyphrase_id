@@ -1,0 +1,355 @@
+loggp
+mpi
+mk
+sweeps
+mmi
+octants
+processor
+octant
+grid
+synchronization
+sp
+processors
+message
+receive
+logp
+smp
+cluster
+wavefront
+send
+roundtrip
+posted
+communication
+intra
+measured
+sweep
+totalcomm
+startp
+messages
+west
+primitives
+poems
+jt
+handshake
+asci
+micro
+projections
+deelman
+ewa
+projected
+fortran
+anomaly
+blocking
+vernon
+pipelined
+latency
+calculations
+vikram
+adve
+costs
+modeled
+sizes
+north
+benchmarks
+rizos
+sakellariou
+scalability
+billion
+usec
+ruoming
+gagan
+developers
+configurations
+rajive
+twelve
+delay
+accurately
+bagrodia
+principal
+execution
+overhead
+analytic
+contention
+analyzing
+thousand
+scaled
+trip
+measurements
+mary
+neighbor
+angles
+sending
+occupancy
+diminished
+ibm
+million
+modifications
+finished
+southeast
+sigmetrics
+multiprocessors
+sorting
+greatly
+agrawal
+mo
+hagihara
+noriyuki
+laity
+logpc
+fixups
+kesselman
+ino
+vahi
+horizonal
+anastasia
+buaklee
+lopc
+orginates
+fumihiko
+berriman
+wavefronts
+loggps
+brevik
+gaurang
+delays
+quantitatively
+mapped
+corner
+dimensions
+sent
+predict
+east
+destination
+overlapped
+agreement
+nurmi
+ppopp
+blythe
+tampa
+elucidation
+marin
+prohibitive
+bandwidth
+supercomputing
+scientific
+validated
+validation
+inter
+breakdown
+remote
+gurmeet
+stukel
+intercluster
+koelbel
+lowenthal
+anirban
+dube
+yolanda
+chuck
+unexplained
+jin
+derive
+slope
+header
+symmetry
+kenichi
+multiparadigm
+intracluster
+pegasus
+elucidates
+houstis
+wolski
+3d
+measuring
+thousands
+subscripts
+odd
+block
+browne
+meiko
+workflows
+sundaram
+crummey
+loggp model
+mpi send
+processor grid
+sp 2
+execution time
+message size
+mk 10
+mpi communication
+problem size
+mpi receive
+mk 1
+per processor
+problem sizes
+loggp mmi
+total problem
+intra cluster
+processor p
+synchronization structure
+processors time
+size per
+complex synchronization
+communication parameters
+fixed total
+j dimensions
+octant pair
+loggp mk
+synchronization structures
+measured mk
+fixed problem
+grid points
+cluster communication
+micro benchmarks
+mmi 3
+mpi software
+measured execution
+synchronization costs
+synchronization delays
+two neighbor
+receive primitives
+corresponding receive
+message sizes
+smp node
+four processor
+processor configurations
+communication times
+loggp equations
+billion grid
+octants 7
+communication micro
+measured application
+projected sweep3d
+projected execution
+roundtrip communication
+twelve iterations
+performance projections
+measured communication
+application developers
+inter cluster
+time step
+l o
+communication cost
+neighbor processors
+wavefront application
+messages larger
+task graph
+processing overhead
+beyond one
+l local
+two thousand
+ibm sp
+w g
+k vernon
+3d grid
+model estimates
+mary k
+parameters l
+ewa deelman
+smp nodes
+size equal
+p n
+given processor
+last block
+application execution
+execution times
+scaling beyond
+corner processor
+g parameter
+yields greatly
+numbered p
+future processor
+mpi primitives
+end cost
+wavefront applications
+mmi mk
+large future
+pipelined sweeps
+mmi 6
+octant 6
+model projections
+jt k
+octants 5
+roundtrip time
+receive models
+octants 1
+separate smp
+c micro
+steps appears
+projects performance
+model of sweep3d
+send and mpi
+number of processors
+problem size per
+size per processor
+sweeps for octants
+version of sweep3d
+processor p n
+fixed problem size
+o and g
+mpi receive primitives
+fixed total problem
+m 1 l
+measured execution time
+groups and 10
+projected sweep3d execution
+total problem size
+two neighbor processors
+message size equal
+system is scaled
+mmi 3 mk
+sweep for octant
+time of sweep3d
+intra cluster communication
+total problem sizes
+mk 1 loggp
+parameters l o
+grid is mapped
+processors time sec
+one time step
+p n m
+number of angles
+n 2 l
+values of l
+mary k vernon
+end to end
+p i j
+values of g
+p n 1
+complex synchronization structures
+model communication cost
+four processor smp
+time steps appears
+loggp mmi 3
+single four processor
+measured communication times
+pair of octants
+cluster and inter
+measured mk 10
+deterministic task graph
+mk 10 c
+sorting under logp
+b 1 billion
+communication micro benchmarks
+structure of sweep3d
+m has finished
+per processor grid
+large future processor
+fast parallel sorting
+smaller than 4kb
+c measured mk
+fixed per processor
+startp i j
+yields greatly diminished
+time with mk
+measured using simple
+size time usec
+sp 2 mpi
+projected execution time
+loggp mmi 1
+grid points b
+one energy group
+four processor runs
+mmi 6 mk
+measured mk 1

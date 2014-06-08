@@ -1,0 +1,416 @@
+separable
+dg
+dft
+array
+raster
+pe
+eqn
+pes
+row
+arrays
+convolution
+scan
+transforms
+transposition
+transform
+schedule
+goertzel
+column
+wavelet
+saf
+twiddle
+vlsi
+fig
+localized
+systolic
+pipelining
+rows
+pipelined
+fifo
+fourier
+architectures
+filters
+dct
+outputs
+multidimensional
+intermediate
+dwt
+beraldin
+scalar
+modular
+inputs
+period
+latency
+modularity
+coefficient
+token
+stream
+saxpy
+kernel
+internal
+architecture
+gammai
+synthesis
+matrix
+swartzlander
+coefficients
+cosine
+dependencies
+discrete
+synthesizing
+vectors
+idct
+dependence
+convolutions
+signal
+central
+registers
+transformation
+cntr
+image
+multiplications
+columns
+memory
+bank
+clock
+fifos
+filter
+behavioral
+accumulation
+amplifiers
+mapping
+omega
+bus
+colon
+queues
+fft
+efficiency
+equivalents
+nested
+additions
+enter
+synthesized
+index
+circuit
+memories
+slots
+multiply
+multiplier
+wise
+accepting
+broadcasting
+propagating
+fir
+fed
+ports
+kronecker
+storage
+proposition
+upwards
+symmetries
+implying
+realize
+insertion
+avoiding
+processor
+zeros
+throughput
+multiplication
+conventional
+sipo
+drt
+shamash
+bhaskaran
+standars
+mersereau
+multiprojection
+pem
+dudgeon
+tsvq
+abramatic
+cbis
+konstantinides
+systolically
+systolization
+akansu
+multiresolution
+holding
+accumulate
+perfectly
+circuitry
+synchronizing
+theta
+timing
+dimension
+node
+denoting
+decode
+thick
+boundary
+fundamentals
+ventional
+treitel
+gertner
+operating
+matrices
+video
+tokens
+buffering
+product
+bit
+arrowheads
+technologically
+wraparound
+dfts
+dht
+implemenation
+initiations
+horner
+axis
+submatrix
+digital
+stages
+replenishment
+unraveling
+multiplicand
+multipliers
+accept
+routing
+increments
+limits
+dimensional
+cordic
+kedem
+shanks
+decoders
+facilitate
+consecutive
+operators
+entered
+perfect
+systematically
+horizontal
+column array
+row array
+raster scan
+dg node
+d separable
+separable transforms
+linear array
+scan order
+d transform
+d dft
+pe structure
+column processing
+d convolution
+theta m
+time mapping
+intermediate result
+separable transform
+algorithm 3
+d discrete
+discrete wavelet
+non separable
+vlsi architectures
+schedule time
+eqn 6
+pipelining period
+internal pe
+o schedule
+separable convolution
+linear arrays
+row processing
+w gammai
+central memory
+row column
+m theta
+time period
+array architectures
+separable filters
+input x
+wavelet transform
+mapping operators
+gammai m
+block pipelining
+pipelined linear
+dft coefficient
+array stages
+index space
+parallel architecture
+fourier transform
+inputs x
+space time
+m k
+matrix g
+saf algorithm
+processor time
+linear space
+intermediate results
+z k
+timing function
+pe 2
+space transformation
+eqn 11
+fully pipelined
+input stream
+fig 3
+m 2
+output y
+matrix product
+becomes available
+systolic arrays
+single input
+modular linear
+conventional row
+dft array
+transposition memory
+localized algorithm
+per schedule
+row pipelining
+d transformation
+row interface
+d index
+parallel output
+k direction
+pipelined array
+beraldin et
+arrays presented
+separable 2
+dimensional 2
+local pe
+array shown
+efficiency loss
+scan processing
+vector dg
+data token
+fifo queues
+internal structure
+discrete fourier
+discrete cosine
+matrix z
+twiddle factors
+available every
+results z
+array z
+graph dg
+architecture consisting
+result z
+scan input
+eqn 4
+fifo figure
+become available
+x 1
+o m
+outputs z
+array structures
+m parallel
+twiddle factor
+fig 2
+matrix matrix
+distributed memory
+performance characterization
+output d
+pe 0
+time schedule
+partial result
+dimension two
+x 0
+x k
+x 3
+memory bank
+kernel g
+vector product
+column vectors
+time steps
+matrices x
+processor arrays
+image processing
+raster scan order
+schedule time period
+shown in fig
+m theta m
+x i k
+space time mapping
+x and z
+dg of fig
+d separable transforms
+d separable convolution
+linear space time
+internal pe structure
+algorithm 3 2
+discrete wavelet transform
+memory and control
+d discrete wavelet
+time mapping operators
+architectures for multidimensional
+block pipelining period
+d the internal
+w gammai m
+x 1 0
+discrete fourier transform
+algorithm 3 3
+arrays for 2
+pipelined linear array
+dependence graph dg
+algorithms into lower
+along the k
+d index space
+separable 2 d
+raster scan processing
+beraldin et al
+dimensional 2 d
+goertzel s dft
+suitable for raster
+fully pipelined linear
+intermediate result z
+conventional row column
+array for processing
+d separable transform
+per schedule time
+linear array stages
+inputs x k
+row and column
+b the internal
+m i theta
+d discrete fourier
+matrix matrix product
+fig 7 c
+matrix vector product
+algorithm 3 1
+y i 1
+discrete cosine transform
+theta m matrix
+fig 3 b
+proposition 5 1
+transform algorithms advantages
+among dg nodes
+bound on memory
+schedule t 0
+stream becomes available
+perfect row pipelining
+row column approach
+nested for loop
+array computation time
+single physical link
+parallel output ports
+transposition of intermediate
+parallel vlsi architectures
+mapping of uniform
+enter the row
+fourier transform processing
+structure of processing
+dg for transformation
+insertion of zeros
+theta m input
+modular linear arrays
+coefficient z 2
+d dft array
+linear array algorithms
+localized saf algorithm
+m twiddle factors
+processor time schedule
+multidimensional fourier transform
+element pe 2
+computing the 2
+propagated by length
+m matrix g

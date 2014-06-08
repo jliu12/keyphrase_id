@@ -1,0 +1,407 @@
+compaction
+rts
+rt
+dsps
+nop
+dsp
+instruction
+ip
+register
+retargetable
+tmax
+formats
+asips
+nops
+encoding
+registers
+vertical
+mimola
+conflicts
+dd
+retargetability
+cs
+ar
+code
+ise
+scheduled
+macs
+parser
+instructions
+shuffling
+encodings
+scheduling
+od
+datapath
+generation
+compiler
+schedule
+agu
+rdg
+processor
+versions
+rtl
+dortmund
+tcc
+parallelism
+motorola
+br
+dfl
+ets
+synthesis
+asip
+effects
+horizontal
+multiply
+incompatibility
+compilation
+hdl
+vars
+compilers
+runtimes
+embedded
+extraction
+permit
+conflicting
+addressable
+processors
+microcode
+marwedel
+bi
+exploitation
+leupers
+hardly
+allocation
+bb
+dad
+dependencies
+programmable
+live
+ai
+bus
+record
+hardware
+cdfg
+codesyn
+agus
+eijk
+compacted
+format
+pruning
+cad
+mode
+dependency
+chess
+encoded
+ik
+solv
+heijligers
+timmer
+undesired
+target
+mobility
+pairwise
+conflict
+parsing
+constrained
+permits
+editable
+dspstone
+selection
+modelling
+weakly
+heuristic
+limitations
+peculiarities
+inequations
+contentions
+demands
+alap
+vlsi
+santos
+assignment
+architectures
+luiz
+blocks
+np
+busses
+capable
+anti
+jess
+van
+quality
+activated
+chained
+dos
+comprising
+european
+rainer
+inter
+stationary
+oscar
+compatible
+integrated
+semantical
+rigid
+compensation
+trees
+automation
+constraints
+strongly
+resource
+cycle
+spill
+formulation
+mutation
+cores
+accumulates
+storage
+exemplified
+critical
+house
+generator
+patterns
+yes
+extracted
+tree
+comparatively
+meets
+packed
+decrement
+wilson
+language
+iv
+externally
+heuristically
+acceptable
+contemporary
+gnu
+advance
+drivers
+eijnhoven
+uture
+inition
+mssq
+fnop
+consec
+utively
+augusli
+deac
+desig
+leupersjmarwedel
+ecently
+mallett
+kifli
+code compaction
+code generation
+control step
+side effects
+rt r
+vertical code
+partial instructions
+instruction formats
+solution variables
+code selection
+time constraints
+set extraction
+tree parser
+vertical side
+rt patterns
+control steps
+r j
+compaction techniques
+nop version
+inter rt
+dsp code
+complex multiply
+instruction set
+encoding conflicts
+alternative encodings
+based compaction
+step cs
+encoding versions
+rtl basic
+target processor
+address register
+address assignment
+register allocation
+basic block
+compaction problem
+encoding version
+mode register
+version shuffling
+ip based
+instruction format
+time constrained
+v variables
+expression trees
+local code
+processor specific
+actual lower
+constrained code
+code quality
+critical path
+alternative versions
+version e
+n variables
+retargetable code
+processor model
+machine program
+dd od
+addressable storage
+ar br
+rt dependencies
+ip formulation
+compilation speed
+tight time
+ip solution
+exact code
+compaction technique
+potential parallelism
+encoded instruction
+language compilers
+ip model
+parallel schedule
+dependency relations
+machine code
+basic blocks
+path length
+e ik
+nop versions
+rt dependency
+register states
+bi ar
+weakly encoded
+horizontal instruction
+horizontal side
+dd gamma
+br ai
+heuristic compaction
+rt conflicts
+partial instruction
+strongly encoded
+alternative encoding
+extracted rt
+stationary macs
+two rts
+standard dsps
+relevant size
+level language
+processor models
+software synthesis
+single cycle
+gamma r
+integer programming
+search space
+data moves
+multiply program
+mobility ranges
+local compaction
+parser generation
+register updates
+live value
+version selection
+data anti
+j van
+generation techniques
+time constraint
+output dependent
+local techniques
+tree parsing
+selection register
+ai bi
+computation time
+embedded processors
+instruction level
+dsp algorithms
+rt level
+optimal code
+instruction word
+instruction set extraction
+vertical side effects
+local code compaction
+control step cs
+selection and register
+ip based compaction
+rtl basic block
+time constrained code
+generation for embedded
+critical path length
+retargetable code generation
+exact code compaction
+gamma r j
+inter rt dependencies
+tight time constraints
+code generation techniques
+actual lower bound
+level language compilers
+high level language
+set of alternative
+address register updates
+code selection register
+cs t 2
+encoded instruction formats
+inter rt conflicts
+versions for r
+horizontal side effects
+vertical code generation
+ar br ai
+path length l
+mode register states
+br ai bi
+complex multiply program
+code compaction techniques
+setting of n
+tree parser generation
+rt dependency graph
+target processor model
+dd gamma r
+dsp code generation
+amounts of computation
+constrained code compaction
+length l c
+scheduled in parallel
+dependent on r
+selection register allocation
+code for complex
+r i r
+number of control
+instruction level parallelism
+symposium on system
+point to 2
+versions and side
+ip solution variables
+j van eijk
+j m heijligers
+j is scheduled
+permit to tolerate
+required mode register
+alternative encoding versions
+blocks of relevant
+turn this demands
+versions and vertical
+nop is present
+defined as dd
+auto increment decrement
+occurs in presence
+point to 3
+solution v vars
+asips an integrated
+van eijk j
+instruction word length
+alternative to heuristic
+scheduled in control
+weakly encoded instruction
+exploitation of potential
+exists an rt
+rt r j
+extracted rt patterns
+specific machine code
+processor specific machine
+general optimization goal
+must be activated
+santos m j
+r i od
+used the interpretation
+system level cad
+two rts r
+point to 1

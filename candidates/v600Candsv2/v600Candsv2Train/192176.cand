@@ -1,0 +1,390 @@
+radiosity
+conservative
+brightness
+bounds
+illumination
+radiosities
+hr
+refinement
+estimates
+tighter
+links
+graphics
+patch
+contriblist
+gatherlowerbounds
+gatherupperbounds
+emission
+errors
+irradiance
+bounding
+link
+drettakis
+hierarchical
+reflectivity
+norm
+posteriori
+smits
+error
+foreach
+piecewise
+interreflections
+boundson
+infima
+integral
+tog
+visibility
+arvo
+sillion
+occluded
+weighted
+floor
+pessimistic
+jacobi
+dk
+gathering
+hanrahan
+isleaf
+puech
+dimmest
+driven
+subdivision
+subdivided
+adjoint
+children
+seidel
+polygon
+transferred
+energy
+rho
+fmin
+visualization
+realistic
+propagation
+fmax
+diagonally
+frdo
+george
+synthesis
+patches
+claude
+reflections
+importance
+discontinuity
+node
+campbell
+plots
+polyhedral
+acceptability
+radiative
+durand
+jacobian
+meshing
+sources
+adaptive
+loan
+receiver
+diffuse
+fredholm
+ij
+greatest
+environments
+child
+image
+gauss
+fine
+coarse
+iteration
+factors
+subdivide
+extrema
+interactive
+iterates
+wavelength
+functionals
+approximate
+pseudocode
+sorting
+occlusion
+estimate
+entries
+boundingvarious
+andboundaryelement
+supremabounding
+sowhena
+emphasizethe
+delves
+garmann
+penumbral
+hualin
+ffsum
+simistic
+emis
+convergencein
+danix
+becomesmonotonic
+eachenvironmentwassampledon
+convergencerates
+boundscomputedby
+brightnesses
+environmentsin
+lobb
+correspondingto
+dkb
+interreflec
+perceptual
+converge
+middle
+refine
+row
+dy
+measured
+summed
+light
+wall
+contributing
+reflectivities
+emax
+fro
+deletemin
+emitters
+myszkowski
+kopylov
+khodulev
+conservativity
+volevich
+dpg
+decreasesas
+vative
+conser
+matrix
+dominant
+cheaper
+contribution
+cohen
+reliable
+karol
+artdefo
+kavita
+fraois
+occluders
+bes
+suprema
+wenping
+analytical
+exact
+exceeds
+expression
+equations
+plot
+bracketing
+shaders
+brock
+dorsey
+bounces
+slusallek
+enhua
+reflectors
+canbe
+exceed
+upper
+xy
+heidrich
+non conservative
+form factor
+hierarchical radiosity
+error estimates
+error driven
+radiosity function
+form factors
+brightness weighted
+exact radiosity
+radiosity algorithm
+driven refinement
+radiosity algorithms
+total error
+element size
+size conservative
+conservative non
+h element
+bounding algorithm
+b x
+weighted refinement
+refinement strategy
+transferred energy
+conservative h
+global illumination
+tighter bounds
+realistic error
+measured error
+upper bounds
+solution b
+conservative bounds
+image synthesis
+conservative error
+integral equations
+l 1
+computer graphics
+george drettakis
+upper bound
+piecewise constant
+solution vector
+error bounds
+lower bounds
+new error
+posteriori error
+polyhedral sources
+irradiance jacobian
+smits et
+radiosity bounding
+adaptive refinement
+error estimate
+error bound
+partially occluded
+exact figure
+occluded polyhedral
+inter reflections
+graphics tog
+tog v
+conservative upper
+local error
+techniques p
+interactive techniques
+b k
+smooth curve
+higher order
+error estimation
+f ij
+gamma k
+linear functional
+figure 5a
+exceed 1
+nested lower
+floor polygon
+environments shown
+fine exact
+node links
+radiosity coarse
+two hr
+greatest effect
+tighter non
+total radiosity
+measured errors
+incorrect radiosity
+polygon form
+claude puech
+node children
+radiosity b
+perceptual error
+contriblist end
+foreach link
+ff upper
+gathering lower
+link source
+bounds corresponding
+durand george
+node rho
+drettakis claude
+radiosity methods
+foreach child
+link form
+radiosity bounds
+computes conservative
+node upper
+hr solutions
+dk ij
+isleaf node
+campbell 7
+test cases
+constant functions
+matrix k
+diagonally dominant
+radiosity solutions
+factor error
+realistic estimates
+computing tighter
+pessimistic error
+matrix radiosity
+driven radiosity
+particular interaction
+conservative version
+priori error
+efficient radiosity
+global visibility
+approximate solution
+error driven refinement
+h element size
+size conservative non
+conservative non conservative
+element size conservative
+exact radiosity function
+brightness weighted refinement
+non conservative h
+conservative h element
+l 1 norm
+hierarchical radiosity algorithm
+total error bound
+driven refinement strategy
+realistic error estimates
+new error driven
+propagation of errors
+radiosity bounding algorithm
+bound the exact
+gives the contribution
+smits et al
+occluded polyhedral sources
+children s errors
+bounds on radiosity
+non conservative bounds
+jacobian for partially
+strategy for hierarchical
+partially occluded polyhedral
+b b x
+graphics tog v
+transactions on graphics
+interactive techniques p
+algorithm that computes
+graphics and interactive
+lower and upper
+foreach child 2
+two hr solutions
+describe a non
+posteriori error analysis
+coarse fine exact
+fine exact figure
+george drettakis claude
+emission and ae
+optimization to find
+estimate the errors
+point to polygon
+radiosity after k
+link 2 node
+approximate solution b
+link form factor
+errors in radiosity
+durand george drettakis
+tighter non conservative
+upper bounds corresponding
+radiosity function b
+non conservative version
+solution is coarse
+fine the smooth
+conservative error estimates
+two error estimates
+superior to brightness
+exact solution b
+polygon form factor
+foreach link 2
+frdo durand george
+non conservative bounding
+child 2 node
+form factor error
+solution b b
+else foreach child
+drettakis claude puech
+radiosity coarse fine
+function b x
+full matrix radiosity
+vectors b k
+radiosity algorithms using
+k is strictly

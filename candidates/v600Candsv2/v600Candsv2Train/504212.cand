@@ -1,0 +1,366 @@
+mumps
+superlu
+factorization
+amd
+uns
+bbmat
+amestoy
+dissection
+solvers
+unsymmetric
+twotone
+mixtank
+multifrontal
+megaflop
+cray
+sparsity
+sym
+pivoting
+solver
+sparse
+processors
+duff
+refinement
+grids
+matrices
+berr
+frontal
+pivots
+demmel
+parallelism
+supernodal
+diagonal
+ordering
+nx
+blas
+matrix
+nested
+rutherford
+hsl
+puglisi
+cubic
+elimination
+iterative
+xiaoye
+preordering
+www
+supernodes
+koster
+codes
+asymmetry
+orderings
+mbytes
+supernode
+spd
+parasol
+boeing
+modulus
+2d
+fan
+mpi
+nd
+flops
+lu
+permuting
+ibm
+processor
+phase
+mhertz
+clrc
+henon
+factorize
+pivot
+volume
+scheduling
+mess
+behaviour
+messages
+dags
+davis
+block
+entries
+grid
+spooles
+pastix
+strsym
+zeros
+factorizing
+numerical
+scalability
+ldl
+cfd
+markedly
+assembly
+rectangular
+symmetry
+backward
+nersc
+fill
+mflops
+symmetric
+jjajj
+asymmetric
+asynchronous
+mmd
+schenk
+uniprocessor
+gemm
+li
+permutation
+pivotal
+processes
+ord
+diagonals
+spent
+uniproc
+parallab
+pspases
+preprocessing
+cse
+column
+memory
+structural
+nz
+analyse
+grund
+vampir
+wsmp
+ramet
+nprocs
+tree
+worker
+rows
+preprocess
+blocks
+1d
+default
+iter
+delayed
+peak
+scalable
+partitioning
+communication
+http
+benefit
+phases
+vol
+onto
+gov
+nonzeros
+gilbert
+symbolic
+grimes
+metis
+heath
+pardiso
+static
+exploit
+nagel
+peyton
+karypis
+schur
+partly
+rothberg
+permuted
+toms
+sgi
+columns
+efficiency
+berkeley
+prospective
+gaussian
+root
+netlib
+nonzero
+avg
+uk
+factors
+iterative refinement
+mumps uns
+cray t3e
+nested dissection
+mumps sym
+amd mumps
+megaflop rate
+nd mumps
+mumps amd
+per processor
+two solvers
+analysis phase
+cubic grids
+static pivoting
+factorization phase
+factorization time
+amestoy et
+solver number
+rutherford boeing
+uns www
+grids nested
+large entries
+minimum degree
+ibm sp2
+node parallelism
+table 5
+sym mumps
+twotone mc64
+bbmat amd
+dissection ordering
+frontal matrix
+test matrices
+al 1999
+process process
+backward error
+block size
+structural symmetry
+table 4
+grid problems
+rate per
+average volume
+dynamic scheduling
+enough memory
+delayed pivots
+level 3
+sparse direct
+numerical factorization
+mumps 1
+bbmat mumps
+uns figure
+using mc64
+amd 1
+mixtank mumps
+twotone mumps
+parallel sparse
+permuting large
+rectangular grids
+lu factorization
+parallel efficiency
+distributed memory
+sparse matrix
+entries onto
+numerical behaviour
+elimination dags
+koster 1999
+matrix solver
+scheduling algorithm
+page http
+solve phase
+multifrontal solver
+frontal matrices
+assembly tree
+left looking
+initial solution
+u k
+initial matrix
+matrix ordering
+max vol
+fairly symmetric
+ordering solver
+general superlu
+clrc ac
+mumps note
+matrices lhr71c
+factorizing column
+use mc64
+mixtank nd
+uk activity
+cse clrc
+matrix ord
+vol mess
+ord solver
+looking uns
+see bbmat
+parallel node
+flops time
+superlu usually
+memory used
+sparse gaussian
+symbolic factorization
+time spent
+mumps uses
+number of processors
+amestoy et al
+megaflop rate per
+grids nested dissection
+rate per processor
+number of operations
+et al 1999
+steps of iterative
+nested dissection ordering
+sym mumps uns
+bbmat amd mumps
+mumps sym mumps
+level 3 blas
+volume of communication
+used in mumps
+process process process
+permuting large entries
+amd 1 00
+used in superlu
+mumps amd 1
+mumps and superlu
+large entries onto
+twotone mc64 mumps
+mumps uns figure
+uns figure 6
+use of mc64
+u k j
+web page http
+step of iterative
+li and demmel
+onto the diagonal
+table 4 1
+table 2 2
+time in seconds
+version of mumps
+max vol mess
+www cse clrc
+dimensional parallel node
+cse clrc ac
+ord solver number
+efficient than mumps
+ac uk activity
+used during factorization
+mixtank nd mumps
+matrix ord solver
+rectangular grids nested
+one dimensional parallel
+case of mumps
+clrc ac uk
+cubic grids nested
+matrix ordering solver
+sparse gaussian elimination
+block cyclic layout
+processors we also
+amestoy and puglisi
+cray t3e 900
+indicates not enough
+table 4 2
+table 5 2
+duff and koster
+parallel sparse direct
+operations per processor
+show in table
+number of delayed
+figure 3 2
+number of messages
+maximum block size
+page http www
+dynamic scheduling algorithm
+algorithms for permuting
+ldl t factorization
+onto the processors
+table 4 4
+table 5 3
+algorithm for parallel
+xiaoye s li
+ordering is used
+table 6 2
+floating point operations
+l i k
+approximate minimum degree
+sparse direct solver
+distributed memory computers
+table 6 1
+minimum degree ordering
+increasing the number
+section 4 1

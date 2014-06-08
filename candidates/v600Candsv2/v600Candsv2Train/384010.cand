@@ -1,0 +1,386 @@
+failure
+member
+pml
+detector
+faulty
+detectors
+heartbeating
+pm
+heartbeat
+pf
+protocol
+ping
+members
+message
+completeness
+load
+incarnation
+group
+detection
+messages
+ack
+mm
+optimality
+pr
+crash
+unreliable
+failures
+req
+ml
+randomized
+failed
+qf
+ciency
+worst
+network
+imposes
+di
+accuracy
+imposed
+units
+consensus
+incarnations
+unreliability
+configured
+quickness
+scalability
+period
+detected
+heartbeats
+erent
+cient
+centralized
+recoveries
+probabilistically
+ers
+scalable
+eg
+suspicion
+asynchronous
+probability
+gossip
+log
+anytime
+tgossip
+recovery
+disseminate
+receipt
+sub
+crashes
+delivery
+service
+rates
+metrics
+inherently
+deterministically
+membership
+server
+schemes
+groups
+alive
+leader
+eventual
+pings
+jiannong
+recipient
+impossibility
+toueg
+subgroup
+speed
+notification
+send
+er
+mistaken
+ring
+popular
+quantifying
+losses
+deliveries
+qos
+subnets
+requirements
+acks
+reliable
+designer
+traditional
+quirements
+meet
+hot
+instant
+heart
+agreement
+election
+beat
+clusters
+strong
+correlation
+messaging
+receive
+configure
+byzantine
+weakest
+bytes
+synchrony
+spots
+chandra
+correlated
+sender
+cao
+delivered
+detect
+classifications
+headers
+ness
+across
+frown
+nesvadba
+reynal
+fstrong
+corentin
+lukkien
+beihong
+kalantar
+qml
+weakg
+yuechen
+unreliabil
+eano
+travers
+fices
+bronevetsky
+korostelev
+periods
+transmits
+sent
+duration
+timing
+detecting
+routers
+transmitted
+immensely
+horita
+tiejun
+lized
+chikayama
+stodghill
+scalably
+broadcast
+reply
+synchronous
+independence
+identifiers
+entails
+probabilistic
+parentheses
+trip
+guaranteeing
+adaptors
+recollect
+uti
+weigang
+tector
+recov
+unscalable
+agation
+kelvin
+timed
+jin
+variation
+ect
+clocks
+quick
+multicast
+guarantee
+proposals
+failure detector
+failure detectors
+non faulty
+faulty member
+group member
+network load
+member m
+case network
+failure detection
+optimality factor
+sub optimality
+detector algorithm
+m j
+faulty group
+pr message
+pf pml
+protocol period
+distributed failure
+distributed heartbeating
+group members
+log pm
+member failure
+heartbeating schemes
+application specified
+load imposed
+new failure
+detector protocol
+time units
+ping req
+worst case
+strong completeness
+group size
+load l
+message loss
+application defined
+optimal worst
+randomized failure
+messages per
+failure rates
+j pr
+mm m
+ping m
+accuracy requirements
+traditional distributed
+detection time
+completeness speed
+e l
+q f
+qf q
+g pf
+k members
+defined constraints
+cient failure
+expected load
+crash recovery
+e ciency
+complete failure
+faulty members
+ack m
+accuracy properties
+equal expected
+di ers
+m l
+distributed consensus
+load per
+randomized distributed
+new randomized
+large groups
+speed accuracy
+e cient
+q 4
+process group
+strong accuracy
+distributed heartbeat
+ml e
+optimality factors
+member within
+pml 0
+detection times
+optimal scalability
+centralized heartbeating
+f pf
+heartbeating failure
+ack ping
+p ml
+pml pf
+heartbeat schemes
+network unreliability
+ack mm
+maximal message
+message delivery
+di erent
+log 1
+per second
+guarantee strong
+detector algorithms
+detection service
+member failures
+gossip style
+current incarnation
+m ml
+speed requirement
+reliable distributed
+process failure
+specified requirements
+message round
+equations 1
+optimal l
+independent across
+message size
+given non
+j within
+unreliable failure
+non faulty member
+case network load
+worst case network
+sub optimality factor
+failure detector algorithm
+non faulty group
+faulty group member
+failure detector protocol
+new failure detector
+network load imposed
+distributed failure detector
+faulty member m
+member m j
+m i m
+m j pr
+j pr message
+optimal worst case
+every t time
+network load l
+values of pf
+group size n
+distributed heartbeating schemes
+next t time
+traditional distributed heartbeating
+randomized failure detector
+completeness and accuracy
+within the next
+application defined constraints
+qf q 4
+new randomized failure
+detected as failed
+cient failure detectors
+log 1 qf
+speed accuracy requirements
+expected load per
+g pf pml
+group member m
+equal expected load
+distributed failure detectors
+non faulty members
+e cient failure
+messages per second
+ack mm m
+q f log
+satisfies the completeness
+constraints of completeness
+algorithm that imposes
+f log 1
+randomized distributed failure
+ml e q
+properties of failure
+p m ml
+sub optimality factors
+e q f
+ping m j
+pm t ml
+group member failure
+distributed heartbeating failure
+load in messages
+heartbeating failure detection
+faulty group members
+imposes an equal
+values of pml
+completeness speed accuracy
+log p ml
+member m l
+pf and pml
+f pf pml
+failure detection times
+pm t log
+application specified requirements
+process failure rates
+m j within
+steps 1 6
+failure detection service
+failure detector algorithms
+given non faulty
+unreliable failure detectors
+worst case message

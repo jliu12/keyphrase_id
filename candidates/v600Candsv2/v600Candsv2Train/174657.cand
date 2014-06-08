@@ -1,0 +1,335 @@
+cue
+lag
+writer
+reader
+seq
+rr
+atomic
+wr
+alt
+register
+precedes
+obligation
+read
+readers
+writes
+rw
+false
+valtype
+registers
+precedence
+cued
+assertion
+event
+uncertainty
+contrapositive
+old
+reads
+fby
+interval
+appearing
+falsify
+lemma
+oe
+correctness
+lemmas
+wait
+concurrent
+history
+multireader
+establishes
+ws
+lamport
+statement
+fdefinition
+linearizability
+proximity
+precede
+od
+elusive
+construction
+prior
+events
+assertions
+safe
+write
+integrity
+peterson
+iff
+vitnyi
+dispose
+phi
+constructions
+conflicts
+disjunct
+predicate
+shared
+determines
+shorthand
+sm
+return
+returns
+determinesg
+appendixg
+hread
+tautology
+inductive
+meets
+jacm
+rs
+atomicity
+tromp
+transitivity
+remainder
+bits
+consequent
+invariant
+var
+histories
+assigns
+constructing
+bit
+predecessor
+irreflexive
+executing
+consequently
+indices
+initialization
+returned
+informal
+pass
+appendix
+operation
+proofs
+interleavings
+serializability
+consecutive
+patience
+relates
+val
+modulo
+paul
+concurrently
+axioms
+revisited
+enabled
+obligations
+distinguishes
+reading
+myampersandldquo
+former
+equals
+misra
+asynchronous
+loop
+writers
+binding
+declared
+numbered
+historyg
+flemmas
+nonatomic
+planting
+vidyasankar
+uncapitalized
+writersmyampersandrdquo
+rrtype
+fpredicate
+ftransitivity
+readersmyampersandrdquo
+otherwiseobserve
+juncture
+hwrite
+asymptotically
+predicates
+processes
+lengthy
+begun
+arise
+anderson
+informally
+varaibles
+ffrom
+papatriantafilou
+rida
+neiger
+philippas
+tsigas
+bazzi
+vitanyi
+invocations
+writing
+validity
+jik
+spinning
+inquire
+orli
+oeg
+virtue
+statements
+begin
+exclusion
+informed
+considers
+ith
+haldar
+merritt
+panconesi
+attie
+explanation
+waarts
+afek
+traceable
+taubenfeld
+cue w
+f lag
+write operation
+reader j
+r y
+uncertainty interval
+atomic register
+w determines
+x seq
+single reader
+state prior
+proof obligation
+value appearing
+y done
+atomic registers
+reader atomic
+read operation
+single writer
+m reader
+r precedes
+operation w
+determines r
+w seq
+operation r
+following assertion
+r writes
+wait free
+r p
+return y
+writer single
+oe r
+old conflicts
+multiple reader
+state u
+assertion holds
+new value
+w holds
+lag rr
+reader register
+reader registers
+w alt
+state following
+event r
+p 0
+k holds
+sequence number
+j holds
+assumption w
+r 5
+reader k
+returns valtype
+obligation 2
+y old
+initial write
+constructed register
+writer writes
+reader construction
+fby definition
+y seq
+rr k
+reader r
+p k
+w k
+r x
+seq 1
+read operations
+shared single
+safe bits
+reader safe
+event prior
+possibly falsify
+lag holds
+y alt
+true establishes
+read y
+y new
+shared variables
+w q
+old new
+bit atomic
+value new
+j f
+w l
+second pass
+proof assume
+w 1
+elusive atomic
+therefore w
+w at 4
+rr i j
+holds at state
+w after 4
+program for reader
+w after 1
+operation of reader
+appearing in rr
+holds at u
+r x seq
+w before 4
+w i j
+r p k
+write operation w
+lag is false
+determines r y
+j at state
+cue w k
+contrapositive of lemma
+w determines r
+single writer single
+cue w holds
+j f lag
+cue w l
+writer single reader
+following assertion holds
+seq i 6
+r 5 j
+k i holds
+new then old
+definition of p
+j is false
+y is determined
+writes the value
+show that cue
+proof of precedence
+r y done
+r of reader
+r f lag
+r 2 k
+p k holds
+oe r 1
+definition of oe
+reader atomic register
+proof obligation 2
+done is false
+implies that r
+reader safe bits
+return y new
+determines s y
+event r 2
+interval of w
+m reader register
+else return y
+return the new
+return y old
+shared single writer
+register from single
+initial write operation
+single reader safe
+multiple reader atomic
+reader atomic registers
+f lag holds
+r p 0

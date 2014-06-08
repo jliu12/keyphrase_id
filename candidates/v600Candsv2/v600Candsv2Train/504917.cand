@@ -1,0 +1,361 @@
+prefetching
+register
+bus
+wrapper
+core
+prefetch
+cores
+registers
+pvci
+bw
+prefetched
+internals
+codec
+noti
+peripheral
+age
+priority
+ocb
+ccd
+deadline
+wrappers
+read
+internal
+vci
+status
+gates
+consumption
+energy
+pfu
+cation
+lysecky
+vol
+schedule
+update
+md
+camera
+monotonic
+stat
+synopsys
+pf
+vahid
+cycles
+dependency
+singly
+adjust
+writes
+updated
+chip
+schedulability
+automation
+electronic
+interface
+rst
+volatile
+wellings
+bws
+fifo
+dependencies
+utilization
+strobes
+wrp
+heuristics
+access
+arcs
+speci
+chart
+controller
+transitions
+heuristic
+standardizing
+scheduling
+executive
+transition
+constraint
+nement
+microwatts
+util
+guration
+petri
+vhdl
+res
+socket
+ns
+assignment
+burns
+cycle
+retarget
+rdy
+ci
+prefetches
+scheduled
+preprocessor
+overhead
+sporadic
+priorities
+heap
+synthesis
+ag
+ned
+power
+bias
+retargeting
+interfacing
+digital
+prototyping
+nj
+request
+xed
+write
+penalty
+vi
+structured
+summarizes
+externally
+response
+simpli
+uart
+strobing
+vsi
+rtpf
+vsia
+inventra
+frame
+association
+ed
+wr
+reads
+external
+incoming
+updates
+highest
+minor
+attributes
+converter
+rd
+buffer
+decompressor
+peripherals
+period
+master
+usefulness
+codesign
+synthesizable
+refreshing
+gurations
+integrated
+go
+protocol
+mentor
+buses
+wires
+strobe
+compressor
+nes
+ri
+embedded
+penalties
+con
+bridge
+rate
+eliminate
+tradeoff
+fig
+initiated
+outgoing
+custom
+acceptable
+signi
+idle
+internally
+accessed
+dma
+cs
+accommodate
+modi
+miss
+architecture
+respond
+di
+cyclic
+analog
+addr
+random
+requests
+classi
+asserting
+arbitration
+ages
+hours
+bus wrapper
+update dependency
+time prefetching
+three cores
+register age
+vol 7
+status register
+improved bus
+wrapper performance
+age constraint
+internal bus
+noti cation
+priority assignment
+access time
+monotonic priority
+prefetch unit
+core internals
+bus wrappers
+digital camera
+prefetch register
+prefetch registers
+register set
+energy consumption
+data register
+dependency model
+systems vol
+chip bus
+real time
+internal behavior
+prefetching heuristic
+random transitions
+singly structured
+bw w
+non pvci
+peripheral bus
+electronic systems
+january 2002
+w bw
+dependency prefetching
+core internal
+time constraint
+without prefetching
+age constraints
+pvci wrapper
+design automation
+deadline monotonic
+register access
+rate monotonic
+random transition
+minor cycle
+internal register
+based schedulability
+volatile update
+w o
+utilization based
+o access
+data output
+schedulability test
+incoming random
+virtual socket
+codec cores
+wellings 1997
+interface association
+update dependencies
+performance penalty
+response time
+table vi
+internal registers
+interface behavior
+synopsys design
+w pf
+adjust core
+general register
+register d
+o bw
+o pf
+register heap
+updated randomly
+ag noti
+design compiler
+wrapper version
+size overhead
+register d0
+output register
+prefetching algorithm
+register update
+register based
+socket interface
+register data
+three registers
+prefetching technique
+prefetching problem
+real time prefetching
+core s internal
+systems vol 7
+improved bus wrapper
+prefetching for improved
+bus wrapper performance
+electronic systems vol
+monotonic priority assignment
+access time constraint
+update dependency model
+automation of electronic
+transactions on design
+register age constraint
+january 2002 prefetching
+w bw w
+update dependency prefetching
+deadline monotonic priority
+access no noti
+lysecky and vahid
+cation and singly
+register is updated
+rate monotonic priority
+read only access
+based schedulability test
+utilization based schedulability
+read the core
+chart in figure
+register access time
+socket interface association
+data output register
+virtual socket interface
+ccd and codec
+core internal bus
+core s internals
+size and power
+register age constraints
+burns and wellings
+w o pf
+bus wrapper without
+response time analysis
+prefetch register heap
+figure 12 summarizes
+register update dependency
+bw w pf
+w o bw
+heuristics and analysis
+time process scheduling
+bw w o
+incoming random transitions
+ag noti cation
+synopsys design compiler
+non pvci wrapper
+data input register
+wrapper without prefetching
+registers with incoming
+real time scheduling
+figure 8 summarizes
+using a bus
+number of cycles
+using real time
+must be prefetched
+highest to lowest
+real time process
+equal to 1
+registers gcd1 gcd2
+cyclic executive approach
+impact of prefetching
+one random transition
+possible types including
+go is equal
+structured we refer
+bws without prefetching
+read write access
+codec and fifo
+core s registers
+registers many cores
+using our real
+bw a bus
+contains three registers
+pvci wrapper version

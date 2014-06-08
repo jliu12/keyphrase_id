@@ -1,0 +1,370 @@
+races
+race
+cvm
+instrumentation
+bitmaps
+accesses
+batching
+barrier
+lrc
+intervals
+synchronization
+barnes
+instructions
+shared
+inlining
+diffs
+water
+release
+bitmap
+page
+instrumented
+runtime
+interval
+slowdown
+detection
+rolt
+notices
+sharing
+pages
+barriers
+epoch
+treadmarks
+optimizations
+acquire
+atom
+overhead
+consistency
+instrument
+concurrent
+mortem
+sor
+fly
+comparisons
+fft
+register
+writer
+registers
+lazy
+lock
+false
+access
+oe
+spatial
+apps
+protocol
+read
+acquires
+memory
+accessed
+replay
+statically
+ordering
+stack
+debugging
+calls
+dsm
+diff
+loads
+releases
+modifications
+eraser
+mods
+inlined
+adve
+master
+erc
+instruction
+threaded
+eliminate
+df
+routines
+peer
+saved
+modification
+mols
+instrumentations
+nonetheless
+wrappers
+cloning
+stores
+routine
+checks
+allocated
+liveness
+private
+trace
+splash
+etch
+recplay
+locations
+constitute
+sync
+interleaving
+references
+dataflow
+messages
+iters
+incoming
+detecting
+netzer
+segment
+inline
+libraries
+base
+uninstrumented
+unsynchronized
+tracing
+bugs
+suite
+twin
+pointers
+eliminated
+programs
+majority
+events
+overlapping
+offending
+compiler
+created
+overheads
+library
+lazily
+detect
+detector
+reference
+reveal
+pointer
+processor
+enforce
+protocols
+orig
+word
+executions
+post
+reorganization
+synchronizes
+arrival
+bodies
+five
+overwriting
+prints
+proc
+store
+conflicting
+coherent
+inst
+load
+write
+positives
+synchronizations
+overlap
+mod
+lamport
+located
+overwrite
+perturb
+bandwidth
+appending
+processes
+augmented
+potentially
+grained
+anomaly
+flow
+intervening
+usenix
+alpha
+logs
+code
+percentage
+saving
+infrequently
+detected
+eliminationof
+toleration
+data race
+data races
+race detection
+shared memory
+shared accesses
+false sharing
+concurrent intervals
+comparison algorithm
+code modification
+interval pairs
+shared data
+second run
+write notices
+runtime code
+barrier epoch
+interval comparison
+synchronization ordering
+oe 1
+ordering information
+consistency information
+non shared
+initial run
+barrier master
+access check
+lazy release
+oe 2
+page x
+instrumentation code
+detecting data
+read notices
+interval structures
+access checks
+release consistency
+post mortem
+memory accesses
+global synchronization
+detection technique
+code mod
+bitmap comparison
+concurrent interval
+rolt approach
+per barrier
+overlapping pages
+synchronization messages
+threaded programs
+memory programs
+procedure call
+check list
+mortem analysis
+analysis routine
+data flow
+true sharing
+statically allocated
+writer protocol
+interval oe
+multi threaded
+intervals access
+instrumented instructions
+instrumentation consists
+use atom
+detect races
+lrc system
+interval comparisons
+proc call
+computation events
+interval pair
+five common
+df batching
+cvm mods
+ffl batching
+x 1
+store instructions
+distributed shared
+long running
+register liveness
+average slowdown
+interval per
+access instructions
+op instructions
+text segment
+parallel shared
+write notice
+access shared
+one interval
+basic technique
+memory location
+liveness analysis
+race exists
+execution replay
+reference type
+overhead added
+multi writer
+synchronization accesses
+program order
+memory applications
+running applications
+software distributed
+pages accessed
+flow analysis
+would reveal
+synchronization points
+shared access
+compiler support
+single writer
+release consistent
+stack pointer
+data race detection
+runtime code modification
+number of intervals
+oe 1 2
+interval comparison algorithm
+shared memory accesses
+race detection technique
+lazy release consistency
+oe 2 1
+detecting data races
+multi threaded programs
+read and write
+interleaving of shared
+batching of accesses
+synchronization ordering information
+oe 1 1
+non shared data
+loads and stores
+shared memory programs
+load and store
+top of cvm
+post mortem analysis
+shared and non
+concurrent interval pairs
+explicitly parallel shared
+constitute a data
+accesses and synchronization
+version of atom
+race detection algorithm
+pairs of concurrent
+pair of concurrent
+races in three
+lists of pages
+shows the effect
+distributed shared memory
+oe 2 2
+data race exists
+instructions that access
+parallel shared memory
+version of barnes
+acquires and releases
+memory access instructions
+data flow analysis
+overhead is still
+shared memory applications
+software distributed shared
+number of comparisons
+access both shared
+multi writer protocol
+mod df batching
+race detection schemes
+flow batching code
+minimal overhead ensuring
+ordering information saved
+access check overhead
+reconstruction of lamport
+page access lists
+include an initial
+release consistency lazy
+able to statically
+possible interval pairs
+incoming register sets
+phase allowing us
+wrappers around synchronization
+running barrier free
+page and y
+data race detector
+interval per barrier
+spatial water slowdown
+correctly found races
+instructions access data
+fft sor spatial
+constitute a race
+consistency lazy release
+version of cvm
+per barrier epoch
+notice for page
+statically allocated data
+number of instrumented

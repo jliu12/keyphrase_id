@@ -1,0 +1,270 @@
+lapack
+blas
+compiler
+factorization
+qr
+factorizations
+lu
+kk
+cache
+cblk
+lamf
+cholesky
+lablk
+blockable
+cmf
+dependence
+pivoting
+loop
+power2
+sgi
+subprograms
+jam
+gemm
+matrix
+hp
+dec
+strip
+unroll
+blockability
+compilers
+blocking
+pipelining
+optimized
+indigo2
+300x300
+algebra
+block
+interchange
+enddo
+50x50
+phipac
+ibm
+loops
+accessed
+mine
+fortran
+kennedy
+reflectors
+100x100
+cd
+dense
+alpha
+ken
+frens
+transformations
+matrices
+quadtree
+recurrence
+derivable
+imax
+200x200
+speedup
+nest
+interprocedural
+vectorizing
+surrounds
+statement
+dgemm
+triangular
+712
+portion
+floating
+portable
+eliminator
+labk
+loan
+hierarchy
+carr
+update
+f77
+25x25
+interchanges
+tuned
+qing
+mateev
+blas3
+500x500
+vendor
+elementary
+statements
+the lapack
+the compiler
+compiler derived
+lapack version
+derived algorithm
+lu factorization
+matrix factorizations
+the kk
+kk loop
+matrix sizes
+section analysis
+qr factorization
+statement 10
+lapack algorithm
+cblk cmf
+lamf cblk
+cmf speedup
+3 blas
+linear algebra
+the blas
+block algorithm
+software pipelining
+the block
+cache performance
+point algorithm
+ibm power2
+lablk lamf
+derived version
+cd qr
+cholesky factorization
+level 3
+and jam
+unroll and
+algebra subprograms
+in statement
+the lu
+hand optimized
+basic linear
+i loop
+i kk
+strip mine
+mine and
+the level
+the cache
+and sgi
+hand optimization
+set splitting
+block qr
+blockability of
+of lu
+the matrix
+level cache
+carried by
+compiler to
+the hand
+lu decomposition
+commercial compilers
+the ibm
+accessed by
+block matrix
+cholesky factorizations
+dec and
+surrounding statement
+not blockable
+elementary reflectors
+column updates
+section accessed
+hp dec
+size lablk
+statement 20
+and cholesky
+and interchange
+index set
+the loop
+a compiler
+the cholesky
+pattern as
+the hp
+to block
+dense matrix
+matrix size
+iteration space
+update portion
+28 10
+both statements
+gemm based
+a accessed
+compiler can
+version on
+a i
+the compiler derived
+the lapack version
+compiler derived algorithm
+the kk loop
+the lapack algorithm
+cblk cmf speedup
+lamf cblk cmf
+level 3 blas
+the ibm power2
+compiler derived version
+lablk lamf cblk
+the point algorithm
+linear algebra subprograms
+accessed by a
+the i loop
+unroll and jam
+block matrix factorizations
+basic linear algebra
+mine and interchange
+index set splitting
+to block matrix
+dec and sgi
+strip mine and
+the level 3
+the level 2
+a i j
+j in statement
+of the lapack
+carried by the
+the qr factorization
+a k j
+terms of calls
+the point version
+than the lapack
+is not blockable
+size lablk lamf
+the block version
+dense matrix factorizations
+surrounding statement 10
+in statement 10
+hp dec and
+lapack version on
+the section accessed
+update portion of
+section accessed by
+dependence from a
+and cholesky factorizations
+version of lu
+of the blas
+the hand optimized
+for the lu
+of the compiler
+floating point operations
+the compiler to
+same pattern as
+by the compiler
+portion of the
+linear algebra computations
+of lu factorization
+the j loop
+levels of cache
+kk loop to
+derived algorithm s
+true dependence from
+derived version of
+versions of matrix
+algorithm for qr
+our compiler derived
+i kk in
+a i kk
+around the loop
+in statement 20
+the update portion
+the dependence cycle
+highly tuned blas
+of matrix factorizations
+100x100 200x200 300x300
+kk in statement
+performance on ibm
+matrix factorization codes
+of the matrix
+the cholesky factorization
+the matrix size
+from a i
+for the compiler
+the lu factorization
+a j i
+for the lapack
+algorithms for dense
+matrix sizes the

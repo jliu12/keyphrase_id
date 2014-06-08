@@ -1,0 +1,403 @@
+slap
+dft
+uh
+image
+scan
+hulls
+pixel
+processor
+convolution
+hull
+idft
+tangent
+pixels
+array
+jbj
+slope
+candidate
+simd
+median
+processors
+subimages
+label
+extreme
+shrinking
+subsequence
+convex
+shuffled
+histogram
+dct
+pass
+theta
+log
+monotonically
+njbj
+template
+filtering
+columns
+preprocessing
+labels
+merging
+segment
+latency
+2d
+pa
+completed
+pipelining
+row
+projection
+sweeps
+intermediate
+window
+pyramidal
+lie
+mimd
+subsequences
+papia
+dpb
+netra
+psubimages
+sarnoff
+pw
+jaj
+conquer
+block
+perpendicular
+sweep
+pb
+dfts
+gam
+divide
+neighbors
+mesh
+column
+coordinates
+drawn
+maspar
+architecture
+asp
+statistic
+angle
+passes
+indexed
+mod
+steeper
+across
+rm
+engine
+translation
+bandwidth
+massively
+circular
+hough
+insures
+tasks
+kernel
+padded
+broadcasts
+princeton
+merge
+df
+predecessor
+labelling
+pad
+connected
+stream
+fp
+blocks
+succeeding
+geometric
+accomplished
+examines
+pyramid
+divides
+successor
+pl
+multiplication
+clipp
+okazaki
+sanso
+arai
+reyneri
+shorin
+iua
+gapp
+tamio
+th
+expanding
+repetitions
+favorably
+received
+decreasing
+matching
+neighborhoods
+demanding
+queue
+expansion
+centered
+disadvantage
+passing
+architectures
+lfloor
+rfloor
+digitalized
+progressively
+polygon
+draws
+spans
+governed
+microcomputer
+kyo
+ichiro
+repectively
+gregoretti
+analogous
+transform
+lies
+recursively
+dap
+compensations
+hdtv
+passerone
+relocates
+concatenations
+develop
+connecting
+labelled
+surrounding
+arrays
+positions
+carrying
+shift
+recurrence
+overlapping
+eliminating
+belong
+elaborate
+mpp
+interconnection
+fourier
+labeled
+identically
+clarity
+omega
+handwriting
+uppermost
+insuring
+convolve
+unconnected
+sorting
+pictured
+frames
+respective
+outputs
+ffi
+scan line
+m operations
+processor p
+per scan
+input image
+o n
+p k
+o m
+p p
+image x
+uh 1
+extreme points
+n theta
+intermediate level
+theta n
+uh 2
+operations per
+candidate point
+n time
+right pass
+p l
+theta m
+upper hulls
+image processing
+processor array
+candidate points
+upper hull
+line array
+2d dft
+real time
+scan lines
+level image
+convex hulls
+m theta
+block dft
+two subimages
+n image
+median filtering
+line segment
+level operations
+n log
+pixel j
+n processors
+connected components
+log n
+x 00
+major distribution
+pass across
+dft x
+size n
+gamma 1
+per processor
+shuffled row
+tangent p
+columns n
+m c
+m time
+array processor
+column per
+n input
+template matching
+n labels
+size m
+n gamma
+m scan
+point pa
+left pass
+jbj columns
+tangent drawn
+circular convolution
+pa must
+linear array
+must lie
+distributed one
+segment p
+output image
+m step
+m gamma
+mod m
+j k
+log m
+angle formed
+convex hull
+log 2
+theorem theorem
+m blocks
+one column
+row major
+almost real
+subimages x
+level tasks
+histogram computation
+step shrinking
+previous left
+queue k
+labeled sets
+possible pixel
+statistic tree
+time image
+o log
+l g
+also develop
+points p
+global communication
+k broadcasts
+kernel w
+p u
+running time
+pixel values
+low level
+monotonically increasing
+p b
+m log
+possible labels
+image y
+columns 0
+points fp
+order statistic
+jbj n
+processor p k
+p p l
+per scan line
+o m operations
+operations per scan
+m operations per
+n theta n
+slap with n
+input image x
+across the processor
+image of size
+m theta m
+size n theta
+scan line array
+level image processing
+n input image
+given a slap
+o n log
+theta n input
+theta n image
+size m theta
+p l g
+low and intermediate
+n log 2
+left to right
+distributed one column
+intermediate level operations
+row major distribution
+tangent p p
+intermediate level image
+dft x 00
+o n labels
+o n time
+line segment p
+column per processor
+line array processor
+shuffled row major
+m gamma 1
+one column per
+log 2 n
+n gamma 1
+cost of o
+x j k
+projection of p
+right to left
+one of o
+half the slope
+k m c
+time image processing
+n through n
+b k m
+m scan lines
+candidate point p
+theta m blocks
+following theorem theorem
+determine the extreme
+consists of columns
+p a p
+rate of o
+p u p
+m log m
+o m log
+o log n
+u p v
+n log n
+completed in o
+real time image
+time each processor
+p l p
+p k broadcasts
+point pa must
+order statistic tree
+k mod m
+pa must lie
+l g must
+log m operations
+segment p p
+o n possible
+almost real time
+shrinking and expanding
+idft of dft
+two subimages x
+intermediate level tasks
+mod m th
+subimages x 1
+along the coordinates
+pixel x j
+p l f
+c theta m
+m c theta

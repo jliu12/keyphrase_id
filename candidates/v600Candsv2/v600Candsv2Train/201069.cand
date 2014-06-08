@@ -1,0 +1,366 @@
+tla
+specifications
+pi
+qm
+composition
+lamport
+gcd
+queue
+ack
+noninterleaving
+specification
+interleaving
+qe
+abadi
+snd
+asserts
+dbl
+safety
+conjoining
+init
+proposition
+formula
+fairness
+wf
+reasoning
+conjunction
+proving
+implements
+var
+sig
+cdq
+hypotheses
+guarantee
+vol
+cq
+channel
+action
+iff
+tuple
+temporal
+endloop
+environment
+verification
+equals
+henzinger
+cobegin
+formulas
+kurshan
+queues
+leslie
+coend
+subaction
+hypothesis
+hm
+decomposition
+actions
+mart
+enq
+hi
+logic
+refinement
+qadeer
+vali
+shaz
+deq
+concurrent
+rajamani
+xi
+enabled
+cinit
+alur
+internal
+composing
+qi
+sriram
+decomposing
+nm
+val
+modular
+simultaneous
+deduce
+oe
+hiding
+propositions
+closure
+liveness
+receipt
+languages
+verifying
+universe
+closures
+primed
+delta
+implication
+quantifiers
+proofs
+multiplier
+deqenq
+icdq
+disjointness
+false
+predicate
+representations
+hc
+plotkin
+unchanged
+acknowledges
+disallowed
+antee
+grosu
+sf
+ae
+operators
+icq
+zave
+composite
+sigplan
+ai
+disjunction
+tuples
+canonical
+semantically
+alpern
+thomas
+guar
+mead
+lacked
+conjoined
+hierarchic
+specifying
+ha
+wrote
+orthogonality
+pnueli
+decomposed
+enclose
+fei
+outputs
+merz
+radu
+gunter
+marc
+assert
+behaviors
+deducing
+conway
+satisfies
+writing
+fig
+shao
+gamma
+improper
+circularity
+loop
+games
+circuit
+toy
+brackets
+violated
+processes
+hr
+handshake
+schneider
+shapiro
+complementing
+reactive
+unity
+notices
+correctness
+history
+ti
+component
+jackson
+hoare
+xie
+mention
+hs
+hx
+stephan
+violate
+york
+verify
+constrain
+initially
+informal
+closed
+zhong
+simultaneously
+assumption guarantee
+m l
+pi l
+gamma m
+process pi
+complete system
+conjoining specifications
+composition theorem
+specifications delta
+interleaving representation
+guarantee specifications
+decomposition theorem
+output variables
+o ack
+vol 17
+safety property
+specification m
+guarantee specification
+gamma qm
+may 1995
+c m
+m b
+simultaneous changes
+l b
+safety properties
+systems vol
+machine closed
+pi b
+m gcd
+internal variables
+init 2
+state action
+environment assumption
+gcd example
+component specifications
+tla formula
+qm dbl
+lamport 1994
+program gcd
+lamport 1991
+lamport 1993
+o snd
+behavior oe
+hm xi
+fairness conditions
+loop h
+input var
+element queue
+state function
+programming languages
+hi o
+qe dbl
+l implements
+o qi
+delta mart
+noninterleaving representation
+output var
+qm 1
+noninterleaving representations
+two queues
+leslie lamport
+stage n
+gamma gamma
+next state
+temporal logic
+proposition 1
+processes pi
+m 0
+pi d
+assumption e
+c e
+formula f
+tla formulas
+interleaving representations
+implementation proof
+interleaving specifications
+ack o
+snd o
+guarantees m
+hypothesis asserts
+conditional implementation
+formula m
+acm transactions
+e gamma
+theta theta
+e v
+low level
+assuming m
+l implies
+formula gamma
+pi c
+c ack
+channel o
+internal variable
+action n
+m 1
+m holds
+third hypothesis
+environment satisfies
+use proposition
+level system
+proposition 2
+lower level
+first hypothesis
+shaz qadeer
+k rajamani
+sriram k
+satisfies e
+conjoining specifications delta
+systems vol 17
+assumption guarantee specifications
+abadi and lamport
+m l b
+assumption guarantee specification
+next state action
+m 0 d
+init 2 n
+transactions on programming
+languages and systems
+may 1995 conjoining
+pi l b
+e and m
+thomas a henzinger
+gamma gamma m
+abadi and leslie
+states of oe
+step that changes
+hi o qi
+m a m
+tuple of variables
+theorem of section
+mart in abadi
+process pi l
+m l implements
+m l implies
+component s output
+composition is conjunction
+state function v
+formula gamma m
+steps that change
+specification m l
+behavior oe iff
+kurshan and lamport
+e gamma m
+c m l
+m l m
+gamma m equals
+sriram k rajamani
+m is true
+abadi and plotkin
+change the component
+shaz qadeer sriram
+wrote assumption guarantee
+e d proof
+l is machine
+gamma qm 1
+first n states
+snd and o
+strong composition theorem
+hc sig c
+e of input
+deduce m l
+wf hi o
+state action n
+process pi d
+qadeer sriram k
+equals c e
+composition of assumption
+var a initially
+oe i snd
+queue s environment
+o snd o
+gamma qm dbl
+m of output
+asserts that c
+snd o ack
+snd i ack
+general decomposition theorem

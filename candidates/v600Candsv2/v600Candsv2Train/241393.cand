@@ -1,0 +1,380 @@
+bdm
+processor
+sort
+tcomm
+sorting
+transposition
+processors
+cn
+broadcasting
+communication
+submatrices
+log
+balancing
+remote
+shear
+pm
+routing
+array
+rotate
+fft
+postal
+slice
+dft
+destined
+latency
+broadcast
+downwards
+unblock
+logp
+ffg
+read
+jth
+prefetch
+twiddle
+locality
+reads
+multiplication
+randomized
+sorted
+packet
+column
+permutations
+substep
+rows
+dirty
+matrix
+subarray
+layout
+pram
+load
+pipelined
+divides
+minf
+rotatesort
+pivot
+permutation
+item
+locations
+em
+completed
+fourier
+columns
+radix
+balls
+prefetching
+consecutive
+probability
+sorts
+sortings
+rounds
+moe
+modp
+stored
+synchronization
+memory
+bridging
+lemma
+barriers
+round
+barrier
+sample
+ary
+interconnection
+comp
+mesh
+phases
+ln
+elementwise
+movement
+hiding
+grand
+resides
+row
+accessing
+routed
+keys
+copied
+block
+slot
+samples
+rearrangement
+spatial
+theta
+remark
+bins
+issued
+message
+architectures
+multiprocessors
+balance
+accesses
+tiplication
+helman
+telle
+ffproof
+pproof
+ganization
+essadi
+dcm
+gebremedhin
+hadish
+assefaw
+ksri
+holding
+distributes
+incurred
+layouts
+binomial
+dlog
+interprocessor
+corollary
+pe
+km
+normalize
+passing
+shared
+gurin
+lassous
+slices
+placement
+request
+matrices
+bandwidth
+items
+bin
+held
+requesting
+incorporating
+distributing
+guaranteeing
+gustedt
+arne
+hypercube
+major
+transpose
+transform
+memories
+submatrix
+reflecting
+mergesort
+mpps
+median
+supposed
+cm
+ranking
+bader
+circulate
+rearrangements
+viewed
+handling
+completion
+ffts
+pth
+distribute
+relocated
+ram
+substeps
+leap
+evenly
+destination
+exceptions
+numbered
+machines
+ffn
+padua
+transposing
+scalability
+circular
+bsp
+isabelle
+repeat
+pi
+transpositions
+hierarchy
+phase
+communication time
+bdm model
+n elements
+processor bdm
+processor p
+matrix transposition
+sort algorithm
+sample sort
+log p
+column sort
+p processor
+d log
+p processors
+n p
+p elements
+order form
+theta p
+computation time
+p log
+major order
+p communication
+columns downwards
+rotate sort
+randomized routing
+parallel algorithms
+load balancing
+o n
+transposition algorithm
+single address
+column major
+matrix multiplication
+n 6p
+pipelined prefetching
+sorting fft
+prefetch read
+jth slice
+broadcasting algorithm
+divides n
+high probability
+distributed memory
+simple permutations
+lemma 3
+log n
+log e
+n log
+algorithm described
+parameter m
+e communication
+block distributed
+resulting communication
+p theta
+computation model
+complexity bounds
+input array
+synchronization barrier
+theorem theorem
+log k
+remote memory
+cn elements
+dirty columns
+cn balls
+pm e
+bdm machine
+factor scaling
+time tcomm
+memory bdm
+communication complexity
+shared memory
+p p
+radix sort
+simple permutation
+constant larger
+spatial locality
+single processor
+total communication
+postal model
+real machines
+twiddle factor
+fft computation
+read operations
+theta n
+address space
+local memory
+remote location
+output array
+cost measure
+step 7
+m elements
+size p
+fourier transform
+local computation
+initially stored
+following theorem
+overall strategy
+data movement
+n computation
+fast fourier
+memory latency
+remaining processors
+balancing problem
+consecutive rows
+bridging model
+size n
+sorting algorithms
+w n
+k ary
+follows 2
+communication bandwidth
+q p
+step 5
+ln n
+balancing algorithm
+remote data
+achieve optimal
+p matrix
+theorem 3
+p processor bdm
+d log p
+log p log
+array a 0
+major order form
+column sort algorithm
+log k 1
+n p elements
+sorted in column
+p communication time
+matrix transposition algorithm
+log p communication
+column major order
+o n log
+e communication time
+p log e
+prefetch read operations
+block distributed memory
+fft and matrix
+single address space
+n log n
+p theta p
+following theorem theorem
+theorem theorem 5
+p 1 3
+optimal or near
+n 6p 2
+begin each processor
+distributed memory bdm
+log e communication
+twiddle factor scaling
+larger than maxf1
+sample sort algorithm
+communication time tcomm
+p i j
+using the matrix
+processor p j
+time by using
+n computation time
+amount of communication
+q theta p
+p i reads
+total communication time
+given a p
+theta p matrix
+elements are stored
+lemma 3 3
+fast fourier transform
+show the following
+described in theorem
+load balancing problem
+time with high
+done in o
+load balancing algorithm
+n theta n
+described in lemma
+size n theta
+algorithms achieve optimal
+k is increasing
+memory bdm model
+optimal communication complexity
+remark this step
+various data rearrangement
+sort see e
+ary balanced tree
+read n elements
+p log pm
+read by processor
+data rearrangement problems

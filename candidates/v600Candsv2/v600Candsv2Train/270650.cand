@@ -1,0 +1,392 @@
+chorin
+alternating
+pressure
+boundary
+projection
+stokes
+layer
+incompressible
+errors
+layers
+parasitic
+divergence
+regularized
+navier
+gradient
+expansion
+viscous
+velocities
+modes
+expansions
+tangential
+incompressibility
+differencing
+pure
+velocity
+discrete
+discretization
+smooth
+centered
+uncoupled
+stencil
+convergence
+regular
+spatially
+grid
+regularizations
+equations
+numerical
+walls
+subgrids
+compatible
+pressures
+deltau
+interior
+rq
+asymptotic
+stencils
+ih
+vertical
+regularization
+split
+neumann
+stability
+error
+jh
+fluid
+acting
+fields
+stepping
+rp
+ryabenki
+spectal
+poiseuille
+horizontal
+decoupled
+nk
+corrections
+corollary
+adjoint
+flow
+mismatch
+pointwise
+spacing
+wall
+verifies
+dirichlet
+lemmas
+lemma
+laplacian
+action
+delta
+boundaries
+contour
+fourthly
+jagged
+fogelson
+weinan
+unsplit
+gradients
+solvable
+modern
+brackets
+diffusion
+dominate
+compatibility
+deltaq
+simplified
+null
+effects
+multiplication
+amplifies
+highest
+convenient
+godunov
+rigorous
+perturbation
+scalar
+fully
+suppresses
+computationally
+vorticity
+technical
+normalized
+asymptotically
+increment
+orthogonally
+nonhomogeneous
+checkerboard
+operator
+approximates
+enter
+staggered
+divide
+regularizing
+picture
+kinematic
+historically
+dominated
+implicitly
+approximations
+dominant
+approximate
+suppression
+accuracy
+viscosity
+marker
+thirdly
+fourth
+trapezoidal
+adi
+periodic
+dynamics
+midpoint
+homogeneous
+cell
+integrable
+believes
+alternates
+guy
+aaron
+sign
+channel
+refined
+2d
+kp
+liu
+shrink
+suppressed
+convection
+fig
+laid
+confined
+ago
+quantity
+near
+tour
+communities
+reciprocal
+mac
+guo
+converges
+artificial
+missing
+primes
+suppress
+horizontally
+omit
+bringing
+illustrative
+neglected
+relationships
+understood
+listed
+derivation
+jian
+shorthand
+derive
+intermediate
+degraded
+width
+spatial
+incompatible
+reader
+discretizations
+cancel
+field
+boundary layer
+alternating errors
+boundary layers
+projection step
+numerical boundary
+error expansion
+alternating terms
+stokes equations
+regular errors
+boundary conditions
+pure gradient
+second order
+divergence free
+o h
+computed pressure
+g h
+p h
+split step
+navier stokes
+d h
+discrete projection
+pressure errors
+computed velocities
+parasitic modes
+projection method
+viscous incompressible
+regularized scheme
+error terms
+incompressibility condition
+centered differencing
+incompressible navier
+incompressible flow
+third order
+error analysis
+u p
+fully discrete
+highest order
+q 2
+interior equations
+velocities w
+alternating error
+chorin 3
+fully regularized
+original fully
+gradient fields
+tangential boundary
+four null
+layer 14
+order alternating
+computational results
+normal boundary
+like multiplication
+discrete divergence
+projection operator
+lemma 1
+u 2
+order numerical
+layer due
+vertical boundary
+asymptotic error
+original scheme
+u 3
+following error
+discrete equations
+h p
+precise description
+first order
+h delta
+projection methods
+d u
+global error
+equations 13
+errors e
+gradient field
+alternating term
+jh nk
+term described
+pointwise pressure
+regularized d
+discrete pressure
+dominant boundary
+estimated convergence
+layer terms
+null modes
+free fields
+order reducing
+projection acting
+flow finite
+upper wall
+h global
+discrete setting
+reducing effects
+layers begin
+step projection
+increment scheme
+non split
+computing viscous
+regular error
+layer effects
+alternating modes
+normalized pointwise
+gradient part
+pressure increment
+h alternating
+spatially regularized
+convenient scaling
+four subgrids
+pure gradients
+scheme 18
+k relatively
+delta h
+finite difference
+order accurate
+o k
+fourth order
+free part
+continuous analysis
+layer errors
+error expansions
+approximate projection
+pressure equations
+order regular
+errors appear
+regularized projection
+scheme 42
+numerical boundary layers
+chorin s original
+navier stokes equations
+errors at second
+viscous incompressible flow
+d h delta
+incompressible navier stokes
+u 2 d
+h and g
+u p 2
+fully regularized scheme
+computed velocities w
+expansions for u
+regular and alternating
+original fully discrete
+numerical boundary layer
+order in h
+q 2 y
+boundary layer 14
+order numerical boundary
+second order numerical
+boundary layer due
+following error expansion
+layer is like
+expansion with regular
+discrete equations 13
+space and time
+u and p
+o h 2
+p n 1
+analysis for chorin
+o h global
+split step projection
+errors e p
+chorin s method
+non split step
+pressure increment scheme
+errors from chorin
+divergence free fields
+boundary layer terms
+vertical boundary layer
+order reducing effects
+computing viscous incompressible
+four null modes
+dominant boundary layer
+pointwise pressure errors
+free and gradient
+o h alternating
+h delta g
+chorin 3 proposed
+split step time
+determine q 2
+layers at first
+ih jh nk
+discrete projection acting
+normalized pointwise pressure
+rates in h
+scheme 42 43
+layers at third
+size o h
+boundary layer effects
+pressure errors e
+scheme 18 6
+o h p
+expansion for w
+global error due
+proposed a computationally
+scheme 10 12
+increment scheme 18
+tangential boundary conditions
+estimated convergence rates

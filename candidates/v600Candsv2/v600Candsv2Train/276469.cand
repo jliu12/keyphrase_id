@@ -1,0 +1,379 @@
+psitc
+newton
+timestep
+jacobian
+krylov
+ffi
+midrange
+nonlinear
+steady
+fffi
+inexact
+ser
+continuation
+keyes
+convergence
+ode
+transient
+euler
+pseudo
+defect
+timesteps
+iterate
+ptc
+tte
+terminal
+residual
+echet
+chord
+dae
+truncation
+unstructured
+discretization
+schwarz
+stagnate
+iteration
+phase
+lipschitz
+corrector
+jjf
+phases
+kaushik
+solver
+differential
+correction
+switchover
+navier
+fx
+cfd
+stokes
+jacobians
+preconditioning
+kf
+preconditioner
+airfoil
+icase
+gropp
+globalization
+aerodynamic
+fr
+kelley
+superlinear
+norm
+residuals
+inviscid
+inexactly
+solvers
+pde
+trajectory
+landing
+dinesh
+cfl
+upwind
+iterations
+ball
+sufficiently
+equations
+outset
+risks
+nonsingular
+grid
+dynamics
+cell
+discretized
+economical
+temporal
+physics
+conditioned
+cdrom
+incompressible
+subiteration
+curfman
+mcinnes
+subiterations
+pernice
+shamanskii
+vode
+lsode
+globalized
+mcmullan
+polyalgorithmic
+equilibrates
+momentary
+stumbles
+tidriri
+algebraic
+nasa
+updating
+stability
+volumes
+max
+radius
+item
+numerically
+ffl
+integrals
+polished
+logan
+odu
+shadid
+nondimensionalized
+fallen
+misled
+nagi
+refactor
+howle
+ivp
+retreats
+mcrae
+subsonic
+trust
+preconditioned
+quadratic
+inf
+diagonal
+root
+reevaluate
+hampton
+multicomponent
+grind
+tuminaro
+knoll
+coffey
+mesh
+attack
+minima
+termination
+practiced
+homer
+reassuring
+nance
+numerics
+dassl
+lois
+unprotected
+norfolk
+inversion
+predictor
+switched
+elliptic
+blocksize
+rosenbrock
+kek
+exogenous
+heats
+thoughtful
+chords
+fig
+matrix
+iterative
+dominion
+ncsu
+exhaustion
+transonic
+glitches
+organizers
+diffusive
+policy
+numerical
+fluid
+accurate
+update
+hybrid
+everywhere
+residence
+let assumption
+fffi n
+transient continuation
+pseudo transient
+n g
+steady state
+let fffi
+assumption 1
+hold let
+ffi max
+defect correction
+terminal phase
+assumption 2
+newton krylov
+fx n
+inexact newton
+pseudo timestep
+temporal truncation
+ffi n
+state solution
+initial phase
+ffl 3
+ffl 1
+nonlinear equations
+initial iterate
+physical transient
+e keyes
+midrange phase
+every timestep
+residual norm
+f 0
+krylov methods
+fr echet
+truncation error
+kf x
+radius ffl
+krylov schwarz
+hold assume
+differential algebraic
+newton step
+true jacobian
+linear convergence
+f x
+time step
+newton method
+order discretization
+x 2
+item 1
+unstructured grid
+stokes equations
+navier stokes
+sufficiently small
+ffi 0
+lemma 2
+euler code
+control volumes
+state residual
+pde structure
+timestep ffi
+k kaushik
+ode dae
+switched evolution
+four element
+d gropp
+iteration phases
+often stagnate
+standard globalization
+krylov vectors
+psitc iteration
+residual reduction
+globalization strategies
+inexact form
+relaxation ser
+chord method
+nonlinear defect
+convergence domain
+free newton
+evolution relaxation
+triangular cells
+landing configuration
+mesh cfd
+psitc technique
+q quadratic
+euler equations
+part 3
+newton iteration
+either 1
+accurate solution
+let ffi
+element airfoil
+large ffi
+newton convergence
+jacobian information
+allow ffi
+q linearly
+cfd application
+state form
+nonlinear residual
+fig 4
+initial value
+phase changes
+near field
+q factor
+convergence tolerance
+state solutions
+theorem 2
+cfl number
+far field
+equations iterative
+methods often
+matrix free
+x n
+value problems
+echet derivative
+additive schwarz
+scaling matrix
+physics v
+differential equations
+computational physics
+fffi n g
+assumption 1 1
+g be given
+assumption 2 1
+pseudo transient continuation
+let fffi n
+let assumption 1
+fx n g
+steady state solution
+either 1 6
+hold let assumption
+let assumption 2
+given by either
+lemma 2 1
+given by 1
+convergence of fx
+temporal truncation error
+theorem 2 3
+f 0 x
+newton krylov schwarz
+newton s method
+navier stokes equations
+method of lines
+cfd application proceedings
+ode and dae
+ffl about x
+steady state form
+switched evolution relaxation
+phase here ffi
+search or trust
+kf x k
+methods often stagnate
+mesh cfd application
+succeeds in many
+theory in x
+max be large
+cases by taking
+x is q
+satisfies and x
+towards the newton
+standard globalization strategies
+hold let ffi
+let ffi max
+computation of steady
+linearly with q
+nonlinear defect correction
+four element airfoil
+linear convergence tolerance
+unstructured mesh cfd
+switchover to steady
+evolution relaxation ser
+region methods often
+state residual norm
+nonsingular and f
+newton convergence domain
+stagnate at local
+d e keyes
+ffl 3 0
+form of theorem
+scaling matrix v
+step is solved
+operators are uniformly
+steady state residual
+journal of computational
+angle of attack
+lipschitz constant fl
+let fx n
+computed with 1
+first order discretization
+conclusions of lemma
+continuous with lipschitz
+g to x
+g is computed
+steady state solutions
+x proof let
+stokes equations journal

@@ -1,0 +1,356 @@
+spacecraft
+command
+precedence
+commands
+checker
+galileo
+aacs
+flagged
+timing
+intercommand
+recovery
+issued
+unsafe
+processes
+gc
+jupiter
+edge
+constraint
+timeline
+constraints
+heater
+issuance
+safe
+joi
+schedules
+commanded
+edges
+interval
+safety
+concurrent
+predicate
+poss
+interactions
+onboard
+consistency
+issuing
+earliest
+burn
+precede
+init
+flight
+optics
+temporal
+slew
+thruster
+activity
+subsystems
+precedes
+concurrency
+subsystem
+documented
+asynchronous
+warning
+interleavings
+orbital
+scan
+forbidden
+logic
+relay
+petri
+responses
+tail
+flag
+instances
+violations
+events
+latest
+labeled
+violation
+specifications
+execute
+ngt
+platform
+deadlines
+checked
+critical
+modeled
+liveness
+failure
+timelines
+head
+interleaving
+aperiodic
+timed
+fig
+minutes
+outside
+mnemonic
+powering
+embeddable
+schedule
+initiated
+operational
+concurrently
+sequences
+occurred
+event
+craft
+robyn
+cds
+scenarios
+violated
+actions
+iowa
+propulsion
+aeronautics
+constrained
+isolation
+response
+schedulings
+preceded
+nominal
+tag
+periodic
+unforeseen
+deadline
+probe
+reconfigure
+detect
+scheduling
+seven
+documentation
+error
+motor
+predicates
+activities
+automata
+assert
+satisfied
+attached
+duration
+lutz
+allowable
+attitude
+action
+unexpected
+jet
+node
+analyzed
+surveyed
+unlabeled
+detecting
+mission
+execution
+instruments
+autonomous
+plan
+transmitter
+readily
+offers
+inside
+ten
+insertion
+administration
+newton
+decentralized
+cooperate
+iv
+tolerated
+twelve
+enroute
+methodolgoy
+propellant
+commensurately
+asteriod
+heaters
+repesented
+timetag
+spectrometer
+taxed
+uplinked
+accelerometers
+craf
+astronauts
+issuances
+edgeg
+paraphased
+journeying
+interplanetary
+sensori
+commmand
+flyby
+intervalg
+cassini
+eroding
+fsee
+assertion
+methodologies
+precondition
+worst
+constraints checker
+error recovery
+command c
+constraints graph
+c j
+precedence constraints
+c 24
+start times
+timing constraints
+data consistency
+intercommand constraints
+interval constraint
+issued c
+precedence edges
+consistency constraints
+real time
+command sequences
+precedence edge
+galileo spacecraft
+aacs init
+concurrent execution
+checker algorithm
+outside interval
+inside interval
+edge type
+start time
+time systems
+recovery processes
+critical sequence
+command sequence
+timing edges
+recovery schedules
+c 22
+j cannot
+temporal logic
+recovery software
+issuing c
+optics heater
+scan platform
+process issuing
+timing constraint
+precedence constraint
+minimum interval
+process start
+j occurs
+must precede
+c 32
+cannot occur
+recovery scenarios
+process interactions
+warning flag
+command represented
+timing precedence
+safe position
+recovery responses
+critical sequences
+constrained edge
+unsafe schedules
+unsafe error
+whose timeline
+sequence issued
+detecting unsafe
+constraint represented
+detect unsafe
+time constrained
+earliest time
+timing requirements
+time interval
+every c
+time tag
+possible times
+user provided
+one process
+safety properties
+level error
+interval logic
+case execution
+constraint checker
+intercommand constraint
+flagged edge
+issuing command
+orbital insertion
+init error
+spacecraft commands
+schedules involving
+interval timing
+relay joi
+spacecraft error
+interval command
+forbidden combination
+commands represented
+output warning
+safe times
+timing edge
+commands c
+jupiter orbital
+flagged due
+joi sequence
+variable gc
+interval edge
+occur within
+timing properties
+command c j
+data consistency constraints
+constraints checker algorithm
+c j cannot
+real time systems
+occurs then c
+c i occurs
+error recovery processes
+issued c 24
+instance of c
+j cannot occur
+c j occurs
+error recovery schedules
+error recovery software
+process issuing c
+constraint if c
+constraints on spacecraft
+precedence and data
+instances of c
+every c j
+c i must
+process whose timeline
+error recovery scenarios
+time constrained edge
+edge was flagged
+sequence issued c
+error recovery responses
+outside interval constraint
+level error recovery
+unsafe error recovery
+edge is flagged
+command to turn
+system level error
+case execution time
+worst case execution
+earliest and latest
+time t 1
+onboard the spacecraft
+minimum interval constraint
+interval command c
+inside interval constraint
+timing and precedence
+concurrently executing processes
+p 6 issued
+process start times
+timeline is variable
+spacecraft error recovery
+occur within time
+init error recovery
+issuing command c
+latest start times
+data consistency constraint
+times that satisfy
+turn on optics
+aacs init error
+precedence and timing
+range of start
+command per process
+output warning flag
+jupiter orbital insertion
+since the constraints
+distributed real time
+properties in real
+sequences of commands

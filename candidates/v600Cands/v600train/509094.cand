@@ -1,0 +1,270 @@
+dgefmm
+modgemm
+strassen
+morton
+tile
+padding
+dgemmw
+recursion
+quadrants
+cache
+winograd
+truncation
+submatrices
+matrices
+multiplication
+ultra
+matrix
+size0
+peeling
+40normalized
+tiles
+conversion
+miata
+contiguous
+padded
+alpha
+801
+layout
+chatterjee
+misses
+siddhartha
+outperforms
+dec
+layouts
+submatrix
+lebeck
+001
+201
+16kb
+rectangular
+mithuna
+thottethodi
+implementations
+lean
+overlap
+conquer
+ultrasparc
+alvin
+dimensions
+500
+sizes
+laid
+interference
+nw
+mokbel
+0mflops
+size5
+spacefilling
+rows
+1024
+variability
+quadtree
+miss
+size50
+huss
+patnala
+gemmw
+unfold
+sun
+recursive
+070
+gpu
+lederman
+pad
+blas
+aref
+conventional
+storage
+sw
+hierarchical
+mellor
+crummey
+090
+dgemm
+v5
+platforms
+convert
+divide
+columns
+multiplies
+strassen s
+of strassen
+truncation point
+matrix multiplication
+recursion truncation
+morton order
+tile size
+the recursion
+matrix sizes
+dynamic peeling
+matrix size
+column major
+dgefmm for
+morton ordering
+static padding
+the ultra
+for matrix
+dynamic overlap
+s algorithm
+matrix size0
+than dgefmm
+strassen winograd
+size0 801
+40normalized execution
+201 40normalized
+contiguous submatrices
+001 201
+801 001
+non contiguous
+our implementation
+execution time
+the alpha
+padded matrix
+time modgemm
+implementation modgemm
+vs dgefmm
+morton conversion
+from morton
+minimize padding
+the tile
+generally faster
+to morton
+rectangular matrices
+input matrices
+the padded
+siddhartha chatterjee
+winograd algorithm
+dgefmm is
+highly rectangular
+the strassen
+that modgemm
+modgemm is
+outperforms dgefmm
+dec miata
+ultra figure
+size t
+of cache
+the matrix
+of tile
+contiguous sub
+multiplication algorithm
+size selection
+s matrix
+submatrices that
+leading dimension
+tile sizes
+conventional algorithm
+uses dynamic
+level 3
+a dec
+interface level
+alpha and
+sub matrices
+s variant
+the morton
+while dgefmm
+modgemm outperforms
+miata b
+larger while
+conversion cost
+overlap dgemmw
+winograd s
+matrices 500
+convert matrices
+multiplication proceedings
+alpha our
+b sun
+tile dimensions
+odd sized
+modgemm matrix
+strassen s algorithm
+of strassen s
+recursion truncation point
+the recursion truncation
+on the ultra
+001 201 40normalized
+size0 801 001
+40normalized execution time
+201 40normalized execution
+matrix size0 801
+801 001 201
+is generally faster
+than dgefmm for
+our implementation modgemm
+from morton order
+execution time modgemm
+to morton order
+faster than dgefmm
+for matrix multiplication
+strassen s matrix
+on the alpha
+of our implementation
+for matrix sizes
+algorithm for matrix
+matrix multiplication algorithm
+the padded matrix
+padded matrix size
+implementations of strassen
+contiguous sub matrices
+to minimize padding
+the strassen winograd
+to 15 of
+strassen winograd algorithm
+tile size t
+of static padding
+tile size selection
+s matrix multiplication
+5 to 15
+matrix size n
+the interface level
+the conventional algorithm
+for small matrices
+of total execution
+miata b sun
+a dec miata
+slower to 20
+morton order at
+and larger while
+the alpha our
+time to convert
+to 20 faster
+to from morton
+30 slower to
+the cray 2
+large matrices 500
+winograd s variant
+select the recursion
+generally faster for
+column major to
+dgefmm is generally
+fixed tile size
+500 and larger
+matrices to from
+modgemm matrix size0
+highly rectangular matrices
+implementation of strassen
+from column major
+while dgefmm is
+from 30 slower
+larger while dgefmm
+non contiguous submatrices
+multiplication proceedings of
+150 to 1024
+15 of total
+the morton ordering
+to convert matrices
+convert matrices to
+truncation point we
+matrices 500 and
+dynamic overlap dgemmw
+b sun ultra
+amount of padding
+sun ultra figure
+modgemm outperforms dgefmm
+matrix multiplication proceedings
+the desired ratio
+time modgemm matrix
+columns to rows
+the non contiguous
+rows to columns

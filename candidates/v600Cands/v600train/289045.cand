@@ -1,0 +1,270 @@
+gmres
+reactor
+aaa
+pwr
+preconditioner
+core
+outer
+retran
+axial
+junctions
+preconditioning
+inner
+residual
+transient
+fgmres
+krylov
+solver
+hydrodynamics
+serial
+channel
+nested
+timestep
+nuclear
+paragon
+pressurized
+volumes
+jacobi
+iterations
+ex
+preconditioned
+hydrodynamic
+rod
+convergence
+kakf
+junction
+miter
+crossflow
+plenum
+flow
+frobenius
+cross
+semi
+water
+supernodes
+withdrawal
+supernode
+ac
+coupling
+linearized
+precond
+steam
+gauss
+iteration
+iterative
+recombined
+ilu
+speedup
+volume
+solvers
+cgs
+planes
+transients
+siedel
+processors
+03
+norm
+coefficient
+fidelity
+parallelization
+krkf
+reactors
+channels
+seidel
+matrix
+examined
+gradient
+mass
+block
+products
+bicg
+wise
+cg
+tridiagonal
+biconjugate
+kinetics
+reactivity
+preconditioners
+considerably
+32mb
+neglects
+level gmres
+aaa aaa
+ex core
+cross flow
+12 axial
+channel 12
+the core
+9 channel
+nested gmres
+inner level
+the preconditioner
+retran 03
+direct solver
+the ex
+outer level
+core problem
+semi iterative
+gmres algorithm
+the outer
+preconditioner equation
+pwr model
+core and
+the inner
+krylov methods
+outer iteration
+nested fgmres
+the pwr
+direct solution
+the nested
+work here
+outer iterations
+block jacobi
+serial performance
+of outer
+25 channel
+hydrodynamics equations
+axial case
+the reactor
+linear system
+execution time
+second level
+core model
+time steps
+linear systems
+the direct
+three dimensional
+reactor problem
+the transient
+time step
+a a
+reactor core
+reactor transient
+without cross
+pressurized water
+dimensional flow
+outer residual
+kakf iterations
+step outer
+nuclear reactor
+other total
+d core
+inner gmres
+water reactor
+a aaa
+the gmres
+with cross
+coefficient matrix
+gmres method
+the paragon
+13 processors
+gmres to
+volumes and
+model with
+applications were
+the solution
+the matrix
+the frobenius
+residual fig
+the parallel
+frobenius norm
+the serial
+domain decomposition
+systems resulting
+level 9
+were examined
+parallel computing
+z c
+the preconditioning
+coupling between
+serial execution
+aaa aaa aaa
+channel 12 axial
+the ex core
+9 channel 12
+in the core
+a a a
+the work here
+the nested gmres
+the inner level
+inner level gmres
+the core and
+the direct solver
+the preconditioner equation
+second level gmres
+the outer level
+of the outer
+the core problem
+serial performance of
+12 axial case
+with cross flow
+the 9 channel
+applications were performed
+outer level gmres
+the linear systems
+of the nested
+a direct solver
+number of outer
+core and the
+of the inner
+a aaa aaa
+direct solver and
+pwr model with
+a a aaa
+3 d core
+and the ex
+without cross flow
+nested gmres algorithm
+level 9 channel
+for the pwr
+time step outer
+in the work
+the outer iteration
+systems resulting from
+linear systems resulting
+the frobenius norm
+the coefficient matrix
+a direct solution
+the second level
+serial and parallel
+frobenius norm of
+solution of the
+the block jacobi
+using a direct
+of outer iterations
+on the inner
+of semi iterative
+the core model
+using 13 processors
+12 axial timestep
+of cross flow
+parallel computing can
+gmres algorithm was
+are then recombined
+the 25 channel
+three dimensional core
+outer iteration number
+and parallel applications
+minimum residual fgmres
+the pwr model
+over an order
+semi iterative solvers
+aaa aaa a
+core ex core
+least square solution
+level gmres to
+cases a 2
+one dimensional flow
+for the 25
+aaa a a
+model with cross
+pressurized water reactor
+table results of
+for the outer
+the intel paragon
+the serial performance
+z c and
+gmres to solve
+core problem the
+the computational load
+of nested gmres

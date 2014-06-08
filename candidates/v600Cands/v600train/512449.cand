@@ -1,0 +1,270 @@
+garbage
+collector
+hlc
+heap
+struct
+gc
+stack
+locals
+mercury
+uncooperative
+arg1
+compiler
+pointer
+structs
+stackchain
+local1
+conservative
+arg1type
+boehm
+collection
+shadow
+arg2
+trace
+agc
+gnu
+stack_chain
+scopes
+erent
+thread
+gcc
+void
+di
+liveness
+compiling
+arg2type
+fixed_fields
+foo_frame
+local1type
+heap_pointer
+local2
+copying
+chain
+grade
+threads
+sather
+extern
+pointers
+portable
+benchmarks
+optimizations
+safe
+mutator
+exhaustion
+calls
+reclamation
+nested
+prev
+rotd
+heap_gc_threshold
+rettype
+msil
+frame
+byte
+scope
+exited
+volatile
+registers
+multithreading
+benchmark
+language
+cient
+faq
+uninitialized
+register
+accurate
+stacks
+drawbacks
+cult
+fields
+mailing
+posix
+collec
+zeroing
+collectors
+256k
+cache
+multithreaded
+30000
+safety
+allocation
+garbage collection
+back end
+accurate garbage
+heap pointer
+conservative collection
+end compiler
+the stack
+the collector
+collection in
+conservative collector
+the garbage
+to trace
+pointer containing
+shadow stack
+stack chain
+gc check
+uncooperative environment
+an uncooperative
+the heap
+heap gc
+gc threshold
+hlc agc
+the hlc
+containing variables
+stack frame
+garbage collector
+the boehm
+copying collector
+c code
+di erent
+pointer variables
+the mercury
+frame struct
+compiling to
+nested scopes
+uncooperative environments
+struct stackchain
+type accurate
+locals arg1
+hlc gc
+nested scope
+locals local1
+the back
+collector is
+the c
+global variable
+struct for
+compiler back
+do any
+contain pointers
+mercury compiler
+c stack
+such variables
+each nested
+gnu c
+virtual machine
+local variables
+for garbage
+any heap
+arg1type arg1
+fully type
+mostly conservative
+arg1 and
+in uncooperative
+machine stack
+shadow stacks
+liveness accuracy
+hlc hlc
+struct foo_frame
+accurate collector
+threshold variables
+al conservative
+or mostly
+liveness accurate
+collection function
+their scope
+might contain
+thread local
+proper tail
+current implementation
+collection and
+source language
+non portable
+garbage collect
+for heap
+our technique
+in registers
+our current
+and locals
+heap allocation
+accurate garbage collection
+garbage collection in
+pointer containing variables
+back end compiler
+an uncooperative environment
+the back end
+heap gc threshold
+in an uncooperative
+collection in an
+each nested scope
+might contain pointers
+a global variable
+the c stack
+in the mercury
+the mercury compiler
+our current implementation
+from the back
+the garbage collection
+the garbage collector
+the virtual machine
+the shadow stack
+any heap allocation
+the stack chain
+gc threshold variables
+the heap pointer
+t do any
+do any heap
+arg1 and locals
+in uncooperative environments
+stack frame struct
+pointer variables such
+or mostly conservative
+the accurate collector
+virtual machine stack
+the conservative collector
+locals arg1 and
+the to heap
+contain pointers in
+al conservative collector
+compiling to c
+and locals local1
+fully type accurate
+compiler back end
+garbage collection function
+the source language
+proper tail recursion
+in the garbage
+variables that might
+that might contain
+variety of di
+the stack frame
+local variables in
+garbage collection techniques
+in our current
+for garbage collection
+garbage collection and
+way to handle
+to trace the
+have implemented this
+points to the
+on the stack
+uses the boehm
+foo arg1type arg1
+and liveness accuracy
+the normal c
+type accurate garbage
+the from heap
+arg1type arg1 arg2type
+our technique section
+trace the stack
+handle multithreaded applications
+handle nested scopes
+values of pointer
+garbage collector safety
+to gc check
+hlc agc hlc
+source language compiler
+strictly conforming c
+hlc gc hlc
+erent hardware architectures
+collector safety a
+global register variables
+of conservative collection
+cache the values
+global heap pointer
+in strictly conforming
+as follows struct
+struct for each
+gc hlc agc
+non portable techniques

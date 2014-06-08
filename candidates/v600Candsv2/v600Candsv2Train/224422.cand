@@ -1,0 +1,411 @@
+phpf
+hpf
+spmdizer
+fortran
+compiler
+scalarizer
+communication
+optimizations
+loop
+guards
+iown
+array
+ncar
+redundant
+compiling
+mpl
+processors
+scalar
+grid
+nest
+parallelism
+ibm
+compile
+arrays
+loops
+shift
+privatized
+benchmark
+partitioning
+mellor
+crummey
+alignment
+locality
+scalars
+permutable
+spmdized
+ubound
+multicomputers
+vectorization
+collective
+temporaries
+communicated
+lbound
+adaptor
+directives
+compilation
+compilers
+uniprocessor
+dependence
+align
+scalarized
+prithviraj
+sigplan
+processor
+preprocessors
+spread
+moved
+blocksize
+midkiff
+shenoy
+grain
+spmd
+tomcatv
+idiom
+movement
+aligned
+speedups
+kennedy
+producer
+programs
+shallow
+banerjee
+dimensions
+shrunk
+rhs
+reference
+sccs
+choudhary
+pid
+nagaraj
+fronting
+schnbrg
+numprocs
+wavefronting
+optimizer
+consumer
+residuals
+dimension
+coalescing
+manish
+optimizing
+water
+ken
+schonberg
+idm
+block
+directive
+symbolic
+owner
+buffer
+statically
+allocate
+guard
+message
+stencil
+eigenmann
+deitz
+wave
+references
+neighbor
+watson
+costs
+mimd
+refs
+edith
+temporary
+inner
+outside
+coarse
+supercomputing
+nearest
+identifies
+supports
+elimination
+library
+static
+rudolf
+chamberlain
+bradford
+machines
+alok
+transformer
+messages
+snyder
+cb
+native
+lawrence
+elim
+ramanujam
+speedup
+statement
+lining
+chakrabarti
+vikram
+statements
+adve
+augmenting
+irregular
+languages
+remapping
+inside
+gerald
+unknown
+inhibit
+comm
+broadcast
+cyclic
+tiled
+notices
+kandemir
+gupta
+replication
+parallelization
+samuel
+performs
+roth
+runtime
+inlining
+communications
+nests
+paradigm
+shrinks
+pipeline
+pipelined
+cdrom
+joefon
+fogaccia
+denolf
+chavarra
+briguglio
+hoeflinger
+farreras
+ayon
+dhruva
+montse
+fmgupta
+yili
+cmslow
+basumallik
+takemyampersandmdash
+fortran 90
+redundant communication
+computation partitioning
+loop distribution
+communication analysis
+shift communication
+processor grid
+hpf programs
+performance fortran
+fortran 77
+call hpf
+compile time
+loop nest
+message vectorization
+moved outside
+hpf directives
+optimizations like
+run time
+distributed memory
+array language
+symbolic analysis
+grid dimensions
+ncar shallow
+locality optimizer
+producer reference
+hpf allocate
+dimensional shift
+mpl version
+consumer reference
+phpf uses
+data movement
+hpf compiler
+block block
+paradigm compiler
+collective communication
+hpf compilers
+data partitioning
+communication costs
+scalar variables
+local iteration
+john mellor
+optimizing communication
+mellor crummey
+acm sigplan
+shallow water
+reduction operation
+spread program
+mapping scalar
+statically unknown
+idiom recognition
+using collective
+phpf compiler
+phpf performs
+iown lbound
+iown ubound
+array temporaries
+communication elimination
+fully permutable
+shift communications
+computation buffer
+statement guards
+time library
+high performance
+coarse grain
+grid dimension
+fortran 90d
+data parallel
+second dimension
+fortran d
+ken kennedy
+like message
+pipelined communication
+prithviraj banerjee
+communication schedules
+memory multicomputers
+also performs
+inner loop
+nearest neighbor
+parallel machines
+address space
+communication optimizations
+d distribution
+communication code
+loop bounds
+global reduction
+scalar value
+neighbor communication
+fortran hpf
+array dimensions
+efficient code
+manish gupta
+multi dimensional
+local array
+eliminate redundant
+global address
+array bounds
+high level
+static single
+ibm com
+j 1
+block distribution
+data parallelism
+reduce communication
+loop transformation
+le 99
+send section
+dimension phpf
+pipeline parallelism
+gupta edith
+message coalescing
+existing fortran
+loop traversing
+choudhary prithviraj
+performs optimizations
+neighbor shift
+phpf also
+unified data
+grain wavefronting
+performs special
+local reduction
+supports block
+spread operation
+align d
+rhs reference
+sp series
+time phpf
+redundancy elim
+hpf spmdizer
+b i 1
+number of processors
+high performance fortran
+fortran 77 programs
+fortran 90 array
+multi dimensional shift
+ncar shallow water
+communication for b
+john mellor crummey
+run time library
+eliminate redundant communication
+processor grid dimension
+using collective communication
+reduce communication costs
+mpl version 1
+version 1 00
+mapping scalar variables
+like message vectorization
+call hpf allocate
+redundant communication elimination
+known at compile
+distribution of array
+distributed memory multicomputers
+framework for optimizing
+nearest neighbor communication
+global address space
+performance fortran hpf
+unknown at compile
+d i 2
+conference on supercomputing
+static single assignment
+inside the loop
+gupta edith schonberg
+communication using data
+movement for b
+sequential fortran 77
+unified data flow
+synthesis of communication
+uses symbolic analysis
+communication on multicomputers
+ncar block block
+dimensional shift communication
+manish gupta edith
+analysis and loop
+data and processors
+coarse grain wave
+data availability analysis
+existing fortran 90
+alok choudhary prithviraj
+permutable loop nest
+approach for fortran
+improved by ffl
+processor grid dimensions
+statically unknown parameters
+choudhary prithviraj banerjee
+optimizations like message
+communication for d
+fortran 90 programs
+nearest neighbor shift
+reached by e
+redundant communication using
+using data availability
+grain wave fronting
+dimensional shift communications
+fortran hpf programs
+block 1 00
+optimization to eliminate
+ibm sp series
+communication in d
+mapping of scalars
+le 99 blocksize
+reference i e
+augmenting the data
+sp series parallel
+dependence analyzer loop
+coarse grain wavefronting
+parallelism from fortran
+communication code generation
+inner loop communication
+unknown parameters like
+analyzer loop transformer
+series parallel machines
+block block 1
+neighbor shift communication
+fully permutable loop
+eliminating redundant communication
+compilers for hpf
+practice of parallel
+acm sigplan symposium
+symposium on principles
+static parameter based
+outside of loops
+global reduction operation

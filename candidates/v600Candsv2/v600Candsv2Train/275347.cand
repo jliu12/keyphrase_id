@@ -1,0 +1,362 @@
+pcfg
+productions
+swat
+flies
+parse
+production
+ijk
+ants
+noun
+vp
+probabilities
+bayesian
+pcfgs
+subsequence
+probability
+symbol
+kmax
+nonterminal
+terminal
+symbols
+abstraction
+grammar
+string
+queries
+nil
+sentence
+conditional
+verb
+grammars
+parent
+chart
+np
+fi
+probabilistic
+insert
+network
+pr
+expansions
+query
+fig
+phrase
+nonterminals
+prep
+parsing
+sensitivity
+dependency
+conditionally
+domains
+tree
+recognition
+prepositional
+evidence
+probable
+sensitivities
+events
+charniak
+jpd
+stochastic
+expansion
+pp
+subnetwork
+decomposition
+inference
+subtree
+jpa
+grammatical
+answering
+lri
+child
+independence
+strings
+joint
+links
+lengths
+unclear
+tables
+specify
+expanded
+jn
+pcsg
+prepje
+hbg
+plan
+appearing
+pearl
+parents
+node
+link
+indices
+networks
+derivation
+sibling
+sensitive
+nodes
+sentences
+rna
+trees
+parser
+fj
+formalism
+phase
+language
+altering
+expanding
+derivations
+specialization
+influences
+mutually
+predecessors
+nonzero
+event
+expand
+siblings
+speech
+indicating
+completions
+exclusive
+derives
+alternate
+conditioning
+draw
+contexts
+fk
+weights
+answer
+abstractions
+begins
+specification
+dependencies
+inside
+random
+restrictive
+domain
+conditioned
+observations
+subsequences
+nondescendant
+exclusivity
+2domain
+abstractprobabilistic
+sitivities
+nondescendants
+dwarfs
+exploit
+entry
+contextual
+disjunctive
+encode
+expressing
+jp
+index
+children
+richer
+reflect
+sigma
+amid
+answerable
+gaps
+prob
+generation
+extensions
+compilation
+supports
+preceding
+draws
+entries
+broader
+ellipsis
+rego
+djp
+uninstantiated
+leaf
+belief
+former
+anywhere
+bottom
+brackets
+prepositions
+parse tree
+p ijk
+bayesian network
+conditional probability
+swat flies
+like ants
+insert state
+n ijk
+context sensitivity
+network generation
+pcfg model
+probability tables
+subsequence length
+random variables
+flies like
+abstraction productions
+abstraction phase
+pr n
+pcfg algorithms
+kmax j
+dynamic programming
+plan recognition
+symbol e
+decomposition phase
+probabilistic context
+terminal symbol
+context free
+hand side
+production probabilities
+sentence swat
+decomposition productions
+fi function
+subsequence lengths
+parse trees
+fi values
+bayesian networks
+nonterminal symbols
+terminal string
+production node
+standard pcfg
+possible expansions
+decomposition production
+pp 0
+right hand
+generation algorithm
+free grammars
+state n
+probability one
+context sensitive
+independence assumptions
+conditionally independent
+context sensitivities
+kmax length
+production nodes
+flies 0
+np 0
+add parent
+vp 0
+create network
+n 141
+np vp
+p 142
+dependency structure
+fi e
+start symbol
+initial subsequence
+particular string
+probability table
+parsing algorithms
+network algorithms
+p 141
+prepositional phrase
+natural language
+network query
+terminal symbols
+j gamma1
+joint probability
+requires time
+conditional probabilities
+time o
+abstraction production
+fi vp
+fi kmax
+start prob
+n 213
+existing pcfg
+o jpd
+noun ants
+preceding terminal
+particular expansion
+length kmax
+standard chart
+ijk nil
+draw links
+n 321
+given pcfg
+vp 3
+parent nonterminal
+abstraction hierarchy
+like plan
+verb np
+network queries
+n 142
+o jpa
+must consider
+programming algorithm
+variables n
+vp verb
+ij k
+network formalism
+expanding e
+network inference
+j indices
+possible decomposition
+domains like
+variable n
+length j
+n variables
+stochastic programs
+phase requires
+exclusive events
+conditional probability tables
+flies like ants
+swat flies like
+compute the probability
+insert state n
+sentence swat flies
+network generation algorithm
+domain of n
+probabilistic context free
+right hand side
+production s np
+context free grammars
+j and k
+requires time o
+fi e j
+probability one given
+state p ijk
+insert state p
+string of length
+described in fig
+level of abstraction
+dynamic programming algorithm
+class of queries
+m t 1
+np 1 3
+conditional probability one
+p ijk nil
+supports the computation
+kmax j gamma1
+standard pcfg algorithms
+vp 3 1
+length kmax length
+types of evidence
+conditional probability table
+phase requires time
+vp verb np
+like plan recognition
+tree of fig
+bayesian network approach
+productions are possible
+ij k gamma1
+n ij k
+j gamma1 kmax
+query the network
+link from p
+given that n
+domain of p
+mutually exclusive events
+dynamic programming algorithms
+left hand side
+types of queries
+n 2 d
+n i j
+consider all possible
+context free grammar
+dynamic programming approach
+standard bayesian network
+bayesian network algorithms
+swat flies ants
+like 0 4
+obtain the joint
+probability that like
+flies 0 45

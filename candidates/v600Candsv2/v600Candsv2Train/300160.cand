@@ -1,0 +1,389 @@
+daspk
+initialization
+newton
+dae
+krylov
+jacobian
+preconditioner
+prey
+dassl
+gmres
+nonsingular
+linesearch
+qss
+convergence
+differential
+wrms
+iteration
+algebraic
+stepsize
+mxnit
+mxnj
+food
+predator
+minfae
+norm
+supplied
+option
+deltax
+steady
+derivatives
+species
+calculation
+solver
+inexact
+guesses
+schnabel
+pred
+matrix
+reaction
+tests
+tolerances
+solvers
+quotients
+weights
+residual
+mxnh
+nrmax
+failed
+converges
+nonlinear
+iterations
+converged
+lipschitz
+retry
+index
+livermore
+tabulated
+descent
+dennis
+increment
+consistent
+integration
+diffusion
+guess
+ffi
+nominally
+corrections
+semi
+succeeds
+daes
+approximate
+correction
+preconditioned
+permutation
+posed
+ae
+deltay
+fails
+minnesota
+flag
+rank
+contract
+evidently
+sr
+user
+derivative
+routine
+inaccuracy
+flat
+restarts
+bandwidths
+web
+scaling
+nre
+epinit
+epconi
+hindmarsh
+shumaker
+nli
+osungmethoden
+psol
+sundials
+rooda
+nni
+flkx
+predas
+angekoppelten
+realisierung
+absent
+banded
+default
+mild
+ks
+spatially
+brown
+equations
+spatial
+square
+options
+dembo
+webs
+algebraischen
+vales
+maxl
+gleichung
+says
+projection
+backtracking
+quotient
+lawrence
+serban
+jac
+numerischen
+equilibrium
+lemma
+evaluated
+neighborhood
+problematical
+approximations
+suitably
+smoothness
+peaked
+py
+differentialgleichungen
+woodward
+qf
+bos
+difficulty
+differentiable
+unknowns
+approximation
+bdf
+cautioned
+beek
+steplength
+carol
+eq
+valued
+generalize
+supply
+mh
+rescale
+bei
+perturbation
+retried
+unknown
+integrators
+mildly
+implicit
+retries
+radu
+blocked
+aro
+swing
+halted
+diagonal
+smooth
+generalizes
+shooting
+minneapolis
+projections
+nist
+cj
+posing
+hc
+initialization problem
+y 0
+newton iteration
+initialization algorithm
+dae system
+problem 1
+modified newton
+index one
+differential algebraic
+problem 2
+initialization problems
+krylov method
+consistent initial
+initial values
+dae systems
+c prey
+system jacobian
+f 0
+x h
+newton krylov
+initial condition
+condition calculation
+wrms norm
+linesearch algorithm
+semi explicit
+explicit index
+newton iterations
+algebraic equations
+y vector
+newton case
+direct 11
+food web
+c calculation
+initial value
+stepsize h
+inexact newton
+differential variables
+time step
+krylov methods
+initial conditions
+full newton
+steady state
+initial guesses
+c pred
+approximate jacobian
+u 0
+matrix p
+f x
+algebraic systems
+schnabel 11
+one systems
+minfae 1
+initialization fails
+general index
+ffl minfae
+consistent initialization
+increment y
+initial y
+krylov case
+error flag
+initial stepsize
+j x
+lemma 4
+descent direction
+r n
+krylov iteration
+direct case
+algebraic components
+condition problems
+preconditioner p
+error test
+diffusion terms
+general function
+difference quotients
+initial guess
+jacobian matrix
+well posed
+jacobian j
+current approximate
+scaling matrix
+given value
+linear system
+given y
+functions j
+lipschitz condition
+h 0
+vector y
+matrix valued
+time integration
+vector containing
+direct methods
+n x
+contract number
+system 1
+linear systems
+calculate y
+direct fails
+difference quotient
+solver daspk
+second initialization
+smooth matrix
+web problem
+daspk 7
+singular systems
+prey converges
+qss values
+variable vector
+system iteration
+daspk solvers
+one dae
+based factor
+weighted root
+perturbation relation
+gmres restarts
+half bandwidths
+integration total
+implicit index
+qss initial
+dae problem
+square wrms
+input initial
+initialization problem 1
+initialization problem 2
+j x h
+case of initialization
+modified newton iteration
+components of y
+semi explicit index
+initial condition calculation
+explicit index one
+differential algebraic equations
+y and y
+dassl and daspk
+direction for f
+f 0 x
+y y 0
+newton krylov iteration
+ffl minfae 1
+functions j x
+index one systems
+interval about c
+complete the integration
+increment y 0
+schnabel 11 p
+dassl or daspk
+valued functions j
+y 0 d
+minfae 1 2fifl
+initial condition problems
+function f x
+class of problems
+case of direct
+dennis and schnabel
+j or p
+size n d
+differential and algebraic
+g t y
+consistent initial values
+matrix valued functions
+case of problem
+theorem 4 1
+h and c
+system 1 3
+term is bounded
+differential algebraic systems
+iteration to solve
+systems of differential
+f at x
+values of c
+first time step
+algorithm 5 1
+dae system iteration
+n x ffl
+general index 1
+dependent variable vector
+newton or modified
+consistent initial conditions
+new initialization algorithm
+system jacobian j
+krylov methods however
+n x ae
+rate if convergence
+full newton case
+fully implicit index
+qss initial values
+perturbation relation 3
+prey the algorithm
+case of krylov
+system function g
+variable vector y
+current approximate system
+y 0 problem
+residual norm condition
+food web problem
+mild smoothness assumptions
+initial stepsize h
+weighted root mean
+c prey converges
+integration total number
+n be continuously
+given y 0
+smooth matrix valued
+index one dae
+ae with constant

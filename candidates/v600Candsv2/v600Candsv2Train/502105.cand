@@ -1,0 +1,358 @@
+op
+pid
+word
+locking
+id
+sc
+lock
+unlocking
+ll
+sensitivity
+locked
+tmp
+addr
+unary
+unmark
+mark
+blocking
+processor
+marking
+unmarked
+monotone
+intersection
+stage
+unlocked
+unlock
+marked
+executing
+intersected
+helping
+upstream
+conflict
+initiating
+blocked
+timestamp
+ff
+downstream
+contention
+memory
+unmarks
+field
+tossing
+unlocks
+neighbor
+cell
+processors
+transactional
+locks
+lemma
+decision
+fm
+helps
+linial
+philosophers
+operation
+address
+hot
+rappoport
+binary
+directed
+synchronization
+ts
+invalid
+universal
+tries
+shared
+concurrent
+directions
+marks
+spot
+coin
+decide
+distance
+herlihy
+return
+prev
+flag
+stages
+edge
+moir
+touitou
+ascending
+reads
+succeeds
+neighboring
+knows
+decides
+philosopher
+contending
+dlog
+picks
+alternation
+round
+cleared
+array
+terminates
+overlapping
+implementing
+post
+member
+precedes
+atomically
+invalidated
+log
+heap
+returns
+vishkin
+paths
+interfere
+stalls
+ast
+neighbors
+israeli
+cole
+mis
+maxima
+descending
+implementations
+interval
+ring
+omega
+linked
+path
+undirected
+ending
+swap
+wait
+ne
+proves
+fork
+completes
+asynchronous
+gammaat
+disentangling
+help
+delayed
+words
+rounds
+addresses
+coloring
+minima
+shavit
+linearizable
+pseudocode
+color
+afek
+rightmost
+fails
+hungry
+finds
+accessed
+induce
+access
+else
+induction
+ids
+false
+anderson
+axp
+segment
+dining
+interference
+numbered
+validate
+read
+procedures
+consecutive
+parity
+synergy
+accesses
+guaranteeing
+localizing
+longest
+validates
+sitting
+bubble
+powerpc
+guarantees
+deterministic
+passed
+breaking
+contend
+encapsulating
+locality
+execution
+successful
+phase
+spots
+bit
+symmetry
+direction
+intervals
+depths
+odd
+restarts
+clockwise
+intervening
+address word
+op id
+low address
+high address
+memory word
+locking stage
+mark high
+memory words
+executing processor
+step complexity
+data set
+operation op
+conflict graph
+m high
+pid 0
+edge operation
+op details
+addr op
+ll sc
+locking directions
+initiating processor
+op j
+another operation
+locking direction
+first executing
+monotone path
+monotone paths
+decision stage
+pid 1
+sc m
+high field
+unlocking stage
+post decision
+op 2
+right algorithm
+ll m
+binary ll
+directed path
+unary operations
+non blocking
+sc operations
+low field
+word m
+neighboring operations
+cell lock
+unary ll
+left right
+blocking operation
+lemma 4
+set intersection
+multi word
+word operations
+high op
+m intersection
+intersection flag
+mark end
+h ff
+two operations
+word first
+universal operations
+op 1
+binary operations
+shared memory
+g ff
+id array
+help op
+tmp low
+details op
+blocked operation
+cell unlock
+operations lock
+f n
+op 0
+id pid
+local computation
+let op
+deterministic coin
+transactional memory
+return true
+marking stage
+intersected operation
+unlocking stages
+new pid
+pid k
+executing processors
+unmark high
+tmp high
+constant sensitivity
+downstream neighbor
+operation id
+operation helps
+wait free
+decision algorithm
+log n
+m j
+execution segment
+marked high
+overlapping operations
+ff 0
+coin tossing
+return false
+set fm
+operations op
+o log
+check intersection
+upstream operations
+pid computed
+procedure unmark
+decide left
+using unary
+low address word
+high address word
+addr op id
+word of op
+op i 1
+left right algorithm
+id then return
+processor of op
+binary ll sc
+word is locked
+first executing processor
+multi word operations
+high op id
+address word first
+operations from unary
+op details op
+high in mark
+sc m high
+deterministic coin tossing
+helps the blocking
+op id pid
+details op id
+memory word m
+mark the high
+data set fm
+tries to mark
+range of pid
+ll m high
+ll sc operations
+locking and unlocking
+locked by another
+m is marked
+new pid computed
+word is unlocked
+post decision stage
+memory words accessed
+operation s details
+y op id
+unary ll sc
+operations in ff
+using binary ll
+local step complexity
+low high op
+b x n
+non blocking synchronization
+minima or maxima
+next lemma lemma
+o log n
+set of op
+algorithm for implementing
+lemma 4 8
+ascending or descending

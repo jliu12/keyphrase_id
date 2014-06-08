@@ -1,0 +1,417 @@
+radiance
+illumination
+radiosity
+emission
+reflectance
+perturbed
+radiative
+surface
+discretization
+collocation
+reflectivity
+diffuse
+norm
+reflection
+galerkin
+projection
+surfaces
+norms
+meshing
+operator
+errors
+radiometric
+graphics
+imprecise
+reciprocity
+enclosure
+visibility
+integral
+functionals
+boundary
+geometry
+perturbations
+progressive
+mesh
+directional
+transfer
+perturbing
+perturbation
+rendering
+inexact
+discontinuity
+sillion
+optics
+scattering
+subspace
+simplifications
+sources
+incident
+lighting
+inner
+analytic
+zatz
+goral
+equation
+projections
+ray
+normed
+error
+bounds
+environments
+factors
+greenberg
+smits
+grazing
+absorption
+distant
+residual
+radiation
+operators
+energy
+kajiya
+glossy
+radiant
+visualization
+ffi
+reflected
+approximation
+measurement
+light
+hemi
+approximations
+quantities
+hierarchical
+tracing
+coefficients
+watts
+pellegrini
+wavelet
+matrix
+sup
+lischinski
+dani
+hemisphere
+tog
+heat
+cosine
+shirley
+hanrahan
+ff
+seidel
+polynomials
+incurred
+specular
+harmonics
+contaminated
+discrete
+piecewise
+categories
+taxonomy
+laws
+simulating
+avenues
+participating
+quadrilateral
+basis
+wave
+gauss
+inaccuracies
+opaque
+angles
+field
+parallels
+interactive
+analytically
+products
+perturb
+beam
+donald
+shall
+embodies
+attainable
+category
+recast
+wavelets
+entail
+curve
+media
+equations
+dimensional
+balance
+solvers
+peter
+geometries
+explored
+inequalities
+thermophysicalproperties
+advantagesover
+everywherediminishedby
+sbert
+changyaw
+conceptualstages
+troutman
+kgu
+secondkind
+ilumination
+dependenceon
+eachbasis
+approximatesolution
+emphasizesthat
+appendixb
+measuringandmodelinganisotropic
+dependenceanda
+inducedby
+aupperle
+pinning
+conceptualstep
+pectation
+higherorder
+accuracyby
+casesof
+hemicube
+wavelengthmay
+approacheswhere
+reasonablytight
+computingan
+constantap
+immel
+integralequations
+projectionmethod
+hkgu
+global
+distance
+spherical
+physical
+conservation
+employed
+adjoint
+marco
+oe
+integrals
+discrepancy
+kantorovich
+manyvaluable
+popp
+tildes
+forgoing
+mateu
+impinging
+southwell
+global illumination
+form factors
+basis functions
+computational errors
+radiance functions
+surface radiance
+illumination algorithms
+field radiance
+discretization error
+reflectance functions
+radiance function
+finite dimensional
+emission functions
+x n
+radiative transfer
+projection methods
+diffuse environments
+perturbed boundary
+linear system
+matrix elements
+boundary data
+operator equations
+computer graphics
+emission function
+rendering equation
+error bounds
+space x
+boundary elements
+discrete linear
+discontinuity meshing
+boundary element
+hierarchical radiosity
+linear operator
+equation 42
+non diffuse
+data discretization
+equation 1
+discretization errors
+integral equations
+constant basis
+maximum reflectivity
+k f
+error analysis
+balance equation
+area form
+surface geometry
+residual error
+imprecise form
+distant surface
+collocation galerkin
+upper collocation
+g operator
+surface emission
+direct radiative
+illumination problems
+element methods
+m gamma1
+ffi p
+inner products
+coefficients ff
+simplifications made
+progressive radiosity
+wave optics
+exact solution
+p norm
+size upper
+operator equation
+illumination problem
+adaptive meshing
+physical principles
+f n
+participating media
+subspace x
+dimensional linear
+equation 17
+projection method
+k k
+dimensional space
+techniques p
+form factor
+interactive techniques
+linear functionals
+operator norm
+finite number
+l p
+surface point
+ff n
+higher order
+surface points
+analytic solution
+functions u
+f k
+squares method
+solvers like
+errors result
+wavelets 12
+opaque surfaces
+optics effect
+analytically determined
+error taxonomy
+accurate radiosity
+function norms
+radiative exchange
+hierarchical illumination
+constant elements
+efficiency discretization
+directional reflectivity
+radiometric quantities
+matrix approximations
+fast radiosity
+brian smits
+local field
+perturbed operator
+determined form
+perturbed reflectance
+imprecise surface
+incident beam
+zatz 41
+inexact due
+product polynomials
+polynomials 41
+collocation point
+kajiya 18
+glossy reflection
+radiosity image
+radiometric concepts
+improving radiosity
+among opaque
+goral et
+progressive refinement
+global illumination algorithms
+space x n
+perturbed boundary data
+sources of error
+discrete linear system
+reflectance and emission
+space of radiance
+non diffuse environments
+coefficients ff 1
+finite dimensional space
+point to area
+finite dimensional linear
+k f k
+l p norm
+upper collocation galerkin
+size upper collocation
+constant ffi p
+imprecise form factors
+global illumination problems
+boundary data discretization
+subspace x n
+mesh size upper
+surface radiance function
+area to area
+basis functions u
+ff 1 ff
+error in global
+constant basis functions
+functions u 1
+dimensional linear system
+global illumination problem
+interactive techniques p
+l 1 norm
+graphics and interactive
+choice of basis
+boundary element methods
+least squares method
+source of error
+u 1 u
+set of basis
+hierarchical illumination algorithm
+emission function g
+implicit function x
+category of error
+illumination using adaptive
+use of analytically
+two projection methods
+determined form factors
+emission at surfaces
+form an enclosure
+follows by defining
+imprecise surface geometry
+higher order elements
+product polynomials 41
+progressive refinement approach
+algorithm for progressive
+reflection operator k
+operators k g
+perturbed operator e
+improving radiosity solutions
+wave optics effect
+field radiance function
+function space x
+among opaque surfaces
+approximation f n
+discrete finite dimensional
+area form factors
+measurement or simulation
+approximation from x
+environments the rendering
+three different norms
+analytically determined form
+system in equation
+goral et al
+radiance function h
+tensor product polynomials
+computational errors perturb
+categories of error
+meshing for accurate
+functions and emission
+block matrix approximations
+contaminated by error
+angle d 0
+distant surface radiance
+local reflection operator
+radiosity image generation
+standard radiometric concepts
+local field radiance

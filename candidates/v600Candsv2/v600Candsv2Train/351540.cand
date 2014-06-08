@@ -1,0 +1,389 @@
+amg
+diusion
+unstructured
+grid
+multigrid
+meshes
+interpolation
+mesh
+coe
+convergence
+grids
+anisotropy
+relaxation
+cmplxty
+coarse
+uences
+conv
+cients
+weights
+coarsening
+uence
+scalability
+elasticity
+laplacian
+3d
+complexities
+algebraic
+operator
+convection
+cient
+setup
+dierent
+discontinuous
+dirichlet
+anisotropic
+multilevel
+cycle
+discretized
+ne
+discretization
+di
+poisson
+cult
+nite
+uencing
+eect
+dened
+dierencing
+2d
+nonsymmetric
+xed
+aligned
+resurgence
+factors
+uniform
+dene
+structured
+displayed
+vs
+coarser
+discretizations
+upstream
+seidel
+stencil
+triangular
+stretching
+isotropic
+boulder
+misidentied
+gauss
+elliptic
+nest
+geometric
+rectangular
+quadrilateral
+iterative
+scalar
+ratios
+ow
+culties
+aects
+livermore
+dashed
+correction
+triangles
+rst
+coarsen
+triangulations
+irregular
+noticeably
+email
+domains
+boundaries
+colorado
+jk
+tests
+circles
+denition
+hole
+dening
+discontinuity
+solid
+ciently
+jump
+preconditioner
+boundary
+trilinear
+cycles
+grow
+signicantly
+denite
+asymptotic
+dotted
+checkerboard
+colored
+discontinuities
+bottom
+modied
+congurations
+aspect
+slowly
+maxwell
+scientic
+sizes
+directions
+neumann
+robustness
+approximated
+solver
+mv
+algorithmic
+thin
+stretched
+sin
+symmetric
+imposed
+specic
+weighting
+fairly
+displacements
+indicator
+smooth
+superscripts
+smoothing
+conjugate
+diers
+polar
+eects
+norm
+eectively
+culty
+tend
+entries
+approximations
+kaczmarz
+ftmanteuf
+jjonesg
+boomeramg
+tentatively
+silverdale
+touihri
+dru
+fcleary
+minimizinginterpolation
+ssbn
+casc
+amge
+uss
+jerrytrish
+stevemg
+imperatives
+rfalgout
+schicho
+submarine
+vhenson
+ij
+galerkin
+radial
+central
+extreme
+perfectly
+moderate
+iteration
+preconditioners
+timings
+scalable
+convergence factors
+convergence factor
+coarse grid
+interpolation weights
+algebraic multigrid
+diusion coe
+f points
+unstructured grids
+conv cmplxty
+ne grid
+coe cient
+unstructured meshes
+factor vs
+uniform mesh
+point laplacian
+coe cients
+cmplxty conv
+operator complexity
+vs log
+f point
+problem size
+nite elements
+unstructured grid
+unstructured mesh
+discontinuous coe
+operator complexities
+iterative weights
+geometric multigrid
+algorithmic scalability
+c point
+mesh size
+aspect ratios
+multigrid methods
+irregular domains
+poisson problem
+top left
+diusion problem
+standard weights
+non aligned
+amg applied
+convergence operator
+top right
+standard multigrid
+uniform meshes
+mesh 5
+di cult
+problems 10
+grid size
+mesh sizes
+error components
+algebraic multilevel
+problem 17
+setup phase
+points depending
+grid correction
+factor per
+isotropic diusion
+scalar problems
+grid anisotropy
+increasing grid
+dene interpolation
+3d elasticity
+amg algorithm
+iterative weighting
+computing interpolation
+symmetric scalar
+structured grid
+aligned anisotropy
+larger n
+gauss seidel
+v cycle
+cycle times
+unstructured triangular
+diusion equation
+perfectly linear
+c points
+anisotropic diusion
+x problem
+multigrid method
+problem sizes
+d x
+function approach
+rectangular mesh
+dominated case
+level k
+elasticity problem
+problem 20
+3d problems
+smaller n
+convection term
+nonsymmetric problems
+grid problem
+dirichlet boundary
+relaxation scheme
+convection dominated
+elliptic problems
+grid points
+problem 19
+central point
+problem 14
+per cycle
+several dierent
+e j
+boundary conditions
+rectangular grid
+solid lines
+classical amg
+vs convergence
+extreme aspect
+relaxation must
+times circles
+body elasticity
+factor cycle
+mesh convergence
+three coordinate
+triangle complexities
+problem 16642
+grow somewhat
+convergence factor vs
+results for problem
+log of problem
+cmplxty conv cmplxty
+diusion coe cient
+conv cmplxty conv
+results for problems
+discontinuous coe cients
+mesh 5 point
+diusion coe cients
+results are displayed
+coarse grid correction
+convergence factor per
+uniform mesh 5
+computing interpolation weights
+problems 10 13
+performance of amg
+points in uencing
+factors and operator
+even for standard
+range of interpolation
+problems 3 5
+convection dominated case
+dirichlet boundary conditions
+coarse grid problem
+meshes are used
+structured and unstructured
+number of mesh
+conditions are imposed
+displayed in table
+2d and 3d
+value of u
+3d elasticity problem
+rectangular grid using
+linear scaling bottom
+large unstructured grids
+grid 5 point
+cycle times vs
+problem size vs
+cult to solve
+operator dependent interpolation
+reference shows perfectly
+diusion the next
+results for 3d
+size unstructured mesh
+versions of amg
+smallest problem iterative
+coe cients uniform
+increasing grid size
+determine the weights
+must be approximated
+three coordinate directions
+laplacian the dotted
+unstructured meshes irregular
+smaller uniform mesh
+cients uniform mesh
+dierent problem sizes
+parallel algebraic multigrid
+c conv cmplxty
+unstructured mesh size
+non aligned anisotropy
+3d poisson problem
+d x problem
+cycle times triangles
+plots of setup
+circles and cycle
+problems 6 9
+congurations are used
+thin body elasticity
+mesh size problem
+mesh size unstructured
+convergence of amg
+ne grid matrix
+outer conjugate gradient
+c f choice
+extreme aspect ratios
+times vs log
+convergence is generally
+problem size cycle
+factor vs convergence
+grid triangle complexities
+r 0 05
+another f point
+poisson problem variable
+larger for unstructured

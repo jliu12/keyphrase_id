@@ -1,0 +1,270 @@
+dsm
+writer
+consistency
+coherence
+protocol
+lrc
+invalidate
+release
+relaxed
+page
+lazy
+acquire
+processor
+treadmarks
+sharing
+ownership
+protocols
+coherent
+munin
+memory
+hardware
+false
+cache
+mw
+ordering
+atomicity
+shared
+processors
+event
+invalidated
+message
+read
+relaxing
+synchronization
+delay
+notices
+entailed
+events
+writes
+diffing
+write
+singer
+transition
+p2
+messages
+lock
+x3
+midway
+unrelated
+strictest
+adopted
+multiprocessors
+rj
+affinity
+dubios
+plpc
+interchangely
+twinning
+update
+strict
+pages
+locks
+fault
+complier
+numa
+stale
+behaviours
+alewife
+ivy
+faulting
+cvm
+writers
+home
+erc
+sequential
+trapping
+receive
+send
+ec
+wj
+diffi
+traffic
+timestamps
+ri
+rc
+acquiring
+scc
+timestamp
+software
+tell
+writer protocol
+consistency model
+memory consistency
+dsm systems
+software dsm
+multiple writer
+consistency models
+coherence protocol
+release consistency
+single writer
+false sharing
+hardware dsm
+relaxed single
+coherence protocols
+event ordering
+lazy release
+in software
+more relaxed
+the coherence
+sequential consistency
+write notices
+acquire operation
+between coherence
+in hardware
+invalidate message
+mw protocol
+shared memory
+of coherence
+entry consistency
+dsm system
+relaxed consistency
+ordering in
+each processor
+strict single
+write false
+state transition
+an acquire
+coherence and
+cache coherence
+coherence unit
+lrc as
+delay update
+new consistency
+relaxed coherence
+distributed shared
+sharing problem
+protocol is
+and memory
+synchronization operation
+protocol and
+write invalidate
+the write
+protocols and
+the ownership
+hardware and
+and event
+based multiple
+page 2
+page fault
+atomicity demand
+when p2
+singer writer
+read false
+delay receive
+coherent view
+invalidate page
+scope consistency
+before write
+general definition
+write write
+of memory
+transition for
+the relationship
+page 0
+of lrc
+protocol needed
+other processors
+the atomicity
+same page
+for memory
+the happen
+write update
+and consistency
+protocol we
+relationship between
+transition graph
+weak ordering
+happen before
+must obtain
+shared data
+multiple writer protocol
+software dsm systems
+memory consistency model
+in software dsm
+single writer protocol
+memory consistency models
+relaxed single writer
+and memory consistency
+lazy release consistency
+in hardware dsm
+consistency model is
+hardware dsm systems
+event ordering in
+protocols and memory
+coherence protocols and
+the more relaxed
+in each processor
+ordering in each
+of memory consistency
+for memory consistency
+coherence protocol and
+dsm systems the
+relationship between coherence
+writer protocol is
+write false sharing
+and software dsm
+strict single writer
+an acquire operation
+consistency model in
+and event ordering
+relaxed consistency model
+false sharing problem
+distributed shared memory
+based multiple writer
+definition for memory
+writer protocol for
+that in hardware
+writer protocol we
+state transition for
+consistency models are
+the state transition
+the relationship between
+consistency models in
+general definition for
+software dsm system
+analyze the relationship
+a general definition
+ordering of events
+transition graph for
+the event ordering
+support it this
+and multiple writer
+new consistency model
+it this conclusion
+read false sharing
+coherence protocol needed
+a new consistency
+more relaxed coherence
+write write false
+the atomicity demand
+between coherence protocol
+relaxed coherence protocol
+when we design
+lrc as an
+more relaxed consistency
+conclusion is very
+write read false
+happen before 1
+state transition graph
+the same page
+dsm systems in
+protocol needed to
+useful when we
+relationship between them
+to support it
+very useful when
+model is the
+design a new
+hardware and software
+this conclusion is
+the coherence protocols
+invalidated based multiple
+dsm systems include
+while in software
+between coherence protocols
+coherence unit is
+and consistency model
+of coherence protocol
+the following release
+the strict single

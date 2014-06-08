@@ -1,0 +1,362 @@
+radiance
+radiosity
+patches
+hr
+clusters
+patch
+clustering
+surfaces
+illumination
+bounding
+visibility
+link
+links
+energy
+linking
+graphics
+cluster
+transfer
+receiver
+src
+hierarchical
+tog
+foreach
+rec
+dy
+irradiance
+transfers
+receiving
+volume
+interactions
+environments
+ray
+chairs
+progressive
+hierarchy
+sillion
+maxerr
+rendering
+volumes
+hanrahan
+pass
+reflectance
+sweep
+brdf
+drettakis
+interactive
+norm
+fi
+slusallek
+minutes
+dani
+ff
+kernel
+shirley
+collections
+philipp
+surface
+coarse
+visualization
+coarsely
+srcrad
+hubbard
+bounds
+tracing
+vis
+greenberg
+pueyo
+myszkowski
+stollnitz
+jittered
+radiances
+tessellated
+peter
+recomputing
+interaction
+xavier
+hans
+objects
+refinement
+hierarchies
+transferred
+walter
+funkhouser
+karol
+glossy
+gather
+donald
+occluded
+linked
+lighting
+pseudocode
+octrees
+soler
+arvo
+dk
+children
+amortization
+salesin
+christensen
+leuven
+receivers
+subdivision
+lischinski
+samples
+philippe
+differential
+importance
+conventional
+expensive
+bruce
+cyril
+africa
+seidel
+visible
+source
+alonso
+meshing
+environment
+jan
+diffuse
+casting
+mn
+coarsest
+belgium
+5d
+approximated
+eric
+accuracy
+upsilon
+franois
+weighting
+scattering
+george
+accelerating
+eurographics
+luc
+took
+grouping
+norms
+incident
+log
+summing
+accurate
+bekaert
+emissive
+howa
+arnaldi
+progressivemulti
+lightcuts
+zareski
+priol
+reichert
+lischinki
+blaise
+annen
+andaverage
+loscos
+reeth
+celeste
+speedupsover
+environmentand
+hsweep
+becauseevery
+renambot
+kadi
+subrenat
+cruder
+hubbold
+slogs
+dmitriev
+arbree
+recmax
+betweentwo
+bouatouch
+discussionson
+multigridding
+byx
+dereffye
+surfacescan
+beencomputed
+approachwas
+bretton
+patchs
+srcerr
+krawczyk
+tost
+developedby
+donikian
+erarchies
+grgory
+seidelz
+granier
+estimatevisibility
+weighted
+attains
+ff link
+initial surfaces
+hierarchical radiosity
+initial linking
+two clusters
+global illumination
+bounding volume
+local pass
+fi link
+energy transfer
+radiance function
+without clustering
+foreach patch
+ff links
+y dy
+computer graphics
+fi links
+conventional hr
+initial links
+maximum value
+l y
+source cluster
+receiving cluster
+tog v
+graphics tog
+z l
+differential area
+receiving patch
+bounding volumes
+complex environments
+two patches
+form factor
+link cost
+x y
+global visibility
+patch j
+radiosity algorithms
+radiosity algorithm
+global solution
+k r
+ray tracing
+ff bound
+energy transferred
+global pass
+actual radiance
+src rec
+source patches
+mutually visible
+large surfaces
+interactive techniques
+graphics v
+surfaces together
+level d
+guaranteed bounds
+hr algorithm
+bounding error
+hr algorithms
+source receiver
+k x
+hans peter
+p greenberg
+bruce walter
+importance driven
+two bounding
+george drettakis
+donald p
+hanrahan et
+x sillion
+receiver figure
+philipp slusallek
+techniques p
+following pseudocode
+maximum transfer
+clustering algorithm
+peter shirley
+k d
+realistic image
+peter seidel
+space complexity
+image synthesis
+clustering approach
+patch links
+receiving patches
+accurate clustering
+b rec
+rec b
+link requiring
+moderate complexity
+illumination acm
+visibility algorithms
+patches without
+volume b
+transfer of energy
+l y dy
+z l y
+number of initial
+k s x
+time and space
+graphics tog v
+transactions on graphics
+o s 2
+o s log
+k x y
+k r x
+transfer between two
+number of interactions
+hierarchy of clusters
+collections of objects
+graphics and interactive
+transactions on visualization
+source receiver figure
+bound the transfer
+link between clusters
+two bounding volumes
+foreach patch j
+visualization and computer
+computer graphics v
+number of patches
+r x y
+computing the error
+hanrahan et al
+donald p greenberg
+interactive techniques p
+value of k
+realistic image synthesis
+conference on computer
+link between two
+hans peter seidel
+values of k
+finding the maximum
+src foreach patch
+initial linking step
+requiring constant time
+illumination acm transactions
+eric j stollnitz
+dy this expression
+groups of surfaces
+pair of patches
+rec b src
+factor and visibility
+fast ray tracing
+exact radiance function
+ffl then return
+initial linking phase
+patches without clustering
+bounding volume hierarchy
+b rec b
+x y associated
+volume for use
+tracing by ray
+radiance function l
+hierarchical radiosity algorithms
+two clusters create
+parallel rendering p
+differential area around
+hubbard peter shirley
+value it attains
+bound t ffl
+environments of moderate
+j stollnitz david
+evaluating l x
+energy between two
+speedups of two
+transfer between collections
+check all pairs
+requiring linear time
+bounds on transfers
