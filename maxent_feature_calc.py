@@ -13,8 +13,8 @@ stopwords = []
 #outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
 #candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
 
-outputPath = "v600v2TrainProbsStrict.txt"#MAXENT CHANGE
-candidatesPath = "v600CandsV2Train.txt"#MAXENT CHANGE
+outputPath = "v600v2TrainProbsStrictNew.txt"#MAXENT CHANGE
+candidatesPath = "v600CandsV2-2Train.txt"#MAXENT CHANGE
 
 
 class FeatureCalculator:
@@ -191,7 +191,7 @@ def calc_train_features(train_data):
 	for fname, phrases in train_data.items():
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + "-gold.tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list)
 		for s in c.get_phrases():
@@ -241,7 +241,7 @@ def calc_test_features(test_data):
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
 
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/600test/" + file_id + ".tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/v600v2-train/" + file_id + ".tfvec")
 		phrases = test_data[fname]
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list) 
