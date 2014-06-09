@@ -1,0 +1,380 @@
+uvka
+msf
+bor
+pram
+erew
+forest
+edges
+log
+vertex
+edge
+vertices
+filter
+dead
+spanning
+lightest
+weight
+min
+qsm
+crcw
+light
+qrqw
+tree
+logarithmic
+live
+bsp
+incident
+phase
+allocation
+processor
+maxweightfpmsf
+randomized
+vc
+contracted
+trees
+processors
+invocation
+sampling
+jarnik
+maxfweight
+maxweightfk
+maxweightfp
+contracting
+probability
+depth
+prim
+oe
+graph
+chernoff
+dijkstra
+modified
+heaviest
+lightness
+connectivity
+contract
+inactive
+calls
+returns
+runs
+compaction
+recursive
+subroutine
+chong
+recursion
+discards
+heads
+poon
+guojing
+bader
+basecase
+coin
+undirected
+provably
+heavy
+gammai
+conforms
+root
+parallel
+group
+dlog
+mst
+lighter
+ramachandran
+cong
+ie
+invariants
+claim
+emulation
+discarded
+parent
+summing
+threshold
+running
+sample
+verification
+useless
+sampled
+jlj
+invocations
+graphs
+bridging
+encountered
+discard
+adjacent
+lam
+prob
+plugging
+keeps
+list
+formed
+induced
+weights
+han
+exclusive
+contention
+falls
+moravsk
+maxweightfpm
+costliest
+pettie
+metaxas
+restating
+pmsf
+seth
+maxweightfag
+emu
+windsor
+jist
+aln
+erewpram
+connexion
+chl
+adjacency
+sequential
+pointer
+inductive
+perfect
+external
+accesses
+simpler
+path
+cycle
+returned
+height
+mcd
+designates
+karger
+subcalls
+trifonov
+pointers
+subtree
+repeat
+infer
+broadcast
+inductively
+heavier
+speeded
+toss
+aaron
+achieves
+claimed
+monotonically
+removes
+retain
+memory
+adaptability
+vladimir
+ancestral
+designating
+schedule
+concurrent
+exp
+weighted
+k min
+bor uvka
+find k
+min tree
+linear work
+log n
+o log
+modified bor
+logarithmic time
+uvka step
+uvka steps
+processor allocation
+phase 1
+erew pram
+minimum spanning
+min v
+m log
+v w
+oe v
+min light
+f light
+weight v
+incident edge
+min forest
+filter forest
+o m
+expected number
+edge list
+weight incident
+minimum weight
+log 2
+live vertices
+pram algorithm
+min h
+log l
+high probability
+claim 3
+n time
+phase 2
+find msf
+light edges
+crcw pram
+weight edge
+qrqw pram
+spanning forest
+vertex v
+w h
+h c
+maxweightfpmsf v
+becomes dead
+h p
+w g
+n log
+allocation scheme
+algorithm runs
+spanning tree
+log log
+parallel algorithm
+recursive call
+running time
+root oe
+main procedure
+jarnik prim
+msf algorithm
+maxweightfp f
+sampling lemma
+min trees
+uvka b
+dijkstra jarnik
+sample edges
+lemma 3
+v c
+r log
+parallel algorithms
+provably optimal
+optimal parallel
+k o
+u v
+time o
+original graph
+k vertices
+v g
+p v
+g 0
+total work
+g f
+h f
+edge weights
+spanning trees
+edge u
+min g
+w maxweightfpmsf
+lightest k
+prob 1
+allocation steps
+multiple compaction
+maxweightfk min
+filter step
+second recursive
+steps performed
+call find
+qsm gmr97
+dlog ie
+parallel models
+prim algorithm
+bsp val90
+n gammai
+dead vertices
+initial call
+light edge
+find k min
+modified bor uvka
+k min tree
+bor uvka steps
+bor uvka step
+time and linear
+o log n
+number of edges
+log i gamma1
+k min light
+msf of g
+k min v
+runs in logarithmic
+w h p
+k min forest
+log 2 n
+log n time
+weight v w
+k min h
+log i n
+minimum weight incident
+minimum spanning forest
+weight incident edge
+o m log
+time and work
+v w g
+m log 2
+maxweightfpmsf v w
+r log n
+oe t vc
+k o log
+set of edges
+number of vertices
+edge a b
+minimum spanning tree
+log n log
+optimal parallel algorithm
+processor allocation scheme
+call to bor
+dijkstra jarnik prim
+minimum spanning trees
+edges of h
+minimum weight edge
+bor uvka b
+k min g
+algorithm for msf
+erew pram algorithm
+invocation of find
+work and space
+lemma of kkt95
+n k vertices
+call to filter
+call to find
+f light edges
+o log 3
+edges in g
+k k b
+edges in h
+log log n
+path from v
+edge u v
+o m n
+time o log
+within a constant
+v p v
+min light edge
+tree of u
+min v g
+path from oe
+f oe v
+forest of g
+th modified bor
+derived by sampling
+v becomes dead
+sampling each edge
+live vertex v
+uvka steps performed
+runs in expected
+algorithm in ckt96
+v w maxweightfpmsf
+w maxweightfpmsf v
+define an edge
+probability 1 log
+graph with o
+v to root
+jarnik prim algorithm
+already been found
+prob 1 log
+procedure of phase
+log n elements
+msf of h
+second recursive call
+maxweightfk min v
+lightest k edges
+k min trees
+log n gammai
+maxweightfp f oe
+g t log

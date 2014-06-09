@@ -1,0 +1,316 @@
+lb
+unitary
+sites
+allocation
+live
+preallocated
+instruction
+allocated
+site
+heap
+java
+incompatibility
+objects
+liveness
+escape
+memory
+compiler
+inode
+object
+thread
+incompatible
+jlex
+allinc
+ssi
+preallocation
+nodes
+throw
+raytrace
+javacup
+preallocate
+allocate
+exceptions
+compatible
+escapes
+exception
+ow
+statically
+static
+pointer
+node
+treeadd
+incg
+bisort
+jess
+instructions
+inside
+label
+instantiates
+invoked
+iterators
+olden
+mst
+mpegaudio
+rn
+benchmark
+perimeter
+coloring
+thrown
+cfgm
+typeswitch
+parinc
+threads
+eg
+health
+benchmarks
+succn
+multithreaded
+color
+jack
+interprocedural
+compositional
+program
+string
+presents
+callees
+listtostring
+filterlist
+stringbuers
+createlist
+flex
+bh
+compress
+iterator
+conservatively
+allocating
+ve
+javac
+voronoi
+exceptional
+analyses
+pointed
+programs
+execution
+vn
+allocates
+transitively
+stack
+colors
+predicated
+buer
+lang
+inlining
+store
+passed
+mit
+recognize
+code
+share
+linkedlist
+oukseh
+preallocates
+bogda
+hvn
+lexer
+kwangkeun
+instanceof
+nullpointerexception
+pnode
+incompatibilities
+escaped
+hoelzle
+stringbuffer
+detects
+return
+execute
+computes
+catch
+subtype
+precision
+analyzed
+executes
+graph
+abstraction
+callee
+succe
+callers
+parser
+lifetime
+buffer
+pairs
+beebee
+dsatur
+jdk
+ssa
+reachable
+compatibility
+cartesian
+linked
+scoped
+lifetimes
+executables
+referenced
+sigplan
+notices
+suite
+argu
+list
+specic
+register
+prefetching
+generator
+caller
+stored
+garbage
+invokes
+xed
+normally
+returned
+references
+ciency
+signicantly
+allocation sites
+unitary allocation
+allocation site
+objects allocated
+preallocated memory
+label lb
+inside nodes
+unitary sites
+parameter nodes
+object allocated
+incompatibility pairs
+call instruction
+object liveness
+invoked method
+method m
+program point
+node n
+parameter node
+allinc m
+live lb
+rn m
+liveness analysis
+compatible allocation
+e m
+escape analysis
+compatible unitary
+memory required
+memory space
+statically preallocated
+inside node
+pointer analysis
+preallocation optimization
+allocate objects
+p v
+local variable
+object allocation
+graph coloring
+java programs
+coloring algorithm
+ae m
+string buer
+incompatible allocation
+parinc m
+statically preallocate
+incompatibility graph
+heap references
+throw instruction
+java benchmark
+analysis computes
+mit flex
+memory area
+succn lb
+object pointed
+control ow
+new c
+re m
+benchmark programs
+n p
+local variables
+memory management
+one site
+new instruction
+allocated memory
+compiler generates
+memory size
+inode inode
+total unitary
+e lb
+v live
+global set
+ow graph
+node escapes
+non exceptions
+node denotes
+instruction v1
+m inode
+phi instruction
+flex compiler
+callees lb
+lb may
+invoked methods
+throw v
+ow sensitive
+store objects
+typeswitch instruction
+lb live
+perimeter power
+analysis result
+liveness information
+store instruction
+unitary allocation sites
+analysis is able
+amount of memory
+compatible allocation sites
+object liveness analysis
+sites to share
+allocated at unitary
+node n p
+n i 3
+parameter node n
+instruction from label
+n i lb
+sites as unitary
+unitary allocation site
+nodes that escape
+set of java
+n i 4
+required to execute
+able to recognize
+incompatible allocation sites
+compatible unitary allocation
+java benchmark programs
+n i 5
+allocated at one
+site is live
+nodes from p
+graph coloring algorithm
+denotes the set
+benchmarks the analysis
+preallocated memory size
+store objects allocated
+instruction at label
+cartesian product algorithm
+constraints for computing
+pre allocated memory
+live at lb
+control ow graph
+mit flex compiler
+m allinc m
+inside node n
+preallocated memory space
+incompatible with n
+set of inside
+presents the constraints
+object allocation site
+statically preallocated memory
+live lb live
+n i escapes
+pairs of compatible
+store instruction v1
+memory requirements analysis
+accurate upper bound
+object is stored
+analysis for java
+execute the program

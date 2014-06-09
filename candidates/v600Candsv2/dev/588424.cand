@@ -1,0 +1,380 @@
+entropy
+ux
+godunov
+ul
+conservation
+loc
+discontinuous
+flux
+ur
+jumps
+contractiveness
+towers
+riemann
+xt
+eo
+cfl
+laws
+rr
+rankine
+hugoniot
+uxes
+resonant
+kruzkov
+dierence
+kf
+monotonicity
+piecewise
+shock
+integral
+geometric
+hyperbolic
+kl
+monotone
+lax
+krf
+dxdt
+wendro
+kr
+tx
+coe
+subsequence
+glimm
+scheme
+proposition
+nitely
+nonstrictly
+law
+discretized
+cell
+scalar
+satisfaction
+smooth
+uniqueness
+rst
+wave
+variation
+ju
+compactness
+specically
+brger
+engquist
+tvd
+limiters
+nite
+jump
+schemes
+temple
+suspensions
+weak
+lipschitz
+tv
+osher
+shocks
+conserved
+inequality
+satised
+vl
+discretizations
+veried
+rectangle
+stagnation
+kz
+mesh
+nonnegative
+sums
+concave
+centers
+vanish
+continuity
+established
+vanishes
+proceeding
+waves
+oscillations
+inequalities
+located
+indenite
+nonpositive
+convex
+spatially
+tracking
+aligned
+front
+backward
+derivatives
+sign
+singular
+dened
+physically
+converges
+anita
+raimund
+karlsen
+herty
+quasilinear
+jdxdt
+jostein
+veerappa
+jtowers
+pankratz
+gabriella
+berres
+witham
+sead
+anbal
+sonic
+mauricio
+noelle
+tinuities
+centrifuges
+adimurthi
+dierentiation
+seplveda
+normann
+natvig
+polydisperse
+coronel
+spatial
+discontinuity
+approximations
+counterparts
+dierentiable
+tends
+fails
+culties
+invari
+staggering
+adjoined
+tartar
+siddhartha
+damp
+di
+cient
+cients
+cauchy
+stant
+entailing
+unaected
+puppo
+cent
+gowda
+contractive
+discon
+vessels
+mishra
+subsequential
+marching
+convergence
+characteristic
+neighborhood
+compact
+obscuring
+cylindrical
+xz
+dierentiating
+upwind
+nonconstant
+settling
+correction
+cells
+concavity
+diusion
+suppression
+invertibility
+numerica
+ance
+crandall
+entropy condition
+geometric entropy
+u j
+loc r
+discontinuous flux
+j 1
+conservation laws
+condition 4
+dierence scheme
+z rr
+scheme 1
+d towers
+z u
+l 1
+riemann problems
+hugoniot condition
+entropy inequalities
+entropy conditions
+ul u
+conservation law
+total variation
+initial data
+rankine hugoniot
+weak solution
+test function
+cfl condition
+kf 0
+godunov ux
+r 0
+h u
+proposition 4
+j d
+f u
+v l
+cient k
+limit solution
+entropy inequality
+kl kr
+ur u
+discrete entropy
+u n
+c 1
+left side
+piecewise c
+nite dierence
+u g
+large x
+k j
+approximations u
+ul v
+kruzkov entropy
+lax wendro
+ux function
+numerical ux
+wave entropy
+nonstrictly hyperbolic
+wendro theorem
+xt z
+nitely many
+inequality holds
+function z
+solution u
+front tracking
+second integral
+ur ul
+many jumps
+piecewise constant
+theorem 3
+v r
+solutions u
+data u
+smooth test
+coe cient
+h j
+u 0
+scalar conservation
+singular function
+u z
+constant k
+difference scheme
+k x
+right side
+g u
+compact support
+second line
+z r
+inequalities 4
+z x
+let u
+scalar riemann
+constant monotonicity
+ul krf
+resonant system
+discretized via
+discretized version
+nonnegative 2
+extend toward
+rr dxdt
+osher eo
+ux h
+established convergence
+gives xt
+integral vanishes
+stagnation point
+ju u
+scalar scheme
+type entropy
+rr z
+n remain
+eo versions
+continuity estimate
+monotone schemes
+entropy satisfaction
+possibly discontinuous
+subsequence u
+limit z
+function calculation
+monotone di
+u j 1
+entropy condition 4
+scheme 1 4
+r 0 1
+z u j
+geometric entropy condition
+loc r 0
+l 1 loc
+j d towers
+line of 4
+jumps in k
+l 1 contractiveness
+condition 4 10
+rankine hugoniot condition
+k j 1
+kf 0 k1
+hugoniot condition 4
+geometric entropy conditions
+side of 4
+j 1 0
+condition 4 11
+h j 1
+j 1 z
+condition 4 8
+proposition 4 1
+coe cient k
+h u z
+laws with discontinuous
+piecewise c 1
+theorem 3 2
+u z u
+k is constant
+smooth test function
+lax wendro theorem
+xt z rr
+inequalities 4 1
+j 1 h
+due to jumps
+discrete entropy inequality
+godunov and eo
+jump in k
+entropy inequalities 4
+constant for large
+nitely many jumps
+take the case
+r v l
+f 2 c
+g u j
+systems of conservation
+initial data u
+data u 0
+v r v
+tends to zero
+theorem 3 6
+stated in theorem
+k 2 c
+c 2 r
+case where k
+solutions of 1
+lemma 4 2
+uxes are identical
+engquist osher eo
+every smooth test
+ux is derived
+time continuity estimate
+wave entropy condition
+variation of z
+z rr z
+limit solution u
+godunov s method
+single maximum f
+requires that ur
+r h u
+z i j
+u ul krf

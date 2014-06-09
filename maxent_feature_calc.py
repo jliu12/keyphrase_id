@@ -1,6 +1,7 @@
 import nltk
 import scipy
 import numpy
+import math
 import sys #MAXENT CHANGE
 from nltk.classify import apply_features
 from nltk.corpus import stopwords
@@ -14,7 +15,7 @@ stopwords = []
 #candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
 
 outputPath = "v600v2TrainProbsStrictNew.txt"#MAXENT CHANGE
-candidatesPath = "v600CandsV2-2Train.txt"#MAXENT CHANGE
+candidatesPath = "train600cands"#MAXENT CHANGE
 
 
 class FeatureCalculator:
@@ -192,6 +193,10 @@ def calc_train_features(train_data):
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
 		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
+		for val in tfidf_list:
+			value = float(val)
+			if (value == 0):
+				print "NAAAANNNNN Train: " + str(value)
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list)
 		for s in c.get_phrases():
@@ -241,7 +246,12 @@ def calc_test_features(test_data):
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
 
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/v600v2-train/" + file_id + ".tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
+		for val in tfidf_list:
+			value = float(val)
+			if (value == 0):
+				print "NAAAANNNNN Train: " + str(value)
+
 		phrases = test_data[fname]
 		phrases = [x for x in phrases if x[0] in word_list]
 		c = FeatureCalculator(fname, phrases, tfidf_list) 

@@ -1,0 +1,308 @@
+rendezvous
+home
+nack
+remote
+ack
+request
+buffer
+protocol
+transient
+node
+asynchronous
+dsm
+protocols
+communication
+permissions
+message
+messages
+repl
+migratory
+req
+progress
+refinement
+sends
+guard
+avalanche
+lr
+guards
+cache
+inv
+gr
+msg
+requests
+receives
+pending
+pvs
+refined
+coherency
+acknowledge
+sent
+expecting
+owner
+participant
+csp
+revoke
+verification
+unfinished
+unexpected
+id
+actions
+nodes
+forward
+coherence
+nacked
+buffering
+shared
+enters
+entered
+reply
+nacks
+invalidate
+star
+multiprocessor
+row
+stanford
+rw
+goes
+atomicity
+waiting
+passive
+silberschatz
+reenters
+goto
+active
+allocations
+wishes
+wait
+efficiency
+evict
+retransmits
+flash
+revoking
+reception
+reservation
+specification
+atomic
+enabled
+internal
+dash
+assure
+ignores
+arrived
+waits
+awaits
+processes
+checked
+received
+verifying
+rules
+requester
+designers
+buckley
+read
+invalid
+retransmit
+interactions
+action
+syntactic
+refine
+response
+dotted
+primitives
+enable
+descriptive
+configuration
+responds
+eventually
+synthesize
+rows
+implementations
+implicit
+spin
+buffers
+incoming
+failed
+growing
+enter
+team
+refining
+pool
+accept
+explained
+synchronous
+interacts
+grants
+relaxing
+states
+send
+hardware
+checker
+output
+gribo
+teapot
+microcode
+mont
+appo
+revokes
+virtuall
+rach
+unrefined
+evictions
+proerpty
+invites
+restrictions
+descriptions
+reserved
+transaction
+tries
+back
+appropriately
+access
+communicating
+modest
+reflect
+aid
+executes
+aggregation
+continues
+doesn
+acknowl
+spawar
+assuring
+tantamount
+lamport
+livelock
+loosing
+chandra
+deadlocked
+evicted
+checks
+argue
+home node
+remote node
+communication state
+transient state
+asynchronous protocol
+rendezvous protocol
+remote nodes
+ack nack
+forward progress
+refinement rules
+r o
+transient states
+rendezvous communication
+progress buffer
+unexpected messages
+efficient asynchronous
+migratory protocol
+gr data
+lr data
+data r
+asynchronous protocols
+r j
+active participant
+model checked
+implicit nack
+dsm protocols
+shared line
+request reply
+buffer space
+node sends
+coherence protocols
+goes back
+id data
+star configuration
+lr message
+acknowledge messages
+data h
+h sends
+p msg
+o lr
+rendezvous protocols
+output guard
+protocol refinement
+makes progress
+generalized input
+node r
+node receives
+protocol verification
+refinement process
+makes forward
+refined using
+asynchronous communication
+refinement procedure
+cache coherence
+rule r3
+progress per
+different remote
+dsm protocol
+row c1
+h req
+inv r
+efficient cache
+buffer location
+b waiting
+goto transient
+home goes
+ack buffer
+state t3
+current owner
+row c2
+node goes
+every remote
+output guards
+dsm systems
+b remote
+protocol implementations
+cache lines
+using message
+request would
+handle unexpected
+distributed shared
+request for rendezvous
+request from r
+nack from r
+sends a request
+data r o
+receives a request
+remote node receives
+efficient asynchronous protocol
+expecting an ack
+remote node r
+makes forward progress
+o lr data
+lr data r
+requests for rendezvous
+receives a nack
+cache coherence protocols
+generalized input output
+r o lr
+enters a communication
+progress is possible
+using the refinement
+continues to wait
+communication or transient
+ack is generated
+forward progress per
+node the home
+waiting for ack
+handle unexpected messages
+home node sends
+request from home
+every remote node
+receives an ack
+r i gr
+enable a guard
+goto transient state
+one such request
+state the desired
+efficient cache coherence
+gr data r
+rendezvous is completed
+req is sent
+transient a request
+distributed shared memory
+g figure 1
+e g figure
+explained below c1
+node goes back

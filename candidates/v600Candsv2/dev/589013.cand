@@ -1,0 +1,386 @@
+qp
+fsqp
+cfsqp
+kkt
+sqp
+tilting
+ls
+qpopt
+qps
+feasible
+multipliers
+superlinear
+sufficiently
+multiplier
+slackness
+fj
+maratos
+tilted
+iterates
+sufficiency
+definite
+kd
+arc
+squares
+superlinearly
+nonlinear
+fl
+accumulation
+hessian
+panier
+hrf
+tits
+evaluations
+quadratic
+active
+lagrangian
+convergent
+descent
+complementary
+optimality
+cops
+strict
+feasibility
+convergence
+correction
+lemmas
+boundedness
+claim
+iii
+infinite
+minimax
+fh
+sequential
+iterate
+scalar
+objective
+fx
+polak
+proceeding
+qld
+positivity
+trial
+checked
+qi
+fd
+constrained
+hock
+licq
+nqp
+approached
+specifically
+index
+iteration
+bending
+schittkowski
+ji
+uniqueness
+gammaj
+contradiction
+assumptions
+affine
+globally
+mfcq
+away
+subproblems
+directions
+finely
+td
+meaningfully
+ong
+direction
+establishing
+accepted
+merit
+armijo
+scalars
+wei
+nonconvex
+tilt
+sphere
+ffl
+symmetric
+mini
+nonlinearly
+evolutionary
+negativity
+infeasibility
+claims
+complementarity
+fortran
+objectives
+constraint
+subsequence
+powell
+weaker
+straints
+equality
+differentiable
+interior
+perturbed
+resultant
+iterations
+enjoys
+readily
+tangent
+converges
+mild
+ffsqp
+schlichtmann
+starters
+ulf
+mueller
+rombouts
+multipiers
+bauwens
+meangingless
+shchokin
+positioner
+frf
+heteroskedasticity
+sharifi
+walkington
+barring
+nair
+fairer
+rawlings
+rotary
+graeb
+minfffi
+farrokh
+hafner
+cardoze
+janabi
+alls
+titled
+tenny
+veinott
+ssosc
+helmut
+lum
+bzier
+borys
+sip
+zhibin
+sav
+minfkdk
+dudy
+topkis
+sawpath
+update
+establish
+lim
+perturbation
+satisfied
+labeled
+affecting
+computationally
+binding
+contradicts
+tucker
+obser
+noel
+x h
+kkt point
+fsqp 0
+suppose assumptions
+algorithm fsqp
+assumptions 1
+qp x
+k g
+h j
+infinite index
+d c
+sqp direction
+sufficiently large
+k sufficiently
+ls e
+arc search
+d 0
+d x
+g k2k
+fj k
+d k
+j 0
+d e
+positive definite
+gamma 0
+c k
+index set
+feasible iterates
+j k
+ls c
+qp 0
+assumption 3
+fl x
+sequential quadratic
+symmetric positive
+k gamma
+superlinear convergence
+multiplier vector
+quadratic programming
+complementary slackness
+x k
+h k
+full step
+order sufficiency
+least squares
+tilted sqp
+strict complementary
+linear least
+k large
+optimality conditions
+assumption 2
+kkt points
+fx k
+sufficiency conditions
+nonlinear programming
+assumption 4
+second order
+search direction
+g j
+e k
+correction d
+constrained qp
+qp c
+lemmas 17
+large d
+feasible sqp
+tilting parameter
+d fl
+function evaluations
+convergence properties
+point x
+feasible direction
+inequality constrained
+solution d
+direction d
+well defined
+weaker assumptions
+line search
+lemma 17
+set k
+iteration k
+squares problem
+k k
+lemma 12
+sqp algorithms
+fh k
+lemma 13
+active constraints
+local convergence
+parameter j
+first constraint
+superlinearly convergent
+active set
+c j
+unique solution
+first claim
+update rule
+theta r
+feasible sequential
+qp constraint
+hrf x
+o kd
+maratos correction
+true sqp
+qp iterations
+denoted d
+generating feasible
+affine constraints
+readily checked
+trial point
+sequence fx
+assumption 5
+lemma 2
+large enough
+order information
+feasible directions
+fd k
+generate feasible
+feasible descent
+h symmetric
+standard sqp
+bounded away
+x h j
+suppose assumptions 1
+qp x h
+d x h
+algorithm fsqp 0
+assumptions 1 2
+infinite index set
+view of lemma
+point for p
+k sufficiently large
+fj k g
+fl x h
+d c k
+k g k2k
+symmetric positive definite
+step of one
+solution of qp
+index set k
+sequential quadratic programming
+view of assumption
+linear least squares
+k large enough
+second order sufficiency
+d e k
+k gamma 0
+strict complementary slackness
+fx k g
+order sufficiency conditions
+d 0 x
+k 2 k
+qp 0 x
+d k gamma
+step 3 iii
+correction d c
+x 2 x
+exists a multiplier
+least squares problem
+f k g
+fh k g
+k 0 k
+optimality conditions 2
+sequence fx k
+local convergence properties
+proof in view
+j is linearly
+constraint in qp
+stop in step
+sqp direction d
+bounded on k
+sufficiently large thus
+iii of algorithm
+points for p
+feasible sequential quadratic
+panier and tits
+h symmetric positive
+true sqp direction
+set d c
+implementation of fsqp
+qi and wei
+hold then given
+ji x j
+points are kkt
+feasible descent direction
+direction d 0
+fsqp 0 generates
+sufficiently large d
+conditions with strict
+second order information
+k k k
+order to guarantee
+solution is approached
+generate feasible iterates
+proceeding by contradiction
+fd k g
+set k 0
+locally superlinearly convergent
+k is bounded
+equation in 2
+x in x
+follows from lemma
+order to generate
+c k 1

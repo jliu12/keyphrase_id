@@ -1,0 +1,368 @@
+coalescing
+live
+register
+bits
+miw
+interference
+packing
+registers
+trailing
+bit
+bitwidth
+dead
+thres
+subword
+ranges
+coalesced
+width
+emiw
+bitwidths
+adpcm
+zbs
+emin
+sv
+packed
+widths
+eb
+eint
+allocation
+ea
+labels
+nouse
+arm
+node
+instruction
+coloring
+declared
+ec
+leading
+referencing
+motiontest
+bubblesort
+bitwise
+unpacking
+interfering
+ba
+embedded
+newlife
+coder
+homogen
+edge
+graph
+nodes
+processors
+fig
+coalesce
+decoder
+allocator
+oc
+labelling
+inbuffer
+dbsout
+intraregister
+superword
+encodelastquantum
+code
+ab
+dh
+opportunities
+dbs
+upon
+word
+cliques
+chromatic
+jrj
+bin
+sized
+aimed
+char
+histogram
+simd
+quantize
+colors
+program
+multimedia
+safe
+memo
+priority
+crc
+imprecision
+elseif
+emanating
+cab
+nc
+backward
+label
+aware
+items
+compiler
+narrow
+statement
+bitvalue
+coalesces
+hindering
+bsa
+netbench
+emax
+coalesing
+straightline
+unsigned
+mediabench
+spilling
+zbsout
+intravariable
+clique
+instructions
+prioritized
+clip
+shapes
+abc
+lr
+fragments
+wv
+processor
+moves
+reside
+fragment
+intermediate
+enhanced
+sections
+requirements
+edges
+contiguous
+referring
+labelled
+benchmark
+analyses
+allocated
+cd
+compile
+scanning
+shift
+portland
+colorable
+silicon
+conservative
+flow
+conservatively
+operands
+gupta
+benchmarks
+carry
+forward
+parallelism
+carrying
+overlap
+oregon
+exit
+color
+relational
+join
+compression
+np
+ccr
+ac
+declaration
+compiling
+ve
+ignores
+carried
+network
+statements
+colored
+bc
+memory
+transformed
+examining
+missed
+occupied
+achieving
+assigns
+exploiting
+situations
+bidwidth
+stephenson
+ister
+alescing
+bit sections
+live range
+live ranges
+interference graph
+bit section
+last use
+zero bit
+register allocation
+node coalescing
+program point
+register requirements
+variable packing
+dead bit
+interference width
+maximum interference
+trailing zero
+b c
+range construction
+zero bits
+variable v
+single register
+coalescing operations
+l leading
+edge labels
+leading zero
+sv v
+ea eb
+section referencing
+nouse sv
+sections analysis
+intermediate value
+based upon
+d 4
+program points
+graph coloring
+instruction set
+dead bits
+multiple subword
+two live
+embedded processors
+miw lr1
+safe estimate
+range coalescing
+subword variables
+narrow width
+n v
+thres homogen
+section analysis
+subword data
+iterative coalescing
+bitwidth aware
+motiontest main
+adpcm decoder
+sections within
+interfering nodes
+leading bits
+network processor
+register allocator
+adpcm coder
+embedded applications
+instruction sets
+one register
+explicitly referring
+two registers
+c d
+value theorem
+point p
+code fragment
+chromatic number
+thres clip
+thres coalesce
+elseif n
+large cliques
+network processors
+allocation algorithm
+emin miw
+relevant program
+aware register
+width greater
+statement sv
+global register
+sized variables
+bitwidth analysis
+thres memo
+newlife main
+coder g721
+trailing dead
+node list
+network processing
+ac ca
+edges emanating
+trailing bit
+packing multiple
+register without
+subword sized
+traditional register
+range analysis
+histogram main
+packed variables
+program variable
+ve constant
+oc algorithm
+coalescing algorithm
+packed data
+coalesce thres
+combined width
+dh encodelastquantum
+zero bit sections
+miw a b
+leading and trailing
+dead bit sections
+bits of v
+d 4 0
+maximum interference width
+live range construction
+zbs in n
+bit section referencing
+nouse sv v
+bit sections analysis
+trailing zero bit
+eb and ec
+c d 4
+intermediate value theorem
+two live ranges
+live range coalescing
+miw lr1 lr2
+number of registers
+shown in fig
+bit section analysis
+bit sections within
+l leading bits
+emiw a b
+leading zero bits
+b c d
+without explicitly referring
+b and c
+bin packing problem
+number of nodes
+reduces the number
+emiw lr1 lr2
+coalescing is np
+adpcm coder g721
+bitwidth aware register
+v s live
+coalesce thres homogen
+bits in v
+w d w
+packing and unpacking
+computed without explicitly
+trailing dead bit
+estimate for miw
+thres coalesce thres
+global register allocation
+trailing zero bits
+enhanced interference graph
+edge ab c
+value range analysis
+fast and highly
+interference graph representation
+variable packing algorithm
+subset of bits
+aware register allocation
+register allocation algorithm
+program point p
+subword sized variables
+forward and backward
+operations is bounded
+number of bits
+graph the shapes
+backward data flow
+least l leading
+improvements to graph
+analysis with application
+range construction algorithm
+network processing applications
+extension of arm
+compiling for simd
+imprecision is introduced
+ranges to l
+b 0x80 11
+representation for bit
+n is zbs

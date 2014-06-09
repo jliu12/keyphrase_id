@@ -1,0 +1,324 @@
+processors
+speedup
+processor
+blocks
+preconditioner
+newton
+solver
+3d
+eos
+subsurface
+grid
+external
+jacobian
+exchangeexternal
+cray
+2d
+mpi
+solv
+border
+super
+partitioning
+block
+routine
+ilut
+cycit
+routines
+nuclear
+spent
+yucca
+elmroth
+rec
+noel
+preconditioning
+iterations
+iter
+variations
+factorization
+heat
+execution
+serial
+metis
+jacobi
+simulations
+breakup
+reservoir
+mountain
+connections
+vk
+ding
+lin
+waste
+computations
+volume
+parallel
+geothermal
+aztec
+remediation
+flow
+cessors
+seconds
+interface
+stepping
+subdomains
+unstructured
+ierr
+nonblocking
+decreased
+energy
+multiphase
+communication
+internal
+increased
+bicgstab
+overlapping
+imbalance
+reordering
+solvers
+doubling
+package
+lu
+fortran
+wu
+maxiter
+dvbr
+groundwater
+comm
+slen
+thermophysical
+crs
+sendindex
+per
+neighbors
+marked
+discretization
+coupled
+mass
+sent
+excluding
+req
+converged
+ume
+environmental
+proc
+fluid
+lawrence
+preconditioners
+decomposition
+berkeley
+wall
+format
+iw
+chosing
+nersc
+neighboring
+num
+exchange
+reordered
+site
+explains
+vars
+assembly
+office
+incomplete
+nm
+clock
+water
+transport
+ideal
+sinks
+scaling
+laboratory
+minutes
+theta
+software
+boeing
+update
+initialization
+harwell
+couple
+simulation
+bi
+topmost
+deltat
+gas
+ill
+conditioned
+stored
+tests
+solved
+consumes
+doubled
+message
+discretized
+balance
+precede
+pack
+numbering
+vital
+subdomain
+differentiation
+loops
+efficiently
+increments
+speedups
+sending
+portable
+tag
+par
+consecutively
+explanations
+phase
+prototype
+sink
+linear solver
+3d problem
+2d problem
+cray t3e
+grid blocks
+jacobian matrix
+time step
+super linear
+parallel implementation
+external blocks
+grid block
+execution time
+linear speedup
+newton iterations
+jacobi scaling
+lin solv
+processor 0
+parallel performance
+decomposition based
+domain decomposition
+based preconditioner
+update set
+grid partitioning
+performance computations
+block jacobi
+time steps
+subsurface simulations
+external elements
+nuclear waste
+per block
+partitioning algorithms
+newton step
+linear system
+newton iteration
+elements corresponding
+time spent
+ilut factorization
+per linear
+elmroth ding
+yucca mountain
+equations per
+external grid
+one part
+linear systems
+per processor
+serial version
+real application
+communication volume
+efficiently use
+elements per
+border blocks
+solv iter
+k rec
+eos routines
+internal blocks
+high performance
+table ii
+time discretization
+partitioning algorithm
+balance equations
+good parallel
+ideal speedup
+zero elements
+pro cessors
+iter time
+incomplete lu
+theta 3
+k way
+software package
+application problems
+linear solvers
+time stepping
+main loops
+vk way
+contribution presents
+newton converged
+border set
+primary variables
+routine cycit
+unstructured nature
+energy balance
+environmental remediation
+vector elements
+different linear
+call mpi
+blocks assigned
+geothermal reservoir
+solver excluding
+heat flow
+per external
+eos routine
+block row
+iterations per
+increased number
+rec rec
+computation ratio
+processors execution
+parallel speedup
+solved using
+total time
+number of processors
+super linear speedup
+domain decomposition based
+decomposition based preconditioner
+block jacobi scaling
+high performance computations
+cray t3e 900
+number of external
+computations for subsurface
+ding and wu
+per linear system
+number of iterations
+number of time
+non zero elements
+seconds i e
+iter time step
+version of tough2
+equations per block
+good parallel performance
+real application problems
+lin solv iter
+spent on preconditioning
+theta 3 block
+number of equations
+2d and 3d
+amount of work
+processors is increased
+fluid and heat
+external grid block
+doubling the number
+linear solver excluding
+elements per processor
+external elements per
+iterations and iterations
+updated by processor
+energy balance equations
+border and external
+per external grid
+speedup is defined
+iterations per linear
+presents the design
+mass and energy
+different linear solvers
+incomplete lu factorization
+solving the linear
+ability to efficiently
+communication to computation
+vectors with elements
+lawrence berkeley national
+berkeley national laboratory
+number of newton

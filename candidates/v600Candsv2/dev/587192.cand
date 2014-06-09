@@ -1,0 +1,381 @@
+multigrid
+gmres
+smoothing
+grid
+helmholtz
+coarse
+fgmres
+wave
+jacobi
+eigenvalues
+damped
+fine
+kh
+grids
+mesh
+mg
+modes
+correction
+standalone
+smoothers
+damping
+oscillatory
+coarser
+smoother
+outer
+residual
+amplification
+coarsening
+counts
+krylov
+levels
+indefinite
+preconditioner
+dirichlet
+amplified
+stopping
+coarsest
+mode
+smoothest
+scattering
+wavelength
+finest
+radiation
+smooth
+exterior
+sign
+schedule
+preconditioned
+smoothings
+cycle
+boundary
+schedules
+iteration
+elliptic
+eigenvalue
+neumann
+coarsened
+theta
+meshes
+subspace
+discretization
+eigenfunctions
+relaxation
+criterion
+mmax
+eigenvectors
+ray
+phi
+operator
+iterations
+discretizations
+preconditioning
+accelerated
+definite
+laplacian
+ellipse
+absorbing
+difficulties
+bilinear
+multilevel
+fv
+waves
+indices
+unstable
+mitigates
+postsmoothing
+cascadic
+undergo
+endif
+omega
+differential
+harmonic
+galerkin
+sin
+brandt
+sommerfeld
+gau
+differences
+coefficient
+automated
+acceleration
+troublesome
+randn
+corrections
+propagation
+cube
+stand
+interpolation
+mass
+mildly
+incident
+obstacle
+problematic
+nonsymmetric
+deficiencies
+plane
+sufficiently
+dimensionality
+regularizing
+effectiveness
+nonsingular
+spaces
+arnoldi
+preconditioners
+orthonormal
+intermediate
+diverge
+seidel
+hm
+alone
+conjugate
+axis
+discrete
+observations
+imposed
+contour
+dash
+pronounced
+converge
+robust
+tuning
+orthant
+dimensions
+refinement
+effective
+guess
+remedy
+imaginary
+inner
+entry
+wrong
+correspondingly
+scatterer
+amplifying
+stabilised
+kaczmarz
+spltting
+pileggi
+mandel
+polarized
+discretisations
+livshits
+eigenstructure
+dtn
+omax
+asan
+aebk
+inhomogeneity
+mirela
+damps
+gammaindependent
+aum
+unattenuated
+coordinate
+lim
+counterparts
+eigenvector
+iterative
+unknowns
+complementary
+cos
+tuned
+em
+divergence
+growth
+undamped
+coarseness
+nonselfadjoint
+nnk
+indefiniteness
+cy
+gmres smoothing
+coarse grid
+grid correction
+fine grid
+smoothing steps
+damped jacobi
+jacobi smoothing
+wave numbers
+wave number
+helmholtz equation
+smoothing schedule
+stopping criterion
+levels smoothing
+outer iteration
+iteration counts
+v cycle
+sign changes
+mg gmres
+smoothing schedules
+theta 128
+v h
+standalone multigrid
+smooth mode
+mg fgmres
+finite element
+krylov subspace
+standard multigrid
+direct solve
+subspace iteration
+residual section
+next coarser
+gmres mg
+automated stopping
+theta 256
+multigrid algorithms
+j j
+boundary condition
+error components
+grid levels
+schedule mg
+oscillatory modes
+multigrid method
+mesh size
+finite elements
+coarsest grid
+theta 512
+preconditioned fgmres
+number k
+finite differences
+negative eigenvalues
+helmholtz operator
+jacobi relaxation
+helmholtz problem
+amplification factor
+helmholtz problems
+coarse grids
+schedule iterations
+multigrid methods
+table iteration
+multigrid v
+operation counts
+boundary gamma
+coarse levels
+linear finite
+table 3
+boundary value
+boundary conditions
+model problem
+multigrid algorithm
+dirichlet problem
+one dimensional
+dimensional problem
+negative definite
+two dimensional
+coarse meshes
+radiation condition
+grid residual
+standard smoothers
+basis phi
+smooth modes
+coarser mesh
+per wavelength
+dimensional helmholtz
+hand tuning
+oscillatory error
+discrete helmholtz
+mg preconditioned
+grid eigenfunctions
+exact coarse
+smoothest mode
+fv h
+scattering problem
+fine enough
+exterior scattering
+gmres accelerated
+alone multigrid
+finest mesh
+error propagation
+elliptic boundary
+dirichlet boundary
+stand alone
+element spaces
+jacobi smoother
+coarser grid
+outer fgmres
+h independent
+coarsening process
+plane wave
+finest level
+absorbing boundary
+d dimensions
+propagation operator
+indefinite elliptic
+fine grids
+l 2
+gmres iteration
+sign change
+definite case
+indefinite problems
+coarse grid correction
+gmres smoothing steps
+levels smoothing schedule
+damped jacobi smoothing
+wave number k
+mg gmres mg
+krylov subspace iteration
+automated stopping criterion
+gmres mg gmres
+number of gmres
+smoothing schedule mg
+schedule mg fgmres
+number of negative
+smoothing is used
+damped jacobi relaxation
+table iteration counts
+grid levels smoothing
+number of sign
+theta 512 9
+theta 256 levels
+theta 128 7
+smoothing schedule iterations
+mesh is coarsened
+multigrid v cycle
+one dimensional problem
+elliptic boundary value
+finite element spaces
+oscillatory error components
+outer iteration counts
+mg preconditioned fgmres
+exterior scattering problem
+exact coarse grid
+l 2 sections
+operator a h
+stand alone multigrid
+smoothing to obtain
+standard multigrid methods
+error propagation operator
+number of levels
+dirichlet boundary conditions
+linear finite elements
+boundary value problems
+finite element discretizations
+table 3 4
+number of iterations
+symmetric positive definite
+number of eigenvalues
+section 2 1
+optimal smoothing schedules
+per wavelength still
+numbers as large
+section stopping criterion
+h independent number
+grid residual equation
+levels mg gmres
+using linear finite
+unstable jacobi smoother
+j j 20
+dimensional model helmholtz
+problem is indefinite
+theta i h
+schedule iterations 512
+damped jacobi iteration
+depends relatively mildly
+standard multigrid algorithms
+eigenfunctions fv h
+leads to smoothing
+undergo a sign
+operator i h
+h 1 elliptic
+mode is damped
