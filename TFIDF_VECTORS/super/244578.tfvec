@@ -1,0 +1,17 @@
+reliability:0.000376901742066
+replicated processing:0.00203312474298
+replica:0.00240243870837
+intra node communication:0.00203331536034
+overheads:0.00191184489758
+redundancy management:0.003837978507
+sequoia:0.00135528944091
+order protocol:0.0178253459999
+sangiovanni:0.00105301295419
+one performance failure:0.00234245532301
+hardware implemented nodes:0.00234245532301
+output delay:0.00271083299064
+message received:0.0022831282139
+replicated:0.00394071198267
+appropriate dmq:0.00371361374998
+valid messages:0.00745479072426
+failure masking node:0.00312327376402

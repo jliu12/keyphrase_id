@@ -1,0 +1,12 @@
+parallel preconditioning:0.000947848370233
+domain decomposition:0.00640345192937
+schur complement techniques:0.0108141009469
+neighboring:0.000726317318662
+solve:0.0008839786742
+schur complement system:0.0210667020811
+preconditioned gmres:0.00260628789125
+hachiya:0.00117298618819
+primary:0.0011541823748
+masha:0.00106039936249
+iterative:0.00306248345826
+internal:0.000939033578364

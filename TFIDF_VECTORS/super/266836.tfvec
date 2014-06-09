@@ -1,0 +1,40 @@
+optimization:0.00158503035298
+data flow analysis:0.00734762869539
+code optimization:0.00272756364802
+aggressive code motion:0.000993082814483
+data flow algorithms:0.00198616562897
+functional unit resources:0.00198616562897
+instruction reordering:0.000887408781682
+instruction schedulers:0.00282056725626
+partial redundancy elimination:0.00470155689243
+resource availability:0.0121537607645
+identifying paths:0.0041215365193
+execution:0.000837624917539
+sinking framework:0.0041215365193
+profiles:0.00511119601701
+unioning:0.00282638335686
+program points:0.00343272418826
+available at n:0.00794466251586
+antici:0.00094006682416
+predication enabled sinking:0.00649964320376
+based hoisting:0.00515192064912
+anticipability:0.000849836316127
+expression e:0.00410664800957
+n is determined:0.00325029931767
+predicated:0.00108452067007
+patability:0.00094006682416
+gammarants:0.00188013364832
+locally free:0.00721268890877
+code hoisting:0.0123646095579
+identifies:0.00216581484871
+infrequently executed:0.00443704390841
+unoptimized program:0.00309115238947
+suppression:0.0011109326459
+partially dead:0.00721268890877
+predicated:0.00108452067007
+optimizations:0.00245045785644
+sink ing:0.00309115238947
+cost benefit:0.00880781896045
+frequently:0.00119337190465
+availability analysis:0.0101993621085
+unioning:0.00282638335686

@@ -263,9 +263,9 @@ def main():
 	global corpusPathRoot
 	global mapPath
 
-	corpusPath = sys.argv[2] 
-	corpusPathRoot = sys.argv[2] + "/"
-	printPath = "TFIDF_VECTORS/600train/" 
+	corpusPath = sys.argv[1] 
+	corpusPathRoot = sys.argv[1] + "/"
+	printPath = "TFIDF_VECTORS/super/" 
 	mapPath = "TFIDF_SCORE_TABLES/"
 	print("corpus path is: " + corpusPath)
 	print("printing results to: " + printPath)
