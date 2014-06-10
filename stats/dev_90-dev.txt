@@ -1,0 +1,9 @@
+train.info, threshold 90, run on v600CandsV2Dev.txt with results in devClassifyResults.txt
+==================
+overall scores:
+Average Precision 0.0735241004333
+Average Recall 0.408107278724
+Average F1: 0.120255220604
+F1 of Avg P and R: 0.12460035557
+
+

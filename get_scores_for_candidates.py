@@ -265,8 +265,8 @@ def main():
 
 	corpusPath = sys.argv[1] 
 	corpusPathRoot = sys.argv[1] + "/"
-	printPath = "TFIDF_VECTORS/v600v2-test/" 
-	mapPath = "TFIDF_SCORE_TABLES/"
+	printPath = "TFIDF_VECTORS/dev/" 
+	mapPath = "TFIDF_SCORE_TABLES/dev/"
 	print("corpus path is: " + corpusPath)
 	print("printing results to: " + printPath)
 	get_tfidf_scores()

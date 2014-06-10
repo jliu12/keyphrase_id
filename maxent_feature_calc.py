@@ -14,8 +14,8 @@ stopwords = []
 #outputPath = "v600TrainMaxentFullFeatureSet.txt"#MAXENT CHANGE
 #candidatesPath = "v600CandsTrain.txt"#MAXENT CHANGE
 
-outputPath = "v600v2TrainProbsStrictNew.txt"#MAXENT CHANGE
-candidatesPath = "train600cands"#MAXENT CHANGE
+outputPath = "devClassifyNormalinfo.txt"#MAXENT CHANGE
+candidatesPath = "v600CandsV2Dev.txt"#MAXENT CHANGE
 
 
 class FeatureCalculator:
@@ -122,11 +122,11 @@ class FeatureCalculator:
 		tfidf = self.ft_tfidf(candidate)
 		feature_dict.update(tfidf)
 
-		stopword_start = self.ft_stopword_start(candidate)
+		'''stopword_start = self.ft_stopword_start(candidate)
 		feature_dict.update(stopword_start)
 
 		stopword_end = self.ft_stopword_end(candidate)
-		feature_dict.update(stopword_end)
+		feature_dict.update(stopword_end)'''
 		
 		return feature_dict
 
@@ -223,7 +223,7 @@ def run_classifier(classifier, featureset):
 	for s in featureset:
 		feat = s[2]
 		result = classifier.prob_classify(feat[0])
-		if (result.prob("yes") > .9):
+		if (result.prob("yes") > .60):
 			#print formatted result
 			if cur_filename == "":
 				cur_filename = s[0]
@@ -246,7 +246,7 @@ def calc_test_features(test_data):
 		file_id_index = fname.rfind("/")
 		file_id = (fname[file_id_index+1:])[0:-4]
 
-		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/" + file_id + ".tfvec")
+		tfidf_list, word_list = get_tfidf_vector("TFIDF_VECTORS/dev/" + file_id + ".tfvec")
 		for val in tfidf_list:
 			value = float(val)
 			if (value == 0):
@@ -285,7 +285,7 @@ def main():
 	classifier = maxent.MaxentClassifier.train(train_featureset, algorithm='iis', bernoulli=False, encoding=encoding, trace=3)#MAXENT CHANGE
 	classifier.show_most_informative_features(n=20, show='all')
 	#classifier.explain(train_featureset, columns=4)
-	#run_classifier(classifier, test_featureset)
+	run_classifier(classifier, test_featureset)
 
 
 if __name__ == "__main__":
